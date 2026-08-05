@@ -1,0 +1,20 @@
+examples
+claurst
+node_modules/
+frontend/dist/
+.env
+backend/dist/
+
+# O estado do vigia, que e local a cada maquina que o roda.
+.vigia-estado
+.vigia-estado.dia
+
+# As imagens capturadas em desenvolvimento; na VPS elas ficam num volume.
+media/
+app/build/*
+app/dist/*
+release/*
+
+# Os pacotes do scripts/empacotar.py, que ele grava aqui na raiz. Sem esta
+# linha o git os listaria, e o pacote de hoje entraria dentro do de amanhã.
+iteramnese-*.zip
