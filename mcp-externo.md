@@ -7,6 +7,9 @@ script seu. O que muda em relação ao coach da tela é quem paga e quem manda: 
 modelo passa a ser o da assinatura de quem se conectou, e a sua chave da
 OpenRouter fica fora do caminho.
 
+Este documento é o passo a passo dessa ligação. Quem quiser o texto que faz o
+cliente externo se comportar como o coach encontra em
+[Claude_mcp.md](Claude_mcp.md).
 
 ## As duas coisas que o cliente precisa
 
@@ -89,38 +92,64 @@ percorrer as ferramentas com duas contas.
 
 ## O que fica disponível
 
-As doze ferramentas, todas escopadas no dono do token. Sete leem o acervo:
+Todas as ferramentas, sempre escopadas no dono do token. Nove leem o acervo:
 
 | Ferramenta | O que devolve |
 |---|---|
-| `get_performance_stats` | `overall`, `byExam`, `byTag`, `byDifficulty` e `weakSpots`. Sem parâmetros. |
+| `get_performance_stats` | `geral`, `porProva`, `porTema`, `porDificuldade` e `fracas`, com o topo de cada lista. `secao` e `limite` abrem o resto. |
+| `analise_de_tema` | Um tema inteiro: aproveitamento, índice dos erros e o que foi errado mais de uma vez. |
+| `sugerir_material` | O que ainda não virou material: os temas ordenados pelo que falta escrever, e as questões erradas sem cartão nem questão inédita. |
 | `list_exams` | As provas capturadas, com data e placar. Pagina por `cursor`. |
-| `get_exam` | Uma prova e todas as questões dela, em texto limpo. |
-| `list_questions` | Filtra por `examId`, `result`, `tag`, `difficulty`, `institution`. |
-| `get_question` | A questão inteira: alternativas, comentário de cada uma, gabarito, marcada, `percent`, tags. |
-| `get_question_history` | As tentativas da mesma questão, pelo `questionKey`. |
+| `get_exam` | O índice de uma prova: uma linha por questão, com o começo do enunciado. |
+| `list_questions` | O mesmo índice, filtrando por `examId`, `result`, `tag`, `difficulty`, `institution`. |
+| `get_question` | A questão inteira: alternativas, comentário de cada uma, gabarito, marcada, percentual, temas. Aceita `questionIds`, até dez. |
+| `get_question_history` | As tentativas da mesma questão, pelo `questionId`. |
 | `search_questions` | Busca full-text, com a sintaxe de um buscador comum. |
 
-E cinco mexem nas memórias: `memory_list`, `memory_read`, `memory_create`,
-`memory_update` e `memory_delete`.
+Seis são dos flashcards (`list_tags`, `flashcard_create`, `flashcard_list`,
+`flashcard_update`, `flashcard_delete`, `flashcard_stats`), seis são das questões
+inéditas do IterQuestões (`iterq_status`, `iterq_create`, `iterq_list`,
+`iterq_get`, `iterq_update`, `iterq_delete`), e cinco mexem nas memórias
+(`memory_list`, `memory_read`, `memory_create`, `memory_update`,
+`memory_delete`).
 
-Três detalhes que evitam surpresa:
+Seis detalhes que evitam surpresa:
 
 - **As de memória escrevem nas mesmas linhas que o coach usa**, inclusive a
   `main`. Uma sessão externa distraída reescreve o que ele diagnosticou, e não
   há desfazer.
+- **O que sai daqui é índice, e não conteúdo.** As listagens trazem o
+  identificador e o começo do enunciado; o texto inteiro e os comentários vêm de
+  `get_question`. É o que permite pedir uma prova de cem questões sem encher a
+  janela do cliente.
+- **Lista homogênea volta tabular**, como `colunas` mais `linhas`, e campo vazio
+  não é escrito. Um cliente que espere um objeto por registro precisa remontar.
 - **`includeHtml` é opt-in por um motivo.** O HTML íntegro carrega as imagens
   remontadas como `data:` URI e chega a megabytes.
-- **`list_questions` e `search_questions` paginam.** Elas devolvem `nextCursor`,
+- **`get_exam`, `list_questions` e `search_questions` paginam.** Elas devolvem `nextCursor`,
   e concluir a partir de meia lista é o erro mais fácil de cometer aqui.
+- **As do IterQuestões escrevem no que o aluno vai resolver.** A questão gravada
+  por `iterq_create` entra na fila da aba Treinar e volta por meses, então
+  gabarito errado e feedback preguiçoso duram muito mais que a conversa. O
+  servidor confere o que dá para conferir (cinco alternativas, uma correta,
+  cinco feedbacks, tema do vocabulário do aluno, nível entre os três que
+  existem, e a paráfrase da questão de origem), e recusa questão por questão,
+  sem derrubar o lote. Os três níveis são média, difícil e extremamente difícil:
+  não há "fácil", e a ausência é a decisão.
 
 ## O que não fica disponível
 
 O ciclo da sessão não passa pelo MCP. O `started` e o `finished` de
 `chat_sessions` pertencem às rotas de conversa da interface, e o cliente externo
 não os alcança: para ele, encerrar uma sessão é escrever as memórias do fecho, e
-mais nada. Os quatro atalhos, os tetos de gasto e o `SEED_LLM.md` também ficam
-do lado de dentro, porque são do laço do coach, e o laço não roda aqui.
+mais nada. Os cinco atalhos, os tetos de gasto e o `SEED_LLM.md` também ficam do
+lado de dentro, porque são do laço do coach, e o laço não roda aqui.
+
+A fila do IterQuestões também não sai daqui. As ferramentas gravam, listam,
+reescrevem e apagam questão; quem monta o simulado do dia, corrige a resposta e
+guarda o log é a aba Treinar, pelas rotas da interface. É a mesma separação dos
+flashcards, e pelo mesmo motivo: quem responde está na tela, e o que a tela
+recebe não pode trazer o gabarito junto.
 
 ## O que pode dar errado
 
@@ -132,3 +161,7 @@ do lado de dentro, porque são do laço do coach, e o laço não roda aqui.
 | 429 por dez minutos | vinte recusas do mesmo endereço. Adivinhar um token de 32 bytes é impossível, encher o banco de consultas tentando não é. |
 | A captura parou de funcionar | a rotação trocou o `itc_` junto. Reconfigure o userscript. |
 
+Vale lembrar o preço de guardar o token num arquivo de configuração: ele fica em
+texto claro na máquina onde está o cliente. Quem tem esse arquivo lê o acervo
+inteiro daquela conta e escreve nas memórias dela. Se ele vazar, a saída é
+trocar os segredos na tela de configuração, que mata o anterior na hora.
