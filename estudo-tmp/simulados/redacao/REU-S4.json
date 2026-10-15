@@ -7,25 +7,25 @@
     "arma": "Rótulo verdadeiro",
     "comando": "diagnóstico",
     "nivel": "extremamente difícil",
-    "enunciado": "Mulher de 66 anos tem artrite reumatoide soropositiva há 14 anos, erosiva, controlada com metotrexato 15 mg/semana e ácido fólico. Há 6 meses teve duas pneumonias e, há 2 meses, úlcera em perna. Exame físico: sinovite discreta em 2 metacarpofalângicas, nódulos reumatoides em cotovelos, baço palpável a 3 cm do rebordo costal, sem linfonodomegalias. Exames: Hb 11,2 g/dL, leucócitos 5.600/mm³ com neutrófilos 400/mm³ e linfócitos 4.800/mm³, plaquetas 190.000/mm³, VCM 92 fL. Esfregaço de sangue periférico: linfócitos grandes com citoplasma abundante e grânulos azurófilos. Citometria de fluxo: população CD3+, CD8+, CD57+ e CD16+ expandida, com rearranjo clonal do receptor de célula T. Vitamina B12 e folato normais. O diagnóstico mais provável é:",
+    "enunciado": "Homem de 66 anos tem artrite reumatoide soropositiva há 14 anos, erosiva, controlada com metotrexato 15 mg/semana e ácido fólico. Há 6 meses teve duas pneumonias e, há 2 meses, úlcera em perna. Exame físico: sinovite discreta em 2 metacarpofalângicas, nódulos reumatoides em cotovelos, baço palpável a 3 cm do rebordo costal, sem linfonodomegalias. Exames: Hb 11,2 g/dL, leucócitos 5.600/mm³ com neutrófilos 400/mm³ e linfócitos 4.800/mm³, plaquetas 190.000/mm³, VCM 92 fL. Citometria de fluxo: população CD3+, CD8+, CD57+ e CD16+ expandida, com rearranjo clonal do receptor de célula T. Vitamina B12 e folato normais. O diagnóstico mais provável é:",
     "alternativas": {
-      "A": "Síndrome de Felty",
-      "B": "Neutropenia por metotrexato",
+      "A": "Neutropenia por metotrexato",
+      "B": "Leucemia linfocítica crônica",
       "C": "Leucemia de linfócitos grandes granulares T",
-      "D": "Leucemia linfocítica crônica"
+      "D": "Síndrome de Felty"
     },
     "gabarito": "C",
-    "armadilha": "A",
+    "armadilha": "D",
     "dado_decisivo": "com rearranjo clonal do receptor de célula T",
-    "resolucao": "Artrite reumatoide antiga, nodular e soropositiva com neutropenia, esplenomegalia, infecções e úlcera de perna é a definição de Felty, e esse rótulo é verdadeiro e tentador. O que a Felty não explica é o leucograma: o total de leucócitos é normal porque há 4.800 linfócitos, e esses linfócitos são grandes e granulares. A citometria com população T citotóxica CD3+, CD8+ e CD57+ expandida e a clonalidade do receptor de célula T definem a leucemia de linfócitos grandes granulares T, que se associa à artrite reumatoide e reproduz o quadro de Felty, por isso chamada de pseudo-Felty. A distinção importa porque o tratamento é dirigido ao clone (metotrexato em dose baixa, ciclofosfamida ou ciclosporina) e o seguimento é hematológico. Neutropenia por metotrexato não vem com linfocitose clonal, e a leucemia linfocítica crônica é de células B pequenas, CD5 e CD23 positivas.",
+    "resolucao": "Artrite reumatoide antiga, nodular e soropositiva com neutropenia, esplenomegalia, infecções e úlcera de perna é a definição de Felty, e esse rótulo é verdadeiro e tentador. O que a Felty não explica é o leucograma: o total de leucócitos é normal porque há 4.800 linfócitos, e a citometria mostra que eles são uma população T citotóxica CD3+, CD8+ e CD57+ expandida, com rearranjo clonal do receptor de célula T. Isso define a leucemia de linfócitos grandes granulares T, que se associa à artrite reumatoide e reproduz o quadro de Felty (o pseudo-Felty); no esfregaço, esses linfócitos são grandes e têm grânulos azurófilos. A distinção importa porque o tratamento é dirigido ao clone (metotrexato em dose baixa, ciclofosfamida ou ciclosporina) e o seguimento é hematológico. Neutropenia por metotrexato não vem com linfocitose clonal, e a leucemia linfocítica crônica é de células B pequenas, CD5 e CD23 positivas.",
     "comentarios": {
-      "A": "Errada. Seria a resposta com neutropenia, esplenomegalia e linfócitos normais em número e sem clone; a linfocitose granular clonal muda o diagnóstico.",
-      "B": "Errada. A toxicidade do metotrexato tende a dar pancitopenia, macrocitose e mucosite, sem esplenomegalia nem linfocitose clonal; e a dose com ácido fólico é estável.",
-      "C": "Correta. Linfocitose de células grandes granulares CD8+ e CD57+ com clonalidade do receptor T, neutropenia e esplenomegalia em artrite reumatoide.",
-      "D": "Errada. A leucemia linfocítica crônica é de linfócitos B pequenos e maduros (CD19, CD5, CD23), com manchas de Gumprecht, não de células T granulares."
+      "A": "Errada. A toxicidade do metotrexato tende a dar pancitopenia, macrocitose e mucosite, sem esplenomegalia nem linfocitose clonal; e a dose com ácido fólico é estável.",
+      "B": "Errada. A leucemia linfocítica crônica é de linfócitos B pequenos e maduros (CD19, CD5, CD23), com manchas de Gumprecht, não de células T granulares.",
+      "C": "Correta. Linfocitose T citotóxica CD8+ e CD57+ com clonalidade do receptor T, neutropenia e esplenomegalia em artrite reumatoide.",
+      "D": "Errada. Seria a resposta com neutropenia, esplenomegalia e linfócitos normais em número e sem clone; a linfocitose granular clonal muda o diagnóstico."
     },
     "para_levar": "Artrite reumatoide com neutropenia e esplenomegalia é Felty só se os linfócitos forem normais; linfocitose granular clonal CD8+ CD57+ é leucemia de linfócitos grandes granulares T.",
-    "referencias": "WHO Classification of Haematolymphoid Tumours, 5ª ed. (2022); Livro da Sociedade Brasileira de Reumatologia, 3ª ed., 2023.",
+    "referencias": "WHO Classification of Haematolymphoid Tumours, 5ª ed. (2022); Kelley & Firestein's Textbook of Rheumatology, 11ª ed. (2021).",
     "tags": [
       "Artrite Reumatóide (CM)",
       "Leucemias (CM)"
@@ -44,19 +44,19 @@
     "enunciado": "Homem de 61 anos procura atendimento por febre diária de até 39,8 °C há 7 semanas, com picos ao entardecer, sudorese noturna, perda de 9 kg e artralgia de punhos e joelhos. Nos picos febris aparece exantema macular rosado em tronco, que some com a defervescência. Exame físico: linfonodos cervicais e axilares de 2 a 3 cm, endurecidos, indolores e coalescentes à esquerda, baço a 5 cm do rebordo costal, artrite de punhos. Exames: Hb 9,8 g/dL, leucócitos 16.900/mm³ (84% neutrófilos), plaquetas 470.000/mm³, ferritina 9.600 ng/mL, AST 72 U/L, LDH 1.240 U/L (VR até 250), FAN e fator reumatoide não reagentes, hemoculturas e sorologias para HIV, hepatites, EBV, CMV e toxoplasmose negativas, ecocardiograma normal. TC: linfonodomegalias retroperitoneais confluentes de até 4 cm. O próximo exame mais adequado é:",
     "alternativas": {
       "A": "Ferritina glicosilada",
-      "B": "Biópsia excisional de linfonodo",
-      "C": "PET-CT de corpo inteiro",
-      "D": "Biópsia de pele do exantema"
+      "B": "PET-CT de corpo inteiro",
+      "C": "Biópsia de pele do exantema",
+      "D": "Biópsia excisional de linfonodo"
     },
-    "gabarito": "B",
+    "gabarito": "D",
     "armadilha": "A",
     "dado_decisivo": "endurecidos, indolores e coalescentes à esquerda",
     "resolucao": "Febre quotidiana, exantema evanescente, artrite, neutrofilia e ferritina de 9.600 preenchem quase todo o quadro de Still, e a ferritina glicosilada baixa parece o exame que fecha. Mas Still é diagnóstico de exclusão, e os critérios de Yamaguchi só valem depois de afastar infecção e neoplasia. Aqui há sinais de linfoma: homem de 61 anos, perda de 9 kg, linfonodos endurecidos e coalescentes, massa retroperitoneal confluente e LDH cinco vezes acima. Linfomas, sobretudo de células T e de Hodgkin, imitam Still com febre, exantema e ferritina alta, e o corticoide dado antes da biópsia pode mascarar a histologia. O próximo exame é a biópsia excisional do linfonodo periférico acessível, com imuno-histoquímica; o PET-CT pode ajudar a escolher o alvo, mas não substitui o tecido.",
     "comentarios": {
       "A": "Errada. Ferritina glicosilada baixa reforça Still, mas não exclui linfoma, que também a reduz; não responde à pergunta que importa aqui.",
-      "B": "Correta. Linfonodos endurecidos e coalescentes, massa retroperitoneal e LDH alta exigem tecido antes de qualquer corticoide.",
-      "C": "Errada. Mostraria captação nos linfonodos, que a TC já mostrou; seria útil para guiar biópsia em linfonodo profundo, mas não dá o diagnóstico.",
-      "D": "Errada. A biópsia do exantema do Still é inespecífica e não diferencia de linfoma; o tecido que decide é o linfonodo."
+      "B": "Errada. Mostraria captação nos linfonodos, que a TC já mostrou; seria útil para guiar biópsia em linfonodo profundo, mas não dá o diagnóstico.",
+      "C": "Errada. A biópsia do exantema do Still é inespecífica e não diferencia de linfoma; o tecido que decide é o linfonodo.",
+      "D": "Correta. Linfonodos endurecidos e coalescentes, massa retroperitoneal e LDH alta exigem tecido antes de qualquer corticoide."
     },
     "para_levar": "Still é diagnóstico de exclusão: com linfonodo endurecido, massa profunda ou LDH muito alta, biópsia de linfonodo antes do corticoide.",
     "referencias": "Critérios de Yamaguchi (1992), com exclusão de infecção e neoplasia; EULAR/PReS 2024 recommendations for Still's disease.",
@@ -78,20 +78,20 @@
     "nivel": "difícil",
     "enunciado": "Homem de 44 anos tem asma iniciada aos 38 anos, de difícil controle, e rinossinusite crônica com pólipos nasais. Usa budesonida-formoterol e montelucaste e, nos últimos 6 meses, fez 3 ciclos de prednisona por crises. Há 3 semanas teve queda do pé direito e, há 5 dias, dificuldade para estender o punho esquerdo, com dor em queimação nos dois territórios. Exame físico: sibilos difusos, lesões purpúricas palpáveis em pernas, fraqueza da dorsiflexão do pé direito e da extensão do punho esquerdo, com hipoestesia nos territórios correspondentes. Exames: leucócitos 14.200/mm³ com 31% de eosinófilos, IgE total 1.400 UI/mL, IgE específica para Aspergillus fumigatus reagente, p-ANCA e c-ANCA não reagentes, creatinina 0,9 mg/dL, EAS normal, troponina normal. TC de tórax: opacidades em vidro fosco periféricas e migratórias, sem bronquiectasias centrais. O diagnóstico mais provável é:",
     "alternativas": {
-      "A": "Aspergilose broncopulmonar alérgica",
-      "B": "Síndrome hipereosinofílica idiopática",
-      "C": "Pneumonia eosinofílica crônica",
-      "D": "Granulomatose eosinofílica com poliangeíte"
+      "A": "Síndrome hipereosinofílica idiopática",
+      "B": "Granulomatose eosinofílica com poliangeíte",
+      "C": "Aspergilose broncopulmonar alérgica",
+      "D": "Pneumonia eosinofílica crônica"
     },
-    "gabarito": "D",
-    "armadilha": "A",
+    "gabarito": "B",
+    "armadilha": "C",
     "dado_decisivo": "Há 3 semanas teve queda do pé direito e, há 5 dias, dificuldade para estender o punho esquerdo",
-    "resolucao": "Asma de difícil controle, eosinofilia, IgE total alta, IgE para Aspergillus reagente e infiltrados pulmonares formam o quadro de aspergilose broncopulmonar alérgica, e o ANCA negativo parece confirmar que não é vasculite. Mas a aspergilose não sai do pulmão, e aqui há mononeurite múltipla (fibular direito e radial esquerdo em semanas, com dor) e púrpura palpável: há vasculite de pequenos vasos. Asma de início no adulto, pólipos nasais, eosinofilia acima de 10%, infiltrados migratórios e mononeurite somam muito acima do necessário nos critérios de 2022 para granulomatose eosinofílica com poliangeíte. O ANCA é negativo em cerca de 60% dos casos, sobretudo nos com cardiopatia e infiltrados pulmonares, e não exclui a doença. A IgE para Aspergillus é sensibilização comum na asma grave, e faltam bronquiectasias centrais. Os ciclos de corticoide e o montelucaste podem ter retardado o aparecimento da vasculite.",
+    "resolucao": "Asma de difícil controle, eosinofilia, IgE total alta, IgE para Aspergillus reagente e infiltrados pulmonares formam o quadro de aspergilose broncopulmonar alérgica, e o ANCA negativo parece confirmar que não é vasculite. Mas a aspergilose não sai do pulmão, e aqui há mononeurite múltipla (fibular direito e radial esquerdo em semanas, com dor) e púrpura palpável: há vasculite de pequenos vasos. Nos critérios ACR/EULAR 2022, doença obstrutiva de vias aéreas (3 pontos), pólipos nasais (3), eosinófilos acima de 1.000/mm³ (5; aqui são cerca de 4.400) e mononeurite múltipla (1) somam 12, muito acima dos 6 necessários para granulomatose eosinofílica com poliangeíte. O ANCA é negativo em cerca de 60% dos casos, sobretudo nos com cardiopatia e infiltrados pulmonares, e não exclui a doença. A IgE para Aspergillus é sensibilização comum na asma grave, e faltam bronquiectasias centrais. Os ciclos de corticoide e o montelucaste podem ter retardado o aparecimento da vasculite.",
     "comentarios": {
-      "A": "Errada. Seria a resposta com bronquiectasias centrais, IgE acima de 1.000 com precipitinas e sem doença extrapulmonar; não explica mononeurite nem púrpura.",
-      "B": "Errada. A síndrome hipereosinofílica pode lesar nervos e coração, mas não cursa com asma e pólipos, nem com vasculite de pequenos vasos com púrpura palpável.",
-      "C": "Errada. A pneumonia eosinofílica crônica tem infiltrados periféricos e asma, mas é restrita ao pulmão; mononeurite múltipla indica vasculite.",
-      "D": "Correta. Asma tardia, pólipos, eosinofilia de 31%, infiltrados migratórios, mononeurite múltipla e púrpura; ANCA negativo não exclui."
+      "A": "Errada. A síndrome hipereosinofílica pode lesar nervos e coração, mas não cursa com asma e pólipos, nem com vasculite de pequenos vasos com púrpura palpável.",
+      "B": "Correta. Asma tardia, pólipos, eosinofilia de 31%, infiltrados migratórios, mononeurite múltipla e púrpura; ANCA negativo não exclui.",
+      "C": "Errada. Seria a resposta com bronquiectasias centrais, IgE acima de 1.000 com precipitinas e sem doença extrapulmonar; não explica mononeurite nem púrpura.",
+      "D": "Errada. A pneumonia eosinofílica crônica tem infiltrados periféricos e asma, mas é restrita ao pulmão; mononeurite múltipla indica vasculite."
     },
     "para_levar": "Asma com eosinofilia que ganha mononeurite múltipla ou púrpura é granulomatose eosinofílica com poliangeíte, mesmo com ANCA negativo, que é a regra em mais da metade.",
     "referencias": "ACR/EULAR 2022 classification criteria for EGPA; EULAR 2022 recommendations for the management of ANCA-associated vasculitis.",
@@ -112,19 +112,19 @@
     "nivel": "difícil",
     "enunciado": "Mulher de 31 anos tem LES há 6 anos, com artrite, fotossensibilidade e leucopenia, sem nefrite, em remissão há 2 anos com hidroxicloroquina 400 mg/dia. Anti-Ro/SSA reagente em título alto, anti-La/SSB não reagente, anticoagulante lúpico, anticardiolipina e anti-beta2-glicoproteína I não reagentes. Está com 8 semanas de gestação planejada e pergunta se deve parar a hidroxicloroquina, porque leu que remédios fazem mal ao bebê. PA 112 x 70 mmHg, EAS sem proteinúria, C3 e C4 normais, anti-DNA nativo não reagente. Quanto à hidroxicloroquina e à vigilância fetal específica do anti-Ro, a conduta mais adequada é, respectivamente:",
     "alternativas": {
-      "A": "Suspender / ecocardiografia fetal seriada de 16 a 26 semanas",
-      "B": "Manter / ecocardiografia fetal seriada de 16 a 26 semanas",
-      "C": "Manter / dexametasona profilática desde agora",
+      "A": "Manter / ecocardiografia fetal seriada de 16 a 26 semanas",
+      "B": "Manter / dexametasona profilática desde agora",
+      "C": "Suspender / ecocardiografia fetal seriada de 16 a 26 semanas",
       "D": "Suspender / dexametasona profilática desde agora"
     },
-    "gabarito": "B",
-    "armadilha": "A",
+    "gabarito": "A",
+    "armadilha": "C",
     "dado_decisivo": "Anti-Ro/SSA reagente em título alto",
     "resolucao": "O pedido da paciente e a ideia de que remédio na gestação faz mal empurram para suspender. No LES, suspender a hidroxicloroquina na gestação aumenta o risco de reativação, e a droga é segura, além de reduzir o risco de bloqueio cardíaco congênito nas mães anti-Ro positivas. O anti-Ro atravessa a placenta e pode lesar o sistema de condução fetal entre 16 e 26 semanas, por isso se recomenda ecocardiografia fetal seriada com medida do intervalo PR mecânico nesse período. Dexametasona profilática não é recomendada: não previne o bloqueio e expõe o feto a efeitos adversos; pode ser considerada só diante de bloqueio de primeiro ou segundo grau detectado. Também se indica AAS em dose baixa a partir de 12 semanas para prevenir pré-eclâmpsia no LES.",
     "comentarios": {
-      "A": "Errada na primeira metade. A vigilância está certa, mas suspender a hidroxicloroquina aumenta a chance de reativação e tira a proteção contra o bloqueio cardíaco.",
-      "B": "Correta. Hidroxicloroquina mantida em toda a gestação e ecocardiografia fetal seriada entre 16 e 26 semanas pela presença do anti-Ro.",
-      "C": "Errada na segunda metade. Manter a droga está certo, mas dexametasona profilática não previne o bloqueio e expõe o feto sem benefício; seria discutida só com bloqueio incompleto detectado.",
+      "A": "Correta. Hidroxicloroquina mantida em toda a gestação e ecocardiografia fetal seriada entre 16 e 26 semanas pela presença do anti-Ro.",
+      "B": "Errada na segunda metade. Manter a droga está certo, mas dexametasona profilática não previne o bloqueio e expõe o feto sem benefício; seria discutida só com bloqueio incompleto detectado.",
+      "C": "Errada na primeira metade. A vigilância está certa, mas suspender a hidroxicloroquina aumenta a chance de reativação e tira a proteção contra o bloqueio cardíaco.",
       "D": "Errada nas duas metades. Retira a droga que protege e acrescenta o corticoide fluorado que não está indicado."
     },
     "para_levar": "LES na gestação: manter hidroxicloroquina, AAS em dose baixa e, com anti-Ro, ecocardiografia fetal seriada de 16 a 26 semanas. Dexametasona não é profilaxia.",
@@ -146,22 +146,22 @@
     "enunciado": "Homem de 38 anos, com uso de drogas injetáveis no passado, procura atendimento por dor abdominal pós-prandial, perda de 8 kg e dor em queimação nos pés há 3 meses. Há 2 semanas teve dor testicular esquerda e, há 4 dias, queda do pé esquerdo. Exame físico: PA 178 x 108 mmHg (antes normotenso), livedo racemoso em coxas, nódulos subcutâneos dolorosos em pernas, orquite esquerda, fraqueza da dorsiflexão do pé esquerdo. Exames: Hb 11 g/dL, leucócitos 13.400/mm³ sem eosinofilia, creatinina 1,4 mg/dL, EAS sem hemácias e sem cilindros, proteinúria 0,3 g/24 h, c-ANCA e p-ANCA não reagentes, crioglobulinas negativas, HBsAg e HBeAg reagentes, HBV-DNA 8,2 log UI/mL, ALT 96 U/L, anti-HCV não reagente. Angiotomografia: microaneurismas em artérias renais interlobares e na mesentérica superior. O diagnóstico e o tratamento mais adequados são, respectivamente:",
     "alternativas": {
       "A": "PAN associada ao HBV / ciclofosfamida e corticoide prolongado",
-      "B": "Poliangeíte microscópica / ciclofosfamida e corticoide prolongado",
-      "C": "PAN associada ao HBV / antiviral, corticoide breve e plasmaférese",
+      "B": "PAN associada ao HBV / antiviral, corticoide breve e plasmaférese",
+      "C": "Poliangeíte microscópica / ciclofosfamida e corticoide prolongado",
       "D": "Poliangeíte microscópica / antiviral, corticoide breve e plasmaférese"
     },
-    "gabarito": "C",
+    "gabarito": "B",
     "armadilha": "A",
     "dado_decisivo": "HBsAg e HBeAg reagentes, HBV-DNA 8,2 log UI/mL",
     "resolucao": "Reconhecer a poliarterite nodosa é a metade fácil: mononeurite, orquite, livedo, angina mesentérica, hipertensão nova e microaneurismas, com ANCA negativo e EAS sem glomerulonefrite, o que afasta a poliangeíte microscópica. A armadilha está no tratamento: ciclofosfamida com corticoide prolongado é o esquema da poliarterite idiopática grave, e na forma associada ao HBV ele aumenta a replicação viral e o risco de hepatite fulminante e de cronificação. Com HBeAg reagente e carga viral alta, a doença é mediada por imunocomplexos do vírus, e o tratamento é antiviral potente (tenofovir ou entecavir), corticoide em dose alta só nas primeiras 1 a 2 semanas para controlar a inflamação, e plasmaférese para remover os imunocomplexos até a soroconversão. A ciclofosfamida fica para a doença que não responde a esse esquema.",
     "comentarios": {
       "A": "Errada na segunda metade. O diagnóstico está certo, mas imunossupressão prolongada sem antiviral faz o vírus replicar e pode levar a hepatite fulminante.",
-      "B": "Errada nas duas metades. Sem glomerulonefrite, sem capilarite pulmonar e com microaneurismas e ANCA negativo, não é poliangeíte microscópica.",
-      "C": "Correta. PAN com HBV replicativo: antiviral, corticoide por poucas semanas e plasmaférese até a soroconversão do HBeAg.",
+      "B": "Correta. PAN com HBV replicativo: antiviral, corticoide por poucas semanas e plasmaférese até a soroconversão do HBeAg.",
+      "C": "Errada nas duas metades. Sem glomerulonefrite, sem capilarite pulmonar e com microaneurismas e ANCA negativo, não é poliangeíte microscópica.",
       "D": "Errada na primeira metade. O tratamento é o da PAN viral, mas o diagnóstico de poliangeíte microscópica exigiria glomerulonefrite ou pulmão, ausentes."
     },
     "para_levar": "PAN com HBV replicativo trata o vírus: antiviral, corticoide breve e plasmaférese. Ciclofosfamida prolongada é para a PAN idiopática.",
-    "referencias": "ACR/Vasculitis Foundation 2021 Guideline for the Management of Polyarteritis Nodosa; French Vasculitis Study Group (Guillevin, 2005); EASL 2017 HBV guideline.",
+    "referencias": "Guillevin L et al., Medicine 2005 (French Vasculitis Study Group, PAN associada ao HBV); ACR/Vasculitis Foundation 2021 Guideline for the Management of Polyarteritis Nodosa (PAN não associada ao HBV); EASL 2017 Clinical Practice Guidelines on HBV infection.",
     "tags": [
       "Poliarterite Nodosa (CM)",
       "Hepatite B (CM)"
@@ -179,23 +179,23 @@
     "nivel": "difícil",
     "enunciado": "Mulher de 38 anos tem artrite reumatoide diagnosticada há 4 meses (FR e anti-CCP reagentes, erosão em 1 metacarpofalângica), em uso de metotrexato 10 mg/semana por via oral desde o diagnóstico, sem ácido fólico, e prednisona 5 mg/dia. Refere aftas orais recorrentes e náusea no dia da tomada. Não consome álcool e não planeja gestação, com contracepção eficaz. Exame físico: 8 articulações dolorosas e 6 edemaciadas. Exames: CDAI 28, hemograma normal, creatinina 0,7 mg/dL, ALT 28 U/L, sorologias para hepatites B e C negativas. Radiografia de tórax normal. A conduta mais adequada é:",
     "alternativas": {
-      "A": "Associar adalimumabe",
-      "B": "Trocar metotrexato por leflunomida",
+      "A": "Trocar metotrexato por leflunomida",
+      "B": "Associar adalimumabe",
       "C": "Metotrexato 20 mg/semana com ácido fólico",
       "D": "Aumentar prednisona para 20 mg/dia"
     },
     "gabarito": "C",
-    "armadilha": "A",
+    "armadilha": "B",
     "dado_decisivo": "metotrexato 10 mg/semana por via oral desde o diagnóstico, sem ácido fólico",
     "resolucao": "Doença ativa após 4 meses de metotrexato com fatores de mau prognóstico (soropositividade e erosão) parece falha e indicação de biológico. Mas o metotrexato nunca foi usado em dose eficaz: 10 mg/semana é dose inicial, e a falha só se declara após escalonar para 20 a 25 mg/semana (ou a dose máxima tolerada) por tempo suficiente. As aftas e a náusea não são motivo para trocar a droga: são efeitos ligados à antagonização do folato, que o ácido fólico semanal reduz, e a via subcutânea ajuda na náusea. O passo correto é otimizar o metotrexato com ácido fólico, reavaliar em cerca de 3 meses buscando ao menos melhora significativa, e só então associar biológico ou outro sintético se o alvo não for atingido. Aumentar o corticoide trata o sintoma e acumula toxicidade, sem modificar a doença.",
     "comentarios": {
-      "A": "Errada. Seria o passo na falha de metotrexato em dose otimizada, com fatores de mau prognóstico; aqui a dose nunca passou de 10 mg.",
-      "B": "Errada. Trocar por intolerância só se justifica quando a intolerância persiste com ácido fólico e mudança de via; aftas e náusea são as que o folato corrige.",
+      "A": "Errada. Trocar por intolerância só se justifica quando a intolerância persiste com ácido fólico e mudança de via; aftas e náusea são as que o folato corrige.",
+      "B": "Errada. Seria o passo na falha de metotrexato em dose otimizada, com fatores de mau prognóstico; aqui a dose nunca passou de 10 mg.",
       "C": "Correta. Escalonar o metotrexato até 20 a 25 mg/semana e associar ácido fólico é cumprir o degrau antes de declarar falha.",
       "D": "Errada. Corticoide é ponte de curta duração e não modifica a doença; subir a dose acumula efeitos adversos."
     },
     "para_levar": "Falha de metotrexato só conta com 20 a 25 mg/semana (ou dose máxima tolerada) e ácido fólico; aftas e náusea se tratam com folato e via subcutânea, não com troca.",
-    "referencias": "SBR 2017 recomendações para o tratamento da artrite reumatoide (atualização 2020); EULAR 2022 recommendations for RA management; ACR 2021 RA guideline.",
+    "referencias": "SBR 2017 recomendações para o tratamento da artrite reumatoide; EULAR 2022 recommendations for RA management; ACR 2021 RA guideline.",
     "tags": [
       "Artrite Reumatóide (CM)",
       "Drogas antirreumáticas (CM)"
@@ -246,20 +246,20 @@
     "nivel": "difícil",
     "enunciado": "Na dermatomiosite do adulto, o período de maior risco de surgimento de neoplasia associada é:",
     "alternativas": {
-      "A": "Entre 1 ano antes e 3 anos após o diagnóstico",
-      "B": "Após 5 anos de imunossupressão contínua",
-      "C": "Durante as recidivas tardias da miosite",
-      "D": "Após a suspensão definitiva do corticoide"
+      "A": "Entre 3 e 5 anos após o diagnóstico",
+      "B": "Entre 5 e 10 anos após o diagnóstico",
+      "C": "Constante ao longo de toda a doença",
+      "D": "Entre 1 ano antes e 3 anos após o diagnóstico"
     },
-    "gabarito": "A",
+    "gabarito": "D",
     "armadilha": "B",
     "dado_decisivo": "período de maior risco de surgimento de neoplasia associada",
-    "resolucao": "O raciocínio que derruba é o da imunossupressão: a neoplasia viria depois de anos de corticoide e imunossupressor. Na dermatomiosite, a neoplasia é na maioria das vezes paraneoplásica, e o risco se concentra em torno do diagnóstico, do ano anterior até cerca de 3 anos depois, caindo em seguida. Por isso o rastreio é feito ao diagnóstico e repetido nos 3 primeiros anos, com intensidade conforme o risco: maior acima dos 40 anos, com disfagia, lesões cutâneas necróticas, doença refratária e anticorpos anti-TIF1-gama ou anti-NXP2; menor com anti-Jo-1, anti-MDA5 e outros antissintetase. Ovário, pulmão, mama, colorretal, pâncreas e estômago estão entre os sítios mais frequentes.",
+    "resolucao": "O raciocínio que derruba é o da imunossupressão: a neoplasia viria depois de anos de corticoide e imunossupressor. Na dermatomiosite, a neoplasia é na maioria das vezes paraneoplásica, e o risco se concentra em torno do diagnóstico, do ano anterior até cerca de 3 anos depois, caindo em seguida. Por isso o rastreio é feito ao diagnóstico e repetido nos 3 primeiros anos, com intensidade conforme o risco: maior acima dos 40 anos, com disfagia, lesões cutâneas necróticas, doença refratária e anticorpos anti-TIF1-gama ou anti-NXP2; menor na síndrome antissintetase (anti-Jo-1 e outros) e no anti-SRP. Ovário, pulmão, mama, colorretal, pâncreas e estômago estão entre os sítios mais frequentes.",
     "comentarios": {
-      "A": "Correta. O risco é maior em torno do diagnóstico, do ano anterior ao terceiro ano depois, e o rastreio se repete nesse intervalo.",
-      "B": "Errada. A imunossupressão crônica aumenta outros riscos, mas a neoplasia da dermatomiosite é paraneoplásica e concentrada perto do diagnóstico.",
-      "C": "Errada. Recidiva tardia pode motivar nova investigação, mas não é o período de maior risco.",
-      "D": "Errada. Não há aumento de risco ligado à retirada do corticoide."
+      "A": "Errada. Depois do terceiro ano o risco cai e se aproxima do da população; não é a janela de maior risco.",
+      "B": "Errada. Seria o raciocínio da neoplasia induzida por imunossupressão crônica; a da dermatomiosite é paraneoplásica e concentrada perto do diagnóstico.",
+      "C": "Errada. O risco não é constante: é máximo em torno do diagnóstico e cai nos anos seguintes, por isso o rastreio tem prazo.",
+      "D": "Correta. O risco se concentra em torno do diagnóstico, do ano anterior ao terceiro ano depois, e o rastreio se repete nesse intervalo."
     },
     "para_levar": "Dermatomiosite do adulto: neoplasia concentra-se do ano anterior ao terceiro ano após o diagnóstico; rastreie ao diagnóstico e repita nesse intervalo, mais intensamente com anti-TIF1-gama ou anti-NXP2.",
     "referencias": "IMACS 2023 guideline on cancer screening in idiopathic inflammatory myopathies (Oldroyd et al.); Hill et al., Lancet 2001.",
@@ -273,34 +273,35 @@
     "id": "S4-REU-09",
     "simulado": 4,
     "area": "Reumatologia",
-    "titulo": "Mialgia por estatina com CK abaixo de 4 vezes que regride com a suspensão: reintroduzir, não investigar",
-    "arma": "Cronologia",
-    "comando": "conduta",
+    "titulo": "Mialgia e CK alta em usuária antiga de estatina com LDL que subiu: TSH antes do anti-HMGCR",
+    "arma": "Dado omitido",
+    "comando": "próximo exame",
     "nivel": "difícil",
-    "enunciado": "Homem de 64 anos, com infarto do miocárdio há 8 meses, iniciou rosuvastatina 40 mg/dia há 10 semanas. Há 3 semanas passou a referir dor e peso em coxas e panturrilhas, simétricos, sem fraqueza e sem urina escura. Usa AAS, clopidogrel, bisoprolol e ramipril. TSH normal, creatinina 1,0 mg/dL. Na ocasião, CK de 690 U/L (VR até 190), e a rosuvastatina foi suspensa. Hoje, 4 semanas após a suspensão, está sem dor, com força grau 5 em cinturas, CK 150 U/L e LDL 168 mg/dL. A conduta mais adequada é:",
+    "enunciado": "Mulher de 66 anos, com infarto do miocárdio há 6 anos, usa atorvastatina 40 mg/dia desde então, sempre bem tolerada, além de AAS, metoprolol e enalapril. Há 3 meses refere dor e cãibras em coxas e panturrilhas, cansaço, dificuldade para levantar da cadeira e ganho de 5 kg. Nega medicação nova, e a filha confirma que ela toma a estatina regularmente. Exame físico: PA 148 x 92 mmHg, FC 56 bpm, força grau 4 em flexores do quadril, reflexos aquileus com fase de relaxamento lentificada, sem lesões cutâneas. Exames: CK 1.380 U/L (VR até 170), creatinina 1,2 mg/dL (1,0 há 1 ano), sódio 133 mEq/L, AST 64 U/L, ALT 38 U/L, LDL 162 mg/dL (68 mg/dL há 1 ano). Antes de decidir sobre a estatina, o exame mais adequado é:",
     "alternativas": {
-      "A": "Dosar anti-HMGCR antes de decidir",
-      "B": "Ezetimibe isolado",
-      "C": "Inibidor de PCSK9 isolado",
-      "D": "Outra estatina em dose menor e ezetimibe"
+      "A": "Anticorpo anti-HMGCR",
+      "B": "TSH e T4 livre",
+      "C": "Biópsia muscular",
+      "D": "Eletroneuromiografia"
     },
-    "gabarito": "D",
+    "gabarito": "B",
     "armadilha": "A",
-    "dado_decisivo": "4 semanas após a suspensão, está sem dor",
-    "resolucao": "Estatina, dor muscular e CK alta lembram a miopatia necrosante anti-HMGCR, e dosar o anticorpo parece prudente. Mas a cronologia separa as duas: na miopatia imunomediada a fraqueza e a CK progridem apesar da suspensão, enquanto aqui não havia fraqueza, a CK estava abaixo de 4 vezes o limite e tudo normalizou em 4 semanas sem a droga. Isso é sintoma muscular associado à estatina, de natureza tóxica e reversível, e não pede anticorpo nem biópsia. Num paciente de risco cardiovascular muito alto, com LDL de 168, ficar sem estatina é o maior risco: a conduta é reintroduzir uma estatina em dose menor (ou outra estatina) e associar ezetimibe para chegar à meta. Inibidor de PCSK9 isolado fica para a intolerância real a pelo menos duas estatinas, inclusive em dose baixa.",
+    "dado_decisivo": "LDL 162 mg/dL (68 mg/dL há 1 ano)",
+    "resolucao": "Dor muscular, fraqueza proximal e CK oito vezes acima do limite num usuário de estatina parecem miopatia pela estatina, e o anti-HMGCR parece o passo seguinte. Mas a estatina é usada há 6 anos sem sintomas, nenhuma droga nova entrou, e o LDL subiu de 68 para 162 com adesão confirmada: algo mudou no metabolismo, não na droga. Hipotireoidismo eleva o LDL (menos receptores hepáticos), eleva a CK, causa miopatia proximal com cãibras e é o principal fator de risco tratável para toxicidade muscular da estatina; bradicardia, hipertensão diastólica, ganho de peso, hiponatremia leve, creatinina em ascensão e relaxamento lento do reflexo aquileu completam o quadro. TSH e T4 livre vêm antes de qualquer anticorpo ou biópsia, e as recomendações sobre sintomas musculares associados à estatina incluem o TSH na avaliação. Confirmado o hipotireoidismo, trata-se com levotiroxina, e a CK e o LDL tendem a normalizar; a estatina pode ser suspensa enquanto a CK estiver muito alta e retomada depois.",
     "comentarios": {
-      "A": "Errada. Seria o exame se a fraqueza e a CK progredissem após a suspensão; com normalização em 4 semanas, o anticorpo não muda a conduta.",
-      "B": "Errada. Reduz o LDL em cerca de 20%, insuficiente para a meta de quem teve infarto; abandona a estatina sem que a intolerância tenha sido demonstrada.",
-      "C": "Errada. É reservado à intolerância a duas ou mais estatinas ou à falha da combinação; pular a reexposição é tratamento a mais.",
-      "D": "Correta. Sintoma reversível com CK abaixo de 4 vezes: reexpor a estatina em dose menor e associar ezetimibe para atingir a meta."
+      "A": "Errada. Seria o exame com fraqueza e CK que progridem apesar da suspensão da estatina; aqui a causa a afastar primeiro é a que explica também a subida do LDL.",
+      "B": "Correta. LDL que sobe com adesão, CK alta, bradicardia e relaxamento lento do reflexo aquileu apontam hipotireoidismo, que se confirma com TSH e T4 livre.",
+      "C": "Errada. A biópsia fica para miopatia sem causa após a avaliação inicial ou com suspeita de miopatia inflamatória; é o exame do degrau seguinte.",
+      "D": "Errada. Mostraria padrão miopático inespecífico e não identifica a causa; não muda a conduta neste momento."
     },
-    "para_levar": "Dor muscular com estatina que some em semanas após suspender é tóxica: reexponha em dose menor ou troque a estatina e associe ezetimibe. Anti-HMGCR é para fraqueza e CK que progridem sem a droga.",
-    "referencias": "EAS Consensus Panel 2015 statement on statin-associated muscle symptoms; ESC/EAS 2019 Guidelines for the management of dyslipidaemias.",
+    "para_levar": "Dor muscular com CK alta em usuário antigo de estatina, sobretudo com LDL subindo sem quebra de adesão, pede TSH antes de culpar a estatina ou pedir anti-HMGCR.",
+    "referencias": "EAS Consensus Panel 2015 statement on statin-associated muscle symptoms; ESC/EAS 2019 Guidelines for the management of dyslipidaemias; ATA 2014 Guidelines for the treatment of hypothyroidism.",
     "tags": [
       "Miopatias Autoimunes Sistêmicas - Dermatomiosite, Polimiosite e Anti-sintetase (CM)",
+      "Hipotireoidismo (CM)",
       "Dislipidemias (CM)"
     ],
     "sourceQuestionId": "267c2b349d04aab",
-    "alvo": "Errou miopatia por estatina; superinvestiga (o exame do degrau seguinte) quando a cronologia já decide."
+    "alvo": "Errou miopatia por estatina (nem toda dor muscular no usuário é da estatina); exame exótico antes do simples."
   }
 ]

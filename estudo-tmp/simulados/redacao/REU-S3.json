@@ -9,19 +9,19 @@
     "nivel": "difícil",
     "enunciado": "Mulher de 49 anos procura atendimento por poliartrite simétrica de mãos e punhos há 4 meses, com rigidez matinal de 1 hora, e, há 6 semanas, tosse seca e dispneia aos médios esforços. Refere febre baixa intermitente e dedos que ficam brancos e roxos no frio. Nega lesões em pálpebras, disfagia e fraqueza para subir escadas. Exame físico: sinovite em metacarpofalângicas e punhos, pele espessada, fissurada e hiperceratótica nas faces radiais dos indicadores e polegares, estertores em velcro bibasais, força muscular grau 5. Exames: fator reumatoide 48 UI/mL (VR < 14), anti-CCP não reagente, FAN 1:160 com padrão citoplasmático pontilhado fino, CK 410 U/L (VR até 170), VHS 50 mm/h. Radiografia de mãos sem erosões. TC de tórax: vidro fosco e reticulação basais e subpleurais, com consolidações peribroncovasculares, padrão de pneumonia intersticial não específica com componente em organização. O diagnóstico mais provável é:",
     "alternativas": {
-      "A": "Artrite reumatoide com pneumopatia intersticial",
-      "B": "Síndrome antissintetase",
-      "C": "Doença mista do tecido conjuntivo",
+      "A": "Síndrome antissintetase",
+      "B": "Doença mista do tecido conjuntivo",
+      "C": "Artrite reumatoide com pneumopatia intersticial",
       "D": "Esclerose sistêmica com pneumopatia intersticial"
     },
-    "gabarito": "B",
-    "armadilha": "A",
+    "gabarito": "A",
+    "armadilha": "C",
     "dado_decisivo": "pele espessada, fissurada e hiperceratótica nas faces radiais dos indicadores e polegares",
     "resolucao": "Poliartrite simétrica de mãos com fator reumatoide positivo e pneumopatia intersticial é a combinação que leva à artrite reumatoide com doença pulmonar, um tema que ele já errou duas vezes. Mas o restante não é de artrite reumatoide: mãos de mecânico (hiperceratose fissurada na face radial dos dedos), Raynaud, febre, CK discretamente elevada mesmo sem fraqueza e FAN com padrão citoplasmático, que é o padrão dos anticorpos antissintetase como o anti-Jo-1. A pneumopatia também ajuda: na artrite reumatoide predomina a pneumonia intersticial usual, enquanto na antissintetase é a não específica com organização. Artrite, pneumopatia, mãos de mecânico, Raynaud e febre com anticorpo antissintetase fecham a síndrome, que pode ter miosite leve ou ausente. O fator reumatoide em título baixo aparece em várias doenças do tecido conjuntivo, e o anti-CCP negativo e a ausência de erosões enfraquecem a artrite reumatoide. O próximo passo é confirmar com o painel de anticorpos de miosite.",
     "comentarios": {
-      "A": "Errada. Seria a resposta com anti-CCP reagente, erosões e padrão de pneumonia intersticial usual; não explica mãos de mecânico, CK elevada e FAN citoplasmático.",
-      "B": "Correta. Artrite, pneumopatia não específica, mãos de mecânico, Raynaud, febre e FAN citoplasmático com CK alta definem a antissintetase.",
-      "C": "Errada. A doença mista dá Raynaud, mãos edemaciadas e miosite, mas com FAN nuclear pontilhado em título alto (anti-U1RNP), não citoplasmático.",
+      "A": "Correta. Artrite, pneumopatia não específica, mãos de mecânico, Raynaud, febre e FAN citoplasmático com CK alta definem a antissintetase.",
+      "B": "Errada. A doença mista dá Raynaud, mãos edemaciadas e miosite, mas com FAN nuclear pontilhado em título alto (anti-U1RNP), não citoplasmático.",
+      "C": "Errada. Seria a resposta com anti-CCP reagente, erosões e padrão de pneumonia intersticial usual; não explica mãos de mecânico, CK elevada e FAN citoplasmático.",
       "D": "Errada. Não há esclerodactilia nem espessamento cutâneo proximal; a hiperceratose da face radial dos dedos é mão de mecânico, não esclerodermia."
     },
     "para_levar": "Artrite com pneumopatia e mãos de mecânico é antissintetase até prova contrária, mesmo com FR positivo e força normal. FAN citoplasmático é pista do anti-Jo-1.",
@@ -37,35 +37,36 @@
     "id": "S3-REU-02",
     "simulado": 3,
     "area": "Reumatologia",
-    "titulo": "Leucoencefalopatia multifocal progressiva no LES imunossuprimido lida como neurolúpus",
-    "arma": "Rótulo verdadeiro",
-    "comando": "próximo exame",
+    "titulo": "Pneumocistose na indução da nefrite lúpica lida como hemorragia alveolar",
+    "arma": "Negativo no meio",
+    "comando": "diagnóstico",
     "nivel": "extremamente difícil",
-    "enunciado": "Mulher de 36 anos tem LES com nefrite classe IV tratada há 2 anos com ciclofosfamida e, desde então, micofenolato 3 g/dia e prednisona 10 mg/dia; há 8 meses recebeu dois ciclos de rituximabe por plaquetopenia refratária. Há 5 semanas apresenta dificuldade progressiva para encontrar palavras, depois fraqueza na mão direita e, há 1 semana, perda do campo visual direito. Nega febre, cefaleia e crises convulsivas. Exame físico: T 36,6 °C, PA 124 x 78 mmHg, afasia de expressão, hemiparesia direita grau 4, hemianopsia homônima direita, sem rigidez de nuca, sem artrite ou lesões cutâneas. Exames: C3 e C4 normais, anti-DNA nativo não reagente, plaquetas 168.000/mm³, EAS sem alterações. RM de encéfalo: lesões confluentes e assimétricas de substância branca subcortical frontoparietal e occipital esquerdas, hiperintensas em T2/FLAIR, que acometem as fibras em U, sem realce pelo gadolínio e sem efeito de massa. Líquor: 3 células/mm³, proteína 52 mg/dL, glicose normal. O exame mais adequado para confirmar o diagnóstico é:",
+    "enunciado": "Mulher de 29 anos tem LES com nefrite classe IV diagnosticada há 7 semanas, tratada com pulso de metilprednisolona seguido de prednisona 60 mg/dia (hoje 50 mg/dia) e micofenolato 2 g/dia, sem profilaxia antimicrobiana. Há 6 dias apresenta tosse seca, febre de 38,3 °C e dispneia progressiva, hoje aos mínimos esforços. Nega hemoptise, dor torácica e edema. Exame físico: FR 30 irpm, SpO2 85% em ar ambiente, PA 118 x 72 mmHg, estertores finos discretos em bases, sem turgência jugular, sem edema. Exames: Hb 10,4 g/dL (10,6 g/dL há 1 semana), leucócitos 6.100/mm³ com linfócitos 350/mm³, plaquetas 196.000/mm³, LDH 690 U/L, creatinina 1,1 mg/dL (1,9 ao diagnóstico), EAS com 4 hemácias por campo (60 ao diagnóstico), C3 e C4 normais (baixos ao diagnóstico), anti-DNA nativo 1:40 (1:640 ao diagnóstico). TC de tórax: vidro fosco difuso, bilateral e simétrico, com predomínio peri-hilar e preservação da periferia, sem consolidações, nódulos ou derrame. O diagnóstico mais provável é:",
     "alternativas": {
-      "A": "Anticorpo antiproteína P ribossomal",
-      "B": "PCR para vírus JC no líquor",
-      "C": "Pesquisa de anticorpos antifosfolípides",
-      "D": "PCR para herpes simples no líquor"
+      "A": "Pneumonite lúpica aguda",
+      "B": "Hemorragia alveolar lúpica",
+      "C": "Edema pulmonar hipervolêmico",
+      "D": "Pneumonia por Pneumocystis jirovecii"
     },
-    "gabarito": "B",
-    "armadilha": "A",
-    "dado_decisivo": "que acometem as fibras em U, sem realce pelo gadolínio e sem efeito de massa",
-    "resolucao": "LES com déficit neurológico novo leva ao neurolúpus, e o anticorpo antiproteína P ribossomal parece o exame que confirma; o passo seguinte seria pulsoterapia, que aqui pioraria tudo. O lúpus está sorologicamente quieto (complemento normal, anti-DNA negativo, sem nefrite, pele ou artrite), e a paciente carrega anos de imunossupressão intensa, incluindo rituximabe. Déficits corticais que se somam em semanas (afasia, hemiparesia, hemianopsia), sem febre e sem cefaleia, com lesões de substância branca subcortical que pegam as fibras em U, sem realce e sem efeito de massa, e líquor quase normal, são o retrato da leucoencefalopatia multifocal progressiva pelo vírus JC. O diagnóstico se confirma com PCR para JC no líquor, e a conduta é reduzir a imunossupressão. Isquemia por antifosfolípide teria território arterial e restrição à difusão, e encefalite herpética teria febre, líquor inflamatório e lesão temporal.",
+    "gabarito": "D",
+    "armadilha": "B",
+    "dado_decisivo": "Hb 10,4 g/dL (10,6 g/dL há 1 semana)",
+    "resolucao": "LES com nefrite proliferativa, vidro fosco difuso e hipoxemia é o cenário em que se pensa primeiro em hemorragia alveolar, e a conduta seria mais pulso e plasmaférese. Mas os negativos derrubam a hemorragia: sem hemoptise, hemoglobina estável em uma semana e um lúpus que está respondendo (creatinina, sedimento, complemento e anti-DNA melhorando), quando a hemorragia alveolar costuma vir com doença em atividade, nefrite ativa e queda abrupta de hemoglobina. O que o caso tem é o perfil da pneumocistose: 7 semanas de prednisona acima de 20 mg/dia com micofenolato, linfopenia grave, nenhuma profilaxia, tosse seca com febre, hipoxemia desproporcional à ausculta, LDH alta e vidro fosco peri-hilar que poupa a periferia. A confirmação vem do lavado broncoalveolar ou do escarro induzido com pesquisa de Pneumocystis, e beta-D-glucana alta reforça; o tratamento é sulfametoxazol-trimetoprima em dose plena. A lição de prevenção: prednisona de cerca de 20 mg/dia ou mais por 4 semanas ou mais, associada a outro imunossupressor, pede profilaxia com sulfametoxazol-trimetoprima.",
     "comentarios": {
-      "A": "Errada. O antiproteína P se associa a psicose lúpica com doença ativa; aqui o lúpus está quieto, e lesão de substância branca progressiva sem realce não é neurolúpus.",
-      "B": "Correta. Imunossupressão com rituximabe, déficits corticais progressivos e lesões subcorticais sem realce nem efeito de massa: PCR para JC confirma a leucoencefalopatia.",
-      "C": "Errada. Seria a pergunta diante de infarto em território arterial com restrição à difusão; as lesões aqui são de substância branca, confluentes e progressivas.",
-      "D": "Errada. A encefalite herpética cursa com febre, crise, líquor com pleocitose e lesão temporal mesial; o líquor tem 3 células e não há febre."
+      "A": "Errada. A pneumonite lúpica aguda acompanha lúpus em atividade, em geral com serosite, e tem consolidações ou vidro fosco basal; aqui o complemento normalizou e o anti-DNA caiu.",
+      "B": "Errada. Seria a resposta com hemoptise ou queda de 2 g/dL ou mais na hemoglobina, lúpus em atividade e lavado progressivamente hemorrágico; aqui a hemoglobina está estável e a doença responde ao tratamento.",
+      "C": "Errada. Seria pensado na sobrecarga de volume da nefrite, mas não há turgência jugular nem edema, a função renal melhorou e há febre.",
+      "D": "Correta. Prednisona alta com micofenolato sem profilaxia, linfopenia, LDH alta, hipoxemia desproporcional e vidro fosco peri-hilar que poupa a periferia: pneumocistose."
     },
-    "para_levar": "No LES imunossuprimido, déficit neurológico novo com doença sorologicamente quieta é infecção até prova contrária. Substância branca subcortical sem realce e sem efeito de massa é leucoencefalopatia por JC.",
-    "referencias": "AAN 2013 consensus diagnostic criteria for PML (Berger); EULAR 2019 update of the recommendations for SLE (neuropsiquiátrico: excluir causas secundárias); EULAR 2010 neuropsychiatric SLE.",
+    "para_levar": "No LES em indução, vidro fosco difuso com hemoglobina estável e doença em resposta é infecção oportunista até prova contrária, não hemorragia alveolar. Prednisona de 20 mg/dia ou mais por 4 semanas com outro imunossupressor pede profilaxia para Pneumocystis.",
+    "referencias": "EULAR 2023 update of the recommendations for the management of SLE (prevenção de infecções); KDIGO 2024 Clinical Practice Guideline for the Management of Lupus Nephritis; ECIL-5 2016 guidelines for Pneumocystis jirovecii pneumonia in non-HIV patients.",
     "tags": [
       "Lúpus (CM)",
+      "Pneumocistose (CM)",
       "Infecção em Imunossuprimido (CM)"
     ],
-    "sourceQuestionId": "6fc395aca090d69",
-    "alvo": "LES neuropsiquiátrico lido pelo rótulo (fraca de 92%); exótico ou rótulo no lugar do dado que decide."
+    "sourceQuestionId": null,
+    "alvo": "LES como cenário de outra doença; rótulo (LES com nefrite) contra os negativos que decidem."
   },
   {
     "id": "S3-REU-03",
@@ -106,36 +107,35 @@
     "id": "S3-REU-04",
     "simulado": 3,
     "area": "Reumatologia",
-    "titulo": "Infecção latente por tuberculose antes do anti-TNF: limiar da prova tuberculínica e momento do biológico",
+    "titulo": "Gota: dose inicial do alopurinol e profilaxia anti-inflamatória ao iniciar o hipouricemiante",
     "arma": "Grade X / Y",
     "comando": "conduta",
     "nivel": "difícil",
-    "enunciado": "Mulher de 41 anos, vacinada com BCG ao nascer, tem artrite reumatoide soropositiva há 2 anos, com atividade moderada (DAS28 4,6) apesar de metotrexato 25 mg/semana com ácido fólico associado a leflunomida 20 mg/dia por 6 meses. Será iniciado adalimumabe. Usa prednisona 5 mg/dia. Nunca teve tuberculose, não tem contato conhecido e está assintomática respiratória. Radiografia de tórax normal. Prova tuberculínica: 7 mm. Anti-HIV não reagente, sorologias para hepatites B e C negativas. Quanto à infecção latente por tuberculose e ao início do adalimumabe, a conduta mais adequada é, respectivamente:",
+    "enunciado": "Homem de 54 anos tem gota, com três crises de podagra e uma de joelho nos últimos 12 meses, a última resolvida há 3 semanas com colchicina. É hipertenso e usava hidroclorotiazida, trocada por losartana há 1 mês. Sem tofos ao exame e sem litíase renal. Exames: ácido úrico 9,4 mg/dL, creatinina 0,9 mg/dL (TFGe 92 mL/min/1,73 m²), ALT e hemograma normais. Será iniciado alopurinol. Quanto à dose inicial do alopurinol e à profilaxia das crises, a conduta mais adequada é, respectivamente:",
     "alternativas": {
-      "A": "Tratar a ILTB / adalimumabe após 1 mês de tratamento",
-      "B": "Tratar a ILTB / adalimumabe só ao fim do tratamento",
-      "C": "Não tratar a ILTB / adalimumabe imediatamente",
-      "D": "Não tratar a ILTB / trocar por biológico não anti-TNF"
+      "A": "300 mg/dia / sem profilaxia",
+      "B": "300 mg/dia / colchicina por 3 a 6 meses",
+      "C": "100 mg/dia / sem profilaxia",
+      "D": "100 mg/dia / colchicina por 3 a 6 meses"
     },
-    "gabarito": "A",
-    "armadilha": "C",
-    "dado_decisivo": "Prova tuberculínica: 7 mm",
-    "resolucao": "A BCG ao nascer é o rótulo que convida a atribuir a prova tuberculínica à vacina e seguir sem tratar. Mas o efeito da BCG neonatal sobre a prova se perde em poucos anos, e o limiar para candidato a inibidor de TNF e para quem usa imunossupressores é de 5 mm, não 10 mm. Com 7 mm, radiografia normal e sem sintomas, o diagnóstico é infecção latente, e o tratamento (isoniazida, rifapentina com isoniazida ou rifampicina, conforme o Ministério da Saúde) deve começar antes do biológico. Não é preciso completar o esquema: o anti-TNF pode ser iniciado após cerca de 1 mês de tratamento da infecção latente. Trocar de classe não resolve, porque a infecção latente também deve ser tratada antes dos biológicos não anti-TNF e dos inibidores de JAK.",
+    "gabarito": "D",
+    "armadilha": "B",
+    "dado_decisivo": "Será iniciado alopurinol",
+    "resolucao": "A dose de 300 mg/dia, a mais prescrita, é a armadilha: iniciar o alopurinol em dose plena aumenta as crises de mobilização e o risco de hipersensibilidade grave. A recomendação é começar com no máximo 100 mg/dia (menos na doença renal crônica moderada a grave) e subir 100 mg a cada 2 a 5 semanas até o ácido úrico ficar abaixo de 6 mg/dL, o que muitas vezes exige 300 a 600 mg/dia ou mais. Ao mesmo tempo, a queda do urato mobiliza cristais e precipita crises, por isso se associa profilaxia anti-inflamatória (colchicina 0,5 a 1 mg/dia, ou AINE ou prednisona em dose baixa) por 3 a 6 meses, prolongando se ainda houver crises. Dispensar a profilaxia é o erro que faz o paciente abandonar o hipouricemiante na primeira crise. A troca da hidroclorotiazida por losartana, que tem efeito uricosúrico leve, foi correta e não muda as duas decisões.",
     "comentarios": {
-      "A": "Correta. Prova de 7 mm em candidata a anti-TNF já é infecção latente; trata-se e inicia-se o biológico após 1 mês de esquema.",
-      "B": "Errada na segunda metade. O tratamento é indicado, mas esperar o fim do esquema atrasa sem necessidade o controle de uma artrite ativa.",
-      "C": "Errada nas duas metades. Seria certo com prova abaixo de 5 mm ou com tuberculose antiga adequadamente tratada; BCG neonatal não explica 7 mm aos 41 anos.",
-      "D": "Errada nas duas metades. Biológicos de outras classes também exigem rastreio e tratamento da infecção latente; mudar de droga não dispensa o tratamento."
+      "A": "Errada nas duas metades. Dose plena sem profilaxia é a combinação que mais produz crises no início e abandono do tratamento.",
+      "B": "Errada na primeira metade. A profilaxia está certa, mas iniciar com 300 mg/dia aumenta crises e o risco de hipersensibilidade; 300 mg é dose a que se chega pela titulação.",
+      "C": "Errada na segunda metade. A dose está certa, mas sem profilaxia a mobilização dos cristais precipita crises nos primeiros meses.",
+      "D": "Correta. Dose inicial baixa com titulação até o alvo, e colchicina profilática por 3 a 6 meses."
     },
-    "para_levar": "Antes de biológico, prova tuberculínica de 5 mm ou mais (ou IGRA positivo) é infecção latente, com ou sem BCG; o biológico pode começar após 1 mês de tratamento.",
-    "referencias": "Ministério da Saúde, Manual de Recomendações para o Controle da Tuberculose no Brasil (2019, atualização 2022); SBR 2017 recomendações para o tratamento da AR.",
+    "para_levar": "Alopurinol começa com até 100 mg/dia e sobe até urato abaixo de 6 mg/dL, sempre com profilaxia anti-inflamatória por 3 a 6 meses.",
+    "referencias": "ACR 2020 Guideline for the Management of Gout; EULAR 2016 updated recommendations for the management of gout.",
     "tags": [
-      "ILTB (CM)",
-      "Artrite Reumatóide (CM)",
+      "Gota (CM)",
       "Drogas antirreumáticas (CM)"
     ],
-    "sourceQuestionId": "5bf89138f999037",
-    "alvo": "Errou ILTB antes do biológico (aplicou a regra sem precondição); agora a regra se aplica e o rótulo BCG tenta tirá-la."
+    "sourceQuestionId": null,
+    "alvo": "Porte da conduta: faz mais na dose inicial e menos na profilaxia; dose de droga não fixada."
   },
   {
     "id": "S3-REU-05",
@@ -182,20 +182,20 @@
     "nivel": "difícil",
     "enunciado": "Homem de 27 anos tem dor lombar inflamatória há 14 meses, com rigidez matinal de 1 hora, melhora com exercício e despertar na segunda metade da noite. Há 2 meses recebeu diagnóstico de espondilite anquilosante (sacroiliíte bilateral grau 3 na radiografia, HLA-B27 reagente). Usou paracetamol sem melhora e, depois, ibuprofeno 400 mg quando a dor apertava, em média uma vez ao dia, por 3 semanas, com alívio parcial. Sem artrite periférica, entesite, uveíte, psoríase ou sintomas intestinais. Função renal normal, sem doença péptica, PA 122 x 78 mmHg. BASDAI 5,8, PCR 2,4 mg/dL. A conduta mais adequada é:",
     "alternativas": {
-      "A": "Iniciar adalimumabe",
+      "A": "Associar sulfassalazina",
       "B": "Naproxeno em dose plena contínua",
-      "C": "Associar sulfassalazina",
-      "D": "Prednisona 20 mg/dia"
+      "C": "Prednisona 20 mg/dia",
+      "D": "Iniciar adalimumabe"
     },
     "gabarito": "B",
-    "armadilha": "A",
+    "armadilha": "D",
     "dado_decisivo": "ibuprofeno 400 mg quando a dor apertava, em média uma vez ao dia, por 3 semanas",
     "resolucao": "BASDAI acima de 4 com PCR elevada é o critério de atividade para biológico, e quem para aí prescreve adalimumabe. Mas o biológico exige falha de pelo menos dois AINEs em dose plena por um total de 4 semanas, e o paciente usou um único AINE, em subdose (400 mg uma vez ao dia) e sob demanda, por 3 semanas. Paracetamol não é anti-inflamatório e não conta. O passo correto é AINE em dose anti-inflamatória plena e contínua (por exemplo, naproxeno 500 mg de 12/12 horas), avaliando resposta em 2 a 4 semanas, e trocar por outro AINE se falhar. Sulfassalazina e metotrexato não agem na doença axial, e corticoide sistêmico não é recomendado na espondiloartrite axial.",
     "comentarios": {
-      "A": "Errada. Seria a resposta após falha de dois AINEs em dose plena por 4 semanas no total; aqui houve um AINE em subdose, sob demanda.",
+      "A": "Errada. A sulfassalazina só tem papel na artrite periférica; sem sinovite periférica, não age na coluna.",
       "B": "Correta. Antes de declarar falha, o AINE precisa ser usado em dose plena e contínua; é o degrau que ainda não foi cumprido.",
-      "C": "Errada. A sulfassalazina só tem papel na artrite periférica; sem sinovite periférica, não age na coluna.",
-      "D": "Errada. Corticoide sistêmico não é recomendado na doença axial e não muda o curso; seria tratar com a droga errada."
+      "C": "Errada. Corticoide sistêmico não é recomendado na doença axial e não muda o curso; seria tratar com a droga errada.",
+      "D": "Errada. Seria a resposta após falha de dois AINEs em dose plena por 4 semanas no total; aqui houve um AINE em subdose, sob demanda."
     },
     "para_levar": "Espondiloartrite axial: falha de AINE só conta com dois AINEs em dose plena por 4 semanas no total. Subdose sob demanda não é falha.",
     "referencias": "ASAS-EULAR 2022 recommendations for axial spondyloarthritis; SBR 2019 recomendações para o tratamento da espondilite anquilosante.",
@@ -216,20 +216,20 @@
     "nivel": "média",
     "enunciado": "Mulher de 44 anos refere dor difusa há 2 anos, nos dois hemicorpos, acima e abaixo da cintura e no esqueleto axial, com cansaço, sono não reparador e dificuldade de concentração. Nega artrite, rigidez matinal prolongada, fraqueza, febre, perda de peso, fotossensibilidade, úlceras orais e Raynaud. Exame físico: dor à palpação em múltiplos pontos musculares, sem sinovite, força grau 5, pele e mucosas normais. Exames: hemograma, VHS, PCR, CK, TSH, cálcio, 25-hidroxivitamina D, glicemia, função renal e função hepática normais. Trouxe FAN de laboratório externo: reagente 1:80, padrão nuclear pontilhado fino. Índice de dor generalizada 9 e escala de gravidade dos sintomas 7. Quanto à investigação, o mais adequado é:",
     "alternativas": {
-      "A": "Anti-DNA nativo, anti-Sm e complemento",
-      "B": "Repetir o FAN em 6 meses",
+      "A": "Repetir o FAN em 6 meses",
+      "B": "Nenhum exame adicional",
       "C": "Eletroneuromiografia e biópsia muscular",
-      "D": "Nenhum exame adicional"
+      "D": "Anti-DNA nativo, anti-Sm e complemento"
     },
-    "gabarito": "D",
-    "armadilha": "A",
+    "gabarito": "B",
+    "armadilha": "D",
     "dado_decisivo": "Nega artrite, rigidez matinal prolongada, fraqueza, febre, perda de peso, fotossensibilidade, úlceras orais e Raynaud",
     "resolucao": "Um FAN reagente costuma disparar o painel de autoanticorpos, e é o que ele faria. Mas FAN em título baixo (1:80) é encontrado em parte considerável da população saudável, e o valor preditivo dele sem clínica compatível é muito baixo. A paciente não tem nenhum dado objetivo de doença autoimune: sem artrite, sem fraqueza, sem lesão de pele ou mucosa, sem Raynaud, com hemograma, provas inflamatórias e CK normais. Ela preenche os critérios de fibromialgia (índice de dor generalizada 7 ou mais com escala de gravidade 5 ou mais, dor em 4 de 5 regiões há mais de 3 meses). Pedir anti-DNA e anti-Sm só aumenta a chance de falso positivo e de rótulo errado; a conduta é encerrar a investigação, explicar o diagnóstico e iniciar exercício aeróbico gradual.",
     "comentarios": {
-      "A": "Errada. Seria o passo com FAN em título alto e clínica sugestiva de lúpus (citopenia, serosite, nefrite, artrite); sem nada disso, só gera falso positivo.",
-      "B": "Errada. Repetir o FAN não acrescenta: a positividade em título baixo persiste em saudáveis e não muda a conduta.",
+      "A": "Errada. Repetir o FAN não acrescenta: a positividade em título baixo persiste em saudáveis e não muda a conduta.",
+      "B": "Correta. Critérios de fibromialgia preenchidos, exame e laboratório normais e FAN 1:80 sem clínica: encerrar a investigação e tratar.",
       "C": "Errada. Força normal e CK normal dispensam investigação de miopatia; biópsia muscular na fibromialgia é o exame a mais.",
-      "D": "Correta. Critérios de fibromialgia preenchidos, exame e laboratório normais e FAN 1:80 sem clínica: encerrar a investigação e tratar."
+      "D": "Errada. Seria o passo com FAN em título alto e clínica sugestiva de lúpus (citopenia, serosite, nefrite, artrite); sem nada disso, só gera falso positivo."
     },
     "para_levar": "FAN em título baixo sem clínica objetiva não é doença e não pede painel de anticorpos. Fibromialgia com exame e provas inflamatórias normais se trata, não se investiga mais.",
     "referencias": "ACR 2016 revisão dos critérios de fibromialgia; EULAR 2016 recomendações para fibromialgia; Consenso Brasileiro de FAN em células HEp-2 (2019).",
@@ -244,36 +244,35 @@
     "id": "S3-REU-08",
     "simulado": 3,
     "area": "Reumatologia",
-    "titulo": "Síndrome de Sjögren com paralisia hipocalêmica: acidose tubular renal distal",
-    "arma": "Negativo no meio",
+    "titulo": "Síndrome de Sjögren com parótida que cresce: linfoma MALT pelos preditores",
+    "arma": "Rótulo verdadeiro",
     "comando": "diagnóstico",
     "nivel": "difícil",
-    "enunciado": "Mulher de 43 anos, com síndrome de Sjögren primária há 5 anos (anti-Ro e anti-La reagentes), em uso apenas de colírio lubrificante, é trazida por fraqueza nos quatro membros iniciada há 2 dias, com dificuldade para levantar da cama. Teve cólica renal há 1 ano. Nega diarreia, vômitos e uso de diuréticos, laxativos ou álcool. Exame físico: PA 112 x 70 mmHg, FC 82 bpm, força grau 3 proximal e distal, reflexos diminuídos, sensibilidade normal. Exames: Na 139 mEq/L, K 2,1 mEq/L, Cl 116 mEq/L, HCO3 14 mEq/L, pH 7,28, pCO2 29 mmHg, glicemia 92 mg/dL, fósforo 3,6 mg/dL, ácido úrico 4,8 mg/dL, creatinina 0,8 mg/dL, TSH normal, CK 820 U/L. Urina: pH 6,9, sem glicosúria, sem proteinúria, sódio 40, potássio 35 e cloro 48 mEq/L. Radiografia de abdome: nefrocalcinose medular bilateral. O distúrbio que explica o quadro é:",
+    "enunciado": "Mulher de 58 anos tem síndrome de Sjögren primária há 12 anos (anti-Ro e anti-La reagentes), com xerostomia e xeroftalmia, em uso de pilocarpina e colírio lubrificante. Há 5 meses nota aumento progressivo e indolor da parótida esquerda, que não regrediu com dois ciclos de antibiótico prescritos em outro serviço. Nega febre, dor à mastigação, saída de pus pelo ducto e perda de peso. Há 3 meses surgiram lesões purpúricas palpáveis nas pernas. Exame físico: parótida esquerda aumentada, endurecida e indolor, parótida direita normal, sem linfonodomegalias cervicais, púrpura palpável em pernas. Exames: Hb 12,1 g/dL, leucócitos 3.600/mm³ com linfócitos 700/mm³, plaquetas 210.000/mm³, VHS 48 mm/h, PCR 0,4 mg/dL, C3 normal, C4 5 mg/dL (VR 10 a 40), fator reumatoide 340 UI/mL, crioglobulinas positivas, eletroforese de proteínas com pequeno pico monoclonal IgM kappa. Ultrassonografia: parótida esquerda com área hipoecoica de 2,8 cm. O diagnóstico mais provável para o aumento da parótida é:",
     "alternativas": {
-      "A": "Acidose tubular renal proximal",
-      "B": "Paralisia periódica hipocalêmica",
-      "C": "Acidose tubular renal hipercalêmica",
-      "D": "Acidose tubular renal distal"
+      "A": "Sialadenite pela síndrome de Sjögren",
+      "B": "Doença relacionada à IgG4",
+      "C": "Linfoma MALT da parótida",
+      "D": "Parotidite bacteriana crônica"
     },
-    "gabarito": "D",
+    "gabarito": "C",
     "armadilha": "A",
-    "dado_decisivo": "pH 6,9, sem glicosúria",
-    "resolucao": "Hipocalemia grave com fraqueza aguda puxa para paralisia periódica, e acidose com hipocalemia num Sjögren pode lembrar a forma proximal, de Fanconi. A gasometria mostra acidose metabólica de ânion gap normal (139 menos 116 menos 14 dá 9), com compensação respiratória adequada, o que derruba a paralisia periódica, que não acidifica o sangue. O ânion gap urinário positivo (40 mais 35 menos 48 dá 27) indica excreção de amônio deficiente, e o pH urinário de 6,9 com bicarbonato sérico de 14 mostra que o túbulo não acidifica a urina: lesão distal. Os negativos afastam a proximal: sem glicosúria com glicemia normal, fósforo e ácido úrico normais. Nefrocalcinose e litíase completam a acidose tubular distal (tipo 1), a nefropatia mais típica do Sjögren por nefrite intersticial. Tratamento: repor potássio antes do álcali e depois citrato de potássio.",
+    "dado_decisivo": "C4 5 mg/dL (VR 10 a 40)",
+    "resolucao": "Aumento de parótida numa paciente com Sjögren parece parte da doença, e é esse rótulo que faz esperar. Mas o aumento é unilateral, progressivo, endurecido e persistente por meses, e vem com os preditores de linfoma do Sjögren: púrpura palpável, crioglobulinemia, C4 baixo, fator reumatoide em título alto, linfopenia e componente monoclonal. Com eles, o risco de linfoma, que já é de 5 a 10% ao longo da vida, sobe muito, e o subtipo mais frequente é o linfoma da zona marginal extranodal (MALT) em glândula salivar. A área hipoecoica na ultrassonografia reforça, e a confirmação é por biópsia da parótida (incisional ou por agulha grossa), e não da glândula labial, que serve ao diagnóstico do Sjögren. A doença por IgG4 dá aumento bilateral de glândulas com anti-Ro negativo, e a parotidite bacteriana tem dor, febre e pus no ducto e responde ao antibiótico.",
     "comentarios": {
-      "A": "Errada. A proximal tem pH urinário ácido quando o bicarbonato sérico cai abaixo do limiar, e na forma de Fanconi há glicosúria, hipofosfatemia e hipouricemia, ausentes aqui.",
-      "B": "Errada. A paralisia periódica é desvio de potássio para dentro da célula, sem acidose metabólica e sem nefrocalcinose; aqui o bicarbonato é 14.",
-      "C": "Errada. A tipo 4 cursa com hipercalemia por hipoaldosteronismo, o oposto do potássio de 2,1.",
-      "D": "Correta. Acidose de ânion gap normal, ânion gap urinário positivo, pH urinário de 6,9 e nefrocalcinose em Sjögren definem a distal."
+      "A": "Errada. A sialadenite do Sjögren costuma ser bilateral e flutuante; aumento unilateral, endurecido e progressivo com púrpura, crioglobulinas e C4 baixo é linfoma até prova contrária.",
+      "B": "Errada. Seria pensada com aumento bilateral e simétrico de glândulas, anti-Ro e anti-La negativos e IgG4 alta; aqui o Sjögren é confirmado e há preditores de linfoma.",
+      "C": "Correta. Parótida unilateral que cresce, púrpura, crioglobulinemia, C4 baixo, linfopenia e pico monoclonal IgM kappa: linfoma MALT.",
+      "D": "Errada. Teria dor, febre e saída de pus pelo ducto, e responderia ao antibiótico; aqui o aumento é indolor e não cedeu com dois ciclos."
     },
-    "para_levar": "Acidose de ânion gap normal com ânion gap urinário positivo e urina que não acidifica abaixo de 5,5 é tubular distal; no Sjögren, é a lesão renal mais frequente. Glicosúria, fósforo e ácido úrico baixos apontariam a proximal.",
-    "referencias": "ACR/EULAR 2016 classification criteria for primary Sjögren syndrome; EULAR 2019 recommendations for Sjögren (manejo sistêmico); Livro da Sociedade Brasileira de Reumatologia, 3ª ed., 2023.",
+    "para_levar": "No Sjögren, parótida persistente e unilateral, púrpura, crioglobulinemia, C4 baixo e componente monoclonal são preditores de linfoma MALT: biópsia da parótida, sem esperar.",
+    "referencias": "ACR/EULAR 2016 classification criteria for primary Sjögren's syndrome; EULAR 2019 recommendations for the management of Sjögren's syndrome with topical and systemic therapies; WHO Classification of Haematolymphoid Tumours, 5ª ed. (2022).",
     "tags": [
       "Sjogren (CM)",
-      "Tubulopatias (CM)",
-      "Hipopotassemia (CM)"
+      "Linfomas (CM)"
     ],
     "sourceQuestionId": "61f3c9d9ef4f134",
-    "alvo": "Sjögren 6 de 10, errou o caso de fraqueza em membros; ATR distal x proximal é subtipo UERJ."
+    "alvo": "Sjögren 6 de 10; linfoma por subtipo (tema UERJ) e rótulo da doença de base que parece explicar o achado."
   },
   {
     "id": "S3-REU-09",
@@ -285,23 +284,23 @@
     "nivel": "difícil",
     "enunciado": "Mulher de 52 anos, submetida a gastroplastia com derivação em Y de Roux há 9 anos, procura atendimento por dor óssea difusa em quadris, costelas e pernas há 8 meses, com dificuldade para subir escadas e marcha anserina. Há 1 ano, por T-escore de -2,8 em colo femoral, outro médico iniciou alendronato 70 mg/semana e carbonato de cálcio 500 mg/dia, com piora progressiva da dor desde então. Usa polivitamínico de forma irregular. Exame físico: dor à compressão do esterno e das costelas, força 4 em flexores do quadril. Exames: cálcio 8,3 mg/dL (albumina 3,9 g/dL), fósforo 2,1 mg/dL, fosfatase alcalina 410 U/L (VR até 120), GGT normal, PTH 168 pg/mL, creatinina 0,7 mg/dL, calciúria 40 mg/24 h. Radiografia de bacia: faixas radiotransparentes perpendiculares à cortical nos ramos púbicos, bilaterais e simétricas. O diagnóstico que explica a piora é:",
     "alternativas": {
-      "A": "Osteoporose refratária ao bisfosfonato",
-      "B": "Hiperparatireoidismo primário",
-      "C": "Osteomalácia por má absorção",
+      "A": "Osteomalácia por má absorção",
+      "B": "Osteoporose refratária ao bisfosfonato",
+      "C": "Hiperparatireoidismo primário",
       "D": "Fratura atípica por bisfosfonato"
     },
-    "gabarito": "C",
-    "armadilha": "A",
+    "gabarito": "A",
+    "armadilha": "B",
     "dado_decisivo": "fósforo 2,1 mg/dL, fosfatase alcalina 410 U/L (VR até 120)",
     "resolucao": "O T-escore de -2,8 é o rótulo que leva a falar em osteoporose e, com a piora, em falha do bisfosfonato. Mas osteoporose não dói difusamente sem fratura e não mexe no laboratório: aqui há cálcio baixo, fósforo baixo, fosfatase alcalina quatro vezes acima com GGT normal (origem óssea), PTH alto e calciúria baixa. Esse é o perfil da osteomalácia por deficiência de vitamina D e de cálcio após derivação em Y de Roux, que exclui o duodeno e o jejuno proximal; a 25-hidroxivitamina D nem precisou ser mostrada. As faixas radiotransparentes bilaterais e simétricas nos ramos púbicos são pseudofraturas (zonas de Looser), e a densitometria baixa reflete osso pouco mineralizado, não perda de massa. O antirreabsortivo piora o quadro, porque reduz a remodelação de um osso que não mineraliza e agrava a hipocalcemia. A conduta é suspender o alendronato e repor vitamina D em dose alta com citrato de cálcio, que é absorvido sem ácido gástrico; densitometria e indicação de antirreabsortivo só depois da correção.",
     "comentarios": {
-      "A": "Errada. Seria pensada com laboratório normal e fratura nova sob tratamento; com fósforo baixo, fosfatase alta e PTH alto, a densitometria baixa é de osteomalácia.",
-      "B": "Errada. O hiperparatireoidismo primário tem cálcio alto ou normal-alto com PTH alto; aqui o cálcio é baixo e o PTH alto é secundário.",
-      "C": "Correta. Bariátrica disabsortiva, dor óssea difusa, miopatia proximal, hipocalcemia, hipofosfatemia, fosfatase alta, PTH alto e zonas de Looser.",
+      "A": "Correta. Bariátrica disabsortiva, dor óssea difusa, miopatia proximal, hipocalcemia, hipofosfatemia, fosfatase alta, PTH alto e zonas de Looser.",
+      "B": "Errada. Seria pensada com laboratório normal e fratura nova sob tratamento; com fósforo baixo, fosfatase alta e PTH alto, a densitometria baixa é de osteomalácia.",
+      "C": "Errada. O hiperparatireoidismo primário tem cálcio alto ou normal-alto com PTH alto; aqui o cálcio é baixo e o PTH alto é secundário.",
       "D": "Errada. A fratura atípica é subtrocantérica ou diafisária, na cortical lateral do fêmur, após anos de bisfosfonato; não explica o laboratório nem as faixas púbicas simétricas."
     },
     "para_levar": "Densitometria baixa com fosfatase alcalina e PTH altos e fósforo baixo é osteomalácia: corrija vitamina D e cálcio (citrato na bariátrica) e só depois pense em antirreabsortivo.",
-    "referencias": "AACE/TOS/ASMBS 2019 clinical practice guidelines for perioperative nutritional and metabolic support of bariatric patients; Manual Brasileiro de Osteoporose (SBR/ABRASSO, 2021); Endocrine Society 2024 vitamin D guideline.",
+    "referencias": "AACE/TOS/ASMBS 2019 clinical practice guidelines for perioperative nutritional and metabolic support of bariatric patients; Manual Brasileiro de Osteoporose: orientações práticas (2021); Endocrine Society 2024 vitamin D guideline.",
     "tags": [
       "Osteomalácia e outros distúrbios (CM)",
       "Osteoporose (CM)"

@@ -10,19 +10,19 @@
     "enunciado": "Mulher de 61 anos, ex-tabagista (20 maços-ano), procura atendimento por dispneia que progrediu em 5 semanas de grandes para pequenos esforços, com tosse seca. Há 3 meses notou lesões violáceas nas pálpebras, pápulas dolorosas e ulceradas nas faces palmares das articulações interfalângicas, úlceras nas polpas digitais, artralgia em mãos e queda de cabelo. Perdeu 5 kg. Nega fraqueza para subir escadas ou pentear os cabelos. Exame físico: SpO2 89% em ar ambiente, FR 26 irpm, estertores em velcro bibasais, força muscular grau 5 nos quatro membros, heliotropo e eritema em V no decote. Exames: CK 190 U/L (VR até 170), aldolase normal, ferritina 2.300 ng/mL, AST 88 U/L, linfócitos 600/mm³. TC de tórax: consolidações e vidro fosco subpleurais e peribroncovasculares em bases, ausentes em radiografia de 2 meses antes. O autoanticorpo mais provável e a conduta prioritária neste momento são, respectivamente:",
     "alternativas": {
       "A": "Anti-TIF1-gama / rastreio de neoplasia oculta",
-      "B": "Anti-MDA5 / imunossupressão combinada imediata",
+      "B": "Anti-TIF1-gama / imunossupressão combinada imediata",
       "C": "Anti-MDA5 / rastreio de neoplasia antes de imunossuprimir",
-      "D": "Anti-TIF1-gama / imunossupressão combinada imediata"
+      "D": "Anti-MDA5 / imunossupressão combinada imediata"
     },
-    "gabarito": "B",
+    "gabarito": "D",
     "armadilha": "A",
     "dado_decisivo": "pápulas dolorosas e ulceradas nas faces palmares das articulações interfalângicas",
     "resolucao": "Idade de 61 anos, tabagismo e perda de peso numa dermatomiosite puxam para o anti-TIF1-gama e para a caça à neoplasia, que é o reflexo de manual. Mas o fenótipo é outro: miosite clinicamente ausente (força normal, CK quase normal), pápulas palmares dolorosas e ulceradas, úlceras digitais, alopecia, ferritina alta, linfopenia e uma pneumopatia que surgiu em semanas. Esse conjunto define a dermatomiosite amiopática anti-MDA5, cuja ameaça é a doença intersticial rapidamente progressiva, com mortalidade alta em meses. A conduta prioritária é imunossupressão combinada precoce (glicocorticoide em dose alta com inibidor de calcineurina, com ou sem ciclofosfamida), e não adiar o tratamento para terminar o rastreio. O rastreio de neoplasia continua indicado pela idade, mas não pode passar na frente de uma pneumopatia que dessatura em 5 semanas. O anti-TIF1-gama, ao contrário, cursa com lesão cutânea extensa e risco de câncer, e quase nunca com pneumopatia grave.",
     "comentarios": {
       "A": "Errada nas duas metades. Seria a resposta em dermatomiosite com lesões cutâneas extensas, disfagia e sem pneumopatia em adulto acima de 40 anos; aqui as úlceras palmares e a pneumopatia rápida apontam anti-MDA5.",
-      "B": "Correta. Úlceras palmares e digitais, miosite ausente, ferritina alta e pneumopatia em semanas definem anti-MDA5, em que a imunossupressão combinada precoce decide a sobrevida.",
+      "B": "Errada na primeira metade. A conduta seria certa para pneumopatia grave, mas o anti-TIF1-gama não explica úlceras palmares, miosite ausente e pneumopatia rapidamente progressiva.",
       "C": "Errada na segunda metade. O autoanticorpo está certo, mas condicionar a imunossupressão ao rastreio de neoplasia atrasa o tratamento de uma pneumopatia que mata em semanas.",
-      "D": "Errada na primeira metade. A conduta seria certa para pneumopatia grave, mas o anti-TIF1-gama não explica úlceras palmares, miosite ausente e pneumopatia rapidamente progressiva."
+      "D": "Correta. Úlceras palmares e digitais, miosite ausente, ferritina alta e pneumopatia em semanas definem anti-MDA5, em que a imunossupressão combinada precoce decide a sobrevida."
     },
     "para_levar": "Dermatomiosite com pápulas palmares ulceradas, miosite ausente e pneumopatia em semanas é anti-MDA5: tratar a pneumopatia vem antes de tudo. Neoplasia é o risco do anti-TIF1-gama e do anti-NXP2.",
     "referencias": "ACR 2023 Guideline for the Treatment of ILD in Systemic Autoimmune Rheumatic Diseases; IMACS 2023 (rastreio de neoplasia nas miopatias inflamatórias); EULAR/ACR 2017 critérios de classificação das miopatias inflamatórias.",
@@ -59,7 +59,7 @@
       "D": "Errada. Leucócitos, plaquetas e VHS normais parecem resposta, mas no Still a normalização com ferritina em ascensão e fibrinogênio em queda é consumo, e esperar 1 semana custa a vida."
     },
     "para_levar": "No Still, leucócitos, plaquetas e VHS que normalizam enquanto a ferritina sobe e o fibrinogênio cai são ativação macrofágica, não resposta. Trata-se com corticoide em dose alta e anakinra.",
-    "referencias": "EULAR/PReS 2024 recommendations for Still's disease (inclui ativação macrofágica); Livro da Sociedade Brasileira de Reumatologia, 3ª ed., 2023.",
+    "referencias": "EULAR/PReS 2024 recommendations for Still's disease (inclui ativação macrofágica); Kelley & Firestein's Textbook of Rheumatology, 11ª ed. (2021).",
     "tags": [
       "Doença de Still do Adulto (CM)"
     ],
@@ -70,36 +70,35 @@
     "id": "S2-REU-03",
     "simulado": 2,
     "area": "Reumatologia",
-    "titulo": "Endocardite infecciosa com anti-PR3 reagente imitando granulomatose com poliangeíte",
+    "titulo": "Vasculopatia por cocaína adulterada com levamisol imitando granulomatose com poliangeíte",
     "arma": "Rótulo verdadeiro",
     "comando": "diagnóstico",
     "nivel": "difícil",
-    "enunciado": "Homem de 47 anos, com prolapso de valva mitral conhecido, procura atendimento por febre baixa vespertina, sudorese noturna e perda de 7 kg há 2 meses. Há 3 semanas surgiram artralgias, lesões purpúricas em pernas e urina escura. Há 4 meses fez extração dentária. Exame físico: T 37,9 °C, PA 128 x 76 mmHg, sopro holossistólico 3+/6+ em foco mitral, mais intenso que o registrado há 1 ano, púrpura palpável em membros inferiores, hemorragias subungueais lineares, baço palpável, mucosa nasal normal. Exames: Hb 9,6 g/dL, creatinina 2,1 mg/dL, EAS com hemácias dismórficas e cilindros hemáticos, proteinúria 1,2 g/24 h, C3 52 mg/dL (VR 90 a 180), C4 9 mg/dL (VR 10 a 40), fator reumatoide 120 UI/mL, c-ANCA reagente com anti-PR3 de 38 U/mL (VR < 20), crioglobulinas negativas, anti-HCV e HBsAg não reagentes. Radiografia de tórax normal. Duas de três hemoculturas com cocos Gram-positivos em cadeia, identificação em andamento. O diagnóstico que explica o quadro é:",
+    "enunciado": "Homem de 34 anos procura atendimento por lesões dolorosas e escurecidas nas orelhas e nas bochechas há 10 dias, com artralgias de mãos e joelhos. Há 6 meses tem obstrução nasal com crostas e epistaxe ocasional. Usa cocaína inalada nos fins de semana há 5 anos e nega outras drogas ou medicações. Exame físico: T 37,4 °C, PA 124 x 78 mmHg, púrpura retiforme com centro necrótico nas hélices das duas orelhas e nas regiões malares, perfuração do septo nasal anterior, sem sinovite, ausculta pulmonar normal. Exames: Hb 12,6 g/dL, leucócitos 2.300/mm³ (neutrófilos 450/mm³), plaquetas 205.000/mm³, creatinina 0,9 mg/dL, EAS sem hematúria e sem proteinúria, p-ANCA reagente 1:1.280 com anti-MPO 160 U/mL e anti-PR3 42 U/mL (VR < 20 para ambos), anticoagulante lúpico reagente, crioglobulinas negativas, anti-HCV e anti-HIV não reagentes. TC de tórax normal; TC de seios da face com perfuração septal, sem erosão de seios paranasais ou da órbita. O diagnóstico mais provável é:",
     "alternativas": {
-      "A": "Granulomatose com poliangeíte",
-      "B": "Poliangeíte microscópica",
-      "C": "Vasculite crioglobulinêmica",
-      "D": "Endocardite com glomerulonefrite por imunocomplexos"
+      "A": "Poliangeíte microscópica",
+      "B": "Vasculopatia por levamisol",
+      "C": "Granulomatose com poliangeíte",
+      "D": "Vasculite crioglobulinêmica"
     },
-    "gabarito": "D",
-    "armadilha": "A",
-    "dado_decisivo": "Duas de três hemoculturas com cocos Gram-positivos em cadeia",
-    "resolucao": "Anti-PR3 reagente com glomerulonefrite e púrpura é o rótulo que puxa granulomatose com poliangeíte, e quem fecha pelo anticorpo prescreve rituximabe e corticoide para uma infecção. O ANCA, inclusive anti-PR3, pode ser positivo em endocardite subaguda, em geral em título baixo, como aqui. Três dados derrubam a vasculite: hemoculturas positivas com estreptococo em paciente valvopata após extração dentária, sopro que mudou e hemorragias subungueais; consumo de C3 e C4 com fator reumatoide alto, que é marca de imunocomplexo e não da glomerulonefrite pauci-imune do ANCA; e ausência de doença de vias aéreas e de pulmão. O diagnóstico é endocardite infecciosa com glomerulonefrite por imunocomplexos, e o tratamento é o antimicrobiano dirigido, com a lesão renal melhorando com a cura da infecção. Imunossuprimir aqui é o erro grave.",
+    "gabarito": "B",
+    "armadilha": "C",
+    "dado_decisivo": "púrpura retiforme com centro necrótico nas hélices das duas orelhas e nas regiões malares",
+    "resolucao": "Anti-PR3 reagente, crostas nasais, epistaxe e perfuração septal são o rótulo que puxa granulomatose com poliangeíte, e quem fecha pelo anticorpo indica rituximabe ou ciclofosfamida. Mas o conjunto é de outra doença: usuário de cocaína com púrpura retiforme necrótica nas orelhas e nas bochechas, neutropenia, ANCA em título muito alto com anti-MPO e anti-PR3 ao mesmo tempo e anticoagulante lúpico reagente é a vasculopatia pelo levamisol, adulterante frequente da cocaína. A lesão nasal destrutiva também é efeito da própria cocaína (lesão destrutiva da linha média), que imita a granulomatose e induz ANCA. Faltam os órgãos da vasculite sistêmica: sem glomerulonefrite, sem nódulos pulmonares e sem erosão de seios ou órbita. O tratamento é suspender a cocaína, com cuidado local das lesões e vigilância da neutropenia; imunossupressão fica para a minoria com glomerulonefrite ou hemorragia alveolar, e a reexposição faz recair.",
     "comentarios": {
-      "A": "Errada. Seria a resposta com rinossinusite destrutiva, nódulos pulmonares e complemento normal; aqui há hemoculturas positivas, complemento consumido e o PR3 é reativo à infecção.",
-      "B": "Errada. A poliangeíte microscópica é pauci-imune, com complemento normal e anti-MPO; não explica sopro novo, hemoculturas positivas e consumo de C3.",
-      "C": "Errada. Explicaria púrpura, fator reumatoide e C4 baixo, mas as crioglobulinas são negativas, o HCV é negativo e há bacteremia com valvopatia.",
-      "D": "Correta. Valvopata com extração dentária, sopro que mudou, bacteremia por estreptococo e consumo de complemento: a glomerulonefrite é por imunocomplexos da endocardite."
+      "A": "Errada. A poliangeíte microscópica é anti-MPO, mas com glomerulonefrite ou capilarite pulmonar e sem neutropenia; não explica perfuração septal nem necrose nas orelhas.",
+      "B": "Correta. Cocaína, púrpura retiforme em orelhas e bochechas, neutropenia, ANCA duplo em título alto e anticoagulante lúpico: vasculopatia pelo levamisol.",
+      "C": "Errada. Seria a resposta com anti-PR3 isolado, nódulos pulmonares, erosão de seios ou órbita e glomerulonefrite; aqui o ANCA é duplo, em título muito alto, e a necrose nas orelhas com neutropenia aponta o adulterante.",
+      "D": "Errada. Explicaria púrpura com necrose de extremidades, mas as crioglobulinas são negativas e o HCV é não reagente."
     },
-    "para_levar": "ANCA positivo com complemento baixo é incoerente com vasculite pauci-imune: procure endocardite. Antes de imunossuprimir por ANCA, hemoculturas.",
-    "referencias": "ESC 2023 Guidelines for the management of endocarditis; KDIGO 2024 Clinical Practice Guideline for ANCA-associated vasculitis; ACR/EULAR 2022 critérios de classificação da GPA (exigem excluir mimetizadores).",
+    "para_levar": "ANCA em título muito alto com anti-MPO e anti-PR3 juntos, púrpura retiforme em orelhas e neutropenia em usuário de cocaína é vasculopatia pelo levamisol: o tratamento é parar a droga, não imunossuprimir pelo anticorpo.",
+    "referencias": "ACR/EULAR 2022 classification criteria for GPA (exigem excluir mimetizadores); KDIGO 2024 Clinical Practice Guideline for the Management of ANCA-Associated Vasculitis; McGrath MM et al., Clin J Am Soc Nephrol 2011 (cocaína contaminada com levamisol e doença associada ao ANCA).",
     "tags": [
       "Vasculites ANCA-associadas (CM)",
-      "Endocardite Bacteriana (CM)",
       "Wegener (Granulomatose com Poliangeíte) (CM)"
     ],
     "sourceQuestionId": "8caf141419984a4",
-    "alvo": "Rótulo do autoanticorpo engana mais em reumato; vasculites ANCA 7 de 14."
+    "alvo": "Rótulo do autoanticorpo engana mais em reumato; vasculites ANCA 7 de 14 (ANCA que não é vasculite primária)."
   },
   {
     "id": "S2-REU-04",
@@ -111,23 +110,23 @@
     "nivel": "difícil",
     "enunciado": "Mulher de 46 anos refere dor e edema em mãos e pés há 8 meses, com rigidez matinal de 40 minutos. Nos últimos 2 meses, o terceiro pododáctilo direito ficou inteiro edemaciado e doloroso. A mãe tem nódulos nos dedos desde os 50 anos. Usa apenas dipirona. Exame físico: artrite das interfalângicas distais do 2º e 3º dedos da mão direita e da interfalângica proximal do 4º dedo esquerdo, poupando as demais, edema difuso e doloroso de todo o terceiro pododáctilo direito, depressões puntiformes em 4 unhas com onicólise distal, e placa eritematodescamativa de 3 cm na fenda interglútea, que a paciente atribuía a micose. Exames: VHS 38 mm/h, PCR 2,1 mg/dL, fator reumatoide 24 UI/mL (VR < 14), anti-CCP não reagente, ácido úrico 5,8 mg/dL. Radiografia de mãos: erosão em interfalângica distal com proliferação óssea adjacente. O diagnóstico mais provável é:",
     "alternativas": {
-      "A": "Artrite reumatoide soropositiva",
-      "B": "Osteoartrite erosiva de mãos",
+      "A": "Osteoartrite erosiva de mãos",
+      "B": "Gota poliarticular",
       "C": "Artrite psoriásica",
-      "D": "Gota poliarticular"
+      "D": "Artrite reumatoide soropositiva"
     },
     "gabarito": "C",
-    "armadilha": "A",
+    "armadilha": "D",
     "dado_decisivo": "edema difuso e doloroso de todo o terceiro pododáctilo direito",
     "resolucao": "O fator reumatoide positivo e a poliartrite de mãos puxam para artrite reumatoide, e os nódulos da mãe puxam para osteoartrite. Mas o padrão é assimétrico, com interfalângicas distais, e há dactilite (o dedo inteiro edemaciado, em salsicha), distrofia ungueal (depressões puntiformes e onicólise), uma placa de psoríase escondida na fenda interglútea e, na radiografia, erosão com neoformação óssea justa-articular. Pelos critérios CASPAR, psoríase atual (2 pontos), distrofia ungueal, dactilite e neoformação óssea somam 5, muito acima dos 3 necessários, mesmo sem o ponto do fator reumatoide negativo. O fator reumatoide em título baixo existe em parte da população e em até 10% da artrite psoriásica, e o anti-CCP negativo enfraquece a artrite reumatoide. A artrite reumatoide poupa as interfalângicas distais e não faz dactilite nem proliferação óssea.",
     "comentarios": {
-      "A": "Errada. Seria a resposta com poliartrite simétrica de metacarpofalângicas e interfalângicas proximais, anti-CCP reagente e erosões marginais sem neoformação; aqui há interfalângica distal, dactilite e unha.",
-      "B": "Errada. A osteoartrite erosiva acomete interfalângicas com erosão central em asa de gaivota, sem dactilite, sem distrofia ungueal e sem provas inflamatórias altas.",
+      "A": "Errada. A osteoartrite erosiva acomete interfalângicas com erosão central em asa de gaivota, sem dactilite, sem distrofia ungueal e sem provas inflamatórias altas.",
+      "B": "Errada. A gota poliarticular cursa com hiperuricemia e tofos, e o ácido úrico normal fora de crise e a dactilite com unha psoriásica não sustentam.",
       "C": "Correta. Dactilite, unha, psoríase na fenda interglútea e neoformação óssea fecham CASPAR com folga, e o fator reumatoide baixo não exclui.",
-      "D": "Errada. A gota poliarticular cursa com hiperuricemia e tofos, e o ácido úrico normal fora de crise e a dactilite com unha psoriásica não sustentam."
+      "D": "Errada. Seria a resposta com poliartrite simétrica de metacarpofalângicas e interfalângicas proximais, anti-CCP reagente e erosões marginais sem neoformação; aqui há interfalângica distal, dactilite e unha."
     },
     "para_levar": "Dactilite, interfalângica distal e unha com depressões são artrite psoriásica até prova contrária; procure a psoríase no couro cabeludo, umbigo e fenda interglútea. Fator reumatoide baixo não muda o diagnóstico.",
-    "referencias": "Critérios CASPAR (2006); GRAPPA 2021 treatment recommendations; Livro da Sociedade Brasileira de Reumatologia, 3ª ed., 2023.",
+    "referencias": "Critérios CASPAR (2006); GRAPPA 2021 treatment recommendations; Kelley & Firestein's Textbook of Rheumatology, 11ª ed. (2021).",
     "tags": [
       "Artrite Psoríasica (CM)",
       "Espondiloartrites (CM)"
@@ -143,22 +142,22 @@
     "arma": "Grade X / Y",
     "comando": "conduta",
     "nivel": "difícil",
-    "enunciado": "Mulher de 76 anos, hipertensa e diabética tipo 2 (HbA1c 7,4%), procura o pronto-socorro por cefaleia temporal direita há 3 semanas, dor na mandíbula ao mastigar e dor e rigidez nos ombros pela manhã. Ontem teve dois episódios de perda visual monocular direita, indolor, que duraram 5 minutos cada e reverteram totalmente. Exame físico: PA 150 x 86 mmHg, artéria temporal direita espessada, dolorosa e sem pulso, acuidade visual normal, fundoscopia sem edema de papila. Exames: VHS 96 mm/h, PCR 8,4 mg/dL, plaquetas 520.000/mm³, glicemia 210 mg/dL. Ultrassonografia de artérias temporais e biópsia só estão disponíveis no ambulatório do hospital em 5 dias. O tratamento e o momento da biópsia mais adequados são, respectivamente:",
+    "enunciado": "Mulher de 76 anos, hipertensa e diabética tipo 2 (HbA1c 7,4%), procura o pronto-socorro por cefaleia temporal direita há 3 semanas, dor na mandíbula ao mastigar e dor e rigidez nos ombros pela manhã. Ontem teve dois episódios de perda visual monocular direita, indolor, que duraram 5 minutos cada e reverteram totalmente. Exame físico: PA 150 x 86 mmHg, artéria temporal direita espessada, dolorosa e sem pulso, acuidade visual normal, fundoscopia sem edema de papila. Exames: VHS 96 mm/h, PCR 8,4 mg/dL, plaquetas 520.000/mm³, glicemia 210 mg/dL. Ultrassonografia de artérias temporais e biópsia só estão disponíveis no ambulatório do hospital em 5 dias. A dose inicial do glicocorticoide e o momento de iniciá-lo são, respectivamente:",
     "alternativas": {
-      "A": "Metilprednisolona agora / biópsia em até 2 semanas",
-      "B": "Metilprednisolona após a biópsia / biópsia em 5 dias",
-      "C": "Prednisona 15 mg agora / biópsia em até 2 semanas",
-      "D": "Prednisona 15 mg após a biópsia / biópsia em 5 dias"
+      "A": "Pulso de metilprednisolona / agora",
+      "B": "Pulso de metilprednisolona / após a biópsia",
+      "C": "Prednisona 15 mg/dia / agora",
+      "D": "Prednisona 15 mg/dia / após a biópsia"
     },
     "gabarito": "A",
     "armadilha": "B",
     "dado_decisivo": "Ontem teve dois episódios de perda visual monocular direita",
-    "resolucao": "O diabetes mal controlado e a vontade de confirmar o diagnóstico antes de dar corticoide em dose alta empurram para a ordem errada: biopsiar e depois tratar. Na arterite de células gigantes, amaurose fugaz é aviso de neuropatia óptica isquêmica iminente, e a perda visual, quando instalada, raramente volta. Com sintomas visuais, a recomendação é iniciar glicocorticoide imediatamente, de preferência metilprednisolona venosa em pulso por 3 dias, seguida de prednisona em dose alta. A biópsia não perde valor com o corticoide se feita em até 1 a 2 semanas, porque a inflamação granulomatosa persiste por semanas, e o ultrassom também deve ser feito o quanto antes. Prednisona 15 mg é dose de polimialgia isolada, insuficiente para a arterite, e a dor nos ombros aqui é a polimialgia associada, não o diagnóstico principal.",
+    "resolucao": "O diabetes mal controlado e a vontade de confirmar o diagnóstico antes de dar corticoide em dose alta empurram para a ordem errada: biopsiar e depois tratar. Na arterite de células gigantes, amaurose fugaz é aviso de neuropatia óptica isquêmica iminente, e a perda visual, quando instalada, raramente volta. Com sintomas visuais, a recomendação é iniciar glicocorticoide imediatamente, de preferência metilprednisolona venosa em pulso por 3 dias, seguida de prednisona em dose alta. A biópsia não perde valor com o corticoide se feita em até 2 semanas, porque a inflamação granulomatosa persiste por semanas, e o ultrassom deve ser feito o quanto antes, de preferência na primeira semana. Prednisona 15 mg é dose de polimialgia isolada, insuficiente para a arterite, e a dor nos ombros aqui é a polimialgia associada, não o diagnóstico principal.",
     "comentarios": {
-      "A": "Correta. Sintoma visual impõe corticoide em dose alta agora; a biópsia segue útil se feita em até 2 semanas do início.",
-      "B": "Errada na primeira metade. A dose está certa, mas condicionar o corticoide à biópsia em 5 dias expõe a paciente à amaurose definitiva, que é irreversível.",
-      "C": "Errada na primeira metade. O momento da biópsia está certo, mas 15 mg é dose de polimialgia reumática sem arterite; não protege o nervo óptico.",
-      "D": "Errada nas duas metades. Dose de polimialgia e ainda adiada para depois da biópsia: seria aceitável só em polimialgia isolada, sem cefaleia, claudicação mandibular ou sintoma visual."
+      "A": "Correta. Sintoma visual impõe glicocorticoide em dose alta já, de preferência em pulso venoso; a biópsia continua útil se feita nas 2 semanas seguintes.",
+      "B": "Errada na segunda metade. A dose está certa, mas esperar 5 dias pela biópsia expõe a paciente à perda visual definitiva, e o corticoide não invalida a biópsia feita em até 2 semanas.",
+      "C": "Errada na primeira metade. Começar já está certo, mas 15 mg/dia é dose de polimialgia reumática isolada e não protege o nervo óptico.",
+      "D": "Errada nas duas metades. Dose de polimialgia e ainda adiada: seria aceitável só na polimialgia isolada, sem cefaleia, claudicação mandibular ou sintoma visual, e mesmo nela sem esperar biópsia."
     },
     "para_levar": "Arterite de células gigantes com sintoma visual: corticoide em dose alta na hora, biópsia ou ultrassom nas 2 semanas seguintes. O diagnóstico de certeza não justifica esperar.",
     "referencias": "BSR 2020 guideline for the management of giant cell arteritis; EULAR 2018 recommendations for large vessel vasculitis; ACR/Vasculitis Foundation 2021 GCA guideline.",
@@ -195,7 +194,7 @@
       "D": "Errada. O anti-IL-1 é reserva para crises de gota quando colchicina, AINE e corticoide são contraindicados, e é contraindicado com infecção ativa."
     },
     "para_levar": "Cristal no líquido não exclui infecção: acima de 50.000 leucócitos com mais de 90% de neutrófilos, trate como séptica até a cultura negar.",
-    "referencias": "ACR 2020 Guideline for the Management of Gout; BSR guideline for management of the hot swollen joint in adults; Livro da Sociedade Brasileira de Reumatologia, 3ª ed., 2023.",
+    "referencias": "ACR 2020 Guideline for the Management of Gout; BSR/BOA 2006 guideline for management of the hot swollen joint in adults; Kelley & Firestein's Textbook of Rheumatology, 11ª ed. (2021).",
     "tags": [
       "Artrite Séptica (CM)",
       "Gota (CM)"
@@ -213,18 +212,18 @@
     "nivel": "difícil",
     "enunciado": "Mulher de 27 anos tem lúpus eritematoso sistêmico há 3 anos (artrite, lúpus cutâneo subagudo, anti-DNA nativo reagente), em uso de hidroxicloroquina 400 mg/dia, com artrite e pele controladas há 1 ano. Vem à consulta de rotina, sem queixas. PA 118 x 74 mmHg, sem edema. Exames: creatinina 0,7 mg/dL, EAS com 12 hemácias por campo, dismórficas, sem cilindros, relação proteína/creatinina urinária de 0,7 g/g confirmada em segunda amostra, C3 78 mg/dL (VR 90 a 180), C4 9 mg/dL (VR 10 a 40), anti-DNA nativo 1:80. Biópsia renal: 24 glomérulos com hipercelularidade e expansão mesangiais, imunofluorescência com depósitos mesangiais de IgG, IgA, IgM, C3 e C1q, microscopia eletrônica sem depósitos subendoteliais ou subepiteliais, sem crescentes, necrose ou proliferação endocapilar. Além de manter a hidroxicloroquina, a conduta mais adequada é:",
     "alternativas": {
-      "A": "Micofenolato e prednisona em dose alta",
-      "B": "Pulso de metilprednisolona e ciclofosfamida",
+      "A": "Pulso de metilprednisolona e ciclofosfamida",
+      "B": "Micofenolato e prednisona em dose alta",
       "C": "Bloqueio do eixo renina-angiotensina e seguimento",
       "D": "Belimumabe associado a micofenolato"
     },
     "gabarito": "C",
-    "armadilha": "A",
+    "armadilha": "B",
     "dado_decisivo": "microscopia eletrônica sem depósitos subendoteliais ou subepiteliais",
-    "resolucao": "Hematúria dismórfica, proteinúria, complemento baixo e anti-DNA reagente formam o conjunto que dispara o reflexo da indução com micofenolato e corticoide. Mas a biópsia decide, e ela mostra classe II pura: lesão só mesangial, sem depósitos subendoteliais (que definiriam classe III ou IV) e sem subepiteliais (classe V). Na classe II, o rim não pede imunossupressão própria: o tratamento segue as manifestações extrarrenais, que estão controladas, e a proteinúria é tratada com IECA ou BRA e controle pressórico. Imunossupressão só entraria com proteinúria persistente acima de 1 g/dia apesar do bloqueio do eixo, ou com quadro nefrótico sugerindo podocitopatia lúpica. Hidroxicloroquina mantida, monitorização de proteinúria, sedimento e complemento, e nova biópsia se houver transformação de classe.",
+    "resolucao": "Hematúria dismórfica, proteinúria, complemento baixo e anti-DNA reagente formam o conjunto que dispara o reflexo da indução com micofenolato e corticoide. Mas a biópsia decide, e ela mostra classe II pura: lesão só mesangial, sem depósitos subendoteliais (que definiriam classe III ou IV) e sem subepiteliais (classe V). Na classe II, o rim não pede imunossupressão própria: o tratamento segue as manifestações extrarrenais, que estão controladas, e a proteinúria é tratada com IECA ou BRA e controle pressórico. Imunossupressão só entraria com proteinúria persistente acima de 1 g/dia apesar do bloqueio do eixo (EULAR) ou com proteinúria nefrótica, em que o KDIGO manda procurar podocitopatia lúpica. Hidroxicloroquina mantida, monitorização de proteinúria, sedimento e complemento, e nova biópsia se houver transformação de classe.",
     "comentarios": {
-      "A": "Errada. É indução de classe III ou IV, ou de classe V nefrótica; aqui a microscopia eletrônica exclui depósitos subendoteliais e subepiteliais.",
-      "B": "Errada. Seria opção em classe III ou IV grave, com crescentes ou perda rápida de função; aqui a função é normal e a lesão é mesangial.",
+      "A": "Errada. Seria opção em classe III ou IV grave, com crescentes ou perda rápida de função; aqui a função é normal e a lesão é mesangial.",
+      "B": "Errada. É indução de classe III ou IV, ou de classe V nefrótica; aqui a microscopia eletrônica exclui depósitos subendoteliais e subepiteliais.",
       "C": "Correta. Classe II com proteinúria abaixo de 1 g e doença extrarrenal controlada pede antiproteinúrico e vigilância, sem imunossupressão renal.",
       "D": "Errada. A terapia tripla com belimumabe é para nefrite proliferativa ou membranosa ativa; na classe II é tratamento a mais."
     },
@@ -248,18 +247,18 @@
     "enunciado": "Mulher de 58 anos tem esclerose sistêmica cutânea limitada há 11 anos, com Raynaud, esclerodactilia, telangiectasias e anticorpo anticentrômero reagente. Há 6 meses nota dispneia aos esforços moderados, hoje classe funcional II, sem tosse. Exame físico: SpO2 95% em repouso e 89% ao subir um lance de escada, hiperfonese de B2 em foco pulmonar, sem estertores, sem edema. Provas de função pulmonar: CVF 94% do previsto e DLCO 41% do previsto. TC de tórax de alta resolução sem doença intersticial. Ecocardiograma: velocidade de regurgitação tricúspide de 3,2 m/s, átrio direito aumentado, fração de ejeção do VE de 64%, função diastólica normal, sem valvopatia. Cintilografia de ventilação e perfusão normal. NT-proBNP 610 pg/mL. O próximo exame mais adequado é:",
     "alternativas": {
       "A": "Cateterismo cardíaco direito",
-      "B": "Angiotomografia de artérias pulmonares",
-      "C": "Repetir ecocardiograma em 12 meses",
+      "B": "Repetir ecocardiograma em 12 meses",
+      "C": "Angiotomografia de artérias pulmonares",
       "D": "Ecocardiograma sob esforço"
     },
     "gabarito": "A",
-    "armadilha": "B",
+    "armadilha": "C",
     "dado_decisivo": "Cintilografia de ventilação e perfusão normal",
     "resolucao": "O raciocínio que derruba o candidato é sentir falta de um exame de imagem a mais antes do invasivo. Na esclerose sistêmica limitada com anticentrômero, DLCO isoladamente baixa com CVF preservada é a assinatura da hipertensão arterial pulmonar (grupo 1). Os negativos do caso já excluíram as outras causas: sem doença intersticial na TC e CVF normal (grupo 3), função diastólica e valvas normais (grupo 2) e cintilografia normal, que é o exame de triagem do tromboembolismo crônico (grupo 4) e torna a angiotomografia redundante. Com velocidade tricúspide de 3,2 m/s e átrio direito aumentado, a probabilidade ecocardiográfica é alta, e o diagnóstico exige cateterismo direito (pressão média acima de 20 mmHg, pressão de oclusão até 15 e resistência acima de 2 unidades Wood), que também estratifica o risco antes de escolher a terapia combinada. Repetir em 12 meses seria o rastreio anual da paciente assintomática, não desta.",
     "comentarios": {
       "A": "Correta. Probabilidade ecocardiográfica alta, com grupos 2, 3 e 4 afastados, pede cateterismo direito para confirmar e estratificar antes de tratar.",
-      "B": "Errada. Seria útil se a cintilografia mostrasse defeitos de perfusão; com cintilografia normal, o tromboembolismo crônico está afastado.",
-      "C": "Errada. É o rastreio anual da esclerose sistêmica sem sintomas e com ecocardiograma de baixa probabilidade; aqui há dispneia e velocidade de 3,2 m/s.",
+      "B": "Errada. É o rastreio anual da esclerose sistêmica sem sintomas e com ecocardiograma de baixa probabilidade; aqui há dispneia e velocidade de 3,2 m/s.",
+      "C": "Errada. Seria útil se a cintilografia mostrasse defeitos de perfusão; com cintilografia normal, o tromboembolismo crônico está afastado.",
       "D": "Errada. O ecocardiograma de esforço não é critério diagnóstico de hipertensão pulmonar e só atrasa o exame que confirma."
     },
     "para_levar": "Esclerose sistêmica com DLCO isolada baixa e eco de probabilidade alta, com grupos 2, 3 e 4 afastados: cateterismo direito antes de qualquer vasodilatador pulmonar.",
