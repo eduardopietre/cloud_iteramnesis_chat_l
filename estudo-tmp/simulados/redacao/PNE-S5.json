@@ -1,0 +1,303 @@
+[
+  {
+    "id": "S5-PNE-01",
+    "simulado": 5,
+    "area": "Pneumologia",
+    "titulo": "Quilotórax por linfoma em quem teve tuberculose pleural: citometria antes da toracoscopia",
+    "arma": "Grade X / Y",
+    "comando": "próximo exame",
+    "nivel": "extremamente difícil",
+    "enunciado": "Mulher de 66 anos, tratada para tuberculose pleural à esquerda há 20 anos, tem dispneia progressiva há 2 meses, sudorese noturna e perda de 7 kg. Nega trauma ou cirurgia torácica. Exame: macicez em dois terços do hemitórax direito, sem linfonodos periféricos palpáveis, baço palpável a 2 cm do rebordo. Toracocentese à direita: líquido leitoso e inodoro, triglicerídeos 420 mg/dL, colesterol 64 mg/dL, proteína 4,1 g/dL, LDH 310 U/L, 3.800 células/mm³ (92% linfócitos), ADA 18 U/L, citologia oncológica negativa. TC: derrame pleural direito livre, pleura fina, sem espessamento; linfonodomegalias mediastinais e retroperitoneais de até 3 cm; espessamento pleural calcificado residual à esquerda. O tipo de derrame e o exame seguinte mais adequado são, respectivamente:",
+    "alternativas": {
+      "A": "Pseudoquilotórax / biópsia pleural por toracoscopia",
+      "B": "Quilotórax / biópsia pleural por toracoscopia",
+      "C": "Pseudoquilotórax / citometria de fluxo do líquido",
+      "D": "Quilotórax / citometria de fluxo do líquido"
+    },
+    "gabarito": "D",
+    "armadilha": "B",
+    "dado_decisivo": "triglicerídeos 420 mg/dL, colesterol 64 mg/dL",
+    "resolucao": "Líquido leitoso com tuberculose pleural no passado lembra pseudoquilotórax, o derrame de colesterol das pleurites crônicas. Mas a tuberculose foi à esquerda, o derrame atual é à direita, novo, livre e com pleura fina, e o laboratório decide: triglicerídeos de 420 mg/dL (acima de 110) com colesterol de 64 é quilotórax; pseudoquilotórax tem colesterol acima de 200, triglicerídeos baixos, cristais de colesterol e pleura espessada de anos. Quilotórax sem trauma, com linfócitos, sintomas B, esplenomegalia e linfonodos mediastinais e retroperitoneais é linfoma até prova em contrário (a causa não traumática mais comum). Com líquido abundante e rico em linfócitos já disponível, o exame seguinte é a citometria de fluxo, que demonstra clonalidade sem procedimento invasivo; a biópsia de linfonodo ou pleura fica para quando a citometria não bastar para o subtipo.",
+    "comentarios": {
+      "A": "Errada nas duas metades. Pseudoquilotórax exige colesterol acima de 200 e pleura espessada, e a toracoscopia não é o primeiro exame.",
+      "B": "Errada, e é a armadilha. Acerta o quilotórax, mas pula para o procedimento invasivo quando o líquido linfocítico já disponível pode mostrar a clonalidade.",
+      "C": "Errada na classificação. Triglicerídeos de 420 com colesterol de 64 é quilotórax; a tuberculose foi do outro lado.",
+      "D": "Correta. Quilotórax (triglicerídeos acima de 110) com linfocitose, sintomas B e adenomegalias: citometria de fluxo do líquido para linfoma."
+    },
+    "para_levar": "Leitoso com triglicerídeos acima de 110 é quilotórax; colesterol acima de 200 com pleura espessa é pseudoquilotórax. Quilotórax não traumático com linfócitos pede citometria de fluxo antes da toracoscopia.",
+    "referencias": "BTS Guideline for pleural disease 2023; Light RW, Pleural Diseases, 7ª ed.",
+    "tags": [
+      "Derrame Pleural (CM)"
+    ],
+    "sourceQuestionId": "046272f9a3ec30a",
+    "alvo": "Derrame pleural 2 de 5; rótulo de TB antiga e toracoscopia antes da citometria (já errou com a mesma letra de procedimento)."
+  },
+  {
+    "id": "S5-PNE-02",
+    "simulado": 5,
+    "area": "Pneumologia",
+    "titulo": "Espirometria: obstrução reversível em tabagista não é DPOC",
+    "arma": "Rótulo verdadeiro",
+    "comando": "diagnóstico",
+    "nivel": "difícil",
+    "enunciado": "Homem de 52 anos, tabagista ativo (35 maços-ano), tem tosse e chiado há 2 anos, com piora no inverno e ao sentir cheiro de tinta, e despertares noturnos por falta de ar. Refere rinite desde a juventude. Exame: sibilos expiratórios esparsos, SpO2 96% em ar ambiente. Eosinófilos 410/mm³. Espirometria: antes do broncodilatador, VEF1/CVF 0,65, VEF1 2,20 L (64% do previsto) e CVF 3,40 L; após salbutamol, VEF1/CVF 0,75, VEF1 2,80 L (81% do previsto) e CVF 3,74 L. O diagnóstico mais provável é:",
+    "alternativas": {
+      "A": "DPOC com resposta ao broncodilatador",
+      "B": "Asma em tabagista ativo",
+      "C": "Sobreposição de asma e DPOC",
+      "D": "Relação preservada com VEF1 reduzido"
+    },
+    "gabarito": "B",
+    "armadilha": "A",
+    "dado_decisivo": "após salbutamol, VEF1/CVF 0,75",
+    "resolucao": "Tabagista de 35 maços-ano com tosse e chiado leva ao diagnóstico de DPOC quase por reflexo, e a resposta ao broncodilatador parece só um detalhe, já que a DPOC também pode responder. Mas o GOLD exige relação VEF1/CVF abaixo de 0,70 após o broncodilatador, e ela foi para 0,75: não há limitação persistente ao fluxo aéreo, e sem isso não há DPOC nem sobreposição. A obstrução é variável e reverte (VEF1 subiu 600 mL, cerca de 17% do previsto, acima do limiar de 10% da ATS/ERS 2022), com sintomas noturnos, gatilhos, rinite e eosinófilos de 410: asma. O tabagismo segue sendo o problema a tratar, e a espirometria deve ser repetida no seguimento, mas hoje o diagnóstico é asma e o tratamento começa com corticoide inalatório.",
+    "comentarios": {
+      "A": "Errada, e é a armadilha. DPOC pode ter resposta ao broncodilatador, mas exige relação abaixo de 0,70 após ele; 0,75 afasta.",
+      "B": "Correta. Obstrução que normaliza após broncodilatador (relação 0,75, VEF1 81%), com sintomas noturnos, gatilhos e eosinofilia: asma.",
+      "C": "Errada. Sobreposição exige obstrução persistente após broncodilatador com traços de asma; a obstrução aqui não persiste.",
+      "D": "Errada. Relação preservada com VEF1 reduzido exige VEF1 pós-broncodilatador abaixo de 80%; foi de 81%."
+    },
+    "para_levar": "DPOC exige VEF1/CVF abaixo de 0,70 depois do broncodilatador; obstrução que normaliza é asma, mesmo no tabagista.",
+    "referencias": "GOLD 2026; GINA 2026; ATS/ERS 2022 (interpretação de testes de função pulmonar)",
+    "tags": [
+      "Espirometria (CM)",
+      "Asma - fisiopatologia e diagnóstico (CM)"
+    ],
+    "sourceQuestionId": "fefe8d602e7cc9d",
+    "alvo": "Rótulo tabagista decidindo e o número da espirometria lido como enfeite."
+  },
+  {
+    "id": "S5-PNE-03",
+    "simulado": 5,
+    "area": "Pneumologia",
+    "titulo": "Pneumonite de hipersensibilidade fibrótica que imita FPI em ex-tabagista",
+    "arma": "Grade X / Y",
+    "comando": "diagnóstico",
+    "nivel": "extremamente difícil",
+    "enunciado": "Homem de 69 anos, ex-tabagista (30 maços-ano, parou há 15 anos), tem dispneia progressiva e tosse seca há 2 anos. Desde que se aposentou, há 6 anos, cria calopsitas e periquitos numa área coberta do quintal. Nega artralgia, Raynaud, fraqueza muscular e uso de amiodarona, nitrofurantoína ou metotrexato. Exame: estertores em velcro nas bases, baqueteamento digital, SpO2 92% em ar ambiente. TCAR: reticulado subpleural com bronquiectasias de tração e faveolamento, mais extenso nos terços médios e superiores, poupando relativamente as bases posteriores, e áreas lobulares de atenuação reduzida com aprisionamento aéreo na expiração em quatro lobos. FAN, fator reumatoide, anti-CCP e painel de miosite negativos. CVF 64% do previsto, DLCO 45%. O diagnóstico mais provável e a primeira medida terapêutica são, respectivamente:",
+    "alternativas": {
+      "A": "FPI / antifibrótico",
+      "B": "FPI / afastar as aves",
+      "C": "PH fibrótica / antifibrótico",
+      "D": "PH fibrótica / afastar as aves"
+    },
+    "gabarito": "D",
+    "armadilha": "A",
+    "dado_decisivo": "áreas lobulares de atenuação reduzida com aprisionamento aéreo na expiração em quatro lobos",
+    "resolucao": "Homem idoso, ex-tabagista, com velcro, baqueteamento e faveolamento tem o perfil da fibrose pulmonar idiopática, e o antifibrótico parece o passo natural. Mas a distribuição não é a da FPI (que predomina nas bases posteriores): a fibrose é de terços médios e superiores, e há lóbulos com atenuação reduzida e aprisionamento aéreo em vários lobos, o sinal das três densidades da pneumonite de hipersensibilidade fibrótica. Some-se a exposição contínua a aves há 6 anos, que precisava ser perguntada antes de rotular como idiopática. Na PH fibrótica, a primeira medida é afastar o antígeno (as aves e as penas em casa), o que melhora a sobrevida; antifibrótico e imunossupressão entram diante de fibrose progressiva apesar do afastamento.",
+    "comentarios": {
+      "A": "Errada nas duas metades, e é a armadilha. FPI exige excluir exposição e tem predomínio basal; aqui há aves e fibrose de terços superiores com aprisionamento.",
+      "B": "Errada no diagnóstico. A conduta está certa, mas com exposição identificada e sinal das três densidades não é FPI.",
+      "C": "Errada na ordem. O diagnóstico está certo, mas antifibrótico é para fibrose progressiva apesar do afastamento do antígeno, não a primeira medida.",
+      "D": "Correta. Fibrose de terços superiores com aprisionamento lobular e exposição a aves: PH fibrótica, e primeiro se afasta o antígeno."
+    },
+    "para_levar": "Antes de chamar uma fibrose de idiopática, pergunte a exposição; fibrose de terços superiores com aprisionamento lobular é PH fibrótica, e o primeiro tratamento é afastar o antígeno.",
+    "referencias": "ATS/JRS/ALAT 2020 (pneumonite de hipersensibilidade); ATS/ERS/JRS/ALAT 2022 (FPI e fibrose pulmonar progressiva); Diretrizes SBPT de doenças pulmonares intersticiais",
+    "tags": [
+      "Pneumonite de hipersensibilidade (PH) (CM)",
+      "Fibrose Pulmonar Idiopática (FPI) (CM)"
+    ],
+    "sourceQuestionId": "973ad93411bbeb1",
+    "alvo": "Reincidente em DPI: rótulo ex-tabagista com faveolamento puxando FPI sem perguntar exposição."
+  },
+  {
+    "id": "S5-PNE-04",
+    "simulado": 5,
+    "area": "Pneumologia",
+    "titulo": "Dispneia após TEP: cintilografia V/Q para hipertensão pulmonar tromboembólica crônica",
+    "arma": "Cronologia",
+    "comando": "próximo exame",
+    "nivel": "difícil",
+    "enunciado": "Mulher de 49 anos teve tromboembolismo pulmonar bilateral há 5 meses, sem fator desencadeante, tratado com rivaroxabana, que usa regularmente. A dispneia melhorou nas primeiras semanas, mas voltou a piorar há 2 meses, hoje aos médios esforços. Nega dor torácica e síncope. Exame: SpO2 94% em ar ambiente, B2 hiperfonética, sem edema. Ecocardiograma: PSAP estimada de 62 mmHg, VD dilatado, FE do VE 66%, sem disfunção diastólica. Doppler venoso de membros inferiores sem trombose. Angiotomografia de tórax feita no mês passado, em outro serviço: sem falhas de enchimento, com perfusão em mosaico. Para investigar a causa da hipertensão pulmonar, o próximo exame mais adequado é:",
+    "alternativas": {
+      "A": "Cintilografia de ventilação e perfusão",
+      "B": "Nova angiotomografia de tórax",
+      "C": "Cateterismo direito com vasorreatividade",
+      "D": "Pesquisa de trombofilia"
+    },
+    "gabarito": "A",
+    "armadilha": "B",
+    "dado_decisivo": "voltou a piorar há 2 meses",
+    "resolucao": "A angiotomografia sem falhas de enchimento parece encerrar a hipótese de trombo, e repeti-la num centro melhor soa razoável. Mas o tempo conta: dispneia que melhora e volta a piorar depois de 3 meses de anticoagulação, com sinais de HP no eco, é o cenário da hipertensão pulmonar tromboembólica crônica, e os trombos crônicos são organizados e aderidos à parede, sem a falha de enchimento do trombo agudo. A perfusão em mosaico já é pista. O exame de triagem é a cintilografia de ventilação e perfusão, com sensibilidade acima de 95%: normal, exclui HPTEC; com defeitos segmentares, segue para cateterismo direito e angiografia em centro de referência (a HPTEC tem tratamento potencialmente curativo, a endarterectomia). Vasorreatividade é teste da HAP idiopática, e trombofilia não muda a investigação da HP.",
+    "comentarios": {
+      "A": "Correta. Dispneia que volta após 3 meses de anticoagulação com HP no eco: cintilografia V/Q, mais sensível que a angiotomografia para HPTEC.",
+      "B": "Errada, e é a armadilha. Angiotomografia é o exame do TEP agudo; para trombo crônico organizado é menos sensível que a V/Q, e normal não exclui HPTEC.",
+      "C": "Errada. O cateterismo confirma a HP e entra depois da V/Q; vasorreatividade só se testa na HAP idiopática, hereditária ou por drogas.",
+      "D": "Errada. Trombofilia pode mudar a duração da anticoagulação, mas não investiga a causa da HP."
+    },
+    "para_levar": "Dispneia persistente ou recorrente depois de 3 meses de anticoagulação por TEP: eco e, se sugerir HP, cintilografia V/Q, que é o exame de triagem da HPTEC.",
+    "referencias": "ESC/ERS 2022 (hipertensão pulmonar); ESC 2019 (embolia pulmonar aguda, seguimento); 7º Simpósio Mundial de Hipertensão Pulmonar 2024",
+    "tags": [
+      "Hipertensão Pulmonar e TEP (CM)"
+    ],
+    "sourceQuestionId": "151b3502dd93077",
+    "alvo": "Errou o exame de triagem da HPTEC (marcou angio-TC e doppler); HP ausente do lote como tema."
+  },
+  {
+    "id": "S5-PNE-05",
+    "simulado": 5,
+    "area": "Pneumologia",
+    "titulo": "Exacerbação de DPOC com acidose respiratória e sonolência: VNI, não intubação",
+    "arma": "Limiar",
+    "comando": "conduta",
+    "nivel": "difícil",
+    "enunciado": "Homem de 72 anos, com DPOC grave (VEF1 32% do previsto), chega com piora da dispneia e do escarro há 3 dias. Está sonolento, mas desperta ao chamado e obedece a comandos (Glasgow 14), com tosse eficaz e sem vômitos. PA 146 x 88 mmHg, FC 108 bpm, FR 30 irpm, uso de musculatura acessória e respiração paradoxal. Em cateter de O2 a 2 L/min, SpO2 89%. Gasometria: pH 7,27, PaCO2 72 mmHg, PaO2 58 mmHg, HCO3 33 mEq/L. Iniciados broncodilatadores, prednisona e antibiótico. A medida ventilatória mais adequada neste momento é:",
+    "alternativas": {
+      "A": "Intubação orotraqueal e ventilação mecânica",
+      "B": "Ventilação não invasiva com dois níveis de pressão",
+      "C": "Cateter nasal de alto fluxo",
+      "D": "Aumentar o O2 para SpO2 acima de 94%"
+    },
+    "gabarito": "B",
+    "armadilha": "A",
+    "dado_decisivo": "desperta ao chamado e obedece a comandos (Glasgow 14), com tosse eficaz e sem vômitos",
+    "resolucao": "Sonolência, pH de 7,27 e respiração paradoxal assustam e empurram para a intubação. Mas a indicação de VNI na exacerbação é exatamente acidose respiratória (pH até 7,35 com PaCO2 acima de 45) com dispneia grave e fadiga, e ela reduz intubação e mortalidade. A sonolência aqui é da hipercapnia e costuma melhorar com a VNI. O que contraindicaria são os limiares que o caso nega: incapacidade de proteger a via aérea, rebaixamento importante sem resposta, vômitos, instabilidade hemodinâmica. Com Glasgow 14, tosse eficaz e PA estável, inicia-se VNI em ambiente monitorizado, com gasometria em 1 a 2 horas e intubação se piorar. O alvo de saturação é 88 a 92%: mais O2 aumenta a PaCO2.",
+    "comentarios": {
+      "A": "Errada, e é a armadilha. Intubação é para falha da VNI, parada respiratória, rebaixamento sem resposta, vômitos ou instabilidade; nenhum está presente.",
+      "B": "Correta. pH 7,27 com PaCO2 72, fadiga e via aérea protegida: VNI com dois níveis de pressão e reavaliação gasométrica em 1 a 2 horas.",
+      "C": "Errada. Alto fluxo é alternativa para quem não tolera VNI; na acidose hipercápnica a VNI tem mais evidência.",
+      "D": "Errada. Na DPOC hipercápnica o alvo é 88 a 92%; hiperóxia piora a hipercapnia e a acidose."
+    },
+    "para_levar": "Exacerbação de DPOC com pH até 7,35 e PaCO2 acima de 45: VNI, mesmo com sonolência, se a via aérea está protegida e não há vômitos nem instabilidade.",
+    "referencias": "GOLD 2026; ERS/ATS 2017 (VNI na insuficiência respiratória aguda); Diretrizes Brasileiras de Ventilação Mecânica AMIB/SBPT",
+    "tags": [
+      "DPOC - exacerbação (CM)",
+      "Ventilação Não Invasiva (VNI) (CM)"
+    ],
+    "sourceQuestionId": "1a933d55cbdac8e",
+    "alvo": "Porte da conduta (procedimento a mais) com limiar numérico escrito; VNI ausente do lote."
+  },
+  {
+    "id": "S5-PNE-06",
+    "simulado": 5,
+    "area": "Pneumologia",
+    "titulo": "Adenocarcinoma de pulmão com EGFR mutado e PD-L1 alto",
+    "arma": "Rótulo verdadeiro",
+    "comando": "conduta",
+    "nivel": "difícil",
+    "enunciado": "Mulher de 58 anos, que nunca fumou, tem adenocarcinoma de pulmão com metástases ósseas e hepáticas, diagnosticado por biópsia hepática. ECOG 1. Ressonância de crânio: duas metástases assintomáticas de 6 mm. Imuno-histoquímica: PD-L1 expresso em 85% das células tumorais. Painel molecular por sequenciamento de nova geração: deleção do éxon 19 do EGFR; ALK, ROS1 e KRAS sem alterações. O tratamento de primeira linha mais adequado é:",
+    "alternativas": {
+      "A": "Pembrolizumabe isolado",
+      "B": "Quimioterapia com pembrolizumabe",
+      "C": "Osimertinibe isolado",
+      "D": "Radiocirurgia e depois quimioterapia"
+    },
+    "gabarito": "C",
+    "armadilha": "A",
+    "dado_decisivo": "deleção do éxon 19 do EGFR",
+    "resolucao": "PD-L1 de 85% é o critério de imunoterapia isolada em primeira linha, e quem lembra só dessa regra marca pembrolizumabe. Mas a regra vale para tumores sem alteração molecular acionável. Com mutação sensibilizante do EGFR (deleção do éxon 19), a imunoterapia tem resposta pobre mesmo com PD-L1 alto, e o uso prévio de anti-PD-1 aumenta a pneumonite grave quando o inibidor de tirosina-quinase vem depois. A primeira linha é o osimertinibe (FLAURA), que tem boa penetração no sistema nervoso central e trata as metástases cerebrais pequenas e assintomáticas sem radiocirurgia imediata. Por isso o painel molecular deve vir antes de iniciar imunoterapia em adenocarcinoma, sobretudo em não fumantes.",
+    "comentarios": {
+      "A": "Errada, e é a armadilha. Pembrolizumabe isolado é para PD-L1 de 50% ou mais sem driver acionável; com EGFR mutado, resposta é pobre e a toxicidade com TKI posterior aumenta.",
+      "B": "Errada. Quimioimunoterapia é para doença sem driver, independentemente do PD-L1; não é a escolha com EGFR sensibilizante.",
+      "C": "Correta. Adenocarcinoma estádio IV com deleção do éxon 19 do EGFR: osimertinibe, ativo também nas metástases cerebrais assintomáticas.",
+      "D": "Errada. Radiocirurgia imediata é para metástases sintomáticas ou maiores; com TKI de boa penetração cerebral, metástases pequenas e assintomáticas podem ser acompanhadas."
+    },
+    "para_levar": "Em adenocarcinoma avançado, o driver acionável manda mais que o PD-L1: EGFR sensibilizante pede osimertinibe, não imunoterapia.",
+    "referencias": "NCCN NSCLC 2026; ESMO 2023 (câncer de pulmão não pequenas células metastático); FLAURA (N Engl J Med 2018 e 2020)",
+    "tags": [
+      "Câncer de pulmão"
+    ],
+    "sourceQuestionId": null,
+    "alvo": "Rótulo verdadeiro (PD-L1 alto) decidindo; câncer de pulmão avançado ausente do lote."
+  },
+  {
+    "id": "S5-PNE-07",
+    "simulado": 5,
+    "area": "Emergência",
+    "titulo": "Golpe de calor por esforço em usuário de haloperidol",
+    "arma": "Negativo no meio",
+    "comando": "diagnóstico",
+    "nivel": "difícil",
+    "enunciado": "Homem de 27 anos, com esquizofrenia estável em uso de haloperidol na mesma dose há 3 anos, corria uma prova de 10 km às 11 horas, com temperatura ambiente de 34 °C, quando caiu no 9º km. Chega à tenda médica 10 minutos depois, agitado e desorientado. Temperatura retal 41,4 °C, FC 138 bpm, PA 104 x 60 mmHg, FR 30 irpm, pele quente e úmida. Pupilas isocóricas, tônus muscular normal, sem rigidez, sem clônus e reflexos simétricos, sem rigidez de nuca. Glicemia 96 mg/dL, sódio 136 mEq/L, CK 2.400 U/L. O diagnóstico mais provável é:",
+    "alternativas": {
+      "A": "Golpe de calor por esforço",
+      "B": "Síndrome neuroléptica maligna",
+      "C": "Meningite bacteriana",
+      "D": "Síndrome serotoninérgica"
+    },
+    "gabarito": "A",
+    "armadilha": "B",
+    "dado_decisivo": "tônus muscular normal, sem rigidez, sem clônus",
+    "resolucao": "Antipsicótico com febre de 41 °C, confusão e CK alta lembra síndrome neuroléptica maligna, e o haloperidol é verdadeiro. Mas a síndrome neuroléptica se instala ao longo de dias, em geral após início ou aumento de dose, e tem rigidez em cano de chumbo como achado central; aqui a dose é estável há 3 anos, o início foi abrupto durante esforço intenso no calor e o tônus é normal. Hipertermia acima de 40 °C com disfunção do sistema nervoso central durante exercício em ambiente quente é golpe de calor por esforço; a pele ainda úmida não afasta, porque o suor costuma persistir na forma por esforço, e a CK alta é da rabdomiólise do esforço. A conduta é resfriar já, no local, por imersão em água gelada até cerca de 39 °C, antes de transportar ou investigar; antitérmico e dantroleno não funcionam.",
+    "comentarios": {
+      "A": "Correta. Hipertermia acima de 40 °C com encefalopatia durante esforço no calor, sem rigidez: golpe de calor por esforço, tratado com imersão em água gelada.",
+      "B": "Errada, e é a armadilha. Exige rigidez generalizada e evolução em dias após mudança de dose; dose estável há 3 anos e tônus normal derrubam.",
+      "C": "Errada. Meningite não explica o início abrupto no esforço e cursa com rigidez de nuca, ausente.",
+      "D": "Errada. Exige droga serotoninérgica, clônus e hiper-reflexia, ausentes; haloperidol não é serotoninérgico."
+    },
+    "para_levar": "Hipertermia acima de 40 °C com encefalopatia no esforço sob calor é golpe de calor: resfriar por imersão antes de qualquer outra coisa. Sem rigidez, não é síndrome neuroléptica maligna.",
+    "referencias": "Wilderness Medical Society 2019 (doenças pelo calor); ACSM 2023 (golpe de calor por esforço)",
+    "tags": [
+      "Exaustão pelo calor (Heat Stroke) (CM)"
+    ],
+    "sourceQuestionId": null,
+    "alvo": "Rótulo verdadeiro de droga (antipsicótico) contra o negativo do exame (sem rigidez); emergência ausente do lote."
+  },
+  {
+    "id": "S5-PNE-08",
+    "simulado": 5,
+    "area": "Geriatria",
+    "titulo": "Quedas por hipotensão ortostática medicamentosa rotuladas como labirintite",
+    "arma": "Omissão",
+    "comando": "conduta",
+    "nivel": "difícil",
+    "enunciado": "Mulher de 81 anos, hipertensa, com incontinência de urgência e insônia, teve três quedas nos últimos 2 meses, todas ao levantar da cama à noite para urinar, uma com fratura de punho. Usa losartana 50 mg/dia há 5 anos, oxibutinina 5 mg duas vezes ao dia há 3 meses, amitriptilina 25 mg à noite há 2 meses, para insônia, e betaistina, iniciada após a segunda queda por labirintite. Refere tontura de quem vai desmaiar, sem vertigem rotatória. Exame: PA deitada 142 x 80 mmHg e, após 3 minutos em pé, 112 x 66 mmHg, com FC de 76 para 98 bpm; Dix-Hallpike negativo; marcha lenta, sem sinais extrapiramidais. MEEM 24 (era 28 há 1 ano). A conduta mais adequada para reduzir novas quedas é:",
+    "alternativas": {
+      "A": "Suspender amitriptilina e oxibutinina",
+      "B": "Reabilitação vestibular e manter betaistina",
+      "C": "Iniciar fludrocortisona 0,1 mg/dia",
+      "D": "Iniciar donepezila 5 mg/dia"
+    },
+    "gabarito": "A",
+    "armadilha": "B",
+    "dado_decisivo": "PA deitada 142 x 80 mmHg e, após 3 minutos em pé, 112 x 66 mmHg",
+    "resolucao": "A labirintite já está no prontuário e a tontura parece confirmá-la. Mas ela descreve pré-síncope, não vertigem, o Dix-Hallpike é negativo e a PA cai 30 mmHg em pé com aumento compensatório da FC: hipotensão ortostática não neurogênica, cuja causa mais provável são as drogas novas. Amitriptilina (bloqueio alfa e anticolinérgico) e oxibutinina (anticolinérgica) estão nos critérios de Beers para evitar no idoso, causam ortostatismo, sedação e confusão (o MEEM caiu de 28 para 24) e começaram junto com as quedas. A medida de maior impacto é retirar, não acrescentar: suspender as duas (com alternativa não anticolinérgica para a bexiga e higiene do sono ou TCC para a insônia). Fludrocortisona e donepezila tratariam efeitos das drogas com mais drogas.",
+    "comentarios": {
+      "A": "Correta. Ortostatismo e queda cognitiva após amitriptilina e oxibutinina, ambas na lista de Beers: desprescrever é a intervenção que reduz quedas.",
+      "B": "Errada, e é a armadilha. Reabilitação vestibular é para vertigem de origem vestibular; aqui a tontura é pré-síncope ortostática, e betaistina também não tem papel.",
+      "C": "Errada. Fludrocortisona é para hipotensão ortostática neurogênica sintomática depois de retirar as drogas causadoras; aqui elas ainda estão em uso.",
+      "D": "Errada. O declínio cognitivo recente coincide com dois anticolinérgicos; iniciar anticolinesterásico sem retirá-los é cascata de prescrição."
+    },
+    "para_levar": "Queda no idoso: medir PA deitado e em pé e revisar a lista de drogas pelo Beers; desprescrever vem antes de tratar o efeito adverso com outra droga.",
+    "referencias": "Critérios de Beers AGS 2023; World Guidelines for Falls Prevention 2022",
+    "tags": [
+      "Instabilidade Postural, Quedas e Imobilidade (CM)",
+      "Iatrogenias (CM)"
+    ],
+    "sourceQuestionId": null,
+    "alvo": "Geriatria ausente do lote; rótulo prévio (labirintite) e droga em uso ignorada; resposta é retirar, não somar."
+  },
+  {
+    "id": "S5-PNE-09",
+    "simulado": 5,
+    "area": "Medicina baseada em evidências",
+    "titulo": "Ensaio de não inferioridade: intervalo de confiança contra a margem",
+    "arma": "Limiar",
+    "comando": "fato solto",
+    "nivel": "difícil",
+    "enunciado": "Ensaio clínico de não inferioridade comparou um anticoagulante oral novo à varfarina na prevenção de AVC na fibrilação atrial. A margem de não inferioridade pré-especificada foi de 1,38 para a razão de riscos (hazard ratio). O resultado foi hazard ratio de 0,88, com intervalo de confiança de 95% de 0,75 a 1,03 na análise por protocolo e de 0,77 a 1,06 por intenção de tratar. A conclusão correta é que o novo anticoagulante é:",
+    "alternativas": {
+      "A": "Superior à varfarina",
+      "B": "Inconclusivo, pois o intervalo cruza 1",
+      "C": "Não inferior, sem superioridade demonstrada",
+      "D": "Equivalente à varfarina"
+    },
+    "gabarito": "C",
+    "armadilha": "B",
+    "dado_decisivo": "A margem de não inferioridade pré-especificada foi de 1,38",
+    "resolucao": "Quem lê com a lógica do ensaio de superioridade vê o intervalo cruzando 1 e conclui que não há diferença ou que o estudo é inconclusivo. Mas a pergunta de um ensaio de não inferioridade é outra: o limite superior do intervalo de confiança fica abaixo da margem pré-especificada? Aqui, 1,03 e 1,06 estão abaixo de 1,38, nas duas análises (por protocolo e por intenção de tratar, que devem concordar): a droga é não inferior. Como o intervalo inclui 1, superioridade não foi demonstrada; seria se o limite superior ficasse abaixo de 1. Equivalência exigiria margem nos dois lados, o que o desenho não testou.",
+    "comentarios": {
+      "A": "Errada. Superioridade exigiria o limite superior abaixo de 1; o hazard ratio pontual de 0,88 sozinho não basta.",
+      "B": "Errada, e é a armadilha. Cruzar 1 decide superioridade; não inferioridade se julga pelo limite superior contra a margem de 1,38.",
+      "C": "Correta. Limite superior (1,03 e 1,06) abaixo da margem de 1,38 nas duas análises, e intervalo que inclui 1: não inferior, sem superioridade.",
+      "D": "Errada. Equivalência exige o intervalo inteiro dentro de uma margem bilateral; o estudo testou só um lado."
+    },
+    "para_levar": "Não inferioridade: compare o limite superior do intervalo de confiança com a margem pré-especificada, nas análises por protocolo e por intenção de tratar; superioridade exige que ele fique abaixo de 1.",
+    "referencias": "CONSORT 2010, extensão para ensaios de não inferioridade e equivalência (JAMA 2012); FDA 2016 (Non-Inferiority Clinical Trials)",
+    "tags": [
+      "Ensaio Clínico"
+    ],
+    "sourceQuestionId": null,
+    "alvo": "Leitura de limiar numérico (margem) e tipos de estudo; MBE pouco representada no lote."
+  }
+]

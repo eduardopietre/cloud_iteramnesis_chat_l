@@ -1,0 +1,273 @@
+[
+ {
+  "id": "S3-END-01",
+  "simulado": 3,
+  "area": "Endocrinologia",
+  "titulo": "Hiperferritinemia metabólica e alcoólica: calcular a saturação antes de pensar em ferro",
+  "arma": "Limiar",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Homem de 49 anos, com diabetes tipo 2, hipertensão, hipertrigliceridemia e IMC de 34 kg/m², bebe cerca de seis doses de destilado por dia há dez anos. É encaminhado por ferritina elevada em exames de rotina. Nega transfusões, história familiar de hepatopatia ou de hemocromatose, artralgia ou disfunção erétil. Exame: circunferência abdominal de 112 cm, fígado palpável a 3 cm do rebordo, sem estigmas de cirrose. Exames: hemoglobina 15,1 g/dL, VCM 101 fL, AST 46 U/L, ALT 50 U/L, GGT 410 U/L, plaquetas 290.000/mm³, PCR 6 mg/L, ferritina 1.180 ng/mL, ferro sérico 74 µg/dL, capacidade total de ligação do ferro 352 µg/dL. Ultrassonografia: esteatose acentuada, sem sinais de hipertensão portal. A conduta mais adequada em relação à ferritina é:",
+  "alternativas": {
+   "A": "Pesquisa das mutações C282Y e H63D",
+   "B": "Ressonância magnética com quantificação de ferro",
+   "C": "Abstinência alcoólica e controle metabólico",
+   "D": "Flebotomias semanais"
+  },
+  "gabarito": "C",
+  "armadilha": "A",
+  "dado_decisivo": "ferro sérico 74 µg/dL, capacidade total de ligação do ferro 352 µg/dL",
+  "resolucao": "Ferritina acima de 1.000 ng/mL em homem de meia-idade evoca hemocromatose, e o reflexo é pedir o HFE. O número que separa os vizinhos não vem pronto: a saturação de transferrina é o ferro dividido pela capacidade total, 74/352, cerca de 21%. Abaixo de 45%, não há sobrecarga de ferro a investigar, e a ferritina reflete o que o caso descreve: síndrome metabólica com esteatose, álcool em dose alta (GGT 410, VCM 101) e inflamação. A conduta é tratar a causa, com abstinência, perda de peso e controle do diabetes, e repetir a ferritina, que cai em semanas a meses. O FIB-4 calculado (cerca de 1,1) também não pede elastografia neste momento.",
+  "comentarios": {
+   "A": "Errada. O HFE se pede com saturação de transferrina de 45% ou mais; com 21%, a genética não está indicada e um achado de heterozigose só confundiria.",
+   "B": "Errada. A ressonância quantifica ferro hepático quando há suspeita real de sobrecarga (saturação alta, HFE não conclusivo); não é o passo com saturação normal.",
+   "C": "Correta. Saturação de cerca de 21% com álcool e síndrome metabólica é hiperferritinemia dismetabólica e alcoólica: tratar a causa e repetir a ferritina.",
+   "D": "Errada. Flebotomia trata sobrecarga confirmada; sem ela, só produz anemia."
+  },
+  "para_levar": "Diante de ferritina alta, calcule a saturação de transferrina primeiro: abaixo de 45% em obeso, diabético ou etilista não é hemocromatose e não pede HFE nem ressonância.",
+  "referencias": "EASL Clinical Practice Guidelines on Haemochromatosis 2022; ACG Clinical Guideline: Hereditary Hemochromatosis 2019; AASLD MASLD Practice Guidance 2023.",
+  "tags": [
+   "Hemocromatose (CM)",
+   "Síndrome Metabólica, Obesidade e DHGNA (CM)"
+  ],
+  "sourceQuestionId": "7cbcbdc82762746",
+  "alvo": "Regra errada fixada: hiperferritinemia com IST abaixo de 45% não é sobrecarga; ele pede HFE e não calcula o IST."
+ },
+ {
+  "id": "S3-END-02",
+  "simulado": 3,
+  "area": "Endocrinologia",
+  "titulo": "Síndrome poliglandular tipo 2: levotiroxina antes do cortisol precipita crise adrenal",
+  "arma": "Cronologia",
+  "comando": "etiologia",
+  "nivel": "extremamente difícil",
+  "enunciado": "Mulher de 29 anos, com vitiligo, procurou a unidade básica há cinco semanas por cansaço, inchaço e queda de cabelo; TSH 9,8 µUI/mL, T4 livre 0,7 ng/dL (0,8 a 1,8), anti-TPO positivo, e iniciou levotiroxina 75 µg/dia. Há dez dias tem piora progressiva da astenia, náuseas, vômitos, dor abdominal e tontura ao levantar. Nega febre, diarreia ou viagem. Exame: PA 84/50 mmHg deitada, FC 118 bpm, mucosas secas, escurecimento de cicatrizes antigas e de pregas palmares, tireoide sem bócio, sem tremor. Exames: sódio 126 mEq/L, potássio 5,9 mEq/L, glicemia 61 mg/dL, creatinina 1,5 mg/dL, cálcio 9,6 mg/dL, TSH 6,1 µUI/mL, T4 livre 1,2 ng/dL. A causa mais provável da descompensação atual é:",
+  "alternativas": {
+   "A": "Tireotoxicose por excesso de levotiroxina",
+   "B": "Crise adrenal precipitada pela levotiroxina",
+   "C": "Hipotireoidismo ainda não compensado",
+   "D": "Gastroenterite com desidratação"
+  },
+  "gabarito": "B",
+  "armadilha": "A",
+  "dado_decisivo": "escurecimento de cicatrizes antigas e de pregas palmares",
+  "resolucao": "A piora começou semanas depois de iniciar levotiroxina, com taquicardia, e a leitura de excesso leva a culpar a dose. O TSH de 6,1 com T4 livre de 1,2 afasta tireotoxicose. A cronologia diz outra coisa: a levotiroxina acelera o metabolismo do cortisol e aumenta a demanda, e numa insuficiência adrenal ainda não reconhecida isso precipita a crise. O caso tem a assinatura de insuficiência adrenal primária: hiperpigmentação de cicatrizes e pregas, hiponatremia, hipercalemia, hipoglicemia e hipotensão. Com vitiligo e Hashimoto, é síndrome poliglandular tipo 2, e o TSH inicial pode até ter sido elevado em parte pela própria falta de cortisol. A conduta é hidrocortisona venosa imediata; em suspeita de SPA2, o cortisol é avaliado e reposto antes da levotiroxina.",
+  "comentarios": {
+   "A": "Errada. Excesso de levotiroxina daria TSH suprimido e T4 livre alto; a taquicardia aqui é de hipovolemia.",
+   "B": "Correta. Hiperpigmentação, hipercalemia, hiponatremia e hipoglicemia após iniciar levotiroxina: a reposição tireoidiana precipitou a crise de uma insuficiência adrenal primária oculta.",
+   "C": "Errada. TSH e T4 livre já melhoraram; hipotireoidismo não causa hipercalemia nem hiperpigmentação.",
+   "D": "Errada. Não há diarreia nem febre, e gastroenterite não explica hipercalemia, hipoglicemia e escurecimento de cicatrizes."
+  },
+  "para_levar": "Em autoimunidade poliglandular, avalie o cortisol antes de iniciar levotiroxina; se ambos faltam, hidrocortisona primeiro, porque a levotiroxina pode precipitar crise adrenal.",
+  "referencias": "Endocrine Society, Diagnosis and Treatment of Primary Adrenal Insufficiency 2016; ATA Guidelines for the Treatment of Hypothyroidism 2014.",
+  "tags": [
+   "Insuficiência Adrenal (CM)",
+   "Hipotireoidismo (CM)"
+  ],
+  "sourceQuestionId": "fd9bfae8c4a73ba",
+  "alvo": "SPA2 reincidente e excesso x deficiência: ordem cortisol antes de levotiroxina."
+ },
+ {
+  "id": "S3-END-03",
+  "simulado": 3,
+  "area": "Endocrinologia",
+  "titulo": "Macroadenoma gigante com prolactina modesta: efeito gancho antes da cirurgia",
+  "arma": "Rótulo verdadeiro",
+  "comando": "próximo exame",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 46 anos procura atendimento por cefaleia frontal há oito meses e perda de libido e disfunção erétil há dois anos. Exame: hemianopsia temporal bilateral à confrontação, ginecomastia discreta, sem galactorreia, testículos de volume normal. Ressonância magnética: macroadenoma hipofisário de 4,3 cm, com invasão do seio cavernoso direito e compressão do quiasma óptico. Exames: prolactina 62 ng/mL (até 15), testosterona total 98 ng/dL (300 a 1.000), LH 1,1 UI/L, cortisol às 8 horas 16,8 µg/dL, T4 livre 0,9 ng/dL (0,8 a 1,8), IGF-1 normal para a idade. A neurocirurgia programa cirurgia transesfenoidal para a próxima semana por adenoma não funcionante com desconexão de haste. Antes de decidir, o exame mais adequado é:",
+  "alternativas": {
+   "A": "Prolactina com diluição da amostra",
+   "B": "Nenhum exame antes da cirurgia",
+   "C": "Pesquisa de macroprolactina",
+   "D": "Teste de estímulo com cosintropina"
+  },
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "macroadenoma hipofisário de 4,3 cm, com invasão do seio cavernoso direito",
+  "resolucao": "Prolactina abaixo de 100 a 150 ng/mL com macroadenoma é, na maioria das vezes, hiperprolactinemia por desconexão de haste, e esse rótulo verdadeiro já está escrito no parecer. O problema é o tamanho: num adenoma de 4,3 cm, invasivo, prolactinoma gigante produz prolactina na casa dos milhares, e o excesso de antígeno satura os dois anticorpos do ensaio imunométrico, devolvendo um valor falsamente baixo (efeito gancho). Uma prolactina modesta, portanto, não separa os dois diagnósticos nesse tamanho. Repetir a dosagem com diluição seriada (1:100) resolve, e o resultado muda tudo: prolactinoma se trata com cabergolina, mesmo com compressão do quiasma, e não com cirurgia. O cortisol de 16,8 já afasta deficiência adrenal relevante, e macroprolactina não é a dúvida com tumor desse porte.",
+  "comentarios": {
+   "A": "Correta. Macroadenoma grande com prolactina modesta exige excluir efeito gancho com diluição antes de rotular como não funcionante.",
+   "B": "Errada. Seria aceitável num macroadenoma pequeno, de 1 a 2 cm; com 4,3 cm, operar um prolactinoma gigante é trocar o tratamento clínico eficaz por cirurgia de alto risco.",
+   "C": "Errada. Macroprolactina explica prolactina alta com pouca clínica; aqui a dúvida é o valor estar falsamente baixo.",
+   "D": "Errada. Seria o exame com cortisol matinal entre 3 e 15 µg/dL; 16,8 µg/dL dispensa estímulo."
+  },
+  "para_levar": "Macroadenoma acima de 3 cm com prolactina abaixo de 200: peça dosagem com diluição para excluir efeito gancho antes de chamar de não funcionante e operar.",
+  "referencias": "Endocrine Society, Hyperprolactinemia 2011; Pituitary Society consensus on prolactinomas (Petersenn et al., Nat Rev Endocrinol 2023).",
+  "tags": [
+   "Prolactinoma (CM)",
+   "Hipófise (CM)"
+  ],
+  "sourceQuestionId": "414edfd2cbacef8",
+  "alvo": "Prolactinoma 0 de 3: faixas de PRL por causa; o número modesto lido sem o contexto do tamanho."
+ },
+ {
+  "id": "S3-END-04",
+  "simulado": 3,
+  "area": "Endocrinologia",
+  "titulo": "Hipofisite por imunoterapia combinada: eixo central e ordem da reposição",
+  "arma": "Grade X / Y",
+  "comando": "diagnóstico",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 58 anos, com melanoma metastático, recebe ipilimumabe e nivolumabe há dez semanas. Há duas semanas tem cefaleia, astenia intensa, anorexia e náuseas. Sem febre ou diarreia. Exame: PA 96/60 mmHg, FC 104 bpm, sem hiperpigmentação, tireoide sem bócio. Exames: sódio 128 mEq/L, potássio 4,4 mEq/L, glicemia 72 mg/dL, cortisol às 8 horas 1,9 µg/dL, ACTH 6 pg/mL (10 a 60), TSH 0,22 µUI/mL (0,4 a 4,5), T4 livre 0,6 ng/dL (0,8 a 1,8), testosterona baixa com LH baixo. Ressonância de sela: aumento difuso e homogêneo da hipófise, com espessamento da haste. O diagnóstico e a primeira medida terapêutica são, respectivamente:",
+  "alternativas": {
+   "A": "Tireoidite por imunoterapia / levotiroxina",
+   "B": "Hipofisite / levotiroxina",
+   "C": "Tireoidite por imunoterapia / hidrocortisona",
+   "D": "Hipofisite / hidrocortisona"
+  },
+  "gabarito": "D",
+  "armadilha": "A",
+  "dado_decisivo": "cortisol às 8 horas 1,9 µg/dL, ACTH 6 pg/mL (10 a 60)",
+  "resolucao": "Tireoidite é o evento endócrino mais frequente dos inibidores de checkpoint, e TSH baixo com T4 livre baixo pode ser lido como a transição de uma tireoidite destrutiva para o hipotireoidismo, levando à levotiroxina. O que decide é o eixo adrenal: cortisol de 1,9 com ACTH baixo é insuficiência adrenal central, e junto com hipogonadismo hipogonadotrófico, hipotireoidismo central e hipófise aumentada na ressonância fecha hipofisite, típica do anti-CTLA-4 (ipilimumabe), sobretudo em combinação. O potássio normal e a pele sem hiperpigmentação confirmam que a adrenal está íntegra. A ordem é a mesma de todo hipopituitarismo: hidrocortisona primeiro, e levotiroxina só alguns dias depois, porque o hormônio tireoidiano antes do cortisol pode precipitar crise adrenal. Dose alta de glicocorticoide só para efeito de massa grave; a imunoterapia em geral pode continuar.",
+  "comentarios": {
+   "A": "Errada nas duas metades: ACTH baixo e hipófise aumentada indicam doença central, e levotiroxina antes do cortisol arrisca crise adrenal.",
+   "B": "Errada. O diagnóstico está certo, mas a levotiroxina antes da hidrocortisona inverte a ordem.",
+   "C": "Errada. A medida está certa, mas tireoidite não explica cortisol e ACTH baixos nem a hipófise aumentada.",
+   "D": "Correta. Hipofisite por anti-CTLA-4 com deficiência de ACTH, TSH e gonadotrofinas: repor hidrocortisona antes da levotiroxina."
+  },
+  "para_levar": "Sob imunoterapia, TSH baixo com T4 livre baixo é hipotireoidismo central até prova em contrário: dose cortisol e ACTH, e reponha hidrocortisona antes da levotiroxina.",
+  "referencias": "ASCO Guideline: Management of Immune-Related Adverse Events 2021; ESMO Clinical Practice Guideline on toxicities from immunotherapy 2022; Endocrine Society, Hypopituitarism 2016.",
+  "tags": [
+   "Hipófise (CM)",
+   "Insuficiência Adrenal (CM)"
+  ],
+  "sourceQuestionId": "c708be7a2052199",
+  "alvo": "Hipofisite por anti-PD1 errada: droga em uso ignorada e eixo hipofisário não pensado; ordem cortisol antes de levotiroxina."
+ },
+ {
+  "id": "S3-END-05",
+  "simulado": 3,
+  "area": "Endocrinologia",
+  "titulo": "Glicosúria com glicemia normal em não diabético usando iSGLT2",
+  "arma": "Omissão",
+  "comando": "próximo exame",
+  "nivel": "média",
+  "enunciado": "Homem de 64 anos, com insuficiência cardíaca de fração de ejeção reduzida (FE 30%) por cardiopatia isquêmica, sem diabetes, usa sacubitril-valsartana, bisoprolol, espironolactona e dapagliflozina 10 mg, esta acrescentada há dois meses. Sem poliúria nova ou sede. Exames de rotina: glicemia de jejum 91 mg/dL, HbA1c 5,5%, creatinina 1,28 mg/dL (era 1,15 antes da dapagliflozina), potássio 4,8 mEq/L, bicarbonato 24 mEq/L, fósforo 3,4 mg/dL, ácido úrico 4,9 mg/dL. Urina tipo 1: glicose 4+, proteína negativa, pH 5,5, sem leucocitúria. Diante da glicosúria, a conduta mais adequada é:",
+  "alternativas": {
+   "A": "Teste oral de tolerância à glicose",
+   "B": "Pesquisa de tubulopatia proximal",
+   "C": "Suspender a dapagliflozina e repetir a urina",
+   "D": "Nenhuma investigação adicional"
+  },
+  "gabarito": "D",
+  "armadilha": "A",
+  "dado_decisivo": "dapagliflozina 10 mg, esta acrescentada há dois meses",
+  "resolucao": "Glicosúria 4+ evoca diabetes e leva ao teste de tolerância, ou, com glicemia normal, a uma tubulopatia proximal. A explicação está na lista de drogas: a dapagliflozina inibe o cotransportador SGLT2 do túbulo proximal, que reabsorve a maior parte da glicose filtrada, e produz glicosúria intensa com qualquer glicemia, inclusive normal. É o efeito farmacológico pretendido, e em não diabético não causa hipoglicemia. A síndrome de Fanconi traria fósforo baixo, ácido úrico baixo, acidose e aminoacidúria, ausentes. A creatinina subiu cerca de 11%, a queda hemodinâmica esperada da TFG (aceitável até 30%), e não é motivo para suspender um fármaco que reduz morte e internação na IC. Não há o que investigar.",
+  "comentarios": {
+   "A": "Errada. Seria o exame de glicosúria com glicemia limítrofe sem droga que a explique; com HbA1c de 5,5% em uso de iSGLT2, não informa nada.",
+   "B": "Errada. Seria a pesquisa com glicosúria normoglicêmica sem iSGLT2 e com fosfatúria, hipouricemia ou acidose, que não existem aqui.",
+   "C": "Errada. A glicosúria é o efeito do fármaco, e a elevação de 11% da creatinina é a queda inicial esperada; suspender tira o benefício na IC.",
+   "D": "Correta. Glicosúria com glicemia normal em uso de iSGLT2 é o mecanismo de ação da droga."
+  },
+  "para_levar": "Glicosúria com glicemia normal em quem usa iSGLT2 é o efeito da droga no túbulo proximal; não investigue diabetes nem tubulopatia.",
+  "referencias": "ESC Guidelines for Heart Failure 2021 e atualização 2023; KDIGO Diabetes in CKD 2022; Diretriz Brasileira de Insuficiência Cardíaca SBC 2021.",
+  "tags": [
+   "iSGLT2 (CM)"
+  ],
+  "sourceQuestionId": "3976b300973898f",
+  "alvo": "Mecanismo do iSGLT2 (glicosúria com glicemia normal) errado; e exame a mais diante de achado esperado."
+ },
+ {
+  "id": "S3-END-06",
+  "simulado": 3,
+  "area": "Endocrinologia",
+  "titulo": "Estado hiperosmolar hiperglicêmico: volume antes da insulina",
+  "arma": "Rótulo verdadeiro",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 79 anos, com diabetes tipo 2 em metformina e gliclazida, é trazida da instituição de longa permanência por sonolência progressiva há quatro dias, após infecção urinária. Exame: Glasgow 11, mucosas muito secas, PA 86/52 mmHg, FC 118 bpm, T 37,8 °C, peso estimado 55 kg. Exames: glicemia 912 mg/dL, sódio 141 mEq/L, potássio 4,9 mEq/L, ureia 128 mg/dL, creatinina 2,3 mg/dL, pH 7,34, bicarbonato 20 mEq/L, beta-hidroxibutirato 0,8 mmol/L, osmolalidade efetiva calculada 357 mOsm/kg. A conduta inicial mais adequada é:",
+  "alternativas": {
+   "A": "SF 0,9% com bolus de insulina simultâneo",
+   "B": "SF 0,45% desde o início, pelo sódio corrigido",
+   "C": "SF 0,9% e insulina contínua após a expansão inicial",
+   "D": "Bicarbonato venoso e insulina contínua"
+  },
+  "gabarito": "C",
+  "armadilha": "A",
+  "dado_decisivo": "PA 86/52 mmHg, FC 118 bpm",
+  "resolucao": "Glicemia de 912 é o rótulo que pede insulina já. No estado hiperosmolar, porém, o problema central é o déficit de água e sódio (cerca de 100 a 200 mL/kg), e a paciente está hipotensa. A insulina desloca glicose e, com ela, água do intravascular para a célula; dada antes da reposição de volume, pode precipitar colapso circulatório e queda brusca da osmolalidade. Por isso a primeira medida é soro fisiológico a 0,9%, e a insulina contínua (sem necessidade de bolus) entra depois da expansão inicial, com potássio de 4,9 permitindo; parte das diretrizes só a inicia quando a glicemia deixa de cair com o fluido isolado. O sódio corrigido de cerca de 154 mEq/L não muda o fluido inicial, que é isotônico; a solução hipotônica só se considera depois, se a osmolalidade não cair. Beta-hidroxibutirato de 0,8 e pH de 7,34 afastam cetoacidose relevante.",
+  "comentarios": {
+   "A": "Errada. Insulina em bolus junto com a primeira expansão, em paciente hipotensa e hiperosmolar, arrisca colapso e queda rápida da osmolalidade; seria mais aceitável na cetoacidose com volume restabelecido.",
+   "B": "Errada. O fluido inicial de qualquer crise hiperglicêmica com hipovolemia é isotônico; a solução a 0,45% é ajuste posterior.",
+   "C": "Correta. Expansão com SF 0,9% primeiro, e insulina contínua só depois da expansão inicial, com potássio adequado.",
+   "D": "Errada. Não há acidose que indique bicarbonato (pH 7,34)."
+  },
+  "para_levar": "No estado hiperosmolar hipovolêmico, o volume vem antes da insulina: SF 0,9% primeiro, insulina contínua sem bolus depois, com queda de osmolalidade lenta.",
+  "referencias": "ADA consensus report: Hyperglycemic crises in adults with diabetes (Umpierrez et al., Diabetes Care 2024); JBDS-IP Management of HHS in adults 2022; SBD 2024.",
+  "tags": [
+   "Estado Hipersomolar Hiperglicêmico (CM)",
+   "Emergências Hiperglicêmicas (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Ordem da conduta na crise hiperglicêmica (CAD e fluidos é tema UERJ recorrente): o número alto puxa a droga antes do volume."
+ },
+ {
+  "id": "S3-END-07",
+  "simulado": 3,
+  "area": "Endocrinologia",
+  "titulo": "Tireoidite subaguda tratada com metimazol: destruição, não síntese",
+  "arma": "Rótulo verdadeiro",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 42 anos procurou a UPA há cinco dias por palpitações e foi medicada com metimazol 20 mg/dia e propranolol. Retorna com piora de dor na região anterior do pescoço, irradiada para a mandíbula e o ouvido esquerdo, iniciada três semanas após um quadro gripal, e febre baixa. Usou ibuprofeno 600 mg três vezes ao dia por quatro dias, sem melhora da dor. Exame: T 37,9 °C, FC 92 bpm, tireoide endurecida, dolorosa à palpação, sem nódulos. Exames: TSH 0,01 µUI/mL, T4 livre 3,4 ng/dL (0,8 a 1,8), T3 total 210 ng/dL (80 a 200), VHS 92 mm/h, TRAb negativo, leucócitos 9.800/mm³. Ultrassonografia: áreas hipoecogênicas mal definidas, com fluxo reduzido ao Doppler. Além de manter o propranolol, a conduta mais adequada é:",
+  "alternativas": {
+   "A": "Manter metimazol e trocar o anti-inflamatório",
+   "B": "Suspender metimazol e iniciar prednisona",
+   "C": "Manter metimazol e associar prednisona",
+   "D": "Suspender metimazol e programar iodo radioativo"
+  },
+  "gabarito": "B",
+  "armadilha": "C",
+  "dado_decisivo": "áreas hipoecogênicas mal definidas, com fluxo reduzido ao Doppler",
+  "resolucao": "O metimazol já prescrito é o rótulo verdadeiro: há tireotoxicose bioquímica franca, e a tendência é manter a tionamida e só somar algo para a dor. Mas a tireoidite subaguda é tireotoxicose por destruição: o hormônio sai pronto do folículo inflamado, e a síntese está desligada (fluxo reduzido ao Doppler, captação baixa se medida, TRAb negativo, VHS de 92). Tionamida bloqueia síntese, não tem efeito aqui e só acrescenta risco e hipotireoidismo posterior. O tratamento é sintomático: betabloqueador para a adrenérgica e anti-inflamatório para a dor; como o ibuprofeno em dose plena falhou, prednisona (cerca de 40 mg/dia, com retirada em semanas).",
+  "comentarios": {
+   "A": "Errada. Manter a tionamida não tem base na destruição folicular, e trocar um anti-inflamatório não esteroide por outro após falha não é o passo indicado.",
+   "B": "Correta. Na tireoidite subaguda, a tionamida não age; com falha do anti-inflamatório, prednisona e betabloqueador.",
+   "C": "Errada. A prednisona está certa, mas o metimazol não tem papel na tireotoxicose destrutiva.",
+   "D": "Errada. Iodo radioativo não é captado na glândula inflamada e não tem indicação numa doença autolimitada."
+  },
+  "para_levar": "Tireotoxicose com tireoide dolorosa, VHS alta e fluxo reduzido é destruição: betabloqueador e anti-inflamatório (prednisona se falhar), nunca tionamida.",
+  "referencias": "ATA Guidelines for Hyperthyroidism and Other Causes of Thyrotoxicosis 2016; Consenso Brasileiro de Hipertireoidismo SBEM 2013.",
+  "tags": [
+   "Tireoidite Subaguda (CM)",
+   "Tireoidites (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Excesso x destruição e manutenção acrítica da droga já em uso; trata o eixo errado."
+ },
+ {
+  "id": "S3-END-08",
+  "simulado": 3,
+  "area": "Endocrinologia",
+  "titulo": "Carcinoma medular com RET positivo: excluir feocromocitoma antes da tireoidectomia",
+  "arma": "Negativo no meio",
+  "comando": "próximo exame",
+  "nivel": "extremamente difícil",
+  "enunciado": "Mulher de 34 anos tem nódulo tireoidiano de 2,1 cm cuja punção mostrou carcinoma medular, com calcitonina sérica de 380 pg/mL e CEA de 18 ng/mL. O pai foi operado de tumor de tireoide aos 40 anos e morreu subitamente durante uma colecistectomia. Nega cefaleia, palpitações ou sudorese. Exame: PA 122/78 mmHg, FC 78 bpm, sem linfonodos cervicais palpáveis. Exames: cálcio 9,4 mg/dL, PTH 38 pg/mL. Ultrassonografia cervical sem linfonodos suspeitos. Pesquisa do proto-oncogene RET: mutação no códon 634. Antes da tireoidectomia, o exame indispensável é:",
+  "alternativas": {
+   "A": "Metanefrinas livres plasmáticas",
+   "B": "Tomografia de tórax e abdome",
+   "C": "Cintilografia com sestamibi",
+   "D": "PET-CT com FDG"
+  },
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "Pesquisa do proto-oncogene RET: mutação no códon 634",
+  "resolucao": "A paciente nega paroxismos e está normotensa, e esse negativo no meio convida a seguir direto para a cirurgia do câncer, no máximo com estadiamento por imagem. Mas o códon 634 do RET é a mutação da neoplasia endócrina múltipla 2A de maior risco, com feocromocitoma em cerca de metade dos portadores, frequentemente silencioso; a morte súbita do pai durante uma cirurgia é a pista de um feocromocitoma não diagnosticado. Todo paciente com carcinoma medular, e obrigatoriamente o portador de RET, precisa ter feocromocitoma excluído por metanefrinas antes de qualquer cirurgia; se presente, ele é operado primeiro, após bloqueio alfa. A calcitonina abaixo de 500 pg/mL e o pescoço sem linfonodos dispensam imagem de estadiamento sistêmico, e o cálcio normal com PTH normal afasta hiperparatireoidismo neste momento.",
+  "comentarios": {
+   "A": "Correta. Feocromocitoma é excluído por metanefrinas em todo carcinoma medular antes da tireoidectomia, sintomático ou não.",
+   "B": "Errada. Seria indicada com calcitonina acima de 500 pg/mL ou doença cervical extensa, para procurar metástase a distância.",
+   "C": "Errada. Seria o exame de localização com hiperparatireoidismo primário bioquímico, que aqui não existe (cálcio e PTH normais).",
+   "D": "Errada. PET-FDG tem papel em carcinoma medular avançado e de progressão rápida, não no estadiamento inicial de doença limitada."
+  },
+  "para_levar": "Carcinoma medular de tireoide: dose metanefrinas antes da tireoidectomia, mesmo sem sintomas; feocromocitoma presente é operado primeiro, após bloqueio alfa.",
+  "referencias": "ATA Revised Guidelines for Medullary Thyroid Carcinoma 2015; Endocrine Society, Pheochromocytoma and Paraganglioma 2014.",
+  "tags": [
+   "Feocromocitoma (CM)",
+   "Nódulos Tireoideanos (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Negativo que tranquiliza e exame do degrau seguinte (imagem) no lugar do exame que muda a ordem da conduta."
+ }
+]

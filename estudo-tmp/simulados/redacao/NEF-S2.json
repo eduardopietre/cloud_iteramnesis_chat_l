@@ -1,0 +1,250 @@
+[
+  {
+    "id": "S2-NEF-01",
+    "simulado": 2,
+    "area": "Nefrologia",
+    "titulo": "Hiponatremia na insuficiência cardíaca · volemia pelo exame físico: restrição hídrica e diurético x salina",
+    "arma": "Grade X / Y",
+    "comando": "conduta",
+    "nivel": "extremamente difícil",
+    "enunciado": "Homem de 74 anos, com insuficiência cardíaca de fração de ejeção reduzida (FE 28%) em uso de sacubitril-valsartana, carvedilol, espironolactona, dapagliflozina e furosemida 40 mg/dia, é internado por dispneia aos mínimos esforços e ganho de 5 kg em duas semanas. Por conselho de um vizinho, passou a beber pelo menos três litros de água por dia para proteger os rins. Exame: lúcido, sem déficits, PA 104/68 mmHg, FC 92 bpm, turgência jugular a 45 graus, estertores até o terço médio de ambos os hemitórax e edema 3+ até as coxas. Exames: sódio 124 mEq/L (era 136 mEq/L há dois meses), potássio 4,6 mEq/L, ureia 68 mg/dL, creatinina 1,4 mg/dL (basal 1,2), glicemia 110 mg/dL, osmolalidade plasmática 262 mOsm/kg, osmolalidade urinária 410 mOsm/kg e sódio urinário de 18 mEq/L, colhido 22 horas após a última dose de furosemida. O mecanismo da hiponatremia e a conduta são, respectivamente:",
+    "alternativas": {
+      "A": "Hipervolemia / restrição hídrica e furosemida IV",
+      "B": "Hipervolemia / suspender furosemida e salina isotônica",
+      "C": "Hipovolemia por diurético / restrição hídrica e furosemida IV",
+      "D": "Hipovolemia por diurético / suspender furosemida e salina isotônica"
+    },
+    "gabarito": "A",
+    "armadilha": "D",
+    "dado_decisivo": "turgência jugular a 45 graus, estertores até o terço médio de ambos os hemitórax e edema 3+ até as coxas",
+    "resolucao": "Depois de errar duas vezes uma hiponatremia em que o rótulo de IC escondia hipovolemia por furosemida, a tentação é generalizar: IC com diurético e sódio baixo seria sempre depleção, e a resposta seria suspender o diurético e dar salina (D). Mas a volemia se lê no exame físico do dia, não no diagnóstico de base: turgência jugular, estertores até o terço médio e edema até as coxas, com 5 kg ganhos, são congestão franca. O sódio urinário baixo, colhido longe da dose de furosemida, mostra retenção ávida de sódio por volume arterial efetivo baixo, e a urina concentrada (410 mOsm/kg) mostra ADH não osmótico ativo; os três litros de água por dia fornecem a água livre que ele não consegue excretar. O tratamento é restringir água livre e intensificar o diurético de alça, que, por produzir urina relativamente hipotônica, também ajuda o sódio a subir. Salina isotônica num congesto piora o edema pulmonar e quase não corrige o sódio, porque o rim retém o sal e não excreta a água.",
+    "comentarios": {
+      "A": "Correta. Congestão no exame (turgência, estertores, edema 3+) com sódio urinário baixo longe da dose de diurético define hiponatremia hipervolêmica; restrição de água livre e furosemida IV tratam a congestão e o sódio.",
+      "B": "Errada. O mecanismo está certo, mas suspender o diurético e dar salina num paciente com estertores até o terço médio agrava a congestão; a salina só caberia na depleção.",
+      "C": "Errada. Restrição e diurético seria a conduta certa, mas o mecanismo não é hipovolemia: não há nenhum sinal de depleção, e sim de congestão.",
+      "D": "Errada, é a armadilha. Seria a resposta no paciente com IC superdiurético, sem edema, com mucosas secas, ureia subindo e hipotensão postural (o caso da questão que ele errou duas vezes); aqui o exame mostra congestão."
+    },
+    "para_levar": "Na IC, a volemia da hiponatremia se decide no exame físico do dia, não no rótulo da doença nem no uso de diurético: o congesto pede restrição hídrica e diurético de alça; o depletado pede suspender o diurético e salina.",
+    "referencias": "ESC 2021 (Insuficiência cardíaca) com atualização 2023; Diretriz Brasileira de IC Crônica e Aguda (SBC 2018); Spasovski et al., Diretriz europeia de hiponatremia (2014).",
+    "tags": ["Hiponatremia (CM)", "Descompensações Agudas da Insuficiência Cardíaca (CM)"],
+    "sourceQuestionId": "eb88f2ca5571ee6",
+    "alvo": "Hiponatremia na IC (reincidente, mesma letra 2x): ler a volemia no exame e não no rótulo, sem supercorrigir para diurético = hipovolemia."
+  },
+  {
+    "id": "S2-NEF-02",
+    "simulado": 2,
+    "area": "Nefrologia",
+    "titulo": "Hipercalemia com ECG alterado no dialítico faltoso · repetir o gluconato de cálcio enquanto o ECG não normaliza",
+    "arma": "Cronologia",
+    "comando": "conduta",
+    "nivel": "difícil",
+    "enunciado": "Homem de 58 anos, em hemodiálise três vezes por semana por doença renal do diabetes, faltou às duas últimas sessões e chega com fraqueza nas pernas há seis horas. Exame: lúcido, PA 134/80 mmHg, FC 46 bpm, SpO2 95% em ar ambiente, sem estertores, edema 1+. ECG: ausência de onda P, QRS de 160 ms e ondas T apiculadas. Exames: potássio 7,6 mEq/L, glicemia 214 mg/dL, bicarbonato 17 mEq/L. Recebeu 10 mL de gluconato de cálcio a 10% IV em três minutos e 10 UI de insulina regular com 25 g de glicose IV. Dez minutos depois, o ECG mantém QRS de 150 ms e FC de 48 bpm. A sala de hemodiálise estará disponível em 60 minutos. A conduta mais adequada neste momento é:",
+    "alternativas": {
+      "A": "Bicarbonato de sódio a 8,4% IV",
+      "B": "Nova dose de gluconato de cálcio",
+      "C": "Nova dose de insulina com glicose",
+      "D": "Aguardar a hemodiálise monitorizado"
+    },
+    "gabarito": "B",
+    "armadilha": "D",
+    "dado_decisivo": "Dez minutos depois, o ECG mantém QRS de 150 ms",
+    "resolucao": "O apressado acha que, feitos o cálcio e a insulina, resta esperar a diálise, que é o tratamento definitivo no anúrico. Mas o cálcio não baixa o potássio: ele estabiliza a membrana do miocárdio, age em 1 a 3 minutos e dura 30 a 60 minutos, e se o ECG não normaliza em 5 a 10 minutos a dose deve ser repetida, porque o risco imediato é a parada em assistolia ou fibrilação ventricular, e não o número do potássio. A insulina começa a agir em 10 a 20 minutos, tem pico em 30 a 60, e repeti-la agora só aumenta o risco de hipoglicemia, que é frequente no renal crônico. O bicarbonato tem efeito pequeno e lento sobre o potássio, ainda menor no paciente em diálise, e não protege o miocárdio. Com QRS ainda de 150 ms e bradicardia, a prioridade é nova dose de gluconato de cálcio, enquanto se prepara a hemodiálise, que é o que remove o potássio de fato.",
+    "comentarios": {
+      "A": "Errada. O bicarbonato desloca pouco potássio para dentro da célula, com latência longa e efeito ainda menor no dialítico; seria adjuvante na acidose grave, não a resposta a um QRS alargado persistente.",
+      "B": "Correta. ECG que continua alterado dez minutos após o cálcio exige repetir a dose; o cálcio é a única medida que protege o miocárdio em minutos.",
+      "C": "Errada. A insulina já foi dada e está na latência; repetir não acelera a queda do potássio e aumenta a hipoglicemia.",
+      "D": "Errada, é a armadilha. A hemodiálise é o tratamento definitivo e deve ser preparada, mas esperar 60 minutos com QRS de 150 ms e bradicardia expõe o paciente a parada; a estabilização tem de ser mantida até lá."
+    },
+    "para_levar": "Na hipercalemia com ECG alterado, o gluconato de cálcio vem primeiro e se repete enquanto o ECG não normaliza; insulina e beta-2 agonista deslocam o potássio, só a diálise (ou o rim) o remove.",
+    "referencias": "UK Kidney Association, Treatment of Acute Hyperkalaemia in Adults (2023); KDIGO Controversies Conference on potassium (2020); AHA ACLS 2020 (situações especiais).",
+    "tags": ["Hiperpotassemia (CM)", "ECG de distúrbios hidroeletrolíticos (CM)"],
+    "sourceQuestionId": "d082e8505f079d8",
+    "alvo": "Ordem na hipercalemia: o ECG manda no cálcio (dar e repetir); a diálise é o definitivo, não o imediato."
+  },
+  {
+    "id": "S2-NEF-03",
+    "simulado": 2,
+    "area": "Nefrologia",
+    "titulo": "Acidose hiperclorêmica no Sjögren · ânion gap urinário: acidose tubular distal x perda intestinal",
+    "arma": "Rótulo verdadeiro",
+    "comando": "etiologia",
+    "nivel": "extremamente difícil",
+    "enunciado": "Mulher de 46 anos, com síndrome de Sjögren primária (anti-Ro reagente) há seis anos, em uso de hidroxicloroquina, procura atendimento por fraqueza e cãibras há três semanas. Há cinco semanas toma diariamente um chá de sene para emagrecer, com quatro a cinco evacuações amolecidas por dia. Nega litíase renal. Exame: PA 108/70 mmHg, FC 96 bpm, sem edema. Exames séricos: sódio 137 mEq/L, potássio 2,9 mEq/L, cloro 114 mEq/L, bicarbonato 14 mEq/L, pH 7,29, pCO2 30 mmHg, albumina 4,0 g/dL, creatinina 0,8 mg/dL. Urina de amostra: pH 6,0, sódio 38 mEq/L, potássio 30 mEq/L e cloro 92 mEq/L. A causa mais provável da acidose é:",
+    "alternativas": {
+      "A": "Acidose tubular renal distal (tipo 1)",
+      "B": "Acidose tubular renal proximal (tipo 2)",
+      "C": "Perda intestinal de bicarbonato",
+      "D": "Acidose tubular renal tipo 4"
+    },
+    "gabarito": "C",
+    "armadilha": "A",
+    "dado_decisivo": "sódio 38 mEq/L, potássio 30 mEq/L e cloro 92 mEq/L",
+    "resolucao": "Sjögren com acidose hiperclorêmica, hipocalemia e pH urinário de 6,0 parece fechar acidose tubular distal, e é para lá que o anti-Ro empurra. Mas o pH urinário engana na diarreia: a hipocalemia estimula a amoniogênese, e a amônia tampona a urina, que pode ficar acima de 5,5 mesmo com excreção ácida máxima. Quem separa é o ânion gap urinário (sódio mais potássio menos cloro), que estima o amônio: 38 + 30 - 92 = -24, negativo, ou seja, o rim excreta muito amônio (acompanhado de cloro), a resposta adequada a uma perda extrarrenal de bicarbonato. Na ATR distal o rim não consegue excretar amônio e o ânion gap urinário é positivo. O ânion gap sérico é 9, normal, e a pCO2 de 30 está dentro do esperado por Winters (1,5 × 14 + 8 = 29 ± 2). O chá de sene diário é a causa.",
+    "comentarios": {
+      "A": "Errada, é a armadilha. Sjögren é a causa adquirida mais lembrada de ATR distal, e o pH urinário acima de 5,5 parece confirmar, mas na ATR distal o ânion gap urinário seria positivo; o valor de -24 mostra amônio urinário alto.",
+      "B": "Errada. A ATR proximal estabiliza o bicarbonato entre 15 e 18, acidifica a urina quando o bicarbonato está baixo e costuma vir com glicosúria, fosfatúria e hipouricemia (Fanconi); nada disso aparece.",
+      "C": "Correta. Acidose hiperclorêmica com ânion gap urinário negativo indica excreção renal de amônio preservada e perda de bicarbonato fora do rim: as evacuações do laxante.",
+      "D": "Errada. A ATR tipo 4 cursa com hipercalemia, não hipocalemia, e ânion gap urinário positivo; é a do diabético com hipoaldosteronismo hiporreninêmico ou em uso de IECA, espironolactona ou trimetoprima."
+    },
+    "para_levar": "Na acidose hiperclorêmica, o ânion gap urinário (Na + K - Cl) negativo indica perda intestinal, e positivo indica acidose tubular; o pH urinário acima de 5,5 não separa quando há hipocalemia.",
+    "referencias": "Kraut e Madias, Nat Rev Nephrol 2010 (acidose metabólica e ânion gap urinário); Harrison 21ª ed. (Acid-Base Disorders); UpToDate 2025 (Approach to the adult with metabolic acidosis).",
+    "tags": ["Gasometria Arterial (CM)", "Tubulopatias (CM)"],
+    "sourceQuestionId": "a100da57ff43378",
+    "alvo": "Ácido-base com ângulo difícil (ele melhorou): ATR x diarreia, o ânion gap urinário contra o rótulo Sjögren e o pH urinário."
+  },
+  {
+    "id": "S2-NEF-04",
+    "simulado": 2,
+    "area": "Nefrologia",
+    "titulo": "Síndrome nefrítica após piodermite com FAN reagente · C3 baixo com C4 normal: acompanhar o C3 sem biópsia",
+    "arma": "Rótulo verdadeiro",
+    "comando": "próximo exame",
+    "nivel": "difícil",
+    "enunciado": "Homem de 19 anos, previamente hígido, teve lesões crostosas e purulentas nas pernas há três semanas, tratadas com pomada. Há quatro dias nota urina escura, inchaço nas pálpebras e cefaleia. Exame: PA 162/100 mmHg, FC 76 bpm, edema 1+ em membros inferiores, sem estertores, sem lesões cutâneas ativas, sem artrite, sem úlceras orais. Exames: creatinina 1,6 mg/dL na admissão e 1,5 mg/dL após 48 horas, potássio 4,9 mEq/L, hemograma normal; urina com proteína 2+, 80 hemácias por campo, 70% dismórficas, e cilindros hemáticos; relação proteína/creatinina urinária de 1,1 g/g; anti-DNase B 960 U/mL (até 200); C3 38 mg/dL (90 a 180) e C4 24 mg/dL (10 a 40); FAN reagente 1:80, padrão nuclear pontilhado fino; anti-DNA não reagente. Diurese de 900 mL/dia com furosemida e restrição de sódio. Além do suporte, o próximo passo é:",
+    "alternativas": {
+      "A": "Biópsia renal percutânea",
+      "B": "Pulsoterapia com metilprednisolona",
+      "C": "Dosar ANCA e anti-MBG",
+      "D": "Repetir C3 em oito semanas"
+    },
+    "gabarito": "D",
+    "armadilha": "A",
+    "dado_decisivo": "C3 38 mg/dL (90 a 180) e C4 24 mg/dL (10 a 40)",
+    "resolucao": "O FAN reagente e o consumo de complemento puxam para nefrite lúpica e, daí, para a biópsia, que é o exame do degrau seguinte. Mas o padrão do complemento discrimina: C3 baixo com C4 normal indica ativação da via alternativa, que é a da glomerulonefrite pós-estreptocócica (e da glomerulopatia C3); na nefrite lúpica a via clássica consome C3 e C4. FAN 1:80 em padrão pontilhado fino com anti-DNA negativo é achado frequente em pessoas saudáveis e não define lúpus. Há latência compatível (cerca de três semanas após piodermite), anti-DNase B alto (melhor marcador que a ASLO na infecção de pele), creatinina já em queda e proteinúria abaixo da faixa nefrótica. Sem sinal de atipia, a conduta é suporte (restrição de sódio, diurético, anti-hipertensivo) e documentar a normalização do C3, esperada em até seis a oito semanas; a biópsia fica para C3 baixo além de oito semanas, perda rápida de função, proteinúria nefrótica persistente ou sinais sistêmicos.",
+    "comentarios": {
+      "A": "Errada, é a armadilha. A biópsia seria indicada com C3 baixo após oito semanas, perda rápida de função ou proteinúria nefrótica; aqui a creatinina já cai e o quadro é o da doença autolimitada.",
+      "B": "Errada. Pulso de corticoide é para glomerulonefrite rapidamente progressiva com crescentes e creatinina subindo em dias; na pós-estreptocócica não há benefício do imunossupressor.",
+      "C": "Errada. ANCA e anti-MBG investigam glomerulonefrite pauci-imune ou linear, que cursam com complemento normal; o C3 baixo aponta imunocomplexo ou via alternativa.",
+      "D": "Correta. C3 baixo com C4 normal, anti-DNase B alto e latência de três semanas após piodermite configuram pós-estreptocócica; o seguimento do C3 confirma o diagnóstico e define se haverá biópsia."
+    },
+    "para_levar": "Na síndrome nefrítica, C3 baixo com C4 normal é via alternativa (pós-estreptocócica, glomerulopatia C3), e C3 e C4 baixos é via clássica (lúpus, crioglobulinemia). Na pós-estreptocócica o C3 normaliza em até oito semanas, e só a persistência indica biópsia.",
+    "referencias": "KDIGO 2021 (Glomerular Diseases), glomerulonefrite associada a infecção; Riella, Princípios de Nefrologia e Distúrbios Hidroeletrolíticos (2024).",
+    "tags": ["Síndrome Nefrítica (CM)", "Glomerulopatias (CM)"],
+    "sourceQuestionId": "aa54240acadb2e9",
+    "alvo": "Síndrome nefrítica com complemento (errou com 74% acertando): ler o C4 e o tempo antes de pedir o exame do degrau seguinte."
+  },
+  {
+    "id": "S2-NEF-05",
+    "simulado": 2,
+    "area": "Nefrologia",
+    "titulo": "Síndrome nefrótica abrupta na diabética em uso de naproxeno · quando não é doença renal do diabetes",
+    "arma": "Negativo no meio",
+    "comando": "diagnóstico",
+    "nivel": "extremamente difícil",
+    "enunciado": "Mulher de 61 anos, com diabetes tipo 2 há sete anos (HbA1c 7,1%) e hipertensão, em uso de metformina e losartana 50 mg/dia. Em consulta de seis meses atrás tinha creatinina 0,9 mg/dL, fundoscopia sem retinopatia e relação albumina/creatinina urinária de 18 mg/g. Há cinco semanas usa naproxeno 500 mg duas vezes ao dia por bursite no ombro. Há dez dias tem edema progressivo e ganhou 6 kg. Exame: PA 146/88 mmHg, edema 4+ até a raiz das coxas, sem exantema, sem artrite. Exames: albumina 1,9 g/dL, colesterol total 382 mg/dL, creatinina 1,7 mg/dL, proteinúria de 24 h de 9,8 g, urina com 3 hemácias e 25 leucócitos por campo, sem bactérias, urocultura negativa, C3 e C4 normais, anti-PLA2R não reagente, FAN, HBsAg, anti-HCV e anti-HIV negativos, eletroforese de proteínas sem pico monoclonal. Ultrassonografia: rins de 11 cm. O diagnóstico mais provável é:",
+    "alternativas": {
+      "A": "Lesão mínima com nefrite intersticial",
+      "B": "Doença renal do diabetes",
+      "C": "Nefropatia membranosa secundária",
+      "D": "Glomeruloesclerose segmentar e focal"
+    },
+    "gabarito": "A",
+    "armadilha": "B",
+    "dado_decisivo": "fundoscopia sem retinopatia e relação albumina/creatinina urinária de 18 mg/g",
+    "resolucao": "Diabetes há sete anos com síndrome nefrótica parece doença renal do diabetes, e a maioria para no rótulo. Mas a doença do diabetes evolui ao longo de anos, de albuminúria moderada para grave, quase sempre acompanhada de retinopatia: seis meses atrás havia albuminúria normal e fundo de olho sem retinopatia, e o salto para 9,8 g de proteinúria em semanas não é dela. Ausência de retinopatia, início súbito, proteinúria explosiva, sedimento ativo e queda rápida da função são os sinais que mandam procurar outra glomerulopatia no diabético. A droga em uso explica tudo: anti-inflamatório por semanas, síndrome nefrótica abrupta e leucocitúria estéril com creatinina subindo é a dupla lesão do AINE, lesão mínima com nefrite intersticial aguda. A membranosa também se associa a AINE, mas não traz o componente intersticial, e o anti-PLA2R negativo não a sustenta. Conduta: suspender o naproxeno; a biópsia aqui se justifica exatamente porque o quadro não é o da doença do diabetes.",
+    "comentarios": {
+      "A": "Correta. Proteinúria nefrótica abrupta com leucocitúria estéril e queda da função após semanas de naproxeno é a dupla lesão do AINE: podocitopatia (lesão mínima) e nefrite intersticial.",
+      "B": "Errada, é a armadilha. Seria a resposta na diabética de longa data com retinopatia e albuminúria crescente ao longo de anos; aqui havia albuminúria normal há seis meses e fundo de olho sem retinopatia.",
+      "C": "Errada. A membranosa pode ser secundária a AINE, mas costuma se instalar de forma mais insidiosa e não explica a leucocitúria estéril com perda de função, que é intersticial.",
+      "D": "Errada. A GESF primária não teria a ligação temporal com a droga nem o componente intersticial, e a secundária cursa com proteinúria sem hipoalbuminemia importante."
+    },
+    "para_levar": "No diabético, síndrome nefrótica sem retinopatia, de início abrupto ou com sedimento ativo não é doença renal do diabetes até prova em contrário; com AINE em uso, pense em lesão mínima com nefrite intersticial.",
+    "referencias": "KDIGO 2021 (Glomerular Diseases); KDIGO 2022 (Diabetes Management in CKD); Harrison 21ª ed. (Tubulointerstitial Diseases).",
+    "tags": ["Síndrome Nefrótica (CM)", "Nefrotoxicidade por Drogas (CM)", "Doença renal do diabetes - DRD (CM)"],
+    "sourceQuestionId": "2cc4dc2c2c20783",
+    "alvo": "Rótulo diabético na primeira linha e droga em uso ignorada (AINE): quando biopsiar o diabético."
+  },
+  {
+    "id": "S2-NEF-06",
+    "simulado": 2,
+    "area": "Nefrologia",
+    "titulo": "Lesão renal aguda com creatinina alta e sem indicação dialítica · não dialisar pelo número",
+    "arma": "Omissão",
+    "comando": "conduta",
+    "nivel": "difícil",
+    "enunciado": "Homem de 67 anos, no sexto dia de internação por peritonite fecal operada, recebeu noradrenalina nos três primeiros dias, suspensa há 72 horas. Evolui com lesão renal aguda: creatinina 0,9 mg/dL na admissão, 3,8 mg/dL no terceiro dia e 6,9 mg/dL hoje; ureia 186 mg/dL. Diurese de 1.350 mL nas últimas 24 horas, sem diurético, com balanço hídrico acumulado de +1.200 mL. Exame: lúcido, sem asterixe, sem atrito pericárdico, PA 128/74 mmHg, FC 88 bpm, SpO2 96% em ar ambiente, murmúrio vesicular sem estertores, edema 1+. Exames: sódio 137 mEq/L, potássio 5,3 mEq/L, bicarbonato 19 mEq/L, pH 7,33, fósforo 5,9 mg/dL, hemoglobina 9,8 g/dL. Quanto à terapia renal substitutiva, a conduta mais adequada é:",
+    "alternativas": {
+      "A": "Hemodiálise intermitente hoje",
+      "B": "Hemodiálise contínua hoje",
+      "C": "Não iniciar e reavaliar diariamente",
+      "D": "Cateter de longa permanência para diálise"
+    },
+    "gabarito": "C",
+    "armadilha": "A",
+    "dado_decisivo": "Diurese de 1.350 mL nas últimas 24 horas, sem diurético",
+    "resolucao": "Creatinina de 6,9 e ureia de 186 impressionam e puxam para a diálise, e a ureia perto de 200 ainda aparece em apostilas como gatilho. Mas a terapia renal substitutiva na lesão renal aguda se indica por complicação que o rim não está resolvendo, e não pelo número da creatinina: hipercalemia refratária (acima de 6,5 mEq/L ou com ECG alterado), acidose grave (pH abaixo de 7,15 a 7,2), sobrecarga de volume refratária com hipoxemia, uremia sintomática (encefalopatia, pericardite, sangramento) ou intoxicação dialisável. Este paciente está lúcido, sem pericardite, em ar ambiente, com 1,35 L de diurese espontânea, potássio de 5,3 e pH de 7,33. Os ensaios AKIKI, IDEAL-ICU, STARRT-AKI e AKIKI-2 mostraram que iniciar sem essas indicações não reduz mortalidade e expõe a cateter, hipotensão e mais dependência de diálise, e boa parte dos pacientes da estratégia expectante nunca precisa dela. A conduta é suporte, ajuste de doses, evitar nefrotóxicos e reavaliar diariamente.",
+    "comentarios": {
+      "A": "Errada, é a armadilha. A hemodiálise intermitente seria o método num paciente estável com uma indicação presente; aqui não há nenhuma, e creatinina alta não é indicação.",
+      "B": "Errada. O método contínuo é o preferido no instável hemodinamicamente ou com hipertensão intracraniana, mas o problema anterior é que não há indicação de diálise.",
+      "C": "Correta. Sem hipercalemia refratária, acidose grave, congestão refratária ou uremia sintomática, e com diurese preservada, a estratégia expectante com reavaliação diária é a recomendada.",
+      "D": "Errada. Cateter de longa permanência antecipa uma dependência crônica que ninguém pode prever no sexto dia de uma necrose tubular com diurese preservada."
+    },
+    "para_levar": "Diálise na lesão renal aguda se indica por complicação refratária (potássio, acidose, volume, uremia, intoxicação), não por creatinina ou ureia; sem indicação, esperar e reavaliar todos os dias.",
+    "referencias": "KDIGO 2012 (Acute Kidney Injury) e KDIGO Controversies Conference 2020; STARRT-AKI (NEJM 2020); AKIKI-2 (Lancet 2021).",
+    "tags": ["Diálise IRA : Indicações, Modalidades e Acesso Vascular (CM)", "NTA (CM)"],
+    "sourceQuestionId": "54f3a781b223ef5",
+    "alvo": "Indicação de diálise de urgência na IRA (errou 2 de 2): não dialisar só por creatinina, a omissão é a resposta."
+  },
+  {
+    "id": "S2-NEF-07",
+    "simulado": 2,
+    "area": "Nefrologia",
+    "titulo": "Prevenção de lesão renal por contraste iodado intravenoso · limiar de TFGe para profilaxia",
+    "arma": "Limiar",
+    "comando": "fato solto",
+    "nivel": "média",
+    "enunciado": "Homem de 70 anos, com diabetes tipo 2 em uso de metformina e TFGe estável de 48 mL/min/1,73 m², sem lesão renal aguda atual, fará tomografia de abdome com contraste iodado intravenoso para estadiamento ambulatorial de neoplasia de cólon. Para prevenção de lesão renal associada ao contraste, a conduta mais adequada é:",
+    "alternativas": {
+      "A": "Hidratação venosa com SF 0,9%",
+      "B": "Bicarbonato de sódio intravenoso",
+      "C": "N-acetilcisteína oral",
+      "D": "Nenhuma profilaxia específica"
+    },
+    "gabarito": "D",
+    "armadilha": "A",
+    "dado_decisivo": "TFGe estável de 48 mL/min/1,73 m²",
+    "resolucao": "Diabetes, metformina e creatinina acima do normal acendem o alerta e levam à hidratação venosa no automático. Mas o risco de lesão renal pelo contraste iodado intravenoso é bem menor do que se acreditava, e o consenso do American College of Radiology com a National Kidney Foundation (2020) fixa o limiar: profilaxia com hidratação isotônica é indicada com TFGe abaixo de 30 mL/min/1,73 m² (fora de diálise) ou com lesão renal aguda; entre 30 e 44 é individualizada; com 45 ou mais não é indicada, mesmo no diabético. Bicarbonato e N-acetilcisteína não foram superiores à salina no PRESERVE e não são recomendados. A metformina também não precisa ser suspensa com TFGe acima de 30 e sem lesão aguda.",
+    "comentarios": {
+      "A": "Errada, é a armadilha. Seria a resposta com TFGe abaixo de 30 ou lesão renal aguda em curso; com 48 estável não há benefício, e a hidratação só acrescenta risco de sobrecarga.",
+      "B": "Errada. O bicarbonato não reduziu lesão renal, diálise ou morte em comparação à salina no PRESERVE e não tem papel em nenhuma faixa de TFGe.",
+      "C": "Errada. A N-acetilcisteína também foi negativa no PRESERVE e foi abandonada como profilaxia.",
+      "D": "Correta. Com TFGe de 45 ou mais, estável e sem lesão aguda, nenhuma profilaxia específica é indicada antes do contraste intravenoso."
+    },
+    "para_levar": "Contraste iodado intravenoso: profilaxia com salina isotônica só com TFGe abaixo de 30 ou lesão renal aguda; de 30 a 44, individualizar; 45 ou mais, nada. Bicarbonato e N-acetilcisteína não servem.",
+    "referencias": "ACR e National Kidney Foundation, Consensus Statement on IV iodinated contrast in kidney disease (2020); PRESERVE (NEJM 2018); ACR Manual on Contrast Media (2024).",
+    "tags": ["IRA Contraste (CM)"],
+    "sourceQuestionId": "4faa6ba645c4d6a",
+    "alvo": "Faz MAIS (profilaxia sem indicação): o limiar de TFGe da profilaxia do contraste, fato solto que a UERJ cobra."
+  },
+  {
+    "id": "S2-NEF-08",
+    "simulado": 2,
+    "area": "Nefrologia",
+    "titulo": "Elevação da creatinina após iniciar inibidor de SGLT2 · queda hemodinâmica esperada e manutenção da droga",
+    "arma": "Grade X / Y",
+    "comando": "mecanismo",
+    "nivel": "difícil",
+    "enunciado": "Homem de 63 anos, com diabetes tipo 2 e doença renal crônica (TFGe 38 mL/min/1,73 m², relação albumina/creatinina 620 mg/g), em uso de losartana 100 mg/dia, metformina 500 mg duas vezes ao dia e anlodipino, iniciou empagliflozina 10 mg/dia há quatro semanas. Sem diarreia, vômitos, anti-inflamatório ou contraste. Exame: PA 126/78 mmHg (era 136/82), sem hipotensão postural, sem edema, perdeu 1,5 kg. Exames: creatinina de 1,90 para 2,20 mg/dL (TFGe 32), potássio 4,7 mEq/L (era 5,0), bicarbonato 23 mEq/L, hemoglobina de 12,6 para 13,1 g/dL, urina sem hematúria ou leucocitúria. A explicação para a variação da creatinina e a conduta são, respectivamente:",
+    "alternativas": {
+      "A": "Lesão tubular aguda / suspender a empagliflozina",
+      "B": "Queda hemodinâmica da filtração / manter a empagliflozina",
+      "C": "Lesão tubular aguda / manter a empagliflozina",
+      "D": "Queda hemodinâmica da filtração / suspender a empagliflozina"
+    },
+    "gabarito": "B",
+    "armadilha": "D",
+    "dado_decisivo": "creatinina de 1,90 para 2,20 mg/dL",
+    "resolucao": "Creatinina subindo e TFGe caindo de 38 para 32 logo após começar um remédio parecem lesão renal, e a reação é suspender a droga, erro que ele já cometeu com o iSGLT2. Os inibidores de SGLT2 aumentam a oferta de sódio à mácula densa, restauram o feedback tubuloglomerular e contraem a arteríola aferente: a pressão intraglomerular cai e, com ela, a filtração, numa queda esperada de 3 a 6 mL/min nas primeiras semanas. É essa queda hemodinâmica que protege o rim a longo prazo. Sem depleção (sem diarreia, sem hipotensão postural), sem nefrotóxico e com sedimento limpo, a elevação de cerca de 16% é a esperada; o potássio que caiu e a hemoglobina que subiu são outros efeitos de classe. A KDIGO 2024 orienta não suspender pela queda inicial e manter até a diálise; a metformina, com TFGe entre 30 e 45, fica em no máximo 1.000 mg/dia, a dose que ele já usa.",
+    "comentarios": {
+      "A": "Errada. Lesão tubular aguda exigiria um insulto (depleção, nefrotóxico, hipotensão) e traria sedimento com cilindros granulosos ou células tubulares; nada disso existe.",
+      "B": "Correta. Elevação de cerca de 16% da creatinina nas primeiras semanas de iSGLT2, sem depleção, é hemodinâmica e esperada; a droga deve ser mantida.",
+      "C": "Errada. Manter seria certo, mas o mecanismo não é lesão tubular; se fosse, a droga teria de ser revista.",
+      "D": "Errada, é a armadilha. O mecanismo está certo, mas suspender pela queda inicial joga fora a nefroproteção; só se reavalia com elevação acima de 30% ou depleção de volume."
+    },
+    "para_levar": "A queda inicial da TFGe com iSGLT2 (como com IECA ou BRA) é hemodinâmica e nefroprotetora: mantenha a droga e reavalie só com elevação da creatinina acima de 30% ou depleção de volume.",
+    "referencias": "KDIGO 2024 (Evaluation and Management of CKD); KDIGO 2022 (Diabetes Management in CKD); EMPA-KIDNEY (NEJM 2023).",
+    "tags": ["iSGLT2 (CM)", "Tratamento Doença Renal Crônica (CM)"],
+    "sourceQuestionId": "de618cb7536cdc0",
+    "alvo": "iSGLT2 com alta transitória da creatinina lida como piora (lacuna de 04/09/2026): manter a droga."
+  }
+]

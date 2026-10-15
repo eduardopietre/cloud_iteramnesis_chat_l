@@ -1,0 +1,270 @@
+[
+ {
+  "id": "S4-END-01",
+  "simulado": 4,
+  "area": "Endocrinologia",
+  "titulo": "DHGNA: FIB-4 calculado na faixa intermediária com enzimas normais",
+  "arma": "Grade X / Y",
+  "comando": "conduta",
+  "nivel": "extremamente difícil",
+  "enunciado": "Mulher de 59 anos, com obesidade (IMC 35 kg/m²), hipertensão e pré-diabetes, foi orientada a apenas perder peso após ultrassonografia com esteatose leve e enzimas hepáticas consideradas normais. Consome uma dose de álcool por semana. Sorologias para hepatites B e C negativas, ferritina 180 ng/mL com saturação de transferrina 26%. Exame: sem estigmas de hepatopatia, baço não palpável. Exames: AST 40 U/L (até 40), ALT 36 U/L (até 41), plaquetas 182.000/mm³, albumina 4,3 g/dL, bilirrubinas normais. O risco de fibrose avançada pelo FIB-4 e a conduta são, respectivamente:",
+  "alternativas": {
+   "A": "Baixo / repetir o FIB-4 em um a três anos",
+   "B": "Intermediário / elastografia hepática",
+   "C": "Intermediário / biópsia hepática",
+   "D": "Alto / encaminhar ao hepatologista"
+  },
+  "gabarito": "B",
+  "armadilha": "A",
+  "dado_decisivo": "AST 40 U/L (até 40), ALT 36 U/L (até 41), plaquetas 182.000/mm³",
+  "resolucao": "Enzimas dentro da referência e esteatose leve parecem baixo risco, e é isso que o rótulo de enzimas normais faz o leitor concluir. O FIB-4 não vem pronto: idade vezes AST, dividido por plaquetas (em milhares) vezes a raiz da ALT, ou seja, 59 x 40 / (182 x 6), cerca de 2,2. A idade e a plaqueta no limite inferior pesam mais que a transaminase normal, e o resultado cai na faixa intermediária (1,3 a 2,67). O passo seguinte é a elastografia hepática transitória: abaixo de 8 kPa, baixo risco e seguimento na atenção primária; acima de 12 kPa, hepatologista. Biópsia não é o segundo degrau, e encaminhamento direto só acima de 2,67.",
+  "comentarios": {
+   "A": "Errada. Seria a conduta com FIB-4 abaixo de 1,3; transaminase normal não exclui fibrose avançada, e aqui o índice é cerca de 2,2.",
+   "B": "Correta. FIB-4 de cerca de 2,2 é indeterminado e pede elastografia.",
+   "C": "Errada. A faixa está certa, mas o degrau seguinte é um teste não invasivo; biópsia fica para discordância ou dúvida diagnóstica.",
+   "D": "Errada. Encaminhamento direto é para FIB-4 acima de 2,67 ou elastografia acima de 12 kPa."
+  },
+  "para_levar": "Calcule o FIB-4 (idade x AST / plaquetas x raiz da ALT): enzimas normais não excluem fibrose; 1,3 a 2,67 vai para elastografia, não para biópsia.",
+  "referencias": "AASLD Practice Guidance on MASLD 2023; EASL-EASD-EASO Clinical Practice Guidelines on MASLD 2024; ADA Standards of Care 2026, seção 4.",
+  "tags": [
+   "DHGNA (CM)"
+  ],
+  "sourceQuestionId": "c9df06d07040f83",
+  "alvo": "Regra errada fixada: fluxograma FIB-4 inteiro (1,3 e 2,67) e o número calculado em vez do rótulo."
+ },
+ {
+  "id": "S4-END-02",
+  "simulado": 4,
+  "area": "Endocrinologia",
+  "titulo": "Microprolactinoma na gestação: suspender a cabergolina e não dosar prolactina",
+  "arma": "Omissão",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 30 anos, com microprolactinoma de 6 mm diagnosticado por amenorreia e galactorreia, usa cabergolina 0,5 mg por semana há 14 meses, com prolactina normalizada e retorno dos ciclos. Desejava engravidar e tem teste de gravidez positivo, com cinco semanas de gestação. Assintomática, sem cefaleia ou queixa visual. Exame neurológico e campimetria de confrontação normais. Prolactina atual: 48 ng/mL. Em relação ao prolactinoma, a conduta mais adequada durante a gestação é:",
+  "alternativas": {
+   "A": "Suspender a cabergolina e seguir pela clínica",
+   "B": "Manter a cabergolina até o parto",
+   "C": "Dosar prolactina a cada trimestre",
+   "D": "Ressonância de sela trimestral"
+  },
+  "gabarito": "A",
+  "armadilha": "C",
+  "dado_decisivo": "microprolactinoma de 6 mm",
+  "resolucao": "A prolactina de 48 ng/mL depois de meses normal parece escape do tumor, e o reflexo é vigiá-la por dosagem seriada ou manter o agonista. Na gestação, porém, a prolactina sobe fisiologicamente (os lactotrofos se multiplicam sob estrogênio), e o número deixa de refletir o tumor; por isso não se dosa prolactina durante a gravidez. O dado que decide é o tamanho: microadenoma tem risco de crescimento sintomático na gestação de cerca de 2 a 3%. A conduta é suspender a cabergolina assim que a gestação é confirmada e acompanhar clinicamente, com campimetria e ressonância sem contraste só se aparecerem cefaleia ou alteração visual. Macroadenomas pedem vigilância mais próxima, e às vezes manutenção do agonista.",
+  "comentarios": {
+   "A": "Correta. Microprolactinoma: suspender o agonista ao confirmar a gestação e seguir pela clínica, sem dosagens.",
+   "B": "Errada. Seria considerada em macroadenoma volumoso ou próximo ao quiasma; no microadenoma, expõe o feto sem necessidade.",
+   "C": "Errada. A prolactina sobe normalmente na gestação e não serve para monitorar o tumor.",
+   "D": "Errada. Imagem só com sintomas compressivos; rotina trimestral não tem indicação."
+  },
+  "para_levar": "Prolactinoma e gestação: microadenoma suspende a cabergolina e é seguido pela clínica; prolactina não se dosa na gravidez; imagem só com sintoma.",
+  "referencias": "Endocrine Society, Hyperprolactinemia 2011; Pituitary Society consensus on prolactinomas 2023.",
+  "tags": [
+   "Prolactinoma (CM)"
+  ],
+  "sourceQuestionId": "0a1533dabd6b0f6",
+  "alvo": "Prolactinoma 0 de 3 (cabergolina na gestação) e o reflexo de pedir exame a mais."
+ },
+ {
+  "id": "S4-END-03",
+  "simulado": 4,
+  "area": "Endocrinologia",
+  "titulo": "Rastreio de Cushing em usuária de estrogênio: o teste que o anticoncepcional não falseia",
+  "arma": "Droga a deduzir",
+  "comando": "próximo exame",
+  "nivel": "extremamente difícil",
+  "enunciado": "Mulher de 27 anos, com síndrome dos ovários policísticos, usa há três anos o comprimido diário que a ginecologista prescreveu para regularizar a menstruação e controlar a acne, e não pretende suspendê-lo. Há oito meses ganhou 12 kg, com estrias violáceas de 1,5 cm no abdome, equimoses fáceis e hipertensão recente (PA 148/96 mmHg). Glicemia de jejum 118 mg/dL, potássio 3,9 mEq/L. Exame: fraqueza proximal ao levantar da cadeira, giba dorsal, face arredondada. O exame inicial mais adequado para rastrear hipercortisolismo nesta paciente é:",
+  "alternativas": {
+   "A": "Cortisol após 1 mg de dexametasona",
+   "B": "ACTH plasmático pela manhã",
+   "C": "Cortisol salivar ao final da noite",
+   "D": "Ressonância magnética de sela"
+  },
+  "gabarito": "C",
+  "armadilha": "A",
+  "dado_decisivo": "usa há três anos o comprimido diário que a ginecologista prescreveu para regularizar a menstruação e controlar a acne",
+  "resolucao": "Fraqueza proximal, estrias largas, equimoses e hipertensão justificam rastrear Cushing, e o teste de supressão com 1 mg de dexametasona é o mais lembrado. A droga a deduzir é o anticoncepcional combinado, o tratamento padrão da SOP para ciclo e acne. O etinilestradiol aumenta a globulina ligadora de cortisol, e os ensaios séricos medem o cortisol total, que fica alto mesmo com supressão adequada: o teste dá falso positivo em até metade das usuárias. Como ela não quer suspender o anticoncepcional (seriam seis semanas sem ele para o teste valer), o rastreio deve usar o cortisol livre, que a globulina não afeta: cortisol salivar ao final da noite (ou cortisol livre urinário de 24 horas). ACTH e imagem vêm só depois do hipercortisolismo confirmado.",
+  "comentarios": {
+   "A": "Errada. Seria o teste de escolha sem estrogênio oral; com anticoncepcional combinado, o cortisol total sobe e o resultado é falso positivo.",
+   "B": "Errada. ACTH define a etiologia depois de confirmado o hipercortisolismo; não rastreia.",
+   "C": "Correta. Cortisol salivar noturno mede o cortisol livre e não é afetado pelo aumento da globulina ligadora causado pelo estrogênio.",
+   "D": "Errada. Imagem antes da confirmação bioquímica e da dosagem de ACTH acha incidentaloma em até 10% da população."
+  },
+  "para_levar": "Em uso de estrogênio oral, não rastreie Cushing pelo cortisol sérico (dexametasona): use cortisol salivar noturno ou urinário, ou suspenda o estrogênio por seis semanas.",
+  "referencias": "Endocrine Society, Diagnosis of Cushing's Syndrome 2008; Pituitary Society consensus on Cushing's disease (Lancet Diabetes Endocrinol 2021).",
+  "tags": [
+   "Cushing (CM)"
+  ],
+  "sourceQuestionId": "5a12d60a6564f29",
+  "alvo": "Cushing com ACO (DST falso positivo) errado: droga em uso ignorada na escolha do exame."
+ },
+ {
+  "id": "S4-END-04",
+  "simulado": 4,
+  "area": "Endocrinologia",
+  "titulo": "Monitorização contínua de glicose: hipoglicemia manda mais que a HbA1c",
+  "arma": "Rótulo verdadeiro",
+  "comando": "conduta",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 74 anos, com diabetes tipo 2 há 20 anos, doença renal crônica (TFG estimada 38 mL/min/1,73 m²) e infarto prévio, usa glargina 24 UI à noite, glibenclamida 5 mg duas vezes ao dia, linagliptina e empagliflozina. Mora sozinho e refere tremores noturnos ocasionais. HbA1c 8,4%. Relatório de 14 dias do sensor de glicose: tempo no alvo (70 a 180 mg/dL) 49%, acima de 180 mg/dL 44%, entre 54 e 69 mg/dL 5%, abaixo de 54 mg/dL 2%, com os eventos concentrados entre 2 e 5 horas da manhã; glicose média 182 mg/dL. A conduta mais adequada agora é:",
+  "alternativas": {
+   "A": "Aumentar a glargina em 10%",
+   "B": "Associar semaglutida semanal",
+   "C": "Trocar para esquema basal-bolus",
+   "D": "Suspender a glibenclamida"
+  },
+  "gabarito": "D",
+  "armadilha": "A",
+  "dado_decisivo": "entre 54 e 69 mg/dL 5%, abaixo de 54 mg/dL 2%",
+  "resolucao": "HbA1c de 8,4% e 44% do tempo acima de 180 são o rótulo verdadeiro: o paciente está mal controlado, e intensificar parece óbvio. O relatório do sensor tem outra linha, e ela tem prioridade: 7% do tempo abaixo de 70 e 2% abaixo de 54, quando a meta para idoso de alto risco é menos de 1% abaixo de 70. Hipoglicemia noturna em idoso que mora sozinho, coronariopata e com DRC é o problema a resolver primeiro, e a HbA1c alta convive com ela (variabilidade). O culpado mais provável é a glibenclamida, sulfonilureia de ação longa com metabólitos ativos de excreção renal, inadequada com TFG de 38. Retirá-la é o primeiro passo; só depois, com a hipoglicemia resolvida, se reavalia a intensificação, preferindo fármacos sem risco de hipoglicemia.",
+  "comentarios": {
+   "A": "Errada. Seria o ajuste com hiperglicemia isolada e tempo abaixo do alvo menor que 1%; aqui aumenta a hipoglicemia noturna.",
+   "B": "Errada. Pode vir depois para a hiperglicemia, mas não resolve a hipoglicemia, que é a prioridade.",
+   "C": "Errada. Mais insulina e mais injeções em idoso que mora sozinho e já tem hipoglicemia aumentam o risco.",
+   "D": "Correta. Tempo abaixo de 70 de 7% e abaixo de 54 de 2% obrigam a retirar a causa da hipoglicemia, a sulfonilureia de ação longa na DRC."
+  },
+  "para_levar": "No relatório do sensor, leia primeiro o tempo abaixo do alvo: acima de 4% (acima de 1% no idoso frágil) abaixo de 70, ou acima de 1% abaixo de 54, a conduta é desintensificar a droga culpada, mesmo com HbA1c alta.",
+  "referencias": "International Consensus on Time in Range (Battelino et al., Diabetes Care 2019); ADA Standards of Care 2026, seções 6 e 13; Diretriz SBD 2024.",
+  "tags": [
+   "Metas Terapêuticas Diabetes (CM)",
+   "Insulinoterapia (CM)"
+  ],
+  "sourceQuestionId": "44c9b57fe172989",
+  "alvo": "CGM e afrouxar meta só com hipoglicemia (ele errou ao contrário): aplicar a regra checando a precondição."
+ },
+ {
+  "id": "S4-END-05",
+  "simulado": 4,
+  "area": "Endocrinologia",
+  "titulo": "Tireotoxicose no pós-parto com irmã com Graves: tireoidite pós-parto",
+  "arma": "Rótulo verdadeiro",
+  "comando": "diagnóstico",
+  "nivel": "média",
+  "enunciado": "Mulher de 30 anos, quatro meses após o parto, em aleitamento materno exclusivo, refere palpitações, irritabilidade e insônia há três semanas. Tem anti-TPO positivo documentado no primeiro trimestre, com TSH normal na gestação; a irmã tem doença de Graves. Sem dor cervical ou febre. Exame: FC 104 bpm, tremor fino, tireoide discretamente aumentada, indolor, sem sopro, sem oftalmopatia. Exames: TSH abaixo de 0,01 µUI/mL, T4 livre 2,6 ng/dL (0,8 a 1,8), T3 total 168 ng/dL (80 a 200), TRAb negativo, VHS 12 mm/h. O diagnóstico mais provável é:",
+  "alternativas": {
+   "A": "Doença de Graves no pós-parto",
+   "B": "Tireoidite subaguda granulomatosa",
+   "C": "Tireotoxicose factícia",
+   "D": "Tireoidite pós-parto"
+  },
+  "gabarito": "D",
+  "armadilha": "A",
+  "dado_decisivo": "TRAb negativo",
+  "resolucao": "Irmã com Graves, bócio discreto e tireotoxicose no pós-parto: o rótulo familiar puxa para Graves, que de fato tem pico no primeiro ano após o parto. O que separa é o TRAb negativo, somado à ausência de sopro e de oftalmopatia, ao anti-TPO positivo prévio (principal fator de risco) e ao momento (dois a seis meses após o parto). Tireoidite pós-parto é destrutiva, indolor e autolimitada, frequentemente seguida de fase hipotireóidea. A captação seria baixa, mas na lactação o iodo radioativo é contraindicado e o tecnécio exige interromper a amamentação, por isso o TRAb é o exame que decide. O tratamento da fase tireotóxica é sintomático com betabloqueador (propranolol é compatível com a amamentação), sem tionamida.",
+  "comentarios": {
+   "A": "Errada. Seria o diagnóstico com TRAb positivo, sopro, oftalmopatia ou tireotoxicose além de três meses; a história familiar não substitui o anticorpo.",
+   "B": "Errada. Daria dor cervical, febre e VHS alta, ausentes.",
+   "C": "Errada. Daria glândula não palpável e tireoglobulina baixa, sem relação com anti-TPO e pós-parto.",
+   "D": "Correta. Tireotoxicose indolor quatro meses após o parto, com anti-TPO positivo e TRAb negativo."
+  },
+  "para_levar": "Tireotoxicose de dois a seis meses após o parto com TRAb negativo é tireoidite pós-parto (destrutiva): betabloqueador e seguimento, sem tionamida; na lactação, o TRAb substitui a cintilografia.",
+  "referencias": "ATA Guidelines for Thyroid Disease During Pregnancy and the Postpartum 2017; ATA Hyperthyroidism Guidelines 2016.",
+  "tags": [
+   "Tireoidites (CM)",
+   "Doença de Graves (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Rótulo forte (Graves familiar) decidindo antes do exame que separa os vizinhos (TRAb)."
+ },
+ {
+  "id": "S4-END-06",
+  "simulado": 4,
+  "area": "Endocrinologia",
+  "titulo": "Gastrinoma com prolactinoma: o cálcio que falta no caso (NEM 1)",
+  "arma": "Dado omitido",
+  "comando": "próximo exame",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 36 anos é investigado por úlceras duodenais múltiplas e recorrentes, uma delas no jejuno proximal, diarreia crônica e gastrina de jejum de 1.400 pg/mL (até 100) com pH gástrico de 1,5, colhida após uma semana sem inibidor de bomba. Há dois anos teve prolactinoma de 8 mm, controlado com cabergolina. O pai foi operado de cálculos renais três vezes. A tomografia mostra lesão de 1,2 cm na parede duodenal e outra de 0,8 cm na cabeça do pâncreas. O exame que mais modifica a conduta neste momento é:",
+  "alternativas": {
+   "A": "Cálcio sérico e PTH",
+   "B": "Cintilografia com análogo da somatostatina",
+   "C": "Ecoendoscopia pancreática",
+   "D": "Teste de estímulo com secretina"
+  },
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "O pai foi operado de cálculos renais três vezes",
+  "resolucao": "O caso dá gastrinoma confirmado (gastrina acima de dez vezes o limite com pH abaixo de 2, sem necessidade de secretina) e lesões já vistas, e convida a completar a localização e estadiar. O dado omitido é o cálcio: gastrinoma múltiplo duodenal com prolactinoma em homem jovem é neoplasia endócrina múltipla tipo 1, cujo componente mais frequente (acima de 90%) é o hiperparatireoidismo, e o pai com nefrolitíase de repetição é a pista. Cálcio e PTH mudam a conduta de três formas: confirmam a síndrome e o rastreio familiar, indicam paratireoidectomia subtotal, e a hipercalcemia estimula a gastrina, de modo que corrigir o hiperparatireoidismo primeiro reduz a hipergastrinemia e a dose de inibidor de bomba. No gastrinoma da NEM 1 com lesões de até 2 cm, o tratamento costuma ser clínico, e não cirúrgico.",
+  "comentarios": {
+   "A": "Correta. Gastrinoma com prolactinoma é NEM 1 até prova em contrário; o hiperparatireoidismo deve ser confirmado e tratado primeiro, porque a hipercalcemia agrava a hipergastrinemia.",
+   "B": "Errada. Seria útil para estadiar um gastrinoma esporádico candidato a ressecção; aqui não muda a decisão antes de definir a síndrome.",
+   "C": "Errada. Detalha lesões pancreáticas, mas não muda a ordem do tratamento.",
+   "D": "Errada. Só é necessário quando a gastrina está abaixo de dez vezes o limite; 1.400 pg/mL com pH de 1,5 já confirma."
+  },
+  "para_levar": "Gastrinoma ou prolactinoma em jovem com história familiar de cálculo renal: dose cálcio e PTH (NEM 1); corrigir o hiperparatireoidismo vem antes e reduz a gastrina.",
+  "referencias": "Clinical Practice Guidelines for Multiple Endocrine Neoplasia Type 1 (Thakker et al., J Clin Endocrinol Metab 2012); ENETS Guidance Paper for gastroduodenal NETs 2023.",
+  "tags": [
+   "Hiperparatireoidismo Primário (Clínica Médica) (CM)",
+   "Prolactinoma (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Pede o exame sofisticado do degrau seguinte e não procura o dado simples que muda a ordem."
+ },
+ {
+  "id": "S4-END-07",
+  "simulado": 4,
+  "area": "Endocrinologia",
+  "titulo": "Hiponatremia no oitavo dia após cirurgia hipofisária: segunda fase da resposta trifásica",
+  "arma": "Cronologia",
+  "comando": "etiologia",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 45 anos foi submetido a ressecção transesfenoidal de macroadenoma não funcionante. Nos dois primeiros dias pós-operatórios teve diurese de 6 a 7 L/dia, sódio de 148 mEq/L e osmolalidade urinária de 140 mOsm/kg, e recebeu desmopressina; teve alta no quarto dia com desmopressina 0,1 mg por via oral de 12 em 12 horas e hidrocortisona 15 mg/dia. No oitavo dia pós-operatório volta com náuseas, cefaleia e confusão leve. Exame: euvolêmico, PA 124/78 mmHg, FC 76 bpm, sem hipotensão postural. Exames: sódio 121 mEq/L, osmolalidade plasmática 252 mOsm/kg, osmolalidade urinária 610 mOsm/kg, sódio urinário 68 mEq/L, potássio 4,1 mEq/L, glicemia 96 mg/dL. A causa mais provável da hiponatremia é:",
+  "alternativas": {
+   "A": "Deficiência de cortisol",
+   "B": "Perda cerebral de sal",
+   "C": "Liberação de ADH pela neuro-hipófise lesada",
+   "D": "Polidipsia primária"
+  },
+  "gabarito": "C",
+  "armadilha": "B",
+  "dado_decisivo": "No oitavo dia pós-operatório",
+  "resolucao": "Hiponatremia com sódio urinário alto depois de neurocirurgia evoca perda cerebral de sal, mas ela exige hipovolemia, e o paciente está euvolêmico, sem hipotensão postural. A cronologia explica: lesão da haste ou da neuro-hipófise produz a resposta trifásica, com diabetes insípido nos primeiros dias, depois, por volta do quinto ao décimo dia, liberação descontrolada do ADH estocado nos axônios que degeneram (fase de antidiurese inapropriada) e, por fim, diabetes insípido permanente ou recuperação. A desmopressina mantida na alta soma-se ao ADH liberado e agrava a hiponatremia. A conduta é suspender a desmopressina e restringir água, com salina hipertônica se houver sintomas graves, vigiando a volta da poliúria. Hidrocortisona de 15 mg/dia é reposição adequada e osmolalidade urinária de 610 afasta polidipsia.",
+  "comentarios": {
+   "A": "Errada. Seria considerada sem reposição ou com dose insuficiente de glicocorticoide; com 15 mg/dia de hidrocortisona e sem hipotensão, não explica.",
+   "B": "Errada. Seria a causa com hipovolemia, hipotensão postural e balanço negativo; o paciente está euvolêmico.",
+   "C": "Correta. No quinto ao décimo dia após lesão da neuro-hipófise, o ADH estocado é liberado (segunda fase da resposta trifásica), e a desmopressina mantida agrava.",
+   "D": "Errada. Polidipsia dilui a urina; osmolalidade urinária de 610 mOsm/kg indica ADH ativo."
+  },
+  "para_levar": "Após cirurgia hipofisária, diabetes insípido nos primeiros dias pode virar antidiurese inapropriada do quinto ao décimo dia: suspenda a desmopressina e restrinja água.",
+  "referencias": "Endocrine Society, Hypopituitarism 2016; Society for Endocrinology Clinical Guidance: postoperative hyponatraemia after pituitary surgery 2016; European Hyponatraemia Guideline 2014.",
+  "tags": [
+   "Diabetes Insipidus (CM)",
+   "Hiponatremia (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Excesso x deficiência (o mesmo eixo inverte com o tempo) e droga mantida sem reavaliar."
+ },
+ {
+  "id": "S4-END-08",
+  "simulado": 4,
+  "area": "Endocrinologia",
+  "titulo": "Insuficiência adrenal primária com febre: regra do dia doente",
+  "arma": "Grade X / Y",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 38 anos, com insuficiência adrenal primária autoimune há cinco anos, usa hidrocortisona 10 mg ao acordar e 5 mg às 14 horas e fludrocortisona 0,1 mg/dia, com PA e potássio controlados. Há um dia tem febre de 38,6 °C, mialgia, coriza e tosse seca, em período de circulação de influenza. Alimenta-se e hidrata-se normalmente, sem vômitos ou diarreia. Exame: PA 118/74 mmHg sem variação postural, FC 96 bpm, sem desidratação. Quanto à hidrocortisona e à fludrocortisona, a conduta é, respectivamente:",
+  "alternativas": {
+   "A": "Manter a dose / dobrar a dose",
+   "B": "Dobrar a dose / manter a dose",
+   "C": "Hidrocortisona 100 mg intramuscular / suspender",
+   "D": "Manter a dose / manter a dose"
+  },
+  "gabarito": "B",
+  "armadilha": "C",
+  "dado_decisivo": "Alimenta-se e hidrata-se normalmente, sem vômitos ou diarreia",
+  "resolucao": "Febre em paciente com Addison chama a dose de emergência, e o apressado vai à hidrocortisona parenteral. O que define o degrau é a via oral funcionando: ela come, bebe e não vomita, está estável e sem hipotensão postural. A regra do dia doente manda dobrar (com febre acima de 38,5 °C, alguns triplicam) a hidrocortisona oral enquanto durar a febre, e reservar 100 mg intramuscular ou venosa para vômitos, diarreia, incapacidade de ingerir ou instabilidade. A fludrocortisona não se altera, porque a demanda aumentada no estresse é de glicocorticoide e porque doses maiores de hidrocortisona já têm efeito mineralocorticoide; dobrá-la seria tratar o eixo errado.",
+  "comentarios": {
+   "A": "Errada nas duas metades: a demanda que sobe é de cortisol, não de mineralocorticoide.",
+   "B": "Correta. Febre com via oral preservada: dobrar a hidrocortisona e manter a fludrocortisona.",
+   "C": "Errada. Seria a conduta com vômitos, diarreia ou instabilidade; suspender a fludrocortisona não tem razão.",
+   "D": "Errada. Manter a dose na febre é o que precipita a crise adrenal."
+  },
+  "para_levar": "Addison com febre e via oral preservada: dobre a hidrocortisona, mantenha a fludrocortisona; parenteral (100 mg) só com vômitos, diarreia ou instabilidade.",
+  "referencias": "Endocrine Society, Diagnosis and Treatment of Primary Adrenal Insufficiency 2016; Society for Endocrinology Adrenal Crisis guidance 2020.",
+  "tags": [
+   "Insuficiência Adrenal (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Excesso x deficiência (qual eixo sobe no estresse) e o reflexo de fazer o degrau mais alto."
+ }
+]

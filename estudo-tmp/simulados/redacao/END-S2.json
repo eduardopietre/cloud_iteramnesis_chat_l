@@ -1,0 +1,272 @@
+[
+ {
+  "id": "S2-END-01",
+  "simulado": 2,
+  "area": "Endocrinologia",
+  "titulo": "DHGNA: FIB-4 abaixo de 1,3 no diabético com ALT elevada",
+  "arma": "Omissão",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Homem de 54 anos, com diabetes tipo 2 há seis anos em metformina e empagliflozina (HbA1c 7,1%), hipertensão e IMC de 33 kg/m², é encaminhado porque a ultrassonografia de abdome, pedida por dor lombar, descreveu esteatose hepática moderada. Consome cerca de duas doses de álcool por semana. Nega uso de amiodarona, metotrexato ou corticoide. Exame: sem estigmas de hepatopatia crônica, baço não palpável. Exames: AST 34 U/L (até 40), ALT 71 U/L (até 41), GGT 88 U/L, plaquetas 268.000/mm³, albumina 4,4 g/dL, HBsAg e anti-HCV negativos, ferritina 210 ng/mL com saturação de transferrina 29%. O índice FIB-4 calculado foi 0,81. Além de reforçar a perda de peso, a conduta mais adequada em relação à fibrose hepática é:",
+  "alternativas": {
+   "A": "Elastografia hepática transitória",
+   "B": "Repetir o FIB-4 em um a dois anos",
+   "C": "Biópsia hepática percutânea",
+   "D": "Encaminhamento ao hepatologista"
+  },
+  "gabarito": "B",
+  "armadilha": "A",
+  "dado_decisivo": "O índice FIB-4 calculado foi 0,81",
+  "resolucao": "A armadilha é a elastografia: o paciente é diabético, obeso e tem ALT quase duas vezes o limite, e o reflexo é achar que esse grupo de alto risco precisa de um segundo exame. Mas o diabetes é o motivo para calcular o FIB-4, e não para pular o resultado dele. Com FIB-4 abaixo de 1,3, o valor preditivo negativo para fibrose avançada passa de 90%, e o fluxograma termina ali: mudança de estilo de vida e novo FIB-4 em um a dois anos no diabético (um a três anos nos demais). A ALT elevada não entra no índice como fator de risco de fibrose e não muda a etapa; transaminase normal ou alta não estratifica fibrose. Elastografia fica para 1,3 a 2,67, e hepatologista para acima de 2,67 ou elastografia acima de 12 kPa. Ferritina com saturação de 29% não é sobrecarga de ferro e também não pede nada.",
+  "comentarios": {
+   "A": "Errada. Seria a conduta com FIB-4 entre 1,3 e 2,67; com 0,81 o risco já está estratificado como baixo.",
+   "B": "Correta. FIB-4 de 0,81 é baixo risco; no diabético, repete-se o FIB-4 em um a dois anos, com foco na perda de peso.",
+   "C": "Errada. Biópsia se reserva a dúvida diagnóstica ou discordância entre testes não invasivos de risco intermediário ou alto, o que não existe aqui.",
+   "D": "Errada. Encaminhamento é para FIB-4 acima de 2,67 ou elastografia alterada; ALT elevada isolada não é critério."
+  },
+  "para_levar": "FIB-4 abaixo de 1,3 encerra a estratificação: repete-se o índice (em um a dois anos no diabético). Elastografia só entre 1,3 e 2,67; hepatologista acima de 2,67.",
+  "referencias": "AASLD Practice Guidance on MASLD 2023; EASL-EASD-EASO Clinical Practice Guidelines on MASLD 2024; ADA Standards of Care 2026, seção 4.",
+  "tags": [
+   "DHGNA (CM)"
+  ],
+  "sourceQuestionId": "e4b5f50c307b82e",
+  "alvo": "Regra errada fixada: FIB-4 menor que 1,3 repete; ele pede elastografia no paciente de risco."
+ },
+ {
+  "id": "S2-END-02",
+  "simulado": 2,
+  "area": "Endocrinologia",
+  "titulo": "Hiperprolactinemia assintomática: macroprolactina antes da imagem",
+  "arma": "Negativo no meio",
+  "comando": "próximo exame",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 31 anos traz exames de check-up solicitados pela empresa, que incluíram prolactina por iniciativa do médico do trabalho. Ciclos menstruais regulares a cada 28 dias, sem galactorreia à expressão, sem cefaleia ou queixa visual, libido preservada. Usa apenas omeprazol 20 mg/dia há dois meses por dispepsia. Não usa antidepressivo, antipsicótico, metoclopramida ou anticoncepcional. Exame físico normal. Exames: prolactina 94 ng/mL (até 25), repetida em nova coleta em repouso, 92 ng/mL; beta-hCG negativo; TSH 1,8 µUI/mL; creatinina 0,7 mg/dL. A conduta diagnóstica mais adequada neste momento é:",
+  "alternativas": {
+   "A": "Ressonância magnética de sela túrcica",
+   "B": "Suspender o omeprazol e repetir a dosagem",
+   "C": "Pesquisa de macroprolactina",
+   "D": "Cabergolina em dose baixa"
+  },
+  "gabarito": "C",
+  "armadilha": "A",
+  "dado_decisivo": "Ciclos menstruais regulares a cada 28 dias, sem galactorreia à expressão",
+  "resolucao": "A prolactina de 94 ng/mL, confirmada, com gestação, hipotireoidismo e insuficiência renal excluídos, empurra para a ressonância de sela. O que decide é o negativo no meio do caso: ciclos regulares, sem galactorreia e libido preservada. Prolactina monomérica de 90 ng/mL quase sempre produz hipogonadismo; uma mulher eumenorreica com esse valor sugere macroprolactinemia, um complexo de prolactina com IgG biologicamente inativo, que responde por 10 a 25% das hiperprolactinemias. O exame é a precipitação com polietilenoglicol, e só se a prolactina monomérica estiver elevada se segue com imagem. O omeprazol é o rótulo de droga, mas inibidor de bomba não eleva prolactina de forma relevante (quem eleva é a cimetidina).",
+  "comentarios": {
+   "A": "Errada. Seria o passo com prolactina monomérica elevada ou com hipogonadismo; em assintomática, a imagem pode achar um incidentaloma e induzir tratamento desnecessário.",
+   "B": "Errada. Seria o caminho com droga que eleva prolactina (antipsicótico, metoclopramida, cimetidina); inibidor de bomba não explica 94 ng/mL.",
+   "C": "Correta. Hiperprolactinemia sem sintomas em mulher eumenorreica pede pesquisa de macroprolactina antes de qualquer imagem.",
+   "D": "Errada. Tratar número em assintomática, sem saber se a prolactina é ativa, é tratar o laboratório."
+  },
+  "para_levar": "Prolactina alta sem amenorreia, galactorreia ou hipogonadismo: pesquise macroprolactina (PEG) antes de pedir ressonância ou tratar.",
+  "referencias": "Endocrine Society, Diagnosis and Treatment of Hyperprolactinemia 2011; Pituitary Society consensus on prolactinomas 2023.",
+  "tags": [
+   "Prolactinoma (CM)",
+   "Hipófise (CM)"
+  ],
+  "sourceQuestionId": "b68ba580f5a9484",
+  "alvo": "Prolactinoma 0 de 3: faixa de PRL e exame a mais (RM) antes do degrau simples."
+ },
+ {
+  "id": "S2-END-03",
+  "simulado": 2,
+  "area": "Endocrinologia",
+  "titulo": "Apoplexia hipofisária: hidrocortisona antes da descompressão",
+  "arma": "Rótulo verdadeiro",
+  "comando": "conduta",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 63 anos, hipertenso em losartana, é trazido ao pronto-socorro com cefaleia retro-orbitária súbita e intensa há seis horas, seguida de vômitos e visão dupla. Sem trauma, sem febre. Refere há um ano redução de libido e cansaço, não investigados. Exame: sonolento, mas orientado, PA 88/54 mmHg, FC 112 bpm, T 37,2 °C, ptose palpebral e midríase à direita, hemianopsia bitemporal à confrontação, sem rigidez de nuca. Exames: sódio 127 mEq/L, potássio 4,3 mEq/L, glicemia 68 mg/dL, creatinina 1,2 mg/dL. Tomografia de crânio: massa selar de 2,6 cm com área hiperdensa e extensão suprasselar, sem hemorragia subaracnóidea. Colhido sangue para cortisol, TSH, T4 livre e prolactina. A conduta imediata mais adequada é:",
+  "alternativas": {
+   "A": "Hidrocortisona venosa em dose de estresse",
+   "B": "Descompressão transesfenoidal de urgência",
+   "C": "Angiotomografia arterial cerebral",
+   "D": "Cabergolina em dose alta"
+  },
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "PA 88/54 mmHg, FC 112 bpm",
+  "resolucao": "A perda de campo visual e a paralisia do terceiro nervo são o rótulo verdadeiro que puxa para a cirurgia: há massa comprimindo quiasma e seio cavernoso. Mas o que mata nas primeiras horas da apoplexia é a deficiência aguda de ACTH, e o caso a mostra: hipotensão, taquicardia, hiponatremia e glicemia de 68, com libido baixa prévia sugerindo hipopituitarismo antigo. A primeira medida, antes de qualquer imagem adicional ou de levar ao centro cirúrgico, é hidrocortisona 100 mg venosa e depois 50 mg a cada 6 horas, sem esperar o cortisol colhido. A descompressão é considerada depois da estabilização, para déficit visual grave ou progressivo ou rebaixamento de consciência, e muitos pacientes evoluem bem com conduta conservadora.",
+  "comentarios": {
+   "A": "Correta. Hipotensão, hiponatremia e hipoglicemia na apoplexia são deficiência de cortisol até prova em contrário: hidrocortisona venosa imediata.",
+   "B": "Errada. Seria discutida depois da estabilização, para déficit visual grave ou piora neurológica; operar com insuficiência adrenal não tratada arrisca colapso.",
+   "C": "Errada. Seria o exame de cefaleia súbita com terceiro nervo sem massa selar (aneurisma de comunicante posterior); aqui a tomografia já mostrou a causa.",
+   "D": "Errada. Agonista dopaminérgico é tratamento de prolactinoma, e o tipo do adenoma nem é conhecido; não corrige a urgência."
+  },
+  "para_levar": "Na apoplexia hipofisária, a primeira conduta é hidrocortisona venosa em dose de estresse; a massa espera, o cortisol não.",
+  "referencias": "UK Guidelines for the management of pituitary apoplexy (Rajasekaran et al., Clin Endocrinol 2011); Endocrine Society, Hormonal Replacement in Hypopituitarism 2016.",
+  "tags": [
+   "Hipófise (CM)",
+   "Insuficiência Adrenal (CM)"
+  ],
+  "sourceQuestionId": "e0353a3f882e8d1",
+  "alvo": "Excesso x deficiência: tratou a massa e não o cortisol baixo (apoplexia, memória endocrino-excesso-deficiencia)."
+ },
+ {
+  "id": "S2-END-04",
+  "simulado": 2,
+  "area": "Endocrinologia",
+  "titulo": "Interferência da biotina: falsa tireotoxicose com TRAb positivo",
+  "arma": "Droga a deduzir",
+  "comando": "etiologia",
+  "nivel": "extremamente difícil",
+  "enunciado": "Mulher de 36 anos procura o clínico com o resultado de exames pedidos pela dermatologista, que acompanha queda de cabelo e unhas quebradiças há quatro meses e prescreveu um suplemento manipulado em dose alta, em uso diário desde então. Nega palpitação, tremor, perda de peso, intolerância ao calor ou alteração do ritmo intestinal. Exame: FC 74 bpm, PA 118/72 mmHg, tireoide de volume normal, sem nódulos, sem oftalmopatia, pele e reflexos normais. Exames: TSH 0,04 µUI/mL (0,4 a 4,5), T4 livre 3,1 ng/dL (0,8 a 1,8), T3 total 240 ng/dL (80 a 200), anticorpo antirreceptor de TSH (TRAb) 4,2 UI/L (até 1,75). Hemograma e ferritina normais. A explicação mais provável para esses exames é:",
+  "alternativas": {
+   "A": "Doença de Graves em fase inicial",
+   "B": "Tireoidite indolor em fase tireotóxica",
+   "C": "Tireotoxicose factícia por hormônio no suplemento",
+   "D": "Interferência analítica do suplemento no imunoensaio"
+  },
+  "gabarito": "D",
+  "armadilha": "A",
+  "dado_decisivo": "Nega palpitação, tremor, perda de peso, intolerância ao calor ou alteração do ritmo intestinal",
+  "resolucao": "TSH suprimido, T4 livre e T3 altos e TRAb positivo formam o perfil laboratorial completo de Graves, e é isso que puxa a resposta. A droga a deduzir é a biotina, o suplemento de dose alta prescrito para cabelo e unhas. Nos imunoensaios com estreptavidina e biotina, o excesso de biotina derruba o resultado dos ensaios em sanduíche (TSH baixo falso) e eleva o dos competitivos (T4 livre, T3 e o próprio TRAb altos falsos), imitando Graves inteiro. O que denuncia o artefato é a clínica: nenhuma manifestação adrenérgica, FC 74 bpm e tireoide normal com T4 livre quase duas vezes o limite. A conduta é suspender a biotina por pelo menos dois a três dias (uma semana para doses muito altas) e repetir os exames, de preferência avisando o laboratório.",
+  "comentarios": {
+   "A": "Errada. Seria o diagnóstico com taquicardia, bócio ou oftalmopatia; aqui o TRAb positivo também é artefato da biotina em ensaio competitivo.",
+   "B": "Errada. Tireoidite indolor dá tireotoxicose clínica e TRAb negativo; o anticorpo positivo e a ausência de sintomas não combinam.",
+   "C": "Errada. Hormônio no suplemento produziria sintomas e TRAb negativo; é a explicação para tireotoxicose clínica com tireoglobulina baixa.",
+   "D": "Correta. Biotina em dose alta reduz o TSH e eleva T4 livre, T3 e TRAb nos imunoensaios com estreptavidina; a paciente está clinicamente eutireoidiana."
+  },
+  "para_levar": "Laboratório de tireotoxicose em quem não tem nenhum sinal dela: pergunte pela biotina (e pela heparina), suspenda e repita antes de tratar.",
+  "referencias": "FDA Safety Communication on biotin interference 2019; ATA Guidelines for Hyperthyroidism 2016; Endocrine Society statement on biotin interference (2018).",
+  "tags": [
+   "Fisiologia da Tireóide (CM)",
+   "Hipertireoidismo e Tireotoxicose (CM)"
+  ],
+  "sourceQuestionId": "1ad5354171d980a",
+  "alvo": "Interferente laboratorial (heparina errada antes): ignora a droga em uso e lê o exame como doença."
+ },
+ {
+  "id": "S2-END-05",
+  "simulado": 2,
+  "area": "Endocrinologia",
+  "titulo": "Hipoglicemia hiperinsulinêmica: sulfonilureia antes de localizar insulinoma",
+  "arma": "Rótulo verdadeiro",
+  "comando": "próximo exame",
+  "nivel": "extremamente difícil",
+  "enunciado": "Mulher de 44 anos, técnica de enfermagem em enfermaria de clínica médica, sem diabetes, é levada ao pronto-socorro pela terceira vez em dois meses por sudorese, confusão e fala arrastada, que melhoram com glicose venosa. Mora com a mãe, que tem diabetes tipo 2. Nega etilismo, emagrecimento ou uso de medicamentos. Exame: IMC 24 kg/m², sem alterações. No episódio de hoje, antes da glicose: glicemia 36 mg/dL, insulina 28 µUI/mL (na hipoglicemia, abaixo de 3), peptídeo C 3,9 ng/mL (abaixo de 0,6), pró-insulina 14 pmol/L (abaixo de 5), beta-hidroxibutirato 0,1 mmol/L (acima de 2,7), anticorpo anti-insulina negativo. Creatinina, cortisol e função hepática normais. O próximo passo mais adequado é:",
+  "alternativas": {
+   "A": "Dosagem de sulfonilureias no plasma",
+   "B": "Tomografia de pâncreas com contraste",
+   "C": "Ecoendoscopia pancreática",
+   "D": "Jejum supervisionado de 72 horas"
+  },
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "Mora com a mãe, que tem diabetes tipo 2",
+  "resolucao": "Glicemia de 36 com insulina, peptídeo C e pró-insulina inapropriadamente altos e cetona suprimida é hiperinsulinismo endógeno, e o rótulo verdadeiro (perfil de insulinoma) leva direto à imagem do pâncreas. Só que esse mesmo perfil é idêntico ao da ingestão de secretagogo: a sulfonilureia estimula a célula beta, que libera insulina, peptídeo C e pró-insulina juntos. Insulina exógena seria a outra factícia, mas daria peptídeo C suprimido. Por isso o passo obrigatório antes de localizar é a pesquisa de sulfonilureias e glinidas no plasma colhido no episódio. Profissional de saúde com acesso a hipoglicemiantes em casa (a mãe diabética) aumenta a probabilidade pré-teste. O jejum de 72 horas é desnecessário quando a hipoglicemia espontânea já foi documentada com os exames.",
+  "comentarios": {
+   "A": "Correta. Insulina, peptídeo C e pró-insulina altos não separam insulinoma de sulfonilureia; a dosagem do fármaco é o que falta antes da imagem.",
+   "B": "Errada. Seria o passo com rastreio de secretagogos negativo; localizar antes de excluir a factícia pode levar a pancreatectomia sem tumor.",
+   "C": "Errada. É o exame de localização mais sensível para insulinoma, mas vem depois da confirmação bioquímica completa.",
+   "D": "Errada. Serve para provocar a hipoglicemia quando ela não foi documentada; aqui a tríade de Whipple e os exames já foram obtidos no episódio."
+  },
+  "para_levar": "Hiperinsulinismo endógeno (insulina, peptídeo C e pró-insulina altos) só vira insulinoma depois de rastreio negativo para sulfonilureia; peptídeo C baixo aponta insulina exógena.",
+  "referencias": "Endocrine Society, Evaluation and Management of Adult Hypoglycemic Disorders 2009 (reafirmada); ADA Standards of Care 2026, seção 6.",
+  "tags": [
+   "Hipoglicemias (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Faz o exame do degrau seguinte (imagem) antes de excluir a causa simples; próximo exame é o pior comando."
+ },
+ {
+  "id": "S2-END-06",
+  "simulado": 2,
+  "area": "Endocrinologia",
+  "titulo": "Tireotoxicose por amiodarona: tipo 2 pelo Doppler e tratamento",
+  "arma": "Grade X / Y",
+  "comando": "diagnóstico",
+  "nivel": "difícil",
+  "enunciado": "Homem de 67 anos, com miocardiopatia isquêmica (FE 35%) e taquicardia ventricular, usa amiodarona 200 mg/dia há três anos, além de carvedilol, sacubitril-valsartana e espironolactona. Há três semanas tem piora da dispneia, perda de 3 kg e retorno de palpitações. Função tireoidiana antes da amiodarona normal, com anti-TPO negativo e sem bócio. Exame: FC 108 bpm, irregular, PA 104/66 mmHg, tireoide de volume normal, indolor, sem nódulos. Exames: TSH abaixo de 0,01 µUI/mL, T4 livre 4,2 ng/dL (0,8 a 1,8), T3 total 190 ng/dL (80 a 200), TRAb negativo, VHS 22 mm/h. Ultrassonografia com Doppler: tireoide homogênea, de volume normal, com fluxo ausente. Captação de iodo radioativo em 24 horas: 1%. O mecanismo da tireotoxicose e o tratamento são, respectivamente:",
+  "alternativas": {
+   "A": "Síntese aumentada / metimazol",
+   "B": "Destruição folicular / metimazol",
+   "C": "Síntese aumentada / prednisona",
+   "D": "Destruição folicular / prednisona"
+  },
+  "gabarito": "D",
+  "armadilha": "A",
+  "dado_decisivo": "tireoide homogênea, de volume normal, com fluxo ausente",
+  "resolucao": "Tireotoxicose em usuário de amiodarona leva ao metimazol por reflexo, porque o iodo da droga é lembrado como combustível de síntese. Isso vale para o tipo 1, que ocorre em tireoide previamente doente (bócio nodular, Graves latente) e tem fluxo aumentado ao Doppler. Aqui a glândula era normal antes, segue sem bócio ou nódulos, o TRAb é negativo e o Doppler não mostra fluxo: é o tipo 2, uma tireoidite destrutiva pela toxicidade direta da amiodarona. A captação baixa não separa os dois tipos com segurança, porque a carga de iodo a reduz em ambos; o Doppler e a glândula prévia separam. O tratamento é prednisona (cerca de 0,5 mg/kg/dia), e a amiodarona pode ser mantida quando a arritmia exige, como na taquicardia ventricular.",
+  "comentarios": {
+   "A": "Errada. Seria o tipo 1, em bócio nodular ou Graves latente com Doppler hipervascular; tionamida não age na tireoide que está se destruindo.",
+   "B": "Errada. O mecanismo está certo, mas tionamida não reduz a liberação de hormônio pré-formado.",
+   "C": "Errada. Combina o mecanismo do tipo 1 com o tratamento do tipo 2.",
+   "D": "Correta. Glândula normal prévia, TRAb negativo e fluxo ausente ao Doppler definem o tipo 2, tratado com glicocorticoide."
+  },
+  "para_levar": "Tireotoxicose por amiodarona: glândula doente com fluxo aumentado é tipo 1 (tionamida); glândula normal com fluxo ausente é tipo 2 (prednisona). Captação baixa ocorre nos dois.",
+  "referencias": "ATA Guidelines for Hyperthyroidism and Other Causes of Thyrotoxicosis 2016; European Thyroid Association Guidelines for amiodarone-associated thyroid dysfunction 2018.",
+  "tags": [
+   "Tireoidites (CM)",
+   "Hipertireoidismo e Tireotoxicose (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Excesso x destruição: trata como excesso de síntese o que é liberação; droga em uso define o mecanismo."
+ },
+ {
+  "id": "S2-END-07",
+  "simulado": 2,
+  "area": "Endocrinologia",
+  "titulo": "Hipocalcemia pós-tireoidectomia por Graves: fome óssea x hipoparatireoidismo",
+  "arma": "Rótulo verdadeiro",
+  "comando": "diagnóstico",
+  "nivel": "extremamente difícil",
+  "enunciado": "Mulher de 41 anos, com doença de Graves de difícil controle (T3 total de 520 ng/dL na última consulta, apesar de metimazol 40 mg/dia) e fosfatase alcalina de 410 U/L no pré-operatório, foi submetida a tireoidectomia total sem intercorrências, com identificação e preservação das quatro paratireoides descritas pelo cirurgião. No segundo dia pós-operatório refere parestesias periorais e nas mãos. Exame: sinal de Chvostek positivo, ferida sem hematoma, voz normal. Exames: cálcio total 7,1 mg/dL (8,5 a 10,2), albumina 3,9 g/dL, fósforo 1,9 mg/dL (2,5 a 4,5), magnésio 1,5 mg/dL (1,7 a 2,4), PTH 112 pg/mL (15 a 65), 25-hidroxivitamina D 32 ng/mL. A causa mais provável da hipocalcemia é:",
+  "alternativas": {
+   "A": "Hipoparatireoidismo pós-cirúrgico",
+   "B": "Hipomagnesemia",
+   "C": "Síndrome da fome óssea",
+   "D": "Deficiência de vitamina D"
+  },
+  "gabarito": "C",
+  "armadilha": "A",
+  "dado_decisivo": "PTH 112 pg/mL (15 a 65)",
+  "resolucao": "Hipocalcemia sintomática no segundo dia de tireoidectomia total é, por frequência, hipoparatireoidismo por lesão ou desvascularização das paratireoides, e esse rótulo verdadeiro decide a resposta de quem não lê o PTH. O PTH de 112 com fósforo baixo diz o contrário: as paratireoides funcionam e estão respondendo à hipocalcemia. A explicação é a fome óssea: a tireotoxicose grave e prolongada causa alta remodelação (a fosfatase alcalina de 410 é o marcador), e a retirada súbita do excesso hormonal faz o osso captar cálcio, fósforo e magnésio. O magnésio baixo é consequência e não causa, porque hipomagnesemia que provoca hipocalcemia suprime ou torna ineficaz o PTH. A vitamina D é suficiente. O tratamento exige cálcio em dose alta, calcitriol e reposição de magnésio, às vezes por semanas.",
+  "comentarios": {
+   "A": "Errada. Seria a causa com PTH baixo ou inapropriadamente normal e fósforo alto; aqui o PTH está alto e o fósforo baixo.",
+   "B": "Errada. Hipomagnesemia causa hipocalcemia com PTH baixo; um magnésio de 1,5 com PTH de 112 é parte da fome óssea.",
+   "C": "Correta. Hipocalcemia com hipofosfatemia, PTH alto e fosfatase alcalina elevada após correção cirúrgica de tireotoxicose grave.",
+   "D": "Errada. Daria PTH alto e fósforo baixo, mas de forma crônica; 25-hidroxivitamina D de 32 ng/mL é suficiente."
+  },
+  "para_levar": "Hipocalcemia pós-operatória com PTH alto e fósforo baixo é fome óssea, não hipoparatireoidismo; ocorre após paratireoidectomia e também após tireoidectomia por tireotoxicose grave.",
+  "referencias": "ATA Guidelines for Hyperthyroidism 2016; Second International Workshop on Hypoparathyroidism (J Bone Miner Res 2022).",
+  "tags": [
+   "Hipocalcemias (CM)",
+   "Hipoparatireoidismo (CM)",
+   "Doença de Graves (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Exame que decide (PTH) lido como enfeite quando o rótulo cirúrgico vem antes; hiper x hipopara."
+ },
+ {
+  "id": "S2-END-08",
+  "simulado": 2,
+  "area": "Endocrinologia",
+  "titulo": "Hiperparatireoidismo primário assintomático: critério densitométrico no rádio",
+  "arma": "Limiar",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 63 anos, assintomática, tem hipercalcemia descoberta em exames de rotina e persistente em três dosagens. Nega nefrolitíase, fraturas, uso de tiazídico, lítio ou suplemento de cálcio. Exames: cálcio total 10,8 mg/dL (8,5 a 10,2), albumina 4,2 g/dL, fósforo 2,6 mg/dL, PTH 98 pg/mL (15 a 65), 25-hidroxivitamina D 36 ng/mL, creatinina 0,8 mg/dL (TFG estimada 82 mL/min/1,73 m²), cálcio urinário de 24 horas 240 mg, relação de depuração cálcio/creatinina 0,021. Ultrassonografia renal sem cálculos ou nefrocalcinose. Radiografia de coluna sem fraturas vertebrais. Densitometria: T-score de -1,9 em coluna lombar, -1,6 em colo femoral e -2,7 no terço distal do rádio. A conduta mais adequada é:",
+  "alternativas": {
+   "A": "Seguimento clínico com densitometria anual",
+   "B": "Paratireoidectomia",
+   "C": "Cinacalcete e seguimento",
+   "D": "Alendronato e nova densitometria"
+  },
+  "gabarito": "B",
+  "armadilha": "A",
+  "dado_decisivo": "-2,7 no terço distal do rádio",
+  "resolucao": "Paciente assintomática, com cálcio apenas 0,6 mg/dL acima do limite, função renal normal, sem cálculos e com coluna e fêmur em osteopenia: a leitura apressada conclui que ela não preenche critério cirúrgico e opta por vigiar. O limiar que decide está no sítio esquecido da densitometria: T-score igual ou menor que -2,5 em qualquer sítio, incluindo o terço distal do rádio, é indicação de cirurgia. O rádio distal é osso cortical, justamente o compartimento que o PTH mais consome, por isso ele aparece no critério. Os outros critérios (cálcio mais de 1 mg/dL acima do limite, TFG abaixo de 60, calciúria acima de 250 mg em mulher com risco de cálculo, nefrolitíase, fratura vertebral, idade abaixo de 50) não estão presentes, mas basta um. A relação de depuração de 0,021 afasta hipercalcemia hipocalciúrica familiar.",
+  "comentarios": {
+   "A": "Errada. Seria a conduta sem nenhum critério; o T-score de -2,7 no rádio já é critério cirúrgico.",
+   "B": "Correta. T-score de -2,5 ou menor em qualquer sítio, incluindo o terço distal do rádio, indica paratireoidectomia no hiperparatireoidismo primário assintomático.",
+   "C": "Errada. Cinacalcete controla o cálcio de quem não pode ou não quer operar, mas não melhora a massa óssea.",
+   "D": "Errada. Bifosfonato é opção para quem tem indicação e não pode operar; com cirurgia possível, ela é o tratamento que cura e recupera osso."
+  },
+  "para_levar": "No hiperparatireoidismo primário assintomático, olhe os três sítios da densitometria: T-score de -2,5 ou menor no terço distal do rádio já indica cirurgia.",
+  "referencias": "Fifth International Workshop on Primary Hyperparathyroidism (J Bone Miner Res 2022); AAES Guidelines for Primary Hyperparathyroidism 2016.",
+  "tags": [
+   "Hiperparatireoidismo Primário (Clínica Médica) (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Ponto de corte não fixado: decide pelo cálcio pouco alto e ignora o número que indica a conduta."
+ }
+]

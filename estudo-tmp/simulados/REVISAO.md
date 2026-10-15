@@ -29,7 +29,8 @@ Para CADA questão, confira e corrija:
 6. **Textos de apoio**: `resolucao`, `comentarios` (um por letra, começando por
    "Correta." ou "Errada."), `para_levar`, `referencias` coerentes com o gabarito
    final. Os comentários das erradas dizem em que caso vizinho seriam certas.
-7. **Tags** existem no vocabulário (`topic_list` com `filter`).
+7. **Referências reais.** Cite só diretriz cuja existência e ano você tem certeza (ex.: Surviving Sepsis Campaign 2021, GOLD 2025, GINA 2024). Se a referência for uma versão que você não consegue confirmar (ex.: "SSC 2026", "GOLD 2026"), troque pela última versão confirmada, e confira que o gabarito vale por ela.
+8. **Tags** existem no vocabulário (`topic_list` com `filter`).
 
 DEPOIS, POR SIMULADO (cada arquivo), **reequilibre as letras**:
 - gabaritos distribuídos igualmente entre A, B, C, D (diferença máxima de 1);

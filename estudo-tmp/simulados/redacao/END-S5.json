@@ -1,0 +1,274 @@
+[
+ {
+  "id": "S5-END-01",
+  "simulado": 5,
+  "area": "Endocrinologia",
+  "titulo": "Ferritina alta com heterozigose composta C282Y/H63D e saturação normal",
+  "arma": "Rótulo verdadeiro",
+  "comando": "etiologia",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 51 anos, com obesidade (IMC 36 kg/m²), diabetes tipo 2, hipertrigliceridemia e esteatose hepática, consome três a quatro latas de cerveja por dia. Por ferritina de 890 ng/mL, um colega solicitou pesquisa genética, que mostrou heterozigose composta C282Y/H63D no gene HFE, e o paciente chega preocupado com o diagnóstico de hemocromatose. Nega artralgia, hipogonadismo ou hiperpigmentação. Exames: hemoglobina 15,4 g/dL, ferro sérico 92 µg/dL, saturação de transferrina 31%, AST 44 U/L, ALT 61 U/L, GGT 186 U/L, plaquetas 245.000/mm³, PCR 4 mg/L. A explicação mais provável para a ferritina elevada é:",
+  "alternativas": {
+   "A": "Hemocromatose HFE por heterozigose composta",
+   "B": "Hiperferritinemia dismetabólica e alcoólica",
+   "C": "Doença da ferroportina",
+   "D": "Síndrome hiperferritinemia-catarata"
+  },
+  "gabarito": "B",
+  "armadilha": "A",
+  "dado_decisivo": "saturação de transferrina 31%",
+  "resolucao": "O genótipo já está no prontuário e é verdadeiro, e esse rótulo leva a fechar hemocromatose. Mas a heterozigose composta C282Y/H63D tem penetrância muito baixa, e as diretrizes não a consideram causa de sobrecarga clinicamente relevante sem outro fator; o que define a sobrecarga é a saturação de transferrina, e 31% está abaixo de 45%. Ferritina alta com saturação normal num homem obeso, diabético, com esteatose e consumo diário de álcool é hiperferritinemia dismetabólica e alcoólica, a causa mais comum de ferritina elevada na prática. A doença da ferroportina e a síndrome hiperferritinemia-catarata também dão ferritina alta com saturação normal, mas são raras, hereditárias dominantes e entram só sem causa metabólica e com família afetada (ou catarata precoce). A conduta é abstinência e controle metabólico, não flebotomia.",
+  "comentarios": {
+   "A": "Errada. Seria o diagnóstico em homozigoto C282Y com saturação acima de 45%; heterozigose composta com saturação de 31% não sustenta sobrecarga.",
+   "B": "Correta. Saturação normal, síndrome metabólica com esteatose e álcool explicam a ferritina de 890 ng/mL.",
+   "C": "Errada. Daria ferritina alta com saturação normal em família com herança dominante e sem fator metabólico que explique.",
+   "D": "Errada. Seria a causa com catarata bilateral precoce e família afetada, sem lesão hepática."
+  },
+  "para_levar": "Genótipo HFE não define hemocromatose: sem saturação de transferrina de 45% ou mais, ferritina alta em obeso, diabético ou etilista é metabólica, e heterozigose composta não muda isso.",
+  "referencias": "EASL Clinical Practice Guidelines on Haemochromatosis 2022; ACG Clinical Guideline: Hereditary Hemochromatosis 2019.",
+  "tags": [
+   "Hemocromatose (CM)",
+   "Síndrome Metabólica, Obesidade e DHGNA (CM)"
+  ],
+  "sourceQuestionId": "28f7dffa9e7b076",
+  "alvo": "Regra errada fixada: hiperferritinemia metabólica com IST abaixo de 45% (novo ângulo: genótipo já pedido)."
+ },
+ {
+  "id": "S5-END-02",
+  "simulado": 5,
+  "area": "Endocrinologia",
+  "titulo": "Diabetes tipo 1 com queda da necessidade de insulina: Addison na síndrome poliglandular",
+  "arma": "Negativo no meio",
+  "comando": "etiologia",
+  "nivel": "extremamente difícil",
+  "enunciado": "Mulher de 26 anos, com diabetes tipo 1 há 12 anos e hipotireoidismo por Hashimoto em levotiroxina, usa glargina e asparte. Nos últimos três meses teve hipoglicemias frequentes e reduziu por conta própria a insulina total de 46 para 30 UI/dia; perdeu 4 kg, com náuseas e cansaço. Nega diarreia, distensão abdominal, esteatorreia ou mudança na dieta; não pratica exercício novo e não usa álcool. Técnica e locais de aplicação adequados, sem lipo-hipertrofia. Exame: PA 96/62 mmHg deitada e 82/54 mmHg em pé, pele bronzeada sem exposição ao sol. Exames: HbA1c 6,4% (era 7,8%), sódio 132 mEq/L, potássio 5,3 mEq/L, creatinina 0,8 mg/dL, TSH 2,1 µUI/mL, hemoglobina 12,8 g/dL, ferritina 64 ng/mL. A causa mais provável da queda da necessidade de insulina é:",
+  "alternativas": {
+   "A": "Doença celíaca",
+   "B": "Gastroparesia diabética",
+   "C": "Hipotireoidismo mal controlado",
+   "D": "Insuficiência adrenal primária"
+  },
+  "gabarito": "D",
+  "armadilha": "A",
+  "dado_decisivo": "Nega diarreia, distensão abdominal, esteatorreia ou mudança na dieta",
+  "resolucao": "Diabetes tipo 1 com hipoglicemias novas, perda de peso e outra doença autoimune evoca doença celíaca, a associação mais rastreada no tipo 1, que reduz a absorção de carboidrato. O negativo no meio do caso a enfraquece: nada de diarreia, distensão ou esteatorreia, e ferritina e hemoglobina sem ferropenia. O que sobra explica tudo: hipotensão postural, pele bronzeada, sódio baixo e potássio alto, com a necessidade de insulina caindo porque falta cortisol, hormônio contrarregulador que se opõe à insulina. É insuficiência adrenal primária autoimune, e com Hashimoto e diabetes tipo 1 configura síndrome poliglandular tipo 2. O próximo passo é cortisol e ACTH, com hidrocortisona sem demora se houver instabilidade.",
+  "comentarios": {
+   "A": "Errada. Seria a causa com diarreia, distensão, ferropenia ou anticorpo antitransglutaminase positivo; não explica hipercalemia nem hiperpigmentação.",
+   "B": "Errada. Causa hipoglicemia pós-prandial imprevisível, com plenitude e vômitos, mas não hiponatremia, hipercalemia e pele escura.",
+   "C": "Errada. O TSH está normal; hipotireoidismo reduz pouco a necessidade de insulina e não causa hiperpigmentação.",
+   "D": "Correta. Queda da necessidade de insulina com hipotensão postural, hiperpigmentação, hiponatremia e hipercalemia em portadora de autoimunidade é Addison."
+  },
+  "para_levar": "Diabetes tipo 1 com hipoglicemias novas e queda da dose de insulina: pense em insuficiência adrenal (SPA2) e em doença celíaca; eletrólitos e pele separam as duas.",
+  "referencias": "Endocrine Society, Primary Adrenal Insufficiency 2016; ADA Standards of Care 2026, seção 4 (rastreio de doenças autoimunes no tipo 1).",
+  "tags": [
+   "Insuficiência Adrenal (CM)",
+   "Hipoglicemias (CM)"
+  ],
+  "sourceQuestionId": "fd9bfae8c4a73ba",
+  "alvo": "SPA2 reincidente (novo ângulo pela insulina) e o negativo que separa os vizinhos lido como enfeite."
+ },
+ {
+  "id": "S5-END-03",
+  "simulado": 5,
+  "area": "Endocrinologia",
+  "titulo": "Hiperprolactinemia acima de 100 por risperidona: trocar o antipsicótico",
+  "arma": "Limiar",
+  "comando": "conduta",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 29 anos, com esquizofrenia estável há dois anos em uso de risperidona 6 mg/dia, queixa-se de disfunção erétil e redução da libido há oito meses. A prolactina antes da risperidona, dosada em internação psiquiátrica, era de 11 ng/mL. Sem cefaleia ou alteração visual. Exame: ginecomastia bilateral discreta, testículos de volume normal, campimetria de confrontação normal. Exames: prolactina 142 ng/mL (até 15) em duas dosagens, testosterona total 210 ng/dL (300 a 1.000), LH 1,8 UI/L, TSH 1,6 µUI/mL, creatinina 0,9 mg/dL. O psiquiatra concorda em ajustar o tratamento. A conduta mais adequada é:",
+  "alternativas": {
+   "A": "Ressonância magnética de sela",
+   "B": "Cabergolina mantendo a risperidona",
+   "C": "Trocar a risperidona por aripiprazol",
+   "D": "Testosterona mantendo a risperidona"
+  },
+  "gabarito": "C",
+  "armadilha": "A",
+  "dado_decisivo": "A prolactina antes da risperidona, dosada em internação psiquiátrica, era de 11 ng/mL",
+  "resolucao": "A regra de que droga raramente eleva a prolactina acima de 100 ng/mL é útil, mas a risperidona (e a paliperidona) são a exceção: bloqueiam D2 com força e atravessam mal a barreira, ficando na hipófise, e produzem valores de 100 a 200 ng/mL ou mais. Usar o limiar como absoluto leva à ressonância. O dado que decide é a cronologia: prolactina normal antes do antipsicótico, e hiperprolactinemia surgindo com ele. Quando o início coincide com a droga e ela pode ser trocada, troca-se, em conjunto com o psiquiatra, por um antipsicótico poupador de prolactina como o aripiprazol, e redosa-se; imagem fica para quando a troca não for possível e a relação temporal não estiver clara. Cabergolina pode piorar a psicose, e testosterona isolada trata o efeito e mantém a causa.",
+  "comentarios": {
+   "A": "Errada. Seria a conduta com prolactina já alta antes do antipsicótico, sintomas de massa, ou quando a droga não pode ser trocada.",
+   "B": "Errada. Agonista dopaminérgico antagoniza o antipsicótico e pode descompensar a psicose; é reserva para quando a troca não for possível.",
+   "C": "Correta. Hiperprolactinemia sintomática que começou com a risperidona, com prolactina normal antes: trocar por aripiprazol e redosar.",
+   "D": "Errada. Corrige o hipogonadismo sem tratar a causa e não reverte a ginecomastia; fica para quando o antipsicótico não puder ser mudado."
+  },
+  "para_levar": "Prolactina acima de 100 não exclui droga: risperidona e paliperidona passam disso. Se a elevação começou com o antipsicótico, troque-o (aripiprazol) antes de pensar em imagem ou cabergolina.",
+  "referencias": "Endocrine Society, Hyperprolactinemia 2011; Pituitary Society consensus on prolactinomas 2023; Diretriz da ABP para esquizofrenia 2022.",
+  "tags": [
+   "Prolactinoma (CM)",
+   "Hipogonadismo Masculino e Feminino (CM)"
+  ],
+  "sourceQuestionId": "414edfd2cbacef8",
+  "alvo": "Prolactinoma 0 de 3: faixa de PRL por causa aplicada sem a exceção; droga em uso (antipsicótico)."
+ },
+ {
+  "id": "S5-END-04",
+  "simulado": 5,
+  "area": "Endocrinologia",
+  "titulo": "Hipercalemia após adrenalectomia por aldosteronoma: suspender o antagonista e liberar sal",
+  "arma": "Grade X / Y",
+  "comando": "conduta",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 52 anos, com hiperaldosteronismo primário por adenoma esquerdo confirmado por cateterismo adrenal, usava espironolactona 100 mg/dia, anlodipino 10 mg/dia e cloreto de potássio 1,8 g/dia antes da adrenalectomia laparoscópica esquerda, há três semanas. Na alta, as três medicações foram mantidas até a consulta. Hoje: PA 122/76 mmHg, FC 74 bpm. Exames: sódio 134 mEq/L, potássio 6,1 mEq/L, creatinina 1,5 mg/dL (era 1,0 antes da cirurgia), aldosterona plasmática abaixo de 3 ng/dL, renina baixa. ECG com ondas T apiculadas, sem alargamento de QRS. Além de suspender o cloreto de potássio e tratar a hipercalemia, quanto à espironolactona e à ingestão de sal, a conduta é, respectivamente:",
+  "alternativas": {
+   "A": "Manter em dose menor / restrição de sal",
+   "B": "Suspender / dieta liberal em sal",
+   "C": "Suspender / restrição de sal",
+   "D": "Manter / dieta liberal em sal"
+  },
+  "gabarito": "B",
+  "armadilha": "A",
+  "dado_decisivo": "aldosterona plasmática abaixo de 3 ng/dL",
+  "resolucao": "O paciente foi tratado anos para excesso de aldosterona, e a inércia é continuar: espironolactona em dose menor e restrição de sal, a dieta do hipertenso. Retirada a fonte, o estado se inverteu: a adrenal contralateral, suprimida por anos de renina baixa, demora semanas a meses para voltar, e há hipoaldosteronismo transitório, com aldosterona abaixo de 3 ng/dL, hipercalemia e sódio baixo. A creatinina que sobe é a TFG real desmascarada depois do fim da hiperfiltração do excesso mineralocorticoide. A conduta é suspender espironolactona e potássio já no pós-operatório e liberar o sal da dieta, que oferece sódio ao néfron distal e favorece a excreção de potássio; se a hipercalemia persistir, fludrocortisona temporária.",
+  "comentarios": {
+   "A": "Errada nas duas metades: mantém o antagonista de um hormônio que já falta e restringe o sódio de que o néfron precisa para excretar potássio.",
+   "B": "Correta. Hipoaldosteronismo transitório pós-adrenalectomia: suspender espironolactona e potássio e liberar o sal.",
+   "C": "Errada. Suspender está certo, mas restringir sal agrava a hipercalemia e a hiponatremia neste momento.",
+   "D": "Errada. O sal liberado está certo, mas manter espironolactona com aldosterona abaixo de 3 ng/dL é tratar um excesso que não existe mais."
+  },
+  "para_levar": "Depois da adrenalectomia por aldosteronoma, o problema vira falta de aldosterona: suspenda espironolactona e potássio, libere o sal e vigie o potássio; fludrocortisona se persistir.",
+  "referencias": "Endocrine Society, Management of Primary Aldosteronism 2016 e atualização 2025; Primary Aldosteronism Surgical Outcome (PASO) consensus 2017.",
+  "tags": [
+   "Hiperaldosteronismo Primário (CM)",
+   "Hiperpotassemia (CM)"
+  ],
+  "sourceQuestionId": "e1a078608a538e1",
+  "alvo": "Excesso x deficiência: manteve espironolactona após adrenalectomia (reincidente, memória endocrino-excesso-deficiencia)."
+ },
+ {
+  "id": "S5-END-05",
+  "simulado": 5,
+  "area": "Endocrinologia",
+  "titulo": "Tireotoxicose sob pembrolizumabe: tireoidite destrutiva, não iodo do contraste",
+  "arma": "Rótulo verdadeiro",
+  "comando": "mecanismo",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 61 anos, com adenocarcinoma de pulmão metastático, iniciou pembrolizumabe há seis semanas; fez tomografia de estadiamento com contraste iodado há quatro semanas. Refere palpitações e insônia há dez dias. Sem doença tireoidiana prévia. Exame: FC 108 bpm, PA 128/80 mmHg, tremor fino, tireoide de volume normal, indolor, sem nódulos, sem sopro, sem oftalmopatia. Exames: TSH 0,02 µUI/mL, T4 livre 2,4 ng/dL (0,8 a 1,8), T3 total 182 ng/dL, TRAb negativo, anti-TPO positivo, cortisol às 8 horas 16 µg/dL, sódio 138 mEq/L. Ultrassonografia: tireoide heterogênea, sem nódulos, com fluxo reduzido. O mecanismo mais provável da tireotoxicose é:",
+  "alternativas": {
+   "A": "Destruição folicular inflamatória",
+   "B": "Anticorpo estimulador do receptor de TSH",
+   "C": "Síntese induzida pelo iodo do contraste",
+   "D": "Autonomia de nódulo tireoidiano"
+  },
+  "gabarito": "A",
+  "armadilha": "C",
+  "dado_decisivo": "tireoide de volume normal, indolor, sem nódulos",
+  "resolucao": "O contraste iodado recente é um rótulo verdadeiro, e o efeito Jod-Basedow é lembrado como causa de tireotoxicose depois de tomografia. Mas ele depende de uma glândula com autonomia prévia (bócio nodular) ou Graves latente, e esta tireoide é de volume normal, sem nódulos, com TRAb negativo. O cenário é o evento endócrino mais comum do anti-PD-1: tireoidite destrutiva indolor, nas primeiras semanas a meses, mais frequente com anti-TPO positivo, e com fluxo reduzido ao ultrassom. A fase tireotóxica é transitória e costuma evoluir para hipotireoidismo em semanas. Trata-se com betabloqueador, sem tionamida, mantendo a imunoterapia nos graus 1 e 2 e repetindo a função tireoidiana em duas a três semanas.",
+  "comentarios": {
+   "A": "Correta. Tireoidite destrutiva por anti-PD-1: glândula normal, indolor, anti-TPO positivo, TRAb negativo e fluxo reduzido.",
+   "B": "Errada. Seria Graves, com TRAb positivo, sopro, fluxo aumentado ou oftalmopatia; é rara sob anti-PD-1.",
+   "C": "Errada. Jod-Basedow exige bócio nodular ou Graves latente; tireoide normal sem nódulos e com fluxo reduzido não o sustenta.",
+   "D": "Errada. Nódulo autônomo apareceria ao exame ou ao ultrassom, que não mostram nódulos."
+  },
+  "para_levar": "Tireotoxicose nas primeiras semanas de anti-PD-1 é tireoidite destrutiva: betabloqueador, sem tionamida, mantendo a imunoterapia e vigiando a virada para hipotireoidismo.",
+  "referencias": "ASCO Guideline: Management of Immune-Related Adverse Events 2021; ESMO Guideline on toxicities from immunotherapy 2022; ATA Hyperthyroidism Guidelines 2016.",
+  "tags": [
+   "Tireoidites (CM)",
+   "Hipertireoidismo e Tireotoxicose (CM)"
+  ],
+  "sourceQuestionId": "c708be7a2052199",
+  "alvo": "Imunoterapia como droga em uso (errou hipofisite por anti-PD1) e excesso de síntese x destruição."
+ },
+ {
+  "id": "S5-END-06",
+  "simulado": 5,
+  "area": "Endocrinologia",
+  "titulo": "Hiperaldosteronismo primário: quem deve ser rastreado",
+  "arma": "Rótulo verdadeiro",
+  "comando": "fato solto",
+  "nivel": "difícil",
+  "enunciado": "Segundo as diretrizes da Endocrine Society, o rastreio de hiperaldosteronismo primário com aldosterona e renina está indicado em:",
+  "alternativas": {
+   "A": "Hipertensão estágio 1 com apneia do sono",
+   "B": "Incidentaloma adrenal em normotenso com potássio normal",
+   "C": "Normotenso, irmão de portador da doença",
+   "D": "Hipocalemia em normotenso que usa furosemida"
+  },
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "o rastreio de hiperaldosteronismo primário com aldosterona e renina está indicado em",
+  "resolucao": "O incidentaloma adrenal é o rótulo que mais induz o rastreio das três síndromes funcionais de uma vez, mas o rastreio de hiperaldosteronismo no incidentaloma depende de hipertensão ou hipocalemia espontânea; normotenso com potássio normal não tem indicação. O hiperaldosteronismo é uma causa de hipertensão: o rastreio se dirige a hipertensos, e a apneia obstrutiva do sono é uma das indicações classicamente listadas (a atualização de 2025 amplia para todo hipertenso). Parente de primeiro grau só é rastreado se for hipertenso, e hipocalemia por diurético de alça em normotenso tem causa evidente. A regra de bolso: sem hipertensão, aldosterona e renina quase nunca estão indicadas.",
+  "comentarios": {
+   "A": "Correta. Hipertensão associada a apneia obstrutiva do sono é indicação de rastreio, e a diretriz de 2025 estende o rastreio a todo hipertenso.",
+   "B": "Errada. No incidentaloma, aldosterona e renina só com hipertensão ou hipocalemia não explicada.",
+   "C": "Errada. O rastreio familiar se aplica ao parente de primeiro grau hipertenso.",
+   "D": "Errada. Hipocalemia com diurético de alça em normotenso tem causa conhecida e não sugere excesso de aldosterona."
+  },
+  "para_levar": "Hiperaldosteronismo se rastreia em hipertenso (todos, pela diretriz de 2025; prioritariamente resistente, hipocalêmico, com apneia, incidentaloma ou AVC jovem); normotenso com potássio normal não se rastreia.",
+  "referencias": "Endocrine Society, Management of Primary Aldosteronism 2016 e Clinical Practice Guideline 2025; ESE/ENSAT Adrenal Incidentaloma Guideline 2023.",
+  "tags": [
+   "Hiperaldosteronismo Primário (CM)",
+   "Incidentaloma Adrenal (CM)"
+  ],
+  "sourceQuestionId": "89d38d1cfbcf2b4",
+  "alvo": "Rastreou HAP sem HAS (instável nas duplicadas): regra aplicada sem checar a precondição."
+ },
+ {
+  "id": "S5-END-07",
+  "simulado": 5,
+  "area": "Endocrinologia",
+  "titulo": "Coma mixedematoso sem exames de tireoide: hidrocortisona antes da levotiroxina",
+  "arma": "Dado omitido",
+  "comando": "conduta",
+  "nivel": "extremamente difícil",
+  "enunciado": "Mulher de 74 anos é trazida pela filha, em julho, por sonolência progressiva há uma semana, após pneumonia tratada em casa. Há 18 anos fez tratamento com iodo radioativo para tireoide acelerada e perdeu o seguimento; não toma remédios regularmente. Exame: Glasgow 9, temperatura axilar 34,2 °C, FC 48 bpm, PA 92/58 mmHg, FR 10 irpm, face infiltrada, macroglossia, pele seca e fria, edema não depressível em pernas, relaxamento lento do reflexo aquileu. Exames: sódio 121 mEq/L, glicemia 62 mg/dL, pH 7,28, pCO2 62 mmHg, CPK 1.480 U/L, creatinina 1,4 mg/dL. Os exames de tireoide foram colhidos e o resultado sai amanhã. A conduta medicamentosa mais adequada agora é:",
+  "alternativas": {
+   "A": "Aguardar TSH e T4 livre para tratar",
+   "B": "Levotiroxina venosa isolada em ataque",
+   "C": "Hidrocortisona e, depois, levotiroxina venosas",
+   "D": "Levotiroxina oral plena, sem corticoide"
+  },
+  "gabarito": "C",
+  "armadilha": "B",
+  "dado_decisivo": "Há 18 anos fez tratamento com iodo radioativo para tireoide acelerada e perdeu o seguimento",
+  "resolucao": "Falta o exame que todos esperam ver (TSH e T4 livre), e o reflexo de confirmar antes de tratar atrasa uma emergência com mortalidade de 25 a 50%. O diagnóstico se faz pelo que o caso dá: iodo radioativo sem seguimento, hipotermia, bradicardia, hipoventilação com hipercapnia, hiponatremia, hipoglicemia, CPK alta e mixedema, precipitados por infecção no inverno. O tratamento começa agora e tem ordem: hidrocortisona em dose de estresse (100 mg venosa a cada 8 horas) antes ou junto com a levotiroxina venosa (ataque de 200 a 400 µg), porque pode haver insuficiência adrenal coexistente, e o hormônio tireoidiano aumenta o consumo de cortisol e precipita crise adrenal. A hipoglicemia e a hipotensão reforçam a suspeita. Via oral é inadequada pela absorção intestinal comprometida.",
+  "comentarios": {
+   "A": "Errada. Seria aceitável em hipotireoidismo sem descompensação; no coma mixedematoso, esperar o laboratório aumenta a mortalidade.",
+   "B": "Errada. A levotiroxina está certa, mas sem hidrocortisona prévia arrisca precipitar crise adrenal numa paciente hipotensa e hipoglicêmica.",
+   "C": "Correta. Hidrocortisona em dose de estresse e levotiroxina venosa em ataque, nessa ordem, sem esperar o resultado.",
+   "D": "Errada. Absorção intestinal reduzida no mixedema e falta de cobertura adrenal tornam a via oral sem corticoide inadequada."
+  },
+  "para_levar": "Coma mixedematoso é diagnóstico clínico: trate antes do TSH, com hidrocortisona primeiro e levotiroxina venosa em seguida.",
+  "referencias": "ATA Guidelines for the Treatment of Hypothyroidism 2014; Diretriz SBEM de hipotireoidismo 2013.",
+  "tags": [
+   "Hipotireoidismo (CM)",
+   "Emergências Clínicas (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Investiga antes de tratar na emergência (3 de 3 no Einstein) e ordem cortisol antes de levotiroxina."
+ },
+ {
+  "id": "S5-END-08",
+  "simulado": 5,
+  "area": "Endocrinologia",
+  "titulo": "Hipotireoidismo e gestação confirmada: aumentar a levotiroxina antes do primeiro TSH",
+  "arma": "Qualificador",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 33 anos, com hipotireoidismo por tireoidite de Hashimoto em uso de levotiroxina 100 µg/dia, com TSH de 1,6 µUI/mL há dois meses, descobre-se grávida, com seis semanas, pelo atraso menstrual e beta-hCG positivo. Assintomática. A primeira consulta de pré-natal está marcada para daqui a três semanas. Até lá, em relação à levotiroxina, a conduta mais adequada é:",
+  "alternativas": {
+   "A": "Manter a dose e dosar TSH no pré-natal",
+   "B": "Dobrar a dose e dosar T4 total",
+   "C": "Trocar por liotironina na gestação",
+   "D": "Aumentar cerca de 30% da dose já"
+  },
+  "gabarito": "D",
+  "armadilha": "A",
+  "dado_decisivo": "Até lá, em relação à levotiroxina",
+  "resolucao": "TSH de 1,6 há dois meses parece autorizar manter a dose e reavaliar na consulta, e é o que o apressado marca. O qualificador do comando pede a conduta para as próximas três semanas, que coincidem com o período em que a demanda de T4 sobe rapidamente (aumento da globulina ligadora de tiroxina pelo estrogênio, estímulo do hCG perdido numa glândula sem reserva, transferência ao feto) e em que o feto depende só do T4 materno para o desenvolvimento neurológico. Por isso a mulher com hipotireoidismo tratado deve aumentar a dose em cerca de 25 a 30% assim que a gestação é confirmada, o equivalente a duas doses extras por semana, e dosar TSH em quatro semanas. Dobrar a dose é excessivo, e liotironina não atravessa a placenta adequadamente para o cérebro fetal.",
+  "comentarios": {
+   "A": "Errada. Seria a conduta em eutireoidiana sem tratamento; com hipotireoidismo tratado, esperar três semanas deixa o primeiro trimestre descoberto.",
+   "B": "Errada. O aumento é de 25 a 30%, não 100%; dobrar induz tireotoxicose.",
+   "C": "Errada. Liotironina não fornece T4 ao cérebro fetal; a levotiroxina é o tratamento na gestação.",
+   "D": "Correta. Gestação confirmada em hipotireoidea tratada: aumentar cerca de 25 a 30% (duas doses extras por semana) já, e TSH em quatro semanas."
+  },
+  "para_levar": "Hipotireoidea em levotiroxina que engravida: aumente cerca de 30% (duas doses extras por semana) no dia da confirmação, sem esperar o TSH.",
+  "referencias": "ATA Guidelines for Thyroid Disease During Pregnancy and the Postpartum 2017; Consenso SBEM sobre tireoide e gestação 2018.",
+  "tags": [
+   "Tratamento do Hipotireoidismo (CM)",
+   "Hipotireoidismo (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Comando qualificado lido pela metade e a omissão invertida (aqui a resposta é agir já, não esperar exame)."
+ }
+]
