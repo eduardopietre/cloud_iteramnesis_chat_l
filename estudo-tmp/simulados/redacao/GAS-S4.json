@@ -42,19 +42,19 @@
     "nivel": "extremamente difícil",
     "enunciado": "Homem de 68 anos, hipertenso, usa olmesartana 40 mg/dia e anlodipino há 4 anos. Há 7 meses tem 6 a 8 evacuações aquosas por dia, perda de 14 kg e duas internações por desidratação com lesão renal aguda pré-renal. Exame: PA 108 x 66 mmHg, sem edema. Exames: albumina 2,9 g/dL, ferritina 18 ng/mL, anti-transglutaminase IgA e antiendomísio negativos com IgA total normal, calprotectina fecal 60 µg/g, coproparasitológico e pesquisa de Giardia negativos. Endoscopia com biópsias duodenais: atrofia vilositária total, aumento de linfócitos intraepiteliais e espessamento do colágeno subepitelial. HLA-DQ2 e DQ8 ausentes. A causa mais provável da enteropatia é:",
     "alternativas": {
-      "A": "Doença celíaca soronegativa",
+      "A": "Enteropatia autoimune",
       "B": "Linfoma intestinal de células T",
-      "C": "Enteropatia autoimune",
+      "C": "Doença celíaca soronegativa",
       "D": "Enteropatia por olmesartana"
     },
     "gabarito": "D",
-    "armadilha": "A",
+    "armadilha": "C",
     "dado_decisivo": "HLA-DQ2 e DQ8 ausentes",
     "resolucao": "Atrofia vilositária com linfocitose intraepitelial é a histologia da doença celíaca, e o rótulo leva à dieta sem glúten. Mas a sorologia é negativa com IgA total normal e HLA-DQ2 e DQ8 estão ausentes, o que praticamente exclui celíaca (o valor preditivo negativo do HLA se aproxima de 100%). Em atrofia soronegativa, a primeira causa a procurar é medicamento, e a olmesartana dá exatamente este quadro: diarreia grave com perda de peso e desidratação, meses a anos após o início, às vezes com colágeno subepitelial espesso. O diagnóstico se confirma pela melhora clínica e histológica após a suspensão. Linfoma e enteropatia autoimune ficam para quem não melhora.",
     "comentarios": {
-      "A": "Errada. É a isca: celíaca soronegativa existe, mas HLA-DQ2 e DQ8 ausentes praticamente a excluem.",
+      "A": "Errada. Enteropatia autoimune exige anticorpo antienterócito e falha após retirar causas tratáveis; a droga ainda nem foi suspensa.",
       "B": "Errada. Linfoma de células T associado a enteropatia complica celíaca refratária de longa data; não é a primeira hipótese com droga causal em uso.",
-      "C": "Errada. Enteropatia autoimune exige anticorpo antienterócito e falha após retirar causas tratáveis; a droga ainda nem foi suspensa.",
+      "C": "Errada. É a isca: celíaca soronegativa existe, mas HLA-DQ2 e DQ8 ausentes praticamente a excluem.",
       "D": "Correta. Atrofia vilositária soronegativa, HLA negativo e olmesartana há 4 anos: enteropatia induzida, que melhora com a suspensão."
     },
     "para_levar": "Atrofia vilositária com sorologia e HLA negativos: procure droga (olmesartana, micofenolato, imunoterapia) antes de rotular celíaca.",
@@ -76,20 +76,20 @@
     "nivel": "extremamente difícil",
     "enunciado": "Mulher de 66 anos, com doença do refluxo, usa há 7 anos, todas as manhãs em jejum, um comprimido para o estômago prescrito por outro médico, cujo nome não sabe informar. Procura atendimento por parestesias periorais e cãibras há 2 semanas. Sem cirurgia cervical prévia, sem diarreia, sem etilismo, sem diurético. Exame: sinais de Chvostek e Trousseau presentes. ECG: QTc 490 ms. Exames: cálcio total 6,9 mg/dL, albumina 4,0 g/dL, fósforo 4,1 mg/dL, potássio 3,1 mEq/L, PTH 18 pg/mL (15 a 65), 25-OH-vitamina D 34 ng/mL, creatinina 0,8 mg/dL. Recebeu gluconato de cálcio intravenoso duas vezes, com retorno da hipocalcemia em poucas horas. A causa mais provável da hipocalcemia é:",
     "alternativas": {
-      "A": "Hipoparatireoidismo autoimune",
+      "A": "Pseudo-hipoparatireoidismo",
       "B": "Deficiência de vitamina D",
       "C": "Hipomagnesemia por inibidor de bomba",
-      "D": "Pseudo-hipoparatireoidismo"
+      "D": "Hipoparatireoidismo autoimune"
     },
     "gabarito": "C",
-    "armadilha": "A",
+    "armadilha": "D",
     "dado_decisivo": "todas as manhãs em jejum, um comprimido para o estômago",
     "resolucao": "PTH de 18 com cálcio de 6,9 parece hipoparatireoidismo, e a forma autoimune é a isca para quem não tem cirurgia cervical. Mas o PTH baixo ou inapropriadamente normal, a hipocalcemia que volta horas após o gluconato e a hipocalemia associada apontam hipomagnesemia: o magnésio baixo inibe a secreção de PTH e causa resistência a ele, e também espolia potássio pelo rim. A droga não vem nomeada: comprimido para o estômago, em jejum, há 7 anos, é inibidor de bomba de prótons, que reduz a absorção intestinal ativa de magnésio (canais TRPM6 e TRPM7). O magnésio, que não foi dosado, é o exame que decide; a reposição de magnésio corrige o cálcio e o potássio, e o IBP deve ser suspenso ou trocado.",
     "comentarios": {
-      "A": "Errada. É a isca: hipoparatireoidismo autoimune existe, mas cálcio refratário com hipocalemia e IBP crônico pedem magnésio antes.",
+      "A": "Errada. Pseudo-hipoparatireoidismo é resistência ao PTH, com PTH elevado; o PTH de 18 pg/mL o afasta.",
       "B": "Errada. Deficiência de vitamina D eleva o PTH (hiperparatireoidismo secundário) e baixa o fósforo; aqui a vitamina D é normal e o PTH é baixo.",
       "C": "Correta. IBP há 7 anos, hipocalcemia refratária ao cálcio, PTH inapropriado e hipocalemia: hipomagnesemia por inibidor de bomba de prótons.",
-      "D": "Errada. Pseudo-hipoparatireoidismo é resistência ao PTH, com PTH elevado; o PTH de 18 pg/mL o afasta."
+      "D": "Errada. É a isca: hipoparatireoidismo autoimune existe, mas cálcio refratário com hipocalemia e IBP crônico pedem magnésio antes."
     },
     "para_levar": "Hipocalcemia que não se sustenta com cálcio e PTH inapropriadamente baixo: dose magnésio e pergunte por IBP.",
     "referencias": "FDA Drug Safety Communication: PPIs and low magnesium levels (2011); European Society of Endocrinology Clinical Guideline: treatment of chronic hypoparathyroidism (2015)",
@@ -144,19 +144,19 @@
     "nivel": "difícil",
     "enunciado": "Mulher de 59 anos com cirrose por esteato-hepatite metabólica, Child-Pugh B, recebe alta após o segundo episódio de encefalopatia hepática grau 3 em 5 meses, ambos tratados com lactulose. No primeiro, o precipitante foi infecção urinária; neste, não se identificou precipitante (sem infecção, sangramento, distúrbio eletrolítico, constipação ou sedativo). Desde o primeiro episódio usava lactulose ajustada para 2 a 3 evacuações pastosas por dia, com boa adesão confirmada pela família. Na alta: orientada, sem asterixis; albumina 3,0 g/dL, sódio 134 mEq/L, creatinina 0,9 mg/dL. Para prevenção de novo episódio, quanto ao tratamento farmacológico e à oferta proteica, a conduta mais adequada é, respectivamente:",
     "alternativas": {
-      "A": "Associar rifaximina / proteína 0,6 g/kg/dia",
-      "B": "Manter só lactulose / proteína 0,6 g/kg/dia",
-      "C": "Manter só lactulose / proteína 1,2 a 1,5 g/kg/dia",
+      "A": "Manter só lactulose / proteína 0,6 g/kg/dia",
+      "B": "Manter só lactulose / proteína 1,2 a 1,5 g/kg/dia",
+      "C": "Associar rifaximina / proteína 0,6 g/kg/dia",
       "D": "Associar rifaximina / proteína 1,2 a 1,5 g/kg/dia"
     },
     "gabarito": "D",
-    "armadilha": "A",
+    "armadilha": "C",
     "dado_decisivo": "segundo episódio de encefalopatia hepática grau 3 em 5 meses",
     "resolucao": "Dois episódios graves em 5 meses, o segundo sem precipitante e apesar de lactulose bem tomada, definem encefalopatia recorrente: a profilaxia secundária passa a ser lactulose associada a rifaximina, que reduz recorrência e internação. A segunda metade é a armadilha antiga, restringir proteína. O cirrótico é hipercatabólico, e a musculatura esquelética é o principal local alternativo de depuração da amônia (síntese de glutamina); dieta hipoproteica acelera a sarcopenia e piora a encefalopatia. A recomendação é de 1,2 a 1,5 g/kg/dia de proteína e 30 a 35 kcal/kg/dia, com refeições fracionadas e lanche noturno.",
     "comentarios": {
-      "A": "Errada. É a isca: acerta a rifaximina e erra a proteína, porque a restrição proteica piora a sarcopenia e a própria encefalopatia.",
-      "B": "Errada nas duas metades: a lactulose isolada já falhou, e a restrição proteica é contraindicada.",
-      "C": "Errada. A dieta está certa, mas manter só lactulose após recorrência com boa adesão desperdiça a redução de recorrência da rifaximina.",
+      "A": "Errada nas duas metades: a lactulose isolada já falhou, e a restrição proteica é contraindicada.",
+      "B": "Errada. A dieta está certa, mas manter só lactulose após recorrência com boa adesão desperdiça a redução de recorrência da rifaximina.",
+      "C": "Errada. É a isca: acerta a rifaximina e erra a proteína, porque a restrição proteica piora a sarcopenia e a própria encefalopatia.",
       "D": "Correta. Recorrência sob lactulose: associar rifaximina; proteína de 1,2 a 1,5 g/kg/dia."
     },
     "para_levar": "Encefalopatia que recorre apesar de lactulose: associar rifaximina; nunca restringir proteína (1,2 a 1,5 g/kg/dia).",
@@ -175,22 +175,22 @@
     "arma": "Rótulo verdadeiro",
     "comando": "próximo exame",
     "nivel": "difícil",
-    "enunciado": "Mulher de 47 anos, obesa, tem cólica biliar há 2 dias, sem febre. Exame: Tax 36,9 °C, FC 86 bpm, anictérica, dor leve em hipocôndrio direito, Murphy negativo. Exames: leucócitos 8.900/mm³, bilirrubina total 2,4 mg/dL, fosfatase alcalina 310 U/L, GGT 420 U/L, ALT 180 U/L, lipase normal. Ultrassonografia: colelitíase múltipla com cálculos pequenos, vesícula de paredes finas, colédoco de 8 mm, sem cálculo visível no colédoco. Antes da colecistectomia, o exame mais adequado é:",
+    "enunciado": "Mulher de 47 anos, obesa, tem cólica biliar há 2 dias, sem febre. Exame: Tax 36,9 °C, FC 86 bpm, anictérica, dor leve em hipocôndrio direito, Murphy negativo. Exames: leucócitos 8.900/mm³, bilirrubina total 2,4 mg/dL, fosfatase alcalina 310 U/L, GGT 420 U/L, ALT 180 U/L, lipase normal. Ultrassonografia: colelitíase múltipla com cálculos pequenos, vesícula de paredes finas, colédoco de 8 mm, sem cálculo visível no colédoco. O serviço não dispõe de colangiografia nem de ultrassonografia intraoperatórias. Antes da colecistectomia, o exame mais adequado é:",
     "alternativas": {
       "A": "Colangiorressonância",
-      "B": "CPRE com papilotomia",
-      "C": "TC de abdome com contraste",
-      "D": "Nenhum, colecistectomia direta"
+      "B": "TC de abdome com contraste",
+      "C": "CPRE com papilotomia",
+      "D": "Nenhum, colecistectomia sem exame prévio"
     },
     "gabarito": "A",
-    "armadilha": "B",
+    "armadilha": "C",
     "dado_decisivo": "bilirrubina total 2,4 mg/dL",
-    "resolucao": "Colelitíase com colestase e colédoco de 8 mm parece ir direto para CPRE, e o reflexo de fazer o exame terapêutico é a isca. A ASGE estratifica: alto risco (cálculo visto no colédoco, colangite, ou bilirrubina acima de 4 mg/dL com colédoco dilatado) vai à CPRE; risco intermediário (enzimas alteradas, idade acima de 55 anos ou colédoco dilatado, sem critério de alto risco) faz colangiorressonância ou ecoendoscopia, ou colangiografia intraoperatória. Aqui a bilirrubina é 2,4, sem febre e sem cálculo visto: risco intermediário. A CPRE diagnóstica expõe a pancreatite, sangramento e perfuração quem pode nem ter cálculo, e a TC é pouco sensível para cálculo de colédoco.",
+    "resolucao": "Colelitíase com colestase e colédoco de 8 mm parece ir direto para CPRE, e o reflexo de fazer o exame terapêutico é a isca. A ASGE estratifica: alto risco (cálculo visto no colédoco, colangite, ou bilirrubina acima de 4 mg/dL com colédoco dilatado) vai à CPRE; risco intermediário (enzimas alteradas, idade acima de 55 anos ou colédoco dilatado, sem critério de alto risco) faz colangiorressonância ou ecoendoscopia, ou colangiografia intraoperatória, indisponível neste serviço. Aqui a bilirrubina é 2,4, sem febre e sem cálculo visto: risco intermediário. A CPRE diagnóstica expõe a pancreatite, sangramento e perfuração quem pode nem ter cálculo, e a TC é pouco sensível para cálculo de colédoco.",
     "comentarios": {
       "A": "Correta. Colédoco dilatado e bilirrubina de 2,4 mg/dL, sem cálculo visto nem colangite: risco intermediário, colangiorressonância.",
-      "B": "Errada. É a isca: CPRE é para alto risco (cálculo visto, colangite, ou bilirrubina acima de 4 com colédoco dilatado); aqui seria diagnóstica, com risco de complicação.",
-      "C": "Errada. A TC tem baixa sensibilidade para cálculo de colédoco, sobretudo os pequenos e radiotransparentes.",
-      "D": "Errada. Seria aceitável no baixo risco, com enzimas e colédoco normais; aqui há colestase e colédoco dilatado."
+      "B": "Errada. A TC tem baixa sensibilidade para cálculo de colédoco, sobretudo os pequenos e radiotransparentes.",
+      "C": "Errada. É a isca: CPRE é para alto risco (cálculo visto, colangite, ou bilirrubina acima de 4 com colédoco dilatado); aqui seria diagnóstica, com risco de complicação.",
+      "D": "Errada. Seria aceitável no baixo risco, com enzimas e colédoco normais, ou no risco intermediário com colangiografia intraoperatória; aqui há colestase, colédoco dilatado e o serviço não tem colangiografia."
     },
     "para_levar": "Suspeita de coledocolitíase: alto risco vai à CPRE; risco intermediário, colangiorressonância ou ecoendoscopia primeiro.",
     "referencias": "ASGE Guideline on the role of endoscopy in the evaluation and management of choledocholithiasis (2019); ESGE Guideline: endoscopic management of common bile duct stones (2019)",
@@ -211,23 +211,23 @@
     "nivel": "difícil",
     "enunciado": "Homem de 32 anos tem diagnóstico recente de infecção pelo HIV (CD4 480 células/mm³, carga viral 38.000 cópias/mL) e está assintomático. Na triagem: HBsAg reagente, HBeAg não reagente, anti-HBe reagente, HBV-DNA 900 UI/mL, ALT 24 U/L (referência até 40 U/L), elastografia hepática 5,1 kPa, anti-HCV não reagente; genotipagem pré-tratamento do HIV sem mutações de resistência. Creatinina 0,9 mg/dL, sem proteinúria e sem doença óssea. Ele deseja o esquema com menos comprimidos possível. O esquema antirretroviral inicial mais adequado é:",
     "alternativas": {
-      "A": "Dolutegravir e lamivudina",
-      "B": "Entecavir e adiar a TARV",
+      "A": "Entecavir e adiar a TARV",
+      "B": "Dolutegravir e lamivudina",
       "C": "Tenofovir, lamivudina e dolutegravir",
       "D": "Zidovudina, lamivudina e dolutegravir"
     },
     "gabarito": "C",
-    "armadilha": "A",
+    "armadilha": "B",
     "dado_decisivo": "HBsAg reagente",
     "resolucao": "O HBV-DNA de 900 UI/mL com ALT normal, sozinho, seria infecção crônica sem indicação de tratamento, e a terapia dupla com dolutegravir e lamivudina atende ao desejo de menos comprimidos. Mas na coinfecção HIV e hepatite B todo paciente trata o vírus B junto com o HIV, independentemente de DNA, ALT ou fibrose, e o esquema precisa conter tenofovir (TDF ou TAF) com lamivudina ou entricitabina. Lamivudina como única droga ativa contra o vírus B seleciona resistência em até 90% em 4 anos, e por isso dolutegravir com lamivudina é contraindicado com HBsAg reagente. Entecavir isolado em quem tem HIV sem TARV seleciona a mutação M184V e atrasa a TARV, indicada para todos.",
     "comentarios": {
-      "A": "Errada. É a isca: a terapia dupla é opção para quem não tem hepatite B; com HBsAg reagente, a lamivudina isolada seleciona vírus B resistente.",
-      "B": "Errada. Entecavir sem TARV supressiva seleciona resistência do HIV à lamivudina (M184V) e atrasa a TARV, indicada para todos.",
+      "A": "Errada. Entecavir sem TARV supressiva seleciona resistência do HIV à lamivudina (M184V) e atrasa a TARV, indicada para todos.",
+      "B": "Errada. É a isca: a terapia dupla é opção para quem não tem hepatite B; com HBsAg reagente, a lamivudina isolada seleciona vírus B resistente.",
       "C": "Correta. HBsAg reagente: o esquema inicial inclui tenofovir e lamivudina, com dolutegravir.",
       "D": "Errada. Zidovudina não age contra o vírus B e é mais tóxica; deixa a lamivudina como única droga anti-HBV."
     },
     "para_levar": "Coinfecção HIV e hepatite B: TARV para todos com tenofovir mais lamivudina ou entricitabina; dolutegravir com lamivudina é contraindicado.",
-    "referencias": "PCDT para Manejo da Infecção pelo HIV em Adultos (Ministério da Saúde, 2024); PCDT de Hepatite B e Coinfecções (Ministério da Saúde, 2023); DHHS Adult and Adolescent Antiretroviral Guidelines (2024)",
+    "referencias": "DHHS Adult and Adolescent Antiretroviral Guidelines (2024); EACS Guidelines versão 12.0 (2023); PCDT para Hepatite B e Coinfecções (Ministério da Saúde, 2017)",
     "tags": [
       "Hepatite B (CM)",
       "HIV : Diagnóstico, Seguimento e Antirretrovirais (CM)"
@@ -279,18 +279,18 @@
     "nivel": "difícil",
     "enunciado": "Mulher de 52 anos percebeu nódulo axilar esquerdo há 1 mês. Exame: linfonodo axilar de 3 cm, móvel; mamas sem nódulos à palpação, sem alterações cutâneas ou papilares. Biópsia por agulha grossa do linfonodo: metástase de adenocarcinoma pouco diferenciado; imuno-histoquímica com CK7 positiva, CK20 negativa, GATA3 positiva, receptor de estrogênio positivo e HER2 negativo. Mamografia e ultrassonografia mamárias bilaterais sem lesões suspeitas (BI-RADS 1). TC de tórax e abdome sem outras lesões. O próximo exame mais adequado é:",
     "alternativas": {
-      "A": "PET-CT com FDG",
-      "B": "Endoscopia e colonoscopia",
+      "A": "Endoscopia e colonoscopia",
+      "B": "PET-CT com FDG",
       "C": "Marcadores CA 15-3 e CEA",
       "D": "Ressonância magnética das mamas"
     },
     "gabarito": "D",
-    "armadilha": "A",
+    "armadilha": "B",
     "dado_decisivo": "Mamografia e ultrassonografia mamárias bilaterais sem lesões suspeitas (BI-RADS 1)",
     "resolucao": "Sítio primário desconhecido convida ao PET-CT, que parece o exame mais completo. Mas este é um subgrupo favorável e específico: mulher com adenocarcinoma em linfonodo axilar e imuno-histoquímica de origem mamária (CK7 positiva, CK20 negativa, GATA3 e receptor de estrogênio positivos). Mamografia e ultrassonografia normais não afastam câncer de mama oculto, e a ressonância das mamas identifica o primário em cerca de dois terços desses casos, orientando a cirurgia. Mesmo com ressonância negativa, ela é tratada como câncer de mama com axila positiva. PET-CT e endoscopias não acrescentam ao primário mais provável, e marcadores não localizam nada.",
     "comentarios": {
-      "A": "Errada. É a isca: o PET-CT tem baixa sensibilidade para tumores pequenos de mama e não é o passo seguinte quando a imuno-histoquímica já aponta a mama.",
-      "B": "Errada. Endoscopias seriam pertinentes com perfil CK20 ou CDX2 positivos; GATA3 e receptor de estrogênio apontam a mama.",
+      "A": "Errada. Endoscopias seriam pertinentes com perfil CK20 ou CDX2 positivos; GATA3 e receptor de estrogênio apontam a mama.",
+      "B": "Errada. É a isca: o PET-CT tem baixa sensibilidade para tumores pequenos de mama e não é o passo seguinte quando a imuno-histoquímica já aponta a mama.",
       "C": "Errada. Marcadores tumorais não localizam o primário nem mudam a conduta.",
       "D": "Correta. Adenocarcinoma axilar com perfil mamário e mamografia normal: a ressonância das mamas encontra o primário oculto na maioria."
     },
@@ -313,20 +313,20 @@
     "nivel": "difícil",
     "enunciado": "Para controle de dispneia refratária nos últimos dias de vida de paciente com doença renal crônica dialítica que optou por suspender a hemodiálise, o opioide mais adequado é:",
     "alternativas": {
-      "A": "Morfina",
-      "B": "Codeína",
+      "A": "Codeína",
+      "B": "Tramadol",
       "C": "Fentanil",
-      "D": "Tramadol"
+      "D": "Morfina"
     },
     "gabarito": "C",
-    "armadilha": "A",
+    "armadilha": "D",
     "dado_decisivo": "optou por suspender a hemodiálise",
     "resolucao": "Morfina é a primeira linha para dispneia refratária, e é a regra que ele precisa fixar; esta questão cobra a exceção. Sem diálise, a morfina acumula metabólitos ativos de eliminação renal (morfina-3-glicuronídeo, neuroexcitatório, e morfina-6-glicuronídeo, sedativo e depressor respiratório), com mioclonias, delirium e sedação prolongada. O fentanil é metabolizado no fígado em metabólitos inativos e é o opioide preferido na insuficiência renal grave, por via subcutânea ou transdérmica. Codeína e tramadol também dependem do rim, têm efeito imprevisível, e o tramadol baixa o limiar convulsivo.",
     "comentarios": {
-      "A": "Errada. É a isca: a morfina é a primeira linha para dispneia, exceto na insuficiência renal grave sem diálise, em que seus metabólitos acumulam.",
-      "B": "Errada. A codeína é pró-droga convertida em morfina, com os mesmos metabólitos renais e efeito errático.",
+      "A": "Errada. A codeína é pró-droga convertida em morfina, com os mesmos metabólitos renais e efeito errático.",
+      "B": "Errada. O tramadol acumula na insuficiência renal, baixa o limiar convulsivo e tem pouco efeito sobre a dispneia.",
       "C": "Correta. O fentanil não tem metabólitos ativos de eliminação renal e é o opioide de escolha na doença renal terminal sem diálise.",
-      "D": "Errada. O tramadol acumula na insuficiência renal, baixa o limiar convulsivo e tem pouco efeito sobre a dispneia."
+      "D": "Errada. É a isca: a morfina é a primeira linha para dispneia, exceto na insuficiência renal grave sem diálise, em que seus metabólitos acumulam."
     },
     "para_levar": "Opioide no fim de vida com insuficiência renal grave: fentanil (ou metadona, buprenorfina); evitar morfina, codeína e tramadol.",
     "referencias": "King et al., EAPC recommendations on opioids in renal impairment (Palliat Med, 2011); ASCO Guideline: Management of Dyspnea in Advanced Cancer (2021); KDIGO Controversies Conference on supportive care in CKD (2015)",

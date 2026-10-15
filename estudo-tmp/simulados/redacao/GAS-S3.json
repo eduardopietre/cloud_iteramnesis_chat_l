@@ -50,9 +50,9 @@
     "gabarito": "B",
     "armadilha": "A",
     "dado_decisivo": "folato sérico 26 ng/mL (3 a 17)",
-    "resolucao": "Metformina causa diarreia e deficiência de B12, e por isso é a resposta que salta. Mas a diarreia da metformina aparece no início do uso ou após aumento de dose, e ela não eleva o folato. Aqui a diarreia surgiu 15 anos depois, com distensão e flatulência, em um diabético com neuropatia autonômica (gastroparesia, hipotensão postural) que usa IBP: dismotilidade e hipocloridria são o substrato do supercrescimento bacteriano. A combinação de B12 baixa (consumida pelas bactérias) com folato alto (sintetizado por elas) é a assinatura laboratorial. A elastase normal afasta insuficiência pancreática e as biópsias normais afastam colite microscópica. Confirma-se com teste respiratório com glicose ou lactulose, ou trata-se empiricamente com rifaximina.",
+    "resolucao": "Metformina causa diarreia e deficiência de B12, e por isso é a resposta que salta. Mas a diarreia da metformina costuma aparecer no início do uso ou após aumento de dose e, sobretudo, não eleva o folato. Aqui a diarreia surgiu 15 anos depois, com distensão e flatulência, em um diabético com neuropatia autonômica (gastroparesia, hipotensão postural) que usa IBP: dismotilidade e hipocloridria são o substrato do supercrescimento bacteriano. A combinação de B12 baixa (consumida pelas bactérias) com folato alto (sintetizado por elas) é a assinatura laboratorial. A elastase normal afasta insuficiência pancreática e as biópsias normais afastam colite microscópica. Confirma-se com teste respiratório com glicose ou lactulose, ou trata-se empiricamente com rifaximina.",
     "comentarios": {
-      "A": "Errada. É a isca: metformina dá diarreia precoce e B12 baixa, mas não folato alto, e o uso estável há 15 anos não explica um quadro de 8 meses.",
+      "A": "Errada. É a isca: metformina dá diarreia e B12 baixa, mas não folato alto; seria a resposta com diarreia logo após início ou aumento da dose, sem distensão e com folato normal.",
       "B": "Correta. Neuropatia autonômica e IBP, com distensão, B12 baixa e folato alto: supercrescimento bacteriano do delgado.",
       "C": "Errada. Seria a resposta com elastase fecal abaixo de 200 µg/g e esteatorreia; a elastase de 380 µg/g é normal.",
       "D": "Errada. Colite microscópica dá diarreia aquosa com colonoscopia normal, mas as biópsias mostrariam a lesão; aqui foram normais."
@@ -74,25 +74,25 @@
     "arma": "Rótulo verdadeiro",
     "comando": "conduta",
     "nivel": "difícil",
-    "enunciado": "Homem de 66 anos com cirrose por álcool (abstinente há 3 anos), Child-Pugh B8 e MELD 14, tem insuficiência tricúspide importante com PSAP estimada de 62 mmHg e FE de VE de 60% ao ecocardiograma. Há 5 meses a ascite volta a exigir paracentese de grande volume a cada 3 semanas, apesar de restrição de sódio, e ele não tolera espironolactona acima de 100 mg/dia por hiponatremia (sódio 128 mEq/L). Sem encefalopatia prévia e sem sangramento. Exame: PA 102 x 64 mmHg, turgência jugular a 45 graus com onda v proeminente, ascite volumosa, edema de membros inferiores 2+. Exames: bilirrubina 1,8 mg/dL, creatinina 1,1 mg/dL, plaquetas 92.000/mm³. Doppler sem trombose portal. A conduta mais adequada para a ascite é:",
+    "enunciado": "Homem de 66 anos com cirrose por álcool (abstinente há 3 anos), Child-Pugh B8 e MELD 14, tem insuficiência tricúspide importante e FE de VE de 60% ao ecocardiograma; o cateterismo cardíaco direito mostrou pressão média da artéria pulmonar de 48 mmHg. Há 5 meses a ascite volta a exigir paracentese de grande volume a cada 3 semanas, apesar de restrição de sódio, e ele não tolera espironolactona acima de 100 mg/dia por hiponatremia (sódio 128 mEq/L). Sem encefalopatia prévia e sem sangramento. Exame: PA 102 x 64 mmHg, turgência jugular a 45 graus com onda v proeminente, ascite volumosa, edema de membros inferiores 2+. Exames: bilirrubina 1,8 mg/dL, creatinina 1,1 mg/dL, plaquetas 92.000/mm³. Doppler sem trombose portal. A conduta mais adequada para a ascite é:",
     "alternativas": {
       "A": "Paracenteses seriadas com albumina",
-      "B": "TIPS com prótese recoberta",
-      "C": "Shunt peritoneovenoso",
+      "B": "Shunt peritoneovenoso",
+      "C": "TIPS com prótese recoberta",
       "D": "Furosemida em dose dobrada"
     },
     "gabarito": "A",
-    "armadilha": "B",
-    "dado_decisivo": "insuficiência tricúspide importante com PSAP estimada de 62 mmHg",
-    "resolucao": "Ascite que exige paracentese a cada 3 semanas apesar de restrição de sódio, com intolerância a diurético, é ascite refratária, e a conduta de manual é TIPS. Mas a primeira linha traz insuficiência tricúspide importante e PSAP de 62 mmHg: o TIPS desvia de uma vez o sangue portal para o átrio direito, aumenta a pré-carga e precipita insuficiência cardíaca direita e piora da hipertensão pulmonar. Insuficiência cardíaca, insuficiência tricúspide grave e hipertensão pulmonar moderada a grave contraindicam o procedimento. Resta paracentese de grande volume seriada com albumina (6 a 8 g por litro retirado quando acima de 5 litros) e a avaliação para transplante. Aumentar diurético é inviável com sódio de 128 e intolerância já documentada.",
+    "armadilha": "C",
+    "dado_decisivo": "pressão média da artéria pulmonar de 48 mmHg",
+    "resolucao": "Ascite que exige paracentese a cada 3 semanas apesar de restrição de sódio, com intolerância a diurético, é ascite refratária, e a conduta de manual é TIPS. Mas a primeira linha traz insuficiência tricúspide importante e pressão média da artéria pulmonar de 48 mmHg medida por cateterismo: o TIPS desvia de uma vez o sangue portal para o átrio direito, aumenta a pré-carga e precipita insuficiência cardíaca direita e piora da hipertensão pulmonar. Insuficiência cardíaca, insuficiência tricúspide grave e hipertensão pulmonar grave (pressão média acima de 45 mmHg) contraindicam o procedimento. Resta paracentese de grande volume seriada com albumina (6 a 8 g por litro retirado quando acima de 5 litros) e a avaliação para transplante. Aumentar diurético é inviável com sódio de 128 e intolerância já documentada.",
     "comentarios": {
       "A": "Correta. Com TIPS contraindicado pela hipertensão pulmonar e pela insuficiência tricúspide, paracenteses de grande volume com albumina controlam a ascite refratária.",
-      "B": "Errada. É a isca: TIPS seria a resposta na ascite refratária sem doença cardíaca; com PSAP de 62 mmHg e insuficiência tricúspide importante, descompensa o coração direito.",
-      "C": "Errada. O shunt peritoneovenoso foi abandonado por oclusão, infecção e coagulopatia e sobrecarrega o mesmo coração direito.",
+      "B": "Errada. O shunt peritoneovenoso foi abandonado por oclusão, infecção e coagulopatia e sobrecarrega o mesmo coração direito.",
+      "C": "Errada. É a isca: TIPS seria a resposta na ascite refratária sem doença cardíaca; com pressão média pulmonar de 48 mmHg e insuficiência tricúspide importante, descompensa o coração direito.",
       "D": "Errada. A ascite já é refratária por intolerância a diurético (hiponatremia); dobrar a dose agrava o sódio e a função renal."
     },
     "para_levar": "Antes de indicar TIPS, procure insuficiência cardíaca, insuficiência tricúspide grave e hipertensão pulmonar: com elas, a ascite refratária se trata com paracentese e albumina.",
-    "referencias": "AASLD Practice Guidance on ascites, SBP and hepatorenal syndrome (2021); EASL Clinical Practice Guidelines on decompensated cirrhosis (2018); Baveno VII (2022)",
+    "referencias": "AASLD Practice Guidance on ascites, SBP and hepatorenal syndrome (2021); EASL Clinical Practice Guidelines on decompensated cirrhosis (2018); Baveno VII (2022); Boyer e Haskal, AASLD Practice Guidelines: role of TIPS in the management of portal hypertension (2010)",
     "tags": [
       "Ascite, PBE e PBS (CM)",
       "Hipertensão Portal (CM)"
@@ -111,19 +111,19 @@
     "enunciado": "Mulher de 19 anos, previamente hígida, sem uso de medicamentos, chás ou álcool, tem icterícia progressiva há 10 dias e, há 2 dias, sonolência e desorientação. Exame: ictérica, com asterixis, sem estigmas de hepatopatia crônica, Tax 36,9 °C. Exames: hemoglobina 7,9 g/dL, reticulócitos 9%, DHL 980 U/L, teste de Coombs direto negativo, bilirrubina total 28 mg/dL (direta 12 mg/dL), AST 196 U/L, ALT 64 U/L, fosfatase alcalina 22 U/L (40 a 130), INR 3,4, creatinina 1,9 mg/dL. Sorologias para hepatites A, B, C e E negativas, paracetamol sérico indetectável, FAN e antimúsculo liso negativos. O diagnóstico mais provável e a conduta definitiva são, respectivamente:",
     "alternativas": {
       "A": "Hepatite autoimune fulminante / pulsoterapia com corticoide",
-      "B": "Doença de Wilson / D-penicilamina",
-      "C": "Doença de Wilson / transplante hepático de urgência",
-      "D": "Hepatite autoimune fulminante / transplante hepático de urgência"
+      "B": "Hepatite autoimune fulminante / transplante hepático de urgência",
+      "C": "Doença de Wilson / D-penicilamina",
+      "D": "Doença de Wilson / transplante hepático de urgência"
     },
-    "gabarito": "C",
-    "armadilha": "B",
+    "gabarito": "D",
+    "armadilha": "C",
     "dado_decisivo": "fosfatase alcalina 22 U/L (40 a 130)",
     "resolucao": "Mulher jovem com insuficiência hepática aguda, autoanticorpos negativos e sem droga lembra hepatite autoimune soronegativa, e quem reconhece Wilson tende a prescrever quelante. Os dados que decidem estão no laboratório, sem ceruloplasmina nem anel de Kayser-Fleischer: hemólise com Coombs negativo (o cobre liberado lesa as hemácias), fosfatase alcalina baixa (22 U/L), relação fosfatase alcalina/bilirrubina total abaixo de 4 e AST/ALT acima de 2,2. Essa combinação tem alta acurácia para Wilson fulminante. Com encefalopatia, INR de 3,4 e lesão renal, o escore prognóstico de Wilson é alto e a mortalidade sem transplante se aproxima de 100%: a conduta definitiva é transplante hepático de urgência. Quelante age em semanas e não resgata a forma fulminante; plasmaférese ou diálise com albumina servem só como ponte.",
     "comentarios": {
       "A": "Errada. Hepatite autoimune aguda grave cursa com transaminases muito mais altas, IgG elevada e sem hemólise com fosfatase alcalina baixa; e pulsoterapia não é a conduta com encefalopatia e INR de 3,4.",
-      "B": "Errada. É a isca: acerta o diagnóstico e erra o porte; D-penicilamina é para a doença hepática crônica ou compensada, e na forma fulminante não há tempo de resposta.",
-      "C": "Correta. Hemólise com Coombs negativo, fosfatase alcalina de 22 com relação FA/bilirrubina menor que 4 e AST/ALT maior que 2,2: Wilson fulminante, transplante de urgência.",
-      "D": "Errada. Transplante seria a conduta de insuficiência hepática aguda grave de qualquer causa sem resposta, mas hepatite autoimune não explica hemólise com fosfatase alcalina baixa."
+      "B": "Errada. Transplante seria a conduta de insuficiência hepática aguda grave de qualquer causa sem resposta, mas hepatite autoimune não explica hemólise com fosfatase alcalina baixa.",
+      "C": "Errada. É a isca: acerta o diagnóstico e erra o porte; D-penicilamina é para a doença hepática crônica ou compensada, e na forma fulminante não há tempo de resposta.",
+      "D": "Correta. Hemólise com Coombs negativo, fosfatase alcalina de 22 com relação FA/bilirrubina menor que 4 e AST/ALT maior que 2,2: Wilson fulminante, transplante de urgência."
     },
     "para_levar": "Insuficiência hepática aguda em jovem com hemólise Coombs negativa, fosfatase alcalina baixa (FA/bilirrubina menor que 4) e AST/ALT maior que 2,2 é Wilson fulminante: transplante.",
     "referencias": "AASLD Practice Guidance on Wilson disease (2022); EASL Clinical Practice Guidelines on acute (fulminant) liver failure (2017)",
@@ -142,21 +142,21 @@
     "arma": "Negativo no meio",
     "comando": "conduta",
     "nivel": "difícil",
-    "enunciado": "Homem de 41 anos, etilista de 60 g/dia, com dor de dente há 3 dias, tomou paracetamol 1 g a cada 3 a 4 horas nesse período, por conta própria, além de dois comprimidos de associação com codeína; a última dose foi há 10 horas. Chega com náuseas e dor em hipocôndrio direito. Exame: anictérico, lúcido, PA 128 x 80 mmHg, FC 96 bpm. Exames: AST 1.840 U/L, ALT 2.210 U/L, bilirrubina total 1,6 mg/dL, INR 1,6, creatinina 1,0 mg/dL, glicose 92 mg/dL, pH 7,38, lactato 1,8 mmol/L. Paracetamol sérico de 9 µg/mL, abaixo da linha de tratamento do nomograma de Rumack-Matthew para o horário. Sorologias virais em andamento. A conduta mais adequada é:",
+    "enunciado": "Homem de 41 anos, etilista de 60 g/dia, com dor de dente há 3 dias, tomou paracetamol 1 g a cada 3 a 4 horas nesse período, por conta própria, além de dois comprimidos de associação com codeína; a última dose foi há 10 horas. Chega com náuseas e dor em hipocôndrio direito. Exame: anictérico, lúcido, PA 128 x 80 mmHg, FC 96 bpm. Exames: AST 640 U/L, ALT 780 U/L, bilirrubina total 1,2 mg/dL, INR 1,3, creatinina 1,0 mg/dL, glicose 92 mg/dL, pH 7,38, lactato 1,8 mmol/L. Paracetamol sérico de 9 µg/mL, abaixo da linha de tratamento do nomograma de Rumack-Matthew para o horário. Sorologias virais em andamento. A conduta mais adequada é:",
     "alternativas": {
       "A": "Não tratar: nível abaixo da linha",
       "B": "N-acetilcisteína intravenosa imediata",
-      "C": "Carvão ativado e observação",
+      "C": "Repetir o nível sérico em 4 horas",
       "D": "Aguardar sorologias antes de tratar"
     },
     "gabarito": "B",
     "armadilha": "A",
     "dado_decisivo": "tomou paracetamol 1 g a cada 3 a 4 horas nesse período",
-    "resolucao": "O nível sérico abaixo da linha do nomograma tranquiliza, e é a isca. O nomograma de Rumack-Matthew só se aplica a ingestão aguda única com horário conhecido; em ingestão escalonada (doses repetidas supraterapêuticas ao longo de horas ou dias) ele não estima risco. Este homem tomou de 6 a 8 g/dia por 3 dias, é etilista (menos glutationa e indução do CYP2E1) e já tem transaminases acima de 1.800 U/L e INR de 1,6. Em ingestão escalonada, transaminases elevadas ou paracetamol detectável indicam N-acetilcisteína, que protege mesmo tardiamente. Não se espera sorologia para iniciar: o antídoto é seguro e o atraso custa fígado. Carvão ativado só tem papel nas primeiras horas de ingestão aguda.",
+    "resolucao": "O nível sérico abaixo da linha do nomograma tranquiliza, e é a isca. O nomograma de Rumack-Matthew só se aplica a ingestão aguda única com horário conhecido; em ingestão escalonada (doses repetidas supraterapêuticas ao longo de horas ou dias) ele não estima risco. Este homem tomou de 6 a 8 g/dia por 3 dias, é etilista (menos glutationa e indução do CYP2E1) e já tem ALT de 780 U/L, valor que o álcool sozinho não explica. Em ingestão escalonada, transaminases elevadas ou paracetamol detectável indicam N-acetilcisteína, que protege mesmo tardiamente. Não se espera sorologia para iniciar: o antídoto é seguro e o atraso custa fígado. Repetir o nível em 4 horas é o recurso da ingestão aguda única de horário incerto ou de liberação prolongada; aqui não muda nada e só atrasa o antídoto.",
     "comentarios": {
-      "A": "Errada. É a isca: o nomograma vale para ingestão aguda única; na escalonada, com AST de 1.840 U/L, o nível baixo não afasta hepatotoxicidade.",
+      "A": "Errada. É a isca: o nomograma vale para ingestão aguda única; na escalonada, com ALT de 780 U/L, o nível baixo não afasta hepatotoxicidade.",
       "B": "Correta. Ingestão supraterapêutica repetida com transaminases elevadas: N-acetilcisteína intravenosa já, independentemente do nível sérico.",
-      "C": "Errada. Carvão ativado é útil até 1 a 2 horas após ingestão aguda; a última dose foi há 10 horas e a lesão já está instalada.",
+      "C": "Errada. Repetir o nível serve à ingestão aguda única com horário incerto ou formulação de liberação prolongada; na ingestão escalonada com ALT elevada, só atrasa a N-acetilcisteína.",
       "D": "Errada. Hepatite viral entra no diferencial, mas a N-acetilcisteína é segura e tempo-dependente; não se espera sorologia para iniciá-la."
     },
     "para_levar": "Nomograma de Rumack-Matthew só para ingestão aguda única com horário conhecido; em ingestão escalonada, ALT elevada ou paracetamol detectável indicam N-acetilcisteína.",
@@ -179,19 +179,19 @@
     "enunciado": "Homem de 71 anos, ex-tabagista, há 4 meses com disfagia progressiva para sólidos e depois para líquidos, regurgitação e perda de 11 kg. Endoscopia digestiva alta: esôfago discretamente dilatado, com resíduos, e resistência leve à passagem do aparelho pela junção esofagogástrica, cuja mucosa é normal à visão direta e na retrovisão; biópsias da cárdia sem neoplasia. Esofagograma baritado: afilamento distal em bico de pássaro. Manometria de alta resolução: pressão de relaxamento integrada da junção esofagogástrica de 28 mmHg e pressurização panesofágica em 100% das deglutições. O próximo passo mais adequado é:",
     "alternativas": {
       "A": "Dilatação pneumática da cárdia",
-      "B": "Miotomia endoscópica peroral",
-      "C": "Ecoendoscopia da junção esofagogástrica",
-      "D": "Toxina botulínica na cárdia"
+      "B": "Toxina botulínica na cárdia",
+      "C": "Ecoendoscopia da cárdia",
+      "D": "Miotomia endoscópica peroral"
     },
     "gabarito": "C",
-    "armadilha": "B",
+    "armadilha": "D",
     "dado_decisivo": "há 4 meses com disfagia progressiva para sólidos e depois para líquidos, regurgitação e perda de 11 kg",
     "resolucao": "A manometria fecha o padrão de acalasia tipo II e o esofagograma mostra bico de pássaro, e quem confia no exame vai direto à dilatação ou à miotomia. Mas a cronologia não é a da acalasia idiopática: 71 anos, sintomas há só 4 meses e perda de 11 kg, além de resistência à passagem do aparelho pela junção. Esses dados (idade acima de 55 a 60 anos, história menor que 1 ano e emagrecimento importante) são as bandeiras de pseudoacalasia, quase sempre adenocarcinoma infiltrativo da cárdia ou outra neoplasia que envolve o plexo da junção. Biópsia de mucosa normal não afasta, porque a infiltração é submucosa. O próximo passo é ecoendoscopia (ou TC) antes de qualquer tratamento.",
     "comentarios": {
       "A": "Errada. Seria uma opção na acalasia idiopática confirmada; dilatar uma neoplasia infiltrativa atrasa o diagnóstico e arrisca perfuração.",
-      "B": "Errada. É a isca: a miotomia endoscópica é excelente na acalasia tipo II, mas só depois de afastada a pseudoacalasia neste perfil.",
+      "B": "Errada. Toxina botulínica é reservada a quem não pode fazer tratamento definitivo e não resolve a dúvida diagnóstica.",
       "C": "Correta. Idade, história de 4 meses, perda de 11 kg e resistência à passagem pedem ecoendoscopia para procurar infiltração neoplásica submucosa.",
-      "D": "Errada. Toxina botulínica é reservada a quem não pode fazer tratamento definitivo e não resolve a dúvida diagnóstica."
+      "D": "Errada. É a isca: a miotomia endoscópica é excelente na acalasia tipo II, mas só depois de afastada a pseudoacalasia neste perfil."
     },
     "para_levar": "Manometria de acalasia em idoso com sintomas há menos de 1 ano e emagrecimento importante é pseudoacalasia até prova em contrário: ecoendoscopia ou TC antes de tratar.",
     "referencias": "ACG Clinical Guideline: Diagnosis and Management of Achalasia (2020); Classificação de Chicago versão 4.0 (2021)",
@@ -205,34 +205,34 @@
     "id": "S3-GAS-07",
     "simulado": 3,
     "area": "Hepatologia",
-    "titulo": "Hepatite C curada sem fibrose avançada: alta, sem rastreamento de carcinoma hepatocelular",
+    "titulo": "Hepatite C curada sem fibrose avançada: nenhum exame de rastreamento de carcinoma hepatocelular",
     "arma": "Limiar",
-    "comando": "conduta",
+    "comando": "próximo exame",
     "nivel": "difícil",
-    "enunciado": "Mulher de 56 anos, com hepatite C crônica adquirida por transfusão em 1988, foi tratada com sofosbuvir e velpatasvir por 12 semanas. Antes do tratamento: elastografia hepática transitória de 6,2 kPa, plaquetas 248.000/mm³, FIB-4 de 1,1 e ultrassonografia normal. Doze semanas após o fim do tratamento, HCV-RNA indetectável e ALT normal. Não usa álcool, IMC 23 kg/m², sem diabetes; HBsAg não reagente e anti-HBs reagente; não usa drogas e não tem nova exposição de risco. Quanto ao seguimento hepatológico, a conduta mais adequada é:",
+    "enunciado": "Mulher de 56 anos, com hepatite C crônica adquirida por transfusão em 1988, foi tratada com sofosbuvir e velpatasvir por 12 semanas. Antes do tratamento: elastografia hepática transitória de 6,2 kPa, plaquetas 248.000/mm³, FIB-4 de 1,1 e ultrassonografia normal. Doze semanas após o fim do tratamento, HCV-RNA indetectável e ALT normal. Não usa álcool, IMC 23 kg/m², sem diabetes; HBsAg não reagente e anti-HBs reagente; não usa drogas e não tem nova exposição de risco. Quanto ao rastreamento de carcinoma hepatocelular a partir de agora, o exame mais adequado é:",
     "alternativas": {
-      "A": "Alta do seguimento da hepatite C",
-      "B": "Ultrassonografia semestral para hepatocarcinoma",
-      "C": "HCV-RNA anual por 5 anos",
-      "D": "Elastografia anual por toda a vida"
+      "A": "Alfafetoproteína semestral",
+      "B": "Ultrassonografia semestral",
+      "C": "Nenhum exame de rastreamento",
+      "D": "Elastografia hepática anual"
     },
-    "gabarito": "A",
+    "gabarito": "C",
     "armadilha": "B",
     "dado_decisivo": "elastografia hepática transitória de 6,2 kPa",
-    "resolucao": "Depois de hepatite C, muita gente mantém ultrassonografia semestral por segurança, e é o excesso que a questão cobra. O rastreamento de carcinoma hepatocelular após resposta virológica sustentada só se mantém em quem tinha fibrose avançada ou cirrose (F3 ou F4, com elastografia em geral acima de 10 a 12,5 kPa), porque nesses o risco persiste após a cura. Esta paciente tinha elastografia de 6,2 kPa, FIB-4 de 1,1 e plaquetas normais, ou seja, fibrose ausente ou mínima, e não tem outro fator de lesão hepática (álcool, esteatose, vírus B). Sem exposição de risco contínua, não há necessidade de repetir HCV-RNA. A conduta é alta do seguimento da hepatite C, com a orientação de que o anti-HCV seguirá reagente.",
+    "resolucao": "Depois de hepatite C, muita gente mantém ultrassonografia semestral por segurança, e é o excesso que a questão cobra. O rastreamento de carcinoma hepatocelular após resposta virológica sustentada só se mantém em quem tinha fibrose avançada ou cirrose (F3 ou F4, com elastografia em geral acima de 10 a 12,5 kPa), porque nesses o risco persiste após a cura. Esta paciente tinha elastografia de 6,2 kPa, FIB-4 de 1,1 e plaquetas normais, ou seja, fibrose ausente ou mínima, e não tem outro fator de lesão hepática (álcool, esteatose, vírus B). Sem exposição de risco contínua, não há necessidade de repetir HCV-RNA. Não há exame de rastreamento a pedir: ela recebe alta do seguimento da hepatite C, com a orientação de que o anti-HCV seguirá reagente.",
     "comentarios": {
-      "A": "Correta. Resposta virológica sustentada, elastografia de 6,2 kPa e nenhum outro fator de lesão: alta, sem rastreamento de carcinoma hepatocelular.",
+      "A": "Errada. Alfafetoproteína isolada não é método de rastreamento (baixa sensibilidade) e só complementa a ultrassonografia em quem tem indicação, que ela não tem.",
       "B": "Errada. É a isca: ultrassonografia semestral se mantém após a cura em quem tinha F3 ou F4; com 6,2 kPa, o risco não a justifica.",
-      "C": "Errada. HCV-RNA periódico é para quem mantém exposição (uso de drogas injetáveis, prática sexual de risco, hemodiálise); ela não tem.",
-      "D": "Errada. Elastografia seriada acompanha fibrose avançada ou outra doença hepática ativa, e não hepatite C curada sem fibrose."
+      "C": "Correta. Resposta virológica sustentada, elastografia de 6,2 kPa e nenhum outro fator de lesão: sem rastreamento de carcinoma hepatocelular, alta do seguimento.",
+      "D": "Errada. Elastografia seriada acompanha fibrose avançada ou outra doença hepática ativa, e não hepatite C curada sem fibrose; tampouco rastreia carcinoma."
     },
-    "para_levar": "Após a cura da hepatite C, rastreamento de carcinoma hepatocelular só em F3 ou F4; sem fibrose avançada e sem outro fator, alta.",
+    "para_levar": "Após a cura da hepatite C, rastreamento de carcinoma hepatocelular só em F3 ou F4; sem fibrose avançada e sem outro fator, nenhum exame e alta.",
     "referencias": "AASLD-IDSA HCV Guidance (2023); EASL recommendations on treatment of hepatitis C (2020); PCDT de Hepatite C e Coinfecções (Ministério da Saúde, 2019)",
     "tags": [
       "Hepatite C (CM)"
     ],
     "sourceQuestionId": null,
-    "alvo": "Faz mais do que o caso pede: rastrear sem a precondição de fibrose avançada."
+    "alvo": "Próximo exame a mais: rastrear sem a precondição de fibrose avançada."
   },
   {
     "id": "S3-GAS-08",
@@ -272,11 +272,11 @@
     "id": "S3-GAS-09",
     "simulado": 3,
     "area": "Oncologia",
-    "titulo": "Hipercalcemia em paciente com câncer: PTH elevado indica hiperparatireoidismo primário",
+    "titulo": "Hipercalcemia em paciente com câncer: PTH inapropriadamente normal indica hiperparatireoidismo primário",
     "arma": "Rótulo verdadeiro",
     "comando": "etiologia",
     "nivel": "difícil",
-    "enunciado": "Mulher de 64 anos, tratada há 3 anos de carcinoma de mama luminal A estádio I (cirurgia conservadora, radioterapia e anastrozol em curso), assintomática, tem cálcio total de 11,4 mg/dL (8,5 a 10,2) em exames de rotina, confirmado com cálcio iônico de 1,48 mmol/L. Usa anastrozol e losartana; nega suplemento de cálcio ou de vitamina D e tiazídico. Exame normal. Exames: fósforo 2,3 mg/dL, albumina 4,2 g/dL, creatinina 0,8 mg/dL, PTH 112 pg/mL (15 a 65), 25-OH-vitamina D 32 ng/mL, cálcio urinário de 24 h 290 mg, fosfatase alcalina normal. Cintilografia óssea de seguimento, há 2 meses, sem lesões. A causa mais provável da hipercalcemia é:",
+    "enunciado": "Mulher de 64 anos, tratada há 3 anos de carcinoma de mama luminal A estádio I (cirurgia conservadora, radioterapia e anastrozol em curso), assintomática, tem cálcio total de 11,4 mg/dL (8,5 a 10,2) em exames de rotina, confirmado com cálcio iônico de 1,48 mmol/L. Usa anastrozol e losartana; nega suplemento de cálcio ou de vitamina D e tiazídico. Exame normal. Exames: fósforo 2,3 mg/dL, albumina 4,2 g/dL, creatinina 0,8 mg/dL, PTH 58 pg/mL (15 a 65), 25-OH-vitamina D 32 ng/mL, cálcio urinário de 24 h 290 mg, fosfatase alcalina normal. Cintilografia óssea de seguimento, há 2 meses, sem lesões. A causa mais provável da hipercalcemia é:",
     "alternativas": {
       "A": "Metástases ósseas osteolíticas",
       "B": "Hipercalcemia humoral pelo PTHrP",
@@ -285,15 +285,15 @@
     },
     "gabarito": "C",
     "armadilha": "B",
-    "dado_decisivo": "PTH 112 pg/mL (15 a 65)",
-    "resolucao": "Câncer de mama e hipercalcemia montam hipercalcemia da malignidade, e é para lá que o rótulo puxa. Mas o primeiro exame da hipercalcemia é o PTH, e ele está elevado: na hipercalcemia por PTHrP, por metástase lítica ou por calcitriol, o PTH vem suprimido. PTH alto ou inapropriadamente normal com cálcio alto é hipercalcemia PTH-dependente, e a causa mais comum em ambulatório, inclusive em quem tem câncer, é hiperparatireoidismo primário. O cálcio urinário de 290 mg/24 h afasta hipercalcemia hipocalciúrica familiar, e a cintilografia sem lesões, a fosfatase alcalina normal e a doença estádio I sem recidiva tornam metástase improvável. O passo seguinte é localizar a paratireoide e avaliar critérios cirúrgicos.",
+    "dado_decisivo": "PTH 58 pg/mL (15 a 65)",
+    "resolucao": "Câncer de mama e hipercalcemia montam hipercalcemia da malignidade, e é para lá que o rótulo puxa. Mas o primeiro exame da hipercalcemia é o PTH, e um PTH de 58 pg/mL, lido como normal, é inapropriado: com cálcio iônico alto, a paratireoide normal estaria suprimida (PTH abaixo de cerca de 20 pg/mL), como acontece na hipercalcemia por PTHrP, por metástase lítica ou por calcitriol. PTH alto ou inapropriadamente normal com cálcio alto é hipercalcemia PTH-dependente, e a causa mais comum em ambulatório, inclusive em quem tem câncer, é hiperparatireoidismo primário. O cálcio urinário de 290 mg/24 h afasta hipercalcemia hipocalciúrica familiar, e a cintilografia sem lesões, a fosfatase alcalina normal e a doença estádio I sem recidiva tornam metástase improvável. O passo seguinte é localizar a paratireoide e avaliar critérios cirúrgicos.",
     "comentarios": {
-      "A": "Errada. Metástases líticas suprimem o PTH e costumam alterar fosfatase alcalina ou cintilografia; aqui o PTH está alto e a cintilografia é normal.",
-      "B": "Errada. É a isca: PTHrP elevado suprime o PTH; um PTH de 112 pg/mL com cálcio alto não é hipercalcemia humoral maligna.",
-      "C": "Correta. Cálcio alto com PTH elevado, fósforo baixo e calciúria alta: hiperparatireoidismo primário, mesmo com câncer de base.",
+      "A": "Errada. Metástases líticas suprimem o PTH e costumam alterar fosfatase alcalina ou cintilografia; aqui o PTH não está suprimido e a cintilografia é normal.",
+      "B": "Errada. É a isca: PTHrP elevado suprime o PTH; um PTH de 58 pg/mL com cálcio alto não está suprimido, e isso afasta a hipercalcemia humoral maligna.",
+      "C": "Correta. Cálcio alto com PTH não suprimido (58 pg/mL), fósforo baixo e calciúria alta: hiperparatireoidismo primário, mesmo com câncer de base.",
       "D": "Errada. Hipercalcemia hipocalciúrica familiar tem calciúria baixa (fração de excreção de cálcio abaixo de 0,01); 290 mg/24 h a afasta."
     },
-    "para_levar": "Na hipercalcemia, PTH alto é causa PTH-dependente mesmo em quem tem câncer; a hipercalcemia da malignidade suprime o PTH.",
+    "para_levar": "Na hipercalcemia, PTH alto ou \"normal\" é inapropriado e indica causa PTH-dependente mesmo em quem tem câncer; a hipercalcemia da malignidade suprime o PTH.",
     "referencias": "Endocrine Society Clinical Practice Guideline: Treatment of Hypercalcemia of Malignancy in Adults (2023); Fifth International Workshop on the evaluation and management of primary hyperparathyroidism (2022)",
     "tags": [
       "Hipercalcemia Relacionada à Malignidade (CM)",
@@ -313,19 +313,19 @@
     "enunciado": "Homem de 79 anos com adenocarcinoma de próstata metastático para ossos, em cuidados de fim de vida domiciliares (PPS 30%), usa morfina de liberação regular 10 mg a cada 4 horas há 3 semanas, sem mudança de dose, e recebeu ontem à noite, por insônia, amitriptilina 25 mg prescrita pelo plantão. Há 8 horas está agitado, tenta sair da cama, puxa o cateter de hipodermóclise e geme ao ser tocado no abdome. Exame: Tax 36,7 °C, FC 104 bpm, PA 150 x 90 mmHg, desatento, sem mioclonias; massa suprapúbica dolorosa, macicez até a cicatriz umbilical; última diurese há 10 horas. Glicemia capilar 118 mg/dL. A causa mais provável da agitação é:",
     "alternativas": {
       "A": "Retenção urinária aguda",
-      "B": "Delirium terminal",
+      "B": "Dor óssea não controlada",
       "C": "Neurotoxicidade por morfina",
-      "D": "Dor óssea não controlada"
+      "D": "Delirium terminal"
     },
     "gabarito": "A",
-    "armadilha": "B",
+    "armadilha": "D",
     "dado_decisivo": "massa suprapúbica dolorosa, macicez até a cicatriz umbilical",
     "resolucao": "Paciente em fim de vida que fica agitado e desatento parece estar em delirium terminal, e a resposta automática é sedar com haloperidol ou midazolam. Mas delirium terminal é diagnóstico de exclusão, depois de afastadas as causas reversíveis, e a mais simples está no exame: globo vesical até a cicatriz umbilical e 10 horas sem diurese. A amitriptilina de ontem (anticolinérgico), somada à morfina e à próstata, explica a retenção. A conduta é cateterismo vesical e suspensão da amitriptilina, e a agitação costuma ceder em minutos. Neurotoxicidade por morfina exigiria aumento de dose, desidratação ou piora renal e traria mioclonias, que não há.",
     "comentarios": {
       "A": "Correta. Globo vesical doloroso e 10 horas sem diurese após anticolinérgico, em homem com doença prostática: retenção urinária causando a agitação.",
-      "B": "Errada. É a isca: delirium terminal só se diagnostica após afastar causas reversíveis, e há uma evidente no exame.",
+      "B": "Errada. Dor óssea mal controlada causaria agitação, mas a dor está no abdome, sobre a bexiga distendida.",
       "C": "Errada. A dose de morfina está estável há 3 semanas, sem mioclonias e sem piora renal descrita.",
-      "D": "Errada. Dor óssea mal controlada causaria agitação, mas a dor está no abdome, sobre a bexiga distendida."
+      "D": "Errada. É a isca: delirium terminal só se diagnostica após afastar causas reversíveis, e há uma evidente no exame."
     },
     "para_levar": "Agitação no fim de vida: antes de sedar, procure globo vesical, fecaloma, dor, hipoxemia e droga anticolinérgica.",
     "referencias": "NICE NG31: Care of dying adults in the last days of life (2015); ESMO Clinical Practice Guidelines on delirium in adult cancer patients (2018)",
@@ -346,23 +346,23 @@
     "nivel": "média",
     "enunciado": "Em mulher de 47 anos, imunocompetente, submetida há 6 anos a histerectomia total por miomatose, com histopatológico do colo uterino sem neoplasia intraepitelial e citopatológicos anteriores normais, a conduta quanto ao rastreamento do câncer do colo do útero é:",
     "alternativas": {
-      "A": "Teste de DNA-HPV a cada 5 anos",
+      "A": "Citologia da cúpula a cada 3 anos",
       "B": "Encerrar o rastreamento",
-      "C": "Citologia da cúpula a cada 3 anos",
+      "C": "Teste de DNA-HPV a cada 5 anos",
       "D": "Colposcopia anual da cúpula"
     },
     "gabarito": "B",
-    "armadilha": "A",
+    "armadilha": "C",
     "dado_decisivo": "histopatológico do colo uterino sem neoplasia intraepitelial",
-    "resolucao": "A faixa de rastreamento dos 25 aos 64 anos faz manter o exame, agora com o teste de DNA-HPV que substitui a citologia no programa brasileiro. Mas o rastreamento existe para detectar lesão precursora no colo, e a histerectomia total por doença benigna, sem NIC 2 ou mais grave no histórico, retirou o órgão-alvo. Câncer primário de vagina é raro demais para justificar rastreio: encerra-se o rastreamento. A exceção é quem foi histerectomizada por NIC 2 ou mais grave ou câncer, ou é imunossuprimida, que segue com controle da cúpula.",
+    "resolucao": "A faixa de rastreamento dos 25 aos 64 anos faz manter o exame, agora com o teste de DNA-HPV, que vem substituindo a citologia no programa brasileiro. Mas o rastreamento existe para detectar lesão precursora no colo, e a histerectomia total por doença benigna, sem NIC 2 ou mais grave no histórico, retirou o órgão-alvo. Câncer primário de vagina é raro demais para justificar rastreio: encerra-se o rastreamento. A exceção é quem foi histerectomizada por NIC 2 ou mais grave ou câncer, ou é imunossuprimida, que segue com controle da cúpula.",
     "comentarios": {
-      "A": "Errada. É a isca: DNA-HPV a cada 5 anos é o novo rastreio de quem tem colo; após histerectomia total por doença benigna não há órgão-alvo.",
+      "A": "Errada. Citologia de cúpula se mantém só quando a histerectomia foi por NIC de alto grau ou câncer, ou na imunossupressão.",
       "B": "Correta. Histerectomia total por doença benigna, sem NIC 2 ou mais grave: rastreamento encerrado.",
-      "C": "Errada. Citologia de cúpula se mantém só quando a histerectomia foi por NIC de alto grau ou câncer, ou na imunossupressão.",
+      "C": "Errada. É a isca: DNA-HPV a cada 5 anos é o novo rastreio de quem tem colo; após histerectomia total por doença benigna não há órgão-alvo.",
       "D": "Errada. Colposcopia não é exame de rastreamento; é investigação de exame alterado."
     },
     "para_levar": "Histerectomia total por doença benigna, sem NIC 2 ou mais grave: não se rastreia câncer do colo.",
-    "referencias": "Diretrizes Brasileiras para o Rastreamento do Câncer do Colo do Útero (INCA, 2016); Diretrizes para o rastreamento com teste de DNA-HPV (Ministério da Saúde/INCA, 2024); USPSTF Cervical Cancer Screening (2018)",
+    "referencias": "Diretrizes Brasileiras para o Rastreamento do Câncer do Colo do Útero (INCA, 2016); USPSTF: Screening for Cervical Cancer (2018)",
     "tags": [
       "Rastreamentos em Clínica Médica (CM)"
     ],
