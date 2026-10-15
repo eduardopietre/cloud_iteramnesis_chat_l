@@ -56,3 +56,47 @@ UERJ / fato solto: 4/5 = 80% | média de quem respondeu 61%
 UERJ / achado/interpretação/outros: 2/4 = 50% | média de quem respondeu 45%
 
 fraca: 20  ruído: 47 erros: 144
+
+
+# SÓ QUESTÕES NOVAS (sem tentativa anterior a 15/10)
+n= 247
+
+## Instituição (NOVA)
+USP-SP: 53/92 = 58% | média de quem respondeu 63%
+EINSTEIN: 23/44 = 52% | média de quem respondeu 62%
+USP-RP: 26/41 = 63% | média de quem respondeu 68%
+SUS-SP: 6/19 = 32% | média de quem respondeu 50%
+UERJ: 11/14 = 79% | média de quem respondeu 63%
+UNIFESP: 4/12 = 33% | média de quem respondeu 52%
+UNESP: 6/8 = 75% | média de quem respondeu 73%
+UEL: 4/5 = 80% | média de quem respondeu 79%
+UESPI: 2/4 = 50% | média de quem respondeu 72%
+UERN: 2/4 = 50% | média de quem respondeu 68%
+HU-UEL: 2/2 = 100% | média de quem respondeu 92%
+sem_inst: 0/1 = 0% | média de quem respondeu 77%
+UNINOVE: 0/1 = 0% | média de quem respondeu 71%
+
+## Comando (NOVA)
+conduta: 57/100 = 57% | média de quem respondeu 64%
+composta: 17/30 = 57% | média de quem respondeu 60%
+próximo exame: 12/28 = 43% | média de quem respondeu 61%
+diagnóstico: 20/27 = 74% | média de quem respondeu 74%
+fato solto: 17/22 = 77% | média de quem respondeu 74%
+etiologia: 8/14 = 57% | média de quem respondeu 52%
+outros: 4/9 = 44% | média de quem respondeu 55%
+mecanismo: 3/9 = 33% | média de quem respondeu 65%
+negativo/EXCETO: 1/8 = 12% | média de quem respondeu 31%
+
+## Faixa (NOVA)
+a) >=70%: 89/104 = 86% | média de quem respondeu 84%
+b) 50-69%: 35/72 = 49% | média de quem respondeu 61%
+c) <50%: 15/71 = 21% | média de quem respondeu 36%
+
+## UERJ por classe
+('NOVA', 'C') 11
+('NOVA', 'E') 3
+('REP_CORRIGIU', 'C') 11
+('REP_ERROU_DE_NOVO_MESMA', 'E') 4
+('REP_ERROU_DE_NOVO_OUTRA', 'E') 3
+('REP_MANTEVE_ACERTO', 'C') 22
+('REP_REGREDIU', 'E') 1
