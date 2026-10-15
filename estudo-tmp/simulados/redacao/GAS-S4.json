@@ -10,19 +10,19 @@
     "enunciado": "Homem de 50 anos está internado há 35 dias por pancreatite aguda necrosante de origem biliar. No 18º dia teve febre, e a TC mostrou gás em coleção necrótica; iniciado meropeném, houve melhora inicial. Há 4 dias voltou a ter febre diária de 38,6 °C e taquicardia, sem hipotensão, mantendo dieta enteral por sonda. Exame: FC 112 bpm, PA 118 x 72 mmHg, massa epigástrica dolorosa, sem peritonite. Exames: leucócitos 19.000/mm³, PCR 210 mg/L, lactato 1,4 mmol/L. TC de hoje: necrose encapsulada de 13 cm, com parede bem definida, conteúdo heterogêneo com gás, em contato com a parede posterior do estômago; sem pseudoaneurisma. A conduta mais adequada neste momento é:",
     "alternativas": {
       "A": "Drenagem endoscópica transmural",
-      "B": "Necrosectomia cirúrgica aberta",
+      "B": "Manter meropeném isolado por 4 semanas",
       "C": "Trocar meropeném por polimixina",
-      "D": "Manter meropeném isolado por 4 semanas"
+      "D": "Necrosectomia cirúrgica aberta"
     },
     "gabarito": "A",
-    "armadilha": "B",
+    "armadilha": "D",
     "dado_decisivo": "necrose encapsulada de 13 cm, com parede bem definida",
     "resolucao": "Necrose infectada que piora após 10 dias de meropeném leva muitos à necrosectomia aberta, a conduta antiga. A abordagem atual é em degraus e tardia: antibiótico primeiro, e intervenção só se ele falhar, de preferência depois de 4 semanas, quando a necrose está encapsulada. No 35º dia, com parede bem definida e coleção junto ao estômago, a primeira intervenção é a drenagem endoscópica transmural (ou percutânea, se o acesso endoscópico não for possível), com necrosectomia endoscópica depois, se necessário. A necrosectomia aberta tem mais falência orgânica nova, fístula e mortalidade e fica para falha da via minimamente invasiva. Trocar o antibiótico sem drenar não resolve uma coleção infectada de 13 cm em quem piora.",
     "comentarios": {
       "A": "Correta. Necrose encapsulada infectada, com piora apesar do antibiótico e depois de 4 semanas: drenagem endoscópica transmural é o primeiro degrau invasivo.",
-      "B": "Errada. É a isca: a necrosectomia aberta foi substituída pelo step-up minimamente invasivo, que reduz complicações graves e mortalidade.",
+      "B": "Errada. Manter só antibiótico seria aceitável em quem melhora; com febre e leucocitose de volta após 10 dias, a coleção precisa ser drenada.",
       "C": "Errada. Não há dado de germe resistente a carbapenêmico; o problema é a coleção infectada sem drenagem, e não o espectro.",
-      "D": "Errada. Manter só antibiótico seria aceitável em quem melhora; com febre e leucocitose de volta após 10 dias, a coleção precisa ser drenada."
+      "D": "Errada. É a isca: a necrosectomia aberta foi substituída pelo step-up minimamente invasivo, que reduz complicações graves e mortalidade."
     },
     "para_levar": "Necrose infectada: antibiótico, e intervenção só se piorar, de preferência após 4 semanas; começa por drenagem endoscópica ou percutânea, e não por cirurgia aberta.",
     "referencias": "ACG Guideline: Management of Acute Pancreatitis (2024); AGA Clinical Practice Update on Management of Pancreatic Necrosis (2020); PANTER (2010), TENSION (2018) e POINTER (2021)",
@@ -70,36 +70,35 @@
     "id": "S4-GAS-03",
     "simulado": 4,
     "area": "Gastroenterologia",
-    "titulo": "Hipocalcemia refratária com PTH inapropriado: hipomagnesemia por inibidor de bomba de prótons",
-    "arma": "Droga a deduzir",
-    "comando": "etiologia",
-    "nivel": "extremamente difícil",
-    "enunciado": "Mulher de 66 anos, com doença do refluxo, usa há 7 anos, todas as manhãs em jejum, um comprimido para o estômago prescrito por outro médico, cujo nome não sabe informar. Procura atendimento por parestesias periorais e cãibras há 2 semanas. Sem cirurgia cervical prévia, sem diarreia, sem etilismo, sem diurético. Exame: sinais de Chvostek e Trousseau presentes. ECG: QTc 490 ms. Exames: cálcio total 6,9 mg/dL, albumina 4,0 g/dL, fósforo 4,1 mg/dL, potássio 3,1 mEq/L, PTH 18 pg/mL (15 a 65), 25-OH-vitamina D 34 ng/mL, creatinina 0,8 mg/dL. Recebeu gluconato de cálcio intravenoso duas vezes, com retorno da hipocalcemia em poucas horas. A causa mais provável da hipocalcemia é:",
+    "titulo": "Dor abdominal desproporcional ao exame no etilista com pulso irregular: isquemia mesentérica aguda, e não pancreatite",
+    "arma": "Negativo no meio",
+    "comando": "diagnóstico",
+    "nivel": "difícil",
+    "enunciado": "Homem de 71 anos, hipertenso em uso de losartana, etilista de cerca de cinco latas de cerveja por dia e que bebeu mais no último fim de semana, chega à emergência com dor abdominal periumbilical súbita e intensa há 5 horas, sem melhora com dipirona, seguida de dois vômitos e de uma evacuação diarreica. Nega febre, icterícia e episódios semelhantes. Exame: agitado pela dor, T 36,9 °C, PA 150 x 92 mmHg, pulso irregularmente irregular a 112 bpm, abdome flácido, com dor leve e difusa à palpação profunda, sem descompressão dolorosa, ruídos hidroaéreos presentes. Exames: leucócitos 16.800/mm³, amilase 210 U/L (até 100), lipase 95 U/L (até 60), bilirrubina total 0,9 mg/dL, lactato 1,8 mmol/L (até 2,0), creatinina 1,1 mg/dL. Radiografia de abdome em pé sem pneumoperitônio. O diagnóstico mais provável é:",
     "alternativas": {
-      "A": "Pseudo-hipoparatireoidismo",
-      "B": "Deficiência de vitamina D",
-      "C": "Hipomagnesemia por inibidor de bomba",
-      "D": "Hipoparatireoidismo autoimune"
+      "A": "Pancreatite aguda alcoólica",
+      "B": "Úlcera péptica perfurada",
+      "C": "Isquemia mesentérica aguda",
+      "D": "Colecistite aguda"
     },
     "gabarito": "C",
-    "armadilha": "D",
-    "dado_decisivo": "todas as manhãs em jejum, um comprimido para o estômago",
-    "resolucao": "PTH de 18 com cálcio de 6,9 parece hipoparatireoidismo, e a forma autoimune é a isca para quem não tem cirurgia cervical. Mas o PTH baixo ou inapropriadamente normal, a hipocalcemia que volta horas após o gluconato e a hipocalemia associada apontam hipomagnesemia: o magnésio baixo inibe a secreção de PTH e causa resistência a ele, e também espolia potássio pelo rim. A droga não vem nomeada: comprimido para o estômago, em jejum, há 7 anos, é inibidor de bomba de prótons, que reduz a absorção intestinal ativa de magnésio (canais TRPM6 e TRPM7). O magnésio, que não foi dosado, é o exame que decide; a reposição de magnésio corrige o cálcio e o potássio, e o IBP deve ser suspenso ou trocado.",
+    "armadilha": "A",
+    "dado_decisivo": "abdome flácido, com dor leve e difusa à palpação profunda, sem descompressão dolorosa",
+    "resolucao": "Etilismo, vômitos e amilase e lipase elevadas puxam para pancreatite alcoólica. Mas a lipase está abaixo de três vezes o limite superior, e a dor periumbilical súbita, que não cede, contrasta com um abdome flácido, pouco doloroso e sem descompressão: é a dor desproporcional ao exame físico, que marca a isquemia mesentérica aguda nas primeiras horas, antes da necrose transmural. O pulso irregularmente irregular é fibrilação atrial não diagnosticada, a fonte embólica mais comum para a artéria mesentérica superior, e a evacuação logo após a dor completa o quadro. Lactato normal não afasta: ele sobe tarde, quando já há infarto intestinal, e esperar por ele é o erro. Amilase e lipase discretamente elevadas são comuns na isquemia intestinal. O passo seguinte é angiotomografia de abdome com fase arterial, heparina e avaliação cirúrgica ou endovascular imediata.",
     "comentarios": {
-      "A": "Errada. Pseudo-hipoparatireoidismo é resistência ao PTH, com PTH elevado; o PTH de 18 pg/mL o afasta.",
-      "B": "Errada. Deficiência de vitamina D eleva o PTH (hiperparatireoidismo secundário) e baixa o fósforo; aqui a vitamina D é normal e o PTH é baixo.",
-      "C": "Correta. IBP há 7 anos, hipocalcemia refratária ao cálcio, PTH inapropriado e hipocalemia: hipomagnesemia por inibidor de bomba de prótons.",
-      "D": "Errada. É a isca: hipoparatireoidismo autoimune existe, mas cálcio refratário com hipocalemia e IBP crônico pedem magnésio antes."
+      "A": "Errada. É a armadilha: o etilismo é real, mas a lipase está abaixo de três vezes o limite e a pancreatite costuma dar dor em faixa com abdome doloroso; seria a resposta com lipase acima de 180 U/L e dor compatível ao exame.",
+      "B": "Errada. Seria a resposta com abdome em tábua, descompressão dolorosa e pneumoperitônio; aqui o abdome é flácido e não há ar livre.",
+      "C": "Correta. Dor súbita desproporcional a um abdome flácido e sem descompressão, com fibrilação atrial não diagnosticada como fonte embólica; lactato normal não afasta.",
+      "D": "Errada. Seria a resposta com dor em hipocôndrio direito, sinal de Murphy e febre; a dor é periumbilical e o exame não a localiza."
     },
-    "para_levar": "Hipocalcemia que não se sustenta com cálcio e PTH inapropriadamente baixo: dose magnésio e pergunte por IBP.",
-    "referencias": "FDA Drug Safety Communication: PPIs and low magnesium levels (2011); European Society of Endocrinology Clinical Guideline: treatment of chronic hypoparathyroidism (2015)",
+    "para_levar": "Dor abdominal súbita e intensa com exame pobre é isquemia mesentérica até prova em contrário, sobretudo com fibrilação atrial; lactato normal e enzimas pancreáticas pouco elevadas não afastam, e o exame é a angiotomografia imediata.",
+    "referencias": "ESVS 2017 (doenças das artérias e veias mesentéricas); WSES 2022 (isquemia mesentérica aguda); classificação de Atlanta revisada (2012).",
     "tags": [
-      "Distúrbios de Fósforo e Magnésio (CM)",
-      "Dispepsia e IBPs (CM)",
-      "Hipocalcemias (CM)"
+      "Intestino (CM)",
+      "Fibrilação Atrial (CM)"
     ],
-    "sourceQuestionId": "1404059163cd7e1",
-    "alvo": "Droga a deduzir na primeira linha (errou o mecanismo de IBP e magnésio)."
+    "sourceQuestionId": null,
+    "alvo": "Rótulo verdadeiro (etilismo, amilase) puxa para a doença de manual, e o negativo do exame físico é lido como tranquilizador."
   },
   {
     "id": "S4-GAS-04",

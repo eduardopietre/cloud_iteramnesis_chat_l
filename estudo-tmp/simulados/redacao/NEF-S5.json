@@ -10,19 +10,19 @@
     "enunciado": "Homem de 24 anos, militar, previamente hígido, apresenta dor muscular difusa e urina escura após marcha de 30 km sob calor intenso no dia anterior. Exame: lúcido, PA 124/76 mmHg, FC 96 bpm, temperatura 37,5 °C, mucosas secas, sem sinais de Chvostek ou Trousseau, sem parestesias. Exames: CPK 68.000 U/L, creatinina 1,6 mg/dL, ureia 48 mg/dL, potássio 5,7 mEq/L, cálcio total 7,2 mg/dL, albumina 4,2 g/dL, fósforo 6,1 mg/dL, bicarbonato 21 mEq/L. Urina: fita com sangue 3+ e 2 hemácias por campo. ECG: ritmo sinusal, sem alterações. A conduta mais adequada é:",
     "alternativas": {
       "A": "Cristaloide intravenoso vigoroso",
-      "B": "Gluconato de cálcio e cristaloide",
+      "B": "Bicarbonato de sódio e manitol",
       "C": "Hemodiálise de urgência",
-      "D": "Bicarbonato de sódio e manitol"
+      "D": "Gluconato de cálcio e cristaloide"
     },
     "gabarito": "A",
-    "armadilha": "B",
+    "armadilha": "D",
     "dado_decisivo": "ECG: ritmo sinusal, sem alterações",
     "resolucao": "Potássio de 5,7 e cálcio de 7,2 parecem pedir gluconato de cálcio, e a creatinina subindo com CPK de 68.000 leva alguns à diálise, exatamente o que ele fez numa rabdomiólise anterior. Mas o cálcio intravenoso tem duas indicações aqui e nenhuma está presente: ECG com alteração de hipercalemia e hipocalcemia sintomática (tetania, convulsão, arritmia). Na rabdomiólise, o cálcio baixo resulta da deposição de fosfato de cálcio no músculo necrosado; repor sem necessidade aumenta essa deposição e predispõe à hipercalcemia de rebote na recuperação, quando o cálcio é remobilizado. O tratamento que protege o rim e baixa o potássio é cristaloide isotônico vigoroso, ajustado para diurese de cerca de 200 a 300 mL/h, com monitorização seriada do potássio e do ECG. Bicarbonato e manitol não mostraram benefício sobre a hidratação isolada, e o bicarbonato ainda reduz o cálcio ionizado. Diálise só com hipercalemia refratária, acidose grave, oligúria com congestão ou uremia.",
     "comentarios": {
       "A": "Correta. Rabdomiólise com potássio de 5,7, ECG normal e hipocalcemia assintomática: hidratação isotônica vigorosa, sem cálcio.",
-      "B": "Errada, é a armadilha. O cálcio estaria indicado com ECG alterado ou hipocalcemia sintomática; sem isso, ele se deposita no músculo lesado e favorece a hipercalcemia de rebote.",
+      "B": "Errada. Alcalinização e manitol não superaram a hidratação isolada, e o bicarbonato reduz o cálcio ionizado, agravando a hipocalcemia.",
       "C": "Errada. Não há hipercalemia refratária, acidose grave nem sobrecarga: a diurese ainda pode ser sustentada com volume.",
-      "D": "Errada. Alcalinização e manitol não superaram a hidratação isolada, e o bicarbonato reduz o cálcio ionizado, agravando a hipocalcemia."
+      "D": "Errada, é a armadilha. O cálcio estaria indicado com ECG alterado ou hipocalcemia sintomática; sem isso, ele se deposita no músculo lesado e favorece a hipercalcemia de rebote."
     },
     "para_levar": "Na rabdomiólise, hidratação isotônica vigorosa é o tratamento; não reponha cálcio na hipocalcemia assintomática nem dê cálcio na hipercalemia com ECG normal.",
     "referencias": "Bosch, Poch e Grau, NEJM 2009 (Rhabdomyolysis and acute kidney injury); Harrison 21ª ed. (Rhabdomyolysis); UK Kidney Association (Renal Association), Treatment of Acute Hyperkalaemia in Adults (2020).",

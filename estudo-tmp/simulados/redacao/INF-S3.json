@@ -9,20 +9,20 @@
     "nivel": "difícil",
     "enunciado": "Homem de 36 anos, com HIV diagnosticado nesta internação, CD4 28 células/mm³, trabalhou nos últimos 3 meses na reforma de um casarão abandonado no interior de Minas Gerais. Há 6 semanas tem febre diária, perda de 9 kg, diarreia e tosse seca. O irmão, com quem divide o quarto, tratou tuberculose pulmonar no ano passado. Exame: T 38,8 °C, PA 100 x 64 mmHg, linfonodos cervicais de 1,5 cm, fígado a 4 cm e baço a 5 cm do rebordo costal, pápulas umbilicadas e úlceras rasas em face e palato. Hb 8,2 g/dL, leucócitos 2.100/mm³, plaquetas 64.000/mm³, LDH 1.480 U/L, ferritina 8.900 ng/mL, ALT 88 U/L, fosfatase alcalina 610 U/L, antígeno criptocócico sérico não reagente. Radiografia de tórax: infiltrado micronodular difuso. Baciloscopia de escarro negativa em 2 amostras. O agente mais provável é:",
     "alternativas": {
-      "A": "Mycobacterium tuberculosis",
+      "A": "Complexo Mycobacterium avium",
       "B": "Cryptococcus neoformans",
       "C": "Histoplasma capsulatum",
-      "D": "Complexo Mycobacterium avium"
+      "D": "Mycobacterium tuberculosis"
     },
     "gabarito": "C",
-    "armadilha": "A",
+    "armadilha": "D",
     "dado_decisivo": "pápulas umbilicadas e úlceras rasas em face e palato",
     "resolucao": "O irmão com tuberculose, o infiltrado micronodular e a febre consumptiva com CD4 de 28 montam a tuberculose miliar, e a baciloscopia negativa não afastaria a hipótese. Mas o exame da pele traz o que a TB não explica: pápulas umbilicadas e úlceras rasas de mucosa oral. Na aids avançada, pápula umbilicada é lesão de fungo disseminado (criptococo ou histoplasma), e não de micobactéria; com o antígeno criptocócico sérico não reagente, que tem sensibilidade muito alta na criptococose disseminada, sobra o Histoplasma. O restante concorda: pancitopenia, LDH acima de 1.000 U/L e ferritina muito alta, hepatoesplenomegalia, fosfatase alcalina elevada e exposição a poeira de construção abandonada (fezes de morcego e de aves). Confirmam o antígeno urinário, a hemocultura para fungos e o mielograma ou a biópsia de pele; o tratamento é anfotericina B lipossomal na indução e itraconazol depois.",
     "comentarios": {
-      "A": "Errada. É a armadilha: miliar explicaria febre, micronódulos, pancitopenia e o contato domiciliar, mas não faz pápulas umbilicadas nem úlceras de mucosa.",
+      "A": "Errada. MAC disseminado causa febre, diarreia, anemia e fosfatase alcalina alta com CD4 abaixo de 50, mas não faz lesões umbilicadas de pele nem úlceras orais.",
       "B": "Errada. Criptococose disseminada também faz pápulas umbilicadas, mas o antígeno criptocócico sérico não reagente praticamente a afasta.",
       "C": "Correta. Pápulas umbilicadas e úlceras orais com antígeno criptocócico negativo, pancitopenia, LDH e ferritina muito altas e exposição a poeira de construção abandonada.",
-      "D": "Errada. MAC disseminado causa febre, diarreia, anemia e fosfatase alcalina alta com CD4 abaixo de 50, mas não faz lesões umbilicadas de pele nem úlceras orais."
+      "D": "Errada. É a armadilha: miliar explicaria febre, micronódulos, pancitopenia e o contato domiciliar, mas não faz pápulas umbilicadas nem úlceras de mucosa."
     },
     "para_levar": "Na aids avançada, pápula umbilicada aponta fungo disseminado: com antígeno criptocócico negativo, é histoplasmose até prova em contrário, mesmo com contato de TB na história.",
     "referencias": "PCDT para Manejo da Infecção pelo HIV em Adultos (MS, 2024); OPAS/OMS Guidelines for diagnosing and managing disseminated histoplasmosis among people living with HIV (2020).",
@@ -37,35 +37,34 @@
     "id": "S3-INF-02",
     "simulado": 3,
     "area": "Infectologia",
-    "titulo": "Tuberculose pleural: ADA alto em exsudato linfocítico autoriza tratar sem biópsia",
-    "arma": "Limiar",
+    "titulo": "Profilaxia do tétano em ferimento de alto risco com última dose há 7 anos: reforço de dT, sem imunoglobulina",
+    "arma": "Cronologia",
     "comando": "conduta",
     "nivel": "difícil",
-    "enunciado": "Homem de 29 anos, previamente hígido, procura atendimento por dor pleurítica à direita, febre vespertina, sudorese noturna e tosse seca há 5 semanas, com perda de 4 kg. Anti-HIV não reagente. Exame: T 37,9 °C, macicez e murmúrio abolido no terço inferior do hemitórax direito. TC de tórax: derrame pleural moderado à direita, sem lesões parenquimatosas, cavitação, massa ou linfonodomegalia mediastinal. Toracocentese: líquido amarelo-citrino, proteína 5,2 g/dL (sérica 7,0), LDH 420 U/L (sérica 210; VR até 240), glicose 72 mg/dL, pH 7,36, 2.800 células/mm³ com 88% de linfócitos e raras células mesoteliais, ADA 78 U/L, citologia oncótica negativa, TRM-TB no líquido não detectado, Gram e cultura para bactérias negativos. Baciloscopia de escarro induzido negativa. A conduta mais adequada é:",
+    "enunciado": "Homem de 41 anos, pedreiro, previamente hígido e sem uso de medicações, procura a emergência 5 horas depois de pisar descalço num prego enferrujado, em terreno com entulho e esterco. Exame: T 36,6 °C, ferimento perfurante de cerca de 1,5 cm de profundidade na planta do pé direito, com terra no trajeto, sem sinais flogísticos e sem tecido desvitalizado extenso. Glicemia capilar 96 mg/dL. Traz a caderneta de vacinação: três doses na infância, reforços aos 15 e aos 25 anos e, por último, uma dose de dT aos 34 anos, quando cortou a mão numa obra. Nega alergia a vacinas. Foi feita a limpeza com soro fisiológico e a retirada de corpos estranhos. Quanto à profilaxia do tétano, a conduta mais adequada é:",
     "alternativas": {
-      "A": "Iniciar RHZE",
-      "B": "Biópsia pleural antes de tratar",
-      "C": "Videotoracoscopia com biópsia",
-      "D": "Aguardar a cultura para micobactéria"
+      "A": "Reforço de dT com imunoglobulina antitetânica",
+      "B": "Apenas a limpeza, sem vacina",
+      "C": "Reforço de dT, sem imunoglobulina",
+      "D": "Esquema completo de três doses de dT"
     },
-    "gabarito": "A",
-    "armadilha": "B",
-    "dado_decisivo": "ADA 78 U/L",
-    "resolucao": "Sem bacilo, sem TRM positivo e sem granuloma, o impulso é buscar a confirmação histológica antes de tratar, e o TRM-TB não detectado parece reforçar a dúvida. Mas a TB pleural é paucibacilar: o TRM no líquido detecta só uma minoria dos casos e a cultura demora semanas. Em país de alta prevalência, exsudato linfocítico com ADA acima de 40 U/L, em jovem sem HIV, sem massa ou linfonodomegalia e com citologia negativa, tem valor preditivo suficiente para iniciar o tratamento. O Ministério da Saúde aceita esse critério para iniciar RHZE (2 meses) seguido de RH (4 meses), com a cultura do líquido em andamento. A biópsia fica para ADA baixo, quadro discordante, suspeita de neoplasia ou falta de resposta.",
+    "gabarito": "C",
+    "armadilha": "A",
+    "dado_decisivo": "por último, uma dose de dT aos 34 anos",
+    "resolucao": "Prego enferrujado, terra e esterco fazem um ferimento de alto risco, e o reflexo é somar tudo: vacina e imunoglobulina. Mas a decisão do Ministério da Saúde depende do histórico vacinal, e a caderneta resolve: três doses ou mais, com a última há 7 anos. No ferimento de alto risco, última dose há menos de 5 anos dispensa a vacina; há 5 anos ou mais, indica um reforço de dT. A imunoglobulina antitetânica (ou o soro) fica para quem tem esquema incompleto, ignorado ou com menos de três doses e, entre os vacinados com reforço indicado, para imunodeprimidos, desnutridos graves e idosos, e ele não está em nenhum desses grupos. O esquema completo de três doses é para quem não comprova vacinação. A limpeza cuidadosa vale para todos e já foi feita.",
     "comentarios": {
-      "A": "Correta. Exsudato linfocítico com ADA de 78 U/L em jovem, com citologia negativa e sem massa: tratamento para TB pleural sem necessidade de biópsia.",
-      "B": "Errada. É a armadilha: biópsia pleural seria o passo com ADA abaixo de 40, idoso com suspeita de neoplasia ou quadro discordante; aqui o limiar do ADA já decide.",
-      "C": "Errada. Toracoscopia é o degrau mais invasivo, para exsudato sem diagnóstico após líquido e biópsia por agulha; pular para ela é fazer dois degraus a mais.",
-      "D": "Errada. Esperar a cultura atrasa semanas o tratamento de uma TB provável; TRM negativo no líquido pleural não afasta a doença."
+      "A": "Errada. É a armadilha: seria a conduta no ferimento de alto risco com esquema incompleto ou ignorado, ou no vacinado imunodeprimido, desnutrido grave ou idoso; ele tem esquema completo e é hígido.",
+      "B": "Errada. Seria a conduta no ferimento de alto risco com a última dose há menos de 5 anos; a dele foi há 7.",
+      "C": "Correta. Esquema completo com última dose há 7 anos e ferimento de alto risco: um reforço de dT, sem imunoglobulina.",
+      "D": "Errada. Seria o esquema para quem nunca foi vacinado ou não comprova as doses; a caderneta mostra esquema completo com reforços."
     },
-    "para_levar": "Exsudato linfocítico com ADA acima de 40 U/L, em jovem sem sinal de neoplasia, é TB pleural para tratar; TRM negativo no líquido não exclui e não justifica biópsia.",
-    "referencias": "Manual de Recomendações para o Controle da Tuberculose no Brasil (MS, 2019, atualizado); III Diretrizes para Tuberculose da SBPT (J Bras Pneumol, 2009).",
+    "para_levar": "No ferimento de alto risco, a imunoglobulina antitetânica depende do esquema vacinal, e não da sujeira: esquema completo com última dose há 5 anos ou mais pede só reforço de dT, salvo no imunodeprimido, no desnutrido grave e no idoso.",
+    "referencias": "Ministério da Saúde: Guia de Vigilância em Saúde, 5ª edição (2021), capítulo de tétano acidental; Manual de Normas e Procedimentos para Vacinação (2014).",
     "tags": [
-      "Tuberculose Extrapulmonar (CM)",
-      "Derrame Pleural (CM)"
+      "Profilaxia de Tétano (CM)"
     ],
-    "sourceQuestionId": "a1e4170cc80392b",
-    "alvo": "Líquido pleural lido pelo rótulo e procedimento invasivo antes do teste que já decide (derrame pleural 2 de 5)."
+    "sourceQuestionId": null,
+    "alvo": "Faz mais do que o caso pede (imunoglobulina) sem checar a condição que a habilita: o tempo desde a última dose."
   },
   {
     "id": "S3-INF-03",

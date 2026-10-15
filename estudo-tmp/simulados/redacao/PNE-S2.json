@@ -10,19 +10,19 @@
     "enunciado": "Homem de 74 anos, com cardiomiopatia isquêmica (fração de ejeção de 30%), está internado há 5 dias por dispneia aos mínimos esforços, ortopneia e edema de membros inferiores. Recebe furosemida venosa em dose dobrada desde a admissão, com perda de 6 kg, mas persiste derrame pleural à direita, de volume moderado. Nega febre, tosse produtiva e perda de peso. Exame: PA 108 x 66 mmHg, FC 84 bpm, SpO2 94% em ar ambiente, estertores finos em bases, edema residual em tornozelos. Toracocentese diagnóstica: líquido citrino, proteína 3,3 g/dL, LDH 170 U/L, albumina 1,5 g/dL, glicose 112 mg/dL, pH 7,46, 620 células/mm³ (70% linfócitos e 25% células mesoteliais), ADA 9 U/L. Sangue: proteína total 6,5 g/dL, albumina 3,0 g/dL, LDH 260 U/L (limite superior da normalidade 250 U/L). A interpretação mais adequada do líquido pleural é:",
     "alternativas": {
       "A": "Transudato concentrado pelo diurético",
-      "B": "Exsudato linfocítico a esclarecer",
+      "B": "Transudato por hipoalbuminemia",
       "C": "Exsudato por neoplasia pleural",
-      "D": "Transudato por hipoalbuminemia"
+      "D": "Exsudato linfocítico a esclarecer"
     },
     "gabarito": "A",
-    "armadilha": "B",
+    "armadilha": "D",
     "dado_decisivo": "albumina 1,5 g/dL",
     "resolucao": "Os três critérios de Light dão exsudato por pouco (proteína 0,51, LDH 0,65 e LDH pleural de 170, acima de dois terços de 250), e o líquido linfocítico convida a investigar tuberculose ou neoplasia. Mas o paciente está no quinto dia de diurético venoso com 6 kg perdidos, e o diurético retira água do espaço pleural mais depressa que proteína e LDH, empurrando um transudato para a faixa de exsudato. Nessa situação o desempate é o gradiente soro menos líquido: albumina 3,0 menos 1,5 dá 1,5 g/dL (acima de 1,2) e proteína 6,5 menos 3,3 dá 3,2 g/dL (acima de 3,1), os dois indicando transudato. ADA de 9, glicose e pH normais e ausência de febre ou perda de peso completam o quadro de derrame da insuficiência cardíaca. O passo seguinte é otimizar o tratamento da IC, sem biópsia nem toracoscopia.",
     "comentarios": {
       "A": "Correta. Light limítrofe sob diurético, com gradiente de albumina de 1,5 g/dL e de proteína de 3,2 g/dL: pseudoexsudato da insuficiência cardíaca.",
-      "B": "Errada, e é a armadilha. Seria a leitura certa sem diurético ou com gradiente de albumina até 1,2; aqui os dois gradientes reclassificam o líquido como transudato e a celularidade linfocítica é a esperada no derrame crônico da IC.",
+      "B": "Errada. É transudato, mas albumina sérica de 3,0 g/dL não explica derrame isolado; hipoalbuminemia grave (nefrose, cirrose) daria derrame bilateral e anasarca, e aqui há IC descompensada com congestão.",
       "C": "Errada. Neoplasia daria exsudato verdadeiro, com gradiente de albumina abaixo de 1,2, em geral perda de peso e LDH mais alto; nada disso está presente.",
-      "D": "Errada. É transudato, mas albumina sérica de 3,0 g/dL não explica derrame isolado; hipoalbuminemia grave (nefrose, cirrose) daria derrame bilateral e anasarca, e aqui há IC descompensada com congestão."
+      "D": "Errada, e é a armadilha. Seria a leitura certa sem diurético ou com gradiente de albumina até 1,2; aqui os dois gradientes reclassificam o líquido como transudato e a celularidade linfocítica é a esperada no derrame crônico da IC."
     },
     "para_levar": "Exsudato limítrofe em paciente sob diurético se reclassifica pelo gradiente soro menos líquido: albumina acima de 1,2 g/dL ou proteína acima de 3,1 g/dL indicam transudato.",
     "referencias": "BTS Guideline for pleural disease 2023; Light RW, Pleural Diseases, 6ª ed. (2013)",

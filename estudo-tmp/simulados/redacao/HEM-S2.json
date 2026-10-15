@@ -1,304 +1,304 @@
 [
- {
-  "id": "S2-HEM-01",
-  "simulado": 2,
-  "area": "Hematologia",
-  "titulo": "Deficiência de cobre após bariátrica com displasia medular: excluir causa secundária antes de rotular SMD",
-  "arma": "Rótulo verdadeiro",
-  "comando": "próximo exame",
-  "nivel": "extremamente difícil",
-  "enunciado": "Mulher de 54 anos, submetida a derivação gástrica em Y de Roux há 9 anos, procura atendimento por cansaço progressivo e formigamento nos pés há 6 meses, com desequilíbrio ao andar no escuro. Usa polivitamínico de forma irregular e, por conta própria, comprimidos de zinco 50 mg/dia há 2 anos \"para a imunidade\". Exame: hipocorada 2+/4, Romberg positivo, reflexos patelares vivos, sensibilidade vibratória abolida até os joelhos. Exames: Hb 8,4 g/dL, VCM 101 fL, reticulócitos 0,6%, leucócitos 2.100/mm³ (neutrófilos 700/mm³), plaquetas 198.000/mm³, vitamina B12 610 pg/mL, ácido metilmalônico normal, folato e TSH normais. Mielograma: vacuolização citoplasmática em precursores eritroides e mieloides, sideroblastos em anel em 18% dos eritroblastos, displasia discreta e blastos 1%. O próximo exame mais adequado é:",
-  "alternativas": {
-   "A": "Cobre sérico e ceruloplasmina",
-   "B": "Cariótipo de medula óssea",
-   "C": "Pesquisa de mutação SF3B1",
-   "D": "Ressonância de medula cervical"
+  {
+    "id": "S2-HEM-01",
+    "simulado": 2,
+    "area": "Hematologia",
+    "titulo": "Deficiência de cobre após bariátrica com displasia medular: excluir causa secundária antes de rotular SMD",
+    "arma": "Rótulo verdadeiro",
+    "comando": "próximo exame",
+    "nivel": "extremamente difícil",
+    "enunciado": "Mulher de 54 anos, submetida a derivação gástrica em Y de Roux há 9 anos, procura atendimento por cansaço progressivo e formigamento nos pés há 6 meses, com desequilíbrio ao andar no escuro. Usa polivitamínico de forma irregular e, por conta própria, comprimidos de zinco 50 mg/dia há 2 anos \"para a imunidade\". Exame: hipocorada 2+/4, Romberg positivo, reflexos patelares vivos, sensibilidade vibratória abolida até os joelhos. Exames: Hb 8,4 g/dL, VCM 101 fL, reticulócitos 0,6%, leucócitos 2.100/mm³ (neutrófilos 700/mm³), plaquetas 198.000/mm³, vitamina B12 610 pg/mL, ácido metilmalônico normal, folato e TSH normais. Mielograma: vacuolização citoplasmática em precursores eritroides e mieloides, sideroblastos em anel em 18% dos eritroblastos, displasia discreta e blastos 1%. O próximo exame mais adequado é:",
+    "alternativas": {
+      "A": "Ressonância de medula cervical",
+      "B": "Cariótipo de medula óssea",
+      "C": "Pesquisa de mutação SF3B1",
+      "D": "Cobre sérico e ceruloplasmina"
+    },
+    "gabarito": "D",
+    "armadilha": "B",
+    "dado_decisivo": "comprimidos de zinco 50 mg/dia há 2 anos",
+    "resolucao": "O mielograma com displasia e sideroblastos em anel é um rótulo verdadeiro que puxa para síndrome mielodisplásica, e o passo seguinte de manual seria o cariótipo. Mas a OMS só aceita chamar de SMD depois de excluir causas secundárias de displasia, e o caso tem três pistas de deficiência de cobre: bariátrica disabsortiva, zinco em dose alta por anos (o zinco induz metalotioneína no enterócito, que sequestra o cobre) e mieloneuropatia de cordão posterior com B12 e ácido metilmalônico normais. A vacuolização de precursores e a neutropenia com anemia são a assinatura medular da falta de cobre, que também produz sideroblastos em anel. O exame que decide é cobre sérico com ceruloplasmina; a reposição corrige as citopenias em semanas, e a neuropatia melhora parcialmente. Rotular SMD aqui levaria a tratamento de neoplasia numa carência reversível.",
+    "comentarios": {
+      "A": "Errada. Seria a resposta numa mielopatia com sinais de compressão; a ressonância pode até mostrar hipersinal de cordão posterior, mas não aponta a causa nem explica as citopenias.",
+      "B": "Errada. Seria o passo para SMD depois de excluídas as causas secundárias; aqui a displasia tem explicação reversível que não foi testada.",
+      "C": "Errada. SF3B1 define SMD com sideroblastos em anel quando há neoplasia; sideroblastos em anel também aparecem na falta de cobre e no álcool, e a mutação não se pesquisa antes de excluí-los.",
+      "D": "Correta. Bariátrica, zinco em dose alta, mieloneuropatia com B12 normal e vacuolização de precursores apontam deficiência de cobre, que se confirma com cobre e ceruloplasmina baixos."
+    },
+    "para_levar": "Citopenia com vacuolização de precursores, sideroblastos em anel e mieloneuropatia após bariátrica ou uso de zinco é deficiência de cobre até prova em contrário: dose cobre antes de chamar de SMD.",
+    "referencias": "Classificação OMS 2022 (5ª edição) das neoplasias mieloides; NCCN Myelodysplastic Syndromes 2025; AACE/TOS/ASMBS 2019, diretriz de suporte nutricional, metabólico e não cirúrgico do paciente bariátrico (Mechanick et al.).",
+    "tags": [
+      "Síndrome Mielodisplásica (CM)",
+      "Pancitopenias (CM)"
+    ],
+    "sourceQuestionId": "3070cbc4c2be6cd",
+    "alvo": "SMD errada 4 de 4: rótulo do mielograma lido sem checar a causa secundária reversível."
   },
-  "gabarito": "A",
-  "armadilha": "B",
-  "dado_decisivo": "comprimidos de zinco 50 mg/dia há 2 anos",
-  "resolucao": "O mielograma com displasia e sideroblastos em anel é um rótulo verdadeiro que puxa para síndrome mielodisplásica, e o passo seguinte de manual seria o cariótipo. Mas a OMS só aceita chamar de SMD depois de excluir causas secundárias de displasia, e o caso tem três pistas de deficiência de cobre: bariátrica disabsortiva, zinco em dose alta por anos (o zinco induz metalotioneína no enterócito, que sequestra o cobre) e mieloneuropatia de cordão posterior com B12 e ácido metilmalônico normais. A vacuolização de precursores e a neutropenia com anemia são a assinatura medular da falta de cobre, que também produz sideroblastos em anel. O exame que decide é cobre sérico com ceruloplasmina; a reposição corrige as citopenias em semanas, e a neuropatia melhora parcialmente. Rotular SMD aqui levaria a tratamento de neoplasia numa carência reversível.",
-  "comentarios": {
-   "A": "Correta. Bariátrica, zinco em dose alta, mieloneuropatia com B12 normal e vacuolização de precursores apontam deficiência de cobre, que se confirma com cobre e ceruloplasmina baixos.",
-   "B": "Errada. Seria o passo para SMD depois de excluídas as causas secundárias; aqui a displasia tem explicação reversível que não foi testada.",
-   "C": "Errada. SF3B1 define SMD com sideroblastos em anel quando há neoplasia; sideroblastos em anel também aparecem na falta de cobre e no álcool, e a mutação não se pesquisa antes de excluí-los.",
-   "D": "Errada. Seria a resposta numa mielopatia com sinais de compressão; a ressonância pode até mostrar hipersinal de cordão posterior, mas não aponta a causa nem explica as citopenias."
+  {
+    "id": "S2-HEM-02",
+    "simulado": 2,
+    "area": "Hematologia",
+    "titulo": "Hiperferritinemia metabólica em flebotomia: saturação que despenca e anemia mandam suspender, não a ferritina",
+    "arma": "Omissão",
+    "comando": "conduta",
+    "nivel": "extremamente difícil",
+    "enunciado": "Homem de 55 anos, com IMC de 33 kg/m², diabetes tipo 2 em metformina, hipertrigliceridemia e esteatose hepática, não bebe. Em outro serviço, por ferritina de 1.240 ng/mL, iniciou flebotomias semanais de 450 mL há 6 semanas, com a meta escrita de \"retirar sangue até a ferritina chegar a 50\". Não foi feita pesquisa genética. Exames antes da primeira sessão: hemoglobina 15,6 g/dL, saturação de transferrina 38%. Desde a 4ª sessão refere cansaço e tontura ao levantar. Exames de hoje, após 6 sessões: hemoglobina 11,9 g/dL, VCM 83 fL, ferritina 860 ng/mL, saturação de transferrina 12%, ALT 58 U/L, PCR 0,8 mg/dL. Quanto às flebotomias, a conduta mais adequada é:",
+    "alternativas": {
+      "A": "Trocar por quelante oral de ferro",
+      "B": "Suspender as flebotomias",
+      "C": "Espaçar para uma sessão mensal",
+      "D": "Manter até ferritina de 50 a 100"
+    },
+    "gabarito": "B",
+    "armadilha": "D",
+    "dado_decisivo": "saturação de transferrina 12%",
+    "resolucao": "A ferritina ainda em 860, longe da meta escrita, é o número que empurra para continuar, e a meta de 50 a 100 é a da hemocromatose. O ponto de partida já negava sobrecarga: saturação de transferrina de 38%, abaixo de 45%, num obeso diabético com esteatose, é hiperferritinemia metabólica, em que a ferritina reflete resistência insulínica e inflamação hepática, e não ferro estocado. As 6 sessões funcionaram como teste terapêutico: na sobrecarga verdadeira, a retirada de cerca de 1,3 g de ferro (cerca de 200 a 250 mg por sessão) mal mexe na saturação, que segue alta enquanto houver estoque para mobilizar; aqui a saturação despencou para 12% e a hemoglobina caiu quase 4 g/dL, com VCM em queda, sinal de eritropoese com falta de ferro disponível. Continuar, ou só espaçar, produz anemia ferropriva sem benefício hepático, e quelante não tem lugar sem sobrecarga. A conduta é suspender e tratar o metabolismo (peso, glicemia, triglicérides), seguindo o fígado pelo FIB-4.",
+    "comentarios": {
+      "A": "Errada. Quelante oral serve à sobrecarga transfusional ou a quem não tolera flebotomia com sobrecarga comprovada; não há ferro em excesso para quelar.",
+      "B": "Correta. Saturação inicial de 38% e queda para 12% com anemia após poucas sessões provam que não havia sobrecarga a retirar: suspender.",
+      "C": "Errada. Espaçar é a fase de manutenção da hemocromatose depois de atingida a meta; sem sobrecarga, qualquer nova sessão só aprofunda a ferropenia.",
+      "D": "Errada. É a armadilha: a meta de ferritina de 50 a 100 é da hemocromatose com sobrecarga comprovada; aqui a ferritina não mede estoque e a saturação de 12% já mostra falta de ferro."
+    },
+    "para_levar": "Hiperferritinemia com saturação abaixo de 45% não é sobrecarga de ferro: flebotomia não se indica, e se já começou, saturação despencando com anemia manda suspender, mesmo com ferritina alta.",
+    "referencias": "EASL Clinical Practice Guidelines on haemochromatosis 2022; consenso internacional sobre hiperferritinemia metabólica (Valenti et al., Nat Rev Endocrinol 2023); EASL-EASD-EASO 2024 para MASLD.",
+    "tags": [
+      "Hemocromatose (CM)",
+      "Anemia Ferropriva (CM)"
+    ],
+    "sourceQuestionId": "9cecfe66b24fc67",
+    "alvo": "Regra errada fixada (saturação abaixo de 45% não é sobrecarga), vista pelo lado da conduta já em curso que precisa parar."
   },
-  "para_levar": "Citopenia com vacuolização de precursores, sideroblastos em anel e mieloneuropatia após bariátrica ou uso de zinco é deficiência de cobre até prova em contrário: dose cobre antes de chamar de SMD.",
-  "referencias": "Classificação OMS 2022 (5ª edição) das neoplasias mieloides; NCCN Myelodysplastic Syndromes 2025; AACE/TOS/ASMBS 2019, diretriz de suporte nutricional, metabólico e não cirúrgico do paciente bariátrico (Mechanick et al.).",
-  "tags": [
-   "Síndrome Mielodisplásica (CM)",
-   "Pancitopenias (CM)"
-  ],
-  "sourceQuestionId": "3070cbc4c2be6cd",
-  "alvo": "SMD errada 4 de 4: rótulo do mielograma lido sem checar a causa secundária reversível."
- },
- {
-  "id": "S2-HEM-02",
-  "simulado": 2,
-  "area": "Hematologia",
-  "titulo": "Hiperferritinemia metabólica em flebotomia: saturação que despenca e anemia mandam suspender, não a ferritina",
-  "arma": "Omissão",
-  "comando": "conduta",
-  "nivel": "extremamente difícil",
-  "enunciado": "Homem de 55 anos, com IMC de 33 kg/m², diabetes tipo 2 em metformina, hipertrigliceridemia e esteatose hepática, não bebe. Em outro serviço, por ferritina de 1.240 ng/mL, iniciou flebotomias semanais de 450 mL há 6 semanas, com a meta escrita de \"retirar sangue até a ferritina chegar a 50\". Não foi feita pesquisa genética. Exames antes da primeira sessão: hemoglobina 15,6 g/dL, saturação de transferrina 38%. Desde a 4ª sessão refere cansaço e tontura ao levantar. Exames de hoje, após 6 sessões: hemoglobina 11,9 g/dL, VCM 83 fL, ferritina 860 ng/mL, saturação de transferrina 12%, ALT 58 U/L, PCR 0,8 mg/dL. Quanto às flebotomias, a conduta mais adequada é:",
-  "alternativas": {
-   "A": "Manter até ferritina de 50 a 100",
-   "B": "Suspender as flebotomias",
-   "C": "Espaçar para uma sessão mensal",
-   "D": "Trocar por quelante oral de ferro"
+  {
+    "id": "S2-HEM-03",
+    "simulado": 2,
+    "area": "Hematologia",
+    "titulo": "Doença falciforme com queda da hemoglobina: crise aplásica por parvovírus B19 pelos reticulócitos",
+    "arma": "Rótulo verdadeiro",
+    "comando": "etiologia",
+    "nivel": "difícil",
+    "enunciado": "Homem de 20 anos, com anemia falciforme (HbSS) e hemoglobina basal de 8,2 g/dL, em uso de ácido fólico, procura a emergência por cansaço intenso e tontura há 4 dias. Há 10 dias teve febre baixa, coriza e dor nas pernas, que tratou em casa com dipirona como \"crise leve\". Sem dor óssea atual e sem dor torácica. Exame: FC 118 bpm, PA 100 x 60 mmHg, SpO2 97%, icterícia 1+/4, mucosas muito descoradas, baço não palpável, fígado a 2 cm do rebordo. Exames: Hb 3,9 g/dL, VCM 92 fL, reticulócitos 0,2% (basal de 9%), leucócitos 8.900/mm³, plaquetas 260.000/mm³, LDH 520 U/L, bilirrubina indireta 2,1 mg/dL. A causa mais provável da queda da hemoglobina é:",
+    "alternativas": {
+      "A": "Sequestro esplênico agudo",
+      "B": "Hemólise aumentada pela crise vaso-oclusiva",
+      "C": "Aplasia eritroide por parvovírus B19",
+      "D": "Deficiência aguda de folato"
+    },
+    "gabarito": "C",
+    "armadilha": "B",
+    "dado_decisivo": "reticulócitos 0,2% (basal de 9%)",
+    "resolucao": "O rótulo verdadeiro é a doença falciforme com uma \"crise\" recente e icterícia, que puxa para mais hemólise como explicação da anemia. Só que hemólise aumentada vem com reticulocitose acima da basal, LDH subindo e bilirrubina subindo, e aqui os reticulócitos caíram de 9% para 0,2%, a LDH está mais baixa que o esperado para um falciforme e a icterícia é discreta. Medula que parou de produzir hemácias, numa doença em que a hemácia vive 10 a 20 dias, derruba a hemoglobina em dias: é a crise aplásica, quase sempre por parvovírus B19, que infecta o progenitor eritroide, e o pródromo viral de 10 dias atrás é a pista. Sequestro exige baço crescendo, e no adulto HbSS o baço já sofreu autoesplenectomia. A conduta é transfusão e precaução respiratória, e a recuperação dos reticulócitos marca o fim da crise.",
+    "comentarios": {
+      "A": "Errada. Seria a resposta em criança ou em hemoglobinopatia SC com baço aumentando rápido e reticulocitose; aqui o baço não é palpável e os reticulócitos caíram.",
+      "B": "Errada. É a armadilha: hemólise maior teria reticulócitos acima de 9% e LDH alta; reticulócitos de 0,2% indicam falha de produção.",
+      "C": "Correta. Hb muito abaixo da basal com reticulócitos quase zerados após pródromo viral é crise aplásica por parvovírus B19.",
+      "D": "Errada. Ele usa ácido fólico, o VCM é 92 e a carência de folato daria megaloblastose com LDH muito alta, não queda tão abrupta."
+    },
+    "para_levar": "Na doença falciforme, hemoglobina despencando com reticulócitos baixos é crise aplásica (parvovírus B19); hemólise e sequestro cursam com reticulocitose.",
+    "referencias": "ASH 2020 guidelines for sickle cell disease; Ministério da Saúde, Doença falciforme: condutas básicas para tratamento (2012) e PCDT Doença Falciforme (2018).",
+    "tags": [
+      "Anemia Falciforme (CM)",
+      "Anemias Hemolíticas Hereditárias (CM)"
+    ],
+    "sourceQuestionId": "b57a6f177470a28",
+    "alvo": "Lê o rótulo (falciforme em crise) e ignora o número que decide (reticulócitos)."
   },
-  "gabarito": "B",
-  "armadilha": "A",
-  "dado_decisivo": "saturação de transferrina 12%",
-  "resolucao": "A ferritina ainda em 860, longe da meta escrita, é o número que empurra para continuar, e a meta de 50 a 100 é a da hemocromatose. O ponto de partida já negava sobrecarga: saturação de transferrina de 38%, abaixo de 45%, num obeso diabético com esteatose, é hiperferritinemia metabólica, em que a ferritina reflete resistência insulínica e inflamação hepática, e não ferro estocado. As 6 sessões funcionaram como teste terapêutico: na sobrecarga verdadeira, a retirada de cerca de 1,3 g de ferro (cerca de 200 a 250 mg por sessão) mal mexe na saturação, que segue alta enquanto houver estoque para mobilizar; aqui a saturação despencou para 12% e a hemoglobina caiu quase 4 g/dL, com VCM em queda, sinal de eritropoese com falta de ferro disponível. Continuar, ou só espaçar, produz anemia ferropriva sem benefício hepático, e quelante não tem lugar sem sobrecarga. A conduta é suspender e tratar o metabolismo (peso, glicemia, triglicérides), seguindo o fígado pelo FIB-4.",
-  "comentarios": {
-   "A": "Errada. É a armadilha: a meta de ferritina de 50 a 100 é da hemocromatose com sobrecarga comprovada; aqui a ferritina não mede estoque e a saturação de 12% já mostra falta de ferro.",
-   "B": "Correta. Saturação inicial de 38% e queda para 12% com anemia após poucas sessões provam que não havia sobrecarga a retirar: suspender.",
-   "C": "Errada. Espaçar é a fase de manutenção da hemocromatose depois de atingida a meta; sem sobrecarga, qualquer nova sessão só aprofunda a ferropenia.",
-   "D": "Errada. Quelante oral serve à sobrecarga transfusional ou a quem não tolera flebotomia com sobrecarga comprovada; não há ferro em excesso para quelar."
+  {
+    "id": "S2-HEM-04",
+    "simulado": 2,
+    "area": "Hematologia",
+    "titulo": "Linfoma folicular de baixa carga tumoral em estádio IV: observação vigilante",
+    "arma": "Grade X / Y",
+    "comando": "diagnóstico",
+    "nivel": "extremamente difícil",
+    "enunciado": "Mulher de 58 anos procura o clínico por \"ínguas\" no pescoço e na virilha percebidas há 1 ano, sem crescimento desde então. Nega febre, sudorese noturna e perda de peso. Exame: linfonodos cervicais e inguinais bilaterais de 1,5 a 2,5 cm, fibroelásticos e indolores; baço não palpável. Exames: Hb 13,1 g/dL, leucócitos 6.400/mm³, plaquetas 210.000/mm³, LDH 190 U/L (VR até 250), beta-2-microglobulina normal. Biópsia excisional de linfonodo inguinal: proliferação nodular de células B pequenas clivadas, CD20+, CD10+, BCL2+, CD5 negativo, ciclina D1 negativa, Ki-67 de 10%. PET-CT: linfonodos cervicais, axilares, mediastinais e ilíacos, apenas um acima de 3 cm (o maior com 3,2 cm), SUV máximo de 6. Biópsia de medula óssea com infiltração paratrabecular de 15%. O diagnóstico e a conduta são, respectivamente:",
+    "alternativas": {
+      "A": "Linfoma do manto / R-quimioterapia",
+      "B": "Linfoma do manto / observação vigilante",
+      "C": "Linfoma folicular / R-quimioterapia",
+      "D": "Linfoma folicular / observação vigilante"
+    },
+    "gabarito": "D",
+    "armadilha": "C",
+    "dado_decisivo": "apenas um acima de 3 cm (o maior com 3,2 cm)",
+    "resolucao": "A primeira metade se decide pela imuno-histoquímica: CD10+ e BCL2+ com CD5 e ciclina D1 negativos, padrão nodular e Ki-67 baixo é linfoma folicular de baixo grau; o manto seria CD5+ e ciclina D1+. A segunda metade é onde o rótulo engana: a medula infiltrada coloca a doente em estádio IV, e estádio IV soa como indicação de quimioterapia. No folicular, porém, quem indica tratamento é a carga tumoral (critérios GELF), não o estádio: massa de 7 cm ou mais, três ou mais sítios nodais acima de 3 cm, sintomas B, esplenomegalia, citopenias, fase leucêmica, derrames ou compressão de órgão (e, pela NCCN, também progressão contínua ou doença volumosa). Ela não tem nenhum: só um linfonodo passa de 3 cm, os exames estão normais e a doença não cresce há 1 ano. Ensaios randomizados mostram que tratar o folicular assintomático de baixa carga não aumenta a sobrevida, e a conduta é observação com reavaliação periódica. SUV de 6 também afasta transformação, que pede biópsia do sítio mais ávido.",
+    "comentarios": {
+      "A": "Errada. Erra as duas metades: manto exigiria CD5+ e ciclina D1+, e mesmo nele o tratamento depende do comportamento clínico.",
+      "B": "Errada. A conduta caberia num manto indolente leucêmico não nodal selecionado, mas a imuno-histoquímica (CD10+, ciclina D1 negativa) não é de manto.",
+      "C": "Errada. É a armadilha: diagnóstico certo, mas estádio IV não indica tratamento no folicular sem critério de carga tumoral.",
+      "D": "Correta. Folicular (CD10+, BCL2+, ciclina D1 negativa) sem nenhum critério GELF: observação vigilante, mesmo com medula infiltrada."
+    },
+    "para_levar": "No linfoma folicular a indicação de tratar vem da carga tumoral (GELF) e dos sintomas, não do estádio: estádio IV assintomático e de baixa carga se observa.",
+    "referencias": "NCCN B-Cell Lymphomas 2025; ESMO 2021 Clinical Practice Guidelines para linfoma folicular; critérios GELF.",
+    "tags": [
+      "Linfomas (CM)"
+    ],
+    "sourceQuestionId": "eda106c4fb54f47",
+    "alvo": "Linfoma por subtipo e o padrão de fazer mais: trata porque o estádio é IV."
   },
-  "para_levar": "Hiperferritinemia com saturação abaixo de 45% não é sobrecarga de ferro: flebotomia não se indica, e se já começou, saturação despencando com anemia manda suspender, mesmo com ferritina alta.",
-  "referencias": "EASL Clinical Practice Guidelines on haemochromatosis 2022; consenso internacional sobre hiperferritinemia metabólica (Valenti et al., Nat Rev Endocrinol 2023); EASL-EASD-EASO 2024 para MASLD.",
-  "tags": [
-   "Hemocromatose (CM)",
-   "Anemia Ferropriva (CM)"
-  ],
-  "sourceQuestionId": "9cecfe66b24fc67",
-  "alvo": "Regra errada fixada (saturação abaixo de 45% não é sobrecarga), vista pelo lado da conduta já em curso que precisa parar."
- },
- {
-  "id": "S2-HEM-03",
-  "simulado": 2,
-  "area": "Hematologia",
-  "titulo": "Doença falciforme com queda da hemoglobina: crise aplásica por parvovírus B19 pelos reticulócitos",
-  "arma": "Rótulo verdadeiro",
-  "comando": "etiologia",
-  "nivel": "difícil",
-  "enunciado": "Homem de 20 anos, com anemia falciforme (HbSS) e hemoglobina basal de 8,2 g/dL, em uso de ácido fólico, procura a emergência por cansaço intenso e tontura há 4 dias. Há 10 dias teve febre baixa, coriza e dor nas pernas, que tratou em casa com dipirona como \"crise leve\". Sem dor óssea atual e sem dor torácica. Exame: FC 118 bpm, PA 100 x 60 mmHg, SpO2 97%, icterícia 1+/4, mucosas muito descoradas, baço não palpável, fígado a 2 cm do rebordo. Exames: Hb 3,9 g/dL, VCM 92 fL, reticulócitos 0,2% (basal de 9%), leucócitos 8.900/mm³, plaquetas 260.000/mm³, LDH 520 U/L, bilirrubina indireta 2,1 mg/dL. A causa mais provável da queda da hemoglobina é:",
-  "alternativas": {
-   "A": "Sequestro esplênico agudo",
-   "B": "Hemólise aumentada pela crise vaso-oclusiva",
-   "C": "Aplasia eritroide por parvovírus B19",
-   "D": "Deficiência aguda de folato"
+  {
+    "id": "S2-HEM-05",
+    "simulado": 2,
+    "area": "Hematologia",
+    "titulo": "Esferocitose hereditária no adulto jovem: Coombs direto negativo separa da anemia hemolítica autoimune",
+    "arma": "Negativo no meio",
+    "comando": "diagnóstico",
+    "nivel": "média",
+    "enunciado": "Homem de 23 anos é avaliado no pré-operatório de colecistectomia por colelitíase sintomática. Refere \"olhos amarelados\" em episódios desde a infância, que pioram nas gripes. A mãe foi esplenectomizada na juventude, por motivo que ele desconhece. Usa apenas dipirona eventual. Exame: icterícia 1+/4, baço palpável a 3 cm do rebordo costal. Exames: Hb 11,2 g/dL, VCM 84 fL, CHCM 37,8 g/dL (VR 32 a 36), RDW 17%, reticulócitos 8%, LDH 410 U/L, bilirrubina indireta 3,1 mg/dL, haptoglobina 12 mg/dL (baixa), teste de Coombs direto negativo, dosagem de G6PD normal. Esfregaço: microesferócitos frequentes, sem esquizócitos. O diagnóstico mais provável é:",
+    "alternativas": {
+      "A": "Deficiência de piruvato quinase",
+      "B": "Anemia hemolítica autoimune quente",
+      "C": "Síndrome de Gilbert com colelitíase",
+      "D": "Esferocitose hereditária"
+    },
+    "gabarito": "D",
+    "armadilha": "B",
+    "dado_decisivo": "teste de Coombs direto negativo",
+    "resolucao": "Esferócitos com hemólise extravascular puxam para anemia hemolítica autoimune quente, que é a causa adquirida mais comum de esferocitose no adulto. O negativo no meio dos exames decide: Coombs direto negativo. Somam-se hemólise desde a infância, colelitíase pigmentar aos 23 anos, mãe esplenectomizada e CHCM alto, que reflete a desidratação da hemácia esférica e é o índice hematimétrico que mais aponta esferocitose. A confirmação é feita pelo teste de ligação da eosina-5-maleimida (EMA) por citometria ou pela fragilidade osmótica, e a indicação de esplenectomia junto com a colecistectomia depende da gravidade. A deficiência de piruvato quinase não forma esferócitos, e Gilbert não tem reticulocitose nem haptoglobina baixa.",
+    "comentarios": {
+      "A": "Errada. Seria a resposta em hemólise hereditária com Coombs negativo e esfregaço sem esferócitos, com hemácias espiculadas; CHCM alto não combina.",
+      "B": "Errada. É a armadilha: a AHAI quente forma esferócitos, mas teria Coombs direto positivo (IgG) e não explicaria hemólise desde a infância com mãe esplenectomizada.",
+      "C": "Errada. Gilbert eleva bilirrubina indireta sem hemólise; reticulócitos de 8% e haptoglobina baixa provam hemólise.",
+      "D": "Correta. Hemólise crônica com esferócitos, CHCM alto, história familiar e Coombs direto negativo é esferocitose hereditária."
+    },
+    "para_levar": "Esferócitos aparecem na esferocitose hereditária e na AHAI quente: o Coombs direto separa, e CHCM alto com história familiar fecha esferocitose (confirmar com EMA).",
+    "referencias": "BSH guidelines for the diagnosis and management of hereditary spherocytosis, atualização 2011 (Bolton-Maggs et al., Br J Haematol 2012); ICSH 2015 para diagnóstico laboratorial dos distúrbios de membrana eritrocitária (King et al.).",
+    "tags": [
+      "Esferocitose Hereditárias (CM)",
+      "Anemias Hemolíticas Hereditárias (CM)"
+    ],
+    "sourceQuestionId": "35a9f82268e8557",
+    "alvo": "Exame que decide lido como enfeite (Coombs negativo, CHCM) diante do rótulo esferócitos igual a AHAI."
   },
-  "gabarito": "C",
-  "armadilha": "B",
-  "dado_decisivo": "reticulócitos 0,2% (basal de 9%)",
-  "resolucao": "O rótulo verdadeiro é a doença falciforme com uma \"crise\" recente e icterícia, que puxa para mais hemólise como explicação da anemia. Só que hemólise aumentada vem com reticulocitose acima da basal, LDH subindo e bilirrubina subindo, e aqui os reticulócitos caíram de 9% para 0,2%, a LDH está mais baixa que o esperado para um falciforme e a icterícia é discreta. Medula que parou de produzir hemácias, numa doença em que a hemácia vive 10 a 20 dias, derruba a hemoglobina em dias: é a crise aplásica, quase sempre por parvovírus B19, que infecta o progenitor eritroide, e o pródromo viral de 10 dias atrás é a pista. Sequestro exige baço crescendo, e no adulto HbSS o baço já sofreu autoesplenectomia. A conduta é transfusão e precaução respiratória, e a recuperação dos reticulócitos marca o fim da crise.",
-  "comentarios": {
-   "A": "Errada. Seria a resposta em criança ou em hemoglobinopatia SC com baço aumentando rápido e reticulocitose; aqui o baço não é palpável e os reticulócitos caíram.",
-   "B": "Errada. É a armadilha: hemólise maior teria reticulócitos acima de 9% e LDH alta; reticulócitos de 0,2% indicam falha de produção.",
-   "C": "Correta. Hb muito abaixo da basal com reticulócitos quase zerados após pródromo viral é crise aplásica por parvovírus B19.",
-   "D": "Errada. Ele usa ácido fólico, o VCM é 92 e a carência de folato daria megaloblastose com LDH muito alta, não queda tão abrupta."
+  {
+    "id": "S2-HEM-06",
+    "simulado": 2,
+    "area": "Hematologia",
+    "titulo": "Hematoma subdural com craniotomia de urgência em plaquetopenia de quimioterapia: alvo de 100.000 plaquetas",
+    "arma": "Limiar",
+    "comando": "conduta",
+    "nivel": "difícil",
+    "enunciado": "Homem de 68 anos, em quimioterapia com carboplatina e etoposídeo por carcinoma de pulmão de pequenas células, está no 12º dia do ciclo. Caiu da própria altura há 6 horas e evolui com sonolência e hemiparesia esquerda. Não usa antiagregantes nem anticoagulantes. Exame: Glasgow 12, pupilas isocóricas, PA 150 x 86 mmHg. Tomografia: hematoma subdural agudo frontoparietal direito com 14 mm de espessura e desvio da linha média de 8 mm; a neurocirurgia indica craniotomia de urgência. Exames: Hb 10,1 g/dL, leucócitos 2.400/mm³, plaquetas 64.000/mm³, INR 1,1, TTPa 31 s (controle 30 s), fibrinogênio 310 mg/dL. Em relação à hemostasia, a conduta mais adequada antes da cirurgia é:",
+    "alternativas": {
+      "A": "Operar sem transfusão",
+      "B": "Plaquetas até acima de 100.000",
+      "C": "Plasma fresco congelado antes",
+      "D": "Desmopressina antes da incisão"
+    },
+    "gabarito": "B",
+    "armadilha": "A",
+    "dado_decisivo": "a neurocirurgia indica craniotomia de urgência",
+    "resolucao": "O número de 64.000 plaquetas está acima de 50.000, o limiar que o candidato memoriza para cirurgia de grande porte, e o apressado libera a operação sem transfusão. O limiar, porém, depende do sítio: em neurocirurgia e cirurgia do segmento posterior do olho, onde um sangramento pequeno é catastrófico e não comprimível, as diretrizes indicam manter plaquetas acima de 100.000/mm³. O dado que decide é o procedimento, uma craniotomia de urgência, num paciente cuja plaquetopenia é de produção (nadir da quimioterapia), situação em que a transfusão rende bem. O coagulograma e o fibrinogênio estão normais, então plasma não tem indicação, e a desmopressina serve para von Willebrand, hemofilia A leve e disfunção plaquetária urêmica, não para plaquetopenia. É o contraponto da regra de não transfundir: o limiar sobe quando o sítio exige.",
+    "comentarios": {
+      "A": "Errada. É a armadilha: 64.000 bastaria para cirurgia de grande porte fora do sistema nervoso central; em craniotomia o alvo é acima de 100.000.",
+      "B": "Correta. Neurocirurgia exige plaquetas acima de 100.000/mm³; com plaquetopenia de produção, transfunde-se antes e confere a contagem.",
+      "C": "Errada. Plasma corrige deficiência de fatores, e INR, TTPa e fibrinogênio estão normais.",
+      "D": "Errada. A desmopressina libera fator de von Willebrand e ajuda na uremia e na hemofilia A leve, mas não corrige plaquetopenia."
+    },
+    "para_levar": "Limiar de plaquetas por procedimento: acima de 50.000 para cirurgia de grande porte e acima de 100.000 para neurocirurgia e cirurgia ocular posterior.",
+    "referencias": "BSH 2017 guidelines for the use of platelet transfusions (Estcourt et al.); Ministério da Saúde, Guia para uso de hemocomponentes (2ª edição, 2015).",
+    "tags": [
+      "Hemoterapia (CM)"
+    ],
+    "sourceQuestionId": "0fe0925cbd68c55",
+    "alvo": "Hemoterapia 45%: limiar de plaquetas por procedimento, e o limiar decorado aplicado sem checar o sítio."
   },
-  "para_levar": "Na doença falciforme, hemoglobina despencando com reticulócitos baixos é crise aplásica (parvovírus B19); hemólise e sequestro cursam com reticulocitose.",
-  "referencias": "ASH 2020 guidelines for sickle cell disease; Ministério da Saúde, Doença falciforme: condutas básicas para tratamento (2012) e PCDT Doença Falciforme (2018).",
-  "tags": [
-   "Anemia Falciforme (CM)",
-   "Anemias Hemolíticas Hereditárias (CM)"
-  ],
-  "sourceQuestionId": "b57a6f177470a28",
-  "alvo": "Lê o rótulo (falciforme em crise) e ignora o número que decide (reticulócitos)."
- },
- {
-  "id": "S2-HEM-04",
-  "simulado": 2,
-  "area": "Hematologia",
-  "titulo": "Linfoma folicular de baixa carga tumoral em estádio IV: observação vigilante",
-  "arma": "Grade X / Y",
-  "comando": "diagnóstico",
-  "nivel": "extremamente difícil",
-  "enunciado": "Mulher de 58 anos procura o clínico por \"ínguas\" no pescoço e na virilha percebidas há 1 ano, sem crescimento desde então. Nega febre, sudorese noturna e perda de peso. Exame: linfonodos cervicais e inguinais bilaterais de 1,5 a 2,5 cm, fibroelásticos e indolores; baço não palpável. Exames: Hb 13,1 g/dL, leucócitos 6.400/mm³, plaquetas 210.000/mm³, LDH 190 U/L (VR até 250), beta-2-microglobulina normal. Biópsia excisional de linfonodo inguinal: proliferação nodular de células B pequenas clivadas, CD20+, CD10+, BCL2+, CD5 negativo, ciclina D1 negativa, Ki-67 de 10%. PET-CT: linfonodos cervicais, axilares, mediastinais e ilíacos, apenas um acima de 3 cm (o maior com 3,2 cm), SUV máximo de 6. Biópsia de medula óssea com infiltração paratrabecular de 15%. O diagnóstico e a conduta são, respectivamente:",
-  "alternativas": {
-   "A": "Linfoma do manto / R-quimioterapia",
-   "B": "Linfoma do manto / observação vigilante",
-   "C": "Linfoma folicular / R-quimioterapia",
-   "D": "Linfoma folicular / observação vigilante"
+  {
+    "id": "S2-HEM-07",
+    "simulado": 2,
+    "area": "Hematologia",
+    "titulo": "Linfoma de Hodgkin clássico em contato de tuberculose: a imuno-histoquímica decide",
+    "arma": "Rótulo verdadeiro",
+    "comando": "diagnóstico",
+    "nivel": "difícil",
+    "enunciado": "Homem de 26 anos, cujo irmão completou tratamento de tuberculose pulmonar há 1 ano, procura atendimento por febre vespertina, sudorese noturna e perda de 6 kg há 3 meses, com \"caroço\" no pescoço há 2 meses. Exame: T 37,8 °C, linfonodos supraclaviculares esquerdos coalescentes de 4 cm, indolores, sem fistulização. Radiografia de tórax: alargamento do mediastino anterior, sem lesão parenquimatosa. PPD de 14 mm. Hemograma: Hb 11,4 g/dL, leucócitos 12.800/mm³ com 11% de eosinófilos, linfócitos 700/mm³, plaquetas 450.000/mm³. VHS 88 mm/h. Biópsia excisional: granulomas epitelioides sem necrose caseosa, entremeados a nódulos separados por faixas de colágeno com células grandes binucleadas CD30+ e CD15+, CD20 e CD45 negativas, em fundo de eosinófilos e linfócitos reativos; pesquisa de BAAR e teste molecular para M. tuberculosis negativos. O diagnóstico é:",
+    "alternativas": {
+      "A": "Tuberculose ganglionar",
+      "B": "Linfoma primário do mediastino de células B",
+      "C": "Linfoma de Hodgkin clássico",
+      "D": "Linfoma T periférico"
+    },
+    "gabarito": "C",
+    "armadilha": "A",
+    "dado_decisivo": "CD30+ e CD15+, CD20 e CD45 negativas",
+    "resolucao": "O rótulo verdadeiro é a tuberculose: contato domiciliar, PPD de 14 mm, febre vespertina, sudorese, emagrecimento, linfonodo supraclavicular coalescente e, na biópsia, granulomas epitelioides. O PPD, porém, só prova infecção, os granulomas não têm necrose caseosa e BAAR e teste molecular são negativos; granulomas sem caseificação são reação comum ao Hodgkin e não fecham tuberculose. O que decide é a imuno-histoquímica: célula grande binucleada CD30+ e CD15+, com CD20 e CD45 negativos, num fundo rico em eosinófilos e com faixas de colágeno, é a célula de Reed-Sternberg do Hodgkin clássico, subtipo esclerose nodular, o mais comum em jovens com massa mediastinal. Eosinofilia, linfopenia e VHS alta reforçam. O linfoma primário do mediastino também é de jovem e pode expressar CD30, mas é CD20+ e CD45+, e o T periférico seria CD3+.",
+    "comentarios": {
+      "A": "Errada. É a armadilha: contato, PPD e granulomas são verdadeiros, mas granuloma sem caseificação, BAAR e teste molecular negativos e células CD30+ CD15+ não são tuberculose.",
+      "B": "Errada. Seria a resposta em adulto jovem com massa mediastinal volumosa e células B CD20+ e CD45+, às vezes com CD30 fraco; aqui CD20 e CD45 são negativos.",
+      "C": "Correta. Célula binucleada CD30+ CD15+ com CD20 e CD45 negativos em fundo reativo com faixas de colágeno é Hodgkin clássico esclerose nodular; os granulomas são reação ao linfoma.",
+      "D": "Errada. O T periférico também cursa com eosinofilia e sintomas B, mas as células neoplásicas seriam CD3+ e CD45+, sem o fenótipo de Reed-Sternberg."
+    },
+    "para_levar": "Hodgkin clássico é CD30+ CD15+ com CD20 e CD45 negativos e pode vir com granulomas sem caseificação; PPD positivo prova infecção latente, não a causa da massa.",
+    "referencias": "Classificação OMS 2022 (5ª edição) das neoplasias linfoides; NCCN Hodgkin Lymphoma 2025.",
+    "tags": [
+      "Linfomas (CM)"
+    ],
+    "sourceQuestionId": null,
+    "alvo": "Linfoma por subtipo com rótulo verdadeiro (tuberculose) competindo com a imunofenotipagem."
   },
-  "gabarito": "D",
-  "armadilha": "C",
-  "dado_decisivo": "apenas um acima de 3 cm (o maior com 3,2 cm)",
-  "resolucao": "A primeira metade se decide pela imuno-histoquímica: CD10+ e BCL2+ com CD5 e ciclina D1 negativos, padrão nodular e Ki-67 baixo é linfoma folicular de baixo grau; o manto seria CD5+ e ciclina D1+. A segunda metade é onde o rótulo engana: a medula infiltrada coloca a doente em estádio IV, e estádio IV soa como indicação de quimioterapia. No folicular, porém, quem indica tratamento é a carga tumoral (critérios GELF), não o estádio: massa de 7 cm ou mais, três ou mais sítios nodais acima de 3 cm, sintomas B, esplenomegalia, citopenias, fase leucêmica, derrames ou compressão de órgão (e, pela NCCN, também progressão contínua ou doença volumosa). Ela não tem nenhum: só um linfonodo passa de 3 cm, os exames estão normais e a doença não cresce há 1 ano. Ensaios randomizados mostram que tratar o folicular assintomático de baixa carga não aumenta a sobrevida, e a conduta é observação com reavaliação periódica. SUV de 6 também afasta transformação, que pede biópsia do sítio mais ávido.",
-  "comentarios": {
-   "A": "Errada. Erra as duas metades: manto exigiria CD5+ e ciclina D1+, e mesmo nele o tratamento depende do comportamento clínico.",
-   "B": "Errada. A conduta caberia num manto indolente leucêmico não nodal selecionado, mas a imuno-histoquímica (CD10+, ciclina D1 negativa) não é de manto.",
-   "C": "Errada. É a armadilha: diagnóstico certo, mas estádio IV não indica tratamento no folicular sem critério de carga tumoral.",
-   "D": "Correta. Folicular (CD10+, BCL2+, ciclina D1 negativa) sem nenhum critério GELF: observação vigilante, mesmo com medula infiltrada."
+  {
+    "id": "S2-HEM-08",
+    "simulado": 2,
+    "area": "Hematologia",
+    "titulo": "Leucemia promielocítica aguda com coagulopatia: ATRA na suspeita, antes da confirmação molecular",
+    "arma": "Cronologia",
+    "comando": "conduta",
+    "nivel": "difícil",
+    "enunciado": "Mulher de 34 anos, previamente hígida, é admitida com gengivorragia e equimoses extensas há 3 dias. Exame: PA 118 x 74 mmHg, FC 104 bpm, equimoses em tronco e membros, sem esplenomegalia. Exames: Hb 7,8 g/dL, leucócitos 1.900/mm³, plaquetas 18.000/mm³, INR 1,7, TTPa 38 s (controle 30 s), fibrinogênio 85 mg/dL, D-dímero muito elevado. Esfregaço de sangue periférico: células imaturas com granulação grosseira, núcleo bilobulado e múltiplos bastonetes de Auer em feixes. Foi coletado sangue para RT-PCR de PML-RARA e cariótipo, com resultado previsto em 72 horas; o mielograma está agendado para amanhã. Além de crioprecipitado e transfusão de plaquetas, a conduta mais adequada neste momento é:",
+    "alternativas": {
+      "A": "Iniciar ácido all-trans retinoico já",
+      "B": "Aguardar o PML-RARA para iniciar ATRA",
+      "C": "Iniciar ATRA após o mielograma",
+      "D": "Indução com citarabina e antraciclina"
+    },
+    "gabarito": "A",
+    "armadilha": "C",
+    "dado_decisivo": "múltiplos bastonetes de Auer em feixes",
+    "resolucao": "O raciocínio de manual é confirmar antes de tratar: o mielograma de amanhã e o PML-RARA em 72 horas parecem a ordem natural, e esperar só até o mielograma soa prudente. O que decide é a morfologia já disponível no sangue periférico: promielócitos hipergranulares com bastonetes de Auer em feixes, junto de fibrinogênio de 85 e D-dímero muito alto, é suspeita de leucemia promielocítica com coagulopatia, e a principal causa de morte na LPA é hemorragia nos primeiros dias, pela coagulopatia de consumo e hiperfibrinólise. Por isso a suspeita obriga o ácido all-trans retinoico na hora, sem esperar mielograma nem genética: ele diferencia os promielócitos e corrige a coagulopatia em dias, e se a confirmação vier negativa o ATRA é suspenso sem prejuízo. O suporte mira fibrinogênio acima de 100 a 150 mg/dL e plaquetas acima de 30.000 a 50.000/mm³. Com leucócitos abaixo de 10.000, é LPA de baixo risco, tratada com ATRA e trióxido de arsênio.",
+    "comentarios": {
+      "A": "Correta. Suspeita morfológica de LPA com coagulopatia: ATRA imediato, sem esperar a confirmação, porque a mortalidade hemorrágica precoce se concentra nos primeiros dias.",
+      "B": "Errada. Esperar 72 horas pela biologia molecular deixa a coagulopatia ativa no período de maior risco de hemorragia fatal; a confirmação define o esquema depois, não o início do ATRA.",
+      "C": "Errada. É a armadilha: parece prudente esperar só um dia, mas o mielograma não é condição para o ATRA; a suspeita no sangue periférico com coagulopatia já o indica, e o primeiro dia é o de maior risco de hemorragia fatal.",
+      "D": "Errada. Seria a indução de uma LMA não promielocítica; na LPA a base é ATRA com arsênio, e quimioterapia sem ATRA piora a coagulopatia."
+    },
+    "para_levar": "Suspeita de LPA (promielócitos com bastonetes de Auer em feixes e coagulopatia) indica ATRA na hora, antes do mielograma e do PML-RARA, com suporte de fibrinogênio e plaquetas.",
+    "referencias": "ELN 2019 recomendações para LPA (Sanz et al., Blood 2019); NCCN Acute Myeloid Leukemia 2025.",
+    "tags": [
+      "LMA (CM)",
+      "Coagulação Intravascular Disseminada (CIVD) (CM)"
+    ],
+    "sourceQuestionId": "526f391c2632222",
+    "alvo": "Ordem da conduta: espera a confirmação quando o tempo é a decisão."
   },
-  "para_levar": "No linfoma folicular a indicação de tratar vem da carga tumoral (GELF) e dos sintomas, não do estádio: estádio IV assintomático e de baixa carga se observa.",
-  "referencias": "NCCN B-Cell Lymphomas 2025; ESMO 2021 Clinical Practice Guidelines para linfoma folicular; critérios GELF.",
-  "tags": [
-   "Linfomas (CM)"
-  ],
-  "sourceQuestionId": "eda106c4fb54f47",
-  "alvo": "Linfoma por subtipo e o padrão de fazer mais: trata porque o estádio é IV."
- },
- {
-  "id": "S2-HEM-05",
-  "simulado": 2,
-  "area": "Hematologia",
-  "titulo": "Esferocitose hereditária no adulto jovem: Coombs direto negativo separa da anemia hemolítica autoimune",
-  "arma": "Negativo no meio",
-  "comando": "diagnóstico",
-  "nivel": "média",
-  "enunciado": "Homem de 23 anos é avaliado no pré-operatório de colecistectomia por colelitíase sintomática. Refere \"olhos amarelados\" em episódios desde a infância, que pioram nas gripes. A mãe foi esplenectomizada na juventude, por motivo que ele desconhece. Usa apenas dipirona eventual. Exame: icterícia 1+/4, baço palpável a 3 cm do rebordo costal. Exames: Hb 11,2 g/dL, VCM 84 fL, CHCM 37,8 g/dL (VR 32 a 36), RDW 17%, reticulócitos 8%, LDH 410 U/L, bilirrubina indireta 3,1 mg/dL, haptoglobina 12 mg/dL (baixa), teste de Coombs direto negativo, dosagem de G6PD normal. Esfregaço: microesferócitos frequentes, sem esquizócitos. O diagnóstico mais provável é:",
-  "alternativas": {
-   "A": "Deficiência de piruvato quinase",
-   "B": "Anemia hemolítica autoimune quente",
-   "C": "Síndrome de Gilbert com colelitíase",
-   "D": "Esferocitose hereditária"
-  },
-  "gabarito": "D",
-  "armadilha": "B",
-  "dado_decisivo": "teste de Coombs direto negativo",
-  "resolucao": "Esferócitos com hemólise extravascular puxam para anemia hemolítica autoimune quente, que é a causa adquirida mais comum de esferocitose no adulto. O negativo no meio dos exames decide: Coombs direto negativo. Somam-se hemólise desde a infância, colelitíase pigmentar aos 23 anos, mãe esplenectomizada e CHCM alto, que reflete a desidratação da hemácia esférica e é o índice hematimétrico que mais aponta esferocitose. A confirmação é feita pelo teste de ligação da eosina-5-maleimida (EMA) por citometria ou pela fragilidade osmótica, e a indicação de esplenectomia junto com a colecistectomia depende da gravidade. A deficiência de piruvato quinase não forma esferócitos, e Gilbert não tem reticulocitose nem haptoglobina baixa.",
-  "comentarios": {
-   "A": "Errada. Seria a resposta em hemólise hereditária com Coombs negativo e esfregaço sem esferócitos, com hemácias espiculadas; CHCM alto não combina.",
-   "B": "Errada. É a armadilha: a AHAI quente forma esferócitos, mas teria Coombs direto positivo (IgG) e não explicaria hemólise desde a infância com mãe esplenectomizada.",
-   "C": "Errada. Gilbert eleva bilirrubina indireta sem hemólise; reticulócitos de 8% e haptoglobina baixa provam hemólise.",
-   "D": "Correta. Hemólise crônica com esferócitos, CHCM alto, história familiar e Coombs direto negativo é esferocitose hereditária."
-  },
-  "para_levar": "Esferócitos aparecem na esferocitose hereditária e na AHAI quente: o Coombs direto separa, e CHCM alto com história familiar fecha esferocitose (confirmar com EMA).",
-  "referencias": "BSH guidelines for the diagnosis and management of hereditary spherocytosis, atualização 2011 (Bolton-Maggs et al., Br J Haematol 2012); ICSH 2015 para diagnóstico laboratorial dos distúrbios de membrana eritrocitária (King et al.).",
-  "tags": [
-   "Esferocitose Hereditárias (CM)",
-   "Anemias Hemolíticas Hereditárias (CM)"
-  ],
-  "sourceQuestionId": "35a9f82268e8557",
-  "alvo": "Exame que decide lido como enfeite (Coombs negativo, CHCM) diante do rótulo esferócitos igual a AHAI."
- },
- {
-  "id": "S2-HEM-06",
-  "simulado": 2,
-  "area": "Hematologia",
-  "titulo": "Hematoma subdural com craniotomia de urgência em plaquetopenia de quimioterapia: alvo de 100.000 plaquetas",
-  "arma": "Limiar",
-  "comando": "conduta",
-  "nivel": "difícil",
-  "enunciado": "Homem de 68 anos, em quimioterapia com carboplatina e etoposídeo por carcinoma de pulmão de pequenas células, está no 12º dia do ciclo. Caiu da própria altura há 6 horas e evolui com sonolência e hemiparesia esquerda. Não usa antiagregantes nem anticoagulantes. Exame: Glasgow 12, pupilas isocóricas, PA 150 x 86 mmHg. Tomografia: hematoma subdural agudo frontoparietal direito com 14 mm de espessura e desvio da linha média de 8 mm; a neurocirurgia indica craniotomia de urgência. Exames: Hb 10,1 g/dL, leucócitos 2.400/mm³, plaquetas 64.000/mm³, INR 1,1, TTPa 31 s (controle 30 s), fibrinogênio 310 mg/dL. Em relação à hemostasia, a conduta mais adequada antes da cirurgia é:",
-  "alternativas": {
-   "A": "Operar sem transfusão",
-   "B": "Plaquetas até acima de 100.000",
-   "C": "Plasma fresco congelado antes",
-   "D": "Desmopressina antes da incisão"
-  },
-  "gabarito": "B",
-  "armadilha": "A",
-  "dado_decisivo": "a neurocirurgia indica craniotomia de urgência",
-  "resolucao": "O número de 64.000 plaquetas está acima de 50.000, o limiar que o candidato memoriza para cirurgia de grande porte, e o apressado libera a operação sem transfusão. O limiar, porém, depende do sítio: em neurocirurgia e cirurgia do segmento posterior do olho, onde um sangramento pequeno é catastrófico e não comprimível, as diretrizes indicam manter plaquetas acima de 100.000/mm³. O dado que decide é o procedimento, uma craniotomia de urgência, num paciente cuja plaquetopenia é de produção (nadir da quimioterapia), situação em que a transfusão rende bem. O coagulograma e o fibrinogênio estão normais, então plasma não tem indicação, e a desmopressina serve para von Willebrand, hemofilia A leve e disfunção plaquetária urêmica, não para plaquetopenia. É o contraponto da regra de não transfundir: o limiar sobe quando o sítio exige.",
-  "comentarios": {
-   "A": "Errada. É a armadilha: 64.000 bastaria para cirurgia de grande porte fora do sistema nervoso central; em craniotomia o alvo é acima de 100.000.",
-   "B": "Correta. Neurocirurgia exige plaquetas acima de 100.000/mm³; com plaquetopenia de produção, transfunde-se antes e confere a contagem.",
-   "C": "Errada. Plasma corrige deficiência de fatores, e INR, TTPa e fibrinogênio estão normais.",
-   "D": "Errada. A desmopressina libera fator de von Willebrand e ajuda na uremia e na hemofilia A leve, mas não corrige plaquetopenia."
-  },
-  "para_levar": "Limiar de plaquetas por procedimento: acima de 50.000 para cirurgia de grande porte e acima de 100.000 para neurocirurgia e cirurgia ocular posterior.",
-  "referencias": "BSH 2017 guidelines for the use of platelet transfusions (Estcourt et al.); Ministério da Saúde, Guia para uso de hemocomponentes (2ª edição, 2015).",
-  "tags": [
-   "Hemoterapia (CM)"
-  ],
-  "sourceQuestionId": "0fe0925cbd68c55",
-  "alvo": "Hemoterapia 45%: limiar de plaquetas por procedimento, e o limiar decorado aplicado sem checar o sítio."
- },
- {
-  "id": "S2-HEM-07",
-  "simulado": 2,
-  "area": "Hematologia",
-  "titulo": "Linfoma de Hodgkin clássico em contato de tuberculose: a imuno-histoquímica decide",
-  "arma": "Rótulo verdadeiro",
-  "comando": "diagnóstico",
-  "nivel": "difícil",
-  "enunciado": "Homem de 26 anos, cujo irmão completou tratamento de tuberculose pulmonar há 1 ano, procura atendimento por febre vespertina, sudorese noturna e perda de 6 kg há 3 meses, com \"caroço\" no pescoço há 2 meses. Exame: T 37,8 °C, linfonodos supraclaviculares esquerdos coalescentes de 4 cm, indolores, sem fistulização. Radiografia de tórax: alargamento do mediastino anterior, sem lesão parenquimatosa. PPD de 14 mm. Hemograma: Hb 11,4 g/dL, leucócitos 12.800/mm³ com 11% de eosinófilos, linfócitos 700/mm³, plaquetas 450.000/mm³. VHS 88 mm/h. Biópsia excisional: granulomas epitelioides sem necrose caseosa, entremeados a nódulos separados por faixas de colágeno com células grandes binucleadas CD30+ e CD15+, CD20 e CD45 negativas, em fundo de eosinófilos e linfócitos reativos; pesquisa de BAAR e teste molecular para M. tuberculosis negativos. O diagnóstico é:",
-  "alternativas": {
-   "A": "Tuberculose ganglionar",
-   "B": "Linfoma primário do mediastino de células B",
-   "C": "Linfoma de Hodgkin clássico",
-   "D": "Linfoma T periférico"
-  },
-  "gabarito": "C",
-  "armadilha": "A",
-  "dado_decisivo": "CD30+ e CD15+, CD20 e CD45 negativas",
-  "resolucao": "O rótulo verdadeiro é a tuberculose: contato domiciliar, PPD de 14 mm, febre vespertina, sudorese, emagrecimento, linfonodo supraclavicular coalescente e, na biópsia, granulomas epitelioides. O PPD, porém, só prova infecção, os granulomas não têm necrose caseosa e BAAR e teste molecular são negativos; granulomas sem caseificação são reação comum ao Hodgkin e não fecham tuberculose. O que decide é a imuno-histoquímica: célula grande binucleada CD30+ e CD15+, com CD20 e CD45 negativos, num fundo rico em eosinófilos e com faixas de colágeno, é a célula de Reed-Sternberg do Hodgkin clássico, subtipo esclerose nodular, o mais comum em jovens com massa mediastinal. Eosinofilia, linfopenia e VHS alta reforçam. O linfoma primário do mediastino também é de jovem e pode expressar CD30, mas é CD20+ e CD45+, e o T periférico seria CD3+.",
-  "comentarios": {
-   "A": "Errada. É a armadilha: contato, PPD e granulomas são verdadeiros, mas granuloma sem caseificação, BAAR e teste molecular negativos e células CD30+ CD15+ não são tuberculose.",
-   "B": "Errada. Seria a resposta em adulto jovem com massa mediastinal volumosa e células B CD20+ e CD45+, às vezes com CD30 fraco; aqui CD20 e CD45 são negativos.",
-   "C": "Correta. Célula binucleada CD30+ CD15+ com CD20 e CD45 negativos em fundo reativo com faixas de colágeno é Hodgkin clássico esclerose nodular; os granulomas são reação ao linfoma.",
-   "D": "Errada. O T periférico também cursa com eosinofilia e sintomas B, mas as células neoplásicas seriam CD3+ e CD45+, sem o fenótipo de Reed-Sternberg."
-  },
-  "para_levar": "Hodgkin clássico é CD30+ CD15+ com CD20 e CD45 negativos e pode vir com granulomas sem caseificação; PPD positivo prova infecção latente, não a causa da massa.",
-  "referencias": "Classificação OMS 2022 (5ª edição) das neoplasias linfoides; NCCN Hodgkin Lymphoma 2025.",
-  "tags": [
-   "Linfomas (CM)"
-  ],
-  "sourceQuestionId": null,
-  "alvo": "Linfoma por subtipo com rótulo verdadeiro (tuberculose) competindo com a imunofenotipagem."
- },
- {
-  "id": "S2-HEM-08",
-  "simulado": 2,
-  "area": "Hematologia",
-  "titulo": "Leucemia promielocítica aguda com coagulopatia: ATRA na suspeita, antes da confirmação molecular",
-  "arma": "Cronologia",
-  "comando": "conduta",
-  "nivel": "difícil",
-  "enunciado": "Mulher de 34 anos, previamente hígida, é admitida com gengivorragia e equimoses extensas há 3 dias. Exame: PA 118 x 74 mmHg, FC 104 bpm, equimoses em tronco e membros, sem esplenomegalia. Exames: Hb 7,8 g/dL, leucócitos 1.900/mm³, plaquetas 18.000/mm³, INR 1,7, TTPa 38 s (controle 30 s), fibrinogênio 85 mg/dL, D-dímero muito elevado. Esfregaço de sangue periférico: células imaturas com granulação grosseira, núcleo bilobulado e múltiplos bastonetes de Auer em feixes. Foi coletado sangue para RT-PCR de PML-RARA e cariótipo, com resultado previsto em 72 horas; o mielograma está agendado para amanhã. Além de crioprecipitado e transfusão de plaquetas, a conduta mais adequada neste momento é:",
-  "alternativas": {
-   "A": "Iniciar ácido all-trans retinoico já",
-   "B": "Aguardar o PML-RARA para iniciar ATRA",
-   "C": "Iniciar ATRA após o mielograma",
-   "D": "Indução com citarabina e antraciclina"
-  },
-  "gabarito": "A",
-  "armadilha": "C",
-  "dado_decisivo": "múltiplos bastonetes de Auer em feixes",
-  "resolucao": "O raciocínio de manual é confirmar antes de tratar: o mielograma de amanhã e o PML-RARA em 72 horas parecem a ordem natural, e esperar só até o mielograma soa prudente. O que decide é a morfologia já disponível no sangue periférico: promielócitos hipergranulares com bastonetes de Auer em feixes, junto de fibrinogênio de 85 e D-dímero muito alto, é suspeita de leucemia promielocítica com coagulopatia, e a principal causa de morte na LPA é hemorragia nos primeiros dias, pela coagulopatia de consumo e hiperfibrinólise. Por isso a suspeita obriga o ácido all-trans retinoico na hora, sem esperar mielograma nem genética: ele diferencia os promielócitos e corrige a coagulopatia em dias, e se a confirmação vier negativa o ATRA é suspenso sem prejuízo. O suporte mira fibrinogênio acima de 100 a 150 mg/dL e plaquetas acima de 30.000 a 50.000/mm³. Com leucócitos abaixo de 10.000, é LPA de baixo risco, tratada com ATRA e trióxido de arsênio.",
-  "comentarios": {
-   "A": "Correta. Suspeita morfológica de LPA com coagulopatia: ATRA imediato, sem esperar a confirmação, porque a mortalidade hemorrágica precoce se concentra nos primeiros dias.",
-   "B": "Errada. Esperar 72 horas pela biologia molecular deixa a coagulopatia ativa no período de maior risco de hemorragia fatal; a confirmação define o esquema depois, não o início do ATRA.",
-   "C": "Errada. É a armadilha: parece prudente esperar só um dia, mas o mielograma não é condição para o ATRA; a suspeita no sangue periférico com coagulopatia já o indica, e o primeiro dia é o de maior risco de hemorragia fatal.",
-   "D": "Errada. Seria a indução de uma LMA não promielocítica; na LPA a base é ATRA com arsênio, e quimioterapia sem ATRA piora a coagulopatia."
-  },
-  "para_levar": "Suspeita de LPA (promielócitos com bastonetes de Auer em feixes e coagulopatia) indica ATRA na hora, antes do mielograma e do PML-RARA, com suporte de fibrinogênio e plaquetas.",
-  "referencias": "ELN 2019 recomendações para LPA (Sanz et al., Blood 2019); NCCN Acute Myeloid Leukemia 2025.",
-  "tags": [
-   "LMA (CM)",
-   "Coagulação Intravascular Disseminada (CIVD) (CM)"
-  ],
-  "sourceQuestionId": "526f391c2632222",
-  "alvo": "Ordem da conduta: espera a confirmação quando o tempo é a decisão."
- },
- {
-  "id": "S2-HEM-09",
-  "simulado": 2,
-  "area": "Hematologia",
-  "titulo": "Hemocomponente após fludarabina: irradiar, e o filtro de leucócitos não substitui a irradiação",
-  "arma": "Grade X / Y",
-  "comando": "fato solto",
-  "nivel": "difícil",
-  "enunciado": "Homem de 71 anos, com leucemia linfocítica crônica tratada há 8 meses com esquema que incluiu fludarabina, vai receber concentrado de hemácias por anemia sintomática. Não tem antecedente de reação transfusional nem deficiência de IgA. No hemocentro, todos os concentrados de hemácias já são desleucocitados por filtração. Quanto à irradiação e à lavagem do hemocomponente, respectivamente:",
-  "alternativas": {
-   "A": "Indicada / indicada",
-   "B": "Indicada / dispensável",
-   "C": "Dispensável / indicada",
-   "D": "Dispensável / dispensável"
-  },
-  "gabarito": "B",
-  "armadilha": "D",
-  "dado_decisivo": "esquema que incluiu fludarabina",
-  "resolucao": "O hemocomponente já desleucocitado é o que faz o apressado dispensar tudo: a crença é que o filtro de leucócitos previne a doença do enxerto contra o hospedeiro transfusional. Os filtros, porém, deixam linfócitos T viáveis em número suficiente para causá-la, e só a irradiação (25 Gy) os inativa. Os análogos de purina (fludarabina, cladribina, pentostatina) e a bendamustina causam linfopenia T profunda e duradoura, e a diretriz britânica indica componentes irradiados por tempo indeterminado após o uso deles. A doença do enxerto contra o hospedeiro transfusional é quase sempre fatal, por isso a irradiação não se dispensa. A lavagem, que remove o plasma, é para reação alérgica grave de repetição ou deficiência de IgA com anafilaxia, e não acrescenta nada aqui: indicá-la seria fazer a mais.",
-  "comentarios": {
-   "A": "Errada. A irradiação está certa, mas a lavagem é para anafilaxia ou deficiência de IgA, que ele não tem; seria procedimento a mais.",
-   "B": "Correta. Após análogo de purina, irradiar (prevenção de DECH transfusional, por tempo indeterminado); lavar não tem indicação.",
-   "C": "Errada. Erra as duas metades: lavagem não remove linfócitos T de modo confiável nem tem indicação aqui, e sem irradiação o risco de DECH persiste.",
-   "D": "Errada. É a armadilha: a desleucocitação por filtro não previne DECH transfusional, e quem usou fludarabina precisa de componente irradiado."
-  },
-  "para_levar": "Fludarabina, cladribina, bendamustina, transplante de células-tronco e linfoma de Hodgkin pedem componente irradiado; desleucocitar não substitui irradiar, e lavar é para anafilaxia e deficiência de IgA.",
-  "referencias": "BSH 2020 guidelines on the use of irradiated blood components (Foukaneli et al.); Ministério da Saúde, Guia para uso de hemocomponentes (2ª edição, 2015).",
-  "tags": [
-   "Hemoterapia (CM)"
-  ],
-  "sourceQuestionId": "035675d4e12cf08",
-  "alvo": "Hemoterapia 45%: ele trocou irradiação por filtração no imunossuprimido."
- }
+  {
+    "id": "S2-HEM-09",
+    "simulado": 2,
+    "area": "Hematologia",
+    "titulo": "Hemocomponente após fludarabina: irradiar, e o filtro de leucócitos não substitui a irradiação",
+    "arma": "Grade X / Y",
+    "comando": "fato solto",
+    "nivel": "difícil",
+    "enunciado": "Homem de 71 anos, com leucemia linfocítica crônica tratada há 8 meses com esquema que incluiu fludarabina, vai receber concentrado de hemácias por anemia sintomática. Não tem antecedente de reação transfusional nem deficiência de IgA. No hemocentro, todos os concentrados de hemácias já são desleucocitados por filtração. Quanto à irradiação e à lavagem do hemocomponente, respectivamente:",
+    "alternativas": {
+      "A": "Indicada / indicada",
+      "B": "Indicada / dispensável",
+      "C": "Dispensável / indicada",
+      "D": "Dispensável / dispensável"
+    },
+    "gabarito": "B",
+    "armadilha": "D",
+    "dado_decisivo": "esquema que incluiu fludarabina",
+    "resolucao": "O hemocomponente já desleucocitado é o que faz o apressado dispensar tudo: a crença é que o filtro de leucócitos previne a doença do enxerto contra o hospedeiro transfusional. Os filtros, porém, deixam linfócitos T viáveis em número suficiente para causá-la, e só a irradiação (25 Gy) os inativa. Os análogos de purina (fludarabina, cladribina, pentostatina) e a bendamustina causam linfopenia T profunda e duradoura, e a diretriz britânica indica componentes irradiados por tempo indeterminado após o uso deles. A doença do enxerto contra o hospedeiro transfusional é quase sempre fatal, por isso a irradiação não se dispensa. A lavagem, que remove o plasma, é para reação alérgica grave de repetição ou deficiência de IgA com anafilaxia, e não acrescenta nada aqui: indicá-la seria fazer a mais.",
+    "comentarios": {
+      "A": "Errada. A irradiação está certa, mas a lavagem é para anafilaxia ou deficiência de IgA, que ele não tem; seria procedimento a mais.",
+      "B": "Correta. Após análogo de purina, irradiar (prevenção de DECH transfusional, por tempo indeterminado); lavar não tem indicação.",
+      "C": "Errada. Erra as duas metades: lavagem não remove linfócitos T de modo confiável nem tem indicação aqui, e sem irradiação o risco de DECH persiste.",
+      "D": "Errada. É a armadilha: a desleucocitação por filtro não previne DECH transfusional, e quem usou fludarabina precisa de componente irradiado."
+    },
+    "para_levar": "Fludarabina, cladribina, bendamustina, transplante de células-tronco e linfoma de Hodgkin pedem componente irradiado; desleucocitar não substitui irradiar, e lavar é para anafilaxia e deficiência de IgA.",
+    "referencias": "BSH 2020 guidelines on the use of irradiated blood components (Foukaneli et al.); Ministério da Saúde, Guia para uso de hemocomponentes (2ª edição, 2015).",
+    "tags": [
+      "Hemoterapia (CM)"
+    ],
+    "sourceQuestionId": "035675d4e12cf08",
+    "alvo": "Hemoterapia 45%: ele trocou irradiação por filtração no imunossuprimido."
+  }
 ]

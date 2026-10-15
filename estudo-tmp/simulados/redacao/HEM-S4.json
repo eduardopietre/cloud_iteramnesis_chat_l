@@ -1,305 +1,305 @@
 [
- {
-  "id": "S4-HEM-01",
-  "simulado": 4,
-  "area": "Hematologia",
-  "titulo": "Hemocromatose com ferritina normal: a saturação de transferrina acima de 45% indica o HFE",
-  "arma": "Limiar",
-  "comando": "próximo exame",
-  "nivel": "difícil",
-  "enunciado": "Homem de 34 anos, sem comorbidades, IMC de 23 kg/m², abstêmio, é encaminhado por ALT discretamente elevada em exame admissional. Está assintomático. Nunca recebeu transfusão e não usa suplementos, anabolizantes nem medicamentos. Exame físico normal, sem hepatomegalia. Ultrassonografia de abdome sem esteatose e sem alterações. Exames em jejum, repetidos com 1 mês de intervalo: saturação de transferrina de 71% e 68% (VR 20 a 50%), ferritina de 380 e 410 ng/mL (VR 30 a 400), ALT 52 U/L, AST 41 U/L, glicemia e hemograma normais. Sorologias para hepatites B e C negativas. O próximo exame mais adequado é:",
-  "alternativas": {
-   "A": "Ressonância hepática com T2*",
-   "B": "Biópsia hepática com coloração de Perls",
-   "C": "Pesquisa da mutação C282Y do HFE",
-   "D": "Repetir o perfil de ferro em 6 meses"
+  {
+    "id": "S4-HEM-01",
+    "simulado": 4,
+    "area": "Hematologia",
+    "titulo": "Hemocromatose com ferritina normal: a saturação de transferrina acima de 45% indica o HFE",
+    "arma": "Limiar",
+    "comando": "próximo exame",
+    "nivel": "difícil",
+    "enunciado": "Homem de 34 anos, sem comorbidades, IMC de 23 kg/m², abstêmio, é encaminhado por ALT discretamente elevada em exame admissional. Está assintomático. Nunca recebeu transfusão e não usa suplementos, anabolizantes nem medicamentos. Exame físico normal, sem hepatomegalia. Ultrassonografia de abdome sem esteatose e sem alterações. Exames em jejum, repetidos com 1 mês de intervalo: saturação de transferrina de 71% e 68% (VR 20 a 50%), ferritina de 380 e 410 ng/mL (VR 30 a 400), ALT 52 U/L, AST 41 U/L, glicemia e hemograma normais. Sorologias para hepatites B e C negativas. O próximo exame mais adequado é:",
+    "alternativas": {
+      "A": "Ressonância hepática com T2*",
+      "B": "Biópsia hepática com coloração de Perls",
+      "C": "Pesquisa da mutação C282Y do HFE",
+      "D": "Repetir o perfil de ferro em 6 meses"
+    },
+    "gabarito": "C",
+    "armadilha": "D",
+    "dado_decisivo": "saturação de transferrina de 71% e 68%",
+    "resolucao": "A ferritina praticamente normal é o que tranquiliza o apressado, que repete o exame mais tarde. Na hemocromatose HFE, porém, a saturação de transferrina sobe primeiro, anos antes de a ferritina acumular, e é ela que define a suspeita: saturação de 45% ou mais em jejum, confirmada, pede genotipagem do HFE, independentemente da ferritina. Ele tem 71% e 68%, sem álcool, sem esteatose, sem hepatite viral e sem transfusão, e a ALT discretamente alta pode ser a primeira expressão da doença. A biópsia e a ressonância ficam para depois: a biópsia, para o homozigoto C282Y com ferritina acima de 1.000 e transaminases altas, em que se avalia fibrose; a ressonância, para quantificar ferro quando o genótipo não explica a sobrecarga. É o espelho da hiperferritinemia metabólica: lá a ferritina engana para cima, aqui engana para baixo, e nos dois casos quem decide é a saturação.",
+    "comentarios": {
+      "A": "Errada. A ressonância quantifica ferro e seria útil se o HFE viesse negativo com sobrecarga suspeita; não é o primeiro passo.",
+      "B": "Errada. A biópsia se reserva ao homozigoto C282Y com ferritina acima de 1.000 e transaminases elevadas, para estadiar fibrose.",
+      "C": "Correta. Saturação de transferrina persistentemente acima de 45% em jejum, sem outra causa, com ALT discretamente alta: genotipagem do HFE, mesmo com ferritina normal.",
+      "D": "Errada. É a armadilha: ferritina normal não afasta hemocromatose inicial; repetir em 6 meses só atrasa o diagnóstico de doença tratável."
+    },
+    "para_levar": "Na hemocromatose a saturação de transferrina sobe antes da ferritina: saturação de 45% ou mais em jejum pede HFE mesmo com ferritina normal; ferritina alta com saturação normal não pede.",
+    "referencias": "EASL Clinical Practice Guidelines on haemochromatosis 2022; ACG Clinical Guideline: Hereditary Hemochromatosis (2019).",
+    "tags": [
+      "Hemocromatose (CM)"
+    ],
+    "sourceQuestionId": "8c3af99bcf329a9",
+    "alvo": "Regra errada fixada sobre ferro, agora no sentido inverso: a saturação manda, não a ferritina."
   },
-  "gabarito": "C",
-  "armadilha": "D",
-  "dado_decisivo": "saturação de transferrina de 71% e 68%",
-  "resolucao": "A ferritina praticamente normal é o que tranquiliza o apressado, que repete o exame mais tarde. Na hemocromatose HFE, porém, a saturação de transferrina sobe primeiro, anos antes de a ferritina acumular, e é ela que define a suspeita: saturação de 45% ou mais em jejum, confirmada, pede genotipagem do HFE, independentemente da ferritina. Ele tem 71% e 68%, sem álcool, sem esteatose, sem hepatite viral e sem transfusão, e a ALT discretamente alta pode ser a primeira expressão da doença. A biópsia e a ressonância ficam para depois: a biópsia, para o homozigoto C282Y com ferritina acima de 1.000 e transaminases altas, em que se avalia fibrose; a ressonância, para quantificar ferro quando o genótipo não explica a sobrecarga. É o espelho da hiperferritinemia metabólica: lá a ferritina engana para cima, aqui engana para baixo, e nos dois casos quem decide é a saturação.",
-  "comentarios": {
-   "A": "Errada. A ressonância quantifica ferro e seria útil se o HFE viesse negativo com sobrecarga suspeita; não é o primeiro passo.",
-   "B": "Errada. A biópsia se reserva ao homozigoto C282Y com ferritina acima de 1.000 e transaminases elevadas, para estadiar fibrose.",
-   "C": "Correta. Saturação de transferrina persistentemente acima de 45% em jejum, sem outra causa, com ALT discretamente alta: genotipagem do HFE, mesmo com ferritina normal.",
-   "D": "Errada. É a armadilha: ferritina normal não afasta hemocromatose inicial; repetir em 6 meses só atrasa o diagnóstico de doença tratável."
+  {
+    "id": "S4-HEM-02",
+    "simulado": 4,
+    "area": "Hematologia",
+    "titulo": "Gamopatia monoclonal de significado indeterminado de baixo risco: sem medula e sem imagem",
+    "arma": "Omissão",
+    "comando": "conduta",
+    "nivel": "difícil",
+    "enunciado": "Homem de 66 anos, hipertenso, fez eletroforese de proteínas solicitada por \"proteínas totais um pouco altas\" num check-up. Está assintomático, sem dor óssea, neuropatia, edema ou infecções de repetição. Exames: pico monoclonal de 0,8 g/dL na fração gama, imunofixação IgG kappa, razão de cadeias leves livres kappa/lambda de 1,4 (VR 0,26 a 1,65), Hb 14,2 g/dL, creatinina 0,9 mg/dL, cálcio 9,4 mg/dL, albumina 4,2 g/dL e proteinúria ausente. A conduta mais adequada neste momento é:",
+    "alternativas": {
+      "A": "Biópsia de gordura abdominal",
+      "B": "Eletroforese e hemograma em 6 meses",
+      "C": "Tomografia de corpo inteiro de baixa dose",
+      "D": "Mielograma e biópsia de medula"
+    },
+    "gabarito": "B",
+    "armadilha": "D",
+    "dado_decisivo": "razão de cadeias leves livres kappa/lambda de 1,4",
+    "resolucao": "Diante de pico monoclonal, o reflexo é estadiar como mieloma, com medula e imagem. A GMSI, porém, se estratifica antes, e os três critérios de baixo risco estão presentes: proteína M abaixo de 1,5 g/dL, isotipo IgG e razão de cadeias leves livres normal (1,4). Nesse grupo o risco de progressão é de cerca de 2% em 20 anos, e, sem anemia, hipercalcemia, lesão renal ou dor óssea, a medula e a imagem não mudam a conduta. O seguimento é repetir eletroforese, hemograma, cálcio e creatinina em 6 meses e, se estável, a cada 2 a 3 anos ou quando surgir sintoma. Biópsia de gordura se faz quando há sinal de amiloidose (proteinúria, neuropatia, insuficiência cardíaca), ausente aqui.",
+    "comentarios": {
+      "A": "Errada. Seria o passo diante de sinal de amiloidose AL, como proteinúria ou neuropatia, que ele não tem.",
+      "B": "Correta. GMSI de baixo risco (IgG, pico de 0,8, razão normal) sem CRAB: só reavaliação clínica e laboratorial em 6 meses.",
+      "C": "Errada. A imagem de corpo inteiro entra quando há suspeita de mieloma ou GMSI de maior risco; não se faz na GMSI de baixo risco assintomática.",
+      "D": "Errada. É a armadilha: medula se indica na GMSI de risco intermediário ou alto (IgA ou IgM, pico de 1,5 g/dL ou mais, razão alterada) ou com CRAB; aqui não."
+    },
+    "para_levar": "GMSI de baixo risco (IgG, pico abaixo de 1,5 g/dL, razão de cadeias leves normal) sem CRAB dispensa medula e imagem: reavalia em 6 meses e depois a cada 2 a 3 anos.",
+    "referencias": "IMWG 2010 consensus on MGUS monitoring; IMWG 2014 diagnostic criteria; NCCN Multiple Myeloma 2025.",
+    "tags": [
+      "Gamopatia Monoclonal de Significado Indeterminado (GMSI) (CM)"
+    ],
+    "sourceQuestionId": null,
+    "alvo": "Padrão dominante de sobreinvestigar (medula sem indicação)."
   },
-  "para_levar": "Na hemocromatose a saturação de transferrina sobe antes da ferritina: saturação de 45% ou mais em jejum pede HFE mesmo com ferritina normal; ferritina alta com saturação normal não pede.",
-  "referencias": "EASL Clinical Practice Guidelines on haemochromatosis 2022; ACG Clinical Guideline: Hereditary Hemochromatosis (2019).",
-  "tags": [
-   "Hemocromatose (CM)"
-  ],
-  "sourceQuestionId": "8c3af99bcf329a9",
-  "alvo": "Regra errada fixada sobre ferro, agora no sentido inverso: a saturação manda, não a ferritina."
- },
- {
-  "id": "S4-HEM-02",
-  "simulado": 4,
-  "area": "Hematologia",
-  "titulo": "Gamopatia monoclonal de significado indeterminado de baixo risco: sem medula e sem imagem",
-  "arma": "Omissão",
-  "comando": "conduta",
-  "nivel": "difícil",
-  "enunciado": "Homem de 66 anos, hipertenso, fez eletroforese de proteínas solicitada por \"proteínas totais um pouco altas\" num check-up. Está assintomático, sem dor óssea, neuropatia, edema ou infecções de repetição. Exames: pico monoclonal de 0,8 g/dL na fração gama, imunofixação IgG kappa, razão de cadeias leves livres kappa/lambda de 1,4 (VR 0,26 a 1,65), Hb 14,2 g/dL, creatinina 0,9 mg/dL, cálcio 9,4 mg/dL, albumina 4,2 g/dL e proteinúria ausente. A conduta mais adequada neste momento é:",
-  "alternativas": {
-   "A": "Mielograma e biópsia de medula",
-   "B": "Eletroforese e hemograma em 6 meses",
-   "C": "Tomografia de corpo inteiro de baixa dose",
-   "D": "Biópsia de gordura abdominal"
+  {
+    "id": "S4-HEM-03",
+    "simulado": 4,
+    "area": "Hematologia",
+    "titulo": "Síndrome antifosfolípide primária com tripla positividade: varfarina por tempo indeterminado",
+    "arma": "Grade X / Y",
+    "comando": "conduta",
+    "nivel": "difícil",
+    "enunciado": "Mulher de 41 anos, sem lúpus ou outra doença autoimune, teve trombose venosa profunda femoropoplítea esquerda há 4 meses, sem fator desencadeante, tratada com rivaroxabana 20 mg/dia, sem recorrência e sem sangramento até agora; ela prefere seguir com o comprimido sem exames de controle. Tem duas perdas gestacionais após 10 semanas de gestação. Exames colhidos antes da anticoagulação mostraram anticoagulante lúpico positivo, anticardiolipina IgG 82 GPL e anti-beta-2-glicoproteína I IgG 64 U, e os três se repetiram positivos após 12 semanas, em amostra tratada para remover a interferência do anticoagulante. FAN negativo, função renal normal, IMC de 26 kg/m². Quanto ao anticoagulante e à duração, a conduta mais adequada é, respectivamente:",
+    "alternativas": {
+      "A": "Trocar por varfarina / indefinida",
+      "B": "Manter rivaroxabana / indefinida",
+      "C": "Manter rivaroxabana / 6 meses",
+      "D": "Trocar por varfarina / 6 meses"
+    },
+    "gabarito": "A",
+    "armadilha": "B",
+    "dado_decisivo": "anticoagulante lúpico positivo, anticardiolipina IgG 82 GPL e anti-beta-2-glicoproteína I IgG 64 U",
+    "resolucao": "A duração é a metade mais segura: TEV não provocado com síndrome antifosfolípide persistente tem alto risco de recorrência, e a anticoagulação é por tempo indeterminado. A armadilha está na droga: ela já usa rivaroxabana, que é cômoda e trata a TVP, e o apressado só estende. Mas o perfil é de tripla positividade (anticoagulante lúpico, anticardiolipina e anti-beta-2-glicoproteína I persistentes), o de maior risco, e no ensaio TRAPS a rivaroxabana, nesse grupo, teve mais eventos trombóticos (sobretudo arteriais) que a varfarina, a ponto de o estudo ser interrompido. EULAR e ISTH recomendam não usar rivaroxabana na tripla positividade e preferir antagonista da vitamina K com INR de 2 a 3. Ela não precisa de LES para ser SAF: é a forma primária.",
+    "comentarios": {
+      "A": "Correta. SAF com tripla positividade e TEV não provocado: varfarina (INR 2 a 3) por tempo indeterminado.",
+      "B": "Errada. É a armadilha: a duração está certa, mas a rivaroxabana na tripla positividade aumenta trombose arterial e venosa em relação à varfarina.",
+      "C": "Errada. Erra as duas metades: seis meses seria para TEV provocado sem SAF, e a droga não é a indicada para este perfil.",
+      "D": "Errada. A droga está certa, mas parar aos 6 meses na SAF com TEV não provocado expõe a recorrência alta."
+    },
+    "para_levar": "SAF com TEV não provocado anticoagula por tempo indeterminado com varfarina; na tripla positividade a rivaroxabana é contraindicada (TRAPS), com ou sem LES.",
+    "referencias": "EULAR 2019 recommendations for the management of APS in adults; ISTH 2020 guidance on DOACs in APS; critérios de classificação ACR/EULAR 2023 para SAF.",
+    "tags": [
+      "SAF (CM)",
+      "Anticoagulação (CM)"
+    ],
+    "sourceQuestionId": null,
+    "alvo": "Droga em uso aceita sem checar se cabe ao paciente (face 2 do degrau de conduta)."
   },
-  "gabarito": "B",
-  "armadilha": "A",
-  "dado_decisivo": "razão de cadeias leves livres kappa/lambda de 1,4",
-  "resolucao": "Diante de pico monoclonal, o reflexo é estadiar como mieloma, com medula e imagem. A GMSI, porém, se estratifica antes, e os três critérios de baixo risco estão presentes: proteína M abaixo de 1,5 g/dL, isotipo IgG e razão de cadeias leves livres normal (1,4). Nesse grupo o risco de progressão é de cerca de 2% em 20 anos, e, sem anemia, hipercalcemia, lesão renal ou dor óssea, a medula e a imagem não mudam a conduta. O seguimento é repetir eletroforese, hemograma, cálcio e creatinina em 6 meses e, se estável, a cada 2 a 3 anos ou quando surgir sintoma. Biópsia de gordura se faz quando há sinal de amiloidose (proteinúria, neuropatia, insuficiência cardíaca), ausente aqui.",
-  "comentarios": {
-   "A": "Errada. É a armadilha: medula se indica na GMSI de risco intermediário ou alto (IgA ou IgM, pico de 1,5 g/dL ou mais, razão alterada) ou com CRAB; aqui não.",
-   "B": "Correta. GMSI de baixo risco (IgG, pico de 0,8, razão normal) sem CRAB: só reavaliação clínica e laboratorial em 6 meses.",
-   "C": "Errada. A imagem de corpo inteiro entra quando há suspeita de mieloma ou GMSI de maior risco; não se faz na GMSI de baixo risco assintomática.",
-   "D": "Errada. Seria o passo diante de sinal de amiloidose AL, como proteinúria ou neuropatia, que ele não tem."
+  {
+    "id": "S4-HEM-04",
+    "simulado": 4,
+    "area": "Hematologia",
+    "titulo": "Anemia na LLC: anemia hemolítica autoimune x infiltração medular, e quando não tratar a LLC",
+    "arma": "Grade X / Y",
+    "comando": "mecanismo",
+    "nivel": "extremamente difícil",
+    "enunciado": "Homem de 70 anos, com leucemia linfocítica crônica diagnosticada há 3 anos em estádio Binet A, sem tratamento, procura atendimento por cansaço e urina escura há 10 dias. Nega febre e sudorese. Linfonodos cervicais de 1,5 cm e baço a 2 cm do rebordo, como nas consultas anteriores. Exames: Hb 7,6 g/dL (13,4 há 6 meses), VCM 108 fL, reticulócitos 11%, leucócitos 42.000/mm³ (86% de linfócitos), plaquetas 168.000/mm³, LDH 690 U/L, haptoglobina indetectável, bilirrubina indireta 2,8 mg/dL, teste de Coombs direto positivo (IgG). O mecanismo da anemia e a conduta inicial são, respectivamente:",
+    "alternativas": {
+      "A": "Infiltração medular / tratar a LLC",
+      "B": "Infiltração medular / transfusão isolada",
+      "C": "Hemólise autoimune / prednisona",
+      "D": "Hemólise autoimune / tratar a LLC"
+    },
+    "gabarito": "C",
+    "armadilha": "A",
+    "dado_decisivo": "reticulócitos 11%",
+    "resolucao": "Hemoglobina abaixo de 10 g/dL numa LLC reclassifica a doença como Binet C, que é indicação de tratamento, e esse é o rótulo que derruba. Binet C, porém, pressupõe anemia por infiltração medular, que é hipoproliferativa. O número que decide é a reticulocitose de 11%: a medula está produzindo, e LDH alta, haptoglobina indetectável, bilirrubina indireta e Coombs IgG positivo mostram que as hemácias estão sendo destruídas. É anemia hemolítica autoimune, complicação de 5 a 10% das LLC, e o VCM alto vem dos reticulócitos. A anemia autoimune não conta para o estadiamento: trata-se primeiro com corticoide, e a LLC só passa a ter indicação de tratamento se a hemólise for refratária ao corticoide. O baço e os linfonodos estáveis confirmam que a LLC não progrediu.",
+    "comentarios": {
+      "A": "Errada. É a armadilha: lê Hb abaixo de 10 como Binet C, mas reticulócitos de 11% excluem falha medular.",
+      "B": "Errada. Infiltração não explica reticulocitose e Coombs positivo; e transfusão isolada não para a hemólise.",
+      "C": "Correta. Reticulocitose, LDH alta, haptoglobina indetectável e Coombs IgG positivo: AHAI quente, tratada inicialmente com prednisona.",
+      "D": "Errada. O mecanismo está certo, mas a LLC só se trata se a AHAI não responder ao corticoide, conforme o iwCLL."
+    },
+    "para_levar": "Anemia na LLC com reticulocitose e Coombs positivo é autoimune, não Binet C: começa com corticoide, e a LLC se trata só se a hemólise for corticorrefratária.",
+    "referencias": "iwCLL 2018 guidelines (Hallek et al., Blood 2018); BSH 2017 guideline on autoimmune haemolytic anaemia.",
+    "tags": [
+      "Leucemias (CM)",
+      "Anemia Hemolítica Autoimune (CM)"
+    ],
+    "sourceQuestionId": null,
+    "alvo": "Lê o rótulo (Hb abaixo de 10 igual a Binet C) e ignora reticulócitos e haptoglobina; e faz mais (tratar a LLC)."
   },
-  "para_levar": "GMSI de baixo risco (IgG, pico abaixo de 1,5 g/dL, razão de cadeias leves normal) sem CRAB dispensa medula e imagem: reavalia em 6 meses e depois a cada 2 a 3 anos.",
-  "referencias": "IMWG 2010 consensus on MGUS monitoring; IMWG 2014 diagnostic criteria; NCCN Multiple Myeloma 2025.",
-  "tags": [
-   "Gamopatia Monoclonal de Significado Indeterminado (GMSI) (CM)"
-  ],
-  "sourceQuestionId": null,
-  "alvo": "Padrão dominante de sobreinvestigar (medula sem indicação)."
- },
- {
-  "id": "S4-HEM-03",
-  "simulado": 4,
-  "area": "Hematologia",
-  "titulo": "Síndrome antifosfolípide primária com tripla positividade: varfarina por tempo indeterminado",
-  "arma": "Grade X / Y",
-  "comando": "conduta",
-  "nivel": "difícil",
-  "enunciado": "Mulher de 41 anos, sem lúpus ou outra doença autoimune, teve trombose venosa profunda femoropoplítea esquerda há 4 meses, sem fator desencadeante, tratada com rivaroxabana 20 mg/dia, sem recorrência e sem sangramento até agora; ela prefere seguir com o comprimido sem exames de controle. Tem duas perdas gestacionais após 10 semanas de gestação. Exames colhidos antes da anticoagulação mostraram anticoagulante lúpico positivo, anticardiolipina IgG 82 GPL e anti-beta-2-glicoproteína I IgG 64 U, e os três se repetiram positivos após 12 semanas, em amostra tratada para remover a interferência do anticoagulante. FAN negativo, função renal normal, IMC de 26 kg/m². Quanto ao anticoagulante e à duração, a conduta mais adequada é, respectivamente:",
-  "alternativas": {
-   "A": "Trocar por varfarina / indefinida",
-   "B": "Manter rivaroxabana / indefinida",
-   "C": "Manter rivaroxabana / 6 meses",
-   "D": "Trocar por varfarina / 6 meses"
+  {
+    "id": "S4-HEM-05",
+    "simulado": 4,
+    "area": "Hematologia",
+    "titulo": "Linfoma do manto leucemizado x LLC: CD5 positivo com CD23 negativo",
+    "arma": "Rótulo verdadeiro",
+    "comando": "diagnóstico",
+    "nivel": "difícil",
+    "enunciado": "Homem de 64 anos procura atendimento por perda de 7 kg e sudorese noturna há 4 meses, com diarreia e pesquisa de sangue oculto positiva. Exame: linfonodos cervicais, axilares e inguinais de 2 a 4 cm, baço a 6 cm do rebordo costal. Hemograma: Hb 10,8 g/dL, leucócitos 46.000/mm³ com 78% de linfócitos pequenos a médios de contorno nuclear irregular, plaquetas 112.000/mm³. LDH 410 U/L. Imunofenotipagem do sangue periférico: CD19+, CD20+ forte, CD5+, CD23 negativo, CD200 negativo, CD10 negativo, cadeia leve lambda restrita. Colonoscopia: múltiplos pólipos pequenos no cólon. O diagnóstico mais provável é:",
+    "alternativas": {
+      "A": "Leucemia linfocítica crônica",
+      "B": "Linfoma folicular",
+      "C": "Linfoma da zona marginal esplênico",
+      "D": "Linfoma do manto"
+    },
+    "gabarito": "D",
+    "armadilha": "A",
+    "dado_decisivo": "CD23 negativo, CD200 negativo",
+    "resolucao": "Linfocitose B monoclonal CD5+ com linfonodomegalia e esplenomegalia num idoso parece leucemia linfocítica crônica, e o CD5 positivo é verdadeiro. O que separa é o restante do painel: a LLC é CD5+ com CD23+ e CD200+, CD20 fraco e linfócitos pequenos e redondos; aqui CD23 e CD200 são negativos, CD20 é forte e os núcleos são irregulares. CD5+ com CD23 negativo é linfoma do manto até prova em contrário, confirmado por ciclina D1 (ou SOX11) e t(11;14). A polipose linfomatosa múltipla do intestino é forma de apresentação do manto, e os sintomas B e a LDH alta indicam doença agressiva, diferente da LLC indolente. O folicular seria CD10+ e CD5 negativo, e a zona marginal, CD5 e CD10 negativos.",
+    "comentarios": {
+      "A": "Errada. É a armadilha: CD5+ também está na LLC, mas ela seria CD23+ e CD200+, com CD20 fraco.",
+      "B": "Errada. O folicular é CD10+ e CD5 negativo, com t(14;18).",
+      "C": "Errada. A zona marginal esplênica é CD5 e CD10 negativos, com esplenomegalia volumosa e pouca linfonodomegalia.",
+      "D": "Correta. CD5+ com CD23 e CD200 negativos, CD20 forte e polipose linfomatosa intestinal: linfoma do manto."
+    },
+    "para_levar": "CD5+ não é sinônimo de LLC: LLC é CD5+ CD23+ CD200+ com CD20 fraco; CD5+ com CD23 negativo é linfoma do manto (ciclina D1, t(11;14)).",
+    "referencias": "Classificação OMS 2022 (5ª edição) das neoplasias linfoides; iwCLL 2018 e escore de Matutes.",
+    "tags": [
+      "Linfomas (CM)"
+    ],
+    "sourceQuestionId": "86158b9de04630e",
+    "alvo": "Imunofenotipagem de linfomas, bloco de erro reincidente (zona marginal errada 2 vezes)."
   },
-  "gabarito": "A",
-  "armadilha": "B",
-  "dado_decisivo": "anticoagulante lúpico positivo, anticardiolipina IgG 82 GPL e anti-beta-2-glicoproteína I IgG 64 U",
-  "resolucao": "A duração é a metade mais segura: TEV não provocado com síndrome antifosfolípide persistente tem alto risco de recorrência, e a anticoagulação é por tempo indeterminado. A armadilha está na droga: ela já usa rivaroxabana, que é cômoda e trata a TVP, e o apressado só estende. Mas o perfil é de tripla positividade (anticoagulante lúpico, anticardiolipina e anti-beta-2-glicoproteína I persistentes), o de maior risco, e no ensaio TRAPS a rivaroxabana, nesse grupo, teve mais eventos trombóticos (sobretudo arteriais) que a varfarina, a ponto de o estudo ser interrompido. EULAR e ISTH recomendam não usar rivaroxabana na tripla positividade e preferir antagonista da vitamina K com INR de 2 a 3. Ela não precisa de LES para ser SAF: é a forma primária.",
-  "comentarios": {
-   "A": "Correta. SAF com tripla positividade e TEV não provocado: varfarina (INR 2 a 3) por tempo indeterminado.",
-   "B": "Errada. É a armadilha: a duração está certa, mas a rivaroxabana na tripla positividade aumenta trombose arterial e venosa em relação à varfarina.",
-   "C": "Errada. Erra as duas metades: seis meses seria para TEV provocado sem SAF, e a droga não é a indicada para este perfil.",
-   "D": "Errada. A droga está certa, mas parar aos 6 meses na SAF com TEV não provocado expõe a recorrência alta."
+  {
+    "id": "S4-HEM-06",
+    "simulado": 4,
+    "area": "Hematologia",
+    "titulo": "Anemia sideroblástica por isoniazida durante o tratamento da tuberculose: piridoxina",
+    "arma": "Rótulo verdadeiro",
+    "comando": "conduta",
+    "nivel": "difícil",
+    "enunciado": "Homem de 45 anos, que bebe 3 doses por semana, está no 4º mês de tratamento de tuberculose pulmonar com rifampicina e isoniazida, com boa resposta clínica e baciloscopia negativa. Queixa cansaço progressivo há 1 mês. Exames: Hb 8,2 g/dL, VCM 71 fL, RDW 24%, reticulócitos 0,8%, ferro sérico 210 mcg/dL, saturação de transferrina 82%, ferritina 940 ng/mL, PCR 0,6 mg/dL, vitamina B12 e folato normais. Esfregaço: população dupla de hemácias, microcíticas hipocrômicas e normocíticas, com corpúsculos de Pappenheimer. A conduta mais adequada para a anemia é:",
+    "alternativas": {
+      "A": "Sulfato ferroso oral",
+      "B": "Piridoxina, mantendo o esquema",
+      "C": "Alfaepoetina subcutânea",
+      "D": "Suspender o esquema antituberculose"
+    },
+    "gabarito": "B",
+    "armadilha": "D",
+    "dado_decisivo": "saturação de transferrina 82%",
+    "resolucao": "Tuberculose é doença inflamatória crônica, e o rótulo puxa para anemia de doença crônica; a microcitose ainda tenta para ferropenia. Os números do ferro derrubam as duas: na doença crônica a ferritina sobe, mas a saturação de transferrina cai, porque a hepcidina prende o ferro nos macrófagos, e na ferropenia as duas caem. Saturação de 82% com ferritina de 940, PCR normal, população dupla de hemácias e corpúsculos de Pappenheimer é anemia sideroblástica: o ferro chega ao eritroblasto mas não entra no heme. A isoniazida antagoniza a piridoxina, cofator da ALA-sintase, primeiro passo da síntese do heme. Quem reconhece a droga tende a suspender o esquema, e essa é a armadilha: a conduta é repor piridoxina mantendo o tratamento, que está funcionando, e a anemia responde em semanas. O álcool também causa sideroblastose, mas em consumo pesado, não em 3 doses por semana.",
+    "comentarios": {
+      "A": "Errada. Ferro oral seria para ferropenia, com saturação e ferritina baixas; aqui o ferro sobra e a reposição agrava a sobrecarga.",
+      "B": "Correta. Microcitose com saturação de 82% e ferritina alta em uso de isoniazida: anemia sideroblástica por falta funcional de B6, corrigida com piridoxina.",
+      "C": "Errada. Lê \"tuberculose\" como anemia de doença crônica, mas na doença crônica a saturação é baixa, não 82%, e alfaepoetina não corrige defeito na síntese do heme.",
+      "D": "Errada. É a armadilha: a isoniazida explica a anemia, mas não precisa sair; a piridoxina corrige o defeito, e interromper o tratamento eficaz arrisca falência e resistência."
+    },
+    "para_levar": "Microcitose com saturação de transferrina e ferritina altas não é ferropenia nem doença crônica: é anemia sideroblástica; com isoniazida, repõe piridoxina e mantém o esquema.",
+    "referencias": "Ministério da Saúde, Manual de recomendações para o controle da tuberculose no Brasil (2ª edição, 2019); Bottomley e Fleming, Sideroblastic anemia, Hematol Oncol Clin North Am 2014.",
+    "tags": [
+      "Anemia Sideroblástica (CM)",
+      "Anemias Hipoproliferativas (CM)"
+    ],
+    "sourceQuestionId": "28ecccfb3839be3",
+    "alvo": "Sideroblástica errada 2 de 2; rótulo (TB igual a doença crônica) contra o número que decide (saturação)."
   },
-  "para_levar": "SAF com TEV não provocado anticoagula por tempo indeterminado com varfarina; na tripla positividade a rivaroxabana é contraindicada (TRAPS), com ou sem LES.",
-  "referencias": "EULAR 2019 recommendations for the management of APS in adults; ISTH 2020 guidance on DOACs in APS; critérios de classificação ACR/EULAR 2023 para SAF.",
-  "tags": [
-   "SAF (CM)",
-   "Anticoagulação (CM)"
-  ],
-  "sourceQuestionId": null,
-  "alvo": "Droga em uso aceita sem checar se cabe ao paciente (face 2 do degrau de conduta)."
- },
- {
-  "id": "S4-HEM-04",
-  "simulado": 4,
-  "area": "Hematologia",
-  "titulo": "Anemia na LLC: anemia hemolítica autoimune x infiltração medular, e quando não tratar a LLC",
-  "arma": "Grade X / Y",
-  "comando": "mecanismo",
-  "nivel": "extremamente difícil",
-  "enunciado": "Homem de 70 anos, com leucemia linfocítica crônica diagnosticada há 3 anos em estádio Binet A, sem tratamento, procura atendimento por cansaço e urina escura há 10 dias. Nega febre e sudorese. Linfonodos cervicais de 1,5 cm e baço a 2 cm do rebordo, como nas consultas anteriores. Exames: Hb 7,6 g/dL (13,4 há 6 meses), VCM 108 fL, reticulócitos 11%, leucócitos 42.000/mm³ (86% de linfócitos), plaquetas 168.000/mm³, LDH 690 U/L, haptoglobina indetectável, bilirrubina indireta 2,8 mg/dL, teste de Coombs direto positivo (IgG). O mecanismo da anemia e a conduta inicial são, respectivamente:",
-  "alternativas": {
-   "A": "Infiltração medular / tratar a LLC",
-   "B": "Infiltração medular / transfusão isolada",
-   "C": "Hemólise autoimune / prednisona",
-   "D": "Hemólise autoimune / tratar a LLC"
+  {
+    "id": "S4-HEM-07",
+    "simulado": 4,
+    "area": "Hematologia",
+    "titulo": "Coagulopatia na UTI: deficiência de vitamina K x CIVD x hepatopatia pelo fator V",
+    "arma": "Negativo no meio",
+    "comando": "etiologia",
+    "nivel": "difícil",
+    "enunciado": "Homem de 52 anos está na UTI há 18 dias por pancreatite necrotizante infectada, em jejum com nutrição parenteral e recebendo meropeném há 12 dias. Hoje apresenta sangramento em sítios de punção e hematúria, sem instabilidade hemodinâmica. Exames: Hb 9,1 g/dL, plaquetas 210.000/mm³, INR 3,4, TTPa 44 s (controle 30 s), fibrinogênio 420 mg/dL, D-dímero discretamente elevado, fator V 96%, fator VII 14%, AST 40 U/L, ALT 35 U/L, bilirrubina total 1,1 mg/dL, albumina 2,9 g/dL. O TP corrigiu por completo no teste da mistura com plasma normal. A causa mais provável da coagulopatia é:",
+    "alternativas": {
+      "A": "Deficiência de vitamina K",
+      "B": "Coagulação intravascular disseminada",
+      "C": "Insuficiência hepática da sepse",
+      "D": "Inibidor adquirido de fator"
+    },
+    "gabarito": "A",
+    "armadilha": "B",
+    "dado_decisivo": "fator V 96%, fator VII 14%",
+    "resolucao": "Paciente séptico, na UTI, sangrando com INR alto: o reflexo é coagulação intravascular disseminada. Os negativos no meio do caso a afastam: plaquetas de 210.000, fibrinogênio de 420 e D-dímero só discretamente alto não são consumo. A dosagem de fatores decide entre fígado e vitamina K: o fator V não depende de vitamina K e é sintetizado pelo fígado, então fator V normal com fator VII baixo indica falta de vitamina K; na hepatopatia e na CIVD os dois caem. O contexto explica: 18 dias de jejum (a parenteral nem sempre repõe vitamina K) e antibiótico de largo espectro, que elimina a flora produtora de menaquinona. O teste da mistura que corrige confirma deficiência, e não inibidor. A conduta é vitamina K endovenosa, com plasma ou complexo protrombínico se o sangramento for grave.",
+    "comentarios": {
+      "A": "Correta. Fator V normal com fator VII baixo, plaquetas e fibrinogênio normais, jejum prolongado e antibiótico: deficiência de vitamina K.",
+      "B": "Errada. É a armadilha: CIVD consumiria plaquetas e fibrinogênio e reduziria também o fator V.",
+      "C": "Errada. A insuficiência hepática reduziria o fator V junto com o VII, e as transaminases e a bilirrubina estão normais.",
+      "D": "Errada. Um inibidor não corrigiria no teste da mistura; a correção completa indica deficiência de fator."
+    },
+    "para_levar": "No TP alargado, o fator V separa: normal com fator VII baixo é falta de vitamina K; fator V baixo é fígado ou CIVD (esta com plaquetas e fibrinogênio caindo). Mistura que corrige é deficiência, não inibidor.",
+    "referencias": "ISTH 2013 guidance for DIC (Wada et al.); BSH 2009 guidelines for the diagnosis and management of DIC; UpToDate 2025, Approach to the adult with abnormal coagulation tests.",
+    "tags": [
+      "Distúrbios de Hemostasia (CM)",
+      "Coagulação Intravascular Disseminada (CIVD) (CM)"
+    ],
+    "sourceQuestionId": "6575f68ff74fa2c",
+    "alvo": "Rótulo do contexto (sepse igual a CIVD) contra os negativos laboratoriais e o teste da mistura."
   },
-  "gabarito": "C",
-  "armadilha": "A",
-  "dado_decisivo": "reticulócitos 11%",
-  "resolucao": "Hemoglobina abaixo de 10 g/dL numa LLC reclassifica a doença como Binet C, que é indicação de tratamento, e esse é o rótulo que derruba. Binet C, porém, pressupõe anemia por infiltração medular, que é hipoproliferativa. O número que decide é a reticulocitose de 11%: a medula está produzindo, e LDH alta, haptoglobina indetectável, bilirrubina indireta e Coombs IgG positivo mostram que as hemácias estão sendo destruídas. É anemia hemolítica autoimune, complicação de 5 a 10% das LLC, e o VCM alto vem dos reticulócitos. A anemia autoimune não conta para o estadiamento: trata-se primeiro com corticoide, e a LLC só passa a ter indicação de tratamento se a hemólise for refratária ao corticoide. O baço e os linfonodos estáveis confirmam que a LLC não progrediu.",
-  "comentarios": {
-   "A": "Errada. É a armadilha: lê Hb abaixo de 10 como Binet C, mas reticulócitos de 11% excluem falha medular.",
-   "B": "Errada. Infiltração não explica reticulocitose e Coombs positivo; e transfusão isolada não para a hemólise.",
-   "C": "Correta. Reticulocitose, LDH alta, haptoglobina indetectável e Coombs IgG positivo: AHAI quente, tratada inicialmente com prednisona.",
-   "D": "Errada. O mecanismo está certo, mas a LLC só se trata se a AHAI não responder ao corticoide, conforme o iwCLL."
+  {
+    "id": "S4-HEM-08",
+    "simulado": 4,
+    "area": "Hematologia",
+    "titulo": "Hemorragia intracerebral em uso de dabigatrana: reversão imediata e específica",
+    "arma": "Qualificador",
+    "comando": "conduta",
+    "nivel": "média",
+    "enunciado": "Mulher de 79 anos, com fibrilação atrial em uso de dabigatrana 110 mg duas vezes ao dia (última dose há 4 horas), chega com hemiparesia direita, e a tomografia mostra hematoma intraparenquimatoso de 22 mL. Clearance de creatinina estimado de 42 mL/min, plaquetas 190.000/mm³, TTPa 58 s (controle 30 s). Para reverter de forma imediata e específica o efeito anticoagulante, a medida mais adequada é:",
+    "alternativas": {
+      "A": "Complexo protrombínico de 4 fatores",
+      "B": "Hemodiálise de urgência",
+      "C": "Andexanete alfa",
+      "D": "Idarucizumabe"
+    },
+    "gabarito": "D",
+    "armadilha": "C",
+    "dado_decisivo": "de forma imediata e específica",
+    "resolucao": "Todas as alternativas reduzem o efeito de algum anticoagulante, e o qualificador do comando é o que seleciona. A dabigatrana é inibidor direto da trombina e tem antídoto próprio, o idarucizumabe, um fragmento de anticorpo monoclonal que a liga com afinidade muito maior que a trombina e reverte o efeito em minutos. O andexanete é o antídoto dos inibidores do fator Xa (apixabana, rivaroxabana) e não liga a dabigatrana, e é a armadilha de quem lembra que \"DOAC tem antídoto\". O complexo protrombínico é alternativa inespecífica quando o antídoto não está disponível. A hemodiálise remove a dabigatrana, que tem baixa ligação proteica, mas não é imediata e exige acesso calibroso num paciente anticoagulado.",
+    "comentarios": {
+      "A": "Errada. O complexo protrombínico é inespecífico, usado quando falta o antídoto; não é a reversão específica pedida.",
+      "B": "Errada. A diálise remove a dabigatrana, mas não de forma imediata; fica para sobredose com função renal ruim quando não há idarucizumabe.",
+      "C": "Errada. É a armadilha: andexanete reverte inibidores do fator Xa, não a dabigatrana.",
+      "D": "Correta. Antídoto específico da dabigatrana, com reversão em minutos."
+    },
+    "para_levar": "Dabigatrana: idarucizumabe; inibidores do fator Xa: andexanete (ou complexo protrombínico de 4 fatores); varfarina: complexo protrombínico com vitamina K.",
+    "referencias": "AHA/ASA 2022 guideline for spontaneous intracerebral hemorrhage; EHRA 2021 practical guide on NOACs; ACC 2020 expert consensus on bleeding with oral anticoagulants.",
+    "tags": [
+      "Anticoagulação (CM)",
+      "AVC Hemorrágico (CM)"
+    ],
+    "sourceQuestionId": "52686985a1b82ac",
+    "alvo": "Fato solto de anticoagulação errado no banco (DOACs) e comando qualificado."
   },
-  "para_levar": "Anemia na LLC com reticulocitose e Coombs positivo é autoimune, não Binet C: começa com corticoide, e a LLC se trata só se a hemólise for corticorrefratária.",
-  "referencias": "iwCLL 2018 guidelines (Hallek et al., Blood 2018); BSH 2017 guideline on autoimmune haemolytic anaemia.",
-  "tags": [
-   "Leucemias (CM)",
-   "Anemia Hemolítica Autoimune (CM)"
-  ],
-  "sourceQuestionId": null,
-  "alvo": "Lê o rótulo (Hb abaixo de 10 igual a Binet C) e ignora reticulócitos e haptoglobina; e faz mais (tratar a LLC)."
- },
- {
-  "id": "S4-HEM-05",
-  "simulado": 4,
-  "area": "Hematologia",
-  "titulo": "Linfoma do manto leucemizado x LLC: CD5 positivo com CD23 negativo",
-  "arma": "Rótulo verdadeiro",
-  "comando": "diagnóstico",
-  "nivel": "difícil",
-  "enunciado": "Homem de 64 anos procura atendimento por perda de 7 kg e sudorese noturna há 4 meses, com diarreia e pesquisa de sangue oculto positiva. Exame: linfonodos cervicais, axilares e inguinais de 2 a 4 cm, baço a 6 cm do rebordo costal. Hemograma: Hb 10,8 g/dL, leucócitos 46.000/mm³ com 78% de linfócitos pequenos a médios de contorno nuclear irregular, plaquetas 112.000/mm³. LDH 410 U/L. Imunofenotipagem do sangue periférico: CD19+, CD20+ forte, CD5+, CD23 negativo, CD200 negativo, CD10 negativo, cadeia leve lambda restrita. Colonoscopia: múltiplos pólipos pequenos no cólon. O diagnóstico mais provável é:",
-  "alternativas": {
-   "A": "Leucemia linfocítica crônica",
-   "B": "Linfoma folicular",
-   "C": "Linfoma da zona marginal esplênico",
-   "D": "Linfoma do manto"
-  },
-  "gabarito": "D",
-  "armadilha": "A",
-  "dado_decisivo": "CD23 negativo, CD200 negativo",
-  "resolucao": "Linfocitose B monoclonal CD5+ com linfonodomegalia e esplenomegalia num idoso parece leucemia linfocítica crônica, e o CD5 positivo é verdadeiro. O que separa é o restante do painel: a LLC é CD5+ com CD23+ e CD200+, CD20 fraco e linfócitos pequenos e redondos; aqui CD23 e CD200 são negativos, CD20 é forte e os núcleos são irregulares. CD5+ com CD23 negativo é linfoma do manto até prova em contrário, confirmado por ciclina D1 (ou SOX11) e t(11;14). A polipose linfomatosa múltipla do intestino é forma de apresentação do manto, e os sintomas B e a LDH alta indicam doença agressiva, diferente da LLC indolente. O folicular seria CD10+ e CD5 negativo, e a zona marginal, CD5 e CD10 negativos.",
-  "comentarios": {
-   "A": "Errada. É a armadilha: CD5+ também está na LLC, mas ela seria CD23+ e CD200+, com CD20 fraco.",
-   "B": "Errada. O folicular é CD10+ e CD5 negativo, com t(14;18).",
-   "C": "Errada. A zona marginal esplênica é CD5 e CD10 negativos, com esplenomegalia volumosa e pouca linfonodomegalia.",
-   "D": "Correta. CD5+ com CD23 e CD200 negativos, CD20 forte e polipose linfomatosa intestinal: linfoma do manto."
-  },
-  "para_levar": "CD5+ não é sinônimo de LLC: LLC é CD5+ CD23+ CD200+ com CD20 fraco; CD5+ com CD23 negativo é linfoma do manto (ciclina D1, t(11;14)).",
-  "referencias": "Classificação OMS 2022 (5ª edição) das neoplasias linfoides; iwCLL 2018 e escore de Matutes.",
-  "tags": [
-   "Linfomas (CM)"
-  ],
-  "sourceQuestionId": "86158b9de04630e",
-  "alvo": "Imunofenotipagem de linfomas, bloco de erro reincidente (zona marginal errada 2 vezes)."
- },
- {
-  "id": "S4-HEM-06",
-  "simulado": 4,
-  "area": "Hematologia",
-  "titulo": "Anemia sideroblástica por isoniazida durante o tratamento da tuberculose: piridoxina",
-  "arma": "Rótulo verdadeiro",
-  "comando": "conduta",
-  "nivel": "difícil",
-  "enunciado": "Homem de 45 anos, que bebe 3 doses por semana, está no 4º mês de tratamento de tuberculose pulmonar com rifampicina e isoniazida, com boa resposta clínica e baciloscopia negativa. Queixa cansaço progressivo há 1 mês. Exames: Hb 8,2 g/dL, VCM 71 fL, RDW 24%, reticulócitos 0,8%, ferro sérico 210 mcg/dL, saturação de transferrina 82%, ferritina 940 ng/mL, PCR 0,6 mg/dL, vitamina B12 e folato normais. Esfregaço: população dupla de hemácias, microcíticas hipocrômicas e normocíticas, com corpúsculos de Pappenheimer. A conduta mais adequada para a anemia é:",
-  "alternativas": {
-   "A": "Sulfato ferroso oral",
-   "B": "Piridoxina, mantendo o esquema",
-   "C": "Alfaepoetina subcutânea",
-   "D": "Suspender o esquema antituberculose"
-  },
-  "gabarito": "B",
-  "armadilha": "D",
-  "dado_decisivo": "saturação de transferrina 82%",
-  "resolucao": "Tuberculose é doença inflamatória crônica, e o rótulo puxa para anemia de doença crônica; a microcitose ainda tenta para ferropenia. Os números do ferro derrubam as duas: na doença crônica a ferritina sobe, mas a saturação de transferrina cai, porque a hepcidina prende o ferro nos macrófagos, e na ferropenia as duas caem. Saturação de 82% com ferritina de 940, PCR normal, população dupla de hemácias e corpúsculos de Pappenheimer é anemia sideroblástica: o ferro chega ao eritroblasto mas não entra no heme. A isoniazida antagoniza a piridoxina, cofator da ALA-sintase, primeiro passo da síntese do heme. Quem reconhece a droga tende a suspender o esquema, e essa é a armadilha: a conduta é repor piridoxina mantendo o tratamento, que está funcionando, e a anemia responde em semanas. O álcool também causa sideroblastose, mas em consumo pesado, não em 3 doses por semana.",
-  "comentarios": {
-   "A": "Errada. Ferro oral seria para ferropenia, com saturação e ferritina baixas; aqui o ferro sobra e a reposição agrava a sobrecarga.",
-   "B": "Correta. Microcitose com saturação de 82% e ferritina alta em uso de isoniazida: anemia sideroblástica por falta funcional de B6, corrigida com piridoxina.",
-   "C": "Errada. Lê \"tuberculose\" como anemia de doença crônica, mas na doença crônica a saturação é baixa, não 82%, e alfaepoetina não corrige defeito na síntese do heme.",
-   "D": "Errada. É a armadilha: a isoniazida explica a anemia, mas não precisa sair; a piridoxina corrige o defeito, e interromper o tratamento eficaz arrisca falência e resistência."
-  },
-  "para_levar": "Microcitose com saturação de transferrina e ferritina altas não é ferropenia nem doença crônica: é anemia sideroblástica; com isoniazida, repõe piridoxina e mantém o esquema.",
-  "referencias": "Ministério da Saúde, Manual de recomendações para o controle da tuberculose no Brasil (2ª edição, 2019); Bottomley e Fleming, Sideroblastic anemia, Hematol Oncol Clin North Am 2014.",
-  "tags": [
-   "Anemia Sideroblástica (CM)",
-   "Anemias Hipoproliferativas (CM)"
-  ],
-  "sourceQuestionId": "28ecccfb3839be3",
-  "alvo": "Sideroblástica errada 2 de 2; rótulo (TB igual a doença crônica) contra o número que decide (saturação)."
- },
- {
-  "id": "S4-HEM-07",
-  "simulado": 4,
-  "area": "Hematologia",
-  "titulo": "Coagulopatia na UTI: deficiência de vitamina K x CIVD x hepatopatia pelo fator V",
-  "arma": "Negativo no meio",
-  "comando": "etiologia",
-  "nivel": "difícil",
-  "enunciado": "Homem de 52 anos está na UTI há 18 dias por pancreatite necrotizante infectada, em jejum com nutrição parenteral e recebendo meropeném há 12 dias. Hoje apresenta sangramento em sítios de punção e hematúria, sem instabilidade hemodinâmica. Exames: Hb 9,1 g/dL, plaquetas 210.000/mm³, INR 3,4, TTPa 44 s (controle 30 s), fibrinogênio 420 mg/dL, D-dímero discretamente elevado, fator V 96%, fator VII 14%, AST 40 U/L, ALT 35 U/L, bilirrubina total 1,1 mg/dL, albumina 2,9 g/dL. O TP corrigiu por completo no teste da mistura com plasma normal. A causa mais provável da coagulopatia é:",
-  "alternativas": {
-   "A": "Deficiência de vitamina K",
-   "B": "Coagulação intravascular disseminada",
-   "C": "Insuficiência hepática da sepse",
-   "D": "Inibidor adquirido de fator"
-  },
-  "gabarito": "A",
-  "armadilha": "B",
-  "dado_decisivo": "fator V 96%, fator VII 14%",
-  "resolucao": "Paciente séptico, na UTI, sangrando com INR alto: o reflexo é coagulação intravascular disseminada. Os negativos no meio do caso a afastam: plaquetas de 210.000, fibrinogênio de 420 e D-dímero só discretamente alto não são consumo. A dosagem de fatores decide entre fígado e vitamina K: o fator V não depende de vitamina K e é sintetizado pelo fígado, então fator V normal com fator VII baixo indica falta de vitamina K; na hepatopatia e na CIVD os dois caem. O contexto explica: 18 dias de jejum (a parenteral nem sempre repõe vitamina K) e antibiótico de largo espectro, que elimina a flora produtora de menaquinona. O teste da mistura que corrige confirma deficiência, e não inibidor. A conduta é vitamina K endovenosa, com plasma ou complexo protrombínico se o sangramento for grave.",
-  "comentarios": {
-   "A": "Correta. Fator V normal com fator VII baixo, plaquetas e fibrinogênio normais, jejum prolongado e antibiótico: deficiência de vitamina K.",
-   "B": "Errada. É a armadilha: CIVD consumiria plaquetas e fibrinogênio e reduziria também o fator V.",
-   "C": "Errada. A insuficiência hepática reduziria o fator V junto com o VII, e as transaminases e a bilirrubina estão normais.",
-   "D": "Errada. Um inibidor não corrigiria no teste da mistura; a correção completa indica deficiência de fator."
-  },
-  "para_levar": "No TP alargado, o fator V separa: normal com fator VII baixo é falta de vitamina K; fator V baixo é fígado ou CIVD (esta com plaquetas e fibrinogênio caindo). Mistura que corrige é deficiência, não inibidor.",
-  "referencias": "ISTH 2013 guidance for DIC (Wada et al.); BSH 2009 guidelines for the diagnosis and management of DIC; UpToDate 2025, Approach to the adult with abnormal coagulation tests.",
-  "tags": [
-   "Distúrbios de Hemostasia (CM)",
-   "Coagulação Intravascular Disseminada (CIVD) (CM)"
-  ],
-  "sourceQuestionId": "6575f68ff74fa2c",
-  "alvo": "Rótulo do contexto (sepse igual a CIVD) contra os negativos laboratoriais e o teste da mistura."
- },
- {
-  "id": "S4-HEM-08",
-  "simulado": 4,
-  "area": "Hematologia",
-  "titulo": "Hemorragia intracerebral em uso de dabigatrana: reversão imediata e específica",
-  "arma": "Qualificador",
-  "comando": "conduta",
-  "nivel": "média",
-  "enunciado": "Mulher de 79 anos, com fibrilação atrial em uso de dabigatrana 110 mg duas vezes ao dia (última dose há 4 horas), chega com hemiparesia direita, e a tomografia mostra hematoma intraparenquimatoso de 22 mL. Clearance de creatinina estimado de 42 mL/min, plaquetas 190.000/mm³, TTPa 58 s (controle 30 s). Para reverter de forma imediata e específica o efeito anticoagulante, a medida mais adequada é:",
-  "alternativas": {
-   "A": "Complexo protrombínico de 4 fatores",
-   "B": "Hemodiálise de urgência",
-   "C": "Andexanete alfa",
-   "D": "Idarucizumabe"
-  },
-  "gabarito": "D",
-  "armadilha": "C",
-  "dado_decisivo": "de forma imediata e específica",
-  "resolucao": "Todas as alternativas reduzem o efeito de algum anticoagulante, e o qualificador do comando é o que seleciona. A dabigatrana é inibidor direto da trombina e tem antídoto próprio, o idarucizumabe, um fragmento de anticorpo monoclonal que a liga com afinidade muito maior que a trombina e reverte o efeito em minutos. O andexanete é o antídoto dos inibidores do fator Xa (apixabana, rivaroxabana) e não liga a dabigatrana, e é a armadilha de quem lembra que \"DOAC tem antídoto\". O complexo protrombínico é alternativa inespecífica quando o antídoto não está disponível. A hemodiálise remove a dabigatrana, que tem baixa ligação proteica, mas não é imediata e exige acesso calibroso num paciente anticoagulado.",
-  "comentarios": {
-   "A": "Errada. O complexo protrombínico é inespecífico, usado quando falta o antídoto; não é a reversão específica pedida.",
-   "B": "Errada. A diálise remove a dabigatrana, mas não de forma imediata; fica para sobredose com função renal ruim quando não há idarucizumabe.",
-   "C": "Errada. É a armadilha: andexanete reverte inibidores do fator Xa, não a dabigatrana.",
-   "D": "Correta. Antídoto específico da dabigatrana, com reversão em minutos."
-  },
-  "para_levar": "Dabigatrana: idarucizumabe; inibidores do fator Xa: andexanete (ou complexo protrombínico de 4 fatores); varfarina: complexo protrombínico com vitamina K.",
-  "referencias": "AHA/ASA 2022 guideline for spontaneous intracerebral hemorrhage; EHRA 2021 practical guide on NOACs; ACC 2020 expert consensus on bleeding with oral anticoagulants.",
-  "tags": [
-   "Anticoagulação (CM)",
-   "AVC Hemorrágico (CM)"
-  ],
-  "sourceQuestionId": "52686985a1b82ac",
-  "alvo": "Fato solto de anticoagulação errado no banco (DOACs) e comando qualificado."
- },
- {
-  "id": "S4-HEM-09",
-  "simulado": 4,
-  "area": "Hematologia",
-  "titulo": "Paracentese no cirrótico com INR alto e plaquetopenia: sem plasma e sem plaquetas profiláticos",
-  "arma": "Rótulo verdadeiro",
-  "comando": "conduta",
-  "nivel": "difícil",
-  "enunciado": "Homem de 58 anos, com cirrose por vírus C, Child-Pugh C, é internado por aumento do volume abdominal, desconforto respiratório leve e febre baixa há 2 dias. Exame: T 37,9 °C, ascite volumosa, sem petéquias, sem sangramentos ativos. Exames: Hb 10,2 g/dL, plaquetas 48.000/mm³, INR 2,3, fibrinogênio 160 mg/dL, creatinina 1,3 mg/dL. Será feita paracentese diagnóstica e de alívio. Quanto à hemostasia, antes do procedimento, a conduta mais adequada é:",
-  "alternativas": {
-   "A": "Plaquetas até acima de 50.000",
-   "B": "Plasma fresco até INR abaixo de 1,5",
-   "C": "Puncionar sem hemocomponente",
-   "D": "Vitamina K e adiar por 24 horas"
-  },
-  "gabarito": "C",
-  "armadilha": "B",
-  "dado_decisivo": "sem sangramentos ativos",
-  "resolucao": "INR de 2,3 e plaquetas de 48.000 são números reais e assustadores, e o rótulo puxa para corrigir antes de puncionar. No cirrótico, porém, o INR não mede risco de sangramento: o fígado reduz ao mesmo tempo fatores pró-coagulantes e anticoagulantes (proteína C, antitrombina), e a hemostasia fica reequilibrada. A paracentese é procedimento de baixo risco, com sangramento grave em menos de 1% mesmo com INR alto e plaquetas baixas, e AASLD e AGA recomendam não transfundir plasma ou plaquetas profilaticamente. O plasma piora a hipertensão portal pela sobrecarga de volume e expõe a reações transfusionais, e adiar a punção de um cirrótico febril com ascite atrasa o diagnóstico de peritonite bacteriana espontânea. A vitamina K não corrige o INR da insuficiência hepática.",
-  "comentarios": {
-   "A": "Errada. Plaquetas profiláticas não reduzem sangramento na paracentese; o limiar de 50.000 vale para procedimentos de alto risco.",
-   "B": "Errada. É a armadilha: o INR do cirrótico não prevê sangramento, e plasma aumenta a pressão portal sem reduzir complicações.",
-   "C": "Correta. Paracentese é de baixo risco, e sem sangramento ativo não se corrige INR nem plaquetas antes dela.",
-   "D": "Errada. A vitamina K não corrige coagulopatia de síntese hepática, e adiar atrasa o diagnóstico de PBE num cirrótico febril."
-  },
-  "para_levar": "O INR do cirrótico não mede risco de sangramento: paracentese e toracocentese se fazem sem plasma ou plaquetas profiláticos.",
-  "referencias": "AASLD 2021 Practice Guidance on ascites, SBP and hepatorenal syndrome; AGA 2021 Clinical Practice Update on coagulation in cirrhosis.",
-  "tags": [
-   "Hemoterapia (CM)",
-   "Ascite, PBE e PBS (CM)"
-  ],
-  "sourceQuestionId": "4e1837dd13d3c9d",
-  "alvo": "Hemoterapia 45% e o padrão de transfundir o que não precisa porque o número assusta."
- }
+  {
+    "id": "S4-HEM-09",
+    "simulado": 4,
+    "area": "Hematologia",
+    "titulo": "Paracentese no cirrótico com INR alto e plaquetopenia: sem plasma e sem plaquetas profiláticos",
+    "arma": "Rótulo verdadeiro",
+    "comando": "conduta",
+    "nivel": "difícil",
+    "enunciado": "Homem de 58 anos, com cirrose por vírus C, Child-Pugh C, é internado por aumento do volume abdominal, desconforto respiratório leve e febre baixa há 2 dias. Exame: T 37,9 °C, ascite volumosa, sem petéquias, sem sangramentos ativos. Exames: Hb 10,2 g/dL, plaquetas 48.000/mm³, INR 2,3, fibrinogênio 160 mg/dL, creatinina 1,3 mg/dL. Será feita paracentese diagnóstica e de alívio. Quanto à hemostasia, antes do procedimento, a conduta mais adequada é:",
+    "alternativas": {
+      "A": "Plaquetas até acima de 50.000",
+      "B": "Plasma fresco até INR abaixo de 1,5",
+      "C": "Puncionar sem hemocomponente",
+      "D": "Vitamina K e adiar por 24 horas"
+    },
+    "gabarito": "C",
+    "armadilha": "B",
+    "dado_decisivo": "sem sangramentos ativos",
+    "resolucao": "INR de 2,3 e plaquetas de 48.000 são números reais e assustadores, e o rótulo puxa para corrigir antes de puncionar. No cirrótico, porém, o INR não mede risco de sangramento: o fígado reduz ao mesmo tempo fatores pró-coagulantes e anticoagulantes (proteína C, antitrombina), e a hemostasia fica reequilibrada. A paracentese é procedimento de baixo risco, com sangramento grave em menos de 1% mesmo com INR alto e plaquetas baixas, e AASLD e AGA recomendam não transfundir plasma ou plaquetas profilaticamente. O plasma piora a hipertensão portal pela sobrecarga de volume e expõe a reações transfusionais, e adiar a punção de um cirrótico febril com ascite atrasa o diagnóstico de peritonite bacteriana espontânea. A vitamina K não corrige o INR da insuficiência hepática.",
+    "comentarios": {
+      "A": "Errada. Plaquetas profiláticas não reduzem sangramento na paracentese; o limiar de 50.000 vale para procedimentos de alto risco.",
+      "B": "Errada. É a armadilha: o INR do cirrótico não prevê sangramento, e plasma aumenta a pressão portal sem reduzir complicações.",
+      "C": "Correta. Paracentese é de baixo risco, e sem sangramento ativo não se corrige INR nem plaquetas antes dela.",
+      "D": "Errada. A vitamina K não corrige coagulopatia de síntese hepática, e adiar atrasa o diagnóstico de PBE num cirrótico febril."
+    },
+    "para_levar": "O INR do cirrótico não mede risco de sangramento: paracentese e toracocentese se fazem sem plasma ou plaquetas profiláticos.",
+    "referencias": "AASLD 2021 Practice Guidance on ascites, SBP and hepatorenal syndrome; AGA 2021 Clinical Practice Update on coagulation in cirrhosis.",
+    "tags": [
+      "Hemoterapia (CM)",
+      "Ascite, PBE e PBS (CM)"
+    ],
+    "sourceQuestionId": "4e1837dd13d3c9d",
+    "alvo": "Hemoterapia 45% e o padrão de transfundir o que não precisa porque o número assusta."
+  }
 ]

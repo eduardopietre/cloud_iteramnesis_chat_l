@@ -1,305 +1,305 @@
 [
- {
-  "id": "S5-HEM-01",
-  "simulado": 5,
-  "area": "Hematologia",
-  "titulo": "TVP provocada por cirurgia ortopédica: 3 meses de anticoagulação e nenhuma pesquisa de trombofilia",
-  "arma": "Omissão",
-  "comando": "conduta",
-  "nivel": "difícil",
-  "enunciado": "Homem de 33 anos, previamente hígido, teve trombose venosa profunda poplítea direita no 9º dia após reconstrução do ligamento cruzado anterior do joelho direito, com imobilização gessada. Tratado com rivaroxabana, completou 3 meses, com trombo recanalizado ao Doppler e sem sintomas. Não há história familiar de trombose. Exame físico normal; hemograma, função renal e hepática normais. Ele pergunta por exames \"para ver se o sangue é grosso\" e se deve continuar o remédio. A conduta mais adequada é:",
-  "alternativas": {
-   "A": "Suspender sem pesquisar trombofilia",
-   "B": "Pesquisar trombofilia antes de decidir",
-   "C": "Manter anticoagulação indefinidamente",
-   "D": "Rivaroxabana 10 mg por mais 1 ano"
+  {
+    "id": "S5-HEM-01",
+    "simulado": 5,
+    "area": "Hematologia",
+    "titulo": "TVP provocada por cirurgia ortopédica: 3 meses de anticoagulação e nenhuma pesquisa de trombofilia",
+    "arma": "Omissão",
+    "comando": "conduta",
+    "nivel": "difícil",
+    "enunciado": "Homem de 33 anos, previamente hígido, teve trombose venosa profunda poplítea direita no 9º dia após reconstrução do ligamento cruzado anterior do joelho direito, com imobilização gessada. Tratado com rivaroxabana, completou 3 meses, com trombo recanalizado ao Doppler e sem sintomas. Não há história familiar de trombose. Exame físico normal; hemograma, função renal e hepática normais. Ele pergunta por exames \"para ver se o sangue é grosso\" e se deve continuar o remédio. A conduta mais adequada é:",
+    "alternativas": {
+      "A": "Manter anticoagulação indefinidamente",
+      "B": "Pesquisar trombofilia antes de decidir",
+      "C": "Suspender sem pesquisar trombofilia",
+      "D": "Rivaroxabana 10 mg por mais 1 ano"
+    },
+    "gabarito": "C",
+    "armadilha": "B",
+    "dado_decisivo": "no 9º dia após reconstrução do ligamento cruzado anterior do joelho direito, com imobilização gessada",
+    "resolucao": "Jovem de 33 anos com trombose puxa para pesquisa de trombofilia, e o paciente ainda pede o exame. A pergunta certa é se o resultado mudaria a conduta, e aqui não muda: a trombose foi provocada por fator transitório maior (cirurgia ortopédica com imobilização gessada), cujo risco de recorrência após 3 meses de tratamento é baixo, por volta de 1% ao ano. A diretriz da ASH de 2023 recomenda não pesquisar trombofilia após TEV provocado por cirurgia, porque a maioria das alterações hereditárias (fator V Leiden, mutação da protrombina em heterozigose) não justifica anticoagulação estendida nesse contexto e o resultado gera ansiedade e tratamento a mais. O tratamento é de 3 meses e para. Estender, com dose plena ou reduzida, é para TEV não provocado ou fator de risco persistente.",
+    "comentarios": {
+      "A": "Errada. Anticoagulação indefinida cabe ao TEV não provocado de baixo risco hemorrágico ou à SAF; o risco do sangramento aqui supera o benefício.",
+      "B": "Errada. É a armadilha: a pesquisa não mudaria a decisão após TEV cirúrgico e é desaconselhada pela ASH 2023.",
+      "C": "Correta. TEV provocado por fator transitório maior: 3 meses de anticoagulação, suspensão e nenhuma pesquisa de trombofilia.",
+      "D": "Errada. A dose reduzida estendida é estratégia para TEV não provocado ou com fator persistente após a fase inicial, não para TEV cirúrgico."
+    },
+    "para_levar": "TEV provocado por fator transitório maior (cirurgia, gesso) trata-se por 3 meses e para; pesquisar trombofilia não muda a conduta e não se faz.",
+    "referencias": "ASH 2020 guidelines for the treatment of VTE (Ortel et al.); ASH 2023 guidelines on thrombophilia testing (Middeldorp et al.); ESC 2019 guidelines on acute pulmonary embolism; CHEST 2021 Antithrombotic Therapy for VTE.",
+    "tags": [
+      "Trombose Venosa Profunda (CM)",
+      "Anticoagulação (CM)"
+    ],
+    "sourceQuestionId": "254da0a24f0795e",
+    "alvo": "Padrão dominante de sobreinvestigar: trombofilia sem indicação (omissão)."
   },
-  "gabarito": "A",
-  "armadilha": "B",
-  "dado_decisivo": "no 9º dia após reconstrução do ligamento cruzado anterior do joelho direito, com imobilização gessada",
-  "resolucao": "Jovem de 33 anos com trombose puxa para pesquisa de trombofilia, e o paciente ainda pede o exame. A pergunta certa é se o resultado mudaria a conduta, e aqui não muda: a trombose foi provocada por fator transitório maior (cirurgia ortopédica com imobilização gessada), cujo risco de recorrência após 3 meses de tratamento é baixo, por volta de 1% ao ano. A diretriz da ASH de 2023 recomenda não pesquisar trombofilia após TEV provocado por cirurgia, porque a maioria das alterações hereditárias (fator V Leiden, mutação da protrombina em heterozigose) não justifica anticoagulação estendida nesse contexto e o resultado gera ansiedade e tratamento a mais. O tratamento é de 3 meses e para. Estender, com dose plena ou reduzida, é para TEV não provocado ou fator de risco persistente.",
-  "comentarios": {
-   "A": "Correta. TEV provocado por fator transitório maior: 3 meses de anticoagulação, suspensão e nenhuma pesquisa de trombofilia.",
-   "B": "Errada. É a armadilha: a pesquisa não mudaria a decisão após TEV cirúrgico e é desaconselhada pela ASH 2023.",
-   "C": "Errada. Anticoagulação indefinida cabe ao TEV não provocado de baixo risco hemorrágico ou à SAF; o risco do sangramento aqui supera o benefício.",
-   "D": "Errada. A dose reduzida estendida é estratégia para TEV não provocado ou com fator persistente após a fase inicial, não para TEV cirúrgico."
+  {
+    "id": "S5-HEM-02",
+    "simulado": 5,
+    "area": "Hematologia",
+    "titulo": "Leucemia mieloide crônica x reação leucemoide após pneumonia: basofilia e baço decidem",
+    "arma": "Rótulo verdadeiro",
+    "comando": "próximo exame",
+    "nivel": "difícil",
+    "enunciado": "Mulher de 47 anos, tratada há 3 semanas com amoxicilina-clavulanato por pneumonia comunitária, com melhora da febre e da tosse, retorna porque o hemograma de controle mostrou leucocitose. Refere saciedade precoce e sudorese noturna há 3 meses, desde antes da pneumonia. Exame: afebril, baço palpável a 10 cm do rebordo costal. Hemograma: Hb 10,9 g/dL, leucócitos 156.000/mm³ com mielócitos 14%, metamielócitos 9%, bastões 12%, segmentados 48%, basófilos 7%, eosinófilos 5% e blastos 2%; plaquetas 640.000/mm³. PCR 1,2 mg/dL. O exame que confirma o diagnóstico mais provável é:",
+    "alternativas": {
+      "A": "Fosfatase alcalina leucocitária",
+      "B": "Pesquisa de JAK2 V617F",
+      "C": "Hemoculturas e nova radiografia",
+      "D": "Pesquisa de BCR-ABL1 no sangue"
+    },
+    "gabarito": "D",
+    "armadilha": "C",
+    "dado_decisivo": "basófilos 7%",
+    "resolucao": "A pneumonia recente é verdadeira, e leucocitose com desvio à esquerda depois de infecção puxa para reação leucemoide, com busca de foco persistente. Os dados que decidem não pertencem a infecção: basofilia de 7% (a reação leucemoide não produz basófilos), eosinofilia, trombocitose, esplenomegalia de 10 cm e sintomas que começaram antes da pneumonia, com PCR já normalizada. Leucocitose acima de 100.000 com todo o espectro de maturação granulocítica, predomínio de mielócitos e segmentados e poucos blastos é leucemia mieloide crônica em fase crônica. O diagnóstico se confirma pelo BCR-ABL1 no sangue periférico (PCR quantitativo ou FISH); o mielograma com cariótipo entra depois para definir a fase e anomalias adicionais. A fosfatase alcalina leucocitária baixa sugere LMC, mas não confirma, e o JAK2 é das neoplasias mieloproliferativas Filadélfia negativas.",
+    "comentarios": {
+      "A": "Errada. A fosfatase alcalina leucocitária baixa é sugestiva, mas inespecífica e abandonada; não confirma o diagnóstico.",
+      "B": "Errada. JAK2 investiga policitemia vera, trombocitemia e mielofibrose; leucocitose com basofilia e mielócitos é LMC até prova em contrário.",
+      "C": "Errada. É a armadilha: reação leucemoide não dá basofilia nem baço de 10 cm, e a PCR já normalizou.",
+      "D": "Correta. Leucocitose com mielócitos, basofilia, trombocitose e esplenomegalia volumosa: LMC, confirmada pelo BCR-ABL1 no sangue periférico."
+    },
+    "para_levar": "Leucocitose com desvio até mielócitos, basofilia e esplenomegalia volumosa é LMC, mesmo após infecção: confirma-se com BCR-ABL1 no sangue (PCR ou FISH).",
+    "referencias": "ELN 2020 recommendations for CML (Hochhaus et al., Leukemia 2020); NCCN Chronic Myeloid Leukemia 2025.",
+    "tags": [
+      "Leucemias (CM)"
+    ],
+    "sourceQuestionId": "122f4f5f2493381",
+    "alvo": "LMC errada no banco e rótulo verdadeiro (infecção recente) contra o diferencial que decide (basófilos)."
   },
-  "para_levar": "TEV provocado por fator transitório maior (cirurgia, gesso) trata-se por 3 meses e para; pesquisar trombofilia não muda a conduta e não se faz.",
-  "referencias": "ASH 2020 guidelines for the treatment of VTE (Ortel et al.); ASH 2023 guidelines on thrombophilia testing (Middeldorp et al.); ESC 2019 guidelines on acute pulmonary embolism; CHEST 2021 Antithrombotic Therapy for VTE.",
-  "tags": [
-   "Trombose Venosa Profunda (CM)",
-   "Anticoagulação (CM)"
-  ],
-  "sourceQuestionId": "254da0a24f0795e",
-  "alvo": "Padrão dominante de sobreinvestigar: trombofilia sem indicação (omissão)."
- },
- {
-  "id": "S5-HEM-02",
-  "simulado": 5,
-  "area": "Hematologia",
-  "titulo": "Leucemia mieloide crônica x reação leucemoide após pneumonia: basofilia e baço decidem",
-  "arma": "Rótulo verdadeiro",
-  "comando": "próximo exame",
-  "nivel": "difícil",
-  "enunciado": "Mulher de 47 anos, tratada há 3 semanas com amoxicilina-clavulanato por pneumonia comunitária, com melhora da febre e da tosse, retorna porque o hemograma de controle mostrou leucocitose. Refere saciedade precoce e sudorese noturna há 3 meses, desde antes da pneumonia. Exame: afebril, baço palpável a 10 cm do rebordo costal. Hemograma: Hb 10,9 g/dL, leucócitos 156.000/mm³ com mielócitos 14%, metamielócitos 9%, bastões 12%, segmentados 48%, basófilos 7%, eosinófilos 5% e blastos 2%; plaquetas 640.000/mm³. PCR 1,2 mg/dL. O exame que confirma o diagnóstico mais provável é:",
-  "alternativas": {
-   "A": "Fosfatase alcalina leucocitária",
-   "B": "Pesquisa de JAK2 V617F",
-   "C": "Hemoculturas e nova radiografia",
-   "D": "Pesquisa de BCR-ABL1 no sangue"
+  {
+    "id": "S5-HEM-03",
+    "simulado": 5,
+    "area": "Hematologia",
+    "titulo": "Esquizócitos na sepse: CIVD x PTT pelo coagulograma, e crioprecipitado no sangramento",
+    "arma": "Grade X / Y",
+    "comando": "diagnóstico",
+    "nivel": "difícil",
+    "enunciado": "Homem de 61 anos, no 3º dia de internação por choque séptico de foco urinário por E. coli, em uso de noradrenalina, evolui com rebaixamento do nível de consciência, sangramento em sítios de cateter e petéquias. Exames: Hb 8,8 g/dL, plaquetas 31.000/mm³ (162.000 na admissão), esquizócitos em 1,5% das hemácias, LDH 780 U/L, creatinina 2,9 mg/dL, INR 2,2, TTPa 52 s (controle 30 s), fibrinogênio 88 mg/dL e D-dímero acima de 20 vezes o limite superior. O diagnóstico e a medida hemostática mais adequada são, respectivamente:",
+    "alternativas": {
+      "A": "PTT / plasmaférese",
+      "B": "PTT / crioprecipitado",
+      "C": "CIVD / plasmaférese",
+      "D": "CIVD / crioprecipitado"
+    },
+    "gabarito": "D",
+    "armadilha": "A",
+    "dado_decisivo": "fibrinogênio 88 mg/dL",
+    "resolucao": "Esquizócitos, plaquetopenia grave, alteração neurológica e lesão renal montam a pêntade da PTT, e a plasmaférese vem como reflexo. Esquizócitos, porém, aparecem em qualquer microangiopatia, inclusive na coagulação intravascular disseminada, e o que separa as duas é o coagulograma: a PTT consome plaquetas, mas não fatores, e tem TP, TTPa e fibrinogênio normais. Aqui INR de 2,2, TTPa alargado, fibrinogênio de 88 e D-dímero mais de 20 vezes acima do limite, num choque séptico, são consumo de fatores: CIVD, com escore ISTH bem acima de 5. O tratamento é o da sepse, e no paciente que sangra se repõe o que falta: crioprecipitado (ou concentrado de fibrinogênio) para fibrinogênio abaixo de 150, plaquetas abaixo de 50.000 e plasma para o INR alargado. A plasmaférese não tem papel na CIVD.",
+    "comentarios": {
+      "A": "Errada. É a armadilha: a PTT não alarga INR e TTPa nem consome fibrinogênio; esquizócitos sozinhos não fazem o diagnóstico.",
+      "B": "Errada. Erra as duas metades: não é PTT, e na PTT o crioprecipitado não teria papel.",
+      "C": "Errada. O diagnóstico está certo, mas plasmaférese não trata a CIVD; o tratamento é a causa e a reposição no sangramento.",
+      "D": "Correta. Consumo de fatores e de fibrinogênio na sepse é CIVD, e com sangramento e fibrinogênio de 88 a reposição é com crioprecipitado."
+    },
+    "para_levar": "Esquizócitos com plaquetopenia não são exclusivos da PTT: coagulograma alargado e fibrinogênio baixo na sepse é CIVD; trate a causa e, se sangra, reponha fibrinogênio (crioprecipitado), plaquetas e plasma.",
+    "referencias": "ISTH 2013 harmonized guidance on DIC (Wada et al.); BSH 2009 guidelines on DIC; Surviving Sepsis Campaign 2021.",
+    "tags": [
+      "Coagulação Intravascular Disseminada (CIVD) (CM)",
+      "Microangiopatia Trombótica (MAT) (CM)"
+    ],
+    "sourceQuestionId": "978158eda724646",
+    "alvo": "CIVD errada no banco; esquizócito como rótulo que vence o coagulograma."
   },
-  "gabarito": "D",
-  "armadilha": "C",
-  "dado_decisivo": "basófilos 7%",
-  "resolucao": "A pneumonia recente é verdadeira, e leucocitose com desvio à esquerda depois de infecção puxa para reação leucemoide, com busca de foco persistente. Os dados que decidem não pertencem a infecção: basofilia de 7% (a reação leucemoide não produz basófilos), eosinofilia, trombocitose, esplenomegalia de 10 cm e sintomas que começaram antes da pneumonia, com PCR já normalizada. Leucocitose acima de 100.000 com todo o espectro de maturação granulocítica, predomínio de mielócitos e segmentados e poucos blastos é leucemia mieloide crônica em fase crônica. O diagnóstico se confirma pelo BCR-ABL1 no sangue periférico (PCR quantitativo ou FISH); o mielograma com cariótipo entra depois para definir a fase e anomalias adicionais. A fosfatase alcalina leucocitária baixa sugere LMC, mas não confirma, e o JAK2 é das neoplasias mieloproliferativas Filadélfia negativas.",
-  "comentarios": {
-   "A": "Errada. A fosfatase alcalina leucocitária baixa é sugestiva, mas inespecífica e abandonada; não confirma o diagnóstico.",
-   "B": "Errada. JAK2 investiga policitemia vera, trombocitemia e mielofibrose; leucocitose com basofilia e mielócitos é LMC até prova em contrário.",
-   "C": "Errada. É a armadilha: reação leucemoide não dá basofilia nem baço de 10 cm, e a PCR já normalizou.",
-   "D": "Correta. Leucocitose com mielócitos, basofilia, trombocitose e esplenomegalia volumosa: LMC, confirmada pelo BCR-ABL1 no sangue periférico."
+  {
+    "id": "S5-HEM-04",
+    "simulado": 5,
+    "area": "Hematologia",
+    "titulo": "Limiar transfusional restritivo no internado estável sem doença cardiovascular",
+    "arma": "Negativo no meio",
+    "comando": "conduta",
+    "nivel": "média",
+    "enunciado": "Mulher de 56 anos está no 5º dia de internação por pielonefrite com sepse, sem vasopressor desde ontem, com lactato normal e alimentando-se. Tem hipotireoidismo; não tem doença coronariana nem insuficiência cardíaca e não há sangramento ativo. Refere cansaço ao caminhar no corredor. Exame: FC 92 bpm, PA 118 x 70 mmHg, SpO2 97% em ar ambiente. Exames: Hb 7,3 g/dL (9,8 na admissão, queda atribuída à hemodiluição e às coletas), VCM 88 fL, plaquetas 190.000/mm³, ferritina 680 ng/mL, saturação de transferrina 14%. A conduta mais adequada em relação à anemia neste momento é:",
+    "alternativas": {
+      "A": "Transfundir 1 concentrado de hemácias",
+      "B": "Transfundir 2 concentrados de hemácias",
+      "C": "Não transfundir e reavaliar",
+      "D": "Alfaepoetina subcutânea"
+    },
+    "gabarito": "C",
+    "armadilha": "A",
+    "dado_decisivo": "não tem doença coronariana nem insuficiência cardíaca e não há sangramento ativo",
+    "resolucao": "Hemoglobina de 7,3 com cansaço convida a transfundir uma unidade \"para garantir\". A estratégia restritiva, porém, é o padrão para o adulto internado estável: transfundir abaixo de 7 g/dL, com limiar de 7,5 em cirurgia cardíaca e de 8 em quem tem doença cardiovascular preexistente. Os negativos no meio do caso decidem: sem doença coronariana, sem insuficiência cardíaca, sem sangramento e com a sepse resolvida, o limiar é 7, e ela está acima dele. Cansaço leve ao deambular é esperado na convalescença e não é instabilidade nem isquemia. A ferritina alta com saturação baixa é a anemia inflamatória da sepse, que melhora com a resolução da infecção, e a alfaepoetina não tem indicação no paciente agudo.",
+    "comentarios": {
+      "A": "Errada. É a armadilha: uma unidade seria o certo abaixo de 7 g/dL ou com doença cardiovascular e Hb abaixo de 8; aqui nenhum dos dois.",
+      "B": "Errada. Além de não haver indicação, a transfusão se faz uma unidade por vez, com reavaliação.",
+      "C": "Correta. Internada estável, sem doença cardiovascular nem sangramento, com Hb de 7,3: acima do limiar restritivo de 7 g/dL.",
+      "D": "Errada. Agente estimulador não tem papel na anemia inflamatória da sepse aguda e aumenta o risco trombótico."
+    },
+    "para_levar": "No internado estável sem doença cardiovascular e sem sangramento, transfunde-se abaixo de 7 g/dL (8 com doença cardiovascular), uma unidade por vez.",
+    "referencias": "AABB International Guidelines for RBC transfusion 2023 (Carson et al., JAMA 2023); Surviving Sepsis Campaign 2021; Ministério da Saúde, Guia para uso de hemocomponentes (2015).",
+    "tags": [
+      "Hemoterapia (CM)"
+    ],
+    "sourceQuestionId": null,
+    "alvo": "Hemoterapia 45% e o padrão de transfundir o que não precisa."
   },
-  "para_levar": "Leucocitose com desvio até mielócitos, basofilia e esplenomegalia volumosa é LMC, mesmo após infecção: confirma-se com BCR-ABL1 no sangue (PCR ou FISH).",
-  "referencias": "ELN 2020 recommendations for CML (Hochhaus et al., Leukemia 2020); NCCN Chronic Myeloid Leukemia 2025.",
-  "tags": [
-   "Leucemias (CM)"
-  ],
-  "sourceQuestionId": "122f4f5f2493381",
-  "alvo": "LMC errada no banco e rótulo verdadeiro (infecção recente) contra o diferencial que decide (basófilos)."
- },
- {
-  "id": "S5-HEM-03",
-  "simulado": 5,
-  "area": "Hematologia",
-  "titulo": "Esquizócitos na sepse: CIVD x PTT pelo coagulograma, e crioprecipitado no sangramento",
-  "arma": "Grade X / Y",
-  "comando": "diagnóstico",
-  "nivel": "difícil",
-  "enunciado": "Homem de 61 anos, no 3º dia de internação por choque séptico de foco urinário por E. coli, em uso de noradrenalina, evolui com rebaixamento do nível de consciência, sangramento em sítios de cateter e petéquias. Exames: Hb 8,8 g/dL, plaquetas 31.000/mm³ (162.000 na admissão), esquizócitos em 1,5% das hemácias, LDH 780 U/L, creatinina 2,9 mg/dL, INR 2,2, TTPa 52 s (controle 30 s), fibrinogênio 88 mg/dL e D-dímero acima de 20 vezes o limite superior. O diagnóstico e a medida hemostática mais adequada são, respectivamente:",
-  "alternativas": {
-   "A": "PTT / plasmaférese",
-   "B": "PTT / crioprecipitado",
-   "C": "CIVD / plasmaférese",
-   "D": "CIVD / crioprecipitado"
+  {
+    "id": "S5-HEM-05",
+    "simulado": 5,
+    "area": "Hematologia",
+    "titulo": "Mieloma pelos critérios SLiM: razão de cadeias leves acima de 100 em assintomático",
+    "arma": "Limiar",
+    "comando": "conduta",
+    "nivel": "extremamente difícil",
+    "enunciado": "Homem de 62 anos, assintomático, é encaminhado por pico monoclonal achado em exame de rotina. Sem dor óssea e sem infecções de repetição. Exames: Hb 13,6 g/dL, creatinina 0,9 mg/dL, cálcio 9,6 mg/dL, pico monoclonal IgA lambda de 2,1 g/dL, cadeia leve livre lambda de 1.480 mg/L e kappa de 9 mg/L (razão envolvida/não envolvida 164), medula óssea com 22% de plasmócitos clonais. Ressonância de corpo inteiro sem lesões focais e tomografia de baixa dose sem lesões líticas. A conduta mais adequada é:",
+    "alternativas": {
+      "A": "Observação com reavaliação trimestral",
+      "B": "Tratamento do mieloma múltiplo",
+      "C": "Bifosfonato isolado",
+      "D": "Daratumumabe para mieloma latente"
+    },
+    "gabarito": "B",
+    "armadilha": "D",
+    "dado_decisivo": "razão envolvida/não envolvida 164",
+    "resolucao": "Sem anemia, hipercalcemia, lesão renal ou lesão óssea, ele não tem CRAB, e o apressado classifica como mieloma latente. Com plasmócitos de 22%, pico de 2,1 g/dL e razão de cadeias leves acima de 20, seria latente de alto risco (critério 20/2/20), e o daratumumabe, que reduziu progressão nesse grupo, viraria a finalista. O limiar que decide vem antes: desde 2014 o IMWG define mieloma ativo também pelos biomarcadores SLiM, que preveem progressão de cerca de 80% em 2 anos: plasmócitos clonais de 60% ou mais, razão de cadeias leves envolvida/não envolvida de 100 ou mais (com a envolvida de pelo menos 100 mg/L) ou mais de uma lesão focal na ressonância. Razão de 164 com lambda de 1.480 mg/L é mieloma múltiplo, e o tratamento é o do mieloma, não observação nem prevenção.",
+    "comentarios": {
+      "A": "Errada. Observação seria para mieloma latente de baixo risco; a razão de 164 já define mieloma ativo.",
+      "B": "Correta. Razão de cadeias leves envolvida/não envolvida de 100 ou mais é critério SLiM: mieloma ativo mesmo sem CRAB, com indicação de tratamento.",
+      "C": "Errada. Bifosfonato isolado não trata o clone e não se indica como terapia do mieloma latente ou ativo.",
+      "D": "Errada. É a armadilha: o daratumumabe para latente de alto risco pressupõe que não há critério SLiM; aqui o limiar de 100 foi cruzado."
+    },
+    "para_levar": "SLiM-CRAB: plasmócitos de 60% ou mais, razão de cadeias leves de 100 ou mais ou mais de uma lesão focal na ressonância definem mieloma ativo, mesmo sem CRAB.",
+    "referencias": "IMWG 2014 updated criteria (Rajkumar et al., Lancet Oncol 2014); modelo 20/2/20 de risco do mieloma latente (Mayo/IMWG, 2020); NCCN Multiple Myeloma 2025.",
+    "tags": [
+      "Mieloma Múltiplo (CM)",
+      "Mieloma Múltiplo e Outras Discrasias Plasmocitárias (CM)"
+    ],
+    "sourceQuestionId": "5ca99835fd3dbe7",
+    "alvo": "Limiar numérico (SLiM) contra o rótulo \"assintomático, sem CRAB\"."
   },
-  "gabarito": "D",
-  "armadilha": "A",
-  "dado_decisivo": "fibrinogênio 88 mg/dL",
-  "resolucao": "Esquizócitos, plaquetopenia grave, alteração neurológica e lesão renal montam a pêntade da PTT, e a plasmaférese vem como reflexo. Esquizócitos, porém, aparecem em qualquer microangiopatia, inclusive na coagulação intravascular disseminada, e o que separa as duas é o coagulograma: a PTT consome plaquetas, mas não fatores, e tem TP, TTPa e fibrinogênio normais. Aqui INR de 2,2, TTPa alargado, fibrinogênio de 88 e D-dímero mais de 20 vezes acima do limite, num choque séptico, são consumo de fatores: CIVD, com escore ISTH bem acima de 5. O tratamento é o da sepse, e no paciente que sangra se repõe o que falta: crioprecipitado (ou concentrado de fibrinogênio) para fibrinogênio abaixo de 150, plaquetas abaixo de 50.000 e plasma para o INR alargado. A plasmaférese não tem papel na CIVD.",
-  "comentarios": {
-   "A": "Errada. É a armadilha: a PTT não alarga INR e TTPa nem consome fibrinogênio; esquizócitos sozinhos não fazem o diagnóstico.",
-   "B": "Errada. Erra as duas metades: não é PTT, e na PTT o crioprecipitado não teria papel.",
-   "C": "Errada. O diagnóstico está certo, mas plasmaférese não trata a CIVD; o tratamento é a causa e a reposição no sangramento.",
-   "D": "Correta. Consumo de fatores e de fibrinogênio na sepse é CIVD, e com sangramento e fibrinogênio de 88 a reposição é com crioprecipitado."
+  {
+    "id": "S5-HEM-06",
+    "simulado": 5,
+    "area": "Hematologia",
+    "titulo": "Hemólise 8 dias após transfusão em multípara: reação hemolítica tardia por aloanticorpo",
+    "arma": "Cronologia",
+    "comando": "diagnóstico",
+    "nivel": "difícil",
+    "enunciado": "Mulher de 44 anos, com 3 gestações prévias, recebeu 2 concentrados de hemácias compatíveis há 8 dias, durante histerectomia por miomatose com sangramento. Teve alta no 3º dia com Hb de 10,1 g/dL. Hoje retorna com icterícia, urina escura e cansaço. Desde a alta usa dipirona e cefalexina por infecção da ferida operatória. Exames: Hb 7,4 g/dL, reticulócitos 6%, LDH 820 U/L, bilirrubina indireta 3,6 mg/dL, haptoglobina indetectável, Coombs direto positivo (IgG), esfregaço com esferócitos e sem esquizócitos. A pesquisa de anticorpos irregulares é positiva para anti-Jka, ausente na amostra pré-transfusional. O diagnóstico mais provável é:",
+    "alternativas": {
+      "A": "Reação hemolítica aguda por ABO",
+      "B": "Anemia hemolítica autoimune quente",
+      "C": "Hemólise imune induzida por cefalexina",
+      "D": "Reação hemolítica transfusional tardia"
+    },
+    "gabarito": "D",
+    "armadilha": "B",
+    "dado_decisivo": "anti-Jka, ausente na amostra pré-transfusional",
+    "resolucao": "Coombs direto IgG positivo com esferócitos é a assinatura da anemia hemolítica autoimune quente, e a cefalexina oferece uma segunda isca, a hemólise imune por droga. A cronologia decide: hemólise extravascular entre 3 e 14 dias após transfusão, num paciente previamente sensibilizado (três gestações), é a resposta anamnéstica a um antígeno eritrocitário do doador. O anticorpo estava em título indetectável na prova pré-transfusional e reapareceu após a reexposição, e a prova é o anti-Jka novo, ausente antes. Os anticorpos do sistema Kidd são os mais associados a essa reação porque caem rapidamente a níveis indetectáveis. A reação aguda por ABO acontece em minutos a horas, com hemólise intravascular. A conduta é registrar o anticorpo e transfundir, quando necessário, hemácias Jk(a) negativas.",
+    "comentarios": {
+      "A": "Errada. A reação ABO ocorre em minutos a horas da transfusão, com hemólise intravascular, febre e hipotensão, não após 8 dias.",
+      "B": "Errada. É a armadilha: o Coombs IgG e os esferócitos estão lá, mas um aloanticorpo novo contra antígeno do doador 8 dias após transfusão não é autoanticorpo.",
+      "C": "Errada. Hemólise por cefalosporina é rara, mais associada à ceftriaxona, e não explicaria o aloanticorpo anti-Jka.",
+      "D": "Correta. Hemólise com Coombs positivo 8 dias após transfusão, em sensibilizada por gestações, com anti-Jka novo: reação hemolítica tardia."
+    },
+    "para_levar": "Hemólise extravascular 3 a 14 dias após transfusão, com Coombs IgG positivo e aloanticorpo novo (Kidd é o mais traiçoeiro), é reação hemolítica tardia; registrar o anticorpo e dar hemácias antígeno-negativas.",
+    "referencias": "ANVISA, Marco conceitual e operacional de hemovigilância (2015); AABB Technical Manual, 21ª edição (2023).",
+    "tags": [
+      "Reações Transfusionais (CM)"
+    ],
+    "sourceQuestionId": null,
+    "alvo": "Hemoterapia 45%: tipo de reação transfusional pela cronologia."
   },
-  "para_levar": "Esquizócitos com plaquetopenia não são exclusivos da PTT: coagulograma alargado e fibrinogênio baixo na sepse é CIVD; trate a causa e, se sangra, reponha fibrinogênio (crioprecipitado), plaquetas e plasma.",
-  "referencias": "ISTH 2013 harmonized guidance on DIC (Wada et al.); BSH 2009 guidelines on DIC; Surviving Sepsis Campaign 2021.",
-  "tags": [
-   "Coagulação Intravascular Disseminada (CIVD) (CM)",
-   "Microangiopatia Trombótica (MAT) (CM)"
-  ],
-  "sourceQuestionId": "978158eda724646",
-  "alvo": "CIVD errada no banco; esquizócito como rótulo que vence o coagulograma."
- },
- {
-  "id": "S5-HEM-04",
-  "simulado": 5,
-  "area": "Hematologia",
-  "titulo": "Limiar transfusional restritivo no internado estável sem doença cardiovascular",
-  "arma": "Negativo no meio",
-  "comando": "conduta",
-  "nivel": "média",
-  "enunciado": "Mulher de 56 anos está no 5º dia de internação por pielonefrite com sepse, sem vasopressor desde ontem, com lactato normal e alimentando-se. Tem hipotireoidismo; não tem doença coronariana nem insuficiência cardíaca e não há sangramento ativo. Refere cansaço ao caminhar no corredor. Exame: FC 92 bpm, PA 118 x 70 mmHg, SpO2 97% em ar ambiente. Exames: Hb 7,3 g/dL (9,8 na admissão, queda atribuída à hemodiluição e às coletas), VCM 88 fL, plaquetas 190.000/mm³, ferritina 680 ng/mL, saturação de transferrina 14%. A conduta mais adequada em relação à anemia neste momento é:",
-  "alternativas": {
-   "A": "Transfundir 1 concentrado de hemácias",
-   "B": "Transfundir 2 concentrados de hemácias",
-   "C": "Não transfundir e reavaliar",
-   "D": "Alfaepoetina subcutânea"
+  {
+    "id": "S5-HEM-07",
+    "simulado": 5,
+    "area": "Hematologia",
+    "titulo": "Macrocitose pela hidroxiureia na doença falciforme: sinal de adesão, não de carência",
+    "arma": "Droga a deduzir",
+    "comando": "etiologia",
+    "nivel": "difícil",
+    "enunciado": "Mulher de 27 anos, com anemia falciforme (HbSS), é acompanhada no hemocentro. Há 1 ano, após três internações por crise vaso-oclusiva e uma síndrome torácica aguda, passou a tomar \"uma cápsula diária que reduz as crises\", com redução importante das dores. Usa também ácido fólico. É vegetariana estrita há 5 anos, sem suplementos. Assintomática. Exames: Hb 9,4 g/dL (basal anterior de 7,8), VCM 118 fL (era 88), reticulócitos 4% (eram 12%), leucócitos 5.800/mm³, neutrófilos 3.100/mm³, plaquetas 260.000/mm³, LDH 380 U/L (era 790) e hemoglobina fetal de 22% (era 6%). A explicação mais provável para a elevação do VCM é:",
+    "alternativas": {
+      "A": "Deficiência de vitamina B12 pela dieta",
+      "B": "Efeito esperado da hidroxiureia",
+      "C": "Síndrome mielodisplásica secundária",
+      "D": "Deficiência de folato por hemólise"
+    },
+    "gabarito": "B",
+    "armadilha": "A",
+    "dado_decisivo": "hemoglobina fetal de 22% (era 6%)",
+    "resolucao": "A droga não foi nomeada, mas uma cápsula diária que reduz crises na anemia falciforme, iniciada após síndrome torácica aguda, é a hidroxiureia. O rótulo verdadeiro é a dieta vegetariana estrita sem suplementação, que puxa para carência de B12. Os números contam outra história: a carência de B12 pioraria a anemia, aumentaria a LDH pela eritropoese ineficaz e poderia baixar neutrófilos e plaquetas, e aqui a Hb subiu, a LDH caiu pela metade e os reticulócitos caíram porque a hemólise diminuiu. A hidroxiureia induz hemoglobina fetal (de 6% para 22%) e macrocitose por inibir a ribonucleotídeo redutase, e o VCM subindo junto com a HbF é o marcador de adesão e de efeito. Não há o que tratar; dosar B12 numa vegetariana é razoável no seguimento, mas não é a explicação do quadro.",
+    "comentarios": {
+      "A": "Errada. É a armadilha: a dieta é verdadeira, mas a carência de B12 pioraria a anemia e elevaria a LDH, e aqui a Hb subiu e a LDH caiu.",
+      "B": "Correta. Hidroxiureia (droga a deduzir) eleva HbF e VCM e reduz hemólise: VCM alto com Hb melhor e HbF de 22% é efeito esperado e sinal de adesão.",
+      "C": "Errada. SMD secundária daria citopenias e displasia, não melhora da Hb com redução da hemólise.",
+      "D": "Errada. Ela usa ácido fólico, e a hemólise diminuiu; carência de folato pioraria a anemia."
+    },
+    "para_levar": "Hidroxiureia eleva a HbF e o VCM e reduz reticulócitos e LDH: macrocitose com Hb melhor e HbF alta é adesão ao tratamento, não carência.",
+    "referencias": "ASH 2020 guidelines for sickle cell disease; NHLBI 2014 Evidence-Based Management of Sickle Cell Disease; PCDT Doença Falciforme, Ministério da Saúde (2018).",
+    "tags": [
+      "Anemia Falciforme (CM)",
+      "Anemia Megalobástica (CM)"
+    ],
+    "sourceQuestionId": "56b662807835b5c",
+    "alvo": "Megaloblástica por droga e droga a deduzir; rótulo (vegetariana) contra os números de hemólise."
   },
-  "gabarito": "C",
-  "armadilha": "A",
-  "dado_decisivo": "não tem doença coronariana nem insuficiência cardíaca e não há sangramento ativo",
-  "resolucao": "Hemoglobina de 7,3 com cansaço convida a transfundir uma unidade \"para garantir\". A estratégia restritiva, porém, é o padrão para o adulto internado estável: transfundir abaixo de 7 g/dL, com limiar de 7,5 em cirurgia cardíaca e de 8 em quem tem doença cardiovascular preexistente. Os negativos no meio do caso decidem: sem doença coronariana, sem insuficiência cardíaca, sem sangramento e com a sepse resolvida, o limiar é 7, e ela está acima dele. Cansaço leve ao deambular é esperado na convalescença e não é instabilidade nem isquemia. A ferritina alta com saturação baixa é a anemia inflamatória da sepse, que melhora com a resolução da infecção, e a alfaepoetina não tem indicação no paciente agudo.",
-  "comentarios": {
-   "A": "Errada. É a armadilha: uma unidade seria o certo abaixo de 7 g/dL ou com doença cardiovascular e Hb abaixo de 8; aqui nenhum dos dois.",
-   "B": "Errada. Além de não haver indicação, a transfusão se faz uma unidade por vez, com reavaliação.",
-   "C": "Correta. Internada estável, sem doença cardiovascular nem sangramento, com Hb de 7,3: acima do limiar restritivo de 7 g/dL.",
-   "D": "Errada. Agente estimulador não tem papel na anemia inflamatória da sepse aguda e aumenta o risco trombótico."
+  {
+    "id": "S5-HEM-08",
+    "simulado": 5,
+    "area": "Hematologia",
+    "titulo": "Doença de von Willebrand com TTPa normal: o escore de sangramento indica a dosagem do fator",
+    "arma": "Dado omitido",
+    "comando": "próximo exame",
+    "nivel": "difícil",
+    "enunciado": "Mulher de 24 anos procura o clínico antes de extração de terceiros molares. Desde a menarca tem menstruações de 8 dias com coágulos, já usou sulfato ferroso duas vezes e sangrou por 2 dias após amigdalectomia na infância. Tem equimoses fáceis. A mãe \"sangra muito no dentista\". Não usa medicamentos. Exames: Hb 11,1 g/dL, ferritina 9 ng/mL, plaquetas 260.000/mm³, INR 1,0, TTPa 32 s (controle 30 s), fibrinogênio 290 mg/dL. Escore de sangramento ISTH-BAT de 7. O próximo exame mais adequado é:",
+    "alternativas": {
+      "A": "Fator de von Willebrand e FVIII",
+      "B": "Dosagem da atividade do fator XI",
+      "C": "Tempo de sangramento de Ivy",
+      "D": "Nenhum, o coagulograma é normal"
+    },
+    "gabarito": "A",
+    "armadilha": "D",
+    "dado_decisivo": "Escore de sangramento ISTH-BAT de 7",
+    "resolucao": "O dado omitido de propósito é o TTPa alargado, que o candidato associa à doença de von Willebrand e que aqui está normal; daí a tentação de liberar a extração com coagulograma normal. Na doença de von Willebrand tipo 1, a mais comum, o fator VIII costuma ficar acima de 40%, e o TTPa só se alarga quando ele cai abaixo disso. O que decide é a clínica: sangramento mucocutâneo desde a infância, menorragia com ferropenia, sangramento pós-amigdalectomia, mãe com sangramento dentário e escore ISTH-BAT de 7 (6 ou mais é anormal na mulher). A diretriz de 2021 indica dosar o antígeno do fator de von Willebrand, a atividade plaquetária (GPIbM ou cofator de ristocetina) e o fator VIII. O tempo de sangramento é pouco sensível e abandonado, e a deficiência de fator XI alongaria o TTPa.",
+    "comentarios": {
+      "A": "Correta. Sangramento mucocutâneo com escore ISTH-BAT de 7 e história familiar: antígeno e atividade do fator de von Willebrand com fator VIII, mesmo com TTPa normal.",
+      "B": "Errada. A deficiência de fator XI dá sangramento pós-procedimento, mas alongaria o TTPa, e o padrão aqui é mucocutâneo.",
+      "C": "Errada. O tempo de sangramento é pouco sensível e reprodutível e foi abandonado na investigação de von Willebrand.",
+      "D": "Errada. É a armadilha: TTPa normal não afasta von Willebrand tipo 1, e o escore de sangramento já é anormal."
+    },
+    "para_levar": "TTPa normal não afasta doença de von Willebrand: com sangramento mucocutâneo e escore ISTH-BAT alterado, dose antígeno, atividade do fator e fator VIII.",
+    "referencias": "ASH/ISTH/NHF/WFH 2021 guidelines on the diagnosis of von Willebrand disease.",
+    "tags": [
+      "Doença de Von Willebrand (CM)",
+      "Distúrbios de Hemostasia (CM)"
+    ],
+    "sourceQuestionId": "b639aa2adbc6b87",
+    "alvo": "Distúrbio de hemostasia no pré-operatório (erro registrado) e exame normal lido como encerramento."
   },
-  "para_levar": "No internado estável sem doença cardiovascular e sem sangramento, transfunde-se abaixo de 7 g/dL (8 com doença cardiovascular), uma unidade por vez.",
-  "referencias": "AABB International Guidelines for RBC transfusion 2023 (Carson et al., JAMA 2023); Surviving Sepsis Campaign 2021; Ministério da Saúde, Guia para uso de hemocomponentes (2015).",
-  "tags": [
-   "Hemoterapia (CM)"
-  ],
-  "sourceQuestionId": null,
-  "alvo": "Hemoterapia 45% e o padrão de transfundir o que não precisa."
- },
- {
-  "id": "S5-HEM-05",
-  "simulado": 5,
-  "area": "Hematologia",
-  "titulo": "Mieloma pelos critérios SLiM: razão de cadeias leves acima de 100 em assintomático",
-  "arma": "Limiar",
-  "comando": "conduta",
-  "nivel": "extremamente difícil",
-  "enunciado": "Homem de 62 anos, assintomático, é encaminhado por pico monoclonal achado em exame de rotina. Sem dor óssea e sem infecções de repetição. Exames: Hb 13,6 g/dL, creatinina 0,9 mg/dL, cálcio 9,6 mg/dL, pico monoclonal IgA lambda de 2,1 g/dL, cadeia leve livre lambda de 1.480 mg/L e kappa de 9 mg/L (razão envolvida/não envolvida 164), medula óssea com 22% de plasmócitos clonais. Ressonância de corpo inteiro sem lesões focais e tomografia de baixa dose sem lesões líticas. A conduta mais adequada é:",
-  "alternativas": {
-   "A": "Observação com reavaliação trimestral",
-   "B": "Tratamento do mieloma múltiplo",
-   "C": "Bifosfonato isolado",
-   "D": "Daratumumabe para mieloma latente"
-  },
-  "gabarito": "B",
-  "armadilha": "D",
-  "dado_decisivo": "razão envolvida/não envolvida 164",
-  "resolucao": "Sem anemia, hipercalcemia, lesão renal ou lesão óssea, ele não tem CRAB, e o apressado classifica como mieloma latente. Com plasmócitos de 22%, pico de 2,1 g/dL e razão de cadeias leves acima de 20, seria latente de alto risco (critério 20/2/20), e o daratumumabe, que reduziu progressão nesse grupo, viraria a finalista. O limiar que decide vem antes: desde 2014 o IMWG define mieloma ativo também pelos biomarcadores SLiM, que preveem progressão de cerca de 80% em 2 anos: plasmócitos clonais de 60% ou mais, razão de cadeias leves envolvida/não envolvida de 100 ou mais (com a envolvida de pelo menos 100 mg/L) ou mais de uma lesão focal na ressonância. Razão de 164 com lambda de 1.480 mg/L é mieloma múltiplo, e o tratamento é o do mieloma, não observação nem prevenção.",
-  "comentarios": {
-   "A": "Errada. Observação seria para mieloma latente de baixo risco; a razão de 164 já define mieloma ativo.",
-   "B": "Correta. Razão de cadeias leves envolvida/não envolvida de 100 ou mais é critério SLiM: mieloma ativo mesmo sem CRAB, com indicação de tratamento.",
-   "C": "Errada. Bifosfonato isolado não trata o clone e não se indica como terapia do mieloma latente ou ativo.",
-   "D": "Errada. É a armadilha: o daratumumabe para latente de alto risco pressupõe que não há critério SLiM; aqui o limiar de 100 foi cruzado."
-  },
-  "para_levar": "SLiM-CRAB: plasmócitos de 60% ou mais, razão de cadeias leves de 100 ou mais ou mais de uma lesão focal na ressonância definem mieloma ativo, mesmo sem CRAB.",
-  "referencias": "IMWG 2014 updated criteria (Rajkumar et al., Lancet Oncol 2014); modelo 20/2/20 de risco do mieloma latente (Mayo/IMWG, 2020); NCCN Multiple Myeloma 2025.",
-  "tags": [
-   "Mieloma Múltiplo (CM)",
-   "Mieloma Múltiplo e Outras Discrasias Plasmocitárias (CM)"
-  ],
-  "sourceQuestionId": "5ca99835fd3dbe7",
-  "alvo": "Limiar numérico (SLiM) contra o rótulo \"assintomático, sem CRAB\"."
- },
- {
-  "id": "S5-HEM-06",
-  "simulado": 5,
-  "area": "Hematologia",
-  "titulo": "Hemólise 8 dias após transfusão em multípara: reação hemolítica tardia por aloanticorpo",
-  "arma": "Cronologia",
-  "comando": "diagnóstico",
-  "nivel": "difícil",
-  "enunciado": "Mulher de 44 anos, com 3 gestações prévias, recebeu 2 concentrados de hemácias compatíveis há 8 dias, durante histerectomia por miomatose com sangramento. Teve alta no 3º dia com Hb de 10,1 g/dL. Hoje retorna com icterícia, urina escura e cansaço. Desde a alta usa dipirona e cefalexina por infecção da ferida operatória. Exames: Hb 7,4 g/dL, reticulócitos 6%, LDH 820 U/L, bilirrubina indireta 3,6 mg/dL, haptoglobina indetectável, Coombs direto positivo (IgG), esfregaço com esferócitos e sem esquizócitos. A pesquisa de anticorpos irregulares é positiva para anti-Jka, ausente na amostra pré-transfusional. O diagnóstico mais provável é:",
-  "alternativas": {
-   "A": "Reação hemolítica aguda por ABO",
-   "B": "Anemia hemolítica autoimune quente",
-   "C": "Hemólise imune induzida por cefalexina",
-   "D": "Reação hemolítica transfusional tardia"
-  },
-  "gabarito": "D",
-  "armadilha": "B",
-  "dado_decisivo": "anti-Jka, ausente na amostra pré-transfusional",
-  "resolucao": "Coombs direto IgG positivo com esferócitos é a assinatura da anemia hemolítica autoimune quente, e a cefalexina oferece uma segunda isca, a hemólise imune por droga. A cronologia decide: hemólise extravascular entre 3 e 14 dias após transfusão, num paciente previamente sensibilizado (três gestações), é a resposta anamnéstica a um antígeno eritrocitário do doador. O anticorpo estava em título indetectável na prova pré-transfusional e reapareceu após a reexposição, e a prova é o anti-Jka novo, ausente antes. Os anticorpos do sistema Kidd são os mais associados a essa reação porque caem rapidamente a níveis indetectáveis. A reação aguda por ABO acontece em minutos a horas, com hemólise intravascular. A conduta é registrar o anticorpo e transfundir, quando necessário, hemácias Jk(a) negativas.",
-  "comentarios": {
-   "A": "Errada. A reação ABO ocorre em minutos a horas da transfusão, com hemólise intravascular, febre e hipotensão, não após 8 dias.",
-   "B": "Errada. É a armadilha: o Coombs IgG e os esferócitos estão lá, mas um aloanticorpo novo contra antígeno do doador 8 dias após transfusão não é autoanticorpo.",
-   "C": "Errada. Hemólise por cefalosporina é rara, mais associada à ceftriaxona, e não explicaria o aloanticorpo anti-Jka.",
-   "D": "Correta. Hemólise com Coombs positivo 8 dias após transfusão, em sensibilizada por gestações, com anti-Jka novo: reação hemolítica tardia."
-  },
-  "para_levar": "Hemólise extravascular 3 a 14 dias após transfusão, com Coombs IgG positivo e aloanticorpo novo (Kidd é o mais traiçoeiro), é reação hemolítica tardia; registrar o anticorpo e dar hemácias antígeno-negativas.",
-  "referencias": "ANVISA, Marco conceitual e operacional de hemovigilância (2015); AABB Technical Manual, 21ª edição (2023).",
-  "tags": [
-   "Reações Transfusionais (CM)"
-  ],
-  "sourceQuestionId": null,
-  "alvo": "Hemoterapia 45%: tipo de reação transfusional pela cronologia."
- },
- {
-  "id": "S5-HEM-07",
-  "simulado": 5,
-  "area": "Hematologia",
-  "titulo": "Macrocitose pela hidroxiureia na doença falciforme: sinal de adesão, não de carência",
-  "arma": "Droga a deduzir",
-  "comando": "etiologia",
-  "nivel": "difícil",
-  "enunciado": "Mulher de 27 anos, com anemia falciforme (HbSS), é acompanhada no hemocentro. Há 1 ano, após três internações por crise vaso-oclusiva e uma síndrome torácica aguda, passou a tomar \"uma cápsula diária que reduz as crises\", com redução importante das dores. Usa também ácido fólico. É vegetariana estrita há 5 anos, sem suplementos. Assintomática. Exames: Hb 9,4 g/dL (basal anterior de 7,8), VCM 118 fL (era 88), reticulócitos 4% (eram 12%), leucócitos 5.800/mm³, neutrófilos 3.100/mm³, plaquetas 260.000/mm³, LDH 380 U/L (era 790) e hemoglobina fetal de 22% (era 6%). A explicação mais provável para a elevação do VCM é:",
-  "alternativas": {
-   "A": "Deficiência de vitamina B12 pela dieta",
-   "B": "Efeito esperado da hidroxiureia",
-   "C": "Síndrome mielodisplásica secundária",
-   "D": "Deficiência de folato por hemólise"
-  },
-  "gabarito": "B",
-  "armadilha": "A",
-  "dado_decisivo": "hemoglobina fetal de 22% (era 6%)",
-  "resolucao": "A droga não foi nomeada, mas uma cápsula diária que reduz crises na anemia falciforme, iniciada após síndrome torácica aguda, é a hidroxiureia. O rótulo verdadeiro é a dieta vegetariana estrita sem suplementação, que puxa para carência de B12. Os números contam outra história: a carência de B12 pioraria a anemia, aumentaria a LDH pela eritropoese ineficaz e poderia baixar neutrófilos e plaquetas, e aqui a Hb subiu, a LDH caiu pela metade e os reticulócitos caíram porque a hemólise diminuiu. A hidroxiureia induz hemoglobina fetal (de 6% para 22%) e macrocitose por inibir a ribonucleotídeo redutase, e o VCM subindo junto com a HbF é o marcador de adesão e de efeito. Não há o que tratar; dosar B12 numa vegetariana é razoável no seguimento, mas não é a explicação do quadro.",
-  "comentarios": {
-   "A": "Errada. É a armadilha: a dieta é verdadeira, mas a carência de B12 pioraria a anemia e elevaria a LDH, e aqui a Hb subiu e a LDH caiu.",
-   "B": "Correta. Hidroxiureia (droga a deduzir) eleva HbF e VCM e reduz hemólise: VCM alto com Hb melhor e HbF de 22% é efeito esperado e sinal de adesão.",
-   "C": "Errada. SMD secundária daria citopenias e displasia, não melhora da Hb com redução da hemólise.",
-   "D": "Errada. Ela usa ácido fólico, e a hemólise diminuiu; carência de folato pioraria a anemia."
-  },
-  "para_levar": "Hidroxiureia eleva a HbF e o VCM e reduz reticulócitos e LDH: macrocitose com Hb melhor e HbF alta é adesão ao tratamento, não carência.",
-  "referencias": "ASH 2020 guidelines for sickle cell disease; NHLBI 2014 Evidence-Based Management of Sickle Cell Disease; PCDT Doença Falciforme, Ministério da Saúde (2018).",
-  "tags": [
-   "Anemia Falciforme (CM)",
-   "Anemia Megalobástica (CM)"
-  ],
-  "sourceQuestionId": "56b662807835b5c",
-  "alvo": "Megaloblástica por droga e droga a deduzir; rótulo (vegetariana) contra os números de hemólise."
- },
- {
-  "id": "S5-HEM-08",
-  "simulado": 5,
-  "area": "Hematologia",
-  "titulo": "Doença de von Willebrand com TTPa normal: o escore de sangramento indica a dosagem do fator",
-  "arma": "Dado omitido",
-  "comando": "próximo exame",
-  "nivel": "difícil",
-  "enunciado": "Mulher de 24 anos procura o clínico antes de extração de terceiros molares. Desde a menarca tem menstruações de 8 dias com coágulos, já usou sulfato ferroso duas vezes e sangrou por 2 dias após amigdalectomia na infância. Tem equimoses fáceis. A mãe \"sangra muito no dentista\". Não usa medicamentos. Exames: Hb 11,1 g/dL, ferritina 9 ng/mL, plaquetas 260.000/mm³, INR 1,0, TTPa 32 s (controle 30 s), fibrinogênio 290 mg/dL. Escore de sangramento ISTH-BAT de 7. O próximo exame mais adequado é:",
-  "alternativas": {
-   "A": "Fator de von Willebrand e FVIII",
-   "B": "Dosagem da atividade do fator XI",
-   "C": "Tempo de sangramento de Ivy",
-   "D": "Nenhum, o coagulograma é normal"
-  },
-  "gabarito": "A",
-  "armadilha": "D",
-  "dado_decisivo": "Escore de sangramento ISTH-BAT de 7",
-  "resolucao": "O dado omitido de propósito é o TTPa alargado, que o candidato associa à doença de von Willebrand e que aqui está normal; daí a tentação de liberar a extração com coagulograma normal. Na doença de von Willebrand tipo 1, a mais comum, o fator VIII costuma ficar acima de 40%, e o TTPa só se alarga quando ele cai abaixo disso. O que decide é a clínica: sangramento mucocutâneo desde a infância, menorragia com ferropenia, sangramento pós-amigdalectomia, mãe com sangramento dentário e escore ISTH-BAT de 7 (6 ou mais é anormal na mulher). A diretriz de 2021 indica dosar o antígeno do fator de von Willebrand, a atividade plaquetária (GPIbM ou cofator de ristocetina) e o fator VIII. O tempo de sangramento é pouco sensível e abandonado, e a deficiência de fator XI alongaria o TTPa.",
-  "comentarios": {
-   "A": "Correta. Sangramento mucocutâneo com escore ISTH-BAT de 7 e história familiar: antígeno e atividade do fator de von Willebrand com fator VIII, mesmo com TTPa normal.",
-   "B": "Errada. A deficiência de fator XI dá sangramento pós-procedimento, mas alongaria o TTPa, e o padrão aqui é mucocutâneo.",
-   "C": "Errada. O tempo de sangramento é pouco sensível e reprodutível e foi abandonado na investigação de von Willebrand.",
-   "D": "Errada. É a armadilha: TTPa normal não afasta von Willebrand tipo 1, e o escore de sangramento já é anormal."
-  },
-  "para_levar": "TTPa normal não afasta doença de von Willebrand: com sangramento mucocutâneo e escore ISTH-BAT alterado, dose antígeno, atividade do fator e fator VIII.",
-  "referencias": "ASH/ISTH/NHF/WFH 2021 guidelines on the diagnosis of von Willebrand disease.",
-  "tags": [
-   "Doença de Von Willebrand (CM)",
-   "Distúrbios de Hemostasia (CM)"
-  ],
-  "sourceQuestionId": "b639aa2adbc6b87",
-  "alvo": "Distúrbio de hemostasia no pré-operatório (erro registrado) e exame normal lido como encerramento."
- },
- {
-  "id": "S5-HEM-09",
-  "simulado": 5,
-  "area": "Hematologia",
-  "titulo": "PTI do adulto com FAN em título baixo: a investigação que muda o tratamento é o H. pylori",
-  "arma": "Rótulo verdadeiro",
-  "comando": "próximo exame",
-  "nivel": "difícil",
-  "enunciado": "Mulher de 39 anos, natural de Minas Gerais, teve PTI diagnosticada há 1 mês, com plaquetas de 24.000/mm³ e petéquias em pernas, e está em prednisona 1 mg/kg/dia há 2 semanas, com plaquetas atuais de 58.000/mm³. Tem hipotireoidismo por tireoidite de Hashimoto, em levotiroxina. Sem artralgias, fotossensibilidade, úlceras orais ou serosite. Exames: Hb 13,2 g/dL, leucócitos 7.100/mm³, urina tipo 1 normal, creatinina normal, FAN 1:80 com padrão nuclear pontilhado fino, sorologias para HIV e hepatites B e C negativas, imunoglobulinas normais. A investigação adicional com maior potencial de mudar o tratamento é:",
-  "alternativas": {
-   "A": "Mielograma com biópsia",
-   "B": "Anti-DNA nativo e complemento",
-   "C": "Pesquisa de H. pylori",
-   "D": "Anticorpos antiplaquetários"
-  },
-  "gabarito": "C",
-  "armadilha": "B",
-  "dado_decisivo": "Sem artralgias, fotossensibilidade, úlceras orais ou serosite",
-  "resolucao": "FAN positivo numa mulher jovem com plaquetopenia imune e tireoidite autoimune puxa para lúpus, e o reflexo é pedir anti-DNA e complemento. O negativo no exame clínico desarma o rótulo: sem artrite, fotossensibilidade, úlceras, serosite ou alteração urinária, um FAN de 1:80 com padrão pontilhado fino é achado frequente na PTI e na autoimunidade tireoidiana e não muda a conduta. O que pode mudar o tratamento é o H. pylori: em regiões de alta prevalência, como o Brasil, a erradicação eleva as plaquetas numa parte dos adultos com PTI, e os consensos de H. pylori incluem a PTI entre as indicações de pesquisar e tratar. O mielograma não é necessário com resposta ao corticoide e quadro isolado, e o anticorpo antiplaquetário tem sensibilidade baixa e não orienta conduta.",
-  "comentarios": {
-   "A": "Errada. Medula se faz com atipia (outras citopenias, idade avançada, falha terapêutica); ela respondeu ao corticoide.",
-   "B": "Errada. É a armadilha: sem nenhum critério clínico de LES, FAN em título baixo não justifica a investigação nem muda o tratamento da PTI.",
-   "C": "Correta. Na PTI do adulto, pesquisar e erradicar H. pylori pode elevar as plaquetas e é recomendado pelos consensos de H. pylori.",
-   "D": "Errada. O anticorpo antiplaquetário tem baixa sensibilidade e não confirma nem afasta PTI; não orienta conduta."
-  },
-  "para_levar": "Na PTI do adulto, pesquise e trate H. pylori (pode subir as plaquetas); FAN em título baixo sem clínica de LES é comum e não muda a conduta.",
-  "referencias": "ASH 2019 guidelines for ITP; International Consensus Report on ITP 2019 (Provan et al.); Maastricht VI/Florence consensus report 2022.",
-  "tags": [
-   "Púrpura Trombocitopênica Imunológica (PTI) (CM)",
-   "H.pylori (CM)"
-  ],
-  "sourceQuestionId": "2d3cc22cd96f416",
-  "alvo": "PTI errada 2 de 2 e rótulo verdadeiro (FAN) puxando o exame a mais."
- }
+  {
+    "id": "S5-HEM-09",
+    "simulado": 5,
+    "area": "Hematologia",
+    "titulo": "PTI do adulto com FAN em título baixo: a investigação que muda o tratamento é o H. pylori",
+    "arma": "Rótulo verdadeiro",
+    "comando": "próximo exame",
+    "nivel": "difícil",
+    "enunciado": "Mulher de 39 anos, natural de Minas Gerais, teve PTI diagnosticada há 1 mês, com plaquetas de 24.000/mm³ e petéquias em pernas, e está em prednisona 1 mg/kg/dia há 2 semanas, com plaquetas atuais de 58.000/mm³. Tem hipotireoidismo por tireoidite de Hashimoto, em levotiroxina. Sem artralgias, fotossensibilidade, úlceras orais ou serosite. Exames: Hb 13,2 g/dL, leucócitos 7.100/mm³, urina tipo 1 normal, creatinina normal, FAN 1:80 com padrão nuclear pontilhado fino, sorologias para HIV e hepatites B e C negativas, imunoglobulinas normais. A investigação adicional com maior potencial de mudar o tratamento é:",
+    "alternativas": {
+      "A": "Mielograma com biópsia",
+      "B": "Anti-DNA nativo e complemento",
+      "C": "Pesquisa de H. pylori",
+      "D": "Anticorpos antiplaquetários"
+    },
+    "gabarito": "C",
+    "armadilha": "B",
+    "dado_decisivo": "Sem artralgias, fotossensibilidade, úlceras orais ou serosite",
+    "resolucao": "FAN positivo numa mulher jovem com plaquetopenia imune e tireoidite autoimune puxa para lúpus, e o reflexo é pedir anti-DNA e complemento. O negativo no exame clínico desarma o rótulo: sem artrite, fotossensibilidade, úlceras, serosite ou alteração urinária, um FAN de 1:80 com padrão pontilhado fino é achado frequente na PTI e na autoimunidade tireoidiana e não muda a conduta. O que pode mudar o tratamento é o H. pylori: em regiões de alta prevalência, como o Brasil, a erradicação eleva as plaquetas numa parte dos adultos com PTI, e os consensos de H. pylori incluem a PTI entre as indicações de pesquisar e tratar. O mielograma não é necessário com resposta ao corticoide e quadro isolado, e o anticorpo antiplaquetário tem sensibilidade baixa e não orienta conduta.",
+    "comentarios": {
+      "A": "Errada. Medula se faz com atipia (outras citopenias, idade avançada, falha terapêutica); ela respondeu ao corticoide.",
+      "B": "Errada. É a armadilha: sem nenhum critério clínico de LES, FAN em título baixo não justifica a investigação nem muda o tratamento da PTI.",
+      "C": "Correta. Na PTI do adulto, pesquisar e erradicar H. pylori pode elevar as plaquetas e é recomendado pelos consensos de H. pylori.",
+      "D": "Errada. O anticorpo antiplaquetário tem baixa sensibilidade e não confirma nem afasta PTI; não orienta conduta."
+    },
+    "para_levar": "Na PTI do adulto, pesquise e trate H. pylori (pode subir as plaquetas); FAN em título baixo sem clínica de LES é comum e não muda a conduta.",
+    "referencias": "ASH 2019 guidelines for ITP; International Consensus Report on ITP 2019 (Provan et al.); Maastricht VI/Florence consensus report 2022.",
+    "tags": [
+      "Púrpura Trombocitopênica Imunológica (PTI) (CM)",
+      "H.pylori (CM)"
+    ],
+    "sourceQuestionId": "2d3cc22cd96f416",
+    "alvo": "PTI errada 2 de 2 e rótulo verdadeiro (FAN) puxando o exame a mais."
+  }
 ]

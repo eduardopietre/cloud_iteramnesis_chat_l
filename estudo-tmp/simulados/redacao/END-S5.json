@@ -3,35 +3,35 @@
     "id": "S5-END-01",
     "simulado": 5,
     "area": "Endocrinologia",
-    "titulo": "Ferritina alta com heterozigose composta C282Y/H63D e saturação normal",
+    "titulo": "Hemocromatose HFE no paciente metabólico: saturação de transferrina acima de 45% com homozigose C282Y pede flebotomia, e não só perda de peso",
     "arma": "Rótulo verdadeiro",
-    "comando": "etiologia",
-    "nivel": "extremamente difícil",
-    "enunciado": "Homem de 51 anos, com obesidade (IMC 36 kg/m²), diabetes tipo 2, hipertrigliceridemia e esteatose hepática, consome três a quatro latas de cerveja por dia. Por ferritina de 890 ng/mL, um colega solicitou pesquisa genética, que mostrou heterozigose composta C282Y/H63D no gene HFE, e o paciente chega preocupado com o diagnóstico de hemocromatose. Nega artralgia, hipogonadismo ou hiperpigmentação. Exames: hemoglobina 15,4 g/dL, ferro sérico 92 µg/dL, saturação de transferrina 31%, AST 44 U/L, ALT 61 U/L, GGT 186 U/L, plaquetas 245.000/mm³, PCR 4 mg/L. A explicação mais provável para a ferritina elevada é:",
+    "comando": "conduta",
+    "nivel": "difícil",
+    "enunciado": "Homem de 47 anos, com obesidade (IMC 35 kg/m²), diabetes tipo 2 há 4 anos, hipertrigliceridemia e esteatose hepática, bebe duas latas de cerveja nos fins de semana. Há um ano, uma ferritina de 860 ng/mL foi atribuída à síndrome metabólica e ele foi orientado a perder peso, o que não conseguiu. Nega transfusões, artralgia, hiperpigmentação ou disfunção erétil. Exames atuais: hemoglobina 15,6 g/dL, ferritina 910 ng/mL, ferro sérico 212 µg/dL, saturação de transferrina 74% (repetida em jejum: 71%), AST 38 U/L, ALT 56 U/L, plaquetas 236.000/mm³, PCR 3 mg/L. Pesquisa do gene HFE: homozigose C282Y. Elastografia hepática transitória: 5,8 kPa. A conduta mais adequada é:",
     "alternativas": {
-      "A": "Doença da ferroportina",
-      "B": "Hiperferritinemia dismetabólica e alcoólica",
-      "C": "Hemocromatose HFE por heterozigose composta",
-      "D": "Síndrome hiperferritinemia-catarata"
+      "A": "Biópsia hepática antes de tratar",
+      "B": "Flebotomias semanais",
+      "C": "Perda de peso, sem flebotomia",
+      "D": "Deferasirox por via oral"
     },
     "gabarito": "B",
     "armadilha": "C",
-    "dado_decisivo": "saturação de transferrina 31%",
-    "resolucao": "O genótipo já está no prontuário e é verdadeiro, e esse rótulo leva a fechar hemocromatose. Mas a heterozigose composta C282Y/H63D tem penetrância muito baixa, e as diretrizes não a consideram causa de sobrecarga clinicamente relevante sem outro fator; o que define a sobrecarga é a saturação de transferrina, e 31% está abaixo de 45%. Ferritina alta com saturação normal num homem obeso, diabético, com esteatose e consumo diário de álcool é hiperferritinemia dismetabólica e alcoólica, a causa mais comum de ferritina elevada na prática. A doença da ferroportina e a síndrome hiperferritinemia-catarata também dão ferritina alta com saturação normal, mas são raras, hereditárias dominantes e entram só sem causa metabólica e com família afetada (ou catarata precoce). A conduta é abstinência e controle metabólico, não flebotomia.",
+    "dado_decisivo": "saturação de transferrina 74% (repetida em jejum: 71%)",
+    "resolucao": "Obesidade, diabetes, esteatose e álcool são verdadeiros e explicam muitas ferritinas altas, e foi assim que a de 860 ng/mL foi rotulada há um ano. O que separa as duas situações é a saturação de transferrina: a hiperferritinemia dismetabólica tem saturação normal (abaixo de 45%), e aqui ela está em 74% e em 71% em jejum, com homozigose C282Y. É hemocromatose HFE com sobrecarga de ferro, e a síndrome metabólica é comorbidade, não explicação. O tratamento é flebotomia semanal (cerca de 500 mL, conforme a hemoglobina) até ferritina de 50 a 100 ng/mL, seguida de manutenção. A biópsia não é necessária para diagnosticar no homozigoto C282Y, e o estadiamento da fibrose pesa sobretudo com ferritina acima de 1.000 ng/mL, transaminases muito altas ou plaquetas baixas; com ferritina de 910, plaquetas normais e elastografia de 5,8 kPa, fibrose avançada é improvável. Quelante oral fica para quem não pode fazer flebotomia.",
     "comentarios": {
-      "A": "Errada. Daria ferritina alta com saturação normal em família com herança dominante e sem fator metabólico que explique.",
-      "B": "Correta. Saturação normal, síndrome metabólica com esteatose e álcool explicam a ferritina de 890 ng/mL.",
-      "C": "Errada. Seria o diagnóstico em homozigoto C282Y com saturação acima de 45%; heterozigose composta com saturação de 31% não sustenta sobrecarga.",
-      "D": "Errada. Seria a causa com catarata bilateral precoce e família afetada, sem lesão hepática."
+      "A": "Errada. Seria considerada para estadiar fibrose com ferritina acima de 1.000 ng/mL, plaquetas baixas ou elastografia alterada; não é necessária para diagnosticar nem para iniciar o tratamento.",
+      "B": "Correta. Homozigose C282Y com saturação de 74% e ferritina de 910 ng/mL: flebotomias semanais até ferritina de 50 a 100 ng/mL.",
+      "C": "Errada. É a armadilha: seria a conduta da hiperferritinemia dismetabólica, com saturação de transferrina abaixo de 45%; com 74% e homozigose C282Y, a sobrecarga de ferro é real.",
+      "D": "Errada. Quelante é a escolha na sobrecarga transfusional ou quando anemia ou instabilidade impedem a flebotomia; com hemoglobina de 15,6 g/dL, a flebotomia é mais eficaz, barata e segura."
     },
-    "para_levar": "Genótipo HFE não define hemocromatose: sem saturação de transferrina de 45% ou mais, ferritina alta em obeso, diabético ou etilista é metabólica, e heterozigose composta não muda isso.",
-    "referencias": "EASL Clinical Practice Guidelines on Haemochromatosis 2022; ACG Clinical Guideline: Hereditary Hemochromatosis 2019.",
+    "para_levar": "A saturação de transferrina separa os dois quadros também no sentido inverso: síndrome metabólica com saturação acima de 45% e homozigose C282Y é hemocromatose, tratada com flebotomia até ferritina de 50 a 100 ng/mL.",
+    "referencias": "EASL Clinical Practice Guidelines on haemochromatosis (2022); ACG Clinical Guideline: Hereditary Hemochromatosis (2019).",
     "tags": [
       "Hemocromatose (CM)",
       "Síndrome Metabólica, Obesidade e DHGNA (CM)"
     ],
     "sourceQuestionId": "28f7dffa9e7b076",
-    "alvo": "Regra errada fixada: hiperferritinemia metabólica com IST abaixo de 45% (novo ângulo: genótipo já pedido)."
+    "alvo": "Regra errada fixada (saturação de transferrina) pelo espelho: saturação acima de 45% com genótipo de risco no paciente metabólico é sobrecarga real."
   },
   {
     "id": "S5-END-02",
@@ -173,36 +173,35 @@
     "id": "S5-END-06",
     "simulado": 5,
     "area": "Endocrinologia",
-    "titulo": "Hiperaldosteronismo primário: rastreio no hipertenso controlado com apneia do sono, sem suspender a medicação",
+    "titulo": "Acromegalia escondida atrás de apneia do sono, diabetes e hipertensão: IGF-1 antes da ressonância de sela",
     "arma": "Rótulo verdadeiro",
     "comando": "próximo exame",
     "nivel": "difícil",
-    "enunciado": "Homem de 44 anos, motorista, faz acompanhamento de hipertensão estágio 1 diagnosticada há oito meses e controlada com losartana 50 mg/dia. A esposa relata ronco alto e pausas respiratórias; a polissonografia mostrou índice de apneia e hipopneia de 34 eventos por hora, e ele está em adaptação ao CPAP. Nega fraqueza muscular, câimbras, uso de diurético ou de anti-inflamatório. Sem história familiar de AVC precoce. Exame: PA 128/82 mmHg, FC 72 bpm, IMC 31 kg/m². Exames: potássio 4,3 mEq/L, sódio 141 mEq/L, creatinina 0,9 mg/dL, glicemia de jejum 98 mg/dL. Em relação ao hiperaldosteronismo primário, o próximo passo mais adequado é:",
+    "enunciado": "Homem de 52 anos, com hipertensão em uso de losartana, anlodipino e clortalidona, diabetes tipo 2 diagnosticado há 2 anos e apneia obstrutiva do sono (índice de apneia e hipopneia de 38 eventos por hora) em uso de CPAP, foi operado de síndrome do túnel do carpo à direita há 1 ano e agora tem parestesias também na mão esquerda. Refere sudorese excessiva e cefaleia frequente. Conta que precisou alargar a aliança e que o número do sapato passou de 41 para 43 nos últimos anos. Exame: PA 148 x 92 mmHg, IMC 29 kg/m², pele espessa e oleosa, espaçamento entre os incisivos inferiores, mãos largas, campos visuais normais à confrontação. Glicemia de jejum 176 mg/dL, HbA1c 8,1%, potássio 4,2 mEq/L. Para investigar a principal hipótese diagnóstica, o primeiro exame a ser solicitado é:",
     "alternativas": {
-      "A": "Nenhum, pressão controlada e potássio normal",
-      "B": "Aldosterona e renina mantendo a losartana",
-      "C": "Aldosterona e renina após suspender a losartana",
-      "D": "Tomografia de adrenais com contraste"
+      "A": "Ressonância magnética de sela túrcica",
+      "B": "IGF-1 sérico",
+      "C": "GH sérico basal",
+      "D": "GH após sobrecarga oral de glicose"
     },
     "gabarito": "B",
     "armadilha": "A",
-    "dado_decisivo": "a polissonografia mostrou índice de apneia e hipopneia de 34 eventos por hora",
-    "resolucao": "Hipertensão estágio 1, controlada com uma droga e potássio normal: o rótulo de hipertensão leve e bem tratada faz pensar que só o hipertenso resistente ou hipocalêmico merece rastreio. Mas a apneia obstrutiva do sono já era indicação de rastreio na diretriz de 2016 da Endocrine Society, e a diretriz de 2025 estende o rastreio a todo hipertenso; além disso, a maioria dos portadores tem potássio normal. O rastreio é a relação aldosterona/renina, colhida sem suspender a losartana: o bloqueador do receptor de angiotensina eleva a renina e tende a falsear o resultado para negativo, de modo que um resultado positivo continua válido, e só um resultado duvidoso, ou negativo com suspeita alta, pede repetir depois de trocar a medicação. Suspender o anti-hipertensivo antes do primeiro rastreio atrasa o diagnóstico e descontrola a pressão, e imagem de adrenal antes do diagnóstico bioquímico acha incidentaloma, não doença.",
+    "dado_decisivo": "o número do sapato passou de 41 para 43 nos últimos anos",
+    "resolucao": "Hipertensão resistente a três drogas, apneia do sono e diabetes recente formam um rótulo verdadeiro de síndrome metabólica com apneia, que chama o rastreio de hiperaldosteronismo. Mas o caso esconde, no meio, o que nenhuma dessas doenças explica: túnel do carpo bilateral, sudorese, pele espessa e oleosa, diastema e, sobretudo, crescimento de extremidades na vida adulta (aliança e sapato). Hipertensão, diabetes e apneia são, aqui, complicações da acromegalia. A investigação começa pelo bioquímico: IGF-1 sérico, ajustado para idade e sexo, que integra a secreção de GH e é o exame inicial recomendado. Se vier elevado ou duvidoso, confirma-se com a falta de supressão do GH após sobrecarga oral de glicose; só depois a ressonância de sela localiza o adenoma. GH basal isolado não serve, porque a secreção é pulsátil.",
     "comentarios": {
-      "A": "Errada. Seria a resposta para quem restringe o rastreio ao hipertenso resistente ou hipocalêmico; apneia obstrutiva do sono com hipertensão é indicação, e a diretriz de 2025 rastreia todo hipertenso.",
-      "B": "Correta. Hipertenso com apneia do sono tem indicação de rastreio, e a relação aldosterona/renina pode ser colhida em uso de losartana.",
-      "C": "Errada. Seria o passo diante de resultado duvidoso, ou negativo com suspeita alta, em uso de droga que eleva a renina; para o primeiro rastreio, não se suspende o bloqueador.",
-      "D": "Errada. Seria o exame de lateralização inicial só depois do diagnóstico bioquímico confirmado; antes dele, a tomografia acha incidentaloma."
+      "A": "Errada. É a armadilha: a imagem vem depois da confirmação bioquímica; feita antes, um incidentaloma hipofisário não prova acromegalia, e a ressonância seria o passo seguinte com IGF-1 alto e GH não suprimido.",
+      "B": "Correta. Crescimento de extremidades na vida adulta, túnel do carpo bilateral, sudorese e diastema: o exame inicial é o IGF-1, ajustado para idade e sexo.",
+      "C": "Errada. A secreção de GH é pulsátil e varia com estresse, sono e jejum; um valor aleatório não confirma nem afasta, e só tem papel dentro de testes dinâmicos.",
+      "D": "Errada. É o exame de confirmação quando o IGF-1 vem elevado ou duvidoso; como primeiro passo, e com diabetes descompensado, inverte a ordem."
     },
-    "para_levar": "Hiperaldosteronismo primário se rastreia no hipertenso (todos, pela diretriz de 2025; com apneia do sono, já pela de 2016), com potássio normal e sem suspender a maior parte dos anti-hipertensivos; normotenso não se rastreia.",
-    "referencias": "Endocrine Society, Management of Primary Aldosteronism 2016 (Funder et al.) e Primary Aldosteronism Clinical Practice Guideline 2025 (Adler et al.).",
+    "para_levar": "Na suspeita de acromegalia, a ordem é IGF-1, depois GH após sobrecarga de glicose se preciso, e só então ressonância de sela; hipertensão, diabetes e apneia podem ser complicações da doença, e não a explicação do quadro.",
+    "referencias": "Endocrine Society 2014 (Acromegaly: an Endocrine Society clinical practice guideline).",
     "tags": [
-      "Hiperaldosteronismo Primário (CM)",
-      "SAHOS (CM)",
-      "HAS Secundária (CM)"
+      "Acromegalia (CM)",
+      "Hipófise (CM)"
     ],
-    "sourceQuestionId": "89d38d1cfbcf2b4",
-    "alvo": "Precondição do rastreio de HAP (hipertensão, não hipocalemia) e o reflexo de suspender droga ou pedir imagem antes do exame simples."
+    "sourceQuestionId": null,
+    "alvo": "Rótulo verdadeiro (síndrome metabólica com apneia) e o reflexo de pedir a imagem antes do exame bioquímico simples."
   },
   {
     "id": "S5-END-07",

@@ -75,19 +75,19 @@
     "enunciado": "Mulher de 28 anos apresenta há 6 dias dor ao mover o olho direito e perda visual central nesse olho. Nunca teve sintomas neurológicos. Exame: acuidade 20/100 no olho direito, defeito pupilar aferente relativo à direita, fundo de olho normal, restante do exame normal. RM de encéfalo: nervo óptico direito com hipersinal e realce; três lesões periventriculares ovoides e uma justacortical, sendo uma periventricular com realce pelo gadolínio e as demais sem realce; RM de medula normal. Anti-aquaporina-4 e anti-MOG negativos. Líquor sem bandas oligoclonais. Pelos critérios de McDonald, a conclusão mais adequada é:",
     "alternativas": {
       "A": "Esclerose múltipla definida",
-      "B": "Síndrome clinicamente isolada",
+      "B": "EM provável, repetir RM em 6 meses",
       "C": "Síndrome radiologicamente isolada",
-      "D": "EM provável, repetir RM em 6 meses"
+      "D": "Síndrome clinicamente isolada"
     },
     "gabarito": "A",
-    "armadilha": "B",
+    "armadilha": "D",
     "dado_decisivo": "sendo uma periventricular com realce pelo gadolínio e as demais sem realce",
     "resolucao": "Um único surto puxa para síndrome clinicamente isolada, à espera do segundo evento. Os critérios de McDonald permitem fechar EM no primeiro surto quando a RM demonstra disseminação no espaço e no tempo. No espaço: lesões em pelo menos duas regiões características (periventricular e justacortical; na revisão de 2024 o nervo óptico também conta). No tempo: a presença simultânea de lesão que realça pelo gadolínio e lesão que não realça prova lesões de idades diferentes, sem precisar de nova RM nem de novo surto. Bandas oligoclonais substituiriam a disseminação no tempo, mas não são necessárias quando a RM já a demonstra, e sua ausência não exclui EM. Os anticorpos negativos afastam NMO e MOGAD, que são os diagnósticos que não podem ser esquecidos antes de iniciar droga modificadora.",
     "comentarios": {
       "A": "Correta. Disseminação no espaço (periventricular e justacortical) e no tempo (lesões com e sem realce na mesma RM) após um surto compatível.",
-      "B": "Errada, é a armadilha. Seria a conclusão se a RM mostrasse só lesões sem realce (sem disseminação no tempo) e sem bandas oligoclonais.",
+      "B": "Errada. Repetir RM só seria necessário se a disseminação no tempo não estivesse demonstrada; aqui ela já está, e adiar atrasa o tratamento.",
       "C": "Errada. Síndrome radiologicamente isolada é achado de RM em quem nunca teve sintoma; ela tem neurite óptica.",
-      "D": "Errada. Repetir RM só seria necessário se a disseminação no tempo não estivesse demonstrada; aqui ela já está, e adiar atrasa o tratamento."
+      "D": "Errada, é a armadilha. Seria a conclusão se a RM mostrasse só lesões sem realce (sem disseminação no tempo) e sem bandas oligoclonais."
     },
     "para_levar": "McDonald: um surto mais lesões com e sem gadolínio na mesma RM, em duas regiões características, já é EM. Bandas oligoclonais substituem a disseminação no tempo.",
     "referencias": "Critérios de McDonald 2017 (Thompson et al., Lancet Neurol 2018) e revisão de 2024 (Montalban et al., Lancet Neurol 2025); Consenso brasileiro de EM (ABN 2024).",
@@ -134,35 +134,36 @@
   },
   {
     "id": "S5-NEU-05",
-    "titulo": "Trombose venosa cerebral com infarto hemorrágico na SAF triplo positiva: heparina agora e varfarina depois",
+    "titulo": "Trombose venosa cerebral com infarto hemorrágico e crise: heparina plena já e droga anticrise indicada, a exceção da crise sintomática aguda",
     "arma": "Grade X / Y",
     "comando": "conduta",
     "nivel": "extremamente difícil",
-    "enunciado": "Mulher de 33 anos, com dois abortamentos de primeiro trimestre e trombose venosa profunda há 3 anos (tratada por 6 meses), chega com cefaleia progressiva há 5 dias e, hoje, crise focal motora no membro superior direito, com recuperação. Exame: sonolenta, papiledema bilateral, paresia leve no membro superior direito. RM com venografia: trombose do seio sagital superior e de veias corticais, com infarto venoso hemorrágico frontoparietal esquerdo de 3 cm. Anticoagulante lúpico positivo, anticardiolipina IgG 80 GPL e anti-beta-2-glicoproteína I IgG 70 U, persistentes após 12 semanas. Plaquetas 180.000/mm³. A anticoagulação mais adequada agora e a de longo prazo são, respectivamente:",
+    "enunciado": "Mulher de 33 anos, com dois abortamentos de primeiro trimestre e trombose venosa profunda há 3 anos (tratada por 6 meses), chega com cefaleia progressiva há 5 dias e, hoje, crise focal motora no membro superior direito, com recuperação. Exame: sonolenta, papiledema bilateral, paresia leve no membro superior direito. RM com venografia: trombose do seio sagital superior e de veias corticais, com infarto venoso hemorrágico frontoparietal esquerdo de 3 cm. Anticoagulante lúpico positivo, anticardiolipina IgG 80 GPL e anti-beta-2-glicoproteína I IgG 70 U, persistentes após 12 semanas. Plaquetas 180.000/mm³, sódio 138 mEq/L, glicemia 92 mg/dL. Quanto à anticoagulação neste momento e à droga anticrise, a conduta mais adequada é, respectivamente:",
     "alternativas": {
-      "A": "Não anticoagular / AAS",
-      "B": "Heparina plena / dabigatrana",
-      "C": "Adiar por 2 semanas / varfarina",
-      "D": "Heparina plena / varfarina"
+      "A": "Heparina plena / iniciar anticrise",
+      "B": "Heparina plena / sem anticrise",
+      "C": "Adiar por 2 semanas / iniciar anticrise",
+      "D": "Adiar por 2 semanas / sem anticrise"
     },
-    "gabarito": "D",
+    "gabarito": "A",
     "armadilha": "B",
-    "dado_decisivo": "Anticoagulante lúpico positivo, anticardiolipina IgG 80 GPL e anti-beta-2-glicoproteína I IgG 70 U, persistentes após 12 semanas",
-    "resolucao": "A primeira metade é a regra da TVC: anticoagular desde já com heparina plena, mesmo com infarto hemorrágico, porque o sangramento é consequência da hipertensão venosa e só a recanalização o resolve; adiar ou não anticoagular aumenta a progressão do trombo. A segunda metade é onde o conhecimento recente vira armadilha: após a fase aguda, dabigatrana mostrou eficácia semelhante à varfarina na TVC (RE-SPECT CVT, ACTION-CVT). Mas os anticorpos são a última linha que decide: anticoagulante lúpico, anticardiolipina e anti-beta-2-GPI persistentes, com TVP prévia, abortamentos e agora TVC, são SAF triplo positiva com trombose recorrente. Nessa população os anticoagulantes diretos têm mais eventos trombóticos que a varfarina (TRAPS), e o tratamento é varfarina com INR de 2 a 3 por tempo indeterminado. AAS não substitui anticoagulação em trombose venosa.",
+    "dado_decisivo": "com infarto venoso hemorrágico frontoparietal esquerdo de 3 cm",
+    "resolucao": "As duas metades têm um reflexo errado. Na primeira, o infarto hemorrágico assusta e faz adiar a anticoagulação, mas na TVC o sangramento é consequência da hipertensão venosa e só a recanalização o resolve: heparina plena começa já, e adiar aumenta a progressão do trombo. Na segunda, depois de tanta crise sintomática aguda que não pede droga anticrise (hiponatremia, abstinência alcoólica, hipoglicemia), a tentação é não tratar esta também. Mas a TVC é a exceção reconhecida: crise precoce com lesão supratentorial (infarto hemorrágico cortical de 3 cm) tem risco alto de recorrência nas primeiras semanas, e uma nova crise num cérebro com hemorragia e hipertensão venosa piora o desfecho; as diretrizes recomendam droga anticrise nesse cenário, por tempo limitado. O que não se faz é anticrise profilática na TVC sem crise. Sódio e glicemia normais afastam causa metabólica. Os anticorpos antifosfolípides definem a anticoagulação de longo prazo (varfarina), que não é o que se pergunta.",
     "comentarios": {
-      "A": "Errada nas duas metades. O infarto hemorrágico não contraindica anticoagular na TVC, e AAS não trata trombose venosa nem SAF com trombose.",
-      "B": "Errada na segunda metade, e é a armadilha. Dabigatrana é alternativa à varfarina na TVC comum, mas é contraindicada na SAF triplo positiva.",
-      "C": "Errada na primeira metade. Adiar a anticoagulação pela hemorragia é o erro que a diretriz combate; a varfarina de longo prazo está certa.",
-      "D": "Correta. Heparina plena desde já apesar do infarto hemorrágico, e varfarina indefinida pela SAF triplo positiva com trombose recorrente."
+      "A": "Correta. Heparina plena desde já apesar do infarto hemorrágico, e droga anticrise porque houve crise com lesão supratentorial na TVC.",
+      "B": "Errada na segunda metade, e é a armadilha. Sem anticrise seria o certo na TVC sem crise, ou na crise sintomática aguda de causa metabólica ou tóxica já corrigida; a crise com lesão hemorrágica supratentorial na TVC tem indicação.",
+      "C": "Errada na primeira metade. Adiar a anticoagulação pela hemorragia é o erro que a diretriz combate; a droga anticrise está indicada.",
+      "D": "Errada nas duas metades. Adiar a heparina deixa o trombo progredir, e a crise com lesão supratentorial na TVC pede droga anticrise."
     },
-    "para_levar": "TVC: heparina plena mesmo com hemorragia. No longo prazo, anticoagulante direto serve na TVC comum, mas não na SAF (sobretudo triplo positiva): varfarina.",
-    "referencias": "AHA/ASA 2024 (scientific statement em trombose venosa cerebral); ESO 2017; EULAR 2019 (SAF); TRAPS (Blood 2018); RE-SPECT CVT (JAMA Neurol 2019).",
+    "para_levar": "TVC: heparina plena mesmo com infarto hemorrágico. Crise na TVC com lesão supratentorial é a exceção à regra da crise sintomática aguda: droga anticrise por tempo limitado; sem crise, não há profilaxia.",
+    "referencias": "ESO 2017 (guideline on cerebral venous thrombosis); AHA 2024 (scientific statement em trombose venosa cerebral).",
     "tags": [
       "TVC (CM)",
+      "Epilepsia (CM)",
       "SAF (CM)"
     ],
     "sourceQuestionId": "c9faae371c8cff8",
-    "alvo": "Exame que decide na última linha (anticorpos) lido como enfeite, e a regra da TVC com hemorragia.",
+    "alvo": "Regra errada fixada (crise provocada e anticrise) pelo lado da exceção, TVC com lesão supratentorial e crise, junto da regra da TVC com hemorragia.",
     "simulado": 5,
     "area": "Neurologia"
   },

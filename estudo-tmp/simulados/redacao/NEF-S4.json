@@ -44,19 +44,19 @@
     "enunciado": "Mulher de 63 anos, com doença do refluxo em uso de omeprazol 40 mg/dia há sete anos e hipertensão controlada com anlodipino, é internada por fraqueza e palpitações. Nega diarreia, vômitos, diurético, laxante ou álcool. Exame: PA 128/78 mmHg, FC 96 bpm irregular, sem tetania. ECG: extrassístoles ventriculares frequentes e QTc de 500 ms. Recebeu 120 mEq de cloreto de potássio por via venosa e oral nas últimas 48 horas, e o potássio passou de 2,7 para 3,0 mEq/L. Outros exames: sódio 139 mEq/L, bicarbonato 26 mEq/L, cálcio total 7,6 mg/dL, albumina 4,0 g/dL, fósforo 3,6 mg/dL, PTH 18 pg/mL (15 a 65), creatinina 0,8 mg/dL, potássio urinário 36 mEq/L. O próximo exame mais adequado é:",
     "alternativas": {
       "A": "Magnésio sérico",
-      "B": "Renina e aldosterona plasmáticas",
+      "B": "Pesquisa genética para Gitelman",
       "C": "Cálcio urinário de 24 horas",
-      "D": "Pesquisa genética para Gitelman"
+      "D": "Renina e aldosterona plasmáticas"
     },
     "gabarito": "A",
-    "armadilha": "B",
+    "armadilha": "D",
     "dado_decisivo": "o potássio passou de 2,7 para 3,0 mEq/L",
     "resolucao": "Hipocalemia com potássio urinário alto aponta perda renal, e o apressado vai ao eixo renina-aldosterona. Mas há três sinais de hipomagnesemia, cujo exame foi deixado de fora: a hipocalemia não sobe com 120 mEq de reposição (o magnésio baixo libera o canal ROMK e o rim perde potássio sem parar), a hipocalcemia vem com PTH inapropriadamente baixo (o magnésio é necessário para a secreção e para a ação do PTH), e há QTc longo com ectopias. A causa está na primeira linha: inibidor de bomba de prótons há sete anos reduz a absorção intestinal de magnésio pelos canais TRPM6 e TRPM7. O próximo exame é o magnésio sérico; confirmada a hipomagnesemia, repõe-se magnésio antes ou junto com o potássio, e o omeprazol é suspenso ou trocado. Gitelman também cursa com hipomagnesemia, mas é diagnóstico de exclusão, e a causa adquirida evidente vem antes.",
     "comentarios": {
       "A": "Correta. Hipocalemia refratária, hipocalcemia com PTH baixo e IBP crônico: o magnésio sérico é o exame que falta e o que muda a conduta.",
-      "B": "Errada, é a armadilha. Seria o passo na hipocalemia com perda renal e hipertensão difícil; aqui a PA está controlada com anlodipino, e a refratariedade com hipocalcemia aponta outra causa.",
+      "B": "Errada. A pesquisa genética é o último degrau, para jovem com hipocalemia, alcalose e hipomagnesemia sem causa adquirida; o IBP há sete anos é a causa até prova em contrário.",
       "C": "Errada. O cálcio urinário separa Gitelman (baixo) de Bartter (alto), investigação de tubulopatia que só faz sentido depois de afastar a causa adquirida evidente.",
-      "D": "Errada. A pesquisa genética é o último degrau, para jovem com hipocalemia, alcalose e hipomagnesemia sem causa adquirida; o IBP há sete anos é a causa até prova em contrário."
+      "D": "Errada, é a armadilha. Seria o passo na hipocalemia com perda renal e hipertensão difícil; aqui a PA está controlada com anlodipino, e a refratariedade com hipocalcemia aponta outra causa."
     },
     "para_levar": "Hipocalemia que não sobe com reposição e hipocalcemia com PTH baixo pedem magnésio sérico; IBP crônico é causa adquirida de hipomagnesemia, e o magnésio se repõe junto com o potássio.",
     "referencias": "FDA Drug Safety Communication (inibidores de bomba de prótons e hipomagnesemia, 2011); Harrison 21ª ed. (Disorders of Magnesium and Phosphorus); UpToDate 2025 (Hypomagnesemia: causes).",
@@ -78,19 +78,19 @@
     "nivel": "difícil",
     "enunciado": "Homem de 27 anos recebeu o diagnóstico de glomerulonefrite após faringite há 14 semanas, com hematúria dismórfica, edema, hipertensão, ASLO elevada, C3 baixo e C4 normal. Foi tratado com restrição de sódio, furosemida e anlodipino. Hoje está sem edema, com PA de 128/82 mmHg. Exames: creatinina 1,3 mg/dL (era 1,4 mg/dL na fase aguda), urina com 40 hemácias por campo, dismórficas, proteinúria de 24 h de 1,6 g (era 1,2 g), C3 42 mg/dL (90 a 180), C4 22 mg/dL (10 a 40), FAN não reagente, anti-HCV negativo, crioglobulinas negativas, eletroforese de proteínas sem pico monoclonal. O próximo passo mais adequado é:",
     "alternativas": {
-      "A": "Repetir C3 em oito semanas",
+      "A": "Prednisona em dose imunossupressora",
       "B": "Biópsia renal percutânea",
-      "C": "Prednisona em dose imunossupressora",
+      "C": "Repetir C3 em oito semanas",
       "D": "Antibiótico para erradicar estreptococo"
     },
     "gabarito": "B",
-    "armadilha": "A",
+    "armadilha": "C",
     "dado_decisivo": "C3 42 mg/dL (90 a 180)",
     "resolucao": "Depois de aprender que a pós-estreptocócica se acompanha sem biópsia, o reflexo é continuar esperando. Mas a regra tem prazo: o C3 da pós-estreptocócica normaliza em até seis a oito semanas, e aqui, com 14 semanas, segue em 42 mg/dL, com hematúria persistente e proteinúria subindo. C3 baixo persistente com C4 normal é ativação mantida da via alternativa, e a hipótese principal passa a ser glomerulopatia C3 (que pode estrear após uma infecção, imitando a pós-estreptocócica) ou glomerulonefrite membranoproliferativa por imunocomplexo, já afastados lúpus, hepatite C, crioglobulinemia e gamopatia. O diagnóstico só vem pela biópsia, com imunofluorescência (C3 dominante, pouca ou nenhuma imunoglobulina) e microscopia eletrônica, seguida da investigação da via alternativa (fator H, fator nefrítico C3). Esperar mais oito semanas atrasa um diagnóstico que muda o tratamento.",
     "comentarios": {
-      "A": "Errada, é a armadilha. Seria a conduta nas primeiras oito semanas; com 14 semanas de C3 baixo, a pós-estreptocócica autolimitada deixou de ser sustentável.",
+      "A": "Errada. Imunossupressão sem diagnóstico histológico pode ser inútil ou danosa; a glomerulopatia C3 tem tratamento próprio, definido depois da biópsia.",
       "B": "Correta. C3 baixo além de oito semanas, com hematúria persistente e proteinúria em alta, indica biópsia (suspeita de glomerulopatia C3 ou membranoproliferativa).",
-      "C": "Errada. Imunossupressão sem diagnóstico histológico pode ser inútil ou danosa; a glomerulopatia C3 tem tratamento próprio, definido depois da biópsia.",
+      "C": "Errada, é a armadilha. Seria a conduta nas primeiras oito semanas; com 14 semanas de C3 baixo, a pós-estreptocócica autolimitada deixou de ser sustentável.",
       "D": "Errada. O antibiótico erradica a cepa e protege contactantes na fase aguda, mas não altera o curso renal e não explica o C3 baixo meses depois."
     },
     "para_levar": "Na suposta pós-estreptocócica, C3 baixo além de oito semanas (e com mais razão além de 12) (ou proteinúria crescente, ou perda de função) obriga a biópsia: pense em glomerulopatia C3 ou membranoproliferativa.",

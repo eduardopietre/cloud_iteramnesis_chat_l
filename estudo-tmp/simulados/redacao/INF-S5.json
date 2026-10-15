@@ -9,19 +9,19 @@
     "nivel": "difícil",
     "enunciado": "Homem de 71 anos, com marca-passo bicameral implantado há 14 meses por bloqueio atrioventricular total, diabético, procura o pronto-socorro por febre intermitente, calafrios e astenia há 3 semanas. Não tem cateter venoso, prótese valvar nem procedimento recente. Exame: T 38,3 °C, FC 70 bpm em ritmo de marca-passo, PA 126 x 74 mmHg, loja do gerador sem dor, hiperemia, flutuação ou erosão da pele, sem sopros e sem estigmas periféricos de endocardite. Leucócitos 11.800/mm³, PCR 9,6 mg/dL, EAS normal, radiografia de tórax sem alterações. Três pares de hemoculturas periféricas, colhidos em horários diferentes antes de antibiótico: Staphylococcus epidermidis resistente à oxacilina em todos os frascos, com o mesmo antibiograma. Ecocardiograma transtorácico: valvas sem vegetações, eletrodos mal avaliados pela janela acústica. O próximo exame mais adequado é:",
     "alternativas": {
-      "A": "Nenhum exame adicional",
+      "A": "PET-CT com FDG",
       "B": "Ecocardiograma transesofágico",
-      "C": "PET-CT com FDG",
+      "C": "Nenhum exame adicional",
       "D": "Novo transtorácico em 7 dias"
     },
     "gabarito": "B",
-    "armadilha": "A",
+    "armadilha": "C",
     "dado_decisivo": "Staphylococcus epidermidis resistente à oxacilina em todos os frascos",
     "resolucao": "O estafilococo coagulase-negativo costuma ser contaminante, a loja do gerador está limpa e o transtorácico não mostrou vegetação: tudo parece dispensar investigação. Mas três pares colhidos em momentos diferentes, todos com a mesma cepa, não são contaminação: é bacteremia verdadeira e sustentada, e em portador de dispositivo cardíaco eletrônico implantável o estafilococo coagulase-negativo é justamente um dos principais agentes de infecção do dispositivo. A infecção sistêmica do marca-passo muitas vezes não dá sinal na loja, porque está nos eletrodos intravasculares, e o transtorácico tem baixa sensibilidade para vegetação de eletrodo. Por isso a diretriz europeia de 2023 recomenda o ecocardiograma transesofágico em toda suspeita de endocardite relacionada a dispositivo, qualquer que seja o resultado do transtorácico; o PET-CT entra depois, quando o transesofágico é inconclusivo. Confirmada a infecção do dispositivo, a conduta é a retirada completa do sistema, com vancomicina.",
     "comentarios": {
-      "A": "Errada. É a armadilha: seria a conduta com um único frasco positivo, que sugere contaminação; três pares com a mesma cepa em portador de marca-passo são bacteremia verdadeira, e loja limpa não afasta infecção dos eletrodos.",
+      "A": "Errada. PET-CT é o exame seguinte quando o transesofágico é inconclusivo, ou para avaliar a loja e procurar êmbolos; ir direto a ele é pular um degrau.",
       "B": "Correta. Bacteremia sustentada por estafilococo coagulase-negativo em portador de marca-passo: transesofágico para procurar vegetação em eletrodo e valva, mesmo com transtorácico normal.",
-      "C": "Errada. PET-CT é o exame seguinte quando o transesofágico é inconclusivo, ou para avaliar a loja e procurar êmbolos; ir direto a ele é pular um degrau.",
+      "C": "Errada. É a armadilha: seria a conduta com um único frasco positivo, que sugere contaminação; três pares com a mesma cepa em portador de marca-passo são bacteremia verdadeira, e loja limpa não afasta infecção dos eletrodos.",
       "D": "Errada. Repetir o transtorácico mantém um exame de baixa sensibilidade para eletrodos, e a investigação de bacteremia sustentada não espera 7 dias."
     },
     "para_levar": "Portador de marca-passo ou CDI com bacteremia estafilocócica sustentada, inclusive por coagulase-negativo: ecocardiograma transesofágico, mesmo com loja limpa e transtorácico normal.",

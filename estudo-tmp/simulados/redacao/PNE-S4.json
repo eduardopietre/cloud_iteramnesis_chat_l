@@ -43,19 +43,19 @@
     "enunciado": "Mulher de 44 anos, com granulomatose com poliangiite em remissão há 1 ano, em manutenção com rituximabe semestral, procura o ambulatório por dispneia progressiva e cansaço há 5 dias. Nega hemoptise, febre, escarro purulento e dor torácica. Exame: T 36,9 °C, FR 24 irpm, SpO2 91% em ar ambiente, PA 128 x 80 mmHg, estertores finos bilaterais, sem edema. Hemoglobina 8,4 g/dL (há 1 mês, 12,1), leucócitos 7.800/mm³, PCR 3,2 mg/dL, creatinina 0,9 mg/dL, urina tipo 1 sem hematúria, procalcitonina 0,08 ng/mL. TC: vidro fosco bilateral difuso, sem consolidação lobar. Ecocardiograma normal. DLCO 132% do previsto (há 6 meses, 88%). O diagnóstico mais provável é:",
     "alternativas": {
       "A": "Hemorragia alveolar difusa",
-      "B": "Pneumonia por Pneumocystis",
+      "B": "Pneumonite por rituximabe",
       "C": "Pneumonia bacteriana bilateral",
-      "D": "Pneumonite por rituximabe"
+      "D": "Pneumonia por Pneumocystis"
     },
     "gabarito": "A",
-    "armadilha": "B",
+    "armadilha": "D",
     "dado_decisivo": "DLCO 132% do previsto (há 6 meses, 88%)",
     "resolucao": "Rituximabe, vidro fosco difuso e hipoxemia sem febre compõem o quadro da pneumocistose, que é um risco real. O dado esperado da hemorragia alveolar, a hemoptise, foi omitido de propósito: falta em até um terço dos casos. O que decide são dois números. A hemoglobina caiu 3,7 g/dL em um mês sem sangramento visível, e a DLCO subiu de 88% para 132%: a hemoglobina dentro dos alvéolos capta monóxido de carbono e eleva a difusão. Infecções e pneumonites reduzem a DLCO, porque espessam a membrana e reduzem a área de troca. A confirmação é o lavado broncoalveolar com alíquotas progressivamente mais hemorrágicas e macrófagos com hemossiderina, que também exclui infecção. É recidiva da vasculite com capilarite pulmonar.",
     "comentarios": {
       "A": "Correta. Queda de 3,7 g/dL na hemoglobina e DLCO de 132% (era 88%) com vidro fosco difuso: hemorragia alveolar, mesmo sem hemoptise.",
-      "B": "Errada, e é a armadilha. Pneumocistose em quem usa rituximabe é plausível, mas reduz a DLCO e não explica a queda de hemoglobina.",
+      "B": "Errada. Pneumonite por droga é rara com rituximabe, cursa com DLCO reduzida e não explica a anemia.",
       "C": "Errada. Pneumonia bilateral daria febre, consolidação, PCR e procalcitonina mais altas, e DLCO reduzida.",
-      "D": "Errada. Pneumonite por droga é rara com rituximabe, cursa com DLCO reduzida e não explica a anemia."
+      "D": "Errada, e é a armadilha. Pneumocistose em quem usa rituximabe é plausível, mas reduz a DLCO e não explica a queda de hemoglobina."
     },
     "para_levar": "DLCO acima do previsto (ou em alta) com anemia que cai e infiltrado difuso é hemorragia alveolar, mesmo sem hemoptise; infecção e pneumonite reduzem a DLCO.",
     "referencias": "ERS/ATS 2017 (padronização da DLCO); ERS/ATS 2022 (interpretação de testes de função pulmonar); ACR/VF 2021 (vasculites ANCA); EULAR 2022 (vasculites ANCA)",
@@ -237,34 +237,35 @@
     "id": "S4-PNE-08",
     "simulado": 4,
     "area": "Emergência",
-    "titulo": "Abstinência alcoólica no trauma: benzodiazepínico antes de repetir a imagem",
-    "arma": "Cronologia",
+    "titulo": "Hipotensão logo após intubar o DPOC exacerbado: hiperinsuflação dinâmica, desconectar antes de puncionar",
+    "arma": "Negativo no meio",
     "comando": "conduta",
-    "nivel": "difícil",
-    "enunciado": "Homem de 52 anos, que bebia cerca de 1 litro de cachaça por dia, inclusive poucas horas antes do acidente, está internado há 56 horas por fratura de tíbia após queda de moto. A TC de crânio na admissão foi normal, sem perda de consciência no acidente. Há 6 horas está trêmulo, sudoreico e agitado, diz ver insetos na parede e se orienta só em pessoa. T 37,9 °C, PA 168 x 98 mmHg, FC 122 bpm, FR 22 irpm, SpO2 96%. Sem rigidez de nuca ou déficit focal, pupilas isocóricas e fotorreagentes. Glicemia 108 mg/dL, Na 136 mEq/L. A conduta mais adequada neste momento é:",
+    "nivel": "extremamente difícil",
+    "enunciado": "Homem de 68 anos, com DPOC grave (VEF1 de 32% do previsto), foi intubado há 15 minutos por exacerbação com falha da ventilação não invasiva (pH 7,18 e sonolência progressiva). Depois da intubação, foi ventilado com bolsa-válvula de forma vigorosa por alguns minutos e conectado ao ventilador em volume controlado: volume corrente 550 mL, frequência 24 irpm, fluxo inspiratório 40 L/min, PEEP 5 cmH2O, FiO2 60%. Agora a PA caiu de 138 x 82 para 72 x 40 mmHg, FC 128 bpm, SpO2 90%. Pressão de pico 48 cmH2O e de platô 33 cmH2O. Murmúrio vesicular diminuído e simétrico, traqueia centrada, sem enfisema subcutâneo. Na tela do ventilador, a curva de fluxo expiratório não retorna à linha de base antes do ciclo seguinte. A conduta imediata mais adequada é:",
     "alternativas": {
-      "A": "Haloperidol intravenoso",
-      "B": "Diazepam intravenoso em doses repetidas",
-      "C": "Nova TC de crânio antes de sedar",
-      "D": "Dexmedetomidina isolada"
+      "A": "Punção de alívio no segundo espaço intercostal",
+      "B": "Desconexão breve do ventilador",
+      "C": "Aumento da frequência respiratória",
+      "D": "Aumento da PEEP externa"
     },
     "gabarito": "B",
-    "armadilha": "C",
-    "dado_decisivo": "internado há 56 horas",
-    "resolucao": "Confusão em politraumatizado faz pensar em lesão intracraniana tardia e leva a repetir a imagem antes de qualquer sedativo. Mas o tempo decide: cerca de 56 horas desde a última dose de álcool (sintomas desde a 50ª hora), num bebedor pesado, é a janela do delirium tremens (48 a 96 horas; a alucinose isolada é de 12 a 48 horas, sem desorientação), e o quadro é autonômico (tremor, sudorese, taquicardia, hipertensão, febre baixa) com alucinações visuais. TC de admissão normal, sem perda de consciência e exame neurológico sem foco tornam a lesão tardia muito improvável. O tratamento não espera: diazepam venoso em bolus repetidos até sedação leve, tiamina antes da glicose, reposição de magnésio e potássio. Haloperidol baixa o limiar convulsivo e não trata a abstinência; dexmedetomidina é adjuvante, não substitui o benzodiazepínico.",
+    "armadilha": "A",
+    "dado_decisivo": "Murmúrio vesicular diminuído e simétrico, traqueia centrada, sem enfisema subcutâneo",
+    "resolucao": "Hipotensão grave logo após intubar um DPOC, com pressões altas no ventilador, faz pensar em pneumotórax hipertensivo, e a punção de alívio é o reflexo. Mas o exame no meio do caso nega o pneumotórax: murmúrio diminuído porém simétrico, traqueia centrada, sem enfisema subcutâneo. O que explica tudo é a hiperinsuflação dinâmica (auto-PEEP): ventilação vigorosa com bolsa e depois volume corrente alto com frequência de 24 irpm não deixam tempo expiratório a um pulmão com obstrução grave, e a curva de fluxo que não volta a zero antes do ciclo seguinte é a prova. O ar aprisionado eleva a pressão intratorácica, reduz o retorno venoso e derruba a PA. A conduta imediata é desconectar o tubo do ventilador por 30 a 60 segundos: a PA sobe em segundos, o que confirma o diagnóstico; depois, reprogramar com frequência e volume menores e fluxo inspiratório maior para alongar a expiração, aceitando hipercapnia. Aumentar a frequência piora o aprisionamento, e somar PEEP externa no paciente passivo e hipotenso aumenta a pressão intratorácica.",
     "comentarios": {
-      "A": "Errada. Antipsicótico isolado não trata a abstinência, baixa o limiar convulsivo e piora desfecho; no máximo é adjuvante para alucinação com benzodiazepínico já em dose plena.",
-      "B": "Correta. Delirium tremens na janela de 48 a 96 horas: diazepam venoso em doses repetidas até sedação leve, com tiamina.",
-      "C": "Errada, e é a armadilha. Seria a conduta com déficit focal, anisocoria ou queda de consciência sem quadro autonômico; aqui a imagem atrasa o tratamento de uma emergência.",
-      "D": "Errada. Dexmedetomidina controla hiperatividade adrenérgica, mas não age no receptor GABA nem previne convulsão; é adjuvante."
+      "A": "Errada. É a armadilha: seria a conduta no pneumotórax hipertensivo, com murmúrio abolido de um lado, desvio da traqueia ou enfisema subcutâneo; aqui o murmúrio é simétrico e a traqueia está centrada.",
+      "B": "Correta. Hipotensão com curva de fluxo expiratório que não zera e sem sinais de pneumotórax: desconectar libera o ar aprisionado, restaura o retorno venoso e confirma a hiperinsuflação dinâmica.",
+      "C": "Errada. Encurta o tempo expiratório e agrava o aprisionamento; seria o ajuste para acidose respiratória em pulmão sem obstrução ao fluxo e sem auto-PEEP.",
+      "D": "Errada. PEEP externa ajuda o DPOC em ventilação assistida a disparar o ventilador; no paciente passivo e hipotenso, aumenta a pressão intratorácica sem esvaziar o ar aprisionado."
     },
-    "para_levar": "Na abstinência alcoólica grave, benzodiazepínico vem antes de investigar; o tempo desde a última dose é o dado que fecha o diagnóstico.",
-    "referencias": "ASAM 2020 (manejo da abstinência alcoólica); NICE CG100",
+    "para_levar": "Hipotensão logo após intubar asmático ou DPOC, com curva de fluxo expiratório que não zera e sem sinais de pneumotórax, é auto-PEEP: desconecte do ventilador primeiro e depois reprograme com menos frequência e menos volume.",
+    "referencias": "Diretrizes Brasileiras de Ventilação Mecânica (AMIB/SBPT 2013); GOLD 2025 (manejo da exacerbação).",
     "tags": [
-      "Abuso de Substâncias e Psicose (CM)"
+      "Ventilação Mecânica (CM)",
+      "DPOC - exacerbação (CM)"
     ],
-    "sourceQuestionId": "6e626e92e8de843",
-    "alvo": "Fraca (79% acertaram): investiga antes de tratar na emergência (3 de 3 no Einstein)."
+    "sourceQuestionId": null,
+    "alvo": "Exame que decide (curva do ventilador e o negativo do exame físico) lido como enfeite diante de um rótulo forte (pneumotórax), e o procedimento a mais."
   },
   {
     "id": "S4-PNE-09",

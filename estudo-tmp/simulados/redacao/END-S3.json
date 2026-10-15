@@ -78,19 +78,19 @@
     "enunciado": "Homem de 46 anos procura atendimento por cefaleia frontal há oito meses e perda de libido e disfunção erétil há dois anos. Exame: hemianopsia temporal bilateral à confrontação, ginecomastia discreta, sem galactorreia, testículos de volume normal. Ressonância magnética: macroadenoma hipofisário de 4,3 cm, com invasão do seio cavernoso direito e compressão do quiasma óptico. Exames: prolactina 62 ng/mL (até 15), testosterona total 98 ng/dL (300 a 1.000), LH 1,1 UI/L, cortisol às 8 horas 16,8 µg/dL, T4 livre 0,9 ng/dL (0,8 a 1,8), IGF-1 normal para a idade. A neurocirurgia programa cirurgia transesfenoidal para a próxima semana por adenoma não funcionante com desconexão de haste. Antes de decidir, o exame mais adequado é:",
     "alternativas": {
       "A": "Prolactina com diluição da amostra",
-      "B": "Nenhum exame antes da cirurgia",
+      "B": "Teste de estímulo com cosintropina",
       "C": "Pesquisa de macroprolactina",
-      "D": "Teste de estímulo com cosintropina"
+      "D": "Nenhum exame antes da cirurgia"
     },
     "gabarito": "A",
-    "armadilha": "B",
+    "armadilha": "D",
     "dado_decisivo": "macroadenoma hipofisário de 4,3 cm, com invasão do seio cavernoso direito",
     "resolucao": "Prolactina abaixo de 100 a 150 ng/mL com macroadenoma é, na maioria das vezes, hiperprolactinemia por desconexão de haste, e esse rótulo verdadeiro já está escrito no parecer. O problema é o tamanho: num adenoma de 4,3 cm, invasivo, prolactinoma gigante produz prolactina na casa dos milhares, e o excesso de antígeno satura os dois anticorpos do ensaio imunométrico, devolvendo um valor falsamente baixo (efeito gancho). Uma prolactina modesta, portanto, não separa os dois diagnósticos nesse tamanho. Repetir a dosagem com diluição seriada (1:100) resolve, e o resultado muda tudo: prolactinoma se trata com cabergolina, mesmo com compressão do quiasma, e não com cirurgia. O cortisol de 16,8 já afasta deficiência adrenal relevante, e macroprolactina não é a dúvida com tumor desse porte.",
     "comentarios": {
       "A": "Correta. Macroadenoma grande com prolactina modesta exige excluir efeito gancho com diluição antes de rotular como não funcionante.",
-      "B": "Errada. Seria aceitável num macroadenoma pequeno, de 1 a 2 cm; com 4,3 cm, operar um prolactinoma gigante é trocar o tratamento clínico eficaz por cirurgia de alto risco.",
+      "B": "Errada. Seria o exame com cortisol matinal entre 3 e 15 µg/dL; 16,8 µg/dL dispensa estímulo.",
       "C": "Errada. Macroprolactina explica prolactina alta com pouca clínica; aqui a dúvida é o valor estar falsamente baixo.",
-      "D": "Errada. Seria o exame com cortisol matinal entre 3 e 15 µg/dL; 16,8 µg/dL dispensa estímulo."
+      "D": "Errada. Seria aceitável num macroadenoma pequeno, de 1 a 2 cm; com 4,3 cm, operar um prolactinoma gigante é trocar o tratamento clínico eficaz por cirurgia de alto risco."
     },
     "para_levar": "Macroadenoma acima de 3 cm com prolactina abaixo de 200: peça dosagem com diluição para excluir efeito gancho antes de chamar de não funcionante e operar.",
     "referencias": "Endocrine Society, Hyperprolactinemia 2011; Pituitary Society consensus on prolactinomas (Petersenn et al., Nat Rev Endocrinol 2023).",
