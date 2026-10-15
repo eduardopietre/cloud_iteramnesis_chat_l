@@ -8,7 +8,7 @@
 "comando": "achado esperado",
 "nivel": "difícil",
 "enunciado": "Homem de 61 anos, com tumor neuroendócrino de íleo e múltiplas metástases hepáticas diagnosticados há 3 anos, em uso de octreotida de depósito, refere edema progressivo de membros inferiores e aumento do volume abdominal há 4 meses, sem ortopneia nem dispneia paroxística noturna. Exame: PA 118x72 mmHg, FC 88 bpm, turgência jugular a 45 graus, hepatomegalia, ascite e edema, pulmões limpos. Albumina 3,9 g/dL. Ecocardiograma de 2 anos atrás: câmaras e valvas normais, sem forame oval patente. O achado auscultatório mais provável é:",
-"alternativas": {"A": "Holossistólico apical para a axila, sem variar com a respiração", "B": "Holossistólico em borda esternal esquerda baixa, maior na inspiração", "C": "Ruflar diastólico apical com estalido de abertura", "D": "Sistólico ejetivo aórtico com B2 hipofonética"},
+"alternativas": {"A": "Holossistólico apical irradiado para a axila", "B": "Holossistólico paraesternal baixo, maior na inspiração", "C": "Ruflar diastólico apical com estalido de abertura", "D": "Sistólico ejetivo aórtico com B2 hipofonética"},
 "gabarito": "B",
 "armadilha": "A",
 "dado_decisivo": "sem forame oval patente",
@@ -116,10 +116,10 @@
 "gabarito": "B",
 "armadilha": "A",
 "dado_decisivo": "ao subir a ladeira de casa ou carregar compras, que cede em 3 a 5 minutos de repouso",
-"resolucao": "O transtorno de ansiedade é verdadeiro, e duas altas da emergência com esse rótulo e com ECG e troponina normais compõem a narrativa que a banca quer que ele compre, como já comprou antes. A dor tem os três critérios de angina típica: retroesternal em aperto, desencadeada por esforço e aliviada com repouso em minutos; o fato de piorar com emoção não a descaracteriza, porque estresse aumenta o consumo de oxigênio. Mulher de 62 anos, hipertensa e ex-tabagista, com angina típica, tem probabilidade pré-teste intermediária, e ECG, troponina e ecocardiograma de repouso normais não excluem doença coronária estável. O próximo passo é um teste não invasivo (anatômico, como a angiotomografia, ou funcional com imagem). O cateterismo direto seria o degrau a mais, reservado para alta probabilidade, angina refratária ou teste de alto risco.",
+"resolucao": "O transtorno de ansiedade é verdadeiro, e duas altas da emergência com esse rótulo e com ECG e troponina normais compõem a narrativa que a banca quer que ele compre, como já comprou antes. A dor tem os três critérios de angina definida (três de três critérios): retroesternal em aperto, desencadeada por esforço e aliviada com repouso em minutos; o fato de piorar com emoção não a descaracteriza, porque estresse aumenta o consumo de oxigênio. Mulher de 62 anos, hipertensa e ex-tabagista, com angina definida, tem probabilidade pré-teste intermediária, e ECG, troponina e ecocardiograma de repouso normais não excluem doença coronária estável. O próximo passo é um teste não invasivo (anatômico, como a angiotomografia, ou funcional com imagem). O cateterismo direto seria o degrau a mais, reservado para alta probabilidade, angina refratária ou teste de alto risco.",
 "comentarios": {
 "A": "Errada, e é a armadilha. Aceita o rótulo de ansiedade diante de uma angina com os três critérios; ECG, troponina e eco de repouso normais não afastam doença estável.",
-"B": "Correta. Angina típica com probabilidade intermediária: teste não invasivo, anatômico ou funcional, para confirmar e estratificar.",
+"B": "Correta. Angina definida com probabilidade intermediária: teste não invasivo, anatômico ou funcional, para confirmar e estratificar.",
 "C": "Errada. Cateterismo direto é para probabilidade muito alta, sintomas refratários ou teste não invasivo de alto risco; aqui é o degrau a mais.",
 "D": "Errada. O Holter investiga arritmia e palpitação; não diagnostica angina de esforço."
 },
@@ -127,7 +127,7 @@
 "referencias": "ESC 2024 (chronic coronary syndromes); AHA/ACC 2021 (chest pain); Diretriz de Doença Coronária Estável da SBC (2014)",
 "tags": ["Características Gerais da Angina (CM)", "Coronariopatia Crônica (CM)"],
 "sourceQuestionId": "2f78634ab0d13b3",
-"alvo": "Ele caiu no 'muito nervoso = ansiedade' com angina típica; aqui sem repetir o caso, com o rótulo vindo da própria emergência."
+"alvo": "Ele caiu no 'muito nervoso = ansiedade' com angina de três critérios; aqui sem repetir o caso, com o rótulo vindo da própria emergência."
 },
 {
 "id": "S5-CAR-06",

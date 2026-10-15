@@ -1,0 +1,250 @@
+[
+  {
+    "id": "S3-NEF-01",
+    "simulado": 3,
+    "area": "Nefrologia",
+    "titulo": "Hiponatremia aguda grave após ecstasy com crise convulsiva · salina a 3% em bolus, não anticonvulsivante",
+    "arma": "Rótulo verdadeiro",
+    "comando": "conduta",
+    "nivel": "difícil",
+    "enunciado": "Mulher de 22 anos, sem doenças prévias e sem uso de medicações, é trazida ao pronto-socorro 10 horas após uma festa em que usou ecstasy e bebeu cerca de quatro litros de água. Teve uma crise tônico-clônica generalizada de dois minutos, presenciada, que cessou espontaneamente. Na chegada está sonolenta, Glasgow 12, sem déficit focal, e vomitou duas vezes. PA 136/84 mmHg, FC 102 bpm, temperatura 37,3 °C, glicemia capilar 104 mg/dL. Exames: sódio 117 mEq/L, potássio 3,8 mEq/L, osmolalidade plasmática 246 mOsm/kg, osmolalidade urinária 470 mOsm/kg, sódio urinário 64 mEq/L, CPK 380 U/L. Tomografia de crânio sem lesões. A conduta inicial mais adequada é:",
+    "alternativas": {
+      "A": "Fenitoína intravenosa em dose de ataque",
+      "B": "Salina a 3% 150 mL em bolus",
+      "C": "Restrição hídrica e sódio em 4 horas",
+      "D": "SF 0,9% 1.000 mL em uma hora"
+    },
+    "gabarito": "B",
+    "armadilha": "A",
+    "dado_decisivo": "sódio 117 mEq/L",
+    "resolucao": "A crise convulsiva puxa para o anticonvulsivante, o reflexo da fenitoína que ele já mostrou em três cenários. Mas esta é uma crise provocada: hiponatremia aguda (horas) por MDMA, que estimula a liberação de ADH, somada à ingestão de quatro litros de água. A crise, o rebaixamento e os vômitos são sinais de edema cerebral, e o que os trata é subir o sódio rapidamente em 4 a 6 mEq/L, o suficiente para afastar o risco de herniação. A conduta é salina a 3% 150 mL (ou 2 mL/kg) em bolus de 20 minutos, repetível duas ou três vezes conforme o sódio e os sintomas. Na hiponatremia aguda o risco de desmielinização osmótica é baixo, mas o teto de 10 mEq/L em 24 horas continua valendo. SF 0,9% numa urina com osmolalidade de 470 pode até baixar o sódio (dessalinização), e restrição isolada é lenta demais para quem convulsionou. Fenitoína não trata a causa e não é indicada numa crise única provocada que já cessou.",
+    "comentarios": {
+      "A": "Errada, é a armadilha. Anticonvulsivante é para epilepsia ou estado de mal; numa crise provocada e autolimitada por hiponatremia, o tratamento é corrigir o sódio. Se a crise estivesse em curso, o benzodiazepínico viria junto com a salina hipertônica, não a fenitoína.",
+      "B": "Correta. Hiponatremia aguda com sintomas graves (crise, rebaixamento, vômitos) pede bolus de salina a 3%, com meta de elevar o sódio em 4 a 6 mEq/L nas primeiras horas.",
+      "C": "Errada. Restrição hídrica é tratamento da SIADH crônica oligossintomática; aqui há sinais de edema cerebral.",
+      "D": "Errada. Com urina concentrada (470 mOsm/kg), o sódio da salina isotônica é excretado, parte da água é retida e o sódio pode cair ainda mais."
+    },
+    "para_levar": "Crise convulsiva por hiponatremia é crise provocada: trate o sódio (salina a 3% em bolus), não com anticonvulsivante; SF 0,9% não corrige SIADH.",
+    "referencias": "Spasovski et al., Diretriz europeia de hiponatremia (2014); SALSA trial (JAMA Intern Med 2021); ILAE, definição de crise sintomática aguda (2010).",
+    "tags": ["Hiponatremia aguda e complicações (CM)", "SIADH (CM)"],
+    "sourceQuestionId": "2a94e1491db9c7c",
+    "alvo": "Reflexo da fenitoína na crise provocada por hiponatremia (2x a mesma letra) e porte da salina a 3% (aguda grave sim, crônica leve não)."
+  },
+  {
+    "id": "S3-NEF-02",
+    "simulado": 3,
+    "area": "Nefrologia",
+    "titulo": "Creatinina e potássio subindo após IECA na doença renal do diabetes · elevação de até 30% é aceitável",
+    "arma": "Omissão",
+    "comando": "conduta",
+    "nivel": "difícil",
+    "enunciado": "Homem de 66 anos, com diabetes tipo 2, hipertensão e doença renal crônica (TFGe 46 mL/min/1,73 m², relação albumina/creatinina 480 mg/g), em uso de anlodipino, metformina e dapagliflozina. Há três semanas iniciou ramipril, titulado para 10 mg/dia. Nega anti-inflamatório, diarreia ou vômitos. Exame: PA 132/80 mmHg (era 154/92), sem hipotensão postural, sem edema, sem sopro abdominal. Nunca teve edema agudo de pulmão. Exames de hoje comparados aos de antes do ramipril: creatinina de 1,40 para 1,70 mg/dL, potássio de 4,9 para 5,4 mEq/L, bicarbonato 23 mEq/L, relação albumina/creatinina de 480 para 210 mg/g. A conduta mais adequada é:",
+    "alternativas": {
+      "A": "Suspender o ramipril",
+      "B": "Trocar o ramipril por losartana",
+      "C": "Manter o ramipril e repetir exames",
+      "D": "Investigar estenose de artéria renal"
+    },
+    "gabarito": "C",
+    "armadilha": "A",
+    "dado_decisivo": "creatinina de 1,40 para 1,70 mg/dL",
+    "resolucao": "Creatinina subindo e potássio de 5,4 depois de um IECA levam o apressado a suspender a droga. Mas o IECA dilata a arteríola eferente e reduz a pressão intraglomerular, e uma elevação de até 30% da creatinina nas primeiras semanas é esperada e marca o efeito nefroprotetor, confirmado aqui pela albuminúria que caiu de 480 para 210 mg/g. A elevação foi de 21% (1,40 para 1,70). A KDIGO 2024 orienta manter o IECA ou BRA e só reavaliar se a creatinina subir mais de 30% em quatro semanas, situação em que se procuram depleção, nefrotóxico ou estenose bilateral de artéria renal. O potássio de 5,4 também não obriga a suspender: maneja-se com orientação dietética individualizada, diurético ou quelante de potássio, e o bloqueio do sistema renina-angiotensina só é reduzido se a hipercalemia não for controlada pelas outras medidas. A dapagliflozina que ele já usa ainda reduz o risco de hipercalemia.",
+    "comentarios": {
+      "A": "Errada, é a armadilha. Suspender seria a conduta com elevação acima de 30%, hipercalemia refratária ou acima de 6 mEq/L, ou depleção de volume; aqui a elevação é de 21% e o potássio é 5,4.",
+      "B": "Errada. Trocar IECA por BRA não muda o efeito hemodinâmico nem o potássio, porque as duas classes agem na mesma via.",
+      "C": "Correta. Elevação de 21% com potássio de 5,4 e albuminúria em queda: manter a dose e repetir creatinina e potássio em duas a quatro semanas.",
+      "D": "Errada. Estenose de artéria renal entra em suspeita com elevação acima de 30%, edema agudo de pulmão súbito, assimetria renal ou hipertensão refratária; nada disso está presente."
+    },
+    "para_levar": "Com IECA ou BRA, creatinina subindo até 30% é esperada: mantenha a droga. Potássio até 5,5 se maneja com outras medidas antes de suspender o bloqueio.",
+    "referencias": "KDIGO 2024 (Evaluation and Management of CKD); KDIGO 2021 (Blood Pressure in CKD); Diretriz Brasileira de Hipertensão Arterial (SBC 2020).",
+    "tags": ["Hiperpotassemia (CM)", "Tratamento Doença Renal Crônica (CM)", "HAS Secundária (CM)"],
+    "sourceQuestionId": "6d072ce97adbf6f",
+    "alvo": "Ignora a droga em uso e suspende o que protege: creatinina subindo com IECA (até 30% é aceitável) e potássio limítrofe."
+  },
+  {
+    "id": "S3-NEF-03",
+    "simulado": 3,
+    "area": "Nefrologia",
+    "titulo": "Síndrome pulmão-rim com sorologias pendentes · pulsoterapia antes do laudo e biópsia mantida",
+    "arma": "Grade X / Y",
+    "comando": "conduta",
+    "nivel": "extremamente difícil",
+    "enunciado": "Homem de 58 anos, previamente hígido, refere há três semanas febre baixa, artralgias, perda de 4 kg e escarros com raias de sangue; há dois dias, dispneia. Exame: SpO2 89% em ar ambiente, FR 26 irpm, PA 158/94 mmHg, estertores crepitantes bilaterais, sem lesões cutâneas. Exames: hemoglobina 8,4 g/dL (12,9 g/dL há um mês), plaquetas 310.000/mm³, coagulograma normal, creatinina 1,1 mg/dL há dois meses, 3,8 mg/dL na admissão e 4,6 mg/dL após 24 horas, potássio 5,1 mEq/L; urina com 70% de hemácias dismórficas e cilindros hemáticos. Tomografia de tórax: opacidades em vidro fosco bilaterais. ANCA e anti-MBG foram colhidos, com resultado previsto em 72 horas, e a nefrologia agendou a biópsia renal para daqui a quatro dias. O início do tratamento e a biópsia renal são, respectivamente:",
+    "alternativas": {
+      "A": "Pulsoterapia imediata / biópsia nos próximos dias",
+      "B": "Aguardar sorologias / biópsia nos próximos dias",
+      "C": "Pulsoterapia imediata / biópsia dispensada",
+      "D": "Aguardar sorologias / biópsia dispensada"
+    },
+    "gabarito": "A",
+    "armadilha": "B",
+    "dado_decisivo": "creatinina 1,1 mg/dL há dois meses, 3,8 mg/dL na admissão e 4,6 mg/dL após 24 horas",
+    "resolucao": "Diante de um diagnóstico ainda sem nome (ANCA, anti-MBG ou imunocomplexo), o impulso é esperar o laudo para tratar certo, o que ele fez nas três glomerulonefrites rapidamente progressivas que errou. Mas síndrome pulmão-rim com creatinina que quadruplicou em semanas e subiu 0,8 mg/dL em 24 horas é emergência: cada dia de atraso custa néfrons que não voltam, e a hemorragia alveolar pode matar. A conduta é pulsoterapia com metilprednisolona (500 a 1.000 mg/dia por três dias) imediatamente, sem esperar sorologias nem biópsia. O corticoide não invalida a biópsia feita nos dias seguintes: crescentes, necrose e o padrão de imunofluorescência (linear, granular ou pauci-imune) continuam visíveis, e a biópsia define o mecanismo, a atividade e a cronicidade, que guiam o restante da indução (ciclofosfamida ou rituximabe, e plasmaférese se for anti-MBG). Com plaquetas e coagulação normais e PA controlável, não há contraindicação.",
+    "comentarios": {
+      "A": "Correta. Pulsoterapia já, pela gravidade (hemorragia alveolar e perda de função em horas), e biópsia mantida nos dias seguintes para definir mecanismo e cronicidade.",
+      "B": "Errada, é a armadilha. A biópsia nos próximos dias está certa, mas esperar 72 horas pelas sorologias para iniciar imunossupressão aceita perda renal irreversível; a glomerulonefrite rapidamente progressiva é urgência terapêutica.",
+      "C": "Errada. Tratar já está certo, mas a biópsia continua necessária: define o tipo (o anti-MBG pede plasmaférese), mede a cronicidade e não é invalidada por poucos dias de corticoide.",
+      "D": "Errada. Erra nas duas metades: atrasa o tratamento e dispensa a informação que só a biópsia dá."
+    },
+    "para_levar": "Na glomerulonefrite rapidamente progressiva grave (pulmão-rim ou creatinina subindo em dias), pulso de metilprednisolona antes de sorologias e biópsia; a biópsia vem depois e não é invalidada pelo corticoide.",
+    "referencias": "KDIGO 2024 (ANCA-Associated Vasculitis); KDIGO 2021 (Glomerular Diseases), glomerulonefrite rapidamente progressiva e doença anti-MBG; EULAR 2022 (vasculites ANCA).",
+    "tags": ["GNRP (CM)", "Vasculites ANCA-associadas (CM)", "Anti-membrana Basal Glomerular / anti-MBG / Goodpasture (CM)"],
+    "sourceQuestionId": "fd2330cf6e73876",
+    "alvo": "GNRP (0 de 3): tratar antes do laudo; face 3 do degrau (diagnóstico antes de tratamento)."
+  },
+  {
+    "id": "S3-NEF-04",
+    "simulado": 3,
+    "area": "Nefrologia",
+    "titulo": "Poliúria abrupta em usuária de lítio com câncer de mama · teste da desmopressina: diabetes insípido central",
+    "arma": "Rótulo verdadeiro",
+    "comando": "diagnóstico",
+    "nivel": "extremamente difícil",
+    "enunciado": "Mulher de 52 anos, com transtorno bipolar em uso de carbonato de lítio há nove anos (litemia de 0,6 mEq/L há um mês) e carcinoma de mama tratado há três anos, em uso de tamoxifeno, procura atendimento por sede intensa e diurese de cerca de 6 litros por dia, iniciadas de forma abrupta há cinco semanas. Exames: glicemia de jejum 92 mg/dL, cálcio 9,4 mg/dL, potássio 4,1 mEq/L, creatinina 0,9 mg/dL, sódio 145 mEq/L. Teste de restrição hídrica: após seis horas, sódio 148 mEq/L, osmolalidade plasmática 304 mOsm/kg e osmolalidade urinária 140 mOsm/kg. Uma hora após 2 µg de desmopressina subcutânea, a osmolalidade urinária subiu para 460 mOsm/kg. O diagnóstico mais provável é:",
+    "alternativas": {
+      "A": "Diabetes insípido nefrogênico pelo lítio",
+      "B": "Polidipsia primária",
+      "C": "Diurese osmótica",
+      "D": "Diabetes insípido central"
+    },
+    "gabarito": "D",
+    "armadilha": "A",
+    "dado_decisivo": "a osmolalidade urinária subiu para 460 mOsm/kg",
+    "resolucao": "Lítio há nove anos e poliúria é a associação que todo candidato conhece, e o rótulo empurra para o diabetes insípido nefrogênico. Mas o teste da desmopressina decide: no nefrogênico o rim não responde ao hormônio, e a osmolalidade urinária sobe menos de 10% (forma completa) ou até cerca de 50% (parcial); aqui ela foi de 140 para 460 mOsm/kg, mais de 200%, o que só acontece quando o receptor V2 funciona e falta o ADH: diabetes insípido central (deficiência de arginina vasopressina, na nomenclatura de 2022). O início abrupto também não é o do lítio, que instala o defeito de concentração aos poucos, ao longo de anos. Com antecedente de carcinoma de mama, a primeira hipótese é metástase para a neuro-hipófise ou a haste (mama e pulmão são as fontes mais comuns), e o próximo passo é ressonância de sela. A polidipsia primária concentraria a urina com a restrição antes de o sódio subir, e não há glicosúria ou carga de soluto para diurese osmótica.",
+    "comentarios": {
+      "A": "Errada, é a armadilha. Seria a resposta se a osmolalidade urinária pouco subisse após a desmopressina; o aumento de mais de 200% mostra um rim que responde ao ADH.",
+      "B": "Errada. Na polidipsia primária a restrição concentra a urina antes de o sódio subir; aqui o sódio passou de 145 para 148 com urina diluída.",
+      "C": "Errada. Diurese osmótica exige carga de soluto (glicose, ureia, manitol) e urina com osmolalidade próxima à plasmática; a urina é hipotônica e a glicemia é normal.",
+      "D": "Correta. Urina diluída com plasma hiperosmolar que se concentra mais de 50% com desmopressina é diabetes insípido central; neste contexto, metástase hipofisária de carcinoma de mama."
+    },
+    "para_levar": "Após a restrição hídrica, a desmopressina separa: aumento da osmolalidade urinária acima de 50% é central; abaixo de 50% (sobretudo abaixo de 10%) é nefrogênico. O lítio em uso não impede o diagnóstico de diabetes insípido central.",
+    "referencias": "Christ-Crain et al., NEJM 2018 (copeptina no diagnóstico do diabetes insípido); Consenso de nomenclatura AVP-D e AVP-R (2022); Harrison 21ª ed. (Posterior Pituitary).",
+    "tags": ["Diabetes Insipidus (CM)", "Diabetes Insipidus Nefrogênico (CM)"],
+    "sourceQuestionId": "c317645879d2ab5",
+    "alvo": "Lítio solto (tema UERJ que ele erra): o rótulo do lítio contra o teste da desmopressina, que é o exame que decide."
+  },
+  {
+    "id": "S3-NEF-05",
+    "simulado": 3,
+    "area": "Nefrologia",
+    "titulo": "Acidose com ânion gap e gap osmolar altos · etilenoglicol x metanol pelo órgão-alvo",
+    "arma": "Negativo no meio",
+    "comando": "etiologia",
+    "nivel": "extremamente difícil",
+    "enunciado": "Homem de 41 anos, mecânico, é encontrado sonolento na oficina ao lado de um galão sem rótulo, cerca de oito horas depois de ter sido visto pela última vez. Exame: Glasgow 13, pupilas isocóricas e fotorreagentes, sem queixa visual, fundoscopia normal, FR 30 irpm com respiração profunda, PA 150/90 mmHg. Exames: pH 7,10, bicarbonato 6 mEq/L, pCO2 19 mmHg, sódio 140 mEq/L, cloro 102 mEq/L, glicose 98 mg/dL, ureia 54 mg/dL, creatinina 2,6 mg/dL e subindo, cálcio total 7,3 mg/dL, lactato 2,3 mmol/L, beta-hidroxibutirato 0,3 mmol/L, etanol indetectável, osmolalidade medida de 330 mOsm/kg. O agente mais provável é:",
+    "alternativas": {
+      "A": "Metanol",
+      "B": "Isopropanol",
+      "C": "Etilenoglicol",
+      "D": "Etanol com cetoacidose"
+    },
+    "gabarito": "C",
+    "armadilha": "A",
+    "dado_decisivo": "sem queixa visual, fundoscopia normal",
+    "resolucao": "Acidose com ânion gap de 32 (140 - 102 - 6) e gap osmolar de cerca de 36 (calculada 2 × 140 + 98/18 + 54/6, perto de 294, contra 330 medida) fecham intoxicação por álcool tóxico, e o metanol é o primeiro nome que vem, ainda mais num galão sem rótulo. Quem separa os dois são o órgão-alvo e os negativos: o metanol vira ácido fórmico, que lesa a retina e o nervo óptico (visão turva, escotoma, hiperemia ou edema de papila, midríase pouco reativa), e aqui não há queixa visual e a fundoscopia é normal. O etilenoglicol vira glicolato e oxalato, que precipita com o cálcio nos túbulos: lesão renal aguda progressiva e hipocalcemia (7,3 mg/dL), exatamente o que o caso mostra. O isopropanol dá gap osmolar com cetose, mas sem acidose de ânion gap elevado, e a cetoacidose alcoólica exigiria beta-hidroxibutirato alto. Conduta: fomepizol (ou etanol) e hemodiálise pela acidose grave e pela lesão renal.",
+    "comentarios": {
+      "A": "Errada, é a armadilha. Seria a resposta com queixa visual, fundoscopia alterada ou lesão de putâmen na imagem; lesão renal com hipocalcemia não é a assinatura do metanol.",
+      "B": "Errada. O isopropanol é metabolizado a acetona: dá gap osmolar e cetose, sem acidose metabólica de ânion gap elevado.",
+      "C": "Correta. Ânion gap e gap osmolar altos com lesão renal aguda progressiva, hipocalcemia e visão preservada: etilenoglicol, cujo oxalato precipita com o cálcio no túbulo.",
+      "D": "Errada. O etanol está indetectável e o beta-hidroxibutirato é de 0,3 mmol/L, o que afasta cetoacidose alcoólica."
+    },
+    "para_levar": "Ânion gap e gap osmolar altos: o metanol ataca o olho; o etilenoglicol ataca o rim, com hipocalcemia e cristais de oxalato; o isopropanol dá gap osmolar sem acidose.",
+    "referencias": "EXTRIP Workgroup, recomendações para intoxicação por metanol (Crit Care Med 2015); American Academy of Clinical Toxicology, diretriz de etilenoglicol (1999); Harrison 21ª ed. (Acute Poisoning).",
+    "tags": ["Intoxicação por Metanol (CM)", "Intoxicações (CM)", "Gasometria Arterial (CM)"],
+    "sourceQuestionId": "1de7a545fb20320",
+    "alvo": "Ácido-base com ângulo difícil: o negativo (visão preservada) e o número que decide (cálcio, creatinina) entre os álcoois tóxicos."
+  },
+  {
+    "id": "S3-NEF-06",
+    "simulado": 3,
+    "area": "Nefrologia",
+    "titulo": "Lesão renal pós-operatória em uso de furosemida · fração de excreção de ureia: pré-renal x necrose tubular",
+    "arma": "Rótulo verdadeiro",
+    "comando": "diagnóstico",
+    "nivel": "difícil",
+    "enunciado": "Homem de 72 anos, no terceiro dia de pós-operatório de colectomia direita com ileostomia, teve hipotensão no intraoperatório (PAM de 58 mmHg por cerca de 40 minutos). Desde ontem recebe furosemida 40 mg IV de 12 em 12 horas por edema de membros inferiores, com albumina de 2,4 g/dL. O débito da ileostomia foi de 1.800 mL nas últimas 24 horas. Exame: PA 102/60 mmHg, FC 106 bpm, mucosas secas, sem turgência jugular, sem estertores, edema 2+, abdome flácido. Exames: creatinina de 0,9 para 2,3 mg/dL, ureia 112 mg/dL, sódio 134 mEq/L; urina com densidade 1,024, cilindros hialinos, sem cilindros granulosos ou células tubulares; fração de excreção de sódio 2,6% e fração de excreção de ureia 24%. A causa mais provável da lesão renal é:",
+    "alternativas": {
+      "A": "Lesão pré-renal por hipovolemia",
+      "B": "Necrose tubular aguda isquêmica",
+      "C": "Nefrite intersticial aguda",
+      "D": "Síndrome compartimental abdominal"
+    },
+    "gabarito": "A",
+    "armadilha": "B",
+    "dado_decisivo": "fração de excreção de ureia 24%",
+    "resolucao": "Hipotensão intraoperatória de 40 minutos e fração de excreção de sódio de 2,6% parecem fechar necrose tubular aguda isquêmica. Mas a FENa só vale sem diurético: a furosemida bloqueia a reabsorção de sódio na alça e eleva a FENa mesmo quando o túbulo está íntegro e ávido por volume. A ureia é reabsorvida no túbulo proximal e no ducto coletor medular, segmentos que a furosemida não atinge, e por isso a fração de excreção de ureia abaixo de 35% continua indicando lesão pré-renal no paciente em diurético. Tudo combina: débito alto da ileostomia, mucosas secas, taquicardia, ureia desproporcional à creatinina, urina concentrada (densidade 1,024) e sedimento só com cilindros hialinos, sem os cilindros granulosos pigmentados da necrose tubular. O edema vem da hipoalbuminemia, não de excesso intravascular. Conduta: suspender a furosemida e repor volume, repondo também as perdas da ileostomia.",
+    "comentarios": {
+      "A": "Correta. FEUreia de 24% (abaixo de 35%) com furosemida em uso, urina concentrada e sedimento brando: pré-renal pela perda da ileostomia, agravada pelo diurético.",
+      "B": "Errada, é a armadilha. A FENa de 2,6% e a hipotensão intraoperatória apontam necrose tubular, mas a FENa está falsamente alta pela furosemida; a necrose tubular traria FEUreia acima de 50%, urina isostenúrica e cilindros granulosos.",
+      "C": "Errada. Nefrite intersticial exigiria exposição a droga implicada por mais tempo, com leucocitúria e cilindros leucocitários; o sedimento é brando.",
+      "D": "Errada. Exigiria pressão intra-abdominal acima de 20 mmHg com disfunção orgânica e abdome tenso; o abdome é flácido e a ileostomia drena bem."
+    },
+    "para_levar": "Com diurético em uso, a FENa perde valor; use a fração de excreção de ureia: abaixo de 35% é pré-renal, acima de 50% sugere necrose tubular.",
+    "referencias": "KDIGO 2012 (Acute Kidney Injury); Carvounis et al., Kidney Int 2002 (fração de excreção de ureia); Harrison 21ª ed. (Acute Kidney Injury).",
+    "tags": ["IRA Pré-renal (CM)", "NTA (CM)"],
+    "sourceQuestionId": "9cf5d0b4eb68a86",
+    "alvo": "O número que decide (FENa x FEUreia) e a droga em uso (furosemida) que invalida o índice."
+  },
+  {
+    "id": "S3-NEF-07",
+    "simulado": 3,
+    "area": "Nefrologia",
+    "titulo": "Pielonefrite obstrutiva com cálculo coraliforme e urina alcalina · estruvita e descompressão antes da litotripsia",
+    "arma": "Grade X / Y",
+    "comando": "etiologia",
+    "nivel": "difícil",
+    "enunciado": "Mulher de 52 anos, com infecções urinárias de repetição, procura o pronto-socorro por dor em flanco direito há dois dias, febre de 39,2 °C e calafrios. Exame: PA 104/62 mmHg após 2 litros de cristaloide, FC 112 bpm, punho-percussão lombar direita dolorosa. Exames: leucócitos 19.800/mm³, creatinina 1,8 mg/dL, lactato 2,8 mmol/L; urina com pH 8,0, nitrito positivo, leucocitúria intensa e bacilos gram-negativos no Gram. Tomografia sem contraste: cálculo de 9 mm no ureter proximal direito com hidronefrose moderada e cálculo coraliforme parcial no rim direito. Já recebeu a primeira dose de ceftriaxona. A composição mais provável do cálculo coraliforme e a conduta urológica imediata são, respectivamente:",
+    "alternativas": {
+      "A": "Estruvita / ureteroscopia com litotripsia",
+      "B": "Ácido úrico / ureteroscopia com litotripsia",
+      "C": "Ácido úrico / drenagem com duplo J ou nefrostomia",
+      "D": "Estruvita / drenagem com duplo J ou nefrostomia"
+    },
+    "gabarito": "D",
+    "armadilha": "A",
+    "dado_decisivo": "cálculo de 9 mm no ureter proximal direito com hidronefrose moderada",
+    "resolucao": "A tentação é resolver tudo de uma vez: o cálculo está visível e acessível, e a ureteroscopia com litotripsia trataria a causa. Mas pielonefrite obstrutiva com sepse é emergência urológica em que o objetivo imediato é só descomprimir o rim: cateter duplo J ou nefrostomia percutânea, com antibiótico e cultura da urina drenada. Manipular o cálculo num sistema coletor infectado e sob pressão dissemina bactérias e endotoxina e piora a sepse; o tratamento definitivo fica para depois da resolução da infecção. Quanto à composição, urina com pH 8,0, infecções de repetição e cálculo coraliforme apontam estruvita (fosfato amoníaco-magnesiano), formada quando bactérias produtoras de urease (Proteus, Klebsiella) hidrolisam a ureia em amônia e alcalinizam a urina. O ácido úrico precipita em urina ácida (pH abaixo de 5,5).",
+    "comentarios": {
+      "A": "Errada, é a armadilha. A composição está certa, mas a ureteroscopia definitiva num rim obstruído e infectado com sepse é contraindicada; primeiro se drena, depois se trata o cálculo.",
+      "B": "Errada. Erra nas duas metades: ácido úrico precipita em urina ácida, e a litotripsia não é a medida imediata.",
+      "C": "Errada. A drenagem está certa, mas pH urinário de 8,0 com infecção recorrente e coraliforme não é ácido úrico.",
+      "D": "Correta. Urina alcalina com gram-negativo e coraliforme é estruvita por germe produtor de urease; com obstrução e sepse, a conduta imediata é a descompressão com duplo J ou nefrostomia."
+    },
+    "para_levar": "Cálculo com obstrução e infecção: descomprimir (duplo J ou nefrostomia) e antibiótico, e só depois tratar o cálculo. Coraliforme em urina alcalina com Proteus ou Klebsiella é estruvita.",
+    "referencias": "EAU Guidelines on Urolithiasis (2025); AUA Guideline, Surgical Management of Stones (2016, emenda 2023); Harrison 21ª ed. (Nephrolithiasis).",
+    "tags": ["Nefrolitíase (CM)", "Nefrolitíase e Infecção Urinária (CM)"],
+    "sourceQuestionId": "f5edc150456e9f0",
+    "alvo": "Nefrolitíase (sub-tag mais fraca): tipo de cálculo por urease e porte da conduta (drenar, não litotripsia)."
+  },
+  {
+    "id": "S3-NEF-08",
+    "simulado": 3,
+    "area": "Nefrologia",
+    "titulo": "Anemia da doença renal crônica com ferritina normal · ferro antes do estimulador da eritropoese",
+    "arma": "Limiar",
+    "comando": "fato solto",
+    "nivel": "difícil",
+    "enunciado": "Em adulto com doença renal crônica não dialítica (TFGe 24 mL/min/1,73 m²), hemoglobina de 9,2 g/dL, VCM de 86 fL, saturação de transferrina de 17%, ferritina de 340 ng/mL, sem sangramento e sem uso prévio de agente estimulador da eritropoese, a primeira medida para a anemia é:",
+    "alternativas": {
+      "A": "Iniciar alfaepoetina",
+      "B": "Reposição de ferro",
+      "C": "Alfaepoetina associada a ferro",
+      "D": "Transfusão de hemácias"
+    },
+    "gabarito": "B",
+    "armadilha": "A",
+    "dado_decisivo": "saturação de transferrina de 17%",
+    "resolucao": "A ferritina de 340 parece afastar ferropenia, e anemia da DRC lembra eritropoetina. Mas na DRC a ferritina sobe com a inflamação, e o limiar para tentar ferro é outro: a KDIGO recomenda ferro (oral ou intravenoso) quando a saturação de transferrina é de até 30% e a ferritina de até 500 ng/mL, antes de iniciar o agente estimulador da eritropoese. Repletar ferro primeiro corrige parte da anemia sem os riscos do estimulador (hipertensão, trombose, AVC) e evita a falta de ferro, que é a causa mais comum de má resposta a ele. A alfaepoetina entra depois, com hemoglobina abaixo de 10 g/dL apesar do ferro repleto, e com alvo que não passa de 11,5 g/dL. A UERJ cobra exatamente essa ordem: ferro antes da eritropoetina.",
+    "comentarios": {
+      "A": "Errada, é a armadilha. Seria considerada com ferro repleto e hemoglobina abaixo de 10; iniciar com saturação de 17% dá resposta ruim e exige dose maior.",
+      "B": "Correta. Saturação de 17% (até 30%) com ferritina de 340 (até 500) indica prova terapêutica com ferro antes de qualquer estimulador.",
+      "C": "Errada. Associar desde o início expõe ao estimulador quem pode responder só ao ferro; a sequência é ferro, reavaliar e, se preciso, estimulador.",
+      "D": "Errada. Transfusão é para anemia sintomática grave ou instabilidade, e ainda sensibiliza contra um futuro transplante renal."
+    },
+    "para_levar": "Anemia da DRC: ferro antes da eritropoetina quando a saturação de transferrina é de até 30% e a ferritina de até 500 ng/mL; ferritina normal não exclui ferropenia funcional.",
+    "referencias": "KDIGO 2012 (Anemia in CKD), recomendação mantida no rascunho de atualização KDIGO 2025; PCDT Anemia na Doença Renal Crônica (Ministério da Saúde).",
+    "tags": ["Tratamento Doença Renal Crônica (CM)", "Doença Renal Crônica (CM)"],
+    "sourceQuestionId": "710111d3d88c4b4",
+    "alvo": "Ordem de conduta (ferro antes da EPO) e o número que decide (saturação, não ferritina), em formato de fato solto."
+  }
+]
