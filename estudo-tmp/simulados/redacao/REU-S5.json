@@ -1,0 +1,309 @@
+[
+  {
+    "id": "S5-REU-01",
+    "simulado": 5,
+    "area": "Reumatologia",
+    "titulo": "Massa pancreática com IgG4 sérica alta: afastar adenocarcinoma antes da prova com corticoide",
+    "arma": "Rótulo verdadeiro",
+    "comando": "próximo exame",
+    "nivel": "extremamente difícil",
+    "enunciado": "Homem de 67 anos procura atendimento por icterícia indolor progressiva há 4 semanas, com prurido, colúria e perda de 4 kg. Recebeu diagnóstico de diabetes há 3 meses. Nega etilismo. Há 1 ano teve aumento indolor das glândulas submandibulares, que regrediu espontaneamente. Exame físico: ictérico, vesícula não palpável, sem massas abdominais. Exames: bilirrubina total 9,4 mg/dL (direta 8,1), fosfatase alcalina 610 U/L, GGT 840 U/L, lipase normal, CA 19-9 de 168 U/mL (VR < 37), IgG4 sérica de 410 mg/dL (VR < 135). TC de abdome com contraste: aumento da cabeça do pâncreas com área hipoatenuante de 2,8 cm, dilatação do ducto pancreático principal a montante de 6 mm com atrofia do corpo e da cauda, e dilatação das vias biliares intra e extra-hepáticas. O próximo passo mais adequado é:",
+    "alternativas": {
+      "A": "Ecoendoscopia com biópsia por agulha",
+      "B": "Prova terapêutica com prednisona",
+      "C": "Repetir IgG4 sérica em 4 semanas",
+      "D": "PET-CT de corpo inteiro"
+    },
+    "gabarito": "A",
+    "armadilha": "B",
+    "dado_decisivo": "dilatação do ducto pancreático principal a montante de 6 mm com atrofia do corpo e da cauda",
+    "resolucao": "IgG4 três vezes acima do limite, homem idoso, diabetes recente e sialadenite prévia formam um rótulo forte de pancreatite autoimune tipo 1, e a prova com prednisona parece o atalho. Mas a imagem é de massa focal com dilatação do ducto a montante e atrofia do parênquima distal, achados que favorecem adenocarcinoma; na pancreatite autoimune o ducto costuma estar afilado, sem dilatação a montante. A IgG4 sérica se eleva em cerca de 10% dos adenocarcinomas de pâncreas, e o CA 19-9 sobe com a colestase, então nenhum dos dois decide. Nos critérios internacionais, imagem atípica exige excluir câncer com tecido antes de qualquer corticoide, e a ecoendoscopia com biópsia por agulha é o exame que faz isso e ainda pode mostrar a histologia linfoplasmocitária. A prova com corticoide só é aceitável depois de afastada a neoplasia, com reavaliação de imagem em 2 semanas; usá-la antes pode atrasar uma ressecção curativa.",
+    "comentarios": {
+      "A": "Correta. Massa focal com ducto dilatado a montante e atrofia distal exige afastar adenocarcinoma com tecido antes de tratar como doença por IgG4.",
+      "B": "Errada. Seria aceitável com imagem de pâncreas difusamente aumentado em salsicha, sem dilatação ductal, e câncer afastado por biópsia; aqui adiaria um tumor ressecável.",
+      "C": "Errada. A IgG4 sérica não separa as duas doenças e repeti-la só adia o exame que decide.",
+      "D": "Errada. A captação ocorre nas duas doenças e não substitui o tecido; seria útil para estadiar depois da confirmação."
+    },
+    "para_levar": "IgG4 sérica alta não autoriza corticoide numa massa pancreática: ducto dilatado a montante e atrofia distal pedem ecoendoscopia com biópsia antes da prova terapêutica.",
+    "referencias": "International Consensus Diagnostic Criteria for Autoimmune Pancreatitis (ICDC, 2011); ACR/EULAR 2019 classification criteria for IgG4-related disease (critérios de exclusão).",
+    "tags": [
+      "Doença por IgG4 (CM)",
+      "Pâncreas (CM)"
+    ],
+    "sourceQuestionId": "4a4504956c613a5",
+    "alvo": "IgG4 0 de 2 na UERJ (errou a pancreatite com perda de peso); rótulo do marcador e ordem da conduta."
+  },
+  {
+    "id": "S5-REU-02",
+    "simulado": 5,
+    "area": "Reumatologia",
+    "titulo": "Candidata a teriparatida com fosfatase alcalina alta de origem óssea: doença de Paget",
+    "arma": "Rótulo verdadeiro",
+    "comando": "próximo exame",
+    "nivel": "extremamente difícil",
+    "enunciado": "Mulher de 72 anos é encaminhada para iniciar teriparatida. Teve três fraturas vertebrais por fragilidade (T7, T11 e L1) nos últimos 2 anos, a última durante o uso regular de alendronato por 4 anos, e tem T-escore de -3,4 em coluna lombar e -2,9 em colo femoral. Refere dor surda e contínua na coxa esquerda, pior à noite, há 1 ano, e notou a perna esquerda mais arqueada. Exame físico: arqueamento anterolateral do fêmur esquerdo, com calor local discreto. Exames: cálcio 9,6 mg/dL, fósforo 3,4 mg/dL, 25-hidroxivitamina D 38 ng/mL, PTH 44 pg/mL, creatinina 0,8 mg/dL, fosfatase alcalina 390 U/L (VR até 120), GGT 28 U/L (VR até 40), eletroforese de proteínas sem pico monoclonal. Radiografia do fêmur esquerdo: espessamento cortical, trabeculado grosseiro e áreas líticas e escleróticas, sem traço de fratura. Antes de definir o tratamento, o exame mais adequado é:",
+    "alternativas": {
+      "A": "Biópsia da lesão femoral",
+      "B": "Cintilografia óssea de corpo inteiro",
+      "C": "Ressonância magnética do fêmur",
+      "D": "Fosfatase alcalina óssea específica"
+    },
+    "gabarito": "B",
+    "armadilha": "C",
+    "dado_decisivo": "fosfatase alcalina 390 U/L (VR até 120), GGT 28 U/L (VR até 40)",
+    "resolucao": "Dor na coxa em usuária de alendronato puxa para fratura femoral atípica, e a ressonância parece o exame natural; as fraturas vertebrais puxam direto para a teriparatida. Mas a fratura atípica não eleva a fosfatase alcalina e não arqueia o osso; aqui a fosfatase está três vezes acima com GGT normal (origem óssea), há calor e arqueamento, e a radiografia mostra espessamento cortical com trabeculado grosseiro e áreas mistas: é doença de Paget. Antes de tratar, a cintilografia óssea mapeia a extensão da doença (que pode ser poliostótica e atingir crânio, coluna e pelve) e orienta radiografias dos sítios captantes. O achado muda o plano: teriparatida é contraindicada na doença de Paget e na fosfatase alcalina alta sem explicação, pelo risco de osteossarcoma. O zoledronato em dose única trata a doença de Paget ativa e também serve à osteoporose de risco muito alto, ou se considera romosozumabe conforme o risco cardiovascular.",
+    "comentarios": {
+      "A": "Errada. O diagnóstico de Paget é radiológico e cintilográfico; biópsia fica para suspeita de transformação sarcomatosa (dor nova intensa, massa, lise agressiva).",
+      "B": "Correta. Fosfatase alcalina óssea alta com radiografia de Paget pede cintilografia para mapear a extensão, e a doença contraindica a teriparatida.",
+      "C": "Errada. Seria o exame para fratura atípica com radiografia normal e dor na coxa; aqui não há traço de fratura e o quadro é de Paget.",
+      "D": "Errada. A GGT normal já indica que a fosfatase alcalina é óssea; a dosagem específica não acrescenta."
+    },
+    "para_levar": "Fosfatase alcalina alta sem explicação contraindica teriparatida: com GGT normal, investigue Paget com radiografia e cintilografia. Zoledronato trata Paget e osteoporose ao mesmo tempo.",
+    "referencias": "Endocrine Society 2014 Clinical Practice Guideline for Paget's disease of bone; Manual Brasileiro de Osteoporose (SBR/ABRASSO, 2021); bula da teriparatida (contraindicações).",
+    "tags": [
+      "Paget (CM)",
+      "Osteoporose (CM)"
+    ],
+    "sourceQuestionId": "8fd0c6cb7e94c2e",
+    "alvo": "Errou a cintilografia óssea no banco; rótulo (fraturas puxam anabólico) e laboratório como discriminante."
+  },
+  {
+    "id": "S5-REU-03",
+    "simulado": 5,
+    "area": "Reumatologia",
+    "titulo": "Artrite reativa pós-clamídia: tratar a uretrite por 7 dias e a artrite com AINE",
+    "arma": "Grade X / Y",
+    "comando": "conduta",
+    "nivel": "difícil",
+    "enunciado": "Homem de 24 anos procura atendimento por dor e edema no joelho esquerdo e no tornozelo direito há 10 dias, dor no calcanhar direito ao caminhar e olhos vermelhos sem perda visual. Há 4 semanas teve ardor ao urinar e secreção uretral clara, não tratados, que persistem leves. Tem parceira nova há 2 meses, sem preservativo. Exame físico: T 37,6 °C, artrite de joelho esquerdo e tornozelo direito, entesite do tendão de Aquiles direito, conjuntivite bilateral, sem lesões de pele ou mucosas. Exames: VHS 48 mm/h, PCR 5,2 mg/dL, HLA-B27 reagente, teste de amplificação de ácidos nucleicos na urina positivo para Chlamydia trachomatis e negativo para gonococo, anti-HIV e VDRL não reagentes. Líquido sinovial inflamatório, sem cristais, com Gram e cultura negativos. Quanto ao antimicrobiano e ao tratamento da artrite, a conduta mais adequada é, respectivamente:",
+    "alternativas": {
+      "A": "Doxiciclina por 7 dias / AINE",
+      "B": "Doxiciclina por 3 meses / AINE",
+      "C": "Doxiciclina por 7 dias / sulfassalazina",
+      "D": "Doxiciclina por 3 meses / sulfassalazina"
+    },
+    "gabarito": "A",
+    "armadilha": "B",
+    "dado_decisivo": "secreção uretral clara, não tratados, que persistem leves",
+    "resolucao": "A artrite, a entesite e a conjuntivite após uretrite com HLA-B27 reagente fecham artrite reativa; a dúvida é o antibiótico. O apressado acredita que tratar a bactéria por meses trata a artrite, mas antibiótico prolongado não muda o curso da artrite reativa estabelecida. O que existe aqui é uma infecção por clamídia ainda ativa, documentada pelo teste de amplificação e pelos sintomas uretrais, e ela deve ser tratada como qualquer uretrite: doxiciclina 100 mg de 12/12 horas por 7 dias, com tratamento da parceira e rastreio de outras IST. A artrite aguda se trata com AINE em dose plena, com corticoide intra-articular para a articulação mais inflamada se necessário. Sulfassalazina fica para a artrite que persiste além de 3 a 6 meses.",
+    "comentarios": {
+      "A": "Correta. A clamídia ativa é tratada como uretrite, por 7 dias e com a parceira, e a artrite aguda com AINE.",
+      "B": "Errada na primeira metade. O AINE está certo, mas antibiótico por 3 meses não altera a artrite reativa e só acumula efeitos adversos.",
+      "C": "Errada na segunda metade. O antibiótico está certo, mas a sulfassalazina é para artrite crônica, acima de 3 a 6 meses; na fase aguda o AINE resolve.",
+      "D": "Errada nas duas metades. Antibiótico prolongado e droga modificadora antes do tempo: tratamento a mais nas duas decisões."
+    },
+    "para_levar": "Artrite reativa: trate a infecção que ainda existe pelo esquema padrão (com parceria) e a artrite com AINE; antibiótico prolongado não muda a artrite e DMARD é para doença crônica.",
+    "referencias": "CDC Sexually Transmitted Infections Treatment Guidelines 2021; Ministério da Saúde, PCDT para Atenção Integral às Pessoas com IST (2022); Livro da Sociedade Brasileira de Reumatologia, 3ª ed., 2023.",
+    "tags": [
+      "Artrite Reativa (CM)",
+      "Espondiloartrites (CM)"
+    ],
+    "sourceQuestionId": "d35c7222298db69",
+    "alvo": "Faz MAIS do que o caso pede (antibiótico prolongado, DMARD precoce); grade conferida pela metade."
+  },
+  {
+    "id": "S5-REU-04",
+    "simulado": 5,
+    "area": "Reumatologia",
+    "titulo": "Síndrome antifosfolípide trombótica na gestação: enoxaparina em dose terapêutica com AAS",
+    "arma": "Grade X / Y",
+    "comando": "conduta",
+    "nivel": "difícil",
+    "enunciado": "Mulher de 32 anos teve trombose venosa profunda femoral esquerda não provocada há 3 anos, com anticoagulante lúpico, anticardiolipina IgG e anti-beta2-glicoproteína I reagentes em títulos altos, confirmados após 12 semanas. Usa varfarina desde então, com INR na faixa terapêutica e sem novos eventos. Não tem LES. Há 5 anos teve um aborto espontâneo com 7 semanas. Hoje, com 6 semanas de amenorreia, teste de gravidez positivo. O anticoagulante e o esquema mais adequados para a gestação são, respectivamente:",
+    "alternativas": {
+      "A": "Varfarina mantida / INR entre 2 e 3",
+      "B": "Enoxaparina / dose profilática com AAS",
+      "C": "Enoxaparina / dose terapêutica isolada",
+      "D": "Enoxaparina / dose terapêutica com AAS"
+    },
+    "gabarito": "D",
+    "armadilha": "B",
+    "dado_decisivo": "trombose venosa profunda femoral esquerda não provocada há 3 anos",
+    "resolucao": "Perda gestacional na história e anticorpos antifosfolípides positivos puxam para o esquema da síndrome obstétrica, com heparina profilática e AAS. Mas um único aborto antes de 10 semanas não define a forma obstétrica (exigem-se três ou mais), e o que manda é a trombose: ela tem síndrome antifosfolípide trombótica, triplo positiva, com anticoagulação por tempo indeterminado. Na gestação, a varfarina deve ser trocada já, porque é teratogênica entre 6 e 12 semanas, e o substituto é a heparina de baixo peso molecular em dose terapêutica, associada a AAS em dose baixa. Anticoagulantes orais diretos são contraindicados na gestação e na síndrome triplo positiva. No puerpério, retoma-se a varfarina, compatível com a amamentação.",
+    "comentarios": {
+      "A": "Errada. Manter a varfarina expõe o embrião à embriopatia varfarínica, cujo período crítico é de 6 a 12 semanas.",
+      "B": "Errada na segunda metade. É o esquema da síndrome obstétrica sem trombose prévia; com trombose, a dose profilática não protege a mãe.",
+      "C": "Errada na segunda metade. A dose está certa, mas as diretrizes associam AAS em dose baixa na síndrome antifosfolípide trombótica durante a gestação.",
+      "D": "Correta. Síndrome antifosfolípide com trombose na gestação: trocar a varfarina por heparina de baixo peso molecular em dose terapêutica e associar AAS."
+    },
+    "para_levar": "Na gestação, síndrome antifosfolípide trombótica pede heparina em dose terapêutica com AAS; dose profilática com AAS é para a forma só obstétrica. A troca da varfarina é antes de 6 semanas.",
+    "referencias": "EULAR 2019 recommendations for the management of antiphospholipid syndrome in adults; ACR 2020 Guideline for the Management of Reproductive Health in Rheumatic and Musculoskeletal Diseases.",
+    "tags": [
+      "SAF (CM)",
+      "Anticoagulação (CM)"
+    ],
+    "sourceQuestionId": "30ca8b2a91c2fe0",
+    "alvo": "Errou SAF obstétrica no banco; rótulo verdadeiro (perda gestacional) contra o dado que manda (trombose)."
+  },
+  {
+    "id": "S5-REU-05",
+    "simulado": 5,
+    "area": "Reumatologia",
+    "titulo": "Polimialgia reumática sem sinais de arterite: dose inicial de prednisona",
+    "arma": "Limiar",
+    "comando": "conduta",
+    "nivel": "média",
+    "enunciado": "Mulher de 71 anos refere dor e rigidez em ombros, pescoço e quadris há 7 semanas, com rigidez matinal de 2 horas e dificuldade para vestir-se. Nega cefaleia, claudicação mandibular, alterações visuais, febre e perda de peso. Tem diabetes tipo 2 com HbA1c 7,1% e osteopenia. Exame físico: dor à mobilização ativa e passiva dos ombros, sem sinovite periférica, força preservada, artérias temporais normais. Exames: VHS 58 mm/h, PCR 3,8 mg/dL, CK, TSH, cálcio e eletroforese de proteínas normais, fator reumatoide e anti-CCP não reagentes. Ultrassonografia: bursite subdeltóidea bilateral. A conduta inicial mais adequada é:",
+    "alternativas": {
+      "A": "Prednisona 1 mg/kg/dia",
+      "B": "Biópsia de artéria temporal antes do corticoide",
+      "C": "Prednisona 15 mg/dia",
+      "D": "Prednisona 5 mg/dia"
+    },
+    "gabarito": "C",
+    "armadilha": "A",
+    "dado_decisivo": "Nega cefaleia, claudicação mandibular, alterações visuais",
+    "resolucao": "Polimialgia reumática lembra a arterite de células gigantes, e quem mistura as duas dá dose de arterite (1 mg/kg) ou pede biópsia de temporal. Sem cefaleia, claudicação mandibular, sintomas visuais ou artéria temporal alterada, não há indicação de biópsia nem de dose alta. A dose inicial recomendada para polimialgia é de 12,5 a 25 mg/dia de prednisona, e diabetes e osteopenia pedem a faixa mais baixa, como 15 mg. A resposta costuma ser rápida, em dias, e falta de resposta deve fazer rever o diagnóstico; o desmame é lento, e o metotrexato pode ser associado cedo quando há alto risco de efeitos do corticoide. Doses de 7,5 mg ou menos são insuficientes para o início e levam a recaída.",
+    "comentarios": {
+      "A": "Errada. É a dose da arterite de células gigantes; sem sinais cranianos, expõe uma diabética com osteopenia a toxicidade sem benefício.",
+      "B": "Errada. Biópsia de temporal é para suspeita de arterite; na polimialgia isolada sem sinais cranianos é exame a mais.",
+      "C": "Correta. Polimialgia sem sinais de arterite: prednisona entre 12,5 e 25 mg/dia, na faixa baixa por diabetes e osteopenia.",
+      "D": "Errada. Abaixo da faixa inicial; serve na fase de desmame, não para induzir resposta."
+    },
+    "para_levar": "Polimialgia reumática isolada: prednisona 12,5 a 25 mg/dia, na faixa baixa com diabetes ou osteoporose. Dose de 1 mg/kg e biópsia são para arterite de células gigantes.",
+    "referencias": "EULAR/ACR 2015 recommendations for the management of polymyalgia rheumatica; BSR 2021 guideline for PMR.",
+    "tags": [
+      "Polimialgia Reumática"
+    ],
+    "sourceQuestionId": "f7931f219bcaf90",
+    "alvo": "Faz MAIS do que o caso pede (dose de arterite, biópsia); limiar de dose não fixado."
+  },
+  {
+    "id": "S5-REU-06",
+    "simulado": 5,
+    "area": "Reumatologia",
+    "titulo": "Lúpus induzido por hidralazina a deduzir: o autoanticorpo esperado",
+    "arma": "Negativo no meio",
+    "comando": "achado esperado",
+    "nivel": "difícil",
+    "enunciado": "Homem de 69 anos, preto, com insuficiência cardíaca de fração de ejeção reduzida, usa há 14 meses sacubitril-valsartana, carvedilol, espironolactona, furosemida e a associação de nitrato com vasodilatador arterial direto. Há 5 semanas apresenta febre baixa, artralgia de mãos e punhos e dor torácica pleurítica. Nega fotossensibilidade, úlceras orais, alopecia, edema novo e alterações urinárias. Exame físico: T 37,8 °C, atrito pleural em base esquerda, artrite em 2 metacarpofalângicas, sem lesões cutâneas. Exames: Hb 12,6 g/dL, leucócitos 4.200/mm³, plaquetas 210.000/mm³, creatinina 1,1 mg/dL, EAS normal, C3 e C4 normais, FAN 1:640 com padrão nuclear homogêneo. Radiografia: pequeno derrame pleural à esquerda. O autoanticorpo mais provavelmente reagente neste paciente é:",
+    "alternativas": {
+      "A": "Anti-DNA nativo",
+      "B": "Anti-histona",
+      "C": "Anti-Sm",
+      "D": "Anti-Ro/SSA"
+    },
+    "gabarito": "B",
+    "armadilha": "A",
+    "dado_decisivo": "EAS normal, C3 e C4 normais",
+    "resolucao": "FAN em título alto com padrão homogêneo, serosite e artrite levam ao lúpus e ao anti-DNA nativo, que é o anticorpo ligado a esse padrão. Mas o paciente é homem, de 69 anos, e usa há mais de 1 ano a associação de nitrato com vasodilatador arterial direto, que é a hidralazina, uma das drogas que mais induzem lúpus. Os negativos completam o retrato do lúpus induzido: sem nefrite (EAS normal), sem lesão cutânea ou de mucosa, sem citopenia relevante e com complemento normal. Nesse quadro, o anticorpo esperado é o anti-histona, presente em mais de 90% dos casos por hidralazina e procainamida, com anti-DNA nativo e anti-Sm em geral negativos. A conduta é suspender a hidralazina (substituindo-a no esquema da insuficiência cardíaca) e tratar a serosite com AINE ou corticoide em dose baixa por curto período; o quadro regride em semanas a meses.",
+    "comentarios": {
+      "A": "Errada. O anti-DNA nativo acompanha o lúpus idiopático com nefrite e complemento baixo; no induzido por hidralazina costuma ser negativo (é mais visto no induzido por anti-TNF).",
+      "B": "Correta. Lúpus induzido por hidralazina, com serosite e artrite, sem rim e com complemento normal: o anticorpo esperado é o anti-histona.",
+      "C": "Errada. O anti-Sm é específico do lúpus idiopático e praticamente não ocorre no induzido por droga.",
+      "D": "Errada. O anti-Ro aparece no lúpus cutâneo subagudo induzido por drogas como tiazídicos e terbinafina, com lesões anulares fotossensíveis, ausentes aqui."
+    },
+    "para_levar": "Serosite e artrite com FAN homogêneo em idoso que usa hidralazina, sem rim e com complemento normal, é lúpus induzido: anti-histona positivo, e a conduta é suspender a droga.",
+    "referencias": "EULAR/ACR 2019 classification criteria for SLE (exigem afastar causa alternativa); Livro da Sociedade Brasileira de Reumatologia, 3ª ed., 2023; 2022 ESC/AHA/ACC HF guidelines (hidralazina-nitrato).",
+    "tags": [
+      "Lúpus (CM)",
+      "FAN e Autoanticorpos geral (CM)",
+      "Iatrogenias (CM)"
+    ],
+    "sourceQuestionId": "08ee11e49ec5aa8",
+    "alvo": "Rótulo do autoanticorpo (FAN homogêneo puxa anti-DNA); droga em uso ignorada."
+  },
+  {
+    "id": "S5-REU-07",
+    "simulado": 5,
+    "area": "Reumatologia",
+    "titulo": "Suspensão do denosumabe: zoledronato para evitar o efeito rebote",
+    "arma": "Qualificador",
+    "comando": "fato solto",
+    "nivel": "difícil",
+    "enunciado": "Mulher de 70 anos usa denosumabe 60 mg a cada 6 meses há 5 anos, sem fraturas, com T-escore atual de -1,9 em colo femoral, e o tratamento será interrompido. Para prevenir a perda óssea acelerada e as fraturas vertebrais múltiplas após a suspensão, recomenda-se:",
+    "alternativas": {
+      "A": "Observar e repetir densitometria em 2 anos",
+      "B": "Teriparatida logo após a última dose",
+      "C": "Reduzir para uma aplicação anual",
+      "D": "Zoledronato cerca de 6 meses após a última dose"
+    },
+    "gabarito": "D",
+    "armadilha": "A",
+    "dado_decisivo": "Para prevenir a perda óssea acelerada e as fraturas vertebrais múltiplas após a suspensão",
+    "resolucao": "A analogia com o bisfosfonato, que permite férias porque fica retido no osso, leva a suspender o denosumabe e só observar. O denosumabe não se acumula no osso: quando o efeito acaba, há um rebote da reabsorção, com perda rápida de massa e risco de fraturas vertebrais múltiplas a partir de 7 a 16 meses após a última dose. Por isso ele não deve ser interrompido sem terapia de transição com bisfosfonato, em geral zoledronato cerca de 6 meses após a última aplicação, com dosagem de marcador de reabsorção ou densitometria para decidir nova dose. Teriparatida logo após o denosumabe acelera a perda óssea no quadril, e espaçar a aplicação apenas antecipa o rebote.",
+    "comentarios": {
+      "A": "Errada. Seria aceitável após bisfosfonato em baixo risco (férias); após denosumabe, observar deixa o rebote acontecer.",
+      "B": "Errada. A transição de denosumabe para teriparatida causa perda óssea transitória no quadril e não previne o rebote vertebral.",
+      "C": "Errada. Aplicação anual deixa o efeito acabar entre as doses e expõe ao mesmo rebote.",
+      "D": "Correta. Zoledronato cerca de 6 meses após a última dose consolida o ganho e reduz o rebote; pode ser preciso repetir conforme os marcadores."
+    },
+    "para_levar": "Denosumabe não tem férias: ao suspender, faça bisfosfonato (zoledronato cerca de 6 meses após a última dose) para evitar o rebote com fraturas vertebrais múltiplas.",
+    "referencias": "ECTS 2021 position statement on denosumab discontinuation (Tsourdi et al.); Manual Brasileiro de Osteoporose (SBR/ABRASSO, 2021); Endocrine Society 2019/2020 osteoporosis guideline.",
+    "tags": [
+      "Osteoporose (CM)"
+    ],
+    "sourceQuestionId": "419111917d045ea",
+    "alvo": "Conduta em osteoporose não fixada (memória de 16/08); fato solto com comando qualificado."
+  },
+  {
+    "id": "S5-REU-08",
+    "simulado": 5,
+    "area": "Reumatologia",
+    "titulo": "Artrite reumatoide refratária com insuficiência cardíaca a deduzir: evitar anti-TNF e inibidor de JAK",
+    "arma": "Droga a deduzir",
+    "comando": "conduta",
+    "nivel": "extremamente difícil",
+    "enunciado": "Homem de 64 anos tem artrite reumatoide soropositiva há 6 anos, com atividade moderada (CDAI 24) apesar de metotrexato 25 mg/semana subcutâneo com ácido fólico, já associado sem sucesso a leflunomida e, depois, a hidroxicloroquina com sulfassalazina. Ex-tabagista (40 maços-ano), teve infarto do miocárdio há 3 anos. Usa sacubitril-valsartana, carvedilol, espironolactona, dapagliflozina e furosemida 80 mg/dia, e refere dispneia ao caminhar menos de um quarteirão no plano. Exame físico: PA 108 x 68 mmHg, crepitações em bases, edema 2+ em pernas, sinovite em 6 articulações. Sorologias para hepatites B e C e anti-HIV negativas, prova tuberculínica de 0 mm, radiografia de tórax com cardiomegalia, sem lesões pulmonares. Além de manter o metotrexato, a melhor opção é associar:",
+    "alternativas": {
+      "A": "Adalimumabe",
+      "B": "Tofacitinibe",
+      "C": "Abatacepte",
+      "D": "Prednisona 10 mg/dia contínua"
+    },
+    "gabarito": "C",
+    "armadilha": "A",
+    "dado_decisivo": "Usa sacubitril-valsartana, carvedilol, espironolactona, dapagliflozina e furosemida 80 mg/dia",
+    "resolucao": "Depois da falha da terapia sintética, o anti-TNF é o primeiro biológico de muita gente, e é aí que a questão pega. A insuficiência cardíaca não é nomeada, mas a lista de drogas (sacubitril-valsartana, betabloqueador, espironolactona, dapagliflozina e diurético de alça) é o tratamento da fração de ejeção reduzida, e a dispneia ao caminhar menos de um quarteirão é classe III. Anti-TNF é contraindicado na insuficiência cardíaca classe III ou IV, por piora e aumento de mortalidade. O tofacitinibe também não é boa escolha: ex-tabagista com mais de 50 anos e infarto prévio é o perfil em que os inibidores de JAK aumentaram eventos cardiovasculares maiores e neoplasias, e as agências recomendam usá-los só sem alternativa. Restam os biológicos não anti-TNF, como abatacepte, tocilizumabe ou rituximabe; o abatacepte é a opção entre as alternativas. Corticoide contínuo não é estratégia de controle e piora a retenção hídrica.",
+    "comentarios": {
+      "A": "Errada. Seria a escolha habitual após falha de sintéticos, mas está contraindicado na insuficiência cardíaca classe III ou IV deduzida pelas drogas.",
+      "B": "Errada. Eficaz, mas ex-tabagista acima de 50 anos com infarto prévio tem risco aumentado de eventos cardiovasculares e neoplasia com inibidor de JAK, e há alternativa.",
+      "C": "Correta. Biológico não anti-TNF, sem restrição na insuficiência cardíaca e sem o sinal cardiovascular dos inibidores de JAK.",
+      "D": "Errada. Corticoide é ponte de curta duração; contínuo não controla a doença e agrava retenção de sódio e risco cardiovascular."
+    },
+    "para_levar": "Insuficiência cardíaca classe III ou IV contraindica anti-TNF; com tabagismo e doença cardiovascular, evite inibidor de JAK se houver alternativa. Abatacepte, tocilizumabe e rituximabe ficam.",
+    "referencias": "ACR 2021 Guideline for the Treatment of Rheumatoid Arthritis; EULAR 2022 RA recommendations (fatores de risco para inibidores de JAK); EMA/PRAC 2023 sobre inibidores de JAK; SBR 2017.",
+    "tags": [
+      "Artrite Reumatóide (CM)",
+      "Drogas antirreumáticas (CM)",
+      "Insuficiência Cardíaca (CM)"
+    ],
+    "sourceQuestionId": "3fe65b166783d92",
+    "alvo": "Errou contraindicações do anti-TNF; droga a deduzir na primeira linha e manejo de AR (lacuna registrada)."
+  },
+  {
+    "id": "S5-REU-09",
+    "simulado": 5,
+    "area": "Reumatologia",
+    "titulo": "Espondilite anquilosante com doença desmielinizante a deduzir: inibidor de IL-17 e não anti-TNF",
+    "arma": "Droga a deduzir",
+    "comando": "conduta",
+    "nivel": "extremamente difícil",
+    "enunciado": "Mulher de 33 anos tem espondilite anquilosante com sacroiliíte bilateral na ressonância e HLA-B27 reagente, com dor lombar inflamatória, BASDAI 6,4 e PCR 3,1 mg/dL, apesar do uso sequencial, em dose plena, de naproxeno e de celecoxibe por 4 semanas cada. Não tem artrite periférica, psoríase, uveíte ou sintomas intestinais, e a calprotectina fecal é normal. Acompanha na neurologia por dois surtos prévios (neurite óptica à esquerda e síndrome sensitiva medular), com lesões periventriculares e justacorticais na ressonância, e está em uso de teriflunomida, estável. O tratamento mais adequado para a espondilite é:",
+    "alternativas": {
+      "A": "Adalimumabe",
+      "B": "Sulfassalazina",
+      "C": "Prednisona 10 mg/dia contínua",
+      "D": "Secuquinumabe"
+    },
+    "gabarito": "D",
+    "armadilha": "A",
+    "dado_decisivo": "está em uso de teriflunomida",
+    "resolucao": "Falha de dois AINEs em dose plena com doença ativa indica biológico, e o anti-TNF é o primeiro que vem à cabeça. A doença neurológica não foi nomeada, mas dois surtos em locais distintos com lesões periventriculares e justacorticais, tratados com teriflunomida, são esclerose múltipla. Os inibidores de TNF são contraindicados na doença desmielinizante, porque podem desencadeá-la ou agravá-la. O inibidor de IL-17 (secuquinumabe ou ixequizumabe) é eficaz na doença axial e não tem esse problema; ele seria evitado com doença inflamatória intestinal ativa, que a calprotectina normal e a ausência de sintomas afastam. A sulfassalazina não age no esqueleto axial, e o corticoide sistêmico não é recomendado na espondiloartrite axial.",
+    "comentarios": {
+      "A": "Errada. Seria a escolha na espondilite com uveíte recorrente ou doença intestinal, mas é contraindicado na doença desmielinizante deduzida pela teriflunomida.",
+      "B": "Errada. Só tem papel na artrite periférica; sem sinovite periférica, não age na coluna.",
+      "C": "Errada. Corticoide sistêmico não é recomendado na doença axial e não muda o curso.",
+      "D": "Correta. Doença axial ativa após dois AINEs, com esclerose múltipla e sem doença intestinal: inibidor de IL-17."
+    },
+    "para_levar": "Na espondiloartrite axial, doença desmielinizante afasta o anti-TNF e favorece o inibidor de IL-17; doença intestinal faz o oposto (anti-TNF monoclonal, nunca IL-17).",
+    "referencias": "ASAS-EULAR 2022 recommendations for axial spondyloarthritis; SBR 2019 recomendações para espondilite anquilosante; bulas dos inibidores de TNF (doença desmielinizante).",
+    "tags": [
+      "Espondilite Anquilosante (CM)",
+      "Drogas antirreumáticas (CM)",
+      "Esclerose Múltipla (CM)"
+    ],
+    "sourceQuestionId": "245c096fc64750a",
+    "alvo": "Espondiloartrite regrediu (EXCETO de 065f); droga em uso ignorada e contraindicação específica."
+  }
+]

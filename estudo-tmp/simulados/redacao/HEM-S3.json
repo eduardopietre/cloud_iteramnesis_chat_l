@@ -1,0 +1,307 @@
+[
+ {
+  "id": "S3-HEM-01",
+  "simulado": 3,
+  "area": "Hematologia",
+  "titulo": "Anemia hemolítica por crioaglutinina na pneumonia por Mycoplasma: índices falsos e Coombs só C3d",
+  "arma": "Rótulo verdadeiro",
+  "comando": "mecanismo",
+  "nivel": "extremamente difícil",
+  "enunciado": "Estudante de 21 anos, previamente hígido, iniciou há 12 dias tosse seca, cefaleia e febre baixa; a radiografia mostrou infiltrado intersticial bilateral e ele recebeu sulfametoxazol-trimetoprima por 5 dias, sem melhora, trocado depois por azitromicina. Hoje procura atendimento por urina escura e cansaço, e conta que as pontas dos dedos ficam arroxeadas no frio. Exame: icterícia 1+/4, SpO2 95%, crepitações em bases. Hemograma automatizado: Hb 8,1 g/dL, hematócrito 16%, VCM 124 fL, CHCM 50 g/dL, reticulócitos 7%. LDH 980 U/L, haptoglobina indetectável, bilirrubina indireta 3,4 mg/dL. Coombs direto: anti-C3d positivo, anti-IgG negativo. Esfregaço: aglutinação de hemácias, sem esquizócitos e sem corpúsculos de Heinz. O mecanismo da hemólise é:",
+  "alternativas": {
+   "A": "Oxidação da hemoglobina por sulfonamida",
+   "B": "IgM anti-I fixadora de complemento",
+   "C": "IgG anti-Rh com sequestro esplênico",
+   "D": "Hemolisina bifásica de Donath-Landsteiner"
+  },
+  "gabarito": "B",
+  "armadilha": "A",
+  "dado_decisivo": "aglutinação de hemácias",
+  "resolucao": "O rótulo verdadeiro é a sulfonamida: hemólise após sulfametoxazol leva à deficiência de G6PD, e o VCM de 124 ainda puxa para megaloblastose. Os índices, porém, são artefato: Hb de 8,1 com hematócrito de 16% dá CHCM de 50 g/dL, impossível fisiologicamente, e isso acontece quando hemácias aglutinadas passam como uma célula grande no contador. Aglutinação no esfregaço, acrocianose no frio, Coombs positivo só para complemento e pneumonia atípica com 2 a 3 semanas de evolução fecham anemia hemolítica por crioaglutinina, um anticorpo IgM anti-I que o Mycoplasma pneumoniae induz por mimetismo. A IgM liga a hemácia na periferia fria, fixa complemento e se solta ao reaquecer, por isso o Coombs só detecta C3d. A hemolisina de Donath-Landsteiner também dá Coombs C3d, mas é IgG não aglutinante, mais comum em criança após virose. A conduta é tratar a infecção, aquecer o paciente e os hemocomponentes; corticoide não funciona.",
+  "comentarios": {
+   "A": "Errada. É a armadilha: hemólise oxidativa na G6PD tem Coombs negativo e corpúsculos de Heinz ou células mordidas, e não aglutina hemácias.",
+   "B": "Correta. Aglutinação no esfregaço, CHCM espúrio, acrocianose e Coombs só C3d após pneumonia atípica: crioaglutinina IgM anti-I do Mycoplasma.",
+   "C": "Errada. Seria o mecanismo da AHAI quente, com Coombs IgG positivo e esferócitos; aqui o anti-IgG é negativo.",
+   "D": "Errada. A hemoglobinúria paroxística a frio também tem Coombs C3d, mas o anticorpo é IgG bifásico, não aglutina e predomina em crianças após virose."
+  },
+  "para_levar": "Hemólise após pneumonia atípica com Coombs só C3d, aglutinação no esfregaço e VCM ou CHCM absurdos é crioaglutinina IgM anti-I: aquecer e tratar a infecção; corticoide não serve.",
+  "referencias": "BSH 2017 guideline on autoimmune haemolytic anaemia (Hill et al.); consenso internacional sobre AHAI (Jäger et al., Blood Reviews 2020).",
+  "tags": [
+   "Anemia Hemolítica Autoimune (CM)",
+   "Anemias Hemolíticas Adquiridas (CM)"
+  ],
+  "sourceQuestionId": "29231f64be52909",
+  "alvo": "Rótulo da droga e do VCM vencendo o esfregaço e o tipo de Coombs."
+ },
+ {
+  "id": "S3-HEM-02",
+  "simulado": 3,
+  "area": "Hematologia",
+  "titulo": "PTI do adulto com plaquetas acima de 30.000 e sem sangramento: observação",
+  "arma": "Omissão",
+  "comando": "conduta",
+  "nivel": "média",
+  "enunciado": "Mulher de 32 anos tem plaquetopenia descoberta em hemograma admissional, sem queixas. Nega sangramentos, tem menstruação normal e não usa medicamentos, álcool ou fitoterápicos. Exame físico: sem petéquias, sem linfonodomegalia, baço não palpável. Exames: Hb 13,0 g/dL, leucócitos 6.200/mm³ com diferencial normal, plaquetas 41.000/mm³ (confirmadas em tubo com citrato), VCM 88 fL. Esfregaço: plaquetas grandes, sem esquizócitos e sem blastos. Sorologias para HIV, hepatite C e hepatite B negativas, TSH normal, TP e TTPa normais, antígeno fecal de H. pylori negativo, teste de gravidez negativo. A conduta mais adequada neste momento é:",
+  "alternativas": {
+   "A": "Prednisona 1 mg/kg/dia",
+   "B": "Observação com hemograma seriado",
+   "C": "Mielograma antes de decidir",
+   "D": "Imunoglobulina humana endovenosa"
+  },
+  "gabarito": "B",
+  "armadilha": "A",
+  "dado_decisivo": "plaquetas 41.000/mm³ (confirmadas em tubo com citrato)",
+  "resolucao": "Plaquetopenia isolada com esfregaço de plaquetas grandes, sem outras citopenias, sem esplenomegalia e com causas secundárias afastadas é PTI, e o reflexo é tratar porque o número assusta. O tratamento da PTI, porém, não persegue a contagem: serve para prevenir sangramento grave, que é raro acima de 30.000/mm³. A ASH recomenda observação para o adulto com PTI recém-diagnosticada, assintomático, com plaquetas de 30.000 ou mais, porque o corticoide expõe a efeitos adversos sem benefício nesse grupo. A pseudoplaquetopenia por EDTA foi excluída pela recontagem em citrato, e o mielograma não é necessário em jovem com quadro isolado e esfregaço compatível. A imunoglobulina fica para sangramento importante ou necessidade de subir plaquetas rapidamente.",
+  "comentarios": {
+   "A": "Errada. É a armadilha: corticoide se indica com plaquetas abaixo de 30.000 ou com sangramento; aqui seria tratar um número.",
+   "B": "Correta. PTI recém-diagnosticada, assintomática, plaquetas de 41.000: observação com hemograma seriado, conforme a ASH.",
+   "C": "Errada. Seria o passo em idoso, com outras citopenias, esplenomegalia, blastos ou falha de tratamento; o quadro aqui é isolado e compatível com PTI no esfregaço.",
+   "D": "Errada. Imunoglobulina é para sangramento relevante ou preparo urgente para procedimento; não se usa em assintomática com 41.000."
+  },
+  "para_levar": "PTI do adulto com plaquetas de 30.000 ou mais e sem sangramento se observa; o tratamento é para sangramento ou contagem abaixo de 30.000.",
+  "referencias": "ASH 2019 guidelines for immune thrombocytopenia; PCDT Púrpura Trombocitopênica Idiopática, Ministério da Saúde (2019).",
+  "tags": [
+   "Púrpura Trombocitopênica Imunológica (PTI) (CM)"
+  ],
+  "sourceQuestionId": "b1f73835697b33e",
+  "alvo": "PTI errada 2 de 2 e o padrão de tratar o que não precisa."
+ },
+ {
+  "id": "S3-HEM-03",
+  "simulado": 3,
+  "area": "Hematologia",
+  "titulo": "Pancitopenia megaloblástica por metotrexato associado a sulfametoxazol-trimetoprima: ácido folínico",
+  "arma": "Droga a deduzir",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 68 anos, com artrite reumatoide há 10 anos e DRC estágio 3b (creatinina basal de 1,7 mg/dL), usa \"um remédio semanal, tomado aos domingos, e ácido fólico às segundas\", além de prednisona 5 mg/dia. Há 8 dias recebeu na UPA um antibiótico para cistite, de nome que não lembra, \"dois comprimidos grandes por dia\". Hoje chega com úlceras orais dolorosas, febre de 38,4 °C e equimoses. Exames: Hb 7,9 g/dL, VCM 108 fL, leucócitos 900/mm³ (neutrófilos 300/mm³), plaquetas 22.000/mm³, creatinina 2,1 mg/dL, AST 88 U/L. Esfregaço: neutrófilos hipersegmentados. Além de suspender as drogas e iniciar antibiótico de largo espectro, a conduta mais adequada é:",
+  "alternativas": {
+   "A": "Ácido fólico em dose alta",
+   "B": "Vitamina B12 intramuscular",
+   "C": "Ácido folínico endovenoso",
+   "D": "Filgrastim isolado"
+  },
+  "gabarito": "C",
+  "armadilha": "A",
+  "dado_decisivo": "um remédio semanal, tomado aos domingos, e ácido fólico às segundas",
+  "resolucao": "A droga não foi nomeada, mas o esquema é inconfundível: remédio semanal na artrite reumatoide com ácido fólico no dia seguinte é metotrexato. O antibiótico de \"dois comprimidos grandes por dia\" para cistite é sulfametoxazol-trimetoprima, que também inibe a di-hidrofolato redutase e reduz a excreção renal do metotrexato; com DRC, a associação produz pancitopenia megaloblástica, mucosite e hepatotoxicidade. O reflexo de quem lê \"megaloblástica\" é dar ácido fólico, mas o ácido fólico precisa da di-hidrofolato redutase, que está bloqueada, para virar folato ativo. O antídoto é o ácido folínico (leucovorina), que já entra como folato reduzido e contorna o bloqueio. O suporte inclui antibiótico para a neutropenia febril e, em casos graves, fator estimulador de colônias associado, nunca isolado.",
+  "comentarios": {
+   "A": "Errada. É a armadilha: o ácido fólico depende da enzima que o metotrexato e o trimetoprima bloqueiam, e não reverte a toxicidade.",
+   "B": "Errada. Seria a resposta numa megaloblástica por carência de B12; aqui a causa é antifolato, e a B12 não contorna o bloqueio.",
+   "C": "Correta. Metotrexato potencializado por sulfametoxazol-trimetoprima na DRC: o antídoto é o ácido folínico, que entra após a di-hidrofolato redutase.",
+   "D": "Errada. O filgrastim pode ser adjuvante na neutropenia grave, mas isolado não reverte o bloqueio do folato nem trata mucosite e plaquetopenia."
+  },
+  "para_levar": "Metotrexato com sulfametoxazol-trimetoprima, sobretudo na DRC, causa pancitopenia megaloblástica; o antídoto é o ácido folínico, não o fólico.",
+  "referencias": "ACR 2021 guideline for the treatment of rheumatoid arthritis; UpToDate 2025, Major side effects of low-dose methotrexate.",
+  "tags": [
+   "Anemia Megalobástica (CM)",
+   "Pancitopenias (CM)",
+   "Drogas antirreumáticas (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Droga em uso ignorada (face 2 do degrau de conduta) e megaloblástica por droga."
+ },
+ {
+  "id": "S3-HEM-04",
+  "simulado": 3,
+  "area": "Hematologia",
+  "titulo": "Reação transfusional anafilática na deficiência de IgA x TRALI: diagnóstico e hemocomponente futuro",
+  "arma": "Grade X / Y",
+  "comando": "diagnóstico",
+  "nivel": "difícil",
+  "enunciado": "Homem de 38 anos, com úlcera duodenal que sangrou e já foi tratada por endoscopia, recebe concentrado de hemácias. Tem sinusites de repetição desde a adolescência e diagnóstico de doença celíaca há 2 anos. Cerca de 5 minutos após o início da transfusão, apresenta rubor facial, urticária no tronco, rouquidão, sibilos difusos e PA de 70 x 40 mmHg, sem febre, com SpO2 de 89% em ar ambiente. A transfusão é interrompida e ele recebe adrenalina intramuscular, com melhora em minutos. A radiografia de tórax feita a seguir não mostra infiltrados. O diagnóstico e o hemocomponente indicado para transfusões futuras são, respectivamente:",
+  "alternativas": {
+   "A": "TRALI / hemácias lavadas",
+   "B": "Reação anafilática / hemácias lavadas",
+   "C": "Reação anafilática / hemácias desleucocitadas",
+   "D": "TRALI / hemácias desleucocitadas"
+  },
+  "gabarito": "B",
+  "armadilha": "D",
+  "dado_decisivo": "A radiografia de tórax feita a seguir não mostra infiltrados",
+  "resolucao": "Dispneia com hipoxemia durante a transfusão puxa para TRALI, e o diagnóstico se ancora na saturação de 89%. O que decide a primeira metade é o resto do quadro: início em minutos, urticária, rouquidão, sibilos e hipotensão com resposta rápida à adrenalina é anafilaxia, e a radiografia sem infiltrados afasta TRALI, que por definição tem infiltrado bilateral novo em até 6 horas, sem broncoespasmo nem urticária. A segunda metade vem do antecedente: sinusites de repetição e doença celíaca sugerem deficiência de IgA, cujo anticorpo anti-IgA reage com o plasma do doador. Nesses pacientes os componentes devem ser lavados (removendo o plasma) ou vir de doador com deficiência de IgA. Desleucocitar retira leucócitos, não proteínas plasmáticas, e serve para reação febril e aloimunização.",
+  "comentarios": {
+   "A": "Errada. O componente lavado está certo para a anafilaxia, mas não há TRALI sem infiltrado pulmonar bilateral.",
+   "B": "Correta. Urticária, sibilos e hipotensão em minutos, sem infiltrado, num paciente com pistas de deficiência de IgA: anafilaxia, e transfusões futuras com hemácias lavadas.",
+   "C": "Errada. O diagnóstico está certo, mas a desleucocitação não remove a IgA do plasma do doador e não previne nova anafilaxia.",
+   "D": "Errada. É a armadilha: ancora na hipoxemia; TRALI exige infiltrado na radiografia e não tem urticária nem broncoespasmo."
+  },
+  "para_levar": "Urticária, sibilos e hipotensão em minutos são anafilaxia transfusional (pense em deficiência de IgA) e pedem componente lavado; TRALI é hipoxemia com infiltrado bilateral, sem urticária.",
+  "referencias": "Ministério da Saúde, Guia para uso de hemocomponentes (2015); ANVISA, Marco conceitual e operacional de hemovigilância (2015); definição revisada de TRALI (Vlaar et al., Transfusion 2019).",
+  "tags": [
+   "Reações Transfusionais (CM)",
+   "Hemoterapia (CM)"
+  ],
+  "sourceQuestionId": "46fb7c3341d9a9b",
+  "alvo": "Erro registrado: marcou TRALI numa reação alérgica grave, ancorado na dispneia."
+ },
+ {
+  "id": "S3-HEM-05",
+  "simulado": 3,
+  "area": "Hematologia",
+  "titulo": "Leucemia/linfoma de células T do adulto pelo HTLV-1 em pessoa com HIV controlado",
+  "arma": "Rótulo verdadeiro",
+  "comando": "etiologia",
+  "nivel": "difícil",
+  "enunciado": "Homem de 46 anos, natural de Salvador, vive com HIV há 10 anos, em TARV regular, com carga viral indetectável e CD4 de 620 células/mm³. Procura atendimento por sede intensa, constipação e sonolência há 1 semana e placas eritematosas descamativas no tronco há 2 meses. Exame: linfonodos cervicais e axilares de 2 a 3 cm, fígado a 4 cm do rebordo costal. Exames: cálcio total 14,2 mg/dL, albumina 3,8 g/dL, PTH 6 pg/mL (VR 15 a 65), 1,25-di-hidroxivitamina D baixa, PTHrP elevado, creatinina 1,8 mg/dL, leucócitos 38.000/mm³ com 70% de linfócitos atípicos de núcleo multilobulado em forma de flor, LDH 1.100 U/L. Imunofenotipagem do sangue periférico: CD3+, CD4+, CD25+, CD7 negativo. O agente etiológico mais provavelmente implicado é:",
+  "alternativas": {
+   "A": "Vírus Epstein-Barr",
+   "B": "Herpesvírus humano 8",
+   "C": "HIV por ação oncogênica direta",
+   "D": "HTLV-1"
+  },
+  "gabarito": "D",
+  "armadilha": "A",
+  "dado_decisivo": "núcleo multilobulado em forma de flor",
+  "resolucao": "O rótulo verdadeiro é o HIV, que puxa para os linfomas associados ao EBV (Burkitt, difuso de grandes células B, primário do SNC) e ao HHV-8 (linfoma primário de efusões). Mas o HIV está controlado, com CD4 de 620, e o linfoma aqui é de células T CD4+ CD25+, com linfócitos de núcleo em flor no sangue, lesões cutâneas e hipercalcemia grave. Esse conjunto é a leucemia/linfoma de células T do adulto, causada pelo HTLV-1, endêmico em Salvador e transmitido pelas mesmas vias que o HIV (sexual, sangue, aleitamento), o que torna a coinfecção comum. A hipercalcemia aqui é por PTHrP e ativação de osteoclastos (1,25-vitamina D baixa), diferente da hipercalcemia por calcitriol de outros linfomas. A confirmação é a sorologia para HTLV-1, e a doença também predispõe a estrongiloidíase grave.",
+  "comentarios": {
+   "A": "Errada. É a armadilha: o EBV causa os linfomas B do HIV, sobretudo com CD4 baixo; não explica linfoma T CD4+ CD25+ com células em flor.",
+   "B": "Errada. O HHV-8 causa sarcoma de Kaposi, linfoma primário de efusões e Castleman multicêntrico, todos sem células T em flor no sangue.",
+   "C": "Errada. O HIV não é oncogênico direto para linfócitos T; ele favorece linfomas por imunossupressão, que aqui não há.",
+   "D": "Correta. Células T CD4+ CD25+ em flor, lesões de pele e hipercalcemia por PTHrP em baiano: leucemia/linfoma T do adulto, pelo HTLV-1."
+  },
+  "para_levar": "Linfocitose T CD4+ CD25+ com células em flor, lesões cutâneas e hipercalcemia é leucemia/linfoma T do adulto pelo HTLV-1, endêmico na Bahia e frequente em quem vive com HIV.",
+  "referencias": "Classificação OMS 2022 (5ª edição) das neoplasias linfoides; consenso internacional sobre ATL (Cook et al., J Clin Oncol 2019); Ministério da Saúde, Guia de manejo clínico da infecção pelo HTLV (2021).",
+  "tags": [
+   "Linfomas (CM)",
+   "Hipercalcemia Relacionada à Malignidade (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Linfoma por subtipo e rótulo verdadeiro (HIV puxa para EBV)."
+ },
+ {
+  "id": "S3-HEM-06",
+  "simulado": 3,
+  "area": "Hematologia",
+  "titulo": "Hemoglobinúria paroxística noturna com trombose de veias hepáticas: citometria antes de trombofilia",
+  "arma": "Negativo no meio",
+  "comando": "próximo exame",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 29 anos, em uso de anticoncepcional oral combinado há 4 anos, é internada por dor em hipocôndrio direito e ascite iniciadas há 10 dias. Refere urina escura pela manhã em alguns dias do último ano e episódios de disfagia. O Doppler mostra trombose das veias hepáticas. Exames: Hb 8,6 g/dL, VCM 102 fL, reticulócitos 4% (110.000/mm³), leucócitos 3.100/mm³, plaquetas 92.000/mm³, LDH 1.450 U/L, haptoglobina indetectável, bilirrubina indireta 2,2 mg/dL, Coombs direto negativo, esfregaço sem esquizócitos, ferritina 18 ng/mL e hemossiderina urinária positiva. Fator V Leiden e mutação G20210A da protrombina ausentes. O exame mais adequado para elucidar o quadro é:",
+  "alternativas": {
+   "A": "Citometria de fluxo para CD55 e CD59",
+   "B": "Pesquisa de JAK2 V617F",
+   "C": "Proteínas C, S e antitrombina",
+   "D": "Biópsia de medula óssea"
+  },
+  "gabarito": "A",
+  "armadilha": "C",
+  "dado_decisivo": "Coombs direto negativo, esfregaço sem esquizócitos",
+  "resolucao": "Trombose em mulher com anticoncepcional puxa para trombofilia hereditária, e o reflexo é completar o painel. O caso tem, porém, uma hemólise intravascular que a trombofilia não explica: LDH muito alta, haptoglobina indetectável, hemossiderina urinária, ferropenia por perda urinária de ferro e urina escura matinal. Os negativos no meio decidem a causa da hemólise: Coombs direto negativo afasta mecanismo imune, e esfregaço sem esquizócitos afasta microangiopatia. Hemólise intravascular Coombs negativa com citopenias e trombose em sítio atípico (veias hepáticas) é hemoglobinúria paroxística noturna, e a disfagia é espasmo esofágico pela depleção de óxido nítrico. O diagnóstico é por citometria de fluxo do sangue periférico, mostrando perda das proteínas ancoradas por GPI (CD55, CD59, FLAER). A JAK2 é a principal causa de Budd-Chiari, mas cursa com contagens altas, não com hemólise e citopenias.",
+  "comentarios": {
+   "A": "Correta. Hemólise intravascular com Coombs negativo, citopenias e Budd-Chiari: HPN, confirmada pela citometria de fluxo (CD55, CD59, FLAER).",
+   "B": "Errada. JAK2 seria a primeira pesquisa num Budd-Chiari com eritrocitose ou trombocitose; aqui há citopenias e hemólise.",
+   "C": "Errada. É a armadilha: o painel de trombofilia não explica hemólise intravascular, e proteína C, S e antitrombina ficam alteradas na trombose aguda e na hepatopatia.",
+   "D": "Errada. A medula pode mostrar hipoplasia associada, mas não diagnostica HPN; o clone se identifica no sangue periférico."
+  },
+  "para_levar": "Trombose em sítio atípico com hemólise intravascular Coombs negativa e citopenias é HPN: peça citometria de fluxo (CD55, CD59, FLAER), não painel de trombofilia.",
+  "referencias": "ICCS/ESCCA 2018 guidelines para diagnóstico de HPN por citometria; EASL 2016 Clinical Practice Guidelines on vascular diseases of the liver.",
+  "tags": [
+   "Hemoglobinúria Paroxística Noturna (HPN) (CM)",
+   "Anemias Hemolíticas Adquiridas (CM)"
+  ],
+  "sourceQuestionId": "6044193a71c069c",
+  "alvo": "Negativo que decide (Coombs, esquizócitos) e o reflexo de pedir trombofilia."
+ },
+ {
+  "id": "S3-HEM-07",
+  "simulado": 3,
+  "area": "Hematologia",
+  "titulo": "Síndrome mielodisplásica de baixo risco dependente de transfusão: eritropoetina sérica abaixo de 500",
+  "arma": "Limiar",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Homem de 74 anos, hipertenso, tem anemia macrocítica há 1 ano e passou a precisar de 2 concentrados de hemácias por mês nos últimos 3 meses. Não há sangramento. Vitamina B12, folato, cobre, TSH e função hepática normais; não consome álcool nem usa drogas mielotóxicas. Mielograma: medula hipercelular, diseritropoese em 30% dos eritroblastos, blastos 2%, sem sideroblastos em anel. Cariótipo normal, sem mutação de SF3B1 ou TP53. Hemograma: Hb 7,9 g/dL, VCM 104 fL, neutrófilos 2.100/mm³, plaquetas 160.000/mm³. IPSS-R de baixo risco (2,5 pontos). Eritropoetina sérica endógena de 140 U/L e ferritina de 620 ng/mL. A conduta mais adequada é:",
+  "alternativas": {
+   "A": "Azacitidina subcutânea",
+   "B": "Transplante alogênico de medula",
+   "C": "Quelação de ferro isolada",
+   "D": "Alfaepoetina"
+  },
+  "gabarito": "D",
+  "armadilha": "A",
+  "dado_decisivo": "Eritropoetina sérica endógena de 140 U/L",
+  "resolucao": "Diagnóstico firmado (displasia eritroide acima de 10%, blastos abaixo de 5%, causas secundárias excluídas), a decisão é pelo risco: IPSS-R baixo. A armadilha é tratar a SMD como neoplasia agressiva, com hipometilante ou transplante, que são para alto risco. No baixo risco o objetivo é a anemia, e o limiar que decide é a eritropoetina endógena: abaixo de 500 U/L a resposta aos agentes estimuladores da eritropoese é boa (e melhor ainda com necessidade transfusional baixa), e ele tem 140. A quelação de ferro entra com ferritina acima de 1.000 a 2.500 em quem tem expectativa de vida longa, e não trata a anemia. O luspatercepte é alternativa nesse cenário, sobretudo com sideroblastos em anel, e o hipometilante fica para falha.",
+  "comentarios": {
+   "A": "Errada. É a armadilha: azacitidina é para SMD de alto risco ou baixo risco refratário; aqui a primeira linha é estimular a eritropoese.",
+   "B": "Errada. O transplante é a única cura, mas se reserva ao alto risco em candidato elegível; em baixo risco aos 74 anos o risco supera o benefício.",
+   "C": "Errada. A ferritina de 620 não indica quelação, que de todo modo não corrige a anemia.",
+   "D": "Correta. SMD de baixo risco, dependente de transfusão, com eritropoetina endógena de 140 (abaixo de 500): agente estimulador da eritropoese."
+  },
+  "para_levar": "SMD de baixo risco com anemia sintomática e eritropoetina sérica abaixo de 500 U/L: agente estimulador da eritropoese (ou luspatercepte); hipometilante e transplante são do alto risco.",
+  "referencias": "NCCN Myelodysplastic Syndromes 2026; ESMO 2021 Clinical Practice Guidelines para SMD; IPSS-R (Greenberg, 2012).",
+  "tags": [
+   "Síndrome Mielodisplásica (CM)"
+  ],
+  "sourceQuestionId": "2507d298bcc3c36",
+  "alvo": "SMD errada 4 de 4: estratificação de risco e o tratamento certo para cada risco."
+ },
+ {
+  "id": "S3-HEM-08",
+  "simulado": 3,
+  "area": "Hematologia",
+  "titulo": "Nefropatia por cilindros de cadeia leve com eletroforese sem pico: cadeias leves livres séricas",
+  "arma": "Dado omitido",
+  "comando": "próximo exame",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 63 anos é internado por náuseas, astenia e perda de 5 kg em 2 meses. Nega uso de anti-inflamatórios ou contraste recente. PA 128 x 76 mmHg, sem edema. Exames: Hb 9,4 g/dL, creatinina 4,6 mg/dL (1,0 há 6 meses), ureia 140 mg/dL, cálcio 11,2 mg/dL, albumina 3,9 g/dL, proteínas totais 6,1 g/dL. Urina tipo 1: densidade 1.015, proteína traços na fita, sem hematúria e sem cilindros hemáticos. Proteinúria de 24 horas de 3,8 g. Eletroforese de proteínas séricas: hipogamaglobulinemia, sem pico monoclonal. Ultrassonografia: rins de 11 cm, sem hidronefrose. O próximo exame mais adequado é:",
+  "alternativas": {
+   "A": "Cadeias leves livres séricas",
+   "B": "Biópsia renal percutânea",
+   "C": "Anticorpo anti-PLA2R sérico",
+   "D": "Repetir a eletroforese em 3 meses"
+  },
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "proteína traços na fita",
+  "resolucao": "Lesão renal aguda com proteinúria de 3,8 g sugere glomerulopatia e leva à biópsia, e a eletroforese sem pico parece afastar gamopatia. O dado omitido de propósito é o pico monoclonal: no mieloma de cadeias leves (cerca de 15 a 20% dos mielomas) não há imunoglobulina inteira, a cadeia leve é filtrada pelo rim e não forma pico no soro, e as imunoglobulinas normais caem (hipogamaglobulinemia). O dado que decide é a discrepância entre a fita e a urina de 24 horas: a fita detecta só albumina, e proteinúria alta com fita em traços é proteína não albumina, a cadeia leve. Com hipercalcemia, anemia e lesão renal, o próximo exame é a dosagem de cadeias leves livres séricas com imunofixação; razão envolvida/não envolvida muito alta com lesão renal aguda sugere nefropatia por cilindros, e a biópsia renal fica para quando a razão não explica o quadro.",
+  "comentarios": {
+   "A": "Correta. Proteinúria de 24 h alta com fita em traços, hipercalcemia, anemia e eletroforese sem pico: mieloma de cadeias leves, confirmado pelas cadeias leves livres séricas.",
+   "B": "Errada. É a armadilha: a biópsia seria o passo numa síndrome nefrótica com albuminúria; aqui a proteína não é albumina e o diagnóstico sai do sangue.",
+   "C": "Errada. Anti-PLA2R investiga nefropatia membranosa, que teria albuminúria maciça detectada na fita e edema.",
+   "D": "Errada. Eletroforese sem pico não afasta mieloma de cadeia leve; esperar 3 meses com creatinina subindo perde o rim."
+  },
+  "para_levar": "Proteinúria de 24 horas alta com fita quase negativa é cadeia leve: eletroforese sem pico não afasta mieloma, peça cadeias leves livres séricas e imunofixação.",
+  "referencias": "IMWG 2014 critérios diagnósticos de mieloma (Rajkumar, Lancet Oncol 2014); IMWG 2016 sobre lesão renal no mieloma (Dimopoulos, J Clin Oncol 2016).",
+  "tags": [
+   "Mieloma Múltiplo (CM)",
+   "Injúria Renal Aguda (CM)"
+  ],
+  "sourceQuestionId": "d88425c645795f7",
+  "alvo": "Erro registrado em mieloma com rim; exame que decide (fita x 24 h) lido como enfeite."
+ },
+ {
+  "id": "S3-HEM-09",
+  "simulado": 3,
+  "area": "Hematologia",
+  "titulo": "Trombocitemia essencial com trombocitose extrema e von Willebrand adquirida: citorredução sem AAS",
+  "arma": "Rótulo verdadeiro",
+  "comando": "conduta",
+  "nivel": "extremamente difícil",
+  "enunciado": "Mulher de 45 anos tem diagnóstico há 2 anos de trombocitemia essencial com mutação de CALR, sem trombose prévia e sem fatores de risco cardiovascular, em acompanhamento sem medicação. Procura atendimento por epistaxe recorrente e menorragia há 1 mês. PA 122 x 78 mmHg. Exames: Hb 11,2 g/dL, leucócitos 9.800/mm³, plaquetas 1.720.000/mm³, TP e TTPa normais, fator de von Willebrand antigênico 62% e atividade (cofator de ristocetina) 18%. A conduta mais adequada é:",
+  "alternativas": {
+   "A": "AAS em dose baixa",
+   "B": "Hidroxiureia associada a AAS",
+   "C": "Hidroxiureia sem AAS",
+   "D": "Manter observação"
+  },
+  "gabarito": "C",
+  "armadilha": "A",
+  "dado_decisivo": "atividade (cofator de ristocetina) 18%",
+  "resolucao": "Trombocitemia essencial é doença de trombose, e o rótulo puxa para AAS. O dado que decide é a atividade do fator de von Willebrand: com plaquetas acima de 1.000.000 a 1.500.000/mm³, as plaquetas adsorvem e degradam os multímeros grandes do fator, criando doença de von Willebrand adquirida, com atividade desproporcionalmente baixa em relação ao antígeno (18% contra 62%). Atividade abaixo de 30% contraindica AAS, porque ela já sangra. Pela idade e sem trombose ela seria de baixo risco, mas trombocitose extrema com sangramento é indicação de citorredução, e a hidroxiureia baixa as plaquetas e devolve os multímeros. O AAS pode ser reintroduzido quando as plaquetas e a atividade do fator normalizarem.",
+  "comentarios": {
+   "A": "Errada. É a armadilha: AAS é o tratamento da TE de baixo risco com sintomas vasomotores, mas com atividade do fator de 18% e sangramento piora a hemorragia.",
+   "B": "Errada. A citorredução está certa, mas associar AAS com von Willebrand adquirida e sangramento ativo é contraindicado.",
+   "C": "Correta. Trombocitose extrema com sangramento e atividade do fator abaixo de 30%: citorredução com hidroxiureia, sem AAS.",
+   "D": "Errada. Observação cabe à TE de muito baixo risco assintomática; sangramento com plaquetas de 1.720.000 exige tratar."
+  },
+  "para_levar": "Na trombocitemia com plaquetas acima de 1.000.000 a 1.500.000, dose a atividade do fator de von Willebrand: abaixo de 30% contraindica AAS, e o sangramento pede citorredução.",
+  "referencias": "ELN 2018 recommendations for Ph-negative MPN (Barbui et al., Leukemia 2018); NCCN Myeloproliferative Neoplasms 2026.",
+  "tags": [
+   "Trombocitemia Essencial (CM)",
+   "Doença de Von Willebrand (CM)"
+  ],
+  "sourceQuestionId": "90828889f322269",
+  "alvo": "Rótulo verdadeiro (TE igual a AAS) contra o número que decide (atividade do fator)."
+ }
+]
