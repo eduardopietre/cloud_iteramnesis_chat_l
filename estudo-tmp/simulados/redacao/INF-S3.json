@@ -1,13 +1,13 @@
 [
   {
-    "id": "S3-INF-11",
+    "id": "S3-INF-01",
     "simulado": 3,
     "area": "Infectologia",
-    "titulo": "Histoplasmose disseminada na aids com contato domiciliar de tuberculose",
+    "titulo": "Histoplasmose disseminada na aids com contato domiciliar de tuberculose: a pápula umbilicada com antígeno criptocócico negativo",
     "arma": "Rótulo verdadeiro",
     "comando": "etiologia",
     "nivel": "difícil",
-    "enunciado": "Homem de 36 anos, com HIV diagnosticado nesta internação, CD4 28 células/mm³, trabalhou nos últimos 3 meses na reforma de um casarão abandonado no interior de Minas Gerais. Há 6 semanas tem febre diária, perda de 9 kg, diarreia e tosse seca. O irmão, com quem divide o quarto, tratou tuberculose pulmonar no ano passado. Exame: T 38,8 °C, PA 100 x 64 mmHg, linfonodos cervicais de 1,5 cm, fígado a 4 cm e baço a 5 cm do rebordo costal, pápulas umbilicadas e úlceras rasas em face e palato. Hb 8,2 g/dL, leucócitos 2.100/mm³, plaquetas 64.000/mm³, LDH 1.480 U/L, ferritina 8.900 ng/mL, ALT 88 U/L, fosfatase alcalina 610 U/L. Radiografia de tórax: infiltrado micronodular difuso. Baciloscopia de escarro negativa em 2 amostras. O esfregaço do sangue periférico mostra pequenas leveduras intracelulares em neutrófilos e monócitos. O agente mais provável é:",
+    "enunciado": "Homem de 36 anos, com HIV diagnosticado nesta internação, CD4 28 células/mm³, trabalhou nos últimos 3 meses na reforma de um casarão abandonado no interior de Minas Gerais. Há 6 semanas tem febre diária, perda de 9 kg, diarreia e tosse seca. O irmão, com quem divide o quarto, tratou tuberculose pulmonar no ano passado. Exame: T 38,8 °C, PA 100 x 64 mmHg, linfonodos cervicais de 1,5 cm, fígado a 4 cm e baço a 5 cm do rebordo costal, pápulas umbilicadas e úlceras rasas em face e palato. Hb 8,2 g/dL, leucócitos 2.100/mm³, plaquetas 64.000/mm³, LDH 1.480 U/L, ferritina 8.900 ng/mL, ALT 88 U/L, fosfatase alcalina 610 U/L, antígeno criptocócico sérico não reagente. Radiografia de tórax: infiltrado micronodular difuso. Baciloscopia de escarro negativa em 2 amostras. O agente mais provável é:",
     "alternativas": {
       "A": "Mycobacterium tuberculosis",
       "B": "Cryptococcus neoformans",
@@ -16,15 +16,15 @@
     },
     "gabarito": "C",
     "armadilha": "A",
-    "dado_decisivo": "pequenas leveduras intracelulares em neutrófilos e monócitos",
-    "resolucao": "O irmão com tuberculose, o infiltrado micronodular e a febre consumptiva com CD4 de 28 montam a tuberculose miliar, e baciloscopia negativa não afastaria a hipótese. Mas o caso traz o que a TB não explica: pápulas umbilicadas e úlceras orais, pancitopenia com LDH acima de 1.000 e ferritina muito alta, hepatoesplenomegalia, exposição a poeira de construção antiga (fezes de morcego e aves) e, na última linha, leveduras pequenas dentro de fagócitos no sangue periférico. Isso é histoplasmose disseminada, a micose oportunista mais comum da aids no Brasil fora do criptococo. O criptococo também faz pápulas umbilicadas, mas é levedura maior, encapsulada e extracelular, raramente vista no esfregaço. O tratamento é anfotericina B lipossomal na indução, seguida de itraconazol, com TARV iniciada em até 2 semanas; antígeno urinário e hemocultura para fungos confirmam.",
+    "dado_decisivo": "pápulas umbilicadas e úlceras rasas em face e palato",
+    "resolucao": "O irmão com tuberculose, o infiltrado micronodular e a febre consumptiva com CD4 de 28 montam a tuberculose miliar, e a baciloscopia negativa não afastaria a hipótese. Mas o exame da pele traz o que a TB não explica: pápulas umbilicadas e úlceras rasas de mucosa oral. Na aids avançada, pápula umbilicada é lesão de fungo disseminado (criptococo ou histoplasma), e não de micobactéria; com o antígeno criptocócico sérico não reagente, que tem sensibilidade muito alta na criptococose disseminada, sobra o Histoplasma. O restante concorda: pancitopenia, LDH acima de 1.000 U/L e ferritina muito alta, hepatoesplenomegalia, fosfatase alcalina elevada e exposição a poeira de construção abandonada (fezes de morcego e de aves). Confirmam o antígeno urinário, a hemocultura para fungos e o mielograma ou a biópsia de pele; o tratamento é anfotericina B lipossomal na indução e itraconazol depois.",
     "comentarios": {
-      "A": "Errada. É a armadilha: miliar explicaria febre, micronódulos e o contato domiciliar, mas não as leveduras intracelulares no sangue nem as lesões cutâneas umbilicadas com LDH tão alta.",
-      "B": "Errada. Criptococo disseminado faz pápulas umbilicadas e meningite, mas é levedura encapsulada e extracelular, não vista dentro de neutrófilos no esfregaço.",
-      "C": "Correta. Leveduras pequenas intracelulares no sangue, pancitopenia, LDH e ferritina muito altas, lesões mucocutâneas e exposição a poeira de construção antiga.",
-      "D": "Errada. MAC disseminado causa febre, diarreia, anemia e fosfatase alcalina alta com CD4 abaixo de 50, mas é bacilo álcool-ácido resistente, não levedura."
+      "A": "Errada. É a armadilha: miliar explicaria febre, micronódulos, pancitopenia e o contato domiciliar, mas não faz pápulas umbilicadas nem úlceras de mucosa.",
+      "B": "Errada. Criptococose disseminada também faz pápulas umbilicadas, mas o antígeno criptocócico sérico não reagente praticamente a afasta.",
+      "C": "Correta. Pápulas umbilicadas e úlceras orais com antígeno criptocócico negativo, pancitopenia, LDH e ferritina muito altas e exposição a poeira de construção abandonada.",
+      "D": "Errada. MAC disseminado causa febre, diarreia, anemia e fosfatase alcalina alta com CD4 abaixo de 50, mas não faz lesões umbilicadas de pele nem úlceras orais."
     },
-    "para_levar": "Aids avançada com pancitopenia, LDH e ferritina muito altas, lesões mucocutâneas e leveduras intracelulares é histoplasmose disseminada, mesmo com contato de TB na história: anfotericina lipossomal.",
+    "para_levar": "Na aids avançada, pápula umbilicada aponta fungo disseminado: com antígeno criptocócico negativo, é histoplasmose até prova em contrário, mesmo com contato de TB na história.",
     "referencias": "PCDT para Manejo da Infecção pelo HIV em Adultos (MS, 2024); OPAS/OMS Guidelines for diagnosing and managing disseminated histoplasmosis among people living with HIV (2020).",
     "tags": [
       "Micoses sistêmicas (CM)",
@@ -34,7 +34,7 @@
     "alvo": "Puxa TB quando não é (3 vezes no lote) pelo rótulo do contato; HIV oportunista fora da TB."
   },
   {
-    "id": "S3-INF-12",
+    "id": "S3-INF-02",
     "simulado": 3,
     "area": "Infectologia",
     "titulo": "Tuberculose pleural: ADA alto em exsudato linfocítico autoriza tratar sem biópsia",
@@ -59,7 +59,7 @@
       "D": "Errada. Esperar a cultura atrasa semanas o tratamento de uma TB provável; TRM negativo no líquido pleural não afasta a doença."
     },
     "para_levar": "Exsudato linfocítico com ADA acima de 40 U/L, em jovem sem sinal de neoplasia, é TB pleural para tratar; TRM negativo no líquido não exclui e não justifica biópsia.",
-    "referencias": "Manual de Recomendações para o Controle da Tuberculose no Brasil (MS, 2019, atualizado); Diretrizes da SBPT para Tuberculose (2009, revisadas).",
+    "referencias": "Manual de Recomendações para o Controle da Tuberculose no Brasil (MS, 2019, atualizado); III Diretrizes para Tuberculose da SBPT (J Bras Pneumol, 2009).",
     "tags": [
       "Tuberculose Extrapulmonar (CM)",
       "Derrame Pleural (CM)"
@@ -68,7 +68,7 @@
     "alvo": "Líquido pleural lido pelo rótulo e procedimento invasivo antes do teste que já decide (derrame pleural 2 de 5)."
   },
   {
-    "id": "S3-INF-13",
+    "id": "S3-INF-03",
     "simulado": 3,
     "area": "Infectologia",
     "titulo": "Endocardite mitral por S. aureus sensível à oxacilina com embolia durante o tratamento",
@@ -101,7 +101,7 @@
     "alvo": "Grade conferida pela metade e indicação cirúrgica que depende de um dado de cronologia no meio do caso."
   },
   {
-    "id": "S3-INF-14",
+    "id": "S3-INF-04",
     "simulado": 3,
     "area": "Infectologia",
     "titulo": "Meningite pneumocócica: contactantes não recebem quimioprofilaxia",
@@ -126,7 +126,7 @@
       "D": "Errada. Ceftriaxona em dose única é a alternativa para gestantes na profilaxia meningocócica, não para contactantes de pneumococo."
     },
     "para_levar": "Quimioprofilaxia de contactantes existe para meningococo e Hib; para pneumococo, não.",
-    "referencias": "Guia de Vigilância em Saúde (MS, 6ª edição, 2024), capítulo de meningites.",
+    "referencias": "Guia de Vigilância em Saúde (MS, 6ª edição, 2023), capítulo de meningites.",
     "tags": [
       "Meningite Bacteriana (CM)"
     ],
@@ -134,14 +134,14 @@
     "alvo": "Faz mais do que o caso pede (profilaxia sem indicação), regra aplicada sem checar o agente."
   },
   {
-    "id": "S3-INF-15",
+    "id": "S3-INF-05",
     "simulado": 3,
     "area": "Infectologia",
     "titulo": "Colite fulminante por Clostridioides difficile com íleo e sem diarreia",
     "arma": "Dado omitido",
     "comando": "conduta",
     "nivel": "extremamente difícil",
-    "enunciado": "Mulher de 74 anos, no 9º dia de internação por pneumonia aspirativa tratada com clindamicina e ceftriaxona, em uso de omeprazol, evolui com distensão abdominal progressiva, dor difusa e febre. Teve duas evacuações amolecidas no 6º dia; desde então não evacua nem elimina flatos. Exame: T 38,6 °C, FC 122 bpm, PA 84 x 50 mmHg após 2 L de cristaloide, iniciada noradrenalina; abdome distendido, timpânico, doloroso, ruídos hidroaéreos ausentes, sem peritonite. Leucócitos 34.000/mm³, creatinina 2,4 mg/dL (basal 0,8), lactato 4,0 mmol/L. TC de abdome: cólon transverso com 7 cm, espessamento parietal difuso com sinal do acordeão, sem pneumoperitônio. PCR para toxina de C. difficile em swab retal positiva. A cirurgia geral avaliou e acompanha. Além da suspensão da clindamicina, o tratamento antimicrobiano mais adequado é:",
+    "enunciado": "Mulher de 74 anos, no 9º dia de internação por pneumonia aspirativa tratada com clindamicina e ceftriaxona, em uso de omeprazol, evolui com distensão abdominal progressiva, dor difusa e febre. Teve duas evacuações amolecidas no 6º dia; desde então não evacua nem elimina flatos. Exame: T 38,6 °C, FC 122 bpm, PA 84 x 50 mmHg após 2 L de cristaloide, iniciada noradrenalina; abdome distendido, timpânico, doloroso, ruídos hidroaéreos ausentes, sem peritonite. Leucócitos 34.000/mm³, creatinina 2,4 mg/dL (basal 0,8), lactato 4,0 mmol/L. TC de abdome: cólon transverso com 7 cm, espessamento parietal difuso com sinal do acordeão, sem pneumoperitônio. PCR para o gene da toxina B de C. difficile em swab retal positiva. A cirurgia geral avaliou e acompanha. Além da suspensão da clindamicina, o tratamento antimicrobiano mais adequado é:",
     "alternativas": {
       "A": "Metronidazol intravenoso isolado",
       "B": "Vancomicina oral 125 mg de 6/6 horas",
@@ -167,7 +167,7 @@
     "alvo": "Dado famoso omitido (diarreia) e escalada para o antibiótico 'mais forte' quando a via é o que decide."
   },
   {
-    "id": "S3-INF-16",
+    "id": "S3-INF-06",
     "simulado": 3,
     "area": "Infectologia",
     "titulo": "Paracoccidioidomicose no tabagista etilista: o exame que confirma sem biópsia",
@@ -201,7 +201,7 @@
     "alvo": "Pula para o procedimento invasivo antes do exame simples que já confirma; comando qualificado lido pela metade."
   },
   {
-    "id": "S3-INF-17",
+    "id": "S3-INF-07",
     "simulado": 3,
     "area": "Infectologia",
     "titulo": "Doença de Chagas aguda por transmissão oral durante epidemia de dengue",
@@ -226,7 +226,7 @@
       "D": "Correta. Fase aguda tem parasitemia alta: a pesquisa direta do T. cruzi no sangue confirma o diagnóstico."
     },
     "para_levar": "Surto familiar de febre, edema facial e miocardite após açaí na Amazônia é Chagas agudo oral: confirme pela pesquisa direta do parasito no sangue, não pela IgG.",
-    "referencias": "II Consenso Brasileiro em Doença de Chagas (Epidemiol Serv Saúde, 2016); Guia de Vigilância em Saúde (MS, 6ª edição, 2024).",
+    "referencias": "II Consenso Brasileiro em Doença de Chagas (Epidemiol Serv Saúde, 2016); Guia de Vigilância em Saúde (MS, 6ª edição, 2023).",
     "tags": [
       "Outras Doenças Tropicais (Chagas, elefantíse) (CM)"
     ],
@@ -234,7 +234,7 @@
     "alvo": "Rótulo epidemiológico verdadeiro (epidemia de dengue) apaga a exposição que decide; próximo exame."
   },
   {
-    "id": "S3-INF-18",
+    "id": "S3-INF-08",
     "simulado": 3,
     "area": "Infectologia",
     "titulo": "Leucoencefalopatia multifocal progressiva na aids: confirmar antes de tratar toxoplasmose",
@@ -243,19 +243,19 @@
     "nivel": "difícil",
     "enunciado": "Mulher de 42 anos, com HIV e uso irregular da TARV, CD4 64 células/mm³, IgG para toxoplasmose reagente e sem profilaxia, é internada por perda progressiva de força no braço e na perna direitos e dificuldade para falar há 5 semanas, sem cefaleia, febre ou crises. Exame: Glasgow 15, afasia de expressão, hemiparesia direita grau 3, hemianopsia homônima direita, sem papiledema. RM de encéfalo: lesões confluentes da substância branca subcortical frontoparietal e occipital esquerdas, hiperintensas em T2/FLAIR e hipointensas em T1, envolvendo as fibras em U, sem realce pelo gadolínio e sem efeito de massa. O exame mais adequado para confirmar o diagnóstico é:",
     "alternativas": {
-      "A": "Prova terapêutica com sulfadiazina",
+      "A": "Biópsia cerebral estereotáxica",
       "B": "PCR para vírus JC no líquor",
-      "C": "Biópsia cerebral estereotáxica",
+      "C": "Prova terapêutica com sulfadiazina",
       "D": "PCR para EBV no líquor"
     },
     "gabarito": "B",
-    "armadilha": "A",
+    "armadilha": "C",
     "dado_decisivo": "sem realce pelo gadolínio e sem efeito de massa",
     "resolucao": "CD4 abaixo de 100, IgG para toxoplasma reagente, sem profilaxia e com déficit focal: o candidato monta neurotoxoplasmose e trata de prova. Mas a toxoplasmose dá lesões com realce anelar, edema e efeito de massa, em núcleos da base e junção córtico-subcortical, com cefaleia e febre. Aqui a imagem é de desmielinização da substância branca subcortical, com fibras em U, sem realce e sem efeito de massa, em quadro subagudo sem febre: é a leucoencefalopatia multifocal progressiva, pelo vírus JC. O exame que confirma com segurança é a PCR para JC no líquor (especificidade alta, sensibilidade moderada); a biópsia fica para PCR negativa com dúvida persistente. Não há antiviral eficaz: o tratamento é otimizar a TARV para reconstituir a imunidade.",
     "comentarios": {
-      "A": "Errada. É a armadilha: prova terapêutica seria a conduta com lesões de realce anelar e efeito de massa; sem realce e sem efeito de massa, a toxoplasmose não explica a imagem.",
+      "A": "Errada. Biópsia é o degrau seguinte se a PCR for negativa; fazê-la primeiro é o exame a mais.",
       "B": "Correta. Lesões desmielinizantes subcorticais sem realce nem efeito de massa: PCR para JC no líquor confirma a LEMP.",
-      "C": "Errada. Biópsia é o degrau seguinte se a PCR for negativa; fazê-la primeiro é o exame a mais.",
+      "C": "Errada. É a armadilha: prova terapêutica seria a conduta com lesões de realce anelar e efeito de massa; sem realce e sem efeito de massa, a toxoplasmose não explica a imagem.",
       "D": "Errada. PCR para EBV apoia linfoma primário do SNC, que forma massa com realce, geralmente periventricular."
     },
     "para_levar": "Lesão de substância branca sem realce e sem efeito de massa na aids é LEMP até prova em contrário: PCR para JC no líquor e TARV otimizada; prova terapêutica para toxoplasma é para lesão com realce e massa.",
@@ -268,65 +268,65 @@
     "alvo": "Errou LEMP marcando sulfadiazina e pirimetamina (44% fizeram o mesmo); agora o negativo da imagem decide o exame."
   },
   {
-    "id": "S3-INF-19",
+    "id": "S3-INF-09",
     "simulado": 3,
     "area": "Infectologia",
-    "titulo": "Malária grave importada da África em quem já teve malária vivax",
+    "titulo": "Malária grave importada da África, lúcido e tolerando via oral: a creatinina define o artesunato",
     "arma": "Grade X / Y",
     "comando": "diagnóstico",
-    "nivel": "difícil",
-    "enunciado": "Engenheiro de 42 anos retornou há 12 dias de 3 meses de trabalho em Luanda, Angola, sem quimioprofilaxia. Teve malária por Plasmodium vivax há 6 anos, quando morava em Manaus, tratada com cloroquina e primaquina. Há 4 dias tem febre com calafrios, cefaleia e mialgia; hoje está torporoso. Exame: T 39,6 °C, FC 120 bpm, PA 108 x 64 mmHg, Glasgow 10, sem rigidez de nuca, ictérico 2+/4+, baço palpável. Hb 9,0 g/dL, plaquetas 38.000/mm³, glicemia 62 mg/dL, creatinina 2,6 mg/dL, bilirrubina total 4,8 mg/dL. Gota espessa: numerosos trofozoítos jovens em anel, parasitemia estimada de 6%, sem formas maduras no sangue periférico. A espécie mais provável e o tratamento inicial são, respectivamente:",
+    "nivel": "extremamente difícil",
+    "enunciado": "Engenheiro de 42 anos retornou há 12 dias de 3 meses de trabalho em Luanda, Angola, sem quimioprofilaxia. Teve malária por Plasmodium vivax há 6 anos, quando morava em Manaus, tratada com cloroquina e primaquina. Há 4 dias tem febre com calafrios, cefaleia e mialgia. Está lúcido e aceita líquidos e comprimidos, sem vômitos. Exame: T 39,2 °C, FC 112 bpm, PA 114 x 70 mmHg, Glasgow 15, ictérico 2+/4+, baço palpável, sem sangramentos. Urinou cerca de 400 mL nas últimas 24 horas. Hb 9,6 g/dL, plaquetas 42.000/mm³, glicemia 88 mg/dL, creatinina 3,4 mg/dL, bilirrubina total 4,8 mg/dL, lactato 1,8 mmol/L. Gota espessa: numerosos trofozoítos jovens em anel, parasitemia estimada de 6%, sem formas maduras no sangue periférico. A espécie mais provável e o tratamento inicial são, respectivamente:",
     "alternativas": {
       "A": "P. falciparum / artesunato intravenoso",
-      "B": "P. vivax / cloroquina e primaquina",
-      "C": "P. falciparum / artemeter-lumefantrina oral",
+      "B": "P. falciparum / artemeter-lumefantrina oral",
+      "C": "P. vivax / cloroquina e primaquina",
       "D": "P. vivax / artesunato intravenoso"
     },
     "gabarito": "A",
-    "armadilha": "C",
-    "dado_decisivo": "Glasgow 10",
-    "resolucao": "A malária vivax prévia é verdadeira e lembra a recaída por hipnozoítos, mas a infecção atual vem de Angola, onde predomina o P. falciparum, e o esfregaço tem o perfil dele: parasitemia alta só com trofozoítos jovens em anel, porque as formas maduras ficam sequestradas na microcirculação. Definida a espécie, a segunda decisão é a gravidade: Glasgow 10 (malária cerebral), icterícia com bilirrubina acima de 3 mg/dL e parasitemia alta tornam o caso grave. Malária grave por falciparum se trata com artesunato intravenoso (ou intramuscular) em ambiente de terapia intensiva, por pelo menos 24 horas e até tolerar via oral, completando depois com combinação baseada em artemisinina. O artemeter-lumefantrina oral é o tratamento da forma não complicada.",
+    "armadilha": "B",
+    "dado_decisivo": "creatinina 3,4 mg/dL",
+    "resolucao": "A malária vivax prévia é verdadeira e lembra recaída por hipnozoítos, mas a infecção atual vem de Angola, onde predomina o P. falciparum, e o esfregaço tem o perfil dele: parasitemia alta só com trofozoítos jovens em anel, porque as formas maduras ficam sequestradas na microcirculação. Definida a espécie, a segunda decisão é a gravidade, e é nela que está a armadilha: o paciente está lúcido, estável e tolera a via oral, o que convida ao esquema oral. Mas malária grave não exige coma: creatinina acima de 3 mg/dL com oligúria e icterícia com bilirrubina acima de 3 mg/dL em parasitemia elevada são, cada uma, critério de gravidade. Malária grave por falciparum se trata com artesunato intravenoso (ou intramuscular) por pelo menos 24 horas e até tolerar a via oral, completando depois com combinação baseada em artemisinina. O artemeter-lumefantrina oral é o tratamento da forma não complicada.",
     "comentarios": {
-      "A": "Correta. Falciparum pela procedência e pelo esfregaço, e grave pelo rebaixamento de consciência: artesunato intravenoso.",
-      "B": "Errada. Cloroquina com primaquina trata a malária vivax não complicada; a procedência africana e a parasitemia alta só com anéis apontam falciparum.",
-      "C": "Errada. É a armadilha: acerta a espécie, mas artemeter-lumefantrina oral é para malária não complicada; Glasgow 10 exige artesunato parenteral.",
-      "D": "Errada. Artesunato venoso também trataria vivax grave, mas a espécie está errada: Angola e o esfregaço indicam falciparum."
+      "A": "Correta. Falciparum pela procedência e pelo esfregaço, e grave pela lesão renal (creatinina de 3,4 mg/dL) e pela icterícia, mesmo lúcido: artesunato intravenoso.",
+      "B": "Errada. É a armadilha: acerta a espécie, mas artemeter-lumefantrina oral é para a malária não complicada; lucidez e via oral não anulam a creatinina de 3,4 mg/dL e a icterícia.",
+      "C": "Errada. Cloroquina com primaquina trata a malária vivax não complicada; a procedência africana e a parasitemia alta só com anéis apontam falciparum.",
+      "D": "Errada. Artesunato venoso também trataria a vivax grave, mas a espécie está errada: Angola e o esfregaço indicam falciparum."
     },
-    "para_levar": "Viajante da África com febre e rebaixamento: falciparum grave até prova em contrário, tratado com artesunato intravenoso; ACT oral só na forma não complicada.",
-    "referencias": "Guia de Tratamento da Malária no Brasil (MS, 2021, atualizado); WHO Guidelines for Malaria (2024).",
+    "para_levar": "Malária grave não é só coma: creatinina acima de 3 mg/dL, icterícia com parasitemia alta, hipoglicemia, acidose, choque ou sangramento já exigem artesunato parenteral, mesmo com o paciente lúcido.",
+    "referencias": "Guia de Tratamento da Malária no Brasil (MS, 2021); WHO Guidelines for Malaria (2024).",
     "tags": [
       "Malária (CM)"
     ],
     "sourceQuestionId": null,
-    "alvo": "Rótulo de antecedente verdadeiro (vivax prévio) e grade conferida pela metade (espécie certa, gravidade ignorada)."
+    "alvo": "Rótulo de antecedente verdadeiro (vivax prévio) e grade conferida pela metade: espécie certa e gravidade lida só pela consciência."
   },
   {
-    "id": "S3-INF-20",
+    "id": "S3-INF-10",
     "simulado": 3,
     "area": "Infectologia",
-    "titulo": "Infecção aguda pelo HIV na consulta de início da PrEP com teste rápido não reagente",
+    "titulo": "Infecção aguda pelo HIV na consulta de início da PrEP com teste rápido não reagente: carga viral antes de decidir",
     "arma": "Rótulo verdadeiro",
-    "comando": "conduta",
+    "comando": "próximo exame",
     "nivel": "difícil",
-    "enunciado": "Homem de 26 anos, que faz sexo com homens, procura o serviço para iniciar PrEP. Relata relação anal receptiva sem preservativo com parceria de sorologia desconhecida há 16 dias. Há 4 dias tem febre, odinofagia, mialgia, úlceras orais rasas e exantema maculopapular em tronco. Exame: T 38,3 °C, linfonodos cervicais e axilares de 1,5 cm, faringe hiperemiada, exantema em tronco. Teste rápido anti-HIV (dois testes sequenciais) não reagente hoje. Creatinina 0,9 mg/dL, HBsAg não reagente, VDRL não reagente. A conduta mais adequada neste momento é:",
+    "enunciado": "Homem de 26 anos, que faz sexo com homens, procura o serviço para iniciar PrEP. Relata relação anal receptiva sem preservativo com parceria de sorologia desconhecida há 16 dias. Há 4 dias tem febre, odinofagia, mialgia, úlceras orais rasas e exantema maculopapular em tronco. Exame: T 38,3 °C, linfonodos cervicais e axilares de 1,5 cm, faringe hiperemiada, exantema em tronco. Teste rápido anti-HIV (dois testes sequenciais) não reagente hoje. Creatinina 0,9 mg/dL, HBsAg não reagente, VDRL não reagente. Para decidir sobre a PrEP, o exame mais adequado neste momento é:",
     "alternativas": {
-      "A": "Iniciar PrEP hoje com TDF/FTC",
-      "B": "Iniciar PEP por 28 dias",
-      "C": "Carga viral do HIV antes da PrEP",
-      "D": "Repetir teste rápido em 30 dias"
+      "A": "Imunoensaio de 3ª geração",
+      "B": "Sorologia para EBV",
+      "C": "Carga viral do HIV",
+      "D": "Nenhum exame adicional"
     },
     "gabarito": "C",
-    "armadilha": "A",
+    "armadilha": "D",
     "dado_decisivo": "Há 4 dias tem febre, odinofagia, mialgia, úlceras orais rasas e exantema maculopapular em tronco.",
-    "resolucao": "Perfil de PrEP, teste rápido não reagente e função renal normal: em geral, a PrEP começa no mesmo dia, sem esperar retorno, e é isso que a regra puxa. Mas o caso traz, no meio, uma síndrome retroviral aguda (febre, faringite, úlceras orais, exantema e linfonodomegalia 2 semanas após exposição de risco), e na infecção aguda o teste rápido ainda pode ser não reagente, porque os anticorpos não se formaram. Iniciar PrEP (duas drogas) numa infecção já estabelecida seleciona resistência. Por isso, com sinais de infecção aguda, o protocolo manda colher carga viral antes de decidir: detectável, é diagnóstico de HIV e o caminho é TARV completa; indetectável, inicia-se a PrEP. A PEP só valeria até 72 horas da exposição, e esperar 30 dias com o paciente exposto e sintomático não tem sentido.",
+    "resolucao": "Perfil de PrEP, dois testes rápidos não reagentes e função renal normal: em geral a PrEP começa no mesmo dia, sem outro exame, e é isso que a regra puxa. Mas o caso traz, no meio, uma síndrome retroviral aguda (febre, faringite, úlceras orais, exantema e linfonodomegalia 2 semanas após exposição de risco), e na infecção aguda os testes de anticorpo ainda podem ser não reagentes. Iniciar PrEP, que tem só duas drogas, numa infecção já estabelecida seleciona resistência. Por isso, com sinais de infecção aguda, adia-se a PrEP e pede-se a carga viral do HIV, que detecta o RNA dias antes dos anticorpos: detectável, é diagnóstico e o caminho é TARV completa; indetectável, inicia-se a PrEP. Sem acesso à carga viral, a PrEP é adiada e o teste repetido em 4 semanas. Mononucleose entra no diferencial, mas não muda a conduta urgente, que é afastar o HIV agudo.",
     "comentarios": {
-      "A": "Errada. É a armadilha: seria a conduta sem sintomas de infecção aguda; com síndrome retroviral, o teste rápido não reagente não afasta HIV.",
-      "B": "Errada. PEP só é indicada até 72 horas da exposição; ela ocorreu há 16 dias.",
-      "C": "Correta. Sinais de infecção aguda pelo HIV exigem carga viral antes de iniciar a PrEP.",
-      "D": "Errada. Repetir o teste rápido em 30 dias atrasa o diagnóstico de uma provável infecção aguda, fase de maior transmissibilidade."
+      "A": "Errada. O imunoensaio de 3ª geração detecta só anticorpos, como o teste rápido, e também pode ser negativo nessa fase; a carga viral detecta o RNA dias antes.",
+      "B": "Errada. Mononucleose também dá febre, faringite e linfonodomegalia, mas úlceras orais e exantema 16 dias após exposição sexual de risco pedem primeiro afastar o HIV agudo, que é o que muda a conduta.",
+      "C": "Correta. Sinais de infecção aguda pelo HIV pedem carga viral antes de decidir a PrEP: detectável é diagnóstico, indetectável libera a PrEP.",
+      "D": "Errada. É a armadilha: dois testes rápidos não reagentes bastam para começar a PrEP no mesmo dia em quem não tem sintomas; com síndrome retroviral aguda, não excluem o HIV."
     },
-    "para_levar": "Na consulta de PrEP, sintomas de infecção viral aguda após exposição recente pedem carga viral antes de começar: teste rápido não reagente não exclui HIV agudo.",
-    "referencias": "PCDT para Profilaxia Pré-Exposição (PrEP) de Risco à Infecção pelo HIV (MS, 2022, atualizado em 2025).",
+    "para_levar": "Na consulta de PrEP, sintomas de infecção viral aguda após exposição recente pedem carga viral antes de começar: teste de anticorpo não reagente não exclui HIV agudo.",
+    "referencias": "PCDT para Profilaxia Pré-Exposição (PrEP) de Risco à Infecção pelo HIV (MS, 2022); PCDT para Manejo da Infecção pelo HIV em Adultos (MS, 2024).",
     "tags": [
       "PreP e PEP",
       "HIV/AIDS (CM)"
