@@ -17,7 +17,7 @@
 "A": "Errada, e é a armadilha. Seria a ausculta do Marfan com raiz dilatada e insuficiência aórtica; o ecocardiograma mostra raiz normal e nenhum refluxo.",
 "B": "Correta. Prolapso mitral é a valvopatia mais frequente no Marfan jovem, e de pé o VE menor faz o clique surgir mais cedo na sístole.",
 "C": "Errada na segunda metade. O clique está certo, mas atrasa com o que aumenta o volume ventricular (cócoras, elevação das pernas), não com o ortostatismo.",
-"D": "Errada nas duas metades. Não há insuficiência aórtica, e o sopro de refluxo aórtico diminuiria com a redução da pós-carga, não ficaria igual."
+"D": "Errada nas duas metades. Não há insuficiência aórtica, e o sopro de refluxo aórtico diminuiria de pé, pela queda do retorno venoso, em vez de ficar igual."
 },
 "para_levar": "Marfan tem duas lesões: prolapso mitral (frequente e precoce, clique mesossistólico que antecipa de pé e com Valsalva) e insuficiência aórtica por dilatação da raiz (sopro diastólico paraesternal direito). O ecocardiograma do caso diz qual delas está presente.",
 "referencias": "ESC 2024 (peripheral arterial and aortic diseases); Ghent revisado 2010; ACC/AHA 2020 (valvular heart disease); Braunwald's Heart Disease, 12ª ed.",
@@ -29,27 +29,27 @@
 "id": "S3-CAR-02",
 "simulado": 3,
 "area": "Cardiologia",
-"titulo": "Síndrome de Down no adulto: defeito do septo atrioventricular evoluído para Eisenmenger",
+"titulo": "Síndrome de Down no adulto: DSAV pelo eixo do ECG e evolução para Eisenmenger",
 "arma": "Cronologia",
 "comando": "diagnóstico",
-"nivel": "difícil",
-"enunciado": "Homem de 27 anos, com deficiência intelectual, fendas palpebrais oblíquas para cima, prega palmar única e hipotireoidismo em uso de levotiroxina, é trazido pela irmã por cansaço progressivo. Ela conta que na infância havia um sopro alto no coração e que a cirurgia foi adiada e depois esquecida. Exame: cianose de lábios e extremidades, baqueteamento digital, SpO2 82% em ar ambiente, impulsão sistólica paraesternal esquerda, B2 única e intensa no foco pulmonar, sopro diastólico decrescente em borda esternal esquerda alta e nenhum sopro sistólico audível. Hemoglobina 20,1 g/dL. O defeito de base e a fisiologia atual são, respectivamente:",
-"alternativas": {"A": "DSAV / síndrome de Eisenmenger", "B": "DSAV / shunt da esquerda para a direita", "C": "Tetralogia de Fallot / estenose infundibular", "D": "CIA ostium secundum / síndrome de Eisenmenger"},
+"nivel": "extremamente difícil",
+"enunciado": "Homem de 27 anos, com deficiência intelectual, fendas palpebrais oblíquas para cima, prega palmar única e hipotireoidismo em uso de levotiroxina, é trazido pela irmã por cansaço progressivo. Ela conta que na infância havia um sopro alto no coração e que a cirurgia foi adiada e depois esquecida. Exame: cianose de lábios e extremidades, baqueteamento digital, SpO2 82% em ar ambiente, impulsão sistólica paraesternal esquerda, B2 única e intensa no foco pulmonar, sopro diastólico decrescente em borda esternal esquerda alta e nenhum sopro sistólico audível. Hemoglobina 20,1 g/dL. ECG: ritmo sinusal, PR de 220 ms, eixo do QRS em -60 graus e sobrecarga ventricular direita. O defeito de base e a fisiologia atual são, respectivamente:",
+"alternativas": {"A": "DSAV / síndrome de Eisenmenger", "B": "DSAV / shunt da esquerda para a direita", "C": "CIV / síndrome de Eisenmenger", "D": "CIA ostium secundum / síndrome de Eisenmenger"},
 "gabarito": "A",
-"armadilha": "B",
-"dado_decisivo": "nenhum sopro sistólico audível",
-"resolucao": "O fenótipo é de síndrome de Down, cuja cardiopatia mais característica é o defeito do septo atrioventricular (DSAV). O sopro alto da infância era o shunt da esquerda para a direita, e é ele que a armadilha descreve; mas a história é de 27 anos sem correção. O hiperfluxo pulmonar crônico remodela as arteríolas, a pressão pulmonar se iguala à sistêmica e o shunt se inverte: cianose, baqueteamento, policitemia, B2 única e hiperfonética e sopro de Graham Steell (insuficiência pulmonar pela hipertensão). Com as pressões equalizadas, o sopro sistólico do defeito diminui ou some, e é a ausência dele que denuncia a mudança de fisiologia. Na tetralogia de Fallot a B2 também é única, mas por P2 inaudível, e há sopro sistólico ejetivo da estenose infundibular.",
+"armadilha": "C",
+"dado_decisivo": "eixo do QRS em -60 graus",
+"resolucao": "O fenótipo é de síndrome de Down, e duas cardiopatias disputam a resposta: o defeito do septo atrioventricular (DSAV, o mais característico, cerca de 40%) e a comunicação interventricular isolada (cerca de 30%), a lesão mais lembrada quando se pensa em Eisenmenger, que é a armadilha. A fisiologia atual se lê no exame: 27 anos sem correção, cianose, baqueteamento, policitemia, B2 única e hiperfonética, sopro de Graham Steell (insuficiência pulmonar pela hipertensão) e desaparecimento do sopro sistólico, porque com as pressões equalizadas o shunt se inverte e deixa de gerar turbulência; isso elimina o shunt da esquerda para a direita, que era o sopro alto da infância. O defeito se lê no ECG, que a hipertensão pulmonar não apaga: eixo superior (-60 graus) com PR longo é a assinatura do DSAV, porque o nó atrioventricular e o feixe de His estão deslocados para baixo e para trás. Na CIV com Eisenmenger, a sobrecarga de VD leva o eixo para a direita, e na CIA ostium secundum o eixo também é direito, com Eisenmenger raro e tardio.",
 "comentarios": {
-"A": "Correta. Down com defeito não corrigido, cianose, policitemia, P2 intensa, Graham Steell e desaparecimento do sopro sistólico: DSAV com Eisenmenger.",
-"B": "Errada, e é a armadilha. Descreve a criança com sopro alto; cianose com SpO2 82%, policitemia e sopro sistólico ausente significam que o shunt já se inverteu.",
-"C": "Errada. Fallot tem B2 única por P2 inaudível e sopro sistólico ejetivo da obstrução infundibular; aqui P2 é intensa e não há sopro sistólico.",
-"D": "Errada na primeira metade. A CIA ostium secundum chega ao Eisenmenger tarde e raramente; na síndrome de Down o defeito característico é o septo atrioventricular."
+"A": "Correta. Eixo superior com PR longo define o DSAV, e cianose, policitemia, P2 intensa, Graham Steell e sopro sistólico ausente definem o Eisenmenger.",
+"B": "Errada na segunda metade. O defeito está certo, mas o shunt da esquerda para a direita era a fisiologia da infância; SpO2 de 82%, policitemia e sopro sistólico ausente mostram que ele já se inverteu.",
+"C": "Errada na primeira metade, e é a armadilha. A fisiologia está certa, e a CIV é frequente no Down e chega ao Eisenmenger, mas não dá eixo superior: com sobrecarga de VD, o eixo da CIV com Eisenmenger vai para a direita.",
+"D": "Errada na primeira metade. A CIA ostium secundum tem eixo para a direita e chega ao Eisenmenger tarde e raramente; eixo superior numa CIA aponta o ostium primum, que é uma forma de DSAV."
 },
-"para_levar": "Na síndrome de Down, a cardiopatia característica é o DSAV; sem correção precoce, evolui para Eisenmenger: cianose, policitemia, B2 única e intensa, Graham Steell e sopro do shunt que desaparece.",
+"para_levar": "Na síndrome de Down, a cardiopatia característica é o DSAV, reconhecido no ECG por eixo superior e PR longo, que persistem mesmo com hipertensão pulmonar; sem correção, evolui para Eisenmenger: cianose, policitemia, B2 única e intensa, Graham Steell e sopro do shunt que desaparece.",
 "referencias": "ESC 2020 (adult congenital heart disease); ESC/ERS 2022 (pulmonary hypertension); Braunwald's Heart Disease, 12ª ed.",
 "tags": ["Cardiopatias congênitas (CM)", "Hipertensão Pulmonar (CM)"],
 "sourceQuestionId": null,
-"alvo": "Síndrome para lesão (Down) e a ausculta que muda com o tempo; epônimo de Graham Steell."
+"alvo": "Síndrome para lesão (Down) com o ECG decidindo o defeito e o tempo decidindo a fisiologia; epônimo de Graham Steell."
 },
 {
 "id": "S3-CAR-03",
@@ -57,14 +57,14 @@
 "area": "Cardiologia",
 "titulo": "Fibrilação atrial pré-excitada: bloqueador nodal e amiodarona contraindicados",
 "arma": "Rótulo verdadeiro",
-"comando": "diagnóstico",
+"comando": "conduta",
 "nivel": "extremamente difícil",
 "enunciado": "Homem de 23 anos, sem comorbidades, chega com palpitações há 1 hora. Relata dois episódios de taquicardia regular nos últimos 3 anos, revertidos na emergência com verapamil IV. Exame: lúcido, sem dispneia, PA 116x74 mmHg, perfusão adequada, FC entre 190 e 260 bpm. ECG: ritmo irregularmente irregular, complexos QRS de largura e morfologia variáveis de um batimento para outro, alguns estreitos e outros muito largos, menor intervalo RR de 200 ms. Potássio e magnésio normais. O diagnóstico e o tratamento mais adequados são, respectivamente:",
 "alternativas": {"A": "FA com aberrância / verapamil IV", "B": "TV polimórfica / sulfato de magnésio IV", "C": "FA pré-excitada / procainamida IV", "D": "FA pré-excitada / amiodarona IV"},
 "gabarito": "C",
 "armadilha": "A",
 "dado_decisivo": "complexos QRS de largura e morfologia variáveis de um batimento para outro",
-"resolucao": "As crises anteriores que cederam com verapamil são um rótulo verdadeiro: eram taquicardias reentrantes ortodrômicas, e repetir o remédio que funcionou é o reflexo que a banca explora. O traçado de hoje é outro: irregular, com QRS que muda de largura a cada batimento conforme a proporção de condução pela via acessória, e RR mínimo de 200 ms (FC de até 300 bpm), que é a FA pré-excitada. Bloquear o nó atrioventricular (verapamil, diltiazem, betabloqueador, adenosina, digoxina) deixa a via acessória conduzir sozinha e pode degenerar em fibrilação ventricular, e a amiodarona IV, por bloquear também o nó antes de agir na via, está igualmente contraindicada. No paciente estável, usa-se procainamida (ou ibutilida); se houver instabilidade ou falha, cardioversão elétrica sincronizada. Depois, ablação da via acessória.",
+"resolucao": "As crises anteriores que cederam com verapamil são um rótulo verdadeiro: eram taquicardias reentrantes ortodrômicas, e repetir o remédio que funcionou é o reflexo que a banca explora. O traçado de hoje é outro: irregular, com QRS que muda de largura a cada batimento conforme a proporção de condução pela via acessória, e RR mínimo de 200 ms (FC de até 300 bpm), que é a FA pré-excitada. Bloquear o nó atrioventricular (verapamil, diltiazem, betabloqueador, adenosina, digoxina) deixa a via acessória conduzir sozinha e pode degenerar em fibrilação ventricular, e a amiodarona IV, por bloquear também o nó antes de agir na via, está igualmente contraindicada. No paciente estável, usa-se procainamida (ou ibutilida); se houver instabilidade ou falha, cardioversão elétrica sincronizada. Depois, ablação da via acessória. No Brasil a procainamida venosa tem disponibilidade limitada, e na prática a cardioversão elétrica sincronizada costuma ser o caminho mesmo no estável; o que não muda é a proibição do bloqueio nodal.",
 "comentarios": {
 "A": "Errada nas duas metades, e é a armadilha. O verapamil serviu nas crises regulares ortodrômicas; na FA pré-excitada ele acelera a condução pela via e pode precipitar fibrilação ventricular.",
 "B": "Errada. A TV polimórfica (torsades) tem QRS que gira em torno da linha de base, em geral com QT longo; aqui há QRS estreitos intercalados e ritmo de FA.",
@@ -98,7 +98,7 @@
 "D": "Correta. Fibrinólise eficaz com transporte longo: transferir e fazer cateterismo de rotina entre 2 e 24 horas."
 },
 "para_levar": "Após fibrinólise: sucesso (redução do ST acima de 50% em 60 a 90 min, alívio da dor, ritmo idioventricular acelerado) leva a cateterismo entre 2 e 24 h; falha ou instabilidade leva a angioplastia de resgate imediata.",
-"referencias": "ESC 2023 (acute coronary syndromes); Diretriz da SBC sobre Tratamento do IAM com Supradesnível do Segmento ST (2015) e atualização 2021",
+"referencias": "ESC 2023 (acute coronary syndromes); V Diretriz da SBC sobre Tratamento do IAM com Supradesnível do Segmento ST (2015)",
 "tags": ["IAMCSST (CM)"],
 "sourceQuestionId": "4ea6571a6be11c9",
 "alvo": "Padrão de fazer mais diante de um dado assustador que, lido, é sinal de sucesso."
@@ -116,7 +116,7 @@
 "gabarito": "B",
 "armadilha": "C",
 "dado_decisivo": "lesões de 80% na coronária direita e na circunflexa",
-"resolucao": "Com três vasos doentes e o paciente em choque, a intuição é tratar tudo de uma vez, e é a armadilha. No choque cardiogênico, a angioplastia multiarterial no procedimento índice aumentou morte e diálise em 30 dias em relação à abordagem só da artéria culpada (CULPRIT-SHOCK), e as lesões não culpadas são tratadas depois, estagiadas. No suporte, com PAS abaixo de 90 e hipoperfusão, o vasopressor de escolha é a noradrenalina, e o inotrópico entra a seguir se a perfusão não melhorar. O balão intra-aórtico de rotina não reduziu mortalidade (IABP-SHOCK II) e ficou reservado para complicação mecânica ou ponte selecionada. A grade se resolve pelas duas metades: noradrenalina, e não balão; culpada, e não multiarterial.",
+"resolucao": "Com três vasos doentes e o paciente em choque, a intuição é tratar tudo de uma vez, e é a armadilha. No choque cardiogênico, a angioplastia multiarterial no procedimento índice aumentou morte e diálise em 30 dias em relação à abordagem só da artéria culpada (CULPRIT-SHOCK), e as lesões não culpadas são tratadas depois, estagiadas. No suporte, com PAS abaixo de 90 e hipoperfusão, o vasopressor de escolha é a noradrenalina, e o inotrópico entra a seguir se a perfusão não melhorar. O balão intra-aórtico de rotina não reduziu mortalidade (IABP-SHOCK II) e ficou reservado para complicação mecânica ou ponte selecionada; o dispositivo microaxial pode ser considerado em casos escolhidos (DanGer Shock), mas não é o suporte inicial universal. A grade se resolve pelas duas metades: noradrenalina, e não balão; culpada, e não multiarterial.",
 "comentarios": {
 "A": "Errada na primeira metade. A estratégia de revascularização está certa, mas o balão intra-aórtico de rotina não reduz mortalidade; seria opção numa CIV ou insuficiência mitral aguda.",
 "B": "Correta. Noradrenalina como primeiro vasopressor e angioplastia apenas da descendente anterior, deixando as outras lesões para depois.",
@@ -124,7 +124,7 @@
 "D": "Errada nas duas metades: balão de rotina e multiarterial imediata, as duas condutas que pioraram ou não mudaram desfecho."
 },
 "para_levar": "Infarto em choque cardiogênico: angioplastia só da artéria culpada no procedimento índice (as demais depois), noradrenalina como vasopressor inicial, e sem balão intra-aórtico de rotina.",
-"referencias": "ESC 2023 (acute coronary syndromes); CULPRIT-SHOCK (NEJM 2017); IABP-SHOCK II (NEJM 2012); ESC 2021 (heart failure)",
+"referencias": "ESC 2023 (acute coronary syndromes); CULPRIT-SHOCK (NEJM 2017); IABP-SHOCK II (NEJM 2012); DanGer Shock (NEJM 2024); ESC 2021 (heart failure)",
 "tags": ["Choque Cardiogênico (CM)", "IAMCSST (CM)"],
 "sourceQuestionId": null,
 "alvo": "Padrão de fazer mais (multiarterial, balão) e grade conferida pela metade."
@@ -202,7 +202,7 @@
 "D": "Errada. A estenose de artéria renal se investiga com piora de função renal após BRA, assimetria renal, sopro abdominal ou edema agudo recorrente; não há nenhum."
 },
 "para_levar": "Hipertensão resistente, hipocalemia espontânea ou induzida por diurético, incidentaloma adrenal ou HAS com apneia do sono: rastrear hiperaldosteronismo com relação aldosterona/renina, e só depois da confirmação pedir imagem.",
-"referencias": "Diretriz Brasileira de Hipertensão Arterial (SBC/SBH/SBN 2025); Endocrine Society 2025 (primary aldosteronism); ESC 2024 (hypertension)",
+"referencias": "Diretrizes Brasileiras de Hipertensão Arterial (SBC/SBH/SBN 2020); ESC 2024 (hypertension); Endocrine Society 2016 (primary aldosteronism)",
 "tags": ["HAS Secundária (CM)", "Hiperaldosteronismo Primário (CM)"],
 "sourceQuestionId": null,
 "alvo": "Rótulo verdadeiro explicando o laboratório e exame do degrau seguinte (TC) pedido antes do bioquímico."

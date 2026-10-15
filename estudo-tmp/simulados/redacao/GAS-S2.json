@@ -1,0 +1,372 @@
+[
+  {
+    "id": "S2-GAS-01",
+    "simulado": 2,
+    "area": "Gastroenterologia",
+    "titulo": "Pancreatite aguda necrosante: coleção necrótica aguda estéril antes de 4 semanas",
+    "arma": "Grade X / Y",
+    "comando": "diagnóstico",
+    "nivel": "difícil",
+    "enunciado": "Homem de 46 anos, etilista de 80 g/dia, está internado há 16 dias por pancreatite aguda grave (falência respiratória transitória nas primeiras 36 horas, já resolvida). Recebe dieta por sonda nasojejunal desde o 3º dia, com boa tolerância, e a dor está controlada com dipirona. Hoje: Tax 37,6 °C, FC 92 bpm, PA 128 x 76 mmHg, SpO2 96% em ar ambiente, abdome com dor leve à palpação profunda do epigástrio, sem distensão. Exames: leucócitos 11.800/mm³ (estáveis há 5 dias), PCR 68 mg/L (era 290 mg/L no 3º dia), procalcitonina 0,2 ng/mL, creatinina 0,9 mg/dL; hemoculturas negativas. TC com contraste: necrose de 40% do corpo pancreático e coleção heterogênea de 9 cm adjacente ao estômago, com conteúdo não liquefeito, sem parede definida e sem gás. A classificação da coleção e a conduta mais adequada neste momento são, respectivamente:",
+    "alternativas": {
+      "A": "Pseudocisto / drenagem endoscópica",
+      "B": "Coleção necrótica aguda / drenagem percutânea",
+      "C": "Coleção necrótica aguda / suporte clínico",
+      "D": "Pseudocisto / suporte clínico"
+    },
+    "gabarito": "C",
+    "armadilha": "B",
+    "dado_decisivo": "sem parede definida e sem gás",
+    "resolucao": "A coleção de 9 cm no 16º dia atrai a drenagem, e a febrícula reforça a impressão de infecção. Pela classificação de Atlanta revisada, na pancreatite necrosante a coleção das primeiras 4 semanas, heterogênea e sem parede, é coleção necrótica aguda; pseudocisto só existe na pancreatite intersticial e depois de 4 semanas, com parede formada e conteúdo líquido. O que indica intervenção não é o tamanho, e sim infecção com piora clínica ou sintoma compressivo: aqui não há gás, a PCR caiu de 290 para 68, a procalcitonina é baixa e as hemoculturas são negativas, com o doente estável e tolerando dieta enteral. Coleção estéril e assintomática não se drena, em qualquer tamanho, e antibiótico profilático não está indicado. Drenar agora não traz benefício, arrisca infectar uma necrose estéril e aborda tecido ainda não demarcado.",
+    "comentarios": {
+      "A": "Errada. Pseudocisto exige pancreatite intersticial e mais de 4 semanas com parede formada, e mesmo assim só se drena quando sintomático ou complicado; coleção de 16 dias na pancreatite necrosante não é pseudocisto.",
+      "B": "Errada. Acerta a classificação e erra a conduta: drenagem percutânea entra no step-up da necrose infectada com piora clínica, e aqui não há gás, bacteremia nem deterioração.",
+      "C": "Correta. Coleção heterogênea, sem parede e sem gás no 16º dia de pancreatite necrosante é coleção necrótica aguda; estéril e com o doente estável, mantém-se suporte e nutrição enteral.",
+      "D": "Errada. A conduta coincide, mas a classificação está errada: chamar de pseudocisto uma coleção necrótica leva, mais adiante, a drenar como líquido o que é necrose sólida."
+    },
+    "para_levar": "Antes de 4 semanas não se drena coleção pancreática estéril e assintomática, seja qual for o tamanho; quem indica intervenção é infecção com piora clínica ou sintoma compressivo, de preferência depois do encapsulamento.",
+    "referencias": "Classificação de Atlanta revisada (2012); ACG Guideline: Management of Acute Pancreatitis (2024); AGA Clinical Practice Update on Management of Pancreatic Necrosis (2020)",
+    "tags": [
+      "Pancreatite Aguda (CM)"
+    ],
+    "sourceQuestionId": "b4bc4370ad3e0fa",
+    "alvo": "Intervenção em coleção pancreática sem critério de Atlanta (errou drenagem e aspiração, 2 de 2)."
+  },
+  {
+    "id": "S2-GAS-02",
+    "simulado": 2,
+    "area": "Gastroenterologia",
+    "titulo": "Diarreia por ácidos biliares após ressecção ileal curta na doença de Crohn",
+    "arma": "Rótulo verdadeiro",
+    "comando": "etiologia",
+    "nivel": "extremamente difícil",
+    "enunciado": "Mulher de 34 anos com doença de Crohn ileal foi submetida há 5 meses a ressecção ileocecal de 60 cm por estenose e está em uso de adalimumabe desde então. Há 4 meses tem 5 a 7 evacuações aquosas por dia, sobretudo após as refeições, sem sangue, sem despertar noturno para evacuar e sem febre; o peso está estável e as fezes não têm gordura visível nem odor fétido. Exame: IMC 22 kg/m², abdome indolor, cicatriz sem fístula. Exames: hemoglobina 12,8 g/dL, PCR 3 mg/L, calprotectina fecal 42 µg/g, albumina 4,1 g/dL, vitamina B12 360 pg/mL. Pesquisa de toxinas de C. difficile negativa. Ileocolonoscopia: anastomose íleo-cólica com mucosa íntegra (Rutgeerts i0). A causa mais provável da diarreia é:",
+    "alternativas": {
+      "A": "Recidiva pós-operatória do Crohn",
+      "B": "Má absorção de ácidos biliares",
+      "C": "Esteatorreia por depleção de sais biliares",
+      "D": "Supercrescimento bacteriano do delgado"
+    },
+    "gabarito": "B",
+    "armadilha": "A",
+    "dado_decisivo": "ressecção ileocecal de 60 cm",
+    "resolucao": "O rótulo de Crohn puxa para recidiva e troca de biológico, mas a ileocolonoscopia mostra anastomose íntegra (Rutgeerts i0) e a calprotectina é normal: não há atividade inflamatória. A diarreia começou depois da ressecção ileocecal de 60 cm e é aquosa, pós-prandial, sem gordura e com peso estável. Com menos de 100 cm de íleo ressecado, os ácidos biliares deixam de ser reabsorvidos e chegam ao cólon, onde estimulam secreção de água e eletrólitos: diarreia colerética, que responde a sequestrador (colestiramina). Acima de 100 cm o pool de sais biliares se esgota, faltam micelas e o quadro vira esteatorreia com perda de peso, e então a colestiramina piora. Supercrescimento bacteriano é possível sem a válvula ileocecal, mas a B12 normal e a ausência de distensão não o sustentam.",
+    "comentarios": {
+      "A": "Errada. Seria a resposta com lesões na anastomose (Rutgeerts i2 ou mais) ou calprotectina elevada; aqui a mucosa está íntegra e a calprotectina é de 42 µg/g.",
+      "B": "Correta. Ressecção ileal menor que 100 cm e diarreia aquosa pós-prandial sem esteatorreia: má absorção de ácidos biliares, tratada com colestiramina.",
+      "C": "Errada. É o quadro da ressecção maior que 100 cm, com fezes gordurosas e fétidas e emagrecimento; com 60 cm e peso estável, o pool de sais biliares está preservado.",
+      "D": "Errada. Seria considerado com distensão, flatulência, B12 baixa ou folato alto; a B12 normal e o quadro aquoso pós-prandial apontam para ácido biliar."
+    },
+    "para_levar": "Ressecção ileal: menos de 100 cm dá diarreia colerética aquosa (colestiramina); mais de 100 cm dá esteatorreia por depleção (dieta pobre em gordura e TCM, sem colestiramina).",
+    "referencias": "BSG guidelines for the investigation of chronic diarrhoea in adults (2018); AGA Clinical Practice Guidelines on the laboratory evaluation of functional diarrhea (2019)",
+    "tags": [
+      "Diarréias crônicas (CM)",
+      "Crohn (CM)"
+    ],
+    "sourceQuestionId": "3623a5521adff99",
+    "alvo": "Diarreia por ácidos biliares (errou 2 de 2) e corte de 100 cm de íleo, com o rótulo de Crohn competindo."
+  },
+  {
+    "id": "S2-GAS-03",
+    "simulado": 2,
+    "area": "Hepatologia",
+    "titulo": "Hepatite B crônica HBeAg negativo com HBV-DNA baixo: quando não tratar",
+    "arma": "Omissão",
+    "comando": "conduta",
+    "nivel": "difícil",
+    "enunciado": "Homem de 38 anos teve HBsAg reagente descoberto há 6 anos em doação de sangue; a mãe tem hepatite B. Assintomático, sem etilismo, IMC 24 kg/m², sem comorbidades e sem uso de medicamentos; não há história familiar de carcinoma hepatocelular. Exame físico normal. Nos últimos 2 anos, quatro dosagens de ALT entre 18 e 26 U/L (referência até 40 U/L). Exames atuais: HBeAg não reagente, anti-HBe reagente, HBV-DNA 410 UI/mL, plaquetas 236.000/mm³; anti-HCV, anti-HDV e anti-HIV não reagentes. Elastografia hepática transitória: 4,8 kPa. Ultrassonografia abdominal normal. A conduta mais adequada é:",
+    "alternativas": {
+      "A": "Tenofovir por tempo indeterminado",
+      "B": "Entecavir até perder o HBsAg",
+      "C": "Biópsia hepática para estadiamento",
+      "D": "ALT e HBV-DNA periódicos, sem antiviral"
+    },
+    "gabarito": "D",
+    "armadilha": "A",
+    "dado_decisivo": "HBV-DNA 410 UI/mL",
+    "resolucao": "HBsAg reagente há anos, com mãe portadora, empurra para iniciar antiviral, e é isso que o apressado faz. A indicação de tratamento depende de HBV-DNA, ALT e fibrose, além de situações especiais (cirrose, história familiar de carcinoma hepatocelular, imunossupressão programada, coinfecção, manifestação extra-hepática). Aqui o HBV-DNA é de 410 UI/mL, abaixo de 2.000, a ALT está normal em quatro dosagens e a elastografia de 4,8 kPa afasta fibrose significativa, sem nenhuma situação especial. É a infecção crônica HBeAg negativo (antigo portador inativo), que se acompanha com ALT e HBV-DNA periódicos, sem antiviral. Biópsia não acrescenta nada quando a elastografia é normal e os marcadores são concordantes.",
+    "comentarios": {
+      "A": "Errada. É a isca: seria a conduta com HBV-DNA acima de 2.000 UI/mL e ALT elevada, fibrose ao menos moderada, cirrose ou situação especial; nada disso existe aqui.",
+      "B": "Errada. Entecavir seria opção se houvesse indicação, mas não há, e a perda do HBsAg é rara e não serve como horizonte de tratamento.",
+      "C": "Errada. Biópsia fica para marcadores discordantes ou dúvida sobre fibrose; elastografia de 4,8 kPa com ALT e DNA baixos já estadia.",
+      "D": "Correta. HBV-DNA de 410 UI/mL, ALT persistentemente normal e elastografia normal: infecção crônica HBeAg negativo, seguimento periódico sem antiviral."
+    },
+    "para_levar": "HBsAg reagente não é indicação de tratamento: trata-se por HBV-DNA acima de 2.000 com ALT alta, fibrose significativa, cirrose ou situação especial; o resto se acompanha.",
+    "referencias": "PCDT de Hepatite B e Coinfecções (Ministério da Saúde, 2023); EASL Clinical Practice Guidelines on hepatitis B (2025); WHO guidelines for chronic hepatitis B (2024)",
+    "tags": [
+      "Indicação de Tratamento e Seguimento Hepatite B (CM)",
+      "Hepatite B : Contágio e Fases da Infecção (CM)"
+    ],
+    "sourceQuestionId": null,
+    "alvo": "Faz mais do que o caso pede: tratar o rótulo HBsAg reagente sem checar DNA, ALT e fibrose."
+  },
+  {
+    "id": "S2-GAS-04",
+    "simulado": 2,
+    "area": "Hepatologia",
+    "titulo": "Doença hepática crônica avançada compensada: carvedilol pela elastografia, sem endoscopia de rastreio (Baveno VII)",
+    "arma": "Limiar",
+    "comando": "conduta",
+    "nivel": "extremamente difícil",
+    "enunciado": "Homem de 57 anos, com doença hepática por álcool, abstinente há 2 anos, hipertenso em uso de losartana, é encaminhado após elastografia hepática transitória de 27 kPa, confirmada em segunda medida em jejum. Nunca teve ascite, icterícia, encefalopatia ou sangramento. Exame: PA 142 x 88 mmHg, FC 82 bpm, IMC 25 kg/m², sem estigmas de hepatopatia, baço não palpável. Exames: plaquetas 138.000/mm³, albumina 4,0 g/dL, bilirrubina 0,9 mg/dL, INR 1,1, creatinina 0,9 mg/dL. Ultrassonografia: fígado de contornos levemente irregulares, sem ascite e sem nódulos. Não há contraindicação a betabloqueador. Para prevenir a primeira descompensação, a conduta mais adequada é:",
+    "alternativas": {
+      "A": "Carvedilol, sem endoscopia de rastreio",
+      "B": "Endoscopia para rastrear varizes",
+      "C": "Repetir elastografia em 12 meses",
+      "D": "Ligadura elástica após endoscopia"
+    },
+    "gabarito": "A",
+    "armadilha": "B",
+    "dado_decisivo": "elastografia hepática transitória de 27 kPa",
+    "resolucao": "O reflexo é pedir endoscopia para procurar varizes antes de decidir, que era a regra antiga. O Baveno VII mudou o alvo: na doença hepática crônica avançada compensada, elastografia de 25 kPa ou mais confirma hipertensão portal clinicamente significativa (em etiologia viral, alcoólica e metabólica sem obesidade), e o betabloqueador não seletivo, preferencialmente o carvedilol, reduz o risco de primeira descompensação (estudo PREDESCI), e não só de sangramento. Quem vai usar betabloqueador não precisa de endoscopia de rastreio, porque o resultado não muda a conduta; a endoscopia fica para quem não pode ou não tolera betabloqueador, para decidir por ligadura. As plaquetas de 138.000 não mudam nada: o corte de plaquetas acima de 150.000 com elastografia abaixo de 20 kPa serve para dispensar rastreio, e não para indicar tratamento.",
+    "comentarios": {
+      "A": "Correta. Elastografia de 27 kPa confirma hipertensão portal clinicamente significativa; carvedilol previne descompensação e dispensa endoscopia de rastreio.",
+      "B": "Errada. É a isca: seria o passo em quem tem contraindicação ou intolerância a betabloqueador, para indicar ligadura; aqui o carvedilol cabe e a endoscopia não muda a conduta.",
+      "C": "Errada. Repetir elastografia anualmente é o seguimento de quem não tem hipertensão portal confirmada; 27 kPa já decide.",
+      "D": "Errada. Ligadura profilática é para varizes de alto risco em quem não usa betabloqueador; não é a conduta inicial com elastografia de 27 kPa e betabloqueador possível."
+    },
+    "para_levar": "Na doença hepática avançada compensada, elastografia de 25 kPa ou mais indica carvedilol para prevenir descompensação, sem endoscopia de rastreio em quem vai usar betabloqueador.",
+    "referencias": "Baveno VII (2022); AASLD Practice Guidance on risk stratification and management of portal hypertension and varices in cirrhosis (2024)",
+    "tags": [
+      "Hipertensão Portal (CM)",
+      "HDA varicosa (CM)"
+    ],
+    "sourceQuestionId": null,
+    "alvo": "Próximo exame a mais (endoscopia) quando o número da elastografia já decide."
+  },
+  {
+    "id": "S2-GAS-05",
+    "simulado": 2,
+    "area": "Hepatologia",
+    "titulo": "Hepatite alcoólica grave: escore de Lille no 7º dia e suspensão do corticoide",
+    "arma": "Cronologia",
+    "comando": "conduta",
+    "nivel": "difícil",
+    "enunciado": "Mulher de 44 anos, etilista de 120 g/dia até a internação, foi admitida há 7 dias com icterícia de 3 semanas, febre baixa e hepatomegalia dolorosa. Na admissão: bilirrubina total 14,2 mg/dL, AST 212 U/L, ALT 88 U/L, TP 24 s (controle 12 s), creatinina 0,8 mg/dL, leucócitos 14.000/mm³. Hemoculturas, urocultura, radiografia de tórax e paracentese diagnóstica sem infecção; sem sangramento digestivo. Com fator discriminante de Maddrey de 61, iniciou prednisolona 40 mg/dia. Hoje, 7º dia de corticoide: lúcida, sem febre, bilirrubina 13,6 mg/dL, creatinina 0,9 mg/dL, escore de Lille 0,62. A conduta mais adequada é:",
+    "alternativas": {
+      "A": "Manter prednisolona até 28 dias",
+      "B": "Suspender a prednisolona",
+      "C": "Substituir por pentoxifilina",
+      "D": "Aumentar prednisolona para 60 mg/dia"
+    },
+    "gabarito": "B",
+    "armadilha": "A",
+    "dado_decisivo": "escore de Lille 0,62",
+    "resolucao": "Quem começou prednisolona pensa em completar os 28 dias, e é essa a isca. O escore de Lille no 7º dia mede a resposta: acima de 0,45 o doente é não respondedor, a sobrevida não melhora com a continuação do corticoide e o risco de infecção cresce. A conduta é suspender a prednisolona, manter abstinência e suporte nutricional e encaminhar para avaliação de transplante precoce em centro com protocolo. A pentoxifilina não tem benefício de sobrevida (STOPAH) e não é resgate para não respondedor; aumentar a dose do corticoide só acrescenta infecção. A bilirrubina quase parada (14,2 para 13,6) é o que o Lille traduz em número.",
+    "comentarios": {
+      "A": "Errada. É a isca: seria a conduta com Lille abaixo de 0,45 no 7º dia (respondedor); com 0,62, continuar só expõe a infecção sem ganho de sobrevida.",
+      "B": "Correta. Lille de 0,62 no 7º dia define não resposta; suspende-se o corticoide e considera-se transplante precoce em centro com protocolo.",
+      "C": "Errada. A pentoxifilina não reduziu mortalidade no STOPAH e não funciona como resgate para quem não respondeu ao corticoide.",
+      "D": "Errada. Não existe escalonamento de dose na hepatite alcoólica; a não resposta é biológica, e não de dose."
+    },
+    "para_levar": "Hepatite alcoólica com Maddrey de 32 ou mais: prednisolona 40 mg/dia; no 7º dia, Lille acima de 0,45 manda suspender.",
+    "referencias": "AASLD Practice Guidance: alcohol-associated liver disease (2024); EASL Clinical Practice Guidelines on alcohol-related liver disease (2018); STOPAH (N Engl J Med, 2015)",
+    "tags": [
+      "Hepatite Alcoólica (CM)"
+    ],
+    "sourceQuestionId": "f757c43b23d890f",
+    "alvo": "Ordem da conduta: completar o esquema sem reavaliar a resposta no tempo certo."
+  },
+  {
+    "id": "S2-GAS-06",
+    "simulado": 2,
+    "area": "Gastroenterologia",
+    "titulo": "Helicobacter pylori: teste de controle de erradicação e suspensão do IBP",
+    "arma": "Grade X / Y",
+    "comando": "fato solto",
+    "nivel": "média",
+    "enunciado": "Após o tratamento de erradicação do Helicobacter pylori em paciente com úlcera duodenal não complicada, o exame de controle de cura e a conduta quanto ao inibidor de bomba de prótons antes dele são, respectivamente:",
+    "alternativas": {
+      "A": "Teste respiratório com ureia / suspender IBP 2 semanas antes",
+      "B": "Sorologia IgG / manter IBP",
+      "C": "Teste respiratório com ureia / manter IBP até o exame",
+      "D": "Sorologia IgG / suspender IBP 2 semanas antes"
+    },
+    "gabarito": "A",
+    "armadilha": "C",
+    "dado_decisivo": "úlcera duodenal não complicada",
+    "resolucao": "A metade fácil é o teste: a sorologia permanece reagente por meses a anos após a erradicação e não serve para controle de cura. A metade que derruba é o IBP: ele reduz a carga bacteriana e a atividade da urease e dá falso negativo no teste respiratório, no antígeno fecal e no teste da urease da biópsia. Por isso o controle se faz com teste respiratório com ureia marcada (ou antígeno fecal monoclonal) pelo menos 4 semanas após o fim do antibiótico e com o IBP suspenso por 2 semanas. Na úlcera duodenal não complicada, o controle não invasivo basta; na úlcera gástrica, o controle é endoscópico, para biopsiar a úlcera.",
+    "comentarios": {
+      "A": "Correta. Teste respiratório com ureia, ao menos 4 semanas após o antibiótico e com IBP suspenso por 2 semanas.",
+      "B": "Errada. A sorologia não diferencia infecção atual de cicatriz imunológica, e manter o IBP seria irrelevante para ela; a combinação é inadequada nas duas metades.",
+      "C": "Errada. É a isca: o teste está certo, mas o IBP mantido reduz a urease e gera falso negativo, declarando uma erradicação que não ocorreu.",
+      "D": "Errada. Suspender o IBP está certo, mas a sorologia segue reagente após a cura e induz retratamento desnecessário."
+    },
+    "para_levar": "Controle de erradicação: teste respiratório ou antígeno fecal, 4 semanas sem antibiótico e 2 semanas sem IBP; nunca sorologia.",
+    "referencias": "V Consenso Brasileiro sobre Helicobacter pylori (2026); Maastricht VI/Florença (2022); ACG Clinical Guideline: Treatment of Helicobacter pylori Infection (2024)",
+    "tags": [
+      "H.pylori (CM)"
+    ],
+    "sourceQuestionId": null,
+    "alvo": "Precondição de exame (IBP falseando o teste), em formato de fato solto."
+  },
+  {
+    "id": "S2-GAS-07",
+    "simulado": 2,
+    "area": "Hepatologia",
+    "titulo": "Peritonite bacteriana secundária no cirrótico: critérios de Runyon",
+    "arma": "Rótulo verdadeiro",
+    "comando": "diagnóstico",
+    "nivel": "difícil",
+    "enunciado": "Homem de 61 anos, com cirrose por vírus C (Child-Pugh B) e ascite em uso de diuréticos, procura a emergência com dor abdominal difusa e febre há 2 dias. Nega sangramento. Exame: Tax 38,4 °C, FC 108 bpm, PA 104 x 64 mmHg, ascite moderada, abdome doloroso difusamente, sem defesa localizada. Exames: leucócitos 16.200/mm³, creatinina 1,3 mg/dL, glicose sérica 110 mg/dL, DHL sérica 210 U/L (referência até 250 U/L). Paracentese: líquido turvo, 6.800 células/mm³ com 88% de polimorfonucleares, proteína total 2,6 g/dL, glicose 22 mg/dL, DHL 480 U/L; Gram com bacilos gram-negativos, cocos gram-positivos e bacilos gram-positivos. O diagnóstico mais provável é:",
+    "alternativas": {
+      "A": "Peritonite bacteriana espontânea",
+      "B": "Bacterascite monomicrobiana",
+      "C": "Peritonite bacteriana secundária",
+      "D": "Ascite neutrocítica cultura-negativa"
+    },
+    "gabarito": "C",
+    "armadilha": "A",
+    "dado_decisivo": "glicose 22 mg/dL, DHL 480 U/L",
+    "resolucao": "Cirrótico com ascite, febre e neutrófilos acima de 250 no líquido monta peritonite bacteriana espontânea na cabeça de quem lê, e o tratamento seria ceftriaxona e albumina. Mas o líquido traz os três sinais de perfuração ou foco intra-abdominal: proteína total acima de 1 g/dL, glicose abaixo de 50 mg/dL e DHL do líquido acima do limite superior sérico (critérios de Runyon; dois ou mais bastam), além de Gram polimicrobiano e contagem de milhares de neutrófilos. A peritonite espontânea é monomicrobiana e o líquido costuma ter proteína baixa, porque a baixa opsonização é o que a permite. O próximo passo é TC de abdome e avaliação cirúrgica, com antibiótico que cubra anaeróbios.",
+    "comentarios": {
+      "A": "Errada. É a isca do rótulo: a peritonite espontânea tem PMN acima de 250, mas Gram de um só germe e líquido sem critérios de Runyon; aqui há três critérios e flora mista.",
+      "B": "Errada. Bacterascite é cultura positiva com PMN abaixo de 250; aqui são milhares de neutrófilos.",
+      "C": "Correta. Proteína de 2,6 g/dL, glicose de 22 mg/dL, DHL de 480 U/L e Gram polimicrobiano: peritonite secundária, que pede TC e cirurgião.",
+      "D": "Errada. É PMN acima de 250 com cultura negativa em quadro de peritonite espontânea; o Gram com três morfologias já a afasta."
+    },
+    "para_levar": "No cirrótico com ascite infectada, dois critérios de Runyon (proteína acima de 1 g/dL, glicose abaixo de 50 mg/dL, DHL acima do normal sérico) ou Gram polimicrobiano mandam procurar foco cirúrgico.",
+    "referencias": "AASLD Practice Guidance on ascites, SBP and hepatorenal syndrome (2021); EASL Clinical Practice Guidelines on decompensated cirrhosis (2018)",
+    "tags": [
+      "Infecções em Líquido Ascítico : Neutrascite, PBE e PBS (CM)",
+      "Ascite, PBE e PBS (CM)"
+    ],
+    "sourceQuestionId": "e191d1a75dc60a3",
+    "alvo": "Exame que decide (bioquímica do líquido) lido como enfeite diante do rótulo cirrose com ascite."
+  },
+  {
+    "id": "S2-GAS-08",
+    "simulado": 2,
+    "area": "Oncologia",
+    "titulo": "Neutropenia febril de baixo risco pelo MASCC: antibiótico oral ambulatorial",
+    "arma": "Limiar",
+    "comando": "conduta",
+    "nivel": "difícil",
+    "enunciado": "Mulher de 49 anos, em quimioterapia adjuvante para carcinoma de mama (docetaxel e ciclofosfamida, último ciclo há 9 dias, sem profilaxia antimicrobiana), procura o pronto-atendimento com febre de 38,4 °C iniciada em casa há 6 horas. Refere mal-estar leve; sem tosse, disúria, diarreia ou dor. Não tem DPOC, nunca teve infecção fúngica e não está desidratada. Exame: bom estado geral, PA 122 x 78 mmHg, FC 96 bpm, FR 16 irpm, SpO2 98% em ar ambiente, sem foco infeccioso, cateter totalmente implantado sem sinais flogísticos. Exames: neutrófilos 380/mm³, creatinina 0,7 mg/dL, bilirrubinas e transaminases normais, lactato 1,1 mmol/L; radiografia de tórax e urina tipo 1 normais. Mora a 15 minutos do hospital, com acompanhante e telefone. Colhidas as hemoculturas, a conduta mais adequada é:",
+    "alternativas": {
+      "A": "Internar e iniciar cefepime intravenoso",
+      "B": "Internar com piperacilina-tazobactam e vancomicina",
+      "C": "Alta sem antibiótico, aguardando culturas",
+      "D": "Ciprofloxacino e amoxicilina-clavulanato orais, ambulatorial"
+    },
+    "gabarito": "D",
+    "armadilha": "A",
+    "dado_decisivo": "Não tem DPOC, nunca teve infecção fúngica e não está desidratada",
+    "resolucao": "Neutropenia febril assusta e puxa para internação com cefepime, que é a conduta de quem é de alto risco. O escore MASCC aqui soma 26 (sintomas leves 5, sem hipotensão 5, sem DPOC 4, tumor sólido sem infecção fúngica prévia 4, sem desidratação 3, febre iniciada fora do hospital 3, idade abaixo de 60 anos 2), acima do corte de 21, e não há critério clínico de alto risco: sem foco, sem disfunção orgânica, lactato normal e neutropenia esperada curta. Com suporte domiciliar e acesso rápido ao hospital, a ASCO e a IDSA indicam antibiótico oral (ciprofloxacino com amoxicilina-clavulanato), com a primeira dose no serviço, observação e alta com reavaliação precoce. Não tratar é inaceitável: toda neutropenia febril recebe antibiótico empírico depois das hemoculturas.",
+    "comentarios": {
+      "A": "Errada. É a isca: seria a conduta com MASCC abaixo de 21, instabilidade, foco, disfunção orgânica ou impossibilidade de seguimento; nada disso existe aqui.",
+      "B": "Errada. Vancomicina empírica se indica em instabilidade, infecção de cateter ou pele, pneumonia ou colonização por MRSA; nenhuma está presente.",
+      "C": "Errada. Neutropenia febril exige antibiótico empírico na primeira hora, qualquer que seja o risco.",
+      "D": "Correta. MASCC de 26, sem critério de alto risco e com suporte domiciliar: ciprofloxacino e amoxicilina-clavulanato orais, ambulatorial após observação."
+    },
+    "para_levar": "MASCC de 21 ou mais, sem critério clínico de gravidade e com acesso rápido ao hospital: neutropenia febril pode ser tratada com antibiótico oral ambulatorial.",
+    "referencias": "ASCO/IDSA Guideline Update: Outpatient Management of Fever and Neutropenia in Adults Treated for Malignancy (2018); NCCN Prevention and Treatment of Cancer-Related Infections (2025)",
+    "tags": [
+      "Neutropenia Febril (CM)",
+      "Emergências Oncológicas (CM)"
+    ],
+    "sourceQuestionId": "2a3b46f4aebcc94",
+    "alvo": "Faz mais do que o caso pede (internar e ampliar espectro) sem calcular o escore."
+  },
+  {
+    "id": "S2-GAS-09",
+    "simulado": 2,
+    "area": "Oncologia",
+    "titulo": "Dispneia refratária no câncer avançado com DPOC hipercápnica: morfina em dose baixa",
+    "arma": "Rótulo verdadeiro",
+    "comando": "conduta",
+    "nivel": "extremamente difícil",
+    "enunciado": "Homem de 74 anos com carcinoma pulmonar de não pequenas células metastático, em cuidados exclusivamente paliativos após progressão em duas linhas de tratamento, tem DPOC (VEF1 de 38% do previsto) com PaCO2 basal de 52 mmHg. Está internado por dispneia em repouso, progressiva há 2 semanas, sem febre ou escarro purulento. Já tratados: derrame pleural drenado com pleurodese, broncodilatadores otimizados, ventilador direcionado ao rosto e posicionamento. Exame: lúcido, FR 30 irpm, SpO2 92% com cateter nasal a 2 L/min, sem sibilos, PA 118 x 72 mmHg; PPS 30%. Gasometria: pH 7,37, PaCO2 54 mmHg, bicarbonato 31 mEq/L. Refere a dispneia como 8 em 10 e pede alívio. A conduta mais adequada para o sintoma é:",
+    "alternativas": {
+      "A": "Morfina oral em dose baixa, titulada",
+      "B": "Aumentar o oxigênio para 5 L/min",
+      "C": "Evitar opioide pela hipercapnia",
+      "D": "Diazepam como primeira linha"
+    },
+    "gabarito": "A",
+    "armadilha": "C",
+    "dado_decisivo": "Já tratados: derrame pleural drenado com pleurodese, broncodilatadores otimizados, ventilador direcionado ao rosto e posicionamento",
+    "resolucao": "DPOC com PaCO2 de 54 mmHg é o rótulo que faz evitar opioide. Nas doses usadas para dispneia (morfina oral de 2,5 a 5 mg a cada 4 horas, ou cerca de 10 mg/dia de liberação prolongada, titulada), o opioide reduz a percepção de falta de ar sem depressão respiratória clinicamente relevante, inclusive na DPOC grave com hipercapnia crônica compensada (pH 7,37). As causas reversíveis já foram tratadas (derrame drenado, broncodilatador otimizado) e as medidas não farmacológicas já foram feitas: a dispneia é refratária e o próximo degrau é o opioide. Aumentar o oxigênio com SpO2 de 92% não alivia a dispneia e, no hipercápnico, pode piorar a retenção de CO2; benzodiazepínico não é primeira linha e fica para ansiedade associada, depois do opioide.",
+    "comentarios": {
+      "A": "Correta. Dispneia refratária com causas reversíveis tratadas: morfina oral em dose baixa e titulada, segura mesmo na DPOC hipercápnica compensada.",
+      "B": "Errada. Oxigênio alivia quando corrige hipoxemia; com SpO2 de 92% não há ganho sintomático e, no retentor de CO2, há risco de piorar a hipercapnia.",
+      "C": "Errada. É a isca: hipercapnia crônica compensada não contraindica opioide em dose de dispneia, e evitar o opioide deixa o sintoma sem tratamento.",
+      "D": "Errada. Benzodiazepínico tem papel na ansiedade associada e como segunda linha; não substitui o opioide como primeira escolha para dispneia."
+    },
+    "para_levar": "Dispneia refratária no câncer avançado, com ou sem DPOC hipercápnica: morfina em dose baixa e titulada é a primeira linha; oxigênio só alivia quem está hipoxêmico.",
+    "referencias": "ASCO Guideline: Management of Dyspnea in Advanced Cancer (2021); ATS Official Statement: Update on the Mechanisms, Assessment, and Management of Dyspnea (2012); GOLD 2026",
+    "tags": [
+      "Paliativos Oncologia: Dispneia (CM)"
+    ],
+    "sourceQuestionId": "3111b1b9ed46b72",
+    "alvo": "Morfina para dispneia (errou 2 de 2, em sentidos opostos): o rótulo DPOC hipercápnica."
+  },
+  {
+    "id": "S2-GAS-10",
+    "simulado": 2,
+    "area": "Oncologia",
+    "titulo": "Síndrome da veia cava superior sem sinais de gravidade: biópsia antes de radioterapia ou corticoide",
+    "arma": "Negativo no meio",
+    "comando": "próximo exame",
+    "nivel": "difícil",
+    "enunciado": "Homem de 58 anos, tabagista de 50 maços-ano, há 3 semanas tem edema progressivo de face e pescoço, pletora facial e turgência das veias do tórax, piores ao deitar. Sem estridor, sem rouquidão, sem cefaleia, confusão ou síncope. Exame: FR 18 irpm, SpO2 95% em ar ambiente, PA 136 x 84 mmHg, sem tiragem; linfonodo supraclavicular direito de 1,8 cm, endurecido. TC de tórax: massa mediastinal anterior e paratraqueal direita de 7 cm comprimindo a veia cava superior, com colaterais, sem compressão traqueal significativa. Não há diagnóstico histológico e ele não recebeu corticoide. O próximo passo mais adequado é:",
+    "alternativas": {
+      "A": "Radioterapia mediastinal de urgência",
+      "B": "Dexametasona intravenosa imediata",
+      "C": "Biópsia do linfonodo supraclavicular",
+      "D": "Stent endovascular imediato"
+    },
+    "gabarito": "C",
+    "armadilha": "A",
+    "dado_decisivo": "Sem estridor, sem rouquidão, sem cefaleia, confusão ou síncope",
+    "resolucao": "Síndrome da veia cava superior soa como emergência e puxa radioterapia ou corticoide imediatos, como era a conduta antiga. Hoje a síndrome só é emergência com estridor ou compressão de via aérea, edema cerebral ou instabilidade, e então o primeiro passo é stent endovascular. Sem esses sinais, como aqui, há tempo para o diagnóstico histológico, que define o tratamento: carcinoma de pequenas células e linfoma respondem à quimioterapia, e o linfoma pode ser descaracterizado por corticoide ou radioterapia prévios. O linfonodo supraclavicular palpável oferece o acesso menos invasivo para a biópsia.",
+    "comentarios": {
+      "A": "Errada. É a isca: radioterapia empírica antes da histologia pode impedir o diagnóstico, sobretudo de linfoma, e não é necessária sem compressão de via aérea ou edema cerebral.",
+      "B": "Errada. Corticoide sem diagnóstico pode mascarar linfoma; tem papel no linfoma confirmado e no edema da via aérea, não como primeiro passo.",
+      "C": "Correta. Sem estridor nem sinais neurológicos, a prioridade é a histologia, e o linfonodo supraclavicular é o acesso mais simples.",
+      "D": "Errada. Stent é a primeira medida quando há estridor, edema laríngeo ou cerebral ou sintomas graves; não é o caso, e ele não substitui o diagnóstico."
+    },
+    "para_levar": "Síndrome da veia cava superior sem estridor, edema cerebral ou instabilidade não é emergência: biópsia antes de radioterapia ou corticoide; com sintomas graves, stent primeiro.",
+    "referencias": "Yu, Wilson e Detterbeck: classificação e algoritmo da síndrome da veia cava superior (J Thorac Oncol, 2008); NCCN Non-Small Cell Lung Cancer (2025)",
+    "tags": [
+      "Síndrome da Veia Cava Superior (CM)",
+      "Emergências Oncológicas (CM)"
+    ],
+    "sourceQuestionId": "4acce5ddd3ebee2",
+    "alvo": "Ordem da conduta: radioterapia antes da biópsia na síndrome da veia cava superior (já errou como etapa colapsada)."
+  },
+  {
+    "id": "S2-GAS-11",
+    "simulado": 2,
+    "area": "Oncologia",
+    "titulo": "CEA elevado em tabagista assintomático: marcador tumoral não é rastreamento",
+    "arma": "Omissão",
+    "comando": "próximo exame",
+    "nivel": "difícil",
+    "enunciado": "Homem de 63 anos, tabagista ativo de 40 maços-ano, assintomático, fez exames de rotina em check-up particular, que incluíram antígeno carcinoembrionário (CEA) de 6,1 ng/mL (referência até 5,0 ng/mL). Colonoscopia de rastreamento há 2 anos sem pólipos. TC de tórax de baixa dose, feita no programa de rastreamento de câncer de pulmão há 4 meses: Lung-RADS 1. Sem perda de peso, sem alteração do hábito intestinal, sem anemia; hemograma e funções hepática e renal normais; exame físico normal. Diante do CEA, a conduta mais adequada é:",
+    "alternativas": {
+      "A": "PET-CT de corpo inteiro",
+      "B": "Nenhum exame adicional pelo CEA",
+      "C": "TC de tórax, abdome e pelve",
+      "D": "Nova colonoscopia"
+    },
+    "gabarito": "B",
+    "armadilha": "C",
+    "dado_decisivo": "tabagista ativo de 40 maços-ano, assintomático",
+    "resolucao": "CEA acima da referência em um homem de 63 anos parece pedir caça ao tumor, e a TC de tórax, abdome e pelve é o que o apressado solicita. Mas marcador tumoral não serve para rastreamento nem para diagnóstico em assintomático: o CEA tem baixa sensibilidade e especificidade, e o tabagismo ativo o eleva até cerca de 10 ng/mL em pessoas sem câncer. Este paciente está em dia com os rastreamentos que importam (colonoscopia há 2 anos e TC de baixa dose há 4 meses, Lung-RADS 1), sem sinal de alarme. A conduta é não investigar nem repetir o marcador; o uso adequado do CEA é o seguimento após ressecção de câncer colorretal.",
+    "comentarios": {
+      "A": "Errada. PET-CT para marcador isolado em assintomático gera achados incidentais e procedimentos sem benefício; nenhuma diretriz o indica.",
+      "B": "Correta. CEA de 6,1 ng/mL em tabagista assintomático, com rastreamentos em dia, não se investiga: marcador não é exame de rastreamento.",
+      "C": "Errada. É a isca: seria pertinente com sintoma, sinal de alarme ou câncer tratado em seguimento; aqui é investigação de um exame que não deveria ter sido pedido.",
+      "D": "Errada. A colonoscopia sem pólipos de 2 anos atrás vale por 10 anos; o CEA não antecipa o intervalo."
+    },
+    "para_levar": "Marcadores tumorais (CEA, CA 19-9, CA-125, CA 15-3) não rastreiam nem diagnosticam câncer em assintomático; tabagismo eleva o CEA.",
+    "referencias": "ASCO 2006 Update of Recommendations for the Use of Tumor Markers in Gastrointestinal Cancer; INCA, Detecção precoce do câncer (2021)",
+    "tags": [
+      "Rastreamentos em Clínica Médica (CM)",
+      "Diagnóstico das Neoplasias e Estadiamentos (CM)"
+    ],
+    "sourceQuestionId": null,
+    "alvo": "Faz mais do que o caso pede: investigar um exame que não deveria ter sido pedido."
+  }
+]

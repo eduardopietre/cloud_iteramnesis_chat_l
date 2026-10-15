@@ -1,0 +1,372 @@
+[
+  {
+    "id": "S5-GAS-01",
+    "simulado": 5,
+    "area": "Gastroenterologia",
+    "titulo": "Pancreatite aguda em portador de insuficiência cardíaca deduzida pelas drogas: hidratação moderada guiada por reavaliação",
+    "arma": "Droga a deduzir",
+    "comando": "conduta",
+    "nivel": "difícil",
+    "enunciado": "Homem de 67 anos, em uso de sacubitril-valsartana, carvedilol, espironolactona, dapagliflozina e furosemida 40 mg/dia, chega com dor epigástrica em faixa há 8 horas e vômitos. Lipase 1.900 U/L; ultrassonografia com colelitíase, sem dilatação de vias biliares. Exame: Tax 37,2 °C, FC 98 bpm, PA 112 x 70 mmHg, FR 20 irpm, SpO2 95% em ar ambiente, mucosas secas, jugulares não túrgidas a 45 graus, sem estertores, sem edema; enchimento capilar de 3 s. Exames: hematócrito 46%, ureia 58 mg/dL, creatinina 1,4 mg/dL (basal 1,1), lactato 2,0 mmol/L, glicemia 128 mg/dL, bicarbonato 23 mEq/L. A reposição volêmica inicial mais adequada é:",
+    "alternativas": {
+      "A": "Ringer lactato 10 mL/kg e 1,5 mL/kg/h, com reavaliação",
+      "B": "Ringer lactato 20 mL/kg em bolus e 3 mL/kg/h",
+      "C": "Soro fisiológico 250 mL/h fixos por 48 horas",
+      "D": "Restrição hídrica pela insuficiência cardíaca"
+    },
+    "gabarito": "A",
+    "armadilha": "B",
+    "dado_decisivo": "sacubitril-valsartana, carvedilol, espironolactona, dapagliflozina e furosemida",
+    "resolucao": "A reposição agressiva (20 mL/kg em bolus e 3 mL/kg/h) foi por anos a regra da pancreatite, e é a isca. O estudo WATERFALL mostrou que ela aumenta a sobrecarga hídrica sem melhorar desfechos; a recomendação atual é hidratação moderada com Ringer lactato: 10 mL/kg em bolus se houver hipovolemia e 1,5 mL/kg/h, reavaliando com frequência (diurese, ureia, hematócrito, sinais de congestão). A lista de drogas, sem diagnóstico nomeado, descreve insuficiência cardíaca com fração de ejeção reduzida em terapia quádrupla, o que torna a sobrecarga ainda mais perigosa. Mas ele está hipovolêmico (mucosas secas, ureia e hematócrito altos, creatinina acima do basal, sem congestão), e restringir líquido agravaria a hipoperfusão pancreática e renal.",
+    "comentarios": {
+      "A": "Correta. Hipovolemia em portador de insuficiência cardíaca de fração reduzida: bolus de 10 mL/kg e 1,5 mL/kg/h de Ringer lactato, com reavaliação frequente.",
+      "B": "Errada. É a isca: a reposição agressiva aumentou a sobrecarga sem benefício no WATERFALL, e o risco é maior com insuficiência cardíaca de fração reduzida.",
+      "C": "Errada. Soro fisiológico em ritmo fixo por 48 horas ignora a reavaliação e favorece acidose hiperclorêmica; o cristaloide preferido é o Ringer lactato.",
+      "D": "Errada. A insuficiência cardíaca não justifica restrição em quem está hipovolêmico e sem congestão; a hipoperfusão piora a necrose e a lesão renal."
+    },
+    "para_levar": "Pancreatite aguda: Ringer lactato moderado (10 mL/kg se hipovolêmico e 1,5 mL/kg/h) guiado por reavaliação; nem agressivo, nem restrição.",
+    "referencias": "WATERFALL trial (N Engl J Med, 2022); ACG Guideline: Management of Acute Pancreatitis (2024)",
+    "tags": [
+      "Pancreatite Aguda (CM)"
+    ],
+    "sourceQuestionId": null,
+    "alvo": "Comorbidade deduzida pela droga da primeira linha e porte da hidratação (pancreatite: errou 3 de 4)."
+  },
+  {
+    "id": "S5-GAS-02",
+    "simulado": 5,
+    "area": "Gastroenterologia",
+    "titulo": "Doença celíaca com anti-transglutaminase IgA negativo: dosar IgA total antes de confiar no resultado",
+    "arma": "Dado omitido",
+    "comando": "próximo exame",
+    "nivel": "difícil",
+    "enunciado": "Mulher de 27 anos tem anemia ferropriva refratária a ferro oral há 2 anos, distensão abdominal e evacuações amolecidas. Teve três episódios de sinusite bacteriana e duas giardíases tratadas nos últimos 3 anos. Mãe com tireoidite de Hashimoto. Exame: IMC 19 kg/m², palidez, sem outras alterações. Exames: hemoglobina 9,8 g/dL, ferritina 6 ng/mL, albumina 3,8 g/dL; anti-transglutaminase IgA de 0,4 U/mL (negativo abaixo de 7), colhido em dieta habitual com glúten. Para interpretar corretamente esse resultado, o exame necessário é:",
+    "alternativas": {
+      "A": "Biópsia duodenal",
+      "B": "HLA-DQ2 e DQ8",
+      "C": "IgA sérica total",
+      "D": "Anti-endomísio IgA"
+    },
+    "gabarito": "C",
+    "armadilha": "A",
+    "dado_decisivo": "três episódios de sinusite bacteriana e duas giardíases",
+    "resolucao": "Anti-transglutaminase IgA negativo em dieta com glúten parece afastar celíaca, e quem ainda suspeita pede biópsia ou HLA, o degrau seguinte. Mas o caso esconde a pista de deficiência seletiva de IgA: sinusites bacterianas de repetição e giardíase recorrente, próprias dessa imunodeficiência, que é de 10 a 15 vezes mais frequente em celíacos. Sem IgA, o anticorpo da classe IgA dá falso negativo. Por isso o anti-tTG IgA sempre se interpreta junto com a IgA sérica total; se ela estiver baixa, usam-se testes IgG (anti-tTG IgG ou antigliadina deamidada IgG) e, com alta suspeita, biópsia duodenal. HLA serve para excluir, e não para confirmar, e o antiendomísio IgA tem o mesmo defeito do anti-tTG IgA.",
+    "comentarios": {
+      "A": "Errada. É a isca de quem faz mais: com alta suspeita a biópsia virá, mas a pergunta é como interpretar o anticorpo negativo, e isso depende da IgA total.",
+      "B": "Errada. HLA-DQ2 e DQ8 têm alto valor preditivo negativo, mas são positivos em cerca de 30% da população; não interpretam o anticorpo IgA.",
+      "C": "Correta. Infecções sinopulmonares e giardíase de repetição sugerem deficiência de IgA, que torna falso negativo o anti-tTG IgA; dosa-se a IgA total.",
+      "D": "Errada. O antiendomísio também é da classe IgA e sofre o mesmo falso negativo na deficiência de IgA."
+    },
+    "para_levar": "Anti-transglutaminase IgA só vale com IgA total normal; se baixa, testes IgG e biópsia.",
+    "referencias": "ACG Clinical Guidelines: Diagnosis and Management of Celiac Disease (2023); European Society for the Study of Coeliac Disease guideline (2019)",
+    "tags": [
+      "Doença Celíaca (CM)"
+    ],
+    "sourceQuestionId": "b4a4c646cafa992",
+    "alvo": "Exame negativo lido sem checar a precondição dele (IgA total)."
+  },
+  {
+    "id": "S5-GAS-03",
+    "simulado": 5,
+    "area": "Hepatologia",
+    "titulo": "Adenoma hepatocelular em homem usuário de anabolizante: ressecção independentemente do tamanho",
+    "arma": "Limiar",
+    "comando": "conduta",
+    "nivel": "difícil",
+    "enunciado": "Homem de 29 anos, fisiculturista, usa estanozolol e oxandrolona há 4 anos. Ultrassonografia feita por dor abdominal vaga mostrou nódulo hepático. RM com contraste hepatoespecífico: lesão única de 3,6 cm no segmento VI, com realce arterial, hipointensa na fase hepatobiliar, com áreas de gordura intralesional e sem cicatriz central; fígado sem sinais de hepatopatia crônica e sem sangramento. Alfafetoproteína 2 ng/mL; sorologias para hepatites B e C negativas. Exame físico normal. Além de suspender os anabolizantes, a conduta mais adequada é:",
+    "alternativas": {
+      "A": "RM em 6 meses e ressecar se crescer",
+      "B": "Biópsia percutânea para subtipagem",
+      "C": "Alta, sem seguimento",
+      "D": "Ressecção cirúrgica da lesão"
+    },
+    "gabarito": "D",
+    "armadilha": "A",
+    "dado_decisivo": "Homem de 29 anos",
+    "resolucao": "A regra que todos lembram é a dos 5 cm: adenoma menor que isso se acompanha com imagem após suspender o hormônio. Ela vale para mulheres. Em homens, o adenoma tem risco de transformação maligna bem maior (cerca de 10 vezes), com frequência por mutação ativadora da beta-catenina, que os anabolizantes favorecem; por isso a recomendação é ressecção em qualquer tamanho. Os anabolizantes devem ser suspensos, mas isso não substitui a cirurgia. A ressonância com contraste hepatoespecífico já caracterizou a lesão (gordura intralesional, hipointensa na fase hepatobiliar, sem cicatriz central, o que afasta hiperplasia nodular focal), e a biópsia não muda a conduta no homem.",
+    "comentarios": {
+      "A": "Errada. É a isca: observar abaixo de 5 cm após suspender o hormônio é a regra da mulher; no homem, o risco de malignização manda ressecar.",
+      "B": "Errada. A biópsia subtiparia o adenoma, mas no homem a ressecção está indicada qualquer que seja o subtipo.",
+      "C": "Errada. Seria a conduta para hemangioma ou hiperplasia nodular focal com diagnóstico claro; adenoma não recebe alta sem tratamento.",
+      "D": "Correta. Adenoma em homem, de qualquer tamanho: ressecção, além de suspender os anabolizantes."
+    },
+    "para_levar": "Adenoma hepatocelular: na mulher com menos de 5 cm, suspender estrogênio e reavaliar; no homem, ressecar sempre.",
+    "referencias": "EASL Clinical Practice Guidelines on the management of benign liver tumours (2016); ACG Clinical Guideline: Diagnosis and Management of Focal Liver Lesions (2014)",
+    "tags": [
+      "Lesões Focais e Nódulos Hepáticos (CM)"
+    ],
+    "sourceQuestionId": "ede294d8f639391",
+    "alvo": "Nódulos hepáticos (zero mais persistente): regra aplicada sem checar a precondição (sexo)."
+  },
+  {
+    "id": "S5-GAS-04",
+    "simulado": 5,
+    "area": "Hepatologia",
+    "titulo": "Hepatite B HBeAg negativo com HBV-DNA alto e ALT elevada: hepatite crônica, e não portador inativo",
+    "arma": "Grade X / Y",
+    "comando": "diagnóstico",
+    "nivel": "difícil",
+    "enunciado": "Homem de 46 anos tem HBsAg reagente conhecido há 15 anos, sempre com HBeAg não reagente e anti-HBe reagente, e nunca foi tratado. Assintomático, não usa álcool; exame normal. Nos últimos 12 meses: ALT de 92, 78 e 110 U/L (referência até 40 U/L); HBV-DNA 64.000 UI/mL; anti-HCV, anti-HDV e anti-HIV não reagentes; elastografia hepática 8,9 kPa; ultrassonografia sem nódulos; IMC 24 kg/m², sem esteatose. A fase da infecção e a conduta mais adequada são, respectivamente:",
+    "alternativas": {
+      "A": "Infecção crônica HBeAg negativo / seguimento sem antiviral",
+      "B": "Hepatite crônica HBeAg negativo / seguimento sem antiviral",
+      "C": "Infecção crônica HBeAg negativo / tenofovir",
+      "D": "Hepatite crônica HBeAg negativo / tenofovir"
+    },
+    "gabarito": "D",
+    "armadilha": "A",
+    "dado_decisivo": "HBV-DNA 64.000 UI/mL",
+    "resolucao": "HBeAg não reagente com anti-HBe reagente parece portador inativo, e é o rótulo que a grade explora. A fase não se define pelo HBeAg, e sim pelo conjunto: com HBV-DNA de 64.000 UI/mL e ALT persistentemente elevada (2 a 3 vezes o limite), trata-se de hepatite crônica HBeAg negativo, em geral por variantes pré-core ou do promotor basal, que impedem a produção do HBeAg sem impedir a replicação. Nessa fase a doença progride, e o tratamento está indicado (HBV-DNA acima de 2.000 com ALT elevada), com tenofovir ou entecavir por tempo prolongado. A elastografia de 8,9 kPa sugere fibrose significativa e reforça a indicação. Infecção crônica HBeAg negativo exige DNA abaixo de 2.000 e ALT normal.",
+    "comentarios": {
+      "A": "Errada. É a isca: infecção crônica HBeAg negativo exige HBV-DNA abaixo de 2.000 UI/mL e ALT normal; aqui ambos estão altos.",
+      "B": "Errada. Acerta a fase e erra a conduta: hepatite crônica HBeAg negativo com DNA e ALT altos progride e tem indicação de antiviral.",
+      "C": "Errada. Erra a fase: se fosse infecção crônica, não haveria indicação de tenofovir.",
+      "D": "Correta. HBeAg negativo com HBV-DNA de 64.000 UI/mL e ALT persistentemente alta: hepatite crônica HBeAg negativo, tratar com tenofovir."
+    },
+    "para_levar": "Anti-HBe reagente não significa inatividade: HBV-DNA acima de 2.000 com ALT elevada é hepatite crônica HBeAg negativo, e se trata.",
+    "referencias": "PCDT de Hepatite B e Coinfecções (Ministério da Saúde, 2023); EASL Clinical Practice Guidelines on hepatitis B (2025); AASLD Hepatitis B Guidance (2018)",
+    "tags": [
+      "Hepatite B : Contágio e Fases da Infecção (CM)",
+      "Indicação de Tratamento e Seguimento Hepatite B (CM)"
+    ],
+    "sourceQuestionId": null,
+    "alvo": "Rótulo sorológico (anti-HBe) contra o exame que decide (HBV-DNA e ALT)."
+  },
+  {
+    "id": "S5-GAS-05",
+    "simulado": 5,
+    "area": "Gastroenterologia",
+    "titulo": "Hemorragia digestiva alta de baixo risco pelo escore de Glasgow-Blatchford: alta com endoscopia ambulatorial",
+    "arma": "Omissão",
+    "comando": "conduta",
+    "nivel": "difícil",
+    "enunciado": "Homem de 34 anos, sem comorbidades, procura o pronto-socorro por um episódio de fezes enegrecidas pela manhã, após 5 dias de ibuprofeno para lombalgia. Sem hematêmese, síncope ou tontura; sem hepatopatia, cardiopatia ou uso de anticoagulante. Exame: PA 128 x 78 mmHg, FC 82 bpm, sem hipotensão postural, abdome indolor, toque retal com fezes castanhas. Exames: hemoglobina 14,6 g/dL, ureia 32 mg/dL, creatinina 0,9 mg/dL, INR 1,0, plaquetas 260.000/mm³. Mora perto do hospital e tem acompanhante. A conduta mais adequada é:",
+    "alternativas": {
+      "A": "Internar para endoscopia em 24 horas",
+      "B": "Alta com IBP oral e endoscopia ambulatorial",
+      "C": "IBP intravenoso em bolus e infusão contínua",
+      "D": "Transfundir e internar em semi-intensiva"
+    },
+    "gabarito": "B",
+    "armadilha": "A",
+    "dado_decisivo": "hemoglobina 14,6 g/dL, ureia 32 mg/dL",
+    "resolucao": "Melena após anti-inflamatório leva à internação para endoscopia em 24 horas, o que parece o mínimo seguro. O escore de Glasgow-Blatchford aqui é 1: só a melena pontua; hemoglobina de 14,6 em homem, ureia de 32 mg/dL (abaixo de 39 mg/dL), PA sistólica de 128, FC de 82, sem síncope, hepatopatia ou cardiopatia. Escore de 0 ou 1 identifica risco muito baixo de necessidade de intervenção ou morte, e as diretrizes recomendam alta com endoscopia ambulatorial, que é segura e evita internação. A conduta inclui suspender o ibuprofeno e prescrever IBP oral até a endoscopia. Transfusão não tem indicação com Hb de 14,6 (limiar restritivo de 7 g/dL, ou 8 na coronariopatia).",
+    "comentarios": {
+      "A": "Errada. É a isca: endoscopia em até 24 horas com internação é para Glasgow-Blatchford acima de 1; com escore 1, a internação não melhora desfechos.",
+      "B": "Correta. Glasgow-Blatchford de 1 (só a melena), estável e com suporte: alta com IBP oral e endoscopia ambulatorial.",
+      "C": "Errada. IBP intravenoso em infusão se usa após terapia endoscópica de úlcera de alto risco ou antes da endoscopia em quem está internado, não neste risco.",
+      "D": "Errada. Hemoglobina de 14,6 g/dL e hemodinâmica normal não indicam transfusão nem cuidados semi-intensivos."
+    },
+    "para_levar": "Hemorragia digestiva alta com Glasgow-Blatchford de 0 ou 1: alta com endoscopia ambulatorial; transfusão restritiva com alvo de hemoglobina de 7 g/dL.",
+    "referencias": "ESGE Guideline: Endoscopic diagnosis and management of nonvariceal upper gastrointestinal hemorrhage (2021); ACG Clinical Guideline: Upper Gastrointestinal and Ulcer Bleeding (2021)",
+    "tags": [
+      "Hemorragia digestiva alta",
+      "Úlcera péptica (CM)"
+    ],
+    "sourceQuestionId": null,
+    "alvo": "Faz mais do que o caso pede (internar, endoscopia urgente) sem calcular o escore."
+  },
+  {
+    "id": "S5-GAS-06",
+    "simulado": 5,
+    "area": "Hepatologia",
+    "titulo": "Nódulo LI-RADS 5 em cirrótico: carcinoma hepatocelular sem biópsia, mesmo com alfafetoproteína normal",
+    "arma": "Negativo no meio",
+    "comando": "diagnóstico",
+    "nivel": "difícil",
+    "enunciado": "Homem de 63 anos com cirrose por vírus C (Child-Pugh A5), com resposta virológica sustentada há 4 anos, está em rastreamento semestral. A ultrassonografia mostrou nódulo novo. RM com contraste extracelular: nódulo de 2,4 cm no segmento VIII com hiper-realce arterial não periférico, washout não periférico na fase portal e cápsula realçada na fase tardia; sem invasão vascular e sem outras lesões. Alfafetoproteína 5 ng/mL. Plaquetas 112.000/mm³, bilirrubina 1,0 mg/dL, ECOG 0. A conclusão diagnóstica mais adequada é:",
+    "alternativas": {
+      "A": "Carcinoma hepatocelular, dispensa biópsia",
+      "B": "Nódulo indeterminado, exige biópsia",
+      "C": "Nódulo displásico, repetir RM em 3 meses",
+      "D": "Colangiocarcinoma, exige biópsia"
+    },
+    "gabarito": "A",
+    "armadilha": "B",
+    "dado_decisivo": "hiper-realce arterial não periférico, washout não periférico na fase portal",
+    "resolucao": "Alfafetoproteína normal e a ideia de que câncer precisa de histologia levam à biópsia, o degrau a mais. No cirrótico, a população em que o critério foi validado, nódulo de 10 mm ou mais com hiper-realce arterial não periférico e washout não periférico, com ou sem cápsula, é LI-RADS 5 e diagnostica carcinoma hepatocelular sem biópsia. A alfafetoproteína é normal em 30 a 40% dos casos e não entra no critério. A biópsia aqui só acrescenta risco de sangramento e de implante no trajeto e pode dar falso negativo. É o oposto do nódulo com o mesmo padrão em fígado sem cirrose, em que adenoma e metástase imitam o achado e a histologia é necessária. Segue-se o estadiamento (BCLC) para ressecção, ablação ou transplante.",
+    "comentarios": {
+      "A": "Correta. Cirrótico com nódulo de 2,4 cm, hiper-realce arterial e washout não periféricos e cápsula: LI-RADS 5, carcinoma hepatocelular sem biópsia.",
+      "B": "Errada. É a isca: biópsia fica para LI-RADS 4, LR-M ou nódulo em fígado sem cirrose; alfafetoproteína normal não rebaixa o LI-RADS 5.",
+      "C": "Errada. Nódulo displásico não tem washout com cápsula; repetir imagem em 3 meses é para nódulo menor que 1 cm ou indeterminado.",
+      "D": "Errada. Colangiocarcinoma tem realce periférico em alvo e progressivo (LR-M); aqui o padrão é não periférico."
+    },
+    "para_levar": "No cirrótico, nódulo de 1 cm ou mais com hiper-realce arterial e washout não periféricos é carcinoma hepatocelular sem biópsia; alfafetoproteína não entra no critério.",
+    "referencias": "AASLD Practice Guidance on prevention, diagnosis and treatment of hepatocellular carcinoma (2023); ACR LI-RADS v2018",
+    "tags": [
+      "Hepatocarcinoma (CM)",
+      "Lesões Focais e Nódulos Hepáticos (CM)"
+    ],
+    "sourceQuestionId": null,
+    "alvo": "Faz mais do que o caso pede (biópsia) e confia no marcador; contraponto ao nódulo sem cirrose do Simulado 1."
+  },
+  {
+    "id": "S5-GAS-07",
+    "simulado": 5,
+    "area": "Gastroenterologia",
+    "titulo": "Vigilância após 1 a 2 adenomas tubulares menores que 10 mm: 7 a 10 anos",
+    "arma": "Rótulo verdadeiro",
+    "comando": "fato solto",
+    "nivel": "difícil",
+    "enunciado": "Homem de 56 anos, sem antecedente familiar de câncer colorretal, faz a primeira colonoscopia de rastreamento, com preparo adequado e exame completo até o ceco. Foram ressecados por completo dois pólipos de 5 e 7 mm, cujo histopatológico mostrou adenomas tubulares com displasia de baixo grau. O intervalo até a próxima colonoscopia é:",
+    "alternativas": {
+      "A": "1 ano",
+      "B": "3 anos",
+      "C": "7 a 10 anos",
+      "D": "6 meses"
+    },
+    "gabarito": "C",
+    "armadilha": "B",
+    "dado_decisivo": "dois pólipos de 5 e 7 mm",
+    "resolucao": "A palavra adenoma basta para muitos marcarem vigilância curta, de 3 anos, e é o rótulo que a questão usa. O intervalo depende de número, tamanho e histologia: 1 a 2 adenomas tubulares menores que 10 mm, ressecados por completo em colonoscopia de qualidade, têm risco de neoplasia avançada próximo ao de quem teve colonoscopia normal, e a vigilância é de 7 a 10 anos. Três anos é para 5 a 10 adenomas, adenoma de 10 mm ou mais, componente viloso, displasia de alto grau ou lesão serrilhada de 10 mm ou mais. Intervalos de 6 meses ou 1 ano são para ressecção fragmentada de lesão grande ou mais de 10 adenomas.",
+    "comentarios": {
+      "A": "Errada. Um ano se reserva a mais de 10 adenomas ou à suspeita de síndrome hereditária, e não a dois adenomas pequenos.",
+      "B": "Errada. É a isca: 3 anos é para adenoma avançado (10 mm ou mais, viloso ou displasia de alto grau) ou para 5 a 10 adenomas.",
+      "C": "Correta. Dois adenomas tubulares menores que 10 mm, com displasia de baixo grau e exame de qualidade: nova colonoscopia em 7 a 10 anos.",
+      "D": "Errada. Seis meses é o controle da ressecção fragmentada de lesão de 20 mm ou mais, para checar recidiva no leito."
+    },
+    "para_levar": "Vigilância pós-polipectomia: 1 a 2 adenomas tubulares pequenos, 7 a 10 anos; adenoma avançado ou 5 a 10 adenomas, 3 anos.",
+    "referencias": "US Multi-Society Task Force on Colorectal Cancer: Recommendations for Follow-Up After Colonoscopy and Polypectomy (2020)",
+    "tags": [
+      "Câncer Colorretal (CM)",
+      "Rastreamentos em Clínica Médica (CM)"
+    ],
+    "sourceQuestionId": "2a3ff5b9d931485",
+    "alvo": "Pontos de corte de vigilância (errou pólipo e idade no rastreio): o rótulo adenoma puxando intervalo curto."
+  },
+  {
+    "id": "S5-GAS-08",
+    "simulado": 5,
+    "area": "Oncologia",
+    "titulo": "Hipoglicemia paraneoplásica por IGF-2 em tumor fibroso solitário da pleura",
+    "arma": "Rótulo verdadeiro",
+    "comando": "achado esperado",
+    "nivel": "extremamente difícil",
+    "enunciado": "Homem de 66 anos, não diabético, sem uso de medicamentos ou álcool, tem episódios de confusão e sudorese ao amanhecer há 3 semanas. Em um episódio, a glicemia capilar foi de 38 mg/dL, com melhora após glicose. Perdeu 8 kg em 6 meses. TC: massa de 18 cm no hemitórax direito, de origem pleural, sem lesões hepáticas, adrenais normais. Creatinina 0,9 mg/dL, cortisol matinal 19 µg/dL. Em nova hipoglicemia, de 41 mg/dL, colheu-se sangue antes da glicose. O perfil esperado nessa amostra é:",
+    "alternativas": {
+      "A": "Insulina e peptídeo C elevados",
+      "B": "Insulina e peptídeo C suprimidos, razão IGF-2/IGF-1 alta",
+      "C": "Insulina elevada e peptídeo C suprimido",
+      "D": "Insulina suprimida e beta-hidroxibutirato elevado"
+    },
+    "gabarito": "B",
+    "armadilha": "A",
+    "dado_decisivo": "massa de 18 cm no hemitórax direito, de origem pleural",
+    "resolucao": "Hipoglicemia de jejum em não diabético faz pensar em insulinoma, e o rótulo leva a insulina e peptídeo C altos. Mas o paciente tem massa pleural de 18 cm e perda de peso: tumores mesenquimais grandes (tumor fibroso solitário da pleura, sarcomas, hepatocarcinoma) produzem pró-IGF-2 processado de forma incompleta, que ativa o receptor de insulina e aumenta a captação de glicose (síndrome de Doege-Potter). O perfil é de hipoglicemia não mediada por insulina: insulina e peptídeo C suprimidos, beta-hidroxibutirato também suprimido (o IGF-2 inibe a cetogênese como a insulina), IGF-1 baixo e razão IGF-2/IGF-1 acima de 10. Cetona alta com insulina baixa seria jejum ou insuficiência adrenal, e o cortisol de 19 µg/dL é normal. O tratamento é a ressecção do tumor, com corticoide enquanto isso.",
+    "comentarios": {
+      "A": "Errada. É a isca: insulina e peptídeo C altos são do insulinoma ou da sulfonilureia; a massa pleural gigante aponta produção de IGF-2.",
+      "B": "Correta. Tumor fibroso solitário com hipoglicemia: insulina e peptídeo C suprimidos e razão IGF-2/IGF-1 alta.",
+      "C": "Errada. Insulina alta com peptídeo C suprimido é insulina exógena (hipoglicemia factícia).",
+      "D": "Errada. Insulina suprimida com cetona alta é hipoglicemia de jejum, insuficiência adrenal ou álcool; o IGF-2 suprime a cetogênese."
+    },
+    "para_levar": "Hipoglicemia com tumor mesenquimal grande: insulina, peptídeo C e beta-hidroxibutirato suprimidos, com razão IGF-2/IGF-1 alta.",
+    "referencias": "Endocrine Society Clinical Practice Guideline: Evaluation and Management of Adult Hypoglycemic Disorders (2009); Dynkevich et al., Tumors, IGF-2, and hypoglycemia (Endocr Rev, 2013)",
+    "tags": [
+      "Síndromes Paraneoplásicas (CM)",
+      "Hipoglicemias (CM)"
+    ],
+    "sourceQuestionId": null,
+    "alvo": "Rótulo verdadeiro (hipoglicemia de jejum leva a insulinoma) contra o dado que decide (massa mesenquimal)."
+  },
+  {
+    "id": "S5-GAS-09",
+    "simulado": 5,
+    "area": "Oncologia",
+    "titulo": "Neurotoxicidade induzida por opioide após aumento de dose e lesão renal",
+    "arma": "Cronologia",
+    "comando": "etiologia",
+    "nivel": "difícil",
+    "enunciado": "Mulher de 72 anos com câncer de mama metastático para ossos, em cuidados paliativos domiciliares, usava morfina oral 60 mg/dia com bom controle da dor. Há 10 dias a dose foi aumentada para 120 mg/dia por dor no quadril; há 5 dias passou a ingerir pouco líquido e a vomitar. Há 2 dias tem abalos musculares, sonolência alternada com agitação, alucinações visuais e dor generalizada ao toque leve, que piora a cada dose de resgate. Exame: Tax 36,5 °C, mioclonias multifocais, pupilas mióticas, FR 14 irpm, sem déficit focal. Exames: creatinina 2,6 mg/dL (era 0,8 há 1 mês), cálcio corrigido 9,8 mg/dL, sódio 138 mEq/L, glicemia 104 mg/dL. A causa mais provável do quadro é:",
+    "alternativas": {
+      "A": "Progressão da dor óssea metastática",
+      "B": "Hipercalcemia da malignidade",
+      "C": "Neurotoxicidade induzida por opioide",
+      "D": "Metástases cerebrais"
+    },
+    "gabarito": "C",
+    "armadilha": "A",
+    "dado_decisivo": "creatinina 2,6 mg/dL (era 0,8 há 1 mês)",
+    "resolucao": "Dor que piora apesar de mais opioide sugere progressão da doença, e a resposta instintiva é subir a dose de novo. Mas a cronologia monta outra coisa: dose dobrada há 10 dias, desidratação por vômitos há 5 e creatinina que foi de 0,8 a 2,6. A lesão renal acumula metabólitos da morfina (sobretudo morfina-3-glicuronídeo), que produzem neurotoxicidade induzida por opioide: mioclonias multifocais, alucinações, delirium flutuante e hiperalgesia (dor ao toque leve que piora com o resgate). O cálcio corrigido normal afasta hipercalcemia, e o quadro não é focal. A conduta é hidratar, reduzir a dose e fazer rotação para opioide sem metabólito renal ativo (fentanil ou metadona), e não aumentar a morfina.",
+    "comentarios": {
+      "A": "Errada. É a isca: tratar como dor mal controlada leva a mais morfina, que alimenta a hiperalgesia e as mioclonias.",
+      "B": "Errada. Hipercalcemia daria confusão e desidratação em câncer de mama com metástase óssea, mas o cálcio corrigido é 9,8 mg/dL.",
+      "C": "Correta. Aumento de dose, lesão renal por desidratação, mioclonias, alucinações e hiperalgesia: neurotoxicidade por acúmulo de metabólitos da morfina.",
+      "D": "Errada. Metástase cerebral daria cefaleia, déficit focal ou crise; não explica mioclonias multifocais com hiperalgesia ligadas à função renal."
+    },
+    "para_levar": "Mioclonias, delirium e dor que piora com o resgate em quem usa morfina e perde função renal: neurotoxicidade por opioide; hidratar e fazer rotação do opioide.",
+    "referencias": "ESMO Clinical Practice Guidelines: Management of cancer pain in adult patients (2018); Caraceni et al., EAPC recommendations on the use of opioids in cancer pain (Lancet Oncol, 2012)",
+    "tags": [
+      "Paliativos Oncologia: Dor (CM)"
+    ],
+    "sourceQuestionId": null,
+    "alvo": "Opioide e função renal: ler a cronologia em vez de escalar a conduta."
+  },
+  {
+    "id": "S5-GAS-10",
+    "simulado": 5,
+    "area": "Oncologia",
+    "titulo": "Sedação paliativa para sintoma refratário: midazolam titulado de forma proporcional, e não morfina",
+    "arma": "Grade X / Y",
+    "comando": "conduta",
+    "nivel": "difícil",
+    "enunciado": "Homem de 58 anos com carcinoma epidermoide de pulmão em progressão após todas as linhas de tratamento está internado em cuidados paliativos exclusivos, com prognóstico estimado em horas a poucos dias (PPS 10%). Há 2 dias tem dispneia e agitação que persistem apesar de morfina subcutânea titulada, haloperidol, oxigênio e tratamento das causas reversíveis, com sofrimento intenso. Quando lúcido, expressou o desejo de não sofrer no fim, e a família concorda com sedação paliativa. Quanto ao fármaco e à forma de titulação, a conduta mais adequada é, respectivamente:",
+    "alternativas": {
+      "A": "Morfina em doses crescentes / proporcional ao alívio",
+      "B": "Midazolam / proporcional ao alívio do sintoma",
+      "C": "Midazolam / dose para inconsciência imediata",
+      "D": "Morfina em doses crescentes / dose para inconsciência imediata"
+    },
+    "gabarito": "B",
+    "armadilha": "A",
+    "dado_decisivo": "persistem apesar de morfina subcutânea titulada, haloperidol, oxigênio e tratamento das causas reversíveis",
+    "resolucao": "Ele aprendeu que morfina é o remédio da dispneia no fim de vida, e a grade usa isso: aumentar a morfina até o doente dormir parece sedação. Mas opioide não é sedativo confiável, e escalá-lo para rebaixar a consciência causa neurotoxicidade (mioclonias, agitação) sem sedar. Sedação paliativa é indicada para sintoma refratário em doente com prognóstico de horas a dias e com consentimento, e o fármaco de primeira escolha é o midazolam, por via subcutânea ou intravenosa, mantendo a morfina na dose que controla a dispneia. A titulação é proporcional: a menor dose que alivia o sofrimento, e não uma dose fixa para produzir inconsciência imediata, o que separa sedação paliativa de eutanásia.",
+    "comentarios": {
+      "A": "Errada. É a isca: a morfina segue para a dispneia, mas não é droga de sedação, e doses crescentes causam neurotoxicidade.",
+      "B": "Correta. Midazolam titulado até o alívio do sofrimento, mantendo a morfina na dose sintomática.",
+      "C": "Errada. O fármaco está certo, mas a sedação paliativa é proporcional ao sintoma; mirar inconsciência imediata em dose fixa descaracteriza a intenção.",
+      "D": "Errada nas duas metades: droga inadequada e intenção de produzir inconsciência em vez de aliviar."
+    },
+    "para_levar": "Sedação paliativa: sintoma refratário, prognóstico de horas a dias e consentimento; midazolam titulado de forma proporcional, sem retirar o opioide sintomático.",
+    "referencias": "EAPC recommended framework for the use of sedation in palliative care (2009); ESMO Clinical Practice Guidelines on palliative sedation (2014); Resolução CFM 1.805/2006",
+    "tags": [
+      "Cuidados Paliativos - Oncologia (CM)",
+      "Paliativos Oncologia: Dispneia (CM)"
+    ],
+    "sourceQuestionId": null,
+    "alvo": "Morfina para dispneia (instável): onde ela termina e começa o sedativo."
+  },
+  {
+    "id": "S5-GAS-11",
+    "simulado": 5,
+    "area": "Oncologia",
+    "titulo": "Colite imunomediada grau 3 por pembrolizumabe com antibiótico recente: suspender e corticoide",
+    "arma": "Rótulo verdadeiro",
+    "comando": "conduta",
+    "nivel": "difícil",
+    "enunciado": "Homem de 63 anos com carcinoma pulmonar de não pequenas células em uso de pembrolizumabe (6º ciclo há 2 semanas), tratado há 3 semanas com amoxicilina-clavulanato por sinusite, tem há 5 dias 9 evacuações aquosas por dia (basal: 1), com cólica e sem sangue. Exame: Tax 37,4 °C, FC 102 bpm, PA 112 x 70 mmHg, abdome doloroso difusamente, sem peritonite. Exames: PCR 96 mg/L, potássio 3,2 mEq/L, creatinina 1,3 mg/dL; pesquisa de toxinas A/B e PCR para C. difficile negativas; coprocultura e painel molecular fecal negativos; calprotectina 820 µg/g. TC: espessamento difuso do cólon, sem perfuração. A conduta mais adequada é:",
+    "alternativas": {
+      "A": "Suspender pembrolizumabe e metilprednisolona 1 a 2 mg/kg",
+      "B": "Vancomicina oral e manter pembrolizumabe",
+      "C": "Loperamida e manter pembrolizumabe",
+      "D": "Infliximabe isolado, sem corticoide"
+    },
+    "gabarito": "A",
+    "armadilha": "B",
+    "dado_decisivo": "pesquisa de toxinas A/B e PCR para C. difficile negativas",
+    "resolucao": "Antibiótico há 3 semanas e diarreia aquosa armam colite por C. difficile, e vancomicina oral empírica mantendo a imunoterapia parece prudente. Mas toxinas e PCR para C. difficile são negativos, o painel fecal é negativo, a calprotectina está muito alta e a TC mostra colite difusa em quem recebe pembrolizumabe: colite imunomediada. São 8 evacuações acima do basal, o que é grau 3 (7 ou mais acima do basal): suspende-se a imunoterapia e inicia-se metilprednisolona intravenosa de 1 a 2 mg/kg/dia, com hidratação e correção do potássio. Infliximabe ou vedolizumabe entram se não houver resposta em 2 a 3 dias, e não no lugar do corticoide. Loperamida isolada mascara colite grave e arrisca megacólon.",
+    "comentarios": {
+      "A": "Correta. Colite grau 3 por inibidor de checkpoint, com infecção afastada: suspender o pembrolizumabe e iniciar corticoide intravenoso de 1 a 2 mg/kg/dia.",
+      "B": "Errada. É a isca: o antibiótico recente sugere C. difficile, mas toxinas e PCR negativos o afastam, e manter a imunoterapia agrava a colite.",
+      "C": "Errada. Loperamida isolada é aceitável só no grau 1; no grau 3 mascara a gravidade e arrisca megacólon.",
+      "D": "Errada. Infliximabe é o resgate da colite refratária ao corticoide após 2 a 3 dias, e não a primeira linha isolada."
+    },
+    "para_levar": "Colite por imunoterapia grau 3 (7 ou mais evacuações acima do basal): suspender e corticoide de 1 a 2 mg/kg; sem resposta em 3 dias, infliximabe ou vedolizumabe.",
+    "referencias": "ASCO Guideline: Management of Immune-Related Adverse Events in Patients Treated With Immune Checkpoint Inhibitor Therapy (2021); ESMO Clinical Practice Guideline: management of toxicities from immunotherapy (2022)",
+    "tags": [
+      "Esquemas Quimioterápicos e Efeitos Colaterais (CM)",
+      "Câncer de pulmão"
+    ],
+    "sourceQuestionId": null,
+    "alvo": "Rótulo verdadeiro (antibiótico recente leva a C. difficile) contra o exame que decide."
+  }
+]

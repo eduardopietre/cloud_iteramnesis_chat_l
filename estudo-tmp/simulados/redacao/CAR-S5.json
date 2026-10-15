@@ -20,7 +20,7 @@
 "D": "Errada. Sistólico ejetivo aórtico com B2 hipofonética é estenose aórtica grave, lesão esquerda que o carcinoide raramente produz."
 },
 "para_levar": "Cardiopatia carcinoide é do coração direito: insuficiência tricúspide (holossistólico em borda esternal esquerda baixa que aumenta na inspiração) e lesões pulmonares; o lado esquerdo só é atingido com forame oval patente, metástase pulmonar ou secreção muito alta.",
-"referencias": "ESC 2021 (valvular heart disease); ENETS 2017 e ESMO 2020 (carcinoid heart disease); Braunwald's Heart Disease, 12ª ed.",
+"referencias": "ESC/EACTS 2021 (valvular heart disease); Davar et al., JACC 2017 (expert statement on carcinoid heart disease); ENETS 2022 (guidance paper on carcinoid syndrome and carcinoid heart disease)",
 "tags": ["Demais valvopatias (CM)", "Fisiologia e Semiologia Cardíaca (CM)"],
 "sourceQuestionId": null,
 "alvo": "Síndrome para lesão e manobra (Rivero-Carvallo), que ele confundiu na IM crônica."
@@ -58,18 +58,18 @@
 "titulo": "Taquicardia regular de QRS largo em pós-infarto estável: taquicardia ventricular",
 "arma": "Rótulo verdadeiro",
 "comando": "diagnóstico",
-"nivel": "difícil",
-"enunciado": "Homem de 67 anos, com infarto anterior há 6 anos, chega com palpitações há 2 horas. Conta que, aos 30 anos, tinha crises de coração acelerado que cediam ao prender a respiração. Está lúcido, sem dor torácica, PA 128x80 mmHg, perfusão periférica boa, FC 168 bpm regular. ECG: taquicardia regular de QRS largo (160 ms), morfologia de bloqueio de ramo direito com eixo desviado para a esquerda, ondas P dissociadas visíveis em DII e batimentos de fusão. Manobra vagal sem efeito. O diagnóstico mais provável é:",
-"alternativas": {"A": "TSV com aberrância de condução", "B": "Taquicardia antidrômica por via acessória", "C": "Taquicardia ventricular monomórfica", "D": "Flutter atrial 2:1 com aberrância"},
+"nivel": "extremamente difícil",
+"enunciado": "Homem de 67 anos, com infarto anterior há 6 anos, chega com palpitações há 2 horas. Conta que, aos 30 anos, tinha crises de coração acelerado que cediam ao prender a respiração. Está lúcido, sem dor torácica, PA 128x80 mmHg, perfusão periférica boa, FC 168 bpm regular. ECG: taquicardia regular de QRS largo (160 ms), morfologia de bloqueio de ramo direito com eixo desviado para a esquerda, em DII, ondas P a cerca de 80 bpm que marcham sem relação com os QRS, e alguns complexos de largura intermediária entre o QRS sinusal e o da taquicardia. Manobra vagal sem efeito. O diagnóstico mais provável é:",
+"alternativas": {"A": "Flutter atrial 2:1 com aberrância", "B": "Taquicardia antidrômica por via acessória", "C": "Taquicardia ventricular monomórfica", "D": "TSV com aberrância de condução"},
 "gabarito": "C",
-"armadilha": "A",
-"dado_decisivo": "ondas P dissociadas visíveis em DII e batimentos de fusão",
-"resolucao": "Dois rótulos verdadeiros puxam para TSV com aberrância: as crises da juventude que cediam com manobra vagal e a boa tolerância hemodinâmica. Nenhum dos dois serve para separar: estabilidade não exclui taquicardia ventricular, e a história antiga não explica o ritmo de hoje. O que decide é o ECG: dissociação atrioventricular (P em frequência própria, sem relação com o QRS) e batimentos de fusão são específicos de origem ventricular. Além disso, em quem tem cicatriz de infarto, a taquicardia de QRS largo é ventricular em mais de 80% das vezes. Na dúvida, toda taquicardia de QRS largo é tratada como ventricular, e o erro de tratá-la como TSV (com verapamil) pode ser fatal.",
+"armadilha": "D",
+"dado_decisivo": "ondas P a cerca de 80 bpm que marcham sem relação com os QRS",
+"resolucao": "Dois rótulos verdadeiros puxam para TSV com aberrância: as crises da juventude que cediam com manobra vagal e a boa tolerância hemodinâmica. Nenhum dos dois serve para separar: estabilidade não exclui taquicardia ventricular, e a história antiga não explica o ritmo de hoje. O que decide é o ECG, mesmo sem os nomes: ondas P que marcham na própria frequência sem relação com os QRS são dissociação atrioventricular, e complexos de largura intermediária são batimentos de fusão; os dois são específicos de origem ventricular. A morfologia de BRD com eixo à esquerda não ajuda, porque é também a aberrância bifascicular mais comum. Além disso, em quem tem cicatriz de infarto, a taquicardia de QRS largo é ventricular em mais de 80% das vezes. Na dúvida, toda taquicardia de QRS largo é tratada como ventricular, e o erro de tratá-la como TSV (com verapamil) pode ser fatal.",
 "comentarios": {
-"A": "Errada, e é a armadilha. A aberrância não produz dissociação AV nem batimentos de fusão; a história de crises vagais na juventude não define o ritmo de hoje.",
+"A": "Errada. O flutter 2:1 teria ondas F a cerca de 300 bpm em relação fixa com o QRS, não P dissociadas.",
 "B": "Errada. A taquicardia antidrômica é de jovem com pré-excitação e mantém relação 1:1 entre átrio e ventrículo, sem dissociação.",
 "C": "Correta. Dissociação AV e batimentos de fusão em pós-infarto: taquicardia ventricular monomórfica de cicatriz, mesmo hemodinamicamente estável.",
-"D": "Errada. O flutter 2:1 teria ondas F a cerca de 300 bpm em relação fixa com o QRS, não P dissociadas."
+"D": "Errada, e é a armadilha. A aberrância não produz dissociação AV nem batimentos de fusão; a história de crises vagais na juventude não define o ritmo de hoje."
 },
 "para_levar": "Taquicardia de QRS largo com dissociação AV, batimentos de fusão ou captura, ou em paciente com cicatriz de infarto é ventricular; estabilidade hemodinâmica não serve para diferenciar.",
 "referencias": "ESC 2022 (ventricular arrhythmias and prevention of sudden cardiac death); AHA 2020 (adult advanced life support); critérios de Brugada (Circulation 1991)",
@@ -81,7 +81,7 @@
 "id": "S5-CAR-04",
 "simulado": 5,
 "area": "Cardiologia",
-"titulo": "Cardiomiopatia hipertrófica não obstrutiva com síncope inexplicada: CDI, não redução septal",
+"titulo": "Cardiomiopatia hipertrófica com gradiente abaixo de 50 mmHg e síncope inexplicada: CDI, não redução septal",
 "arma": "Limiar",
 "comando": "conduta",
 "nivel": "extremamente difícil",
@@ -90,7 +90,7 @@
 "gabarito": "A",
 "armadilha": "C",
 "dado_decisivo": "gradiente na via de saída do VE de 18 mmHg em repouso e de 34 mmHg com Valsalva",
-"resolucao": "Betabloqueador é o tratamento que ele associa à cardiomiopatia hipertrófica, e aumentar a dose parece o passo prudente: é a armadilha. A pergunta, porém, é de morte súbita, e não de sintoma. Síncope inexplicada recente (em repouso, sem pródromos), taquicardia ventricular não sustentada, parede de 27 mm, átrio de 46 mm e idade jovem colocam o risco estimado em 5 anos bem acima de 6% no escore da ESC, e síncope inexplicada é, sozinha, fator maior na diretriz americana: o cardiodesfibrilador está indicado. A redução septal (ablação ou miectomia) trata obstrução sintomática com gradiente de 50 mmHg ou mais, e aqui o gradiente máximo é 34 mmHg. Nem betabloqueador nem amiodarona previnem morte súbita na cardiomiopatia hipertrófica.",
+"resolucao": "Betabloqueador é o tratamento que ele associa à cardiomiopatia hipertrófica, e aumentar a dose parece o passo prudente: é a armadilha. A pergunta, porém, é de morte súbita, e não de sintoma. Síncope inexplicada recente (em repouso, sem pródromos), taquicardia ventricular não sustentada, parede de 27 mm, átrio de 46 mm e idade jovem colocam o risco estimado em 5 anos bem acima de 6% no escore da ESC, e síncope inexplicada é, sozinha, fator maior na diretriz americana: o cardiodesfibrilador está indicado. A redução septal (ablação ou miectomia) trata obstrução sintomática com gradiente de 50 mmHg ou mais, e aqui o gradiente máximo é 34 mmHg (30 mmHg ou mais já define a forma obstrutiva, mas não basta para intervir). Nem betabloqueador nem amiodarona previnem morte súbita na cardiomiopatia hipertrófica.",
 "comentarios": {
 "A": "Correta. Síncope arrítmica provável e TVNS, com risco estimado acima de 6% em 5 anos: CDI para prevenção primária.",
 "B": "Errada. A redução septal exige gradiente de 50 mmHg ou mais com sintomas refratários; 34 mmHg com Valsalva está abaixo do limiar.",
@@ -116,7 +116,7 @@
 "gabarito": "B",
 "armadilha": "A",
 "dado_decisivo": "ao subir a ladeira de casa ou carregar compras, que cede em 3 a 5 minutos de repouso",
-"resolucao": "O transtorno de ansiedade é verdadeiro, e duas altas da emergência com esse rótulo e com ECG e troponina normais compõem a narrativa que a banca quer que ele compre, como já comprou antes. A dor tem os três critérios de angina definida (três de três critérios): retroesternal em aperto, desencadeada por esforço e aliviada com repouso em minutos; o fato de piorar com emoção não a descaracteriza, porque estresse aumenta o consumo de oxigênio. Mulher de 62 anos, hipertensa e ex-tabagista, com angina definida, tem probabilidade pré-teste intermediária, e ECG, troponina e ecocardiograma de repouso normais não excluem doença coronária estável. O próximo passo é um teste não invasivo (anatômico, como a angiotomografia, ou funcional com imagem). O cateterismo direto seria o degrau a mais, reservado para alta probabilidade, angina refratária ou teste de alto risco.",
+"resolucao": "O transtorno de ansiedade é verdadeiro, e duas altas da emergência com esse rótulo e com ECG e troponina normais compõem a narrativa que a banca quer que ele compre, como já comprou antes. A dor tem os três critérios de angina definida: retroesternal em aperto, desencadeada por esforço e aliviada com repouso em minutos; o fato de piorar com emoção não a descaracteriza, porque estresse aumenta o consumo de oxigênio. Mulher de 62 anos, hipertensa e ex-tabagista, com angina definida, tem probabilidade pré-teste intermediária, e ECG, troponina e ecocardiograma de repouso normais não excluem doença coronária estável. O próximo passo é um teste não invasivo (anatômico, como a angiotomografia, ou funcional com imagem). O cateterismo direto seria o degrau a mais, reservado para alta probabilidade, angina refratária ou teste de alto risco.",
 "comentarios": {
 "A": "Errada, e é a armadilha. Aceita o rótulo de ansiedade diante de uma angina com os três critérios; ECG, troponina e eco de repouso normais não afastam doença estável.",
 "B": "Correta. Angina definida com probabilidade intermediária: teste não invasivo, anatômico ou funcional, para confirmar e estratificar.",
@@ -168,15 +168,15 @@
 "gabarito": "D",
 "armadilha": "C",
 "dado_decisivo": "Relação albumina/creatinina urinária de 80 mg/g",
-"resolucao": "Hipertensão estágio 2 (PA de 160x100 ou mais) se trata desde o início com combinação de duas classes, de preferência em comprimido único, porque a monoterapia raramente leva à meta e atrasa o controle. Bloqueador do sistema renina-angiotensina é obrigatório pela albuminúria (80 mg/g, moderadamente aumentada), e o par preferencial é com bloqueador de canal de cálcio (ou tiazídico). A meta é a parte que costuma ficar pela metade: a diretriz brasileira de 2025 e a ESC adotam PA abaixo de 130x80 para a maioria, e no diabético com albuminúria isso é indiscutível. Quem acerta a combinação e mantém a meta antiga de 140x90 cai na armadilha.",
+"resolucao": "Hipertensão estágio 2 (PA de 160x100 ou mais) se trata desde o início com combinação de duas classes, de preferência em comprimido único, porque a monoterapia raramente leva à meta e atrasa o controle. Bloqueador do sistema renina-angiotensina é obrigatório pela albuminúria (80 mg/g, moderadamente aumentada), e o par preferencial é com bloqueador de canal de cálcio (ou tiazídico). A meta é a parte que costuma ficar pela metade: a diretriz brasileira de 2020 fixa PA abaixo de 130x80 no alto risco cardiovascular, o que inclui o diabético com albuminúria, e a ESC 2024 mira sistólica de 120 a 129 mmHg para a maioria dos tratados. Quem acerta a combinação e mantém a meta antiga de 140x90 cai na armadilha.",
 "comentarios": {
 "A": "Errada na primeira metade. A meta está certa, mas estágio 2 começa com combinação; a monoterapia é para estágio 1 de baixo risco ou para o idoso frágil.",
 "B": "Errada nas duas metades: monoterapia e meta antiga.",
 "C": "Errada na segunda metade, e é a armadilha. A combinação está certa, mas a meta de 140x90 foi abandonada para o diabético com albuminúria.",
 "D": "Correta. Combinação de BRA com BCC desde o início e meta abaixo de 130x80, pela albuminúria e pelo diabetes."
 },
-"para_levar": "Hipertensão estágio 2, ou estágio 1 de risco alto: combinação inicial de duas classes (IECA ou BRA com BCC ou tiazídico), em comprimido único; meta abaixo de 130x80 para a maioria, e sempre no diabético e no renal com albuminúria.",
-"referencias": "Diretriz Brasileira de Hipertensão Arterial (SBC/SBH/SBN 2025); ESC 2024 (hypertension); ADA Standards of Care 2026; KDIGO 2021 (blood pressure in CKD)",
+"para_levar": "Hipertensão estágio 2, ou estágio 1 de risco alto: combinação inicial de duas classes (IECA ou BRA com BCC ou tiazídico), de preferência em comprimido único; meta abaixo de 130x80 no alto risco, e sempre no diabético e no renal com albuminúria.",
+"referencias": "Diretrizes Brasileiras de Hipertensão Arterial (SBC/SBH/SBN 2020); ESC 2024 (hypertension); ADA Standards of Care 2026",
 "tags": ["HAS : Tratamento Farmacológico (CM)", "HAS : Diagnóstico, Estratificação, Metas terapeuticas e MEVs (CM)"],
 "sourceQuestionId": "60aa6fc9be1c7c8",
 "alvo": "Grade conferida pela metade e metas novas não fixadas."
@@ -190,16 +190,16 @@
 "comando": "conduta",
 "nivel": "difícil",
 "enunciado": "Mulher de 23 anos, estudante, desmaiou em pé numa fila de banco em dia quente, após 40 minutos sem se alimentar; antes sentiu calor, náusea, visão escurecida e sudorese. Ficou inconsciente por cerca de 20 segundos, com dois abalos dos braços, sem liberação esfincteriana nem confusão depois. Teve episódio semelhante aos 16 anos, em coleta de sangue. O pai teve infarto aos 68 anos. Sem palpitações, sem síncope ao esforço ou deitada, sem morte súbita na família. PA 110x70 mmHg sem queda postural, FC 72 bpm, exames neurológico e cardiovascular normais. ECG: ritmo sinusal, PR 160 ms, QRS 88 ms, QTc 410 ms, sem pré-excitação. Hemoglobina normal, beta-hCG negativo. A conduta mais adequada é:",
-"alternativas": {"A": "Ecocardiograma e Holter ambulatoriais", "B": "Eletroencefalograma e ressonância de crânio", "C": "Alta com orientação, sem novos exames", "D": "Teste de inclinação"},
+"alternativas": {"A": "Teste de inclinação", "B": "Eletroencefalograma e ressonância de crânio", "C": "Alta com orientação, sem novos exames", "D": "Ecocardiograma e Holter ambulatoriais"},
 "gabarito": "C",
-"armadilha": "A",
+"armadilha": "D",
 "dado_decisivo": "sem morte súbita na família",
 "resolucao": "O infarto do pai e os abalos dos braços são os dois dados plantados para fazê-lo pedir mais: o primeiro empurra para o coração, o segundo para a convulsão. Infarto do pai aos 68 anos não é história familiar de morte súbita (que importa abaixo dos 40 anos e sem explicação), e alguns abalos breves durante a síncope são comuns (síncope convulsiva), sem confusão pós-ictal nem liberação esfincteriana. O restante é síncope reflexa de baixo risco: gatilho (ortostatismo prolongado, calor, jejum), pródromos autonômicos, episódio prévio com coleta de sangue, exame e ECG normais. Pela estratificação, ela recebe alta com explicação, hidratação e manobras de contrapressão, sem eco, Holter ou teste de inclinação, que não mudariam a conduta.",
 "comentarios": {
-"A": "Errada, e é a armadilha. Eco e monitorização são para síncope com marcador de risco (esforço, decúbito, palpitação, cardiopatia, ECG alterado, morte súbita familiar precoce); não há nenhum.",
+"A": "Errada. O teste de inclinação é para síncope recorrente sem diagnóstico ou para separar de pseudossíncope; aqui o diagnóstico clínico já está feito.",
 "B": "Errada. Abalos breves na síncope são comuns e não indicam epilepsia sem pós-ictal, mordedura lateral ou liberação.",
 "C": "Correta. Síncope reflexa de baixo risco com ECG normal: alta, orientação e manobras de contrapressão.",
-"D": "Errada. O teste de inclinação é para síncope recorrente sem diagnóstico ou para separar de pseudossíncope; aqui o diagnóstico clínico já está feito."
+"D": "Errada, e é a armadilha. Eco e monitorização são para síncope com marcador de risco (esforço, decúbito, palpitação, cardiopatia, ECG alterado, morte súbita familiar precoce); não há nenhum."
 },
 "para_levar": "Síncope com gatilho, pródromos autonômicos, exame e ECG normais e sem marcador de risco é reflexa de baixo risco: alta sem exames. Abalos breves não fazem crise, e infarto de parente idoso não é morte súbita familiar.",
 "referencias": "ESC 2018 (syncope); ACC/AHA/HRS 2017 (syncope)",

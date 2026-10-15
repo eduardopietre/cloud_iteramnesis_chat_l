@@ -25,7 +25,7 @@
       "D": "Correta. Quilotórax (triglicerídeos acima de 110) com linfocitose, sintomas B e adenomegalias: citometria de fluxo do líquido para linfoma."
     },
     "para_levar": "Leitoso com triglicerídeos acima de 110 é quilotórax; colesterol acima de 200 com pleura espessa é pseudoquilotórax. Quilotórax não traumático com linfócitos pede citometria de fluxo antes da toracoscopia.",
-    "referencias": "BTS Guideline for pleural disease 2023; Light RW, Pleural Diseases, 7ª ed.",
+    "referencias": "BTS Guideline for pleural disease 2023; Light RW, Pleural Diseases, 6ª ed. (2013)",
     "tags": [
       "Derrame Pleural (CM)"
     ],
@@ -58,7 +58,7 @@
       "D": "Errada. Relação preservada com VEF1 reduzido exige VEF1 pós-broncodilatador abaixo de 80%; foi de 81%."
     },
     "para_levar": "DPOC exige VEF1/CVF abaixo de 0,70 depois do broncodilatador; obstrução que normaliza é asma, mesmo no tabagista.",
-    "referencias": "GOLD 2026; GINA 2026; ATS/ERS 2022 (interpretação de testes de função pulmonar)",
+    "referencias": "GOLD 2025; GINA 2024; ATS/ERS 2022 (interpretação de testes de função pulmonar)",
     "tags": [
       "Espirometria (CM)",
       "Asma - fisiopatologia e diagnóstico (CM)"
@@ -92,7 +92,7 @@
       "D": "Correta. Fibrose de terços superiores com aprisionamento lobular e exposição a aves: PH fibrótica, e primeiro se afasta o antígeno."
     },
     "para_levar": "Antes de chamar uma fibrose de idiopática, pergunte a exposição; fibrose de terços superiores com aprisionamento lobular é PH fibrótica, e o primeiro tratamento é afastar o antígeno.",
-    "referencias": "ATS/JRS/ALAT 2020 (pneumonite de hipersensibilidade); ATS/ERS/JRS/ALAT 2022 (FPI e fibrose pulmonar progressiva); Diretrizes SBPT de doenças pulmonares intersticiais",
+    "referencias": "ATS/JRS/ALAT 2020 (pneumonite de hipersensibilidade); ATS/ERS/JRS/ALAT 2022 (FPI e fibrose pulmonar progressiva); Diretrizes SBPT para doenças pulmonares intersticiais (2012)",
     "tags": [
       "Pneumonite de hipersensibilidade (PH) (CM)",
       "Fibrose Pulmonar Idiopática (FPI) (CM)"
@@ -159,7 +159,7 @@
       "D": "Errada. Na DPOC hipercápnica o alvo é 88 a 92%; hiperóxia piora a hipercapnia e a acidose."
     },
     "para_levar": "Exacerbação de DPOC com pH até 7,35 e PaCO2 acima de 45: VNI, mesmo com sonolência, se a via aérea está protegida e não há vômitos nem instabilidade.",
-    "referencias": "GOLD 2026; ERS/ATS 2017 (VNI na insuficiência respiratória aguda); Diretrizes Brasileiras de Ventilação Mecânica AMIB/SBPT",
+    "referencias": "GOLD 2025; ERS/ATS 2017 (VNI na insuficiência respiratória aguda); Diretrizes Brasileiras de Ventilação Mecânica AMIB/SBPT 2013",
     "tags": [
       "DPOC - exacerbação (CM)",
       "Ventilação Não Invasiva (VNI) (CM)"
@@ -179,21 +179,21 @@
     "alternativas": {
       "A": "Pembrolizumabe isolado",
       "B": "Quimioterapia com pembrolizumabe",
-      "C": "Osimertinibe isolado",
+      "C": "Osimertinibe oral",
       "D": "Radiocirurgia e depois quimioterapia"
     },
     "gabarito": "C",
     "armadilha": "A",
     "dado_decisivo": "deleção do éxon 19 do EGFR",
-    "resolucao": "PD-L1 de 85% é o critério de imunoterapia isolada em primeira linha, e quem lembra só dessa regra marca pembrolizumabe. Mas a regra vale para tumores sem alteração molecular acionável. Com mutação sensibilizante do EGFR (deleção do éxon 19), a imunoterapia tem resposta pobre mesmo com PD-L1 alto, e o uso prévio de anti-PD-1 aumenta a pneumonite grave quando o inibidor de tirosina-quinase vem depois. A primeira linha é o osimertinibe (FLAURA), que tem boa penetração no sistema nervoso central e trata as metástases cerebrais pequenas e assintomáticas sem radiocirurgia imediata. Por isso o painel molecular deve vir antes de iniciar imunoterapia em adenocarcinoma, sobretudo em não fumantes.",
+    "resolucao": "PD-L1 de 85% é o critério de imunoterapia isolada em primeira linha, e quem lembra só dessa regra marca pembrolizumabe. Mas a regra vale para tumores sem alteração molecular acionável. Com mutação sensibilizante do EGFR (deleção do éxon 19), a imunoterapia tem resposta pobre mesmo com PD-L1 alto, e o uso prévio de anti-PD-1 aumenta a pneumonite grave quando o inibidor de tirosina-quinase vem depois. A primeira linha é baseada no osimertinibe (FLAURA; isolado ou, pelo FLAURA2, associado a platina e pemetrexede), que tem boa penetração no sistema nervoso central e trata as metástases cerebrais pequenas e assintomáticas sem radiocirurgia imediata. Por isso o painel molecular deve vir antes de iniciar imunoterapia em adenocarcinoma, sobretudo em não fumantes.",
     "comentarios": {
       "A": "Errada, e é a armadilha. Pembrolizumabe isolado é para PD-L1 de 50% ou mais sem driver acionável; com EGFR mutado, resposta é pobre e a toxicidade com TKI posterior aumenta.",
       "B": "Errada. Quimioimunoterapia é para doença sem driver, independentemente do PD-L1; não é a escolha com EGFR sensibilizante.",
-      "C": "Correta. Adenocarcinoma estádio IV com deleção do éxon 19 do EGFR: osimertinibe, ativo também nas metástases cerebrais assintomáticas.",
+      "C": "Correta. Adenocarcinoma estádio IV com deleção do éxon 19 do EGFR: osimertinibe (isolado ou com quimioterapia), ativo também nas metástases cerebrais assintomáticas.",
       "D": "Errada. Radiocirurgia imediata é para metástases sintomáticas ou maiores; com TKI de boa penetração cerebral, metástases pequenas e assintomáticas podem ser acompanhadas."
     },
     "para_levar": "Em adenocarcinoma avançado, o driver acionável manda mais que o PD-L1: EGFR sensibilizante pede osimertinibe, não imunoterapia.",
-    "referencias": "NCCN NSCLC 2026; ESMO 2023 (câncer de pulmão não pequenas células metastático); FLAURA (N Engl J Med 2018 e 2020)",
+    "referencias": "ESMO 2023 (CPNPC metastático com alteração oncogênica); FLAURA (N Engl J Med 2018 e 2020); FLAURA2 (N Engl J Med 2023)",
     "tags": [
       "Câncer de pulmão"
     ],
@@ -244,19 +244,19 @@
     "enunciado": "Mulher de 81 anos, hipertensa, com incontinência de urgência e insônia, teve três quedas nos últimos 2 meses, todas ao levantar da cama à noite para urinar, uma com fratura de punho. Usa losartana 50 mg/dia há 5 anos, oxibutinina 5 mg duas vezes ao dia há 3 meses, amitriptilina 25 mg à noite há 2 meses, para insônia, e betaistina, iniciada após a segunda queda por labirintite. Refere tontura de quem vai desmaiar, sem vertigem rotatória. Exame: PA deitada 142 x 80 mmHg e, após 3 minutos em pé, 112 x 66 mmHg, com FC de 76 para 98 bpm; Dix-Hallpike negativo; marcha lenta, sem sinais extrapiramidais. MEEM 24 (era 28 há 1 ano). A conduta mais adequada para reduzir novas quedas é:",
     "alternativas": {
       "A": "Suspender amitriptilina e oxibutinina",
-      "B": "Reabilitação vestibular e manter betaistina",
+      "B": "Iniciar donepezila 5 mg/dia",
       "C": "Iniciar fludrocortisona 0,1 mg/dia",
-      "D": "Iniciar donepezila 5 mg/dia"
+      "D": "Reabilitação vestibular e manter betaistina"
     },
     "gabarito": "A",
-    "armadilha": "B",
+    "armadilha": "D",
     "dado_decisivo": "PA deitada 142 x 80 mmHg e, após 3 minutos em pé, 112 x 66 mmHg",
     "resolucao": "A labirintite já está no prontuário e a tontura parece confirmá-la. Mas ela descreve pré-síncope, não vertigem, o Dix-Hallpike é negativo e a PA cai 30 mmHg em pé com aumento compensatório da FC: hipotensão ortostática não neurogênica, cuja causa mais provável são as drogas novas. Amitriptilina (bloqueio alfa e anticolinérgico) e oxibutinina (anticolinérgica) estão nos critérios de Beers para evitar no idoso, causam ortostatismo, sedação e confusão (o MEEM caiu de 28 para 24) e começaram junto com as quedas. A medida de maior impacto é retirar, não acrescentar: suspender as duas (com alternativa não anticolinérgica para a bexiga e higiene do sono ou TCC para a insônia). Fludrocortisona e donepezila tratariam efeitos das drogas com mais drogas.",
     "comentarios": {
       "A": "Correta. Ortostatismo e queda cognitiva após amitriptilina e oxibutinina, ambas na lista de Beers: desprescrever é a intervenção que reduz quedas.",
-      "B": "Errada, e é a armadilha. Reabilitação vestibular é para vertigem de origem vestibular; aqui a tontura é pré-síncope ortostática, e betaistina também não tem papel.",
+      "B": "Errada. O declínio cognitivo recente coincide com dois anticolinérgicos; iniciar anticolinesterásico sem retirá-los é cascata de prescrição.",
       "C": "Errada. Fludrocortisona é para hipotensão ortostática neurogênica sintomática depois de retirar as drogas causadoras; aqui elas ainda estão em uso.",
-      "D": "Errada. O declínio cognitivo recente coincide com dois anticolinérgicos; iniciar anticolinesterásico sem retirá-los é cascata de prescrição."
+      "D": "Errada, e é a armadilha. Reabilitação vestibular é para vertigem de origem vestibular; aqui a tontura é pré-síncope ortostática, e betaistina também não tem papel."
     },
     "para_levar": "Queda no idoso: medir PA deitado e em pé e revisar a lista de drogas pelo Beers; desprescrever vem antes de tratar o efeito adverso com outra droga.",
     "referencias": "Critérios de Beers AGS 2023; World Guidelines for Falls Prevention 2022",
@@ -278,19 +278,19 @@
     "enunciado": "Ensaio clínico de não inferioridade comparou um anticoagulante oral novo à varfarina na prevenção de AVC na fibrilação atrial. A margem de não inferioridade pré-especificada foi de 1,38 para a razão de riscos (hazard ratio). O resultado foi hazard ratio de 0,88, com intervalo de confiança de 95% de 0,75 a 1,03 na análise por protocolo e de 0,77 a 1,06 por intenção de tratar. A conclusão correta é que o novo anticoagulante é:",
     "alternativas": {
       "A": "Superior à varfarina",
-      "B": "Inconclusivo, pois o intervalo cruza 1",
+      "B": "Equivalente à varfarina",
       "C": "Não inferior, sem superioridade demonstrada",
-      "D": "Equivalente à varfarina"
+      "D": "Inconclusivo, pois o intervalo cruza 1"
     },
     "gabarito": "C",
-    "armadilha": "B",
+    "armadilha": "D",
     "dado_decisivo": "A margem de não inferioridade pré-especificada foi de 1,38",
     "resolucao": "Quem lê com a lógica do ensaio de superioridade vê o intervalo cruzando 1 e conclui que não há diferença ou que o estudo é inconclusivo. Mas a pergunta de um ensaio de não inferioridade é outra: o limite superior do intervalo de confiança fica abaixo da margem pré-especificada? Aqui, 1,03 e 1,06 estão abaixo de 1,38, nas duas análises (por protocolo e por intenção de tratar, que devem concordar): a droga é não inferior. Como o intervalo inclui 1, superioridade não foi demonstrada; seria se o limite superior ficasse abaixo de 1. Equivalência exigiria margem nos dois lados, o que o desenho não testou.",
     "comentarios": {
       "A": "Errada. Superioridade exigiria o limite superior abaixo de 1; o hazard ratio pontual de 0,88 sozinho não basta.",
-      "B": "Errada, e é a armadilha. Cruzar 1 decide superioridade; não inferioridade se julga pelo limite superior contra a margem de 1,38.",
+      "B": "Errada. Equivalência exige o intervalo inteiro dentro de uma margem bilateral; o estudo testou só um lado.",
       "C": "Correta. Limite superior (1,03 e 1,06) abaixo da margem de 1,38 nas duas análises, e intervalo que inclui 1: não inferior, sem superioridade.",
-      "D": "Errada. Equivalência exige o intervalo inteiro dentro de uma margem bilateral; o estudo testou só um lado."
+      "D": "Errada, e é a armadilha. Cruzar 1 decide superioridade; não inferioridade se julga pelo limite superior contra a margem de 1,38."
     },
     "para_levar": "Não inferioridade: compare o limite superior do intervalo de confiança com a margem pré-especificada, nas análises por protocolo e por intenção de tratar; superioridade exige que ele fique abaixo de 1.",
     "referencias": "CONSORT 2010, extensão para ensaios de não inferioridade e equivalência (JAMA 2012); FDA 2016 (Non-Inferiority Clinical Trials)",

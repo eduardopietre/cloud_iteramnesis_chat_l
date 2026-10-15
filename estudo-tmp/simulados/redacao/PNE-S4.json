@@ -25,7 +25,7 @@
       "D": "Errada. Acerta a classificação, mas o urinotórax resolve com a correção da via urinária; dreno torácico não trata a causa."
     },
     "para_levar": "Transudato com pH baixo é urinotórax até prova em contrário: pede creatinina no líquido (relação com a sérica acima de 1) e correção da via urinária, não dreno.",
-    "referencias": "BTS Guideline for pleural disease 2023; Light RW, Pleural Diseases, 7ª ed.",
+    "referencias": "BTS Guideline for pleural disease 2023; Light RW, Pleural Diseases, 6ª ed. (2013)",
     "tags": [
       "Derrame Pleural (CM)"
     ],
@@ -58,9 +58,10 @@
       "D": "Errada. Pneumonite por droga é rara com rituximabe, cursa com DLCO reduzida e não explica a anemia."
     },
     "para_levar": "DLCO acima do previsto (ou em alta) com anemia que cai e infiltrado difuso é hemorragia alveolar, mesmo sem hemoptise; infecção e pneumonite reduzem a DLCO.",
-    "referencias": "ATS/ERS 2017 e 2022 (DLCO e interpretação); ACR/VF 2021 (vasculites ANCA); EULAR 2022 (vasculites ANCA)",
+    "referencias": "ERS/ATS 2017 (padronização da DLCO); ERS/ATS 2022 (interpretação de testes de função pulmonar); ACR/VF 2021 (vasculites ANCA); EULAR 2022 (vasculites ANCA)",
     "tags": [
       "Vasculites ANCA-associadas (CM)",
+      "Wegener (Granulomatose com Poliangeíte) (CM)",
       "Fisiologia e Semiologia pulmonar (CM)"
     ],
     "sourceQuestionId": null,
@@ -70,11 +71,11 @@
     "id": "S4-PNE-03",
     "simulado": 4,
     "area": "Pneumologia",
-    "titulo": "Nódulo pulmonar sólido de 5 mm em paciente de baixo risco: sem seguimento",
+    "titulo": "Nódulo pulmonar sólido de 4 mm em paciente de baixo risco: nenhum exame de seguimento",
     "arma": "Omissão",
-    "comando": "conduta",
+    "comando": "próximo exame",
     "nivel": "difícil",
-    "enunciado": "Mulher de 41 anos, que nunca fumou, sem exposição ocupacional e sem antecedente pessoal ou familiar de câncer, fez TC de tórax na emergência após acidente de carro, sem lesões traumáticas. O laudo descreve nódulo sólido único de 5 mm, de contornos regulares, no lobo inferior esquerdo, e recomenda controle evolutivo. Ela tratou infecção latente por tuberculose há 6 anos, após contato com o pai. Está assintomática e muito ansiosa, com exame físico normal. A conduta mais adequada para o nódulo é:",
+    "enunciado": "Mulher de 41 anos, que nunca fumou, sem exposição ocupacional e sem antecedente pessoal ou familiar de câncer, fez TC de tórax na emergência após acidente de carro, sem lesões traumáticas. O laudo descreve nódulo sólido único de 4 mm, de contornos regulares, no lobo inferior esquerdo, e recomenda controle evolutivo. Ela tratou infecção latente por tuberculose há 6 anos, após contato com o pai. Está assintomática e muito ansiosa, com exame físico normal. Quanto ao seguimento do nódulo, o exame mais adequado é:",
     "alternativas": {
       "A": "TC de tórax em 12 meses",
       "B": "TC de tórax em 3 meses",
@@ -83,8 +84,8 @@
     },
     "gabarito": "D",
     "armadilha": "A",
-    "dado_decisivo": "nódulo sólido único de 5 mm",
-    "resolucao": "O laudo pede controle, a paciente está ansiosa e a tuberculose do pai soa como fator de risco, e tudo isso puxa para alguma TC. Mas a Fleischner classifica o risco pelos fatores de câncer de pulmão (tabagismo, exposição a asbesto, radônio ou urânio, câncer de pulmão em parente de primeiro grau, idade, enfisema, localização em lobo superior), e infecção latente tratada não é um deles. Nódulo sólido único abaixo de 6 mm em paciente de baixo risco tem probabilidade de malignidade abaixo de 1% e não exige seguimento. A TC em 12 meses é opcional só para alto risco com nódulo abaixo de 6 mm; TC em 3 meses é para nódulo sólido acima de 8 mm; PET não tem resolução para 5 mm. Expor a TC repetida e à ansiedade de novos laudos é o dano.",
+    "dado_decisivo": "nódulo sólido único de 4 mm",
+    "resolucao": "O laudo pede controle, a paciente está ansiosa e a tuberculose do pai soa como fator de risco, e tudo isso puxa para alguma TC. Mas a Fleischner classifica o risco pelos fatores de câncer de pulmão (tabagismo, exposição a asbesto, radônio ou urânio, câncer de pulmão em parente de primeiro grau, idade, enfisema, localização em lobo superior), e infecção latente tratada não é um deles. Nódulo sólido único abaixo de 6 mm em paciente de baixo risco tem probabilidade de malignidade abaixo de 1% e não exige seguimento pela Fleischner, e abaixo de 5 mm a BTS também o dispensa. A TC em 12 meses é opcional só para alto risco com nódulo abaixo de 6 mm; TC em 3 meses é para nódulo sólido acima de 8 mm; PET não tem resolução para 4 mm. Expor a TC repetida e à ansiedade de novos laudos é o dano.",
     "comentarios": {
       "A": "Errada, e é a armadilha. TC opcional em 12 meses é para nódulo abaixo de 6 mm em paciente de alto risco; ela é de baixo risco.",
       "B": "Errada. Controle em 3 meses é para nódulo sólido acima de 8 mm (com PET ou biópsia como alternativas).",
@@ -92,7 +93,7 @@
       "D": "Correta. Nódulo sólido único abaixo de 6 mm em baixo risco: sem seguimento de rotina pela Fleischner."
     },
     "para_levar": "Nódulo sólido abaixo de 6 mm em baixo risco não se acompanha; o risco é dado por fatores de câncer de pulmão, não pelo laudo nem pela ansiedade.",
-    "referencias": "Fleischner Society 2017; ACR Incidental Findings 2023",
+    "referencias": "Fleischner Society 2017; BTS 2015 (nódulo pulmonar)",
     "tags": [
       "Nódulo Pulmonar (CM)"
     ],
@@ -125,7 +126,7 @@
       "D": "Errada. Biópsia percutânea de lesão cavitada tem risco de pneumotórax e baixo rendimento para tuberculose; não é o primeiro exame."
     },
     "para_levar": "Silicose com cavitação nova é tuberculose até prova em contrário: TRM-TB e cultura no escarro antes de qualquer procedimento invasivo, mesmo com baciloscopia negativa.",
-    "referencias": "Manual de Recomendações para o Controle da Tuberculose no Brasil (MS, 2019, atualizado); Diretrizes SBPT para tuberculose 2023; ATS/CDC/IDSA 2017 (diagnóstico de tuberculose)",
+    "referencias": "Manual de Recomendações para o Controle da Tuberculose no Brasil (MS, 2019); ATS/CDC/IDSA 2017 (diagnóstico de tuberculose)",
     "tags": [
       "Tuberculose Pulmonar : Clínica e Diagnóstico (CM)",
       "Doença Pulmonar Intersticial (CM)"
@@ -143,23 +144,23 @@
     "nivel": "difícil",
     "enunciado": "Homem de 29 anos, com asma desde a adolescência, tem prescritos fluticasona-salmeterol 250/50 mcg duas vezes ao dia e salbutamol de resgate. Tem sintomas diurnos quase diários, acorda com tosse duas vezes por semana e teve duas crises tratadas com prednisona oral no último ano. Usa salbutamol cerca de 10 vezes por semana. Conta que usa o inalador de manutenção quando lembra, em geral só nos dias de crise, e o registro da farmácia mostra retirada de 4 dispositivos nos últimos 12 meses. Técnica inalatória correta na demonstração. Eosinófilos 520/mm³, IgE total 410 UI/mL, teste cutâneo positivo para ácaros. A conduta mais adequada neste momento é:",
     "alternativas": {
-      "A": "Iniciar mepolizumabe subcutâneo",
+      "A": "Dobrar a dose de fluticasona-salmeterol",
       "B": "Associar tiotrópio ao esquema atual",
       "C": "MART com budesonida-formoterol",
-      "D": "Dobrar a dose de fluticasona-salmeterol"
+      "D": "Iniciar mepolizumabe subcutâneo"
     },
     "gabarito": "C",
-    "armadilha": "A",
+    "armadilha": "D",
     "dado_decisivo": "retirada de 4 dispositivos nos últimos 12 meses",
     "resolucao": "Eosinófilos de 520 e IgE alta com crises e sintomas diários desenham o candidato a biológico, e o fenótipo é real. Mas asma grave só se define depois de confirmar adesão e técnica em dose alta: 4 dispositivos em 12 meses é cerca de um terço do prescrito, e ele usa o corticoide só na crise, apoiado no salbutamol. É asma difícil de controlar por má adesão, não asma grave refratária. O passo indicado pela GINA é trocar para budesonida-formoterol como manutenção e resgate (MART, trilha 1): cada alívio leva corticoide, o que compensa a adesão irregular e reduz exacerbações graves em relação ao esquema com SABA. Biológico, tiotrópio ou dose alta entram se o controle não vier com o esquema certo em uso real.",
     "comentarios": {
-      "A": "Errada, e é a armadilha. Mepolizumabe é para asma grave eosinofílica não controlada com corticoide inalatório em dose alta e adesão confirmada; ele usa um terço do prescrito.",
+      "A": "Errada. Dobrar a dose de um inalador que ele não usa não muda nada; o problema é adesão, não dose.",
       "B": "Errada. LAMA é add-on da etapa 4 e 5 em quem já usa corretamente corticoide e LABA; não corrige a falta de corticoide.",
       "C": "Correta. Má adesão com resgate só com SABA: MART com budesonida-formoterol, que garante corticoide a cada alívio.",
-      "D": "Errada. Dobrar a dose de um inalador que ele não usa não muda nada; o problema é adesão, não dose."
+      "D": "Errada, e é a armadilha. Mepolizumabe é para asma grave eosinofílica não controlada com corticoide inalatório em dose alta e adesão confirmada; ele usa um terço do prescrito."
     },
     "para_levar": "Antes de escalar (dose alta, LAMA, biológico), confirmar adesão e técnica; no mal aderente, MART com budesonida-formoterol é a troca que mais reduz crise.",
-    "referencias": "GINA 2026; Diretriz SBPT para o manejo da asma; GINA Difficult-to-treat and severe asthma guide",
+    "referencias": "GINA 2024 (inclui a abordagem da asma de difícil controle e grave); Recomendações SBPT para o manejo da asma 2020",
     "tags": [
       "Asma - ambulatorial (CM)"
     ],
@@ -174,7 +175,7 @@
     "arma": "Negativo no meio",
     "comando": "conduta",
     "nivel": "extremamente difícil",
-    "enunciado": "Homem de 62 anos, hipertenso, sem internações ou uso de antibiótico nos últimos 6 meses, chega com febre, tosse e dispneia há 3 dias. FR 34 irpm, SpO2 86% em ar ambiente, PA 118 x 70 mmHg sem vasopressor, confuso, ureia 62 mg/dL. Radiografia: consolidação multilobar à direita. Foi para a UTI e está em cateter nasal de alto fluxo com FiO2 de 60%, com PaO2 de 84 mmHg. Iniciados ceftriaxona e azitromicina após hemoculturas. PCR para influenza e SARS-CoV-2 negativos; swab nasal para MRSA negativo; glicemia 168 mg/dL; sem uso prévio de corticoide. Além de manter o antibiótico, a medida que reduz mortalidade neste paciente é:",
+    "enunciado": "Homem de 62 anos, hipertenso, sem internações ou uso de antibiótico nos últimos 6 meses, chega com febre, tosse e dispneia há 3 dias. FR 34 irpm, SpO2 86% em ar ambiente, PA 118 x 70 mmHg sem vasopressor, confuso, ureia 62 mg/dL. Radiografia: consolidação multilobar à direita. Foi para a UTI e está em cateter nasal de alto fluxo com FiO2 de 60%, com PaO2 de 84 mmHg. Iniciados ceftriaxona e azitromicina após hemoculturas. PCR para influenza e SARS-CoV-2 negativos; swab nasal para MRSA negativo; glicemia 168 mg/dL; sem uso prévio de corticoide. Além de manter o antibiótico, a medida adicional com benefício em mortalidade demonstrado neste perfil de paciente é:",
     "alternativas": {
       "A": "Hidrocortisona intravenosa",
       "B": "Associar vancomicina",
@@ -192,7 +193,7 @@
       "D": "Errada. Meropenem é para risco de Pseudomonas ou germe resistente; ceftriaxona e azitromicina cobrem a PAC grave sem esses fatores."
     },
     "para_levar": "Na PAC grave sem influenza e sem choque, hidrocortisona reduz mortalidade; ampliar antibiótico exige fator de risco documentado para MRSA ou Pseudomonas.",
-    "referencias": "CAPE COD (N Engl J Med 2023); SCCM 2024 (atualização sobre corticoide na PAC grave); ATS/IDSA 2019 (PAC)",
+    "referencias": "CAPE COD (N Engl J Med 2023); SCCM 2024 (atualização sobre corticoide na PAC grave); ATS/IDSA 2019 (PAC: gravidade e fatores de risco para MRSA e Pseudomonas)",
     "tags": [
       "Pneumonia Adquirida na Comunidade PAC (CM)"
     ],
@@ -240,7 +241,7 @@
     "arma": "Cronologia",
     "comando": "conduta",
     "nivel": "difícil",
-    "enunciado": "Homem de 52 anos, que bebia cerca de 1 litro de cachaça por dia até a véspera da internação, está internado há 40 horas por fratura de tíbia após queda de moto. A TC de crânio na admissão foi normal, sem perda de consciência no acidente. Há 6 horas está trêmulo, sudoreico e agitado, diz ver insetos na parede e se orienta só em pessoa. T 37,9 °C, PA 168 x 98 mmHg, FC 122 bpm, FR 22 irpm, SpO2 96%. Sem rigidez de nuca ou déficit focal, pupilas isocóricas e fotorreagentes. Glicemia 108 mg/dL, Na 136 mEq/L. A conduta mais adequada neste momento é:",
+    "enunciado": "Homem de 52 anos, que bebia cerca de 1 litro de cachaça por dia, inclusive poucas horas antes do acidente, está internado há 56 horas por fratura de tíbia após queda de moto. A TC de crânio na admissão foi normal, sem perda de consciência no acidente. Há 6 horas está trêmulo, sudoreico e agitado, diz ver insetos na parede e se orienta só em pessoa. T 37,9 °C, PA 168 x 98 mmHg, FC 122 bpm, FR 22 irpm, SpO2 96%. Sem rigidez de nuca ou déficit focal, pupilas isocóricas e fotorreagentes. Glicemia 108 mg/dL, Na 136 mEq/L. A conduta mais adequada neste momento é:",
     "alternativas": {
       "A": "Haloperidol intravenoso",
       "B": "Diazepam intravenoso em doses repetidas",
@@ -249,11 +250,11 @@
     },
     "gabarito": "B",
     "armadilha": "C",
-    "dado_decisivo": "internado há 40 horas",
-    "resolucao": "Confusão em politraumatizado faz pensar em lesão intracraniana tardia e leva a repetir a imagem antes de qualquer sedativo. Mas o tempo decide: cerca de 40 horas desde a última dose de álcool, num bebedor pesado, é a janela da abstinência complicada (alucinose de 12 a 48 horas, delirium tremens de 48 a 96 horas), e o quadro é autonômico (tremor, sudorese, taquicardia, hipertensão, febre baixa) com alucinações visuais. TC de admissão normal, sem perda de consciência e exame neurológico sem foco tornam a lesão tardia muito improvável. O tratamento não espera: diazepam venoso em bolus repetidos até sedação leve, tiamina antes da glicose, reposição de magnésio e potássio. Haloperidol baixa o limiar convulsivo e não trata a abstinência; dexmedetomidina é adjuvante, não substitui o benzodiazepínico.",
+    "dado_decisivo": "internado há 56 horas",
+    "resolucao": "Confusão em politraumatizado faz pensar em lesão intracraniana tardia e leva a repetir a imagem antes de qualquer sedativo. Mas o tempo decide: cerca de 56 horas desde a última dose de álcool (sintomas desde a 50ª hora), num bebedor pesado, é a janela do delirium tremens (48 a 96 horas; a alucinose isolada é de 12 a 48 horas, sem desorientação), e o quadro é autonômico (tremor, sudorese, taquicardia, hipertensão, febre baixa) com alucinações visuais. TC de admissão normal, sem perda de consciência e exame neurológico sem foco tornam a lesão tardia muito improvável. O tratamento não espera: diazepam venoso em bolus repetidos até sedação leve, tiamina antes da glicose, reposição de magnésio e potássio. Haloperidol baixa o limiar convulsivo e não trata a abstinência; dexmedetomidina é adjuvante, não substitui o benzodiazepínico.",
     "comentarios": {
       "A": "Errada. Antipsicótico isolado não trata a abstinência, baixa o limiar convulsivo e piora desfecho; no máximo é adjuvante para alucinação com benzodiazepínico já em dose plena.",
-      "B": "Correta. Abstinência grave na janela de 40 horas: diazepam venoso em doses repetidas até sedação leve, com tiamina.",
+      "B": "Correta. Delirium tremens na janela de 48 a 96 horas: diazepam venoso em doses repetidas até sedação leve, com tiamina.",
       "C": "Errada, e é a armadilha. Seria a conduta com déficit focal, anisocoria ou queda de consciência sem quadro autonômico; aqui a imagem atrasa o tratamento de uma emergência.",
       "D": "Errada. Dexmedetomidina controla hiperatividade adrenérgica, mas não age no receptor GABA nem previne convulsão; é adjuvante."
     },

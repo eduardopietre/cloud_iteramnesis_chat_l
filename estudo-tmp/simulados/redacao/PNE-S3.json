@@ -22,10 +22,10 @@
       "A": "Errada, e é a armadilha. O contato e o ADA de 52 puxam para cá, mas tuberculose pleural não costuma ter glicose abaixo de 30 nem pH abaixo de 7,1, e o ADA também sobe no derrame reumatoide.",
       "B": "Errada. Empiema também zera a glicose e baixa o pH, mas é neutrofílico, com febre e bacterioscopia ou cultura muitas vezes positivas; aqui são 68% de linfócitos, sem febre há 3 meses, com culturas negativas.",
       "C": "Correta. AR soropositiva antiga com nódulos, homem tabagista, glicose de 8 e pH de 7,04 com cultura negativa: derrame reumatoide.",
-      "D": "Errada. Linfoma dá exsudato linfocítico com LDH alto, mas com ADA baixo e glicose em geral preservada."
+      "D": "Errada. Linfoma dá exsudato linfocítico com LDH alto e pode até elevar o ADA, mas glicose quase zerada com pH de 7,04 é rara nele, e não há adenomegalia, esplenomegalia nem sintomas B."
     },
     "para_levar": "Glicose pleural abaixo de 30 mg/dL com pH muito baixo e cultura negativa, em AR soropositiva com nódulos, é derrame reumatoide; ADA alto não separa AR de tuberculose.",
-    "referencias": "BTS Guideline for pleural disease 2023; Light RW, Pleural Diseases, 7ª ed.; Diretrizes SBPT para tuberculose 2023",
+    "referencias": "BTS Guideline for pleural disease 2023; Light RW, Pleural Diseases, 6ª ed. (2013); Manual de Recomendações para o Controle da Tuberculose no Brasil (MS, 2019)",
     "tags": [
       "Derrame Pleural (CM)"
     ],
@@ -40,25 +40,25 @@
     "arma": "Rótulo verdadeiro",
     "comando": "diagnóstico",
     "nivel": "extremamente difícil",
-    "enunciado": "Homem de 70 anos, ex-tabagista (50 maços-ano), em uso de amiodarona 200 mg/dia há 3 anos por fibrilação atrial, refere dispneia progressiva há 1 ano. Nega tosse, febre e perda de peso. Exame: tórax em tonel, murmúrio vesicular difusamente reduzido, sem estertores em velcro, sem baqueteamento. TC de tórax: enfisema centrolobular nos lobos superiores, sem reticulado, vidro fosco ou faveolamento. Espirometria pós-broncodilatador: CVF 58% do previsto, VEF1 49% do previsto, VEF1/CVF 0,72. Pletismografia: CPT 116% do previsto, VR 205% do previsto, VR/CPT 0,64. DLCO 48% do previsto. O distúrbio funcional que explica a redução da CVF é:",
+    "enunciado": "Homem de 70 anos, ex-tabagista (50 maços-ano), em uso de amiodarona 200 mg/dia há 3 anos por fibrilação atrial, refere dispneia progressiva há 1 ano. Nega tosse, febre e perda de peso. Exame: tórax em tonel, murmúrio vesicular difusamente reduzido, sem estertores em velcro, sem baqueteamento. TC de tórax: enfisema centrolobular nos lobos superiores, sem reticulado, vidro fosco ou faveolamento. Espirometria pós-broncodilatador: CVF 60% do previsto, VEF1 57% do previsto, VEF1/CVF 0,72. Pletismografia: CPT 116% do previsto, VR 205% do previsto, VR/CPT 0,64. DLCO 48% do previsto. O distúrbio funcional que explica a redução da CVF é:",
     "alternativas": {
-      "A": "Restrição parenquimatosa por amiodarona",
+      "A": "Distúrbio misto obstrutivo e restritivo",
       "B": "Aprisionamento aéreo por obstrução",
-      "C": "Distúrbio misto obstrutivo e restritivo",
+      "C": "Restrição parenquimatosa por amiodarona",
       "D": "Restrição extraparenquimatosa"
     },
     "gabarito": "B",
-    "armadilha": "A",
+    "armadilha": "C",
     "dado_decisivo": "CPT 116% do previsto, VR 205% do previsto",
     "resolucao": "CVF baixa com relação VEF1/CVF acima de 0,70 parece restrição, e a amiodarona oferece a causa, com DLCO baixa para confirmar. Mas restrição se define por CPT reduzida, e a CPT aqui é de 116%. O que reduziu a CVF foi o volume residual de 205%, com VR/CPT de 0,64: o ar fica preso no fim da expiração, a capacidade vital encolhe e a relação VEF1/CVF se pseudonormaliza, porque o denominador também caiu. A DLCO baixa vem do enfisema, que a TC mostra, e não exige toxicidade pulmonar, que daria vidro fosco ou reticulado, ausentes. É o padrão de hiperinsuflação e aprisionamento da DPOC com enfisema.",
     "comentarios": {
-      "A": "Errada, e é a armadilha. A droga existe e dá pneumonite intersticial, mas restrição exige CPT abaixo do limite inferior, e a TC não mostra reticulado nem vidro fosco.",
+      "A": "Errada. Distúrbio misto exige relação reduzida e CPT reduzida ao mesmo tempo; a CPT é de 116%.",
       "B": "Correta. CPT normal ou alta com VR de 205% e VR/CPT de 0,64: aprisionamento aéreo reduzindo a CVF e pseudonormalizando a relação VEF1/CVF.",
-      "C": "Errada. Distúrbio misto exige relação reduzida e CPT reduzida ao mesmo tempo; a CPT é de 116%.",
+      "C": "Errada, e é a armadilha. A droga existe e dá pneumonite intersticial, mas restrição exige CPT abaixo do limite inferior, e a TC não mostra reticulado nem vidro fosco.",
       "D": "Errada. Obesidade, deformidade torácica ou doença neuromuscular reduzem a CPT com DLCO normal ou corrigida alta; aqui a CPT está aumentada e a DLCO baixa."
     },
     "para_levar": "CVF baixa com relação normal não é restrição até a CPT confirmar; VR alto com CPT normal ou alta é aprisionamento aéreo, que pseudonormaliza a relação.",
-    "referencias": "ATS/ERS 2022 (interpretação de testes de função pulmonar); GOLD 2026; Diretrizes SBPT para testes de função pulmonar",
+    "referencias": "ATS/ERS 2022 (interpretação de testes de função pulmonar); GOLD 2025; Diretrizes SBPT para testes de função pulmonar (2002)",
     "tags": [
       "Distúrbios Ventilatórios Obstrutivos (CM)",
       "Espirometria (CM)"
@@ -92,7 +92,7 @@
       "D": "Errada. Antifibrótico é para fibrose pulmonar progressiva (INBUILD); a TCAR não mostra fibrose."
     },
     "para_levar": "Na pneumonite de hipersensibilidade, a conduta começa pela exposição: perguntar, identificar e afastar. Corticoide e biópsia vêm depois, se o afastamento não bastar.",
-    "referencias": "ATS/JRS/ALAT 2020 (diagnóstico de pneumonite de hipersensibilidade); ACCP 2021; Diretrizes SBPT de doenças pulmonares intersticiais",
+    "referencias": "ATS/JRS/ALAT 2020 (diagnóstico de pneumonite de hipersensibilidade); CHEST 2021 (diagnóstico e avaliação da pneumonite de hipersensibilidade); Diretrizes SBPT para doenças pulmonares intersticiais (2012)",
     "tags": [
       "Pneumonite de hipersensibilidade (PH) (CM)",
       "Doença Pulmonar Intersticial (CM)"
@@ -152,15 +152,15 @@
     "gabarito": "B",
     "armadilha": "A",
     "dado_decisivo": "Eosinófilos no sangue de 70/mm³ e de 80/mm³",
-    "resolucao": "O reflexo do escalonamento é a tripla terapia, e foi o que a banca premiou numa questão sem eosinófilos. Aqui o número está escrito: abaixo de 100 por mm³ o corticoide inalatório quase não reduz exacerbações e aumenta pneumonia, que ele já teve. Para exacerbador em LABA e LAMA com eosinófilos baixos, o GOLD indica azitromicina (preferencialmente em ex-tabagistas) ou roflumilaste. O roflumilaste exige VEF1 abaixo de 50% e bronquite crônica, e ele tem VEF1 de 54% sem tosse produtiva. A azitromicina pede QTc normal e audiometria, ambos conferidos no enunciado. Dupilumabe é para eosinófilos de 300 ou mais com bronquite crônica.",
+    "resolucao": "O reflexo do escalonamento é a tripla terapia, mas aqui o número que escolhe o degrau está escrito: abaixo de 100 por mm³ o corticoide inalatório quase não reduz exacerbações e aumenta pneumonia, que ele já teve. Para exacerbador em LABA e LAMA com eosinófilos baixos, o GOLD indica azitromicina (preferencialmente em ex-tabagistas) ou roflumilaste. O roflumilaste exige VEF1 abaixo de 50% e bronquite crônica, e ele tem VEF1 de 54% sem tosse produtiva. A azitromicina pede QTc normal e audiometria, ambos conferidos no enunciado. Dupilumabe é para eosinófilos de 300 ou mais com bronquite crônica.",
     "comentarios": {
-      "A": "Errada, e é a armadilha. Corticoide inalatório é o passo com eosinófilos de 300 ou mais (e se considera entre 100 e 300); abaixo de 100, e com pneumonia prévia, não se acrescenta.",
+      "A": "Errada, e é a armadilha. Corticoide inalatório é o passo do exacerbador em LABA e LAMA com eosinófilos de 100 ou mais; abaixo de 100, e com pneumonia prévia, não se acrescenta.",
       "B": "Correta. Exacerbador em dupla broncodilatação, eosinófilos abaixo de 100, ex-tabagista, QTc e audição normais: azitromicina contínua.",
       "C": "Errada. Roflumilaste exige VEF1 abaixo de 50% e fenótipo de bronquite crônica; VEF1 de 54% sem tosse produtiva derruba.",
       "D": "Errada. Dupilumabe é para DPOC com eosinófilos de 300 ou mais e bronquite crônica, em geral já em tripla."
     },
-    "para_levar": "No exacerbador em LABA e LAMA, o eosinófilo escolhe o passo: 300 ou mais, corticoide inalatório; abaixo de 100, azitromicina (ex-tabagista) ou roflumilaste (VEF1 abaixo de 50% com bronquite crônica).",
-    "referencias": "GOLD 2026; Diretriz SBPT de DPOC 2023",
+    "para_levar": "No exacerbador em LABA e LAMA, o eosinófilo escolhe o passo: 100 ou mais, tripla com corticoide inalatório; abaixo de 100, azitromicina (de preferência no ex-tabagista) ou roflumilaste (VEF1 abaixo de 50% com bronquite crônica).",
+    "referencias": "GOLD 2025",
     "tags": [
       "DPOC - ambulatorial (CM)"
     ],
@@ -175,25 +175,25 @@
     "arma": "Rótulo verdadeiro",
     "comando": "etiologia",
     "nivel": "difícil",
-    "enunciado": "Homem de 63 anos, pedreiro, tabagista (40 maços-ano), tem dor intensa no ombro direito irradiada pela face medial do braço e do antebraço até o 4º e o 5º dedos há 4 meses, com piora noturna e sem melhora com anti-inflamatório e fisioterapia. Perdeu 6 kg. Ressonância de coluna cervical: protrusão discal C5-C6 sem compressão radicular significativa e uncoartrose difusa. Exame: atrofia dos interósseos e da eminência hipotenar à direita, hipoestesia na face medial do antebraço direito, pupila direita menor que a esquerda, com ptose palpebral discreta à direita e menos sudorese na hemiface direita. Reflexos bicipitais e tricipitais simétricos. A causa mais provável do quadro é:",
+    "enunciado": "Homem de 63 anos, pedreiro, tabagista (40 maços-ano), tem dor intensa no ombro direito irradiada pela face medial do braço e do antebraço até o 4º e o 5º dedos há 4 meses, com piora noturna e sem melhora com anti-inflamatório e fisioterapia. Perdeu 6 kg. Radiografia de tórax em PA feita há 2 meses, laudada como normal. Ressonância de coluna cervical: protrusão discal C5-C6 sem compressão radicular significativa e uncoartrose difusa. Exame: atrofia dos interósseos e da eminência hipotenar à direita, hipoestesia na face medial do antebraço direito, pupila direita menor que a esquerda, com ptose palpebral discreta à direita e menos sudorese na hemiface direita. Reflexos bicipitais e tricipitais simétricos. A causa mais provável do quadro é:",
     "alternativas": {
-      "A": "Radiculopatia por hérnia discal cervical",
+      "A": "Siringomielia cervical",
       "B": "Síndrome do desfiladeiro torácico",
       "C": "Tumor do sulco pulmonar superior",
-      "D": "Siringomielia cervical"
+      "D": "Radiculopatia por hérnia discal cervical"
     },
     "gabarito": "C",
-    "armadilha": "A",
+    "armadilha": "D",
     "dado_decisivo": "pupila direita menor que a esquerda, com ptose palpebral discreta à direita e menos sudorese na hemiface direita",
-    "resolucao": "Pedreiro com dor cervicobraquial e ressonância com protrusão discal tem um laudo que parece fechar o caso. Mas a protrusão é em C5-C6, que comprimiria a raiz C6 (face lateral do antebraço e polegar), e o déficit é de C8 e T1 (face medial, 4º e 5º dedos, interósseos e hipotênar). Junto há síndrome de Horner do mesmo lado (miose, ptose e anidrose), dor noturna refratária e perda de peso num tabagista de 40 maços-ano: invasão do plexo braquial inferior e da cadeia simpática cervical por tumor do ápice pulmonar (Pancoast). Desfiladeiro torácico pode dar déficit de C8 e T1, mas não Horner nem perda de peso. O passo seguinte é a imagem do ápice (TC de tórax e ressonância do plexo).",
+    "resolucao": "Pedreiro com dor cervicobraquial, ressonância com protrusão discal e radiografia de tórax normal tem dois laudos que parecem fechar o caso. Mas a protrusão é em C5-C6, que comprimiria a raiz C6 (face lateral do antebraço e polegar), e o déficit é de C8 e T1 (face medial, 4º e 5º dedos, interósseos e hipotênar). Junto há síndrome de Horner do mesmo lado (miose, ptose e anidrose), dor noturna refratária e perda de peso num tabagista de 40 maços-ano: invasão do plexo braquial inferior e da cadeia simpática cervical por tumor do ápice pulmonar (Pancoast). A radiografia em PA normal não afasta, porque o ápice é zona cega da incidência frontal e o tumor do sulco costuma ser pequeno no início. Desfiladeiro torácico pode dar déficit de C8 e T1, mas não Horner nem perda de peso. O passo seguinte é a imagem do ápice (TC de tórax e ressonância do plexo).",
     "comentarios": {
-      "A": "Errada, e é a armadilha. A protrusão C5-C6 afetaria C6, não C8 e T1, não comprime a raiz no laudo e não explica Horner nem perda de peso.",
+      "A": "Errada. Siringomielia dá perda sensitiva dissociada (dor e temperatura) em capa, em geral bilateral, sem dor noturna intensa nem emagrecimento.",
       "B": "Errada. O desfiladeiro neurogênico dá dor e atrofia em território C8 e T1, mas sem Horner, sem perda de peso e com piora à elevação do braço.",
       "C": "Correta. Plexopatia de C8 e T1 com síndrome de Horner, dor noturna e emagrecimento em tabagista: tumor do sulco superior.",
-      "D": "Errada. Siringomielia dá perda sensitiva dissociada (dor e temperatura) em capa, em geral bilateral, sem dor noturna intensa nem emagrecimento."
+      "D": "Errada, e é a armadilha. A protrusão C5-C6 afetaria C6, não C8 e T1, não comprime a raiz no laudo e não explica Horner nem perda de peso."
     },
     "para_levar": "Dor no território C8 e T1 com Horner do mesmo lado em tabagista é tumor do sulco superior até prova em contrário, mesmo com ressonância cervical alterada.",
-    "referencias": "NCCN NSCLC 2026; ACCP 2013 (diagnóstico e estadiamento do câncer de pulmão)",
+    "referencias": "ACCP 2013 (diagnóstico e estadiamento do câncer de pulmão)",
     "tags": [
       "Câncer de pulmão"
     ],
@@ -210,23 +210,23 @@
     "nivel": "extremamente difícil",
     "enunciado": "Mulher de 48 anos, 1,55 m de altura e 98 kg, intubada há 20 horas por pneumonia por influenza com síndrome do desconforto respiratório agudo. Ventilação controlada a volume: volume corrente 500 mL, PEEP 12 cmH2O, FiO2 80%, FR 22 irpm. Pressão de platô 33 cmH2O, pressão de pico 40 cmH2O. Gasometria: pH 7,31, PaCO2 50 mmHg, PaO2 88 mmHg. Sedada, sem drogas vasoativas. Radiografia: opacidades bilaterais. O ajuste do volume corrente e a medida adicional mais adequada são, respectivamente:",
     "alternativas": {
-      "A": "Manter 500 mL / posição prona",
-      "B": "Manter 500 mL / ECMO venovenosa",
+      "A": "Manter 500 mL / ECMO venovenosa",
+      "B": "Manter 500 mL / posição prona",
       "C": "Reduzir para cerca de 290 mL / ECMO venovenosa",
       "D": "Reduzir para cerca de 290 mL / posição prona"
     },
     "gabarito": "D",
-    "armadilha": "A",
+    "armadilha": "B",
     "dado_decisivo": "1,55 m de altura e 98 kg",
     "resolucao": "500 mL parecem protetores porque dão cerca de 5 mL/kg do peso real. Mas o volume corrente se calcula pelo peso predito, que depende da altura e do sexo: 45,5 + 0,91 x (155 - 152,4), cerca de 48 kg. Assim, 500 mL são mais de 10 mL/kg do peso predito, e o platô de 33 e a pressão de distensão de 21 confirmam a hiperdistensão. O alvo é 6 mL/kg do peso predito, cerca de 290 mL, com platô até 30 e aumento da FR para compensar o CO2. A relação PaO2/FiO2 é 88/0,8, cerca de 110, abaixo de 150 com PEEP de 12 e FiO2 de 80%: indica posição prona por pelo menos 16 horas por dia, que reduz mortalidade (PROSEVA). ECMO é resgate para hipoxemia refratária depois de ventilação protetora e prona otimizadas.",
     "comentarios": {
-      "A": "Errada, e é a armadilha. Acerta a prona, mas mantém um volume que é mais de 10 mL/kg do peso predito; o erro é calcular pelo peso real.",
-      "B": "Errada nas duas metades. Mantém volume lesivo e pula a prona para um resgate que exige falha das medidas anteriores.",
+      "A": "Errada nas duas metades. Mantém volume lesivo e pula a prona para um resgate que exige falha das medidas anteriores.",
+      "B": "Errada, e é a armadilha. Acerta a prona, mas mantém um volume que é mais de 10 mL/kg do peso predito; o erro é calcular pelo peso real.",
       "C": "Errada. Acerta o volume, mas ECMO é para hipoxemia refratária depois de prona e ventilação protetora.",
       "D": "Correta. Peso predito de cerca de 48 kg dá cerca de 290 mL a 6 mL/kg, e PaO2/FiO2 de 110 abaixo de 150 indica prona."
     },
     "para_levar": "Volume corrente na SDRA é 6 mL/kg do peso PREDITO (altura e sexo), nunca do peso real; PaO2/FiO2 abaixo de 150 indica prona antes de qualquer resgate.",
-    "referencias": "ATS/ESICM/SCCM 2017 e ATS 2024 (ventilação na SDRA); ARDSNet (N Engl J Med 2000); PROSEVA (N Engl J Med 2013); Diretrizes Brasileiras de Ventilação Mecânica AMIB/SBPT",
+    "referencias": "ATS/ESICM/SCCM 2017 e ATS 2024 (ventilação e manejo na SDRA); ARDSNet (N Engl J Med 2000); PROSEVA (N Engl J Med 2013); Diretrizes Brasileiras de Ventilação Mecânica AMIB/SBPT 2013",
     "tags": [
       "SARA / SDRA (CM)",
       "Ventilação Mecânica (CM)"

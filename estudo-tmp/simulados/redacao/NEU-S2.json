@@ -1,271 +1,271 @@
 [
- {
-  "id": "S2-NEU-01",
-  "titulo": "Crise aguda sintomática por hipoglicemia de sulfonilureia na DRC: tratar a causa e observar, sem anticrise",
-  "arma": "Omissão",
-  "comando": "conduta",
-  "nivel": "difícil",
-  "enunciado": "Homem de 74 anos, com diabetes tipo 2 e doença renal crônica (TFGe 24 mL/min/1,73 m²), em uso de glibenclamida 10 mg/dia e losartana, é trazido pela filha após crise tônico-clônica generalizada de cerca de 2 minutos, em casa, às 6 h. Ela conta que ele quase não jantou na véspera por diarreia. Na chegada, 40 minutos depois, está confuso e sudoreico, sem déficit focal, PA 150/90 mmHg, FC 104 bpm, Tax 36,4 °C. Glicemia capilar 34 mg/dL. Recebeu 50 mL de glicose a 50% IV, com recuperação completa da consciência em 10 minutos. Sódio 138 mEq/L, cálcio 9,2 mg/dL, creatinina 2,6 mg/dL. TC de crânio sem contraste: atrofia compatível com a idade. Nunca teve crise antes. A conduta mais adequada neste momento é:",
-  "alternativas": {
-   "A": "Fenitoína IV em dose de ataque",
-   "B": "Levetiracetam oral por seis meses",
-   "C": "Internação com glicose IV contínua",
-   "D": "Alta após refeição, sem glibenclamida"
+  {
+    "id": "S2-NEU-01",
+    "titulo": "Crise aguda sintomática por hipoglicemia de sulfonilureia na DRC: tratar a causa e observar, sem anticrise",
+    "arma": "Omissão",
+    "comando": "conduta",
+    "nivel": "difícil",
+    "enunciado": "Homem de 74 anos, com diabetes tipo 2 e doença renal crônica (TFGe 24 mL/min/1,73 m²), em uso de glibenclamida 10 mg/dia e losartana, é trazido pela filha após crise tônico-clônica generalizada de cerca de 2 minutos, em casa, às 6 h. Ela conta que ele quase não jantou na véspera por diarreia. Na chegada, 40 minutos depois, está confuso e sudoreico, sem déficit focal, PA 150/90 mmHg, FC 104 bpm, Tax 36,4 °C. Glicemia capilar 34 mg/dL. Recebeu 50 mL de glicose a 50% IV, com recuperação completa da consciência em 10 minutos. Sódio 138 mEq/L, cálcio 9,2 mg/dL, creatinina 2,6 mg/dL. TC de crânio sem contraste: atrofia compatível com a idade. Nunca teve crise antes. A conduta mais adequada neste momento é:",
+    "alternativas": {
+      "A": "Levetiracetam oral por seis meses",
+      "B": "Fenitoína IV em dose de ataque",
+      "C": "Alta após refeição, sem glibenclamida",
+      "D": "Internação com glicose IV contínua"
+    },
+    "gabarito": "D",
+    "armadilha": "B",
+    "dado_decisivo": "doença renal crônica (TFGe 24 mL/min/1,73 m²), em uso de glibenclamida 10 mg/dia",
+    "resolucao": "A crise no PS puxa o reflexo da dose de ataque, mas esta crise tem causa aguda identificada e corrigida: glicemia de 34 mg/dL com recuperação plena após a glicose. Crise aguda sintomática (provocada) não é epilepsia e não se trata com droga anticrise; trata-se a causa. A decisão real está entre internar e dar alta, e quem a decide é a primeira linha: glibenclamida, sulfonilureia de meia-vida longa e metabólitos ativos de eliminação renal, numa TFGe de 24. Essa hipoglicemia recorre por 24 a 72 horas depois da primeira correção, e a refeição isolada não protege. Por isso a conduta é internar com glicose IV contínua e glicemias seriadas (octreotida se houver recorrência apesar da glicose), suspendendo a sulfonilureia de forma definitiva.",
+    "comentarios": {
+      "A": "Errada. Droga de manutenção seria discutida numa primeira crise não provocada com EEG ou imagem alterados; crise provocada não aumenta o risco de epilepsia a ponto de justificar tratamento crônico.",
+      "B": "Errada, é a armadilha. Fenitoína seria para estado de mal ou crise recorrente sem causa corrigível; aqui a crise foi provocada pela hipoglicemia, já corrigida, e a droga não previne nova hipoglicemia.",
+      "C": "Errada. Seria aceitável na hipoglicemia por insulina rápida corrigida em paciente com função renal normal; com sulfonilureia de ação longa e DRC, a recorrência nas horas seguintes é a regra.",
+      "D": "Correta. Glibenclamida com TFGe de 24 dá hipoglicemia prolongada e recorrente: exige glicose IV contínua, glicemias seriadas e observação hospitalar."
+    },
+    "para_levar": "Crise com causa aguda corrigida (hipoglicemia, hiponatremia, abstinência) não pede anticrise: trata-se a causa. Hipoglicemia por sulfonilureia na DRC pede internação e glicose contínua.",
+    "referencias": "ILAE 2010 e 2021 (crise aguda sintomática); ADA Standards of Care 2026 (hipoglicemia, sulfonilureias na DRC); SBD 2025.",
+    "tags": [
+      "Hipoglicemias (CM)",
+      "Epilepsia (CM)"
+    ],
+    "sourceQuestionId": "8804d53af57996b",
+    "alvo": "Reflexo da fenitoína em crise provocada (regra fixada errada 2 vezes com a mesma letra) e alta precoce sem ler a droga e a TFGe.",
+    "simulado": 2,
+    "area": "Neurologia"
   },
-  "gabarito": "C",
-  "armadilha": "A",
-  "dado_decisivo": "doença renal crônica (TFGe 24 mL/min/1,73 m²), em uso de glibenclamida 10 mg/dia",
-  "resolucao": "A crise no PS puxa o reflexo da dose de ataque, mas esta crise tem causa aguda identificada e corrigida: glicemia de 34 mg/dL com recuperação plena após a glicose. Crise aguda sintomática (provocada) não é epilepsia e não se trata com droga anticrise; trata-se a causa. A decisão real está entre internar e dar alta, e quem a decide é a primeira linha: glibenclamida, sulfonilureia de meia-vida longa e metabólitos ativos de eliminação renal, numa TFGe de 24. Essa hipoglicemia recorre por 24 a 72 horas depois da primeira correção, e a refeição isolada não protege. Por isso a conduta é internar com glicose IV contínua e glicemias seriadas (octreotida se houver recorrência apesar da glicose), suspendendo a sulfonilureia de forma definitiva.",
-  "comentarios": {
-   "A": "Errada, é a armadilha. Fenitoína seria para estado de mal ou crise recorrente sem causa corrigível; aqui a crise foi provocada pela hipoglicemia, já corrigida, e a droga não previne nova hipoglicemia.",
-   "B": "Errada. Droga de manutenção seria discutida numa primeira crise não provocada com EEG ou imagem alterados; crise provocada não aumenta o risco de epilepsia a ponto de justificar tratamento crônico.",
-   "C": "Correta. Glibenclamida com TFGe de 24 dá hipoglicemia prolongada e recorrente: exige glicose IV contínua, glicemias seriadas e observação hospitalar.",
-   "D": "Errada. Seria aceitável na hipoglicemia por insulina rápida corrigida em paciente com função renal normal; com sulfonilureia de ação longa e DRC, a recorrência nas horas seguintes é a regra."
+  {
+    "id": "S2-NEU-02",
+    "titulo": "ELA com estenose cervical incidental: fasciculação de língua e NMI fora do segmento comprimido mandam para a ENMG",
+    "arma": "Rótulo verdadeiro",
+    "comando": "próximo exame",
+    "nivel": "extremamente difícil",
+    "enunciado": "Homem de 63 anos, pedreiro aposentado, com cervicalgia mecânica há anos, tem fraqueza progressiva na mão direita há 8 meses, depois na esquerda, e câimbras frequentes nas panturrilhas. Nega parestesias, alteração esfincteriana, engasgos e alteração da voz. Exame: atrofia de interósseos e tenar bilateral, fasciculações em ambos os deltoides e nas panturrilhas, língua com atrofia de bordas e fasciculações em repouso, reflexos bicipitais e patelares vivos, Hoffmann bilateral, sensibilidade tátil, dolorosa e vibratória normais. RM de coluna cervical solicitada pelo clínico: discopatia degenerativa com estenose do canal em C5-C6, sem hipersinal medular em T2. O ortopedista indica descompressão. O próximo passo mais adequado é:",
+    "alternativas": {
+      "A": "Eletroneuromiografia com agulha",
+      "B": "Anticorpo anti-GM1 sérico",
+      "C": "Descompressão cirúrgica de C5-C6",
+      "D": "RM de encéfalo com contraste"
+    },
+    "gabarito": "A",
+    "armadilha": "C",
+    "dado_decisivo": "língua com atrofia de bordas e fasciculações em repouso",
+    "resolucao": "O rótulo é verdadeiro e vem reforçado pela cervicalgia antiga e pela indicação cirúrgica: há estenose em C5-C6, e a mielopatia espondilótica dá neurônio motor superior abaixo e inferior no nível. Mas uma compressão em C5-C6 não explica fasciculação e atrofia de língua (segmento bulbar) nem fasciculação em panturrilhas (lombossacral), isto é, sinais de neurônio motor inferior acima e muito abaixo da lesão, sem nenhuma alteração sensitiva ou esfincteriana. A ausência de queixa bulbar não tranquiliza: a fasciculação de língua costuma preceder a disfagia e a disartria, e nenhuma lesão cervical a produz. Estenose cervical degenerativa é achado frequente nessa idade e pode ser incidental. O exame que confirma a síndrome é a eletroneuromiografia com agulha, estudando os segmentos bulbar, cervical, torácico e lombossacral: desnervação ativa e crônica em várias regiões, com condução sensitiva normal, sustenta doença do neurônio motor pelos critérios de Gold Coast. Operar antes disso expõe o paciente a uma cirurgia que não muda a doença.",
+    "comentarios": {
+      "A": "Correta. Fasciculação de língua e de panturrilhas com sensibilidade normal pede ENMG em vários segmentos para documentar desnervação difusa e confirmar doença do neurônio motor.",
+      "B": "Errada. Anti-GM1 se pede na neuropatia motora multifocal, que é puramente de neurônio motor inferior, com bloqueio de condução e sem reflexos vivos nem Hoffmann.",
+      "C": "Errada, é a armadilha. Seria a conduta na mielopatia espondilótica com déficit progressivo e achados restritos ao nível comprimido; aqui há sinais bulbares e lombossacrais que a estenose não explica.",
+      "D": "Errada. RM de encéfalo seria para lesão estrutural de tronco com sinais bulbares de instalação aguda ou outros déficits; aqui o quadro é progressivo e misto, e a imagem não confirma doença do neurônio motor."
+    },
+    "para_levar": "Sinal de neurônio motor inferior fora do segmento comprimido (língua, membros inferiores) com sensibilidade normal derruba a mielopatia como explicação: ENMG de quatro segmentos antes de operar.",
+    "referencias": "Critérios de Gold Coast 2020 para ELA; AAN e EFNS (diagnóstico da doença do neurônio motor); AOSpine 2017 (mielopatia cervical degenerativa).",
+    "tags": [
+      "Esclerose Lateral Amiotrófica (CM)",
+      "Mielopatia (CM)"
+    ],
+    "sourceQuestionId": "bf909b9c57da842",
+    "alvo": "ELA x mielopatia cervical (regra fixada errada): ele troca o exame que confirma pelo que exclui o diferencial, e aqui pela conduta do diferencial.",
+    "simulado": 2,
+    "area": "Neurologia"
   },
-  "para_levar": "Crise com causa aguda corrigida (hipoglicemia, hiponatremia, abstinência) não pede anticrise: trata-se a causa. Hipoglicemia por sulfonilureia na DRC pede internação e glicose contínua.",
-  "referencias": "ILAE 2010 e 2021 (crise aguda sintomática); ADA Standards of Care 2026 (hipoglicemia, sulfonilureias na DRC); SBD 2025.",
-  "tags": [
-   "Hipoglicemias (CM)",
-   "Epilepsia (CM)"
-  ],
-  "sourceQuestionId": "8804d53af57996b",
-  "alvo": "Reflexo da fenitoína em crise provocada (regra fixada errada 2 vezes com a mesma letra) e alta precoce sem ler a droga e a TFGe.",
-  "simulado": 2,
-  "area": "Neurologia"
- },
- {
-  "id": "S2-NEU-02",
-  "titulo": "ELA com estenose cervical incidental: fasciculação de língua e NMI fora do segmento comprimido mandam para a ENMG",
-  "arma": "Rótulo verdadeiro",
-  "comando": "próximo exame",
-  "nivel": "extremamente difícil",
-  "enunciado": "Homem de 63 anos, pedreiro aposentado, tem fraqueza progressiva na mão direita há 8 meses, depois na esquerda, e câimbras frequentes nas panturrilhas. Há 2 meses a esposa nota que ele engasga com líquidos e que a voz ficou anasalada. Nega dor cervical, parestesias e alteração esfincteriana. Exame: atrofia de interósseos e tenar bilateral, fasciculações em ambos os deltoides e nas panturrilhas, língua com atrofia de bordas e fasciculações em repouso, reflexos bicipitais e patelares vivos, Hoffmann bilateral, sensibilidade tátil, dolorosa e vibratória normais. RM de coluna cervical solicitada pelo clínico: discopatia degenerativa com estenose do canal em C5-C6, sem hipersinal medular em T2. O próximo passo mais adequado é:",
-  "alternativas": {
-   "A": "Descompressão cirúrgica de C5-C6",
-   "B": "Eletroneuromiografia de quatro segmentos",
-   "C": "Anticorpo anti-GM1 sérico",
-   "D": "RM de encéfalo com contraste"
+  {
+    "id": "S2-NEU-03",
+    "titulo": "Síndrome vestibular aguda no idoso vascular com HINTS plus inteiramente periférico: neurite vestibular",
+    "arma": "Rótulo verdadeiro",
+    "comando": "diagnóstico",
+    "nivel": "extremamente difícil",
+    "enunciado": "Homem de 71 anos, hipertenso, diabético e com angioplastia coronária há 3 anos, em uso de AAS, losartana e metformina, acorda com tontura rotatória contínua, náuseas e vômitos, há 14 horas, que pioram com o movimento da cabeça mas não cessam em repouso. Teve infecção de vias aéreas superiores há 9 dias. Nega hipoacusia, zumbido, cefaleia, diplopia, disartria e episódios prévios. PA 164/94 mmHg, FC 88 bpm, ritmo regular, glicemia 168 mg/dL. Exame: nistagmo horizontal-torcional batendo para a direita no olhar primário, que aumenta no olhar para a direita, diminui com a fixação e não muda de direção no olhar para a esquerda; teste do impulso cefálico com sacada corretiva ao girar a cabeça para a esquerda; sem desvio vertical na cobertura alternada; audição simétrica no teste de atrito dos dedos; coordenação apendicular normal; anda sem apoio, com desvio para a esquerda. TC de crânio sem contraste normal. O diagnóstico mais provável é:",
+    "alternativas": {
+      "A": "Vertigem posicional paroxística benigna",
+      "B": "Infarto cerebelar",
+      "C": "Neurite vestibular",
+      "D": "Labirintite viral"
+    },
+    "gabarito": "C",
+    "armadilha": "B",
+    "dado_decisivo": "teste do impulso cefálico com sacada corretiva ao girar a cabeça para a esquerda",
+    "resolucao": "O rótulo é verdadeiro e pesado: idoso hipertenso, diabético e coronariopata com vertigem aguda é o paciente em que o AVC de fossa posterior mais assusta, e a TC normal não o afasta. Mas na síndrome vestibular aguda quem separa periférico de central é o exame à beira do leito (HINTS plus), mais sensível que a RM com difusão nas primeiras 48 horas. Aqui os quatro componentes são periféricos: impulso cefálico anormal para a esquerda (a sacada corretiva mostra o reflexo vestíbulo-ocular lesado no nervo), nistagmo unidirecional que bate para o lado são e diminui com a fixação, ausência de desvio vertical e audição preservada. Somam-se o pródromo viral, a coordenação apendicular normal e a marcha possível sem apoio, com desvio para o lado lesado. O impulso anormal só deixa de proteger se vier com hipoacusia nova (infarto da artéria cerebelar anteroinferior) ou com qualquer outro sinal central, e nenhum está presente. O diagnóstico é neurite vestibular esquerda: tratamento sintomático por poucos dias e reabilitação vestibular precoce, deixando a RM para o exame duvidoso ou para o surgimento de sinal central.",
+    "comentarios": {
+      "A": "Errada. VPPB dá crises de segundos desencadeadas pela mudança de posição, com nistagmo provocado pela manobra de Dix-Hallpike, e não tontura contínua há 14 horas com nistagmo espontâneo.",
+      "B": "Errada, é a armadilha. Seria a resposta com impulso cefálico normal, nistagmo que muda de direção, desvio vertical, hipoacusia nova ou incapacidade de ficar de pé; o risco vascular é verdadeiro, mas os quatro componentes do HINTS plus são periféricos.",
+      "C": "Correta. Vertigem contínua após quadro viral, impulso cefálico anormal para a esquerda, nistagmo unidirecional para a direita inibido pela fixação, sem desvio vertical e com audição preservada.",
+      "D": "Errada. Labirintite é o mesmo processo com envolvimento coclear: teria hipoacusia ou zumbido do lado afetado, e a audição está simétrica."
+    },
+    "para_levar": "Impulso cefálico ANORMAL, nistagmo unidirecional, sem desvio vertical e sem hipoacusia nova: síndrome vestibular aguda periférica, mesmo no idoso vascular. Um único componente central (impulso normal, nistagmo que muda de direção, desvio vertical) ou hipoacusia nova muda para AVC.",
+    "referencias": "Kattah et al., Stroke 2009 (HINTS); Newman-Toker et al., Acad Emerg Med 2013 (HINTS plus); ACEP/SAEM GRACE-3 2023 (tontura aguda no departamento de emergência).",
+    "tags": [
+      "Vertigem (CM)",
+      "AVC Isquêmico (CM)"
+    ],
+    "sourceQuestionId": "d3c42b586c0b0ad",
+    "alvo": "Errou a leitura do impulso cefálico no HINTS; aqui o rótulo vascular verdadeiro puxa para AVC e para o exame a mais.",
+    "simulado": 2,
+    "area": "Neurologia"
   },
-  "gabarito": "B",
-  "armadilha": "A",
-  "dado_decisivo": "língua com atrofia de bordas e fasciculações em repouso",
-  "resolucao": "O rótulo é verdadeiro: há estenose em C5-C6, e a mielopatia espondilótica dá neurônio motor superior abaixo e inferior no nível. Mas uma compressão em C5-C6 não explica fasciculação e atrofia de língua (segmento bulbar) nem fasciculação em panturrilhas (lombossacral), isto é, sinais de neurônio motor inferior acima e muito abaixo da lesão, sem nenhuma alteração sensitiva ou esfincteriana. Disfagia e voz anasalada completam o envolvimento bulbar, que nenhuma lesão cervical produz. Estenose cervical degenerativa é achado frequente nessa idade e pode ser incidental. O exame que confirma a síndrome é a eletroneuromiografia com estudo dos segmentos bulbar, cervical, torácico e lombossacral: desnervação ativa e crônica em várias regiões, com condução sensitiva normal, sustenta doença do neurônio motor pelos critérios de Gold Coast. Operar antes disso expõe o paciente a uma cirurgia que não muda a doença.",
-  "comentarios": {
-   "A": "Errada, é a armadilha. Seria a conduta na mielopatia espondilótica com déficit progressivo e achados restritos ao nível comprimido; aqui há sinais bulbares e lombossacrais que a estenose não explica.",
-   "B": "Correta. Fasciculação de língua e de panturrilhas com sensibilidade normal pede ENMG em vários segmentos para documentar desnervação difusa e confirmar doença do neurônio motor.",
-   "C": "Errada. Anti-GM1 se pede na neuropatia motora multifocal, que é puramente de neurônio motor inferior, com bloqueio de condução e sem reflexos vivos nem Hoffmann.",
-   "D": "Errada. RM de encéfalo seria para lesão estrutural de tronco com sinais bulbares de instalação aguda ou outros déficits; aqui o quadro é progressivo e misto, e a imagem não confirma doença do neurônio motor."
+  {
+    "id": "S2-NEU-04",
+    "titulo": "Trombólise no AVC isquêmico com PA acima de 185/110: baixar e trombolisar com tenecteplase",
+    "arma": "Grade X / Y",
+    "comando": "conduta",
+    "nivel": "difícil",
+    "enunciado": "Homem de 68 anos, hipertenso em uso irregular de anlodipino, é trazido ao PS 1 hora e 40 minutos após início súbito, presenciado pela esposa, de hemiparesia direita e afasia. NIHSS 12. Glicemia capilar 136 mg/dL. Usa AAS e clopidogrel desde angioplastia coronária há 8 meses; não usa anticoagulante e não tem cirurgia ou sangramento recente. PA 204/112 mmHg, confirmada em duas medidas com 5 minutos de intervalo, FC 84 bpm, ritmo regular. TC de crânio sem contraste: sem hemorragia, ASPECTS 9. Angiotomografia: sem oclusão de grande vaso. Plaquetas 230.000/mm³. Quanto à pressão arterial e à reperfusão, a conduta mais adequada é, respectivamente:",
+    "alternativas": {
+      "A": "Reduzir abaixo de 185/110 / trombectomia",
+      "B": "Reduzir abaixo de 185/110 / tenecteplase",
+      "C": "Não reduzir / tenecteplase",
+      "D": "Não reduzir / sem trombolítico"
+    },
+    "gabarito": "B",
+    "armadilha": "D",
+    "dado_decisivo": "PA 204/112 mmHg",
+    "resolucao": "Duas regras verdadeiras competem. A hipertensão permissiva (não reduzir até 220/120) vale para quem NÃO vai receber trombolítico; para quem vai, a PA precisa estar abaixo de 185/110 antes do bolus e abaixo de 180/105 nas 24 horas seguintes. PA acima de 185/110 que cede a labetalol, nicardipino ou clevidipino não é contraindicação: é uma precondição a cumprir. O paciente está dentro de 4,5 horas, com déficit incapacitante, sem anticoagulante e sem sangue na TC; a dupla antiagregação prévia aumenta pouco o risco de sangramento e não contraindica a trombólise: é candidato a trombólise, e a tenecteplase 0,25 mg/kg em bolus único (máximo 25 mg) é alternativa equivalente à alteplase, preferida pela praticidade. Sem oclusão de grande vaso, não há alvo para trombectomia. Quem marca 'não reduzir / sem trombolítico' aplica a regra de quem não trombolisa e perde a reperfusão por um número que se corrige em minutos.",
+    "comentarios": {
+      "A": "Errada na segunda metade. Reduzir a PA está certo, mas a angiotomografia não mostra oclusão de grande vaso, então não há indicação de trombectomia.",
+      "B": "Correta. Reduzir com labetalol ou nicardipino IV até abaixo de 185/110 e trombolisar com tenecteplase 0,25 mg/kg dentro de 4,5 horas.",
+      "C": "Errada na primeira metade. Não reduzir a PA vale para quem não recebe trombolítico; trombolisar com 204/112 aumenta a transformação hemorrágica.",
+      "D": "Errada, é a armadilha. Seria a conduta se a PA não cedesse ao tratamento ou se o paciente estivesse fora da janela; nem a PA elevada controlável nem a dupla antiagregação contraindicam trombólise."
+    },
+    "para_levar": "PA acima de 185/110 no candidato a trombólise é para baixar, não para desistir. Tenecteplase no AVC: 0,25 mg/kg em bolus, máximo 25 mg.",
+    "referencias": "AHA/ASA 2026 (manejo precoce do AVC isquêmico agudo); ESO 2023 (tenecteplase); Diretriz brasileira de trombólise no AVC (SBDCV/MS).",
+    "tags": [
+      "AVC Isquêmico (CM)"
+    ],
+    "sourceQuestionId": null,
+    "alvo": "Degrau de conduta: aplica a regra verdadeira (hipertensão permissiva) fora da precondição dela, e trata a PA alta como contraindicação absoluta.",
+    "simulado": 2,
+    "area": "Neurologia"
   },
-  "para_levar": "Sinal de neurônio motor inferior fora do segmento comprimido (língua, membros inferiores) com sensibilidade normal derruba a mielopatia como explicação: ENMG de quatro segmentos antes de operar.",
-  "referencias": "Critérios de Gold Coast 2020 para ELA; AAN e EFNS (diagnóstico da doença do neurônio motor); AOSpine 2017 (mielopatia cervical degenerativa).",
-  "tags": [
-   "Esclerose Lateral Amiotrófica (CM)",
-   "Mielopatia (CM)"
-  ],
-  "sourceQuestionId": "bf909b9c57da842",
-  "alvo": "ELA x mielopatia cervical (regra fixada errada): ele troca o exame que confirma pelo que exclui o diferencial, e aqui pela conduta do diferencial.",
-  "simulado": 2,
-  "area": "Neurologia"
- },
- {
-  "id": "S2-NEU-03",
-  "titulo": "Síndrome vestibular aguda com impulso cefálico normal: sinal central, mesmo com ansiedade e TC normal",
-  "arma": "Rótulo verdadeiro",
-  "comando": "diagnóstico",
-  "nivel": "extremamente difícil",
-  "enunciado": "Mulher de 46 anos, com transtorno de ansiedade generalizada em uso de sertralina e hipertensão arterial, chega ao PS com tontura rotatória contínua, náuseas e vômitos iniciados há 9 horas, sem relação com a posição da cabeça. Nega hipoacusia, zumbido, cefaleia e diplopia. Há 2 semanas teve episódio semelhante, mais leve, que durou 15 minutos. PA 168/98 mmHg, FC 92 bpm. Exame: nistagmo horizontal batendo para a esquerda no olhar primário, que aumenta no olhar para a esquerda; teste do impulso cefálico normal para os dois lados; sem desvio vertical na cobertura alternada; força, sensibilidade e coordenação apendicular normais; não consegue ficar de pé sem apoio. TC de crânio sem contraste normal. O diagnóstico mais provável é:",
-  "alternativas": {
-   "A": "Neurite vestibular",
-   "B": "Tontura funcional por ansiedade",
-   "C": "Vertigem posicional paroxística benigna",
-   "D": "Infarto de circulação posterior"
+  {
+    "id": "S2-NEU-05",
+    "titulo": "Transtorno do controle de impulsos por agonista dopaminérgico fora da doença de Parkinson",
+    "arma": "Droga a deduzir",
+    "comando": "etiologia",
+    "nivel": "difícil",
+    "enunciado": "Mulher de 58 anos, professora, é trazida pelo marido porque, nos últimos 4 meses, gastou as economias do casal em apostas on-line e passou a comprar compulsivamente roupas que não usa; ela minimiza o problema. Há 14 meses iniciou tratamento para desconforto nas pernas ao deitar, com necessidade de movê-las, que melhorava ao caminhar; a dose do medicamento foi aumentada há 6 meses, com bom controle. Nega episódios prévios de humor elevado, redução da necessidade de sono, uso de álcool e história familiar psiquiátrica. Exame neurológico normal, sem parkinsonismo. Mini-exame do estado mental 29. Ferritina 110 ng/mL. A causa mais provável do comportamento atual é:",
+    "alternativas": {
+      "A": "Efeito adverso de agonista dopaminérgico",
+      "B": "Episódio hipomaníaco de transtorno bipolar",
+      "C": "Demência frontotemporal, variante comportamental",
+      "D": "Fenômeno de aumento (augmentation)"
+    },
+    "gabarito": "A",
+    "armadilha": "C",
+    "dado_decisivo": "Há 14 meses iniciou tratamento para desconforto nas pernas ao deitar",
+    "resolucao": "A droga não é nomeada: o desconforto nas pernas ao deitar, que obriga a movê-las e melhora ao caminhar, é síndrome das pernas inquietas, e a primeira linha por muitos anos foram os agonistas dopaminérgicos (pramipexol, ropinirol, rotigotina). Jogo patológico e compras compulsivas iniciados meses depois de aumento de dose são transtorno do controle de impulsos, efeito de classe dos agonistas (receptor D3), que aparece também fora da doença de Parkinson e em doses baixas. A demência frontotemporal atrai pela idade e pela desinibição, mas não começa por compulsão isolada com cognição e exame normais, e a cronologia com a droga é o dado que decide. Hipomania exigiria humor elevado e redução da necessidade de sono, negados. O fenômeno de aumento é complicação dopaminérgica real, mas é piora dos próprios sintomas sensitivos (mais cedo no dia, em mais segmentos), não mudança de comportamento. A conduta é reduzir e retirar o agonista devagar e migrar para alfa-2-delta, primeira linha atual.",
+    "comentarios": {
+      "A": "Correta. Pernas inquietas tratadas com agonista dopaminérgico, aumento de dose e, meses depois, jogo e compras compulsivas: transtorno do controle de impulsos induzido pela droga.",
+      "B": "Errada. Hipomania explicaria gastos excessivos, mas exige humor elevado e menor necessidade de sono, ambos negados.",
+      "C": "Errada, é a armadilha. Desinibição aos 58 anos lembra a variante comportamental, mas ela vem com apatia, perda de empatia e alteração executiva progressivas; aqui há só compulsão, com relação temporal com a droga.",
+      "D": "Errada. O aumento é a piora das pernas inquietas induzida pelo tratamento dopaminérgico (sintomas mais precoces e extensos), não alteração de comportamento."
+    },
+    "para_levar": "Jogo, compras, hipersexualidade ou hiperfagia novos: procurar agonista dopaminérgico, inclusive o das pernas inquietas. Conduta: retirar devagar e trocar por alfa-2-delta.",
+    "referencias": "AASM 2024 (tratamento da síndrome das pernas inquietas); MDS Evidence-Based Review 2018 (transtornos do controle de impulsos).",
+    "tags": [
+      "Distúrbios do Movimento (CM)",
+      "Doença de Parkinson (CM)"
+    ],
+    "sourceQuestionId": "8971dd8583670a9",
+    "alvo": "Errou a droga do descontrole de impulsos na DP; aqui a droga tem de ser deduzida e o rótulo comportamental (idade, desinibição) puxa outra doença.",
+    "simulado": 2,
+    "area": "Neurologia"
   },
-  "gabarito": "D",
-  "armadilha": "A",
-  "dado_decisivo": "teste do impulso cefálico normal para os dois lados",
-  "resolucao": "Tontura contínua há horas, com nistagmo e intolerância ao movimento, é síndrome vestibular aguda, e nela o HINTS separa periférico de central. O teste do impulso cefálico normal parece tranquilizador, mas significa o contrário: na neurite vestibular o reflexo vestíbulo-ocular está lesado e aparece a sacada corretiva; se o reflexo está íntegro num paciente com vertigem contínua, a lesão está fora do nervo, no tronco ou no cerebelo. Somam-se a incapacidade de ficar de pé sem apoio (ataxia de tronco grave, desproporcional para neurite), o episódio transitório de 2 semanas atrás (pródromo isquêmico) e a hipertensão. Nistagmo unidirecional e ausência de desvio vertical não afastam AVC: basta um componente central. TC sem contraste tem sensibilidade baixa para isquemia de fossa posterior nas primeiras horas, e a ansiedade é rótulo verdadeiro que não explica nistagmo.",
-  "comentarios": {
-   "A": "Errada, é a armadilha. Na neurite vestibular o impulso cefálico é anormal para o lado afetado; impulso normal na vertigem contínua é o achado que a exclui.",
-   "B": "Errada. Tontura funcional não produz nistagmo espontâneo nem ataxia de tronco objetiva; a ansiedade é verdadeira e não explica o exame.",
-   "C": "Errada. VPPB dá crises de segundos desencadeadas pela posição, sem tontura contínua nem nistagmo espontâneo no olhar primário.",
-   "D": "Correta. Impulso cefálico normal na síndrome vestibular aguda, ataxia de tronco grave e evento transitório prévio em hipertensa apontam isquemia de tronco ou cerebelo, e a TC normal não a afasta."
+  {
+    "id": "S2-NEU-06",
+    "titulo": "Delirium por anticolinérgico em idosa com Alzheimer leve: a droga nova, não a demência",
+    "arma": "Rótulo verdadeiro",
+    "comando": "etiologia",
+    "nivel": "difícil",
+    "enunciado": "Mulher de 81 anos, com doença de Alzheimer leve diagnosticada há 2 anos, em uso de donepezila 10 mg/dia, mora com a filha e era independente para banho e alimentação. Há 6 dias, a urologista prescreveu oxibutinina 5 mg três vezes ao dia por urgência miccional. Há 3 dias está sonolenta durante o dia e agitada à noite, quando diz ver pessoas estranhas no quarto; alterna momentos de lucidez com outros em que não reconhece a filha e não consegue manter a atenção para dizer os meses do ano de trás para frente. Exame: Tax 36,6 °C, PA 128/76 mmHg, mucosas secas, sem rigidez, tremor ou déficit focal. Glicemia 112 mg/dL, sódio 137 mEq/L, hemograma e EAS normais, sem resíduo vesical na ultrassonografia após micção. A causa mais provável do quadro atual é:",
+    "alternativas": {
+      "A": "Progressão da doença de Alzheimer",
+      "B": "Demência com corpos de Lewy",
+      "C": "Infarto lacunar talâmico",
+      "D": "Delirium por efeito anticolinérgico"
+    },
+    "gabarito": "D",
+    "armadilha": "A",
+    "dado_decisivo": "prescreveu oxibutinina 5 mg três vezes ao dia",
+    "resolucao": "O rótulo verdadeiro é a doença de Alzheimer, que puxa para progressão. Mas a demência avança em meses, não em 3 dias, e não flutua de hora em hora. Início agudo, flutuação, desatenção (não consegue dizer os meses ao contrário) e alteração do nível de consciência montam delirium, e a demência é o principal fator predisponente, não a explicação. O precipitante está na segunda linha: oxibutinina, anticolinérgico de alta carga que atravessa a barreira, iniciada 3 dias antes do quadro, em paciente cuja cognição depende de um inibidor da colinesterase que a oxibutinina antagoniza. As alucinações visuais noturnas atraem para demência com corpos de Lewy, mas são frequentes no delirium e, na DCL, acompanham a doença desde o início, com parkinsonismo e distúrbio do sono REM, não surgem em 3 dias após uma droga. Mucosas secas reforçam o efeito anticolinérgico, e infecção, distúrbio metabólico e retenção urinária foram afastados. A conduta é suspender a oxibutinina e manejar sem antipsicótico; se a urgência precisar de tratamento, mirabegrona.",
+    "comentarios": {
+      "A": "Errada, é a armadilha. O Alzheimer é verdadeiro e predispõe, mas progride em meses e não produz flutuação e desatenção instaladas em 3 dias.",
+      "B": "Errada. Na DCL há flutuação e alucinação visual, mas elas acompanham a doença desde o início, com parkinsonismo e distúrbio comportamental do sono REM; não surgem em 3 dias após uma droga nova numa paciente com Alzheimer sem esses sinais.",
+      "C": "Errada. Infarto talâmico causa confusão súbita, mas com déficit sensitivo ou de olhar e sem a relação com a droga; o exame não tem déficit focal.",
+      "D": "Correta. Quadro agudo e flutuante com desatenção, iniciado 3 dias após oxibutinina, com mucosas secas e o resto da investigação normal."
+    },
+    "para_levar": "Piora em dias numa pessoa com demência é delirium até prova em contrário: procurar a droga nova (anticolinérgico, benzodiazepínico, opioide) antes de chamar de progressão.",
+    "referencias": "Critérios de Beers AGS 2023; NICE CG103 (delirium, atualização 2023); DSM-5-TR.",
+    "tags": [
+      "Delirium (CM)",
+      "Doença de Alzheimer (CM)"
+    ],
+    "sourceQuestionId": null,
+    "alvo": "Lê o rótulo (idosa com Alzheimer) e ignora a droga em uso que decide.",
+    "simulado": 2,
+    "area": "Neurologia"
   },
-  "para_levar": "Na vertigem aguda contínua, impulso cefálico NORMAL é sinal central. Um único componente central do HINTS (impulso normal, nistagmo que muda de direção, desvio vertical) basta para tratar como AVC.",
-  "referencias": "Kattah et al., Stroke 2009 (HINTS); AHA/ASA 2026 (AVC isquêmico agudo); Guideline ACEP/SAEM 2023 (tontura aguda no departamento de emergência).",
-  "tags": [
-   "Vertigem (CM)",
-   "AVC Isquêmico (CM)"
-  ],
-  "sourceQuestionId": "d3c42b586c0b0ad",
-  "alvo": "Leu impulso cefálico normal como periférico (errou o HINTS) e deixa o rótulo (ansiedade, TC normal) vencer o exame.",
-  "simulado": 2,
-  "area": "Neurologia"
- },
- {
-  "id": "S2-NEU-04",
-  "titulo": "Trombólise no AVC isquêmico com PA acima de 185/110: baixar e trombolisar com tenecteplase",
-  "arma": "Grade X / Y",
-  "comando": "conduta",
-  "nivel": "difícil",
-  "enunciado": "Homem de 68 anos, hipertenso em uso irregular de anlodipino, é trazido ao PS 1 hora e 40 minutos após início súbito, presenciado pela esposa, de hemiparesia direita e afasia. NIHSS 12. Glicemia capilar 136 mg/dL. Não usa anticoagulante nem antiagregante e não tem cirurgia ou sangramento recente. PA 204/112 mmHg, confirmada em duas medidas com 5 minutos de intervalo, FC 84 bpm, ritmo regular. TC de crânio sem contraste: sem hemorragia, ASPECTS 9. Angiotomografia: sem oclusão de grande vaso. Plaquetas 230.000/mm³. Quanto à pressão arterial e à reperfusão, a conduta mais adequada é, respectivamente:",
-  "alternativas": {
-   "A": "Reduzir abaixo de 185/110 / tenecteplase",
-   "B": "Não reduzir / tenecteplase",
-   "C": "Reduzir abaixo de 185/110 / trombectomia",
-   "D": "Não reduzir / sem trombolítico"
+  {
+    "id": "S2-NEU-07",
+    "titulo": "Morte encefálica após PCR: tempo mínimo de observação na encefalopatia hipóxico-isquêmica",
+    "arma": "Limiar",
+    "comando": "fato solto",
+    "nivel": "média",
+    "enunciado": "Pela Resolução CFM nº 2.173/2017, no paciente em coma não perceptivo após parada cardiorrespiratória, com encefalopatia hipóxico-isquêmica como causa, o tempo mínimo de tratamento e observação hospitalar antes de iniciar os procedimentos de determinação de morte encefálica é de:",
+    "alternativas": {
+      "A": "6 horas",
+      "B": "12 horas",
+      "C": "24 horas",
+      "D": "72 horas"
+    },
+    "gabarito": "C",
+    "armadilha": "A",
+    "dado_decisivo": "encefalopatia hipóxico-isquêmica como causa",
+    "resolucao": "A regra geral da resolução é de no mínimo 6 horas de tratamento e observação em ambiente hospitalar, e é o número que o apressado marca. A exceção está no qualificador: quando a causa primária é encefalopatia hipóxico-isquêmica (após PCR), a observação mínima é de 24 horas. A razão é que o edema e a depressão pós-anóxica, somados à sedação e à hipotermia do pós-PCR, podem simular ausência de função de tronco nas primeiras horas. As 72 horas são o prazo de prognóstico neurológico no comatoso pós-PCR que não preenche morte encefálica, outra decisão. Os demais pré-requisitos seguem valendo: causa conhecida e irreversível, temperatura acima de 35 °C, SatO2 acima de 94% e PAS de pelo menos 100 mmHg (ou PAM de 65).",
+    "comentarios": {
+      "A": "Errada, é a armadilha. 6 horas é a regra geral da resolução, que não vale quando a causa é hipóxico-isquêmica.",
+      "B": "Errada. Na resolução, 12 horas é o intervalo mínimo entre os dois exames clínicos na criança de 2 a 24 meses, não o tempo de observação antes de abrir o protocolo.",
+      "C": "Correta. Na encefalopatia hipóxico-isquêmica, observação mínima de 24 horas após a PCR antes de iniciar o protocolo.",
+      "D": "Errada. 72 horas é a janela de prognóstico neurológico no coma pós-PCR (ERC/ESICM), não pré-requisito para abrir o protocolo de morte encefálica."
+    },
+    "para_levar": "Morte encefálica (CFM 2.173/2017): 6 horas de observação em geral, 24 horas se a causa for hipóxico-isquêmica.",
+    "referencias": "Resolução CFM nº 2.173/2017; ERC/ESICM 2021 (prognóstico pós-PCR).",
+    "tags": [
+      "Morte Encefálica (CM)"
+    ],
+    "sourceQuestionId": null,
+    "alvo": "Ponto de corte com exceção: ele fixa a regra geral e não checa a precondição.",
+    "simulado": 2,
+    "area": "Neurologia"
   },
-  "gabarito": "A",
-  "armadilha": "D",
-  "dado_decisivo": "PA 204/112 mmHg",
-  "resolucao": "Duas regras verdadeiras competem. A hipertensão permissiva (não reduzir até 220/120) vale para quem NÃO vai receber trombolítico; para quem vai, a PA precisa estar abaixo de 185/110 antes do bolus e abaixo de 180/105 nas 24 horas seguintes. PA acima de 185/110 que cede a labetalol, nicardipino ou clevidipino não é contraindicação: é uma precondição a cumprir. O paciente está dentro de 4,5 horas, com déficit incapacitante, sem anticoagulante e sem sangue na TC: é candidato a trombólise, e a tenecteplase 0,25 mg/kg em bolus único (máximo 25 mg) é alternativa equivalente à alteplase, preferida pela praticidade. Sem oclusão de grande vaso, não há alvo para trombectomia. Quem marca 'não reduzir / sem trombolítico' aplica a regra de quem não trombolisa e perde a reperfusão por um número que se corrige em minutos.",
-  "comentarios": {
-   "A": "Correta. Reduzir com labetalol ou nicardipino IV até abaixo de 185/110 e trombolisar com tenecteplase 0,25 mg/kg dentro de 4,5 horas.",
-   "B": "Errada na primeira metade. Não reduzir a PA vale para quem não recebe trombolítico; trombolisar com 204/112 aumenta a transformação hemorrágica.",
-   "C": "Errada na segunda metade. Reduzir a PA está certo, mas a angiotomografia não mostra oclusão de grande vaso, então não há indicação de trombectomia.",
-   "D": "Errada, é a armadilha. Seria a conduta se a PA não cedesse ao tratamento ou se o paciente estivesse fora da janela; PA elevada controlável não contraindica trombólise."
-  },
-  "para_levar": "PA acima de 185/110 no candidato a trombólise é para baixar, não para desistir. Tenecteplase no AVC: 0,25 mg/kg em bolus, máximo 25 mg.",
-  "referencias": "AHA/ASA 2026 (manejo precoce do AVC isquêmico agudo); ESO 2023 (tenecteplase); Diretriz brasileira de trombólise no AVC (SBDCV/MS).",
-  "tags": [
-   "AVC Isquêmico (CM)"
-  ],
-  "sourceQuestionId": null,
-  "alvo": "Degrau de conduta: aplica a regra verdadeira (hipertensão permissiva) fora da precondição dela, e trata a PA alta como contraindicação absoluta.",
-  "simulado": 2,
-  "area": "Neurologia"
- },
- {
-  "id": "S2-NEU-05",
-  "titulo": "Transtorno do controle de impulsos por agonista dopaminérgico fora da doença de Parkinson",
-  "arma": "Droga a deduzir",
-  "comando": "etiologia",
-  "nivel": "difícil",
-  "enunciado": "Mulher de 58 anos, professora, é trazida pelo marido porque, nos últimos 4 meses, gastou as economias do casal em apostas on-line e passou a comprar compulsivamente roupas que não usa; ela minimiza o problema. Há 14 meses iniciou tratamento para desconforto nas pernas ao deitar, com necessidade de movê-las, que melhorava ao caminhar; a dose do medicamento foi aumentada há 6 meses, com bom controle. Nega episódios prévios de humor elevado, redução da necessidade de sono, uso de álcool e história familiar psiquiátrica. Exame neurológico normal, sem parkinsonismo. Mini-exame do estado mental 29. Ferritina 110 ng/mL. A causa mais provável do comportamento atual é:",
-  "alternativas": {
-   "A": "Efeito adverso de agonista dopaminérgico",
-   "B": "Episódio hipomaníaco de transtorno bipolar",
-   "C": "Demência frontotemporal, variante comportamental",
-   "D": "Fenômeno de aumento (augmentation)"
-  },
-  "gabarito": "A",
-  "armadilha": "C",
-  "dado_decisivo": "Há 14 meses iniciou tratamento para desconforto nas pernas ao deitar",
-  "resolucao": "A droga não é nomeada: o desconforto nas pernas ao deitar, que obriga a movê-las e melhora ao caminhar, é síndrome das pernas inquietas, e a primeira linha por muitos anos foram os agonistas dopaminérgicos (pramipexol, ropinirol, rotigotina). Jogo patológico e compras compulsivas iniciados meses depois de aumento de dose são transtorno do controle de impulsos, efeito de classe dos agonistas (receptor D3), que aparece também fora da doença de Parkinson e em doses baixas. A demência frontotemporal atrai pela idade e pela desinibição, mas não começa por compulsão isolada com cognição e exame normais, e a cronologia com a droga é o dado que decide. Hipomania exigiria humor elevado e redução da necessidade de sono, negados. O fenômeno de aumento é complicação dopaminérgica real, mas é piora dos próprios sintomas sensitivos (mais cedo no dia, em mais segmentos), não mudança de comportamento. A conduta é reduzir e retirar o agonista devagar e migrar para alfa-2-delta, primeira linha atual.",
-  "comentarios": {
-   "A": "Correta. Pernas inquietas tratadas com agonista dopaminérgico, aumento de dose e, meses depois, jogo e compras compulsivas: transtorno do controle de impulsos induzido pela droga.",
-   "B": "Errada. Hipomania explicaria gastos excessivos, mas exige humor elevado e menor necessidade de sono, ambos negados.",
-   "C": "Errada, é a armadilha. Desinibição aos 58 anos lembra a variante comportamental, mas ela vem com apatia, perda de empatia e alteração executiva progressivas; aqui há só compulsão, com relação temporal com a droga.",
-   "D": "Errada. O aumento é a piora das pernas inquietas induzida pelo tratamento dopaminérgico (sintomas mais precoces e extensos), não alteração de comportamento."
-  },
-  "para_levar": "Jogo, compras, hipersexualidade ou hiperfagia novos: procurar agonista dopaminérgico, inclusive o das pernas inquietas. Conduta: retirar devagar e trocar por alfa-2-delta.",
-  "referencias": "AASM 2024 (tratamento da síndrome das pernas inquietas); MDS Evidence-Based Review 2018 (transtornos do controle de impulsos).",
-  "tags": [
-   "Distúrbios do Movimento (CM)",
-   "Doença de Parkinson (CM)"
-  ],
-  "sourceQuestionId": "8971dd8583670a9",
-  "alvo": "Errou a droga do descontrole de impulsos na DP; aqui a droga tem de ser deduzida e o rótulo comportamental (idade, desinibição) puxa outra doença.",
-  "simulado": 2,
-  "area": "Neurologia"
- },
- {
-  "id": "S2-NEU-06",
-  "titulo": "Delirium por anticolinérgico em idosa com Alzheimer leve: a droga nova, não a demência",
-  "arma": "Rótulo verdadeiro",
-  "comando": "etiologia",
-  "nivel": "difícil",
-  "enunciado": "Mulher de 81 anos, com doença de Alzheimer leve diagnosticada há 2 anos, em uso de donepezila 10 mg/dia, mora com a filha e era independente para banho e alimentação. Há 6 dias, a urologista prescreveu oxibutinina 5 mg três vezes ao dia por urgência miccional. Há 3 dias está sonolenta durante o dia e agitada à noite, alterna momentos de lucidez com outros em que não reconhece a filha e não consegue manter a atenção para dizer os meses do ano de trás para frente. Exame: Tax 36,6 °C, PA 128/76 mmHg, mucosas secas, pupilas de 5 mm, sem déficit focal. Glicemia 112 mg/dL, sódio 137 mEq/L, hemograma e EAS normais, sem resíduo vesical na ultrassonografia após micção. A causa mais provável do quadro atual é:",
-  "alternativas": {
-   "A": "Progressão da doença de Alzheimer",
-   "B": "Delirium por efeito anticolinérgico",
-   "C": "Demência com corpos de Lewy",
-   "D": "Infarto lacunar talâmico"
-  },
-  "gabarito": "B",
-  "armadilha": "A",
-  "dado_decisivo": "prescreveu oxibutinina 5 mg três vezes ao dia",
-  "resolucao": "O rótulo verdadeiro é a doença de Alzheimer, que puxa para progressão. Mas a demência avança em meses, não em 3 dias, e não flutua de hora em hora. Início agudo, flutuação, desatenção (não consegue dizer os meses ao contrário) e alteração do nível de consciência montam delirium, e a demência é o principal fator predisponente, não a explicação. O precipitante está na segunda linha: oxibutinina, anticolinérgico de alta carga que atravessa a barreira, iniciada 3 dias antes do quadro, em paciente cuja cognição depende de um inibidor da colinesterase que a oxibutinina antagoniza. Mucosas secas e midríase reforçam o efeito anticolinérgico, e infecção, distúrbio metabólico e retenção urinária foram afastados. A conduta é suspender a oxibutinina e manejar sem antipsicótico; se a urgência precisar de tratamento, mirabegrona.",
-  "comentarios": {
-   "A": "Errada, é a armadilha. O Alzheimer é verdadeiro e predispõe, mas progride em meses e não produz flutuação e desatenção instaladas em 3 dias.",
-   "B": "Correta. Quadro agudo e flutuante com desatenção, iniciado 3 dias após oxibutinina, com mucosas secas e midríase e o resto da investigação normal.",
-   "C": "Errada. Na DCL há flutuação, mas com alucinações visuais, parkinsonismo e distúrbio comportamental do sono REM desde o início da doença, não um surto agudo após droga nova.",
-   "D": "Errada. Infarto talâmico causa confusão súbita, mas com déficit sensitivo ou de olhar e sem a relação com a droga; o exame não tem déficit focal."
-  },
-  "para_levar": "Piora em dias numa pessoa com demência é delirium até prova em contrário: procurar a droga nova (anticolinérgico, benzodiazepínico, opioide) antes de chamar de progressão.",
-  "referencias": "Critérios de Beers AGS 2023; NICE CG103 (delirium, atualização 2023); DSM-5-TR.",
-  "tags": [
-   "Delirium (CM)",
-   "Doença de Alzheimer (CM)"
-  ],
-  "sourceQuestionId": null,
-  "alvo": "Lê o rótulo (idosa com Alzheimer) e ignora a droga em uso que decide.",
-  "simulado": 2,
-  "area": "Neurologia"
- },
- {
-  "id": "S2-NEU-07",
-  "titulo": "Morte encefálica após PCR: tempo mínimo de observação na encefalopatia hipóxico-isquêmica",
-  "arma": "Limiar",
-  "comando": "fato solto",
-  "nivel": "média",
-  "enunciado": "Pela Resolução CFM nº 2.173/2017, no paciente em coma não perceptivo após parada cardiorrespiratória, com encefalopatia hipóxico-isquêmica como causa, o tempo mínimo de tratamento e observação hospitalar antes de iniciar os procedimentos de determinação de morte encefálica é de:",
-  "alternativas": {
-   "A": "6 horas",
-   "B": "12 horas",
-   "C": "24 horas",
-   "D": "72 horas"
-  },
-  "gabarito": "C",
-  "armadilha": "A",
-  "dado_decisivo": "encefalopatia hipóxico-isquêmica como causa",
-  "resolucao": "A regra geral da resolução é de no mínimo 6 horas de tratamento e observação em ambiente hospitalar, e é o número que o apressado marca. A exceção está no qualificador: quando a causa primária é encefalopatia hipóxico-isquêmica (após PCR), a observação mínima é de 24 horas. A razão é que o edema e a depressão pós-anóxica, somados à sedação e à hipotermia do pós-PCR, podem simular ausência de função de tronco nas primeiras horas. As 72 horas são o prazo de prognóstico neurológico no comatoso pós-PCR que não preenche morte encefálica, outra decisão. Os demais pré-requisitos seguem valendo: causa conhecida e irreversível, temperatura acima de 35 °C, SatO2 acima de 94% e PAS de pelo menos 100 mmHg (ou PAM de 65).",
-  "comentarios": {
-   "A": "Errada, é a armadilha. 6 horas é a regra geral da resolução, que não vale quando a causa é hipóxico-isquêmica.",
-   "B": "Errada. Não há prazo de 12 horas na resolução; o número não corresponde a nenhuma das duas regras.",
-   "C": "Correta. Na encefalopatia hipóxico-isquêmica, observação mínima de 24 horas após a PCR antes de iniciar o protocolo.",
-   "D": "Errada. 72 horas é a janela de prognóstico neurológico no coma pós-PCR (ERC/ESICM), não pré-requisito para abrir o protocolo de morte encefálica."
-  },
-  "para_levar": "Morte encefálica (CFM 2.173/2017): 6 horas de observação em geral, 24 horas se a causa for hipóxico-isquêmica.",
-  "referencias": "Resolução CFM nº 2.173/2017; ERC/ESICM 2021 (prognóstico pós-PCR).",
-  "tags": [
-   "Morte Encefálica (CM)"
-  ],
-  "sourceQuestionId": null,
-  "alvo": "Ponto de corte com exceção: ele fixa a regra geral e não checa a precondição.",
-  "simulado": 2,
-  "area": "Neurologia"
- },
- {
-  "id": "S2-NEU-08",
-  "titulo": "Encefalopatia de Wernicke após gastrectomia vertical, sem álcool: tiamina IV em dose alta antes da glicose",
-  "arma": "Cronologia",
-  "comando": "conduta",
-  "nivel": "difícil",
-  "enunciado": "Mulher de 34 anos, 10 semanas após gastrectomia vertical, é admitida por vômitos persistentes há 3 semanas, com perda de 14 kg no período. Nega uso de álcool e de outras substâncias. Há 4 dias está confusa e desatenta, e há 2 dias tem dificuldade para andar e visão dupla. Exame: PA 100/64 mmHg, FC 108 bpm, desidratada, nistagmo horizontal no olhar lateral bilateral, paresia do reto lateral direito, marcha atáxica de base alargada, sem rigidez de nuca. Glicemia capilar 58 mg/dL, sódio 134 mEq/L, potássio 2,9 mEq/L, magnésio 1,2 mg/dL (VR 1,7 a 2,4). A conduta inicial mais adequada é:",
-  "alternativas": {
-   "A": "Glicose IV e RM de encéfalo",
-   "B": "Tiamina 100 mg oral diária",
-   "C": "Punção lombar e aciclovir empírico",
-   "D": "Tiamina 500 mg IV antes da glicose"
-  },
-  "gabarito": "D",
-  "armadilha": "A",
-  "dado_decisivo": "vômitos persistentes há 3 semanas",
-  "resolucao": "Sem álcool, o rótulo de Wernicke some, e o apressado corrige a glicemia e pede imagem. Mas a reserva corporal de tiamina dura de 2 a 3 semanas, e 3 semanas de vômitos após cirurgia bariátrica bastam para esgotá-la. Confusão, nistagmo, paresia do VI e ataxia de marcha completam a tríade, que aparece inteira em menos de um terço dos casos. A conduta é tiamina IV em dose alta (500 mg três vezes ao dia por 2 a 3 dias, depois 250 mg) imediatamente, antes ou junto da glicose, porque a carga de glicose consome a tiamina restante e pode precipitar ou agravar a lesão; a hipoglicemia é corrigida em seguida, sem esperar exame. O magnésio baixo também precisa ser reposto, porque é cofator da transcetolase e sem ele a tiamina não age. A RM pode mostrar hipersinal periaquedutal e talâmico medial, mas é normal em boa parte dos casos e não deve atrasar o tratamento.",
-  "comentarios": {
-   "A": "Errada, é a armadilha. Dar glicose sem tiamina pode precipitar a lesão, e a RM normal não afasta Wernicke; o diagnóstico é clínico e o tratamento não espera imagem.",
-   "B": "Errada. Tiamina oral em dose baixa serve para prevenção ou manutenção; com vômitos e quadro neurológico instalado a absorção é incerta e a dose é insuficiente.",
-   "C": "Errada. Seria a conduta na suspeita de encefalite herpética (febre, crise, alteração temporal); aqui não há febre nem sinais meníngeos, e o quadro é carencial.",
-   "D": "Correta. Tiamina IV em dose alta imediatamente, antes da glicose, com reposição de magnésio, na paciente com 3 semanas de vômitos após bariátrica e a tríade completa."
-  },
-  "para_levar": "Wernicke não exige álcool: vômitos por mais de 2 a 3 semanas (bariátrica, hiperêmese, desnutrição) esgotam a tiamina. Tratar com 500 mg IV antes da glicose, sem esperar RM, e repor magnésio.",
-  "referencias": "EFNS 2010 (encefalopatia de Wernicke); ASMBS 2019 (micronutrientes após cirurgia bariátrica); Royal College of Physicians.",
-  "tags": [
-   "Encefalopatia de Wernicke (CM)"
-  ],
-  "sourceQuestionId": null,
-  "alvo": "Investiga antes de tratar na emergência (Einstein 3 de 3) e depende do rótulo (etilista) para reconhecer Wernicke.",
-  "simulado": 2,
-  "area": "Neurologia"
- }
+  {
+    "id": "S2-NEU-08",
+    "titulo": "Encefalopatia de Wernicke após gastrectomia vertical, sem álcool: tiamina IV em dose alta antes da glicose",
+    "arma": "Cronologia",
+    "comando": "conduta",
+    "nivel": "difícil",
+    "enunciado": "Mulher de 34 anos, 10 semanas após gastrectomia vertical, é admitida por vômitos persistentes há 3 semanas, com perda de 14 kg no período. Nega uso de álcool e de outras substâncias. Há 4 dias está confusa e desatenta, e há 2 dias tem dificuldade para andar e visão dupla. Exame: PA 100/64 mmHg, FC 108 bpm, desidratada, nistagmo horizontal no olhar lateral bilateral, paresia do reto lateral direito, marcha atáxica de base alargada, sem rigidez de nuca. Glicemia capilar 58 mg/dL, sódio 134 mEq/L, potássio 2,9 mEq/L, magnésio 1,2 mg/dL (VR 1,7 a 2,4). A conduta inicial mais adequada é:",
+    "alternativas": {
+      "A": "Tiamina 100 mg oral diária",
+      "B": "Tiamina 500 mg IV antes da glicose",
+      "C": "Punção lombar e aciclovir empírico",
+      "D": "Glicose IV e RM de encéfalo"
+    },
+    "gabarito": "B",
+    "armadilha": "D",
+    "dado_decisivo": "vômitos persistentes há 3 semanas",
+    "resolucao": "Sem álcool, o rótulo de Wernicke some, e o apressado corrige a glicemia e pede imagem. Mas a reserva corporal de tiamina dura de 2 a 3 semanas, e 3 semanas de vômitos após cirurgia bariátrica bastam para esgotá-la. Confusão, nistagmo, paresia do VI e ataxia de marcha completam a tríade, que aparece inteira em menos de um terço dos casos. A conduta é tiamina IV em dose alta (500 mg três vezes ao dia por 2 a 3 dias, depois 250 mg) imediatamente, antes ou junto da glicose, porque a carga de glicose consome a tiamina restante e pode precipitar ou agravar a lesão; a hipoglicemia é corrigida em seguida, sem esperar exame. O magnésio baixo também precisa ser reposto, porque é cofator da transcetolase e sem ele a tiamina não age. A RM pode mostrar hipersinal periaquedutal e talâmico medial, mas é normal em boa parte dos casos e não deve atrasar o tratamento.",
+    "comentarios": {
+      "A": "Errada. Tiamina oral em dose baixa serve para prevenção ou manutenção; com vômitos e quadro neurológico instalado a absorção é incerta e a dose é insuficiente.",
+      "B": "Correta. Tiamina IV em dose alta imediatamente, antes da glicose, com reposição de magnésio, na paciente com 3 semanas de vômitos após bariátrica e a tríade completa.",
+      "C": "Errada. Seria a conduta na suspeita de encefalite herpética (febre, crise, alteração temporal); aqui não há febre nem sinais meníngeos, e o quadro é carencial.",
+      "D": "Errada, é a armadilha. Dar glicose sem tiamina pode precipitar a lesão, e a RM normal não afasta Wernicke; o diagnóstico é clínico e o tratamento não espera imagem."
+    },
+    "para_levar": "Wernicke não exige álcool: vômitos por mais de 2 a 3 semanas (bariátrica, hiperêmese, desnutrição) esgotam a tiamina. Tratar com 500 mg IV antes da glicose, sem esperar RM, e repor magnésio.",
+    "referencias": "EFNS 2010 (encefalopatia de Wernicke); ASMBS 2019 (micronutrientes após cirurgia bariátrica); Royal College of Physicians.",
+    "tags": [
+      "Encefalopatia de Wernicke (CM)"
+    ],
+    "sourceQuestionId": null,
+    "alvo": "Investiga antes de tratar na emergência (Einstein 3 de 3) e depende do rótulo (etilista) para reconhecer Wernicke.",
+    "simulado": 2,
+    "area": "Neurologia"
+  }
 ]

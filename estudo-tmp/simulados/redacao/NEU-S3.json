@@ -1,270 +1,270 @@
 [
- {
-  "id": "S3-NEU-01",
-  "titulo": "Distonia aguda (crise oculógira) por metoclopramida em paciente com epilepsia: biperideno, não anticrise",
-  "arma": "Rótulo verdadeiro",
-  "comando": "conduta",
-  "nivel": "difícil",
-  "enunciado": "Homem de 24 anos, com epilepsia focal controlada com carbamazepina (última crise há 3 anos), foi atendido ontem à noite no PS por vômitos após uma festa, recebeu duas doses de metoclopramida 10 mg IV e teve alta com metoclopramida oral. Retorna 14 horas depois, angustiado, porque os olhos 'travam para cima' por vários minutos e o pescoço se estende e gira para a direita contra a vontade. Responde às perguntas durante os episódios e se lembra de tudo; fala com dificuldade pela contração da mandíbula. PA 132/80 mmHg, FC 104 bpm, Tax 36,8 °C, sem rigidez muscular generalizada, sem déficit focal. Glicemia 96 mg/dL, sódio 139 mEq/L. A conduta mais adequada é:",
-  "alternativas": {
-   "A": "Fenitoína IV em dose de ataque",
-   "B": "Biperideno IV",
-   "C": "Dantroleno IV",
-   "D": "Aumentar a dose de carbamazepina"
+  {
+    "id": "S3-NEU-01",
+    "titulo": "Distonia aguda (crise oculógira) por metoclopramida em paciente com epilepsia: biperideno, não anticrise",
+    "arma": "Rótulo verdadeiro",
+    "comando": "conduta",
+    "nivel": "média",
+    "enunciado": "Homem de 24 anos, com epilepsia focal controlada com carbamazepina (última crise há 3 anos), foi atendido ontem à noite no PS por vômitos após uma festa, recebeu duas doses de metoclopramida 10 mg IV e teve alta com metoclopramida oral. Retorna 14 horas depois, angustiado, porque os olhos 'travam para cima' por vários minutos e o pescoço se estende e gira para a direita contra a vontade. Responde às perguntas durante os episódios e se lembra de tudo; fala com dificuldade pela contração da mandíbula. PA 132/80 mmHg, FC 104 bpm, Tax 36,8 °C, sem rigidez muscular generalizada, sem déficit focal. Glicemia 96 mg/dL, sódio 139 mEq/L. A conduta mais adequada é:",
+    "alternativas": {
+      "A": "Biperideno IV",
+      "B": "Fenitoína IV em dose de ataque",
+      "C": "Dantroleno IV",
+      "D": "Aumentar a dose de carbamazepina"
+    },
+    "gabarito": "A",
+    "armadilha": "B",
+    "dado_decisivo": "Responde às perguntas durante os episódios e se lembra de tudo",
+    "resolucao": "O rótulo é verdadeiro e forte: ele tem epilepsia, e movimento involuntário recorrente no PS puxa para crise e anticrise. Mas olhos que travam para cima, pescoço em extensão e rotação e trismo, com consciência preservada e memória de cada episódio, horas depois de um antagonista dopaminérgico, são distonia aguda (crise oculógira, retrocolo e distonia oromandibular). Crise focal motora com consciência preservada existe, mas não produz desvio ocular sustentado por minutos com postura cervical torcional e não começa justo após metoclopramida. O tratamento é anticolinérgico parenteral (biperideno 2 a 5 mg IV ou IM, ou difenidramina), com melhora em minutos, e suspensão da metoclopramida; mantém-se anticolinérgico oral por 1 a 2 dias para evitar recorrência. Fenitoína não age sobre distonia, e o controle da epilepsia não mudou.",
+    "comentarios": {
+      "A": "Correta. Distonia aguda por bloqueio dopaminérgico responde a anticolinérgico parenteral em minutos; suspende-se a metoclopramida.",
+      "B": "Errada, é a armadilha. Fenitoína seria para crise epiléptica prolongada ou estado de mal; aqui a consciência está preservada, o movimento é distônico e o gatilho é a metoclopramida.",
+      "C": "Errada. Dantroleno se usa na síndrome neuroléptica maligna ou hipertermia maligna, com febre, rigidez generalizada e CPK alta, ausentes aqui.",
+      "D": "Errada. Seria considerado se houvesse crises epilépticas por nível baixo de carbamazepina; os episódios não são crises."
+    },
+    "para_levar": "Movimento anormal com consciência preservada horas após metoclopramida, haloperidol ou bromoprida é distonia aguda: biperideno IV. Epilepsia prévia não muda isso.",
+    "referencias": "MDS (distúrbios do movimento induzidos por drogas); UpToDate 2026 (Acute dystonia); bula ANVISA da metoclopramida.",
+    "tags": [
+      "Parkinsonismos secundários (CM)",
+      "Epilepsia (CM)"
+    ],
+    "sourceQuestionId": "e4dae55f1710dcb",
+    "alvo": "Distonia aguda tratada com fenitoína (regrediu; marcou fenitoína com 2,7% dos candidatos), agora com o rótulo de epilepsia verdadeira.",
+    "simulado": 3,
+    "area": "Neurologia"
   },
-  "gabarito": "B",
-  "armadilha": "A",
-  "dado_decisivo": "Responde às perguntas durante os episódios e se lembra de tudo",
-  "resolucao": "O rótulo é verdadeiro e forte: ele tem epilepsia, e movimento involuntário recorrente no PS puxa para crise e anticrise. Mas olhos que travam para cima, pescoço em extensão e rotação e trismo, com consciência preservada e memória de cada episódio, horas depois de um antagonista dopaminérgico, são distonia aguda (crise oculógira, retrocolo e distonia oromandibular). Crise focal motora com consciência preservada existe, mas não produz desvio ocular sustentado por minutos com postura cervical torcional e não começa justo após metoclopramida. O tratamento é anticolinérgico parenteral (biperideno 2 a 5 mg IV ou IM, ou difenidramina), com melhora em minutos, e suspensão da metoclopramida; mantém-se anticolinérgico oral por 1 a 2 dias para evitar recorrência. Fenitoína não age sobre distonia, e o controle da epilepsia não mudou.",
-  "comentarios": {
-   "A": "Errada, é a armadilha. Fenitoína seria para crise epiléptica prolongada ou estado de mal; aqui a consciência está preservada, o movimento é distônico e o gatilho é a metoclopramida.",
-   "B": "Correta. Distonia aguda por bloqueio dopaminérgico responde a anticolinérgico parenteral em minutos; suspende-se a metoclopramida.",
-   "C": "Errada. Dantroleno se usa na síndrome neuroléptica maligna ou hipertermia maligna, com febre, rigidez generalizada e CPK alta, ausentes aqui.",
-   "D": "Errada. Seria considerado se houvesse crises epilépticas por nível baixo de carbamazepina; os episódios não são crises."
+  {
+    "id": "S3-NEU-02",
+    "titulo": "Oftalmoplegia internuclear na mulher jovem: lado do FLM e etiologia desmielinizante",
+    "arma": "Grade X / Y",
+    "comando": "diagnóstico",
+    "nivel": "extremamente difícil",
+    "enunciado": "Mulher de 27 anos procura o ambulatório por visão dupla ao olhar para os lados há 5 dias. Há 1 ano teve perda visual dolorosa no olho esquerdo, com recuperação espontânea em 6 semanas, sem investigação. Nega cefaleia, ptose e piora ao fim do dia. Exame: no olhar para a esquerda, o olho direito não ultrapassa a linha média, e o olho esquerdo abduz com nistagmo; no olhar para a direita, os movimentos são completos e conjugados. A convergência é normal, com adução completa do olho direito. Pupilas isocóricas e fotorreagentes, sem ptose, força e reflexos normais. A topografia da lesão e a etiologia mais provável são, respectivamente:",
+    "alternativas": {
+      "A": "FLM esquerdo / desmielinizante",
+      "B": "FLM esquerdo / isquêmica",
+      "C": "FLM direito / desmielinizante",
+      "D": "FLM direito / isquêmica"
+    },
+    "gabarito": "C",
+    "armadilha": "A",
+    "dado_decisivo": "o olho direito não ultrapassa a linha média, e o olho esquerdo abduz com nistagmo",
+    "resolucao": "Só um olho falha, e só na adução: o direito não aduz no olhar para a esquerda, enquanto o esquerdo abduz normalmente com nistagmo. Isso é oftalmoplegia internuclear, lesão do fascículo longitudinal medial, que leva o comando do núcleo do VI de um lado ao núcleo do III do outro. A lesão fica do lado do olho que não aduz (FLM direito), e não do lado do nistagmo, que é onde o apressado a coloca. A convergência preservada prova que o reto medial e o III nervo funcionam: o defeito é na via internuclear, não no músculo nem no nervo. Lesão da FRPP esquerda paralisaria o olhar conjugado para a esquerda dos dois olhos, inclusive a abdução do esquerdo, que aqui está íntegra. Na mulher jovem, com neurite óptica prévia, a causa é desmielinizante (esclerose múltipla, frequentemente bilateral); no idoso vascular, a OIN unilateral é em geral isquêmica.",
+    "comentarios": {
+      "A": "Errada na topografia, e é a armadilha. Põe a lesão do lado do nistagmo de abdução; esse nistagmo aparece no olho contralateral à lesão, e o FLM lesado é o do lado do olho que não aduz.",
+      "B": "Errada nas duas metades. Lado do nistagmo, não do olho que falha, e etiologia do idoso vascular com instalação súbita.",
+      "C": "Correta. Olho direito que não aduz, com convergência preservada, localiza o FLM direito; mulher jovem com neurite óptica prévia aponta desmielinização.",
+      "D": "Errada na etiologia. Seria a resposta no idoso hipertenso e diabético com instalação súbita; aos 27 anos com neurite óptica prévia, a causa é desmielinizante."
+    },
+    "para_levar": "OIN: a lesão do FLM está do lado do olho que não aduz; o outro faz nistagmo de abdução; convergência preservada. Jovem: EM; idoso: AVC.",
+    "referencias": "Neuro-oftalmologia (Walsh and Hoyt, 7ª ed.); Harrison 22ª ed., cap. Neuro-Ophthalmology.",
+    "tags": [
+      "Neuroanatomia (CM)",
+      "Esclerose Múltipla (CM)"
+    ],
+    "sourceQuestionId": "658dffe10afa7e3",
+    "alvo": "OIN errada duas vezes caindo na FRPP; agora com o lado do nistagmo e a etiologia por idade.",
+    "simulado": 3,
+    "area": "Neurologia"
   },
-  "para_levar": "Movimento anormal com consciência preservada horas após metoclopramida, haloperidol ou bromoprida é distonia aguda: biperideno IV. Epilepsia prévia não muda isso.",
-  "referencias": "MDS (distúrbios do movimento induzidos por drogas); UpToDate 2026 (Acute dystonia); bula ANVISA da metoclopramida.",
-  "tags": [
-   "Parkinsonismos secundários (CM)",
-   "Epilepsia (CM)"
-  ],
-  "sourceQuestionId": "e4dae55f1710dcb",
-  "alvo": "Distonia aguda tratada com fenitoína (regrediu; marcou fenitoína com 2,7% dos candidatos), agora com o rótulo de epilepsia verdadeira.",
-  "simulado": 3,
-  "area": "Neurologia"
- },
- {
-  "id": "S3-NEU-02",
-  "titulo": "Oftalmoplegia internuclear na mulher jovem: lado do FLM e etiologia desmielinizante",
-  "arma": "Grade X / Y",
-  "comando": "diagnóstico",
-  "nivel": "extremamente difícil",
-  "enunciado": "Mulher de 27 anos procura o ambulatório por visão dupla ao olhar para os lados há 5 dias. Há 1 ano teve perda visual dolorosa no olho esquerdo, com recuperação espontânea em 6 semanas, sem investigação. Nega cefaleia, ptose e piora ao fim do dia. Exame: no olhar para a esquerda, o olho direito não ultrapassa a linha média, e o olho esquerdo abduz com nistagmo; no olhar para a direita, os movimentos são completos e conjugados. A convergência é normal, com adução completa do olho direito. Pupilas isocóricas e fotorreagentes, sem ptose, força e reflexos normais. A topografia da lesão e a etiologia mais provável são, respectivamente:",
-  "alternativas": {
-   "A": "FLM direito / desmielinizante",
-   "B": "FLM esquerdo / desmielinizante",
-   "C": "FRPP esquerda / desmielinizante",
-   "D": "FLM direito / isquêmica"
+  {
+    "id": "S3-NEU-03",
+    "titulo": "NMO rotulada de esclerose múltipla que piora com fingolimode: anti-aquaporina-4",
+    "arma": "Rótulo verdadeiro",
+    "comando": "próximo exame",
+    "nivel": "difícil",
+    "enunciado": "Mulher de 36 anos, parda, com diagnóstico de esclerose múltipla feito há 2 anos em outro serviço após neurite óptica bilateral grave (acuidade final 20/200 no olho direito), usa fingolimode há 8 meses. Nesse período teve 3 semanas de soluços e vômitos incoercíveis, com endoscopia normal, e agora apresenta, há 5 dias, paraparesia, nível sensitivo em T6 e retenção urinária. RM de coluna: lesão centromedular com hipersinal em T2 de C7 a T8, com realce. RM de encéfalo: lesão na área postrema, sem lesões periventriculares ovoides ou justacorticais. Bandas oligoclonais ausentes no líquor. Além da pulsoterapia com metilprednisolona, o exame a solicitar agora é:",
+    "alternativas": {
+      "A": "Potencial evocado visual",
+      "B": "Anticorpo anti-aquaporina-4 sérico",
+      "C": "Nova RM de encéfalo em 3 meses",
+      "D": "Pesquisa de vírus JC no líquor"
+    },
+    "gabarito": "B",
+    "armadilha": "D",
+    "dado_decisivo": "lesão centromedular com hipersinal em T2 de C7 a T8",
+    "resolucao": "O rótulo é o diagnóstico prévio de esclerose múltipla e a droga em uso; quem o aceita procura complicação do fingolimode (LEMP) ou acompanha atividade de EM. Mas o quadro não é de EM: mielite longitudinalmente extensa (mais de 3 segmentos vertebrais, centromedular), síndrome de área postrema (soluços e vômitos incoercíveis), neurite óptica bilateral grave com sequela e bandas oligoclonais ausentes são os critérios centrais de neuromielite óptica. O exame que define é o anti-aquaporina-4 sérico por ensaio celular; se negativo, pede-se anti-MOG. O diagnóstico muda o tratamento: fingolimode, natalizumabe, interferon beta e alentuzumabe não protegem e podem precipitar surtos graves na NMO, e a manutenção passa a ser rituximabe, inebilizumabe, satralizumabe ou eculizumabe. LEMP dá lesões subcorticais de substância branca sem realce importante e não causa mielite.",
+    "comentarios": {
+      "A": "Errada. Potencial evocado visual documenta lesão do nervo óptico, já evidente pela clínica, e não separa EM de NMO.",
+      "B": "Correta. Mielite extensa, síndrome de área postrema e neurite óptica grave sem bandas oligoclonais pedem anti-AQP4, que confirma NMO e muda a droga de manutenção.",
+      "C": "Errada. Repetir RM é monitoramento de EM; adiar o diagnóstico mantém uma droga que pode piorar a NMO.",
+      "D": "Errada, é a armadilha. Vírus JC se pesquisa na suspeita de LEMP (lesões subcorticais progressivas, sem mielite), sobretudo com natalizumabe; aqui o quadro é de surto de NMO."
+    },
+    "para_levar": "Mielite de 3 ou mais segmentos, soluços e vômitos incoercíveis ou neurite óptica grave bilateral: pedir anti-AQP4. Drogas de EM (fingolimode, natalizumabe, interferon) pioram a NMO.",
+    "referencias": "IPND 2015 (critérios de NMOSD); ECTRIMS/EAN 2023; Consenso brasileiro de NMOSD (ABN 2023).",
+    "tags": [
+      "NMO (neuromielite óptica) (CM)",
+      "Esclerose Múltipla (CM)"
+    ],
+    "sourceQuestionId": "f1e108680e9b294",
+    "alvo": "NMO x EM (regrediu): troca as drogas de EM e NMO e aceita o diagnóstico prévio como rótulo.",
+    "simulado": 3,
+    "area": "Neurologia"
   },
-  "gabarito": "A",
-  "armadilha": "C",
-  "dado_decisivo": "o olho direito não ultrapassa a linha média, e o olho esquerdo abduz com nistagmo",
-  "resolucao": "Só um olho falha, e só na adução: o direito não aduz no olhar para a esquerda, enquanto o esquerdo abduz normalmente com nistagmo. Isso é oftalmoplegia internuclear, lesão do fascículo longitudinal medial, que leva o comando do núcleo do VI de um lado ao núcleo do III do outro. A lesão fica do lado do olho que não aduz (FLM direito), e não do lado do nistagmo. A convergência preservada prova que o reto medial e o III nervo funcionam: o defeito é na via internuclear, não no músculo nem no nervo. Lesão da FRPP esquerda paralisaria o olhar conjugado para a esquerda dos dois olhos, inclusive a abdução do esquerdo, que aqui está íntegra. Na mulher jovem, com neurite óptica prévia, a causa é desmielinizante (esclerose múltipla, frequentemente bilateral); no idoso vascular, a OIN unilateral é em geral isquêmica.",
-  "comentarios": {
-   "A": "Correta. Olho direito que não aduz, com convergência preservada, localiza o FLM direito; mulher jovem com neurite óptica prévia aponta desmielinização.",
-   "B": "Errada na topografia. O nistagmo de abdução aparece no olho contralateral à lesão; a lesão está do lado do olho que não aduz.",
-   "C": "Errada, é a armadilha. FRPP esquerda causaria paralisia do olhar conjugado para a esquerda nos dois olhos; aqui o olho esquerdo abduz.",
-   "D": "Errada na etiologia. Seria a resposta no idoso hipertenso e diabético com instalação súbita; aos 27 anos com neurite óptica prévia, a causa é desmielinizante."
+  {
+    "id": "S3-NEU-04",
+    "titulo": "Estado de mal epiléptico sem acesso venoso: midazolam IM antes de qualquer imagem",
+    "arma": "Cronologia",
+    "comando": "conduta",
+    "nivel": "difícil",
+    "enunciado": "Homem de 45 anos, cerca de 80 kg, com epilepsia em uso irregular de valproato, é trazido pelo SAMU em crise tônico-clônica generalizada que começou há 8 minutos, presenciada pela esposa, sem recuperação da consciência entre os abalos. Na sala de emergência a crise persiste; SpO2 91% com máscara não reinalante, glicemia capilar 112 mg/dL, PA 168/96 mmHg. Após duas tentativas, a equipe ainda não conseguiu acesso venoso periférico. A esposa relata que ele caiu da própria altura no início da crise e bateu a cabeça. A conduta imediata mais adequada é:",
+    "alternativas": {
+      "A": "Fenitoína por acesso intraósseo",
+      "B": "Diazepam 10 mg intramuscular",
+      "C": "TC de crânio antes de medicar",
+      "D": "Midazolam 10 mg intramuscular"
+    },
+    "gabarito": "D",
+    "armadilha": "C",
+    "dado_decisivo": "crise tônico-clônica generalizada que começou há 8 minutos",
+    "resolucao": "Crise tônico-clônica que dura mais de 5 minutos é estado de mal, e a partir desse ponto cada minuto sem benzodiazepínico reduz a chance de resposta, porque os receptores GABA-A são internalizados. O trauma craniano é verdadeiro e vai exigir TC, mas a imagem vem depois de interromper a crise: o paciente em convulsão nem pode ser escaneado com segurança. Sem acesso venoso, o benzodiazepínico de primeira linha é o midazolam 10 mg IM (acima de 40 kg), tão eficaz quanto o lorazepam IV no estudo RAMPART e mais rápido de administrar; alternativas são midazolam intranasal ou bucal. Fenitoína, levetiracetam ou valproato são a segunda etapa, depois do benzodiazepínico. Diazepam é a finalista errada: pela via intramuscular, lipossolúvel e de absorção errática, atinge nível eficaz tarde demais; só serve IV ou retal. A hipoxemia em geral melhora quando a crise para.",
+    "comentarios": {
+      "A": "Errada. Fenitoína é droga da segunda etapa, após o benzodiazepínico; usar o acesso intraósseo para ela pula a primeira linha.",
+      "B": "Errada. Diazepam serve por via IV ou retal; pela via intramuscular a absorção é lenta e errática e o nível eficaz chega tarde. O benzodiazepínico para o músculo é o midazolam, hidrossolúvel.",
+      "C": "Errada, é a armadilha. A TC é necessária pelo trauma, mas depois de controlar a crise; investigar antes de tratar o estado de mal piora o prognóstico.",
+      "D": "Correta. Estado de mal com 8 minutos e sem acesso venoso: midazolam 10 mg IM agora, e depois imagem e droga de segunda linha."
+    },
+    "para_levar": "Estado de mal: benzodiazepínico até 5 a 10 minutos, antes de imagem e de exame. Sem veia, midazolam 10 mg IM.",
+    "referencias": "AES 2016 (estado de mal convulsivo); Neurocritical Care Society 2012; RAMPART (NEJM 2012); ESETT (NEJM 2019).",
+    "tags": [
+      "Estado de Mal Epiléptico (CM)"
+    ],
+    "sourceQuestionId": null,
+    "alvo": "Investiga antes de tratar na emergência (estado de mal errado no Einstein) e pula para a droga de segunda linha.",
+    "simulado": 3,
+    "area": "Neurologia"
   },
-  "para_levar": "OIN: a lesão do FLM está do lado do olho que não aduz; o outro faz nistagmo de abdução; convergência preservada. Jovem: EM; idoso: AVC.",
-  "referencias": "Neuro-oftalmologia (Walsh and Hoyt, 7ª ed.); Harrison 22ª ed., cap. Neuro-Ophthalmology.",
-  "tags": [
-   "Neuroanatomia (CM)",
-   "Esclerose Múltipla (CM)"
-  ],
-  "sourceQuestionId": "658dffe10afa7e3",
-  "alvo": "OIN errada duas vezes caindo na FRPP; agora com o lado do nistagmo e a etiologia por idade.",
-  "simulado": 3,
-  "area": "Neurologia"
- },
- {
-  "id": "S3-NEU-03",
-  "titulo": "NMO rotulada de esclerose múltipla que piora com fingolimode: anti-aquaporina-4",
-  "arma": "Rótulo verdadeiro",
-  "comando": "próximo exame",
-  "nivel": "extremamente difícil",
-  "enunciado": "Mulher de 36 anos, parda, com diagnóstico de esclerose múltipla feito há 2 anos em outro serviço após neurite óptica bilateral grave (acuidade final 20/200 no olho direito), usa fingolimode há 8 meses. Nesse período teve 3 semanas de soluços e vômitos incoercíveis, com endoscopia normal, e agora apresenta, há 5 dias, paraparesia, nível sensitivo em T6 e retenção urinária. RM de coluna: lesão centromedular com hipersinal em T2 de C7 a T8, com realce. RM de encéfalo: lesão na área postrema, sem lesões periventriculares ovoides ou justacorticais. Bandas oligoclonais ausentes no líquor. Além da pulsoterapia com metilprednisolona, o exame a solicitar agora é:",
-  "alternativas": {
-   "A": "Anticorpo anti-aquaporina-4 sérico",
-   "B": "Potencial evocado visual",
-   "C": "Pesquisa de vírus JC no líquor",
-   "D": "Nova RM de encéfalo em 3 meses"
+  {
+    "id": "S3-NEU-05",
+    "titulo": "Meningite com glicose liquórica 'normal' em diabético descompensado: razão líquor/sangue de 0,25",
+    "arma": "Limiar",
+    "comando": "etiologia",
+    "nivel": "difícil",
+    "enunciado": "Homem de 52 anos, com diabetes tipo 2 mal controlado, procura o PS por cefaleia progressiva há 3 semanas, febre baixa vespertina e, há 4 dias, visão dupla e sonolência. Exame: Glasgow 14, rigidez de nuca, paresia do VI nervo à esquerda, sem outros déficits. TC de crânio com contraste: discreta dilatação ventricular e realce meníngeo basal. Líquor: 210 células/mm³ (78% linfócitos), proteína 290 mg/dL, glicose 96 mg/dL, Gram, tinta da China e antígeno criptocócico negativos. Glicemia sérica colhida no mesmo momento: 384 mg/dL. HIV não reagente. Sem história de neoplasia. A etiologia mais provável é:",
+    "alternativas": {
+      "A": "Meningite tuberculosa",
+      "B": "Meningite carcinomatosa",
+      "C": "Meningite viral",
+      "D": "Meningite bacteriana decapitada"
+    },
+    "gabarito": "A",
+    "armadilha": "C",
+    "dado_decisivo": "Glicemia sérica colhida no mesmo momento: 384 mg/dL",
+    "resolucao": "Uma glicose de 96 mg/dL no líquor parece normal, e com predomínio linfocitário puxa para meningite viral. Mas a glicorraquia só se lê contra a glicemia simultânea: o normal é cerca de 60% a 2/3 da glicemia, e abaixo de 0,5 indica consumo. Aqui a razão é 96/384, cerca de 0,25: hipoglicorraquia acentuada mascarada pela hiperglicemia. Com evolução subaguda de 3 semanas, febre vespertina, par craniano (VI), hidrocefalia e realce meníngeo basal, proteína muito alta e pleocitose linfocitária moderada, o quadro é de meningite tuberculosa, e o tratamento empírico (RIPE com corticoide) começa sem esperar a cultura. Criptococo também consome glicose, mas tinta da China e antígeno criptocócico negativos o afastam; a meningite carcinomatosa imita o líquor, mas pede neoplasia conhecida e não explica a febre vespertina.",
+    "comentarios": {
+      "A": "Correta. Razão glicorraquia/glicemia de 0,25, proteína de 290, linfócitos, curso subagudo, VI nervo e realce basal com hidrocefalia.",
+      "B": "Errada. A carcinomatosa também dá hipoglicorraquia, proteína alta e pares cranianos múltiplos; seria a resposta em paciente com neoplasia conhecida (mama, pulmão, melanoma, linfoma), sem febre, com citologia oncótica positiva.",
+      "C": "Errada, é a armadilha. Meningite viral tem glicorraquia proporcional à glicemia, proteína levemente elevada e curso agudo; a razão de 0,25 e a proteína de 290 a derrubam.",
+      "D": "Errada. Bacteriana parcialmente tratada pode virar linfocitária, mas exigiria antibiótico prévio e curso agudo; 3 semanas com VI e realce basal são de TB."
+    },
+    "para_levar": "Glicorraquia se interpreta pela razão com a glicemia simultânea: abaixo de 0,5 (ou de 0,6) é consumo, mesmo com valor absoluto 'normal' no diabético descompensado.",
+    "referencias": "Ministério da Saúde, Manual de Recomendações para o Controle da TB 2019 (atualização 2022); IDSA 2017 (meningites); Thwaites et al., British Infection Society 2009.",
+    "tags": [
+      "Meningite Tuberculosa (CM)"
+    ],
+    "sourceQuestionId": "25f0cfae7b21ac6",
+    "alvo": "Razão glicorraquia/glicemia (regra fixada, errou 2 vezes com a mesma letra): lê o valor absoluto e ignora a glicemia da última linha.",
+    "simulado": 3,
+    "area": "Neurologia"
   },
-  "gabarito": "A",
-  "armadilha": "C",
-  "dado_decisivo": "lesão centromedular com hipersinal em T2 de C7 a T8",
-  "resolucao": "O rótulo é o diagnóstico prévio de esclerose múltipla e a droga em uso; quem o aceita procura complicação do fingolimode (LEMP) ou acompanha atividade de EM. Mas o quadro não é de EM: mielite longitudinalmente extensa (mais de 3 segmentos vertebrais, centromedular), síndrome de área postrema (soluços e vômitos incoercíveis), neurite óptica bilateral grave com sequela e bandas oligoclonais ausentes são os critérios centrais de neuromielite óptica. O exame que define é o anti-aquaporina-4 sérico por ensaio celular; se negativo, pede-se anti-MOG. O diagnóstico muda o tratamento: fingolimode, natalizumabe, interferon beta e alentuzumabe não protegem e podem precipitar surtos graves na NMO, e a manutenção passa a ser rituximabe, inebilizumabe, satralizumabe ou eculizumabe. LEMP dá lesões subcorticais de substância branca sem realce importante e não causa mielite.",
-  "comentarios": {
-   "A": "Correta. Mielite extensa, síndrome de área postrema e neurite óptica grave sem bandas oligoclonais pedem anti-AQP4, que confirma NMO e muda a droga de manutenção.",
-   "B": "Errada. Potencial evocado visual documenta lesão do nervo óptico, já evidente pela clínica, e não separa EM de NMO.",
-   "C": "Errada, é a armadilha. Vírus JC se pesquisa na suspeita de LEMP (lesões subcorticais progressivas, sem mielite), sobretudo com natalizumabe; aqui o quadro é de surto de NMO.",
-   "D": "Errada. Repetir RM é monitoramento de EM; adiar o diagnóstico mantém uma droga que pode piorar a NMO."
+  {
+    "id": "S3-NEU-06",
+    "titulo": "Guillain-Barré com CVF abaixo de 20 mL/kg e gasometria normal: intubação eletiva",
+    "arma": "Rótulo verdadeiro",
+    "comando": "conduta",
+    "nivel": "difícil",
+    "enunciado": "Homem de 39 anos, internado na enfermaria há 2 dias por fraqueza ascendente iniciada 6 dias após quadro diarreico, com arreflexia global e dissociação proteinocitológica no líquor, recebe imunoglobulina IV (2º de 5 dias). Hoje refere dificuldade para engolir e tosse fraca. Exame: tetraparesia grau 2 em membros inferiores e 3 em superiores, paresia facial bilateral, não consegue contar até 15 numa expiração. FR 22 irpm, SpO2 97% em ar ambiente, PA oscilando entre 90/60 e 170/100 mmHg nas últimas 6 horas. Gasometria arterial: pH 7,41, pCO2 40 mmHg, pO2 88 mmHg. Capacidade vital forçada à beira do leito: 17 mL/kg (na admissão, 35 mL/kg). A conduta mais adequada neste momento é:",
+    "alternativas": {
+      "A": "Repetir gasometria em 6 horas",
+      "B": "Intubação orotraqueal eletiva na UTI",
+      "C": "Ventilação não invasiva na UTI",
+      "D": "Associar metilprednisolona à imunoglobulina"
+    },
+    "gabarito": "B",
+    "armadilha": "A",
+    "dado_decisivo": "Capacidade vital forçada à beira do leito: 17 mL/kg",
+    "resolucao": "SpO2 de 97% e gasometria normal parecem tranquilizadoras, mas na fraqueza neuromuscular elas são as últimas a mudar: o paciente hiperventila para compensar até a fadiga súbita, e a hipercapnia aparece já na beira da parada. O que mede a reserva é a força ventilatória, e a regra é 20/30/40: CVF abaixo de 20 mL/kg, PImáx menos negativa que -30 cmH2O ou PEmáx abaixo de 40 cmH2O, ou queda de mais de 30% da CVF, indicam intubação eletiva. Aqui a CVF caiu de 35 para 17 mL/kg, há disfunção bulbar (disfagia, tosse fraca, diparesia facial) e disautonomia, todos preditores de ventilação mecânica (escore EGRIS alto). Ventilação não invasiva é contraindicada com disfunção bulbar, pelo risco de aspiração, e só adia a intubação. Corticoide não tem benefício na síndrome de Guillain-Barré e não se associa à imunoglobulina.",
+    "comentarios": {
+      "A": "Errada, é a armadilha. Gasometria normal não afasta falência iminente na doença neuromuscular; esperar alterar significa intubar em emergência.",
+      "B": "Correta. CVF de 17 mL/kg (queda de mais de 50%), disfunção bulbar e disautonomia: intubação eletiva e controlada na UTI.",
+      "C": "Errada. VNI pode ser usada em miastenia sem disfunção bulbar importante; na SGB com disfagia e tosse fraca aumenta aspiração e atrasa a intubação.",
+      "D": "Errada. Corticoide, isolado ou com imunoglobulina, não melhora o desfecho da SGB e não é recomendado."
+    },
+    "para_levar": "Na SGB e na miastenia, a decisão de intubar é pela CVF (menos de 20 mL/kg) e pressões respiratórias, não pela saturação ou gasometria. Corticoide não trata SGB.",
+    "referencias": "EAN/PNS 2023 (diretriz de Guillain-Barré); Lawn et al. 2001 (regra 20/30/40); Neurocritical Care Society.",
+    "tags": [
+      "Guillain-Barré (CM)"
+    ],
+    "sourceQuestionId": "40d6c864464e7c3",
+    "alvo": "Exame que decide (CVF) lido como enfeite diante do rótulo tranquilizador (saturação e gasometria normais).",
+    "simulado": 3,
+    "area": "Neurologia"
   },
-  "para_levar": "Mielite de 3 ou mais segmentos, soluços e vômitos incoercíveis ou neurite óptica grave bilateral: pedir anti-AQP4. Drogas de EM (fingolimode, natalizumabe, interferon) pioram a NMO.",
-  "referencias": "IPND 2015 (critérios de NMOSD); ECTRIMS/EAN 2023; Consenso brasileiro de NMOSD (ABN 2023).",
-  "tags": [
-   "NMO (neuromielite óptica) (CM)",
-   "Esclerose Múltipla (CM)"
-  ],
-  "sourceQuestionId": "f1e108680e9b294",
-  "alvo": "NMO x EM (regrediu): troca as drogas de EM e NMO e aceita o diagnóstico prévio como rótulo.",
-  "simulado": 3,
-  "area": "Neurologia"
- },
- {
-  "id": "S3-NEU-04",
-  "titulo": "Estado de mal epiléptico sem acesso venoso: midazolam IM antes de qualquer imagem",
-  "arma": "Cronologia",
-  "comando": "conduta",
-  "nivel": "difícil",
-  "enunciado": "Homem de 45 anos, com epilepsia em uso irregular de valproato, é trazido pelo SAMU em crise tônico-clônica generalizada que começou há 8 minutos, presenciada pela esposa, sem recuperação da consciência entre os abalos. Na sala de emergência a crise persiste; SpO2 91% com máscara não reinalante, glicemia capilar 112 mg/dL, PA 168/96 mmHg. Após duas tentativas, a equipe ainda não conseguiu acesso venoso periférico. A esposa relata que ele caiu da própria altura no início da crise e bateu a cabeça. A conduta imediata mais adequada é:",
-  "alternativas": {
-   "A": "TC de crânio antes de medicar",
-   "B": "Fenitoína por acesso intraósseo",
-   "C": "Intubação com bloqueador neuromuscular",
-   "D": "Midazolam 10 mg intramuscular"
+  {
+    "id": "S3-NEU-07",
+    "titulo": "Paralisia facial central que acorda com o paciente: testa poupada derruba a paralisia de Bell",
+    "arma": "Negativo no meio",
+    "comando": "próximo exame",
+    "nivel": "difícil",
+    "enunciado": "Homem de 66 anos, hipertenso e tabagista, acorda às 7 h com a boca 'torta' para a esquerda e babando ao beber café; foi dormir às 23 h sem queixas, após dormir com a janela aberta numa noite fria. Nega dor retroauricular, hiperacusia e alteração do paladar. Exame: apagamento do sulco nasolabial direito e queda da comissura labial à direita; franze a testa e eleva as sobrancelhas simetricamente e fecha os olhos com força igual dos dois lados; disartria discreta; força 5/5 e coordenação normal nos membros. PA 172/96 mmHg, glicemia 118 mg/dL, otoscopia normal. O próximo passo mais adequado é:",
+    "alternativas": {
+      "A": "Prednisona oral por 10 dias",
+      "B": "Prednisona com valaciclovir oral",
+      "C": "Eletroneuromiografia em 72 horas",
+      "D": "Neuroimagem de crânio com urgência"
+    },
+    "gabarito": "D",
+    "armadilha": "B",
+    "dado_decisivo": "franze a testa e eleva as sobrancelhas simetricamente",
+    "resolucao": "Noite fria, janela aberta e boca torta ao acordar montam o cenário de paralisia de Bell, e a resposta reflexa é corticoide, com ou sem antiviral. O dado que decide é um negativo do exame: a musculatura frontal e o orbicular dos olhos estão preservados. A porção superior da face recebe inervação cortical bilateral; por isso a lesão do neurônio motor superior poupa a testa, enquanto a do nervo facial (Bell) paralisa a hemiface inteira. Paralisia facial que poupa a testa, ainda que isolada e só com disartria discreta (que a própria paralisia facial causa), em hipertenso tabagista, é AVC até prova em contrário. Como acordou com o déficit, o último momento bem é 23 h, e a neuroimagem urgente (TC e angiotomografia, ou RM com difusão e FLAIR) define o diagnóstico e a elegibilidade para reperfusão. Corticoide aqui atrasaria o protocolo de AVC.",
+    "comentarios": {
+      "A": "Errada. Prednisona nas primeiras 72 horas é o tratamento da paralisia de Bell, que acomete a hemiface inteira, inclusive a testa.",
+      "B": "Errada, é a armadilha. O antiviral associado ao corticoide é considerado na Bell grave, mas o quadro não é de Bell: a testa está poupada, o que localiza a lesão acima do núcleo do facial.",
+      "C": "Errada. ENMG estima prognóstico da paralisia periférica completa após 72 horas a 2 semanas; não é exame de lesão central.",
+      "D": "Correta. Paralisia facial central (testa poupada), instalada durante o sono em vascular: neuroimagem urgente pelo protocolo de AVC."
+    },
+    "para_levar": "Paralisia facial que poupa a testa é central: protocolo de AVC, não corticoide. Bell paralisa a hemiface inteira.",
+    "referencias": "AAO-HNS 2013 (paralisia de Bell); AAN 2012; AHA/ASA 2026 (AVC isquêmico agudo).",
+    "tags": [
+      "AVC Isquêmico (CM)",
+      "Outros temas em Neurologia (CM)"
+    ],
+    "sourceQuestionId": null,
+    "alvo": "Lê o cenário (frio, acordou torto) e ignora o negativo do exame físico que separa central de periférico.",
+    "simulado": 3,
+    "area": "Neurologia"
   },
-  "gabarito": "D",
-  "armadilha": "A",
-  "dado_decisivo": "crise tônico-clônica generalizada que começou há 8 minutos",
-  "resolucao": "Crise tônico-clônica que dura mais de 5 minutos é estado de mal, e a partir desse ponto cada minuto sem benzodiazepínico reduz a chance de resposta, porque os receptores GABA-A são internalizados. O trauma craniano é verdadeiro e vai exigir TC, mas a imagem vem depois de interromper a crise: o paciente em convulsão nem pode ser escaneado com segurança. Sem acesso venoso, o benzodiazepínico de primeira linha é o midazolam 10 mg IM (acima de 40 kg), tão eficaz quanto o lorazepam IV no estudo RAMPART e mais rápido de administrar; alternativas são midazolam intranasal ou bucal. Fenitoína, levetiracetam ou valproato são a segunda etapa, depois do benzodiazepínico. A hipoxemia melhora em geral quando a crise para; intubar com bloqueador mascara a crise sem tratá-la.",
-  "comentarios": {
-   "A": "Errada, é a armadilha. A TC é necessária pelo trauma, mas depois de controlar a crise; investigar antes de tratar o estado de mal piora o prognóstico.",
-   "B": "Errada. Fenitoína é droga da segunda etapa, após o benzodiazepínico; usar o acesso intraósseo para ela pula a primeira linha.",
-   "C": "Errada. Intubação entra no estado de mal refratário ou com falência respiratória que não melhora após cessar a crise; o bloqueador neuromuscular esconde os abalos sem parar a atividade elétrica.",
-   "D": "Correta. Estado de mal com 8 minutos e sem acesso venoso: midazolam 10 mg IM agora, e depois imagem e droga de segunda linha."
-  },
-  "para_levar": "Estado de mal: benzodiazepínico até 5 a 10 minutos, antes de imagem e de exame. Sem veia, midazolam 10 mg IM.",
-  "referencias": "AES 2016 (estado de mal convulsivo); Neurocritical Care Society 2012; RAMPART (NEJM 2012); ESETT (NEJM 2019).",
-  "tags": [
-   "Estado de Mal Epiléptico (CM)"
-  ],
-  "sourceQuestionId": null,
-  "alvo": "Investiga antes de tratar na emergência (estado de mal errado no Einstein) e pula para a droga de segunda linha.",
-  "simulado": 3,
-  "area": "Neurologia"
- },
- {
-  "id": "S3-NEU-05",
-  "titulo": "Meningite com glicose liquórica 'normal' em diabético descompensado: razão líquor/sangue de 0,25",
-  "arma": "Limiar",
-  "comando": "etiologia",
-  "nivel": "difícil",
-  "enunciado": "Homem de 52 anos, com diabetes tipo 2 mal controlado, procura o PS por cefaleia progressiva há 3 semanas, febre baixa vespertina e, há 4 dias, visão dupla e sonolência. Exame: Glasgow 14, rigidez de nuca, paresia do VI nervo à esquerda, sem outros déficits. TC de crânio com contraste: discreta dilatação ventricular e realce meníngeo basal. Líquor: 210 células/mm³ (78% linfócitos), proteína 290 mg/dL, glicose 96 mg/dL, Gram e tinta da China negativos. Glicemia sérica colhida no mesmo momento: 384 mg/dL. HIV não reagente. A etiologia mais provável é:",
-  "alternativas": {
-   "A": "Meningite viral",
-   "B": "Meningite criptocócica",
-   "C": "Meningite bacteriana decapitada",
-   "D": "Meningite tuberculosa"
-  },
-  "gabarito": "D",
-  "armadilha": "A",
-  "dado_decisivo": "Glicemia sérica colhida no mesmo momento: 384 mg/dL",
-  "resolucao": "Uma glicose de 96 mg/dL no líquor parece normal, e com predomínio linfocitário puxa para meningite viral. Mas a glicorraquia só se lê contra a glicemia simultânea: o normal é cerca de 60% a 2/3 da glicemia, e abaixo de 0,5 indica consumo. Aqui a razão é 96/384, cerca de 0,25: hipoglicorraquia acentuada mascarada pela hiperglicemia. Com evolução subaguda de 3 semanas, febre vespertina, par craniano (VI), hidrocefalia e realce meníngeo basal, proteína muito alta e pleocitose linfocitária moderada, o quadro é de meningite tuberculosa, e o tratamento empírico (RIPE com corticoide) começa sem esperar a cultura. Criptococo é o diferencial principal e também consome glicose, mas é mais raro sem imunossupressão, e a tinta da China foi negativa (pedir antígeno criptocócico completa).",
-  "comentarios": {
-   "A": "Errada, é a armadilha. Meningite viral tem glicorraquia proporcional à glicemia, proteína levemente elevada e curso agudo; a razão de 0,25 e a proteína de 290 a derrubam.",
-   "B": "Errada. Criptococose dá quadro subagudo com hipoglicorraquia, mas é sobretudo do imunossuprimido, com hipertensão intracraniana marcante e tinta da China ou antígeno positivos.",
-   "C": "Errada. Bacteriana parcialmente tratada pode virar linfocitária, mas exigiria antibiótico prévio e curso agudo; 3 semanas com VI e realce basal são de TB.",
-   "D": "Correta. Razão glicorraquia/glicemia de 0,25, proteína de 290, linfócitos, curso subagudo, VI nervo e realce basal com hidrocefalia."
-  },
-  "para_levar": "Glicorraquia se interpreta pela razão com a glicemia simultânea: abaixo de 0,5 (ou de 0,6) é consumo, mesmo com valor absoluto 'normal' no diabético descompensado.",
-  "referencias": "Ministério da Saúde, Manual de Recomendações para o Controle da TB 2019 (atualização 2022); IDSA 2017 (meningites); Thwaites et al., British Infection Society 2009.",
-  "tags": [
-   "Meningite Tuberculosa (CM)"
-  ],
-  "sourceQuestionId": "25f0cfae7b21ac6",
-  "alvo": "Razão glicorraquia/glicemia (regra fixada, errou 2 vezes com a mesma letra): lê o valor absoluto e ignora a glicemia da última linha.",
-  "simulado": 3,
-  "area": "Neurologia"
- },
- {
-  "id": "S3-NEU-06",
-  "titulo": "Guillain-Barré com CVF abaixo de 20 mL/kg e gasometria normal: intubação eletiva",
-  "arma": "Rótulo verdadeiro",
-  "comando": "conduta",
-  "nivel": "extremamente difícil",
-  "enunciado": "Homem de 39 anos, internado na enfermaria há 2 dias por fraqueza ascendente iniciada 6 dias após quadro diarreico, com arreflexia global e dissociação proteinocitológica no líquor, recebe imunoglobulina IV (2º de 5 dias). Hoje refere dificuldade para engolir e tosse fraca. Exame: tetraparesia grau 2 em membros inferiores e 3 em superiores, paresia facial bilateral, não consegue contar até 15 numa expiração. FR 22 irpm, SpO2 97% em ar ambiente, PA oscilando entre 90/60 e 170/100 mmHg nas últimas 6 horas. Gasometria arterial: pH 7,41, pCO2 40 mmHg, pO2 88 mmHg. Capacidade vital forçada à beira do leito: 17 mL/kg (na admissão, 35 mL/kg). A conduta mais adequada neste momento é:",
-  "alternativas": {
-   "A": "Repetir gasometria em 6 horas",
-   "B": "Ventilação não invasiva na UTI",
-   "C": "Intubação orotraqueal eletiva na UTI",
-   "D": "Associar metilprednisolona à imunoglobulina"
-  },
-  "gabarito": "C",
-  "armadilha": "A",
-  "dado_decisivo": "Capacidade vital forçada à beira do leito: 17 mL/kg",
-  "resolucao": "SpO2 de 97% e gasometria normal parecem tranquilizadoras, mas na fraqueza neuromuscular elas são as últimas a mudar: o paciente hiperventila para compensar até a fadiga súbita, e a hipercapnia aparece já na beira da parada. O que mede a reserva é a força ventilatória, e a regra é 20/30/40: CVF abaixo de 20 mL/kg, PImáx menos negativa que -30 cmH2O ou PEmáx abaixo de 40 cmH2O, ou queda de mais de 30% da CVF, indicam intubação eletiva. Aqui a CVF caiu de 35 para 17 mL/kg, há disfunção bulbar (disfagia, tosse fraca, diparesia facial) e disautonomia, todos preditores de ventilação mecânica (escore EGRIS alto). Ventilação não invasiva é contraindicada com disfunção bulbar, pelo risco de aspiração, e só adia a intubação. Corticoide não tem benefício na síndrome de Guillain-Barré e não se associa à imunoglobulina.",
-  "comentarios": {
-   "A": "Errada, é a armadilha. Gasometria normal não afasta falência iminente na doença neuromuscular; esperar alterar significa intubar em emergência.",
-   "B": "Errada. VNI pode ser usada em miastenia sem disfunção bulbar importante; na SGB com disfagia e tosse fraca aumenta aspiração e atrasa a intubação.",
-   "C": "Correta. CVF de 17 mL/kg (queda de mais de 50%), disfunção bulbar e disautonomia: intubação eletiva e controlada na UTI.",
-   "D": "Errada. Corticoide, isolado ou com imunoglobulina, não melhora o desfecho da SGB e não é recomendado."
-  },
-  "para_levar": "Na SGB e na miastenia, a decisão de intubar é pela CVF (menos de 20 mL/kg) e pressões respiratórias, não pela saturação ou gasometria. Corticoide não trata SGB.",
-  "referencias": "EAN/PNS 2023 (diretriz de Guillain-Barré); Lawn et al. 2001 (regra 20/30/40); Neurocritical Care Society.",
-  "tags": [
-   "Guillain-Barré (CM)"
-  ],
-  "sourceQuestionId": "40d6c864464e7c3",
-  "alvo": "Exame que decide (CVF) lido como enfeite diante do rótulo tranquilizador (saturação e gasometria normais).",
-  "simulado": 3,
-  "area": "Neurologia"
- },
- {
-  "id": "S3-NEU-07",
-  "titulo": "Paralisia facial central que acorda com o paciente: testa poupada derruba a paralisia de Bell",
-  "arma": "Negativo no meio",
-  "comando": "próximo exame",
-  "nivel": "difícil",
-  "enunciado": "Homem de 66 anos, hipertenso e tabagista, acorda às 7 h com a boca 'torta' para a esquerda e babando ao beber café; foi dormir às 23 h sem queixas, após dormir com a janela aberta numa noite fria. Nega dor retroauricular, hiperacusia e alteração do paladar. Exame: apagamento do sulco nasolabial direito e queda da comissura labial à direita; franze a testa e eleva as sobrancelhas simetricamente e fecha os olhos com força igual dos dois lados; disartria discreta; força 5/5 nos membros, com leve lentidão no movimento fino da mão direita. PA 172/96 mmHg, glicemia 118 mg/dL, otoscopia normal. O próximo passo mais adequado é:",
-  "alternativas": {
-   "A": "Prednisona oral por 10 dias",
-   "B": "Prednisona com valaciclovir oral",
-   "C": "Neuroimagem de crânio com urgência",
-   "D": "Eletroneuromiografia em 72 horas"
-  },
-  "gabarito": "C",
-  "armadilha": "B",
-  "dado_decisivo": "franze a testa e eleva as sobrancelhas simetricamente",
-  "resolucao": "Noite fria, janela aberta e boca torta ao acordar montam o cenário de paralisia de Bell, e a resposta reflexa é corticoide, com ou sem antiviral. O dado que decide é um negativo do exame: a musculatura frontal e o orbicular dos olhos estão preservados. A porção superior da face recebe inervação cortical bilateral; por isso a lesão do neurônio motor superior poupa a testa, enquanto a do nervo facial (Bell) paralisa a hemiface inteira. Paralisia facial que poupa a testa, com disartria e lentidão da mão do mesmo lado, em hipertenso tabagista, é AVC até prova em contrário. Como acordou com o déficit, o último momento bem é 23 h, e a neuroimagem urgente (TC e angiotomografia, ou RM com difusão e FLAIR) define o diagnóstico e a elegibilidade para reperfusão. Corticoide aqui atrasaria o protocolo de AVC.",
-  "comentarios": {
-   "A": "Errada. Prednisona nas primeiras 72 horas é o tratamento da paralisia de Bell, que acomete a hemiface inteira, inclusive a testa.",
-   "B": "Errada, é a armadilha. O antiviral associado ao corticoide é considerado na Bell grave, mas o quadro não é de Bell: a testa está poupada e há disartria e déficit motor fino.",
-   "C": "Correta. Paralisia facial central com sinais associados, instalada durante o sono em vascular: neuroimagem urgente pelo protocolo de AVC.",
-   "D": "Errada. ENMG estima prognóstico da paralisia periférica completa após 72 horas a 2 semanas; não é exame de lesão central."
-  },
-  "para_levar": "Paralisia facial que poupa a testa é central: protocolo de AVC, não corticoide. Bell paralisa a hemiface inteira.",
-  "referencias": "AAO-HNS 2013 (paralisia de Bell); AAN 2012; AHA/ASA 2026 (AVC isquêmico agudo).",
-  "tags": [
-   "AVC Isquêmico (CM)",
-   "Outros temas em Neurologia (CM)"
-  ],
-  "sourceQuestionId": null,
-  "alvo": "Lê o cenário (frio, acordou torto) e ignora o negativo do exame físico que separa central de periférico.",
-  "simulado": 3,
-  "area": "Neurologia"
- },
- {
-  "id": "S3-NEU-08",
-  "titulo": "Crise miastênica precipitada pelo sulfato de magnésio na pré-eclâmpsia",
-  "arma": "Droga a deduzir",
-  "comando": "etiologia",
-  "nivel": "difícil",
-  "enunciado": "Gestante de 31 anos, 34 semanas, com miastenia gravis generalizada AChR positiva estável com piridostigmina 60 mg de 6/6 h, é internada com PA 168/112 mmHg, cefaleia e proteinúria de 2,1 g/24 h. Recebe nifedipino oral e a medicação padrão para prevenção de eclâmpsia, em dose de ataque IV seguida de infusão contínua. Duas horas depois apresenta ptose bilateral, disfagia, fraqueza cervical e dispneia, com CVF caindo de 2,8 L para 1,4 L. Reflexos patelares presentes, FC 88 bpm, pupilas normais, sem fasciculações, sem sialorreia, lacrimejamento ou cólicas. A causa mais provável da piora é:",
-  "alternativas": {
-   "A": "Crise colinérgica pela piridostigmina",
-   "B": "Bloqueio neuromuscular pelo sulfato de magnésio",
-   "C": "Exacerbação própria do terceiro trimestre",
-   "D": "Efeito do nifedipino na junção neuromuscular"
-  },
-  "gabarito": "B",
-  "armadilha": "A",
-  "dado_decisivo": "a medicação padrão para prevenção de eclâmpsia",
-  "resolucao": "A droga não é nomeada: a medicação padrão para prevenir eclâmpsia, em ataque IV e infusão, é o sulfato de magnésio. O magnésio reduz a liberação de acetilcolina na placa e a sensibilidade pós-sináptica, e na miastenia pode precipitar crise mesmo em nível terapêutico (os reflexos presentes mostram que não há intoxicação). A relação temporal de 2 horas decide contra a exacerbação gestacional, que é possível mas não começa em horas após uma droga. Crise colinérgica exigiria excesso de piridostigmina (dose inalterada) e sinais muscarínicos e nicotínicos: miose, sialorreia, cólicas, bradicardia, fasciculações, todos ausentes. Na miastenia, o sulfato de magnésio é relativamente contraindicado: suspender, e prevenir eclâmpsia com outra droga anticrise (levetiracetam é a mais citada), além de tratar a crise (imunoglobulina ou plasmaférese) e vigiar a CVF.",
-  "comentarios": {
-   "A": "Errada, é a armadilha. Crise colinérgica vem de excesso de anticolinesterásico e tem miose, sialorreia, cólicas, bradicardia e fasciculações; a dose não mudou e esses sinais estão ausentes.",
-   "B": "Correta. Sulfato de magnésio, a droga padrão contra eclâmpsia, bloqueia a junção neuromuscular e precipita crise miastênica horas após o início.",
-   "C": "Errada. A gestação pode piorar a miastenia, sobretudo no primeiro trimestre e no puerpério, mas não explica piora em 2 horas logo após uma droga.",
-   "D": "Errada. Bloqueadores de canal de cálcio têm efeito teórico pequeno; o nifedipino oral não precipita crise com essa intensidade e relação temporal."
-  },
-  "para_levar": "Na miastenia, evitar sulfato de magnésio, aminoglicosídeos, fluoroquinolonas, macrolídeos, betabloqueador e bloqueadores neuromusculares. Na pré-eclâmpsia com miastenia, a profilaxia de eclâmpsia é outra droga.",
-  "referencias": "International Consensus Guidance for Management of Myasthenia Gravis 2020; FEBRASGO 2023 (pré-eclâmpsia); ACOG 2020.",
-  "tags": [
-   "Miastenia Gravis (CM)"
-  ],
-  "sourceQuestionId": "1128c1b6673b050",
-  "alvo": "Droga em uso a deduzir (face 2 do degrau de conduta) e drogas que pioram a miastenia.",
-  "simulado": 3,
-  "area": "Neurologia"
- }
+  {
+    "id": "S3-NEU-08",
+    "titulo": "Crise miastênica precipitada pelo sulfato de magnésio na pré-eclâmpsia",
+    "arma": "Droga a deduzir",
+    "comando": "etiologia",
+    "nivel": "difícil",
+    "enunciado": "Gestante de 31 anos, 34 semanas, com miastenia gravis generalizada AChR positiva estável com piridostigmina 60 mg de 6/6 h, é internada com PA 168/112 mmHg, cefaleia e proteinúria de 2,1 g/24 h. Recebe nifedipino oral e a medicação padrão para prevenção de eclâmpsia, em dose de ataque IV seguida de infusão contínua. Duas horas depois apresenta ptose bilateral, disfagia, fraqueza cervical e dispneia, com CVF caindo de 2,8 L para 1,4 L. Reflexos patelares presentes, FC 88 bpm, pupilas normais, sem fasciculações, sem sialorreia, lacrimejamento ou cólicas. A causa mais provável da piora é:",
+    "alternativas": {
+      "A": "Efeito do nifedipino na junção neuromuscular",
+      "B": "Exacerbação própria do terceiro trimestre",
+      "C": "Bloqueio neuromuscular pelo sulfato de magnésio",
+      "D": "Crise colinérgica pela piridostigmina"
+    },
+    "gabarito": "C",
+    "armadilha": "D",
+    "dado_decisivo": "a medicação padrão para prevenção de eclâmpsia",
+    "resolucao": "A droga não é nomeada: a medicação padrão para prevenir eclâmpsia, em ataque IV e infusão, é o sulfato de magnésio. O magnésio reduz a liberação de acetilcolina na placa e a sensibilidade pós-sináptica, e na miastenia pode precipitar crise mesmo em nível terapêutico (os reflexos presentes mostram que não há intoxicação). A relação temporal de 2 horas decide contra a exacerbação gestacional, que é possível mas não começa em horas após uma droga. Crise colinérgica exigiria excesso de piridostigmina (dose inalterada) e sinais muscarínicos e nicotínicos: miose, sialorreia, cólicas, bradicardia, fasciculações, todos ausentes. Na miastenia, o sulfato de magnésio é relativamente contraindicado: suspender, e prevenir eclâmpsia com outra droga anticrise (levetiracetam é a mais citada), além de tratar a crise (imunoglobulina ou plasmaférese) e vigiar a CVF.",
+    "comentarios": {
+      "A": "Errada. Bloqueadores de canal de cálcio têm efeito teórico pequeno; o nifedipino oral não precipita crise com essa intensidade e relação temporal.",
+      "B": "Errada. A gestação pode piorar a miastenia, sobretudo no primeiro trimestre e no puerpério, mas não explica piora em 2 horas logo após uma droga.",
+      "C": "Correta. Sulfato de magnésio, a droga padrão contra eclâmpsia, bloqueia a junção neuromuscular e precipita crise miastênica horas após o início.",
+      "D": "Errada, é a armadilha. Crise colinérgica vem de excesso de anticolinesterásico e tem miose, sialorreia, cólicas, bradicardia e fasciculações; a dose não mudou e esses sinais estão ausentes."
+    },
+    "para_levar": "Na miastenia, evitar sulfato de magnésio, aminoglicosídeos, fluoroquinolonas, macrolídeos, betabloqueador e bloqueadores neuromusculares. Na pré-eclâmpsia com miastenia, a profilaxia de eclâmpsia é outra droga.",
+    "referencias": "International Consensus Guidance for Management of Myasthenia Gravis 2020; FEBRASGO 2023 (pré-eclâmpsia); ACOG 2020.",
+    "tags": [
+      "Miastenia Gravis (CM)"
+    ],
+    "sourceQuestionId": "1128c1b6673b050",
+    "alvo": "Droga em uso a deduzir (face 2 do degrau de conduta) e drogas que pioram a miastenia.",
+    "simulado": 3,
+    "area": "Neurologia"
+  }
 ]

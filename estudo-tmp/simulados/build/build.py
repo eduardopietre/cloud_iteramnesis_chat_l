@@ -57,9 +57,11 @@ def validar(qs):
         if q.get('dado_decisivo', '') not in q.get('enunciado', ''):
             erros.append(f'{i}: dado_decisivo fora do enunciado')
         texto = json.dumps({k: q.get(k) for k in CAMPOS if k not in ('tags', 'sourceQuestionId')}, ensure_ascii=False)
-        m = PROIBIDO.search(texto)
+        if re.search(r'[\u2014\u2013]', texto):
+            erros.append(f'{i}: travessão')
+        m = PROIBIDO.search(q.get('enunciado', '') + ' ' + ' '.join(alt.values()))
         if m:
-            erros.append(f'{i}: termo proibido "{m.group(0)}"')
+            erros.append(f'{i}: termo proibido no enunciado "{m.group(0)}"')
     ids = collections.Counter(q.get('id') for q in qs)
     erros += [f'id duplicado {k}' for k, v in ids.items() if v > 1]
     return erros

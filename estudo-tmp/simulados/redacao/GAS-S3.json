@@ -1,0 +1,372 @@
+[
+  {
+    "id": "S3-GAS-01",
+    "simulado": 3,
+    "area": "Gastroenterologia",
+    "titulo": "Pancreatite biliar leve sem colangite: sem CPRE e colecistectomia na mesma internação",
+    "arma": "Grade X / Y",
+    "comando": "conduta",
+    "nivel": "difícil",
+    "enunciado": "Mulher de 52 anos, sem comorbidades, está internada há 36 horas por pancreatite aguda biliar (lipase 2.400 U/L; ultrassonografia com colelitíase múltipla, colédoco de 7 mm, sem cálculo visível no colédoco). Na admissão: bilirrubina total 3,1 mg/dL, fosfatase alcalina 260 U/L, ALT 410 U/L. Recebeu Ringer lactato em ritmo moderado e analgesia, e já aceita dieta oral leve. Hoje: Tax 36,8 °C, FC 84 bpm, PA 124 x 78 mmHg, anictérica, dor abdominal leve. Exames: leucócitos 9.800/mm³, bilirrubina total 1,4 mg/dL, ALT 190 U/L, creatinina 0,8 mg/dL. Escore BISAP 1. Quanto à CPRE e ao momento da colecistectomia, a conduta mais adequada é, respectivamente:",
+    "alternativas": {
+      "A": "CPRE em 24 horas / após 6 semanas",
+      "B": "CPRE em 24 horas / na mesma internação",
+      "C": "Sem CPRE / após 6 semanas",
+      "D": "Sem CPRE / na mesma internação"
+    },
+    "gabarito": "D",
+    "armadilha": "B",
+    "dado_decisivo": "bilirrubina total 1,4 mg/dL",
+    "resolucao": "A bilirrubina de 3,1 e o colédoco de 7 mm na admissão puxam para CPRE, e é o reflexo de fazer mais. A CPRE de urgência na pancreatite biliar só se indica com colangite; com suspeita de obstrução persistente sem colangite, a decisão vem depois de colangiorressonância ou ecoendoscopia. Aqui não há febre, a bilirrubina caiu de 3,1 para 1,4 e as enzimas caem: o cálculo passou. CPRE sem indicação acrescenta pancreatite pós-CPRE, sangramento e perfuração sem reduzir mortalidade. A outra metade é o momento da colecistectomia: na pancreatite leve ela se faz na mesma internação, porque adiar por semanas multiplica a recorrência de eventos biliares (estudo PONCHO); esperar cerca de 6 semanas é para a pancreatite necrosante com coleções.",
+    "comentarios": {
+      "A": "Errada nas duas metades: CPRE sem colangite e colecistectomia adiada, que seriam condutas da colangite associada à pancreatite necrosante.",
+      "B": "Errada. É a isca: a colecistectomia na mesma internação está certa, mas a CPRE não tem indicação sem colangite e com bilirrubina em queda.",
+      "C": "Errada. Dispensar a CPRE está certo, mas adiar a colecistectomia por 6 semanas na pancreatite leve aumenta a recorrência de eventos biliares.",
+      "D": "Correta. Sem colangite e com bilirrubina caindo para 1,4, não há CPRE; pancreatite leve, colecistectomia antes da alta."
+    },
+    "para_levar": "Pancreatite biliar: CPRE urgente só com colangite; na forma leve, colecistectomia na mesma internação; na necrosante, adiar até a resolução das coleções.",
+    "referencias": "ACG Guideline: Management of Acute Pancreatitis (2024); IAP/APA evidence-based guidelines for the management of acute pancreatitis (2013); PONCHO (Lancet, 2015)",
+    "tags": [
+      "Pancreatite Aguda (CM)"
+    ],
+    "sourceQuestionId": null,
+    "alvo": "Faz mais do que o caso pede (CPRE sem colangite) e erra o momento da colecistectomia."
+  },
+  {
+    "id": "S3-GAS-02",
+    "simulado": 3,
+    "area": "Gastroenterologia",
+    "titulo": "Diarreia crônica no diabético com gastroparesia: supercrescimento bacteriano, e não metformina",
+    "arma": "Rótulo verdadeiro",
+    "comando": "etiologia",
+    "nivel": "extremamente difícil",
+    "enunciado": "Homem de 63 anos com DM2 há 22 anos, neuropatia periférica e gastroparesia diagnosticada há 3 anos, usa metformina 2 g/dia (há 15 anos), insulina NPH e omeprazol. Há 8 meses tem distensão abdominal pós-prandial, flatulência e 3 a 4 evacuações amolecidas por dia, com perda de 5 kg. Sem sangue e sem febre. Exame: hipotensão postural, abdome distendido e timpânico, sem massas. Exames: hemoglobina 11,2 g/dL, VCM 104 fL, vitamina B12 168 pg/mL (200 a 900), folato sérico 26 ng/mL (3 a 17), anti-transglutaminase IgA negativo com IgA total normal, TSH normal, calprotectina fecal 38 µg/g, elastase fecal 380 µg/g. Colonoscopia normal, com biópsias normais. A causa mais provável da diarreia é:",
+    "alternativas": {
+      "A": "Efeito adverso da metformina",
+      "B": "Supercrescimento bacteriano do delgado",
+      "C": "Insuficiência pancreática exócrina",
+      "D": "Colite microscópica"
+    },
+    "gabarito": "B",
+    "armadilha": "A",
+    "dado_decisivo": "folato sérico 26 ng/mL (3 a 17)",
+    "resolucao": "Metformina causa diarreia e deficiência de B12, e por isso é a resposta que salta. Mas a diarreia da metformina aparece no início do uso ou após aumento de dose, e ela não eleva o folato. Aqui a diarreia surgiu 15 anos depois, com distensão e flatulência, em um diabético com neuropatia autonômica (gastroparesia, hipotensão postural) que usa IBP: dismotilidade e hipocloridria são o substrato do supercrescimento bacteriano. A combinação de B12 baixa (consumida pelas bactérias) com folato alto (sintetizado por elas) é a assinatura laboratorial. A elastase normal afasta insuficiência pancreática e as biópsias normais afastam colite microscópica. Confirma-se com teste respiratório com glicose ou lactulose, ou trata-se empiricamente com rifaximina.",
+    "comentarios": {
+      "A": "Errada. É a isca: metformina dá diarreia precoce e B12 baixa, mas não folato alto, e o uso estável há 15 anos não explica um quadro de 8 meses.",
+      "B": "Correta. Neuropatia autonômica e IBP, com distensão, B12 baixa e folato alto: supercrescimento bacteriano do delgado.",
+      "C": "Errada. Seria a resposta com elastase fecal abaixo de 200 µg/g e esteatorreia; a elastase de 380 µg/g é normal.",
+      "D": "Errada. Colite microscópica dá diarreia aquosa com colonoscopia normal, mas as biópsias mostrariam a lesão; aqui foram normais."
+    },
+    "para_levar": "B12 baixa com folato alto em quem tem dismotilidade ou hipocloridria aponta supercrescimento bacteriano do delgado.",
+    "referencias": "ACG Clinical Guideline: Small Intestinal Bacterial Overgrowth (2020); North American Consensus on hydrogen and methane-based breath testing (2017)",
+    "tags": [
+      "Diarréias crônicas (CM)",
+      "Intestino (CM)"
+    ],
+    "sourceQuestionId": "392389c2c597e37",
+    "alvo": "Rótulo verdadeiro (droga que causa o mesmo sintoma) competindo com o laboratório que discrimina."
+  },
+  {
+    "id": "S3-GAS-03",
+    "simulado": 3,
+    "area": "Hepatologia",
+    "titulo": "Ascite refratária com hipertensão pulmonar e insuficiência tricúspide: TIPS contraindicado",
+    "arma": "Rótulo verdadeiro",
+    "comando": "conduta",
+    "nivel": "difícil",
+    "enunciado": "Homem de 66 anos com cirrose por álcool (abstinente há 3 anos), Child-Pugh B8 e MELD 14, tem insuficiência tricúspide importante com PSAP estimada de 62 mmHg e FE de VE de 60% ao ecocardiograma. Há 5 meses a ascite volta a exigir paracentese de grande volume a cada 3 semanas, apesar de restrição de sódio, e ele não tolera espironolactona acima de 100 mg/dia por hiponatremia (sódio 128 mEq/L). Sem encefalopatia prévia e sem sangramento. Exame: PA 102 x 64 mmHg, turgência jugular a 45 graus com onda v proeminente, ascite volumosa, edema de membros inferiores 2+. Exames: bilirrubina 1,8 mg/dL, creatinina 1,1 mg/dL, plaquetas 92.000/mm³. Doppler sem trombose portal. A conduta mais adequada para a ascite é:",
+    "alternativas": {
+      "A": "Paracenteses seriadas com albumina",
+      "B": "TIPS com prótese recoberta",
+      "C": "Shunt peritoneovenoso",
+      "D": "Furosemida em dose dobrada"
+    },
+    "gabarito": "A",
+    "armadilha": "B",
+    "dado_decisivo": "insuficiência tricúspide importante com PSAP estimada de 62 mmHg",
+    "resolucao": "Ascite que exige paracentese a cada 3 semanas apesar de restrição de sódio, com intolerância a diurético, é ascite refratária, e a conduta de manual é TIPS. Mas a primeira linha traz insuficiência tricúspide importante e PSAP de 62 mmHg: o TIPS desvia de uma vez o sangue portal para o átrio direito, aumenta a pré-carga e precipita insuficiência cardíaca direita e piora da hipertensão pulmonar. Insuficiência cardíaca, insuficiência tricúspide grave e hipertensão pulmonar moderada a grave contraindicam o procedimento. Resta paracentese de grande volume seriada com albumina (6 a 8 g por litro retirado quando acima de 5 litros) e a avaliação para transplante. Aumentar diurético é inviável com sódio de 128 e intolerância já documentada.",
+    "comentarios": {
+      "A": "Correta. Com TIPS contraindicado pela hipertensão pulmonar e pela insuficiência tricúspide, paracenteses de grande volume com albumina controlam a ascite refratária.",
+      "B": "Errada. É a isca: TIPS seria a resposta na ascite refratária sem doença cardíaca; com PSAP de 62 mmHg e insuficiência tricúspide importante, descompensa o coração direito.",
+      "C": "Errada. O shunt peritoneovenoso foi abandonado por oclusão, infecção e coagulopatia e sobrecarrega o mesmo coração direito.",
+      "D": "Errada. A ascite já é refratária por intolerância a diurético (hiponatremia); dobrar a dose agrava o sódio e a função renal."
+    },
+    "para_levar": "Antes de indicar TIPS, procure insuficiência cardíaca, insuficiência tricúspide grave e hipertensão pulmonar: com elas, a ascite refratária se trata com paracentese e albumina.",
+    "referencias": "AASLD Practice Guidance on ascites, SBP and hepatorenal syndrome (2021); EASL Clinical Practice Guidelines on decompensated cirrhosis (2018); Baveno VII (2022)",
+    "tags": [
+      "Ascite, PBE e PBS (CM)",
+      "Hipertensão Portal (CM)"
+    ],
+    "sourceQuestionId": "b7f4c0a62574b99",
+    "alvo": "Comorbidade da primeira linha que contraindica a conduta de manual (errou TIPS no hidrotórax com IC e hipertensão pulmonar)."
+  },
+  {
+    "id": "S3-GAS-04",
+    "simulado": 3,
+    "area": "Hepatologia",
+    "titulo": "Insuficiência hepática aguda por doença de Wilson: reconhecer sem ceruloplasmina e indicar transplante",
+    "arma": "Dado omitido",
+    "comando": "diagnóstico",
+    "nivel": "extremamente difícil",
+    "enunciado": "Mulher de 19 anos, previamente hígida, sem uso de medicamentos, chás ou álcool, tem icterícia progressiva há 10 dias e, há 2 dias, sonolência e desorientação. Exame: ictérica, com asterixis, sem estigmas de hepatopatia crônica, Tax 36,9 °C. Exames: hemoglobina 7,9 g/dL, reticulócitos 9%, DHL 980 U/L, teste de Coombs direto negativo, bilirrubina total 28 mg/dL (direta 12 mg/dL), AST 196 U/L, ALT 64 U/L, fosfatase alcalina 22 U/L (40 a 130), INR 3,4, creatinina 1,9 mg/dL. Sorologias para hepatites A, B, C e E negativas, paracetamol sérico indetectável, FAN e antimúsculo liso negativos. O diagnóstico mais provável e a conduta definitiva são, respectivamente:",
+    "alternativas": {
+      "A": "Hepatite autoimune fulminante / pulsoterapia com corticoide",
+      "B": "Doença de Wilson / D-penicilamina",
+      "C": "Doença de Wilson / transplante hepático de urgência",
+      "D": "Hepatite autoimune fulminante / transplante hepático de urgência"
+    },
+    "gabarito": "C",
+    "armadilha": "B",
+    "dado_decisivo": "fosfatase alcalina 22 U/L (40 a 130)",
+    "resolucao": "Mulher jovem com insuficiência hepática aguda, autoanticorpos negativos e sem droga lembra hepatite autoimune soronegativa, e quem reconhece Wilson tende a prescrever quelante. Os dados que decidem estão no laboratório, sem ceruloplasmina nem anel de Kayser-Fleischer: hemólise com Coombs negativo (o cobre liberado lesa as hemácias), fosfatase alcalina baixa (22 U/L), relação fosfatase alcalina/bilirrubina total abaixo de 4 e AST/ALT acima de 2,2. Essa combinação tem alta acurácia para Wilson fulminante. Com encefalopatia, INR de 3,4 e lesão renal, o escore prognóstico de Wilson é alto e a mortalidade sem transplante se aproxima de 100%: a conduta definitiva é transplante hepático de urgência. Quelante age em semanas e não resgata a forma fulminante; plasmaférese ou diálise com albumina servem só como ponte.",
+    "comentarios": {
+      "A": "Errada. Hepatite autoimune aguda grave cursa com transaminases muito mais altas, IgG elevada e sem hemólise com fosfatase alcalina baixa; e pulsoterapia não é a conduta com encefalopatia e INR de 3,4.",
+      "B": "Errada. É a isca: acerta o diagnóstico e erra o porte; D-penicilamina é para a doença hepática crônica ou compensada, e na forma fulminante não há tempo de resposta.",
+      "C": "Correta. Hemólise com Coombs negativo, fosfatase alcalina de 22 com relação FA/bilirrubina menor que 4 e AST/ALT maior que 2,2: Wilson fulminante, transplante de urgência.",
+      "D": "Errada. Transplante seria a conduta de insuficiência hepática aguda grave de qualquer causa sem resposta, mas hepatite autoimune não explica hemólise com fosfatase alcalina baixa."
+    },
+    "para_levar": "Insuficiência hepática aguda em jovem com hemólise Coombs negativa, fosfatase alcalina baixa (FA/bilirrubina menor que 4) e AST/ALT maior que 2,2 é Wilson fulminante: transplante.",
+    "referencias": "AASLD Practice Guidance on Wilson disease (2022); EASL Clinical Practice Guidelines on acute (fulminant) liver failure (2017)",
+    "tags": [
+      "Wilson (CM)",
+      "Insuficiência Hepática Aguda (CM)"
+    ],
+    "sourceQuestionId": "32da648f7990b1f",
+    "alvo": "Dado omitido (sem ceruloplasmina) e porte da conduta (quelante x transplante)."
+  },
+  {
+    "id": "S3-GAS-05",
+    "simulado": 3,
+    "area": "Hepatologia",
+    "titulo": "Hepatotoxicidade por paracetamol em ingestão escalonada: o nomograma não vale",
+    "arma": "Negativo no meio",
+    "comando": "conduta",
+    "nivel": "difícil",
+    "enunciado": "Homem de 41 anos, etilista de 60 g/dia, com dor de dente há 3 dias, tomou paracetamol 1 g a cada 3 a 4 horas nesse período, por conta própria, além de dois comprimidos de associação com codeína; a última dose foi há 10 horas. Chega com náuseas e dor em hipocôndrio direito. Exame: anictérico, lúcido, PA 128 x 80 mmHg, FC 96 bpm. Exames: AST 1.840 U/L, ALT 2.210 U/L, bilirrubina total 1,6 mg/dL, INR 1,6, creatinina 1,0 mg/dL, glicose 92 mg/dL, pH 7,38, lactato 1,8 mmol/L. Paracetamol sérico de 9 µg/mL, abaixo da linha de tratamento do nomograma de Rumack-Matthew para o horário. Sorologias virais em andamento. A conduta mais adequada é:",
+    "alternativas": {
+      "A": "Não tratar: nível abaixo da linha",
+      "B": "N-acetilcisteína intravenosa imediata",
+      "C": "Carvão ativado e observação",
+      "D": "Aguardar sorologias antes de tratar"
+    },
+    "gabarito": "B",
+    "armadilha": "A",
+    "dado_decisivo": "tomou paracetamol 1 g a cada 3 a 4 horas nesse período",
+    "resolucao": "O nível sérico abaixo da linha do nomograma tranquiliza, e é a isca. O nomograma de Rumack-Matthew só se aplica a ingestão aguda única com horário conhecido; em ingestão escalonada (doses repetidas supraterapêuticas ao longo de horas ou dias) ele não estima risco. Este homem tomou de 6 a 8 g/dia por 3 dias, é etilista (menos glutationa e indução do CYP2E1) e já tem transaminases acima de 1.800 U/L e INR de 1,6. Em ingestão escalonada, transaminases elevadas ou paracetamol detectável indicam N-acetilcisteína, que protege mesmo tardiamente. Não se espera sorologia para iniciar: o antídoto é seguro e o atraso custa fígado. Carvão ativado só tem papel nas primeiras horas de ingestão aguda.",
+    "comentarios": {
+      "A": "Errada. É a isca: o nomograma vale para ingestão aguda única; na escalonada, com AST de 1.840 U/L, o nível baixo não afasta hepatotoxicidade.",
+      "B": "Correta. Ingestão supraterapêutica repetida com transaminases elevadas: N-acetilcisteína intravenosa já, independentemente do nível sérico.",
+      "C": "Errada. Carvão ativado é útil até 1 a 2 horas após ingestão aguda; a última dose foi há 10 horas e a lesão já está instalada.",
+      "D": "Errada. Hepatite viral entra no diferencial, mas a N-acetilcisteína é segura e tempo-dependente; não se espera sorologia para iniciá-la."
+    },
+    "para_levar": "Nomograma de Rumack-Matthew só para ingestão aguda única com horário conhecido; em ingestão escalonada, ALT elevada ou paracetamol detectável indicam N-acetilcisteína.",
+    "referencias": "Chiew et al., Updated guidelines for the management of paracetamol poisoning in Australia and New Zealand (Med J Aust, 2020); EASL Clinical Practice Guidelines on acute (fulminant) liver failure (2017)",
+    "tags": [
+      "Insuficiência Hepática Aguda (CM)",
+      "Intoxicações (CM)"
+    ],
+    "sourceQuestionId": null,
+    "alvo": "Exame tranquilizador lido pelo número sem checar a precondição dele (o nomograma)."
+  },
+  {
+    "id": "S3-GAS-06",
+    "simulado": 3,
+    "area": "Gastroenterologia",
+    "titulo": "Pseudoacalasia: manometria de acalasia tipo II em idoso com disfagia curta e emagrecimento",
+    "arma": "Cronologia",
+    "comando": "próximo exame",
+    "nivel": "extremamente difícil",
+    "enunciado": "Homem de 71 anos, ex-tabagista, há 4 meses com disfagia progressiva para sólidos e depois para líquidos, regurgitação e perda de 11 kg. Endoscopia digestiva alta: esôfago discretamente dilatado, com resíduos, e resistência leve à passagem do aparelho pela junção esofagogástrica, cuja mucosa é normal à visão direta e na retrovisão; biópsias da cárdia sem neoplasia. Esofagograma baritado: afilamento distal em bico de pássaro. Manometria de alta resolução: pressão de relaxamento integrada da junção esofagogástrica de 28 mmHg e pressurização panesofágica em 100% das deglutições. O próximo passo mais adequado é:",
+    "alternativas": {
+      "A": "Dilatação pneumática da cárdia",
+      "B": "Miotomia endoscópica peroral",
+      "C": "Ecoendoscopia da junção esofagogástrica",
+      "D": "Toxina botulínica na cárdia"
+    },
+    "gabarito": "C",
+    "armadilha": "B",
+    "dado_decisivo": "há 4 meses com disfagia progressiva para sólidos e depois para líquidos, regurgitação e perda de 11 kg",
+    "resolucao": "A manometria fecha o padrão de acalasia tipo II e o esofagograma mostra bico de pássaro, e quem confia no exame vai direto à dilatação ou à miotomia. Mas a cronologia não é a da acalasia idiopática: 71 anos, sintomas há só 4 meses e perda de 11 kg, além de resistência à passagem do aparelho pela junção. Esses dados (idade acima de 55 a 60 anos, história menor que 1 ano e emagrecimento importante) são as bandeiras de pseudoacalasia, quase sempre adenocarcinoma infiltrativo da cárdia ou outra neoplasia que envolve o plexo da junção. Biópsia de mucosa normal não afasta, porque a infiltração é submucosa. O próximo passo é ecoendoscopia (ou TC) antes de qualquer tratamento.",
+    "comentarios": {
+      "A": "Errada. Seria uma opção na acalasia idiopática confirmada; dilatar uma neoplasia infiltrativa atrasa o diagnóstico e arrisca perfuração.",
+      "B": "Errada. É a isca: a miotomia endoscópica é excelente na acalasia tipo II, mas só depois de afastada a pseudoacalasia neste perfil.",
+      "C": "Correta. Idade, história de 4 meses, perda de 11 kg e resistência à passagem pedem ecoendoscopia para procurar infiltração neoplásica submucosa.",
+      "D": "Errada. Toxina botulínica é reservada a quem não pode fazer tratamento definitivo e não resolve a dúvida diagnóstica."
+    },
+    "para_levar": "Manometria de acalasia em idoso com sintomas há menos de 1 ano e emagrecimento importante é pseudoacalasia até prova em contrário: ecoendoscopia ou TC antes de tratar.",
+    "referencias": "ACG Clinical Guideline: Diagnosis and Management of Achalasia (2020); Classificação de Chicago versão 4.0 (2021)",
+    "tags": [
+      "Disfagias, Esofagite Eosinofílica e Acalasias (CM)"
+    ],
+    "sourceQuestionId": null,
+    "alvo": "Exame lido como diagnóstico fechado, ignorando a cronologia; tratar antes de excluir o diferencial."
+  },
+  {
+    "id": "S3-GAS-07",
+    "simulado": 3,
+    "area": "Hepatologia",
+    "titulo": "Hepatite C curada sem fibrose avançada: alta, sem rastreamento de carcinoma hepatocelular",
+    "arma": "Limiar",
+    "comando": "conduta",
+    "nivel": "difícil",
+    "enunciado": "Mulher de 56 anos, com hepatite C crônica adquirida por transfusão em 1988, foi tratada com sofosbuvir e velpatasvir por 12 semanas. Antes do tratamento: elastografia hepática transitória de 6,2 kPa, plaquetas 248.000/mm³, FIB-4 de 1,1 e ultrassonografia normal. Doze semanas após o fim do tratamento, HCV-RNA indetectável e ALT normal. Não usa álcool, IMC 23 kg/m², sem diabetes; HBsAg não reagente e anti-HBs reagente; não usa drogas e não tem nova exposição de risco. Quanto ao seguimento hepatológico, a conduta mais adequada é:",
+    "alternativas": {
+      "A": "Alta do seguimento da hepatite C",
+      "B": "Ultrassonografia semestral para hepatocarcinoma",
+      "C": "HCV-RNA anual por 5 anos",
+      "D": "Elastografia anual por toda a vida"
+    },
+    "gabarito": "A",
+    "armadilha": "B",
+    "dado_decisivo": "elastografia hepática transitória de 6,2 kPa",
+    "resolucao": "Depois de hepatite C, muita gente mantém ultrassonografia semestral por segurança, e é o excesso que a questão cobra. O rastreamento de carcinoma hepatocelular após resposta virológica sustentada só se mantém em quem tinha fibrose avançada ou cirrose (F3 ou F4, com elastografia em geral acima de 10 a 12,5 kPa), porque nesses o risco persiste após a cura. Esta paciente tinha elastografia de 6,2 kPa, FIB-4 de 1,1 e plaquetas normais, ou seja, fibrose ausente ou mínima, e não tem outro fator de lesão hepática (álcool, esteatose, vírus B). Sem exposição de risco contínua, não há necessidade de repetir HCV-RNA. A conduta é alta do seguimento da hepatite C, com a orientação de que o anti-HCV seguirá reagente.",
+    "comentarios": {
+      "A": "Correta. Resposta virológica sustentada, elastografia de 6,2 kPa e nenhum outro fator de lesão: alta, sem rastreamento de carcinoma hepatocelular.",
+      "B": "Errada. É a isca: ultrassonografia semestral se mantém após a cura em quem tinha F3 ou F4; com 6,2 kPa, o risco não a justifica.",
+      "C": "Errada. HCV-RNA periódico é para quem mantém exposição (uso de drogas injetáveis, prática sexual de risco, hemodiálise); ela não tem.",
+      "D": "Errada. Elastografia seriada acompanha fibrose avançada ou outra doença hepática ativa, e não hepatite C curada sem fibrose."
+    },
+    "para_levar": "Após a cura da hepatite C, rastreamento de carcinoma hepatocelular só em F3 ou F4; sem fibrose avançada e sem outro fator, alta.",
+    "referencias": "AASLD-IDSA HCV Guidance (2023); EASL recommendations on treatment of hepatitis C (2020); PCDT de Hepatite C e Coinfecções (Ministério da Saúde, 2019)",
+    "tags": [
+      "Hepatite C (CM)"
+    ],
+    "sourceQuestionId": null,
+    "alvo": "Faz mais do que o caso pede: rastrear sem a precondição de fibrose avançada."
+  },
+  {
+    "id": "S3-GAS-08",
+    "simulado": 3,
+    "area": "Oncologia",
+    "titulo": "Compressão medular por carcinoma renal com instabilidade: dexametasona e descompressão seguida de radioterapia",
+    "arma": "Grade X / Y",
+    "comando": "conduta",
+    "nivel": "difícil",
+    "enunciado": "Homem de 61 anos com carcinoma renal de células claras e metástases pulmonares pequenas e estáveis, em uso de pembrolizumabe e axitinibe, ECOG 1, tem dor dorsal progressiva há 10 dias, pior ao deitar, e há 24 horas fraqueza nas pernas. Exame: força grau 4 em membros inferiores, hiper-reflexia patelar, nível sensitivo em T8; deambula com apoio. RM de toda a coluna: lesão lítica única em T7, com colapso de 50% do corpo vertebral, retropulsão de fragmento ósseo e compressão medular; SINS 13; sem outras lesões. A medida imediata e o tratamento definitivo mais adequados são, respectivamente:",
+    "alternativas": {
+      "A": "Dexametasona / radioterapia isolada",
+      "B": "Aguardar biópsia / radioterapia isolada",
+      "C": "Aguardar biópsia / descompressão seguida de radioterapia",
+      "D": "Dexametasona / descompressão seguida de radioterapia"
+    },
+    "gabarito": "D",
+    "armadilha": "A",
+    "dado_decisivo": "SINS 13",
+    "resolucao": "Compressão medular neoplásica faz pensar em dexametasona e radioterapia, que é o tratamento da maioria. Duas informações mudam o tratamento definitivo: a histologia radiorresistente (carcinoma renal de células claras) e a instabilidade mecânica (colapso de 50%, retropulsão de fragmento, SINS de 13, na faixa de instabilidade). Com lesão em um só nível, déficit há menos de 48 horas, bom estado funcional e doença sistêmica controlada (expectativa de vida acima de 3 meses), a descompressão com estabilização seguida de radioterapia preserva a marcha melhor que a radioterapia isolada (Patchell). A radioterapia não estabiliza a coluna nem remove fragmento ósseo. A dexametasona começa já, porque há déficit neurológico, e biópsia é desnecessária com primário conhecido e imagem compatível.",
+    "comentarios": {
+      "A": "Errada. É a isca: radioterapia isolada é a conduta para tumor radiossensível, múltiplos níveis ou prognóstico curto; não corrige instabilidade nem fragmento retropulsado.",
+      "B": "Errada nas duas metades: atrasar o corticoide com déficit instalado custa função, e a radioterapia isolada não resolve a instabilidade.",
+      "C": "Errada. A cirurgia está certa, mas aguardar biópsia é desnecessário com primário conhecido e atrasa corticoide e descompressão.",
+      "D": "Correta. Déficit há 24 horas: dexametasona imediata; lesão única, instável (SINS 13), radiorresistente e com bom prognóstico: descompressão e estabilização, depois radioterapia."
+    },
+    "para_levar": "Na compressão medular neoplásica, cirurgia seguida de radioterapia em lesão única, instável ou radiorresistente, com bom prognóstico; radioterapia isolada nos demais.",
+    "referencias": "Patchell et al., Lancet (2005); NICE NG234: Spinal metastases and metastatic spinal cord compression (2023); Spine Instability Neoplastic Score (Fisher et al., Spine, 2010)",
+    "tags": [
+      "Compressão Medular Oncológica (CM)",
+      "Emergências Oncológicas (CM)"
+    ],
+    "sourceQuestionId": null,
+    "alvo": "Porte e ordem da conduta em emergência oncológica, com dois dados do tumor que mudam o tratamento."
+  },
+  {
+    "id": "S3-GAS-09",
+    "simulado": 3,
+    "area": "Oncologia",
+    "titulo": "Hipercalcemia em paciente com câncer: PTH elevado indica hiperparatireoidismo primário",
+    "arma": "Rótulo verdadeiro",
+    "comando": "etiologia",
+    "nivel": "difícil",
+    "enunciado": "Mulher de 64 anos, tratada há 3 anos de carcinoma de mama luminal A estádio I (cirurgia conservadora, radioterapia e anastrozol em curso), assintomática, tem cálcio total de 11,4 mg/dL (8,5 a 10,2) em exames de rotina, confirmado com cálcio iônico de 1,48 mmol/L. Usa anastrozol e losartana; nega suplemento de cálcio ou de vitamina D e tiazídico. Exame normal. Exames: fósforo 2,3 mg/dL, albumina 4,2 g/dL, creatinina 0,8 mg/dL, PTH 112 pg/mL (15 a 65), 25-OH-vitamina D 32 ng/mL, cálcio urinário de 24 h 290 mg, fosfatase alcalina normal. Cintilografia óssea de seguimento, há 2 meses, sem lesões. A causa mais provável da hipercalcemia é:",
+    "alternativas": {
+      "A": "Metástases ósseas osteolíticas",
+      "B": "Hipercalcemia humoral pelo PTHrP",
+      "C": "Hiperparatireoidismo primário",
+      "D": "Hipercalcemia hipocalciúrica familiar"
+    },
+    "gabarito": "C",
+    "armadilha": "B",
+    "dado_decisivo": "PTH 112 pg/mL (15 a 65)",
+    "resolucao": "Câncer de mama e hipercalcemia montam hipercalcemia da malignidade, e é para lá que o rótulo puxa. Mas o primeiro exame da hipercalcemia é o PTH, e ele está elevado: na hipercalcemia por PTHrP, por metástase lítica ou por calcitriol, o PTH vem suprimido. PTH alto ou inapropriadamente normal com cálcio alto é hipercalcemia PTH-dependente, e a causa mais comum em ambulatório, inclusive em quem tem câncer, é hiperparatireoidismo primário. O cálcio urinário de 290 mg/24 h afasta hipercalcemia hipocalciúrica familiar, e a cintilografia sem lesões, a fosfatase alcalina normal e a doença estádio I sem recidiva tornam metástase improvável. O passo seguinte é localizar a paratireoide e avaliar critérios cirúrgicos.",
+    "comentarios": {
+      "A": "Errada. Metástases líticas suprimem o PTH e costumam alterar fosfatase alcalina ou cintilografia; aqui o PTH está alto e a cintilografia é normal.",
+      "B": "Errada. É a isca: PTHrP elevado suprime o PTH; um PTH de 112 pg/mL com cálcio alto não é hipercalcemia humoral maligna.",
+      "C": "Correta. Cálcio alto com PTH elevado, fósforo baixo e calciúria alta: hiperparatireoidismo primário, mesmo com câncer de base.",
+      "D": "Errada. Hipercalcemia hipocalciúrica familiar tem calciúria baixa (fração de excreção de cálcio abaixo de 0,01); 290 mg/24 h a afasta."
+    },
+    "para_levar": "Na hipercalcemia, PTH alto é causa PTH-dependente mesmo em quem tem câncer; a hipercalcemia da malignidade suprime o PTH.",
+    "referencias": "Endocrine Society Clinical Practice Guideline: Treatment of Hypercalcemia of Malignancy in Adults (2023); Fifth International Workshop on the evaluation and management of primary hyperparathyroidism (2022)",
+    "tags": [
+      "Hipercalcemia Relacionada à Malignidade (CM)",
+      "Hiperparatireoidismo Primário (Clínica Médica) (CM)"
+    ],
+    "sourceQuestionId": "700fb0865cb5bde",
+    "alvo": "Rótulo verdadeiro (câncer) contra o exame que decide (PTH)."
+  },
+  {
+    "id": "S3-GAS-10",
+    "simulado": 3,
+    "area": "Oncologia",
+    "titulo": "Agitação no fim de vida: retenção urinária por anticolinérgico antes de rotular delirium terminal",
+    "arma": "Rótulo verdadeiro",
+    "comando": "etiologia",
+    "nivel": "difícil",
+    "enunciado": "Homem de 79 anos com adenocarcinoma de próstata metastático para ossos, em cuidados de fim de vida domiciliares (PPS 30%), usa morfina de liberação regular 10 mg a cada 4 horas há 3 semanas, sem mudança de dose, e recebeu ontem à noite, por insônia, amitriptilina 25 mg prescrita pelo plantão. Há 8 horas está agitado, tenta sair da cama, puxa o cateter de hipodermóclise e geme ao ser tocado no abdome. Exame: Tax 36,7 °C, FC 104 bpm, PA 150 x 90 mmHg, desatento, sem mioclonias; massa suprapúbica dolorosa, macicez até a cicatriz umbilical; última diurese há 10 horas. Glicemia capilar 118 mg/dL. A causa mais provável da agitação é:",
+    "alternativas": {
+      "A": "Retenção urinária aguda",
+      "B": "Delirium terminal",
+      "C": "Neurotoxicidade por morfina",
+      "D": "Dor óssea não controlada"
+    },
+    "gabarito": "A",
+    "armadilha": "B",
+    "dado_decisivo": "massa suprapúbica dolorosa, macicez até a cicatriz umbilical",
+    "resolucao": "Paciente em fim de vida que fica agitado e desatento parece estar em delirium terminal, e a resposta automática é sedar com haloperidol ou midazolam. Mas delirium terminal é diagnóstico de exclusão, depois de afastadas as causas reversíveis, e a mais simples está no exame: globo vesical até a cicatriz umbilical e 10 horas sem diurese. A amitriptilina de ontem (anticolinérgico), somada à morfina e à próstata, explica a retenção. A conduta é cateterismo vesical e suspensão da amitriptilina, e a agitação costuma ceder em minutos. Neurotoxicidade por morfina exigiria aumento de dose, desidratação ou piora renal e traria mioclonias, que não há.",
+    "comentarios": {
+      "A": "Correta. Globo vesical doloroso e 10 horas sem diurese após anticolinérgico, em homem com doença prostática: retenção urinária causando a agitação.",
+      "B": "Errada. É a isca: delirium terminal só se diagnostica após afastar causas reversíveis, e há uma evidente no exame.",
+      "C": "Errada. A dose de morfina está estável há 3 semanas, sem mioclonias e sem piora renal descrita.",
+      "D": "Errada. Dor óssea mal controlada causaria agitação, mas a dor está no abdome, sobre a bexiga distendida."
+    },
+    "para_levar": "Agitação no fim de vida: antes de sedar, procure globo vesical, fecaloma, dor, hipoxemia e droga anticolinérgica.",
+    "referencias": "NICE NG31: Care of dying adults in the last days of life (2015); ESMO Clinical Practice Guidelines on delirium in adult cancer patients (2018)",
+    "tags": [
+      "Delirium (CM)",
+      "Cuidados Paliativos - Oncologia (CM)"
+    ],
+    "sourceQuestionId": null,
+    "alvo": "Rótulo (fim de vida) puxando a conduta maior quando a causa simples está no exame físico."
+  },
+  {
+    "id": "S3-GAS-11",
+    "simulado": 3,
+    "area": "Oncologia",
+    "titulo": "Rastreamento do câncer do colo após histerectomia total por doença benigna",
+    "arma": "Omissão",
+    "comando": "fato solto",
+    "nivel": "média",
+    "enunciado": "Em mulher de 47 anos, imunocompetente, submetida há 6 anos a histerectomia total por miomatose, com histopatológico do colo uterino sem neoplasia intraepitelial e citopatológicos anteriores normais, a conduta quanto ao rastreamento do câncer do colo do útero é:",
+    "alternativas": {
+      "A": "Teste de DNA-HPV a cada 5 anos",
+      "B": "Encerrar o rastreamento",
+      "C": "Citologia da cúpula a cada 3 anos",
+      "D": "Colposcopia anual da cúpula"
+    },
+    "gabarito": "B",
+    "armadilha": "A",
+    "dado_decisivo": "histopatológico do colo uterino sem neoplasia intraepitelial",
+    "resolucao": "A faixa de rastreamento dos 25 aos 64 anos faz manter o exame, agora com o teste de DNA-HPV que substitui a citologia no programa brasileiro. Mas o rastreamento existe para detectar lesão precursora no colo, e a histerectomia total por doença benigna, sem NIC 2 ou mais grave no histórico, retirou o órgão-alvo. Câncer primário de vagina é raro demais para justificar rastreio: encerra-se o rastreamento. A exceção é quem foi histerectomizada por NIC 2 ou mais grave ou câncer, ou é imunossuprimida, que segue com controle da cúpula.",
+    "comentarios": {
+      "A": "Errada. É a isca: DNA-HPV a cada 5 anos é o novo rastreio de quem tem colo; após histerectomia total por doença benigna não há órgão-alvo.",
+      "B": "Correta. Histerectomia total por doença benigna, sem NIC 2 ou mais grave: rastreamento encerrado.",
+      "C": "Errada. Citologia de cúpula se mantém só quando a histerectomia foi por NIC de alto grau ou câncer, ou na imunossupressão.",
+      "D": "Errada. Colposcopia não é exame de rastreamento; é investigação de exame alterado."
+    },
+    "para_levar": "Histerectomia total por doença benigna, sem NIC 2 ou mais grave: não se rastreia câncer do colo.",
+    "referencias": "Diretrizes Brasileiras para o Rastreamento do Câncer do Colo do Útero (INCA, 2016); Diretrizes para o rastreamento com teste de DNA-HPV (Ministério da Saúde/INCA, 2024); USPSTF Cervical Cancer Screening (2018)",
+    "tags": [
+      "Rastreamentos em Clínica Médica (CM)"
+    ],
+    "sourceQuestionId": null,
+    "alvo": "Omissão em rastreamento: fazer exame sem órgão-alvo."
+  }
+]
