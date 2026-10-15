@@ -240,35 +240,35 @@
   "id": "S3-HEM-08",
   "simulado": 3,
   "area": "Hematologia",
-  "titulo": "Nefropatia por cilindros de cadeia leve com eletroforese sem pico: cadeias leves livres séricas",
-  "arma": "Dado omitido",
-  "comando": "próximo exame",
+  "titulo": "Plasmocitoma ósseo solitário com envolvimento medular mínimo: radioterapia local, não tratamento de mieloma",
+  "arma": "Limiar",
+  "comando": "conduta",
   "nivel": "extremamente difícil",
-  "enunciado": "Homem de 63 anos é internado por náuseas, astenia e perda de 5 kg em 2 meses. Nega uso de anti-inflamatórios ou contraste recente. PA 128 x 76 mmHg, sem edema. Exames: Hb 9,4 g/dL, creatinina 4,6 mg/dL (1,0 há 6 meses), ureia 140 mg/dL, cálcio 11,2 mg/dL, albumina 3,9 g/dL, proteínas totais 6,1 g/dL. Urina tipo 1: densidade 1.015, proteína traços na fita, sem hematúria e sem cilindros hemáticos. Proteinúria de 24 horas de 3,8 g. Eletroforese de proteínas séricas: hipogamaglobulinemia, sem pico monoclonal. Ultrassonografia: rins de 11 cm, sem hidronefrose. O próximo exame mais adequado é:",
+  "enunciado": "Homem de 57 anos procura atendimento por dor lombar há 3 meses, sem déficit neurológico. Ressonância de coluna: lesão expansiva única no corpo vertebral de T11, com componente de partes moles, sem compressão medular e sem instabilidade. Biópsia guiada por tomografia: infiltrado de plasmócitos monoclonais kappa. Exames: Hb 13,8 g/dL, cálcio 9,5 mg/dL, creatinina 0,9 mg/dL, pico monoclonal IgG kappa de 0,4 g/dL, razão de cadeias leves livres kappa/lambda de 3,1. PET-CT de corpo inteiro sem outras lesões. Biópsia de medula óssea da crista ilíaca com plasmócitos clonais em 6%. A conduta mais adequada é:",
   "alternativas": {
-   "A": "Cadeias leves livres séricas",
-   "B": "Biópsia renal percutânea",
-   "C": "Anticorpo anti-PLA2R sérico",
-   "D": "Repetir a eletroforese em 3 meses"
+   "A": "Radioterapia local em dose curativa",
+   "B": "Ressecção cirúrgica isolada da vértebra",
+   "C": "Indução de mieloma e transplante autólogo",
+   "D": "Observação com eletroforese seriada"
   },
   "gabarito": "A",
-  "armadilha": "B",
-  "dado_decisivo": "proteína traços na fita",
-  "resolucao": "Lesão renal aguda com proteinúria de 3,8 g sugere glomerulopatia e leva à biópsia, e a eletroforese sem pico parece afastar gamopatia. O dado omitido de propósito é o pico monoclonal: no mieloma de cadeias leves (cerca de 15 a 20% dos mielomas) não há imunoglobulina inteira, a cadeia leve é filtrada pelo rim e não forma pico no soro, e as imunoglobulinas normais caem (hipogamaglobulinemia). O dado que decide é a discrepância entre a fita e a urina de 24 horas: a fita detecta só albumina, e proteinúria alta com fita em traços é proteína não albumina, a cadeia leve. Com hipercalcemia, anemia e lesão renal, o próximo exame é a dosagem de cadeias leves livres séricas com imunofixação; razão envolvida/não envolvida muito alta com lesão renal aguda sugere nefropatia por cilindros, e a biópsia renal fica para quando a razão não explica o quadro.",
+  "armadilha": "C",
+  "dado_decisivo": "plasmócitos clonais em 6%",
+  "resolucao": "Plasmócitos monoclonais, pico monoclonal e plasmócitos clonais na medula puxam para mieloma, e o reflexo é tratar como mieloma, com indução e transplante. O limiar decide: mieloma exige plasmócitos clonais na medula de 10% ou mais (ou plasmocitoma comprovado) com evento definidor, e aqui há uma lesão única, PET sem outras lesões, nenhum CRAB além da própria lesão e medula com 6%. É plasmocitoma ósseo solitário com envolvimento medular mínimo (abaixo de 10%), categoria do IMWG com risco maior de progressão que o plasmocitoma sem envolvimento medular, mas cujo tratamento continua sendo radioterapia local em dose curativa (cerca de 40 a 50 Gy), que controla a lesão em mais de 80% dos casos. A cirurgia entra só com instabilidade ou compressão medular, ausentes. O seguimento com eletroforese, cadeias leves e imagem detecta a progressão para mieloma.",
   "comentarios": {
-   "A": "Correta. Proteinúria de 24 h alta com fita em traços, hipercalcemia, anemia e eletroforese sem pico: mieloma de cadeias leves, confirmado pelas cadeias leves livres séricas.",
-   "B": "Errada. É a armadilha: a biópsia seria o passo numa síndrome nefrótica com albuminúria; aqui a proteína não é albumina e o diagnóstico sai do sangue.",
-   "C": "Errada. Anti-PLA2R investiga nefropatia membranosa, que teria albuminúria maciça detectada na fita e edema.",
-   "D": "Errada. Eletroforese sem pico não afasta mieloma de cadeia leve; esperar 3 meses com creatinina subindo perde o rim."
+   "A": "Correta. Plasmocitoma ósseo solitário com envolvimento medular mínimo (6%) e PET sem outras lesões: radioterapia local curativa.",
+   "B": "Errada. A cirurgia se reserva para instabilidade da coluna ou compressão medular, e mesmo assim se complementa com radioterapia.",
+   "C": "Errada. É a armadilha: seria o tratamento com plasmócitos medulares de 10% ou mais e evento definidor; com 6% e lesão única, não é mieloma.",
+   "D": "Errada. Observar seria o caminho para GMSI; aqui há tumor plasmocitário destrutivo e sintomático, que precisa de tratamento local."
   },
-  "para_levar": "Proteinúria de 24 horas alta com fita quase negativa é cadeia leve: eletroforese sem pico não afasta mieloma, peça cadeias leves livres séricas e imunofixação.",
-  "referencias": "IMWG 2014 critérios diagnósticos de mieloma (Rajkumar, Lancet Oncol 2014); IMWG 2016 sobre lesão renal no mieloma (Dimopoulos, J Clin Oncol 2016).",
+  "para_levar": "Lesão plasmocitária única, PET sem outras lesões e medula com menos de 10% de plasmócitos clonais é plasmocitoma solitário: radioterapia local; com 10% ou mais e evento definidor, é mieloma.",
+  "referencias": "IMWG 2014 criteria (Rajkumar, Lancet Oncol 2014); IMWG 2018 recomendações para plasmocitoma solitário (Caers et al., J Hematol Oncol 2018); NCCN Multiple Myeloma 2026.",
   "tags": [
-   "Mieloma Múltiplo (CM)",
-   "Injúria Renal Aguda (CM)"
+   "Mieloma Múltiplo e Outras Discrasias Plasmocitárias (CM)",
+   "Mieloma Múltiplo (CM)"
   ],
   "sourceQuestionId": "d88425c645795f7",
-  "alvo": "Erro registrado em mieloma com rim; exame que decide (fita x 24 h) lido como enfeite."
+  "alvo": "Limiar numérico (10% de plasmócitos) contra o rótulo \"plasmócitos monoclonais\"; padrão de tratar a mais."
  },
  {
   "id": "S3-HEM-09",

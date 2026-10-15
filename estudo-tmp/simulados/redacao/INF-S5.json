@@ -8,7 +8,12 @@
     "comando": "conduta",
     "nivel": "difícil",
     "enunciado": "Homem de 68 anos, com marca-passo bicameral há 3 anos por bloqueio atrioventricular total, dois stents coronários há 5 anos e esclerose valvar aórtica sem estenose ao ecocardiograma, será submetido a extração de três dentes com manipulação gengival e sangramento esperado. Não tem prótese valvar, nunca teve endocardite e não tem cardiopatia congênita. Usa AAS, atorvastatina e losartana. Sem alergias. Quanto à profilaxia de endocardite infecciosa para o procedimento, a conduta mais adequada é:",
-    "alternativas": {"A": "Amoxicilina 2 g antes do procedimento", "B": "Clindamicina 600 mg antes do procedimento", "C": "Amoxicilina por 7 dias após", "D": "Não indicar profilaxia antibiótica"},
+    "alternativas": {
+      "A": "Amoxicilina 2 g antes do procedimento",
+      "B": "Clindamicina 600 mg antes do procedimento",
+      "C": "Amoxicilina por 7 dias após",
+      "D": "Não indicar profilaxia antibiótica"
+    },
     "gabarito": "D",
     "armadilha": "A",
     "dado_decisivo": "Não tem prótese valvar, nunca teve endocardite e não tem cardiopatia congênita",
@@ -21,7 +26,10 @@
     },
     "para_levar": "Profilaxia de endocardite só para alto risco (prótese ou material protético valvar, endocardite prévia, certas cardiopatias congênitas) em procedimento dentário invasivo; marca-passo e stent não entram.",
     "referencias": "ESC Guidelines for the management of endocarditis (2023); AHA Scientific Statement: Prevention of Viridans Group Streptococcal Infective Endocarditis (2021); Diretriz Brasileira de Valvopatias (SBC, 2020).",
-    "tags": ["Endocardite Bacteriana (CM)", "Febre Reumática e Endocardite (CM)"],
+    "tags": [
+      "Endocardite Bacteriana (CM)",
+      "Febre Reumática e Endocardite (CM)"
+    ],
     "sourceQuestionId": "0911ce318a2a699",
     "alvo": "Faz mais do que o caso pede (antibiótico sem indicação); os negativos do meio são a resposta."
   },
@@ -34,7 +42,12 @@
     "comando": "conduta",
     "nivel": "difícil",
     "enunciado": "Homem de 37 anos, com HIV diagnosticado há 10 dias, CD4 32 células/mm³ e carga viral 350.000 cópias/mL, iniciou tenofovir, lamivudina e dolutegravir, além de sulfametoxazol-trimetoprima. Está assintomático: sem alteração visual, moscas volantes, odinofagia, diarreia ou dor abdominal. Exame físico normal. Antes de iniciar a TARV, foi solicitado PCR quantitativo para citomegalovírus no plasma, que resultou em 2.400 cópias/mL; IgG para CMV reagente. Fundoscopia sob midríase realizada pelo oftalmologista: normal. A conduta mais adequada é:",
-    "alternativas": {"A": "Ganciclovir intravenoso por 21 dias", "B": "Manter a TARV, sem anti-CMV", "C": "Valganciclovir oral preemptivo", "D": "Suspender a TARV e repetir o PCR"},
+    "alternativas": {
+      "A": "Ganciclovir intravenoso por 21 dias",
+      "B": "Manter a TARV, sem anti-CMV",
+      "C": "Valganciclovir oral preemptivo",
+      "D": "Suspender a TARV e repetir o PCR"
+    },
     "gabarito": "B",
     "armadilha": "C",
     "dado_decisivo": "Fundoscopia sob midríase realizada pelo oftalmologista: normal.",
@@ -47,7 +60,10 @@
     },
     "para_levar": "Na aids, PCR de CMV positivo no sangue não é doença e não se trata: procure doença de órgão (fundoscopia, biópsia se houver sintomas) e mantenha a TARV.",
     "referencias": "NIH/CDC/IDSA Guidelines for Opportunistic Infections in Adults and Adolescents with HIV (CMV, atualização 2024); PCDT para Manejo da Infecção pelo HIV em Adultos (MS, 2024).",
-    "tags": ["Doenças Oportunistas no HIV (CM)", "HIV/AIDS (CM)"],
+    "tags": [
+      "Doenças Oportunistas no HIV (CM)",
+      "HIV/AIDS (CM)"
+    ],
     "sourceQuestionId": "82f5cfc57c591e6",
     "alvo": "Já errou CMV por confiar em sorologia e PCR; agora o PCR positivo empurra para tratar o que não é doença (omissão)."
   },
@@ -60,7 +76,12 @@
     "comando": "conduta",
     "nivel": "difícil",
     "enunciado": "Homem de 24 anos, que faz sexo com homens, procura o serviço para iniciar PrEP. Relata múltiplas parcerias e uso irregular de preservativo; teve gonorreia há 4 meses. Há 36 horas teve relação anal receptiva sem preservativo com parceria de sorologia desconhecida. Está assintomático. Teste rápido anti-HIV não reagente, creatinina 0,8 mg/dL (clearance estimado acima de 90 mL/min), HBsAg não reagente, VDRL não reagente. A conduta mais adequada é:",
-    "alternativas": {"A": "PEP por 28 dias e transição direta para PrEP", "B": "Iniciar PrEP hoje, sem PEP", "C": "PEP e reavaliar a PrEP em 3 meses", "D": "Repetir o teste em 30 dias, sem medicação"},
+    "alternativas": {
+      "A": "PEP por 28 dias e transição direta para PrEP",
+      "B": "Iniciar PrEP hoje, sem PEP",
+      "C": "PEP e reavaliar a PrEP em 3 meses",
+      "D": "Repetir o teste em 30 dias, sem medicação"
+    },
     "gabarito": "A",
     "armadilha": "B",
     "dado_decisivo": "Há 36 horas teve relação anal receptiva sem preservativo",
@@ -73,7 +94,10 @@
     },
     "para_levar": "Na consulta de PrEP, exposição de risco nas últimas 72 horas manda iniciar PEP por 28 dias e fazer a transição direta para PrEP ao final.",
     "referencias": "PCDT para Profilaxia Pós-Exposição (PEP) de Risco à Infecção pelo HIV, IST e Hepatites Virais (MS, 2021, atualizado em 2024); PCDT para PrEP (MS, 2022, atualizado em 2025).",
-    "tags": ["PreP e PEP", "HIV/AIDS (CM)"],
+    "tags": [
+      "PreP e PEP",
+      "HIV/AIDS (CM)"
+    ],
     "sourceQuestionId": "187bb025099f026",
     "alvo": "PrEP e PEP 0 de 3; a cronologia da exposição decide a ordem das profilaxias."
   },
@@ -86,7 +110,12 @@
     "comando": "conduta",
     "nivel": "difícil",
     "enunciado": "Mulher de 48 anos, na 3ª semana de RHZE em dose por peso para tuberculose pulmonar, comparece à consulta de rotina. Está assintomática: sem náuseas, vômitos, dor abdominal ou icterícia, e com apetite preservado. Não consome álcool e não usa outras medicações. ALT antes do tratamento: 22 U/L. Exames de hoje: ALT 152 U/L e AST 128 U/L (limite superior da normalidade de 40 U/L para ambas), bilirrubina total 0,9 mg/dL, fosfatase alcalina normal, INR 1,0. Anti-HIV, HBsAg e anti-HCV não reagentes. A conduta mais adequada é:",
-    "alternativas": {"A": "Suspender o esquema até normalizar", "B": "Suspender só a pirazinamida", "C": "Manter RHZE e repetir enzimas", "D": "Trocar por esquema sem rifampicina"},
+    "alternativas": {
+      "A": "Suspender o esquema até normalizar",
+      "B": "Suspender só a pirazinamida",
+      "C": "Manter RHZE e repetir enzimas",
+      "D": "Trocar por esquema sem rifampicina"
+    },
     "gabarito": "C",
     "armadilha": "A",
     "dado_decisivo": "Está assintomática: sem náuseas, vômitos, dor abdominal ou icterícia",
@@ -99,7 +128,9 @@
     },
     "para_levar": "Hepatotoxicidade do RHZE: suspenda com transaminases de 5 vezes ou mais sem sintomas, 3 vezes ou mais com sintomas, ou icterícia; abaixo disso, mantenha e monitore.",
     "referencias": "Manual de Recomendações para o Controle da Tuberculose no Brasil (MS, 2019, atualizado); ATS/CDC/IDSA Treatment of Drug-Susceptible Tuberculosis (2016).",
-    "tags": ["Tuberculose : Tratamento Medicamentoso e Efeitos Colaterais (CM)"],
+    "tags": [
+      "Tuberculose : Tratamento Medicamentoso e Efeitos Colaterais (CM)"
+    ],
     "sourceQuestionId": "4c93e278ef52e67",
     "alvo": "Trata o número que assusta sem checar o limiar e a condição (sintomas) que habilitam a suspensão."
   },
@@ -112,7 +143,12 @@
     "comando": "conduta",
     "nivel": "difícil",
     "enunciado": "Homem de 35 anos, com doença de Crohn ileocolônica moderada a grave, refratária a corticoide e azatioprina, tem indicação de infliximabe. Nunca teve tuberculose nem contato conhecido. Assintomático respiratório. Radiografia de tórax normal. Prova tuberculínica: 7 mm. Anti-HIV, HBsAg e anti-HBc não reagentes. Em relação à tuberculose, o tratamento preventivo e o momento de iniciar o infliximabe são, respectivamente:",
-    "alternativas": {"A": "Não indicado / imediatamente", "B": "Indicado / ao concluir o preventivo", "C": "Não indicado / após repetir a prova", "D": "Indicado / após 1 mês de preventivo"},
+    "alternativas": {
+      "A": "Não indicado / imediatamente",
+      "B": "Indicado / ao concluir o preventivo",
+      "C": "Não indicado / após repetir a prova",
+      "D": "Indicado / após 1 mês de preventivo"
+    },
     "gabarito": "D",
     "armadilha": "B",
     "dado_decisivo": "Prova tuberculínica: 7 mm",
@@ -125,7 +161,10 @@
     },
     "para_levar": "Candidato a anti-TNF: prova tuberculínica de 5 mm ou mais (ou IGRA positivo) com TB ativa afastada pede tratamento preventivo, e o biológico começa após cerca de 1 mês dele.",
     "referencias": "Manual de Recomendações para o Controle da Tuberculose no Brasil (MS, 2019, atualizado); Protocolo de Vigilância da Infecção Latente pelo M. tuberculosis no Brasil (MS, 2022).",
-    "tags": ["ILTB (CM)", "Crohn (CM)"],
+    "tags": [
+      "ILTB (CM)",
+      "Crohn (CM)"
+    ],
     "sourceQuestionId": "6e43e598ceb5b43",
     "alvo": "Ponto de corte não fixado e regra de ordem (faz o passo a mais esperando o fim do preventivo); grade conferida pela metade."
   },
@@ -138,7 +177,12 @@
     "comando": "etiologia",
     "nivel": "difícil",
     "enunciado": "Homem de 68 anos, diabético, no 9º dia de pós-operatório de clipagem de aneurisma da artéria comunicante anterior, com derivação ventricular externa ainda instalada, evolui com febre de 38,9 °C, piora do nível de consciência (Glasgow de 14 para 11) e rigidez de nuca. Líquor colhido pelo cateter: 1.850 células/mm³ (90% neutrófilos), proteína 220 mg/dL, glicose 18 mg/dL (glicemia 160 mg/dL), Gram sem bactérias visíveis. Os agentes que o esquema empírico deve cobrir prioritariamente são:",
-    "alternativas": {"A": "Estafilococos e Gram-negativos hospitalares", "B": "Pneumococo, meningococo e Listeria", "C": "Anaeróbios e estreptococos orais", "D": "Criptococo e Candida"},
+    "alternativas": {
+      "A": "Estafilococos e Gram-negativos hospitalares",
+      "B": "Pneumococo, meningococo e Listeria",
+      "C": "Anaeróbios e estreptococos orais",
+      "D": "Criptococo e Candida"
+    },
     "gabarito": "A",
     "armadilha": "B",
     "dado_decisivo": "com derivação ventricular externa ainda instalada",
@@ -151,7 +195,10 @@
     },
     "para_levar": "Meningite com derivação, cateter ou pós-neurocirurgia é hospitalar: vancomicina mais betalactâmico antipseudomonas, e não o esquema comunitário por idade.",
     "referencias": "IDSA Clinical Practice Guidelines for Healthcare-Associated Ventriculitis and Meningitis (2017).",
-    "tags": ["Meningite Bacteriana (CM)", "Infecções Nosocomiais (CM)"],
+    "tags": [
+      "Meningite Bacteriana (CM)",
+      "Infecções Nosocomiais (CM)"
+    ],
     "sourceQuestionId": "07ed0a8fc34623e",
     "alvo": "Rótulo verdadeiro (idade, regra por faixa etária) aplicado sem checar o contexto que muda a microbiologia."
   },
@@ -164,7 +211,12 @@
     "comando": "conduta",
     "nivel": "extremamente difícil",
     "enunciado": "Mulher de 66 anos, diabética, internada há 5 dias por abscesso hepático piogênico de 6 cm, drenado por via percutânea no 1º dia, com choque séptico já resolvido. Iniciou ceftriaxona e metronidazol na admissão, trocados no 2º dia por piperacilina-tazobactam, quando hemoculturas e cultura do abscesso mostraram Escherichia coli produtora de betalactamase de espectro estendido (ESBL), sensível a piperacilina-tazobactam (CIM 4 mg/L), ertapenem, meropenem e amicacina, e resistente a ceftriaxona, cefepima e ciprofloxacino. Sorologia para ameba negativa. Está afebril há 48 horas, sem vasopressor, com hemocultura de controle negativa e dreno com débito em queda. Creatinina 1,1 mg/dL, albumina 3,4 g/dL. Em relação ao antimicrobiano, a conduta mais adequada é:",
-    "alternativas": {"A": "Manter piperacilina-tazobactam até o fim", "B": "Trocar para ertapenem", "C": "Trocar para ciprofloxacino oral", "D": "Associar amicacina ao esquema atual"},
+    "alternativas": {
+      "A": "Manter piperacilina-tazobactam até o fim",
+      "B": "Trocar para ertapenem",
+      "C": "Trocar para ciprofloxacino oral",
+      "D": "Associar amicacina ao esquema atual"
+    },
     "gabarito": "B",
     "armadilha": "A",
     "dado_decisivo": "Escherichia coli produtora de betalactamase de espectro estendido (ESBL)",
@@ -177,7 +229,10 @@
     },
     "para_levar": "E. coli ou Klebsiella ESBL fora do trato urinário: carbapenêmico mesmo com piperacilina-tazobactam sensível no antibiograma; ertapenem no paciente estável.",
     "referencias": "IDSA Guidance on the Treatment of Antimicrobial-Resistant Gram-Negative Infections (2024); Harris PNA et al., ensaio MERINO (JAMA, 2018).",
-    "tags": ["Antibióticos: Antibiogramas e Resistência Bacteriana (CM)", "Infecção de Corrente Sanguínea (CM)"],
+    "tags": [
+      "Antibióticos: Antibiogramas e Resistência Bacteriana (CM)",
+      "Infecção de Corrente Sanguínea (CM)"
+    ],
     "sourceQuestionId": "71532a88175450a",
     "alvo": "Exame tranquilizador (antibiograma sensível) lido como decisivo; bactérias resistentes."
   },
@@ -190,7 +245,12 @@
     "comando": "diagnóstico",
     "nivel": "difícil",
     "enunciado": "Homem de 31 anos, trabalhador rural do interior de Minas Gerais, procura atendimento no 6º dia de doença. Há 10 dias limpou a casa após uma enchente, com água até os joelhos. Há 15 dias passou um fim de semana acampado em área de mata onde foram encontrados macacos mortos. Não tem registro de vacinação. O quadro começou com febre alta súbita, cefaleia, mialgia intensa e dor lombar; melhorou no 3º dia por cerca de 24 horas e, a seguir, voltou a febre, com vômitos, icterícia e sangramento gengival. Exame: T 38,9 °C, FC 64 bpm, PA 108 x 70 mmHg, ictérico 3+/4+, sem sufusão conjuntival, panturrilhas indolores. AST 4.800 U/L, ALT 3.100 U/L, bilirrubina total 9,2 mg/dL (direta 7,4), creatinina 2,9 mg/dL, potássio 4,6 mEq/L, CK 210 U/L, plaquetas 52.000/mm³, leucócitos 3.100/mm³, INR 2,4. O diagnóstico mais provável é:",
-    "alternativas": {"A": "Leptospirose, forma ictero-hemorrágica", "B": "Hepatite A fulminante", "C": "Febre amarela grave", "D": "Dengue com acometimento hepático"},
+    "alternativas": {
+      "A": "Leptospirose, forma ictero-hemorrágica",
+      "B": "Hepatite A fulminante",
+      "C": "Febre amarela grave",
+      "D": "Dengue com acometimento hepático"
+    },
     "gabarito": "C",
     "armadilha": "A",
     "dado_decisivo": "AST 4.800 U/L, ALT 3.100 U/L",
@@ -203,7 +263,11 @@
     },
     "para_levar": "Ictérico febril com transaminases acima de 1.000 U/L, AST maior que ALT, leucopenia e bradicardia relativa é febre amarela; leptospirose tem transaminases modestas, CK alta e leucocitose.",
     "referencias": "Manual de Manejo Clínico da Febre Amarela (MS, 2020); Leptospirose: diagnóstico e manejo clínico (MS, 2014); Guia de Vigilância em Saúde (MS, 2024).",
-    "tags": ["Febre Amarela (CM)", "Leptospirose (CM)", "Icterícias Febris e FMB (CM)"],
+    "tags": [
+      "Febre Amarela (CM)",
+      "Leptospirose (CM)",
+      "Icterícias Febris e FMB (CM)"
+    ],
     "sourceQuestionId": null,
     "alvo": "Rótulo epidemiológico verdadeiro (enchente) contra o laboratório que discrimina, na última linha."
   },
@@ -216,7 +280,12 @@
     "comando": "conduta",
     "nivel": "difícil",
     "enunciado": "Homem de 30 anos recebe hoje o diagnóstico de HIV na UBS. Está assintomático: nega tosse, febre, sudorese noturna e perda de peso. Exame físico normal. Radiografia de tórax normal. CD4 80 células/mm³, carga viral 180.000 cópias/mL, IgG para toxoplasmose reagente, VDRL não reagente, antígeno criptocócico sérico não reagente, HBsAg não reagente, anti-HBs negativo. Nunca tratou tuberculose nem teve contato conhecido. Inicia hoje tenofovir, lamivudina e dolutegravir e sulfametoxazol-trimetoprima. Além do sulfametoxazol-trimetoprima, a profilaxia indicada agora é:",
-    "alternativas": {"A": "Azitromicina semanal", "B": "Fluconazol diário", "C": "Nenhuma profilaxia adicional", "D": "Tratamento preventivo da tuberculose"},
+    "alternativas": {
+      "A": "Azitromicina semanal",
+      "B": "Fluconazol diário",
+      "C": "Nenhuma profilaxia adicional",
+      "D": "Tratamento preventivo da tuberculose"
+    },
     "gabarito": "D",
     "armadilha": "A",
     "dado_decisivo": "CD4 80 células/mm³",
@@ -229,7 +298,11 @@
     },
     "para_levar": "Pessoa com HIV e CD4 de 350 ou menos, sem TB ativa, faz tratamento preventivo da TB sem PT ou IGRA; MAC não se previne em quem inicia TARV.",
     "referencias": "PCDT para Manejo da Infecção pelo HIV em Adultos (MS, 2024); Protocolo de Vigilância da Infecção Latente pelo M. tuberculosis no Brasil (MS, 2022).",
-    "tags": ["Profilaxias de Oportunistas no HIV", "ILTB (CM)", "Doenças Oportunistas no HIV (CM)"],
+    "tags": [
+      "Profilaxias de Oportunistas no HIV",
+      "ILTB (CM)",
+      "Doenças Oportunistas no HIV (CM)"
+    ],
     "sourceQuestionId": "c2e275cc5dcb5ab",
     "alvo": "Faz a profilaxia a mais (MAC) e esquece a que a regra brasileira pede; comando qualificado ('além do')."
   },
@@ -242,7 +315,12 @@
     "comando": "etiologia",
     "nivel": "difícil",
     "enunciado": "Homem de 58 anos, natural da Bahia, com DPOC grave, recebe há 5 semanas prednisona 40 mg/dia, iniciada para exacerbação e mantida por falta de melhora. É internado por febre, dor abdominal difusa, vômitos, diarreia e dispneia progressiva com hemoptoicos. Exame: T 38,8 °C, FC 116 bpm, PA 96 x 58 mmHg, SpO2 87% em ar ambiente, erupção purpúrica serpiginosa em abdome e raiz das coxas, estertores bilaterais, abdome distendido e doloroso. Leucócitos 14.200/mm³ com 1% de eosinófilos, Hb 10,4 g/dL, plaquetas 180.000/mm³, albumina 2,4 g/dL. Hemoculturas: Escherichia coli em 2 de 2 amostras. Radiografia: infiltrados alveolares bilaterais. O agente que explica o conjunto e deve ser tratado junto com a bacteremia é:",
-    "alternativas": {"A": "Strongyloides stercoralis", "B": "Schistosoma mansoni", "C": "Ascaris lumbricoides", "D": "Aspergillus fumigatus"},
+    "alternativas": {
+      "A": "Strongyloides stercoralis",
+      "B": "Schistosoma mansoni",
+      "C": "Ascaris lumbricoides",
+      "D": "Aspergillus fumigatus"
+    },
     "gabarito": "A",
     "armadilha": "D",
     "dado_decisivo": "Hemoculturas: Escherichia coli em 2 de 2 amostras",
@@ -254,8 +332,11 @@
       "D": "Errada. É a armadilha: aspergilose invasiva seria a hipótese com neutropenia ou corticoide e nódulos com halo, mas não explica a bacteremia por E. coli nem a púrpura abdominal."
     },
     "para_levar": "Corticoide prolongado, bacteremia por Gram-negativo entérico sem foco e infiltrado pulmonar: hiperinfecção por Strongyloides, mesmo sem eosinofilia. Ivermectina antes de corticoide em quem veio de área endêmica.",
-    "referencias": "Manual de Doenças Infecciosas e Parasitárias (MS, 2010); CDC Strongyloidiasis Resources for Health Professionals (2024); IDSA/ATS consenso sobre infecções em imunossuprimidos.",
-    "tags": ["Estrongiloidiase (CM)", "Infecção em Imunossuprimido (CM)"],
+    "referencias": "Manual de Doenças Infecciosas e Parasitárias (MS, 2010); CDC Strongyloidiasis: Resources for Health Professionals (2024); Mejia R, Nutman TB. Screening, prevention and treatment for hyperinfection syndrome (Curr Opin Infect Dis, 2012).",
+    "tags": [
+      "Estrongiloidiase (CM)",
+      "Infecção em Imunossuprimido (CM)"
+    ],
     "sourceQuestionId": null,
     "alvo": "Dado famoso omitido (eosinofilia) e rótulo do imunossuprimido que puxa a infecção de manual."
   }

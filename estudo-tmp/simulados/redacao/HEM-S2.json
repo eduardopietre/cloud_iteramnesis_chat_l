@@ -172,35 +172,34 @@
   "id": "S2-HEM-06",
   "simulado": 2,
   "area": "Hematologia",
-  "titulo": "Anemia da doença renal crônica em hemodiálise: ferro endovenoso antes do agente estimulador da eritropoese",
+  "titulo": "Hematoma subdural com craniotomia de urgência em plaquetopenia de quimioterapia: alvo de 100.000 plaquetas",
   "arma": "Limiar",
   "comando": "conduta",
   "nivel": "difícil",
-  "enunciado": "Mulher de 66 anos, com nefropatia diabética, está em hemodiálise por fístula arteriovenosa há 8 meses e refere cansaço aos médios esforços. Usa insulina, anlodipino e carbonato de cálcio. Nega sangramentos; colonoscopia de 1 ano atrás foi normal. PA 138 x 82 mmHg, FC 84 bpm. Exames: Hb 9,1 g/dL, VCM 86 fL, reticulócitos 0,9%, leucócitos e plaquetas normais, ferritina 260 ng/mL, saturação de transferrina 18%, vitamina B12 e folato normais, PTH 310 pg/mL, PCR normal. A conduta inicial mais adequada para a anemia é:",
+  "enunciado": "Homem de 68 anos, em quimioterapia com carboplatina e etoposídeo por carcinoma de pulmão de pequenas células, está no 12º dia do ciclo. Caiu da própria altura há 6 horas e evolui com sonolência e hemiparesia esquerda. Não usa antiagregantes nem anticoagulantes. Exame: Glasgow 12, pupilas isocóricas, PA 150 x 86 mmHg. Tomografia: hematoma subdural agudo frontoparietal direito com 14 mm de espessura e desvio da linha média de 8 mm; a neurocirurgia indica craniotomia de urgência. Exames: Hb 10,1 g/dL, leucócitos 2.400/mm³, plaquetas 64.000/mm³, INR 1,1, TTPa 31 s (controle 30 s), fibrinogênio 310 mg/dL. Em relação à hemostasia, a conduta mais adequada antes da cirurgia é:",
   "alternativas": {
-   "A": "Alfaepoetina subcutânea",
-   "B": "Ferro endovenoso",
-   "C": "Transfusão de concentrado de hemácias",
-   "D": "Alfaepoetina com ferro oral"
+   "A": "Operar sem transfusão",
+   "B": "Plaquetas para manter acima de 100.000",
+   "C": "Plasma fresco congelado antes",
+   "D": "Desmopressina antes da incisão"
   },
   "gabarito": "B",
   "armadilha": "A",
-  "dado_decisivo": "saturação de transferrina 18%",
-  "resolucao": "Anemia normocítica hipoproliferativa no renal crônico em diálise lembra falta de eritropoetina, e o reflexo é iniciar alfaepoetina. A ordem, porém, é ferro primeiro: o agente estimulador só funciona com ferro disponível, e iniciar sem repor aumenta a dose necessária e a resistência. O limiar que decide é a saturação de transferrina: com 30% ou menos e ferritina até 500 ng/mL, o KDIGO recomenda ferro antes de qualquer estimulador; aqui a saturação é 18% e a ferritina 260. Ferritina de 260 não é estoque cheio no renal, porque a inflamação da uremia a eleva. Em hemodiálise o ferro é endovenoso, aproveitando o acesso, já que a absorção oral é pobre e o carbonato de cálcio a reduz ainda mais. A alfaepoetina entra se a Hb seguir abaixo de 10 g/dL depois de repletar o ferro.",
+  "dado_decisivo": "a neurocirurgia indica craniotomia de urgência",
+  "resolucao": "O número de 64.000 plaquetas está acima de 50.000, o limiar que o candidato memoriza para cirurgia de grande porte, e o apressado libera a operação sem transfusão. O limiar, porém, depende do sítio: em neurocirurgia e cirurgia do segmento posterior do olho, onde um sangramento pequeno é catastrófico e não comprimível, as diretrizes indicam manter plaquetas acima de 100.000/mm³. O dado que decide é o procedimento, uma craniotomia de urgência, num paciente cuja plaquetopenia é de produção (nadir da quimioterapia), situação em que a transfusão rende bem. O coagulograma e o fibrinogênio estão normais, então plasma não tem indicação, e a desmopressina serve para von Willebrand, hemofilia A leve e disfunção plaquetária urêmica, não para plaquetopenia. É o contraponto da regra de não transfundir: o limiar sobe quando o sítio exige.",
   "comentarios": {
-   "A": "Errada. É a armadilha: alfaepoetina seria o passo com saturação acima de 30% e ferritina repleta; com saturação de 18% ela rende pouco.",
-   "B": "Correta. Saturação de 18% com ferritina abaixo de 500 em hemodiálise: ferro endovenoso primeiro, conforme o KDIGO.",
-   "C": "Errada. Transfusão fica para anemia sintomática grave ou sangramento; além disso, sensibiliza contra antígenos HLA, ruim para candidata a transplante.",
-   "D": "Errada. Em hemodiálise o ferro oral é mal absorvido (e o quelante de fósforo piora), e iniciar o estimulador antes de repletar o ferro inverte a ordem."
+   "A": "Errada. É a armadilha: 64.000 bastaria para cirurgia de grande porte fora do sistema nervoso central; em craniotomia o alvo é acima de 100.000.",
+   "B": "Correta. Neurocirurgia exige plaquetas acima de 100.000/mm³; com plaquetopenia de produção, transfunde-se antes e confere a contagem.",
+   "C": "Errada. Plasma corrige deficiência de fatores, e INR, TTPa e fibrinogênio estão normais.",
+   "D": "Errada. A desmopressina libera fator de von Willebrand e ajuda na uremia e na hemofilia A leve, mas não corrige plaquetopenia."
   },
-  "para_levar": "Na anemia da DRC, ferro antes do agente estimulador: saturação de 30% ou menos com ferritina até 500 pede ferro, e na hemodiálise ele é endovenoso.",
-  "referencias": "KDIGO Clinical Practice Guideline for Anemia in CKD (2012, atualização em curso); PCDT Anemia na Doença Renal Crônica, Ministério da Saúde (2017).",
+  "para_levar": "Limiar de plaquetas por procedimento: acima de 50.000 para cirurgia de grande porte e acima de 100.000 para neurocirurgia e cirurgia ocular posterior.",
+  "referencias": "BSH 2017 guidelines for the use of platelet transfusions (Estcourt et al.); Ministério da Saúde, Guia para uso de hemocomponentes (2015).",
   "tags": [
-   "Doença Renal Crônica (CM)",
-   "Anemias Hipoproliferativas (CM)"
+   "Hemoterapia (CM)"
   ],
-  "sourceQuestionId": "2c5cc4ac33e3180",
-  "alvo": "Condutas de ordem da UERJ (ferro antes da EPO) e limiar de saturação lido como enfeite."
+  "sourceQuestionId": "0fe0925cbd68c55",
+  "alvo": "Hemoterapia 45%: limiar de plaquetas por procedimento, e o limiar decorado aplicado sem checar o sítio."
  },
  {
   "id": "S2-HEM-07",
