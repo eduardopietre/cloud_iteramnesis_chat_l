@@ -9,24 +9,27 @@
     "nivel": "extremamente difícil",
     "enunciado": "Homem de 58 anos, que bebe cerca de 12 latas de cerveja por dia e quase não se alimenta há um mês, é internado às 8 h por confusão leve, sem convulsão. Exames: sódio 108 mEq/L, potássio 3,0 mEq/L, osmolalidade plasmática 228 mOsm/kg, osmolalidade urinária 74 mOsm/kg, sódio urinário menor que 10 mEq/L. Recebeu 100 mL de salina a 3% em bolus, cloreto de potássio intravenoso, tiamina e 500 mL de SF 0,9%, com dieta liberada. Às 16 h está lúcido, o sódio é de 119 mEq/L, a diurese foi de 2.600 mL nas últimas seis horas, com urina clara e osmolalidade urinária de 60 mOsm/kg. A conduta mais adequada neste momento é:",
     "alternativas": {
-      "A": "Suspender fluidos e observar",
-      "B": "Manter conduta e dosar sódio em 4 h",
+      "A": "Manter conduta e dosar sódio em 4 h",
+      "B": "Furosemida e salina isotônica",
       "C": "Desmopressina e soro glicosado a 5%",
-      "D": "Furosemida e salina isotônica"
+      "D": "Suspender fluidos e observar"
     },
     "gabarito": "C",
-    "armadilha": "A",
+    "armadilha": "D",
     "dado_decisivo": "o sódio é de 119 mEq/L, a diurese foi de 2.600 mL nas últimas seis horas",
     "resolucao": "O sódio subindo e o paciente lúcido parecem sucesso, e a reação é parar tudo e observar. Mas a hiponatremia da potomania (cerveja sem soluto, osmolalidade urinária de 74) se corrige sozinha quando chega soluto: com potássio, salina e comida, o rim volta a excretar água livre em grande volume e a correção dispara. O sódio subiu 11 mEq/L em 8 horas, acima do limite de 8 mEq/L em 24 horas de quem tem alto risco de desmielinização osmótica (etilismo, desnutrição, hipocalemia, sódio de partida abaixo de 110), e a diurese aquosa de mais de 400 mL/h vai continuar: suspender fluidos não para a diurese, e o sódio seguirá subindo. A conduta é frear a perda de água livre com desmopressina (2 a 4 µg IV) e repor água com soro glicosado a 5% para reabaixar o sódio até o alvo do dia, com dosagens a cada 1 a 2 horas. A furosemida aumentaria a perda de água livre.",
     "comentarios": {
-      "A": "Errada, é a armadilha. Parar a infusão não interrompe a diurese aquosa de 400 mL/h: o rim continua excretando água livre e o sódio continua subindo.",
-      "B": "Errada. Manter e só reavaliar em 4 horas permite ultrapassar ainda mais o limite; o sódio já passou do teto de 24 horas em 8 horas.",
+      "A": "Errada. Manter e só reavaliar em 4 horas permite ultrapassar ainda mais o limite; o sódio já passou do teto de 24 horas em 8 horas.",
+      "B": "Errada. A furosemida aumenta a excreção de água livre e a salina eleva o sódio: os dois aceleram a hipercorreção.",
       "C": "Correta. Correção acima do limite com diurese aquosa em curso pede desmopressina para frear a perda de água e glicosado a 5% para reabaixar o sódio.",
-      "D": "Errada. A furosemida aumenta a excreção de água livre e a salina eleva o sódio: os dois aceleram a hipercorreção."
+      "D": "Errada, é a armadilha. Parar a infusão não interrompe a diurese aquosa de 400 mL/h: o rim continua excretando água livre e o sódio continua subindo."
     },
     "para_levar": "Na potomania, o sódio se corrige sozinho quando chega soluto, com diurese aquosa explosiva; se ultrapassar o limite (8 mEq/L em 24 horas no alto risco), desmopressina e glicosado a 5% para reabaixar.",
     "referencias": "Spasovski et al., Diretriz europeia de hiponatremia (2014); Verbalis et al., Expert Panel Recommendations, Am J Med 2013; Sterns, NEJM 2015 (Disorders of plasma sodium).",
-    "tags": ["Hiponatremia (CM)", "Hiponatremia aguda e complicações (CM)"],
+    "tags": [
+      "Hiponatremia (CM)",
+      "Hiponatremia aguda e complicações (CM)"
+    ],
     "sourceQuestionId": "ec4a9ab5fbf5925",
     "alvo": "Potomania e hipercorreção: cronologia da correção e a omissão que piora (suspender e observar)."
   },
@@ -57,7 +60,11 @@
     },
     "para_levar": "Hipocalemia que não sobe com reposição e hipocalcemia com PTH baixo pedem magnésio sérico; IBP crônico é causa adquirida de hipomagnesemia, e o magnésio se repõe junto com o potássio.",
     "referencias": "FDA Drug Safety Communication (inibidores de bomba de prótons e hipomagnesemia, 2011); Harrison 21ª ed. (Disorders of Magnesium and Phosphorus); UpToDate 2025 (Hypomagnesemia: causes).",
-    "tags": ["Distúrbios de Fósforo e Magnésio (CM)", "Hipopotassemia (CM)", "Dispepsia e IBPs (CM)"],
+    "tags": [
+      "Distúrbios de Fósforo e Magnésio (CM)",
+      "Hipopotassemia (CM)",
+      "Dispepsia e IBPs (CM)"
+    ],
     "sourceQuestionId": "1404059163cd7e1",
     "alvo": "Droga em uso ignorada (omeprazol no magnésio, erro de 15/10) e próximo exame, o pior comando dele (43%)."
   },
@@ -86,9 +93,12 @@
       "C": "Errada. Imunossupressão sem diagnóstico histológico pode ser inútil ou danosa; a glomerulopatia C3 tem tratamento próprio, definido depois da biópsia.",
       "D": "Errada. O antibiótico erradica a cepa e protege contactantes na fase aguda, mas não altera o curso renal e não explica o C3 baixo meses depois."
     },
-    "para_levar": "Na suposta pós-estreptocócica, C3 baixo por mais de oito semanas (ou proteinúria crescente, ou perda de função) obriga a biópsia: pense em glomerulopatia C3 ou membranoproliferativa.",
+    "para_levar": "Na suposta pós-estreptocócica, C3 baixo além de oito semanas (e com mais razão além de 12) (ou proteinúria crescente, ou perda de função) obriga a biópsia: pense em glomerulopatia C3 ou membranoproliferativa.",
     "referencias": "KDIGO 2021 (Glomerular Diseases): glomerulonefrite associada a infecção, glomerulopatia C3 e membranoproliferativa; Riella, Princípios de Nefrologia e Distúrbios Hidroeletrolíticos (2024).",
-    "tags": ["Síndrome Nefrítica (CM)", "Glomerulopatias (CM)"],
+    "tags": [
+      "Síndrome Nefrítica (CM)",
+      "Glomerulopatias (CM)"
+    ],
     "sourceQuestionId": "aa54240acadb2e9",
     "alvo": "Nefrítica com complemento: o limiar de tempo do C3 que muda a conduta (par com a S2: esperar x biopsiar)."
   },
@@ -96,32 +106,36 @@
     "id": "S4-NEF-04",
     "simulado": 4,
     "area": "Nefrologia",
-    "titulo": "GESF com proteinúria nefrótica e albumina normal na obesidade grave · lesão adaptativa sem imunossupressão",
+    "titulo": "GESF com proteinúria nefrótica e albumina normal na obesidade grave · forma adaptativa, e não primária",
     "arma": "Rótulo verdadeiro",
-    "comando": "conduta",
+    "comando": "diagnóstico",
     "nivel": "extremamente difícil",
-    "enunciado": "Homem de 36 anos, com IMC de 42 kg/m², apneia do sono e hipertensão em uso de anlodipino, foi encaminhado por proteinúria em exame admissional. Sem edema. Exames: proteinúria de 24 h de 4,6 g, albumina sérica 4,1 g/dL, colesterol total 214 mg/dL, creatinina 1,1 mg/dL, urina com 2 hemácias por campo, sorologias para HIV e hepatites B e C negativas, FAN negativo, C3 e C4 normais. Biópsia renal: glomeruloesclerose segmentar e focal de variante peri-hilar, com glomerulomegalia; microscopia eletrônica com apagamento segmentar dos processos podocitários. A conduta mais adequada é:",
+    "enunciado": "Homem de 36 anos, com IMC de 42 kg/m², apneia do sono e hipertensão em uso de anlodipino, foi encaminhado por proteinúria em exame admissional. Sem edema e sem história familiar de doença renal. Exames: proteinúria de 24 h de 4,6 g, albumina sérica 4,1 g/dL, colesterol total 214 mg/dL, creatinina 1,1 mg/dL, urina com 2 hemácias por campo, sorologias para HIV e hepatites B e C negativas, FAN negativo, C3 e C4 normais. Biópsia renal: glomeruloesclerose segmentar e focal de variante peri-hilar, com glomerulomegalia; microscopia eletrônica com apagamento segmentar dos processos podocitários. Quanto à forma da GESF, o diagnóstico mais provável é:",
     "alternativas": {
-      "A": "Prednisona 1 mg/kg/dia",
-      "B": "Ciclosporina",
-      "C": "Rituximabe",
-      "D": "Bloqueio do SRAA e perda de peso"
+      "A": "Genética, por variante podocitária",
+      "B": "Primária, por fator circulante",
+      "C": "Viral, por lesão podocitária direta",
+      "D": "Adaptativa, por hiperfiltração"
     },
     "gabarito": "D",
-    "armadilha": "A",
+    "armadilha": "B",
     "dado_decisivo": "albumina sérica 4,1 g/dL",
-    "resolucao": "Proteinúria de 4,6 g com biópsia de GESF leva ao tratamento da GESF primária com corticoide, e é aí que o rótulo histológico engana. A GESF é um padrão de lesão, não uma doença: a primária é uma podocitopatia difusa por fator circulante e se apresenta como síndrome nefrótica completa, com hipoalbuminemia, edema e apagamento podocitário difuso. Aqui a proteinúria é nefrótica, mas a albumina sérica é normal (4,1) e não há edema, e a microscopia eletrônica mostra apagamento apenas segmentar, com glomerulomegalia e variante peri-hilar: é a GESF secundária, adaptativa à hiperfiltração da obesidade grave. O tratamento é o da causa e da hemodinâmica glomerular: bloqueio do sistema renina-angiotensina (IECA ou BRA), iSGLT2 e perda de peso (inclusive cirurgia bariátrica), que reduzem a proteinúria. Corticoide e inibidores de calcineurina não funcionam na lesão adaptativa e expõem a efeitos adversos graves num obeso.",
+    "resolucao": "Proteinúria de 4,6 g com biópsia de GESF puxa para a GESF primária, a que se trata com corticoide, e é aí que o rótulo histológico engana. A GESF é um padrão de lesão, não uma doença: a primária é uma podocitopatia difusa por fator circulante e se apresenta como síndrome nefrótica completa, com hipoalbuminemia, edema e apagamento podocitário difuso. Aqui a proteinúria é nefrótica, mas a albumina sérica é normal (4,1) e não há edema, e a microscopia eletrônica mostra apagamento apenas segmentar, com glomerulomegalia e variante peri-hilar: é a GESF adaptativa à hiperfiltração da obesidade grave. Sem história familiar e com sorologias negativas, as formas genética e viral ficam menos prováveis, e a viral costuma ser colapsante. A classificação muda o tratamento: na adaptativa, bloqueio do sistema renina-angiotensina, iSGLT2 e perda de peso (inclusive cirurgia bariátrica); corticoide e inibidores de calcineurina não funcionam e expõem um obeso a efeitos adversos graves.",
     "comentarios": {
-      "A": "Errada, é a armadilha. Seria a conduta na GESF primária com síndrome nefrótica completa; com albumina normal e apagamento segmentar, a lesão é adaptativa e não responde a corticoide.",
-      "B": "Errada. O inibidor de calcineurina é segunda linha na GESF primária corticorresistente, não na secundária.",
-      "C": "Errada. O rituximabe tem papel em podocitopatias primárias recidivantes, não na lesão por hiperfiltração.",
-      "D": "Correta. GESF secundária à obesidade (albumina normal, glomerulomegalia, variante peri-hilar, apagamento segmentar): bloqueio do SRAA, iSGLT2 e perda de peso."
+      "A": "Errada. A forma genética entra no jovem com história familiar, início precoce ou resistência a corticoide; não há história familiar, e a glomerulomegalia peri-hilar num IMC de 42 tem explicação mais simples.",
+      "B": "Errada, é a armadilha. Seria a forma com síndrome nefrótica completa (albumina baixa, edema) e apagamento podocitário difuso, a que justifica corticoide; aqui a albumina é de 4,1 g/dL e o apagamento é segmentar.",
+      "C": "Errada. A GESF viral (HIV, parvovírus B19, CMV) costuma ser colapsante, com síndrome nefrótica intensa e perda rápida de função; as sorologias são negativas e a variante é peri-hilar.",
+      "D": "Correta. Proteinúria nefrótica sem hipoalbuminemia nem edema, variante peri-hilar, glomerulomegalia e apagamento segmentar num IMC de 42: GESF adaptativa à hiperfiltração."
     },
-    "para_levar": "GESF com proteinúria nefrótica mas albumina sérica normal e apagamento podocitário segmentar é secundária (adaptativa): trate a causa e bloqueie o SRAA, sem imunossupressão.",
+    "para_levar": "GESF é padrão de lesão: proteinúria nefrótica com albumina sérica normal, apagamento podocitário segmentar e variante peri-hilar indicam forma adaptativa (obesidade, hiperfiltração), tratada com bloqueio do SRAA, iSGLT2 e perda de peso, sem imunossupressão.",
     "referencias": "KDIGO 2021 (Glomerular Diseases), capítulo de GESF; De Vriese et al., JASN 2018 (classificação da GESF primária e secundária).",
-    "tags": ["Síndrome Nefrótica (CM)", "Glomerulopatias (CM)", "Obesidade (CM)"],
+    "tags": [
+      "Síndrome Nefrótica (CM)",
+      "Glomerulopatias (CM)",
+      "Obesidade (CM)"
+    ],
     "sourceQuestionId": "8b9ca008a068fd9",
-    "alvo": "O número que decide (albumina) contra o rótulo histológico; faz MAIS (imunossupressão) quando o caso pede o degrau simples."
+    "alvo": "O número que decide (albumina) contra o rótulo histológico; classificar a GESF antes de imunossuprimir (faz MAIS quando o caso pede o degrau simples)."
   },
   {
     "id": "S4-NEF-05",
@@ -150,7 +164,10 @@
     },
     "para_levar": "Proteinúria de 24 h alta com fita negativa ou albuminúria baixa é proteína não albumínica (cadeia leve): pense em mieloma com nefropatia por cilindros, mesmo no diabético.",
     "referencias": "IMWG, critérios diagnósticos do mieloma (2014) e recomendações sobre lesão renal no mieloma (2016); KDIGO 2024 (CKD), avaliação da albuminúria e da proteinúria.",
-    "tags": ["Mieloma Múltiplo (CM)", "Doença renal do diabetes - DRD (CM)"],
+    "tags": [
+      "Mieloma Múltiplo (CM)",
+      "Doença renal do diabetes - DRD (CM)"
+    ],
     "sourceQuestionId": "23eacf07f948f27",
     "alvo": "Rim do mieloma (errou sem ler a albumina): o número que decide (albuminúria x proteinúria) contra o rótulo diabético."
   },
@@ -180,8 +197,11 @@
       "D": "Errada. Erra nas duas metades: adia uma indicação presente e escolhe o método que a instabilidade desaconselha."
     },
     "para_levar": "Diálise na lesão renal aguda se indica pela complicação refratária, e sobrecarga de volume com hipoxemia apesar do diurético é uma delas mesmo com creatinina modesta; no paciente em vasopressor, método contínuo.",
-    "referencias": "KDIGO 2012 (Acute Kidney Injury); KDIGO Controversies Conference 2020 (terapia renal substitutiva na lesão renal aguda); ADQI 2020 (seleção de pacientes e momento da terapia contínua).",
-    "tags": ["Diálise IRA : Indicações, Modalidades e Acesso Vascular (CM)", "Injúria Renal Aguda (CM)"],
+    "referencias": "KDIGO 2012 (Acute Kidney Injury); KDIGO Controversies Conference on AKI (Ostermann et al., Kidney Int 2020); STARRT-AKI (NEJM 2020).",
+    "tags": [
+      "Diálise IRA : Indicações, Modalidades e Acesso Vascular (CM)",
+      "Injúria Renal Aguda (CM)"
+    ],
     "sourceQuestionId": "4bee3b3c1e3fa49",
     "alvo": "Diálise na IRA (errou 2 de 2, mais o método no instável): indicação por volume refratário e método contínuo (par com a S2: não dialisar pelo número)."
   },
@@ -189,32 +209,35 @@
     "id": "S4-NEF-07",
     "simulado": 4,
     "area": "Nefrologia",
-    "titulo": "PTH em elevação na DRC estágio 4 não dialítica · corrigir a deficiência de vitamina D antes do calcitriol",
-    "arma": "Omissão",
-    "comando": "conduta",
+    "titulo": "PTH em elevação na DRC estágio 4 não dialítica · dosar 25-hidroxivitamina D, e não a vitamina D ativa",
+    "arma": "Rótulo verdadeiro",
+    "comando": "próximo exame",
     "nivel": "difícil",
-    "enunciado": "Mulher de 59 anos, com doença renal crônica por nefroesclerose hipertensiva, TFGe de 22 mL/min/1,73 m², não dialítica, sem fraturas, em uso de losartana e anlodipino. Exames de rotina: cálcio 8,9 mg/dL, fósforo 4,4 mg/dL, fosfatase alcalina 112 U/L (normal), PTH 196 pg/mL (15 a 65; era 142 pg/mL há seis meses), 25-hidroxivitamina D 13 ng/mL, bicarbonato 23 mEq/L. A conduta inicial mais adequada para o PTH em elevação é:",
+    "enunciado": "Mulher de 59 anos, com doença renal crônica por nefroesclerose hipertensiva, TFGe de 22 mL/min/1,73 m², não dialítica, sem fraturas, em uso de losartana e anlodipino. Trabalha em casa e quase não se expõe ao sol. Exames de rotina: cálcio 8,9 mg/dL, fósforo 4,4 mg/dL, fosfatase alcalina 112 U/L (normal), bicarbonato 23 mEq/L e PTH 196 pg/mL (15 a 65), que era 142 pg/mL há seis meses. No prontuário, o residente anotou que o rim doente produz menos vitamina D ativa. Para orientar o manejo do PTH em elevação, o exame mais adequado neste momento é:",
     "alternativas": {
-      "A": "Calcitriol oral",
-      "B": "Cinacalcete",
-      "C": "Colecalciferol",
-      "D": "Sevelâmer"
+      "A": "1,25-di-hidroxivitamina D sérica",
+      "B": "Cintilografia de paratireoides",
+      "C": "25-hidroxivitamina D sérica",
+      "D": "Densitometria óssea"
     },
     "gabarito": "C",
     "armadilha": "A",
-    "dado_decisivo": "25-hidroxivitamina D 13 ng/mL",
-    "resolucao": "PTH de 196, três vezes o limite e subindo, numa DRC estágio 4 parece pedir o tratamento do hiperparatireoidismo secundário, e o calcitriol é o remédio que vem à cabeça. Mas a KDIGO de distúrbio mineral e ósseo orienta, na DRC G3a a G5 não dialítica com PTH em elevação progressiva, corrigir primeiro os fatores modificáveis: hiperfosfatemia, hipocalcemia, ingesta alta de fósforo e deficiência de vitamina D. Cálcio e fósforo estão normais, e a 25-hidroxivitamina D de 13 ng/mL mostra deficiência nutricional, que por si estimula o PTH. O degrau certo é repor colecalciferol (vitamina D nativa) e reavaliar. Calcitriol e análogos não são rotina na DRC não dialítica (hipercalcemia sem benefício clínico demonstrado) e ficam para o hiperparatireoidismo grave e progressivo; cinacalcete é para o paciente em diálise; quelante de fósforo não tem indicação com fósforo normal.",
+    "dado_decisivo": "quase não se expõe ao sol",
+    "resolucao": "PTH três vezes o limite e subindo numa DRC estágio 4 lembra a falta de calcitriol do rim doente, e o reflexo é dosar a vitamina D ativa. A anotação do residente é verdadeira, mas leva ao exame errado: a 1,25-di-hidroxivitamina D é regulada pelo próprio PTH e pelo fósforo, cai tarde, não mede reserva e não orienta o tratamento, e a KDIGO não recomenda dosá-la na DRC. A KDIGO de distúrbio mineral e ósseo orienta, na DRC G3a a G5 não dialítica com PTH em elevação progressiva, procurar primeiro os fatores modificáveis: hiperfosfatemia, hipocalcemia, ingesta alta de fósforo e deficiência de vitamina D. Cálcio e fósforo estão normais e a paciente quase não se expõe ao sol: falta a 25-hidroxivitamina D, que mede o estoque. Se baixa, o tratamento é colecalciferol; calcitriol e análogos não são rotina na DRC não dialítica (hipercalcemia sem benefício clínico demonstrado) e ficam para o hiperparatireoidismo grave e progressivo, e o cinacalcete é para quem está em diálise.",
     "comentarios": {
-      "A": "Errada, é a armadilha. O calcitriol é reservado ao hiperparatireoidismo grave e progressivo apesar da correção dos fatores modificáveis; usado antes, causa hipercalcemia e hiperfosfatemia.",
-      "B": "Errada. O cinacalcete é indicado no hiperparatireoidismo secundário em diálise, não na DRC não dialítica, em que causa hipocalcemia.",
-      "C": "Correta. Com cálcio e fósforo normais e 25-hidroxivitamina D de 13 ng/mL, o primeiro passo é corrigir a deficiência com colecalciferol.",
-      "D": "Errada. O quelante trata a hiperfosfatemia; com fósforo de 4,4 não há indicação, e quelante não se usa para baixar PTH com fósforo normal."
+      "A": "Errada, é a armadilha. O rim doente produz menos calcitriol, mas o nível sérico de 1,25-di-hidroxivitamina D não mede estoque nem guia o tratamento; seria útil na hipercalcemia com suspeita de produção extrarrenal (sarcoidose, linfoma).",
+      "B": "Errada. A cintilografia localiza glândula para paratireoidectomia (primário, ou terciário com indicação cirúrgica); não diagnostica nem orienta o tratamento clínico do hiperparatireoidismo secundário.",
+      "C": "Correta. Com cálcio e fósforo normais e PTH subindo, o fator modificável a avaliar é a deficiência de vitamina D nativa, medida pela 25-hidroxivitamina D; se baixa, colecalciferol antes de pensar em calcitriol.",
+      "D": "Errada. A densitometria estima risco de fratura na DRC quando o resultado muda a conduta, mas não explica nem guia o tratamento do PTH em elevação."
     },
-    "para_levar": "DRC não dialítica com PTH subindo: corrija primeiro fósforo, cálcio e deficiência de vitamina D (colecalciferol); calcitriol só no hiperparatireoidismo grave e progressivo, cinacalcete só em diálise.",
+    "para_levar": "DRC não dialítica com PTH subindo: dose a 25-hidroxivitamina D (estoque), não a 1,25 (ativa), e corrija fósforo, cálcio e deficiência de vitamina D com colecalciferol antes de pensar em calcitriol; cinacalcete só em diálise.",
     "referencias": "KDIGO 2017 (CKD-MBD Guideline Update); Diretriz Brasileira de Distúrbio Mineral e Ósseo na Doença Renal Crônica (SBN 2021).",
-    "tags": ["Doença Mineral Óssea no DRC (CM)", "Hiperparatireoidismo Secundário (Clínica Médica) (CM)"],
+    "tags": [
+      "Doença Mineral Óssea no DRC (CM)",
+      "Hiperparatireoidismo Secundário (Clínica Médica) (CM)"
+    ],
     "sourceQuestionId": "139920ccb6e2dcc",
-    "alvo": "DMO da DRC (errou 2x): o degrau mais simples (vitamina D nativa) antes do calcitriol ou do cinacalcete."
+    "alvo": "Próximo exame (pior comando, 43%) e DMO da DRC (errou 2x): o exame simples do fator modificável, contra o rótulo da vitamina D ativa."
   },
   {
     "id": "S4-NEF-08",
@@ -226,24 +249,27 @@
     "nivel": "extremamente difícil",
     "enunciado": "Homem de 49 anos, com transtorno bipolar em uso de carbonato de lítio 900 mg/dia há dez anos (litemias anteriores entre 0,7 e 0,9 mEq/L), torceu o tornozelo há dez dias e passou a tomar, três vezes ao dia, um comprimido para dor e inchaço comprado sem receita. Há três dias tem diarreia e tremor grosseiro, e hoje ficou confuso. Exame: Glasgow 10, mioclonias, hiper-reflexia, PA 118/72 mmHg, FC 56 bpm. Exames: creatinina 2,1 mg/dL (basal 1,0), sódio 141 mEq/L, potássio 4,3 mEq/L, litemia de 2,6 mEq/L colhida 12 horas após a última dose. ECG: bradicardia sinusal e QTc de 470 ms. Além de suspender o lítio e o analgésico, a conduta mais adequada é:",
     "alternativas": {
-      "A": "SF 0,9% e nova litemia em 6 horas",
-      "B": "Carvão ativado em doses múltiplas",
-      "C": "Diurese forçada com furosemida",
+      "A": "Carvão ativado em doses múltiplas",
+      "B": "Diurese forçada com furosemida",
+      "C": "SF 0,9% e nova litemia em 6 horas",
       "D": "Hemodiálise"
     },
     "gabarito": "D",
-    "armadilha": "A",
+    "armadilha": "C",
     "dado_decisivo": "Glasgow 10",
     "resolucao": "Litemia de 2,6, abaixo dos cortes de 4 e 5 mEq/L que ele lembra como indicação de diálise, leva a tratar com soro e repetir a dosagem. Mas na intoxicação crônica o lítio já se distribuiu para o cérebro, e a litemia subestima a gravidade: quem manda é a clínica. Pelo EXTRIP, a hemodiálise é recomendada, qualquer que seja a litemia, quando há rebaixamento de consciência, convulsões ou arritmia com risco de vida, e aqui há Glasgow 10 com mioclonias. A causa da intoxicação é a droga a deduzir: comprimido para dor e inchaço vendido sem receita é anti-inflamatório não esteroidal, que reduz a filtração e aumenta a reabsorção proximal de lítio; a diarreia e a lesão renal agravaram o acúmulo. Carvão ativado não adsorve lítio, e a furosemida, ao depletar volume, aumenta a reabsorção de lítio. SF 0,9% é adjuvante, mas não substitui a diálise neste quadro.",
     "comentarios": {
-      "A": "Errada, é a armadilha. Hidratação e nova dosagem seriam a conduta na intoxicação leve, sem rebaixamento e com função renal preservada; com Glasgow 10, esperar significa mais dano neurológico, potencialmente permanente.",
-      "B": "Errada. O lítio é um íon pequeno e não é adsorvido por carvão ativado; a irrigação intestinal só tem papel na ingestão aguda de comprimidos de liberação prolongada.",
-      "C": "Errada. A furosemida espolia volume e aumenta a reabsorção proximal de sódio e de lítio, piorando a intoxicação.",
+      "A": "Errada. O lítio é um íon pequeno e não é adsorvido por carvão ativado; a irrigação intestinal só tem papel na ingestão aguda de comprimidos de liberação prolongada.",
+      "B": "Errada. A furosemida espolia volume e aumenta a reabsorção proximal de sódio e de lítio, piorando a intoxicação.",
+      "C": "Errada, é a armadilha. Hidratação e nova dosagem seriam a conduta na intoxicação leve, sem rebaixamento e com função renal preservada; com Glasgow 10, esperar significa mais dano neurológico, potencialmente permanente.",
       "D": "Correta. Rebaixamento de consciência na intoxicação por lítio indica hemodiálise qualquer que seja a litemia, e a lesão renal reforça a indicação."
     },
     "para_levar": "Na intoxicação crônica por lítio, a clínica manda: rebaixamento, convulsão ou arritmia grave indicam hemodiálise mesmo com litemia abaixo de 4; AINE, tiazídico e IECA ou BRA elevam o lítio.",
     "referencias": "EXTRIP Workgroup, Extracorporeal Treatment for Lithium Poisoning (Clin J Am Soc Nephrol 2015); Harrison 21ª ed. (Acute Poisoning).",
-    "tags": ["Intoxicação por Lítio (CM)", "Nefrotoxicidade por Drogas (CM)"],
+    "tags": [
+      "Intoxicação por Lítio (CM)",
+      "Nefrotoxicidade por Drogas (CM)"
+    ],
     "sourceQuestionId": "8fb312ce5a71a85",
     "alvo": "Lítio (tema UERJ que ele erra solto): interação com AINE a deduzir e indicação de hemodiálise pela clínica, não pelo número."
   }

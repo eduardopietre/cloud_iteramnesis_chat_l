@@ -25,7 +25,7 @@
    "D": "Errada. A dose reduzida estendida é estratégia para TEV não provocado ou com fator persistente após a fase inicial, não para TEV cirúrgico."
   },
   "para_levar": "TEV provocado por fator transitório maior (cirurgia, gesso) trata-se por 3 meses e para; pesquisar trombofilia não muda a conduta e não se faz.",
-  "referencias": "ASH 2020 guidelines for the treatment of VTE; ASH 2023 guidelines on thrombophilia testing; CHEST 2021 Antithrombotic Therapy for VTE.",
+  "referencias": "ASH 2020 guidelines for the treatment of VTE (Ortel et al.); ASH 2023 guidelines on thrombophilia testing (Middeldorp et al.); ESC 2019 guidelines on acute pulmonary embolism; CHEST 2021 Antithrombotic Therapy for VTE.",
   "tags": [
    "Trombose Venosa Profunda (CM)",
    "Anticoagulação (CM)"
@@ -43,23 +43,23 @@
   "nivel": "difícil",
   "enunciado": "Mulher de 47 anos, tratada há 3 semanas com amoxicilina-clavulanato por pneumonia comunitária, com melhora da febre e da tosse, retorna porque o hemograma de controle mostrou leucocitose. Refere saciedade precoce e sudorese noturna há 3 meses, desde antes da pneumonia. Exame: afebril, baço palpável a 10 cm do rebordo costal. Hemograma: Hb 10,9 g/dL, leucócitos 156.000/mm³ com mielócitos 14%, metamielócitos 9%, bastões 12%, segmentados 48%, basófilos 7%, eosinófilos 5% e blastos 2%; plaquetas 640.000/mm³. PCR 1,2 mg/dL. O exame que confirma o diagnóstico mais provável é:",
   "alternativas": {
-   "A": "Hemoculturas e nova radiografia",
-   "B": "Fosfatase alcalina leucocitária",
-   "C": "Pesquisa de JAK2 V617F",
+   "A": "Fosfatase alcalina leucocitária",
+   "B": "Pesquisa de JAK2 V617F",
+   "C": "Hemoculturas e nova radiografia",
    "D": "Pesquisa de BCR-ABL1 no sangue"
   },
   "gabarito": "D",
-  "armadilha": "A",
+  "armadilha": "C",
   "dado_decisivo": "basófilos 7%",
   "resolucao": "A pneumonia recente é verdadeira, e leucocitose com desvio à esquerda depois de infecção puxa para reação leucemoide, com busca de foco persistente. Os dados que decidem não pertencem a infecção: basofilia de 7% (a reação leucemoide não produz basófilos), eosinofilia, trombocitose, esplenomegalia de 10 cm e sintomas que começaram antes da pneumonia, com PCR já normalizada. Leucocitose acima de 100.000 com todo o espectro de maturação granulocítica, predomínio de mielócitos e segmentados e poucos blastos é leucemia mieloide crônica em fase crônica. O diagnóstico se confirma pelo BCR-ABL1 no sangue periférico (PCR quantitativo ou FISH); o mielograma com cariótipo entra depois para definir a fase e anomalias adicionais. A fosfatase alcalina leucocitária baixa sugere LMC, mas não confirma, e o JAK2 é das neoplasias mieloproliferativas Filadélfia negativas.",
   "comentarios": {
-   "A": "Errada. É a armadilha: reação leucemoide não dá basofilia nem baço de 10 cm, e a PCR já normalizou.",
-   "B": "Errada. A fosfatase alcalina leucocitária baixa é sugestiva, mas inespecífica e abandonada; não confirma o diagnóstico.",
-   "C": "Errada. JAK2 investiga policitemia vera, trombocitemia e mielofibrose; leucocitose com basofilia e mielócitos é LMC até prova em contrário.",
+   "A": "Errada. A fosfatase alcalina leucocitária baixa é sugestiva, mas inespecífica e abandonada; não confirma o diagnóstico.",
+   "B": "Errada. JAK2 investiga policitemia vera, trombocitemia e mielofibrose; leucocitose com basofilia e mielócitos é LMC até prova em contrário.",
+   "C": "Errada. É a armadilha: reação leucemoide não dá basofilia nem baço de 10 cm, e a PCR já normalizou.",
    "D": "Correta. Leucocitose com mielócitos, basofilia, trombocitose e esplenomegalia volumosa: LMC, confirmada pelo BCR-ABL1 no sangue periférico."
   },
   "para_levar": "Leucocitose com desvio até mielócitos, basofilia e esplenomegalia volumosa é LMC, mesmo após infecção: confirma-se com BCR-ABL1 no sangue (PCR ou FISH).",
-  "referencias": "ELN 2020 recommendations for CML (Hochhaus et al., Leukemia 2020); NCCN Chronic Myeloid Leukemia 2026.",
+  "referencias": "ELN 2020 recommendations for CML (Hochhaus et al., Leukemia 2020); NCCN Chronic Myeloid Leukemia 2025.",
   "tags": [
    "Leucemias (CM)"
   ],
@@ -87,7 +87,7 @@
   "resolucao": "Esquizócitos, plaquetopenia grave, alteração neurológica e lesão renal montam a pêntade da PTT, e a plasmaférese vem como reflexo. Esquizócitos, porém, aparecem em qualquer microangiopatia, inclusive na coagulação intravascular disseminada, e o que separa as duas é o coagulograma: a PTT consome plaquetas, mas não fatores, e tem TP, TTPa e fibrinogênio normais. Aqui INR de 2,2, TTPa alargado, fibrinogênio de 88 e D-dímero mais de 20 vezes acima do limite, num choque séptico, são consumo de fatores: CIVD, com escore ISTH bem acima de 5. O tratamento é o da sepse, e no paciente que sangra se repõe o que falta: crioprecipitado (ou concentrado de fibrinogênio) para fibrinogênio abaixo de 150, plaquetas abaixo de 50.000 e plasma para o INR alargado. A plasmaférese não tem papel na CIVD.",
   "comentarios": {
    "A": "Errada. É a armadilha: a PTT não alarga INR e TTPa nem consome fibrinogênio; esquizócitos sozinhos não fazem o diagnóstico.",
-   "B": "Errada nas duas metades. Não é PTT, e na PTT o crioprecipitado não teria papel.",
+   "B": "Errada. Erra as duas metades: Não é PTT, e na PTT o crioprecipitado não teria papel.",
    "C": "Errada. O diagnóstico está certo, mas plasmaférese não trata a CIVD; o tratamento é a causa e a reposição no sangramento.",
    "D": "Correta. Consumo de fatores e de fibrinogênio na sepse é CIVD, e com sangramento e fibrinogênio de 88 a reposição é com crioprecipitado."
   },
@@ -159,7 +159,7 @@
    "D": "Errada. É a armadilha: o daratumumabe para latente de alto risco pressupõe que não há critério SLiM; aqui o limiar de 100 foi cruzado."
   },
   "para_levar": "SLiM-CRAB: plasmócitos de 60% ou mais, razão de cadeias leves de 100 ou mais ou mais de uma lesão focal na ressonância definem mieloma ativo, mesmo sem CRAB.",
-  "referencias": "IMWG 2014 updated criteria (Rajkumar et al., Lancet Oncol 2014); modelo 20/2/20 de risco do mieloma latente (Mayo/IMWG, 2020); NCCN Multiple Myeloma 2026.",
+  "referencias": "IMWG 2014 updated criteria (Rajkumar et al., Lancet Oncol 2014); modelo 20/2/20 de risco do mieloma latente (Mayo/IMWG, 2020); NCCN Multiple Myeloma 2025.",
   "tags": [
    "Mieloma Múltiplo (CM)",
    "Mieloma Múltiplo e Outras Discrasias Plasmocitárias (CM)"
@@ -177,19 +177,19 @@
   "nivel": "difícil",
   "enunciado": "Mulher de 44 anos, com 3 gestações prévias, recebeu 2 concentrados de hemácias compatíveis há 8 dias, durante histerectomia por miomatose com sangramento. Teve alta no 3º dia com Hb de 10,1 g/dL. Hoje retorna com icterícia, urina escura e cansaço. Desde a alta usa dipirona e cefalexina por infecção da ferida operatória. Exames: Hb 7,4 g/dL, reticulócitos 6%, LDH 820 U/L, bilirrubina indireta 3,6 mg/dL, haptoglobina indetectável, Coombs direto positivo (IgG), esfregaço com esferócitos e sem esquizócitos. A pesquisa de anticorpos irregulares é positiva para anti-Jka, ausente na amostra pré-transfusional. O diagnóstico mais provável é:",
   "alternativas": {
-   "A": "Anemia hemolítica autoimune quente",
-   "B": "Hemólise imune induzida por cefalexina",
-   "C": "Reação hemolítica aguda por ABO",
+   "A": "Reação hemolítica aguda por ABO",
+   "B": "Anemia hemolítica autoimune quente",
+   "C": "Hemólise imune induzida por cefalexina",
    "D": "Reação hemolítica transfusional tardia"
   },
   "gabarito": "D",
-  "armadilha": "A",
+  "armadilha": "B",
   "dado_decisivo": "anti-Jka, ausente na amostra pré-transfusional",
   "resolucao": "Coombs direto IgG positivo com esferócitos é a assinatura da anemia hemolítica autoimune quente, e a cefalexina oferece uma segunda isca, a hemólise imune por droga. A cronologia decide: hemólise extravascular entre 3 e 14 dias após transfusão, num paciente previamente sensibilizado (três gestações), é a resposta anamnéstica a um antígeno eritrocitário do doador. O anticorpo estava em título indetectável na prova pré-transfusional e reapareceu após a reexposição, e a prova é o anti-Jka novo, ausente antes. Os anticorpos do sistema Kidd são os mais associados a essa reação porque caem rapidamente a níveis indetectáveis. A reação aguda por ABO acontece em minutos a horas, com hemólise intravascular. A conduta é registrar o anticorpo e transfundir, quando necessário, hemácias Jk(a) negativas.",
   "comentarios": {
-   "A": "Errada. É a armadilha: o Coombs IgG e os esferócitos estão lá, mas um aloanticorpo novo contra antígeno do doador 8 dias após transfusão não é autoanticorpo.",
-   "B": "Errada. Hemólise por cefalosporina é rara, mais associada à ceftriaxona, e não explicaria o aloanticorpo anti-Jka.",
-   "C": "Errada. A reação ABO ocorre em minutos a horas da transfusão, com hemólise intravascular, febre e hipotensão, não após 8 dias.",
+   "A": "Errada. A reação ABO ocorre em minutos a horas da transfusão, com hemólise intravascular, febre e hipotensão, não após 8 dias.",
+   "B": "Errada. É a armadilha: o Coombs IgG e os esferócitos estão lá, mas um aloanticorpo novo contra antígeno do doador 8 dias após transfusão não é autoanticorpo.",
+   "C": "Errada. Hemólise por cefalosporina é rara, mais associada à ceftriaxona, e não explicaria o aloanticorpo anti-Jka.",
    "D": "Correta. Hemólise com Coombs positivo 8 dias após transfusão, em sensibilizada por gestações, com anti-Jka novo: reação hemolítica tardia."
   },
   "para_levar": "Hemólise extravascular 3 a 14 dias após transfusão, com Coombs IgG positivo e aloanticorpo novo (Kidd é o mais traiçoeiro), é reação hemolítica tardia; registrar o anticorpo e dar hemácias antígeno-negativas.",
@@ -276,25 +276,25 @@
   "arma": "Rótulo verdadeiro",
   "comando": "próximo exame",
   "nivel": "difícil",
-  "enunciado": "Mulher de 39 anos, natural de Minas Gerais, teve PTI diagnosticada há 1 mês, com plaquetas de 24.000/mm³ e petéquias em pernas, e está em prednisona 1 mg/kg/dia há 2 semanas, com plaquetas atuais de 58.000/mm³. Tem hipotireoidismo por tireoidite de Hashimoto, em levotiroxina. Sem artralgias, fotossensibilidade, úlceras orais ou serosite. Exames: Hb 13,2 g/dL, leucócitos 7.100/mm³, urina tipo 1 normal, creatinina normal, FAN 1:160 com padrão nuclear pontilhado fino, sorologias para HIV e hepatites B e C negativas, imunoglobulinas normais. A investigação adicional com maior potencial de mudar o tratamento é:",
+  "enunciado": "Mulher de 39 anos, natural de Minas Gerais, teve PTI diagnosticada há 1 mês, com plaquetas de 24.000/mm³ e petéquias em pernas, e está em prednisona 1 mg/kg/dia há 2 semanas, com plaquetas atuais de 58.000/mm³. Tem hipotireoidismo por tireoidite de Hashimoto, em levotiroxina. Sem artralgias, fotossensibilidade, úlceras orais ou serosite. Exames: Hb 13,2 g/dL, leucócitos 7.100/mm³, urina tipo 1 normal, creatinina normal, FAN 1:80 com padrão nuclear pontilhado fino, sorologias para HIV e hepatites B e C negativas, imunoglobulinas normais. A investigação adicional com maior potencial de mudar o tratamento é:",
   "alternativas": {
-   "A": "Anti-DNA nativo e complemento",
-   "B": "Mielograma com biópsia",
+   "A": "Mielograma com biópsia",
+   "B": "Anti-DNA nativo e complemento",
    "C": "Pesquisa de H. pylori",
    "D": "Anticorpos antiplaquetários"
   },
   "gabarito": "C",
-  "armadilha": "A",
+  "armadilha": "B",
   "dado_decisivo": "Sem artralgias, fotossensibilidade, úlceras orais ou serosite",
-  "resolucao": "FAN positivo numa mulher jovem com plaquetopenia imune e tireoidite autoimune puxa para lúpus, e o reflexo é pedir anti-DNA e complemento. O negativo no exame clínico desarma o rótulo: sem artrite, fotossensibilidade, úlceras, serosite ou alteração urinária, um FAN de 1:160 com padrão pontilhado fino é achado frequente na PTI e na autoimunidade tireoidiana e não muda a conduta. O que pode mudar o tratamento é o H. pylori: em regiões de alta prevalência, como o Brasil, a erradicação eleva as plaquetas numa parte dos adultos com PTI, e os consensos de H. pylori incluem a PTI entre as indicações de pesquisar e tratar. O mielograma não é necessário com resposta ao corticoide e quadro isolado, e o anticorpo antiplaquetário tem sensibilidade baixa e não orienta conduta.",
+  "resolucao": "FAN positivo numa mulher jovem com plaquetopenia imune e tireoidite autoimune puxa para lúpus, e o reflexo é pedir anti-DNA e complemento. O negativo no exame clínico desarma o rótulo: sem artrite, fotossensibilidade, úlceras, serosite ou alteração urinária, um FAN de 1:80 com padrão pontilhado fino é achado frequente na PTI e na autoimunidade tireoidiana e não muda a conduta. O que pode mudar o tratamento é o H. pylori: em regiões de alta prevalência, como o Brasil, a erradicação eleva as plaquetas numa parte dos adultos com PTI, e os consensos de H. pylori incluem a PTI entre as indicações de pesquisar e tratar. O mielograma não é necessário com resposta ao corticoide e quadro isolado, e o anticorpo antiplaquetário tem sensibilidade baixa e não orienta conduta.",
   "comentarios": {
-   "A": "Errada. É a armadilha: sem nenhum critério clínico de LES, FAN em título baixo não justifica a investigação nem muda o tratamento da PTI.",
-   "B": "Errada. Medula se faz com atipia (outras citopenias, idade avançada, falha terapêutica); ela respondeu ao corticoide.",
+   "A": "Errada. Medula se faz com atipia (outras citopenias, idade avançada, falha terapêutica); ela respondeu ao corticoide.",
+   "B": "Errada. É a armadilha: sem nenhum critério clínico de LES, FAN em título baixo não justifica a investigação nem muda o tratamento da PTI.",
    "C": "Correta. Na PTI do adulto, pesquisar e erradicar H. pylori pode elevar as plaquetas e é recomendado pelos consensos de H. pylori.",
    "D": "Errada. O anticorpo antiplaquetário tem baixa sensibilidade e não confirma nem afasta PTI; não orienta conduta."
   },
   "para_levar": "Na PTI do adulto, pesquise e trate H. pylori (pode subir as plaquetas); FAN em título baixo sem clínica de LES é comum e não muda a conduta.",
-  "referencias": "ASH 2019 guidelines for ITP; Maastricht VI/Florence consensus report 2022; Consenso Brasileiro sobre Helicobacter pylori (Federação Brasileira de Gastroenterologia).",
+  "referencias": "ASH 2019 guidelines for ITP; International Consensus Report on ITP 2019 (Provan et al.); Maastricht VI/Florence consensus report 2022.",
   "tags": [
    "Púrpura Trombocitopênica Imunológica (PTI) (CM)",
    "H.pylori (CM)"

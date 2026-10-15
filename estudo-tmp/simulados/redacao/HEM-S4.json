@@ -7,7 +7,7 @@
   "arma": "Limiar",
   "comando": "próximo exame",
   "nivel": "difícil",
-  "enunciado": "Homem de 34 anos, sem comorbidades, IMC de 23 kg/m², abstêmio, procura o clínico por dor na 2ª e 3ª articulações metacarpofalangeanas das duas mãos há 1 ano e cansaço. Nunca recebeu transfusão e não usa suplementos. Exame: edema discreto nas articulações citadas, sem outras alterações. Exames em jejum, repetidos com 1 mês de intervalo: saturação de transferrina de 71% e 68% (VR 20 a 50%), ferritina de 380 e 410 ng/mL (VR 30 a 400), ALT 52 U/L, AST 41 U/L, glicemia e hemograma normais. Sorologias para hepatites B e C negativas. O próximo exame mais adequado é:",
+  "enunciado": "Homem de 34 anos, sem comorbidades, IMC de 23 kg/m², abstêmio, é encaminhado por ALT discretamente elevada em exame admissional. Está assintomático. Nunca recebeu transfusão e não usa suplementos, anabolizantes nem medicamentos. Exame físico normal, sem hepatomegalia. Ultrassonografia de abdome sem esteatose e sem alterações. Exames em jejum, repetidos com 1 mês de intervalo: saturação de transferrina de 71% e 68% (VR 20 a 50%), ferritina de 380 e 410 ng/mL (VR 30 a 400), ALT 52 U/L, AST 41 U/L, glicemia e hemograma normais. Sorologias para hepatites B e C negativas. O próximo exame mais adequado é:",
   "alternativas": {
    "A": "Ressonância hepática com T2*",
    "B": "Biópsia hepática com coloração de Perls",
@@ -17,11 +17,11 @@
   "gabarito": "C",
   "armadilha": "D",
   "dado_decisivo": "saturação de transferrina de 71% e 68%",
-  "resolucao": "A ferritina praticamente normal é o que tranquiliza o apressado, que repete o exame mais tarde. Na hemocromatose HFE, porém, a saturação de transferrina sobe primeiro, anos antes de a ferritina acumular, e é ela que define a suspeita: saturação de 45% ou mais em jejum, confirmada, pede genotipagem do HFE, independentemente da ferritina. Ele tem 71% e 68%, artropatia de 2ª e 3ª metacarpofalangeanas (a mais característica da doença) e transaminases discretamente altas. A biópsia e a ressonância ficaram para depois: a biópsia, para o homozigoto C282Y com ferritina acima de 1.000 e transaminases altas, em que se avalia fibrose; a ressonância, para quantificar ferro quando o genótipo não explica a sobrecarga. É o espelho da hiperferritinemia metabólica: lá a ferritina engana para cima, aqui engana para baixo, e nos dois casos quem decide é a saturação.",
+  "resolucao": "A ferritina praticamente normal é o que tranquiliza o apressado, que repete o exame mais tarde. Na hemocromatose HFE, porém, a saturação de transferrina sobe primeiro, anos antes de a ferritina acumular, e é ela que define a suspeita: saturação de 45% ou mais em jejum, confirmada, pede genotipagem do HFE, independentemente da ferritina. Ele tem 71% e 68%, sem álcool, sem esteatose, sem hepatite viral e sem transfusão, e a ALT discretamente alta pode ser a primeira expressão da doença. A biópsia e a ressonância ficam para depois: a biópsia, para o homozigoto C282Y com ferritina acima de 1.000 e transaminases altas, em que se avalia fibrose; a ressonância, para quantificar ferro quando o genótipo não explica a sobrecarga. É o espelho da hiperferritinemia metabólica: lá a ferritina engana para cima, aqui engana para baixo, e nos dois casos quem decide é a saturação.",
   "comentarios": {
    "A": "Errada. A ressonância quantifica ferro e seria útil se o HFE viesse negativo com sobrecarga suspeita; não é o primeiro passo.",
    "B": "Errada. A biópsia se reserva ao homozigoto C282Y com ferritina acima de 1.000 e transaminases elevadas, para estadiar fibrose.",
-   "C": "Correta. Saturação de transferrina persistentemente acima de 45% em jejum, com artropatia característica de MCF: genotipagem do HFE, mesmo com ferritina normal.",
+   "C": "Correta. Saturação de transferrina persistentemente acima de 45% em jejum, sem outra causa, com ALT discretamente alta: genotipagem do HFE, mesmo com ferritina normal.",
    "D": "Errada. É a armadilha: ferritina normal não afasta hemocromatose inicial; repetir em 6 meses só atrasa o diagnóstico de doença tratável."
   },
   "para_levar": "Na hemocromatose a saturação de transferrina sobe antes da ferritina: saturação de 45% ou mais em jejum pede HFE mesmo com ferritina normal; ferritina alta com saturação normal não pede.",
@@ -58,7 +58,7 @@
    "D": "Errada. Seria o passo diante de sinal de amiloidose AL, como proteinúria ou neuropatia, que ele não tem."
   },
   "para_levar": "GMSI de baixo risco (IgG, pico abaixo de 1,5 g/dL, razão de cadeias leves normal) sem CRAB dispensa medula e imagem: reavalia em 6 meses e depois a cada 2 a 3 anos.",
-  "referencias": "IMWG 2010 consensus on MGUS monitoring; IMWG 2014 diagnostic criteria; NCCN Multiple Myeloma 2026.",
+  "referencias": "IMWG 2010 consensus on MGUS monitoring; IMWG 2014 diagnostic criteria; NCCN Multiple Myeloma 2025.",
   "tags": [
    "Gamopatia Monoclonal de Significado Indeterminado (GMSI) (CM)"
   ],
@@ -73,7 +73,7 @@
   "arma": "Grade X / Y",
   "comando": "conduta",
   "nivel": "difícil",
-  "enunciado": "Mulher de 41 anos, sem lúpus ou outra doença autoimune, teve trombose venosa profunda femoropoplítea esquerda há 4 meses, sem fator desencadeante, tratada com rivaroxabana 20 mg/dia. Tem duas perdas gestacionais após 10 semanas de gestação. Exames colhidos antes da anticoagulação mostraram anticoagulante lúpico positivo, anticardiolipina IgG 82 GPL e anti-beta-2-glicoproteína I IgG 64 U, e os três se repetiram positivos após 12 semanas, em amostra tratada para remover a interferência do anticoagulante. FAN negativo, função renal normal, IMC de 26 kg/m². Quanto ao anticoagulante e à duração, a conduta mais adequada é, respectivamente:",
+  "enunciado": "Mulher de 41 anos, sem lúpus ou outra doença autoimune, teve trombose venosa profunda femoropoplítea esquerda há 4 meses, sem fator desencadeante, tratada com rivaroxabana 20 mg/dia, sem recorrência e sem sangramento até agora; ela prefere seguir com o comprimido sem exames de controle. Tem duas perdas gestacionais após 10 semanas de gestação. Exames colhidos antes da anticoagulação mostraram anticoagulante lúpico positivo, anticardiolipina IgG 82 GPL e anti-beta-2-glicoproteína I IgG 64 U, e os três se repetiram positivos após 12 semanas, em amostra tratada para remover a interferência do anticoagulante. FAN negativo, função renal normal, IMC de 26 kg/m². Quanto ao anticoagulante e à duração, a conduta mais adequada é, respectivamente:",
   "alternativas": {
    "A": "Trocar por varfarina / indefinida",
    "B": "Manter rivaroxabana / indefinida",
@@ -87,7 +87,7 @@
   "comentarios": {
    "A": "Correta. SAF com tripla positividade e TEV não provocado: varfarina (INR 2 a 3) por tempo indeterminado.",
    "B": "Errada. É a armadilha: a duração está certa, mas a rivaroxabana na tripla positividade aumenta trombose arterial e venosa em relação à varfarina.",
-   "C": "Errada nas duas metades. Seis meses seria para TEV provocado sem SAF, e a droga não é a indicada para este perfil.",
+   "C": "Errada. Erra as duas metades: Seis meses seria para TEV provocado sem SAF, e a droga não é a indicada para este perfil.",
    "D": "Errada. A droga está certa, mas parar aos 6 meses na SAF com TEV não provocado expõe a recorrência alta."
   },
   "para_levar": "SAF com TEV não provocado anticoagula por tempo indeterminado com varfarina; na tripla positividade a rivaroxabana é contraindicada (TRAPS), com ou sem LES.",
@@ -182,14 +182,14 @@
    "D": "Suspender o esquema antituberculose"
   },
   "gabarito": "B",
-  "armadilha": "C",
+  "armadilha": "D",
   "dado_decisivo": "saturação de transferrina 82%",
-  "resolucao": "Tuberculose é doença inflamatória crônica, e o rótulo puxa para anemia de doença crônica; a microcitose ainda tenta para ferropenia. Os números do ferro derrubam as duas: na doença crônica a ferritina sobe, mas a saturação de transferrina cai, porque a hepcidina prende o ferro nos macrófagos, e na ferropenia as duas caem. Saturação de 82% com ferritina de 940, PCR normal, população dupla de hemácias e corpúsculos de Pappenheimer é anemia sideroblástica: o ferro chega ao eritroblasto mas não entra no heme. A isoniazida antagoniza a piridoxina, cofator da ALA-sintase, primeiro passo da síntese do heme. A conduta é repor piridoxina mantendo o esquema, que está funcionando; a anemia responde em semanas. O álcool também causa sideroblastose, mas em consumo pesado, não em 3 doses por semana.",
+  "resolucao": "Tuberculose é doença inflamatória crônica, e o rótulo puxa para anemia de doença crônica; a microcitose ainda tenta para ferropenia. Os números do ferro derrubam as duas: na doença crônica a ferritina sobe, mas a saturação de transferrina cai, porque a hepcidina prende o ferro nos macrófagos, e na ferropenia as duas caem. Saturação de 82% com ferritina de 940, PCR normal, população dupla de hemácias e corpúsculos de Pappenheimer é anemia sideroblástica: o ferro chega ao eritroblasto mas não entra no heme. A isoniazida antagoniza a piridoxina, cofator da ALA-sintase, primeiro passo da síntese do heme. Quem reconhece a droga tende a suspender o esquema, e essa é a armadilha: a conduta é repor piridoxina mantendo o tratamento, que está funcionando, e a anemia responde em semanas. O álcool também causa sideroblastose, mas em consumo pesado, não em 3 doses por semana.",
   "comentarios": {
    "A": "Errada. Ferro oral seria para ferropenia, com saturação e ferritina baixas; aqui o ferro sobra e a reposição agrava a sobrecarga.",
    "B": "Correta. Microcitose com saturação de 82% e ferritina alta em uso de isoniazida: anemia sideroblástica por falta funcional de B6, corrigida com piridoxina.",
-   "C": "Errada. É a armadilha: lê \"tuberculose\" como anemia de doença crônica, mas na doença crônica a saturação é baixa, não 82%.",
-   "D": "Errada. A isoniazida não precisa sair: a piridoxina corrige a anemia, e interromper o tratamento eficaz arrisca falência e resistência."
+   "C": "Errada. Lê \"tuberculose\" como anemia de doença crônica, mas na doença crônica a saturação é baixa, não 82%, e alfaepoetina não corrige defeito na síntese do heme.",
+   "D": "Errada. É a armadilha: a isoniazida explica a anemia, mas não precisa sair; a piridoxina corrige o defeito, e interromper o tratamento eficaz arrisca falência e resistência."
   },
   "para_levar": "Microcitose com saturação de transferrina e ferritina altas não é ferropenia nem doença crônica: é anemia sideroblástica; com isoniazida, repõe piridoxina e mantém o esquema.",
   "referencias": "Ministério da Saúde, Manual de recomendações para o controle da tuberculose no Brasil (2ª edição, 2019); Bottomley e Fleming, Sideroblastic anemia, Hematol Oncol Clin North Am 2014.",
@@ -244,19 +244,19 @@
   "nivel": "média",
   "enunciado": "Mulher de 79 anos, com fibrilação atrial em uso de dabigatrana 110 mg duas vezes ao dia (última dose há 4 horas), chega com hemiparesia direita, e a tomografia mostra hematoma intraparenquimatoso de 22 mL. Clearance de creatinina estimado de 42 mL/min, plaquetas 190.000/mm³, TTPa 58 s (controle 30 s). Para reverter de forma imediata e específica o efeito anticoagulante, a medida mais adequada é:",
   "alternativas": {
-   "A": "Andexanete alfa",
-   "B": "Complexo protrombínico de 4 fatores",
-   "C": "Hemodiálise de urgência",
+   "A": "Complexo protrombínico de 4 fatores",
+   "B": "Hemodiálise de urgência",
+   "C": "Andexanete alfa",
    "D": "Idarucizumabe"
   },
   "gabarito": "D",
-  "armadilha": "A",
+  "armadilha": "C",
   "dado_decisivo": "de forma imediata e específica",
   "resolucao": "Todas as alternativas reduzem o efeito de algum anticoagulante, e o qualificador do comando é o que seleciona. A dabigatrana é inibidor direto da trombina e tem antídoto próprio, o idarucizumabe, um fragmento de anticorpo monoclonal que a liga com afinidade muito maior que a trombina e reverte o efeito em minutos. O andexanete é o antídoto dos inibidores do fator Xa (apixabana, rivaroxabana) e não liga a dabigatrana, e é a armadilha de quem lembra que \"DOAC tem antídoto\". O complexo protrombínico é alternativa inespecífica quando o antídoto não está disponível. A hemodiálise remove a dabigatrana, que tem baixa ligação proteica, mas não é imediata e exige acesso calibroso num paciente anticoagulado.",
   "comentarios": {
-   "A": "Errada. É a armadilha: andexanete reverte inibidores do fator Xa, não a dabigatrana.",
-   "B": "Errada. O complexo protrombínico é inespecífico, usado quando falta o antídoto; não é a reversão específica pedida.",
-   "C": "Errada. A diálise remove a dabigatrana, mas não de forma imediata; fica para sobredose com função renal ruim quando não há idarucizumabe.",
+   "A": "Errada. O complexo protrombínico é inespecífico, usado quando falta o antídoto; não é a reversão específica pedida.",
+   "B": "Errada. A diálise remove a dabigatrana, mas não de forma imediata; fica para sobredose com função renal ruim quando não há idarucizumabe.",
+   "C": "Errada. É a armadilha: andexanete reverte inibidores do fator Xa, não a dabigatrana.",
    "D": "Correta. Antídoto específico da dabigatrana, com reversão em minutos."
   },
   "para_levar": "Dabigatrana: idarucizumabe; inibidores do fator Xa: andexanete (ou complexo protrombínico de 4 fatores); varfarina: complexo protrombínico com vitamina K.",
@@ -278,18 +278,18 @@
   "nivel": "difícil",
   "enunciado": "Homem de 58 anos, com cirrose por vírus C, Child-Pugh C, é internado por aumento do volume abdominal, desconforto respiratório leve e febre baixa há 2 dias. Exame: T 37,9 °C, ascite volumosa, sem petéquias, sem sangramentos ativos. Exames: Hb 10,2 g/dL, plaquetas 48.000/mm³, INR 2,3, fibrinogênio 160 mg/dL, creatinina 1,3 mg/dL. Será feita paracentese diagnóstica e de alívio. Quanto à hemostasia, antes do procedimento, a conduta mais adequada é:",
   "alternativas": {
-   "A": "Plasma fresco até INR abaixo de 1,5",
-   "B": "Plaquetas até acima de 50.000",
+   "A": "Plaquetas até acima de 50.000",
+   "B": "Plasma fresco até INR abaixo de 1,5",
    "C": "Paracentese sem hemocomponente profilático",
    "D": "Vitamina K e adiar por 24 horas"
   },
   "gabarito": "C",
-  "armadilha": "A",
+  "armadilha": "B",
   "dado_decisivo": "sem sangramentos ativos",
   "resolucao": "INR de 2,3 e plaquetas de 48.000 são números reais e assustadores, e o rótulo puxa para corrigir antes de puncionar. No cirrótico, porém, o INR não mede risco de sangramento: o fígado reduz ao mesmo tempo fatores pró-coagulantes e anticoagulantes (proteína C, antitrombina), e a hemostasia fica reequilibrada. A paracentese é procedimento de baixo risco, com sangramento grave em menos de 1% mesmo com INR alto e plaquetas baixas, e AASLD e AGA recomendam não transfundir plasma ou plaquetas profilaticamente. O plasma piora a hipertensão portal pela sobrecarga de volume e expõe a reações transfusionais, e adiar a punção de um cirrótico febril com ascite atrasa o diagnóstico de peritonite bacteriana espontânea. A vitamina K não corrige o INR da insuficiência hepática.",
   "comentarios": {
-   "A": "Errada. É a armadilha: o INR do cirrótico não prevê sangramento, e plasma aumenta a pressão portal sem reduzir complicações.",
-   "B": "Errada. Plaquetas profiláticas não reduzem sangramento na paracentese; o limiar de 50.000 vale para procedimentos de alto risco.",
+   "A": "Errada. Plaquetas profiláticas não reduzem sangramento na paracentese; o limiar de 50.000 vale para procedimentos de alto risco.",
+   "B": "Errada. É a armadilha: o INR do cirrótico não prevê sangramento, e plasma aumenta a pressão portal sem reduzir complicações.",
    "C": "Correta. Paracentese é de baixo risco, e sem sangramento ativo não se corrige INR nem plaquetas antes dela.",
    "D": "Errada. A vitamina K não corrige coagulopatia de síntese hepática, e adiar atrasa o diagnóstico de PBE num cirrótico febril."
   },

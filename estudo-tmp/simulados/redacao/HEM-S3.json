@@ -9,20 +9,20 @@
   "nivel": "extremamente difícil",
   "enunciado": "Estudante de 21 anos, previamente hígido, iniciou há 12 dias tosse seca, cefaleia e febre baixa; a radiografia mostrou infiltrado intersticial bilateral e ele recebeu sulfametoxazol-trimetoprima por 5 dias, sem melhora, trocado depois por azitromicina. Hoje procura atendimento por urina escura e cansaço, e conta que as pontas dos dedos ficam arroxeadas no frio. Exame: icterícia 1+/4, SpO2 95%, crepitações em bases. Hemograma automatizado: Hb 8,1 g/dL, hematócrito 16%, VCM 124 fL, CHCM 50 g/dL, reticulócitos 7%. LDH 980 U/L, haptoglobina indetectável, bilirrubina indireta 3,4 mg/dL. Coombs direto: anti-C3d positivo, anti-IgG negativo. Esfregaço: aglutinação de hemácias, sem esquizócitos e sem corpúsculos de Heinz. O mecanismo da hemólise é:",
   "alternativas": {
-   "A": "Oxidação da hemoglobina por sulfonamida",
+   "A": "Hemolisina bifásica de Donath-Landsteiner",
    "B": "IgM anti-I fixadora de complemento",
    "C": "IgG anti-Rh com sequestro esplênico",
-   "D": "Hemolisina bifásica de Donath-Landsteiner"
+   "D": "Oxidação da hemoglobina por sulfonamida"
   },
   "gabarito": "B",
-  "armadilha": "A",
+  "armadilha": "D",
   "dado_decisivo": "aglutinação de hemácias",
   "resolucao": "O rótulo verdadeiro é a sulfonamida: hemólise após sulfametoxazol leva à deficiência de G6PD, e o VCM de 124 ainda puxa para megaloblastose. Os índices, porém, são artefato: Hb de 8,1 com hematócrito de 16% dá CHCM de 50 g/dL, impossível fisiologicamente, e isso acontece quando hemácias aglutinadas passam como uma célula grande no contador. Aglutinação no esfregaço, acrocianose no frio, Coombs positivo só para complemento e pneumonia atípica com 2 a 3 semanas de evolução fecham anemia hemolítica por crioaglutinina, um anticorpo IgM anti-I que o Mycoplasma pneumoniae induz por mimetismo. A IgM liga a hemácia na periferia fria, fixa complemento e se solta ao reaquecer, por isso o Coombs só detecta C3d. A hemolisina de Donath-Landsteiner também dá Coombs C3d, mas é IgG não aglutinante, mais comum em criança após virose. A conduta é tratar a infecção, aquecer o paciente e os hemocomponentes; corticoide não funciona.",
   "comentarios": {
-   "A": "Errada. É a armadilha: hemólise oxidativa na G6PD tem Coombs negativo e corpúsculos de Heinz ou células mordidas, e não aglutina hemácias.",
+   "A": "Errada. A hemoglobinúria paroxística a frio também tem Coombs C3d, mas o anticorpo é IgG bifásico, não aglutina e predomina em crianças após virose.",
    "B": "Correta. Aglutinação no esfregaço, CHCM espúrio, acrocianose e Coombs só C3d após pneumonia atípica: crioaglutinina IgM anti-I do Mycoplasma.",
    "C": "Errada. Seria o mecanismo da AHAI quente, com Coombs IgG positivo e esferócitos; aqui o anti-IgG é negativo.",
-   "D": "Errada. A hemoglobinúria paroxística a frio também tem Coombs C3d, mas o anticorpo é IgG bifásico, não aglutina e predomina em crianças após virose."
+   "D": "Errada. É a armadilha: hemólise oxidativa na G6PD tem Coombs negativo e corpúsculos de Heinz ou células mordidas, e não aglutina hemácias."
   },
   "para_levar": "Hemólise após pneumonia atípica com Coombs só C3d, aglutinação no esfregaço e VCM ou CHCM absurdos é crioaglutinina IgM anti-I: aquecer e tratar a infecção; corticoide não serve.",
   "referencias": "BSH 2017 guideline on autoimmune haemolytic anaemia (Hill et al.); consenso internacional sobre AHAI (Jäger et al., Blood Reviews 2020).",
@@ -43,23 +43,23 @@
   "nivel": "média",
   "enunciado": "Mulher de 32 anos tem plaquetopenia descoberta em hemograma admissional, sem queixas. Nega sangramentos, tem menstruação normal e não usa medicamentos, álcool ou fitoterápicos. Exame físico: sem petéquias, sem linfonodomegalia, baço não palpável. Exames: Hb 13,0 g/dL, leucócitos 6.200/mm³ com diferencial normal, plaquetas 41.000/mm³ (confirmadas em tubo com citrato), VCM 88 fL. Esfregaço: plaquetas grandes, sem esquizócitos e sem blastos. Sorologias para HIV, hepatite C e hepatite B negativas, TSH normal, TP e TTPa normais, antígeno fecal de H. pylori negativo, teste de gravidez negativo. A conduta mais adequada neste momento é:",
   "alternativas": {
-   "A": "Prednisona 1 mg/kg/dia",
+   "A": "Mielograma antes de decidir",
    "B": "Observação com hemograma seriado",
-   "C": "Mielograma antes de decidir",
+   "C": "Prednisona 1 mg/kg/dia",
    "D": "Imunoglobulina humana endovenosa"
   },
   "gabarito": "B",
-  "armadilha": "A",
+  "armadilha": "C",
   "dado_decisivo": "plaquetas 41.000/mm³ (confirmadas em tubo com citrato)",
   "resolucao": "Plaquetopenia isolada com esfregaço de plaquetas grandes, sem outras citopenias, sem esplenomegalia e com causas secundárias afastadas é PTI, e o reflexo é tratar porque o número assusta. O tratamento da PTI, porém, não persegue a contagem: serve para prevenir sangramento grave, que é raro acima de 30.000/mm³. A ASH recomenda observação para o adulto com PTI recém-diagnosticada, assintomático, com plaquetas de 30.000 ou mais, porque o corticoide expõe a efeitos adversos sem benefício nesse grupo. A pseudoplaquetopenia por EDTA foi excluída pela recontagem em citrato, e o mielograma não é necessário em jovem com quadro isolado e esfregaço compatível. A imunoglobulina fica para sangramento importante ou necessidade de subir plaquetas rapidamente.",
   "comentarios": {
-   "A": "Errada. É a armadilha: corticoide se indica com plaquetas abaixo de 30.000 ou com sangramento; aqui seria tratar um número.",
+   "A": "Errada. Seria o passo em idoso, com outras citopenias, esplenomegalia, blastos ou falha de tratamento; o quadro aqui é isolado e compatível com PTI no esfregaço.",
    "B": "Correta. PTI recém-diagnosticada, assintomática, plaquetas de 41.000: observação com hemograma seriado, conforme a ASH.",
-   "C": "Errada. Seria o passo em idoso, com outras citopenias, esplenomegalia, blastos ou falha de tratamento; o quadro aqui é isolado e compatível com PTI no esfregaço.",
+   "C": "Errada. É a armadilha: corticoide se indica com plaquetas abaixo de 30.000 ou com sangramento; aqui seria tratar um número.",
    "D": "Errada. Imunoglobulina é para sangramento relevante ou preparo urgente para procedimento; não se usa em assintomática com 41.000."
   },
   "para_levar": "PTI do adulto com plaquetas de 30.000 ou mais e sem sangramento se observa; o tratamento é para sangramento ou contagem abaixo de 30.000.",
-  "referencias": "ASH 2019 guidelines for immune thrombocytopenia; PCDT Púrpura Trombocitopênica Idiopática, Ministério da Saúde (2019).",
+  "referencias": "ASH 2019 guidelines for immune thrombocytopenia (Neunert et al.); International Consensus Report on ITP 2019 (Provan et al., Blood Adv 2019).",
   "tags": [
    "Púrpura Trombocitopênica Imunológica (PTI) (CM)"
   ],
@@ -143,24 +143,24 @@
   "arma": "Rótulo verdadeiro",
   "comando": "etiologia",
   "nivel": "difícil",
-  "enunciado": "Homem de 46 anos, natural de Salvador, vive com HIV há 10 anos, em TARV regular, com carga viral indetectável e CD4 de 620 células/mm³. Procura atendimento por sede intensa, constipação e sonolência há 1 semana e placas eritematosas descamativas no tronco há 2 meses. Exame: linfonodos cervicais e axilares de 2 a 3 cm, fígado a 4 cm do rebordo costal. Exames: cálcio total 14,2 mg/dL, albumina 3,8 g/dL, PTH 6 pg/mL (VR 15 a 65), 1,25-di-hidroxivitamina D baixa, PTHrP elevado, creatinina 1,8 mg/dL, leucócitos 38.000/mm³ com 70% de linfócitos atípicos de núcleo multilobulado em forma de flor, LDH 1.100 U/L. Imunofenotipagem do sangue periférico: CD3+, CD4+, CD25+, CD7 negativo. O agente etiológico mais provavelmente implicado é:",
+  "enunciado": "Homem de 46 anos, natural de Salvador, vive com HIV há 10 anos, em TARV regular, com carga viral indetectável e CD4 de 620 células/mm³. Procura atendimento por sede intensa, constipação e sonolência há 1 semana e placas eritematosas descamativas no tronco há 2 meses. Exame: linfonodos cervicais e axilares de 2 a 3 cm, fígado a 4 cm do rebordo costal. Exames: cálcio total 14,2 mg/dL, albumina 3,8 g/dL, PTH 6 pg/mL (VR 15 a 65), 1,25-di-hidroxivitamina D baixa, PTHrP elevado, creatinina 1,8 mg/dL, leucócitos 38.000/mm³ com 70% de linfócitos atípicos de núcleo convoluto e multilobulado, LDH 1.100 U/L. Imunofenotipagem do sangue periférico: CD3+, CD4+, CD25+, CD7 negativo. O agente etiológico mais provavelmente implicado é:",
   "alternativas": {
-   "A": "Vírus Epstein-Barr",
-   "B": "Herpesvírus humano 8",
+   "A": "Herpesvírus humano 8",
+   "B": "Vírus Epstein-Barr",
    "C": "HIV por ação oncogênica direta",
    "D": "HTLV-1"
   },
   "gabarito": "D",
-  "armadilha": "A",
-  "dado_decisivo": "núcleo multilobulado em forma de flor",
-  "resolucao": "O rótulo verdadeiro é o HIV, que puxa para os linfomas associados ao EBV (Burkitt, difuso de grandes células B, primário do SNC) e ao HHV-8 (linfoma primário de efusões). Mas o HIV está controlado, com CD4 de 620, e o linfoma aqui é de células T CD4+ CD25+, com linfócitos de núcleo em flor no sangue, lesões cutâneas e hipercalcemia grave. Esse conjunto é a leucemia/linfoma de células T do adulto, causada pelo HTLV-1, endêmico em Salvador e transmitido pelas mesmas vias que o HIV (sexual, sangue, aleitamento), o que torna a coinfecção comum. A hipercalcemia aqui é por PTHrP e ativação de osteoclastos (1,25-vitamina D baixa), diferente da hipercalcemia por calcitriol de outros linfomas. A confirmação é a sorologia para HTLV-1, e a doença também predispõe a estrongiloidíase grave.",
+  "armadilha": "B",
+  "dado_decisivo": "CD3+, CD4+, CD25+, CD7 negativo",
+  "resolucao": "O rótulo verdadeiro é o HIV, que puxa para os linfomas associados ao EBV (Burkitt, difuso de grandes células B, primário do SNC) e ao HHV-8 (linfoma primário de efusões). Mas o HIV está controlado, com CD4 de 620, e o linfoma aqui é de células T CD4+ CD25+, com linfócitos de núcleo multilobulado no sangue (as células em flor), lesões cutâneas e hipercalcemia grave. Esse conjunto é a leucemia/linfoma de células T do adulto, causada pelo HTLV-1, endêmico em Salvador e transmitido pelas mesmas vias que o HIV (sexual, sangue, aleitamento), o que torna a coinfecção comum. A hipercalcemia aqui é por PTHrP e ativação de osteoclastos (1,25-vitamina D baixa), diferente da hipercalcemia por calcitriol de outros linfomas. A confirmação é a sorologia para HTLV-1, e a doença também predispõe a estrongiloidíase grave.",
   "comentarios": {
-   "A": "Errada. É a armadilha: o EBV causa os linfomas B do HIV, sobretudo com CD4 baixo; não explica linfoma T CD4+ CD25+ com células em flor.",
-   "B": "Errada. O HHV-8 causa sarcoma de Kaposi, linfoma primário de efusões e Castleman multicêntrico, todos sem células T em flor no sangue.",
+   "A": "Errada. O HHV-8 causa sarcoma de Kaposi, linfoma primário de efusões e Castleman multicêntrico, nenhum com linfocitose T CD4+ CD25+ no sangue.",
+   "B": "Errada. É a armadilha: o EBV causa os linfomas B do HIV, sobretudo com CD4 baixo; não explica linfoma T CD4+ CD25+ com núcleos multilobulados.",
    "C": "Errada. O HIV não é oncogênico direto para linfócitos T; ele favorece linfomas por imunossupressão, que aqui não há.",
-   "D": "Correta. Células T CD4+ CD25+ em flor, lesões de pele e hipercalcemia por PTHrP em baiano: leucemia/linfoma T do adulto, pelo HTLV-1."
+   "D": "Correta. Células T CD4+ CD25+ CD7 negativas com núcleo multilobulado, lesões de pele e hipercalcemia por PTHrP em baiano: leucemia/linfoma T do adulto, pelo HTLV-1."
   },
-  "para_levar": "Linfocitose T CD4+ CD25+ com células em flor, lesões cutâneas e hipercalcemia é leucemia/linfoma T do adulto pelo HTLV-1, endêmico na Bahia e frequente em quem vive com HIV.",
+  "para_levar": "Linfocitose T CD4+ CD25+ com núcleos multilobulados (células em flor), lesões cutâneas e hipercalcemia é leucemia/linfoma T do adulto pelo HTLV-1, endêmico na Bahia e frequente em quem vive com HIV.",
   "referencias": "Classificação OMS 2022 (5ª edição) das neoplasias linfoides; consenso internacional sobre ATL (Cook et al., J Clin Oncol 2019); Ministério da Saúde, Guia de manejo clínico da infecção pelo HTLV (2021).",
   "tags": [
    "Linfomas (CM)",
@@ -229,7 +229,7 @@
    "D": "Correta. SMD de baixo risco, dependente de transfusão, com eritropoetina endógena de 140 (abaixo de 500): agente estimulador da eritropoese."
   },
   "para_levar": "SMD de baixo risco com anemia sintomática e eritropoetina sérica abaixo de 500 U/L: agente estimulador da eritropoese (ou luspatercepte); hipometilante e transplante são do alto risco.",
-  "referencias": "NCCN Myelodysplastic Syndromes 2026; ESMO 2021 Clinical Practice Guidelines para SMD; IPSS-R (Greenberg, 2012).",
+  "referencias": "NCCN Myelodysplastic Syndromes 2025; ESMO 2021 Clinical Practice Guidelines para SMD; IPSS-R (Greenberg, 2012).",
   "tags": [
    "Síndrome Mielodisplásica (CM)"
   ],
@@ -262,7 +262,7 @@
    "D": "Errada. Observar seria o caminho para GMSI; aqui há tumor plasmocitário destrutivo e sintomático, que precisa de tratamento local."
   },
   "para_levar": "Lesão plasmocitária única, PET sem outras lesões e medula com menos de 10% de plasmócitos clonais é plasmocitoma solitário: radioterapia local; com 10% ou mais e evento definidor, é mieloma.",
-  "referencias": "IMWG 2014 criteria (Rajkumar, Lancet Oncol 2014); IMWG 2018 recomendações para plasmocitoma solitário (Caers et al., J Hematol Oncol 2018); NCCN Multiple Myeloma 2026.",
+  "referencias": "IMWG 2014 criteria (Rajkumar, Lancet Oncol 2014); IMWG 2018 recomendações para plasmocitoma solitário (Caers et al., J Hematol Oncol 2018); NCCN Multiple Myeloma 2025.",
   "tags": [
    "Mieloma Múltiplo e Outras Discrasias Plasmocitárias (CM)",
    "Mieloma Múltiplo (CM)"
@@ -281,22 +281,22 @@
   "enunciado": "Mulher de 45 anos tem diagnóstico há 2 anos de trombocitemia essencial com mutação de CALR, sem trombose prévia e sem fatores de risco cardiovascular, em acompanhamento sem medicação. Procura atendimento por epistaxe recorrente e menorragia há 1 mês. PA 122 x 78 mmHg. Exames: Hb 11,2 g/dL, leucócitos 9.800/mm³, plaquetas 1.720.000/mm³, TP e TTPa normais, fator de von Willebrand antigênico 62% e atividade (cofator de ristocetina) 18%. A conduta mais adequada é:",
   "alternativas": {
    "A": "AAS em dose baixa",
-   "B": "Hidroxiureia associada a AAS",
-   "C": "Hidroxiureia sem AAS",
+   "B": "Citorredução associada a AAS",
+   "C": "Citorredução sem AAS",
    "D": "Manter observação"
   },
   "gabarito": "C",
   "armadilha": "A",
   "dado_decisivo": "atividade (cofator de ristocetina) 18%",
-  "resolucao": "Trombocitemia essencial é doença de trombose, e o rótulo puxa para AAS. O dado que decide é a atividade do fator de von Willebrand: com plaquetas acima de 1.000.000 a 1.500.000/mm³, as plaquetas adsorvem e degradam os multímeros grandes do fator, criando doença de von Willebrand adquirida, com atividade desproporcionalmente baixa em relação ao antígeno (18% contra 62%). Atividade abaixo de 30% contraindica AAS, porque ela já sangra. Pela idade e sem trombose ela seria de baixo risco, mas trombocitose extrema com sangramento é indicação de citorredução, e a hidroxiureia baixa as plaquetas e devolve os multímeros. O AAS pode ser reintroduzido quando as plaquetas e a atividade do fator normalizarem.",
+  "resolucao": "Trombocitemia essencial é doença de trombose, e o rótulo puxa para AAS. O dado que decide é a atividade do fator de von Willebrand: com plaquetas acima de 1.000.000 a 1.500.000/mm³, as plaquetas adsorvem e degradam os multímeros grandes do fator, criando doença de von Willebrand adquirida, com atividade desproporcionalmente baixa em relação ao antígeno (18% contra 62%). Atividade abaixo de 30% contraindica AAS, porque ela já sangra. Pela idade, pelo CALR e sem trombose ela seria de muito baixo risco, mas trombocitose extrema com sangramento é indicação de citorredução (hidroxiureia ou alfapeginterferona), que baixa as plaquetas e devolve os multímeros. O AAS pode ser reconsiderado quando as plaquetas e a atividade do fator normalizarem.",
   "comentarios": {
-   "A": "Errada. É a armadilha: AAS é o tratamento da TE de baixo risco com sintomas vasomotores, mas com atividade do fator de 18% e sangramento piora a hemorragia.",
+   "A": "Errada. É a armadilha: AAS cabe à TE com sintomas vasomotores ou fator de risco vascular, mas com atividade do fator de 18% e sangramento piora a hemorragia.",
    "B": "Errada. A citorredução está certa, mas associar AAS com von Willebrand adquirida e sangramento ativo é contraindicado.",
-   "C": "Correta. Trombocitose extrema com sangramento e atividade do fator abaixo de 30%: citorredução com hidroxiureia, sem AAS.",
+   "C": "Correta. Trombocitose extrema com sangramento e atividade do fator abaixo de 30%: citorredução (hidroxiureia ou interferona), sem AAS.",
    "D": "Errada. Observação cabe à TE de muito baixo risco assintomática; sangramento com plaquetas de 1.720.000 exige tratar."
   },
   "para_levar": "Na trombocitemia com plaquetas acima de 1.000.000 a 1.500.000, dose a atividade do fator de von Willebrand: abaixo de 30% contraindica AAS, e o sangramento pede citorredução.",
-  "referencias": "ELN 2018 recommendations for Ph-negative MPN (Barbui et al., Leukemia 2018); NCCN Myeloproliferative Neoplasms 2026.",
+  "referencias": "ELN 2018 recommendations for Ph-negative MPN (Barbui et al., Leukemia 2018); NCCN Myeloproliferative Neoplasms 2025.",
   "tags": [
    "Trombocitemia Essencial (CM)",
    "Doença de Von Willebrand (CM)"

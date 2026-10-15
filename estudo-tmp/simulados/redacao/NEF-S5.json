@@ -25,8 +25,12 @@
       "D": "Errada. Alcalinização e manitol não superaram a hidratação isolada, e o bicarbonato reduz o cálcio ionizado, agravando a hipocalcemia."
     },
     "para_levar": "Na rabdomiólise, hidratação isotônica vigorosa é o tratamento; não reponha cálcio na hipocalcemia assintomática nem dê cálcio na hipercalemia com ECG normal.",
-    "referencias": "Bosch, Poch e Grau, NEJM 2009 (Rhabdomyolysis and acute kidney injury); Harrison 21ª ed. (Rhabdomyolysis); UK Kidney Association, Treatment of Acute Hyperkalaemia in Adults (2023).",
-    "tags": ["Rabdomiólise (CM)", "Hiperpotassemia (CM)", "Hipocalcemias (CM)"],
+    "referencias": "Bosch, Poch e Grau, NEJM 2009 (Rhabdomyolysis and acute kidney injury); Harrison 21ª ed. (Rhabdomyolysis); UK Kidney Association (Renal Association), Treatment of Acute Hyperkalaemia in Adults (2020).",
+    "tags": [
+      "Rabdomiólise (CM)",
+      "Hiperpotassemia (CM)",
+      "Hipocalcemias (CM)"
+    ],
     "sourceQuestionId": "d082e8505f079d8",
     "alvo": "Rabdomiólise (errou: hidratação e potássio): ECG normal não pede cálcio; omissão do cálcio e da diálise."
   },
@@ -38,26 +42,29 @@
     "arma": "Limiar",
     "comando": "diagnóstico",
     "nivel": "extremamente difícil",
-    "enunciado": "Mulher de 67 anos, com diabetes tipo 2 em uso de metformina 2 g/dia e doença renal crônica (creatinina basal de 1,4 mg/dL), tem vômitos incoercíveis há quatro dias por gastroenterite, com ingestão mínima. Exame: sonolenta, PA 92/58 mmHg, FC 114 bpm, mucosas secas. Exames: pH 7,36, pCO2 40 mmHg, bicarbonato 22 mEq/L, sódio 138 mEq/L, cloro 88 mEq/L, potássio 3,2 mEq/L, albumina 4,0 g/dL, lactato 9,4 mmol/L, glicemia 172 mg/dL, beta-hidroxibutirato 0,4 mmol/L, creatinina 2,9 mg/dL. O distúrbio ácido-base é:",
+    "enunciado": "Mulher de 67 anos, com diabetes tipo 2 em uso de metformina 2 g/dia e doença renal crônica (creatinina basal de 1,4 mg/dL), tem vômitos incoercíveis há quatro dias por gastroenterite, com ingestão mínima. Exame: sonolenta, PA 92/58 mmHg, FC 114 bpm, mucosas secas. Exames: pH 7,36, pCO2 40 mmHg, bicarbonato 22 mEq/L, sódio 138 mEq/L, cloro 88 mEq/L, potássio 3,2 mEq/L, albumina 4,0 g/dL, lactato 13,6 mmol/L, glicemia 172 mg/dL, beta-hidroxibutirato 0,4 mmol/L, creatinina 2,9 mg/dL. O distúrbio ácido-base é:",
     "alternativas": {
       "A": "Ausência de distúrbio relevante",
-      "B": "Acidose lática isolada compensada",
+      "B": "Acidose lática com acidose hiperclorêmica",
       "C": "Acidose lática com alcalose metabólica",
-      "D": "Acidose lática com acidose hiperclorêmica"
+      "D": "Acidose lática isolada compensada"
     },
     "gabarito": "C",
-    "armadilha": "B",
+    "armadilha": "D",
     "dado_decisivo": "sódio 138 mEq/L, cloro 88 mEq/L",
-    "resolucao": "pH de 7,36 e bicarbonato de 22, quase normais, fazem parecer que não há distúrbio, ou que há uma acidose leve bem compensada. O ânion gap revela o resto: 138 - (88 + 22) = 28, com albumina normal, 16 acima do normal de 12, por ácido lático (9,4 mmol/L) acumulado pela hipoperfusão e pela metformina numa função renal que caiu. Cada mEq de ânion não medido deveria consumir cerca de um mEq de bicarbonato: o esperado seria 24 - 16 = 8, e o bicarbonato está em 22. A razão delta/delta (16 ÷ 2 = 8, muito acima de 2) mostra que havia bicarbonato a mais antes da acidose: alcalose metabólica concomitante, pelos vômitos (perda de HCl, com cloro de 88 e potássio de 3,2). A pCO2 de 40 está dentro do esperado para o bicarbonato de 22 (Winters: 1,5 × 22 + 8 = 41 ± 2), sem distúrbio respiratório. É a dupla de quem vomita por dias e entra em choque.",
+    "resolucao": "pH de 7,36 e bicarbonato de 22, quase normais, fazem parecer que não há distúrbio, ou que há uma acidose leve bem compensada. O ânion gap revela o resto: 138 - (88 + 22) = 28, com albumina normal, 16 acima do normal de 12, sobretudo por ácido lático (13,6 mmol/L) acumulado pela hipoperfusão e pela metformina numa função renal que caiu. Cada mEq de ânion não medido deveria consumir cerca de um mEq de bicarbonato: o esperado seria 24 - 16 = 8, e o bicarbonato está em 22. A razão delta/delta (16 ÷ 2 = 8, muito acima de 2) mostra que havia bicarbonato a mais antes da acidose: alcalose metabólica concomitante, pelos vômitos (perda de HCl, com cloro de 88 e potássio de 3,2). A pCO2 de 40 está dentro do esperado para o bicarbonato de 22 (Winters: 1,5 × 22 + 8 = 41 ± 2), sem distúrbio respiratório. É a dupla de quem vomita por dias e entra em choque.",
     "comentarios": {
       "A": "Errada. pH e bicarbonato normais não excluem distúrbio: com ânion gap de 28 há uma acidose metabólica mascarada por uma alcalose.",
-      "B": "Errada, é a armadilha. Uma acidose lática isolada com ânion gap 16 acima do normal deixaria o bicarbonato perto de 8; o bicarbonato de 22 exige um processo alcalinizante somado.",
+      "B": "Errada. Acidose hiperclorêmica associada daria delta/delta abaixo de 1 e cloro alto; aqui o cloro está baixo.",
       "C": "Correta. Ânion gap alto por lactato, delta/delta muito acima de 2 e cloro baixo após vômitos: acidose lática associada a alcalose metabólica.",
-      "D": "Errada. Acidose hiperclorêmica associada daria delta/delta abaixo de 1 e cloro alto; aqui o cloro está baixo."
+      "D": "Errada, é a armadilha. Uma acidose lática isolada com ânion gap 16 acima do normal deixaria o bicarbonato perto de 8; o bicarbonato de 22 exige um processo alcalinizante somado."
     },
     "para_levar": "Com ânion gap alto, compare o aumento do gap com a queda do bicarbonato: delta/delta acima de 2 indica alcalose metabólica associada; abaixo de 1, acidose hiperclorêmica associada.",
     "referencias": "Kraut e Madias, NEJM 2014 (Lactic acidosis); Berend, de Vries e Gans, NEJM 2014 (Physiological approach to assessment of acid-base disturbances); KDIGO 2022 (Diabetes Management in CKD), metformina na DRC.",
-    "tags": ["Gasometria Arterial (CM)", "Antidiabéticos (CM)"],
+    "tags": [
+      "Gasometria Arterial (CM)",
+      "Antidiabéticos (CM)"
+    ],
     "sourceQuestionId": "4b68995a076d006",
     "alvo": "Ácido-base com ângulo difícil (ele melhorou): o delta/delta escondendo alcalose; metformina em uso na DRC."
   },
@@ -69,7 +76,7 @@
     "arma": "Rótulo verdadeiro",
     "comando": "diagnóstico",
     "nivel": "extremamente difícil",
-    "enunciado": "Homem de 47 anos, com prolapso de valva mitral, fez tratamento dentário há dois meses. Há seis semanas tem febre vespertina, perda de 6 kg e artralgias e, há dez dias, petéquias em membros inferiores e urina escura. Exame: temperatura 38,1 °C, PA 138/84 mmHg, sopro sistólico mitral 3+/6+, esplenomegalia discreta. Exames: hemoglobina 9,6 g/dL, creatinina 2,8 mg/dL (1,0 há três meses), urina com hemácias dismórficas e cilindros hemáticos, proteinúria de 24 h de 1,4 g, C3 52 mg/dL (90 a 180), C4 14 mg/dL (10 a 40), fator reumatoide reagente, anti-PR3 reagente (28 U/mL, positivo acima de 10). Hemoculturas: Streptococcus mitis em três de três amostras. Ecocardiograma transesofágico: vegetação de 12 mm na valva mitral. O diagnóstico da lesão renal é:",
+    "enunciado": "Homem de 47 anos, com prolapso de valva mitral, fez tratamento dentário há dois meses. Há seis semanas tem febre vespertina, perda de 6 kg e artralgias e, há dez dias, petéquias em membros inferiores e urina escura. Exame: temperatura 38,1 °C, PA 138/84 mmHg, sopro sistólico mitral 3+/6+, esplenomegalia discreta. Hemoculturas: Streptococcus mitis em três de três amostras. Ecocardiograma transtorácico: prolapso mitral com insuficiência moderada, sem vegetação definida. Exames: hemoglobina 9,6 g/dL, creatinina 2,8 mg/dL (1,0 há três meses), urina com hemácias dismórficas e cilindros hemáticos, proteinúria de 24 h de 1,4 g, C3 52 mg/dL (90 a 180), C4 14 mg/dL (10 a 40), fator reumatoide reagente e anti-PR3 reagente (28 U/mL, positivo acima de 10). O diagnóstico da lesão renal é:",
     "alternativas": {
       "A": "Vasculite associada ao ANCA",
       "B": "Glomerulonefrite da endocardite",
@@ -79,16 +86,20 @@
     "gabarito": "B",
     "armadilha": "A",
     "dado_decisivo": "C3 52 mg/dL (90 a 180)",
-    "resolucao": "Anti-PR3 reagente com glomerulonefrite de progressão rápida, petéquias e artralgia monta uma granulomatose com poliangiite, e o passo seguinte seria pulso e ciclofosfamida. Mas o ANCA é falso amigo na endocardite: a infecção crônica estimula autoanticorpos, e anti-PR3 em título baixo aparece numa parcela relevante das endocardites subagudas, com fator reumatoide também reagente. Quem separa é o complemento, junto com as culturas: a vasculite ANCA é pauci-imune e cursa com C3 normal, e aqui o C3 está consumido, padrão de glomerulonefrite por imunocomplexo infeccioso; e há bacteremia persistente por estreptococo do grupo viridans com vegetação de 12 mm (dois critérios maiores de Duke). O tratamento da lesão renal é o da endocardite: antibiótico dirigido e avaliação cirúrgica da valva. Imunossupressão aqui pode ser fatal.",
+    "resolucao": "Anti-PR3 reagente com glomerulonefrite de progressão rápida, petéquias e artralgia monta uma granulomatose com poliangiite, e o passo seguinte seria pulso e ciclofosfamida. Mas o ANCA é falso amigo na endocardite: a infecção crônica estimula autoanticorpos, e anti-PR3 em título baixo aparece numa parcela relevante das endocardites subagudas, com fator reumatoide também reagente. Quem separa é o complemento, junto com as culturas: a vasculite ANCA é pauci-imune e cursa com C3 normal, e aqui o C3 está consumido, padrão de glomerulonefrite por imunocomplexo infeccioso; e há bacteremia persistente por estreptococo do grupo viridans (critério maior de Duke) com valvopatia predisponente, febre e fenômenos imunológicos (glomerulonefrite, fator reumatoide), o que fecha endocardite definida mesmo com o transtorácico sem vegetação, cuja sensibilidade é limitada; o transesofágico é o passo seguinte. O tratamento da lesão renal é o da endocardite: antibiótico dirigido e avaliação cirúrgica da valva. Imunossupressão aqui pode ser fatal.",
     "comentarios": {
-      "A": "Errada, é a armadilha. Seria o diagnóstico com ANCA positivo, C3 normal e culturas negativas; com bacteremia e vegetação, o anti-PR3 é epifenômeno da infecção.",
+      "A": "Errada, é a armadilha. Seria o diagnóstico com ANCA positivo, C3 normal e culturas negativas; com bacteremia persistente por viridans numa valva doente, o anti-PR3 é epifenômeno da infecção, e o transtorácico normal não afasta endocardite.",
       "B": "Correta. Endocardite subaguda com C3 consumido, sedimento nefrítico e anti-PR3 de título baixo: glomerulonefrite por imunocomplexo da endocardite, tratada com antibiótico.",
       "C": "Errada. A crioglobulinemia consome C4 de forma desproporcional e se associa sobretudo à hepatite C; o C4 está normal e a causa infecciosa está demonstrada.",
       "D": "Errada. Nefrite intersticial daria leucocitúria e cilindros leucocitários, não hemácias dismórficas e cilindros hemáticos, e o quadro renal começou antes de qualquer antibiótico."
     },
     "para_levar": "ANCA positivo com glomerulonefrite e complemento baixo: procure endocardite antes de imunossuprimir; a vasculite ANCA é pauci-imune e tem C3 normal.",
     "referencias": "ESC 2023 (Endocardite infecciosa) e critérios de Duke-ISCVID 2023; KDIGO 2021 (Glomerular Diseases), glomerulonefrite associada a infecção; KDIGO 2024 (ANCA-Associated Vasculitis).",
-    "tags": ["GNRP (CM)", "Endocardite Bacteriana (CM)", "Vasculites ANCA-associadas (CM)"],
+    "tags": [
+      "GNRP (CM)",
+      "Endocardite Bacteriana (CM)",
+      "Vasculites ANCA-associadas (CM)"
+    ],
     "sourceQuestionId": "12591abad2affd7",
     "alvo": "GNRP (0 de 3) e rótulo de autoanticorpo: ANCA x imunocomplexo pelo complemento, antes de imunossuprimir."
   },
@@ -119,7 +130,10 @@
     },
     "para_levar": "Síndrome nefrótica com anti-PLA2R positivo, TFGe preservada, sem diabetes e sem sinal de doença secundária: membranosa primária sem biópsia; biopsie quando algo não encaixa.",
     "referencias": "KDIGO 2021 (Glomerular Diseases), capítulo de nefropatia membranosa; Bobart et al., Kidney Int 2019 (anti-PLA2R e dispensa da biópsia).",
-    "tags": ["Nefropatia membranosa (CM)", "Síndrome Nefrótica (CM)"],
+    "tags": [
+      "Nefropatia membranosa (CM)",
+      "Síndrome Nefrótica (CM)"
+    ],
     "sourceQuestionId": "703bf34cf98ad52",
     "alvo": "Membranosa (ele acerta): ângulo difícil da omissão da biópsia, contra o hábito de fazer o exame do degrau seguinte."
   },
@@ -133,24 +147,28 @@
     "nivel": "difícil",
     "enunciado": "Mulher de 61 anos, com artrite reumatoide soropositiva há 22 anos, de controle irregular (PCR persistentemente entre 30 e 60 mg/L), em uso de prednisona 5 mg/dia. Proteinúria de 1,2 g/24 h detectada há dois anos, sem seguimento. Há dois meses começou naproxeno por piora das dores e, há quatro semanas, tem edema progressivo. Exame: PA 118/72 mmHg, edema 3+, fígado a 4 cm do rebordo costal, sem macroglossia, sem púrpura periorbitária. Exames: albumina 2,1 g/dL, proteinúria de 24 h de 7,2 g, creatinina 1,4 mg/dL, urina sem hematúria e sem leucocitúria; eletroforese e imunofixação séricas sem componente monoclonal; relação kappa/lambda das cadeias leves livres de 1,3. Ultrassonografia: rins de 13,5 cm. O diagnóstico mais provável é:",
     "alternativas": {
-      "A": "Lesão mínima por AINE",
-      "B": "Nefropatia membranosa por AINE",
-      "C": "Amiloidose AL",
+      "A": "Nefropatia membranosa por AINE",
+      "B": "Amiloidose AL",
+      "C": "Lesão mínima por AINE",
       "D": "Amiloidose AA"
     },
     "gabarito": "D",
-    "armadilha": "A",
+    "armadilha": "C",
     "dado_decisivo": "Proteinúria de 1,2 g/24 h detectada há dois anos",
     "resolucao": "Síndrome nefrótica que se instala semanas após começar naproxeno parece lesão mínima por AINE (ou membranosa), e o rótulo da droga é verdadeiro. Mas a proteinúria já existia dois anos antes do anti-inflamatório: o AINE pode ter piorado o quadro, não o iniciou. Há artrite reumatoide de 22 anos com inflamação persistente (PCR entre 30 e 60), síndrome nefrótica com sedimento brando, rins grandes (13,5 cm, quando a DRC costuma encolhê-los) e hepatomegalia: é a amiloidose secundária, AA, formada a partir da proteína amiloide A sérica produzida pela inflamação crônica. A AL fica muito improvável sem componente monoclonal na imunofixação e com relação kappa/lambda normal, e faltam macroglossia e púrpura periorbitária. Confirma-se com vermelho Congo (gordura abdominal ou rim) e tipagem, e o tratamento é controlar a inflamação (biológico, com boa resposta ao anti-IL-6), não quimioterapia.",
     "comentarios": {
-      "A": "Errada, é a armadilha. A lesão mínima por AINE começa semanas após a droga num rim antes normal; aqui a proteinúria precede o naproxeno em dois anos, e não há leucocitúria de nefrite intersticial.",
-      "B": "Errada. A membranosa por AINE também começaria depois da droga e não explica rins grandes e hepatomegalia.",
-      "C": "Errada. A AL exige clone plasmocitário: imunofixação negativa e relação kappa/lambda normal tornam o diagnóstico muito improvável.",
+      "A": "Errada. A membranosa por AINE também começaria depois da droga e não explica rins grandes e hepatomegalia.",
+      "B": "Errada. A AL exige clone plasmocitário: imunofixação negativa e relação kappa/lambda normal tornam o diagnóstico muito improvável.",
+      "C": "Errada, é a armadilha. A lesão mínima por AINE começa semanas após a droga num rim antes normal; aqui a proteinúria precede o naproxeno em dois anos, e não há leucocitúria de nefrite intersticial.",
       "D": "Correta. Inflamação crônica de décadas, nefrótica com sedimento brando, rins aumentados e hepatomegalia, sem clone: amiloidose AA."
     },
     "para_levar": "Síndrome nefrótica com sedimento brando e rins grandes em doença inflamatória crônica mal controlada é amiloidose AA até prova em contrário; a cronologia da proteinúria tira o AINE recente do papel de causa.",
     "referencias": "Lachmann et al., NEJM 2007 (Natural history and outcome in systemic AA amyloidosis); KDIGO 2021 (Glomerular Diseases); Harrison 21ª ed. (Amyloidosis).",
-    "tags": ["Amiloidose (CM)", "Artrite Reumatóide (CM)", "Síndrome Nefrótica (CM)"],
+    "tags": [
+      "Amiloidose (CM)",
+      "Artrite Reumatóide (CM)",
+      "Síndrome Nefrótica (CM)"
+    ],
     "sourceQuestionId": "bb3ee5d3c1115f1",
     "alvo": "Rótulo verdadeiro (AINE recente) contra a cronologia; amiloidose, tema UERJ que ele erra."
   },
@@ -181,7 +199,10 @@
     },
     "para_levar": "Na IC aguda, creatinina subindo com natriurese adequada e congestão residual não é motivo para reduzir o diurético; o alvo é a descongestão completa.",
     "referencias": "ESC 2021 (Insuficiência cardíaca), com atualização 2023; Mullens et al., Eur J Heart Fail 2019 (posição da HFA sobre diuréticos na IC); Diretriz Brasileira de IC Crônica e Aguda (SBC 2018).",
-    "tags": ["Síndrome Cardiorrenal (CM)", "Descompensações Agudas da Insuficiência Cardíaca (CM)"],
+    "tags": [
+      "Síndrome Cardiorrenal (CM)",
+      "Descompensações Agudas da Insuficiência Cardíaca (CM)"
+    ],
     "sourceQuestionId": "729bc943a80481d",
     "alvo": "Síndrome cardiorrenal (errou): o número que decide (natriurese) contra o rótulo creatinina subindo."
   },
@@ -193,7 +214,7 @@
     "arma": "Grade X / Y",
     "comando": "conduta",
     "nivel": "difícil",
-    "enunciado": "Mulher de 34 anos, com doença renal policística autossômica dominante, vem a consulta de seguimento. A mãe iniciou hemodiálise aos 52 anos pela mesma doença, e um tio materno morreu aos 45 anos de hemorragia subaracnóidea por ruptura de aneurisma. Está assintomática, com PA de 126/80 mmHg em uso de losartana. Exames: creatinina 1,0 mg/dL, TFGe 76 mL/min/1,73 m², potássio 4,4 mEq/L. Ressonância de abdome: volume renal total ajustado à altura compatível com a classe 1D de Mayo. Quanto ao rastreamento de aneurisma intracraniano e à tolvaptana, as condutas são, respectivamente:",
+    "enunciado": "Mulher de 34 anos, com doença renal policística autossômica dominante, vem a consulta de seguimento. A mãe iniciou hemodiálise aos 52 anos pela mesma doença, e um tio materno, também portador da doença, morreu aos 45 anos de hemorragia subaracnóidea por ruptura de aneurisma. Está assintomática, com PA de 126/80 mmHg em uso de losartana. Exames: creatinina 1,0 mg/dL, TFGe 76 mL/min/1,73 m², potássio 4,4 mEq/L. Ressonância de abdome: volume renal total ajustado à altura compatível com a classe 1D de Mayo. Quanto ao rastreamento de aneurisma intracraniano e à tolvaptana, as condutas são, respectivamente:",
     "alternativas": {
       "A": "Rastrear aneurisma / iniciar tolvaptana",
       "B": "Rastrear aneurisma / não iniciar tolvaptana",
@@ -202,7 +223,7 @@
     },
     "gabarito": "A",
     "armadilha": "C",
-    "dado_decisivo": "um tio materno morreu aos 45 anos de hemorragia subaracnóidea por ruptura de aneurisma",
+    "dado_decisivo": "morreu aos 45 anos de hemorragia subaracnóidea por ruptura de aneurisma",
     "resolucao": "O rastreamento universal de aneurisma não é recomendado na doença renal policística, e quem sabe disso marca não rastrear sem ler a história familiar. Mas a regra tem exceção: história familiar de aneurisma intracraniano ou de hemorragia subaracnóidea (além de evento prévio, profissão de alto risco ou cirurgia de grande porte planejada) indica rastreamento com angiorressonância sem contraste, porque nesse grupo a prevalência de aneurisma chega a cerca de 20%, o dobro da dos demais. Quanto à tolvaptana, o antagonista V2 reduz o crescimento dos cistos e a perda de função em quem tem risco de progressão rápida, e a classe de Mayo 1C a 1E com TFGe acima de 25 é o critério mais usado; a mãe em diálise aos 52 anos reforça o risco. Ela tem as duas indicações. A tolvaptana exige monitorização de transaminases pela hepatotoxicidade e orientação sobre a poliúria.",
     "comentarios": {
       "A": "Correta. História familiar de aneurisma roto indica rastreamento, e Mayo 1D com TFGe de 76 indica tolvaptana.",
@@ -212,7 +233,11 @@
     },
     "para_levar": "Na doença renal policística, rastreie aneurisma intracraniano só com história familiar (ou outro fator de risco) e indique tolvaptana na progressão rápida (Mayo 1C a 1E) com TFGe acima de 25.",
     "referencias": "KDIGO 2025 (Autosomal Dominant Polycystic Kidney Disease); Irazabal et al., JASN 2015 (classificação de imagem de Mayo).",
-    "tags": ["Doença Renal Crônica (CM)", "Nefrologia (CM)"],
+    "tags": [
+      "Doença Renal Crônica (CM)",
+      "HSA (CM)",
+      "Nefrologia (CM)"
+    ],
     "sourceQuestionId": "484d4f45cff28ae",
     "alvo": "DRPAD (errou a classe de Mayo): tolvaptana pela classe e a exceção do rastreamento de aneurisma (história familiar)."
   },
@@ -220,30 +245,33 @@
     "id": "S5-NEF-08",
     "simulado": 5,
     "area": "Nefrologia",
-    "titulo": "Pielonefrite ambulatorial ainda febril em 40 horas · manter o antibiótico sem imagem",
+    "titulo": "Pielonefrite ambulatorial ainda febril em 40 horas · nenhum exame de imagem ou de controle antes de 72 horas",
     "arma": "Cronologia",
-    "comando": "conduta",
+    "comando": "próximo exame",
     "nivel": "média",
-    "enunciado": "Mulher de 31 anos, sem comorbidades, com teste de gravidez negativo, foi diagnosticada com pielonefrite há 40 horas (febre de 39,5 °C, dor lombar direita e punho-percussão dolorosa) e está em uso de ciprofloxacino 500 mg de 12 em 12 horas por via oral, com urocultura colhida antes da primeira dose. Retorna hoje: teve pico febril de 38,3 °C pela manhã, menor que os anteriores, a dor lombar melhorou, aceita bem a dieta e não tem vômitos. Exame: PA 118/74 mmHg, FC 92 bpm, bom estado geral. Exames: creatinina 0,7 mg/dL, leucócitos 12.400/mm³ (eram 17.900). A urocultura mostrou Escherichia coli sensível ao ciprofloxacino. A conduta mais adequada é:",
+    "enunciado": "Mulher de 31 anos, sem comorbidades, com teste de gravidez negativo, foi diagnosticada com pielonefrite há 40 horas (febre de 39,5 °C, dor lombar direita e punho-percussão dolorosa) e está em uso de ciprofloxacino 500 mg de 12 em 12 horas por via oral, com urocultura colhida antes da primeira dose. Retorna hoje: teve pico febril de 38,3 °C pela manhã, menor que os anteriores, a dor lombar melhorou, aceita bem a dieta e não tem vômitos. Exame: PA 118/74 mmHg, FC 92 bpm, bom estado geral. Exames: creatinina 0,7 mg/dL, leucócitos 12.400/mm³ (eram 17.900). A urocultura mostrou Escherichia coli sensível ao ciprofloxacino, que será mantido. Quanto a exames complementares, o mais adequado neste momento é:",
     "alternativas": {
-      "A": "Tomografia de abdome com contraste",
-      "B": "Ultrassonografia de vias urinárias",
-      "C": "Trocar para carbapenêmico intravenoso",
-      "D": "Manter o ciprofloxacino sem imagem"
+      "A": "Hemoculturas e nova urocultura",
+      "B": "Tomografia de abdome com contraste",
+      "C": "Ultrassonografia de vias urinárias",
+      "D": "Nenhum exame complementar agora"
     },
     "gabarito": "D",
-    "armadilha": "A",
+    "armadilha": "B",
     "dado_decisivo": "há 40 horas",
-    "resolucao": "Febre ainda presente no segundo dia leva o apressado à imagem para procurar abscesso ou obstrução, exatamente o que ele fez numa pielonefrite ambulatorial que 71% acertaram. Mas na pielonefrite a febre leva de 48 a 72 horas para ceder mesmo com antibiótico adequado, e o que indica imagem é a falta de melhora clínica após 48 a 72 horas, a piora, a sepse, a suspeita de obstrução (cálculo, anúria, cólica) ou a recorrência precoce. Com 40 horas, curva febril em queda, dor melhorando, tolerância oral, leucocitose caindo e E. coli sensível ao antibiótico em uso, o tratamento está funcionando. A conduta é manter o ciprofloxacino (sete dias no total), sem imagem, e reavaliar se a febre persistir além de 72 horas. Trocar por carbapenêmico amplia o espectro sem resistência documentada.",
+    "resolucao": "Febre ainda presente no segundo dia leva o apressado à imagem para procurar abscesso ou obstrução, exatamente o que ele fez numa pielonefrite ambulatorial que 71% acertaram. Mas na pielonefrite a febre leva de 48 a 72 horas para ceder mesmo com antibiótico adequado, e o que indica imagem é a falta de melhora clínica após 48 a 72 horas, a piora, a sepse, a suspeita de obstrução (cálculo, anúria, cólica) ou a recorrência precoce. Com 40 horas, curva febril em queda, dor melhorando, tolerância oral, leucocitose caindo e E. coli sensível ao antibiótico em uso, o tratamento está funcionando. Culturas de controle também não acrescentam: o germe já está isolado e a urocultura após o tratamento não é indicada na mulher não gestante que melhora. A conduta é manter o ciprofloxacino (sete dias no total), sem exames adicionais, e reavaliar se a febre persistir além de 72 horas.",
     "comentarios": {
-      "A": "Errada, é a armadilha. A tomografia seria o exame na febre que persiste após 72 horas, na piora clínica ou na suspeita de abscesso ou obstrução; com 40 horas e melhora, é exame a mais.",
-      "B": "Errada. A ultrassonografia tem o mesmo critério de indicação (falta de resposta ou suspeita de obstrução) e não muda a conduta numa paciente que está melhorando.",
-      "C": "Errada. Escalonar para carbapenêmico só se justificaria com resistência ou piora; o germe é sensível ao ciprofloxacino.",
-      "D": "Correta. Com 40 horas de tratamento, melhora clínica e germe sensível, febre residual é esperada: manter o antibiótico e reavaliar se persistir após 72 horas."
+      "A": "Errada. Hemoculturas e nova urocultura caberiam na sepse ou na falha terapêutica; com germe isolado, sensível e evolução favorável, não mudam nada.",
+      "B": "Errada, é a armadilha. A tomografia seria o exame na febre que persiste após 72 horas, na piora clínica ou na suspeita de abscesso ou obstrução; com 40 horas e melhora, é exame a mais.",
+      "C": "Errada. A ultrassonografia tem o mesmo critério de indicação (falta de resposta ou suspeita de obstrução) e não muda a conduta numa paciente que está melhorando.",
+      "D": "Correta. Com 40 horas de tratamento, melhora clínica e germe sensível, febre residual é esperada: nenhum exame agora, reavaliar se persistir após 72 horas."
     },
-    "para_levar": "Na pielonefrite, febre até 48 a 72 horas de antibiótico adequado é esperada; imagem só sem melhora após esse prazo, com piora ou com sinal de obstrução.",
+    "para_levar": "Na pielonefrite, febre até 48 a 72 horas de antibiótico adequado é esperada; imagem só sem melhora após esse prazo, com piora ou com sinal de obstrução, e cultura de controle não se pede em quem melhora.",
     "referencias": "IDSA e ESCMID, tratamento de cistite e pielonefrite agudas não complicadas em mulheres (2011); EAU Guidelines on Urological Infections (2025); ACR Appropriateness Criteria, Acute Pyelonephritis (2022).",
-    "tags": ["Infecção urinária (ITU) (CM)", "Nefrolitíase e Infecção Urinária (CM)"],
+    "tags": [
+      "Infecção urinária (ITU) (CM)",
+      "Nefrolitíase e Infecção Urinária (CM)"
+    ],
     "sourceQuestionId": "053c88856c86261",
     "alvo": "Pielonefrite (fraca, sobreinvestiga com 71% acertando): a cronologia da febre antes de pedir imagem."
   }
