@@ -21,7 +21,7 @@ pasta quando a análise estiver consolidada.
 | 1d0d1d1636eb939 | Cardiologia (3) | 15 | 11 | 4 | 73,3 |
 | c897c7609e2258f | Mista (UTI, paliativos, gastro, MBE) | 20 | 17 | 3 | 85,0 |
 | 065f0e3df14129c | Mista (50, várias áreas) | 50 | 26 | 24 | 52,0 |
-| **Total** | | **350** | **183** | **167** | **52,3** |
+| **Total** | | **350** | **206** | **144** | **58,9** |
 
 ## Questões repetidas entre as provas novas (mesmo enunciado, id diferente)
 
