@@ -70,68 +70,69 @@
     "id": "S5-PNE-03",
     "simulado": 5,
     "area": "Pneumologia",
-    "titulo": "Pneumonite de hipersensibilidade fibrótica que imita FPI em ex-tabagista",
-    "arma": "Grade X / Y",
+    "titulo": "Fibrose de terços superiores sem exposição identificada: lavado linfocítico e três densidades apontam PH fibrótica, não FPI",
+    "arma": "Dado omitido",
     "comando": "diagnóstico",
     "nivel": "extremamente difícil",
-    "enunciado": "Homem de 69 anos, ex-tabagista (30 maços-ano, parou há 15 anos), tem dispneia progressiva e tosse seca há 2 anos. Desde que se aposentou, há 6 anos, cria calopsitas e periquitos numa área coberta do quintal. Nega artralgia, Raynaud, fraqueza muscular e uso de amiodarona, nitrofurantoína ou metotrexato. Exame: estertores em velcro nas bases, baqueteamento digital, SpO2 92% em ar ambiente. TCAR: reticulado subpleural com bronquiectasias de tração e faveolamento, mais extenso nos terços médios e superiores, poupando relativamente as bases posteriores, e áreas lobulares de atenuação reduzida com aprisionamento aéreo na expiração em quatro lobos. FAN, fator reumatoide, anti-CCP e painel de miosite negativos. CVF 64% do previsto, DLCO 45%. O diagnóstico mais provável e a primeira medida terapêutica são, respectivamente:",
+    "enunciado": "Homem de 66 anos, engenheiro aposentado, ex-tabagista (25 maços-ano, parou há 20 anos), tem dispneia progressiva e tosse seca há 3 anos. Nega contato com aves, mofo visível em casa, umidificador, edredom ou travesseiro de penas, exposição ocupacional e uso de amiodarona, nitrofurantoína ou metotrexato. Nega Raynaud, artralgia, fraqueza muscular e refluxo. Exame: estertores em velcro bilaterais, baqueteamento digital, SpO2 93% em ar ambiente. TCAR: reticulado com bronquiectasias de tração e faveolamento, mais extenso nos terços superiores e médios e ao longo dos feixes broncovasculares centrais, sem linfonodomegalia; nas bases, lóbulos de atenuação reduzida que escurecem na expiração, lado a lado com áreas de vidro fosco e de parênquima normal. FAN, fator reumatoide, anti-CCP, anti-Scl-70 e painel de miosite negativos. Lavado broncoalveolar: 34% de linfócitos, relação CD4/CD8 de 0,9, culturas negativas. CVF 66% do previsto, DLCO 48%. O diagnóstico mais provável é:",
     "alternativas": {
-      "A": "FPI / antifibrótico",
-      "B": "FPI / afastar as aves",
-      "C": "PH fibrótica / antifibrótico",
-      "D": "PH fibrótica / afastar as aves"
+      "A": "Sarcoidose pulmonar fibrótica",
+      "B": "PINE fibrótica associada a colagenose",
+      "C": "Fibrose pulmonar idiopática",
+      "D": "Pneumonite de hipersensibilidade fibrótica"
     },
     "gabarito": "D",
-    "armadilha": "A",
-    "dado_decisivo": "áreas lobulares de atenuação reduzida com aprisionamento aéreo na expiração em quatro lobos",
-    "resolucao": "Homem idoso, ex-tabagista, com velcro, baqueteamento e faveolamento tem o perfil da fibrose pulmonar idiopática, e o antifibrótico parece o passo natural. Mas a distribuição não é a da FPI (que predomina nas bases posteriores): a fibrose é de terços médios e superiores, e há lóbulos com atenuação reduzida e aprisionamento aéreo em vários lobos, o sinal das três densidades da pneumonite de hipersensibilidade fibrótica. Some-se a exposição contínua a aves há 6 anos, que precisava ser perguntada antes de rotular como idiopática. Na PH fibrótica, a primeira medida é afastar o antígeno (as aves e as penas em casa), o que melhora a sobrevida; antifibrótico e imunossupressão entram diante de fibrose progressiva apesar do afastamento.",
+    "armadilha": "C",
+    "dado_decisivo": "Lavado broncoalveolar: 34% de linfócitos",
+    "resolucao": "Homem idoso, ex-tabagista, com velcro, baqueteamento e faveolamento, que nega qualquer exposição, tem o perfil da fibrose pulmonar idiopática, e a exposição negada parece encerrar a pneumonite de hipersensibilidade. Mas o antígeno não é identificado em até metade dos casos de PH, e o dado que faltou não derruba o diagnóstico quando a imagem e o lavado o sustentam. A distribuição não é a da FPI (basal e subpleural): a fibrose predomina nos terços superiores e médios e acompanha os feixes centrais, e nas bases há o sinal das três densidades (lóbulos com aprisionamento, vidro fosco e parênquima normal). O lavado com 34% de linfócitos vai contra FPI, em que a linfocitose acima de 30% é incomum e motiva rever o diagnóstico. A relação CD4/CD8 de 0,9 e a ausência de linfonodomegalia afastam a sarcoidose, e as sorologias negativas sem sinais sistêmicos afastam a colagenose. Firmada a PH fibrótica, a busca do antígeno continua (mofo oculto, ar-condicionado, penas em outro ambiente), e o diagnóstico muda o prognóstico e o tratamento.",
     "comentarios": {
-      "A": "Errada nas duas metades, e é a armadilha. FPI exige excluir exposição e tem predomínio basal; aqui há aves e fibrose de terços superiores com aprisionamento.",
-      "B": "Errada no diagnóstico. A conduta está certa, mas com exposição identificada e sinal das três densidades não é FPI.",
-      "C": "Errada na ordem. O diagnóstico está certo, mas antifibrótico é para fibrose progressiva apesar do afastamento do antígeno, não a primeira medida.",
-      "D": "Correta. Fibrose de terços superiores com aprisionamento lobular e exposição a aves: PH fibrótica, e primeiro se afasta o antígeno."
+      "A": "Errada. Sarcoidose também dá fibrose de terços superiores e lavado linfocítico, mas com relação CD4/CD8 alta (acima de 3,5), linfonodos hilares e mediastinais e distribuição peri-hilar; aqui a relação é 0,9 e não há linfonodomegalia.",
+      "B": "Errada. PINE de colagenose seria a resposta com Raynaud, artrite, fraqueza ou autoanticorpos; sorologias negativas e ausência de sinais sistêmicos derrubam, e a PINE poupa o espaço subpleural sem faveolamento extenso.",
+      "C": "Errada, e é a armadilha. FPI seria a resposta com predomínio basal e subpleural, sem aprisionamento lobular e com lavado sem linfocitose; a exposição negada não basta para chamar de idiopática.",
+      "D": "Correta. Fibrose de terços superiores e centrais, sinal das três densidades e lavado com 34% de linfócitos: PH fibrótica, mesmo sem antígeno identificado."
     },
-    "para_levar": "Antes de chamar uma fibrose de idiopática, pergunte a exposição; fibrose de terços superiores com aprisionamento lobular é PH fibrótica, e o primeiro tratamento é afastar o antígeno.",
-    "referencias": "ATS/JRS/ALAT 2020 (pneumonite de hipersensibilidade); ATS/ERS/JRS/ALAT 2022 (FPI e fibrose pulmonar progressiva); Diretrizes SBPT para doenças pulmonares intersticiais (2012)",
+    "para_levar": "Exposição negada não exclui pneumonite de hipersensibilidade: fibrose de terços superiores, sinal das três densidades e linfocitose no lavado acima de 30% apontam PH fibrótica, e não FPI.",
+    "referencias": "ATS/JRS/ALAT 2020 (diagnóstico de pneumonite de hipersensibilidade); CHEST 2021 (diagnóstico e avaliação da pneumonite de hipersensibilidade); ATS/ERS/JRS/ALAT 2022 (FPI e fibrose pulmonar progressiva)",
     "tags": [
       "Pneumonite de hipersensibilidade (PH) (CM)",
       "Fibrose Pulmonar Idiopática (FPI) (CM)"
     ],
     "sourceQuestionId": "973ad93411bbeb1",
-    "alvo": "Reincidente em DPI: rótulo ex-tabagista com faveolamento puxando FPI sem perguntar exposição."
+    "alvo": "Reincidente em DPI: rótulo de FPI (idoso, ex-tabagista, faveolamento) e exposição negada lidos como exclusão de PH; o número do lavado como enfeite."
   },
   {
     "id": "S5-PNE-04",
     "simulado": 5,
     "area": "Pneumologia",
-    "titulo": "Dispneia após TEP: cintilografia V/Q para hipertensão pulmonar tromboembólica crônica",
-    "arma": "Cronologia",
+    "titulo": "Pneumotórax de repetição com cistos pulmonares difusos: VEGF-D antes da biópsia na linfangioleiomiomatose",
+    "arma": "Rótulo verdadeiro",
     "comando": "próximo exame",
-    "nivel": "difícil",
-    "enunciado": "Mulher de 49 anos teve tromboembolismo pulmonar bilateral há 5 meses, sem fator desencadeante, tratado com rivaroxabana, que usa regularmente. A dispneia melhorou nas primeiras semanas, mas voltou a piorar há 2 meses, hoje aos médios esforços. Nega dor torácica e síncope. Exame: SpO2 94% em ar ambiente, B2 hiperfonética, sem edema. Ecocardiograma: PSAP estimada de 62 mmHg, VD dilatado, FE do VE 66%, sem disfunção diastólica. Doppler venoso de membros inferiores sem trombose. Angiotomografia de tórax feita no mês passado, em outro serviço: sem falhas de enchimento, com perfusão em mosaico. Para investigar a causa da hipertensão pulmonar, o próximo exame mais adequado é:",
+    "nivel": "extremamente difícil",
+    "enunciado": "Mulher de 36 anos, tabagista (8 maços-ano), teve há 3 semanas o segundo pneumotórax espontâneo, à direita, tratado com drenagem torácica; o primeiro foi à esquerda, há 1 ano. Refere dispneia aos grandes esforços há 2 anos, atribuída a asma, sem melhora com broncodilatador. Nega lesões de pele, convulsões, doença renal e história familiar de pneumotórax. Exame: SpO2 96% em ar ambiente, sem pápulas faciais nem angiofibromas, murmúrio discretamente reduzido à direita. TCAR após a reexpansão: dezenas de cistos de paredes finas, redondos e de tamanho uniforme (2 a 10 mm), distribuídos difusamente do ápice às bases, incluindo os seios costofrênicos, sem nódulos e sem vidro fosco. TC de abdome e pelve sem angiomiolipoma renal, sem linfonodomegalia e sem ascite. Espirometria: VEF1/CVF 0,66; DLCO 61% do previsto. Para confirmar o diagnóstico, o próximo exame mais adequado é:",
     "alternativas": {
-      "A": "Cintilografia de ventilação e perfusão",
-      "B": "Nova angiotomografia de tórax",
-      "C": "Cateterismo direito com vasorreatividade",
-      "D": "Pesquisa de trombofilia"
+      "A": "Dosagem sérica de VEGF-D",
+      "B": "Criobiópsia transbrônquica",
+      "C": "Dosagem de alfa-1 antitripsina",
+      "D": "Pesquisa de mutação do gene FLCN"
     },
     "gabarito": "A",
     "armadilha": "B",
-    "dado_decisivo": "voltou a piorar há 2 meses",
-    "resolucao": "A angiotomografia sem falhas de enchimento parece encerrar a hipótese de trombo, e repeti-la num centro melhor soa razoável. Mas o tempo conta: dispneia que melhora e volta a piorar depois de 3 meses de anticoagulação, com sinais de HP no eco, é o cenário da hipertensão pulmonar tromboembólica crônica, e os trombos crônicos são organizados e aderidos à parede, sem a falha de enchimento do trombo agudo. A perfusão em mosaico já é pista. O exame de triagem é a cintilografia de ventilação e perfusão, com sensibilidade acima de 95%: normal, exclui HPTEC; com defeitos segmentares, segue para cateterismo direito e angiografia em centro de referência (a HPTEC tem tratamento potencialmente curativo, a endarterectomia). Vasorreatividade é teste da HAP idiopática, e trombofilia não muda a investigação da HP.",
+    "dado_decisivo": "distribuídos difusamente do ápice às bases, incluindo os seios costofrênicos, sem nódulos",
+    "resolucao": "Tabagismo com cistos pulmonares lembra histiocitose de células de Langerhans, cuja confirmação costuma exigir biópsia, e a criobiópsia parece o passo natural. Mas a histiocitose dá cistos irregulares e bizarros, com nódulos, nos terços superiores e médios, poupando os seios costofrênicos; aqui os cistos são redondos, uniformes, difusos até as bases e sem nódulos, numa mulher jovem com pneumotórax de repetição e obstrução: linfangioleiomiomatose. Sem angiomiolipoma, esclerose tuberosa, quilotórax ou linfangioleiomioma, a TC característica ainda não fecha o diagnóstico clínico, e a diretriz ATS/JRS indica dosar o VEGF-D sérico antes de qualquer biópsia: 800 pg/mL ou mais, com TC compatível, confirma LAM com especificidade próxima de 100%. Só se o VEGF-D vier abaixo disso a biópsia transbrônquica é o passo seguinte. O diagnóstico importa porque abre a indicação de sirolimo diante de queda funcional, e o segundo pneumotórax já indica pleurodese.",
     "comentarios": {
-      "A": "Correta. Dispneia que volta após 3 meses de anticoagulação com HP no eco: cintilografia V/Q, mais sensível que a angiotomografia para HPTEC.",
-      "B": "Errada, e é a armadilha. Angiotomografia é o exame do TEP agudo; para trombo crônico organizado é menos sensível que a V/Q, e normal não exclui HPTEC.",
-      "C": "Errada. O cateterismo confirma a HP e entra depois da V/Q; vasorreatividade só se testa na HAP idiopática, hereditária ou por drogas.",
-      "D": "Errada. Trombofilia pode mudar a duração da anticoagulação, mas não investiga a causa da HP."
+      "A": "Correta. TC característica de LAM sem achado extrapulmonar confirmatório: VEGF-D sérico de 800 pg/mL ou mais confirma o diagnóstico sem biópsia.",
+      "B": "Errada, e é a armadilha. Biópsia transbrônquica é o passo depois de VEGF-D abaixo de 800 pg/mL, ou o exame da histiocitose de Langerhans com nódulos e cistos irregulares poupando as bases; aqui o exame não invasivo vem antes.",
+      "C": "Errada. Alfa-1 antitripsina investiga enfisema panlobular basal, que são áreas de destruição sem parede; cistos de paredes finas e uniformes não são enfisema.",
+      "D": "Errada. FLCN é o teste da síndrome de Birt-Hogg-Dubé, com cistos basais, subpleurais e paramediastinais de formato lentiforme, fibrofoliculomas e história familiar; os cistos aqui são difusos e redondos, sem pele ou família sugestivas."
     },
-    "para_levar": "Dispneia persistente ou recorrente depois de 3 meses de anticoagulação por TEP: eco e, se sugerir HP, cintilografia V/Q, que é o exame de triagem da HPTEC.",
-    "referencias": "ESC/ERS 2022 (hipertensão pulmonar); ESC 2019 (embolia pulmonar aguda, seguimento); 7º Simpósio Mundial de Hipertensão Pulmonar 2024",
+    "para_levar": "Cistos pulmonares difusos, redondos e uniformes em mulher com pneumotórax de repetição: linfangioleiomiomatose. Sem angiomiolipoma ou esclerose tuberosa, dosar VEGF-D (800 pg/mL ou mais confirma) antes de qualquer biópsia.",
+    "referencias": "ATS/JRS 2016 e 2017 (diagnóstico e manejo da linfangioleiomiomatose); BTS Guideline for pleural disease 2023 (pneumotórax)",
     "tags": [
-      "Hipertensão Pulmonar e TEP (CM)"
+      "Doença Pulmonar Intersticial (CM)",
+      "Outros temas em Pneumologia (CM)"
     ],
-    "sourceQuestionId": "151b3502dd93077",
-    "alvo": "Errou o exame de triagem da HPTEC (marcou angio-TC e doppler); HP ausente do lote como tema."
+    "sourceQuestionId": null,
+    "alvo": "Porte da conduta: exame invasivo antes do simples; rótulo verdadeiro (tabagismo) puxando histiocitose; doença cística e pneumotórax ausentes do lote."
   },
   {
     "id": "S5-PNE-05",
