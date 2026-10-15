@@ -1,0 +1,305 @@
+[
+  {
+    "id": "S3-PNE-01",
+    "simulado": 3,
+    "area": "Pneumologia",
+    "titulo": "Derrame pleural reumatoide com ADA alto e contato de tuberculose",
+    "arma": "Rótulo verdadeiro",
+    "comando": "diagnóstico",
+    "nivel": "extremamente difícil",
+    "enunciado": "Homem de 61 anos, tabagista (30 maços-ano), com artrite reumatoide soropositiva há 14 anos, em uso de metotrexato e prednisona 5 mg/dia, tem derrame pleural à direita há 3 meses, com dor torácica leve. O irmão, com quem divide a casa, terminou o tratamento de tuberculose pulmonar há 4 meses. Nega febre e sudorese. Exame: T 36,8 °C, nódulos subcutâneos em cotovelos, sinovite em punhos, macicez no terço inferior do hemitórax direito. Toracocentese: líquido turvo esverdeado, pH 7,04, glicose 8 mg/dL (glicemia 104 mg/dL), proteína 5,2 g/dL, LDH 1.840 U/L, 2.300 células/mm³ (68% linfócitos), ADA 52 U/L, Gram e cultura para germes comuns negativos, pesquisa direta de BAAR e teste rápido molecular negativos. O diagnóstico mais provável é:",
+    "alternativas": {
+      "A": "Tuberculose pleural",
+      "B": "Empiema pleural",
+      "C": "Derrame pleural reumatoide",
+      "D": "Linfoma pleural"
+    },
+    "gabarito": "C",
+    "armadilha": "A",
+    "dado_decisivo": "glicose 8 mg/dL (glicemia 104 mg/dL)",
+    "resolucao": "Imunossupressão, contato domiciliar recente, exsudato linfocítico e ADA de 52 formam o pacote da tuberculose pleural, e o rótulo é verdadeiro: ele tem risco real. Mas a glicose de 8 mg/dL com pH de 7,04 é o número que manda. Tuberculose pleural raramente baixa a glicose abaixo de 30 e o pH abaixo de 7,1; glicose quase zerada com pH muito baixo sem infecção bacteriana é a marca do derrame reumatoide, por bloqueio do transporte de glicose na pleura inflamada e alto consumo local. O perfil completa o quadro: homem, tabagista, AR soropositiva de longa data com nódulos subcutâneos, líquido esverdeado e LDH muito alto. ADA também se eleva no derrame reumatoide (e no empiema), por isso não separa as duas doenças; teste rápido e BAAR negativos não excluem tuberculose, mas não há nada no líquido que a explique melhor que a AR.",
+    "comentarios": {
+      "A": "Errada, e é a armadilha. O contato e o ADA de 52 puxam para cá, mas tuberculose pleural não costuma ter glicose abaixo de 30 nem pH abaixo de 7,1, e o ADA também sobe no derrame reumatoide.",
+      "B": "Errada. Empiema também zera a glicose e baixa o pH, mas é neutrofílico, com febre e bacterioscopia ou cultura muitas vezes positivas; aqui são 68% de linfócitos, sem febre há 3 meses, com culturas negativas.",
+      "C": "Correta. AR soropositiva antiga com nódulos, homem tabagista, glicose de 8 e pH de 7,04 com cultura negativa: derrame reumatoide.",
+      "D": "Errada. Linfoma dá exsudato linfocítico com LDH alto, mas com ADA baixo e glicose em geral preservada."
+    },
+    "para_levar": "Glicose pleural abaixo de 30 mg/dL com pH muito baixo e cultura negativa, em AR soropositiva com nódulos, é derrame reumatoide; ADA alto não separa AR de tuberculose.",
+    "referencias": "BTS Guideline for pleural disease 2023; Light RW, Pleural Diseases, 7ª ed.; Diretrizes SBPT para tuberculose 2023",
+    "tags": [
+      "Derrame Pleural (CM)"
+    ],
+    "sourceQuestionId": "a1e4170cc80392b",
+    "alvo": "ADA e o rótulo de TB lidos como resposta, ignorando o número do líquido (glicose e pH)."
+  },
+  {
+    "id": "S3-PNE-02",
+    "simulado": 3,
+    "area": "Pneumologia",
+    "titulo": "Pletismografia: CVF reduzida por aprisionamento aéreo em usuário de amiodarona",
+    "arma": "Rótulo verdadeiro",
+    "comando": "diagnóstico",
+    "nivel": "extremamente difícil",
+    "enunciado": "Homem de 70 anos, ex-tabagista (50 maços-ano), em uso de amiodarona 200 mg/dia há 3 anos por fibrilação atrial, refere dispneia progressiva há 1 ano. Nega tosse, febre e perda de peso. Exame: tórax em tonel, murmúrio vesicular difusamente reduzido, sem estertores em velcro, sem baqueteamento. TC de tórax: enfisema centrolobular nos lobos superiores, sem reticulado, vidro fosco ou faveolamento. Espirometria pós-broncodilatador: CVF 58% do previsto, VEF1 49% do previsto, VEF1/CVF 0,72. Pletismografia: CPT 116% do previsto, VR 205% do previsto, VR/CPT 0,64. DLCO 48% do previsto. O distúrbio funcional que explica a redução da CVF é:",
+    "alternativas": {
+      "A": "Restrição parenquimatosa por amiodarona",
+      "B": "Aprisionamento aéreo por obstrução",
+      "C": "Distúrbio misto obstrutivo e restritivo",
+      "D": "Restrição extraparenquimatosa"
+    },
+    "gabarito": "B",
+    "armadilha": "A",
+    "dado_decisivo": "CPT 116% do previsto, VR 205% do previsto",
+    "resolucao": "CVF baixa com relação VEF1/CVF acima de 0,70 parece restrição, e a amiodarona oferece a causa, com DLCO baixa para confirmar. Mas restrição se define por CPT reduzida, e a CPT aqui é de 116%. O que reduziu a CVF foi o volume residual de 205%, com VR/CPT de 0,64: o ar fica preso no fim da expiração, a capacidade vital encolhe e a relação VEF1/CVF se pseudonormaliza, porque o denominador também caiu. A DLCO baixa vem do enfisema, que a TC mostra, e não exige toxicidade pulmonar, que daria vidro fosco ou reticulado, ausentes. É o padrão de hiperinsuflação e aprisionamento da DPOC com enfisema.",
+    "comentarios": {
+      "A": "Errada, e é a armadilha. A droga existe e dá pneumonite intersticial, mas restrição exige CPT abaixo do limite inferior, e a TC não mostra reticulado nem vidro fosco.",
+      "B": "Correta. CPT normal ou alta com VR de 205% e VR/CPT de 0,64: aprisionamento aéreo reduzindo a CVF e pseudonormalizando a relação VEF1/CVF.",
+      "C": "Errada. Distúrbio misto exige relação reduzida e CPT reduzida ao mesmo tempo; a CPT é de 116%.",
+      "D": "Errada. Obesidade, deformidade torácica ou doença neuromuscular reduzem a CPT com DLCO normal ou corrigida alta; aqui a CPT está aumentada e a DLCO baixa."
+    },
+    "para_levar": "CVF baixa com relação normal não é restrição até a CPT confirmar; VR alto com CPT normal ou alta é aprisionamento aéreo, que pseudonormaliza a relação.",
+    "referencias": "ATS/ERS 2022 (interpretação de testes de função pulmonar); GOLD 2026; Diretrizes SBPT para testes de função pulmonar",
+    "tags": [
+      "Distúrbios Ventilatórios Obstrutivos (CM)",
+      "Espirometria (CM)"
+    ],
+    "sourceQuestionId": "aabd3a38f27088d",
+    "alvo": "Fisiologia funcional (pletismografia) errada; droga em uso como rótulo que faz ignorar a CPT."
+  },
+  {
+    "id": "S3-PNE-03",
+    "simulado": 3,
+    "area": "Pneumologia",
+    "titulo": "Pneumonite de hipersensibilidade não fibrótica: afastar o antígeno antes de tratar",
+    "arma": "Omissão",
+    "comando": "conduta",
+    "nivel": "difícil",
+    "enunciado": "Mulher de 52 anos, professora, que nunca fumou, tem tosse seca e dispneia aos médios esforços há 5 meses, com piora à noite e melhora parcial nas 2 semanas de férias que passou na casa da filha. Há 1 ano trocou o enxoval por edredom e travesseiros de pena de ganso. Nega artralgia, Raynaud, refluxo e uso de medicações. Exame: SpO2 95% em ar ambiente, estertores finos esparsos, sem baqueteamento. TCAR: nódulos centrolobulares mal definidos em vidro fosco, predominando nos terços médios e superiores, com atenuação em mosaico e aprisionamento aéreo na expiração, sem reticulado, bronquiectasias de tração ou faveolamento. FAN e fator reumatoide negativos. CVF 78% do previsto, DLCO 66%. A conduta mais adequada neste momento é:",
+    "alternativas": {
+      "A": "Afastar as penas e reavaliar",
+      "B": "Prednisona 0,5 mg/kg/dia",
+      "C": "Criobiópsia transbrônquica",
+      "D": "Nintedanibe"
+    },
+    "gabarito": "A",
+    "armadilha": "B",
+    "dado_decisivo": "Há 1 ano trocou o enxoval por edredom e travesseiros de pena de ganso",
+    "resolucao": "A TCAR é de pneumonite de hipersensibilidade não fibrótica (nódulos centrolobulares em vidro fosco, mosaico e aprisionamento, sem fibrose), há uma exposição plausível com relação temporal (penas há 1 ano) e melhora fora de casa. Com quadro leve (SpO2 95%, CVF 78%), a primeira e mais eficaz medida é afastar o antígeno: retirar edredom e travesseiros e reavaliar sintomas e função em 4 a 8 semanas. Corticoide fica para doença grave, com hipoxemia ou queda funcional importante, ou para quem não melhora após o afastamento. Biópsia só se o quadro permanecer indefinido, e antifibrótico é para fibrose pulmonar progressiva, que ela não tem.",
+    "comentarios": {
+      "A": "Correta. PH não fibrótica leve com antígeno identificado: o afastamento é diagnóstico e terapêutico, e a reavaliação define se é preciso mais.",
+      "B": "Errada, e é a armadilha. Corticoide é para PH grave ou que não melhora com o afastamento; começar antes trata o efeito e mantém a causa.",
+      "C": "Errada. Biópsia é para TCAR indeterminada ou exposição não identificada; aqui imagem e história já são concordantes.",
+      "D": "Errada. Antifibrótico é para fibrose pulmonar progressiva (INBUILD); a TCAR não mostra fibrose."
+    },
+    "para_levar": "Na pneumonite de hipersensibilidade, a conduta começa pela exposição: perguntar, identificar e afastar. Corticoide e biópsia vêm depois, se o afastamento não bastar.",
+    "referencias": "ATS/JRS/ALAT 2020 (diagnóstico de pneumonite de hipersensibilidade); ACCP 2021; Diretrizes SBPT de doenças pulmonares intersticiais",
+    "tags": [
+      "Pneumonite de hipersensibilidade (PH) (CM)",
+      "Doença Pulmonar Intersticial (CM)"
+    ],
+    "sourceQuestionId": "fc91823ae26406e",
+    "alvo": "Reincidente: DPI com exame ou tratamento antes da exposição (mesma letra duas vezes)."
+  },
+  {
+    "id": "S3-PNE-04",
+    "simulado": 3,
+    "area": "Pneumologia",
+    "titulo": "Hipertensão pulmonar do grupo 3 por hipoventilação-obesidade em quem teve TVP",
+    "arma": "Negativo no meio",
+    "comando": "etiologia",
+    "nivel": "extremamente difícil",
+    "enunciado": "Mulher de 56 anos, IMC 46 kg/m², hipertensa, com trombose venosa profunda de perna esquerda há 5 anos (tratada por 6 meses), ronco alto e sonolência diurna, procura atendimento por dispneia progressiva e edema de membros inferiores há 8 meses. Exame: SpO2 88% em ar ambiente, FC 92 bpm, B2 hiperfonética, turgência jugular, edema bilateral simétrico. Gasometria arterial em vigília, em ar ambiente: pH 7,37, PaO2 58 mmHg, PaCO2 54 mmHg, HCO3 31 mEq/L. Ecocardiograma: PSAP 58 mmHg, VD dilatado, FE do VE 64%, átrio esquerdo normal, função diastólica normal. Cintilografia pulmonar de ventilação e perfusão sem defeitos de perfusão. Espirometria: VEF1/CVF 0,82, CVF 74% do previsto. A causa mais provável da hipertensão pulmonar é:",
+    "alternativas": {
+      "A": "Tromboembólica crônica (grupo 4)",
+      "B": "Doença cardíaca esquerda (grupo 2)",
+      "C": "Hipertensão arterial pulmonar idiopática (grupo 1)",
+      "D": "Hipoventilação e hipoxemia (grupo 3)"
+    },
+    "gabarito": "D",
+    "armadilha": "A",
+    "dado_decisivo": "Cintilografia pulmonar de ventilação e perfusão sem defeitos de perfusão",
+    "resolucao": "A TVP prévia é verdadeira e leva direto ao grupo 4. Mas o exame de triagem da hipertensão pulmonar tromboembólica crônica é justamente a cintilografia de ventilação e perfusão, de sensibilidade acima de 95%, e ela não tem defeitos de perfusão: isso praticamente exclui o grupo 4. O resto do caso conta outra história: obesidade grau III, ronco e sonolência (apneia do sono) e hipercapnia em vigília (PaCO2 de 54 com bicarbonato de 31, compensação crônica), o que define síndrome de obesidade-hipoventilação, com hipoxemia crônica causando vasoconstrição pulmonar e cor pulmonale. Coração esquerdo normal (átrio esquerdo e função diastólica) afasta o grupo 2, e com uma causa de grupo 3 evidente não se fala em HAP idiopática. A conduta é ventilação não invasiva noturna e perda de peso, não anticoagulação nem vasodilatador pulmonar.",
+    "comentarios": {
+      "A": "Errada, e é a armadilha. Seria a resposta com defeitos segmentares de perfusão na cintilografia; com cintilografia sem defeitos, HPTEC está praticamente excluída, apesar da TVP.",
+      "B": "Errada. Obesidade e HAS lembram IC de fração preservada, mas átrio esquerdo e função diastólica normais não sustentam HP pós-capilar.",
+      "C": "Errada. HAP idiopática é diagnóstico de exclusão; hipercapnia crônica com obesidade grau III explica a HP.",
+      "D": "Correta. PaCO2 de 54 em vigília com bicarbonato alto, obesidade grau III e apneia do sono: HP por hipoventilação e hipoxemia."
+    },
+    "para_levar": "Cintilografia V/Q sem defeitos de perfusão afasta HPTEC mesmo com TVP prévia; hipercapnia em vigília no obeso aponta HP do grupo 3, tratada com ventilação e não com anticoagulação.",
+    "referencias": "ESC/ERS 2022 (hipertensão pulmonar); 7º Simpósio Mundial de Hipertensão Pulmonar 2024; ATS 2019 (síndrome de obesidade-hipoventilação)",
+    "tags": [
+      "Hipertensão Pulmonar (CM)",
+      "SAHOS (CM)"
+    ],
+    "sourceQuestionId": "151b3502dd93077",
+    "alvo": "Fraca (81% acertaram): fechou em HPTEC pelo rótulo TVP prévia; aqui o número que derruba (V/Q) está escrito."
+  },
+  {
+    "id": "S3-PNE-05",
+    "simulado": 3,
+    "area": "Pneumologia",
+    "titulo": "DPOC exacerbador em dupla broncodilatação com eosinófilos abaixo de 100",
+    "arma": "Limiar",
+    "comando": "conduta",
+    "nivel": "difícil",
+    "enunciado": "Homem de 68 anos, ex-tabagista há 5 anos (55 maços-ano), com DPOC em uso regular e com técnica correta de tiotrópio e olodaterol, teve no último ano duas exacerbações tratadas com antibiótico e prednisona em domicílio. Não tem tosse produtiva crônica nem história de asma. Teve pneumonia há 8 meses, tratada em enfermaria. Espirometria pós-broncodilatador: VEF1/CVF 0,52, VEF1 54% do previsto. Eosinófilos no sangue de 70/mm³ e de 80/mm³ em duas dosagens fora de exacerbação. ECG: QTc 420 ms. Audiometria normal. Além de manter a dupla broncodilatação e a reabilitação, a conduta mais adequada para reduzir exacerbações é:",
+    "alternativas": {
+      "A": "Acrescentar budesonida inalatória",
+      "B": "Acrescentar azitromicina contínua",
+      "C": "Acrescentar roflumilaste",
+      "D": "Acrescentar dupilumabe"
+    },
+    "gabarito": "B",
+    "armadilha": "A",
+    "dado_decisivo": "Eosinófilos no sangue de 70/mm³ e de 80/mm³",
+    "resolucao": "O reflexo do escalonamento é a tripla terapia, e foi o que a banca premiou numa questão sem eosinófilos. Aqui o número está escrito: abaixo de 100 por mm³ o corticoide inalatório quase não reduz exacerbações e aumenta pneumonia, que ele já teve. Para exacerbador em LABA e LAMA com eosinófilos baixos, o GOLD indica azitromicina (preferencialmente em ex-tabagistas) ou roflumilaste. O roflumilaste exige VEF1 abaixo de 50% e bronquite crônica, e ele tem VEF1 de 54% sem tosse produtiva. A azitromicina pede QTc normal e audiometria, ambos conferidos no enunciado. Dupilumabe é para eosinófilos de 300 ou mais com bronquite crônica.",
+    "comentarios": {
+      "A": "Errada, e é a armadilha. Corticoide inalatório é o passo com eosinófilos de 300 ou mais (e se considera entre 100 e 300); abaixo de 100, e com pneumonia prévia, não se acrescenta.",
+      "B": "Correta. Exacerbador em dupla broncodilatação, eosinófilos abaixo de 100, ex-tabagista, QTc e audição normais: azitromicina contínua.",
+      "C": "Errada. Roflumilaste exige VEF1 abaixo de 50% e fenótipo de bronquite crônica; VEF1 de 54% sem tosse produtiva derruba.",
+      "D": "Errada. Dupilumabe é para DPOC com eosinófilos de 300 ou mais e bronquite crônica, em geral já em tripla."
+    },
+    "para_levar": "No exacerbador em LABA e LAMA, o eosinófilo escolhe o passo: 300 ou mais, corticoide inalatório; abaixo de 100, azitromicina (ex-tabagista) ou roflumilaste (VEF1 abaixo de 50% com bronquite crônica).",
+    "referencias": "GOLD 2026; Diretriz SBPT de DPOC 2023",
+    "tags": [
+      "DPOC - ambulatorial (CM)"
+    ],
+    "sourceQuestionId": "f5a2c7b0254fa6b",
+    "alvo": "Escalonamento da DPOC errado; ignora o número (eosinófilo) que escolhe o degrau."
+  },
+  {
+    "id": "S3-PNE-06",
+    "simulado": 3,
+    "area": "Pneumologia",
+    "titulo": "Tumor do sulco superior em tabagista com laudo de hérnia discal cervical",
+    "arma": "Rótulo verdadeiro",
+    "comando": "etiologia",
+    "nivel": "difícil",
+    "enunciado": "Homem de 63 anos, pedreiro, tabagista (40 maços-ano), tem dor intensa no ombro direito irradiada pela face medial do braço e do antebraço até o 4º e o 5º dedos há 4 meses, com piora noturna e sem melhora com anti-inflamatório e fisioterapia. Perdeu 6 kg. Ressonância de coluna cervical: protrusão discal C5-C6 sem compressão radicular significativa e uncoartrose difusa. Exame: atrofia dos interósseos e da eminência hipotenar à direita, hipoestesia na face medial do antebraço direito, pupila direita menor que a esquerda, com ptose palpebral discreta à direita e menos sudorese na hemiface direita. Reflexos bicipitais e tricipitais simétricos. A causa mais provável do quadro é:",
+    "alternativas": {
+      "A": "Radiculopatia por hérnia discal cervical",
+      "B": "Síndrome do desfiladeiro torácico",
+      "C": "Tumor do sulco pulmonar superior",
+      "D": "Siringomielia cervical"
+    },
+    "gabarito": "C",
+    "armadilha": "A",
+    "dado_decisivo": "pupila direita menor que a esquerda, com ptose palpebral discreta à direita e menos sudorese na hemiface direita",
+    "resolucao": "Pedreiro com dor cervicobraquial e ressonância com protrusão discal tem um laudo que parece fechar o caso. Mas a protrusão é em C5-C6, que comprimiria a raiz C6 (face lateral do antebraço e polegar), e o déficit é de C8 e T1 (face medial, 4º e 5º dedos, interósseos e hipotênar). Junto há síndrome de Horner do mesmo lado (miose, ptose e anidrose), dor noturna refratária e perda de peso num tabagista de 40 maços-ano: invasão do plexo braquial inferior e da cadeia simpática cervical por tumor do ápice pulmonar (Pancoast). Desfiladeiro torácico pode dar déficit de C8 e T1, mas não Horner nem perda de peso. O passo seguinte é a imagem do ápice (TC de tórax e ressonância do plexo).",
+    "comentarios": {
+      "A": "Errada, e é a armadilha. A protrusão C5-C6 afetaria C6, não C8 e T1, não comprime a raiz no laudo e não explica Horner nem perda de peso.",
+      "B": "Errada. O desfiladeiro neurogênico dá dor e atrofia em território C8 e T1, mas sem Horner, sem perda de peso e com piora à elevação do braço.",
+      "C": "Correta. Plexopatia de C8 e T1 com síndrome de Horner, dor noturna e emagrecimento em tabagista: tumor do sulco superior.",
+      "D": "Errada. Siringomielia dá perda sensitiva dissociada (dor e temperatura) em capa, em geral bilateral, sem dor noturna intensa nem emagrecimento."
+    },
+    "para_levar": "Dor no território C8 e T1 com Horner do mesmo lado em tabagista é tumor do sulco superior até prova em contrário, mesmo com ressonância cervical alterada.",
+    "referencias": "NCCN NSCLC 2026; ACCP 2013 (diagnóstico e estadiamento do câncer de pulmão)",
+    "tags": [
+      "Câncer de pulmão"
+    ],
+    "sourceQuestionId": null,
+    "alvo": "Rótulo verdadeiro (laudo de imagem) decidindo; estadiamento e câncer de pulmão ausentes do lote."
+  },
+  {
+    "id": "S3-PNE-07",
+    "simulado": 3,
+    "area": "Terapia intensiva",
+    "titulo": "SDRA na obesa: volume corrente pelo peso predito e indicação de prona",
+    "arma": "Grade X / Y",
+    "comando": "conduta",
+    "nivel": "extremamente difícil",
+    "enunciado": "Mulher de 48 anos, 1,55 m de altura e 98 kg, intubada há 20 horas por pneumonia por influenza com síndrome do desconforto respiratório agudo. Ventilação controlada a volume: volume corrente 500 mL, PEEP 12 cmH2O, FiO2 80%, FR 22 irpm. Pressão de platô 33 cmH2O, pressão de pico 40 cmH2O. Gasometria: pH 7,31, PaCO2 50 mmHg, PaO2 88 mmHg. Sedada, sem drogas vasoativas. Radiografia: opacidades bilaterais. O ajuste do volume corrente e a medida adicional mais adequada são, respectivamente:",
+    "alternativas": {
+      "A": "Manter 500 mL / posição prona",
+      "B": "Manter 500 mL / ECMO venovenosa",
+      "C": "Reduzir para cerca de 290 mL / ECMO venovenosa",
+      "D": "Reduzir para cerca de 290 mL / posição prona"
+    },
+    "gabarito": "D",
+    "armadilha": "A",
+    "dado_decisivo": "1,55 m de altura e 98 kg",
+    "resolucao": "500 mL parecem protetores porque dão cerca de 5 mL/kg do peso real. Mas o volume corrente se calcula pelo peso predito, que depende da altura e do sexo: 45,5 + 0,91 x (155 - 152,4), cerca de 48 kg. Assim, 500 mL são mais de 10 mL/kg do peso predito, e o platô de 33 e a pressão de distensão de 21 confirmam a hiperdistensão. O alvo é 6 mL/kg do peso predito, cerca de 290 mL, com platô até 30 e aumento da FR para compensar o CO2. A relação PaO2/FiO2 é 88/0,8, cerca de 110, abaixo de 150 com PEEP de 12 e FiO2 de 80%: indica posição prona por pelo menos 16 horas por dia, que reduz mortalidade (PROSEVA). ECMO é resgate para hipoxemia refratária depois de ventilação protetora e prona otimizadas.",
+    "comentarios": {
+      "A": "Errada, e é a armadilha. Acerta a prona, mas mantém um volume que é mais de 10 mL/kg do peso predito; o erro é calcular pelo peso real.",
+      "B": "Errada nas duas metades. Mantém volume lesivo e pula a prona para um resgate que exige falha das medidas anteriores.",
+      "C": "Errada. Acerta o volume, mas ECMO é para hipoxemia refratária depois de prona e ventilação protetora.",
+      "D": "Correta. Peso predito de cerca de 48 kg dá cerca de 290 mL a 6 mL/kg, e PaO2/FiO2 de 110 abaixo de 150 indica prona."
+    },
+    "para_levar": "Volume corrente na SDRA é 6 mL/kg do peso PREDITO (altura e sexo), nunca do peso real; PaO2/FiO2 abaixo de 150 indica prona antes de qualquer resgate.",
+    "referencias": "ATS/ESICM/SCCM 2017 e ATS 2024 (ventilação na SDRA); ARDSNet (N Engl J Med 2000); PROSEVA (N Engl J Med 2013); Diretrizes Brasileiras de Ventilação Mecânica AMIB/SBPT",
+    "tags": [
+      "SARA / SDRA (CM)",
+      "Ventilação Mecânica (CM)"
+    ],
+    "sourceQuestionId": null,
+    "alvo": "VM e SDRA ausentes do lote; número que decide (altura) lido como enfeite."
+  },
+  {
+    "id": "S3-PNE-08",
+    "simulado": 3,
+    "area": "Emergência",
+    "titulo": "Intoxicação por tricíclico prescrito para fibromialgia: bicarbonato, não fisostigmina",
+    "arma": "Droga a deduzir",
+    "comando": "conduta",
+    "nivel": "difícil",
+    "enunciado": "Mulher de 38 anos é trazida à emergência 2 horas após ingerir várias cartelas de um medicamento que usa há 1 ano, em dose baixa à noite, \"para a dor da fibromialgia e para dormir\". Está sonolenta (Glasgow 12), com pupilas midriáticas, pele quente e seca, mucosas secas, bexiga palpável e ruídos hidroaéreos diminuídos. PA 94 x 58 mmHg, FC 128 bpm, SpO2 96% em ar ambiente, glicemia 112 mg/dL. ECG: taquicardia sinusal, QRS de 136 ms, onda R de 4 mm em aVR. Gasometria: pH 7,33. A medida mais adequada neste momento é:",
+    "alternativas": {
+      "A": "Bicarbonato de sódio em bolus",
+      "B": "Fisostigmina intravenosa",
+      "C": "Lavagem gástrica",
+      "D": "Flumazenil intravenoso"
+    },
+    "gabarito": "A",
+    "armadilha": "B",
+    "dado_decisivo": "QRS de 136 ms, onda R de 4 mm em aVR",
+    "resolucao": "A droga não é nomeada, mas dose baixa noturna para dor de fibromialgia e insônia é amitriptilina (ou ciclobenzaprina, de estrutura tricíclica). O quadro anticolinérgico é evidente e convida ao antídoto anticolinérgico, a fisostigmina. Mas o que mata no tricíclico é o bloqueio dos canais de sódio do miocárdio: QRS acima de 100 ms e R em aVR acima de 3 mm predizem convulsão e arritmia ventricular. O tratamento é bicarbonato de sódio 1 a 2 mEq/kg em bolus, repetido até estreitar o QRS, buscando pH de 7,45 a 7,55: a carga de sódio e a alcalinização revertem o bloqueio. Fisostigmina é contraindicada com QRS alargado (relatos de assistolia), e flumazenil pode precipitar convulsão. Carvão ativado é opção com via aérea protegida; lavagem gástrica não é rotina.",
+    "comentarios": {
+      "A": "Correta. Tricíclico com QRS de 136 ms e R de 4 mm em aVR: bicarbonato de sódio em bolus até estreitar o QRS.",
+      "B": "Errada, e é a armadilha. Seria o antídoto numa síndrome anticolinérgica pura (atropina, anti-histamínico) com QRS normal; no tricíclico com QRS largo pode causar bradiarritmia e assistolia.",
+      "C": "Errada. Lavagem gástrica não melhora desfecho e aumenta aspiração; não trata a cardiotoxicidade, que é a urgência.",
+      "D": "Errada. Flumazenil reverte benzodiazepínico, mas em coingestão com tricíclico desmascara convulsões; não tem papel aqui."
+    },
+    "para_levar": "Intoxicação por tricíclico com QRS acima de 100 ms pede bicarbonato de sódio em bolus; fisostigmina e flumazenil são contraindicados.",
+    "referencias": "Goldfrank's Toxicologic Emergencies, 11ª ed.; AHA 2023 (manejo de intoxicações com risco à vida)",
+    "tags": [
+      "Intoxicações por Tricíclicos (CM)",
+      "Intoxicações (CM)"
+    ],
+    "sourceQuestionId": null,
+    "alvo": "Droga a deduzir pelo uso e rótulo (síndrome anticolinérgica) puxando o antídoto errado."
+  },
+  {
+    "id": "S3-PNE-09",
+    "simulado": 3,
+    "area": "Medicina baseada em evidências",
+    "titulo": "Valor preditivo positivo de teste bom aplicado em baixa prevalência",
+    "arma": "Qualificador",
+    "comando": "fato solto",
+    "nivel": "média",
+    "enunciado": "Um teste para detectar uma doença tem sensibilidade de 90% e especificidade de 90%. Ele será usado como rastreio numa população em que a prevalência da doença é de 1%. Entre as pessoas com resultado positivo nessa população, a proporção que de fato tem a doença é, aproximadamente:",
+    "alternativas": {
+      "A": "1%",
+      "B": "8%",
+      "C": "90%",
+      "D": "99%"
+    },
+    "gabarito": "B",
+    "armadilha": "C",
+    "dado_decisivo": "a prevalência da doença é de 1%",
+    "resolucao": "O comando pede o valor preditivo positivo, e não a sensibilidade, e o qualificador é a população de prevalência de 1%. Em 10.000 pessoas, 100 têm a doença, e o teste detecta 90 (verdadeiros positivos). Das 9.900 sem a doença, 10% dão positivo: 990 falsos positivos. Entre 1.080 positivos, só 90 estão doentes: cerca de 8%. O 90% é a sensibilidade (e a especificidade), propriedades do teste que não mudam com a prevalência; o valor preditivo muda. O 99% é o valor preditivo negativo (8.910 de 8.920).",
+    "comentarios": {
+      "A": "Errada. 1% é a prevalência, a probabilidade antes do teste; um positivo aumenta essa probabilidade para cerca de 8%.",
+      "B": "Correta. 90 verdadeiros positivos entre 1.080 positivos: VPP de cerca de 8% com prevalência de 1%.",
+      "C": "Errada, e é a armadilha. 90% é a sensibilidade, a proporção de doentes com teste positivo; o comando pergunta o inverso.",
+      "D": "Errada. 99% (99,9%) é o valor preditivo negativo, que fica alto quando a prevalência é baixa."
+    },
+    "para_levar": "Valor preditivo depende da prevalência: teste bom em população de baixa prevalência gera mais falsos que verdadeiros positivos.",
+    "referencias": "Fletcher, Epidemiologia Clínica: elementos essenciais, 6ª ed.; Guyatt, Users' Guides to the Medical Literature, 3ª ed.",
+    "tags": [
+      "Rastreamentos em Clínica Médica (CM)",
+      "Estudos Epidemiológicos"
+    ],
+    "sourceQuestionId": null,
+    "alvo": "Troca a grandeza pedida pela vizinha verdadeira (comando e hierarquia); MBE pouco representada."
+  }
+]

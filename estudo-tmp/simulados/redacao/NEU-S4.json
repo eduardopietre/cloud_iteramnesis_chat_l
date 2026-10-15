@@ -1,0 +1,273 @@
+[
+ {
+  "id": "S4-NEU-01",
+  "titulo": "Crises por abstinência alcoólica: benzodiazepínico agora e nenhuma anticrise de manutenção",
+  "arma": "Grade X / Y",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Homem de 50 anos, etilista de 1 litro de cachaça por dia há 20 anos, internado há 30 horas na cirurgia para drenagem de abscesso perianal, apresenta duas crises tônico-clônicas generalizadas de 1 minuto cada, com 20 minutos de intervalo, recuperando a consciência entre elas. Está agora trêmulo, sudoreico e ansioso, FC 118 bpm, PA 158/94 mmHg, Tax 37,6 °C, parcialmente orientado, sem déficit focal e sem sinais de trauma. Nunca teve crise fora de períodos de abstinência. Glicemia 104 mg/dL, sódio 136 mEq/L, magnésio 1,6 mg/dL (VR 1,7 a 2,4). TC de crânio sem contraste: atrofia cortical difusa. Quanto ao tratamento agudo e à prevenção de novas crises, a conduta mais adequada é, respectivamente:",
+  "alternativas": {
+   "A": "Diazepam IV / fenitoína de manutenção",
+   "B": "Fenitoína IV de ataque / sem manutenção",
+   "C": "Diazepam IV / sem anticrise de manutenção",
+   "D": "Levetiracetam IV / levetiracetam por 6 meses"
+  },
+  "gabarito": "C",
+  "armadilha": "A",
+  "dado_decisivo": "Nunca teve crise fora de períodos de abstinência.",
+  "resolucao": "Crises entre 6 e 48 horas após parar de beber, com tremor, sudorese e taquicardia, são crises de abstinência: provocadas, por hiperexcitabilidade glutamatérgica com perda do tônus GABAérgico. O tratamento é benzodiazepínico, que age no mesmo receptor que o álcool deixou de estimular, previne novas crises e trata a abstinência que evolui para delirium tremens; somam-se tiamina antes de glicose e reposição de magnésio. Fenitoína não previne crises de abstinência (ensaios controlados não mostraram benefício) e não age no mecanismo. Como a crise é provocada e nunca ocorreu fora da abstinência, não há indicação de anticrise de manutenção: a prevenção é a abstinência sustentada. Duas crises curtas com recuperação entre elas não são estado de mal; a TC sem lesão, num paciente sem trauma e sem déficit, já cumpriu o papel.",
+  "comentarios": {
+   "A": "Errada na segunda metade, e é a armadilha. O diazepam está certo, mas fenitoína de manutenção trataria epilepsia, e crise de abstinência é provocada; a fenitoína nem previne essa crise.",
+   "B": "Errada na primeira metade. Fenitoína de ataque não trata nem previne crise de abstinência, e deixa a síndrome de abstinência sem tratamento.",
+   "C": "Correta. Benzodiazepínico para as crises e a abstinência, com tiamina e magnésio, e nenhuma anticrise de manutenção para crise provocada.",
+   "D": "Errada nas duas metades. Levetiracetam não trata a abstinência, e manutenção por 6 meses seria para epilepsia, não para crise provocada pelo álcool."
+  },
+  "para_levar": "Crise de abstinência alcoólica: benzodiazepínico, tiamina e magnésio. Fenitoína não previne, e anticrise de manutenção não se indica para crise provocada.",
+  "referencias": "ASAM 2020 (manejo da abstinência alcoólica); EFNS 2005 (crises relacionadas ao álcool); ILAE (crise aguda sintomática).",
+  "tags": [
+   "Epilepsia (CM)",
+   "Abuso de Substâncias e Psicose (CM)"
+  ],
+  "sourceQuestionId": "061f401fa033a6b",
+  "alvo": "Reflexo da fenitoína na crise provocada (regra fixada), agora na abstinência, com o benzodiazepínico certo na metade da armadilha.",
+  "simulado": 4,
+  "area": "Neurologia"
+ },
+ {
+  "id": "S4-NEU-02",
+  "titulo": "Mielorradiculopatia cervical simulando ELA: desnervação restrita a C5-C6 na ENMG",
+  "arma": "Negativo no meio",
+  "comando": "diagnóstico",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 69 anos, ex-motorista de caminhão, tem fraqueza e emagrecimento dos braços há 1 ano, pior à direita, e marcha 'dura' há 6 meses. Nega disfagia, disartria e câimbras nas pernas; refere dor cervical ocasional e, há 3 meses, urgência urinária. Exame: atrofia e fasciculações em deltoides e bíceps bilaterais, reflexos bicipitais abolidos e tricipitais exaltados, Hoffmann bilateral, espasticidade e Babinski bilateral em membros inferiores, sem atrofia ou fasciculações nas pernas; língua normal; vibratória reduzida nos pés. Eletroneuromiografia: desnervação ativa e crônica restrita aos miótomos C5 e C6 bilaterais; músculos da língua, paravertebrais torácicos e de membros inferiores normais. O diagnóstico mais provável é:",
+  "alternativas": {
+   "A": "Esclerose lateral amiotrófica",
+   "B": "Esclerose lateral primária",
+   "C": "Neuropatia motora multifocal",
+   "D": "Mielorradiculopatia espondilótica cervical"
+  },
+  "gabarito": "D",
+  "armadilha": "A",
+  "dado_decisivo": "músculos da língua, paravertebrais torácicos e de membros inferiores normais",
+  "resolucao": "Fasciculações e atrofia nos braços com espasticidade e Babinski nas pernas formam o par neurônio motor inferior mais superior, e é aí que o apressado fecha ELA. Na mielorradiculopatia cervical, porém, o mesmo par aparece por outro mecanismo: compressão das raízes no nível (NMI em C5-C6) e da medula abaixo dele (NMS nas pernas). O que separa é a distribuição: a ENMG mostra desnervação só em C5-C6, com língua, paravertebrais torácicos e pernas normais, e na ELA a desnervação aparece em segmentos sem relação com uma compressão. Os reflexos invertidos (bicipital abolido e tricipital exaltado) localizam a lesão em C5-C6, e a vibratória reduzida e a urgência urinária falam contra ELA, que poupa sensibilidade e esfíncteres. A conduta é RM de coluna cervical e avaliação cirúrgica, porque a descompressão interrompe a progressão.",
+  "comentarios": {
+   "A": "Errada, é a armadilha. ELA exigiria desnervação em segmentos sem relação com uma lesão (bulbar, torácico, lombossacral); aqui está restrita a C5-C6, com alteração sensitiva e esfincteriana.",
+   "B": "Errada. A esclerose lateral primária é puramente de neurônio motor superior, sem atrofia nem fasciculação; o paciente tem desnervação em C5-C6.",
+   "C": "Errada. A neuropatia motora multifocal é só de neurônio motor inferior, com bloqueio de condução e reflexos reduzidos, sem espasticidade nem Babinski.",
+   "D": "Correta. NMI restrito ao nível C5-C6 na ENMG, NMS abaixo, reflexos invertidos, vibratória reduzida e urgência urinária: compressão cervical."
+  },
+  "para_levar": "NMS + NMI não é sinônimo de ELA: se a desnervação fica restrita ao nível de uma lesão e há alteração sensitiva ou esfincteriana, é mielorradiculopatia cervical.",
+  "referencias": "Critérios de Gold Coast 2020; AOSpine/WFNS 2017 e 2019 (mielopatia cervical degenerativa).",
+  "tags": [
+   "Mielopatia (CM)",
+   "Esclerose Lateral Amiotrófica (CM)"
+  ],
+  "sourceQuestionId": "b38eb90a6dbc0a1",
+  "alvo": "ELA x mielopatia no sentido inverso ao do S2 (regra fixada, regrediu para a mesma letra C na UERJ 2024).",
+  "simulado": 4,
+  "area": "Neurologia"
+ },
+ {
+  "id": "S4-NEU-03",
+  "titulo": "Vertigem aguda pós-resfriado com impulso cefálico anormal e desvio vertical: um sinal central basta",
+  "arma": "Rótulo verdadeiro",
+  "comando": "próximo exame",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 58 anos, hipertenso, apresenta há 7 horas tontura rotatória contínua, vômitos e desequilíbrio, iniciados ao acordar, sem relação com a posição da cabeça. Teve resfriado há 10 dias. Nega hipoacusia, cefaleia e disartria. Exame: nistagmo horizontal-torcional batendo para a direita, unidirecional, que diminui com a fixação visual; teste do impulso cefálico com sacada corretiva para a esquerda; na cobertura alternada, o olho direito corrige para baixo e o esquerdo para cima a cada troca; marcha com lateropulsão para a esquerda, sem dismetria apendicular. TC de crânio sem contraste normal. O próximo passo mais adequado é:",
+  "alternativas": {
+   "A": "Prednisona oral e alta",
+   "B": "Manobra de reposicionamento de Epley",
+   "C": "Audiometria e prova calórica ambulatoriais",
+   "D": "RM de encéfalo com difusão"
+  },
+  "gabarito": "D",
+  "armadilha": "A",
+  "dado_decisivo": "na cobertura alternada, o olho direito corrige para baixo e o esquerdo para cima a cada troca",
+  "resolucao": "Resfriado recente, nistagmo unidirecional que diminui com a fixação e impulso cefálico anormal compõem o retrato de neurite vestibular, e esses dados são verdadeiros. Mas o HINTS só é periférico quando os três componentes são periféricos, e aqui há desvio vertical (skew) na cobertura alternada: o realinhamento vertical a cada troca de olho é sinal de lesão de tronco ou cerebelo, com especificidade alta para AVC. Um impulso cefálico anormal não protege contra AVC: o infarto da artéria cerebelar anteroinferior (AICA), que irriga o labirinto, dá impulso anormal e pode vir sem hipoacusia no início. Hipertensão e instalação ao acordar completam o risco. TC sem contraste não exclui isquemia de fossa posterior; o próximo passo é RM com difusão (com repetição em 48 a 72 horas se a primeira vier normal e a suspeita persistir) e avaliação vascular.",
+  "comentarios": {
+   "A": "Errada, é a armadilha. Seria a conduta na neurite vestibular com HINTS inteiramente periférico; o desvio vertical torna o HINTS central.",
+   "B": "Errada. Epley trata VPPB de canal posterior, que dá crises posicionais de segundos e não tontura contínua com nistagmo espontâneo.",
+   "C": "Errada. Audiometria e prova calórica servem à investigação ambulatorial de vestibulopatia periférica; aqui há sinal central e a RM é urgente.",
+   "D": "Correta. Desvio vertical na cobertura alternada é componente central do HINTS: RM com difusão, mesmo com impulso cefálico anormal e pródromo viral."
+  },
+  "para_levar": "O HINTS é periférico só com os três componentes periféricos. Desvio vertical, nistagmo que muda de direção ou impulso cefálico normal: tratar como AVC.",
+  "referencias": "Kattah et al., Stroke 2009; Newman-Toker 2013 (HINTS plus); Guideline ACEP/SAEM 2023 (tontura aguda).",
+  "tags": [
+   "Vertigem (CM)",
+   "AVC Isquêmico (CM)"
+  ],
+  "sourceQuestionId": "e7b45a99eee4b54",
+  "alvo": "HINTS lido por um componente só, com o rótulo viral puxando para neurite vestibular.",
+  "simulado": 4,
+  "area": "Neurologia"
+ },
+ {
+  "id": "S4-NEU-04",
+  "titulo": "AVC menor não incapacitante na janela: sem trombólise, dupla antiagregação por 21 dias",
+  "arma": "Omissão",
+  "comando": "conduta",
+  "nivel": "extremamente difícil",
+  "enunciado": "Mulher de 64 anos, hipertensa e dislipidêmica, chega ao PS 2 horas após início súbito de dormência na face e na mão direitas e leve imprecisão na fala, que persistem. Exame: hipoestesia em face e mão direitas e disartria leve; força normal, sem afasia, sem negligência e sem hemianopsia; NIHSS 2. Ela consegue trabalhar e cuidar da casa com os déficits atuais. PA 156/90 mmHg, glicemia 124 mg/dL, ECG em ritmo sinusal. TC de crânio sem contraste normal; angiotomografia sem oclusão de grande vaso e sem estenose carotídea significativa. Não usa antitrombóticos. A conduta mais adequada é:",
+  "alternativas": {
+   "A": "Tenecteplase em bolus",
+   "B": "AAS e clopidogrel por 21 dias",
+   "C": "AAS isolado por tempo indeterminado",
+   "D": "Apixabana em dose plena"
+  },
+  "gabarito": "B",
+  "armadilha": "A",
+  "dado_decisivo": "Ela consegue trabalhar e cuidar da casa com os déficits atuais.",
+  "resolucao": "Ela está dentro de 4,5 horas e sem contraindicação, e quem aplica a janela trombolisa. O critério que falta é o déficit incapacitante: com NIHSS de 0 a 5 e déficit que não impede as atividades habituais (hipoestesia isolada, disartria leve), a trombólise não traz benefício funcional e acrescenta risco de sangramento (estudos PRISMS e ARAMIS). Nesse grupo, o que reduz recorrência é a dupla antiagregação precoce: AAS com clopidogrel (dose de ataque) iniciada nas primeiras 24 horas e mantida por 21 dias, depois antiagregante único (CHANCE, POINT; INSPIRES até 72 horas). Prolongar a dupla aumenta sangramento sem ganho, e AAS isolado protege menos nas primeiras semanas. Anticoagulação não tem indicação sem fonte cardioembólica: o ECG é sinusal e a investigação de FA segue com monitorização.",
+  "comentarios": {
+   "A": "Errada, é a armadilha. Seria a conduta com déficit incapacitante (afasia, hemiparesia, hemianopsia) dentro da janela; com NIHSS 2 não incapacitante, a trombólise não traz benefício.",
+   "B": "Correta. AVC menor não incapacitante sem cardioembolia: AAS com clopidogrel nas primeiras 24 horas por 21 dias, depois antiagregante único.",
+   "C": "Errada. AAS isolado é a prevenção de longo prazo, mas nas primeiras semanas após AVC menor ou AIT de alto risco a dupla reduz recorrência.",
+   "D": "Errada. Anticoagulação é para fonte cardioembólica (FA, trombo); com ritmo sinusal e sem fonte, não reduz recorrência e sangra mais."
+  },
+  "para_levar": "AVC menor não incapacitante (NIHSS até 5) ou AIT de alto risco: sem trombólise, AAS com clopidogrel por 21 dias e depois um só antiagregante.",
+  "referencias": "AHA/ASA 2026 (AVC isquêmico agudo); AHA/ASA 2021 (prevenção secundária); PRISMS (JAMA 2018); ARAMIS (JAMA 2023); POINT e CHANCE.",
+  "tags": [
+   "AIT (CM)",
+   "AVC Isquêmico (CM)"
+  ],
+  "sourceQuestionId": "1cf0a0259dec27d",
+  "alvo": "Faz mais do que o caso pede (trombólise porque está na janela) sem checar a precondição do déficit incapacitante.",
+  "simulado": 4,
+  "area": "Neurologia"
+ },
+ {
+  "id": "S4-NEU-05",
+  "titulo": "Encefalite anti-receptor NMDA após encefalite herpética tratada: coreoatetose com PCR negativa",
+  "arma": "Cronologia",
+  "comando": "etiologia",
+  "nivel": "extremamente difícil",
+  "enunciado": "Mulher de 29 anos teve encefalite herpética confirmada por PCR no líquor, tratada com aciclovir IV por 21 dias, com boa recuperação e alta há 3 semanas. Retorna trazida pela mãe por insônia, agitação, frases desconexas e movimentos involuntários da boca e dos membros há 6 dias, sem febre. Exame: Tax 36,9 °C, FC oscilando entre 58 e 128 bpm, discinesias orofaciais e coreoatetose em membros superiores, sem rigidez de nuca. RM de encéfalo: sequela temporal esquerda, sem lesão nova ou realce. Líquor: 18 células/mm³ (linfócitos), proteína 52 mg/dL, glicose normal, PCR para herpes simples negativa. EEG: atividade lenta difusa. A etiologia mais provável do quadro atual é:",
+  "alternativas": {
+   "A": "Recidiva da encefalite herpética",
+   "B": "Encefalite autoimune anti-receptor NMDA",
+   "C": "Epilepsia focal pós-encefalítica",
+   "D": "Neurotoxicidade pelo aciclovir"
+  },
+  "gabarito": "B",
+  "armadilha": "A",
+  "dado_decisivo": "discinesias orofaciais e coreoatetose em membros superiores",
+  "resolucao": "Piora neurológica semanas após encefalite herpética puxa para recidiva viral e novo ciclo de aciclovir. Mas em cerca de um quarto dos pacientes, de 2 a 6 semanas após a encefalite herpética, surge encefalite autoimune, quase sempre anti-receptor NMDA, desencadeada pela exposição de antígenos neuronais na destruição viral. O quadro é o da anti-NMDA: sintomas psiquiátricos, insônia, discinesias orofaciais e coreoatetose (muito comum nessa forma pós-herpética), disautonomia (FC oscilante) e EEG lento, sem febre. Contra a recidiva estão a PCR negativa, a RM sem lesão nova e o líquor pouco inflamatório; movimentos coreicos não são manifestação de replicação viral. Neurotoxicidade do aciclovir ocorre durante o uso, sobretudo com insuficiência renal, e regride ao suspender. A confirmação é o anticorpo anti-NMDAR no líquor, e o tratamento é imunoterapia (corticoide, imunoglobulina ou plasmaférese; rituximabe na segunda linha).",
+  "comentarios": {
+   "A": "Errada, é a armadilha. A recidiva viral teria PCR positiva ou lesão necrótica nova na RM, com febre; coreoatetose semanas depois aponta autoimunidade.",
+   "B": "Correta. Psiquiatria, discinesias orofaciais, coreoatetose e disautonomia 2 a 6 semanas após encefalite herpética, com PCR negativa: anti-NMDA pós-herpética.",
+   "C": "Errada. Epilepsia pós-encefalítica dá crises focais, não coreoatetose contínua com disautonomia, e o EEG mostraria atividade epileptiforme temporal.",
+   "D": "Errada. Neurotoxicidade do aciclovir aparece durante o tratamento, em geral com DRC, e regride em dias após a suspensão; ela recebeu alta há 3 semanas."
+  },
+  "para_levar": "Nova piora 2 a 6 semanas após encefalite herpética, com coreoatetose e PCR negativa: encefalite anti-NMDA, tratada com imunoterapia, não com aciclovir.",
+  "referencias": "Graus et al., Lancet Neurol 2016 (critérios de encefalite autoimune); Armangue et al., Lancet Neurol 2018 (encefalite autoimune pós-herpética).",
+  "tags": [
+   "Encefalites (CM)",
+   "Meningoencefalite Herpética (CM)"
+  ],
+  "sourceQuestionId": "208085cc31646c1",
+  "alvo": "Rótulo prévio (herpes) e cronologia ignorada; faz mais do mesmo (repetir aciclovir).",
+  "simulado": 4,
+  "area": "Neurologia"
+ },
+ {
+  "id": "S4-NEU-06",
+  "titulo": "Mononeurite múltipla em diabético com inflamação sistêmica: biópsia de nervo e músculo",
+  "arma": "Rótulo verdadeiro",
+  "comando": "próximo exame",
+  "nivel": "difícil",
+  "enunciado": "Homem de 62 anos, com diabetes tipo 2 há 8 anos (HbA1c 7,1%), apresenta há 5 semanas dor em queimação e fraqueza súbita para dorsiflexão do pé esquerdo; 2 semanas depois, mão direita caída; há 10 dias, dormência no território do ulnar esquerdo. Perdeu 6 kg e tem febre baixa noturna. Exame: pé esquerdo caído, punho direito caído, hipoestesia nos territórios correspondentes. VHS 88 mm/h, PCR 6,2 mg/dL, creatinina 0,9 mg/dL, EAS normal, ANCA, FAN e crioglobulinas negativos, HBsAg e anti-HCV não reagentes. Eletroneuromiografia: neuropatia axonal multifocal assimétrica (fibular esquerdo, radial direito, ulnar esquerdo). O próximo passo mais adequado é:",
+  "alternativas": {
+   "A": "Biópsia de nervo e músculo",
+   "B": "Pregabalina e ajuste glicêmico",
+   "C": "Imunoglobulina IV empírica",
+   "D": "Arteriografia mesentérica e renal"
+  },
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "VHS 88 mm/h, PCR 6,2 mg/dL",
+  "resolucao": "O diabetes é verdadeiro, e neuropatia dolorosa no diabético puxa para controle glicêmico e analgesia. Mas a neuropatia do diabetes é em geral simétrica, distal e lenta; aqui há mononeuropatias dolorosas sucessivas em nervos de membros diferentes (fibular, radial, ulnar), em semanas, que é mononeurite múltipla. Somadas a perda de peso, febre e VHS de 88 com PCR alta, o quadro é de neuropatia vasculítica até prova em contrário. Com ANCA, crioglobulinas e hepatites negativos, rim e sedimento normais, não há órgão mais acessível para confirmar vasculite: o exame é a biópsia combinada de nervo sensitivo (sural ou fibular superficial) e músculo, que confirma vasculite de pequenos e médios vasos antes de imunossupressão prolongada. Arteriografia procura microaneurismas da poliarterite nodosa quando há envolvimento renal ou mesentérico, ausente aqui.",
+  "comentarios": {
+   "A": "Correta. Mononeurite múltipla com inflamação sistêmica e sorologias negativas: biópsia de nervo e músculo confirma vasculite e justifica imunossupressão.",
+   "B": "Errada, é a armadilha. Seria a conduta na polineuropatia diabética distal e simétrica; mononeurite múltipla aguda com VHS de 88 não é atribuível ao diabetes.",
+   "C": "Errada. Imunoglobulina é tratamento de SGB, PIDC e neuropatia motora multifocal; vasculite se confirma e se trata com corticoide e ciclofosfamida ou rituximabe.",
+   "D": "Errada. Arteriografia seria útil na suspeita de poliarterite nodosa com dor abdominal, hipertensão nova ou alteração renal, ausentes aqui."
+  },
+  "para_levar": "Mononeurite múltipla com VHS alta não é neuropatia diabética: suspeitar de vasculite e confirmar com biópsia de nervo e músculo quando não há outro órgão acessível.",
+  "referencias": "Peripheral Nerve Society 2010 (neuropatia vasculítica); ACR/EULAR 2022 (vasculites).",
+  "tags": [
+   "Vasculites (CM)",
+   "Neuromuscular (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Rótulo verdadeiro (diabético) que puxa para a doença de manual e esconde o padrão da ENMG e da VHS.",
+  "simulado": 4,
+  "area": "Neurologia"
+ },
+ {
+  "id": "S4-NEU-07",
+  "titulo": "Sensibilidade grave a neuroléptico revela demência com corpos de Lewy num idoso com delirium",
+  "arma": "Rótulo verdadeiro",
+  "comando": "diagnóstico",
+  "nivel": "difícil",
+  "enunciado": "Homem de 76 anos é internado por pneumonia. A família conta que, há 1 ano, ele tem dias bons e dias ruins de memória e atenção, vê 'crianças brincando na sala' sem se assustar, e há vários anos se debate e grita dormindo. No 2º dia de internação, agitado à noite, recebeu haloperidol 5 mg IM; na manhã seguinte estava rígido, mal deglutia e caiu ao tentar levantar. Exame: Tax 37,2 °C, rigidez plástica simétrica nos quatro membros, bradicinesia, sem tremor de repouso, desatento, CPK 240 U/L. Antes da internação andava sozinho, sem rigidez percebida pela família. A infecção está em melhora com antibiótico. O diagnóstico de base mais provável é:",
+  "alternativas": {
+   "A": "Delirium por pneumonia",
+   "B": "Doença de Parkinson com demência",
+   "C": "Demência com corpos de Lewy",
+   "D": "Doença de Alzheimer"
+  },
+  "gabarito": "C",
+  "armadilha": "A",
+  "dado_decisivo": "vê 'crianças brincando na sala' sem se assustar, e há vários anos se debate e grita dormindo",
+  "resolucao": "O delirium é verdadeiro (agitação noturna, desatenção, infecção), e quem para nele trata o quadro como transitório. Mas o comando pede o diagnóstico de base, e a história anterior à internação já tem os critérios centrais de demência com corpos de Lewy: flutuação cognitiva de 1 ano, alucinações visuais bem formadas e distúrbio comportamental do sono REM de vários anos. A reação ao haloperidol (parkinsonismo grave e disfagia após uma dose) é a sensibilidade grave a neurolépticos, critério de suporte da DCL, presente em até metade dos pacientes. Doença de Parkinson com demência exige parkinsonismo pelo menos 1 ano antes da demência, e ele andava sem rigidez. No Alzheimer a memória declina de forma progressiva, sem flutuação marcante, alucinações precoces ou sono REM alterado. Nos pacientes com DCL, evitar antipsicóticos de primeira geração, como o haloperidol; para psicose, inibidor da colinesterase e, se necessário, quetiapina ou clozapina em dose baixa.",
+  "comentarios": {
+   "A": "Errada, é a armadilha. O delirium existe, mas o comando pede a doença de base, e flutuação, alucinações e sono REM alterado precedem a internação em anos.",
+   "B": "Errada. Na Parkinson com demência o parkinsonismo precede a demência em mais de 1 ano; ele não tinha rigidez antes do haloperidol.",
+   "C": "Correta. Flutuação, alucinações visuais, distúrbio do sono REM e sensibilidade grave ao neuroléptico.",
+   "D": "Errada. O Alzheimer cursa com declínio progressivo da memória, sem flutuação marcante, alucinações precoces ou distúrbio do sono REM."
+  },
+  "para_levar": "Parkinsonismo grave após uma dose de neuroléptico num idoso com flutuação e alucinações é DCL: evitar antipsicótico de primeira geração.",
+  "referencias": "McKeith et al., Neurology 2017 (4º consenso de DCL); Beers AGS 2023.",
+  "tags": [
+   "Demência por corpúsculos de Lewy (CM)",
+   "Delirium (CM)"
+  ],
+  "sourceQuestionId": "1cf7b9d58a82a0c",
+  "alvo": "Para no rótulo verdadeiro (delirium) e não responde ao comando qualificado (doença de base).",
+  "simulado": 4,
+  "area": "Neurologia"
+ },
+ {
+  "id": "S4-NEU-08",
+  "titulo": "Enoxaparina profilática não contraindica trombólise no AVC intra-hospitalar",
+  "arma": "Limiar",
+  "comando": "conduta",
+  "nivel": "extremamente difícil",
+  "enunciado": "Mulher de 71 anos, internada há 4 dias por erisipela em membro inferior, recebe cefazolina e enoxaparina 40 mg SC uma vez ao dia, com a última dose há 6 horas. Às 10 h, a enfermeira a encontra com hemiparesia esquerda, desvio do olhar para a direita e disartria; estava conversando normalmente às 9h20. NIHSS 14. PA 172/94 mmHg, glicemia 148 mg/dL, plaquetas 210.000/mm³, INR 1,0 e TTPa normal. TC de crânio sem contraste: sem hemorragia, ASPECTS 9. Angiotomografia: sem oclusão de grande vaso; carótidas sem estenose. A conduta mais adequada é:",
+  "alternativas": {
+   "A": "Trombólise IV com tenecteplase",
+   "B": "AAS 300 mg, sem trombólise",
+   "C": "Trombectomia mecânica isolada",
+   "D": "Dosar anti-Xa antes de decidir"
+  },
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "enoxaparina 40 mg SC uma vez ao dia",
+  "resolucao": "Heparina de baixo peso molecular nas últimas 24 horas contraindica trombólise, e o apressado para aí. O que a diretriz contraindica é a HBPM em dose terapêutica (1 mg/kg de 12/12 h ou 1,5 mg/kg/dia), não a dose profilática de 40 mg ao dia, que não aumenta de forma relevante o risco de hemorragia e com a qual se trombolisa. A paciente está a 40 minutos do último momento bem, com déficit incapacitante (NIHSS 14), PA abaixo de 185/110, plaquetas e coagulação normais e TC sem sangue: tem indicação de trombólise IV, e tenecteplase 0,25 mg/kg é alternativa à alteplase. Sem oclusão de grande vaso, não há alvo para trombectomia. Dosar anti-Xa atrasa a reperfusão sem mudar a decisão, porque a dose profilática já é conhecida.",
+  "comentarios": {
+   "A": "Correta. AVC incapacitante a 40 minutos do início, sem contraindicação: enoxaparina em dose profilática não impede a trombólise.",
+   "B": "Errada, é a armadilha. Seria a conduta se ela usasse enoxaparina em dose terapêutica nas últimas 24 horas; 40 mg ao dia é profilaxia.",
+   "C": "Errada. Trombectomia exige oclusão de grande vaso na angiotomografia, ausente aqui.",
+   "D": "Errada. Anti-Xa não tem ponto de corte validado para liberar trombólise e atrasa o tratamento; a dose profilática não exige o exame."
+  },
+  "para_levar": "Contraindica trombólise a HBPM em dose plena nas últimas 24 horas; dose profilática não contraindica.",
+  "referencias": "AHA/ASA 2019 e 2026 (AVC isquêmico agudo); ESO 2021 (trombólise IV).",
+  "tags": [
+   "AVC Isquêmico (CM)"
+  ],
+  "sourceQuestionId": "dd81edc74e090c7",
+  "alvo": "Enoxaparina e trombólise (errou com dose plena): agora o limiar da dose, para não generalizar a contraindicação.",
+  "simulado": 4,
+  "area": "Neurologia"
+ }
+]
