@@ -24,7 +24,7 @@ BLOCOS = ['REU', 'HEM', 'INF', 'NEU', 'CAR', 'END', 'NEF', 'GAS', 'PNE']
 CAMPOS = ['id', 'simulado', 'area', 'titulo', 'arma', 'comando', 'nivel', 'enunciado',
           'alternativas', 'gabarito', 'armadilha', 'dado_decisivo', 'resolucao',
           'comentarios', 'para_levar', 'referencias', 'tags', 'sourceQuestionId', 'alvo']
-PROIBIDO = re.compile(r'[—–]|\bcl[aá]ssic[oa]s?\b|\bt[ií]pic[oa]s?\b|patognom', re.I)
+PROIBIDO = re.compile(r'[—–]|(?<!Hodgkin )\bcl[aá]ssic[oa]s?\b|\bt[ií]pic[oa]s?\b|patognom', re.I)
 
 
 def carregar(n):
