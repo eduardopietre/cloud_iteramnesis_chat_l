@@ -136,8 +136,20 @@ fora. Com a memória de 27/08, já é padrão.
   fixada**. Isso não se corrige com teoria, e sim com o **algoritmo escrito**
   (ex.: "FIB-4 < 1,3 repete; 1,3 a 2,67 elastografia; > 2,67 hepatologista";
   "IST ≥ 45% antes de pensar em ferro").
-- **Falta saber a ordem em que ele resolveu as provas**: o banco grava o dia, não
-  a hora. Se a 7b5f veio antes da 4bb2, as 4 mudanças de endócrino são correção.
+- **Ordem de resolução (confirmada pelo aluno, igual à de captura, 21h49 a 22h10):**
+  1d0d, 13c2, 065f, c897, e0e3, aff4, 7b5f, b34e, 4bb2, c7ae, dec6, 6343, 057b.
+  Nas 23 duplicadas do lote: **9 corrigiu, 2 regrediu, 7 errou sempre, 5 acertou
+  sempre**. Endócrino: 7b5f veio antes, então as 4 mudanças são correção. Neuro:
+  aff4 veio antes da 057b, com 5 correções e 2 regressões (distonia aguda por
+  metoclopramida, NMO).
+- **Leitura revista**: a correção veio minutos depois de ver o gabarito da
+  primeira cópia, então mede memória de curto prazo, não regra fixada. O sinal
+  forte são as **7 que ele errou de novo logo depois de ver a resposta**: líquor
+  da TB (mesma letra), crise provocada com fenitoína (mesma letra), Marfan (mesma
+  letra), ELA x mielopatia, oftalmoplegia internuclear, DHGNA com FIB-4 e
+  hiperferritinemia metabólica. Errar de novo com a mesma letra depois de ver o
+  gabarito é regra errada fixada, a prioridade máxima. As 2 regressões (acertou
+  e depois errou) são as finalistas sem regra.
 
 ## 5. Reincidentes: errou de novo questão já vista (as lacunas fixas)
 
