@@ -1,173 +1,173 @@
 [
- {
-  "id": "S12-END-01",
-  "simulado": 12,
-  "area": "Endocrinologia",
-  "titulo": "Diabetes gestacional em dieta com jejum entre 96 e 104 em mais de 30% das medidas e pós-prandiais na meta: insulina NPH ao deitar",
-  "arma": "Limiar",
-  "comando": "conduta",
-  "nivel": "difícil",
-  "enunciado": "Gestante de 30 anos, primigesta, com 29 semanas, teve diagnóstico de diabetes gestacional pelo teste de 75 g na 25ª semana (jejum 96, 1 hora 182 e 2 horas 150 mg/dL). Há 2 semanas segue dieta orientada por nutricionista e caminhada diária, com boa adesão. Diário de automonitorização dos últimos 14 dias: glicemias de jejum entre 96 e 104 mg/dL em 10 das 14 medidas; 1 hora após café, almoço e jantar entre 112 e 136 mg/dL em todas as medidas. Ganho de peso adequado, PA 112 x 70 mmHg, ultrassonografia com peso fetal no percentil 58 e líquido amniótico normal. HbA1c 5,4%. A conduta mais adequada é:",
-  "alternativas": {
-   "A": "Manter a dieta e reavaliar em 2 semanas",
-   "B": "Insulina NPH ao deitar",
-   "C": "Insulina rápida antes das refeições",
-   "D": "Glibenclamida antes do jantar"
+  {
+    "id": "S12-END-01",
+    "simulado": 12,
+    "area": "Endocrinologia",
+    "titulo": "Diabetes gestacional em dieta com jejum entre 96 e 104 em mais de 30% das medidas e pós-prandiais na meta: insulina NPH ao deitar",
+    "arma": "Limiar",
+    "comando": "conduta",
+    "nivel": "difícil",
+    "enunciado": "Gestante de 30 anos, primigesta, com 29 semanas, teve diagnóstico de diabetes gestacional pelo teste de 75 g na 25ª semana (jejum 96, 1 hora 182 e 2 horas 150 mg/dL). Há 2 semanas segue dieta orientada por nutricionista e caminhada diária, com boa adesão. Diário de automonitorização dos últimos 14 dias: glicemias de jejum entre 96 e 104 mg/dL em 10 das 14 medidas; 1 hora após café, almoço e jantar entre 112 e 136 mg/dL em todas as medidas. Ganho de peso adequado, PA 112 x 70 mmHg, ultrassonografia com peso fetal no percentil 58 e líquido amniótico normal. HbA1c 5,4%. A conduta mais adequada é:",
+    "alternativas": {
+      "A": "Manter a dieta e reavaliar em 2 semanas",
+      "B": "Insulina NPH ao deitar",
+      "C": "Insulina rápida antes das refeições",
+      "D": "Glibenclamida antes do jantar"
+    },
+    "gabarito": "B",
+    "armadilha": "A",
+    "dado_decisivo": "entre 96 e 104 mg/dL em 10 das 14 medidas",
+    "resolucao": "Glicemias de jejum abaixo de 100 mg/dL parecem normais para quem pensa na meta fora da gestação, as pós-prandiais estão todas na meta, a HbA1c é de 5,4% e o feto está no percentil 58: tudo convida a manter a dieta, e é a armadilha. Na gestação as metas são mais estritas: jejum abaixo de 95 mg/dL, 1 hora após a refeição abaixo de 140 e 2 horas abaixo de 120. Quando, após 1 a 2 semanas de dieta bem feita, 30% ou mais das medidas ficam fora da meta, inicia-se tratamento farmacológico; aqui foram 10 de 14 (71%). Como o problema é só o jejum, a insulina indicada é a NPH ao deitar, e a rápida pré-prandial fica para quando as pós-prandiais saírem da meta. Insulina é a primeira escolha no Brasil; a glibenclamida atravessa a placenta e se associa a macrossomia e hipoglicemia neonatal. A HbA1c não guia a decisão no diabetes gestacional.",
+    "comentarios": {
+      "A": "Errada. É a armadilha: seria a conduta com menos de 30% das medidas fora da meta; o jejum alvo na gestação é abaixo de 95, e 71% das medidas o ultrapassaram.",
+      "B": "Correta. Jejum fora da meta em mais de 30% das medidas após 2 semanas de dieta, com pós-prandiais controladas: NPH ao deitar.",
+      "C": "Errada. Insulina rápida pré-prandial seria a escolha se as glicemias de 1 hora estivessem acima de 140; aqui estão todas abaixo de 136.",
+      "D": "Errada. Glibenclamida não é recomendada na gestação: atravessa a placenta e aumenta macrossomia e hipoglicemia neonatal."
+    },
+    "para_levar": "Metas na gestação: jejum abaixo de 95, 1 hora abaixo de 140, 2 horas abaixo de 120 mg/dL. Trinta por cento ou mais das medidas fora da meta após dieta: insulina, escolhida pelo horário que está alto.",
+    "referencias": "Diretriz SBD 2024 (Diabetes na gestação); Consenso OPAS/MS/FEBRASGO/SBD de rastreamento e diagnóstico do DMG (2017); ADA Standards of Care in Diabetes 2026, seção 15.",
+    "tags": [
+      "Diabetes mellitus gestacional",
+      "Metas Terapêuticas Diabetes (CM)"
+    ],
+    "sourceQuestionId": "69238a8e35e260f",
+    "alvo": "Limiar não fixado (metas gestacionais); errou diabetes gestacional no banco."
   },
-  "gabarito": "B",
-  "armadilha": "A",
-  "dado_decisivo": "entre 96 e 104 mg/dL em 10 das 14 medidas",
-  "resolucao": "Glicemias de jejum abaixo de 100 mg/dL parecem normais para quem pensa na meta fora da gestação, as pós-prandiais estão todas na meta, a HbA1c é de 5,4% e o feto está no percentil 58: tudo convida a manter a dieta, e é a armadilha. Na gestação as metas são mais estritas: jejum abaixo de 95 mg/dL, 1 hora após a refeição abaixo de 140 e 2 horas abaixo de 120. Quando, após 1 a 2 semanas de dieta bem feita, 30% ou mais das medidas ficam fora da meta, inicia-se tratamento farmacológico; aqui foram 10 de 14 (71%). Como o problema é só o jejum, a insulina indicada é a NPH ao deitar, e a rápida pré-prandial fica para quando as pós-prandiais saírem da meta. Insulina é a primeira escolha no Brasil; a glibenclamida atravessa a placenta e se associa a macrossomia e hipoglicemia neonatal. A HbA1c não guia a decisão no diabetes gestacional.",
-  "comentarios": {
-   "A": "Errada. É a armadilha: seria a conduta com menos de 30% das medidas fora da meta; o jejum alvo na gestação é abaixo de 95, e 71% das medidas o ultrapassaram.",
-   "B": "Correta. Jejum fora da meta em mais de 30% das medidas após 2 semanas de dieta, com pós-prandiais controladas: NPH ao deitar.",
-   "C": "Errada. Insulina rápida pré-prandial seria a escolha se as glicemias de 1 hora estivessem acima de 140; aqui estão todas abaixo de 136.",
-   "D": "Errada. Glibenclamida não é recomendada na gestação: atravessa a placenta e aumenta macrossomia e hipoglicemia neonatal."
+  {
+    "id": "S12-END-02",
+    "simulado": 12,
+    "area": "Endocrinologia",
+    "titulo": "Hiponatremia rotulada como SIADH com T4 livre baixo e TSH normal, anos após hemorragia no parto e sem lactação: síndrome de Sheehan",
+    "arma": "Rótulo verdadeiro",
+    "comando": "diagnóstico",
+    "nivel": "extremamente difícil",
+    "enunciado": "Mulher de 36 anos é internada por confusão e vômitos após 3 dias de gastroenterite. Exames: sódio 116 mEq/L, potássio 4,1 mEq/L, glicemia 61 mg/dL, osmolalidade plasmática 242 mOsm/kg, osmolalidade urinária 410 mOsm/kg, sódio urinário 48 mEq/L, ureia 18 mg/dL, ácido úrico 2,1 mg/dL. Euvolêmica após a hidratação inicial, PA 96 x 60 mmHg, FC 92 bpm, pele pálida e fina, pelos axilares e pubianos escassos. Não usa medicações além de anticoncepcional oral. Há 5 anos, no segundo parto, teve hemorragia por atonia uterina com transfusão de 4 concentrados de hemácias; não conseguiu amamentar e desde então só menstrua com o anticoncepcional, prescrito por ciclos irregulares. TSH 1,9 mUI/L (referência 0,4 a 4,5), T4 livre 0,48 ng/dL (referência 0,9 a 1,8). Tomografia de crânio normal. A equipe registrou SIADH. O diagnóstico mais provável é:",
+    "alternativas": {
+      "A": "Secreção inapropriada de ADH",
+      "B": "Insuficiência adrenal primária",
+      "C": "Hipotireoidismo primário autoimune",
+      "D": "Hipopituitarismo pós-parto (Sheehan)"
+    },
+    "gabarito": "D",
+    "armadilha": "A",
+    "dado_decisivo": "não conseguiu amamentar",
+    "resolucao": "Os números da hiponatremia preenchem os critérios de SIADH (hipotônica, euvolêmica, urina concentrada, sódio urinário alto, ácido úrico baixo), e o rótulo é verdadeiro no mecanismo. Mas o diagnóstico de SIADH exige excluir antes a deficiência de cortisol e o hipotireoidismo, e aqui os dois estão escritos: hipoglicemia, hipotensão, pelos escassos e T4 livre baixo com TSH inapropriadamente normal, que é hipotireoidismo central. A história fecha a causa: hemorragia grave no parto, falha da lactação (deficiência de prolactina) e amenorreia mascarada pelo anticoncepcional, ou seja, necrose hipofisária pós-parto. O potássio normal e a pele pálida, sem hiperpigmentação, mostram que a insuficiência adrenal é secundária, com aldosterona preservada; é a falta de cortisol que libera o ADH. A conduta é hidrocortisona antes da levotiroxina, e a hiponatremia corrige com o cortisol.",
+    "comentarios": {
+      "A": "Errada. É a armadilha: os critérios de SIADH só valem depois de excluir insuficiência adrenal e hipotireoidismo, e os dois estão presentes.",
+      "B": "Errada. A forma primária daria hiperpigmentação e hipercalemia por falta de aldosterona; o potássio é normal e a pele é pálida.",
+      "C": "Errada. No hipotireoidismo primário o TSH estaria alto; T4 livre baixo com TSH normal é hipotireoidismo central.",
+      "D": "Correta. Hemorragia obstétrica, agalactia, amenorreia e deficiência central de tireoide e de cortisol: Sheehan."
+    },
+    "para_levar": "Hiponatremia euvolêmica só é SIADH depois de afastar falta de cortisol e hipotireoidismo. T4 livre baixo com TSH normal é central, e agalactia após hemorragia no parto aponta Sheehan.",
+    "referencias": "Endocrine Society 2016 (Hormonal Replacement in Hypopituitarism in Adults); Diretriz europeia de hiponatremia (ESE/ESICM/ERA-EDTA 2014).",
+    "tags": [
+      "Hipófise (CM)",
+      "Insuficiência Adrenal (CM)",
+      "Hiponatremia (CM)"
+    ],
+    "sourceQuestionId": "d685cdc64989367",
+    "alvo": "Rótulo verdadeiro (SIADH) contra o dado que decide; padrão excesso x deficiência e hiponatremia, ambos do diagnóstico dele."
   },
-  "para_levar": "Metas na gestação: jejum abaixo de 95, 1 hora abaixo de 140, 2 horas abaixo de 120 mg/dL. Trinta por cento ou mais das medidas fora da meta após dieta: insulina, escolhida pelo horário que está alto.",
-  "referencias": "Diretriz SBD 2024 (Diabetes na gestação); Consenso OPAS/MS/FEBRASGO/SBD de rastreamento e diagnóstico do DMG (2017); ADA Standards of Care in Diabetes 2026, seção 15.",
-  "tags": [
-   "Diabetes mellitus gestacional",
-   "Metas Terapêuticas Diabetes (CM)"
-  ],
-  "sourceQuestionId": "69238a8e35e260f",
-  "alvo": "Limiar não fixado (metas gestacionais); errou diabetes gestacional no banco."
- },
- {
-  "id": "S12-END-02",
-  "simulado": 12,
-  "area": "Endocrinologia",
-  "titulo": "Hiponatremia rotulada como SIADH com T4 livre baixo e TSH normal, anos após hemorragia no parto e sem lactação: síndrome de Sheehan",
-  "arma": "Rótulo verdadeiro",
-  "comando": "diagnóstico",
-  "nivel": "extremamente difícil",
-  "enunciado": "Mulher de 36 anos é internada por confusão e vômitos após 3 dias de gastroenterite. Exames: sódio 116 mEq/L, potássio 4,1 mEq/L, glicemia 61 mg/dL, osmolalidade plasmática 242 mOsm/kg, osmolalidade urinária 410 mOsm/kg, sódio urinário 48 mEq/L, ureia 18 mg/dL, ácido úrico 2,1 mg/dL. Euvolêmica após a hidratação inicial, PA 96 x 60 mmHg, FC 92 bpm, pele pálida e fina, pelos axilares e pubianos escassos. Não usa medicações além de anticoncepcional oral. Há 5 anos, no segundo parto, teve hemorragia por atonia uterina com transfusão de 4 concentrados de hemácias; não conseguiu amamentar e desde então só menstrua com o anticoncepcional, prescrito por ciclos irregulares. TSH 1,9 mUI/L (referência 0,4 a 4,5), T4 livre 0,48 ng/dL (referência 0,9 a 1,8). Tomografia de crânio normal. A equipe registrou SIADH. O diagnóstico mais provável é:",
-  "alternativas": {
-   "A": "Secreção inapropriada de ADH",
-   "B": "Insuficiência adrenal primária",
-   "C": "Hipotireoidismo primário autoimune",
-   "D": "Hipopituitarismo pós-parto (Sheehan)"
+  {
+    "id": "S12-END-03",
+    "simulado": 12,
+    "area": "Endocrinologia",
+    "titulo": "Carcinoma anaplásico de tireoide metastático em discussão para cuidado paliativo exclusivo: pesquisar BRAF V600E antes de decidir",
+    "arma": "Dado omitido",
+    "comando": "próximo exame",
+    "nivel": "extremamente difícil",
+    "enunciado": "Mulher de 71 anos, com bócio multinodular atóxico acompanhado há 20 anos, nota crescimento rápido do lado direito do pescoço há 5 semanas, com dor local, disfagia e rouquidão. Exame: massa cervical direita de 7 cm, endurecida, fixa, com pele eritematosa; estridor leve ao esforço; linfonodos cervicais aumentados nos níveis III e IV. SpO2 95% em ar ambiente. TSH 1,8 mUI/L. A tomografia mostra massa tireoidiana invadindo traqueia e esôfago e múltiplos nódulos pulmonares bilaterais. A biópsia por agulha grossa revelou carcinoma indiferenciado (anaplásico) da tireoide, com células fusiformes e gigantes, positivo para PAX8 e citoqueratina. A equipe discute cuidados paliativos exclusivos. Antes de decidir entre tratamento sistêmico e cuidado paliativo exclusivo, o exame que define a conduta é:",
+    "alternativas": {
+      "A": "Tireoglobulina sérica e anti-Tg",
+      "B": "Calcitonina e CEA séricos",
+      "C": "Pesquisa de BRAF V600E no tumor",
+      "D": "Pesquisa de corpo inteiro com iodo-131"
+    },
+    "gabarito": "C",
+    "armadilha": "D",
+    "dado_decisivo": "carcinoma indiferenciado (anaplásico) da tireoide",
+    "resolucao": "O caso dá diagnóstico, estadiamento e prognóstico sombrio, e o que falta é o dado que muda a conduta: o perfil molecular. Cerca de 40% dos carcinomas anaplásicos têm mutação BRAF V600E, e nesses a combinação dabrafenibe e trametinibe produz respostas em mais da metade dos casos, inclusive com doença metastática, podendo até tornar ressecável o que não era. Por isso a diretriz pede a pesquisa rápida de BRAF V600E (imuno-histoquímica, confirmada por teste molecular) em todo anaplásico, logo ao diagnóstico, antes de optar por cuidado paliativo exclusivo. A armadilha é tratar como carcinoma diferenciado: o anaplásico não capta iodo, e tireoglobulina não segue um tumor que perdeu a diferenciação folicular. Calcitonina e CEA investigariam medular, que a positividade para PAX8 com citoqueratina e a morfologia não sugerem como primeira hipótese.",
+    "comentarios": {
+      "A": "Errada. Tireoglobulina é marcador de seguimento do carcinoma diferenciado já tireoidectomizado; o anaplásico perdeu a diferenciação.",
+      "B": "Errada. Calcitonina e CEA diagnosticam e seguem o carcinoma medular; não decidem a terapia do anaplásico.",
+      "C": "Correta. Todo anaplásico deve ter BRAF V600E pesquisado de imediato: se presente, dabrafenibe com trametinibe muda o prognóstico e a conduta.",
+      "D": "Errada. É a armadilha: iodo radioativo é do carcinoma diferenciado de origem folicular; o anaplásico não concentra iodo."
+    },
+    "para_levar": "Carcinoma anaplásico de tireoide: pesquisar BRAF V600E logo ao diagnóstico, antes de qualquer decisão paliativa, porque a terapia-alvo muda o desfecho.",
+    "referencias": "ATA 2021 (Guidelines for Management of Patients with Anaplastic Thyroid Cancer); NCCN Thyroid Carcinoma 2025.",
+    "tags": [
+      "Nódulos Tireoideanos (CM)",
+      "Neoplasias e Esquemas Quimioterápicos (CM)"
+    ],
+    "sourceQuestionId": "9b34d2510f256db",
+    "alvo": "Dado omitido que decide a conduta; nódulo endurecido em idosa, que ele errou no banco."
   },
-  "gabarito": "D",
-  "armadilha": "A",
-  "dado_decisivo": "não conseguiu amamentar",
-  "resolucao": "Os números da hiponatremia preenchem os critérios de SIADH (hipotônica, euvolêmica, urina concentrada, sódio urinário alto, ácido úrico baixo), e o rótulo é verdadeiro no mecanismo. Mas o diagnóstico de SIADH exige excluir antes a deficiência de cortisol e o hipotireoidismo, e aqui os dois estão escritos: hipoglicemia, hipotensão, pelos escassos e T4 livre baixo com TSH inapropriadamente normal, que é hipotireoidismo central. A história fecha a causa: hemorragia grave no parto, falha da lactação (deficiência de prolactina) e amenorreia mascarada pelo anticoncepcional, ou seja, necrose hipofisária pós-parto. O potássio normal e a pele pálida, sem hiperpigmentação, mostram que a insuficiência adrenal é secundária, com aldosterona preservada; é a falta de cortisol que libera o ADH. A conduta é hidrocortisona antes da levotiroxina, e a hiponatremia corrige com o cortisol.",
-  "comentarios": {
-   "A": "Errada. É a armadilha: os critérios de SIADH só valem depois de excluir insuficiência adrenal e hipotireoidismo, e os dois estão presentes.",
-   "B": "Errada. A forma primária daria hiperpigmentação e hipercalemia por falta de aldosterona; o potássio é normal e a pele é pálida.",
-   "C": "Errada. No hipotireoidismo primário o TSH estaria alto; T4 livre baixo com TSH normal é hipotireoidismo central.",
-   "D": "Correta. Hemorragia obstétrica, agalactia, amenorreia e deficiência central de tireoide e de cortisol: Sheehan."
+  {
+    "id": "S12-END-04",
+    "simulado": 12,
+    "area": "Endocrinologia",
+    "titulo": "Feocromocitoma diagnosticado com 14 semanas de gestação: alfabloqueio com doxazosina e adrenalectomia laparoscópica antes de 24 semanas",
+    "arma": "Grade X / Y",
+    "comando": "conduta",
+    "nivel": "extremamente difícil",
+    "enunciado": "Gestante de 31 anos, secundigesta, com 14 semanas, é encaminhada por hipertensão: PA de 168 x 104 mmHg na primeira consulta, com crises de cefaleia, palpitações e sudorese, uma delas durante a ultrassonografia transvaginal. A gestação anterior, há 4 anos, foi normotensa. Proteinúria negativa, plaquetas e transaminases normais. Metanefrinas livres plasmáticas: normetanefrina 8 vezes o limite superior. Ressonância sem gadolínio mostra massa adrenal esquerda de 4 cm, hiperintensa em T2. Usa metildopa 750 mg/dia, iniciada há 1 semana na UBS. Quanto ao controle pressórico e ao momento da adrenalectomia, a conduta mais adequada é, respectivamente:",
+    "alternativas": {
+      "A": "Doxazosina / laparoscópica antes de 24 semanas",
+      "B": "Labetalol / laparoscópica antes de 24 semanas",
+      "C": "Doxazosina / após o parto, com a cesariana",
+      "D": "Metildopa em dose máxima / após o parto"
+    },
+    "gabarito": "A",
+    "armadilha": "B",
+    "dado_decisivo": "com 14 semanas",
+    "resolucao": "Hipertensão na gestação puxa para os anti-hipertensivos de manual da gestante (metildopa, labetalol), e o labetalol parece ainda melhor por ter efeito alfa, que é a armadilha. No feocromocitoma, o primeiro passo é o bloqueio alfa seletivo; betabloqueador antes do alfabloqueio, e o labetalol tem ação beta muito maior que a alfa, pode precipitar crise hipertensiva por estímulo alfa sem oposição. A doxazosina é preferida na gestação por atravessar menos a placenta que a fenoxibenzamina. Quanto ao momento, com diagnóstico na primeira metade da gestação a adrenalectomia laparoscópica é feita no segundo trimestre, antes de 24 semanas, depois de 10 a 14 dias de preparo; após 24 semanas, o útero dificulta o acesso e a cirurgia fica para a cesariana ou depois do parto. A metildopa não controla o excesso de catecolaminas e deve ser trocada.",
+    "comentarios": {
+      "A": "Correta. Alfabloqueio seletivo e adrenalectomia laparoscópica no segundo trimestre, antes de 24 semanas, quando o diagnóstico é feito cedo.",
+      "B": "Errada. É a armadilha: labetalol é primeira linha na hipertensão da gestação, mas no feocromocitoma o predomínio beta pode desencadear crise antes do alfabloqueio.",
+      "C": "Errada. O controle está certo, mas adiar a cirurgia para o parto é a conduta quando o diagnóstico vem após 24 semanas; com 14 semanas, operar expõe menos mãe e feto a crises.",
+      "D": "Errada. Metildopa não bloqueia os receptores das catecolaminas tumorais e deixa a gestação inteira sob risco de crise."
+    },
+    "para_levar": "Feocromocitoma na gestação: alfabloqueio primeiro (doxazosina), nunca betabloqueador antes; cirurgia antes de 24 semanas se diagnosticado cedo, senão na cesariana ou depois.",
+    "referencias": "Endocrine Society 2014 (Pheochromocytoma and Paraganglioma); Bancos e cols., Maternal and fetal outcomes in phaeochromocytoma and pregnancy (Lancet Diabetes Endocrinol 2021).",
+    "tags": [
+      "Feocromocitoma (CM)",
+      "HAS Secundária (CM)"
+    ],
+    "sourceQuestionId": "61e8c27b735edda",
+    "alvo": "Rótulo verdadeiro (hipertensão da gestante) puxando a droga de manual; ordem e momento da conduta."
   },
-  "para_levar": "Hiponatremia euvolêmica só é SIADH depois de afastar falta de cortisol e hipotireoidismo. T4 livre baixo com TSH normal é central, e agalactia após hemorragia no parto aponta Sheehan.",
-  "referencias": "Endocrine Society 2016 (Hormonal Replacement in Hypopituitarism in Adults); Diretriz europeia de hiponatremia (ESE/ESICM/ERA-EDTA 2014).",
-  "tags": [
-   "Hipófise (CM)",
-   "Insuficiência Adrenal (CM)",
-   "Hiponatremia (CM)"
-  ],
-  "sourceQuestionId": "d685cdc64989367",
-  "alvo": "Rótulo verdadeiro (SIADH) contra o dado que decide; padrão excesso x deficiência e hiponatremia, ambos do diagnóstico dele."
- },
- {
-  "id": "S12-END-03",
-  "simulado": 12,
-  "area": "Endocrinologia",
-  "titulo": "Carcinoma anaplásico de tireoide metastático em discussão para cuidado paliativo exclusivo: pesquisar BRAF V600E antes de decidir",
-  "arma": "Dado omitido",
-  "comando": "próximo exame",
-  "nivel": "extremamente difícil",
-  "enunciado": "Mulher de 71 anos, com bócio multinodular atóxico acompanhado há 20 anos, nota crescimento rápido do lado direito do pescoço há 5 semanas, com dor local, disfagia e rouquidão. Exame: massa cervical direita de 7 cm, endurecida, fixa, com pele eritematosa; estridor leve ao esforço; linfonodos cervicais aumentados nos níveis III e IV. SpO2 95% em ar ambiente. TSH 1,8 mUI/L. A tomografia mostra massa tireoidiana invadindo traqueia e esôfago e múltiplos nódulos pulmonares bilaterais. A biópsia por agulha grossa revelou carcinoma indiferenciado (anaplásico) da tireoide, com células fusiformes e gigantes, positivo para PAX8 e citoqueratina. A equipe discute cuidados paliativos exclusivos. Antes de decidir entre tratamento sistêmico e cuidado paliativo exclusivo, o exame que define a conduta é:",
-  "alternativas": {
-   "A": "Tireoglobulina sérica e anti-Tg",
-   "B": "Calcitonina e CEA séricos",
-   "C": "Pesquisa de BRAF V600E no tumor",
-   "D": "Pesquisa de corpo inteiro com iodo-131"
-  },
-  "gabarito": "C",
-  "armadilha": "D",
-  "dado_decisivo": "carcinoma indiferenciado (anaplásico) da tireoide",
-  "resolucao": "O caso dá diagnóstico, estadiamento e prognóstico sombrio, e o que falta é o dado que muda a conduta: o perfil molecular. Cerca de 40% dos carcinomas anaplásicos têm mutação BRAF V600E, e nesses a combinação dabrafenibe e trametinibe produz respostas em mais da metade dos casos, inclusive com doença metastática, podendo até tornar ressecável o que não era. Por isso a diretriz pede a pesquisa rápida de BRAF V600E (imuno-histoquímica, confirmada por teste molecular) em todo anaplásico, logo ao diagnóstico, antes de optar por cuidado paliativo exclusivo. A armadilha é tratar como carcinoma diferenciado: o anaplásico não capta iodo, e tireoglobulina não segue um tumor que perdeu a diferenciação folicular. Calcitonina e CEA investigariam medular, que a positividade para PAX8 com citoqueratina e a morfologia não sugerem como primeira hipótese.",
-  "comentarios": {
-   "A": "Errada. Tireoglobulina é marcador de seguimento do carcinoma diferenciado já tireoidectomizado; o anaplásico perdeu a diferenciação.",
-   "B": "Errada. Calcitonina e CEA diagnosticam e seguem o carcinoma medular; não decidem a terapia do anaplásico.",
-   "C": "Correta. Todo anaplásico deve ter BRAF V600E pesquisado de imediato: se presente, dabrafenibe com trametinibe muda o prognóstico e a conduta.",
-   "D": "Errada. É a armadilha: iodo radioativo é do carcinoma diferenciado de origem folicular; o anaplásico não concentra iodo."
-  },
-  "para_levar": "Carcinoma anaplásico de tireoide: pesquisar BRAF V600E logo ao diagnóstico, antes de qualquer decisão paliativa, porque a terapia-alvo muda o desfecho.",
-  "referencias": "ATA 2021 (Guidelines for Management of Patients with Anaplastic Thyroid Cancer); NCCN Thyroid Carcinoma 2025.",
-  "tags": [
-   "Nódulos Tireoideanos (CM)",
-   "Neoplasias e Esquemas Quimioterápicos (CM)"
-  ],
-  "sourceQuestionId": "9b34d2510f256db",
-  "alvo": "Dado omitido que decide a conduta; nódulo endurecido em idosa, que ele errou no banco."
- },
- {
-  "id": "S12-END-04",
-  "simulado": 12,
-  "area": "Endocrinologia",
-  "titulo": "Feocromocitoma diagnosticado com 14 semanas de gestação: alfabloqueio com doxazosina e adrenalectomia laparoscópica antes de 24 semanas",
-  "arma": "Grade X / Y",
-  "comando": "conduta",
-  "nivel": "extremamente difícil",
-  "enunciado": "Gestante de 31 anos, secundigesta, com 14 semanas, é encaminhada por hipertensão: PA de 168 x 104 mmHg na primeira consulta, com crises de cefaleia, palpitações e sudorese, uma delas durante a ultrassonografia transvaginal. A gestação anterior, há 4 anos, foi normotensa. Proteinúria negativa, plaquetas e transaminases normais. Metanefrinas livres plasmáticas: normetanefrina 8 vezes o limite superior. Ressonância sem gadolínio mostra massa adrenal esquerda de 4 cm, hiperintensa em T2. Usa metildopa 750 mg/dia, iniciada há 1 semana na UBS. Quanto ao controle pressórico e ao momento da adrenalectomia, a conduta mais adequada é, respectivamente:",
-  "alternativas": {
-   "A": "Doxazosina / laparoscópica antes de 24 semanas",
-   "B": "Labetalol / laparoscópica antes de 24 semanas",
-   "C": "Doxazosina / após o parto, com a cesariana",
-   "D": "Metildopa em dose máxima / após o parto"
-  },
-  "gabarito": "A",
-  "armadilha": "B",
-  "dado_decisivo": "com 14 semanas",
-  "resolucao": "Hipertensão na gestação puxa para os anti-hipertensivos de manual da gestante (metildopa, labetalol), e o labetalol parece ainda melhor por ter efeito alfa, que é a armadilha. No feocromocitoma, o primeiro passo é o bloqueio alfa seletivo; betabloqueador antes do alfabloqueio, e o labetalol tem ação beta muito maior que a alfa, pode precipitar crise hipertensiva por estímulo alfa sem oposição. A doxazosina é preferida na gestação por atravessar menos a placenta que a fenoxibenzamina. Quanto ao momento, com diagnóstico na primeira metade da gestação a adrenalectomia laparoscópica é feita no segundo trimestre, antes de 24 semanas, depois de 10 a 14 dias de preparo; após 24 semanas, o útero dificulta o acesso e a cirurgia fica para a cesariana ou depois do parto. A metildopa não controla o excesso de catecolaminas e deve ser trocada.",
-  "comentarios": {
-   "A": "Correta. Alfabloqueio seletivo e adrenalectomia laparoscópica no segundo trimestre, antes de 24 semanas, quando o diagnóstico é feito cedo.",
-   "B": "Errada. É a armadilha: labetalol é primeira linha na hipertensão da gestação, mas no feocromocitoma o predomínio beta pode desencadear crise antes do alfabloqueio.",
-   "C": "Errada. O controle está certo, mas adiar a cirurgia para o parto é a conduta quando o diagnóstico vem após 24 semanas; com 14 semanas, operar expõe menos mãe e feto a crises.",
-   "D": "Errada. Metildopa não bloqueia os receptores das catecolaminas tumorais e deixa a gestação inteira sob risco de crise."
-  },
-  "para_levar": "Feocromocitoma na gestação: alfabloqueio primeiro (doxazosina), nunca betabloqueador antes; cirurgia antes de 24 semanas se diagnosticado cedo, senão na cesariana ou depois.",
-  "referencias": "Endocrine Society 2014 (Pheochromocytoma and Paraganglioma); Consenso europeu de feocromocitoma na gestação (Lenders e cols., 2019).",
-  "tags": [
-   "Feocromocitoma (CM)",
-   "HAS Secundária (CM)"
-  ],
-  "sourceQuestionId": "61e8c27b735edda",
-  "alvo": "Rótulo verdadeiro (hipertensão da gestante) puxando a droga de manual; ordem e momento da conduta."
- },
- {
-  "id": "S12-END-05",
-  "simulado": 12,
-  "area": "Endocrinologia",
-  "titulo": "Ginecomastia dolorosa com espironolactona na insuficiência cardíaca de fração reduzida, avaliação normal: trocar por eplerenona",
-  "arma": "Negativo no meio",
-  "comando": "conduta",
-  "nivel": "difícil",
-  "enunciado": "Homem de 61 anos, com insuficiência cardíaca de fração de ejeção reduzida (FE 28%) por miocardiopatia isquêmica, em uso de sacubitril-valsartana, bisoprolol, dapagliflozina, espironolactona 25 mg/dia e furosemida 40 mg/dia, queixa-se de aumento doloroso das mamas há 4 meses, que o constrange a ponto de pensar em parar algum remédio. Classe funcional II, PA 108 x 68 mmHg. Exame: tecido glandular retroareolar bilateral de 4 cm, doloroso, móvel, sem nódulo excêntrico, sem descarga papilar e sem linfonodos axilares; testículos de volume normal, sem massas; sem estigmas de hepatopatia. Exames: testosterona total, LH, estradiol, beta-hCG, TSH, prolactina e função hepática normais; potássio 4,6 mEq/L; TFGe 58 mL/min/1,73 m². A conduta mais adequada é:",
-  "alternativas": {
-   "A": "Suspender a espironolactona, sem substituto",
-   "B": "Trocar a espironolactona por eplerenona",
-   "C": "Manter o esquema e iniciar tamoxifeno",
-   "D": "Mamografia e biópsia do tecido mamário"
-  },
-  "gabarito": "B",
-  "armadilha": "D",
-  "dado_decisivo": "sem nódulo excêntrico, sem descarga papilar e sem linfonodos axilares",
-  "resolucao": "Diante de massa mamária num homem, o reflexo é investigar câncer com mamografia e biópsia, e é a armadilha. Os negativos estão no meio do exame físico: tecido retroareolar, bilateral, doloroso e móvel, sem nódulo excêntrico, sem descarga e sem linfonodos, ou seja, ginecomastia, e não tumor; imagem só se houver suspeita clínica. A investigação hormonal também veio normal (sem tumor testicular, hipogonadismo, hipertireoidismo ou hepatopatia), e a causa é a espironolactona, que bloqueia o receptor androgênico e aumenta a conversão periférica a estrogênio. Suspender o antagonista mineralocorticoide tiraria uma droga que reduz mortalidade na fração reduzida; a eplerenona, mais seletiva, mantém o benefício sem efeito antiandrogênico. Tamoxifeno trata ginecomastia dolorosa recente quando a causa não pode ser removida, o que não é o caso.",
-  "comentarios": {
-   "A": "Errada. Resolve a ginecomastia, mas retira um pilar que reduz mortalidade na fração reduzida, quando existe substituto seletivo.",
-   "B": "Correta. A eplerenona preserva o bloqueio mineralocorticoide sem ação antiandrogênica, e a ginecomastia recente costuma regredir.",
-   "C": "Errada. Tamoxifeno seria opção se a droga causadora fosse insubstituível; manter a espironolactona perpetua a causa.",
-   "D": "Errada. É a armadilha: mamografia e biópsia são para nódulo excêntrico, endurecido, com descarga ou linfonodos, todos ausentes."
-  },
-  "para_levar": "Ginecomastia em uso de espironolactona, com exame benigno e hormônios normais: trocar pela eplerenona, sem perder o antagonismo mineralocorticoide.",
-  "referencias": "Diretriz Brasileira de Insuficiência Cardíaca (SBC 2018, atualização 2021); ESC 2021/2023 Heart Failure Guidelines; Endocrine Society, avaliação de ginecomastia (revisões 2019).",
-  "tags": [
-   "Hipogonadismo Masculino e Feminino (CM)",
-   "ICFER - Tratamento medicamentoso (CM)"
-  ],
-  "sourceQuestionId": "459de744d491dc6",
-  "alvo": "Negativo no meio que dispensa exame; droga em uso como causa e substituição que preserva o benefício."
- }
+  {
+    "id": "S12-END-05",
+    "simulado": 12,
+    "area": "Endocrinologia",
+    "titulo": "Ginecomastia dolorosa com espironolactona na insuficiência cardíaca de fração reduzida, avaliação normal: trocar por eplerenona",
+    "arma": "Negativo no meio",
+    "comando": "conduta",
+    "nivel": "difícil",
+    "enunciado": "Homem de 61 anos, com insuficiência cardíaca de fração de ejeção reduzida (FE 28%) por miocardiopatia isquêmica, em uso de sacubitril-valsartana, bisoprolol, dapagliflozina, espironolactona 25 mg/dia e furosemida 40 mg/dia, queixa-se de aumento doloroso das mamas há 4 meses, que o constrange a ponto de pensar em parar algum remédio. Classe funcional II, PA 108 x 68 mmHg. Exame: tecido glandular retroareolar bilateral de 4 cm, doloroso, móvel, sem nódulo excêntrico, sem descarga papilar e sem linfonodos axilares; testículos de volume normal, sem massas; sem estigmas de hepatopatia. Exames: testosterona total, LH, estradiol, beta-hCG, TSH, prolactina e função hepática normais; potássio 4,6 mEq/L; TFGe 58 mL/min/1,73 m². A conduta mais adequada é:",
+    "alternativas": {
+      "A": "Suspender a espironolactona, sem substituto",
+      "B": "Trocar a espironolactona por eplerenona",
+      "C": "Manter o esquema e iniciar tamoxifeno",
+      "D": "Mamografia e biópsia do tecido mamário"
+    },
+    "gabarito": "B",
+    "armadilha": "D",
+    "dado_decisivo": "sem nódulo excêntrico, sem descarga papilar e sem linfonodos axilares",
+    "resolucao": "Diante de massa mamária num homem, o reflexo é investigar câncer com mamografia e biópsia, e é a armadilha. Os negativos estão no meio do exame físico: tecido retroareolar, bilateral, doloroso e móvel, sem nódulo excêntrico, sem descarga e sem linfonodos, ou seja, ginecomastia, e não tumor; imagem só se houver suspeita clínica. A investigação hormonal também veio normal (sem tumor testicular, hipogonadismo, hipertireoidismo ou hepatopatia), e a causa é a espironolactona, que bloqueia o receptor androgênico e aumenta a conversão periférica a estrogênio. Suspender o antagonista mineralocorticoide tiraria uma droga que reduz mortalidade na fração reduzida; a eplerenona, mais seletiva, mantém o benefício sem efeito antiandrogênico. Tamoxifeno trata ginecomastia dolorosa recente quando a causa não pode ser removida, o que não é o caso.",
+    "comentarios": {
+      "A": "Errada. Resolve a ginecomastia, mas retira um pilar que reduz mortalidade na fração reduzida, quando existe substituto seletivo.",
+      "B": "Correta. A eplerenona preserva o bloqueio mineralocorticoide sem ação antiandrogênica, e a ginecomastia recente costuma regredir.",
+      "C": "Errada. Tamoxifeno seria opção se a droga causadora fosse insubstituível; manter a espironolactona perpetua a causa.",
+      "D": "Errada. É a armadilha: mamografia e biópsia são para nódulo excêntrico, endurecido, com descarga ou linfonodos, todos ausentes."
+    },
+    "para_levar": "Ginecomastia em uso de espironolactona, com exame benigno e hormônios normais: trocar pela eplerenona, sem perder o antagonismo mineralocorticoide.",
+    "referencias": "Diretriz Brasileira de Insuficiência Cardíaca Crônica e Aguda (SBC 2018) e atualização de 2021; ESC 2021 Heart Failure Guidelines e atualização de 2023; Braunstein, Gynecomastia (NEJM 2007).",
+    "tags": [
+      "Hipogonadismo Masculino e Feminino (CM)",
+      "ICFER - Tratamento medicamentoso (CM)"
+    ],
+    "sourceQuestionId": "459de744d491dc6",
+    "alvo": "Negativo no meio que dispensa exame; droga em uso como causa e substituição que preserva o benefício."
+  }
 ]

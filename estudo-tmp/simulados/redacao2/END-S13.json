@@ -1,172 +1,172 @@
 [
- {
-  "id": "S13-END-01",
-  "simulado": 13,
-  "area": "Endocrinologia",
-  "titulo": "Neuropatia autonômica cardiovascular do diabetes: a perda da variação da frequência cardíaca na respiração vem antes da hipotensão ortostática",
-  "arma": "Qualificador",
-  "comando": "fato solto",
-  "nivel": "difícil",
-  "enunciado": "Na neuropatia autonômica cardiovascular do diabetes, a alteração que costuma surgir mais precocemente, ainda sem sintomas, é:",
-  "alternativas": {
-   "A": "Hipotensão ortostática sintomática",
-   "B": "Frequência cardíaca fixa em repouso",
-   "C": "Menor variação da FC na respiração profunda",
-   "D": "Resposta pressórica reduzida ao handgrip"
+  {
+    "id": "S13-END-01",
+    "simulado": 13,
+    "area": "Endocrinologia",
+    "titulo": "Neuropatia autonômica cardiovascular do diabetes: a perda da variação da frequência cardíaca na respiração vem antes da hipotensão ortostática",
+    "arma": "Qualificador",
+    "comando": "fato solto",
+    "nivel": "difícil",
+    "enunciado": "Na neuropatia autonômica cardiovascular do diabetes, a alteração que costuma surgir mais precocemente, ainda sem sintomas, é:",
+    "alternativas": {
+      "A": "Hipotensão ortostática sintomática",
+      "B": "Frequência cardíaca fixa em repouso",
+      "C": "Menor variação da FC na respiração profunda",
+      "D": "Resposta pressórica reduzida ao handgrip"
+    },
+    "gabarito": "C",
+    "armadilha": "A",
+    "dado_decisivo": "mais precocemente, ainda sem sintomas",
+    "resolucao": "Hipotensão ortostática é a manifestação mais lembrada da neuropatia autonômica, e por isso atrai, mas é tardia. A neuropatia diabética é dependente do comprimento da fibra, e o vago, o nervo autonômico mais longo, é lesado primeiro: a primeira alteração é a redução da variabilidade da frequência cardíaca, medida pela resposta à respiração profunda (relação expiração e inspiração), à manobra de Valsalva e à mudança postural. Com a perda vagal surge a taquicardia de repouso; só depois, com a lesão simpática, aparecem a resposta pressórica reduzida e a hipotensão ortostática, e a frequência fixa, que não varia com nada, marca a denervação quase completa. Por isso o rastreio com os testes de reflexos cardiovasculares se faz no assintomático: no tipo 2 ao diagnóstico e no tipo 1 após 5 anos de doença.",
+    "comentarios": {
+      "A": "Errada. É a armadilha: hipotensão ortostática depende de lesão simpática eferente e aparece em fase avançada.",
+      "B": "Errada. A frequência fixa, sem resposta a estímulos, indica denervação cardíaca quase completa, que é tardia.",
+      "C": "Correta. A lesão vagal vem primeiro, e a perda da variação da frequência cardíaca na respiração profunda é o achado mais precoce.",
+      "D": "Errada. A resposta pressórica ao exercício isométrico avalia a via simpática, comprometida depois da parassimpática."
+    },
+    "para_levar": "Neuropatia autonômica cardiovascular: primeiro cai a variabilidade da frequência cardíaca (vago), depois vem a taquicardia de repouso e só por último a hipotensão ortostática (simpático).",
+    "referencias": "ADA Standards of Care in Diabetes 2026, seção 12; Pop-Busui e cols., Diabetic Neuropathy: ADA Position Statement (Diabetes Care 2017); Diretriz SBD 2024.",
+    "tags": [
+      "Complicações Crônicas do Diabetes (CM)",
+      "390 Autonomic Disorders and Their Management"
+    ],
+    "sourceQuestionId": "3162b4f059cbc04",
+    "alvo": "Fato solto em evocação, eixo em que ele erra mais na UERJ; rastreio de neuropatia, que errou no banco."
   },
-  "gabarito": "C",
-  "armadilha": "A",
-  "dado_decisivo": "mais precocemente, ainda sem sintomas",
-  "resolucao": "Hipotensão ortostática é a manifestação mais lembrada da neuropatia autonômica, e por isso atrai, mas é tardia. A neuropatia diabética é dependente do comprimento da fibra, e o vago, o nervo autonômico mais longo, é lesado primeiro: a primeira alteração é a redução da variabilidade da frequência cardíaca, medida pela resposta à respiração profunda (relação expiração e inspiração), à manobra de Valsalva e à mudança postural. Com a perda vagal surge a taquicardia de repouso; só depois, com a lesão simpática, aparecem a resposta pressórica reduzida e a hipotensão ortostática, e a frequência fixa, que não varia com nada, marca a denervação quase completa. Por isso o rastreio com os testes de reflexos cardiovasculares se faz no assintomático: no tipo 2 ao diagnóstico e no tipo 1 após 5 anos de doença.",
-  "comentarios": {
-   "A": "Errada. É a armadilha: hipotensão ortostática depende de lesão simpática eferente e aparece em fase avançada.",
-   "B": "Errada. A frequência fixa, sem resposta a estímulos, indica denervação cardíaca quase completa, que é tardia.",
-   "C": "Correta. A lesão vagal vem primeiro, e a perda da variação da frequência cardíaca na respiração profunda é o achado mais precoce.",
-   "D": "Errada. A resposta pressórica ao exercício isométrico avalia a via simpática, comprometida depois da parassimpática."
+  {
+    "id": "S13-END-02",
+    "simulado": 13,
+    "area": "Endocrinologia",
+    "titulo": "Hipercalcemia que persiste desde o terceiro mês após transplante renal bem-sucedido, com quatro paratireoides aumentadas: hiperparatireoidismo terciário",
+    "arma": "Cronologia",
+    "comando": "diagnóstico",
+    "nivel": "difícil",
+    "enunciado": "Homem de 46 anos, em hemodiálise por 9 anos por glomerulonefrite crônica, recebeu transplante renal de doador falecido há 14 meses, com boa função do enxerto (creatinina 1,2 mg/dL). Antes do transplante usava calcitriol, cinacalcete e sevelâmer, com PTH entre 1.100 e 1.500 pg/mL; os três foram suspensos no transplante. Usa tacrolimo, micofenolato e prednisona 5 mg/dia. Na revisão, assintomático: cálcio total 11,4 mg/dL (albumina 4,1 g/dL), fósforo 2,0 mg/dL, PTH 620 pg/mL, 25-hidroxivitamina D 32 ng/mL, fosfatase alcalina levemente elevada. O cálcio já estava em 10,9 mg/dL no terceiro mês e não normalizou desde então. Ultrassonografia cervical: quatro paratireoides aumentadas. A causa da hipercalcemia é:",
+    "alternativas": {
+      "A": "Hiperparatireoidismo terciário persistente",
+      "B": "Hiperparatireoidismo secundário em regressão",
+      "C": "Adenoma de paratireoide primário",
+      "D": "Excesso de calcitriol exógeno"
+    },
+    "gabarito": "A",
+    "armadilha": "B",
+    "dado_decisivo": "O cálcio já estava em 10,9 mg/dL no terceiro mês e não normalizou desde então",
+    "resolucao": "O PTH caiu de cerca de 1.300 para 620 pg/mL, e isso sugere que o hiperparatireoidismo secundário está apenas regredindo, que é a armadilha. Mas o secundário cursa com cálcio normal ou baixo; PTH alto com hipercalcemia e hipofosfatemia, com enxerto funcionando, significa que as glândulas hiperplásicas passaram a secretar de forma autônoma, sem responder ao cálcio: é o terciário. A cronologia decide: a hipercalcemia surgiu nos primeiros meses, quando o rim novo voltou a produzir calcitriol e a eliminar fósforo, e persiste após 1 ano, quando a regressão espontânea já deveria ter ocorrido. Quatro glândulas aumentadas falam de hiperplasia difusa, e não de adenoma único; o calcitriol foi suspenso há mais de 1 ano. Hipercalcemia persistente após 1 ano do transplante é indicação de paratireoidectomia subtotal, pelo risco ao enxerto (nefrocalcinose) e ao osso.",
+    "comentarios": {
+      "A": "Correta. PTH alto com cálcio alto e fósforo baixo, persistindo mais de 1 ano após transplante com boa função: secreção autônoma das glândulas hiperplásicas.",
+      "B": "Errada. É a armadilha: o PTH está caindo, mas o secundário não eleva o cálcio; hipercalcemia com PTH alto 14 meses depois é terciário.",
+      "C": "Errada. Adenoma primário aparece como glândula única; aqui as quatro estão aumentadas, depois de anos de estímulo urêmico.",
+      "D": "Errada. Hipercalcemia por calcitriol suprime o PTH, e a droga foi suspensa há 14 meses."
+    },
+    "para_levar": "Após transplante renal, hipercalcemia com PTH alto e fósforo baixo que persiste além de 1 ano é hiperparatireoidismo terciário; o secundário nunca dá cálcio alto.",
+    "referencias": "KDIGO 2017 Clinical Practice Guideline Update for CKD-MBD; KDIGO 2009 (Care of Kidney Transplant Recipients).",
+    "tags": [
+      "Hiperparatireoidismo Terciário (Clínica Médica) (CM)",
+      "Transplante Renal (CM)"
+    ],
+    "sourceQuestionId": "034b8d9e51cea8b",
+    "alvo": "Cronologia que separa secundário de terciário; errou o terciário em diálise no banco."
   },
-  "para_levar": "Neuropatia autonômica cardiovascular: primeiro cai a variabilidade da frequência cardíaca (vago), depois vem a taquicardia de repouso e só por último a hipotensão ortostática (simpático).",
-  "referencias": "ADA Standards of Care in Diabetes 2026, seção 12; Pop-Busui e cols., Diabetic Neuropathy: ADA Position Statement (Diabetes Care 2017); Diretriz SBD 2024.",
-  "tags": [
-   "Complicações Crônicas do Diabetes (CM)",
-   "390 Autonomic Disorders and Their Management"
-  ],
-  "sourceQuestionId": "3162b4f059cbc04",
-  "alvo": "Fato solto em evocação, eixo em que ele erra mais na UERJ; rastreio de neuropatia, que errou no banco."
- },
- {
-  "id": "S13-END-02",
-  "simulado": 13,
-  "area": "Endocrinologia",
-  "titulo": "Hipercalcemia que persiste desde o terceiro mês após transplante renal bem-sucedido, com quatro paratireoides aumentadas: hiperparatireoidismo terciário",
-  "arma": "Cronologia",
-  "comando": "diagnóstico",
-  "nivel": "difícil",
-  "enunciado": "Homem de 46 anos, em hemodiálise por 9 anos por glomerulonefrite crônica, recebeu transplante renal de doador falecido há 14 meses, com boa função do enxerto (creatinina 1,2 mg/dL). Antes do transplante usava calcitriol, cinacalcete e sevelâmer, com PTH entre 1.100 e 1.500 pg/mL; os três foram suspensos no transplante. Usa tacrolimo, micofenolato e prednisona 5 mg/dia. Na revisão, assintomático: cálcio total 11,4 mg/dL (albumina 4,1 g/dL), fósforo 2,0 mg/dL, PTH 620 pg/mL, 25-hidroxivitamina D 32 ng/mL, fosfatase alcalina levemente elevada. O cálcio já estava em 10,9 mg/dL no terceiro mês e não normalizou desde então. Ultrassonografia cervical: quatro paratireoides aumentadas. A causa da hipercalcemia é:",
-  "alternativas": {
-   "A": "Hiperparatireoidismo terciário persistente",
-   "B": "Hiperparatireoidismo secundário em regressão",
-   "C": "Adenoma de paratireoide primário",
-   "D": "Excesso de calcitriol exógeno"
+  {
+    "id": "S13-END-03",
+    "simulado": 13,
+    "area": "Endocrinologia",
+    "titulo": "Insuficiência adrenal sob mitotano adjuvante com cortisol total normal: aumento da CBG e depuração acelerada da hidrocortisona",
+    "arma": "Rótulo verdadeiro",
+    "comando": "mecanismo",
+    "nivel": "extremamente difícil",
+    "enunciado": "Mulher de 43 anos foi submetida, há 5 meses, a adrenalectomia direita aberta por carcinoma adrenocortical de 11 cm secretor de cortisol, com Ki-67 de 18%. Iniciou mitotano adjuvante há 3 meses (nível sérico atual de 16 mg/L, alvo de 14 a 20) e usa hidrocortisona 20 mg/dia desde a cirurgia. Há 4 semanas tem astenia intensa, náuseas, anorexia e tontura ao levantar. PA 92 x 58 mmHg deitada e 78 x 50 mmHg em pé. Sódio 131 mEq/L, potássio 4,8 mEq/L, glicemia 74 mg/dL. Cortisol sérico total às 8 horas, 2 horas após a hidrocortisona: 21 µg/dL (referência 5 a 25). TSH 2,1 mUI/L, T4 livre 0,8 ng/dL (referência 0,9 a 1,8). Tomografia sem recidiva. O mecanismo que melhor explica o quadro é:",
+    "alternativas": {
+      "A": "Recidiva tumoral com hipercortisolismo",
+      "B": "Neurotoxicidade por nível alto de mitotano",
+      "C": "Hipotireoidismo central causado pelo mitotano",
+      "D": "Mais CBG e depuração acelerada da hidrocortisona"
+    },
+    "gabarito": "D",
+    "armadilha": "C",
+    "dado_decisivo": "Cortisol sérico total às 8 horas",
+    "resolucao": "Cortisol de 21 µg/dL dentro da referência parece afastar insuficiência adrenal, e o T4 livre baixo, verdadeiro, oferece outra explicação: são os dois rótulos que desviam. O quadro (astenia, náuseas, hipotensão postural, hiponatremia, glicemia limítrofe) é de insuficiência adrenal sob reposição. O mitotano é adrenolítico e, além disso, aumenta a globulina ligadora de cortisol (CBG), elevando o cortisol total enquanto o livre, que é o ativo, fica baixo; e induz o CYP3A4, acelerando a depuração da hidrocortisona. Por isso quem usa mitotano precisa de 2 a 3 vezes a dose habitual de hidrocortisona (40 a 60 mg/dia), ajustada pela clínica, e não pelo cortisol total. O mitotano também reduz o T4 livre, mas hipotireoidismo leve não explica hipotensão, hiponatremia e hipoglicemia.",
+    "comentarios": {
+      "A": "Errada. Recidiva secretora daria hipertensão, hiperglicemia e fenótipo de Cushing, e a tomografia não mostra recidiva.",
+      "B": "Errada. Neurotoxicidade (ataxia, confusão) aparece com nível acima de 20 mg/L; o nível está na faixa terapêutica.",
+      "C": "Errada. É a armadilha: o mitotano baixa o T4 livre, mas isso não explica hipotensão postural, hiponatremia e glicemia baixa.",
+      "D": "Correta. O mitotano eleva a CBG (cortisol total falsamente tranquilizador) e induz o metabolismo da hidrocortisona, deixando o cortisol livre insuficiente."
+    },
+    "para_levar": "Em uso de mitotano, cortisol total não mede a reposição: a CBG sobe e a hidrocortisona é depurada mais rápido, e a dose costuma ser 2 a 3 vezes a habitual.",
+    "referencias": "ESE/ENSAT 2018 (Management of adrenocortical carcinoma in adults); Endocrine Society 2016 (Primary Adrenal Insufficiency).",
+    "tags": [
+      "Insuficiência Adrenal (CM)",
+      "Adrenal (CM)"
+    ],
+    "sourceQuestionId": "5cca9b264458292",
+    "alvo": "Rótulo verdadeiro (cortisol normal) e droga em uso que muda a leitura do exame; padrão excesso x deficiência."
   },
-  "gabarito": "A",
-  "armadilha": "B",
-  "dado_decisivo": "O cálcio já estava em 10,9 mg/dL no terceiro mês e não normalizou desde então",
-  "resolucao": "O PTH caiu de cerca de 1.300 para 620 pg/mL, e isso sugere que o hiperparatireoidismo secundário está apenas regredindo, que é a armadilha. Mas o secundário cursa com cálcio normal ou baixo; PTH alto com hipercalcemia e hipofosfatemia, com enxerto funcionando, significa que as glândulas hiperplásicas passaram a secretar de forma autônoma, sem responder ao cálcio: é o terciário. A cronologia decide: a hipercalcemia surgiu nos primeiros meses, quando o rim novo voltou a produzir calcitriol e a eliminar fósforo, e persiste após 1 ano, quando a regressão espontânea já deveria ter ocorrido. Quatro glândulas aumentadas falam de hiperplasia difusa, e não de adenoma único; o calcitriol foi suspenso há mais de 1 ano. Hipercalcemia persistente após 1 ano do transplante é indicação de paratireoidectomia subtotal, pelo risco ao enxerto (nefrocalcinose) e ao osso.",
-  "comentarios": {
-   "A": "Correta. PTH alto com cálcio alto e fósforo baixo, persistindo mais de 1 ano após transplante com boa função: secreção autônoma das glândulas hiperplásicas.",
-   "B": "Errada. É a armadilha: o PTH está caindo, mas o secundário não eleva o cálcio; hipercalcemia com PTH alto 14 meses depois é terciário.",
-   "C": "Errada. Adenoma primário aparece como glândula única; aqui as quatro estão aumentadas, depois de anos de estímulo urêmico.",
-   "D": "Errada. Hipercalcemia por calcitriol suprime o PTH, e a droga foi suspensa há 14 meses."
+  {
+    "id": "S13-END-04",
+    "simulado": 13,
+    "area": "Endocrinologia",
+    "titulo": "Lesão selar e suprasselar cística e calcificada com poliúria hipotônica no adulto: craniofaringioma, e não macroadenoma",
+    "arma": "Negativo no meio",
+    "comando": "diagnóstico",
+    "nivel": "difícil",
+    "enunciado": "Homem de 34 anos procura atendimento por cefaleia frontal progressiva há 8 meses e por esbarrar em objetos dos dois lados. Refere queda da libido e ganho de 6 kg. Nega galactorreia. Na anamnese dirigida, conta que há 6 meses acorda três vezes por noite para urinar e bebe cerca de 5 litros de água por dia, com urina clara. Exame: hemianopsia bitemporal, PA 118 x 74 mmHg. Exames: sódio 145 mEq/L, glicemia 92 mg/dL, osmolalidade urinária 140 mOsm/kg, prolactina 54 ng/mL (referência até 15), testosterona total 140 ng/dL com LH baixo, T4 livre baixo com TSH normal, IGF-1 baixo. Ressonância: lesão selar e suprasselar de 3,2 cm, com componente cístico hiperintenso em T1 e componente sólido; a tomografia mostra calcificações periféricas. O diagnóstico mais provável é:",
+    "alternativas": {
+      "A": "Macroadenoma não funcionante",
+      "B": "Craniofaringioma",
+      "C": "Macroprolactinoma",
+      "D": "Hipofisite linfocítica"
+    },
+    "gabarito": "B",
+    "armadilha": "A",
+    "dado_decisivo": "acorda três vezes por noite para urinar e bebe cerca de 5 litros de água por dia",
+    "resolucao": "Massa selar grande com hemianopsia bitemporal e hipopituitarismo anterior é a apresentação mais comum do macroadenoma não funcionante, e a prolactina discretamente alta (efeito haste) reforça a impressão: é a armadilha. O dado escondido no meio da anamnese é a poliúria hipotônica (osmolalidade urinária de 140 com sódio de 145), ou seja, diabetes insípido central. Adenoma hipofisário raramente causa diabetes insípido antes da cirurgia, porque cresce de baixo para cima e poupa a neuro-hipófise e o hipotálamo; lesões suprasselares que nascem do hipotálamo e da haste, como o craniofaringioma, causam com frequência. A imagem completa: componente cístico com conteúdo rico em proteína e colesterol (hiperintenso em T1), parte sólida e calcificações, presentes na maioria dos craniofaringiomas adamantinomatosos. Prolactina de 54 numa lesão de 3,2 cm afasta macroprolactinoma.",
+    "comentarios": {
+      "A": "Errada. É a armadilha: explica a massa, o campo visual e o hipopituitarismo anterior, mas não o diabetes insípido nem as calcificações.",
+      "B": "Correta. Massa suprasselar cística e calcificada com diabetes insípido central e hipopituitarismo: craniofaringioma.",
+      "C": "Errada. Macroprolactinoma de 3,2 cm teria prolactina na casa das centenas ou milhares; 54 ng/mL é efeito haste.",
+      "D": "Errada. Hipofisite pode dar diabetes insípido, mas produz espessamento homogêneo da hipófise e da haste, sem cisto nem calcificação."
+    },
+    "para_levar": "Diabetes insípido antes da cirurgia numa massa selar afasta o adenoma e aponta lesão hipotalâmica ou de haste: craniofaringioma (cístico e calcificado), metástase, hipofisite ou granulomatose.",
+    "referencias": "Endocrine Society 2016 (Hormonal Replacement in Hypopituitarism in Adults); Müller e cols., Craniopharyngioma (Nat Rev Dis Primers 2019).",
+    "tags": [
+      "Hipófise (CM)",
+      "Diabetes Insipidus (CM)"
+    ],
+    "sourceQuestionId": "57317b858368f4d",
+    "alvo": "Dado que decide escondido no meio da anamnese; etiologias de poliúria, que errou no banco."
   },
-  "para_levar": "Após transplante renal, hipercalcemia com PTH alto e fósforo baixo que persiste além de 1 ano é hiperparatireoidismo terciário; o secundário nunca dá cálcio alto.",
-  "referencias": "KDIGO 2017 Clinical Practice Guideline Update for CKD-MBD; KDIGO 2020 (candidatos e receptores de transplante renal).",
-  "tags": [
-   "Hiperparatireoidismo Terciário (Clínica Médica) (CM)",
-   "Transplante Renal (CM)"
-  ],
-  "sourceQuestionId": "034b8d9e51cea8b",
-  "alvo": "Cronologia que separa secundário de terciário; errou o terciário em diálise no banco."
- },
- {
-  "id": "S13-END-03",
-  "simulado": 13,
-  "area": "Endocrinologia",
-  "titulo": "Insuficiência adrenal sob mitotano adjuvante com cortisol total normal: aumento da CBG e depuração acelerada da hidrocortisona",
-  "arma": "Rótulo verdadeiro",
-  "comando": "mecanismo",
-  "nivel": "extremamente difícil",
-  "enunciado": "Mulher de 43 anos foi submetida, há 5 meses, a adrenalectomia direita aberta por carcinoma adrenocortical de 11 cm secretor de cortisol, com Ki-67 de 18%. Iniciou mitotano adjuvante há 3 meses (nível sérico atual de 16 mg/L, alvo de 14 a 20) e usa hidrocortisona 20 mg/dia desde a cirurgia. Há 4 semanas tem astenia intensa, náuseas, anorexia e tontura ao levantar. PA 92 x 58 mmHg deitada e 78 x 50 mmHg em pé. Sódio 131 mEq/L, potássio 4,8 mEq/L, glicemia 74 mg/dL. Cortisol sérico total às 8 horas, 2 horas após a hidrocortisona: 21 µg/dL (referência 5 a 25). TSH 2,1 mUI/L, T4 livre 0,8 ng/dL (referência 0,9 a 1,8). Tomografia sem recidiva. O mecanismo que melhor explica o quadro é:",
-  "alternativas": {
-   "A": "Recidiva tumoral com hipercortisolismo",
-   "B": "Neurotoxicidade por nível alto de mitotano",
-   "C": "Hipotireoidismo central causado pelo mitotano",
-   "D": "Mais CBG e depuração acelerada da hidrocortisona"
-  },
-  "gabarito": "D",
-  "armadilha": "C",
-  "dado_decisivo": "Cortisol sérico total às 8 horas",
-  "resolucao": "Cortisol de 21 µg/dL dentro da referência parece afastar insuficiência adrenal, e o T4 livre baixo, verdadeiro, oferece outra explicação: são os dois rótulos que desviam. O quadro (astenia, náuseas, hipotensão postural, hiponatremia, glicemia limítrofe) é de insuficiência adrenal sob reposição. O mitotano é adrenolítico e, além disso, aumenta a globulina ligadora de cortisol (CBG), elevando o cortisol total enquanto o livre, que é o ativo, fica baixo; e induz o CYP3A4, acelerando a depuração da hidrocortisona. Por isso quem usa mitotano precisa de 2 a 3 vezes a dose habitual de hidrocortisona (40 a 60 mg/dia), ajustada pela clínica, e não pelo cortisol total. O mitotano também reduz o T4 livre, mas hipotireoidismo leve não explica hipotensão, hiponatremia e hipoglicemia.",
-  "comentarios": {
-   "A": "Errada. Recidiva secretora daria hipertensão, hiperglicemia e fenótipo de Cushing, e a tomografia não mostra recidiva.",
-   "B": "Errada. Neurotoxicidade (ataxia, confusão) aparece com nível acima de 20 mg/L; o nível está na faixa terapêutica.",
-   "C": "Errada. É a armadilha: o mitotano baixa o T4 livre, mas isso não explica hipotensão postural, hiponatremia e glicemia baixa.",
-   "D": "Correta. O mitotano eleva a CBG (cortisol total falsamente tranquilizador) e induz o metabolismo da hidrocortisona, deixando o cortisol livre insuficiente."
-  },
-  "para_levar": "Em uso de mitotano, cortisol total não mede a reposição: a CBG sobe e a hidrocortisona é depurada mais rápido, e a dose costuma ser 2 a 3 vezes a habitual.",
-  "referencias": "ESE/ENSAT 2018 (Management of adrenocortical carcinoma in adults); Endocrine Society 2016 (Primary Adrenal Insufficiency).",
-  "tags": [
-   "Insuficiência Adrenal (CM)",
-   "Adrenal (CM)"
-  ],
-  "sourceQuestionId": "5cca9b264458292",
-  "alvo": "Rótulo verdadeiro (cortisol normal) e droga em uso que muda a leitura do exame; padrão excesso x deficiência."
- },
- {
-  "id": "S13-END-04",
-  "simulado": 13,
-  "area": "Endocrinologia",
-  "titulo": "Lesão selar e suprasselar cística e calcificada com poliúria hipotônica no adulto: craniofaringioma, e não macroadenoma",
-  "arma": "Negativo no meio",
-  "comando": "diagnóstico",
-  "nivel": "difícil",
-  "enunciado": "Homem de 34 anos procura atendimento por cefaleia frontal progressiva há 8 meses e por esbarrar em objetos dos dois lados. Refere queda da libido e ganho de 6 kg. Nega galactorreia. Na anamnese dirigida, conta que há 6 meses acorda três vezes por noite para urinar e bebe cerca de 5 litros de água por dia, com urina clara. Exame: hemianopsia bitemporal, PA 118 x 74 mmHg. Exames: sódio 145 mEq/L, glicemia 92 mg/dL, osmolalidade urinária 140 mOsm/kg, prolactina 54 ng/mL (referência até 15), testosterona total 140 ng/dL com LH baixo, T4 livre baixo com TSH normal, IGF-1 baixo. Ressonância: lesão selar e suprasselar de 3,2 cm, com componente cístico hiperintenso em T1 e componente sólido; a tomografia mostra calcificações periféricas. O diagnóstico mais provável é:",
-  "alternativas": {
-   "A": "Macroadenoma não funcionante",
-   "B": "Craniofaringioma",
-   "C": "Macroprolactinoma",
-   "D": "Hipofisite linfocítica"
-  },
-  "gabarito": "B",
-  "armadilha": "A",
-  "dado_decisivo": "acorda três vezes por noite para urinar e bebe cerca de 5 litros de água por dia",
-  "resolucao": "Massa selar grande com hemianopsia bitemporal e hipopituitarismo anterior é a apresentação mais comum do macroadenoma não funcionante, e a prolactina discretamente alta (efeito haste) reforça a impressão: é a armadilha. O dado escondido no meio da anamnese é a poliúria hipotônica (osmolalidade urinária de 140 com sódio de 145), ou seja, diabetes insípido central. Adenoma hipofisário raramente causa diabetes insípido antes da cirurgia, porque cresce de baixo para cima e poupa a neuro-hipófise e o hipotálamo; lesões suprasselares que nascem do hipotálamo e da haste, como o craniofaringioma, causam com frequência. A imagem completa: componente cístico com conteúdo rico em proteína e colesterol (hiperintenso em T1), parte sólida e calcificações, presentes na maioria dos craniofaringiomas adamantinomatosos. Prolactina de 54 numa lesão de 3,2 cm afasta macroprolactinoma.",
-  "comentarios": {
-   "A": "Errada. É a armadilha: explica a massa, o campo visual e o hipopituitarismo anterior, mas não o diabetes insípido nem as calcificações.",
-   "B": "Correta. Massa suprasselar cística e calcificada com diabetes insípido central e hipopituitarismo: craniofaringioma.",
-   "C": "Errada. Macroprolactinoma de 3,2 cm teria prolactina na casa das centenas ou milhares; 54 ng/mL é efeito haste.",
-   "D": "Errada. Hipofisite pode dar diabetes insípido, mas produz espessamento homogêneo da hipófise e da haste, sem cisto nem calcificação."
-  },
-  "para_levar": "Diabetes insípido antes da cirurgia numa massa selar afasta o adenoma e aponta lesão hipotalâmica ou de haste: craniofaringioma (cístico e calcificado), metástase, hipofisite ou granulomatose.",
-  "referencias": "Endocrine Society 2016 (Hormonal Replacement in Hypopituitarism in Adults); Müller e cols., Craniopharyngioma (Nat Rev Dis Primers 2019).",
-  "tags": [
-   "Hipófise (CM)",
-   "Diabetes Insipidus (CM)"
-  ],
-  "sourceQuestionId": "57317b858368f4d",
-  "alvo": "Dado que decide escondido no meio da anamnese; etiologias de poliúria, que errou no banco."
- },
- {
-  "id": "S13-END-05",
-  "simulado": 13,
-  "area": "Endocrinologia",
-  "titulo": "Terapia hormonal da menopausa na obesa com hipertrigliceridemia e útero presente: estrogênio transdérmico associado a progestagênio",
-  "arma": "Grade X / Y",
-  "comando": "conduta",
-  "nivel": "média",
-  "enunciado": "Mulher de 52 anos, com última menstruação há 16 meses, procura atendimento por fogachos intensos (cerca de 12 por dia), despertares noturnos e prejuízo no trabalho, sem melhora com medidas comportamentais. Tem útero e ovários. Tem enxaqueca sem aura, hipertensão controlada com losartana, IMC 33 kg/m² e triglicerídeos de 410 mg/dL; não tem antecedente de trombose, câncer de mama nem doença coronariana. Mamografia BI-RADS 1 há 4 meses e risco cardiovascular em 10 anos estimado em 6%. Ela deseja tratamento hormonal. Quanto à via do estrogênio e à associação com progestagênio, a conduta mais adequada é, respectivamente:",
-  "alternativas": {
-   "A": "Oral / com progestagênio",
-   "B": "Transdérmica / sem progestagênio",
-   "C": "Transdérmica / com progestagênio",
-   "D": "Oral / sem progestagênio"
-  },
-  "gabarito": "C",
-  "armadilha": "B",
-  "dado_decisivo": "Tem útero e ovários",
-  "resolucao": "Ela está na janela de oportunidade (menos de 60 anos e menos de 10 anos de menopausa), tem sintomas vasomotores moderados a graves e nenhuma contraindicação absoluta, e a terapia hormonal é indicada. Duas decisões. A via: obesidade, hipertrigliceridemia, enxaqueca e hipertensão favorecem a via transdérmica, que evita a primeira passagem hepática e não eleva triglicerídeos nem o risco de trombose venosa como a oral. A associação: com útero presente, todo estrogênio sistêmico exige progestagênio para proteger o endométrio da hiperplasia e do câncer, qualquer que seja a via. A armadilha é achar que a via transdérmica, por ser mais segura, dispensa o progestagênio; a proteção endometrial depende do útero, não da via.",
-  "comentarios": {
-   "A": "Errada. O progestagênio está certo, mas o estrogênio oral eleva triglicerídeos (já em 410) e o risco trombótico na obesa.",
-   "B": "Errada. É a armadilha: a via está certa, mas mulher com útero precisa de progestagênio com qualquer estrogênio sistêmico.",
-   "C": "Correta. Via transdérmica pela hipertrigliceridemia, obesidade e enxaqueca, e progestagênio porque há útero.",
-   "D": "Errada. Estrogênio oral isolado é a opção da histerectomizada sem fatores metabólicos; aqui erra as duas decisões."
-  },
-  "para_levar": "Terapia hormonal: útero presente pede progestagênio sempre; obesidade, hipertrigliceridemia, enxaqueca ou risco trombótico pedem estrogênio transdérmico.",
-  "referencias": "The 2022 Hormone Therapy Position Statement of The North American Menopause Society; Consenso Brasileiro de Terapêutica Hormonal da Menopausa (SOBRAC 2018).",
-  "tags": [
-   "227 Menopause",
-   "Hipogonadismo Masculino e Feminino (CM)"
-  ],
-  "sourceQuestionId": null,
-  "alvo": "Grade com duas decisões em tema endócrino que ainda não apareceu; via e indicação de droga pelo perfil do paciente."
- }
+  {
+    "id": "S13-END-05",
+    "simulado": 13,
+    "area": "Endocrinologia",
+    "titulo": "Terapia hormonal da menopausa na obesa com hipertrigliceridemia e útero presente: estrogênio transdérmico associado a progestagênio",
+    "arma": "Grade X / Y",
+    "comando": "conduta",
+    "nivel": "média",
+    "enunciado": "Mulher de 52 anos, com última menstruação há 16 meses, procura atendimento por fogachos intensos (cerca de 12 por dia), despertares noturnos e prejuízo no trabalho, sem melhora com medidas comportamentais. Tem útero e ovários. Tem enxaqueca sem aura, hipertensão controlada com losartana, IMC 33 kg/m² e triglicerídeos de 410 mg/dL; não tem antecedente de trombose, câncer de mama nem doença coronariana. Mamografia BI-RADS 1 há 4 meses e risco cardiovascular em 10 anos estimado em 6%. Ela deseja tratamento hormonal. Quanto à via do estrogênio e à associação com progestagênio, a conduta mais adequada é, respectivamente:",
+    "alternativas": {
+      "A": "Oral / com progestagênio",
+      "B": "Transdérmica / sem progestagênio",
+      "C": "Transdérmica / com progestagênio",
+      "D": "Oral / sem progestagênio"
+    },
+    "gabarito": "C",
+    "armadilha": "B",
+    "dado_decisivo": "Tem útero e ovários",
+    "resolucao": "Ela está na janela de oportunidade (menos de 60 anos e menos de 10 anos de menopausa), tem sintomas vasomotores moderados a graves e nenhuma contraindicação absoluta, e a terapia hormonal é indicada. Duas decisões. A via: obesidade, hipertrigliceridemia, enxaqueca e hipertensão favorecem a via transdérmica, que evita a primeira passagem hepática e não eleva triglicerídeos nem o risco de trombose venosa como a oral. A associação: com útero presente, todo estrogênio sistêmico exige progestagênio para proteger o endométrio da hiperplasia e do câncer, qualquer que seja a via. A armadilha é achar que a via transdérmica, por ser mais segura, dispensa o progestagênio; a proteção endometrial depende do útero, não da via.",
+    "comentarios": {
+      "A": "Errada. O progestagênio está certo, mas o estrogênio oral eleva triglicerídeos (já em 410) e o risco trombótico na obesa.",
+      "B": "Errada. É a armadilha: a via está certa, mas mulher com útero precisa de progestagênio com qualquer estrogênio sistêmico.",
+      "C": "Correta. Via transdérmica pela hipertrigliceridemia, obesidade e enxaqueca, e progestagênio porque há útero.",
+      "D": "Errada. Estrogênio oral isolado é a opção da histerectomizada sem fatores metabólicos; aqui erra as duas decisões."
+    },
+    "para_levar": "Terapia hormonal: útero presente pede progestagênio sempre; obesidade, hipertrigliceridemia, enxaqueca ou risco trombótico pedem estrogênio transdérmico.",
+    "referencias": "The 2022 Hormone Therapy Position Statement of The North American Menopause Society; Consenso Brasileiro de Terapêutica Hormonal da Menopausa (SOBRAC 2018).",
+    "tags": [
+      "227 Menopause",
+      "Hipogonadismo Masculino e Feminino (CM)"
+    ],
+    "sourceQuestionId": null,
+    "alvo": "Grade com duas decisões em tema endócrino que ainda não apareceu; via e indicação de droga pelo perfil do paciente."
+  }
 ]

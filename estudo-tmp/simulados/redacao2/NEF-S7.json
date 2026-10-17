@@ -7,7 +7,7 @@
     "arma": "Rótulo verdadeiro",
     "comando": "próximo exame",
     "nivel": "extremamente difícil",
-    "enunciado": "Homem de 68 anos, hipertenso em uso de hidroclorotiazida 25 mg/dia há 3 anos, é avaliado por dor lombar há 2 meses e cansaço. Lúcido, orientado, sem edema, sem sinais de desidratação, PA 136/82 mmHg. Exames: sódio 124 mEq/L, potássio 4,0 mEq/L, glicose 96 mg/dL, ureia 48 mg/dL, creatinina 1,3 mg/dL, cálcio 10,1 mg/dL, proteínas totais 11,4 g/dL com albumina de 3,0 g/dL, triglicerídeos 160 mg/dL, hemoglobina 10,2 g/dL. O exame mais adequado a seguir, para conduzir a hiponatremia, é:",
+    "enunciado": "Homem de 68 anos, hipertenso em uso de hidroclorotiazida 25 mg/dia há 3 anos, é avaliado por dor lombar há 2 meses e cansaço. Lúcido, orientado, sem edema, sem sinais de desidratação, PA 136/82 mmHg. Exames: sódio 130 mEq/L, potássio 4,0 mEq/L, glicose 96 mg/dL, ureia 48 mg/dL, creatinina 1,3 mg/dL, cálcio 10,1 mg/dL, proteínas totais 14,6 g/dL com albumina de 2,9 g/dL, triglicerídeos 160 mg/dL, hemoglobina 10,2 g/dL. O exame mais adequado a seguir, para conduzir a hiponatremia, é:",
     "alternativas": {
       "A": "Osmolalidade e sódio urinários",
       "B": "TSH e cortisol matinal",
@@ -16,16 +16,16 @@
     },
     "gabarito": "C",
     "armadilha": "A",
-    "dado_decisivo": "proteínas totais 11,4 g/dL com albumina de 3,0 g/dL",
-    "resolucao": "O tiazídico é o rótulo verdadeiro: é a causa mais comum de hiponatremia induzida por droga no idoso, e o apressado segue direto para osmolalidade e sódio urinários. Mas o primeiro passo de qualquer hiponatremia é confirmar que ela é hipotônica, e o dado que obriga isso está na linha dos exames: 8,4 g/dL de globulinas (11,4 menos 3,0), com anemia e dor lombar, sugerem paraproteína de mieloma. Proteínas ou lipídios em excesso reduzem a fração aquosa do plasma, e o método indireto do laboratório central (que dilui a amostra) subestima o sódio: é a pseudo-hiponatremia, com osmolalidade medida normal. Com osmolalidade normal não há hiponatremia a tratar, e suspender o tiazídico ou restringir água seria agir sobre um artefato; o sódio por eletrodo direto (gasometria) confirmaria o valor real. O passo seguinte do caso passa a ser a investigação do mieloma, e não a do sódio.",
+    "dado_decisivo": "proteínas totais 14,6 g/dL com albumina de 2,9 g/dL",
+    "resolucao": "O tiazídico é o rótulo verdadeiro: é a causa mais comum de hiponatremia induzida por droga no idoso, e o apressado segue direto para osmolalidade e sódio urinários. Mas o primeiro passo de qualquer hiponatremia é confirmar que ela é hipotônica, e o dado que obriga isso está na linha dos exames: 11,7 g/dL de globulinas (14,6 menos 2,9), com anemia e dor lombar, sugerem paraproteína de mieloma. Proteínas em excesso reduzem a fração aquosa do plasma, e o método indireto do laboratório central (que dilui a amostra) subestima o sódio: é a pseudo-hiponatremia, com osmolalidade medida normal. A osmolalidade medida separa o artefato (normal) da hiponatremia verdadeira (baixa), e só no segundo caso faz sentido seguir com osmolalidade e sódio urinários ou culpar o tiazídico; o sódio por eletrodo direto (gasometria) confirmaria o valor real. Se for artefato, o passo seguinte do caso passa a ser a investigação do mieloma, e não a do sódio.",
     "comentarios": {
       "A": "Errada. Seria o passo seguinte numa hiponatremia já confirmada como hipotônica (osmolalidade baixa), para separar SIADH, tiazídico e perda renal; aqui ela ainda não foi confirmada.",
       "B": "Errada. Hipotireoidismo e insuficiência adrenal se excluem antes de rotular SIADH, também só depois de confirmar hipotonicidade.",
-      "C": "Correta. Globulinas de 8,4 g/dL sugerem paraproteína e pseudo-hiponatremia; a osmolalidade medida normal encerra a questão do sódio.",
+      "C": "Correta. Globulinas de 11,7 g/dL sugerem paraproteína e pseudo-hiponatremia; a osmolalidade medida decide se há hiponatremia verdadeira a investigar.",
       "D": "Errada. Seria considerada com sintomas neurológicos agudos; ele está lúcido e sem déficit."
     },
     "para_levar": "Toda hiponatremia começa pela osmolalidade sérica medida. Gap proteína-albumina alto (mieloma) ou triglicerídeos muito altos causam pseudo-hiponatremia pelo método indireto, com osmolalidade normal.",
-    "referencias": "European Clinical Practice Guideline on diagnosis and treatment of hyponatraemia (ESE/ERA-EDTA/ESICM 2014, atualização 2024); Verbalis JG et al. Am J Med 2013.",
+    "referencias": "Spasovski G et al. Clinical practice guideline on diagnosis and treatment of hyponatraemia (ESE/ESICM/ERA-EDTA). Eur J Endocrinol 2014; Verbalis JG et al. Diagnosis, evaluation, and treatment of hyponatremia: expert panel recommendations. Am J Med 2013.",
     "tags": [
       "Hiponatremia (CM)",
       "Distúrbios do Sódio (CM)",
@@ -151,7 +151,7 @@
     "alternativas": {
       "A": "Angioplastia renal com stent",
       "B": "Manter o tratamento clínico otimizado",
-      "C": "Trocar a losartana por IECA",
+      "C": "Suspender a losartana",
       "D": "Nefrectomia direita"
     },
     "gabarito": "A",
@@ -161,11 +161,11 @@
     "comentarios": {
       "A": "Correta. Edema pulmonar súbito recorrente sem causa cardíaca é indicação de revascularização da estenose aterosclerótica.",
       "B": "Errada. Seria a conduta na estenose aterosclerótica com PA controlada e função estável, sem edema pulmonar súbito (a população do CORAL e do ASTRAL).",
-      "C": "Errada. IECA e BRA têm efeito equivalente no rim com estenose unilateral; trocar um pelo outro não muda o risco dos episódios.",
+      "C": "Errada. Seria considerada com estenose bilateral ou de rim único e queda da filtração após o bloqueio do SRAA; com estenose unilateral, creatinina estável e potássio de 4,6, a losartana pode ser mantida e não causa os episódios.",
       "D": "Errada. Nefrectomia fica para rim atrófico e sem função (em geral menor que 7 cm) com hipertensão refratária e oclusão não revascularizável; o rim direito tem 9,8 cm."
     },
     "para_levar": "Estenose aterosclerótica de artéria renal: tratamento clínico por padrão; revascularizar só com edema pulmonar súbito recorrente, perda rápida de função ou hipertensão refratária verdadeira.",
-    "referencias": "2024 ESC Guidelines for the management of elevated blood pressure and hypertension; ACC/AHA 2024 Peripheral Artery Disease (renal) e SCAI 2014 Renal Artery Stenting Expert Consensus; CORAL (2014) e ASTRAL (2009).",
+    "referencias": "2024 ESC Guidelines for the management of elevated blood pressure and hypertension; 2017 ESC/ESVS Guidelines on the Diagnosis and Treatment of Peripheral Arterial Diseases (doença renovascular); SCAI 2014 Expert Consensus Statement for Renal Artery Stenting; CORAL (2014) e ASTRAL (2009).",
     "tags": [
       "HAS Secundária (CM)",
       "Hipertensão Arterial Sistêmica (CM)"

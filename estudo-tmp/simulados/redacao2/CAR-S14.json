@@ -1,0 +1,157 @@
+[
+{
+ "id": "S14-CAR-01",
+ "simulado": 14,
+ "area": "Cardiologia",
+ "titulo": "Distrofia de Becker em homem de área endêmica para Chagas: R alta em V1 com Q lateral profunda, e não BRD com BDAS",
+ "arma": "Rótulo verdadeiro",
+ "comando": "achado esperado",
+ "nivel": "extremamente difícil",
+ "enunciado": "Homem de 31 anos, natural do interior da Bahia, onde morou em casa de taipa até os 18 anos, procura atendimento por cansaço aos médios esforços há 8 meses. Desde a adolescência tem cãibras e dor muscular após exercício e, há alguns anos, dificuldade para subir escadas e levantar do chão, mas caminha sem apoio. Um tio materno usou cadeira de rodas desde os 20 anos e morreu aos 40 'do coração'; o pai e as irmãs são saudáveis. Ao exame: panturrilhas volumosas e de consistência firme, fraqueza de cintura pélvica grau 4, apoio nas coxas para se levantar. PA 110x70 mmHg, FC 86 bpm, B3 discreta. CK 5.600 U/L (referência até 190). Ecocardiograma: FE 40%, hipocinesia da parede inferolateral basal. A sorologia para doença de Chagas foi colhida e o resultado está pendente. O achado eletrocardiográfico mais esperado é:",
+ "alternativas": {
+  "A": "R alta em V1 com Q profundas em DI, aVL e V6",
+  "B": "Bloqueio de ramo direito com divisional anterossuperior",
+  "C": "Baixa voltagem com padrão de pseudoinfarto",
+  "D": "Onda épsilon com T negativa de V1 a V3"
+ },
+ "gabarito": "A",
+ "armadilha": "B",
+ "dado_decisivo": "panturrilhas volumosas e de consistência firme, fraqueza de cintura pélvica grau 4",
+ "resolucao": "A origem em área endêmica e a casa de taipa são verdadeiras e puxam a cardiopatia chagásica, cujo ECG é o bloqueio de ramo direito com divisional anterossuperior: é a isca. Mas o caso entrega outra síndrome: homem com fraqueza de cintura pélvica de progressão lenta, que ainda caminha aos 31 anos, pseudo-hipertrofia de panturrilhas, cãibras ao esforço, CK 30 vezes o normal e herança pela linha materna (tio materno afetado, pai saudável), que é ligada ao X. É a distrofia muscular de Becker, forma mais branda da distrofinopatia, na qual a cardiomiopatia pode ser desproporcionalmente grave em relação ao músculo esquelético. A fibrose da distrofinopatia começa na parede inferolateral basal (posterobasal), e o ECG característico é R alta em V1 e V2 com relação R/S maior que 1 (espelho da perda de força elétrica posterior) e ondas Q profundas e estreitas em DI, aVL e V5 e V6, padrão que imita infarto posterior.",
+ "comentarios": {
+  "A": "Correta. A fibrose posterobasal das distrofinopatias produz R alta em V1 e Q profundas laterais, e a fraqueza proximal com pseudo-hipertrofia, CK alta e herança materna definem Becker.",
+  "B": "Errada, e é a armadilha. Seria o ECG da cardiopatia chagásica; a epidemiologia é verdadeira, mas não explica fraqueza de cintura, pseudo-hipertrofia de panturrilhas nem CK de 5.600.",
+  "C": "Errada. Baixa voltagem com pseudoinfarto é da amiloidose cardíaca, com espessamento de paredes no eco; aqui as paredes não estão espessadas e há miopatia esquelética.",
+  "D": "Errada. Onda épsilon com T negativa de V1 a V3 é da cardiomiopatia arritmogênica do VD, sem miopatia esquelética nem CK elevada."
+ },
+ "para_levar": "Distrofinopatia (Duchenne ou Becker): cardiomiopatia dilatada com fibrose posterobasal e ECG com R alta em V1 e Q profundas laterais; no Becker, o coração pode ser pior que o músculo.",
+ "referencias": "AHA Scientific Statement on cardiac involvement in neuromuscular disorders (Feingold B et al., Circulation 2017); ESC 2023 Guidelines for the management of cardiomyopathies",
+ "tags": ["Cardiomiopatias (CM)", "Neuromuscular (CM)", "Eletrocardiograma (CM)"],
+ "sourceQuestionId": "a63e35c7fee9db6",
+ "alvo": "Semiologia da síndrome à lesão (lacuna fixa): da síndrome dada sem nome ao ECG esperado, contra o rótulo epidemiológico verdadeiro."
+},
+{
+ "id": "S14-CAR-02",
+ "simulado": 14,
+ "area": "Cardiologia",
+ "titulo": "Estenose aórtica grave aos 76 anos com doença de tronco e SYNTAX alto: troca valvar cirúrgica com revascularização, e não TAVI",
+ "arma": "Rótulo verdadeiro",
+ "comando": "conduta",
+ "nivel": "difícil",
+ "enunciado": "Homem de 76 anos, diabético e hipertenso, com estenose aórtica, refere angina e dispneia aos médios esforços há 4 meses. Independente, caminha 2 km por dia, teste de fragilidade normal, sem pneumopatia, função renal normal; escore STS de mortalidade de 2,6%. Ecocardiograma: valva aórtica trivalvular calcificada, área de 0,7 cm², gradiente médio de 52 mmHg, FE 58%. Angiotomografia: aorta sem calcificação em porcelana e acessos femorais adequados. Cineangiocoronariografia: lesão de 70% no tronco da coronária esquerda distal, estenoses de 80% na descendente anterior proximal e na circunflexa e de 90% na coronária direita média, com escore SYNTAX de 34. Na reunião do heart team, o residente argumenta que 'acima de 75 anos a escolha é TAVI'. A conduta mais adequada é:",
+ "alternativas": {
+  "A": "TAVI transfemoral com angioplastia multiarterial",
+  "B": "Troca valvar cirúrgica com revascularização miocárdica",
+  "C": "Valvoplastia aórtica por balão como ponte",
+  "D": "TAVI transfemoral sem tratar as coronárias"
+ },
+ "gabarito": "B",
+ "armadilha": "A",
+ "dado_decisivo": "com escore SYNTAX de 34",
+ "resolucao": "O argumento do residente é verdadeiro como regra geral: a diretriz europeia de 2021 favorece TAVI a partir de 75 anos e a troca cirúrgica abaixo disso em quem tem baixo risco. Mas a escolha da via depende também das lesões associadas que pedem cirurgia. Doença de tronco com triarterial e SYNTAX de 34 (alto, acima de 32) tem indicação de revascularização cirúrgica, que supera a angioplastia nessa anatomia, especialmente no diabético. Com risco cirúrgico baixo (STS de 2,6%), paciente robusto e aorta sem porcelana, o procedimento combinado de troca valvar e revascularização no mesmo tempo é a recomendação. TAVI com angioplastia multiarterial seria a saída para quem tem risco cirúrgico proibitivo, fragilidade ou aorta em porcelana, nada disso presente.",
+ "comentarios": {
+  "A": "Errada, e é a armadilha. Seria a estratégia no idoso frágil ou de alto risco cirúrgico; aqui o risco é baixo e a anatomia coronária (tronco, SYNTAX 34, diabetes) é cirúrgica.",
+  "B": "Correta. Estenose aórtica grave sintomática com doença de tronco e SYNTAX alto, em paciente de baixo risco cirúrgico, pede troca valvar e revascularização no mesmo tempo.",
+  "C": "Errada. A valvoplastia por balão é ponte em paciente instável ou para cirurgia não cardíaca urgente; o paciente é estável e tem tratamento definitivo disponível.",
+  "D": "Errada. Deixar doença de tronco e triarterial grave sem tratamento num paciente com angina mantém o risco de isquemia e morte; as coronárias precisam ser abordadas."
+ },
+ "para_levar": "TAVI x cirurgia não se decide só pela idade: doença coronária complexa (tronco, SYNTAX alto), aorta tratável e baixo risco cirúrgico favorecem troca valvar com revascularização.",
+ "referencias": "ESC/EACTS 2021 Guidelines for the management of valvular heart disease; ACC/AHA 2020 Guideline for valvular heart disease; ESC 2024 Guidelines for chronic coronary syndromes",
+ "tags": ["Estenose Aórtica (CM)", "Coronariopatia Crônica (CM)"],
+ "sourceQuestionId": "58a8c92ac758c10",
+ "alvo": "Estenose aórtica (lacuna nova, 0 de 2) e rótulo verdadeiro ('acima de 75, TAVI') que esconde o dado que decide."
+},
+{
+ "id": "S14-CAR-03",
+ "simulado": 14,
+ "area": "Cardiologia",
+ "titulo": "Miocardite fulminante com TV e bloqueio AV em choque: biópsia endomiocárdica para buscar células gigantes, e não ressonância",
+ "arma": "Negativo no meio",
+ "comando": "próximo exame",
+ "nivel": "extremamente difícil",
+ "enunciado": "Mulher de 36 anos, com tireoidite de Hashimoto em uso de levotiroxina, é internada com dispneia progressiva há 10 dias, sem febre, quadro gripal ou diarreia prévios e sem uso de imunoterapia ou drogas ilícitas. Na admissão apresenta taquicardia ventricular sustentada, revertida com cardioversão, que recorre três vezes em 24 horas apesar de amiodarona, e bloqueio atrioventricular 2:1, que exige marca-passo provisório. Evolui em choque cardiogênico refratário, com noradrenalina, dobutamina e lactato de 4,8 mmol/L, e é avaliada para suporte circulatório mecânico. Troponina muito elevada. Cineangiocoronariografia: coronárias normais. Ecocardiograma: VE com diâmetro diastólico de 51 mm, FE 20%, hipocinesia difusa. Eosinófilos 220/mm³. Para definir o tratamento, o próximo exame mais adequado é:",
+ "alternativas": {
+  "A": "Ressonância magnética cardíaca",
+  "B": "PET com FDG cardíaco",
+  "C": "Pesquisa viral por PCR no sangue",
+  "D": "Biópsia endomiocárdica"
+ },
+ "gabarito": "D",
+ "armadilha": "A",
+ "dado_decisivo": "Evolui em choque cardiogênico refratário",
+ "resolucao": "Na miocardite estável a ressonância é o exame de escolha, e por isso ela é a isca. Mas este é outro cenário: insuficiência cardíaca de início recente (menos de 3 meses) com choque refratário, taquicardia ventricular recorrente e bloqueio atrioventricular de alto grau, sem resposta ao tratamento habitual, com coronárias normais (o negativo que afasta a isquemia). Essa combinação é indicação classe I de biópsia endomiocárdica nas diretrizes, porque a principal suspeita, a miocardite de células gigantes (associada a doenças autoimunes como Hashimoto), tem mortalidade altíssima sem tratamento e responde a imunossupressão combinada (glicocorticoide com ciclosporina ou tacrolimo, às vezes globulina antitimocítica); a biópsia também identifica miocardite eosinofílica e sarcoidose. A ressonância não dá a histologia, é difícil de fazer num paciente instável em suporte, e não muda a decisão. Sem eosinofilia periférica e sem exposição a imunoterapia, os outros vizinhos ficam menos prováveis, mas só o tecido decide.",
+ "comentarios": {
+  "A": "Errada, e é a armadilha. A ressonância é o exame da miocardite em paciente estável; no choque refratário com arritmia grave, não fornece a histologia que define a imunossupressão e é de difícil execução.",
+  "B": "Errada. O PET com FDG ajuda a diagnosticar e acompanhar sarcoidose cardíaca em paciente estável; não separa células gigantes de sarcoidose nem substitui o tecido na instabilidade.",
+  "C": "Errada. A PCR viral no sangue não confirma miocardite viral nem afasta células gigantes; não muda o tratamento.",
+  "D": "Correta. Choque refratário com TV recorrente e bloqueio de alto grau em miocardite recente é indicação classe I de biópsia, para identificar células gigantes e iniciar imunossupressão."
+ },
+ "para_levar": "Miocardite com choque, TV recorrente ou bloqueio de alto grau que não responde ao tratamento habitual: biópsia endomiocárdica, para achar células gigantes, eosinofílica ou sarcoidose e imunossuprimir.",
+ "referencias": "ESC 2023 Guidelines for the management of cardiomyopathies; AHA Scientific Statement on fulminant myocarditis (Kociol RD et al., Circulation 2020); Diretriz Brasileira de Miocardites SBC 2022",
+ "tags": ["Miocardite e Pericardite (CM)", "Choque Cardiogênico (CM)"],
+ "sourceQuestionId": "141b91b880112e2",
+ "alvo": "Próximo exame: escolher o exame padrão do cenário estável quando a gravidade muda o exame que decide."
+},
+{
+ "id": "S14-CAR-04",
+ "simulado": 14,
+ "area": "Cardiologia",
+ "titulo": "AVCs múltiplos, hemoculturas negativas e câncer de pâncreas: endocardite trombótica não bacteriana, e não endocardite decapitada",
+ "arma": "Rótulo verdadeiro",
+ "comando": "etiologia",
+ "nivel": "difícil",
+ "enunciado": "Homem de 63 anos, sem valvopatia prévia, perdeu 10 kg em 3 meses, com dor epigástrica que irradia para o dorso. Há 5 semanas teve trombose venosa femoral e, desde então, cordões dolorosos que surgem e somem nos braços. Há 2 semanas usou amoxicilina por 5 dias para sinusite. É internado por afasia súbita e, dois dias depois, fraqueza na mão esquerda; a ressonância mostra infartos agudos em territórios dos dois hemisférios. Permaneceu sem febre durante toda a internação; sem sopro novo; leucócitos 8.900/mm³, PCR 1,9 mg/dL. Três pares de hemoculturas negativos; sorologias para Coxiella burnetii e Bartonella negativas. Ecocardiograma transesofágico: vegetações sésseis de 3 a 5 mm na face atrial dos dois folhetos mitrais, sem regurgitação significativa, perfuração ou abscesso. Tomografia: massa de 3,5 cm no corpo do pâncreas. D-dímero muito elevado. A etiologia mais provável das vegetações é:",
+ "alternativas": {
+  "A": "Endocardite por Coxiella burnetii",
+  "B": "Fibroelastoma papilífero mitral",
+  "C": "Endocardite trombótica não bacteriana",
+  "D": "Endocardite infecciosa decapitada por antibiótico"
+ },
+ "gabarito": "C",
+ "armadilha": "D",
+ "dado_decisivo": "Permaneceu sem febre durante toda a internação",
+ "resolucao": "O uso recente de amoxicilina é verdadeiro e oferece a explicação fácil para hemoculturas negativas: endocardite decapitada, a isca. Mas endocardite infecciosa com vegetações e embolias múltiplas raramente cursa sem febre, sem leucocitose, com PCR quase normal e sem destruição valvar. O conjunto aponta para endocardite trombótica não bacteriana (marântica): vegetações estéreis, pequenas e sésseis de plaquetas e fibrina na face atrial da mitral, em estado de hipercoagulabilidade de câncer (aqui, adenocarcinoma de pâncreas, com trombose venosa e tromboflebite migratória de Trousseau). Elas embolizam com frequência, em geral para o cérebro e em vários territórios. O tratamento é anticoagulação com heparina (não fracionada ou de baixo peso), já que a varfarina e os anticoagulantes orais diretos falham no Trousseau, e o controle da neoplasia.",
+ "comentarios": {
+  "A": "Errada. A endocardite por Coxiella é a principal causa de endocardite com cultura negativa, mas cursa com febre prolongada e valvopatia prévia, e a sorologia veio negativa.",
+  "B": "Errada. O fibroelastoma é tumor pedunculado e móvel, em geral único, na face arterial da valva aórtica; não explica vegetações sésseis nos dois folhetos nem a trombose venosa.",
+  "C": "Correta. Vegetações estéreis pequenas na face atrial da mitral, embolias cerebrais múltiplas, ausência de inflamação sistêmica e neoplasia com Trousseau são a endocardite marântica.",
+  "D": "Errada, e é a armadilha. O antibiótico recente pode negativar hemoculturas, mas não apagaria a febre, a leucocitose e a PCR de uma endocardite com embolias múltiplas, nem explicaria a trombose migratória."
+ },
+ "para_levar": "Embolias cerebrais múltiplas, vegetações pequenas e estéreis sem febre, em paciente com câncer (pâncreas, pulmão) e Trousseau: endocardite trombótica não bacteriana, tratada com heparina e controle do tumor.",
+ "referencias": "ESC 2023 Guidelines for the management of endocarditis; ACCP/CHEST Antithrombotic Therapy (cancer-associated thrombosis); Liu J, Frishman WH, Cardiol Rev 2016 (nonbacterial thrombotic endocarditis)",
+ "tags": ["Endocardite Bacteriana (CM)", "Síndromes Paraneoplásicas (CM)"],
+ "sourceQuestionId": "1719e8488e56b55",
+ "alvo": "Rótulo verdadeiro (antibiótico prévio) que explica o dado errado, contra o negativo que decide (sem febre, sem inflamação)."
+},
+{
+ "id": "S14-CAR-05",
+ "simulado": 14,
+ "area": "Cardiologia",
+ "titulo": "Supra de ST inferior durante anafilaxia por antibiótico com coronárias normais: síndrome de Kounis, e não cardiomiopatia pela adrenalina",
+ "arma": "Cronologia",
+ "comando": "mecanismo",
+ "nivel": "extremamente difícil",
+ "enunciado": "Homem de 47 anos, sem fatores de risco cardiovascular, recebe a primeira dose de amoxicilina-clavulanato por via oral numa unidade de pronto atendimento. Cerca de 15 minutos depois surgem urticária generalizada, edema labial, sibilos e dor retroesternal em aperto. PA 84x50 mmHg, FC 112 bpm. O ECG, registrado antes de qualquer medicação, mostra supradesnivelamento do ST de 2 mm em DII, DIII e aVF, com infradesnivelamento recíproco em aVL. Recebe adrenalina intramuscular, expansão volêmica, anti-histamínico e corticoide; dor, hipotensão e alterações do ST desaparecem em 25 minutos. A cineangiocoronariografia urgente mostra coronárias sem lesões ou trombo. Troponina com pico discreto; triptase sérica colhida em 1 hora elevada. Ecocardiograma no dia seguinte: contratilidade segmentar normal, FE 62%. O mecanismo mais provável da isquemia é:",
+ "alternativas": {
+  "A": "Vasoespasmo coronariano por mediadores dos mastócitos",
+  "B": "Cardiomiopatia de estresse induzida pela adrenalina",
+  "C": "Ruptura de placa aterosclerótica com trombose",
+  "D": "Embolia coronária paradoxal"
+ },
+ "gabarito": "A",
+ "armadilha": "B",
+ "dado_decisivo": "O ECG, registrado antes de qualquer medicação",
+ "resolucao": "A adrenalina pode causar isquemia e cardiomiopatia de estresse, e por isso é a isca de quem vê o paciente depois do tratamento. A cronologia decide: o supra de ST foi registrado antes de qualquer droga, durante a reação alérgica, e o ecocardiograma do dia seguinte é normal, sem o balonamento apical que a cardiomiopatia de estresse deixaria. Síndrome coronariana aguda durante reação alérgica é a síndrome de Kounis: histamina, leucotrienos, triptase e outros mediadores dos mastócitos causam vasoespasmo coronariano. No tipo I (o mais comum), as coronárias são normais e o espasmo explica o supra transitório e o pico discreto de troponina; no tipo II há placa prévia que se rompe; no tipo III há trombose de stent com eosinófilos e mastócitos. O tratamento é o da anafilaxia, e a adrenalina continua indicada no choque anafilático mesmo com isquemia.",
+ "comentarios": {
+  "A": "Correta. Supra de ST transitório durante anafilaxia, antes de qualquer droga, com coronárias normais, triptase elevada e eco normal é Kounis tipo I, por vasoespasmo mediado por mastócitos.",
+  "B": "Errada, e é a armadilha. A adrenalina pode causar cardiomiopatia de estresse, mas o supra precedeu a droga e o eco não mostra alteração apical nem disfunção.",
+  "C": "Errada. Ruptura de placa com trombose seria Kounis tipo II ou infarto tipo 1, com lesão ou trombo no cateterismo; as coronárias estão sem lesões.",
+  "D": "Errada. A embolia coronária exige fonte embólica e shunt direita-esquerda, deixaria oclusão ou amputação de ramo na angiografia e não regride em minutos com anti-histamínico."
+ },
+ "para_levar": "Síndrome coronariana durante reação alérgica é Kounis: no tipo I, coronárias normais e vasoespasmo por mediadores de mastócitos; trate a anafilaxia, inclusive com adrenalina.",
+ "referencias": "Kounis NG, Clin Ther 2013 e Int J Cardiol 2016 (Kounis syndrome); World Allergy Organization Anaphylaxis Guidance 2020; ESC 2023 Guidelines for acute coronary syndromes (MINOCA e vasoespasmo)",
+ "tags": ["Anafilaxia (CM)", "Outras oclusões coronarianas agudas (CM)"],
+ "sourceQuestionId": null,
+ "alvo": "Alergia e anafilaxia (lacuna nova) na interface com a coronária; a cronologia do ECG como dado que decide."
+}
+]

@@ -1,0 +1,239 @@
+[
+ {
+  "id": "S11-GAS-01",
+  "simulado": 11,
+  "area": "Gastroenterologia",
+  "titulo": "Disfagia com contrações prematuras e relaxamento incompleto da junção em usuário crônico de opioide: disfunção esofágica induzida por opioide, e não espasmo primário",
+  "arma": "Droga a deduzir",
+  "comando": "etiologia",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 58 anos tem há 5 meses disfagia para sólidos e líquidos e episódios de dor retroesternal em aperto durante as refeições. Há 8 meses, depois de uma artrodese lombar, toma diariamente um comprimido de liberação prolongada prescrito pelo ortopedista para a dor da coluna, que também lhe trouxe constipação, hoje controlada com macrogol. Cateterismo recente sem lesões coronarianas. Peso estável. Endoscopia normal, com biópsias esofágicas sem eosinófilos; esofagograma sem estenose; TC de tórax e abdome superior normal. Glicemia e TSH normais. Manometria de alta resolução: pressão de relaxamento integrada (IRP) de 19 mmHg (normal até 15 mmHg) e 40% das deglutições com contrações prematuras (latência distal menor que 4,5 s), com peristaltismo normal nas demais. A causa mais provável do quadro é:",
+  "alternativas": {
+   "A": "Efeito do opioide sobre a motilidade esofágica",
+   "B": "Acalasia tipo III idiopática",
+   "C": "Pseudoacalasia por neoplasia da cárdia",
+   "D": "Espasmo esofagiano distal primário"
+  },
+  "gabarito": "A",
+  "armadilha": "D",
+  "dado_decisivo": "toma diariamente um comprimido de liberação prolongada prescrito pelo ortopedista para a dor da coluna, que também lhe trouxe constipação",
+  "resolucao": "Contrações prematuras em 40% das deglutições levam direto ao espasmo esofagiano distal, e é essa a leitura de quem olha só o laudo. Mas o espasmo distal primário exige relaxamento normal da junção, e aqui a IRP está elevada; a acalasia tipo III, por sua vez, exige ausência de peristaltismo normal, e as demais deglutições foram normais. O dado que amarra o quadro está na história: um comprimido de liberação prolongada para dor crônica que causou constipação é um opioide. Os opioides agonistas mu aumentam o tônus da junção e encurtam a latência distal, produzindo um padrão manométrico que imita espasmo, acalasia tipo III ou obstrução do fluxo da junção, e a Classificação de Chicago 4.0 manda considerar a disfunção induzida por opioide antes de rotular um distúrbio primário. A conduta é reduzir ou retirar o opioide e repetir a manometria, antes de qualquer miotomia ou dilatação. Pseudoacalasia fica improvável com endoscopia, TC e peso normais.",
+  "comentarios": {
+   "A": "Correta. O opioide crônico, deduzido pelo comprimido para dor que causou constipação, explica IRP alta com contrações prematuras e peristaltismo parcialmente preservado.",
+   "B": "Errada. Seria a resposta com 100% de falha do peristaltismo normal; aqui as deglutições sem contração prematura foram normais, e há uma droga que reproduz o padrão.",
+   "C": "Errada. Seria a hipótese no idoso com disfagia curta e emagrecimento; peso estável, endoscopia e TC normais a afastam.",
+   "D": "Errada. É a armadilha do laudo. O espasmo distal primário tem IRP normal e não pode ser diagnosticado em uso de opioide sem antes retirá-lo."
+  },
+  "para_levar": "Contração prematura ou IRP alta na manometria de quem usa opioide crônico: pensar em disfunção esofágica induzida por opioide, retirar a droga e repetir o exame antes de tratar distúrbio primário.",
+  "referencias": "Chicago Classification of Esophageal Motility Disorders v4.0 (2021); ACG Clinical Guideline: Diagnosis and Management of Achalasia (2020)",
+  "tags": [
+   "Disfagias, Esofagite Eosinofílica e Acalasias (CM)",
+   "Esôfago (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Ignorar a droga em uso e rotular o exame pelo achado mais chamativo."
+ },
+ {
+  "id": "S11-GAS-02",
+  "simulado": 11,
+  "area": "Gastroenterologia",
+  "titulo": "Hematêmese recorrente com primeira endoscopia sem lesão e coágulos no fundo gástrico: nova endoscopia para lesão de Dieulafoy",
+  "arma": "Negativo no meio",
+  "comando": "próximo exame",
+  "nivel": "difícil",
+  "enunciado": "Homem de 71 anos, com doença renal crônica estágio 3b e cardiopatia isquêmica em uso de AAS, é internado com hematêmese volumosa e melena; PA 88x50 mmHg, FC 118 bpm. Após ressuscitação, faz endoscopia em 10 horas: grande quantidade de sangue fresco e coágulos em fundo e corpo gástricos, removidos parcialmente com lavagem; na mucosa visível, sem úlcera, varizes, erosões ou neoplasia; duodeno até a segunda porção normal. Estabiliza com 3 concentrados de hemácias. Trinta horas depois, nova hematêmese com queda da hemoglobina de 8,9 para 6,7 g/dL e PA 92x56 mmHg, que responde a volume. Colonoscopia há 1 ano normal. O próximo exame mais adequado é:",
+  "alternativas": {
+   "A": "Angiotomografia abdominal",
+   "B": "Nova endoscopia digestiva alta",
+   "C": "Cápsula endoscópica do delgado",
+   "D": "Colonoscopia após preparo"
+  },
+  "gabarito": "B",
+  "armadilha": "C",
+  "dado_decisivo": "removidos parcialmente com lavagem",
+  "resolucao": "Uma endoscopia que não achou a lesão empurra o raciocínio para fora do estômago: cápsula, angiotomografia ou colonoscopia. Mas aquela endoscopia foi incompleta: o fundo e o corpo estavam cobertos por coágulos removidos só em parte, exatamente onde se esconde a lesão de Dieulafoy, uma arteríola submucosa calibrosa que sangra por um defeito mínimo da mucosa, sangra de forma intermitente e maciça e costuma passar despercebida no primeiro exame. Hematêmese é sangramento proximal ao ângulo de Treitz, e ressangramento após endoscopia inconclusiva pede nova endoscopia precoce, com mais lavagem e mudança de decúbito, que acha a lesão na maioria das vezes e permite tratá-la com clipe ou terapia combinada. Angiotomografia e arteriografia ficam para quando a endoscopia não localiza ou não controla o sangramento. A colonoscopia não explica hematêmese.",
+  "comentarios": {
+   "A": "Errada. É o passo quando uma endoscopia adequada não localiza a fonte ou falha no controle; aqui a primeira foi incompleta.",
+   "B": "Correta. Exame inicial prejudicado por coágulos no fundo e no corpo, seguido de ressangramento: nova endoscopia precoce para achar e tratar a fonte, como a lesão de Dieulafoy.",
+   "C": "Errada. É a armadilha. Cápsula investiga sangramento do delgado depois de endoscopia alta e colonoscopia adequadas e negativas; hematêmese aponta para cima.",
+   "D": "Errada. Hematêmese localiza a fonte acima do ângulo de Treitz, e a colonoscopia de 1 ano atrás foi normal."
+  },
+  "para_levar": "Endoscopia alta inconclusiva por sangue e coágulos não é endoscopia negativa: no ressangramento, repetir a endoscopia antes de cápsula ou angiotomografia.",
+  "referencias": "ACG Clinical Guideline: Upper Gastrointestinal and Ulcer Bleeding (2021); ESGE Guideline: Endoscopic diagnosis and management of nonvariceal upper GI hemorrhage (2021)",
+  "tags": [
+   "Hemorragia digestiva alta",
+   "Estômago (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Exame negativo lido como definitivo; pular para o exame do degrau seguinte."
+ },
+ {
+  "id": "S11-GAS-03",
+  "simulado": 11,
+  "area": "Hepatologia",
+  "titulo": "Síndrome de Budd-Chiari sem insuficiência hepática: anticoagulação plena como primeiro passo da estratégia escalonada",
+  "arma": "Cronologia",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 29 anos, em uso de anticoncepcional oral combinado há 3 anos, tem há 3 semanas dor em hipocôndrio direito e aumento do volume abdominal. Nega etilismo. Exame: PA 112x70 mmHg, jugulares não túrgidas, hepatomegalia dolorosa, ascite moderada, sem encefalopatia ou asterixe. Exames: ALT 310 U/L, AST 280 U/L, bilirrubina 2,1 mg/dL, INR 1,4, albumina 3,2 g/dL, plaquetas 310.000/mm³, creatinina 0,8 mg/dL. Líquido ascítico com gradiente soro-ascite de 1,6 g/dL e proteína de 3,4 g/dL. Doppler: trombos oclusivos nas veias hepáticas média e direita, fluxo reduzido na esquerda, veia porta pérvia e veia cava sem estenose segmentar. Foram colhidas pesquisa de JAK2 e de trombofilias. Além de suspender o anticoncepcional, a conduta inicial mais adequada é:",
+  "alternativas": {
+   "A": "TIPS de urgência",
+   "B": "Trombólise sistêmica",
+   "C": "Anticoagulação plena imediata",
+   "D": "Avaliação para transplante hepático"
+  },
+  "gabarito": "C",
+  "armadilha": "A",
+  "dado_decisivo": "ALT 310 U/L, AST 280 U/L, bilirrubina 2,1 mg/dL, INR 1,4",
+  "resolucao": "O diagnóstico já veio pronto pelo Doppler, e a tentação é pular para o procedimento que descomprime o fígado, o TIPS. Mas o tratamento da síndrome de Budd-Chiari é escalonado: todos recebem anticoagulação plena imediata, com heparina e depois anticoagulante oral por tempo indeterminado, junto com o tratamento da causa e da ascite. Só quem tem estenose curta das veias hepáticas ou da cava vai para angioplastia; quem não melhora com anticoagulação, ou piora, vai para TIPS; e o transplante fica para a forma fulminante ou a falha do TIPS. Esta paciente não tem insuficiência hepática aguda (sem encefalopatia, INR 1,4), não tem estenose segmentar a dilatar, e deve começar pelo primeiro degrau. A trombólise sistêmica tem risco hemorrágico alto e papel restrito a casos selecionados de trombose recente, por via local.",
+  "comentarios": {
+   "A": "Errada. É a armadilha: o TIPS é o degrau para quem não responde à anticoagulação e à angioplastia, não o primeiro passo em paciente sem insuficiência hepática.",
+   "B": "Errada. Trombólise sistêmica não é conduta inicial; o risco de sangramento supera o benefício, e a trombólise local é exceção em centro especializado.",
+   "C": "Correta. Toda Budd-Chiari começa com anticoagulação plena e tratamento da causa; função hepática preservada permite seguir a estratégia escalonada.",
+   "D": "Errada. Transplante é para a forma fulminante ou a falha do TIPS; INR 1,4 sem encefalopatia não é insuficiência hepática aguda."
+  },
+  "para_levar": "Budd-Chiari: anticoagular todos de imediato; angioplastia se estenose curta, TIPS se falha, transplante se fulminante ou falha do TIPS.",
+  "referencias": "EASL Clinical Practice Guidelines: Vascular diseases of the liver (2016); AASLD Practice Guidance: Vascular liver disorders, portal vein thrombosis and procedural bleeding (2020); Baveno VII (2022)",
+  "tags": [
+   "Hipertensão Portal (CM)",
+   "Anticoagulação (CM)"
+  ],
+  "sourceQuestionId": "5d67521a69441ff",
+  "alvo": "Fazer mais do que o caso pede: procedimento do degrau seguinte antes do tratamento de primeira linha."
+ },
+ {
+  "id": "S11-GAS-04",
+  "simulado": 11,
+  "area": "Hepatologia",
+  "titulo": "Prurido no terceiro trimestre com ácidos biliares acima de 100 µmol/L: colestase intra-hepática da gestação com parto programado entre 35 e 36 semanas",
+  "arma": "Grade X / Y",
+  "comando": "diagnóstico",
+  "nivel": "difícil",
+  "enunciado": "Gestante de 31 anos, G2P1, com 33 semanas, refere prurido intenso em palmas e plantas há 2 semanas, pior à noite, sem lesões cutâneas além de escoriações. Nega náuseas, vômitos, dor abdominal, cefaleia ou polidipsia. PA 118x72 mmHg. Exames: ALT 186 U/L, AST 140 U/L, bilirrubina total 1,4 mg/dL, plaquetas 228.000/mm³, glicemia 82 mg/dL, creatinina 0,6 mg/dL, ácido úrico 4,1 mg/dL, INR 1,0, proteinúria negativa e ácidos biliares séricos totais de 118 µmol/L. Sorologias para hepatites virais negativas. Ultrassonografia: vesícula com microcálculos, vias biliares não dilatadas. O diagnóstico e a programação do parto são, respectivamente:",
+  "alternativas": {
+   "A": "Esteatose hepática aguda da gestação / parto imediato",
+   "B": "Colestase intra-hepática da gestação / parto com 38 a 39 semanas",
+   "C": "Síndrome HELLP / parto com 34 semanas",
+   "D": "Colestase intra-hepática da gestação / parto entre 35 e 36 semanas"
+  },
+  "gabarito": "D",
+  "armadilha": "B",
+  "dado_decisivo": "ácidos biliares séricos totais de 118 µmol/L",
+  "resolucao": "Prurido palmoplantar noturno no terceiro trimestre, aminotransferases altas e ácidos biliares elevados, sem hipertensão, plaquetopenia, hipoglicemia ou coagulopatia, é colestase intra-hepática da gestação; os microcálculos são achado comum e não explicam colestase sem dilatação das vias. Quem acerta o diagnóstico tende a marcar o parto a termo, que vale para a forma leve. O risco fetal (morte intrauterina súbita) cresce com o pico de ácidos biliares, e acima de 100 µmol/L ele sobe de forma clara: as diretrizes recomendam programar o parto entre 35 e 36 semanas, enquanto abaixo de 40 µmol/L se aceita esperar até 38 a 39 semanas. A esteatose aguda teria hipoglicemia, coagulopatia e insuficiência hepática, e a HELLP, hipertensão, hemólise e plaquetopenia. O ursodesoxicólico pode aliviar o prurido, mas não muda o momento do parto.",
+  "comentarios": {
+   "A": "Errada. Esteatose aguda da gestação traria hipoglicemia, INR alargado, lesão renal e encefalopatia; glicemia 82 e INR 1,0 a afastam.",
+   "B": "Errada. É a armadilha: o diagnóstico está certo, mas o termo vale para ácidos biliares baixos; 118 µmol/L pede antecipação.",
+   "C": "Errada. HELLP exige hemólise e plaquetopenia, em geral com hipertensão; plaquetas 228.000 e PA normal a afastam.",
+   "D": "Correta. Colestase intra-hepática da gestação com ácidos biliares acima de 100 µmol/L: risco de óbito fetal alto e parto programado entre 35 e 36 semanas."
+  },
+  "para_levar": "Na colestase da gestação, o pico de ácidos biliares define o parto: acima de 100 µmol/L, programar entre 35 e 36 semanas.",
+  "referencias": "RCOG Green-top Guideline No. 43: Intrahepatic Cholestasis of Pregnancy (2022); SMFM Consult Series No. 53: Intrahepatic cholestasis of pregnancy (2021)",
+  "tags": [
+   "Avaliação de Enzimas Hepaticas (CM)",
+   "226 Common Medical Problems in Pregnancy"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Número que decide (ácidos biliares) lido como enfeite depois de acertar o rótulo."
+ },
+ {
+  "id": "S11-GAS-05",
+  "simulado": 11,
+  "area": "Gastroenterologia",
+  "titulo": "Pancreatite com colelitíase e soro leitoso após estrogênio oral: hipertrigliceridemia como etiologia, e não litíase",
+  "arma": "Rótulo verdadeiro",
+  "comando": "etiologia",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 52 anos, com diabetes tipo 2 mal controlado (HbA1c 9,1%) e obesidade, é internada com dor epigástrica em faixa há 12 horas e vômitos. Iniciou estradiol oral há 2 meses para fogachos. Não ingere álcool. PA 124x80 mmHg, FC 104 bpm. Exames: lipase 2.900 U/L (referência até 60), amilase 140 U/L (referência até 100), ALT 38 U/L, AST 40 U/L, bilirrubina 0,7 mg/dL, fosfatase alcalina normal, cálcio 8,6 mg/dL, glicemia 286 mg/dL, soro de aspecto leitoso e triglicerídeos de 2.840 mg/dL. Ultrassonografia: vesícula com múltiplos cálculos de 5 a 8 mm e colédoco de 5 mm. A etiologia mais provável da pancreatite é:",
+  "alternativas": {
+   "A": "Litíase biliar",
+   "B": "Hipertrigliceridemia",
+   "C": "Toxicidade pancreática direta do estrogênio",
+   "D": "Pancreatite autoimune"
+  },
+  "gabarito": "B",
+  "armadilha": "A",
+  "dado_decisivo": "triglicerídeos de 2.840 mg/dL",
+  "resolucao": "A vesícula com cálculos pequenos é um rótulo verdadeiro: os cálculos estão lá e a litíase é a causa mais comum de pancreatite, o que faz o apressado parar no ultrassom. Mas triglicerídeos acima de 1.000 mg/dL bastam para causar pancreatite, e aqui estão perto de 3.000, com soro leitoso. O laboratório também pesa contra a litíase: ALT abaixo de 150 U/L nas primeiras 48 horas e bilirrubina normal, com colédoco fino. A amilase só discretamente elevada é outra pista, porque o soro lipêmico interfere na dosagem. O gatilho está na droga: o estrogênio oral, por passagem hepática, aumenta a síntese de VLDL e pode precipitar hipertrigliceridemia grave em quem já tem diabetes descompensado e obesidade. A consequência prática é suspender o estrogênio oral, controlar a glicemia e tratar a hipertrigliceridemia; os cálculos serão avaliados à parte.",
+  "comentarios": {
+   "A": "Errada. É a armadilha. Os cálculos existem, mas ALT 38 e bilirrubina normal falam contra, e triglicerídeos acima de 1.000 já são causa suficiente.",
+   "B": "Correta. Triglicerídeos de 2.840 mg/dL com soro leitoso, em quem iniciou estrogênio oral e tem diabetes descompensado.",
+   "C": "Errada. O estrogênio age elevando os triglicerídeos, não por toxicidade direta sobre o pâncreas.",
+   "D": "Errada. Pancreatite autoimune é diagnóstico de exclusão, com imagem sugestiva e IgG4; há uma causa metabólica evidente."
+  },
+  "para_levar": "Pancreatite com triglicerídeos acima de 1.000 mg/dL: a hipertrigliceridemia é a causa, mesmo com cálculos na vesícula; procurar o gatilho (estrogênio oral, diabetes descompensado, álcool).",
+  "referencias": "ACG Guideline: Management of Acute Pancreatitis (2024); Endocrine Society Clinical Practice Guideline: Hypertriglyceridemia (2012)",
+  "tags": [
+   "Pancreatite Aguda (CM)",
+   "Dislipidemias (CM)"
+  ],
+  "sourceQuestionId": "aa5032efe1564af",
+  "alvo": "Rótulo verdadeiro (colelitíase) que esconde o dado decisivo; droga em uso como gatilho."
+ },
+ {
+  "id": "S11-GAS-06",
+  "simulado": 11,
+  "area": "Oncologia",
+  "titulo": "Hiperviscosidade sintomática no mieloma IgA com hemoglobina muito baixa: plasmaférese antes de transfundir",
+  "arma": "Rótulo verdadeiro",
+  "comando": "conduta",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 66 anos, com mieloma múltiplo IgA kappa diagnosticado há 1 semana e quimioterapia ainda não iniciada, é trazido por cefaleia, visão turva, epistaxe recorrente e sonolência há 2 dias. PA 150x90 mmHg, FC 96 bpm, SatO2 95%, sem dispneia, sem dor torácica, sem estertores. Fundoscopia: veias retinianas dilatadas e tortuosas, com hemorragias em chama de vela. Exames: Hb 6,8 g/dL, plaquetas 110.000/mm³, creatinina 1,6 mg/dL, cálcio corrigido 10,2 mg/dL, proteínas totais 12,4 g/dL, componente monoclonal IgA de 6,8 g/dL, hemácias empilhadas no esfregaço. A conduta mais adequada neste momento é:",
+  "alternativas": {
+   "A": "Plasmaférese antes de qualquer transfusão",
+   "B": "Transfusão de dois concentrados de hemácias",
+   "C": "Dexametasona em dose alta isolada",
+   "D": "Hemodiálise com filtro de alto ponto de corte"
+  },
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "veias retinianas dilatadas e tortuosas, com hemorragias em chama de vela",
+  "resolucao": "A hemoglobina de 6,8 g/dL é verdadeira e grita transfusão. Mas o quadro neurológico, a epistaxe e a fundoscopia com veias em salsicha e hemorragias são hiperviscosidade: a IgA tende a formar dímeros e polímeros e, em concentração alta, aumenta muito a viscosidade do plasma. Nessa situação a anemia é em parte dilucional e protege, porque o hematócrito baixo reduz a viscosidade total; transfundir antes de retirar a proteína aumenta a viscosidade e pode precipitar AVC, infarto ou insuficiência cardíaca. A emergência é a plasmaférese, que reduz a paraproteína em horas, seguida do tratamento do mieloma; a transfusão, se ainda necessária, vem depois e de forma lenta. Dexametasona inicia o controle do clone, mas não reduz a viscosidade a tempo. Filtro de alto ponto de corte remove cadeias leves no rim do mieloma, não IgA.",
+  "comentarios": {
+   "A": "Correta. Hiperviscosidade sintomática pede plasmaférese de urgência; transfundir antes aumenta a viscosidade.",
+   "B": "Errada. É a armadilha: a transfusão seria a conduta na anemia grave sem hiperviscosidade; aqui pode agravar a síndrome.",
+   "C": "Errada. Faz parte do tratamento do mieloma, mas não baixa a paraproteína com a rapidez que a emergência exige.",
+   "D": "Errada. Seria considerado no rim do mieloma por cadeias leves; não remove IgA nem trata hiperviscosidade."
+  },
+  "para_levar": "Hiperviscosidade sintomática: plasmaférese primeiro; transfusão de hemácias só depois e com cautela, porque eleva a viscosidade.",
+  "referencias": "ASFA Guidelines on the Use of Therapeutic Apheresis (2023); IMWG recommendations on emergencies in multiple myeloma; NCCN Multiple Myeloma (2025)",
+  "tags": [
+   "Mieloma Múltiplo (CM)",
+   "Emergências Oncológicas (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Rótulo verdadeiro (Hb baixa) que puxa a conduta de manual errada; hemoterapia (lacuna nova)."
+ },
+ {
+  "id": "S11-GAS-07",
+  "simulado": 11,
+  "area": "Oncologia",
+  "titulo": "Degeneração cerebelar paraneoplásica anti-Yo após ressecção do tumor: déficit persistente, porque a perda de células de Purkinje é precoce e irreversível",
+  "arma": "Cronologia",
+  "comando": "achado esperado",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 58 anos desenvolveu, em 6 semanas, ataxia de marcha e de membros, disartria e nistagmo, até ficar restrita à cadeira de rodas. Ressonância de crânio normal; líquor com 12 linfócitos/mm³ e bandas oligoclonais; anticorpo anti-Yo (anti-PCA1) fortemente positivo. A investigação achou carcinoma seroso de ovário em estádio inicial, ressecado com margens livres, seguido de quimioterapia adjuvante; recebeu também metilprednisolona e imunoglobulina intravenosa. Três meses depois, CA-125 normalizado e sem doença residual na imagem. Em relação ao quadro neurológico, a evolução mais esperada é:",
+  "alternativas": {
+   "A": "Melhora paralela à queda do CA-125",
+   "B": "Surtos com remissão completa entre eles",
+   "C": "Estabilização com déficit grave persistente",
+   "D": "Recuperação completa com a ressecção do tumor"
+  },
+  "gabarito": "C",
+  "armadilha": "D",
+  "dado_decisivo": "em 6 semanas",
+  "resolucao": "A lógica de que tratar o tumor cura a síndrome paraneoplásica atrai para a recuperação completa. Ela vale para síndromes mediadas por anticorpos contra antígenos de superfície (como Lambert-Eaton e encefalite anti-NMDA), em que o anticorpo é o efetor e a função volta. O anti-Yo é dirigido contra antígeno intracelular das células de Purkinje: o anticorpo é marcador, e a lesão é feita por linfócitos T citotóxicos, que destroem as células de Purkinje em poucas semanas. Quando o quadro se instala em 6 semanas até a cadeira de rodas, o substrato neuronal já se perdeu, e o tratamento do tumor e a imunoterapia, no melhor cenário, estabilizam o déficit. A queda do marcador tumoral mostra controle oncológico, não recuperação neurológica. Por isso a urgência é achar e tratar o tumor cedo, antes que a perda se complete.",
+  "comentarios": {
+   "A": "Errada. O CA-125 mede o tumor; a perda de células de Purkinje não acompanha a resposta oncológica.",
+   "B": "Errada. Curso em surtos e remissões não é o da degeneração cerebelar paraneoplásica, que é subaguda e monofásica.",
+   "C": "Correta. Anticorpo contra antígeno intracelular e lesão por linfócitos T: perda precoce de Purkinje e déficit que, no máximo, estabiliza.",
+   "D": "Errada. É a armadilha: a recuperação após tratar o tumor ocorre nas síndromes por anticorpo contra antígeno de superfície, não no anti-Yo."
+  },
+  "para_levar": "Síndromes paraneoplásicas com anticorpo contra antígeno intracelular (anti-Yo, anti-Hu) deixam déficit fixo; tratar o tumor cedo estabiliza, raramente recupera.",
+  "referencias": "Graus F et al. Updated diagnostic criteria for paraneoplastic neurologic syndromes. Neurol Neuroimmunol Neuroinflamm (2021); Dalmau J, Rosenfeld MR. Paraneoplastic syndromes of the CNS. Lancet Neurol (2008)",
+  "tags": [
+   "Síndromes Paraneoplásicas (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Prognóstico ligado ao mecanismo; tempo de instalação como dado que decide."
+ }
+]

@@ -1,171 +1,171 @@
 [
- {
-  "id": "S11-NEF-01",
-  "simulado": 11,
-  "area": "Nefrologia",
-  "titulo": "Cistinúria com cálculos novos apesar de hidratação e pH urinário no alvo · associar tiol, e não alcalinizar além de 7,5",
-  "arma": "Limiar",
-  "comando": "conduta",
-  "nivel": "difícil",
-  "enunciado": "Homem de 24 anos, com cálculos renais desde os 14 anos (cinco episódios de cólica e duas ureterolitotripsias), pai e um irmão também litiásicos. A análise de um cálculo expelido identificou cistina. Há oito meses segue ingestão hídrica de 4 L/dia, dieta com restrição de sódio (sódio urinário de 95 mEq/dia) e citrato de potássio em dose plena. Nova tomografia sem contraste mostra dois cálculos novos, de 6 e 8 mm, no rim esquerdo. Urina de 24 horas: volume 3,6 L, cistina 720 mg/dia, cálcio 180 mg/dia, citrato 820 mg/dia; pH urinário de 7,6 em três medidas domiciliares. Creatinina 0,9 mg/dL, potássio 4,6 mEq/L. Além de manter as medidas atuais, a conduta mais adequada para prevenir novos cálculos é:",
-  "alternativas": {
-   "A": "Elevar o citrato até pH acima de 8,0",
-   "B": "Associar acetazolamida à noite",
-   "C": "Associar tiopronina oral",
-   "D": "Associar hidroclorotiazida em dose baixa"
+  {
+    "id": "S11-NEF-01",
+    "simulado": 11,
+    "area": "Nefrologia",
+    "titulo": "Cistinúria com cálculos novos apesar de hidratação e pH urinário no alvo · associar tiol, e não alcalinizar além de 7,5",
+    "arma": "Limiar",
+    "comando": "conduta",
+    "nivel": "difícil",
+    "enunciado": "Homem de 24 anos, com cálculos renais desde os 14 anos (cinco episódios de cólica e duas ureterolitotripsias), pai e um irmão também litiásicos. A análise de um cálculo expelido identificou cistina. Há oito meses segue ingestão hídrica de 4 L/dia, dieta com restrição de sódio (sódio urinário de 95 mEq/dia) e citrato de potássio em dose plena. Nova tomografia sem contraste mostra dois cálculos novos, de 6 e 8 mm, no rim esquerdo. Urina de 24 horas: volume 3,6 L, cistina 720 mg/dia, cálcio 180 mg/dia, citrato 820 mg/dia; pH urinário de 7,6 em três medidas domiciliares. Creatinina 0,9 mg/dL, potássio 4,6 mEq/L. Além de manter as medidas atuais, a conduta mais adequada para prevenir novos cálculos é:",
+    "alternativas": {
+      "A": "Elevar o citrato até pH acima de 8,0",
+      "B": "Associar acetazolamida à noite",
+      "C": "Associar tiopronina oral",
+      "D": "Associar hidroclorotiazida em dose baixa"
+    },
+    "gabarito": "C",
+    "armadilha": "A",
+    "dado_decisivo": "pH urinário de 7,6 em três medidas domiciliares",
+    "resolucao": "A armadilha é fazer mais do mesmo: se a alcalinização ajuda, mais álcali ajudaria mais. Só que o alvo do pH urinário na cistinúria é de 7,0 a 7,5, e ele já está em 7,6. Acima disso o ganho de solubilidade da cistina é pequeno, e o pH muito alto favorece cálculo de fosfato de cálcio e sobrecarga de potássio. Com volume urinário acima de 3 L, sódio restrito e pH no alvo, a formação de cálculos novos indica falha das medidas conservadoras, e o degrau seguinte é mudar de classe: um tiol (tiopronina, preferida à D-penicilamina pela tolerância) forma dissulfeto solúvel com a cisteína. Cálcio urinário de 180 mg/dia é normal, o que tira o lugar do tiazídico.",
+    "comentarios": {
+      "A": "Errada. Seria a conduta se o pH estivesse abaixo de 7,0; com 7,6 o alvo já foi atingido, e subir mais aumenta o risco de cálculo de fosfato de cálcio.",
+      "B": "Errada. A acetazolamida alcaliniza a urina à custa de acidose metabólica e hipocitratúria, favorece cálculo de fosfato de cálcio e não é recomendada na cistinúria.",
+      "C": "Correta. Cálculos novos com hidratação, restrição de sódio e pH no alvo pedem a droga tiol, que reduz a cistina livre na urina.",
+      "D": "Errada. Tiazídico é para hipercalciúria com cálculo de cálcio; aqui o cálcio urinário é de 180 mg/dia e o cálculo é de cistina."
+    },
+    "para_levar": "Na cistinúria, a ordem é volume urinário acima de 3 L, restrição de sódio e citrato até pH de 7,0 a 7,5; se ainda formar cálculo, associa-se tiol (tiopronina), e não mais álcali.",
+    "referencias": "AUA Guideline on Medical Management of Kidney Stones (2014, revisão 2019); EAU Guidelines on Urolithiasis 2024.",
+    "tags": [
+      "Nefrolitíase (CM)"
+    ],
+    "sourceQuestionId": null,
+    "alvo": "Porte da conduta: insistir no mesmo degrau (mais álcali) quando o alvo já foi atingido, em vez de mudar de classe."
   },
-  "gabarito": "C",
-  "armadilha": "A",
-  "dado_decisivo": "pH urinário de 7,6 em três medidas domiciliares",
-  "resolucao": "A armadilha é fazer mais do mesmo: se a alcalinização ajuda, mais álcali ajudaria mais. Só que o alvo do pH urinário na cistinúria é de 7,0 a 7,5, e ele já está em 7,6. Acima disso o ganho de solubilidade da cistina é pequeno, e o pH muito alto favorece cálculo de fosfato de cálcio e sobrecarga de potássio. Com volume urinário acima de 3 L, sódio restrito e pH no alvo, a formação de cálculos novos indica falha das medidas conservadoras, e o degrau seguinte é mudar de classe: um tiol (tiopronina, preferida à D-penicilamina pela tolerância) forma dissulfeto solúvel com a cisteína. Cálcio urinário de 180 mg/dia é normal, o que tira o lugar do tiazídico.",
-  "comentarios": {
-   "A": "Errada. Seria a conduta se o pH estivesse abaixo de 7,0; com 7,6 o alvo já foi atingido, e subir mais aumenta o risco de cálculo de fosfato de cálcio.",
-   "B": "Errada. A acetazolamida alcaliniza a urina à custa de acidose metabólica e hipocitratúria, favorece cálculo de fosfato de cálcio e não é recomendada na cistinúria.",
-   "C": "Correta. Cálculos novos com hidratação, restrição de sódio e pH no alvo pedem a droga tiol, que reduz a cistina livre na urina.",
-   "D": "Errada. Tiazídico é para hipercalciúria com cálculo de cálcio; aqui o cálcio urinário é de 180 mg/dia e o cálculo é de cistina."
+  {
+    "id": "S11-NEF-02",
+    "simulado": 11,
+    "area": "Nefrologia",
+    "titulo": "Hiponatremia pós-traumatismo craniano que piora com salina isotônica · SIADH, e não perda cerebral de sal, e salina a 3%",
+    "arma": "Grade X / Y",
+    "comando": "diagnóstico",
+    "nivel": "extremamente difícil",
+    "enunciado": "Homem de 34 anos, no oitavo dia de internação por traumatismo cranioencefálico (contusão frontal, sem cirurgia), em uso de levetiracetam e dieta enteral. O sódio caiu de 138 para 129 mEq/L em quatro dias, e a equipe, suspeitando de perda cerebral de sal, iniciou salina a 0,9% a 125 mL/h. Após 24 horas e 3 L de salina, o sódio está em 126 mEq/L e o paciente ficou mais sonolento, sem convulsões. Peso 0,8 kg acima do da véspera, balanço hídrico positivo de 900 mL no período, FC 76 bpm, PA 128/80 mmHg, sem hipotensão postural, hematócrito de 40% para 39%, ureia 18 mg/dL. Osmolalidade plasmática 262 mOsm/kg, osmolalidade urinária 610 mOsm/kg, sódio urinário 168 mEq/L, potássio urinário 44 mEq/L, ácido úrico 2,4 mg/dL, cortisol e TSH normais. O mecanismo da hiponatremia e a conduta são, respectivamente:",
+    "alternativas": {
+      "A": "SIADH / salina a 3%, sem mais isotônica",
+      "B": "Perda cerebral de sal / mais salina a 0,9%",
+      "C": "SIADH / restrição hídrica isolada",
+      "D": "Perda cerebral de sal / fludrocortisona"
+    },
+    "gabarito": "A",
+    "armadilha": "B",
+    "dado_decisivo": "Após 24 horas e 3 L de salina, o sódio está em 126 mEq/L",
+    "resolucao": "O traumatismo craniano e a natriurese de 168 mEq/L são verdadeiros e puxam para a perda cerebral de sal, e foi com esse raciocínio que a equipe deu salina. A resposta ao teste terapêutico é que decide: depois de 3 L de salina a 0,9% (cerca de 308 mOsm/kg), o sódio caiu de 129 para 126, com balanço positivo, ganho de peso e sem hemoconcentração. Com urina fixa em 610 mOsm/kg, o rim excreta os osmoles da salina em cerca de metade da água infundida e retém o resto como água livre (dessalinização), o que só acontece quando o ADH está alto de forma inapropriada; na perda cerebral de sal o ADH é estímulo de volume, a salina o desliga e o sódio sobe. A restrição hídrica isolada falha porque a relação (sódio + potássio urinários)/sódio plasmático é de 212/126, acima de 1, e há piora neurológica num cérebro contuso. Por isso suspende-se a isotônica e faz-se salina a 3% em bolus, depois associando restrição e ureia, com limite de correção de 8 a 10 mEq/L em 24 horas.",
+    "comentarios": {
+      "A": "Correta. SIADH com urina mais concentrada que a salina e piora neurológica: salina hipertônica, retirando a isotônica que agrava a hiponatremia.",
+      "B": "Errada. Seria a conduta na perda cerebral de sal, com balanço negativo, perda de peso e hemoconcentração, em que a salina sobe o sódio; aqui ele caiu com ela.",
+      "C": "Errada. O diagnóstico está certo, mas com relação eletrolítica urina/plasma acima de 1 a restrição isolada falha, e há sintomas que pedem correção mais rápida.",
+      "D": "Errada. Fludrocortisona é adjuvante na perda cerebral de sal hipovolêmica, que não é o caso, e retém mais sódio sem tratar a água livre."
+    },
+    "para_levar": "Salina a 0,9% piora o sódio sempre que a osmolalidade urinária passa de cerca de 300 mOsm/kg com ADH inapropriado; queda do sódio com salina e balanço positivo afasta perda cerebral de sal e pede salina a 3%.",
+    "referencias": "European Clinical Practice Guideline on Diagnosis and Treatment of Hyponatraemia (ESE/ESICM/ERBP, 2014); Verbalis et al., Am J Med 2013.",
+    "tags": [
+      "SIADH (CM)",
+      "Hiponatremia (CM)"
+    ],
+    "sourceQuestionId": "db4ddff662e346f",
+    "alvo": "Rótulo neurológico puxando perda cerebral de sal; dado de resposta à salina lido como enfeite."
   },
-  "para_levar": "Na cistinúria, a ordem é volume urinário acima de 3 L, restrição de sódio e citrato até pH de 7,0 a 7,5; se ainda formar cálculo, associa-se tiol (tiopronina), e não mais álcali.",
-  "referencias": "AUA Guideline on Medical Management of Kidney Stones (2014, revisão 2019); EAU Guidelines on Urolithiasis 2024.",
-  "tags": [
-   "Nefrolitíase (CM)"
-  ],
-  "sourceQuestionId": null,
-  "alvo": "Porte da conduta: insistir no mesmo degrau (mais álcali) quando o alvo já foi atingido, em vez de mudar de classe."
- },
- {
-  "id": "S11-NEF-02",
-  "simulado": 11,
-  "area": "Nefrologia",
-  "titulo": "Hiponatremia pós-traumatismo craniano que piora com salina isotônica · SIADH, e não perda cerebral de sal, e salina a 3%",
-  "arma": "Grade X / Y",
-  "comando": "diagnóstico",
-  "nivel": "extremamente difícil",
-  "enunciado": "Homem de 34 anos, no oitavo dia de internação por traumatismo cranioencefálico (contusão frontal, sem cirurgia), em uso de levetiracetam e dieta enteral. O sódio caiu de 138 para 129 mEq/L em quatro dias, e a equipe, suspeitando de perda cerebral de sal, iniciou salina a 0,9% a 125 mL/h. Após 24 horas e 3 L de salina, o sódio está em 126 mEq/L e o paciente ficou mais sonolento, sem convulsões. Peso estável, balanço hídrico positivo de 900 mL no período, FC 76 bpm, PA 128/80 mmHg, sem hipotensão postural, hematócrito de 40% para 39%, ureia 18 mg/dL. Osmolalidade plasmática 262 mOsm/kg, osmolalidade urinária 610 mOsm/kg, sódio urinário 168 mEq/L, potássio urinário 44 mEq/L, ácido úrico 2,4 mg/dL, cortisol e TSH normais. O mecanismo da hiponatremia e a conduta são, respectivamente:",
-  "alternativas": {
-   "A": "SIADH / salina a 3% e suspender a isotônica",
-   "B": "Perda cerebral de sal / aumentar a salina a 0,9%",
-   "C": "SIADH / restrição hídrica isolada",
-   "D": "Perda cerebral de sal / fludrocortisona"
+  {
+    "id": "S11-NEF-03",
+    "simulado": 11,
+    "area": "Nefrologia",
+    "titulo": "Hipercalcemia no idoso ex-tabagista acamado após fratura de fêmur · imobilização sobre doença de Paget, com PTHrP indetectável",
+    "arma": "Negativo no meio",
+    "comando": "etiologia",
+    "nivel": "difícil",
+    "enunciado": "Homem de 74 anos, ex-tabagista (45 maços-ano, parou há seis anos), com fosfatase alcalina entre 380 e 450 U/L (até 129) nos últimos cinco anos, nunca investigada, e queixa antiga de que os chapéus não lhe servem mais. Há três semanas sofreu fratura de colo de fêmur, operada, e desde então está restrito ao leito por delirium e dor. Agora com poliúria, constipação e piora da sonolência. Exames: cálcio total 12,9 mg/dL (albumina 3,8 g/dL), fósforo 4,3 mg/dL, creatinina 1,3 mg/dL (era 0,9), fosfatase alcalina 1.240 U/L, PTH 7 pg/mL (15 a 65), PTHrP indetectável, 25-hidroxivitamina D 31 ng/mL, 1,25-di-hidroxivitamina D 18 pg/mL (18 a 72), eletroforese de proteínas e cadeias leves livres normais. Radiografia de tórax sem nódulos. Cintilografia óssea: captação intensa e homogênea em toda a hemipelve direita e na calota craniana, sem outros focos. A causa mais provável da hipercalcemia é:",
+    "alternativas": {
+      "A": "Metástases ósseas de carcinoma de pulmão",
+      "B": "Hiperparatireoidismo primário",
+      "C": "Hipercalcemia humoral da malignidade",
+      "D": "Imobilização sobre doença óssea de alto remodelamento"
+    },
+    "gabarito": "D",
+    "armadilha": "C",
+    "dado_decisivo": "PTHrP indetectável",
+    "resolucao": "O tabagismo de 45 maços-ano é verdadeiro e puxa para a hipercalcemia humoral do carcinoma escamoso, mas o PTHrP indetectável, no meio da lista, derruba essa hipótese. O PTH suprimido afasta hiperparatireoidismo, a 1,25-di-hidroxivitamina D no limite inferior afasta produção extrarrenal de calcitriol, e eletroforese e cadeias leves normais afastam mieloma. Sobra o osso: fosfatase alcalina alta há anos, crescimento do crânio e captação homogênea de um osso inteiro (hemipelve e calota) são doença de Paget poliostótica, e não metástases, que dão focos múltiplos e irregulares. O Paget raramente eleva o cálcio sozinho; a hipercalcemia aparece quando um osso de alta remodelação perde a carga mecânica, e a reabsorção segue sem formação correspondente. O tratamento é hidratação, bisfosfonato intravenoso (que também trata o Paget) e mobilização precoce.",
+    "comentarios": {
+      "A": "Errada. Metástases dariam captação focal múltipla e irregular; aqui a captação é homogênea em ossos inteiros, com radiografia de tórax sem nódulos.",
+      "B": "Errada. Hiperparatireoidismo primário teria PTH alto ou inapropriadamente normal; PTH de 7 pg/mL indica supressão pela hipercalcemia.",
+      "C": "Errada. É a isca do tabagismo; sem PTHrP não há mecanismo humoral, e não há tumor demonstrado.",
+      "D": "Correta. Paget poliostótico com imobilização súbita, com PTH, PTHrP e calcitriol suprimidos ou baixos."
+    },
+    "para_levar": "Hipercalcemia com PTH e PTHrP suprimidos no paciente acamado deve fazer pensar em imobilização, sobretudo sobre osso de alta remodelação (Paget, adolescente, hipertireoidismo).",
+    "referencias": "Endocrine Society Clinical Practice Guideline: Paget's Disease of Bone (2014); Endocrine Society guideline on hypercalcemia of malignancy (2023).",
+    "tags": [
+      "Hipercalcemias (CM)",
+      "Paget (CM)"
+    ],
+    "sourceQuestionId": "e636834080b334e",
+    "alvo": "Rótulo verdadeiro (tabagismo) puxando a doença de manual; o exame negativo no meio é lido como enfeite."
   },
-  "gabarito": "A",
-  "armadilha": "B",
-  "dado_decisivo": "Após 24 horas e 3 L de salina, o sódio está em 126 mEq/L",
-  "resolucao": "Sódio urinário alto, urina concentrada e ácido úrico baixo existem nas duas entidades e não as separam; o rótulo do traumatismo craniano puxa para a perda cerebral de sal. O que decide é a resposta à salina e a volemia: peso estável, balanço positivo, hematócrito e ureia sem hemoconcentração, e o sódio caindo depois de 3 L de salina a 0,9%. Com urina de 610 mOsm/kg, o rim excreta o sódio da salina em menos água do que recebeu e retém o resto como água livre (dessalinização), o que só acontece com ADH inapropriado. A restrição hídrica isolada não basta: a relação (sódio + potássio urinários)/sódio plasmático é de 212/126, acima de 1, e ele está mais sonolento. Por isso, suspende-se a isotônica e faz-se salina a 3%, depois associando restrição e ureia.",
-  "comentarios": {
-   "A": "Correta. Euvolemia, piora com salina isotônica e sintomas neurológicos pedem salina hipertônica, retirando a isotônica que agrava a hiponatremia.",
-   "B": "Errada. Seria a conduta na perda cerebral de sal, que cursa com balanço negativo e hemoconcentração e melhora com salina; aqui o sódio caiu com ela.",
-   "C": "Errada. O diagnóstico está certo, mas com relação eletrolítica urina/plasma acima de 1 a restrição isolada falha, e há sintomas que pedem correção mais rápida.",
-   "D": "Errada. Fludrocortisona é adjuvante na perda cerebral de sal hipovolêmica, que não é o caso, e retém mais sódio sem tratar a água livre."
+  {
+    "id": "S11-NEF-04",
+    "simulado": 11,
+    "area": "Nefrologia",
+    "titulo": "Hipocalemia com hipomagnesemia e hipocalciúria em jovem preocupada com o peso · pesquisar diurético na urina antes do teste genético",
+    "arma": "Rótulo verdadeiro",
+    "comando": "próximo exame",
+    "nivel": "extremamente difícil",
+    "enunciado": "Mulher de 29 anos, técnica de enfermagem, com cãibras e fraqueza há quatro meses. Nega vômitos, diarreia, uso de laxantes ou de diuréticos, e conta que vive preocupada com o peso (IMC 19 kg/m²). PA 98/62 mmHg, sem edema, sem erosões dentárias. Exames repetidos em três ocasiões, com resultados semelhantes: potássio 2,7 mEq/L, bicarbonato 32 mEq/L, magnésio 1,3 mg/dL (1,7 a 2,4), creatinina 0,7 mg/dL, cloro urinário em amostra isolada 78 mEq/L, relação cálcio/creatinina urinária 0,03 mg/mg, renina e aldosterona elevadas. Pais não consanguíneos, sem casos semelhantes na família. O exame a solicitar a seguir é:",
+    "alternativas": {
+      "A": "Sequenciamento do gene SLC12A3",
+      "B": "Pesquisa de diuréticos na urina",
+      "C": "Relação aldosterona/renina",
+      "D": "Teste de sobrecarga com tiazídico"
+    },
+    "gabarito": "B",
+    "armadilha": "A",
+    "dado_decisivo": "vive preocupada com o peso (IMC 19 kg/m²)",
+    "resolucao": "Hipocalemia com alcalose, PA baixa, cloro urinário alto, hipomagnesemia e hipocalciúria compõem o fenótipo de Gitelman, e esses achados reais puxam direto para o teste genético. Só que o uso escondido de tiazídico produz exatamente o mesmo quadro, inclusive a hipocalciúria e a hipomagnesemia, e esta paciente tem acesso fácil a medicamentos e preocupação com o peso, sem história familiar. Antes do sequenciamento (caro, demorado e que pode vir inconclusivo), a diretriz de consenso pede excluir diurético com pesquisa em urina, de preferência em mais de uma amostra, porque o uso pode ser intermitente. Vômitos escondidos também imitam o quadro, mas dariam cloro urinário baixo, e aqui ele é de 78 mEq/L. Relação aldosterona/renina não ajuda: as duas estão altas.",
+    "comentarios": {
+      "A": "Errada. Confirma Gitelman, mas é o degrau seguinte; sem afastar diurético, um resultado inconclusivo não encerra a dúvida.",
+      "B": "Correta. Uso escondido de tiazídico reproduz o fenótipo inteiro e se exclui com pesquisa urinária, repetida se preciso.",
+      "C": "Errada. Serve para hiperaldosteronismo primário, que cursa com hipertensão e renina suprimida; aqui a PA é baixa e a renina, alta.",
+      "D": "Errada. O teste com tiazídico ajuda a separar Gitelman de Bartter, mas não separa Gitelman do uso escondido de diurético."
+    },
+    "para_levar": "Fenótipo de Gitelman em adulto sem história familiar exige excluir diurético escondido (pesquisa urinária) e vômitos (cloro urinário) antes do teste genético.",
+    "referencias": "Blanchard A et al. Gitelman syndrome: consensus and guidance from a KDIGO Controversies Conference. Kidney Int 2017.",
+    "tags": [
+      "Tubulopatias (CM)",
+      "Hipopotassemia (CM)"
+    ],
+    "sourceQuestionId": null,
+    "alvo": "Próximo exame: pular para o exame do degrau seguinte (genético) antes do simples que afasta a causa evitável."
   },
-  "para_levar": "Sódio urinário alto e ácido úrico baixo não separam SIADH de perda cerebral de sal: separa a volemia e a resposta à salina isotônica, que piora o sódio na SIADH com urina concentrada.",
-  "referencias": "European Clinical Practice Guideline on Diagnosis and Treatment of Hyponatraemia (ESE/ESICM/ERBP, 2014); Verbalis et al., Am J Med 2013.",
-  "tags": [
-   "SIADH (CM)",
-   "Hiponatremia (CM)"
-  ],
-  "sourceQuestionId": "db4ddff662e346f",
-  "alvo": "Rótulo neurológico puxando perda cerebral de sal; dado de resposta à salina lido como enfeite."
- },
- {
-  "id": "S11-NEF-03",
-  "simulado": 11,
-  "area": "Nefrologia",
-  "titulo": "Hipercalcemia no idoso ex-tabagista acamado após fratura de fêmur · imobilização sobre doença de Paget, com PTHrP indetectável",
-  "arma": "Negativo no meio",
-  "comando": "etiologia",
-  "nivel": "difícil",
-  "enunciado": "Homem de 74 anos, ex-tabagista (45 maços-ano, parou há seis anos), com fosfatase alcalina entre 380 e 450 U/L (até 129) nos últimos cinco anos, nunca investigada, e queixa antiga de que os chapéus não lhe servem mais. Há três semanas sofreu fratura de colo de fêmur, operada, e desde então está restrito ao leito por delirium e dor. Agora com poliúria, constipação e piora da sonolência. Exames: cálcio total 12,9 mg/dL (albumina 3,8 g/dL), fósforo 4,3 mg/dL, creatinina 1,3 mg/dL (era 0,9), fosfatase alcalina 1.240 U/L, PTH 7 pg/mL (15 a 65), PTHrP indetectável, 25-hidroxivitamina D 31 ng/mL, 1,25-di-hidroxivitamina D 18 pg/mL (18 a 72), eletroforese de proteínas e cadeias leves livres normais. Radiografia de tórax sem nódulos. Cintilografia óssea: captação intensa e homogênea em toda a hemipelve direita e na calota craniana, sem outros focos. A causa mais provável da hipercalcemia é:",
-  "alternativas": {
-   "A": "Metástases ósseas de carcinoma de pulmão",
-   "B": "Hiperparatireoidismo primário",
-   "C": "Hipercalcemia humoral da malignidade",
-   "D": "Imobilização sobre doença óssea de alto remodelamento"
-  },
-  "gabarito": "D",
-  "armadilha": "C",
-  "dado_decisivo": "PTHrP indetectável",
-  "resolucao": "O tabagismo de 45 maços-ano é verdadeiro e puxa para a hipercalcemia humoral do carcinoma escamoso, mas o PTHrP indetectável, no meio da lista, derruba essa hipótese. O PTH suprimido afasta hiperparatireoidismo, a 1,25-di-hidroxivitamina D no limite inferior afasta produção extrarrenal de calcitriol, e eletroforese e cadeias leves normais afastam mieloma. Sobra o osso: fosfatase alcalina alta há anos, crescimento do crânio e captação homogênea de um osso inteiro (hemipelve e calota) são doença de Paget poliostótica, e não metástases, que dão focos múltiplos e irregulares. O Paget raramente eleva o cálcio sozinho; a hipercalcemia aparece quando um osso de alta remodelação perde a carga mecânica, e a reabsorção segue sem formação correspondente. O tratamento é hidratação, bisfosfonato intravenoso (que também trata o Paget) e mobilização precoce.",
-  "comentarios": {
-   "A": "Errada. Metástases dariam captação focal múltipla e irregular; aqui a captação é homogênea em ossos inteiros, com radiografia de tórax sem nódulos.",
-   "B": "Errada. Hiperparatireoidismo primário teria PTH alto ou inapropriadamente normal; PTH de 7 pg/mL indica supressão pela hipercalcemia.",
-   "C": "Errada. É a isca do tabagismo; sem PTHrP não há mecanismo humoral, e não há tumor demonstrado.",
-   "D": "Correta. Paget poliostótico com imobilização súbita, com PTH, PTHrP e calcitriol suprimidos ou baixos."
-  },
-  "para_levar": "Hipercalcemia com PTH e PTHrP suprimidos no paciente acamado deve fazer pensar em imobilização, sobretudo sobre osso de alta remodelação (Paget, adolescente, hipertireoidismo).",
-  "referencias": "Endocrine Society Clinical Practice Guideline: Paget's Disease of Bone (2014); Endocrine Society guideline on hypercalcemia of malignancy (2023).",
-  "tags": [
-   "Hipercalcemias (CM)",
-   "Paget (CM)"
-  ],
-  "sourceQuestionId": "e636834080b334e",
-  "alvo": "Rótulo verdadeiro (tabagismo) puxando a doença de manual; o exame negativo no meio é lido como enfeite."
- },
- {
-  "id": "S11-NEF-04",
-  "simulado": 11,
-  "area": "Nefrologia",
-  "titulo": "Hipocalemia com hipomagnesemia e hipocalciúria em jovem preocupada com o peso · pesquisar diurético na urina antes do teste genético",
-  "arma": "Rótulo verdadeiro",
-  "comando": "próximo exame",
-  "nivel": "extremamente difícil",
-  "enunciado": "Mulher de 29 anos, técnica de enfermagem, com cãibras e fraqueza há quatro meses. Nega vômitos, diarreia, uso de laxantes ou de diuréticos, e conta que vive preocupada com o peso (IMC 19 kg/m²). PA 98/62 mmHg, sem edema, sem erosões dentárias. Exames repetidos em três ocasiões, com resultados semelhantes: potássio 2,7 mEq/L, bicarbonato 32 mEq/L, magnésio 1,3 mg/dL (1,7 a 2,4), creatinina 0,7 mg/dL, cloro urinário em amostra isolada 78 mEq/L, relação cálcio/creatinina urinária 0,03 mg/mg, renina e aldosterona elevadas. Pais não consanguíneos, sem casos semelhantes na família. O exame a solicitar a seguir é:",
-  "alternativas": {
-   "A": "Sequenciamento do gene SLC12A3",
-   "B": "Pesquisa de diuréticos na urina",
-   "C": "Relação aldosterona/renina",
-   "D": "Teste de sobrecarga com tiazídico"
-  },
-  "gabarito": "B",
-  "armadilha": "A",
-  "dado_decisivo": "vive preocupada com o peso (IMC 19 kg/m²)",
-  "resolucao": "Hipocalemia com alcalose, PA baixa, cloro urinário alto, hipomagnesemia e hipocalciúria compõem o fenótipo de Gitelman, e esses achados reais puxam direto para o teste genético. Só que o uso escondido de tiazídico produz exatamente o mesmo quadro, inclusive a hipocalciúria e a hipomagnesemia, e esta paciente tem acesso fácil a medicamentos e preocupação com o peso, sem história familiar. Antes do sequenciamento (caro, demorado e que pode vir inconclusivo), a diretriz de consenso pede excluir diurético com pesquisa em urina, de preferência em mais de uma amostra, porque o uso pode ser intermitente. Vômitos escondidos também imitam o quadro, mas dariam cloro urinário baixo, e aqui ele é de 78 mEq/L. Relação aldosterona/renina não ajuda: as duas estão altas.",
-  "comentarios": {
-   "A": "Errada. Confirma Gitelman, mas é o degrau seguinte; sem afastar diurético, um resultado inconclusivo não encerra a dúvida.",
-   "B": "Correta. Uso escondido de tiazídico reproduz o fenótipo inteiro e se exclui com pesquisa urinária, repetida se preciso.",
-   "C": "Errada. Serve para hiperaldosteronismo primário, que cursa com hipertensão e renina suprimida; aqui a PA é baixa e a renina, alta.",
-   "D": "Errada. O teste com tiazídico ajuda a separar Gitelman de Bartter, mas não separa Gitelman do uso escondido de diurético."
-  },
-  "para_levar": "Fenótipo de Gitelman em adulto sem história familiar exige excluir diurético escondido (pesquisa urinária) e vômitos (cloro urinário) antes do teste genético.",
-  "referencias": "Blanchard A et al. Gitelman syndrome: consensus and guidance from a KDIGO Controversies Conference. Kidney Int 2017.",
-  "tags": [
-   "Tubulopatias (CM)",
-   "Hipopotassemia (CM)"
-  ],
-  "sourceQuestionId": null,
-  "alvo": "Próximo exame: pular para o exame do degrau seguinte (genético) antes do simples que afasta a causa evitável."
- },
- {
-  "id": "S11-NEF-05",
-  "simulado": 11,
-  "area": "Nefrologia",
-  "titulo": "Disfunção do enxerto renal com tubulite e SV40 positivo · nefropatia por poliomavírus BK, e não rejeição a pulsar",
-  "arma": "Rótulo verdadeiro",
-  "comando": "conduta",
-  "nivel": "difícil",
-  "enunciado": "Homem de 52 anos, transplantado renal de doador falecido há nove meses, em uso de tacrolimo (vale de 7,8 ng/mL, alvo de 6 a 8), micofenolato de mofetila 1 g de 12/12 horas e prednisona 5 mg/dia. A creatinina subiu de 1,3 para 2,0 mg/dL em seis semanas, sem febre, com urina sem cilindros hemáticos e ultrassonografia sem hidronefrose. Anticorpos anti-HLA específicos do doador negativos. PCR para poliomavírus BK no plasma de 25.000 cópias/mL. A biópsia do enxerto mostra infiltrado intersticial com tubulite moderada, C4d negativo e imuno-histoquímica para SV40 positiva em núcleos de células tubulares. A conduta mais adequada é:",
-  "alternativas": {
-   "A": "Reduzir a imunossupressão, começando pelo micofenolato",
-   "B": "Pulsoterapia com metilprednisolona",
-   "C": "Cidofovir intravenoso",
-   "D": "Globulina antitimocitária"
-  },
-  "gabarito": "A",
-  "armadilha": "B",
-  "dado_decisivo": "imuno-histoquímica para SV40 positiva em núcleos de células tubulares",
-  "resolucao": "Infiltrado intersticial com tubulite é a lesão da rejeição celular aguda, e esse achado verdadeiro leva ao pulso de corticoide. Mas a nefropatia por BK produz a mesma inflamação tubulointersticial, e o que a separa é a demonstração do vírus no tecido: SV40 positivo nos núcleos tubulares, com viremia alta, C4d negativo e sem anticorpo específico do doador. Intensificar a imunossupressão nesse cenário acelera a replicação viral e a perda do enxerto. Não há antiviral com eficácia comprovada; a conduta é reduzir a imunossupressão, em geral suspendendo ou reduzindo o antimetabólito primeiro e depois baixando o alvo do inibidor de calcineurina, com PCR plasmática seriada.",
-  "comentarios": {
-   "A": "Correta. Nefropatia por BK comprovada por SV40 se trata reduzindo a imunossupressão, a começar pelo micofenolato.",
-   "B": "Errada. Seria a conduta na rejeição celular aguda sem vírus no tecido; aqui o SV40 positivo explica a tubulite, e mais imunossupressão piora a doença.",
-   "C": "Errada. Cidofovir não tem benefício comprovado e é nefrotóxico; fica, quando muito, como adjuvante após reduzir a imunossupressão.",
-   "D": "Errada. É tratamento de rejeição grave ou corticorresistente; intensificar a imunossupressão é o oposto do que a infecção pede."
-  },
-  "para_levar": "Tubulite no enxerto com viremia BK alta exige SV40 na biópsia; se positivo, o tratamento é reduzir a imunossupressão, e não pulsar.",
-  "referencias": "Hirsch HH, Randhawa PS. BK polyomavirus in solid organ transplantation: AST IDCOP Guidelines 2019; KDIGO Clinical Practice Guideline for the Care of Kidney Transplant Recipients (2009).",
-  "tags": [
-   "Transplante Renal (CM)",
-   "Infecção em Imunossuprimido (CM)"
-  ],
-  "sourceQuestionId": "ce487c8e923ffd6",
-  "alvo": "Achado histológico verdadeiro (tubulite) puxando a doença de manual (rejeição) e o tratamento a mais."
- }
+  {
+    "id": "S11-NEF-05",
+    "simulado": 11,
+    "area": "Nefrologia",
+    "titulo": "Disfunção do enxerto renal com tubulite e SV40 positivo · nefropatia por poliomavírus BK, e não rejeição a pulsar",
+    "arma": "Rótulo verdadeiro",
+    "comando": "conduta",
+    "nivel": "difícil",
+    "enunciado": "Homem de 52 anos, transplantado renal de doador falecido há nove meses, em uso de tacrolimo (vale de 7,8 ng/mL, alvo de 6 a 8), micofenolato de mofetila 1 g de 12/12 horas e prednisona 5 mg/dia. A creatinina subiu de 1,3 para 2,0 mg/dL em seis semanas, sem febre, com urina sem cilindros hemáticos e ultrassonografia sem hidronefrose. Anticorpos anti-HLA específicos do doador negativos. PCR para poliomavírus BK no plasma de 25.000 cópias/mL. A biópsia do enxerto mostra infiltrado intersticial com tubulite moderada, C4d negativo e imuno-histoquímica para SV40 positiva em núcleos de células tubulares. A conduta mais adequada é:",
+    "alternativas": {
+      "A": "Reduzir a imunossupressão, começando pelo micofenolato",
+      "B": "Pulsoterapia com metilprednisolona",
+      "C": "Cidofovir intravenoso",
+      "D": "Globulina antitimocitária"
+    },
+    "gabarito": "A",
+    "armadilha": "B",
+    "dado_decisivo": "imuno-histoquímica para SV40 positiva em núcleos de células tubulares",
+    "resolucao": "Infiltrado intersticial com tubulite é a lesão da rejeição celular aguda, e esse achado verdadeiro leva ao pulso de corticoide. Mas a nefropatia por BK produz a mesma inflamação tubulointersticial, e o que a separa é a demonstração do vírus no tecido: SV40 positivo nos núcleos tubulares, com viremia alta, C4d negativo e sem anticorpo específico do doador. Intensificar a imunossupressão nesse cenário acelera a replicação viral e a perda do enxerto. Não há antiviral com eficácia comprovada; a conduta é reduzir a imunossupressão, em geral suspendendo ou reduzindo o antimetabólito primeiro e depois baixando o alvo do inibidor de calcineurina, com PCR plasmática seriada.",
+    "comentarios": {
+      "A": "Correta. Nefropatia por BK comprovada por SV40 se trata reduzindo a imunossupressão, a começar pelo micofenolato.",
+      "B": "Errada. Seria a conduta na rejeição celular aguda sem vírus no tecido; aqui o SV40 positivo explica a tubulite, e mais imunossupressão piora a doença.",
+      "C": "Errada. Cidofovir não tem benefício comprovado e é nefrotóxico; fica, quando muito, como adjuvante após reduzir a imunossupressão.",
+      "D": "Errada. É tratamento de rejeição grave ou corticorresistente; intensificar a imunossupressão é o oposto do que a infecção pede."
+    },
+    "para_levar": "Tubulite no enxerto com viremia BK alta exige SV40 na biópsia; se positivo, o tratamento é reduzir a imunossupressão, e não pulsar.",
+    "referencias": "Hirsch HH, Randhawa PS. BK polyomavirus in solid organ transplantation: AST IDCOP Guidelines 2019; KDIGO Clinical Practice Guideline for the Care of Kidney Transplant Recipients (2009).",
+    "tags": [
+      "Transplante Renal (CM)",
+      "Infecção em Imunossuprimido (CM)"
+    ],
+    "sourceQuestionId": "ce487c8e923ffd6",
+    "alvo": "Achado histológico verdadeiro (tubulite) puxando a doença de manual (rejeição) e o tratamento a mais."
+  }
 ]
