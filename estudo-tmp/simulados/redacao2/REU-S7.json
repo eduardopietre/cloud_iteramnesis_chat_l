@@ -25,7 +25,7 @@
    "D": "Errada. A droga está certa, mas suspensão isolada basta só no DRESS leve, sem hepatite importante."
   },
   "para_levar": "DRESS com órgão acometido (ALT muito alta, nefrite, pneumonite) pede corticoide sistêmico com retirada lenta; depois de reação a um anticonvulsivante aromático, evite toda a classe.",
-  "referencias": "RegiSCAR criteria (Kardaun et al., 2013); Consenso brasileiro de reações de hipersensibilidade a medicamentos (ASBAI, 2023); British Association of Dermatologists guideline (2024, DRESS).",
+  "referencias": "RegiSCAR criteria (Kardaun et al., 2013); AAAAI/ACAAI Drug allergy: a 2022 practice parameter update.",
   "tags": [
    "DRESS (CM)",
    "Farmacodermias (CM)"
@@ -44,19 +44,19 @@
   "enunciado": "Mulher de 52 anos é submetida a colecistectomia eletiva. Cinco minutos após a indução com propofol, fentanil, rocurônio e cefazolina profilática, apresenta PA de 60 x 30 mmHg, FC 138 bpm, broncoespasmo com aumento da pressão de pico e eritema difuso no tronco. Recebe adrenalina intravenosa em bolus titulados e cristaloide, com estabilização em 15 minutos, e a cirurgia é adiada. Agora, 40 minutos após o início do quadro, está estável e extubada. Nunca foi operada e não tem alergias conhecidas. O exame mais adequado neste momento é:",
   "alternativas": {
    "A": "Triptase sérica agora e após 24 horas",
-   "B": "Testes cutâneos com os fármacos usados",
+   "B": "Histamina plasmática após 24 horas",
    "C": "IgE específica para látex e cefazolina",
-   "D": "Histamina plasmática após 24 horas"
+   "D": "Testes cutâneos com os fármacos usados"
   },
   "gabarito": "A",
-  "armadilha": "B",
+  "armadilha": "D",
   "dado_decisivo": "Agora, 40 minutos após o início do quadro",
   "resolucao": "O impulso é descobrir já o culpado entre os quatro fármacos, e os testes cutâneos são o exame que faz isso. Mas feitos na fase aguda dão falso negativo, porque os mastócitos estão depletados: devem ser realizados entre 4 e 6 semanas após a reação. O que precisa ser colhido agora é a triptase sérica, que atinge o pico entre 30 minutos e 2 horas e confirma a ativação mastocitária; ela é comparada com a triptase basal, colhida após 24 horas (ou depois da recuperação), e uma elevação acima de 20% da basal mais 2 ng/mL confirma a anafilaxia. A histamina cai em menos de 1 hora e não serve depois de 24 horas. A investigação com testes, incluindo látex, rocurônio e cefazolina, vem no ambulatório de alergia.",
   "comentarios": {
    "A": "Correta. Aos 40 minutos a triptase está perto do pico, e a basal de 24 horas permite aplicar o critério de 20% mais 2 ng/mL.",
-   "B": "Errada. Identificam o agente, mas na fase aguda dão falso negativo; devem ser feitos 4 a 6 semanas após a reação.",
+   "B": "Errada. A histamina tem meia-vida de minutos e normaliza em menos de 1 hora; após 24 horas não informa nada.",
    "C": "Errada. A IgE específica entra na investigação ambulatorial, e não confirma agora que houve anafilaxia.",
-   "D": "Errada. A histamina tem meia-vida de minutos e normaliza em menos de 1 hora; após 24 horas não informa nada."
+   "D": "Errada. Identificam o agente, mas na fase aguda dão falso negativo; devem ser feitos 4 a 6 semanas após a reação."
   },
   "para_levar": "Na suspeita de anafilaxia, colha triptase entre 30 minutos e 2 horas e uma basal após 24 horas; testes cutâneos só após 4 a 6 semanas.",
   "referencias": "World Allergy Organization Anaphylaxis Guidance (2020); International consensus on perioperative anaphylaxis (ISPAR, 2019).",
@@ -77,23 +77,23 @@
   "nivel": "difícil",
   "enunciado": "Homem de 61 anos, diabético, em hemodiálise por fístula arteriovenosa, tem bacteremia por Staphylococcus aureus sensível à oxacilina, com duas hemoculturas positivas, a partir de flebite em acesso periférico já retirado. Ecocardiograma transesofágico sem vegetações; hemoculturas de controle negativas em 48 horas. Relata alergia a penicilina: aos 20 anos, no 5º dia de amoxicilina, teve exantema maculopapular pruriginoso sem acometimento de mucosas, sem bolhas, sem dispneia e sem hipotensão, que regrediu em 4 dias. Desde então nunca recebeu betalactâmico. Iniciou-se vancomicina empírica. O antimicrobiano mais adequado para completar o tratamento é:",
   "alternativas": {
-   "A": "Vancomicina",
+   "A": "Daptomicina",
    "B": "Cefazolina",
-   "C": "Daptomicina",
+   "C": "Vancomicina",
    "D": "Linezolida"
   },
   "gabarito": "B",
-  "armadilha": "A",
+  "armadilha": "C",
   "dado_decisivo": "no 5º dia de amoxicilina, teve exantema maculopapular pruriginoso sem acometimento de mucosas",
   "resolucao": "O rótulo 'alérgico à penicilina' é verdadeiro e empurra para manter a vancomicina, que já está correndo e é cômoda na hemodiálise. Mas a vancomicina é inferior aos betalactâmicos antiestafilocócicos na bacteremia por S. aureus sensível à oxacilina, com mais falha e recidiva. O dado que decide é a natureza da reação: exantema maculopapular tardio, há 40 anos, sem mucosa, bolha, eosinofilia ou acometimento sistêmico, é reação de baixo risco, e a maioria desses rótulos não se confirma. A cefazolina tem cadeia lateral diferente da amoxicilina, a reatividade cruzada é desprezível, e a diretriz permite usá-la sem teste prévio; ainda tem a vantagem de ser dada após cada sessão de diálise. Daptomicina fica para alergia grave verdadeira aos betalactâmicos.",
   "comentarios": {
-   "A": "Errada. Seria a escolha com reação grave a betalactâmico (SSJ, DRESS, anafilaxia recente) ou MRSA; é inferior à cefazolina no MSSA.",
+   "A": "Errada. Alternativa na alergia grave verdadeira a betalactâmicos ou no MRSA com falha da vancomicina; aqui não há indicação.",
    "B": "Correta. Reação remota, tardia e benigna permite cefazolina, de cadeia lateral diferente e superior à vancomicina no MSSA.",
-   "C": "Errada. Alternativa na alergia grave verdadeira a betalactâmicos ou no MRSA com falha da vancomicina; aqui não há indicação.",
+   "C": "Errada. Seria a escolha com reação grave a betalactâmico (SSJ, DRESS, anafilaxia recente) ou MRSA; é inferior à cefazolina no MSSA.",
    "D": "Errada. Bacteriostática, não é droga de primeira linha para bacteremia por S. aureus."
   },
   "para_levar": "Na bacteremia por MSSA, o rótulo de alergia à penicilina por exantema benigno remoto não justifica vancomicina: use cefazolina.",
-  "referencias": "AAAAI/ACAAI Drug allergy: a 2022 practice parameter update; IDSA, Clinical practice guidelines for MRSA and S. aureus bacteremia (2011) e Khatib et al., consenso de 2023.",
+  "referencias": "AAAAI/ACAAI Drug allergy: a 2022 practice parameter update; Holland et al., Clinical management of Staphylococcus aureus bacteremia: a review (JAMA, 2014).",
   "tags": [
    "Alergias (CM)",
    "Antibióticos: Situações Clínicas (CM)"
@@ -161,7 +161,7 @@
    "D": "Errada. Terapia tripla é opção sem fatores de mau prognóstico; com anti-CCP alto e erosões, recomenda-se biológico ou sintético alvo."
   },
   "para_levar": "Inibidor de JAK em AR só sem alternativa se o paciente tiver 65 anos ou mais, tabagismo ou risco cardiovascular ou neoplásico; nesses, prefira biológico.",
-  "referencias": "EULAR recommendations for the management of RA (2022 update); EMA/PRAC, medidas para minimizar o risco dos inibidores de JAK (2023); Recomendações da SBR para o tratamento da AR (2024).",
+  "referencias": "EULAR recommendations for the management of RA (2022 update); EMA/PRAC, medidas para minimizar o risco dos inibidores de JAK (2023).",
   "tags": [
    "Artrite Reumatóide (CM)",
    "Drogas antirreumáticas (CM)"
@@ -189,10 +189,10 @@
   "dado_decisivo": "creatinina 0,9 mg/dL",
   "resolucao": "A biópsia já respondeu à pergunta do tipo de vasculite: leucocitoclástica com IgA, em adulto, após infecção e antibiótico. A tentação é abrir a bateria de ANCA, crioglobulinas e complemento, que procura vasculites que a imunofluorescência já tornou improváveis. O que falta e muda o prognóstico é saber se há nefrite, mais frequente e mais grave na vasculite por IgA do adulto do que na criança, e a creatinina normal não a exclui: hematúria dismórfica e proteinúria aparecem antes da queda da filtração. A urina tipo 1 com sedimento (e a relação proteína/creatinina se alterada) é o exame que decide o seguimento; a biópsia renal só entra com proteinúria importante ou função em queda.",
   "comentarios": {
-   "A": "Errada. Indicada com proteinúria acima de cerca de 1 g/dia, síndrome nefrítica ou queda da filtração, ainda não pesquisadas.",
-   "B": "Errada. Seria útil sem a imunofluorescência; com IgA nos vasos, a bateria não muda a conduta.",
-   "C": "Correta. Creatinina normal não afasta nefrite, e o sedimento urinário define o acometimento renal da vasculite por IgA.",
-   "D": "Errada. Só com dor abdominal ou sangramento digestivo, ausentes aqui."
+   "A": "Errada. A biópsia renal entra com proteinúria acima de cerca de 1 g/dia, síndrome nefrítica ou queda da filtração, que ainda nem foram pesquisadas.",
+   "B": "Errada. ANCA, crioglobulinas e complemento procuram vasculites que a imunofluorescência com IgA já tornou improváveis; seriam úteis sem ela.",
+   "C": "Correta. Creatinina normal não afasta nefrite, e a urina tipo 1 com sedimento define o acometimento renal da vasculite por IgA.",
+   "D": "Errada. A TC de abdome só entraria com dor abdominal ou sangramento digestivo, ausentes aqui."
   },
   "para_levar": "Em toda vasculite cutânea de pequenos vasos, a urina tipo 1 com sedimento é obrigatória; creatinina normal não exclui nefrite.",
   "referencias": "EULAR/PRINTO/PRES criteria para vasculite por IgA (2010); KDIGO 2021 Glomerular Diseases (IgA vasculitis); Chapel Hill Consensus (2012).",

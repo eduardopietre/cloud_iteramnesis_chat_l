@@ -25,7 +25,7 @@
    "D": "Errada. A conduta seria aceitável, mas o diagnóstico ignora a latência de 2 dias e a ausência de psoríase."
   },
   "para_levar": "Pustulose exantemática generalizada aguda: pústulas estéreis em dobras 1 a 2 dias após antibiótico, com febre e neutrofilia; suspender e usar corticoide tópico.",
-  "referencias": "EuroSCAR AGEP validation score (Sidoroff et al., 2001); Consenso brasileiro de reações de hipersensibilidade a medicamentos (ASBAI, 2023).",
+  "referencias": "EuroSCAR AGEP validation score (Sidoroff et al., 2001); AAAAI/ACAAI Drug allergy: a 2022 practice parameter update.",
   "tags": [
    "Farmacodermias (CM)",
    "Psoríase (CM)"
@@ -78,21 +78,21 @@
   "alternativas": {
    "A": "Celecoxibe",
    "B": "Naproxeno",
-   "C": "Dipirona",
-   "D": "Diclofenaco"
+   "C": "Diclofenaco",
+   "D": "Dipirona"
   },
   "gabarito": "A",
-  "armadilha": "C",
+  "armadilha": "D",
   "dado_decisivo": "rinossinusite crônica com polipose nasal, operada duas vezes",
   "resolucao": "A palavra aspirina não aparece, mas asma, polipose nasal e reação respiratória a um AINE formam a doença respiratória exacerbada por AINE. Nela a reação não é alergia ao ibuprofeno: é efeito farmacológico da inibição da COX-1, que desvia o ácido araquidônico para leucotrienos, e por isso há reatividade cruzada com todos os inibidores fortes da COX-1. No Brasil a dipirona é vista como alternativa segura, mas também inibe a COX-1 e desencadeia crises nesses pacientes. Os inibidores seletivos da COX-2 (celecoxibe, etoricoxibe) são tolerados pela grande maioria e são a escolha, de preferência com a primeira dose sob observação; paracetamol em dose até 500 a 650 mg também costuma ser tolerado.",
   "comentarios": {
    "A": "Correta. Inibidor seletivo da COX-2 é tolerado pela grande maioria dos pacientes com doença respiratória exacerbada por AINE.",
    "B": "Errada. Inibe fortemente a COX-1 e tem reatividade cruzada com o ibuprofeno.",
-   "C": "Errada. Tida como segura por hábito, também inibe a COX-1 e desencadeia reações nesses pacientes.",
-   "D": "Errada. Inibidor não seletivo potente, com o mesmo mecanismo da reação ao ibuprofeno."
+   "C": "Errada. Inibidor não seletivo potente, com o mesmo mecanismo da reação ao ibuprofeno.",
+   "D": "Errada. Tida como segura por hábito, também inibe a COX-1 e desencadeia reações nesses pacientes."
   },
   "para_levar": "Asma, polipose nasal e reação respiratória a AINE: reatividade cruzada com todo inibidor forte da COX-1, dipirona incluída; use inibidor seletivo da COX-2.",
-  "referencias": "EAACI/ENDA position paper on NSAID hypersensitivity (2019); GINA 2026 (asma e doença respiratória exacerbada por AINE).",
+  "referencias": "EAACI/ENDA position paper on NSAID hypersensitivity (2019); GINA 2024 (asma e doença respiratória exacerbada por AINE).",
   "tags": [
    "Alergias (CM)",
    "Asma (CM)"
@@ -126,7 +126,7 @@
    "D": "Errada. Alopurinol em uso há 2 anos, fora da janela, e sem exantema, eosinofilia ou hepatite."
   },
   "para_levar": "Colchicina com claritromicina (ou outro inibidor forte do CYP3A4) na DRC: diarreia, citopenias e neuromiopatia; a associação é contraindicada.",
-  "referencias": "2020 ACR Guideline for the Management of Gout; bula da colchicina (ANVISA/FDA, interações com inibidores do CYP3A4 e da P-gp); V Consenso Brasileiro sobre H. pylori (2026).",
+  "referencias": "2020 ACR Guideline for the Management of Gout; bula da colchicina (ANVISA/FDA, interações com inibidores do CYP3A4 e da P-gp); IV Consenso Brasileiro sobre a infecção pelo H. pylori (2018).",
   "tags": [
    "Gota (CM)",
    "Iatrogenias (CM)"
@@ -160,7 +160,7 @@
    "D": "Correta. Não viva, eficaz em imunossuprimidos e indicada a partir dos 18 anos para quem usa ou vai usar JAK."
   },
   "para_levar": "Antes de inibidor de JAK (e em qualquer imunossuprimido a partir dos 18 anos), vacina recombinante adjuvada contra zóster em duas doses.",
-  "referencias": "2022 ACR Guideline for Vaccinations in Patients with Rheumatic and Musculoskeletal Diseases; Recomendações da SBR e SBIm para vacinação em doenças reumáticas (2024).",
+  "referencias": "2022 American College of Rheumatology Guideline for Vaccinations in Patients with Rheumatic and Musculoskeletal Diseases.",
   "tags": [
    "Artrite Reumatóide (CM)",
    "Drogas antirreumáticas (CM)"
@@ -194,7 +194,7 @@
    "D": "Errada. Troca de biológico é para falha poliarticular documentada, não para uma monoartrite aguda ainda sem diagnóstico."
   },
   "para_levar": "Monoartrite desproporcional em AR controlada, sobretudo sob biológico, é séptica até prova em contrário: artrocentese antes de corticoide.",
-  "referencias": "EULAR recommendations for the management of RA (2022); BSR/BOA guideline on management of the hot swollen joint in adults (2006, revisão 2023).",
+  "referencias": "EULAR recommendations for the management of RA (2022 update); BSR/BHPR/BOA guideline for management of the hot swollen joint in adults (Coakley et al., 2006).",
   "tags": [
    "Artrite Séptica (CM)",
    "Artrite Reumatóide (CM)"
