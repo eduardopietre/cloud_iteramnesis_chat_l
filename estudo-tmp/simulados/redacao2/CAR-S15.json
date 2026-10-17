@@ -1,157 +1,174 @@
 [
-{
- "id": "S15-CAR-01",
- "simulado": 15,
- "area": "Cardiologia",
- "titulo": "Dupla lesão mitral reumática com B1 hipofonética, B3 e ictus desviado: insuficiência predominante, e a valvoplastia por balão está contraindicada",
- "arma": "Grade X / Y",
- "comando": "diagnóstico",
- "nivel": "extremamente difícil",
- "enunciado": "Mulher de 41 anos, com febre reumática aos 10 anos, refere dispneia aos pequenos esforços e ortopneia há 5 meses. Traz laudo de ecocardiograma de 6 anos atrás: 'dupla lesão mitral reumática'. PA 112x70 mmHg, FC 84 bpm, ritmo regular. Ictus no 6º espaço intercostal, na linha axilar anterior, amplo e propulsivo. B1 hipofonética, terceira bulha presente, sem estalido de abertura. Sopro holossistólico 3+/6 no foco mitral, irradiado para a axila, e ruflar mesodiastólico curto no ápice, sem reforço pré-sistólico. ECG: ritmo sinusal, sobrecarga de átrio e de ventrículo esquerdos. Radiografia: cardiomegalia à custa de VE. A lesão predominante e a intervenção mais adequada são, respectivamente:",
- "alternativas": {
-  "A": "Estenose predominante / valvoplastia por cateter-balão",
-  "B": "Insuficiência predominante / cirurgia valvar mitral",
-  "C": "Estenose predominante / cirurgia valvar mitral",
-  "D": "Insuficiência predominante / valvoplastia por cateter-balão"
+ {
+  "id": "S15-CAR-01",
+  "simulado": 15,
+  "area": "Cardiologia",
+  "titulo": "Dupla lesão mitral reumática com B1 hipofonética, B3 e ictus desviado: insuficiência predominante, e a valvoplastia por balão está contraindicada",
+  "arma": "Grade X / Y",
+  "comando": "diagnóstico",
+  "nivel": "extremamente difícil",
+  "enunciado": "Mulher de 41 anos, com febre reumática aos 10 anos, refere dispneia aos pequenos esforços e ortopneia há 5 meses. Traz laudo de ecocardiograma de 6 anos atrás: 'dupla lesão mitral reumática'. PA 112x70 mmHg, FC 84 bpm, ritmo regular. Ictus no 6º espaço intercostal, na linha axilar anterior, amplo e propulsivo. B1 hipofonética, terceira bulha presente, sem estalido de abertura. Sopro holossistólico 3+/6 no foco mitral, irradiado para a axila, e ruflar mesodiastólico curto no ápice, sem reforço pré-sistólico. ECG: ritmo sinusal, sobrecarga de átrio e de ventrículo esquerdos. Radiografia: cardiomegalia à custa de VE. A lesão predominante e a intervenção mais adequada são, respectivamente:",
+  "alternativas": {
+   "A": "Estenose predominante / valvoplastia por cateter-balão",
+   "B": "Insuficiência predominante / cirurgia valvar mitral",
+   "C": "Estenose predominante / cirurgia valvar mitral",
+   "D": "Insuficiência predominante / valvoplastia por cateter-balão"
+  },
+  "gabarito": "B",
+  "armadilha": "A",
+  "dado_decisivo": "B1 hipofonética, terceira bulha presente, sem estalido de abertura",
+  "resolucao": "Febre reumática com ruflar diastólico puxa a estenose mitral e a valvoplastia por balão, que é a isca. Mas na dupla lesão o exame físico diz qual lesão manda. Na estenose predominante, B1 é hiperfonética, há estalido de abertura, o VE é pequeno (ictus no lugar) e a terceira bulha é impossível, porque o enchimento rápido está bloqueado. Aqui é o oposto: B1 hipofonética (folhetos que não coaptam), B3 (grande volume regurgitado entrando no VE no início da diástole), ictus desviado, amplo e propulsivo e sobrecarga de VE, que são marcas de sobrecarga de volume da insuficiência. O ruflar curto sem estalido é de hiperfluxo pela valva, e não de estenose importante. Insuficiência mitral moderada ou maior é contraindicação à valvoplastia por balão, que a pioraria; a sintomática com insuficiência predominante vai para cirurgia (troca valvar ou plástica em centro experiente).",
+  "comentarios": {
+   "A": "Errada, e é a armadilha. Seria a resposta com B1 hiperfonética, estalido de abertura e VE pequeno; aqui há B3, B1 hipofonética e ictus desviado, e a insuficiência importante contraindica o balão.",
+   "B": "Correta. B1 hipofonética, B3 e ictus desviado e propulsivo indicam insuficiência predominante, e a intervenção na sintomática é cirúrgica.",
+   "C": "Errada na primeira metade. A cirurgia seria a conduta numa estenose com anatomia desfavorável ao balão, mas a semiologia mostra insuficiência predominante.",
+   "D": "Errada na segunda metade. A insuficiência predominante está certa, mas é justamente ela que contraindica a valvoplastia por balão."
+  },
+  "para_levar": "Dupla lesão mitral: B1 hiperfonética, estalido e VE pequeno indicam estenose predominante; B1 hipofonética, B3 e ictus desviado indicam insuficiência predominante, que contraindica o balão.",
+  "referencias": "Diretriz Brasileira de Valvopatias SBC 2020; ESC/EACTS 2021 Guidelines for valvular heart disease; ACC/AHA 2020 Guideline for valvular heart disease",
+  "tags": [
+   "Insuficiência Mitral (CM)",
+   "Estenose Mitral (CM)",
+   "Fisiologia e Semiologia Cardíaca (CM)"
+  ],
+  "sourceQuestionId": "efda8a90138325b",
+  "alvo": "Semiologia da síndrome à lesão (lacuna fixa) e ausculta da IM crônica (reincidente), com o rótulo do laudo antigo."
  },
- "gabarito": "B",
- "armadilha": "A",
- "dado_decisivo": "B1 hipofonética, terceira bulha presente, sem estalido de abertura",
- "resolucao": "Febre reumática com ruflar diastólico puxa a estenose mitral e a valvoplastia por balão, que é a isca. Mas na dupla lesão o exame físico diz qual lesão manda. Na estenose predominante, B1 é hiperfonética, há estalido de abertura, o VE é pequeno (ictus no lugar) e a terceira bulha é impossível, porque o enchimento rápido está bloqueado. Aqui é o oposto: B1 hipofonética (folhetos que não coaptam), B3 (grande volume regurgitado entrando no VE no início da diástole), ictus desviado, amplo e propulsivo e sobrecarga de VE, que são marcas de sobrecarga de volume da insuficiência. O ruflar curto sem estalido é de hiperfluxo pela valva, e não de estenose importante. Insuficiência mitral moderada ou maior é contraindicação à valvoplastia por balão, que a pioraria; a sintomática com insuficiência predominante vai para cirurgia (troca valvar ou plástica em centro experiente).",
- "comentarios": {
-  "A": "Errada, e é a armadilha. Seria a resposta com B1 hiperfonética, estalido de abertura e VE pequeno; aqui há B3, B1 hipofonética e ictus desviado, e a insuficiência importante contraindica o balão.",
-  "B": "Correta. B1 hipofonética, B3 e ictus desviado e propulsivo indicam insuficiência predominante, e a intervenção na sintomática é cirúrgica.",
-  "C": "Errada na primeira metade. A cirurgia seria a conduta numa estenose com anatomia desfavorável ao balão, mas a semiologia mostra insuficiência predominante.",
-  "D": "Errada na segunda metade. A insuficiência predominante está certa, mas é justamente ela que contraindica a valvoplastia por balão."
+ {
+  "id": "S15-CAR-02",
+  "simulado": 15,
+  "area": "Cardiologia",
+  "titulo": "Prótese mecânica mitral no primeiro trimestre com varfarina acima de 5 mg: trocar por heparina de baixo peso ajustada pelo anti-Xa",
+  "arma": "Limiar",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 29 anos, com prótese mecânica de duplo folheto em posição mitral há 6 anos, por sequela reumática, usa varfarina 7,5 mg por dia, com INR estável entre 2,5 e 3,5 nos últimos meses. Está em ritmo sinusal, assintomática, com prótese normofuncionante no ecocardiograma recente. Descobre gestação de 6 semanas, planejada, e deseja mantê-la. Não há sangramento. A conduta anticoagulante mais adequada até o fim do primeiro trimestre é:",
+  "alternativas": {
+   "A": "Trocar por dabigatrana",
+   "B": "Trocar por AAS e heparina profilática",
+   "C": "Trocar por heparina de baixo peso ajustada pelo anti-Xa",
+   "D": "Manter a varfarina na dose atual"
+  },
+  "gabarito": "C",
+  "armadilha": "D",
+  "dado_decisivo": "usa varfarina 7,5 mg por dia",
+  "resolucao": "Manter a varfarina é a isca porque ela é, de fato, o anticoagulante mais eficaz contra trombose de prótese mecânica na gestação, e a diretriz permite mantê-la no primeiro trimestre quando a dose diária necessária é de até 5 mg, faixa em que o risco de embriopatia é baixo. O limiar decide: com 7,5 mg por dia, o risco de embriopatia varfarínica (hipoplasia nasal, epífises pontilhadas) e de perda fetal sobe, e a recomendação é substituir entre a 6ª e a 12ª semana por heparina de baixo peso em dose terapêutica, duas vezes ao dia, ajustada pelo anti-Xa (pico e vale) semanalmente, ou por heparina não fracionada intravenosa com TTPa. No segundo trimestre volta-se à varfarina até cerca de 36 semanas, quando se troca de novo pela heparina para o parto. Os anticoagulantes orais diretos são contraindicados em prótese mecânica, e heparina profilática é insuficiente.",
+  "comentarios": {
+   "A": "Errada. A dabigatrana é contraindicada em prótese mecânica (excesso de trombose e sangramento no estudo RE-ALIGN) e atravessa a placenta.",
+   "B": "Errada. Heparina em dose profilática, mesmo com AAS, não protege prótese mecânica mitral e associa-se a trombose de prótese.",
+   "C": "Correta. Com varfarina acima de 5 mg por dia, a troca entre 6 e 12 semanas por heparina de baixo peso terapêutica, ajustada pelo anti-Xa, reduz a embriopatia sem desproteger a prótese.",
+   "D": "Errada, e é a armadilha. Manter a varfarina no primeiro trimestre é aceitável quando a dose é de até 5 mg por dia; com 7,5 mg, o risco de embriopatia e perda fetal justifica a troca."
+  },
+  "para_levar": "Prótese mecânica na gestação: varfarina de até 5 mg/dia pode ser mantida no primeiro trimestre; acima de 5 mg, troque entre 6 e 12 semanas por heparina de baixo peso terapêutica com anti-Xa. DOAC nunca.",
+  "referencias": "ESC 2018 Guidelines for the management of cardiovascular diseases during pregnancy; Posicionamento SBC sobre cardiopatia e gravidez 2020; ACC/AHA 2020 Guideline for valvular heart disease",
+  "tags": [
+   "Anticoagulação em Cardiologia (CM)",
+   "Demais valvopatias (CM)",
+   "226 Common Medical Problems in Pregnancy"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Limiar numérico (5 mg) e droga certa na população especial (gestante com prótese mecânica)."
  },
- "para_levar": "Dupla lesão mitral: B1 hiperfonética, estalido e VE pequeno indicam estenose predominante; B1 hipofonética, B3 e ictus desviado indicam insuficiência predominante, que contraindica o balão.",
- "referencias": "Diretriz Brasileira de Valvopatias SBC 2020; ESC/EACTS 2021 Guidelines for valvular heart disease; ACC/AHA 2020 Guideline for valvular heart disease",
- "tags": ["Insuficiência Mitral (CM)", "Estenose Mitral (CM)", "Fisiologia e Semiologia Cardíaca (CM)"],
- "sourceQuestionId": "efda8a90138325b",
- "alvo": "Semiologia da síndrome à lesão (lacuna fixa) e ausculta da IM crônica (reincidente), com o rótulo do laudo antigo."
-},
-{
- "id": "S15-CAR-02",
- "simulado": 15,
- "area": "Cardiologia",
- "titulo": "Prótese mecânica mitral no primeiro trimestre com varfarina acima de 5 mg: trocar por heparina de baixo peso ajustada pelo anti-Xa",
- "arma": "Limiar",
- "comando": "conduta",
- "nivel": "difícil",
- "enunciado": "Mulher de 29 anos, com prótese mecânica de duplo folheto em posição mitral há 6 anos, por sequela reumática, usa varfarina 7,5 mg por dia, com INR estável entre 2,5 e 3,5 nos últimos meses. Está em ritmo sinusal, assintomática, com prótese normofuncionante no ecocardiograma recente. Descobre gestação de 6 semanas, planejada, e deseja mantê-la. Não há sangramento. A conduta anticoagulante mais adequada até o fim do primeiro trimestre é:",
- "alternativas": {
-  "A": "Trocar por dabigatrana",
-  "B": "Trocar por AAS e heparina profilática",
-  "C": "Trocar por heparina de baixo peso ajustada pelo anti-Xa",
-  "D": "Manter a varfarina na dose atual"
+ {
+  "id": "S15-CAR-03",
+  "simulado": 15,
+  "area": "Cardiologia",
+  "titulo": "Crise hipertensiva minutos após antiemético antidopaminérgico em mulher rotulada de pânico: feocromocitoma, e não síndrome serotoninérgica",
+  "arma": "Droga a deduzir",
+  "comando": "etiologia",
+  "nivel": "extremamente difícil",
+  "enunciado": "Mulher de 39 anos, em tratamento de 'transtorno de pânico' com sertralina 50 mg há 8 meses, procura o pronto-socorro por vômitos após almoço em restaurante. Recebe no braço o antiemético antidopaminérgico de uso mais comum na emergência. Cerca de 15 minutos depois, apresenta cefaleia occipital intensa, palpitações, sudorese profusa e palidez, com sensação de morte iminente. PA 236x134 mmHg, FC 138 bpm, temperatura axilar de 36,8 °C. Pupilas isocóricas de 4 mm; sem clônus, com reflexos normais e sem rigidez; pele fria e pálida. ECG: taquicardia sinusal. Glicemia 228 mg/dL, sem diabetes conhecido. A irmã conta que as 'crises de pânico' começaram há 1 ano, duram 20 a 30 minutos e vêm com dor de cabeça e suor, e que a PA dela 'às vezes está alta e às vezes normal'. A causa mais provável da crise atual é:",
+  "alternativas": {
+   "A": "Síndrome neuroléptica maligna",
+   "B": "Síndrome serotoninérgica",
+   "C": "Crise tireotóxica",
+   "D": "Crise de feocromocitoma"
+  },
+  "gabarito": "D",
+  "armadilha": "B",
+  "dado_decisivo": "sem clônus, com reflexos normais e sem rigidez; pele fria e pálida",
+  "resolucao": "O antiemético antidopaminérgico mais usado no pronto-socorro é a metoclopramida, e com sertralina em uso a síndrome serotoninérgica parece óbvia: é a isca. Mas a serotoninérgica se reconhece pelo exame neuromuscular (clônus induzível ou espontâneo, hiper-reflexia, tremor), com hipertermia, midríase, diarreia e pele quente e ruborizada, pelos critérios de Hunter; aqui não há clônus, os reflexos são normais, a temperatura é normal e a pele está fria e pálida, que é vasoconstrição adrenérgica. A metoclopramida bloqueia receptores D2 que inibem a liberação de catecolaminas no tumor cromafim e é gatilho clássico de paroxismo de feocromocitoma, assim como contraste, glicocorticoide, anestesia e betabloqueador isolado. A tríade cefaleia, sudorese e palpitações em crises de 20 a 30 minutos, a PA lábil e a hiperglicemia completam o quadro, e o rótulo de pânico atrasou o diagnóstico em um ano. O tratamento da crise é alfabloqueio intravenoso (fentolamina) ou nitroprussiato, nunca betabloqueador antes do alfa.",
+  "comentarios": {
+   "A": "Errada. A síndrome neuroléptica maligna evolui em dias, com rigidez em cano de chumbo, hipertermia e CK elevada; aqui foram 15 minutos, sem rigidez e sem febre.",
+   "B": "Errada, e é a armadilha. Seria a resposta com clônus, hiper-reflexia, hipertermia e pele quente após a metoclopramida em quem usa ISRS; nenhum desses achados está presente.",
+   "C": "Errada. A crise tireotóxica tem febre alta, pele quente e úmida e um fator precipitante como infecção ou cirurgia; não é desencadeada em minutos por antidopaminérgico e não causa palidez.",
+   "D": "Correta. Paroxismo adrenérgico desencadeado por metoclopramida, com palidez, hiperglicemia, PA lábil e crises prévias de cefaleia, sudorese e palpitações, é feocromocitoma."
+  },
+  "para_levar": "Paroxismo hipertensivo minutos após metoclopramida, contraste, glicocorticoide ou betabloqueador é feocromocitoma até prova em contrário; sem clônus e com pele pálida, não é síndrome serotoninérgica.",
+  "referencias": "Endocrine Society Clinical Practice Guideline: Pheochromocytoma and Paraganglioma (Lenders JWM et al., 2014); Lenders JWM et al., Lancet 2005 (drogas que precipitam crise); Hunter Serotonin Toxicity Criteria (Dunkley EJC et al., QJM 2003)",
+  "tags": [
+   "Feocromocitoma (CM)",
+   "Emergência Hipertensiva (CM)"
+  ],
+  "sourceQuestionId": "61e8c27b735edda",
+  "alvo": "Droga a deduzir e rótulo verdadeiro (pânico com ISRS) que puxam o diagnóstico do vizinho, contra o exame físico que decide."
  },
- "gabarito": "C",
- "armadilha": "D",
- "dado_decisivo": "usa varfarina 7,5 mg por dia",
- "resolucao": "Manter a varfarina é a isca porque ela é, de fato, o anticoagulante mais eficaz contra trombose de prótese mecânica na gestação, e a diretriz permite mantê-la no primeiro trimestre quando a dose diária necessária é de até 5 mg, faixa em que o risco de embriopatia é baixo. O limiar decide: com 7,5 mg por dia, o risco de embriopatia varfarínica (hipoplasia nasal, epífises pontilhadas) e de perda fetal sobe, e a recomendação é substituir entre a 6ª e a 12ª semana por heparina de baixo peso em dose terapêutica, duas vezes ao dia, ajustada pelo anti-Xa (pico e vale) semanalmente, ou por heparina não fracionada intravenosa com TTPa. No segundo trimestre volta-se à varfarina até cerca de 36 semanas, quando se troca de novo pela heparina para o parto. Os anticoagulantes orais diretos são contraindicados em prótese mecânica, e heparina profilática é insuficiente.",
- "comentarios": {
-  "A": "Errada. A dabigatrana é contraindicada em prótese mecânica (excesso de trombose e sangramento no estudo RE-ALIGN) e atravessa a placenta.",
-  "B": "Errada. Heparina em dose profilática, mesmo com AAS, não protege prótese mecânica mitral e associa-se a trombose de prótese.",
-  "C": "Correta. Com varfarina acima de 5 mg por dia, a troca entre 6 e 12 semanas por heparina de baixo peso terapêutica, ajustada pelo anti-Xa, reduz a embriopatia sem desproteger a prótese.",
-  "D": "Errada, e é a armadilha. Manter a varfarina no primeiro trimestre é aceitável quando a dose é de até 5 mg por dia; com 7,5 mg, o risco de embriopatia e perda fetal justifica a troca."
+ {
+  "id": "S15-CAR-04",
+  "simulado": 15,
+  "area": "Cardiologia",
+  "titulo": "ICFEr otimizada com cansaço persistente e anemia leve: pesquisar ferropenia com ferritina e saturação de transferrina antes de qualquer outro exame",
+  "arma": "Omissão",
+  "comando": "próximo exame",
+  "nivel": "difícil",
+  "enunciado": "Homem de 64 anos, com cardiomiopatia isquêmica (FE 30%) e angioplastia de descendente anterior há 3 anos, está há 6 meses com sacubitril-valsartana, bisoprolol, espironolactona e dapagliflozina em doses máximas toleradas. Sem angina; persiste com cansaço aos médios esforços, em classe funcional II a III. PA 104x66 mmHg, FC 62 bpm, sem congestão. Hb 12,4 g/dL (referência 13 a 17), VCM 84 fL, plaquetas normais; creatinina 1,3 mg/dL, potássio 4,8 mEq/L, NT-proBNP 1.100 pg/mL. Sem sangramento visível; colonoscopia de rastreio há 2 anos normal. O cardiologista anterior anotou 'anemia leve da doença crônica, sem necessidade de investigação'. O próximo exame mais adequado é:",
+  "alternativas": {
+   "A": "Ferritina e saturação de transferrina",
+   "B": "Cineangiocoronariografia",
+   "C": "Endoscopia digestiva alta e colonoscopia",
+   "D": "Aspirado de medula óssea"
+  },
+  "gabarito": "A",
+  "armadilha": "C",
+  "dado_decisivo": "persiste com cansaço aos médios esforços, em classe funcional II a III",
+  "resolucao": "O degrau mais simples, e o que falta na história, é o perfil de ferro, e o rótulo de anemia da doença crônica serve exatamente para dispensá-lo. Na insuficiência cardíaca, a deficiência de ferro é comum (até metade dos pacientes, com ou sem anemia), reduz a capacidade de exercício e a qualidade de vida, e se define por critérios próprios: ferritina abaixo de 100 ng/mL, ou entre 100 e 299 ng/mL com saturação de transferrina abaixo de 20%. A diretriz europeia recomenda dosar ferritina e saturação em todo paciente com IC e, se houver deficiência, ferro intravenoso (carboximaltose ou derivisomaltose férrica) para sintomas e redução de internações. A endoscopia é o degrau seguinte, justificado se a ferropenia for confirmada num homem, e por isso é a isca de quem pula o primeiro passo. Sem angina e com tratamento otimizado, o cateterismo não está indicado para explicar cansaço.",
+  "comentarios": {
+   "A": "Correta. Toda IC sintomática deve ter ferritina e saturação dosadas, e a ferropenia (ferritina abaixo de 100, ou 100 a 299 com saturação abaixo de 20%) tem tratamento com ferro intravenoso.",
+   "B": "Errada. O cateterismo seria indicado por angina ou isquemia documentada; ele não tem angina e a revascularização não explica nem trata o cansaço aqui.",
+   "C": "Errada, e é a armadilha. A investigação digestiva vem depois de confirmar ferropenia num homem; pedi-la antes do perfil de ferro é pular o degrau.",
+   "D": "Errada. O aspirado de medula fica para citopenias múltiplas ou anemia sem explicação após a investigação básica; aqui só há anemia leve normocítica sem outra alteração."
+  },
+  "para_levar": "Na insuficiência cardíaca, dose ferritina e saturação de transferrina em todos: ferritina abaixo de 100, ou de 100 a 299 com saturação abaixo de 20%, é ferropenia, tratada com ferro intravenoso; investigar a causa vem depois.",
+  "referencias": "ESC 2023 Focused Update of the 2021 Heart Failure Guidelines; Diretriz Brasileira de Insuficiência Cardíaca SBC 2018 e atualização 2021; estudos AFFIRM-AHF (2020) e IRONMAN (2022)",
+  "tags": [
+   "ICFER - Tratamento medicamentoso (CM)",
+   "Anemia Ferropriva (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Próximo exame (pior comando) e exame que decide ignorado por um rótulo (anemia da doença crônica); saturação de transferrina como dado que decide."
  },
- "para_levar": "Prótese mecânica na gestação: varfarina de até 5 mg/dia pode ser mantida no primeiro trimestre; acima de 5 mg, troque entre 6 e 12 semanas por heparina de baixo peso terapêutica com anti-Xa. DOAC nunca.",
- "referencias": "ESC 2018 Guidelines for the management of cardiovascular diseases during pregnancy; Posicionamento SBC sobre cardiopatia e gravidez 2020; ACC/AHA 2020 Guideline for valvular heart disease",
- "tags": ["Anticoagulação em Cardiologia (CM)", "Demais valvopatias (CM)", "226 Common Medical Problems in Pregnancy"],
- "sourceQuestionId": "0911ce318a2a699",
- "alvo": "Limiar numérico (5 mg) e droga certa na população especial (gestante com prótese mecânica)."
-},
-{
- "id": "S15-CAR-03",
- "simulado": 15,
- "area": "Cardiologia",
- "titulo": "Miocardite eosinofílica com trombo apical no trabalhador rural: ivermectina junto com a prednisona em dose alta, sem esperar a sorologia",
- "arma": "Cronologia",
- "comando": "conduta",
- "nivel": "extremamente difícil",
- "enunciado": "Homem de 39 anos, trabalhador rural no interior do Maranhão, que trabalha na lavoura descalço, é internado com dispneia progressiva e dor torácica há 3 semanas. Leucócitos 16.800/mm³, com 7.400 eosinófilos/mm³ (persistentes em exame de 1 mês atrás). Troponina elevada. Ecocardiograma: espessamento endocárdico apical do VE com trombo apical de 14 mm, padrão de enchimento restritivo inicial, FE 52%. Ressonância: realce tardio subendocárdico difuso. Sem esplenomegalia, vitamina B12 normal e esfregaço sem blastos; pesquisa de FIP1L1-PDGFRA, triptase e sorologia para Strongyloides colhidas, com resultados previstos em 7 a 10 dias; exame parasitológico de fezes, uma amostra, negativo. Sem asma, sinusite ou vasculite; ANCA negativo. Já iniciou heparina. Além da anticoagulação, a conduta inicial mais adequada é:",
- "alternativas": {
-  "A": "Imatinibe empírico",
-  "B": "Prednisona em dose alta isolada",
-  "C": "Aguardar a sorologia para Strongyloides",
-  "D": "Ivermectina e prednisona em dose alta"
- },
- "gabarito": "D",
- "armadilha": "B",
- "dado_decisivo": "trabalha na lavoura descalço",
- "resolucao": "Hipereosinofilia persistente acima de 1.500/mm³ com lesão miocárdica (troponina, espessamento endocárdico, trombo apical e realce subendocárdico) é síndrome hipereosinofílica com envolvimento cardíaco na fase necrótico-trombótica, que evolui para a endomiocardiofibrose se não for tratada; é emergência, e o glicocorticoide em dose alta é o tratamento inicial, por isso a prednisona isolada parece suficiente e é a isca. O dado que muda a ordem é a exposição: trabalhador rural que anda descalço em área endêmica tem risco real de estrongiloidíase, e um parasitológico negativo não a afasta. Corticoide em dose alta num portador de Strongyloides pode desencadear hiperinfecção e disseminação, com mortalidade alta. Como o envolvimento cardíaco não permite esperar 7 a 10 dias pela sorologia, a recomendação é dar ivermectina empiricamente junto com o início do corticoide. Imatinibe é para a variante mieloproliferativa (FIP1L1-PDGFRA positiva, B12 e triptase altas, esplenomegalia), ainda não demonstrada.",
- "comentarios": {
-  "A": "Errada. O imatinibe é a primeira linha na variante com FIP1L1-PDGFRA ou com sinais mieloproliferativos (esplenomegalia, B12 e triptase altas), ausentes ou pendentes aqui; o glicocorticoide é a urgência.",
-  "B": "Errada, e é a armadilha. O corticoide em dose alta está indicado, mas, sozinho, num paciente com exposição a Strongyloides, arrisca a síndrome de hiperinfecção; a ivermectina deve acompanhá-lo.",
-  "C": "Errada. Esperar 7 a 10 dias com miocardite eosinofílica e trombo intracavitário arrisca progressão para fibrose, embolia e morte.",
-  "D": "Correta. A lesão cardíaca exige corticoide em dose alta já, e a exposição a Strongyloides exige ivermectina empírica junto, sem esperar a sorologia."
- },
- "para_levar": "Hipereosinofilia com lesão de órgão (coração) é urgência: glicocorticoide em dose alta já, mas com ivermectina empírica junto se houver risco de Strongyloides; imatinibe só na variante PDGFRA ou mieloproliferativa.",
- "referencias": "WHO classification e Shomali W, Gotlib J, Am J Hematol 2024 (hypereosinophilic syndromes update); Klion AD, Blood 2015 (how I treat hypereosinophilic syndromes); ESC 2023 Guidelines for cardiomyopathies",
- "tags": ["Cardiomiopatias Restritivas (CM)", "Estrongiloidiase (CM)", "161 Eosinophilic Syndromes"],
- "sourceQuestionId": "348a60698300ca9",
- "alvo": "Reincidente UERJ Löffler/endomiocardiofibrose, com ângulo novo: a ordem do tratamento e a exposição como dado que decide."
-},
-{
- "id": "S15-CAR-04",
- "simulado": 15,
- "area": "Cardiologia",
- "titulo": "ICFEr otimizada com cansaço persistente e anemia leve: pesquisar ferropenia com ferritina e saturação de transferrina antes de qualquer outro exame",
- "arma": "Dado omitido",
- "comando": "próximo exame",
- "nivel": "difícil",
- "enunciado": "Homem de 64 anos, com cardiomiopatia isquêmica (FE 30%) e angioplastia de descendente anterior há 3 anos, está há 6 meses com sacubitril-valsartana, bisoprolol, espironolactona e dapagliflozina em doses máximas toleradas. Sem angina; persiste com cansaço aos médios esforços, em classe funcional II a III. PA 104x66 mmHg, FC 62 bpm, sem congestão. Hb 12,4 g/dL (referência 13 a 17), VCM 84 fL, plaquetas normais; creatinina 1,3 mg/dL, potássio 4,8 mEq/L, NT-proBNP 1.100 pg/mL. Sem sangramento visível; colonoscopia de rastreio há 2 anos normal. O cardiologista anterior anotou 'anemia leve da doença crônica, sem necessidade de investigação'. O próximo exame mais adequado é:",
- "alternativas": {
-  "A": "Ferritina e saturação de transferrina",
-  "B": "Cineangiocoronariografia",
-  "C": "Endoscopia digestiva alta e colonoscopia",
-  "D": "Aspirado de medula óssea"
- },
- "gabarito": "A",
- "armadilha": "C",
- "dado_decisivo": "persiste com cansaço aos médios esforços, em classe funcional II a III",
- "resolucao": "O exame que falta na história é o perfil de ferro, e o rótulo de anemia da doença crônica serve exatamente para dispensá-lo. Na insuficiência cardíaca, a deficiência de ferro é comum (até metade dos pacientes, com ou sem anemia), reduz a capacidade de exercício e a qualidade de vida, e se define por critérios próprios: ferritina abaixo de 100 ng/mL, ou entre 100 e 299 ng/mL com saturação de transferrina abaixo de 20%. A diretriz europeia recomenda dosar ferritina e saturação em todo paciente com IC e, se houver deficiência, ferro intravenoso (carboximaltose ou derivisomaltose férrica) para sintomas e redução de internações. A endoscopia é o degrau seguinte, justificado se a ferropenia for confirmada num homem, e por isso é a isca de quem pula o primeiro passo. Sem angina e com tratamento otimizado, o cateterismo não está indicado para explicar cansaço.",
- "comentarios": {
-  "A": "Correta. Toda IC sintomática deve ter ferritina e saturação dosadas, e a ferropenia (ferritina abaixo de 100, ou 100 a 299 com saturação abaixo de 20%) tem tratamento com ferro intravenoso.",
-  "B": "Errada. O cateterismo seria indicado por angina ou isquemia documentada; ele não tem angina e a revascularização não explica nem trata o cansaço aqui.",
-  "C": "Errada, e é a armadilha. A investigação digestiva vem depois de confirmar ferropenia num homem; pedi-la antes do perfil de ferro é pular o degrau.",
-  "D": "Errada. O aspirado de medula fica para citopenias múltiplas ou anemia sem explicação após a investigação básica; aqui só há anemia leve normocítica sem outra alteração."
- },
- "para_levar": "Na insuficiência cardíaca, dose ferritina e saturação de transferrina em todos: ferritina abaixo de 100, ou de 100 a 299 com saturação abaixo de 20%, é ferropenia, tratada com ferro intravenoso; investigar a causa vem depois.",
- "referencias": "ESC 2023 Focused Update of the 2021 Heart Failure Guidelines; Diretriz Brasileira de Insuficiência Cardíaca SBC 2018 e atualização 2021; estudos AFFIRM-AHF (2020) e IRONMAN (2022)",
- "tags": ["ICFER - Tratamento medicamentoso (CM)", "Anemia Ferropriva (CM)"],
- "sourceQuestionId": "c57109762f7eff4",
- "alvo": "Próximo exame (pior comando) e exame que decide ignorado por um rótulo (anemia da doença crônica); saturação de transferrina como dado que decide."
-},
-{
- "id": "S15-CAR-05",
- "simulado": 15,
- "area": "Cardiologia",
- "titulo": "Estenose aórtica: o achado de exame físico que, isoladamente, mais indica gravidade é o pico tardio do sopro, e não a sua intensidade",
- "arma": "Qualificador",
- "comando": "fato solto",
- "nivel": "média",
- "enunciado": "Na estenose aórtica valvar do adulto, o achado do exame físico que, isoladamente, mais sugere lesão grave é:",
- "alternativas": {
-  "A": "Sopro de intensidade 4/6 com frêmito",
-  "B": "Pico tardio do sopro sistólico",
-  "C": "Clique de ejeção aórtico",
-  "D": "Irradiação do sopro para o ápice"
- },
- "gabarito": "B",
- "armadilha": "A",
- "dado_decisivo": "isoladamente, mais sugere lesão grave",
- "resolucao": "A intensidade do sopro é a isca, porque o senso comum associa sopro alto a lesão grave. Mas a intensidade depende do débito: na estenose grave com disfunção ventricular, baixo fluxo ou obesidade, o sopro pode ser discreto, e um sopro alto pode acompanhar estenose moderada com débito alto. O que acompanha a gravidade é o tempo: quanto mais apertada a valva, mais tarde na sístole ocorre o pico do gradiente, e o sopro em diamante passa a ter pico telessistólico. Os outros marcadores de gravidade são o pulso parvus et tardus, a hipofonese ou ausência de A2 e o desdobramento paradoxal de B2. O clique de ejeção indica valva ainda móvel, em geral bicúspide e não muito calcificada, e desaparece quando a calcificação a imobiliza; a irradiação para o ápice é o fenômeno de Gallavardin, sem relação com gravidade.",
- "comentarios": {
-  "A": "Errada, e é a armadilha. A intensidade varia com o débito e pode cair justamente na estenose grave com disfunção do VE; frêmito sugere gradiente alto, mas não é o melhor marcador isolado.",
-  "B": "Correta. O pico do sopro desloca-se para o fim da sístole à medida que a estenose se agrava, e acompanha a gravidade independentemente do débito.",
-  "C": "Errada. O clique de ejeção indica folhetos móveis (valva bicúspide pouco calcificada) e some com a calcificação avançada, típica da estenose grave do idoso.",
-  "D": "Errada. A irradiação para o ápice (Gallavardin) reflete transmissão dos componentes musicais do sopro e não gradua a lesão."
- },
- "para_levar": "Na estenose aórtica, gravidade é tempo e não volume: pico telessistólico do sopro, pulso parvus et tardus, A2 hipofonética ou ausente e desdobramento paradoxal de B2.",
- "referencias": "Braunwald's Heart Disease, 12ª ed. (2022), capítulo de estenose aórtica; Diretriz Brasileira de Valvopatias SBC 2020; ACC/AHA 2020 Guideline for valvular heart disease",
- "tags": ["Estenose Aórtica (CM)", "Fisiologia e Semiologia Cardíaca (CM)"],
- "sourceQuestionId": "89356f26526c726",
- "alvo": "Estenose aórtica (lacuna nova, 0 de 2) e semiologia valvar: o atributo do sopro que gradua a lesão, na forma de fato solto com qualificador."
-}
+ {
+  "id": "S15-CAR-05",
+  "simulado": 15,
+  "area": "Cardiologia",
+  "titulo": "Estenose aórtica: o achado de exame físico que, isoladamente, mais indica gravidade é o pico tardio do sopro, e não a sua intensidade",
+  "arma": "Qualificador",
+  "comando": "fato solto",
+  "nivel": "média",
+  "enunciado": "Na estenose aórtica valvar do adulto, o achado do exame físico que, isoladamente, mais sugere lesão grave é:",
+  "alternativas": {
+   "A": "Sopro de intensidade 4/6 com frêmito",
+   "B": "Pico tardio do sopro sistólico",
+   "C": "Clique de ejeção aórtico",
+   "D": "Irradiação do sopro para o ápice"
+  },
+  "gabarito": "B",
+  "armadilha": "A",
+  "dado_decisivo": "isoladamente, mais sugere lesão grave",
+  "resolucao": "A intensidade do sopro é a isca, porque o senso comum associa sopro alto a lesão grave. Mas a intensidade depende do débito: na estenose grave com disfunção ventricular, baixo fluxo ou obesidade, o sopro pode ser discreto, e um sopro alto pode acompanhar estenose moderada com débito alto. O que acompanha a gravidade é o tempo: quanto mais apertada a valva, mais tarde na sístole ocorre o pico do gradiente, e o sopro em diamante passa a ter pico telessistólico. Os outros marcadores de gravidade são o pulso parvus et tardus, a hipofonese ou ausência de A2 e o desdobramento paradoxal de B2. O clique de ejeção indica valva ainda móvel, em geral bicúspide e não muito calcificada, e desaparece quando a calcificação a imobiliza; a irradiação para o ápice é o fenômeno de Gallavardin, sem relação com gravidade.",
+  "comentarios": {
+   "A": "Errada, e é a armadilha. A intensidade varia com o débito e pode cair justamente na estenose grave com disfunção do VE; frêmito sugere gradiente alto, mas não é o melhor marcador isolado.",
+   "B": "Correta. O pico do sopro desloca-se para o fim da sístole à medida que a estenose se agrava, e acompanha a gravidade independentemente do débito.",
+   "C": "Errada. O clique de ejeção indica folhetos móveis (valva bicúspide pouco calcificada) e some com a calcificação avançada, típica da estenose grave do idoso.",
+   "D": "Errada. A irradiação para o ápice (Gallavardin) reflete transmissão dos componentes musicais do sopro e não gradua a lesão."
+  },
+  "para_levar": "Na estenose aórtica, gravidade é tempo e não volume: pico telessistólico do sopro, pulso parvus et tardus, A2 hipofonética ou ausente e desdobramento paradoxal de B2.",
+  "referencias": "Braunwald's Heart Disease, 12ª ed. (2022), capítulo de estenose aórtica; Diretriz Brasileira de Valvopatias SBC 2020; ACC/AHA 2020 Guideline for valvular heart disease",
+  "tags": [
+   "Estenose Aórtica (CM)",
+   "Fisiologia e Semiologia Cardíaca (CM)"
+  ],
+  "sourceQuestionId": "58a8c92ac758c10",
+  "alvo": "Estenose aórtica (lacuna nova, 0 de 2) e semiologia valvar: o atributo do sopro que gradua a lesão, na forma de fato solto com qualificador."
+ }
 ]

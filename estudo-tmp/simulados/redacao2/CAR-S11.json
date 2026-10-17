@@ -1,157 +1,173 @@
 [
-{
- "id": "S11-CAR-01",
- "simulado": 11,
- "area": "Cardiologia",
- "titulo": "Ehlers-Danlos vascular no puerpério: rotura de artéria visceral de médio calibre, confirmada por angiotomografia e não por arteriografia",
- "arma": "Grade X / Y",
- "comando": "diagnóstico",
- "nivel": "extremamente difícil",
- "enunciado": "Mulher de 31 anos, no 9º dia após parto vaginal sem intercorrências, chega ao pronto-socorro com dor súbita em hipocôndrio esquerdo e ombro esquerdo há 3 horas, com sudorese e tontura. Antecedentes: perfuração espontânea do sigmoide aos 24 anos, pneumotórax espontâneo aos 19, equimoses fáceis desde a infância e pé torto congênito; a mãe morreu aos 38 anos de 'hemorragia interna sem causa'. Ao exame: 1,61 m, envergadura igual à altura, face magra com nariz afilado e lábios finos, pele fina e translúcida, com a rede venosa visível no tórax e no abdome; pele sem hiperextensibilidade e grandes articulações com mobilidade normal; exame oftalmológico na gestação sem subluxação do cristalino. PA 90x56 mmHg, FC 120 bpm. Hb 7,9 g/dL. Ultrassonografia à beira do leito: líquido livre perisplênico e na pelve; ecocardiograma focado com raiz aórtica de 31 mm e sem derrame pericárdico. A lesão vascular mais provável e o exame de imagem mais adequado para confirmá-la são, respectivamente:",
- "alternativas": {
-  "A": "Dissecção aórtica por dilatação da raiz / angiotomografia",
-  "B": "Rotura de artéria visceral de médio calibre / arteriografia por cateter",
-  "C": "Rotura de artéria visceral de médio calibre / angiotomografia",
-  "D": "Dissecção aórtica por dilatação da raiz / arteriografia por cateter"
+ {
+  "id": "S11-CAR-01",
+  "simulado": 11,
+  "area": "Cardiologia",
+  "titulo": "Ehlers-Danlos vascular no puerpério: rotura de artéria visceral de médio calibre, confirmada por angiotomografia e não por arteriografia",
+  "arma": "Grade X / Y",
+  "comando": "diagnóstico",
+  "nivel": "extremamente difícil",
+  "enunciado": "Mulher de 31 anos, no 9º dia após parto vaginal sem intercorrências, chega ao pronto-socorro com dor súbita em hipocôndrio esquerdo e ombro esquerdo há 3 horas, com sudorese e tontura. Antecedentes: perfuração espontânea do sigmoide aos 24 anos, pneumotórax espontâneo aos 19, equimoses fáceis desde a infância e pé torto congênito; a mãe morreu aos 38 anos de 'hemorragia interna sem causa'. Ao exame: 1,61 m, envergadura igual à altura, face magra com nariz afilado e lábios finos, pele fina e translúcida, com a rede venosa visível no tórax e no abdome; pele sem hiperextensibilidade e grandes articulações com mobilidade normal; exame oftalmológico na gestação sem subluxação do cristalino. PA 90x56 mmHg e FC 120 bpm na chegada; após 1 litro de cristaloide e 2 concentrados de hemácias, PA 108x66 mmHg e FC 102 bpm. Hb 7,9 g/dL. Ultrassonografia à beira do leito: líquido livre perisplênico e na pelve; ecocardiograma focado com raiz aórtica de 31 mm e sem derrame pericárdico. A lesão vascular mais provável e o exame de imagem mais adequado para confirmá-la são, respectivamente:",
+  "alternativas": {
+   "A": "Dissecção aórtica por dilatação da raiz / angiotomografia",
+   "B": "Rotura de artéria visceral de médio calibre / arteriografia por cateter",
+   "C": "Rotura de artéria visceral de médio calibre / angiotomografia",
+   "D": "Dissecção aórtica por dilatação da raiz / arteriografia por cateter"
+  },
+  "gabarito": "C",
+  "armadilha": "A",
+  "dado_decisivo": "pele fina e translúcida, com a rede venosa visível no tórax e no abdome",
+  "resolucao": "Colapso hemorrágico em jovem com doença do tecido conjuntivo puxa o reflexo do Marfan, e a dissecção da aorta é a isca. Mas o fenótipo aqui é outro: pele fina e translúcida com veias visíveis, face magra com nariz afilado e lábios finos, equimoses fáceis, perfuração espontânea de cólon, pneumotórax e morte súbita hemorrágica da mãe compõem a síndrome de Ehlers-Danlos vascular (tipo IV, mutação do COL3A1, autossômica dominante). Nela a artéria rompe ou disseca sem dilatação prévia, e os vasos mais atingidos são os de médio calibre (esplênica, renais, ilíacas, mesentéricas); a gestação e o puerpério são o período de maior risco. A raiz de 31 mm, a envergadura igual à altura e o cristalino normal afastam o Marfan, e o líquido perisplênico localiza o sangramento. Quanto ao exame, com a paciente respondendo à reposição há tempo para imagem: na forma vascular a arteriografia por cateter tem alta taxa de rotura e dissecção no próprio sítio de punção, e a confirmação deve ser não invasiva, por angiotomografia (ou angiorressonância); o cateter fica reservado para a embolização terapêutica quando ela for inevitável.",
+  "comentarios": {
+   "A": "Errada, e é a armadilha. Seria a resposta no Marfan, com raiz dilatada, envergadura maior que a altura e subluxação do cristalino; aqui a raiz mede 31 mm e o sangue está ao redor do baço, não no mediastino ou no pericárdio.",
+   "B": "Errada. A lesão está certa, mas a arteriografia diagnóstica por cateter é evitada no Ehlers-Danlos vascular pelo risco de rotura e dissecção iatrogênicas; seria aceitável num aneurisma visceral sem doença do colágeno.",
+   "C": "Correta. Pele translúcida com veias visíveis, perfuração de cólon e morte hemorrágica materna definem a forma vascular, que rompe artérias de médio calibre; a confirmação é por imagem não invasiva.",
+   "D": "Errada nas duas metades: a raiz normal afasta a dissecção por dilatação, e a arteriografia por cateter é o exame a evitar nesta síndrome."
+  },
+  "para_levar": "Ehlers-Danlos vascular (pele translúcida, equimoses, perfuração de víscera oca, morte súbita familiar): rotura de artéria de médio calibre sem dilatação prévia, pior na gestação; confirme com angiotomografia e evite arteriografia diagnóstica.",
+  "referencias": "Byers PH et al., GeneReviews: Vascular Ehlers-Danlos Syndrome (atualização 2023); ESC 2024 Guidelines for peripheral arterial and aortic diseases (síndromes aórticas e arteriais hereditárias); International EDS Consortium 2017",
+  "tags": [
+   "Hipermobilidade Articular e Suas Síndromes (CM)",
+   "Doenças Raras (CM)",
+   "244 Inherited Diseases of Connective Tissue"
+  ],
+  "sourceQuestionId": "6901c2efcb79225",
+  "alvo": "Semiologia da síndrome à lesão (lacuna fixa): separar a doença do colágeno que dilata a raiz (Marfan) da que rompe artéria de médio calibre (Ehlers-Danlos vascular)."
  },
- "gabarito": "C",
- "armadilha": "A",
- "dado_decisivo": "pele fina e translúcida, com a rede venosa visível no tórax e no abdome",
- "resolucao": "Colapso hemorrágico em jovem com doença do tecido conjuntivo puxa o reflexo do Marfan, e a dissecção da aorta é a isca. Mas o fenótipo aqui é outro: pele fina e translúcida com veias visíveis, face magra com nariz afilado e lábios finos, equimoses fáceis, perfuração espontânea de cólon, pneumotórax e morte súbita hemorrágica da mãe compõem a síndrome de Ehlers-Danlos vascular (tipo IV, mutação do COL3A1, autossômica dominante). Nela a artéria rompe ou disseca sem dilatação prévia, e os vasos mais atingidos são os de médio calibre (esplênica, renais, ilíacas, mesentéricas); a gestação e o puerpério são o período de maior risco. A raiz de 31 mm, a envergadura igual à altura e o cristalino normal afastam o Marfan, e o líquido perisplênico localiza o sangramento. Quanto ao exame: na forma vascular a arteriografia por cateter tem alta taxa de rotura e dissecção no próprio sítio de punção, e a confirmação deve ser não invasiva, por angiotomografia (ou angiorressonância); o cateter fica reservado para a embolização terapêutica quando ela for inevitável.",
- "comentarios": {
-  "A": "Errada, e é a armadilha. Seria a resposta no Marfan, com raiz dilatada, envergadura maior que a altura e subluxação do cristalino; aqui a raiz mede 31 mm e o sangue está ao redor do baço, não no mediastino ou no pericárdio.",
-  "B": "Errada. A lesão está certa, mas a arteriografia diagnóstica por cateter é evitada no Ehlers-Danlos vascular pelo risco de rotura e dissecção iatrogênicas; seria aceitável num aneurisma visceral sem doença do colágeno.",
-  "C": "Correta. Pele translúcida com veias visíveis, perfuração de cólon e morte hemorrágica materna definem a forma vascular, que rompe artérias de médio calibre; a confirmação é por imagem não invasiva.",
-  "D": "Errada nas duas metades: a raiz normal afasta a dissecção por dilatação, e a arteriografia por cateter é o exame a evitar nesta síndrome."
+ {
+  "id": "S11-CAR-02",
+  "simulado": 11,
+  "area": "Cardiologia",
+  "titulo": "Padrão de De Winter com troponina inicial normal: oclusão aguda da descendente anterior, angioplastia primária imediata",
+  "arma": "Rótulo verdadeiro",
+  "comando": "conduta",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 52 anos, tabagista e dislipidêmico, chega ao pronto-socorro com dor retroesternal opressiva, irradiada para a mandíbula, iniciada há 50 minutos, com sudorese fria. PA 148x92 mmHg, FC 94 bpm, SpO2 96%, pulmões limpos, sem sopros. ECG da chegada: ritmo sinusal, QRS estreito, infradesnivelamento ascendente do ponto J de 2 mm de V2 a V5, seguido de ondas T altas, simétricas e apiculadas nas mesmas derivações, e supradesnivelamento de 1 mm em aVR; nenhuma derivação com supradesnivelamento do ST em 2 derivações contíguas. Troponina T ultrassensível da chegada: 9 ng/L (referência até 14 ng/L). O hospital tem hemodinâmica 24 horas, com tempo previsto até a passagem do fio de 40 minutos. O plantonista registra 'SCA sem supra de ST, troponina negativa: repetir em 1 hora'. Além de AAS e anticoagulação, a conduta mais adequada neste momento é:",
+  "alternativas": {
+   "A": "Angioplastia primária imediata",
+   "B": "Troponina seriada em 1 hora",
+   "C": "Cateterismo nas primeiras 24 horas",
+   "D": "Fibrinólise com tenecteplase"
+  },
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "seguido de ondas T altas, simétricas e apiculadas nas mesmas derivações",
+  "resolucao": "O rótulo do plantonista é verdadeiro ao pé da letra: não há supradesnivelamento do ST, e a troponina da chegada ainda está normal. Mas infradesnivelamento ascendente do ponto J em precordiais com ondas T altas, simétricas e apiculadas, com leve supra em aVR, é o padrão de De Winter, equivalente de oclusão aguda da descendente anterior proximal. A troponina normal aos 50 minutos de dor não tranquiliza ninguém, porque a necrose ainda não liberou marcador suficiente. A diretriz europeia de 2023 inclui esse padrão entre os que indicam oclusão coronariana aguda e pedem reperfusão imediata, como no IAM com supra; com hemodinâmica disponível em 40 minutos, a angioplastia primária é a escolha. Esperar a segunda troponina ou adiar o cateterismo para 24 horas deixa a parede anterior morrer.",
+  "comentarios": {
+   "A": "Correta. O padrão de De Winter equivale à oclusão da descendente anterior, e com sala disponível em 40 minutos a reperfusão é por angioplastia primária, sem esperar marcador.",
+   "B": "Errada, e é a armadilha. O algoritmo de 0 e 1 hora serve para a dor torácica com ECG sem padrão de oclusão; aqui o ECG já decide, e a troponina precoce normal é esperada nos primeiros minutos de uma oclusão.",
+   "C": "Errada. Estratégia invasiva precoce em até 24 horas é para SCA sem supra de alto risco sem padrão de oclusão; o De Winter pede reperfusão imediata.",
+   "D": "Errada. Fibrinólise seria a escolha se o tempo previsto até a angioplastia passasse de 120 minutos; com a hemodinâmica a 40 minutos, a angioplastia é superior."
+  },
+  "para_levar": "Infra ascendente do ponto J em V2 a V5 com T alta, simétrica e apiculada (De Winter) é oclusão da descendente anterior: tratar como IAM com supra, sem esperar troponina.",
+  "referencias": "ESC 2023 Guidelines for the management of acute coronary syndromes; Diretriz da SBC sobre IAM com supradesnível do ST, 2015; de Winter RJ et al., N Engl J Med 2008",
+  "tags": [
+   "ECG das Síndromes Coronarianas Agudas (CM)",
+   "IAMCSST (CM)"
+  ],
+  "sourceQuestionId": "c442bf327941958",
+  "alvo": "ECG que decide lido como enfeite: padrão de oclusão sem supra de ST, contra o rótulo 'sem supra, troponina negativa'."
  },
- "para_levar": "Ehlers-Danlos vascular (pele translúcida, equimoses, perfuração de víscera oca, morte súbita familiar): rotura de artéria de médio calibre sem dilatação prévia, pior na gestação; confirme com angiotomografia e evite arteriografia diagnóstica.",
- "referencias": "Byers PH et al., GeneReviews: Vascular Ehlers-Danlos Syndrome (atualização 2023); ESC 2024 Guidelines for peripheral arterial and aortic diseases (síndromes aórticas e arteriais hereditárias); International EDS Consortium 2017",
- "tags": ["Hipermobilidade Articular e Suas Síndromes (CM)", "Doenças Raras (CM)", "244 Inherited Diseases of Connective Tissue"],
- "sourceQuestionId": "6901c2efcb79225",
- "alvo": "Semiologia da síndrome à lesão (lacuna fixa): separar a doença do colágeno que dilata a raiz (Marfan) da que rompe artéria de médio calibre (Ehlers-Danlos vascular)."
-},
-{
- "id": "S11-CAR-02",
- "simulado": 11,
- "area": "Cardiologia",
- "titulo": "Padrão de De Winter com troponina inicial normal: oclusão aguda da descendente anterior, angioplastia primária imediata",
- "arma": "Rótulo verdadeiro",
- "comando": "conduta",
- "nivel": "extremamente difícil",
- "enunciado": "Homem de 52 anos, tabagista e dislipidêmico, chega ao pronto-socorro com dor retroesternal opressiva, irradiada para a mandíbula, iniciada há 50 minutos, com sudorese fria. PA 148x92 mmHg, FC 94 bpm, SpO2 96%, pulmões limpos, sem sopros. ECG da chegada: ritmo sinusal, QRS estreito, infradesnivelamento ascendente do ponto J de 2 mm de V2 a V5, seguido de ondas T altas, simétricas e apiculadas nas mesmas derivações, e supradesnivelamento de 1 mm em aVR; nenhuma derivação com supradesnivelamento do ST em 2 derivações contíguas. Troponina T ultrassensível da chegada: 9 ng/L (referência até 14 ng/L). O hospital tem hemodinâmica 24 horas, com tempo previsto até a passagem do fio de 40 minutos. O plantonista registra 'SCA sem supra de ST, troponina negativa: repetir em 1 hora'. Além de AAS e anticoagulação, a conduta mais adequada neste momento é:",
- "alternativas": {
-  "A": "Angioplastia primária imediata",
-  "B": "Troponina seriada em 1 hora",
-  "C": "Cateterismo nas primeiras 24 horas",
-  "D": "Fibrinólise com tenecteplase"
+ {
+  "id": "S11-CAR-03",
+  "simulado": 11,
+  "area": "Cardiologia",
+  "titulo": "Filho assintomático de portador de ATTR hereditária com variante conhecida: teste genético dirigido antes de qualquer imagem",
+  "arma": "Omissão",
+  "comando": "próximo exame",
+  "nivel": "difícil",
+  "enunciado": "Homem de 41 anos, negro, assintomático, procura o cardiologista porque o pai, de 68 anos, acaba de receber o diagnóstico de amiloidose cardíaca por transtirretina: cintilografia com pirofosfato grau 3, imunofixação sérica e urinária negativas, cadeias leves livres normais e sequenciamento do gene TTR heterozigoto para a variante Val142Ile (antiga V122I). O pai operou túnel do carpo aos 58 anos e tem dispneia desde os 64. O paciente corre 5 km três vezes por semana e nega parestesias, dormência nas mãos, diarreia, tontura ao levantar ou dispneia. PA 124x78 mmHg, FC 62 bpm, exame físico normal. ECG: ritmo sinusal, voltagem normal, sem áreas inativas. Ecocardiograma: septo de 9 mm, FE 63%, strain longitudinal global normal e sem preservação apical. NT-proBNP 36 pg/mL. O médico do convênio sugere 'cintilografia com pirofosfato já, para pegar a doença no início'. O próximo exame mais adequado é:",
+  "alternativas": {
+   "A": "Ressonância cardíaca com mapa T1",
+   "B": "Teste genético dirigido à variante paterna",
+   "C": "Nenhum exame enquanto assintomático",
+   "D": "Cintilografia com pirofosfato de tecnécio"
+  },
+  "gabarito": "B",
+  "armadilha": "D",
+  "dado_decisivo": "sequenciamento do gene TTR heterozigoto para a variante Val142Ile",
+  "resolucao": "A cintilografia com pirofosfato é a isca: foi o exame que fechou o diagnóstico do pai, e a vontade de achar a doença cedo empurra para ela. Mas num parente de 41 anos assintomático, com ECG, ecocardiograma com strain e NT-proBNP normais, a chance de captação é mínima, e a pergunta que muda a conduta vem antes: ele herdou a variante? Como a variante da família é conhecida, o teste genético dirigido a ela, precedido de aconselhamento genético, responde isso com uma coleta de sangue. Se ele não for portador, sai do seguimento; se for, entra em vigilância com ECG, ecocardiograma com strain e NT-proBNP, e a cintilografia passa a ser pedida quando surgir alteração ou ao se aproximar da idade em que a doença apareceu na família (em geral a partir de cerca de 10 anos antes dela). A Val142Ile, frequente em afrodescendentes, tem penetrância incompleta e dependente da idade: o genótipo isolado não é doença e não indica tratamento. Não pedir nada, por outro lado, tira do portador a chance de diagnóstico precoce.",
+  "comentarios": {
+   "A": "Errada. A ressonância com mapa T1 procura infiltração quando há suspeita clínica ou alteração no eco; num jovem com exames normais não acrescenta, e não diz se ele herdou a variante.",
+   "B": "Correta. Com a variante familiar conhecida, o teste dirigido define quem precisa de vigilância: é o degrau mais simples e o que muda a conduta.",
+   "C": "Errada. Seria aceitável se o pai tivesse a forma selvagem, que não se herda; com variante patogênica, os parentes de primeiro grau têm indicação de aconselhamento e teste genético.",
+   "D": "Errada, e é a armadilha. A cintilografia entra no portador com sinais de doença ou perto da idade de início na família; no assintomático de 41 anos, com exames normais e genótipo desconhecido, é exame a mais."
+  },
+  "para_levar": "Parente de primeiro grau de ATTR hereditária com variante conhecida: aconselhamento e teste genético dirigido primeiro; só o portador entra em vigilância (ECG, eco com strain, NT-proBNP e, no momento certo, cintilografia).",
+  "referencias": "ESC Working Group position statement on diagnosis and treatment of cardiac amyloidosis (Garcia-Pavia P et al., Eur Heart J 2021); ACC Expert Consensus Decision Pathway on Comprehensive Multidisciplinary Care for the Patient With Cardiac Amyloidosis, 2023; ESC 2023 Guidelines for the management of cardiomyopathies (avaliação genética de familiares)",
+  "tags": [
+   "Amiloidose cardíaca (CM)",
+   "Doenças Raras (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Porte da investigação (próximo exame): o exame de imagem do degrau acima quando o passo simples e decisivo é o teste genético dirigido."
  },
- "gabarito": "A",
- "armadilha": "B",
- "dado_decisivo": "seguido de ondas T altas, simétricas e apiculadas nas mesmas derivações",
- "resolucao": "O rótulo do plantonista é verdadeiro ao pé da letra: não há supradesnivelamento do ST, e a troponina da chegada ainda está normal. Mas infradesnivelamento ascendente do ponto J em precordiais com ondas T altas, simétricas e apiculadas, com leve supra em aVR, é o padrão de De Winter, equivalente de oclusão aguda da descendente anterior proximal. A troponina normal aos 50 minutos de dor não tranquiliza ninguém, porque a necrose ainda não liberou marcador suficiente. A diretriz europeia de 2023 trata esse padrão como equivalente de IAM com supra, com estratégia de reperfusão imediata; com hemodinâmica disponível em 40 minutos, a angioplastia primária é a escolha. Esperar a segunda troponina ou adiar o cateterismo para 24 horas deixa a parede anterior morrer.",
- "comentarios": {
-  "A": "Correta. O padrão de De Winter equivale à oclusão da descendente anterior, e com sala disponível em 40 minutos a reperfusão é por angioplastia primária, sem esperar marcador.",
-  "B": "Errada, e é a armadilha. O algoritmo de 0 e 1 hora serve para a dor torácica com ECG sem padrão de oclusão; aqui o ECG já decide, e a troponina precoce normal é esperada nos primeiros minutos de uma oclusão.",
-  "C": "Errada. Estratégia invasiva precoce em até 24 horas é para SCA sem supra de alto risco sem padrão de oclusão; o De Winter pede reperfusão imediata.",
-  "D": "Errada. Fibrinólise seria a escolha se o tempo previsto até a angioplastia passasse de 120 minutos; com a hemodinâmica a 40 minutos, a angioplastia é superior."
+ {
+  "id": "S11-CAR-04",
+  "simulado": 11,
+  "area": "Cardiologia",
+  "titulo": "Hipotensão ortostática no diabético em uso de tiazídico: a frequência que não sobe define a causa neurogênica",
+  "arma": "Limiar",
+  "comando": "etiologia",
+  "nivel": "difícil",
+  "enunciado": "Homem de 71 anos, com diabetes tipo 2 há 22 anos (HbA1c 8,9%), retinopatia proliferativa e parestesias em bota, e hipertensão tratada com hidroclorotiazida 25 mg e losartana 50 mg, relata tontura ao se levantar, pior pela manhã e após o almoço, com duas quedas no último mês. Nega vômitos, diarreia ou redução da ingestão de líquidos; peso estável. Sem tremor, rigidez, bradicinesia ou ataxia; sem uso de alfabloqueador. Deitado há 5 minutos: PA 168x94 mmHg e FC 74 bpm. Após 3 minutos em pé: PA 126x78 mmHg e FC 77 bpm. Ureia 36 mg/dL, creatinina 1,0 mg/dL (igual à de 6 meses atrás), sódio 138 mEq/L, potássio 4,2 mEq/L, glicemia 164 mg/dL, Hb 13,6 g/dL. A filha atribui as quedas 'ao diurético, que desidrata'. A causa mais provável da hipotensão ortostática é:",
+  "alternativas": {
+   "A": "Insuficiência adrenal primária",
+   "B": "Atrofia de múltiplos sistemas",
+   "C": "Depleção de volume pelo tiazídico",
+   "D": "Neuropatia autonômica diabética"
+  },
+  "gabarito": "D",
+  "armadilha": "C",
+  "dado_decisivo": "Após 3 minutos em pé: PA 126x78 mmHg e FC 77 bpm",
+  "resolucao": "A queda de 42 mmHg na sistólica confirma a hipotensão ortostática, e o tiazídico é um culpado verdadeiro e conveniente, por isso é a isca. O dado que separa as causas é a resposta da frequência: na hipovolemia o barorreflexo está íntegro e a FC sobe 15 a 30 bpm; na disautonomia a FC quase não se mexe. A razão entre o aumento da FC e a queda da sistólica abaixo de 0,5 bpm/mmHg indica causa neurogênica, e aqui ela é 3/42, cerca de 0,07. Somam-se a hipertensão supina, a piora pós-prandial e pela manhã, a retinopatia e a polineuropatia de longa data, que fazem da neuropatia autonômica diabética a causa. Ureia e creatinina estáveis, sódio normal e peso mantido não sustentam depleção de volume. Reduzir ou suspender o tiazídico pode ajudar, mas não corrige a causa, e tratar a hipertensão supina com o paciente deitado é parte do manejo.",
+  "comentarios": {
+   "A": "Errada. Insuficiência adrenal primária daria hiponatremia, hiperpotassemia e taquicardia compensatória, além de hipotensão também em decúbito; aqui sódio e potássio são normais e há hipertensão supina.",
+   "B": "Errada. A atrofia de múltiplos sistemas também causa hipotensão neurogênica, mas exige parkinsonismo ou síndrome cerebelar, explicitamente ausentes; o diabetes de longa data com retinopatia e neuropatia já explica tudo.",
+   "C": "Errada, e é a armadilha. Na depleção de volume a FC subiria pelo menos 15 bpm em pé, e a função renal, o sódio e o peso mudariam; a FC subiu 3 bpm.",
+   "D": "Correta. Queda de 42 mmHg com aumento de 3 bpm (razão bem abaixo de 0,5) indica falha barorreflexa, e a microangiopatia e a neuropatia de longa data apontam a causa diabética."
+  },
+  "para_levar": "Na hipotensão ortostática, olhe a FC: aumento menor que 0,5 bpm para cada mmHg de queda da sistólica indica causa neurogênica; hipovolemia e drogas mantêm a taquicardia compensatória.",
+  "referencias": "Consenso AAS/EFAS sobre hipotensão ortostática neurogênica (Freeman R et al., Clin Auton Res 2018); ESC 2018 Guidelines for syncope; ADA Standards of Care 2026 (neuropatia autonômica)",
+  "tags": [
+   "Síncope (CM)",
+   "Complicações Crônicas do Diabetes (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Exame que decide lido como enfeite (a FC em pé) diante de um culpado verdadeiro e fácil (o diurético)."
  },
- "para_levar": "Infra ascendente do ponto J em V2 a V5 com T alta, simétrica e apiculada (De Winter) é oclusão da descendente anterior: tratar como IAM com supra, sem esperar troponina.",
- "referencias": "ESC 2023 Guidelines for the management of acute coronary syndromes; Diretriz SBC de IAM com supradesnível do ST 2015 e atualização 2021; de Winter RJ et al., N Engl J Med 2008",
- "tags": ["ECG das Síndromes Coronarianas Agudas (CM)", "IAMCSST (CM)"],
- "sourceQuestionId": "c442bf327941958",
- "alvo": "ECG que decide lido como enfeite: padrão de oclusão sem supra de ST, contra o rótulo 'sem supra, troponina negativa'."
-},
-{
- "id": "S11-CAR-03",
- "simulado": 11,
- "area": "Cardiologia",
- "titulo": "Amiloidose por transtirretina já confirmada sem biópsia, com neuropatia e história familiar: sequenciamento do gene TTR",
- "arma": "Omissão",
- "comando": "próximo exame",
- "nivel": "difícil",
- "enunciado": "Homem de 66 anos, negro, natural do Recôncavo Baiano, é acompanhado por insuficiência cardíaca de fração de ejeção preservada (FE 54%) há 1 ano. Operou túnel do carpo bilateral há 4 anos; há 2 anos tem parestesias e queimação em pés que sobem até os tornozelos, e episódios de diarreia alternados com constipação. O pai morreu aos 70 anos 'de coração grande' e um tio paterno ficou 'com as pernas fracas' na sexta década. ECG: baixa voltagem nas derivações periféricas e área inativa anterosseptal. Ecocardiograma: septo de 16 mm, strain longitudinal com preservação apical. Cintilografia com pirofosfato de tecnécio: captação cardíaca grau 3, razão coração/contralateral de 1,8. Eletroforese de proteínas sem pico; imunofixação sérica e urinária negativas; relação kappa/lambda das cadeias leves livres de 1,1 (referência 0,26 a 1,65). Creatinina 1,1 mg/dL. O próximo exame mais adequado é:",
- "alternativas": {
-  "A": "Ressonância cardíaca com mapa T1",
-  "B": "Sequenciamento do gene da transtirretina",
-  "C": "Biópsia de gordura abdominal",
-  "D": "Biópsia endomiocárdica com tipagem"
- },
- "gabarito": "B",
- "armadilha": "D",
- "dado_decisivo": "imunofixação sérica e urinária negativas; relação kappa/lambda das cadeias leves livres de 1,1",
- "resolucao": "O impulso de quem aprendeu que amiloidose se confirma no tecido é pedir a biópsia, e ela é a isca. Mas o algoritmo não invasivo está completo: cintilografia com pirofosfato grau 3 com imunofixação sérica e urinária negativas e cadeias leves livres normais dá o diagnóstico de amiloidose cardíaca por transtirretina com especificidade próxima de 100%, sem biópsia. A pergunta que sobra é se a ATTR é selvagem ou hereditária, e aqui tudo aponta para a hereditária: homem negro (a variante Val142Ile, antiga V122I, é frequente na população afrodescendente brasileira), polineuropatia sensitiva ascendente com disautonomia intestinal e história familiar de cardiopatia e neuropatia. O sequenciamento do TTR é recomendado para todo paciente com ATTR confirmada, porque muda o aconselhamento e o rastreio dos parentes e amplia as opções terapêuticas (silenciadores do gene para a polineuropatia). A ressonância apenas reconfirmaria a infiltração.",
- "comentarios": {
-  "A": "Errada. A ressonância com mapa T1 e volume extracelular confirma infiltração quando a cintilografia é duvidosa; aqui a infiltração já está provada e o exame não separa selvagem de hereditária.",
-  "B": "Correta. Com ATTR fechada sem biópsia, o sequenciamento do gene separa a forma hereditária da selvagem, e a neuropatia, a etnia e a história familiar apontam para a hereditária.",
-  "C": "Errada. A biópsia de gordura tem baixa sensibilidade na ATTR e só teria papel na busca de AL; com pesquisa monoclonal negativa, não acrescenta nada.",
-  "D": "Errada, e é a armadilha. A biópsia endomiocárdica é obrigatória quando há proteína monoclonal ou cintilografia grau 1; com grau 3 e pesquisa monoclonal negativa, é procedimento invasivo sem ganho."
- },
- "para_levar": "Pirofosfato grau 2 ou 3 com imunofixação e cadeias leves normais fecha ATTR sem biópsia; o passo seguinte é o sequenciamento do TTR, ainda mais com neuropatia, afrodescendência ou história familiar.",
- "referencias": "ESC Working Group position statement on cardiac amyloidosis, 2021; ACC Expert Consensus Decision Pathway on Cardiac Amyloidosis, 2023; Gillmore JD et al., Circulation 2016",
- "tags": ["Amiloidose cardíaca (CM)", "Cardiomiopatias Restritivas (CM)"],
- "sourceQuestionId": "2cc7f2473f119dd",
- "alvo": "Porte da investigação: fazer o exame invasivo do degrau acima quando o algoritmo não invasivo já fechou o diagnóstico."
-},
-{
- "id": "S11-CAR-04",
- "simulado": 11,
- "area": "Cardiologia",
- "titulo": "Hipotensão ortostática no diabético em uso de tiazídico: a frequência que não sobe define a causa neurogênica",
- "arma": "Limiar",
- "comando": "etiologia",
- "nivel": "difícil",
- "enunciado": "Homem de 71 anos, com diabetes tipo 2 há 22 anos (HbA1c 8,9%), retinopatia proliferativa e parestesias em bota, e hipertensão tratada com hidroclorotiazida 25 mg e losartana 50 mg, relata tontura ao se levantar, pior pela manhã e após o almoço, com duas quedas no último mês. Nega vômitos, diarreia ou redução da ingestão de líquidos; peso estável. Sem tremor, rigidez, bradicinesia ou ataxia; sem uso de alfabloqueador. Deitado há 5 minutos: PA 168x94 mmHg e FC 74 bpm. Após 3 minutos em pé: PA 126x78 mmHg e FC 77 bpm. Ureia 36 mg/dL, creatinina 1,0 mg/dL (igual à de 6 meses atrás), sódio 138 mEq/L, potássio 4,2 mEq/L, glicemia 164 mg/dL, Hb 13,6 g/dL. A filha atribui as quedas 'ao diurético, que desidrata'. A causa mais provável da hipotensão ortostática é:",
- "alternativas": {
-  "A": "Insuficiência adrenal primária",
-  "B": "Atrofia de múltiplos sistemas",
-  "C": "Depleção de volume pelo tiazídico",
-  "D": "Neuropatia autonômica diabética"
- },
- "gabarito": "D",
- "armadilha": "C",
- "dado_decisivo": "Após 3 minutos em pé: PA 126x78 mmHg e FC 77 bpm",
- "resolucao": "A queda de 42 mmHg na sistólica confirma a hipotensão ortostática, e o tiazídico é um culpado verdadeiro e conveniente, por isso é a isca. O dado que separa as causas é a resposta da frequência: na hipovolemia o barorreflexo está íntegro e a FC sobe 15 a 30 bpm; na disautonomia a FC quase não se mexe. A razão entre o aumento da FC e a queda da sistólica abaixo de 0,5 bpm/mmHg indica causa neurogênica, e aqui ela é 3/42, cerca de 0,07. Somam-se a hipertensão supina, a piora pós-prandial e pela manhã, a retinopatia e a polineuropatia de longa data, que fazem da neuropatia autonômica diabética a causa. Ureia e creatinina estáveis, sódio normal e peso mantido não sustentam depleção de volume. Reduzir ou suspender o tiazídico pode ajudar, mas não corrige a causa, e tratar a hipertensão supina com o paciente deitado é parte do manejo.",
- "comentarios": {
-  "A": "Errada. Insuficiência adrenal primária daria hiponatremia, hiperpotassemia e taquicardia compensatória, além de hipotensão também em decúbito; aqui sódio e potássio são normais e há hipertensão supina.",
-  "B": "Errada. A atrofia de múltiplos sistemas também causa hipotensão neurogênica, mas exige parkinsonismo ou síndrome cerebelar, explicitamente ausentes; o diabetes de longa data com retinopatia e neuropatia já explica tudo.",
-  "C": "Errada, e é a armadilha. Na depleção de volume a FC subiria pelo menos 15 bpm em pé, e a função renal, o sódio e o peso mudariam; a FC subiu 3 bpm.",
-  "D": "Correta. Queda de 42 mmHg com aumento de 3 bpm (razão bem abaixo de 0,5) indica falha barorreflexa, e a microangiopatia e a neuropatia de longa data apontam a causa diabética."
- },
- "para_levar": "Na hipotensão ortostática, olhe a FC: aumento menor que 0,5 bpm para cada mmHg de queda da sistólica indica causa neurogênica; hipovolemia e drogas mantêm a taquicardia compensatória.",
- "referencias": "Consenso AAS/EFAS sobre hipotensão ortostática neurogênica (Freeman R et al., Clin Auton Res 2018); ESC 2018 Guidelines for syncope; ADA Standards of Care 2026 (neuropatia autonômica)",
- "tags": ["Síncope (CM)", "Complicações Crônicas do Diabetes (CM)"],
- "sourceQuestionId": null,
- "alvo": "Exame que decide lido como enfeite (a FC em pé) diante de um culpado verdadeiro e fácil (o diurético)."
-},
-{
- "id": "S11-CAR-05",
- "simulado": 11,
- "area": "Cardiologia",
- "titulo": "Bradicardia sinusal sintomática na idosa: suspender o anticolinesterásico e o colírio betabloqueador antes do marca-passo",
- "arma": "Droga a deduzir",
- "comando": "conduta",
- "nivel": "difícil",
- "enunciado": "Mulher de 81 anos, com doença de Alzheimer leve e glaucoma de ângulo aberto, é trazida por tonturas há 3 semanas e um episódio de lipotimia ao caminhar. A filha conta que há 2 meses o neurologista iniciou um comprimido 'para a memória', com aumento da dose há 3 semanas, e que o oftalmologista mantém há anos um colírio que reduz a pressão do olho e que 'não pode ser usado por quem tem asma'. Usa também anlodipino 5 mg. PA 134x72 mmHg, FC 42 bpm, regular. ECG: bradicardia sinusal de 42 bpm, PR 190 ms, QRS 90 ms. Holter de 24 horas: FC mínima de 36 bpm em vigília, pausas sinusais de até 2,6 segundos, sem bloqueio atrioventricular. TSH 2,4 mUI/L, potássio 4,3 mEq/L, troponina normal. A conduta mais adequada é:",
- "alternativas": {
-  "A": "Implante de marca-passo definitivo",
-  "B": "Suspender o anticolinesterásico e o colírio betabloqueador",
-  "C": "Estudo eletrofisiológico da função sinusal",
-  "D": "Trocar o anlodipino por diltiazem"
- },
- "gabarito": "B",
- "armadilha": "A",
- "dado_decisivo": "há 2 meses o neurologista iniciou um comprimido 'para a memória', com aumento da dose há 3 semanas",
- "resolucao": "Bradicardia sinusal sintomática com pausas puxa o marca-passo, que é a isca: a indicação existe, mas só depois de excluir causa reversível. Duas drogas bradicardizantes estão escondidas na história. O comprimido 'para a memória' na doença de Alzheimer é um inibidor da acetilcolinesterase (donepezila, rivastigmina ou galantamina), que aumenta o tônus vagal no nó sinusal e causa bradicardia e síncope, sobretudo após aumento de dose; a cronologia (sintomas 3 semanas após o aumento) amarra a causa. O colírio para glaucoma que não pode ser usado por asmáticos é o timolol, betabloqueador com absorção sistêmica pela mucosa nasal suficiente para bradicardia. A diretriz manda suspender ou substituir a droga e reavaliar; o marca-passo fica para a bradicardia que persiste sem ela ou quando a droga é indispensável.",
- "comentarios": {
-  "A": "Errada, e é a armadilha. O marca-passo seria a conduta na doença do nó sinusal sintomática sem causa reversível; aqui duas drogas bradicardizantes explicam o quadro e devem ser retiradas primeiro.",
-  "B": "Correta. O anticolinesterásico, com sintomas após o aumento de dose, e o timolol tópico são causas reversíveis de bradicardia; suspendê-los e reavaliar é o primeiro passo.",
-  "C": "Errada. O estudo eletrofisiológico raramente é necessário na bradicardia sinusal com correlação sintoma-ritmo documentada no Holter, e não tem lugar antes de retirar as drogas.",
-  "D": "Errada. Diltiazem é bloqueador de cálcio não di-hidropiridínico e piora a bradicardia; o anlodipino não age no nó sinusal."
- },
- "para_levar": "Antes do marca-passo na bradicardia sintomática, procure a droga: anticolinesterásico para demência e colírio de timolol são causas reversíveis que a história esconde.",
- "referencias": "ACC/AHA/HRS 2018 Guideline on bradycardia and cardiac conduction delay; ESC 2021 Guidelines on cardiac pacing and cardiac resynchronization therapy; Diretriz Brasileira de Dispositivos Cardíacos Eletrônicos Implantáveis 2023",
- "tags": ["Bradiarritmias (CM)", "Iatrogenias (CM)"],
- "sourceQuestionId": "0cab12c3d82be08",
- "alvo": "Ignorar a droga em uso e fazer o procedimento definitivo quando a causa reversível está na história."
-}
+ {
+  "id": "S11-CAR-05",
+  "simulado": 11,
+  "area": "Cardiologia",
+  "titulo": "Bradicardia sinusal sintomática na idosa: suspender o anticolinesterásico e o colírio betabloqueador antes do marca-passo",
+  "arma": "Droga a deduzir",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 81 anos, com doença de Alzheimer leve e glaucoma de ângulo aberto, é trazida por tonturas há 3 semanas e um episódio de lipotimia ao caminhar. A filha conta que há 2 meses o neurologista iniciou um comprimido 'para a memória', com aumento da dose há 3 semanas, e que o oftalmologista mantém há anos um colírio que reduz a pressão do olho e que 'não pode ser usado por quem tem asma'. Usa também anlodipino 5 mg. PA 134x72 mmHg, FC 42 bpm, regular. ECG: bradicardia sinusal de 42 bpm, PR 190 ms, QRS 90 ms. Holter de 24 horas: FC mínima de 36 bpm em vigília, pausas sinusais de até 2,6 segundos, sem bloqueio atrioventricular. TSH 2,4 mUI/L, potássio 4,3 mEq/L, troponina normal. A conduta mais adequada é:",
+  "alternativas": {
+   "A": "Estudo eletrofisiológico da função sinusal",
+   "B": "Atropina e marca-passo transcutâneo",
+   "C": "Implante de marca-passo definitivo",
+   "D": "Retirar as drogas bradicardizantes e reavaliar"
+  },
+  "gabarito": "D",
+  "armadilha": "C",
+  "dado_decisivo": "há 2 meses o neurologista iniciou um comprimido 'para a memória', com aumento da dose há 3 semanas",
+  "resolucao": "Bradicardia sinusal sintomática com pausas puxa o marca-passo, que é a isca: a indicação existe, mas só depois de excluir causa reversível. Duas drogas bradicardizantes estão escondidas na história. O comprimido 'para a memória' na doença de Alzheimer é um inibidor da acetilcolinesterase (donepezila, rivastigmina ou galantamina), que aumenta o tônus vagal no nó sinusal e causa bradicardia e síncope, sobretudo após aumento de dose; a cronologia (sintomas 3 semanas após o aumento) amarra a causa. O colírio para glaucoma que não pode ser usado por asmáticos é o timolol, betabloqueador com absorção sistêmica pela mucosa nasal suficiente para bradicardia. A diretriz manda suspender ou substituir a droga e reavaliar (o colírio pode ser trocado por um análogo de prostaglandina); o marca-passo fica para a bradicardia que persiste sem ela ou quando a droga é indispensável.",
+  "comentarios": {
+   "A": "Errada. O estudo eletrofisiológico raramente é necessário na bradicardia sinusal com correlação sintoma-ritmo documentada no Holter, e não tem lugar antes de retirar as drogas.",
+   "B": "Errada. Atropina e marca-passo transcutâneo são para a bradicardia com instabilidade (hipotensão, choque, rebaixamento de consciência); ela está estável, com PA de 134x72 mmHg.",
+   "C": "Errada, e é a armadilha. O marca-passo seria a conduta na doença do nó sinusal sintomática sem causa reversível; aqui duas drogas bradicardizantes explicam o quadro e devem ser retiradas primeiro.",
+   "D": "Correta. O anticolinesterásico, com sintomas após o aumento de dose, e o timolol tópico são causas reversíveis de bradicardia; retirá-los (combinando com o neurologista e trocando o colírio por um análogo de prostaglandina) e repetir o Holter é o primeiro passo."
+  },
+  "para_levar": "Antes do marca-passo na bradicardia sintomática, procure a droga: anticolinesterásico para demência e colírio de timolol são causas reversíveis que a história esconde.",
+  "referencias": "ACC/AHA/HRS 2018 Guideline on bradycardia and cardiac conduction delay; ESC 2021 Guidelines on cardiac pacing and cardiac resynchronization therapy; Diretriz Brasileira de Dispositivos Cardíacos Eletrônicos Implantáveis 2023",
+  "tags": [
+   "Bradiarritmias (CM)",
+   "Iatrogenias (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Ignorar a droga em uso e fazer o procedimento definitivo quando a causa reversível está na história."
+ }
 ]

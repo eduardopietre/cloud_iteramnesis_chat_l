@@ -143,7 +143,7 @@
   "arma": "Grade X / Y",
   "comando": "conduta",
   "nivel": "difícil",
-  "enunciado": "Homem de 34 anos, assintomático, procura o ambulatório após exame admissional. O pai teve infarto aos 46 anos e um tio paterno morreu subitamente aos 50. Não fuma, IMC 24 kg/m², PA 122x76 mmHg. Exame: espessamento nodular dos tendões de Aquiles e dos extensores dos dedos das mãos e arco corneano incompleto. Exames em jejum, repetidos: colesterol total 352 mg/dL, LDL-c 271 mg/dL, HDL-c 48 mg/dL, triglicerídeos 110 mg/dL, glicemia 88 mg/dL; TSH 6,4 mUI/L (VR 0,4 a 4,5), T4 livre 1,1 ng/dL (VR 0,7 a 1,8), anti-TPO negativo; creatinina, enzimas hepáticas, albumina e urina normais. Além de orientar dieta, a conduta para o paciente e a conduta para a família são, respectivamente:",
+  "enunciado": "Homem de 34 anos, assintomático, procura o ambulatório após exame admissional. O pai teve infarto aos 46 anos e um tio paterno morreu subitamente aos 50. Não fuma, IMC 24 kg/m², PA 122x76 mmHg. Exame: espessamento nodular dos tendões de Aquiles e dos extensores dos dedos das mãos e arco corneano incompleto. Exames em jejum, repetidos: colesterol total 352 mg/dL, LDL-c 271 mg/dL, HDL-c 48 mg/dL, triglicerídeos 110 mg/dL, glicemia 88 mg/dL; TSH 8,9 mUI/L (VR 0,4 a 4,5), T4 livre 1,0 ng/dL (VR 0,7 a 1,8), anti-TPO positivo em título alto; creatinina, enzimas hepáticas, albumina e urina normais. Além de orientar dieta, a conduta para o paciente e a conduta para a família são, respectivamente:",
   "alternativas": {
    "A": "Estatina de alta potência / rastrear parentes de 1º grau",
    "B": "Estatina de alta potência / sem rastreio familiar",
@@ -153,15 +153,15 @@
   "gabarito": "A",
   "armadilha": "D",
   "dado_decisivo": "espessamento nodular dos tendões de Aquiles e dos extensores dos dedos das mãos",
-  "resolucao": "O TSH de 6,4 é um rótulo verdadeiro: hipotireoidismo eleva o LDL e deve ser excluído como causa secundária, e quem lê só isso trata a tireoide e espera. Mas hipotireoidismo subclínico com TSH abaixo de 10 e T4 livre normal eleva o LDL em poucos mg/dL e não explica LDL de 271 mg/dL, muito menos xantomas tendíneos, que são marca da hipercolesterolemia familiar. Pelo escore da Dutch Lipid Clinic Network, LDL entre 250 e 329 mg/dL (5 pontos), xantoma tendíneo (6) e parente de primeiro grau com doença coronária precoce (1) somam 12, diagnóstico definido. A conduta é estatina de alta potência desde já (rosuvastatina 20 a 40 mg ou atorvastatina 40 a 80 mg), visando reduzir o LDL em pelo menos 50%, com ezetimiba se necessário. A segunda metade é a que se esquece: a doença é autossômica dominante, metade dos parentes de primeiro grau a herda, e o rastreio em cascata (perfil lipídico e, se disponível, genético) é recomendado.",
+  "resolucao": "O TSH de 8,9 com anti-TPO positivo é um rótulo verdadeiro (há tireoidite de Hashimoto): hipotireoidismo eleva o LDL e deve ser excluído como causa secundária, e quem lê só isso trata a tireoide e espera. Mas hipotireoidismo subclínico com TSH abaixo de 10 e T4 livre normal eleva o LDL em poucos mg/dL e não explica LDL de 271 mg/dL, muito menos xantomas tendíneos, que são marca da hipercolesterolemia familiar. Pelo escore da Dutch Lipid Clinic Network, LDL entre 250 e 329 mg/dL (5 pontos), xantoma tendíneo (6), arco corneano antes dos 45 anos (4) e parente de primeiro grau com doença coronária precoce (1) somam 16, diagnóstico definido (acima de 8). A conduta é estatina de alta potência desde já (rosuvastatina 20 a 40 mg ou atorvastatina 40 a 80 mg), visando reduzir o LDL em pelo menos 50%, com ezetimiba se necessário. A segunda metade é a que se esquece: a doença é autossômica dominante, metade dos parentes de primeiro grau a herda, e o rastreio em cascata (perfil lipídico e, se disponível, genético) é recomendado.",
   "comentarios": {
    "A": "Correta. LDL de 271 com xantomas tendíneos e história familiar é hipercolesterolemia familiar definida: estatina de alta potência e rastreio em cascata dos parentes de primeiro grau.",
    "B": "Errada. Acerta o tratamento, mas a hipercolesterolemia familiar é autossômica dominante e o rastreio em cascata é parte obrigatória da conduta.",
-   "C": "Errada. Erra a primeira metade: TSH de 6,4 com T4 livre normal não explica LDL de 271 nem xantomas, e adiar a estatina num paciente de risco alto é perda de tempo.",
+   "C": "Errada. Erra a primeira metade: TSH de 8,9 com T4 livre normal não explica LDL de 271 nem xantomas; a levotiroxina pode ser discutida pelo anti-TPO positivo, mas não substitui nem adia a estatina.",
    "D": "Errada, e é a armadilha. Atribui tudo ao hipotireoidismo subclínico, que seria a causa a corrigir com LDL discretamente elevado, sem xantomas e com TSH acima de 10."
   },
   "para_levar": "LDL de 190 mg/dL ou mais, com xantoma tendíneo ou história familiar precoce, é hipercolesterolemia familiar até prova em contrário: estatina de alta potência e rastreio em cascata; hipotireoidismo subclínico não explica LDL dessa ordem.",
-  "referencias": "Atualização da Diretriz Brasileira de Dislipidemias e Prevenção da Aterosclerose (SBC 2017) e Diretriz de Hipercolesterolemia Familiar (SBC 2021); ESC/EAS 2019 (dyslipidaemias)",
+  "referencias": "Atualização da Diretriz Brasileira de Dislipidemias e Prevenção da Aterosclerose (SBC 2017) e I Diretriz Brasileira de Hipercolesterolemia Familiar (SBC 2012); ESC/EAS 2019 (dyslipidaemias)",
   "tags": [
    "Classificação e Diagnóstico de Dislipidemias (CM)",
    "Tratamento das Dislipidemias (CM)",
