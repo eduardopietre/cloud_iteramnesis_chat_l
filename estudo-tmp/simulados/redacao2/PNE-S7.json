@@ -37,42 +37,42 @@
     "id": "S7-PNE-02",
     "simulado": 7,
     "area": "Pneumologia",
-    "titulo": "Pneumonia eosinofílica aguda após começar a fumar, sem eosinofilia no sangue: o lavado decide",
+    "titulo": "Pneumonia eosinofílica aguda após começar a fumar, sem eosinofilia no sangue, em recruta: não é Mycoplasma resistente",
     "arma": "Negativo no meio",
-    "comando": "próximo exame",
+    "comando": "diagnóstico",
     "nivel": "extremamente difícil",
-    "enunciado": "Homem de 19 anos, recruta militar, previamente hígido, começou a fumar cigarros há três semanas. Há 4 dias tem febre de 38,5 °C, tosse seca, mialgia e dispneia progressiva. Internado como pneumonia comunitária grave, recebe ceftriaxona e azitromicina há 72 horas, sem melhora. Hoje: FR 32 irpm, SpO2 86% com máscara de reservatório, PA 118 x 72 mmHg. Leucócitos 14.800/mm³ com 2% de eosinófilos; procalcitonina 0,2 ng/mL. TC: vidro fosco difuso, espessamento de septos interlobulares e pequeno derrame pleural bilateral. Ecocardiograma com função ventricular normal. Antígenos urinários e PCR para vírus respiratórios negativos. O exame com maior capacidade de definir o diagnóstico e mudar a conduta agora é:",
+    "enunciado": "Homem de 19 anos, recruta militar, previamente hígido, começou a fumar cigarros há três semanas. Há 4 dias tem febre de 38,5 °C, tosse seca, mialgia e dispneia progressiva; dois colegas de alojamento tiveram pneumonia no último mês. Internado como pneumonia comunitária grave, recebe ceftriaxona e azitromicina há 72 horas, sem melhora. Hoje: FR 32 irpm, SpO2 86% com máscara de reservatório, PA 118 x 72 mmHg. Leucócitos 14.800/mm³ com 2% de eosinófilos; procalcitonina 0,2 ng/mL. TC: vidro fosco difuso, espessamento de septos interlobulares e pequeno derrame pleural bilateral, sem nódulos centrolobulares e sem consolidação. Ecocardiograma com função ventricular normal. Antígenos urinários e PCR para vírus respiratórios negativos. Nega contato com aves, mofo ou vapores. O diagnóstico mais provável é:",
     "alternativas": {
-      "A": "Lavado broncoalveolar com citologia",
-      "B": "Biópsia pulmonar por videotoracoscopia",
-      "C": "Sorologia para Strongyloides stercoralis",
-      "D": "Dosagem sérica de IgE total e específica"
+      "A": "Pneumonia eosinofílica aguda",
+      "B": "Pneumonia por Mycoplasma pneumoniae",
+      "C": "Pneumonite de hipersensibilidade aguda",
+      "D": "Pneumonia intersticial aguda"
     },
     "gabarito": "A",
     "armadilha": "B",
     "dado_decisivo": "começou a fumar cigarros há três semanas",
-    "resolucao": "O quadro parece pneumonia grave que não respondeu, e o negativo posto no meio (2% de eosinófilos no sangue) afasta a ideia de doença eosinofílica. Mas na pneumonia eosinofílica aguda a eosinofilia periférica costuma faltar no início e aparecer dias depois, e o gatilho mais conhecido é justamente começar a fumar (ou mudar o hábito) poucas semanas antes. Jovem, insuficiência respiratória hipoxêmica em menos de um mês, vidro fosco com septos espessados e derrame bilateral, coração normal e pesquisa infecciosa negativa: o exame que decide é o lavado broncoalveolar, em que eosinófilos acima de 25% confirmam o diagnóstico e afastam infecção. A resposta ao corticoide é rápida e dramática, e a biópsia raramente é necessária.",
+    "resolucao": "O recruta com colegas de alojamento doentes puxa para surto de Mycoplasma, e a falta de resposta parece resistência ao macrolídeo; o negativo posto no meio (2% de eosinófilos no sangue) parece afastar doença eosinofílica. Mas na pneumonia eosinofílica aguda a eosinofilia periférica costuma faltar no início e surgir dias depois, e o gatilho mais conhecido é justamente começar a fumar (ou mudar o hábito) poucas semanas antes, descrito inclusive em militares. Mycoplasma dá bronquiolite (nódulos centrolobulares, árvore em brotamento, consolidação), raramente insuficiência respiratória grave, e a imagem aqui é de vidro fosco com septos espessados e derrame bilateral, com coração normal e procalcitonina baixa. A confirmação vem do lavado broncoalveolar (eosinófilos acima de 25%), e a resposta ao corticoide é rápida.",
     "comentarios": {
-      "A": "Correta. Eosinófilos acima de 25% no lavado, em quadro agudo após iniciar o tabagismo, confirmam pneumonia eosinofílica aguda e indicam corticoide.",
-      "B": "Errada. É o exame a mais e com risco num paciente hipoxêmico; ficaria para lavado inconclusivo.",
-      "C": "Errada. Estrongiloidíase entra na síndrome de Löffler e precisa ser lembrada antes de corticoide prolongado, mas não explica insuficiência respiratória aguda após começar a fumar nem define o diagnóstico.",
-      "D": "Errada. IgE total é inespecífica e não diferencia infecção de doença eosinofílica pulmonar."
+      "A": "Correta. Insuficiência respiratória aguda em jovem que começou a fumar há três semanas, vidro fosco com septos e derrame bilateral, sem resposta a antibiótico: o eosinófilo no sangue normal não afasta.",
+      "B": "Errada. O alojamento é um rótulo verdadeiro para Mycoplasma, mas ele daria padrão de bronquiolite e raramente hipoxemia grave; a azitromicina já o cobre na maioria.",
+      "C": "Errada. Seria a resposta com exposição antigênica (aves, mofo) e nódulos centrolobulares em vidro fosco com aprisionamento; ele nega exposição e a TC não tem nódulos.",
+      "D": "Errada. Pneumonia intersticial aguda é diagnóstico de exclusão, sem gatilho, em idade mais alta, com dano alveolar difuso e prognóstico ruim; aqui há um gatilho claro."
     },
     "para_levar": "Insuficiência respiratória aguda em jovem que começou a fumar há poucas semanas: pense em pneumonia eosinofílica aguda mesmo sem eosinofilia no sangue, e confirme pelo lavado (eosinófilos acima de 25%).",
-    "referencias": "UpToDate 2025, Idiopathic acute eosinophilic pneumonia; Allen JN, Am J Respir Crit Care Med (critérios); SBPT, Doenças pulmonares intersticiais.",
+    "referencias": "Allen JN et al. Acute eosinophilic pneumonia as a reversible cause of noninfectious respiratory failure. N Engl J Med 1989; Philit F et al. Idiopathic acute eosinophilic pneumonia. Medicine (Baltimore) 2002; Shorr AF et al. Acute eosinophilic pneumonia among US military personnel deployed in or near Iraq. JAMA 2004.",
     "tags": [
       "Doença Pulmonar Intersticial (CM)",
-      "Distúrbios Ventilatórios Restritivos (CM)"
+      "Outros temas em Pneumologia (CM)"
     ],
     "sourceQuestionId": "e26aa0fbecf0b06",
-    "alvo": "Negativo no meio (sem eosinofilia) ocultando o gatilho; próximo exame menos invasivo que define."
+    "alvo": "Negativo no meio (sem eosinofilia) e rótulo verdadeiro (alojamento militar) ocultando o gatilho do tabagismo recente."
   },
   {
     "id": "S7-PNE-03",
     "simulado": 7,
     "area": "Pneumologia",
     "titulo": "Enfisema panlobular basal aos 41 anos: a fração alfa-1 baixa escondida na eletroforese",
-    "arma": "Dado omitido",
+    "arma": "Rótulo verdadeiro",
     "comando": "diagnóstico",
     "nivel": "difícil",
     "enunciado": "Homem de 41 anos, ex-tabagista de 12 maços-ano (parou há 5 anos), tem dispneia progressiva há 2 anos. Trabalhou 6 anos com polimento de pisos de granito. Espirometria: VEF1/CVF 0,52, VEF1 48% do previsto, sem resposta ao broncodilatador; DLCO 45%. TC de tórax: enfisema panlobular de predomínio nos lobos inferiores, sem nódulos, bronquiectasias ou cistos. Trouxe exames de check-up: hemograma normal, ALT 58 U/L, AST 49 U/L, eletroforese de proteínas séricas com albumina 4,2 g/dL, fração alfa-1 de 0,1 g/dL (referência 0,2 a 0,4) e gamaglobulina normal. Usa tiotrópio-olodaterol. A explicação mais provável para o quadro é:",
@@ -142,7 +142,7 @@
     "arma": "Qualificador",
     "comando": "fato solto",
     "nivel": "difícil",
-    "enunciado": "Um hospital divulga que, entre os casos de câncer de pulmão detectados pelo seu programa de rastreamento com TC de baixa dose, a sobrevida em 5 anos contada a partir do diagnóstico foi de 62%, contra 18% entre os casos diagnosticados por sintomas no mesmo período. Os casos rastreados tinham mais tumores em estádio I e foram operados com mais frequência. Não houve randomização, e ninguém comparou a população rastreada com uma população semelhante não rastreada. Para concluir que o rastreamento reduz mortes, o desfecho a comparar entre um grupo rastreado e outro não rastreado, por ser imune aos vieses de antecipação e de duração, é:",
+    "enunciado": "Um hospital divulga que, entre os casos de câncer de pulmão detectados pelo seu programa de rastreamento com TC de baixa dose, a sobrevida em 5 anos contada a partir do diagnóstico foi de 62%, contra 18% entre os casos diagnosticados por sintomas no mesmo período. Os casos rastreados tinham mais tumores em estádio I e foram operados com mais frequência. Não houve randomização, e ninguém comparou a população rastreada com uma população semelhante não rastreada. Para concluir que o rastreamento traz benefício real, o desfecho a comparar entre um grupo rastreado e outro não rastreado é:",
     "alternativas": {
       "A": "Sobrevida em 5 anos após o diagnóstico",
       "B": "Proporção de tumores em estádio I",
@@ -151,8 +151,8 @@
     },
     "gabarito": "D",
     "armadilha": "A",
-    "dado_decisivo": "imune aos vieses de antecipação e de duração",
-    "resolucao": "A sobrevida a partir do diagnóstico parece a medida natural e foi a que o hospital usou, mas é exatamente a que os vieses inflam. Antecipar o diagnóstico alonga a sobrevida contada do diagnóstico mesmo que a morte aconteça na mesma data (viés de tempo de antecipação), e o rastreamento acha de preferência os tumores de crescimento lento, de melhor prognóstico (viés de duração), além dos que nunca matariam (sobrediagnóstico). Estádio I e ressecção sobem pelos mesmos motivos. O único desfecho imune é a mortalidade específica pela doença na população inteira, rastreada contra não rastreada, de preferência em ensaio randomizado, como fizeram o NLST e o NELSON.",
+    "dado_decisivo": "ninguém comparou a população rastreada com uma população semelhante não rastreada",
+    "resolucao": "A sobrevida a partir do diagnóstico parece a medida natural e foi a que o hospital usou, mas é exatamente a que os vieses inflam. Antecipar o diagnóstico alonga a sobrevida contada do diagnóstico mesmo que a morte aconteça na mesma data (viés de tempo de antecipação), e o rastreamento acha de preferência os tumores de crescimento lento, de melhor prognóstico (viés de duração), além dos que nunca matariam (sobrediagnóstico). Estádio I e ressecção sobem pelos mesmos motivos. O comando pede benefício real, e o único desfecho imune a esses vieses é a mortalidade específica pela doença na população inteira, rastreada contra não rastreada, de preferência em ensaio randomizado, como fizeram o NLST e o NELSON.",
     "comentarios": {
       "A": "Errada. É a medida inflada pelo viés de antecipação e pelo viés de duração; serve para comparar tratamentos em pacientes já diagnosticados no mesmo estádio.",
       "B": "Errada. Mudança de estádio é desfecho intermediário e sobe com o sobrediagnóstico, sem provar menos mortes.",

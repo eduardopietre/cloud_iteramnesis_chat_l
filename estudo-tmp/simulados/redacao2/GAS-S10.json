@@ -25,7 +25,7 @@
       "D": "Errada. É suporte, e não reduz a recidiva; manteria o paciente dependente de transfusão."
     },
     "para_levar": "Síndrome de Heyde: estenose aórtica, angiodisplasias que sangram e von Willebrand adquirido (perda de multímeros grandes); a troca valvar é o que resolve.",
-    "referencias": "ACG Clinical Guideline: Diagnosis and Management of Small Bowel Bleeding (2015, atualização 2023); ESC/EACTS Guidelines for the management of valvular heart disease (2025); Vincentelli A et al. N Engl J Med (2003)",
+    "referencias": "ACG Clinical Guideline: Diagnosis and Management of Small Bowel Bleeding (2015); ESC/EACTS Guidelines for the management of valvular heart disease (2025); Vincentelli A et al. N Engl J Med (2003)",
     "tags": [
       "Estenose Aórtica (CM)",
       "Intestino (CM)",
@@ -60,7 +60,7 @@
       "D": "Correta. CEP com doença inflamatória intestinal: colonoscopia anual a partir do diagnóstico da CEP."
     },
     "para_levar": "Doença inflamatória intestinal com colangite esclerosante primária: colonoscopia de vigilância anual desde o diagnóstico da CEP, sem esperar os 8 anos.",
-    "referencias": "ACG Clinical Guideline: Primary Sclerosing Cholangitis (2015, atualização 2023); AASLD Practice Guidance on PSC and Cholangiocarcinoma (2022); ECCO Guidelines on Inflammatory Bowel Disease and Malignancies (2023)",
+    "referencias": "AASLD Practice Guidance on primary sclerosing cholangitis and cholangiocarcinoma (2023); ACG Clinical Guideline: Primary Sclerosing Cholangitis (2015); ECCO Guidelines on Inflammatory Bowel Disease and Malignancies (2023)",
     "tags": [
       "Colangite Esclerosante Primária (CM)",
       "Retocolite Ulcerativa (CM)"
@@ -94,7 +94,7 @@
       "D": "Errada. Pode imitar o quadro, mas não explica poliúria, ácido úrico alto e o contexto do terceiro trimestre de gemelar; a investigação viral é feita, mas não é a hipótese mais provável."
     },
     "para_levar": "Terceiro trimestre com insuficiência hepática: hipoglicemia, INR alto e fibrinogênio baixo apontam esteatose aguda da gestação; HELLP é hemólise com plaquetopenia e síntese preservada.",
-    "referencias": "ACG Clinical Guideline: Liver Disease and Pregnancy (2016, atualização 2024); EASL Clinical Practice Guidelines on the management of liver diseases in pregnancy (2023); critérios de Swansea (Ch'ng et al., Gut, 2002)",
+    "referencias": "EASL Clinical Practice Guidelines on the management of liver diseases in pregnancy (2023); ACG Clinical Guideline: Liver Disease and Pregnancy (2016); critérios de Swansea (Ch'ng et al., Gut, 2002)",
     "tags": [
       "Insuficiência Hepática Aguda (CM)"
     ],
@@ -111,20 +111,20 @@
     "nivel": "média",
     "enunciado": "Homem de 54 anos, com pancreatite crônica alcoólica (calcificações pancreáticas difusas), abstinente há 2 anos, com diabetes em insulina, mantém 4 evacuações volumosas, gordurosas e malcheirosas ao dia e perda de 3 kg em 4 meses. Foi orientado a tomar pancreatina em cápsulas de 10.000 U de lipase, uma cápsula no meio de cada uma das três refeições principais, e relata adesão completa. Usa omeprazol 20 mg/dia. Exames: elastase fecal de 35 mcg/g, albumina 3,6 g/dL, vitamina D 14 ng/mL, antitransglutaminase IgA negativo com IgA total normal. A causa mais provável da persistência da esteatorreia é:",
     "alternativas": {
-      "A": "Supercrescimento bacteriano do delgado",
+      "A": "Inativação das enzimas pelo ácido gástrico",
       "B": "Doença celíaca associada",
       "C": "Dose de lipase insuficiente por refeição",
-      "D": "Inativação das enzimas pelo ácido gástrico"
+      "D": "Supercrescimento bacteriano do delgado"
     },
     "gabarito": "C",
-    "armadilha": "A",
+    "armadilha": "D",
     "dado_decisivo": "cápsulas de 10.000 U de lipase, uma cápsula",
     "resolucao": "Supercrescimento bacteriano é causa real de esteatorreia persistente na pancreatite crônica, e é a resposta de quem procura uma segunda doença. Mas o primeiro passo diante de falha é conferir a dose: a reposição recomendada começa com 40.000 a 50.000 U de lipase nas refeições principais (e metade nos lanches), tomadas durante a refeição. Uma cápsula de 10.000 U por refeição é um quarto a um quinto da dose mínima, e explica sozinha a esteatorreia, a perda de peso e a vitamina D baixa. A inativação pelo ácido seria a explicação com dose adequada, e ele já usa omeprazol, que é exatamente o passo para isso; a doença celíaca foi afastada com IgA normal. Só depois de dose otimizada e IBP é que se investiga supercrescimento.",
     "comentarios": {
-      "A": "Errada. Seria investigado se a esteatorreia persistisse com dose adequada e IBP; aqui a dose é um quarto do mínimo.",
+      "A": "Errada. A acidez inativa as enzimas e se trata com IBP, mas ele já usa omeprazol; o problema primário é a dose.",
       "B": "Errada. Associação possível, mas a antitransglutaminase é negativa com IgA total normal.",
       "C": "Correta. 10.000 U de lipase por refeição está muito abaixo dos 40.000 a 50.000 U recomendados.",
-      "D": "Errada. A acidez inativa as enzimas e se trata com IBP, mas ele já usa omeprazol; o problema primário é a dose."
+      "D": "Errada. Seria investigado se a esteatorreia persistisse com dose adequada e IBP; aqui a dose é um quarto do mínimo."
     },
     "para_levar": "Insuficiência pancreática exócrina: 40.000 a 50.000 U de lipase por refeição principal, durante a refeição; na falha, primeiro conferir dose e adesão, depois IBP, e só então outra causa.",
     "referencias": "ACG Clinical Guideline: Chronic Pancreatitis (2020); AGA Clinical Practice Update on the Epidemiology, Evaluation, and Management of Exocrine Pancreatic Insufficiency (2023); United European Gastroenterology Guideline (2017)",
@@ -145,19 +145,19 @@
     "nivel": "difícil",
     "enunciado": "Mulher de 68 anos tem há 3 meses diarreia aquosa, 6 a 8 evacuações ao dia, inclusive à noite, com urgência, sem sangue, sem febre e com perda de 3 kg. Começou, 2 meses antes da diarreia, um comprimido diário em jejum para pirose, que mantém; usa também sertralina há 6 anos e losartana. Exames: hemograma, PCR, TSH, eletrólitos e antitransglutaminase IgA (com IgA total normal) normais; coproparasitológico e toxina de Clostridioides difficile negativos; calprotectina fecal de 180 mcg/g. Colonoscopia com íleo e mucosa colônica macroscopicamente normais; as biópsias seriadas mostram banda de colágeno subepitelial de 18 micrômetros com aumento de linfócitos na lâmina própria. A conduta mais adequada é:",
     "alternativas": {
-      "A": "Budesonida oral e retirada do inibidor de bomba",
-      "B": "Mesalazina oral por 8 semanas",
-      "C": "Prednisona 40 mg/dia com redução gradual",
-      "D": "Loperamida isolada e manter as medicações"
+      "A": "Budesonida oral e suspender o IBP",
+      "B": "Mesalazina oral e suspender a sertralina",
+      "C": "Prednisona oral e suspender o IBP",
+      "D": "Loperamida e manter as medicações"
     },
     "gabarito": "A",
     "armadilha": "B",
     "dado_decisivo": "Começou, 2 meses antes da diarreia, um comprimido diário em jejum para pirose",
-    "resolucao": "Colonoscopia macroscopicamente normal com colite à histologia faz pensar em tratamento de doença inflamatória intestinal, e a mesalazina é a droga anti-inflamatória que vem à cabeça. Mas a banda de colágeno subepitelial acima de 10 micrômetros define colite colagenosa, uma colite microscópica, e nela a budesonida oral é o único tratamento de indução com eficácia comprovada (mesalazina e bismuto são inferiores). O caso pede ainda deduzir a droga: comprimido diário em jejum para pirose, iniciado meses antes da diarreia, é um inibidor de bomba de prótons, um dos principais desencadeantes de colite microscópica (com AINE, sertralina e outros ISRS), e sua retirada faz parte do tratamento. A sertralina, usada há 6 anos sem diarreia, é suspeita menor. Prednisona tem mais efeitos e menos resposta, e loperamida isolada é para sintomas leves.",
+    "resolucao": "Colonoscopia macroscopicamente normal com colite à histologia faz pensar em tratamento de doença inflamatória intestinal, e a mesalazina é a droga anti-inflamatória que vem à cabeça, somada à suspeita sobre o antidepressivo. Mas a banda de colágeno subepitelial acima de 10 micrômetros define colite colagenosa, uma colite microscópica, e nela a budesonida oral é o único tratamento de indução com eficácia comprovada (mesalazina e bismuto são inferiores). O caso pede ainda deduzir a droga: comprimido diário em jejum para pirose, iniciado meses antes da diarreia, é um inibidor de bomba de prótons, um dos principais desencadeantes de colite microscópica (com AINE, sertralina e outros ISRS), e sua retirada faz parte do tratamento. A sertralina, usada há 6 anos sem diarreia, é suspeita menor. Prednisona tem mais efeitos e menos resposta, e loperamida isolada é para sintomas leves.",
     "comentarios": {
       "A": "Correta. Colite colagenosa: budesonida é a indução de escolha, e o IBP iniciado antes da diarreia é desencadeante a retirar.",
-      "B": "Errada. É tratamento de retocolite ulcerativa; na colite microscópica é inferior à budesonida.",
-      "C": "Errada. Corticoide sistêmico tem resposta menor e mais efeitos adversos que a budesonida na colite microscópica.",
+      "B": "Errada. A mesalazina é inferior à budesonida na colite microscópica, e a sertralina, usada há 6 anos sem diarreia, é suspeita menor que a droga iniciada 2 meses antes dos sintomas.",
+      "C": "Errada. A retirada do IBP está certa, mas o corticoide sistêmico tem resposta menor e mais efeitos adversos que a budesonida na colite microscópica.",
       "D": "Errada. Antidiarreico isolado serve a sintomas leves; aqui há diarreia noturna, perda de peso e uma droga desencadeante mantida."
     },
     "para_levar": "Colite microscópica: budesonida oral para indução e retirada de drogas desencadeantes (IBP, AINE, ISRS, estatinas).",
@@ -194,7 +194,7 @@
       "D": "Correta. RAS mutado contraindica anti-EGFR, BRAF muda a linha e deficiência de reparo indica imunoterapia de primeira linha."
     },
     "para_levar": "Câncer colorretal metastático: RAS, BRAF e reparo de DNA (MMR ou MSI) antes da primeira linha; anti-EGFR só em RAS selvagem, e dMMR vai para imunoterapia.",
-    "referencias": "ESMO Clinical Practice Guideline: Metastatic colorectal cancer (2023); NCCN Colon Cancer (2026); ASCO Guideline: Treatment of Metastatic Colorectal Cancer (2023)",
+    "referencias": "ESMO Clinical Practice Guideline: Metastatic colorectal cancer (2023); NCCN Colon Cancer (2025); ASCO Guideline: Treatment of Metastatic Colorectal Cancer (2023)",
     "tags": [
       "Câncer Colorretal (CM)",
       "Metástases hepáticas de CCR"
@@ -228,7 +228,7 @@
       "D": "Errada. Início imediato com intervalo curto é para síndrome de Lynch, aqui sem indício."
     },
     "para_levar": "Parente de primeiro grau com câncer colorretal antes dos 60 anos: colonoscopia aos 40 ou 10 anos antes do caso mais jovem (o que vier primeiro), a cada 5 anos.",
-    "referencias": "US Multi-Society Task Force on Colorectal Cancer: Recommendations for Follow-up and Screening in Familial Risk (2017, reiteradas em 2022); ACG Clinical Guidelines: Colorectal Cancer Screening (2021)",
+    "referencias": "US Multi-Society Task Force on Colorectal Cancer: Recommendations for Follow-up and Screening in Familial Risk (2017); ACG Clinical Guidelines: Colorectal Cancer Screening (2021)",
     "tags": [
       "Rastreamentos em Clínica Médica (CM)",
       "Câncer Colorretal (CM)"

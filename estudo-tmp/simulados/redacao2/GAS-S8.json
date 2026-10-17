@@ -3,29 +3,29 @@
     "id": "S8-GAS-01",
     "simulado": 8,
     "area": "Gastroenterologia",
-    "titulo": "Barrett com displasia de alto grau e lesão visível: ressecção endoscópica seguida de ablação, e não esofagectomia",
+    "titulo": "Barrett com displasia de alto grau e lesão visível: ressecção endoscópica primeiro (a ablação vem depois), e não esofagectomia",
     "arma": "Qualificador",
     "comando": "conduta",
     "nivel": "difícil",
-    "enunciado": "Homem de 61 anos, com doença do refluxo há 20 anos e esôfago de Barrett conhecido, faz endoscopia de vigilância com cromoscopia virtual em uso de IBP em dose plena. Há Barrett de 5 cm (Praga C4M5) com uma lesão elevada, plana, de 9 mm, às 3 horas, sem depressão ou ulceração, e mucosa plana no restante. A biópsia da lesão mostra displasia de alto grau, confirmada por segundo patologista experiente em trato digestivo; biópsias aleatórias em quatro quadrantes do restante do segmento mostram metaplasia intestinal sem displasia. TC de tórax e abdome sem linfonodomegalias. Bom estado geral, sem comorbidades relevantes. A conduta mais adequada para este paciente é:",
+    "enunciado": "Homem de 61 anos, com doença do refluxo há 20 anos e esôfago de Barrett conhecido, faz endoscopia de vigilância com cromoscopia virtual em uso de IBP em dose plena. Há Barrett de 5 cm (Praga C4M5) com uma lesão levemente elevada (Paris 0-IIa), de 9 mm, às 3 horas, sem depressão ou ulceração, e mucosa plana no restante. A biópsia da lesão mostra displasia de alto grau, confirmada por segundo patologista experiente em trato digestivo; biópsias aleatórias em quatro quadrantes do restante do segmento mostram metaplasia intestinal sem displasia. TC de tórax e abdome sem linfonodomegalias. Bom estado geral, sem comorbidades relevantes. A primeira intervenção terapêutica mais adequada é:",
     "alternativas": {
       "A": "Esofagectomia com linfadenectomia",
-      "B": "Ressecção endoscópica da lesão e ablação do restante",
-      "C": "Ablação por radiofrequência de todo o segmento",
+      "B": "Ressecção endoscópica da lesão visível",
+      "C": "Ablação por radiofrequência do segmento",
       "D": "Nova endoscopia com biópsias em 3 meses"
     },
     "gabarito": "B",
     "armadilha": "A",
-    "dado_decisivo": "uma lesão elevada, plana, de 9 mm",
-    "resolucao": "Displasia de alto grau soa como câncer iminente, e em paciente jovem e sem comorbidades a esofagectomia parece a conduta definitiva. Mas a erradicação endoscópica tem resultado oncológico equivalente com morbidade muito menor, e é a primeira linha na displasia de alto grau e no adenocarcinoma intramucoso. O qualificador está na lesão visível: toda irregularidade de mucosa deve ser ressecada por endoscopia (mucosectomia ou dissecção submucosa), porque a peça estadia a profundidade e pode revelar carcinoma; só depois se ablaciona o Barrett residual, com radiofrequência, para evitar lesões metacrônicas. Ablação isolada sobre lesão visível destrói o tecido sem estadiar. A esofagectomia fica para invasão da submucosa profunda, invasão linfovascular ou falha endoscópica. Repetir biópsias em 3 meses era aceitável para displasia de baixo grau indefinida, não para alto grau confirmado.",
+    "dado_decisivo": "uma lesão levemente elevada (Paris 0-IIa), de 9 mm",
+    "resolucao": "Displasia de alto grau soa como câncer iminente, e em paciente jovem e sem comorbidades a esofagectomia parece a conduta definitiva. Mas a erradicação endoscópica tem resultado oncológico equivalente com morbidade muito menor, e é a primeira linha na displasia de alto grau e no adenocarcinoma intramucoso. O qualificador está no comando (a primeira intervenção) e na lesão visível: toda irregularidade de mucosa deve ser ressecada por endoscopia (mucosectomia ou dissecção submucosa), porque a peça estadia a profundidade e pode revelar carcinoma; só depois se ablaciona o Barrett residual, com radiofrequência, para evitar lesões metacrônicas. Ablação isolada sobre lesão visível destrói o tecido sem estadiar. A esofagectomia fica para invasão da submucosa profunda, invasão linfovascular ou falha endoscópica. Repetir biópsias em 3 meses era aceitável para displasia de baixo grau indefinida, não para alto grau confirmado.",
     "comentarios": {
       "A": "Errada. Seria a conduta do adenocarcinoma com invasão submucosa profunda, invasão linfovascular ou falha da terapia endoscópica, e não da displasia de alto grau.",
-      "B": "Correta. Lesão visível com displasia de alto grau: ressecção endoscópica para estadiar e tratar, seguida de ablação do Barrett residual.",
-      "C": "Errada. A ablação é a conduta da displasia em mucosa plana; com lesão visível, ela deve ser ressecada antes, para estadiamento histológico.",
+      "B": "Correta. Lesão visível com displasia de alto grau: a ressecção endoscópica vem primeiro, porque estadia e trata; a ablação do Barrett residual vem depois.",
+      "C": "Errada. A ablação faz parte do tratamento, mas depois da ressecção da lesão visível; seria a primeira intervenção na displasia em mucosa plana, sem lesão visível.",
       "D": "Errada. A displasia de alto grau já foi confirmada por dois patologistas; adiar a terapia não tem justificativa."
     },
     "para_levar": "Barrett com displasia de alto grau: terapia endoscópica; lesão visível se resseca primeiro (estadia e trata), depois se ablaciona o segmento residual.",
-    "referencias": "ACG Clinical Guideline: Diagnosis and Management of Barrett's Esophagus (2022); ESGE Position Statement on endoscopic management of Barrett's (2023); AGA Clinical Practice Update on Endoscopic Treatment of Barrett's (2020)",
+    "referencias": "ACG Clinical Guideline: Diagnosis and Management of Barrett's Esophagus (2022); ESGE Guideline: Diagnosis and management of Barrett esophagus (2023); AGA Clinical Practice Update on Endoscopic Treatment of Barrett's Esophagus with Dysplasia (2020)",
     "tags": [
       "DRGE e Barret (CM)",
       "Esôfago de Barrett (CIR)"
@@ -59,7 +59,7 @@
       "D": "Errada. A forma soronegativa existe, mas não causa febre, linfonodomegalia periférica nem a artropatia migratória anterior."
     },
     "para_levar": "Artralgia migratória soronegativa que precede por anos diarreia, perda de peso, febre e linfonodos, sobretudo piorando com imunossupressor: doença de Whipple, confirmada por biópsia duodenal PAS e PCR.",
-    "referencias": "Marth T et al. Tropheryma whipplei infection and Whipple's disease. Lancet Infect Dis (2016); Harrison's Principles of Internal Medicine, 22ª ed. (2025); ECCMID/ESCMID expert review on Whipple's disease (2023)",
+    "referencias": "Marth T et al. Tropheryma whipplei infection and Whipple's disease. Lancet Infect Dis (2016); Fenollar F, Lagier JC, Raoult D. Tropheryma whipplei and Whipple's disease. J Infect (2014); Harrison's Principles of Internal Medicine, 21ª ed. (2022)",
     "tags": [
       "Doença de Whipple (CM)",
       "Diarréias crônicas (CM)"
@@ -93,7 +93,7 @@
       "D": "Errada. APC define polipose adenomatosa familiar, com centenas de pólipos, e não explica deficiência de reparo."
     },
     "para_levar": "Perda de MLH1 e PMS2 no tumor: pesquisar BRAF V600E ou metilação do promotor antes do teste germinativo; perda de MSH2 ou MSH6 vai direto ao germinativo.",
-    "referencias": "NCCN Genetic/Familial High-Risk Assessment: Colorectal, Endometrial, and Gastric (2025); US Multi-Society Task Force on Colorectal Cancer: Lynch Syndrome (2014, atualização 2022); ESMO Hereditary Gastrointestinal Cancers (2019)",
+    "referencias": "NCCN Genetic/Familial High-Risk Assessment: Colorectal, Endometrial, and Gastric (2025); US Multi-Society Task Force on Colorectal Cancer: Guidelines on Genetic Evaluation and Management of Lynch Syndrome (2014); ESMO Hereditary Gastrointestinal Cancers (2019)",
     "tags": [
       "Câncer Colorretal (CM)"
     ],
@@ -111,19 +111,19 @@
     "enunciado": "Homem de 62 anos, com cirrose alcoólica (Child-Pugh B), abstinente há um ano, usa espironolactona 200 mg/dia e furosemida 80 mg/dia por ascite. Em consulta de rotina refere aumento discreto do volume abdominal e nega confusão, cefaleia, náuseas ou quedas. Exame: lúcido, sem flapping, PA 104 x 64 mmHg, FC 82 bpm, ascite moderada, edema de membros inferiores 1+/4+. Exames: sódio 123 mEq/L (há 2 meses, 131), potássio 4,6 mEq/L, creatinina 1,1 mg/dL (basal 1,0), glicemia 98 mg/dL, osmolalidade sérica 262 mOsm/kg, TSH normal. A conduta mais adequada é:",
     "alternativas": {
       "A": "Albumina e aumento da furosemida",
-      "B": "Tolvaptana por via oral",
-      "C": "Suspender diuréticos e restringir líquidos",
-      "D": "Salina hipertônica a 3% em bolus"
+      "B": "Salina hipertônica a 3% em bolus",
+      "C": "Suspender diuréticos e restringir água",
+      "D": "Tolvaptana 15 mg por via oral"
     },
     "gabarito": "C",
     "armadilha": "D",
     "dado_decisivo": "nega confusão, cefaleia, náuseas ou quedas",
-    "resolucao": "Sódio de 123 assusta, e a salina hipertônica é a resposta de quem trata o número. Mas a hiponatremia do cirrótico é hipervolêmica e crônica, e o paciente está assintomático: a salina hipertônica fica para sintomas graves (convulsão, rebaixamento) ou sódio abaixo de 110 a 115 com transplante iminente, e corrigir rápido no cirrótico desnutrido e etilista aumenta o risco de desmielinização osmótica. Com sódio abaixo de 125, os diuréticos devem ser suspensos (os de alça agravam a hiponatremia) e se restringe a água a cerca de 1 a 1,5 L por dia; a ascite passa a ser manejada por paracentese de alívio com albumina, se necessário. A tolvaptana é evitada na cirrose por hepatotoxicidade e risco de correção excessiva. O degrau certo aqui é tirar o que causa, e não acrescentar droga.",
+    "resolucao": "Sódio de 123 assusta, e quem lembra que a hiponatremia hipervolêmica responde ao antagonista da vasopressina marca a tolvaptana; a salina hipertônica é a resposta de quem trata o número. Mas a hiponatremia do cirrótico é hipervolêmica e crônica, e o paciente está assintomático: a salina hipertônica fica para sintomas graves (convulsão, rebaixamento) ou sódio abaixo de 110 a 115 com transplante iminente, e corrigir rápido no cirrótico desnutrido e etilista aumenta o risco de desmielinização osmótica. Com sódio abaixo de 125, os diuréticos devem ser suspensos (os de alça agravam a hiponatremia) e se restringe a água a cerca de 1 a 1,5 L por dia; a ascite passa a ser manejada por paracentese de alívio com albumina, se necessário. A tolvaptana é evitada na cirrose por hepatotoxicidade e risco de correção excessiva. O degrau certo aqui é tirar o que causa, e não acrescentar droga.",
     "comentarios": {
       "A": "Errada. A albumina pode ajudar na hiponatremia do cirrótico, mas aumentar a furosemida agrava a perda de água livre e o sódio.",
-      "B": "Errada. Antagonista de vasopressina eleva o sódio, mas tem risco de lesão hepática e correção excessiva, e é evitado na cirrose.",
+      "B": "Errada. Seria a conduta da hiponatremia com sintomas graves; aqui o paciente está assintomático e a correção rápida arrisca desmielinização.",
       "C": "Correta. Hiponatremia hipervolêmica abaixo de 125 sem sintomas: suspender diuréticos e restringir água.",
-      "D": "Errada. Seria a conduta da hiponatremia com sintomas graves; aqui o paciente está assintomático e a correção rápida arrisca desmielinização."
+      "D": "Errada. Antagonista de vasopressina eleva o sódio, mas tem risco de lesão hepática e correção excessiva, e é evitado na cirrose."
     },
     "para_levar": "Cirrótico com sódio abaixo de 125 e sem sintomas: suspender diuréticos e restringir água; salina hipertônica só com sintomas graves.",
     "referencias": "AASLD Practice Guidance: Diagnosis, Evaluation, and Management of Ascites, SBP and Hepatorenal Syndrome (2021); EASL Clinical Practice Guidelines for decompensated cirrhosis (2018)",
@@ -160,7 +160,7 @@
       "D": "Correta. Hipertensão portal pré-sinusoidal com função hepática preservada, esplenomegalia volumosa e fibrose periportal em quem viveu em área endêmica."
     },
     "para_levar": "Varizes com função hepática normal, baço grande e fibrose periportal na ultrassonografia em quem veio de área endêmica: esquistossomose hepatoesplênica, hipertensão portal pré-sinusoidal.",
-    "referencias": "Ministério da Saúde: Vigilância da Esquistossomose mansoni, diretrizes técnicas (2014); Consenso da Sociedade Brasileira de Hepatologia sobre esquistossomose (2017); Baveno VII (2022)",
+    "referencias": "Ministério da Saúde: Vigilância da Esquistossomose mansoni, diretrizes técnicas, 4ª ed. (2014); Baveno VII (2022)",
     "tags": [
       "Esquistossomose (CM)",
       "Hipertensão Portal (CM)"
@@ -178,19 +178,19 @@
     "nivel": "média",
     "enunciado": "Homem de 29 anos foi submetido a orquiectomia radical por massa testicular; a histologia da peça descreve seminoma puro. No pós-operatório, a alfafetoproteína sérica é de 380 ng/mL (referência até 10) e a beta-hCG, de 45 mUI/mL. Para fins de estadiamento e tratamento, o tumor deve ser considerado:",
     "alternativas": {
-      "A": "Seminoma puro",
+      "A": "Tumor espermatocítico",
       "B": "Não seminomatoso",
-      "C": "Tumor espermatocítico",
+      "C": "Seminoma puro",
       "D": "Tumor de Leydig"
     },
     "gabarito": "B",
-    "armadilha": "A",
+    "armadilha": "C",
     "dado_decisivo": "a alfafetoproteína sérica é de 380 ng/mL",
     "resolucao": "O laudo diz seminoma puro, e o rótulo histológico é forte. Mas o seminoma não produz alfafetoproteína; ele pode elevar discretamente a beta-hCG (pelas células sinciciotrofoblásticas), nunca a alfafetoproteína. AFP elevada indica componente não seminomatoso (em geral tumor do saco vitelino) que não foi amostrado na peça, e o tumor passa a ser tratado como não seminomatoso, com outro estadiamento, outra quimioterapia e sem a radiossensibilidade do seminoma. A beta-hCG de 45 é compatível com os dois. O tumor espermatocítico é de idosos e não eleva marcadores, e o de Leydig é estromal, produz andrógenos ou estrógenos.",
     "comentarios": {
-      "A": "Errada. Seria a classificação se só a beta-hCG estivesse discretamente elevada; o seminoma não produz alfafetoproteína.",
+      "A": "Errada. Ocorre em homens acima de 50 anos, é indolente e não eleva alfafetoproteína nem beta-hCG.",
       "B": "Correta. Alfafetoproteína elevada indica componente não seminomatoso, mesmo com histologia de seminoma puro.",
-      "C": "Errada. Ocorre em homens acima de 50 anos, é indolente e não eleva alfafetoproteína nem beta-hCG.",
+      "C": "Errada. Seria a classificação se só a beta-hCG estivesse discretamente elevada; o seminoma não produz alfafetoproteína.",
       "D": "Errada. É tumor estromal, que se manifesta por alteração hormonal (ginecomastia, puberdade precoce), sem alfafetoproteína."
     },
     "para_levar": "Seminoma não produz alfafetoproteína: AFP elevada com histologia de seminoma significa componente não seminomatoso, e o tumor é tratado como tal.",
@@ -228,7 +228,7 @@
       "D": "Errada nas duas metades: procinético e laxativo seriam a conduta da constipação por opioide, não da obstrução mecânica completa."
     },
     "para_levar": "Obstrução intestinal maligna inoperável: procinético só na parcial sem cólica; na completa, suspender e usar octreotida (ou escopolamina), dexametasona, haloperidol e opioide.",
-    "referencias": "ESMO Clinical Practice Guideline: Management of malignant bowel obstruction (2021, atualização 2023); MASCC/ESMO Antiemetic Guideline (2023); Diretrizes ANCP de Cuidados Paliativos (2020)",
+    "referencias": "MASCC recommendations for the management of malignant bowel obstruction (Davis M et al., Support Care Cancer, 2021); MASCC/ESMO Antiemetic Guideline (2023); Manual de Cuidados Paliativos ANCP, 2ª ed. (2012)",
     "tags": [
       "Cuidados Paliativos - Oncologia (CM)"
     ],

@@ -25,10 +25,10 @@
       "D": "Correta. Úlcera única no terço médio, no estreitamento do arco aórtico, após doxiciclina tomada deitado e com pouco líquido."
     },
     "para_levar": "Odinofagia súbita com úlcera única no terço médio do esôfago após doxiciclina, AINE, bifosfonato ou cloreto de potássio: esofagite por comprimido; no HIV, o CD4 decide se oportunista entra no diferencial.",
-    "referencias": "ACG Clinical Guideline: Diagnosis and Management of Esophageal Disorders (2022); Kikendall JW. Pill esophagitis. J Clin Gastroenterol (1999); CDC Doxy-PEP Guidelines (2024)",
+    "referencias": "Kikendall JW. Pill esophagitis. J Clin Gastroenterol (1999); CDC Clinical Guidelines on the Use of Doxycycline Postexposure Prophylaxis for Bacterial STI Prevention (2024)",
     "tags": [
       "Esôfago (CM)",
-      "AIDS em TGI (CM)"
+      "Úlceras em TGI no HIV (CM)"
     ],
     "sourceQuestionId": null,
     "alvo": "Rótulo verdadeiro (HIV) puxando oportunista quando o CD4 e a droga em uso decidem."
@@ -59,7 +59,7 @@
       "D": "Errada. Também localiza tumores no triângulo do gastrinoma, mas é degrau posterior à confirmação do diagnóstico."
     },
     "para_levar": "Gastrina elevada em uso de IBP não confirma gastrinoma: suspender o IBP com cobertura por anti-H2 e repetir a gastrina com o pH gástrico antes de qualquer exame de localização.",
-    "referencias": "NANETS Consensus Guidelines for Gastrinoma (2020); ENETS Guidance Paper for Gastroduodenal NETs (2023); Metz DC. Diagnosis of Zollinger-Ellison syndrome. Clin Gastroenterol Hepatol (2012)",
+    "referencias": "ENETS Guidance Paper for Gastroduodenal Neuroendocrine Tumours (2023); Metz DC. Diagnosis of the Zollinger-Ellison syndrome. Clin Gastroenterol Hepatol (2012)",
     "tags": [
       "Úlcera péptica (CM)",
       "Dispepsia e IBPs (CM)"
@@ -118,11 +118,11 @@
     },
     "gabarito": "B",
     "armadilha": "A",
-    "dado_decisivo": "A elastografia hepática transitória mede 16 kPa",
-    "resolucao": "A budesonida tem menos efeito sistêmico e é opção de primeira linha na hepatite autoimune, e quem a lembra marca-a para poupar a paciente. Mas a budesonida depende do metabolismo de primeira passagem hepático, que se perde na cirrose, onde ela passa à circulação sistêmica e por shunts portossistêmicos, e por isso é contraindicada. A elastografia de 16 kPa, contornos irregulares, esplenomegalia e varizes definem cirrose compensada, e a indução se faz com prednisona (ou prednisolona) associada à azatioprina. Antes da azatioprina, dosa-se a atividade (ou o genótipo) da tiopurina metiltransferase, porque a deficiência causa mielotoxicidade grave. A G6PD é o exame antes de dapsona, primaquina ou rasburicase.",
+    "dado_decisivo": "varizes esofágicas de fino calibre",
+    "resolucao": "A budesonida tem menos efeito sistêmico e é opção de primeira linha na hepatite autoimune, e quem a lembra marca-a para poupar a paciente. Mas a budesonida depende do metabolismo de primeira passagem hepático, que se perde na cirrose, onde ela passa à circulação sistêmica e por shunts portossistêmicos, e por isso é contraindicada. A elastografia de 16 kPa, sozinha, poderia estar superestimada pela necroinflamação (ALT acima de 600), mas varizes esofágicas, esplenomegalia e contornos irregulares definem hipertensão portal e cirrose compensada, e a indução se faz com prednisona (ou prednisolona) associada à azatioprina. Antes da azatioprina, dosa-se a atividade (ou o genótipo) da tiopurina metiltransferase, porque a deficiência causa mielotoxicidade grave. A G6PD é o exame antes de dapsona, primaquina ou rasburicase.",
     "comentarios": {
       "A": "Errada. A TPMT está certa, mas a budesonida é contraindicada na cirrose; seria a escolha na hepatite autoimune sem cirrose.",
-      "B": "Correta. Cirrose (16 kPa, varizes, esplenomegalia) contraindica budesonida; prednisona e TPMT antes da azatioprina.",
+      "B": "Correta. Cirrose (varizes, esplenomegalia, contornos irregulares) contraindica budesonida; prednisona e TPMT antes da azatioprina.",
       "C": "Errada nas duas metades: budesonida na cirrose e G6PD, que não guarda relação com a toxicidade da azatioprina.",
       "D": "Errada. A prednisona está certa, mas a G6PD é o exame antes de dapsona ou primaquina, não da azatioprina."
     },
@@ -177,23 +177,23 @@
     "nivel": "difícil",
     "enunciado": "Mulher de 64 anos, menopausada aos 51, foi submetida a setorectomia com biópsia de linfonodo sentinela por carcinoma ductal invasivo de 1,6 cm, grau 2, receptores de estrogênio e progesterona positivos, HER2 negativo, linfonodo sentinela negativo; fará radioterapia. O risco genômico de recorrência foi baixo e a quimioterapia foi dispensada. Antecedentes: hipertensão em uso de losartana; há 3 anos, após artroplastia total do joelho esquerdo, teve dor e edema da panturrilha esquerda e usou rivaroxabana por 3 meses. Não fuma. Nunca fez densitometria óssea. A hormonioterapia adjuvante mais adequada e o exame a solicitar junto são:",
     "alternativas": {
-      "A": "Tamoxifeno por 5 anos, sem exame adicional",
+      "A": "Tamoxifeno com ultrassonografia transvaginal anual",
       "B": "Anastrozol, com densitometria óssea basal",
       "C": "Raloxifeno, com densitometria óssea basal",
-      "D": "Tamoxifeno com ultrassonografia transvaginal anual"
+      "D": "Tamoxifeno por 5 anos, sem exame adicional"
     },
     "gabarito": "B",
-    "armadilha": "A",
+    "armadilha": "D",
     "dado_decisivo": "usou rivaroxabana por 3 meses",
     "resolucao": "O tamoxifeno é a hormonioterapia que todos conhecem e serve a qualquer idade, e quem não decifra o antecedente marca-o. Mas o caso omite o nome do diagnóstico e dá a pista: dor e edema de panturrilha após artroplastia, tratados com rivaroxabana por 3 meses, são trombose venosa profunda provocada. O tamoxifeno aumenta duas a três vezes o risco de tromboembolismo venoso, e com trombose prévia passa a ser evitado. Na pós-menopausa o inibidor de aromatase é preferível e não tem esse risco, mas acelera a perda óssea, e a densitometria basal é obrigatória (com cálcio, vitamina D e bifosfonato ou denosumabe se houver osteoporose ou risco alto). O raloxifeno não é tratamento adjuvante de câncer de mama e também é trombogênico. A ultrassonografia transvaginal de rotina não é recomendada nem no uso de tamoxifeno.",
     "comentarios": {
-      "A": "Errada. Seria opção na pré-menopausa ou na intolerância ao inibidor de aromatase; aqui a trombose venosa prévia, deduzida pela rivaroxabana, contraindica.",
+      "A": "Errada. Além da trombose prévia contra o tamoxifeno, a ultrassonografia transvaginal anual em assintomática não é recomendada.",
       "B": "Correta. Pós-menopausa com trombose venosa prévia: inibidor de aromatase, com densitometria basal pela perda óssea que ele causa.",
       "C": "Errada. O raloxifeno serve à prevenção primária em alto risco, não ao tratamento adjuvante, e aumenta o tromboembolismo como o tamoxifeno.",
-      "D": "Errada. Além da trombose prévia contra o tamoxifeno, a ultrassonografia transvaginal anual em assintomática não é recomendada."
+      "D": "Errada. Seria opção na pré-menopausa ou na intolerância ao inibidor de aromatase; aqui a trombose venosa prévia, deduzida pela rivaroxabana, contraindica."
     },
     "para_levar": "Hormonioterapia adjuvante: com tromboembolismo venoso prévio, evitar tamoxifeno; na pós-menopausa, inibidor de aromatase com densitometria basal.",
-    "referencias": "ASCO Guideline: Adjuvant Endocrine Therapy for Women With Hormone Receptor-Positive Breast Cancer (2018, atualização 2019); NCCN Breast Cancer (2026); ESMO Early Breast Cancer Guideline (2024)",
+    "referencias": "ASCO Guideline: Adjuvant Endocrine Therapy for Women With Hormone Receptor-Positive Breast Cancer (2018, atualização 2019); NCCN Breast Cancer (2025); ESMO Early Breast Cancer Guideline (2024)",
     "tags": [
       "Câncer de mama invasivo",
       "Neoplasias e Esquemas Quimioterápicos (CM)"
@@ -219,15 +219,15 @@
     "gabarito": "A",
     "armadilha": "C",
     "dado_decisivo": "Há 4 dias iniciou fluconazol 200 mg/dia",
-    "resolucao": "A metadona é famosa por acumular tardiamente por causa da meia-vida longa e variável, e é a resposta que parece de especialista. Mas esse acúmulo aparece nos primeiros 3 a 5 dias após o início ou cada aumento de dose; aqui a dose está estável há 3 semanas, sem sonolência desde a primeira. O que mudou foi a droga nova: o fluconazol inibe o CYP3A4 e o CYP2B6, que metabolizam a metadona, e eleva seu nível sérico em dias, com sedação, miose e bradipneia (e prolongamento do QT). A creatinina inalterada afasta acúmulo por lesão renal, que, de todo modo, é mecanismo da morfina, e não da metadona; cálcio e TC normais afastam as outras causas. A conduta é naloxona em doses pequenas tituladas (ou infusão, pela meia-vida longa), reduzir a metadona e trocar ou suspender o azólico, com ECG.",
+    "resolucao": "A metadona é famosa por acumular tardiamente por causa da meia-vida longa e variável, e é a resposta que parece de especialista. Mas esse acúmulo aparece nos primeiros 3 a 5 dias após o início ou cada aumento de dose; aqui a dose está estável há 3 semanas, sem sonolência desde a primeira. O que mudou foi a droga nova: o fluconazol inibe o CYP3A4 e o CYP2C19, que participam do metabolismo da metadona, e eleva seu nível sérico em dias, com sedação, miose e bradipneia (e prolongamento do QT). A creatinina inalterada afasta acúmulo por lesão renal, que, de todo modo, é mecanismo da morfina, e não da metadona; cálcio e TC normais afastam as outras causas. A conduta é naloxona em doses pequenas tituladas (ou infusão, pela meia-vida longa), reduzir a metadona e trocar ou suspender o azólico, com ECG.",
     "comentarios": {
-      "A": "Correta. O fluconazol, iniciado há 4 dias, inibe o CYP3A4 e o CYP2B6 e eleva o nível de uma dose que estava estável.",
+      "A": "Correta. O fluconazol, iniciado há 4 dias, inibe o CYP3A4 e o CYP2C19 e eleva o nível de uma dose que estava estável.",
       "B": "Errada. É o mecanismo da neurotoxicidade da morfina na lesão renal; a metadona não gera esse metabólito e a creatinina está inalterada.",
       "C": "Errada. O acúmulo pela meia-vida ocorre nos primeiros dias após o início ou aumento de dose; aqui a dose está estável há 3 semanas.",
       "D": "Errada. Causaria sonolência sem miose e bradipneia, e o cálcio corrigido é 9,6 mg/dL."
     },
-    "para_levar": "Metadona em dose estável que intoxica: procurar o inibidor de CYP3A4 ou CYP2B6 iniciado (azóis, macrolídeos, alguns antirretrovirais) e checar o QT.",
-    "referencias": "Diretrizes ANCP de Cuidados Paliativos (2012, revisão 2020); NCCN Adult Cancer Pain (2025); ESMO Clinical Practice Guidelines: Management of cancer pain in adult patients (2018)",
+    "para_levar": "Metadona em dose estável que intoxica: procurar o inibidor de CYP3A4, CYP2C19 ou CYP2B6 iniciado (azóis, macrolídeos, alguns antirretrovirais) e checar o QT.",
+    "referencias": "Manual de Cuidados Paliativos ANCP, 2ª ed. (2012); NCCN Adult Cancer Pain (2025); ESMO Clinical Practice Guidelines: Management of cancer pain in adult patients (2018)",
     "tags": [
       "Paliativos Oncologia: Dor (CM)"
     ],

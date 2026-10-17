@@ -76,23 +76,23 @@
     "nivel": "extremamente difícil",
     "enunciado": "Homem de 52 anos, transplantado renal há 4 anos, em uso de tacrolimo (nível sérico de 6 ng/mL, na faixa-alvo), micofenolato de mofetila e prednisona 5 mg/dia, sem medicação nova há mais de um ano, tem ALT entre 160 e 240 U/L em todas as dosagens dos últimos 5 meses (antes, sempre normal). Está assintomático; não consome álcool. Exames: AST 140 U/L, fosfatase alcalina e bilirrubinas normais, INR 1,0, creatinina estável em 1,3 mg/dL. HBsAg e anti-HBc não reagentes; anti-HCV não reagente e HCV-RNA indetectável; CMV-PCR indetectável; anti-HEV IgM e IgG não reagentes. Ultrassonografia com Doppler hepático normal. O próximo exame mais adequado é:",
     "alternativas": {
-      "A": "Biópsia hepática percutânea",
+      "A": "Colangiorressonância magnética",
       "B": "HEV-RNA por PCR no sangue",
-      "C": "Colangiorressonância magnética",
+      "C": "Biópsia hepática percutânea",
       "D": "FAN e anticorpo antimúsculo liso"
     },
     "gabarito": "B",
-    "armadilha": "A",
+    "armadilha": "C",
     "dado_decisivo": "anti-HEV IgM e IgG não reagentes",
     "resolucao": "A sorologia negativa para hepatite E parece encerrar a hipótese, e com as virais descartadas sobra a biópsia para procurar rejeição, droga ou hepatite autoimune. Mas em imunossuprimidos a sorologia anti-HEV tem baixa sensibilidade (o paciente pode não produzir anticorpos), e a hepatite E genótipo 3, adquirida por carne suína malcozida, é a principal causa de hepatite crônica viral nova em transplantados de órgão sólido, com risco de cirrose em poucos anos. O diagnóstico nesse grupo se faz por HEV-RNA no sangue ou nas fezes. Hepatite persistente por mais de 3 meses com PCR positivo define a forma crônica; o tratamento é reduzir a imunossupressão (principalmente o tacrolimo) e, sem clareamento, ribavirina por 3 meses. A biópsia viria se a PCR fosse negativa, e o nível de tacrolimo na faixa e a ausência de droga nova enfraquecem a hepatotoxicidade.",
     "comentarios": {
-      "A": "Errada. Seria o passo para hepatite crônica sem causa após exames não invasivos completos; aqui falta o teste que o imunossuprimido exige para hepatite E.",
+      "A": "Errada. Investiga colestase por doença biliar; o padrão aqui é hepatocelular, com fosfatase alcalina normal e Doppler normal.",
       "B": "Correta. No imunossuprimido a sorologia anti-HEV pode ser negativa; a PCR para HEV-RNA define a hepatite E crônica.",
-      "C": "Errada. Investiga colestase por doença biliar; o padrão aqui é hepatocelular, com fosfatase alcalina normal e Doppler normal.",
+      "C": "Errada. Seria o passo para hepatite crônica sem causa após exames não invasivos completos; aqui falta o teste que o imunossuprimido exige para hepatite E.",
       "D": "Errada. Hepatite autoimune de novo pode ocorrer, mas é menos provável que hepatite E em transplantado e não seria o primeiro exame com a PCR viral pendente."
     },
     "para_levar": "Transplantado com ALT elevada persistente: pesquisar hepatite E por PCR (HEV-RNA), porque a sorologia pode ser negativa na imunossupressão.",
-    "referencias": "EASL Clinical Practice Guidelines on hepatitis E virus infection (2018); KDIGO Transplant Recipient Guideline (2009, atualização de infecções 2020); AST Infectious Diseases Guidelines (2019)",
+    "referencias": "EASL Clinical Practice Guidelines on hepatitis E virus infection (2018); KDIGO Clinical Practice Guideline for the Care of Kidney Transplant Recipients (2009)",
     "tags": [
       "Hepatites Virais (CM)",
       "Infecção em Imunossuprimido (CM)"
@@ -111,22 +111,22 @@
     "enunciado": "Homem de 47 anos, etilista de cerca de 120 g de álcool por dia há 15 anos, com última dose há 5 dias, procura o pronto-socorro por icterícia progressiva há 3 semanas. Exame: Tax 37,7 °C, FC 98 bpm, PA 118 x 74 mmHg, icterícia 2+/4+, hepatomegalia dolorosa, sem ascite ao exame, sem flapping. Exames: bilirrubina total 4,0 mg/dL, AST 210 U/L, ALT 82 U/L, GGT 640 U/L, tempo de protrombina 17 s (controle 12 s), INR 1,6, albumina 3,0 g/dL, creatinina 0,9 mg/dL, sódio 134 mEq/L, leucócitos 13.500/mm³. MELD 18. Hemoculturas, urocultura e radiografia de tórax sem alterações. Ultrassonografia: fígado aumentado e hiperecogênico, sem dilatação de vias biliares. A conduta mais adequada é:",
     "alternativas": {
       "A": "Pentoxifilina 400 mg três vezes ao dia",
-      "B": "Prednisolona 40 mg/dia por 28 dias",
-      "C": "Prednisolona com N-acetilcisteína intravenosa",
-      "D": "Abstinência e suporte nutricional, sem corticoide"
+      "B": "Prednisolona com N-acetilcisteína intravenosa",
+      "C": "Prednisolona 40 mg/dia por 28 dias",
+      "D": "Abstinência e suporte nutricional"
     },
     "gabarito": "D",
-    "armadilha": "B",
+    "armadilha": "C",
     "dado_decisivo": "tempo de protrombina 17 s (controle 12 s)",
-    "resolucao": "Icterícia, AST maior que o dobro da ALT, leucocitose e febre baixa em etilista ativo fecham hepatite alcoólica, e o reflexo é prescrever prednisolona. Mas o corticoide só tem benefício na forma grave, definida por Maddrey de 32 ou mais ou MELD acima de 20. Aqui o Maddrey é 4,6 x (17 menos 12) mais 4,0, igual a 27, e o MELD é 18: hepatite alcoólica não grave, em que o corticoide aumenta infecção sem reduzir mortalidade. A conduta é abstinência (com tratamento do transtorno por uso de álcool), tiamina, aporte de 35 a 40 kcal/kg e 1,2 a 1,5 g/kg de proteína por dia, e reavaliação seriada, porque a doença pode se agravar nas semanas seguintes. A pentoxifilina não reduz mortalidade (STOPAH) e saiu das diretrizes, e a N-acetilcisteína só se soma à prednisolona na forma grave.",
+    "resolucao": "Icterícia, AST maior que o dobro da ALT, leucocitose e febre baixa em etilista ativo fecham hepatite alcoólica, e o reflexo é prescrever prednisolona. Mas o corticoide só tem benefício na forma grave, definida por Maddrey de 32 ou mais ou MELD acima de 20 (ACG 2024). Aqui o Maddrey é 4,6 x (17 menos 12) mais 4,0, igual a 27, e o MELD é 18: hepatite alcoólica não grave, em que o corticoide aumenta infecção sem reduzir mortalidade. A conduta é abstinência (com tratamento do transtorno por uso de álcool), tiamina, aporte de 35 a 40 kcal/kg e 1,2 a 1,5 g/kg de proteína por dia, e reavaliação seriada, porque a doença pode se agravar nas semanas seguintes. A pentoxifilina não reduz mortalidade (STOPAH) e saiu das diretrizes, e a N-acetilcisteína só se soma à prednisolona na forma grave.",
     "comentarios": {
       "A": "Errada. Já foi alternativa ao corticoide, mas não reduziu mortalidade no STOPAH e não é recomendada em nenhuma gravidade.",
-      "B": "Errada. É a conduta da hepatite alcoólica grave (Maddrey de 32 ou mais, MELD acima de 20, sem infecção ativa); aqui o Maddrey é 27 e o MELD 18.",
-      "C": "Errada. A associação reduziu mortalidade em 1 mês apenas na forma grave; não se aplica à hepatite alcoólica não grave.",
+      "B": "Errada. A associação reduziu mortalidade em 1 mês apenas na forma grave; não se aplica à hepatite alcoólica não grave.",
+      "C": "Errada. É a conduta da hepatite alcoólica grave (Maddrey de 32 ou mais, MELD acima de 20, sem infecção ativa); aqui o Maddrey é 27 e o MELD 18.",
       "D": "Correta. Maddrey 27 e MELD 18 definem forma não grave: abstinência, tiamina, nutrição e vigilância, sem corticoide."
     },
     "para_levar": "Corticoide na hepatite alcoólica só com Maddrey de 32 ou mais ou MELD acima de 20, sem infecção ativa; abaixo disso, abstinência e nutrição.",
-    "referencias": "AASLD Practice Guidance: Alcohol-associated liver disease (2024); EASL Clinical Practice Guidelines: Management of alcohol-related liver disease (2018); ACG Guideline Alcohol-Associated Liver Disease (2024)",
+    "referencias": "ACG Clinical Guideline: Alcohol-Associated Liver Disease (2024); AASLD Practice Guidance: Diagnosis and Treatment of Alcohol-Associated Liver Diseases (2019); EASL Clinical Practice Guidelines: Management of alcohol-related liver disease (2018)",
     "tags": [
       "Hepatite Alcoólica (CM)"
     ],
@@ -159,7 +159,7 @@
       "D": "Errada. O ursodesoxicólico não trata infecção nem inflamação da vesícula, e a hipótese de lama simples ignora os sinais inflamatórios."
     },
     "para_levar": "Colecistite acalculosa no paciente crítico instável: colecistostomia percutânea e antibiótico; colecistectomia só com estabilidade ou complicação.",
-    "referencias": "Tokyo Guidelines 2018 (TG18) para colecistite aguda; WSES Guidelines on acute calculous and acalculous cholecystitis (2020); ACR Appropriateness Criteria Right Upper Quadrant Pain (2022)",
+    "referencias": "Tokyo Guidelines 2018 (TG18) para colecistite aguda; ACR Appropriateness Criteria Right Upper Quadrant Pain (2022)",
     "tags": [
       "Colecistite",
       "UTI - Terapia Intensiva (CM)"

@@ -71,7 +71,7 @@
     "simulado": 6,
     "area": "Pneumologia",
     "titulo": "Asma grave com bronquiectasias centrais e IgE muito alta: sensibilização a Aspergillus antes do biológico",
-    "arma": "Rótulo verdadeiro",
+    "arma": "Dado omitido",
     "comando": "próximo exame",
     "nivel": "difícil",
     "enunciado": "Mulher de 38 anos, asmática desde a infância, piorou no último ano apesar de budesonida-formoterol 400/12 mcg duas vezes ao dia, com técnica adequada e adesão conferida na farmácia. Recebeu três ciclos de prednisona no período e tem expectorado tampões acastanhados. Nega tabagismo e contato com aves. SpO2 96%, sibilos esparsos. Hemograma: eosinófilos 1.100/mm³. IgE total 2.400 UI/mL (referência até 100). TC de tórax: bronquiectasias centrais nos lobos superiores, algumas preenchidas por muco hiperdenso. O médico que a acompanhava já preencheu o formulário para mepolizumabe, por asma eosinofílica grave. O exame a solicitar agora é:",
@@ -98,7 +98,7 @@
       "Asma - ambulatorial (CM)"
     ],
     "sourceQuestionId": "048fc6c17f023db",
-    "alvo": "Rótulo verdadeiro (asma eosinofílica grave) escondendo o dado de imagem que muda a doença; próximo exame simples x invasivo."
+    "alvo": "Dado omitido (a sensibilização ao Aspergillus que falta para fechar ABPA) sob o rótulo verdadeiro de asma eosinofílica grave; próximo exame simples x invasivo."
   },
   {
     "id": "S6-PNE-04",
@@ -126,7 +126,7 @@
       "D": "Errada. Antifibrinolítico é adjuvante, útil na hemoptise não maciça; aqui a ameaça é a via aérea."
     },
     "para_levar": "Hemoptise maciça: primeiro proteger o pulmão bom (decúbito sobre o lado que sangra, intubação se preciso), depois localizar (angiotomografia, broncoscopia) e por fim embolizar a artéria brônquica.",
-    "referencias": "ERS/ATS e CHEST expert reviews sobre hemoptise maciça; Davidson e Shojaee, Ann Am Thorac Soc 2020; SBPT, manejo da hemoptise.",
+    "referencias": "Davidson K, Shojaee S. Managing massive hemoptysis. Chest 2020; Ittrich H et al. The diagnosis and treatment of hemoptysis. Dtsch Arztebl Int 2017.",
     "tags": [
       "Outros temas em Pneumologia (CM)",
       "Bronquiectasias (CM)"
@@ -138,11 +138,11 @@
     "id": "S6-PNE-05",
     "simulado": 6,
     "area": "Emergência",
-    "titulo": "Intoxicação digitálica precipitada por amiodarona na DRC: a FA que regulariza, com hipercalemia como rótulo",
+    "titulo": "Intoxicação digitálica precipitada por amiodarona na DRC: a FA que regulariza sem xantopsia, com hipercalemia como rótulo",
     "arma": "Rótulo verdadeiro",
     "comando": "etiologia",
-    "nivel": "extremamente difícil",
-    "enunciado": "Mulher de 81 anos, com fibrilação atrial permanente, insuficiência cardíaca com fração de ejeção de 35% e doença renal crônica (creatinina basal 1,8 mg/dL), é trazida por náuseas, anorexia e confusão há 4 dias. Há duas semanas o cardiologista acrescentou amiodarona por palpitações. Usa ainda furosemida, espironolactona 25 mg, sacubitril-valsartana, bisoprolol 2,5 mg e digoxina 0,25 mg/dia. Diz que as luzes do quarto estão amareladas. PA 102 x 64 mmHg, FC 48 bpm. Potássio 5,9 mEq/L, creatinina 2,3 mg/dL, magnésio 1,9 mg/dL, TSH normal. ECG: ritmo regular de 48 bpm, sem ondas P visíveis, QRS estreito e infradesnivelamento côncavo do ST em V5 e V6. A causa mais provável do quadro é:",
+    "nivel": "difícil",
+    "enunciado": "Mulher de 81 anos, com fibrilação atrial permanente, insuficiência cardíaca com fração de ejeção de 35% e doença renal crônica (creatinina basal 1,8 mg/dL), é trazida por náuseas, anorexia e confusão há 4 dias. Há duas semanas o cardiologista acrescentou amiodarona por palpitações. Usa ainda furosemida, espironolactona 25 mg, sacubitril-valsartana, bisoprolol 2,5 mg e digoxina 0,25 mg/dia. PA 102 x 64 mmHg, FC 48 bpm. Potássio 5,9 mEq/L, creatinina 2,3 mg/dL, magnésio 1,9 mg/dL, TSH normal. ECG: ritmo regular de 48 bpm, sem ondas P visíveis, QRS estreito e infradesnivelamento côncavo do ST em V5 e V6. A causa mais provável do quadro é:",
     "alternativas": {
       "A": "Hipercalemia pela espironolactona",
       "B": "Intoxicação digitálica",
@@ -152,11 +152,11 @@
     "gabarito": "B",
     "armadilha": "A",
     "dado_decisivo": "ritmo regular de 48 bpm, sem ondas P visíveis",
-    "resolucao": "A hipercalemia existe e tem causa verdadeira (espironolactona, sacubitril-valsartana, DRC), mas potássio de 5,9 não explica xantopsia, náuseas e confusão, nem produz um ritmo regular lento. O dado que decide está no ECG: uma fibrilação atrial permanente que ficou regular e lenta é bloqueio AV total com escape juncional, e isso, num paciente com digoxina, é intoxicação digitálica até prova em contrário. O gatilho é a amiodarona de duas semanas, que reduz a depuração da digoxina e eleva seu nível, somada à piora da função renal. A própria hipercalemia aqui é marcador de gravidade da intoxicação (inibição da Na/K ATPase). A conduta é suspender digoxina e amiodarona, dosar a digoxinemia e dar fragmentos Fab antidigoxina, indicados por bradiarritmia sintomática com hipercalemia; a digoxina não é removida por hemodiálise.",
+    "resolucao": "A hipercalemia existe e tem causa verdadeira (espironolactona, sacubitril-valsartana, DRC), mas potássio de 5,9 não explica náuseas, anorexia e confusão, nem produz um ritmo regular lento numa FA permanente. O dado que decide está no ECG: uma fibrilação atrial permanente que ficou regular e lenta é bloqueio AV total com escape juncional, e isso, num paciente com digoxina, é intoxicação digitálica até prova em contrário. O gatilho é a amiodarona de duas semanas, que reduz a depuração da digoxina e eleva seu nível, somada à piora da função renal. A queixa visual (xantopsia) ajudaria, mas falta com frequência no idoso, e o ECG basta. A própria hipercalemia aqui é marcador de gravidade da intoxicação (inibição da Na/K ATPase). A conduta é suspender digoxina e amiodarona, dosar a digoxinemia e dar fragmentos Fab antidigoxina, indicados por bradiarritmia sintomática com hipercalemia; a digoxina não é removida por hemodiálise.",
     "comentarios": {
-      "A": "Errada. Explica o potássio, mas não a visão amarelada nem a FA regularizada; seria a resposta com ondas T apiculadas e QRS alargando, sem digoxina.",
-      "B": "Correta. FA permanente que vira ritmo regular de 48 bpm, xantopsia e náuseas logo após amiodarona: intoxicação digitálica.",
-      "C": "Errada. Bisoprolol 2,5 mg mantido há tempos desacelera a FA, mas não a regulariza nem causa xantopsia.",
+      "A": "Errada. Explica o potássio, mas não os sintomas digestivos e neurológicos nem a FA regularizada; seria a resposta com ondas T apiculadas e QRS alargando, sem digoxina.",
+      "B": "Correta. FA permanente que vira ritmo regular de 48 bpm, náuseas e confusão logo após amiodarona: intoxicação digitálica.",
+      "C": "Errada. Bisoprolol 2,5 mg mantido há tempos desacelera a FA, mas não a regulariza nem explica náuseas e confusão.",
       "D": "Errada. Hipotireoidismo por amiodarona leva meses e o TSH está normal."
     },
     "para_levar": "Paciente com digoxina cuja FA fica regular e lenta tem BAV total por intoxicação digitálica. Amiodarona eleva o nível da digoxina; o tratamento é Fab antidigoxina, não hemodiálise.",
