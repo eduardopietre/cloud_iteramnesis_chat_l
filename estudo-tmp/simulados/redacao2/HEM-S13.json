@@ -30,7 +30,7 @@
    "Linfomas (CM)",
    "DRESS (CM)"
   ],
-  "sourceQuestionId": "eda106c4fb54f47",
+  "sourceQuestionId": null,
   "alvo": "Linfoma por subtipo e farmacodermias (0 de 3 no app): rótulo verdadeiro (droga recente) que puxa a doença errada."
  },
  {
@@ -41,7 +41,7 @@
   "arma": "Qualificador",
   "comando": "conduta",
   "nivel": "difícil",
-  "enunciado": "Mulher de 63 anos, com dispneia aos pequenos esforços e edema de membros inferiores há 5 meses, macroglossia e púrpura periorbitária. Ecocardiograma: hipertrofia concêntrica de 15 mm, FE de 50%, strain longitudinal com preservação apical. ECG com baixa voltagem. NT-proBNP 9.400 pg/mL, troponina T 0,09 ng/mL, cadeias leves livres lambda 380 mg/L e kappa 11 mg/L. Aspirado de gordura abdominal com vermelho Congo positivo; tipagem por espectrometria de massa: cadeia leve lambda. Medula com 8% de plasmócitos clonais. Creatinina 1,1 mg/dL. PA 96 x 62 mmHg, FC 88 bpm. O tratamento inicial mais adequado é:",
+  "enunciado": "Mulher de 63 anos, com dispneia aos pequenos esforços e edema de membros inferiores há 5 meses, macroglossia e púrpura periorbitária. Ecocardiograma: hipertrofia concêntrica de 15 mm, FE de 50%, strain longitudinal com preservação apical. ECG com baixa voltagem. NT-proBNP 6.200 pg/mL, troponina T 0,09 ng/mL, cadeias leves livres lambda 380 mg/L e kappa 11 mg/L. Aspirado de gordura abdominal com vermelho Congo positivo; tipagem por espectrometria de massa: cadeia leve lambda. Medula com 8% de plasmócitos clonais. Creatinina 1,1 mg/dL. PA 96 x 62 mmHg, FC 88 bpm. O tratamento inicial mais adequado é:",
   "alternativas": {
    "A": "Tafamidis 61 mg ao dia",
    "B": "Melfalano em alta dose com autotransplante",
@@ -51,15 +51,15 @@
   "gabarito": "D",
   "armadilha": "A",
   "dado_decisivo": "tipagem por espectrometria de massa: cadeia leve lambda",
-  "resolucao": "Cardiomiopatia infiltrativa com preservação apical do strain e baixa voltagem leva direto à amiloidose cardíaca, e o tafamidis, droga mais conhecida para ela, atrai. Mas o tafamidis estabiliza a transtirretina e só serve à amiloidose ATTR; aqui a tipagem mostrou cadeia leve lambda, com clone plasmocitário e razão de cadeias leves muito alterada: é amiloidose AL. O tratamento é dirigido ao clone, e o esquema inicial de escolha é daratumumabe com ciclofosfamida, bortezomibe e dexametasona (estudo ANDROMEDA), que produz respostas hematológicas mais rápidas e profundas, o que define a sobrevida no acometimento cardíaco. O autotransplante com melfalano em alta dose não é opção inicial aqui: NT-proBNP acima de 5.000 pg/mL, troponina T elevada e pressão sistólica baixa indicam estágio cardíaco avançado (Mayo III), com mortalidade proibitiva no procedimento. O transplante cardíaco isolado, sem controle do clone, é seguido de deposição no enxerto.",
+  "resolucao": "Cardiomiopatia infiltrativa com preservação apical do strain e baixa voltagem leva direto à amiloidose cardíaca, e o tafamidis, droga mais conhecida para ela, atrai. Mas o tafamidis estabiliza a transtirretina e só serve à amiloidose ATTR; aqui a tipagem mostrou cadeia leve lambda, com clone plasmocitário e razão de cadeias leves muito alterada: é amiloidose AL. O tratamento é dirigido ao clone, e o esquema inicial de escolha é daratumumabe com ciclofosfamida, bortezomibe e dexametasona (estudo ANDROMEDA), que produz respostas hematológicas mais rápidas e profundas, o que define a sobrevida no acometimento cardíaco. O autotransplante com melfalano em alta dose não é opção inicial aqui: NT-proBNP acima de 5.000 pg/mL, troponina T elevada e pressão sistólica baixa indicam estágio cardíaco avançado (Mayo IIIa, ainda abaixo do limiar de 8.500 do estágio IIIb), com mortalidade proibitiva no procedimento. O transplante cardíaco isolado, sem controle do clone, é seguido de deposição no enxerto.",
   "comentarios": {
    "A": "Errada, é a armadilha. Tafamidis é para amiloidose por transtirretina; não age sobre cadeias leves.",
-   "B": "Errada. O autotransplante exige estágio cardíaco precoce; NT-proBNP de 9.400, troponina alta e PA sistólica de 96 contraindicam.",
+   "B": "Errada. O autotransplante exige estágio cardíaco precoce; NT-proBNP acima de 5.000, troponina T acima de 0,06 e PA sistólica abaixo de 100 o contraindicam.",
    "C": "Errada. Sem controle do clone, a amiloide se deposita no novo coração; só se discute em casos selecionados, após resposta hematológica.",
    "D": "Correta. Amiloidose AL com acometimento cardíaco avançado: Dara-CyBorD como tratamento inicial, com dexametasona em dose ajustada."
   },
   "para_levar": "Amiloidose cardíaca se trata pelo tipo: AL (cadeia leve) com quimioimunoterapia dirigida ao clone (Dara-CyBorD); tafamidis é só para ATTR; NT-proBNP e troponina definem o estágio e afastam o autotransplante.",
-  "referencias": "Kastritis E et al., ANDROMEDA (N Engl J Med 2021); ISA/IMWG Guidelines for AL amyloidosis (2024); Diretriz da SBC sobre Diagnóstico e Tratamento da Amiloidose Cardíaca (2021).",
+  "referencias": "Kastritis E et al., ANDROMEDA (N Engl J Med 2021); Wechalekar AD et al., Guidelines for non-transplant chemotherapy for treatment of systemic AL amyloidosis: EHA-ISA working group (Amyloid 2023); Diretriz da SBC sobre Diagnóstico e Tratamento da Amiloidose Cardíaca (2021).",
   "tags": [
    "Amiloidose (CM)",
    "Amiloidose cardíaca (CM)"
@@ -106,7 +106,7 @@
   "simulado": 13,
   "area": "Hematologia",
   "titulo": "TVP iliofemoral esquerda recorrente na mesma perna com trombofilias negativas: imagem pélvica para compressão da veia ilíaca (May-Thurner)",
-  "arma": "Cronologia",
+  "arma": "Rótulo verdadeiro",
   "comando": "próximo exame",
   "nivel": "difícil",
   "enunciado": "Mulher de 27 anos, sem comorbidades, teve trombose venosa profunda iliofemoral esquerda há 14 meses, em uso de anticoncepcional oral combinado. Foi anticoagulada com rivaroxabana por 6 meses e o anticoncepcional foi suspenso definitivamente. Pesquisa de trombofilia hereditária e de anticorpos antifosfolípide, feita fora da anticoagulação, foi negativa. Há 5 dias, 8 meses após suspender a rivaroxabana, nova trombose proximal na mesma perna esquerda, que se estende desde a veia ilíaca comum, sem cirurgia, viagem ou imobilização. Hemograma, função renal e hepática e exame ginecológico normais. Já reiniciou anticoagulação. Além de manter a anticoagulação, o próximo exame mais adequado é:",
@@ -119,7 +119,7 @@
   "gabarito": "B",
   "armadilha": "D",
   "dado_decisivo": "na mesma perna esquerda, que se estende desde a veia ilíaca comum",
-  "resolucao": "Trombose recorrente em mulher jovem faz pensar em trombofilia que escapou, e o reflexo é repetir a pesquisa. Mas a pesquisa já foi feita da forma correta (fora da anticoagulação), e repeti-la agora, em vigência de anticoagulante e logo após a trombose, só produz resultados falsos. A cronologia e o lado contam a história: duas tromboses iliofemorais, sempre à esquerda, com recorrência após suspender o anticoagulante. A síndrome de May-Thurner (compressão da veia ilíaca comum esquerda entre a artéria ilíaca comum direita e a coluna) predomina em mulheres jovens e se manifesta assim. O exame indicado é imagem da veia ilíaca: venografia por TC ou RM, ou ultrassonografia intravascular, que mostra a compressão e orienta a discussão de recanalização com stent em centro especializado. JAK2 se pesquisa em trombose de sítio incomum (esplâncnico, cerebral) ou com hemograma alterado, e marcadores tumorais não fazem parte do rastreio de neoplasia oculta.",
+  "resolucao": "Trombose recorrente em mulher jovem faz pensar em trombofilia que escapou, e o reflexo é repetir a pesquisa. Mas a pesquisa já foi feita da forma correta (fora da anticoagulação), e repeti-la agora, em vigência de anticoagulante e logo após a trombose, só produz resultados falsos. O lado e a extensão contam a história: duas tromboses iliofemorais, sempre à esquerda, com recorrência após suspender o anticoagulante. A síndrome de May-Thurner (compressão da veia ilíaca comum esquerda entre a artéria ilíaca comum direita e a coluna) predomina em mulheres jovens e se manifesta assim. O exame indicado é imagem da veia ilíaca: venografia por TC ou RM, ou ultrassonografia intravascular, que mostra a compressão e orienta a discussão de recanalização com stent em centro especializado. JAK2 se pesquisa em trombose de sítio incomum (esplâncnico, cerebral) ou com hemograma alterado, e marcadores tumorais não fazem parte do rastreio de neoplasia oculta.",
   "comentarios": {
    "A": "Errada. JAK2 entra na trombose de veias esplâncnicas ou cerebrais e na trombose com eritrocitose ou trombocitose; aqui o sítio é usual e o hemograma é normal.",
    "B": "Correta. TVP iliofemoral esquerda recorrente em mulher jovem sem trombofilia: imagem pélvica para compressão da veia ilíaca.",
@@ -131,8 +131,8 @@
   "tags": [
    "Trombose Venosa Profunda (CM)"
   ],
-  "sourceQuestionId": "254da0a24f0795e",
-  "alvo": "Próximo exame (pior comando): o exótico ou repetido quando a cronologia e o lado apontam o simples."
+  "sourceQuestionId": null,
+  "alvo": "Próximo exame (pior comando): o rótulo verdadeiro (trombose recorrente em mulher jovem) puxando a trombofilia repetida, quando o lado e a extensão apontam a anatomia."
  },
  {
   "id": "S13-HEM-05",
@@ -145,22 +145,22 @@
   "enunciado": "Mulher de 52 anos, sem cardiopatia, com plaquetas de 18.000/mm³ por leucemia em quimioterapia, recebe uma dose de plaquetas por aférese de doadora multípara antes de passagem de cateter. Uma hora após o fim da infusão, apresenta dispneia intensa, SpO2 de 82% em ar ambiente, temperatura de 38,3 °C, PA 86 x 52 mmHg, FC 124 bpm e estertores difusos. Radiografia de tórax: infiltrado alveolar bilateral novo. Ecocardiograma à beira do leito: FE de 62%, veia cava inferior de 1,2 cm com colapso inspiratório acima de 50%. BNP 70 pg/mL. Balanço hídrico das últimas 24 horas: negativo em 300 mL. A conduta no receptor e a medida em relação à doadora são, respectivamente:",
   "alternativas": {
    "A": "Suporte sem diurético / anticorpos anti-HLA e anti-HNA na doadora",
-   "B": "Furosemida intravenosa / nenhuma medida com a doadora",
-   "C": "Suporte sem diurético / nenhuma medida com a doadora",
-   "D": "Furosemida intravenosa / anticorpos anti-HLA e anti-HNA na doadora"
+   "B": "Suporte sem diurético / nenhuma medida com a doadora",
+   "C": "Furosemida intravenosa / anticorpos anti-HLA e anti-HNA na doadora",
+   "D": "Furosemida intravenosa / nenhuma medida com a doadora"
   },
   "gabarito": "A",
-  "armadilha": "B",
+  "armadilha": "D",
   "dado_decisivo": "FE de 62%, veia cava inferior de 1,2 cm com colapso inspiratório acima de 50%",
   "resolucao": "Edema pulmonar logo após transfusão faz pensar primeiro em sobrecarga circulatória (TACO), e a resposta automática é furosemida. Mas tudo aqui fala contra sobrecarga: hipotensão e febre (a TACO cursa com hipertensão), ecocardiograma com FE normal e veia cava colapsável, BNP baixo e balanço negativo. É lesão pulmonar aguda relacionada à transfusão (TRALI), edema por aumento de permeabilidade, em geral causado por anticorpos anti-HLA ou anti-HNA do doador, mais frequentes em mulheres multíparas, dirigidos aos neutrófilos do receptor. O tratamento é suporte: oxigênio, ventilação não invasiva ou invasiva protetora, e volume ou vasopressor se necessário; diurético piora a hipotensão e não ajuda. O caso deve ser notificado à hemovigilância e a doadora investigada para anticorpos anti-HLA e anti-HNA; se positivos, ela é afastada da doação de plasma e plaquetas, o que protege os próximos receptores.",
   "comentarios": {
    "A": "Correta. TRALI: suporte sem diurético e investigação de anticorpos na doadora, que é afastada se positivos.",
-   "B": "Errada nas duas metades, é a armadilha. Furosemida é para TACO, e TRALI exige investigar o doador.",
-   "C": "Errada. O suporte está certo, mas deixar de investigar a doadora mantém o risco para os próximos receptores.",
-   "D": "Errada. A investigação da doadora está certa, mas diurético em TRALI hipotensa piora a perfusão."
+   "B": "Errada. O suporte está certo, mas deixar de investigar a doadora mantém o risco para os próximos receptores.",
+   "C": "Errada. A investigação da doadora está certa, mas diurético em TRALI hipotensa piora a perfusão.",
+   "D": "Errada nas duas metades, é a armadilha. Furosemida é para TACO, e TRALI exige investigar o doador."
   },
   "para_levar": "TRALI: febre, hipotensão, FE e BNP normais; tratar com suporte, sem diurético, notificar e investigar anticorpos anti-HLA e anti-HNA no doador.",
-  "referencias": "Vlaar APJ et al., A consensus redefinition of TRALI (Transfusion 2019); Ministério da Saúde, Marco conceitual e operacional de hemovigilância (2022).",
+  "referencias": "Vlaar APJ et al., A consensus redefinition of TRALI (Transfusion 2019); ANVISA, Marco conceitual e operacional de hemovigilância: guia para a hemovigilância no Brasil (2015).",
   "tags": [
    "Reações Transfusionais (CM)",
    "Hemoterapia (CM)"

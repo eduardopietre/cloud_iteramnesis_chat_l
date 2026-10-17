@@ -25,7 +25,7 @@
    "D": "Errada, é a armadilha. INR de 1,4 sem sangramento não pede plasma, e o plasma é o hemocomponente que mais carrega citrato: pioraria a hipocalcemia."
   },
   "para_levar": "Na transfusão maciça, medir o cálcio iônico a cada poucas unidades e repor com cálcio intravenoso para mantê-lo acima de 1,1 mmol/L: hipocalcemia pelo citrato causa choque refratário, QT longo e coagulopatia.",
-  "referencias": "European guideline on management of major bleeding and coagulopathy following trauma, 6ª edição (Rossaint et al., Crit Care 2023); Associação Brasileira de Hematologia, Hemoterapia e Terapia Celular, diretrizes de transfusão maciça (2022).",
+  "referencias": "European guideline on management of major bleeding and coagulopathy following trauma, 6ª edição (Rossaint et al., Crit Care 2023); Ministério da Saúde, Guia para uso de hemocomponentes, 2ª edição (2015).",
   "tags": [
    "Hemoterapia (CM)",
    "Hipocalcemias (CM)"
@@ -44,19 +44,19 @@
   "enunciado": "Homem de 64 anos, com astenia há 4 meses e duas internações por pneumonia no período. Nega etilismo, quimioterapia, radioterapia ou exposição a solventes, e não usa medicamentos. Exame físico com palidez, sem esplenomegalia ou linfonodomegalias. Hemograma: Hb 7,8 g/dL, VCM 109 fL, reticulócitos 0,4%, leucócitos 2.100/mm³ (neutrófilos 700/mm³), plaquetas 34.000/mm³. Vitamina B12, folato, cobre, TSH e função hepática normais; sorologias para HIV e hepatites virais negativas. Biópsia de medula: celularidade de 15%, com micromegacariócitos e megacariócitos hipolobulados em meio ao estroma gorduroso, blastos 3%, sem fibrose. Citometria de fluxo do sangue periférico: clone HPN de 1,5% nos granulócitos. Cariótipo da medula: 45,XY,-7 em 12 de 20 metáfases. O diagnóstico e o achado que o sustenta são, respectivamente:",
   "alternativas": {
    "A": "Anemia aplástica / clone HPN",
-   "B": "Síndrome mielodisplásica hipocelular / monossomia do 7",
+   "B": "Anemia aplástica / monossomia do 7",
    "C": "Síndrome mielodisplásica hipocelular / clone HPN",
-   "D": "Anemia aplástica / monossomia do 7"
+   "D": "Síndrome mielodisplásica hipocelular / monossomia do 7"
   },
-  "gabarito": "B",
+  "gabarito": "D",
   "armadilha": "A",
   "dado_decisivo": "45,XY,-7 em 12 de 20 metáfases",
   "resolucao": "Pancitopenia com medula de 15% de celularidade evoca anemia aplástica, e o clone HPN pequeno parece confirmá-la, porque aparece em até metade dos casos de aplasia. Mas a medula hipocelular é comum às duas doenças, e o clone HPN, embora mais frequente na aplasia, também ocorre na síndrome mielodisplásica (SMD): ele não separa. O que separa é a displasia megacariocítica (micromegacariócitos e formas hipolobuladas não fazem parte da aplasia, em que megacariócitos quase desaparecem) e, sobretudo, a monossomia do 7, alteração citogenética definidora de neoplasia mieloide, associada a evolução para leucemia e a má resposta à imunossupressão. O diagnóstico é SMD hipocelular, cujo tratamento e prognóstico diferem: a imunossupressão com ATG e ciclosporina não é a via principal com monossomia do 7, e o transplante alogênico deve ser discutido cedo. A macrocitose também combina mais com SMD, embora apareça na aplasia.",
   "comentarios": {
    "A": "Errada, é a armadilha. Clone HPN pequeno favorece aplasia, mas não exclui SMD; com displasia de megacariócitos e -7, o diagnóstico muda.",
-   "B": "Correta. Medula hipocelular com micromegacariócitos e monossomia do 7 em metade das metáfases: SMD hipocelular.",
+   "B": "Errada. Monossomia do 7 é critério de neoplasia mieloide; não convive com o rótulo de anemia aplástica.",
    "C": "Errada. O diagnóstico está certo, mas o clone HPN não é o que sustenta SMD; é achado inespecífico entre as duas.",
-   "D": "Errada. Monossomia do 7 é critério de neoplasia mieloide; não convive com o rótulo de anemia aplástica."
+   "D": "Correta. Medula hipocelular com micromegacariócitos e monossomia do 7 em metade das metáfases: SMD hipocelular."
   },
   "para_levar": "Medula hipocelular não é sinônimo de anemia aplástica: displasia megacariocítica e citogenética anormal (monossomia do 7, del(7q)) definem SMD hipocelular; clone HPN pequeno não decide.",
   "referencias": "Classificação OMS de neoplasias hematolinfoides, 5ª edição (2022); British Society for Haematology, Guidelines for the diagnosis and management of adult aplastic anaemia (2024 update).",
@@ -93,7 +93,7 @@
    "D": "Errada. O estadiamento da LLC é clínico (Rai e Binet); tomografia não está indicada no assintomático sem sinais de transformação."
   },
   "para_levar": "Linfocitose persistente de linfócitos maduros no adulto: imunofenotipagem do sangue periférico é o exame que diagnostica LLC; medula e tomografia não fazem parte do diagnóstico nem do estadiamento.",
-  "referencias": "iwCLL guidelines for diagnosis, indications for treatment, response assessment, and supportive management of CLL (Hallek et al., Blood 2018); ESMO Clinical Practice Guideline CLL (2024).",
+  "referencias": "iwCLL guidelines for diagnosis, indications for treatment, response assessment, and supportive management of CLL (Hallek et al., Blood 2018).",
   "tags": [
    "Leucemias (CM)",
    "Avaliação Global do Hemograma (CM)"
@@ -127,7 +127,7 @@
    "D": "Correta. Febre em uso de eculizumabe é emergência: hemoculturas e ceftriaxona imediata, mesmo vacinado."
   },
   "para_levar": "Quem usa inibidor de C5 (eculizumabe, ravulizumabe) e tem febre recebe antibiótico com cobertura para meningococo imediatamente, mesmo com vacinação completa.",
-  "referencias": "Ministério da Saúde, PCDT da Hemoglobinúria Paroxística Noturna (2023); CDC, Meningococcal disease in patients receiving complement inhibitors (MMWR 2017, atualizado 2024).",
+  "referencias": "Brodsky RA, How I treat paroxysmal nocturnal hemoglobinuria (Blood 2021); McNamara LA et al., High risk for invasive meningococcal disease among patients receiving eculizumab despite receipt of meningococcal vaccine (MMWR 2017).",
   "tags": [
    "Hemoglobinúria Paroxística Noturna (HPN) (CM)",
    "Meningite Bacteriana (CM)"

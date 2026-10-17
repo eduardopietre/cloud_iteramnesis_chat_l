@@ -29,7 +29,7 @@
   "tags": [
    "LMA (CM)"
   ],
-  "sourceQuestionId": "526f391c2632222",
+  "sourceQuestionId": null,
   "alvo": "Leucemias erradas no banco (3 erros); regra antiga fixada e o tratamento do degrau mais alto."
  },
  {
@@ -152,7 +152,7 @@
   "gabarito": "C",
   "armadilha": "A",
   "dado_decisivo": "Os hemogramas de 2 e 3 meses após o último ciclo eram normais",
-  "resolucao": "Citopenia nova depois de quimioterapia com ciclofosfamida e doxorrubicina faz temer neoplasia mieloide relacionada à terapia ou recidiva com infiltração da medula. Mas a neoplasia relacionada a alquilante surge, em geral, 5 a 7 anos depois (e 1 a 3 anos para inibidores de topoisomerase), com displasia e outras citopenias; a recidiva viria com LDH alta, linfonodos ou outras linhagens comprometidas, e o PET foi negativo. A droga a deduzir está no R do esquema: o rituximabe causa neutropenia isolada de início tardio (late-onset neutropenia), semanas a meses após a última dose, depois de hemogramas normais, em até 5% a 25% dos tratados. Costuma ser autolimitada e se resolve em semanas; com neutrófilos acima de 500 e sem febre, a conduta é observação, com fator estimulador de colônias reservado para neutropenia profunda ou infecção.",
+  "resolucao": "Citopenia nova depois de quimioterapia com ciclofosfamida e doxorrubicina faz temer neoplasia mieloide relacionada à terapia ou recidiva com infiltração da medula. Mas a neoplasia relacionada a alquilante surge, em geral, 5 a 7 anos depois (e 1 a 3 anos para inibidores de topoisomerase), com displasia e outras citopenias; a recidiva viria com LDH alta, linfonodos ou outras linhagens comprometidas, e o PET foi negativo. A droga a deduzir está no R do esquema: o rituximabe causa neutropenia isolada de início tardio (late-onset neutropenia), semanas a meses após a última dose, depois de hemogramas normais, em até 5% a 25% dos tratados. Costuma ser autolimitada e se resolve em semanas, mesmo com contagens abaixo de 500; sem febre, a conduta é observação com hemogramas seriados e orientação para procurar atendimento se houver febre, com fator estimulador de colônias reservado para infecção ou neutropenia febril.",
   "comentarios": {
    "A": "Errada, é a armadilha. Aparece anos após alquilante, com displasia e outras citopenias; 4 meses é cedo demais.",
    "B": "Errada. PET em remissão, LDH normal e plaquetas e Hb normais contrariam infiltração medular.",
@@ -172,34 +172,35 @@
   "id": "S15-HEM-06",
   "simulado": 15,
   "area": "Hematologia",
-  "titulo": "Hipereosinofilia com B12 e triptase altas, esplenomegalia e fibrose endomiocárdica, sem resposta à ivermectina: neoplasia mieloide com FIP1L1::PDGFRA",
-  "arma": "Dado omitido",
+  "titulo": "Hipereosinofilia com triptase alta, B12 muito alta e fibrose endomiocárdica, sem agregados de mastócitos: neoplasia mieloide com FIP1L1::PDGFRA, e não mastocitose sistêmica",
+  "arma": "Rótulo verdadeiro",
   "comando": "etiologia",
   "nivel": "extremamente difícil",
-  "enunciado": "Homem de 42 anos, de área rural, com dispneia progressiva e edema há 4 meses. Eosinófilos de 6.800/mm³ e de 7.200/mm³ em dois hemogramas com 6 semanas de intervalo, apesar de duas doses de ivermectina e de albendazol. Nega asma, rinite ou uso de medicamentos novos. Exame: baço a 5 cm do rebordo costal, sem lesões de pele. Ecocardiograma: obliteração do ápice do ventrículo esquerdo por material ecogênico e padrão restritivo. Exames: Hb 12,9 g/dL, plaquetas 160.000/mm³, vitamina B12 sérica 2.900 pg/mL (VR 200 a 900), triptase sérica 28 ng/mL (VR até 11,4), IgE normal, ANCA negativo, sorologia para Strongyloides negativa, parasitológico de fezes seriado negativo. A etiologia mais provável é:",
+  "enunciado": "Homem de 42 anos com dispneia progressiva e edema há 4 meses. Eosinófilos de 6.800/mm³ e de 7.200/mm³ em dois hemogramas com 6 semanas de intervalo, sem queda após ivermectina empírica. Nega asma, rinite ou uso de medicamentos novos. Exame: baço a 5 cm do rebordo costal, sem lesões de pele, sem urticária ao atrito. Ecocardiograma: obliteração do ápice do ventrículo esquerdo por material ecogênico e padrão restritivo. Exames: Hb 12,9 g/dL, plaquetas 160.000/mm³, vitamina B12 sérica 2.900 pg/mL (VR 200 a 900), triptase sérica 28 ng/mL (VR até 11,4), IgE normal, ANCA negativo, sorologia para Strongyloides e parasitológico de fezes seriado negativos. Biópsia de medula: hipercelular, com eosinófilos maduros abundantes e mastócitos fusiformes dispersos, sem agregados compactos de mastócitos. A etiologia mais provável é:",
   "alternativas": {
    "A": "Granulomatose eosinofílica com poliangeíte",
    "B": "Síndrome hipereosinofílica idiopática",
    "C": "Neoplasia mieloide com FIP1L1::PDGFRA",
-   "D": "Estrongiloidíase"
+   "D": "Mastocitose sistêmica"
   },
   "gabarito": "C",
   "armadilha": "D",
-  "dado_decisivo": "vitamina B12 sérica 2.900 pg/mL (VR 200 a 900), triptase sérica 28 ng/mL",
-  "resolucao": "Eosinofilia acima de 1.500 em paciente de área rural no Brasil leva à estrongiloidíase, e o rótulo pesa porque a doença é endêmica. Mas a eosinofilia persistiu após duas doses de ivermectina, com sorologia e parasitológico negativos, e o quadro tem dados que o raciocínio parasitário não explica: esplenomegalia, vitamina B12 sérica muito elevada (pela transcobalamina dos granulócitos em expansão clonal) e triptase aumentada. Esse trio em homem com hipereosinofilia e lesão de órgão (fibrose endomiocárdica, a doença de Löffler) é a assinatura da neoplasia mieloide com rearranjo FIP1L1::PDGFRA, que se pesquisa por FISH ou PCR no sangue. O diagnóstico importa porque a doença responde de forma dramática a imatinibe em dose baixa, inclusive com estabilização do coração; a síndrome hipereosinofílica idiopática é diagnóstico de exclusão, só depois de afastar o rearranjo.",
+  "dado_decisivo": "mastócitos fusiformes dispersos, sem agregados compactos de mastócitos",
+  "resolucao": "Triptase sérica elevada com mastócitos fusiformes na medula é um rótulo verdadeiro que puxa para mastocitose sistêmica, que também pode cursar com eosinofilia e esplenomegalia. Mas o critério maior da mastocitose são os agregados multifocais compactos de mastócitos na medula, ausentes aqui, e não há lesão cutânea; a triptase de 28 ng/mL é apenas moderada. O conjunto pesa para o outro lado: hipereosinofilia acentuada e persistente em homem, esplenomegalia, vitamina B12 sérica muito alta (pela transcobalamina dos granulócitos em expansão clonal) e lesão de órgão grave (fibrose endomiocárdica com obliteração apical, a endocardite de Löffler). É a assinatura da neoplasia mieloide com rearranjo FIP1L1::PDGFRA, em que a triptase sobe e os mastócitos fusiformes aparecem sem formar agregados; a pesquisa se faz por FISH ou RT-PCR no sangue. O diagnóstico importa porque a doença responde de forma dramática a imatinibe em dose baixa. A síndrome hipereosinofílica idiopática só se aceita depois de afastar o rearranjo, e a EGPA exigiria asma.",
   "comentarios": {
    "A": "Errada. Exigiria asma (quase universal na EGPA), sinusite ou vasculite; não há asma e o ANCA é negativo.",
-   "B": "Errada. É diagnóstico de exclusão; B12 e triptase altas apontam um clone mieloide a pesquisar antes.",
-   "C": "Correta. Hipereosinofilia com esplenomegalia, B12 e triptase elevadas e fibrose endomiocárdica: neoplasia mieloide com FIP1L1::PDGFRA, sensível a imatinibe.",
-   "D": "Errada, é a armadilha. Endêmica e plausível, mas não explica B12 e triptase altas nem esplenomegalia, e não respondeu à ivermectina com sorologia negativa."
+   "B": "Errada. É diagnóstico de exclusão; B12 e triptase altas com esplenomegalia apontam um clone mieloide a pesquisar antes.",
+   "C": "Correta. Hipereosinofilia com esplenomegalia, B12 muito alta, triptase moderada e mastócitos fusiformes sem agregados, com fibrose endomiocárdica: FIP1L1::PDGFRA, sensível a imatinibe.",
+   "D": "Errada, é a armadilha. Seria a resposta com agregados compactos de mastócitos na medula ou lesões cutâneas; triptase moderada e mastócitos dispersos acompanham o rearranjo de PDGFRA."
   },
-  "para_levar": "Hipereosinofilia com esplenomegalia, B12 e triptase altas é neoplasia mieloide até prova em contrário: pesquisar FIP1L1::PDGFRA, porque responde a imatinibe.",
+  "para_levar": "Hipereosinofilia com esplenomegalia, B12 muito alta e triptase moderadamente elevada, sem agregados de mastócitos, é neoplasia mieloide com FIP1L1::PDGFRA até prova em contrário: pesquisar o rearranjo, porque responde a imatinibe.",
   "referencias": "Shomali W, Gotlib J, World Health Organization-defined eosinophilic disorders: 2024 update (Am J Hematol 2024); Classificação OMS de neoplasias hematolinfoides, 5ª edição (2022).",
   "tags": [
    "Síndromes da Medula Óssea (CM)",
-   "Cardiomiopatias Restritivas (CM)"
+   "Cardiomiopatias Restritivas (CM)",
+   "Mastocitose sistêmica (CM)"
   ],
   "sourceQuestionId": "893b5dbd3301606",
-  "alvo": "Eosinofilia errada no banco; reincidente UERJ Löffler/endomiocardiofibrose com ângulo hematológico; dado laboratorial lido como enfeite."
+  "alvo": "Eosinofilia errada no banco; reincidente UERJ Löffler/endomiocardiofibrose com ângulo hematológico; rótulo verdadeiro (triptase alta) puxando o diagnóstico vizinho."
  }
 ]
