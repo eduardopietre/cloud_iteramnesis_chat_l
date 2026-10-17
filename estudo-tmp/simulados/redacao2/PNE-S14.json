@@ -143,7 +143,7 @@
   "arma": "Droga a deduzir",
   "comando": "conduta",
   "nivel": "extremamente difícil",
-  "enunciado": "Homem de 57 anos com psoríase em placas há 20 anos, agora com 30% da superfície corporal acometida e prurido que atrapalha o sono, sem resposta a corticoide tópico e calcipotriol. Usa sacubitril-valsartana, bisoprolol, espironolactona e dapagliflozina, e tem dispneia aos pequenos esforços há 1 ano. Não bebe álcool. Exames: creatinina 1,8 mg/dL (TFGe 42 mL/min/1,73 m²), AST 58 U/L, ALT 64 U/L, plaquetas 140.000/mm³, FIB-4 de 3,1; elastografia hepática de 13 kPa. IGRA negativo; sorologias para hepatites B e C negativas. O tratamento sistêmico mais adequado é:",
+  "enunciado": "Homem de 57 anos com psoríase em placas há 20 anos, agora com 30% da superfície corporal acometida e prurido que atrapalha o sono, sem resposta a corticoide tópico e calcipotriol. Usa sacubitril-valsartana, bisoprolol, espironolactona e dapagliflozina, e tem dispneia aos pequenos esforços há 1 ano. Não bebe álcool. Exames: creatinina 1,8 mg/dL (TFGe 42 mL/min/1,73 m²), AST 58 U/L, ALT 64 U/L, plaquetas 140.000/mm³, FIB-4 de 2,95; elastografia hepática de 13 kPa. IGRA negativo; sorologias para hepatites B e C negativas. O tratamento sistêmico mais adequado é:",
   "alternativas": {
    "A": "Risanquizumabe subcutâneo",
    "B": "Infliximabe intravenoso",
@@ -153,18 +153,18 @@
   "gabarito": "A",
   "armadilha": "D",
   "dado_decisivo": "Usa sacubitril-valsartana, bisoprolol, espironolactona e dapagliflozina, e tem dispneia aos pequenos esforços",
-  "resolucao": "Metotrexato é a droga sistêmica de manual da psoríase moderada a grave, e é a que o apressado marca. Este paciente contraindica as três clássicas e um biológico. O FIB-4 acima de 2,67 com elastografia de 13 kPa indica fibrose avançada (provável doença hepática metabólica), e o metotrexato é hepatotóxico e acumula com TFG de 42. A ciclosporina é nefrotóxica e hipertensiva. A lista de drogas revela o que o enunciado não nomeia: sacubitril-valsartana, betabloqueador, espironolactona e dapagliflozina com dispneia aos pequenos esforços é insuficiência cardíaca de fração reduzida em classe III, que contraindica anti-TNF (pode agravá-la). Sobra o biológico anti-IL-23 (ou anti-IL-17), sem impacto cardíaco, hepático ou renal, com IGRA e sorologias já negativos.",
+  "resolucao": "Metotrexato é a droga sistêmica de manual da psoríase moderada a grave, e é a que o apressado marca. Este paciente contraindica as três drogas sistêmicas convencionais e um biológico. O FIB-4 acima de 2,67 com elastografia de 13 kPa indica fibrose avançada (provável doença hepática metabólica), e o metotrexato é hepatotóxico e acumula com TFG de 42. A ciclosporina é nefrotóxica e hipertensiva. A lista de drogas revela o que o enunciado não nomeia: sacubitril-valsartana, betabloqueador, espironolactona e dapagliflozina com dispneia aos pequenos esforços é insuficiência cardíaca de fração reduzida em classe III, que contraindica anti-TNF (pode agravá-la). Sobra o biológico anti-IL-23 (ou anti-IL-17), sem impacto cardíaco, hepático ou renal, com IGRA e sorologias já negativos.",
   "comentarios": {
    "A": "Correta. Anti-IL-23 não piora insuficiência cardíaca nem fibrose hepática e não exige ajuste renal; triagem infecciosa já feita.",
    "B": "Errada. Seria opção sem insuficiência cardíaca; anti-TNF é contraindicado na IC classe III e IV.",
    "C": "Errada. Útil como ponte curta em quem tem rim e pressão normais; aqui a TFG é 42.",
-   "D": "Errada. Primeira linha sistêmica habitual, mas com fibrose avançada (FIB-4 3,1, elastografia 13 kPa) e TFG de 42 é contraindicado."
+   "D": "Errada. Primeira linha sistêmica habitual, mas com fibrose avançada (FIB-4 2,95, elastografia 13 kPa) e TFG de 42 é contraindicado."
   },
   "para_levar": "Antes de escolher o sistêmico da psoríase, leia a lista de drogas e o fígado: fibrose avançada afasta metotrexato, DRC afasta ciclosporina e metotrexato, IC classe III ou IV afasta anti-TNF.",
   "referencias": "AAD-NPF Guidelines of care for psoriasis with systemic nonbiologic therapies (2020) e with biologics (2019); Consenso Brasileiro de Psoríase, SBD (2020); AASLD Guidance on MASLD (2023).",
   "tags": [
    "Psoríase (CM)",
-   "Farmacodermias (CM)"
+   "Dermatologia (CM)"
   ],
   "sourceQuestionId": "a97a3c950dc484b",
   "alvo": "Droga a deduzir e conduta de manual contraindicada pela comorbidade; FIB-4 (regra fixada) com ângulo novo."

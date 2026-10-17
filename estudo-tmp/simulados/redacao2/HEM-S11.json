@@ -1,0 +1,205 @@
+[
+ {
+  "id": "S11-HEM-01",
+  "simulado": 11,
+  "area": "Hematologia",
+  "titulo": "Transfusão maciça com choque persistente e QT longo: hipocalcemia pelo citrato, e não falta de plasma",
+  "arma": "Negativo no meio",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Homem de 58 anos, etilista, com hemorragia digestiva alta por úlcera duodenal, chega em choque. Nas primeiras 3 horas recebe, pelo protocolo de transfusão maciça, 10 unidades de concentrado de hemácias, 8 de plasma fresco congelado e 1 dose de plaquetas, além de pantoprazol, e aguarda a endoscopia. Apesar disso, mantém PA 82 x 48 mmHg e FC 118 bpm, com noradrenalina em dose crescente, extremidades frias e QTc de 520 ms no monitor. Não há saída de sangue pela sonda nasogástrica nos últimos 40 minutos. Exames colhidos agora: Hb 8,9 g/dL, plaquetas 92.000/mm³, INR 1,4, fibrinogênio 190 mg/dL, lactato 4,1 mmol/L, potássio 4,6 mEq/L, cálcio iônico 0,78 mmol/L (VR 1,12 a 1,32), temperatura 35,4 °C. Além do aquecimento ativo, a medida mais adequada neste momento é:",
+  "alternativas": {
+   "A": "Crioprecipitado, 10 unidades",
+   "B": "Nova unidade de concentrado de hemácias",
+   "C": "Cloreto de cálcio intravenoso",
+   "D": "Mais 4 unidades de plasma"
+  },
+  "gabarito": "C",
+  "armadilha": "D",
+  "dado_decisivo": "cálcio iônico 0,78 mmol/L (VR 1,12 a 1,32)",
+  "resolucao": "Choque que não melhora durante transfusão maciça puxa para a ideia de que falta hemocomponente, e o INR de 1,4 parece pedir mais plasma. Mas os negativos no meio do caso dizem outra coisa: não há sangramento ativo pela sonda, a Hb está em 8,9, o fibrinogênio está acima de 150 e as plaquetas acima de 50.000, ou seja, as metas hemostáticas foram atingidas. O que sobra é o cálcio iônico de 0,78: cada unidade de hemácia e, sobretudo, de plasma traz citrato, que quela o cálcio, e o fígado do etilista em choque metaboliza mal o citrato. A hipocalcemia ionizada deprime a contratilidade, causa vasoplegia refratária à noradrenalina, alarga o QT e ainda prejudica a coagulação, porque o cálcio é cofator de várias etapas da cascata. A correção é cloreto de cálcio intravenoso (ou gluconato, em dose três vezes maior), com meta de cálcio iônico acima de 1,1 mmol/L e dosagens seriadas. Junto com a acidose e a hipotermia, a hipocalcemia completa o chamado diamante letal do sangramento.",
+  "comentarios": {
+   "A": "Errada. Crioprecipitado se dá com fibrinogênio abaixo de 150 mg/dL na hemorragia ativa; aqui está em 190 e não há sangramento visível.",
+   "B": "Errada. A Hb de 8,9 g/dL sem sangramento ativo já está acima da meta de 7 a 9; mais hemácia traria mais citrato.",
+   "C": "Correta. Cálcio iônico de 0,78 mmol/L com choque refratário e QT longo durante transfusão maciça: cloreto de cálcio intravenoso, com meta acima de 1,1.",
+   "D": "Errada, é a armadilha. INR de 1,4 sem sangramento não pede plasma, e o plasma é o hemocomponente que mais carrega citrato: pioraria a hipocalcemia."
+  },
+  "para_levar": "Na transfusão maciça, medir o cálcio iônico a cada poucas unidades e repor com cálcio intravenoso para mantê-lo acima de 1,1 mmol/L: hipocalcemia pelo citrato causa choque refratário, QT longo e coagulopatia.",
+  "referencias": "European guideline on management of major bleeding and coagulopathy following trauma, 6ª edição (Rossaint et al., Crit Care 2023); Associação Brasileira de Hematologia, Hemoterapia e Terapia Celular, diretrizes de transfusão maciça (2022).",
+  "tags": [
+   "Hemoterapia (CM)",
+   "Hipocalcemias (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Hemoterapia (0 de 4 no app) e o hábito de fazer mais do mesmo: o exame que decide (cálcio iônico) lido como enfeite."
+ },
+ {
+  "id": "S11-HEM-02",
+  "simulado": 11,
+  "area": "Hematologia",
+  "titulo": "Medula hipocelular com micromegacariócitos e monossomia do 7: síndrome mielodisplásica hipocelular, e não anemia aplástica",
+  "arma": "Grade X / Y",
+  "comando": "diagnóstico",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 64 anos, com astenia há 4 meses e duas internações por pneumonia no período. Nega etilismo, quimioterapia, radioterapia ou exposição a solventes, e não usa medicamentos. Exame físico com palidez, sem esplenomegalia ou linfonodomegalias. Hemograma: Hb 7,8 g/dL, VCM 109 fL, reticulócitos 0,4%, leucócitos 2.100/mm³ (neutrófilos 700/mm³), plaquetas 34.000/mm³. Vitamina B12, folato, cobre, TSH e função hepática normais; sorologias para HIV e hepatites virais negativas. Biópsia de medula: celularidade de 15%, com micromegacariócitos e megacariócitos hipolobulados em meio ao estroma gorduroso, blastos 3%, sem fibrose. Citometria de fluxo do sangue periférico: clone HPN de 1,5% nos granulócitos. Cariótipo da medula: 45,XY,-7 em 12 de 20 metáfases. O diagnóstico e o achado que o sustenta são, respectivamente:",
+  "alternativas": {
+   "A": "Anemia aplástica / clone HPN",
+   "B": "Síndrome mielodisplásica hipocelular / monossomia do 7",
+   "C": "Síndrome mielodisplásica hipocelular / clone HPN",
+   "D": "Anemia aplástica / monossomia do 7"
+  },
+  "gabarito": "B",
+  "armadilha": "A",
+  "dado_decisivo": "45,XY,-7 em 12 de 20 metáfases",
+  "resolucao": "Pancitopenia com medula de 15% de celularidade evoca anemia aplástica, e o clone HPN pequeno parece confirmá-la, porque aparece em até metade dos casos de aplasia. Mas a medula hipocelular é comum às duas doenças, e o clone HPN, embora mais frequente na aplasia, também ocorre na síndrome mielodisplásica (SMD): ele não separa. O que separa é a displasia megacariocítica (micromegacariócitos e formas hipolobuladas não fazem parte da aplasia, em que megacariócitos quase desaparecem) e, sobretudo, a monossomia do 7, alteração citogenética definidora de neoplasia mieloide, associada a evolução para leucemia e a má resposta à imunossupressão. O diagnóstico é SMD hipocelular, cujo tratamento e prognóstico diferem: a imunossupressão com ATG e ciclosporina não é a via principal com monossomia do 7, e o transplante alogênico deve ser discutido cedo. A macrocitose também combina mais com SMD, embora apareça na aplasia.",
+  "comentarios": {
+   "A": "Errada, é a armadilha. Clone HPN pequeno favorece aplasia, mas não exclui SMD; com displasia de megacariócitos e -7, o diagnóstico muda.",
+   "B": "Correta. Medula hipocelular com micromegacariócitos e monossomia do 7 em metade das metáfases: SMD hipocelular.",
+   "C": "Errada. O diagnóstico está certo, mas o clone HPN não é o que sustenta SMD; é achado inespecífico entre as duas.",
+   "D": "Errada. Monossomia do 7 é critério de neoplasia mieloide; não convive com o rótulo de anemia aplástica."
+  },
+  "para_levar": "Medula hipocelular não é sinônimo de anemia aplástica: displasia megacariocítica e citogenética anormal (monossomia do 7, del(7q)) definem SMD hipocelular; clone HPN pequeno não decide.",
+  "referencias": "Classificação OMS de neoplasias hematolinfoides, 5ª edição (2022); British Society for Haematology, Guidelines for the diagnosis and management of adult aplastic anaemia (2024 update).",
+  "tags": [
+   "Síndrome Mielodisplásica (CM)",
+   "Anemia Aplástica (CM)"
+  ],
+  "sourceQuestionId": "73f7dcd274af5c4",
+  "alvo": "SMD errada no banco (3 erros); rótulo verdadeiro (medula hipocelular e clone HPN) puxando a doença de manual."
+ },
+ {
+  "id": "S11-HEM-03",
+  "simulado": 11,
+  "area": "Hematologia",
+  "titulo": "Linfocitose persistente em idoso atribuída a quadro gripal recente: imunofenotipagem do sangue periférico, sem medula nem tomografia",
+  "arma": "Cronologia",
+  "comando": "próximo exame",
+  "nivel": "difícil",
+  "enunciado": "Homem de 71 anos, assintomático, traz hemograma de rotina: Hb 13,6 g/dL, leucócitos 21.400/mm³, linfócitos 17.600/mm³, neutrófilos 3.300/mm³, plaquetas 182.000/mm³. O clínico atribuiu a linfocitose a um quadro gripal de 1 mês atrás. Hemograma de 5 meses atrás, feito para cirurgia de catarata, mostrava leucócitos 16.900/mm³ e linfócitos 12.800/mm³. Nega febre, sudorese noturna ou perda de peso. Exame físico sem linfonodomegalias palpáveis, sem hepatomegalia ou esplenomegalia. Esfregaço: linfócitos pequenos, de cromatina condensada, com numerosas células esmagadas. LDH e função renal normais. O próximo exame mais adequado é:",
+  "alternativas": {
+   "A": "Imunofenotipagem do sangue periférico",
+   "B": "Repetir hemograma em 4 semanas",
+   "C": "Biópsia de medula óssea",
+   "D": "TC de tórax, abdome e pelve"
+  },
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "Hemograma de 5 meses atrás",
+  "resolucao": "O quadro gripal recente é verdadeiro e oferece a explicação confortável de linfocitose reacional, o que levaria a repetir o hemograma. Mas a cronologia derruba essa leitura: a linfocitose já existia 5 meses antes da virose e vem subindo, e linfocitose reacional é transitória e de linfócitos ativados, não de linfócitos pequenos maduros com células esmagadas (sombras de Gumprecht). Linfocitose B persistente acima de 5.000/mm³ em idoso é leucemia linfocítica crônica (LLC) até prova em contrário, e o diagnóstico se faz no sangue, com imunofenotipagem por citometria de fluxo (CD5, CD19, CD20 fraco, CD23, cadeia leve restrita). Mielograma, biópsia de medula e tomografia não são necessários para diagnosticar nem para estadiar a LLC assintomática (Rai e Binet são clínicos), e só entram em situações específicas, como citopenia de causa incerta antes de tratar.",
+  "comentarios": {
+   "A": "Correta. Linfocitose persistente e crescente de linfócitos maduros em idoso: a citometria de fluxo do sangue confirma clonalidade e fenótipo de LLC.",
+   "B": "Errada, é a armadilha. Seria razoável numa linfocitose nova após virose; aqui ela antecede a virose em 5 meses.",
+   "C": "Errada. Medula não é necessária para o diagnóstico da LLC; reserva-se para citopenia sem causa clara ou antes de tratar em casos selecionados.",
+   "D": "Errada. O estadiamento da LLC é clínico (Rai e Binet); tomografia não está indicada no assintomático sem sinais de transformação."
+  },
+  "para_levar": "Linfocitose persistente de linfócitos maduros no adulto: imunofenotipagem do sangue periférico é o exame que diagnostica LLC; medula e tomografia não fazem parte do diagnóstico nem do estadiamento.",
+  "referencias": "iwCLL guidelines for diagnosis, indications for treatment, response assessment, and supportive management of CLL (Hallek et al., Blood 2018); ESMO Clinical Practice Guideline CLL (2024).",
+  "tags": [
+   "Leucemias (CM)",
+   "Avaliação Global do Hemograma (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Padrão dominante: o exame do degrau seguinte (medula, imagem) quando o simples decide; cronologia lida como enfeite."
+ },
+ {
+  "id": "S11-HEM-04",
+  "simulado": 11,
+  "area": "Hematologia",
+  "titulo": "Febre em pessoa com HPN em uso de eculizumabe, mesmo vacinada: ceftriaxona imediata pelo risco meningocócico",
+  "arma": "Rótulo verdadeiro",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 29 anos, com hemoglobinúria paroxística noturna, recebe eculizumabe a cada 14 dias há 2 anos. Recebeu as vacinas meningocócicas ACWY e B antes do início do tratamento, com reforços em dia. Procura o pronto-socorro 6 horas após o início de febre de 38,9 °C, calafrios e mialgia intensa nas pernas. PA 104 x 62 mmHg, FC 112 bpm, FR 20 irpm, sem rigidez de nuca, sem petéquias, sem foco infeccioso aparente. Leucócitos 14.800/mm³ com desvio à esquerda, Hb 10,1 g/dL (estável), urina sem hemoglobinúria. Teste rápido para influenza negativo. A conduta mais adequada é:",
+  "alternativas": {
+   "A": "Antecipar a dose de eculizumabe",
+   "B": "Hemoculturas e aguardar resultado",
+   "C": "Sintomáticos e reavaliação em 24 h",
+   "D": "Hemoculturas e ceftriaxona imediata"
+  },
+  "gabarito": "D",
+  "armadilha": "C",
+  "dado_decisivo": "recebe eculizumabe a cada 14 dias há 2 anos",
+  "resolucao": "A vacinação completa é verdadeira e tranquiliza: com vacinas em dia e sem petéquias ou rigidez de nuca, parece um quadro viral a observar. Mas o inibidor do complemento terminal (C5) bloqueia o complexo de ataque à membrana, a defesa essencial contra Neisseria, e o risco de doença meningocócica continua centenas a milhares de vezes maior que o da população, porque as vacinas protegem de forma incompleta sem complemento funcional e não cobrem todos os sorogrupos. Febre com calafrios, taquicardia, mialgia intensa nas pernas e leucocitose são sinais iniciais de meningococcemia, antes das petéquias. A conduta é colher hemoculturas e dar ceftriaxona sem esperar, e os pacientes em uso de inibidor de C5 devem levar consigo um cartão de alerta e, em muitos serviços, antibiótico para iniciar ao primeiro sinal de febre. Antecipar a dose do eculizumabe trataria hemólise de escape, que não existe aqui.",
+  "comentarios": {
+   "A": "Errada. Antecipar a dose seria a conduta na hemólise de escape (Hb caindo, hemoglobinúria); aqui a Hb está estável e o problema é infeccioso.",
+   "B": "Errada. Colher hemoculturas está certo, mas esperar o resultado na suspeita de meningococcemia num paciente sem complemento terminal custa horas que definem a sobrevida.",
+   "C": "Errada, é a armadilha. Seria aceitável num imunocompetente com síndrome gripal; a vacina não protege totalmente quem usa inibidor de C5.",
+   "D": "Correta. Febre em uso de eculizumabe é emergência: hemoculturas e ceftriaxona imediata, mesmo vacinado."
+  },
+  "para_levar": "Quem usa inibidor de C5 (eculizumabe, ravulizumabe) e tem febre recebe antibiótico com cobertura para meningococo imediatamente, mesmo com vacinação completa.",
+  "referencias": "Ministério da Saúde, PCDT da Hemoglobinúria Paroxística Noturna (2023); CDC, Meningococcal disease in patients receiving complement inhibitors (MMWR 2017, atualizado 2024).",
+  "tags": [
+   "Hemoglobinúria Paroxística Noturna (HPN) (CM)",
+   "Meningite Bacteriana (CM)"
+  ],
+  "sourceQuestionId": "6044193a71c069c",
+  "alvo": "HPN errada no banco e imunologia (0 de 3): rótulo verdadeiro (vacinada) que faz subestimar o risco."
+ },
+ {
+  "id": "S11-HEM-05",
+  "simulado": 11,
+  "area": "Hematologia",
+  "titulo": "Massa ileocecal em jovem sem HIV com Ki-67 de 99% e BCL2 negativo: linfoma de Burkitt e o rearranjo de MYC",
+  "arma": "Negativo no meio",
+  "comando": "achado esperado",
+  "nivel": "difícil",
+  "enunciado": "Homem de 31 anos, HIV negativo, sem comorbidades, procura atendimento por dor em fossa ilíaca direita e aumento do volume abdominal há 3 semanas. TC de abdome: massa ileocecal de 11 cm, com ascite moderada. Exames: LDH 2.900 U/L, ácido úrico 9,8 mg/dL, creatinina 1,3 mg/dL, potássio 5,1 mEq/L. Biópsia da massa: infiltração difusa por células de tamanho médio e monomórficas, com numerosos macrófagos de citoplasma claro entremeados. Imuno-histoquímica: CD20+, CD10+, BCL6+, BCL2 negativo, TdT negativo, Ki-67 de 99%. A alteração genética esperada neste tumor é:",
+  "alternativas": {
+   "A": "Rearranjo de MYC, t(8;14)",
+   "B": "Rearranjo de BCL2, t(14;18)",
+   "C": "Rearranjo de CCND1, t(11;14)",
+   "D": "Fusão BCR-ABL1, t(9;22)"
+  },
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "BCL2 negativo",
+  "resolucao": "Massa abdominal volumosa de células B CD20+ e CD10+ com LDH alta puxa para linfoma difuso de grandes células B, e daí para a t(14;18) do BCL2, que muitos associam a linfoma B de centro germinativo. Mas o painel traz o negativo que decide: BCL2 negativo, com células médias monomórficas, macrófagos de corpos tingíveis (o aspecto em céu estrelado) e Ki-67 próximo de 100%. Esse conjunto é do linfoma de Burkitt, cuja lesão definidora é a translocação de MYC, em geral t(8;14) com o locus da cadeia pesada (ou as variantes t(2;8) e t(8;22)). A forma esporádica, fora do HIV, acomete jovens com massa ileocecal e tem altíssimo risco de lise tumoral, já sugerido pelo ácido úrico e pelo potássio. TdT negativo afasta linfoma linfoblástico, e BCR-ABL1 é próprio de LMC e de parte das LLA.",
+  "comentarios": {
+   "A": "Correta. Células médias, céu estrelado, CD10+, BCL2 negativo e Ki-67 de 99%: linfoma de Burkitt, com rearranjo de MYC.",
+   "B": "Errada, é a armadilha. A t(14;18) é do linfoma folicular e de parte dos difusos de grandes células, que expressam BCL2; aqui o BCL2 é negativo.",
+   "C": "Errada. A t(11;14) com ciclina D1 define o linfoma do manto, CD5+ e CD10 negativo.",
+   "D": "Errada. BCR-ABL1 é da LMC e da LLA Ph+, com blastos TdT+; aqui o TdT é negativo."
+  },
+  "para_levar": "Linfoma B CD10+ com BCL2 negativo, céu estrelado e Ki-67 perto de 100% é Burkitt: rearranjo de MYC, risco máximo de lise tumoral, inclusive fora do HIV.",
+  "referencias": "Classificação OMS de neoplasias hematolinfoides, 5ª edição (2022); NCCN Guidelines B-cell Lymphomas (2025).",
+  "tags": [
+   "Linfomas (CM)"
+  ],
+  "sourceQuestionId": "c2ffb56757c1a7d",
+  "alvo": "Linfoma por subtipo (tema UERJ que ele erra); o negativo do painel lido como enfeite."
+ },
+ {
+  "id": "S11-HEM-06",
+  "simulado": 11,
+  "area": "Hematologia",
+  "titulo": "Ácido tranexâmico na hemorragia digestiva alta: sem benefício em mortalidade e com mais trombose venosa",
+  "arma": "Omissão",
+  "comando": "fato solto",
+  "nivel": "média",
+  "enunciado": "Na hemorragia digestiva alta aguda do adulto, segundo o maior ensaio clínico randomizado sobre o tema, o ácido tranexâmico intravenoso em dose alta:",
+  "alternativas": {
+   "A": "Deve ser dado antes da endoscopia",
+   "B": "Não reduz mortalidade e aumenta trombose",
+   "C": "Está indicado só na hemorragia varicosa",
+   "D": "Está indicado se a endoscopia atrasar"
+  },
+  "gabarito": "B",
+  "armadilha": "A",
+  "dado_decisivo": "segundo o maior ensaio clínico randomizado sobre o tema",
+  "resolucao": "O benefício do ácido tranexâmico no trauma (até 3 horas) e na hemorragia pós-parto faz pensar que todo sangramento grave se beneficia dele, inclusive o digestivo, o que levaria a dá-lo na admissão. O estudo HALT-IT, com cerca de 12.000 pacientes com hemorragia digestiva, mostrou o contrário: nenhuma redução de mortalidade por sangramento, nem de ressangramento, e aumento de eventos tromboembólicos venosos e de convulsões com a dose alta. Não houve benefício em subgrupos, inclusive varicosos e com sangramento há menos de 3 horas. Por isso as diretrizes recomendam não usar ácido tranexâmico intravenoso na hemorragia digestiva alta, e a conduta continua sendo ressuscitação, inibidor de bomba ou vasoativo conforme a causa, e endoscopia em até 24 horas.",
+  "comentarios": {
+   "A": "Errada, é a armadilha. Transposição do trauma e da hemorragia pós-parto, em que o fármaco reduz mortalidade se dado cedo; no sangramento digestivo, não.",
+   "B": "Correta. O HALT-IT não mostrou redução de mortalidade e mostrou mais trombose venosa e convulsões.",
+   "C": "Errada. No subgrupo de hepatopatas e varicosos também não houve benefício, e o risco trombótico se manteve.",
+   "D": "Errada. O atraso da endoscopia não cria indicação; o tratamento é ressuscitação e endoscopia precoce."
+  },
+  "para_levar": "Ácido tranexâmico funciona no trauma e na hemorragia pós-parto quando dado cedo, mas não na hemorragia digestiva: lá não reduz mortalidade e aumenta trombose venosa.",
+  "referencias": "HALT-IT Trial Collaborators, Lancet 2020; ESGE Guideline on non-variceal upper GI hemorrhage (2021); ACG Guideline upper GI and ulcer bleeding (2021).",
+  "tags": [
+   "Hemoterapia (CM)",
+   "Distúrbios de Hemostasia (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Padrão de fazer mais do que o caso pede (tratar o que não precisa); omissão como resposta."
+ }
+]

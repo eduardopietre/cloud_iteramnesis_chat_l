@@ -1,0 +1,204 @@
+[
+ {
+  "id": "S13-HEM-01",
+  "simulado": 13,
+  "area": "Hematologia",
+  "titulo": "Exantema após amoxicilina com eosinofilia, Coombs positivo e linfonodos que persistem: linfoma T angioimunoblástico, e não DRESS",
+  "arma": "Rótulo verdadeiro",
+  "comando": "diagnóstico",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 68 anos é internado por febre, exantema maculopapular pruriginoso difuso e edema facial, iniciados 9 dias após amoxicilina para sinusite. Há 2 meses já referia sudorese noturna e perda de 6 kg. Exame: linfonodomegalias cervicais, axilares e inguinais de 2 a 3 cm, hepatoesplenomegalia e pequeno derrame pleural bilateral. Exames: Hb 9,4 g/dL, Coombs direto positivo, eosinófilos 1.600/mm³, plaquetas 140.000/mm³, LDH 620 U/L, gamaglobulina policlonal de 3,1 g/dL, AST, ALT e creatinina normais. Suspensa a amoxicilina e iniciada prednisona, o exantema melhorou em 1 semana, mas os linfonodos persistiam após 4 semanas. Biópsia excisional de linfonodo axilar: apagamento da arquitetura, proliferação de vênulas de endotélio alto, expansão da rede de células dendríticas foliculares, células T atípicas CD4+, PD-1+, CD10+ e CXCL13+, e imunoblastos B esparsos EBV positivos. O diagnóstico mais provável é:",
+  "alternativas": {
+   "A": "DRESS pela amoxicilina",
+   "B": "Doença de Castleman multicêntrica",
+   "C": "Linfoma T angioimunoblástico",
+   "D": "Linfoma de Hodgkin clássico"
+  },
+  "gabarito": "C",
+  "armadilha": "A",
+  "dado_decisivo": "Há 2 meses já referia sudorese noturna e perda de 6 kg",
+  "resolucao": "Exantema com edema facial, eosinofilia, febre e linfonodomegalia 9 dias depois de um antibiótico é o retrato da DRESS, e o rótulo é verdadeiro: houve exposição e o exantema melhorou com corticoide. Mas os sintomas B começaram 2 meses antes da amoxicilina, a função hepática está normal, e os linfonodos não regrediram com a retirada da droga e o corticoide. Esse conjunto (exantema, sobretudo após antibiótico, linfonodomegalia generalizada, hipergamaglobulinemia policlonal, Coombs positivo, eosinofilia, derrames) é o modo de apresentação do linfoma T angioimunoblástico, linfoma de células T auxiliares foliculares do idoso. A biópsia confirma: vênulas de endotélio alto, rede de dendríticas foliculares expandida, células T com marcadores foliculares (PD-1, CXCL13, CD10) e imunoblastos B EBV positivos, que são passageiros, não a neoplasia. Castleman multicêntrica não tem células T clonais com fenótipo folicular, e no Hodgkin o EBV está nas células de Reed-Sternberg, CD30 e CD15 positivas.",
+  "comentarios": {
+   "A": "Errada, é a armadilha. A DRESS explica o exantema e a eosinofilia, mas não sintomas B prévios à droga nem linfonodos que persistem semanas após suspendê-la e com corticoide.",
+   "B": "Errada. Castleman multicêntrica também tem hipergamaglobulinemia e vasos proeminentes, mas não células T atípicas com fenótipo folicular (PD-1, CXCL13).",
+   "C": "Correta. Idoso com sintomas B, linfonodomegalia, Coombs positivo, hipergamaglobulinemia e biópsia com células T PD-1+ e CXCL13+: linfoma T angioimunoblástico.",
+   "D": "Errada. No Hodgkin, as células neoplásicas são as de Reed-Sternberg, CD30 e CD15 positivas, não células T CD4+ foliculares."
+  },
+  "para_levar": "Linfonodomegalia generalizada com exantema após droga, Coombs positivo e hipergamaglobulinemia policlonal no idoso: se os linfonodos não regridem, biopsiar, porque o linfoma T angioimunoblástico imita DRESS.",
+  "referencias": "Classificação OMS de neoplasias hematolinfoides, 5ª edição (2022); NCCN Guidelines T-cell Lymphomas (2025).",
+  "tags": [
+   "Linfomas (CM)",
+   "DRESS (CM)"
+  ],
+  "sourceQuestionId": "eda106c4fb54f47",
+  "alvo": "Linfoma por subtipo e farmacodermias (0 de 3 no app): rótulo verdadeiro (droga recente) que puxa a doença errada."
+ },
+ {
+  "id": "S13-HEM-02",
+  "simulado": 13,
+  "area": "Hematologia",
+  "titulo": "Amiloidose AL cardíaca em estágio avançado: daratumumabe com ciclofosfamida, bortezomibe e dexametasona, sem transplante e sem tafamidis",
+  "arma": "Qualificador",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 63 anos, com dispneia aos pequenos esforços e edema de membros inferiores há 5 meses, macroglossia e púrpura periorbitária. Ecocardiograma: hipertrofia concêntrica de 15 mm, FE de 50%, strain longitudinal com preservação apical. ECG com baixa voltagem. NT-proBNP 9.400 pg/mL, troponina T 0,09 ng/mL, cadeias leves livres lambda 380 mg/L e kappa 11 mg/L. Aspirado de gordura abdominal com vermelho Congo positivo; tipagem por espectrometria de massa: cadeia leve lambda. Medula com 8% de plasmócitos clonais. Creatinina 1,1 mg/dL. PA 96 x 62 mmHg, FC 88 bpm. O tratamento inicial mais adequado é:",
+  "alternativas": {
+   "A": "Tafamidis 61 mg ao dia",
+   "B": "Melfalano em alta dose com autotransplante",
+   "C": "Transplante cardíaco isolado",
+   "D": "Daratumumabe, ciclofosfamida, bortezomibe e dexametasona"
+  },
+  "gabarito": "D",
+  "armadilha": "A",
+  "dado_decisivo": "tipagem por espectrometria de massa: cadeia leve lambda",
+  "resolucao": "Cardiomiopatia infiltrativa com preservação apical do strain e baixa voltagem leva direto à amiloidose cardíaca, e o tafamidis, droga mais conhecida para ela, atrai. Mas o tafamidis estabiliza a transtirretina e só serve à amiloidose ATTR; aqui a tipagem mostrou cadeia leve lambda, com clone plasmocitário e razão de cadeias leves muito alterada: é amiloidose AL. O tratamento é dirigido ao clone, e o esquema inicial de escolha é daratumumabe com ciclofosfamida, bortezomibe e dexametasona (estudo ANDROMEDA), que produz respostas hematológicas mais rápidas e profundas, o que define a sobrevida no acometimento cardíaco. O autotransplante com melfalano em alta dose não é opção inicial aqui: NT-proBNP acima de 5.000 pg/mL, troponina T elevada e pressão sistólica baixa indicam estágio cardíaco avançado (Mayo III), com mortalidade proibitiva no procedimento. O transplante cardíaco isolado, sem controle do clone, é seguido de deposição no enxerto.",
+  "comentarios": {
+   "A": "Errada, é a armadilha. Tafamidis é para amiloidose por transtirretina; não age sobre cadeias leves.",
+   "B": "Errada. O autotransplante exige estágio cardíaco precoce; NT-proBNP de 9.400, troponina alta e PA sistólica de 96 contraindicam.",
+   "C": "Errada. Sem controle do clone, a amiloide se deposita no novo coração; só se discute em casos selecionados, após resposta hematológica.",
+   "D": "Correta. Amiloidose AL com acometimento cardíaco avançado: Dara-CyBorD como tratamento inicial, com dexametasona em dose ajustada."
+  },
+  "para_levar": "Amiloidose cardíaca se trata pelo tipo: AL (cadeia leve) com quimioimunoterapia dirigida ao clone (Dara-CyBorD); tafamidis é só para ATTR; NT-proBNP e troponina definem o estágio e afastam o autotransplante.",
+  "referencias": "Kastritis E et al., ANDROMEDA (N Engl J Med 2021); ISA/IMWG Guidelines for AL amyloidosis (2024); Diretriz da SBC sobre Diagnóstico e Tratamento da Amiloidose Cardíaca (2021).",
+  "tags": [
+   "Amiloidose (CM)",
+   "Amiloidose cardíaca (CM)"
+  ],
+  "sourceQuestionId": "ea183185b59f3ad",
+  "alvo": "Amiloidose (tema UERJ que ele erra, 2 erros no banco); o rótulo forte (amiloidose cardíaca) leva à droga de outro subtipo."
+ },
+ {
+  "id": "S13-HEM-03",
+  "simulado": 13,
+  "area": "Hematologia",
+  "titulo": "Necrose digital com sinais de hiperviscosidade, pico IgM monoclonal, C4 normal e fator reumatoide negativo: crioglobulinemia tipo I",
+  "arma": "Negativo no meio",
+  "comando": "etiologia",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 71 anos procura atendimento por dor e cianose nas pontas dos dedos das mãos e nas orelhas, com piora no frio, há 1 mês, e necrose em duas polpas digitais. Refere episódios de turvação visual e cefaleia. Exame: livedo reticular nas coxas, necrose de duas polpas digitais com pulsos periféricos presentes; fundo de olho com veias tortuosas e dilatadas em salsicha. Exames: Hb 11,1 g/dL, reticulócitos, LDH e bilirrubinas normais, Coombs direto negativo, creatinina 1,0 mg/dL, urina sem hematúria, VHS 110 mm/h, C3 e C4 normais, fator reumatoide negativo, anti-HCV e HBsAg negativos, FAN e ANCA negativos. Eletroforese de proteínas com pico monoclonal de 3,2 g/dL, IgM kappa. Crioprecipitado presente no soro, com criócrito de 9%. A etiologia mais provável das lesões cutâneas é:",
+  "alternativas": {
+   "A": "Crioglobulinemia mista pela hepatite C",
+   "B": "Crioglobulinemia tipo I por gamopatia IgM",
+   "C": "Doença das aglutininas frias",
+   "D": "Embolia de colesterol"
+  },
+  "gabarito": "B",
+  "armadilha": "C",
+  "dado_decisivo": "C3 e C4 normais, fator reumatoide negativo",
+  "resolucao": "IgM kappa monoclonal com acrocianose ao frio é também o perfil da doença das aglutininas frias, e o reflexo é pensar nela. Mas a doença das aglutininas frias é hemolítica: teria reticulocitose, LDH e bilirrubina elevadas e Coombs positivo para C3d, e aqui estão normais. A crioglobulinemia mista (tipo II, geralmente pelo HCV) é vasculite por imunocomplexo, com fator reumatoide positivo (a IgM monoclonal tem atividade de FR) e consumo de C4, além de púrpura e glomerulonefrite; os negativos do meio do caso afastam essa via. O que sobra é a crioglobulinemia tipo I: imunoglobulina monoclonal isolada que precipita no frio e oclui pequenos vasos, causando necrose acral, livedo e hiperviscosidade (veias retinianas em salsicha), associada a Waldenström, mieloma ou gamopatia monoclonal. O tratamento é dirigido ao clone, com plasmaférese nos casos graves, e não antiviral.",
+  "comentarios": {
+   "A": "Errada. A forma mista tem FR positivo, C4 consumido e, em geral, HCV; aqui os três estão ausentes.",
+   "B": "Correta. IgM monoclonal crioprecipitável com necrose acral, hiperviscosidade, complemento normal e FR negativo: crioglobulinemia tipo I.",
+   "C": "Errada, é a armadilha. Daria hemólise (LDH, bilirrubina, reticulócitos) e Coombs C3d positivo; não há hemólise.",
+   "D": "Errada. Ateroembolismo ocorre após cateterismo ou anticoagulação, com eosinofilia e lesão renal, e não explica a crioglobulina."
+  },
+  "para_levar": "Crioglobulina com gamopatia monoclonal, sem FR, sem consumo de C4 e sem HCV é tipo I: oclusão e hiperviscosidade, não vasculite, e se trata o clone.",
+  "referencias": "Muchtar E et al., How I treat cryoglobulinemia (Blood 2017); Terrier B et al., French Cryoglobulinemia Study Group (Blood 2013).",
+  "tags": [
+   "Crioglobulinemia (CM)",
+   "Macroglobulinemia de Waldenstrom (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Complemento e FR lidos como enfeite; crioglobulinemia pelo lado hematológico."
+ },
+ {
+  "id": "S13-HEM-04",
+  "simulado": 13,
+  "area": "Hematologia",
+  "titulo": "TVP iliofemoral esquerda recorrente na mesma perna com trombofilias negativas: imagem pélvica para compressão da veia ilíaca (May-Thurner)",
+  "arma": "Cronologia",
+  "comando": "próximo exame",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 27 anos, sem comorbidades, teve trombose venosa profunda iliofemoral esquerda há 14 meses, em uso de anticoncepcional oral combinado. Foi anticoagulada com rivaroxabana por 6 meses e o anticoncepcional foi suspenso definitivamente. Pesquisa de trombofilia hereditária e de anticorpos antifosfolípide, feita fora da anticoagulação, foi negativa. Há 5 dias, 8 meses após suspender a rivaroxabana, nova trombose proximal na mesma perna esquerda, que se estende desde a veia ilíaca comum, sem cirurgia, viagem ou imobilização. Hemograma, função renal e hepática e exame ginecológico normais. Já reiniciou anticoagulação. Além de manter a anticoagulação, o próximo exame mais adequado é:",
+  "alternativas": {
+   "A": "Pesquisa da mutação JAK2 V617F",
+   "B": "Venografia por TC do abdome e da pelve",
+   "C": "Marcadores tumorais séricos",
+   "D": "Repetir pesquisa de trombofilia hereditária"
+  },
+  "gabarito": "B",
+  "armadilha": "D",
+  "dado_decisivo": "na mesma perna esquerda, que se estende desde a veia ilíaca comum",
+  "resolucao": "Trombose recorrente em mulher jovem faz pensar em trombofilia que escapou, e o reflexo é repetir a pesquisa. Mas a pesquisa já foi feita da forma correta (fora da anticoagulação), e repeti-la agora, em vigência de anticoagulante e logo após a trombose, só produz resultados falsos. A cronologia e o lado contam a história: duas tromboses iliofemorais, sempre à esquerda, com recorrência após suspender o anticoagulante. A síndrome de May-Thurner (compressão da veia ilíaca comum esquerda entre a artéria ilíaca comum direita e a coluna) predomina em mulheres jovens e se manifesta assim. O exame indicado é imagem da veia ilíaca: venografia por TC ou RM, ou ultrassonografia intravascular, que mostra a compressão e orienta a discussão de recanalização com stent em centro especializado. JAK2 se pesquisa em trombose de sítio incomum (esplâncnico, cerebral) ou com hemograma alterado, e marcadores tumorais não fazem parte do rastreio de neoplasia oculta.",
+  "comentarios": {
+   "A": "Errada. JAK2 entra na trombose de veias esplâncnicas ou cerebrais e na trombose com eritrocitose ou trombocitose; aqui o sítio é usual e o hemograma é normal.",
+   "B": "Correta. TVP iliofemoral esquerda recorrente em mulher jovem sem trombofilia: imagem pélvica para compressão da veia ilíaca.",
+   "C": "Errada. Marcadores tumorais não servem para rastrear neoplasia oculta após TVP; e com exame ginecológico e laboratório normais, o rastreio limitado basta.",
+   "D": "Errada, é a armadilha. A pesquisa já foi feita fora da anticoagulação; repetir agora daria falsos resultados e não muda a conduta."
+  },
+  "para_levar": "TVP iliofemoral esquerda, sobretudo recorrente e em mulher jovem, pede imagem da veia ilíaca (TC ou RM venosa, ultrassonografia intravascular) para May-Thurner, e não repetir trombofilia.",
+  "referencias": "ESVS Clinical Practice Guidelines on the management of venous thrombosis (Kakkos et al., 2021); ASH 2023 guidelines on thrombophilia testing.",
+  "tags": [
+   "Trombose Venosa Profunda (CM)"
+  ],
+  "sourceQuestionId": "254da0a24f0795e",
+  "alvo": "Próximo exame (pior comando): o exótico ou repetido quando a cronologia e o lado apontam o simples."
+ },
+ {
+  "id": "S13-HEM-05",
+  "simulado": 13,
+  "area": "Hematologia",
+  "titulo": "TRALI com hipotensão, febre e ecocardiograma normal: suporte sem diurético no receptor e investigação de anticorpos na doadora",
+  "arma": "Grade X / Y",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 52 anos, sem cardiopatia, com plaquetas de 18.000/mm³ por leucemia em quimioterapia, recebe uma dose de plaquetas por aférese de doadora multípara antes de passagem de cateter. Uma hora após o fim da infusão, apresenta dispneia intensa, SpO2 de 82% em ar ambiente, temperatura de 38,3 °C, PA 86 x 52 mmHg, FC 124 bpm e estertores difusos. Radiografia de tórax: infiltrado alveolar bilateral novo. Ecocardiograma à beira do leito: FE de 62%, veia cava inferior de 1,2 cm com colapso inspiratório acima de 50%. BNP 70 pg/mL. Balanço hídrico das últimas 24 horas: negativo em 300 mL. A conduta no receptor e a medida em relação à doadora são, respectivamente:",
+  "alternativas": {
+   "A": "Suporte ventilatório sem diurético / anticorpos anti-HLA e anti-HNA na doadora",
+   "B": "Furosemida intravenosa / nenhuma medida com a doadora",
+   "C": "Suporte ventilatório sem diurético / nenhuma medida com a doadora",
+   "D": "Furosemida intravenosa / anticorpos anti-HLA e anti-HNA na doadora"
+  },
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "FE de 62%, veia cava inferior de 1,2 cm com colapso inspiratório acima de 50%",
+  "resolucao": "Edema pulmonar logo após transfusão faz pensar primeiro em sobrecarga circulatória (TACO), e a resposta automática é furosemida. Mas tudo aqui fala contra sobrecarga: hipotensão e febre (a TACO cursa com hipertensão), ecocardiograma com FE normal e veia cava colapsável, BNP baixo e balanço negativo. É lesão pulmonar aguda relacionada à transfusão (TRALI), edema por aumento de permeabilidade, em geral causado por anticorpos anti-HLA ou anti-HNA do doador, mais frequentes em mulheres multíparas, dirigidos aos neutrófilos do receptor. O tratamento é suporte: oxigênio, ventilação não invasiva ou invasiva protetora, e volume ou vasopressor se necessário; diurético piora a hipotensão e não ajuda. O caso deve ser notificado à hemovigilância e a doadora investigada para anticorpos anti-HLA e anti-HNA; se positivos, ela é afastada da doação de plasma e plaquetas, o que protege os próximos receptores.",
+  "comentarios": {
+   "A": "Correta. TRALI: suporte sem diurético e investigação de anticorpos na doadora, que é afastada se positivos.",
+   "B": "Errada nas duas metades, é a armadilha. Furosemida é para TACO, e TRALI exige investigar o doador.",
+   "C": "Errada. O suporte está certo, mas deixar de investigar a doadora mantém o risco para os próximos receptores.",
+   "D": "Errada. A investigação da doadora está certa, mas diurético em TRALI hipotensa piora a perfusão."
+  },
+  "para_levar": "TRALI: febre, hipotensão, FE e BNP normais; tratar com suporte, sem diurético, notificar e investigar anticorpos anti-HLA e anti-HNA no doador.",
+  "referencias": "Vlaar APJ et al., A consensus redefinition of TRALI (Transfusion 2019); Ministério da Saúde, Marco conceitual e operacional de hemovigilância (2022).",
+  "tags": [
+   "Reações Transfusionais (CM)",
+   "Hemoterapia (CM)"
+  ],
+  "sourceQuestionId": "46fb7c3341d9a9b",
+  "alvo": "Hemoterapia (0 de 4 no app); tratar o que não precisa (diurético) e esquecer a medida com o doador."
+ },
+ {
+  "id": "S13-HEM-06",
+  "simulado": 13,
+  "area": "Hematologia",
+  "titulo": "Linfocitose B monoclonal x LLC: o limiar de 5.000 linfócitos B clonais por mm³",
+  "arma": "Limiar",
+  "comando": "fato solto",
+  "nivel": "média",
+  "enunciado": "Na ausência de linfonodomegalias, organomegalias, citopenias e sintomas, a linfocitose B monoclonal com fenótipo de leucemia linfocítica crônica se distingue da LLC por uma contagem de linfócitos B clonais no sangue periférico abaixo de:",
+  "alternativas": {
+   "A": "5.000/mm³",
+   "B": "10.000/mm³",
+   "C": "4.000/mm³",
+   "D": "15.000/mm³"
+  },
+  "gabarito": "A",
+  "armadilha": "C",
+  "dado_decisivo": "linfócitos B clonais no sangue periférico",
+  "resolucao": "O número que vem à cabeça para linfocitose é o limite de 4.000 linfócitos totais por mm³, usado para definir linfocitose absoluta no adulto, e quem o usa erra o critério. O que separa a linfocitose B monoclonal (LBM) da LLC não é a contagem de linfócitos totais, e sim a de linfócitos B clonais medida pela citometria de fluxo: abaixo de 5.000/mm³, sem linfonodomegalia, organomegalia, citopenia ou sintomas, é LBM; a partir de 5.000/mm³ é LLC. A LBM de contagem alta (acima de 500/mm³) progride para LLC que precisa de tratamento em cerca de 1% a 2% ao ano, e o seguimento é anual com hemograma, sem tratamento. Se houver linfonodomegalia com menos de 5.000 B clonais, o diagnóstico passa a ser linfoma linfocítico de pequenas células.",
+  "comentarios": {
+   "A": "Correta. Abaixo de 5.000 linfócitos B clonais por mm³ e sem outros achados é LBM; a partir disso, LLC.",
+   "B": "Errada. Número sem papel nos critérios atuais; LLC já se define a partir de 5.000 B clonais.",
+   "C": "Errada, é a armadilha. É o limite de linfocitose absoluta (linfócitos totais), não o critério de clonalidade da LLC.",
+   "D": "Errada. Não há critério nesse valor; a LLC se diagnostica bem abaixo dele."
+  },
+  "para_levar": "LLC exige 5.000 ou mais linfócitos B clonais por mm³; abaixo disso, sem linfonodo, víscera ou citopenia, é linfocitose B monoclonal, só acompanhada.",
+  "referencias": "iwCLL guidelines (Hallek et al., Blood 2018); Classificação OMS de neoplasias hematolinfoides, 5ª edição (2022).",
+  "tags": [
+   "Leucemias (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Limiar numérico trocado por outro parecido; leucemias por subtipo."
+ }
+]

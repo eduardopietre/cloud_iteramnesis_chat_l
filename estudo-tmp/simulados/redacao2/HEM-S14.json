@@ -1,0 +1,203 @@
+[
+ {
+  "id": "S14-HEM-01",
+  "simulado": 14,
+  "area": "Hematologia",
+  "titulo": "Eritrodermia em paciente rotulado de psoríase, com células cerebriformes e CD4+CD7−CD26− no sangue: síndrome de Sézary",
+  "arma": "Rótulo verdadeiro",
+  "comando": "diagnóstico",
+  "nivel": "difícil",
+  "enunciado": "Homem de 66 anos, com diagnóstico de psoríase há 4 anos, tratado com corticoide tópico e, há 6 meses, com metotrexato, sem melhora, evolui com eritrodermia em 90% da superfície corporal, descamação fina, prurido intenso, ceratodermia palmoplantar fissurada e queda de cabelos. Linfonodos axilares e inguinais de 2 cm, móveis. Hemograma: leucócitos 14.200/mm³, linfócitos 7.900/mm³, eosinófilos 900/mm³. O esfregaço mostra linfócitos de núcleo cerebriforme. Citometria de fluxo do sangue: linfócitos T CD4+ com perda de CD7 e CD26, em contagem de 2.400/mm³, relação CD4/CD8 de 18. Sorologias para HIV e HTLV-1 negativas, cálcio sérico normal. O diagnóstico mais provável é:",
+  "alternativas": {
+   "A": "Psoríase eritrodérmica",
+   "B": "Síndrome de Sézary",
+   "C": "Leucemia/linfoma de células T do adulto",
+   "D": "Dermatite atópica eritrodérmica"
+  },
+  "gabarito": "B",
+  "armadilha": "A",
+  "dado_decisivo": "linfócitos T CD4+ com perda de CD7 e CD26, em contagem de 2.400/mm³",
+  "resolucao": "O rótulo de psoríase é antigo e foi dado por especialista, e psoríase pode, de fato, evoluir para eritrodermia, o que convida a manter o diagnóstico. Mas a falta de resposta ao metotrexato, o prurido intenso, a ceratodermia fissurada e a alopecia já destoam, e o sangue resolve: células de núcleo cerebriforme e, na citometria, uma população T CD4+ que perdeu CD7 e CD26, acima de 1.000/mm³, com relação CD4/CD8 acima de 10. É a síndrome de Sézary, a forma leucêmica do linfoma T cutâneo, em que eritrodermia, linfonodomegalia e clone T circulante caminham juntos; muitos pacientes passam anos com rótulo de eczema ou psoríase. HTLV-1 negativo e cálcio normal afastam leucemia/linfoma de células T do adulto. Imunossupressores como o metotrexato em dose de psoríase não tratam a doença, e a abordagem é sistêmica (fotoférese extracorpórea, interferon, mogamulizumabe, entre outros).",
+  "comentarios": {
+   "A": "Errada, é a armadilha. A psoríase pode ficar eritrodérmica, mas não gera clone T CD4+ CD7− CD26− circulante acima de 1.000/mm³.",
+   "B": "Correta. Eritrodermia, linfonodomegalia e células de Sézary com CD4+ CD7− CD26− acima de 1.000/mm³: síndrome de Sézary.",
+   "C": "Errada. Exige HTLV-1, em geral com hipercalcemia e lesões ósseas; aqui o HTLV-1 é negativo.",
+   "D": "Errada. Dermatite atópica do adulto pode ser eritrodérmica, mas não explica o clone T aberrante no sangue."
+  },
+  "para_levar": "Eritrodermia de adulto que não responde ao tratamento do rótulo (psoríase, eczema) pede citometria do sangue: CD4+ com perda de CD7 e CD26 acima de 1.000/mm³ é Sézary.",
+  "referencias": "Olsen EA et al., ISCL/EORTC/USCLC consensus on mycosis fungoides and Sézary syndrome (J Clin Oncol 2011; atualização 2022); EORTC consensus recommendations for MF/SS (2023).",
+  "tags": [
+   "Linfomas (CM)",
+   "Dermatologia (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Rótulo verdadeiro antigo (psoríase) que impede ler o exame que decide; linfoma por subtipo."
+ },
+ {
+  "id": "S14-HEM-02",
+  "simulado": 14,
+  "area": "Hematologia",
+  "titulo": "LLA B Ph+ em idosa funcional: inibidor de tirosina-quinase com corticoide, sem quimioterapia intensiva e sem desistir de tratar",
+  "arma": "Rótulo verdadeiro",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 74 anos, com hipertensão e diabetes controlados, ativa e independente (ECOG 1), FE de 60% e creatinina de 1,0 mg/dL, recebe diagnóstico de leucemia linfoblástica aguda B: leucócitos 38.000/mm³ com 70% de blastos, imunofenotipagem CD19+, CD10+, TdT+, citogenética com t(9;22) e transcrito BCR-ABL1 p190. Líquor sem blastos. A família lembra que um tio morreu de 'leucemia de idoso' durante quimioterapia e teme o tratamento. O esquema de indução mais adequado é:",
+  "alternativas": {
+   "A": "Hiper-CVAD com rituximabe",
+   "B": "Cuidados paliativos exclusivos",
+   "C": "Inibidor de tirosina-quinase com corticoide",
+   "D": "Transplante alogênico imediato"
+  },
+  "gabarito": "C",
+  "armadilha": "B",
+  "dado_decisivo": "transcrito BCR-ABL1 p190",
+  "resolucao": "Leucemia aguda em pessoa de 74 anos carrega o rótulo verdadeiro de prognóstico ruim e de toxicidade alta da quimioterapia intensiva, o que empurra para paliativo exclusivo ou, no outro extremo, para hiper-CVAD. O cromossomo Philadelphia muda o problema: na LLA Ph+, inibidores de tirosina-quinase (imatinibe, dasatinibe, ponatinibe) associados apenas a corticoide induzem remissão completa em mais de 90% dos idosos, com toxicidade baixa, e a profilaxia intratecal do sistema nervoso central é mantida. Por isso a indução em idosos é ITK com corticoide, sem quimioterapia intensiva, e a consolidação pode incorporar blinatumomabe ou quimioterapia de baixa intensidade. Hiper-CVAD em pessoa de 74 anos tem mortalidade de indução proibitiva, e transplante alogênico não é tratamento de indução, ainda menos nesta idade.",
+  "comentarios": {
+   "A": "Errada. Esquema intensivo para adultos jovens; em idosos, a mortalidade da indução anula o benefício, e o ITK resolve sem ele.",
+   "B": "Errada, é a armadilha. Seria razoável em paciente frágil e sem alvo; esta paciente é funcional e tem alvo com remissão acima de 90% com ITK.",
+   "C": "Correta. LLA Ph+ em idosa funcional: ITK com corticoide, com profilaxia do SNC.",
+   "D": "Errada. Transplante é consolidação em casos selecionados, não indução, e raramente se aplica aos 74 anos."
+  },
+  "para_levar": "LLA Ph+ no idoso funcional se induz com inibidor de tirosina-quinase e corticoide, sem quimioterapia intensiva; o alvo molecular muda o prognóstico do rótulo de idade.",
+  "referencias": "NCCN Guidelines Acute Lymphoblastic Leukemia (2025); Foà R et al., GIMEMA LAL2116 D-ALBA (N Engl J Med 2020); ELN recommendations for adult ALL (Gökbuget et al., Blood 2024).",
+  "tags": [
+   "LLA (CM)"
+  ],
+  "sourceQuestionId": "2fead8c1628934a",
+  "alvo": "LLA errada no banco (fatores prognósticos); rótulo de idade que decide antes do dado molecular."
+ },
+ {
+  "id": "S14-HEM-03",
+  "simulado": 14,
+  "area": "Hematologia",
+  "titulo": "PTI na gestação com 42.000 plaquetas às 31 semanas, sem sangramento: observar e tratar perto do parto",
+  "arma": "Omissão",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Gestante de 30 anos, com 31 semanas, tem púrpura trombocitopênica imunológica diagnosticada há 4 anos, com plaquetas basais entre 70.000 e 90.000/mm³, sem tratamento desde então. Pré-natal sem intercorrências, PA 112 x 70 mmHg, sem proteinúria. Está assintomática, sem petéquias, equimoses ou sangramento mucoso. Plaquetas hoje de 42.000/mm³ (eram 58.000 há 4 semanas). Esfregaço sem esquizócitos, com plaquetas grandes; LDH, AST e creatinina normais. O obstetra pergunta o que fazer agora. A conduta mais adequada neste momento é:",
+  "alternativas": {
+   "A": "Prednisona 1 mg/kg/dia já",
+   "B": "Transfusão profilática de plaquetas",
+   "C": "Imunoglobulina intravenosa já",
+   "D": "Contagem de plaquetas a cada 2 semanas"
+  },
+  "gabarito": "D",
+  "armadilha": "A",
+  "dado_decisivo": "sem petéquias, equimoses ou sangramento mucoso",
+  "resolucao": "Plaquetas caindo para 42.000 numa gestante com PTI parecem pedir tratamento imediato, e a prednisona é a droga de primeira linha. Mas a queda é esperada na gestação, a paciente não sangra, e o limiar para tratar na gestação é sangramento, plaquetas abaixo de 20.000 a 30.000/mm³ ou a necessidade de elevar a contagem para o parto (cerca de 50.000 para parto vaginal ou cesariana e 70.000 a 80.000 para anestesia neuraxial). Às 31 semanas, sem sangramento e com 42.000, a conduta é acompanhar a contagem e planejar: se perto de 36 a 37 semanas a contagem não permitir o parto ou a analgesia desejada, inicia-se prednisona em dose baixa ou imunoglobulina intravenosa. Tratar agora expõe a gestante a semanas de corticoide (diabetes gestacional, hipertensão, ganho de peso) sem benefício, e transfusão profilática de plaquetas é inútil na PTI.",
+  "comentarios": {
+   "A": "Errada, é a armadilha. Prednisona é a primeira linha quando se trata, mas não há indicação agora: sem sangramento e acima de 30.000.",
+   "B": "Errada. Na PTI as plaquetas transfundidas são destruídas em horas; só no sangramento grave, junto com o tratamento imunológico.",
+   "C": "Errada. É a opção para elevar a contagem rapidamente perto do parto ou no sangramento, não às 31 semanas sem sangramento.",
+   "D": "Correta. PTI na gestação sem sangramento e com 42.000: observar e reavaliar, tratando perto do termo se preciso."
+  },
+  "para_levar": "PTI na gestação: tratar se houver sangramento, plaquetas abaixo de 20.000 a 30.000 ou perto do parto para atingir cerca de 50.000 (70.000 a 80.000 para neuraxial); fora disso, observar.",
+  "referencias": "Provan D et al., Updated international consensus report on ITP (Blood Adv 2019); ASH 2019 guidelines for immune thrombocytopenia.",
+  "tags": [
+   "Púrpura Trombocitopênica Imunológica (PTI) (CM)"
+  ],
+  "sourceQuestionId": "2d3cc22cd96f416",
+  "alvo": "PTI errada no banco (2 erros); padrão de tratar o que não precisa."
+ },
+ {
+  "id": "S14-HEM-04",
+  "simulado": 14,
+  "area": "Hematologia",
+  "titulo": "Anemia no idoso encaminhado para eritropoetina pela DRC: globulinas altas e VHS de 96 pedem eletroforese e cadeias leves",
+  "arma": "Rótulo verdadeiro",
+  "comando": "próximo exame",
+  "nivel": "difícil",
+  "enunciado": "Homem de 76 anos, com doença renal crônica estágio 3b (TFG estimada de 38 mL/min/1,73 m², estável há 2 anos) por nefroesclerose hipertensiva, é encaminhado ao hematologista para iniciar alfaepoetina. A Hb caiu de 12,1 para 9,2 g/dL em 8 meses. VCM 90 fL, reticulócitos 0,7%, ferritina 310 ng/mL, saturação de transferrina 28%, B12 e folato normais. Refere lombalgia há 3 meses, atribuída a artrose. Exames: VHS 96 mm/h, proteínas totais 8,9 g/dL com albumina 3,3 g/dL, cálcio 10,4 mg/dL, creatinina 1,7 mg/dL. O próximo exame mais adequado é:",
+  "alternativas": {
+   "A": "Pesquisa de sangue oculto nas fezes",
+   "B": "Dosagem de eritropoetina sérica",
+   "C": "Eletroforese e imunofixação com cadeias leves livres",
+   "D": "Mielograma com biópsia de medula"
+  },
+  "gabarito": "C",
+  "armadilha": "B",
+  "dado_decisivo": "proteínas totais 8,9 g/dL com albumina 3,3 g/dL",
+  "resolucao": "Anemia normocítica hipoproliferativa em paciente com DRC estágio 3b tem o rótulo pronto de anemia da doença renal, e o encaminhamento já vem com a eritropoetina. Mas a anemia da DRC é proporcional à perda de função, e esta caiu quase 3 g/dL em 8 meses com a TFG estável: desproporção que exige outra causa. O caso dá as pistas: o intervalo entre proteínas totais e albumina de 5,6 g/dL indica excesso de globulinas, a VHS de 96 é muito alta, o cálcio está no limite superior apesar da DRC (que tende a baixá-lo) e há lombalgia nova no idoso. O próximo passo é rastrear mieloma com eletroforese de proteínas séricas, imunofixação e cadeias leves livres (a relação kappa/lambda tem faixa própria na DRC). Mielograma vem depois de detectar o componente monoclonal; eritropoetina sérica e sangue oculto não explicam as globulinas.",
+  "comentarios": {
+   "A": "Errada. Ferritina e saturação normais afastam ferropenia, e pesquisa de sangue oculto não investiga anemia ferropriva; não explica as globulinas.",
+   "B": "Errada, é a armadilha. Na DRC a eritropoetina sérica não orienta o tratamento, e o rótulo renal não explica a queda desproporcional nem as globulinas.",
+   "C": "Correta. Anemia desproporcional à DRC com globulinas altas, VHS de 96 e lombalgia: rastrear gamopatia com eletroforese, imunofixação e cadeias leves.",
+   "D": "Errada. A medula vem depois de achar o componente monoclonal; começar por ela é pular o degrau simples."
+  },
+  "para_levar": "Anemia de idoso com DRC só é da DRC se proporcional à função renal; globulinas altas, VHS muito alta ou cálcio inesperado pedem eletroforese, imunofixação e cadeias leves antes da eritropoetina.",
+  "referencias": "KDIGO Clinical Practice Guideline for Anemia in CKD (2012; atualização em consulta 2025); IMWG updated criteria for the diagnosis of multiple myeloma (Rajkumar et al., Lancet Oncol 2014).",
+  "tags": [
+   "Mieloma Múltiplo (CM)",
+   "Doença Renal Crônica (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Anemia no idoso; rótulo verdadeiro (DRC) e o exame que decide (globulinas) lido como enfeite."
+ },
+ {
+  "id": "S14-HEM-05",
+  "simulado": 14,
+  "area": "Hematologia",
+  "titulo": "Esplenomegalia maciça, dacriócitos, leucoeritroblastose e CALR positivo em idoso com FE de 35%: mielofibrose primária tratada com ruxolitinibe",
+  "arma": "Grade X / Y",
+  "comando": "diagnóstico",
+  "nivel": "difícil",
+  "enunciado": "Homem de 69 anos, com cardiopatia isquêmica e FE de 35%, refere perda de 8 kg em 6 meses, sudorese noturna e saciedade precoce. Baço palpável a 16 cm do rebordo costal. Hb 11,2 g/dL, leucócitos 13.800/mm³ com mielócitos, metamielócitos, 2% de blastos e eritroblastos circulantes, monócitos 600/mm³, plaquetas 190.000/mm³, LDH 780 U/L. Esfregaço com hemácias em lágrima. Aspirado de medula seco; a biópsia mostra fibrose reticulínica grau 3 e megacariócitos atípicos em agrupamentos. JAK2 V617F negativo, mutação de CALR positiva, BCR-ABL1 negativo. Nunca teve eritrocitose nem trombocitose. O diagnóstico e o tratamento inicial são, respectivamente:",
+  "alternativas": {
+   "A": "Mielofibrose primária / ruxolitinibe",
+   "B": "Mielofibrose primária / transplante alogênico",
+   "C": "Leucemia mieloide crônica / imatinibe",
+   "D": "Leucemia de células pilosas / cladribina"
+  },
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "cardiopatia isquêmica e FE de 35%",
+  "resolucao": "O diagnóstico é a parte mais simples: esplenomegalia maciça, dacriócitos, leucoeritroblastose, medula seca com fibrose grau 3 e megacariócitos atípicos, mutação de CALR e BCR-ABL1 negativo definem mielofibrose primária (sem história de policitemia ou trombocitemia que sugira forma secundária). Monócitos normais afastam leucemia de células pilosas, que cursa com monocitopenia. A armadilha está no tratamento: o transplante alogênico é a única terapia curativa e se discute nos riscos intermediário-2 e alto, mas exige condição clínica para o condicionamento, e um homem de 69 anos com FE de 35% não é candidato. Para ele, com esplenomegalia sintomática, sintomas constitucionais e plaquetas acima de 100.000, o tratamento é inibidor de JAK, ruxolitinibe, que reduz baço e sintomas e prolonga a sobrevida, e age mesmo sem mutação de JAK2. A Hb acima de 10 permite usá-lo sem a preocupação maior com anemia.",
+  "comentarios": {
+   "A": "Correta. Mielofibrose primária com baço sintomático e sintomas constitucionais em paciente inelegível a transplante: ruxolitinibe.",
+   "B": "Errada, é a armadilha. O diagnóstico está certo, mas FE de 35% aos 69 anos contraindica o transplante alogênico.",
+   "C": "Errada. A LMC exige BCR-ABL1, que é negativo.",
+   "D": "Errada. A leucemia de células pilosas também causa medula seca e esplenomegalia, mas com monocitopenia e pancitopenia, sem leucoeritroblastose."
+  },
+  "para_levar": "Mielofibrose primária: transplante alogênico só para quem tem risco alto e condição clínica; no inelegível sintomático, inibidor de JAK (ruxolitinibe), que funciona também nos casos CALR positivos.",
+  "referencias": "NCCN Guidelines Myeloproliferative Neoplasms (2025); ELN/EBMT recommendations on allogeneic transplantation in myelofibrosis (Kröger et al., Lancet Haematol 2024).",
+  "tags": [
+   "Síndromes da Medula Óssea (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Padrão de fazer o tratamento do degrau mais alto (transplante) ignorando a comorbidade da primeira linha."
+ },
+ {
+  "id": "S14-HEM-06",
+  "simulado": 14,
+  "area": "Hematologia",
+  "titulo": "Hemácias irradiadas há 18 dias infundidas rapidamente por cateter central: hiperpotassemia pela lesão de estocagem",
+  "arma": "Cronologia",
+  "comando": "mecanismo",
+  "nivel": "difícil",
+  "enunciado": "Homem de 60 anos, receptor de transplante autólogo de células-tronco há 5 meses, por isso com indicação de hemocomponentes irradiados, é admitido com hemorragia por varizes esofágicas. Recebe, em 40 minutos, por cateter venoso central, 6 unidades de concentrado de hemácias. As unidades foram coletadas há 25 dias e irradiadas há 18 dias. Função renal normal na admissão, sem uso de diuréticos poupadores de potássio. A alteração eletrolítica mais provável, consequência direta da idade e do processamento dessas unidades, é:",
+  "alternativas": {
+   "A": "Hiperpotassemia",
+   "B": "Hipomagnesemia",
+   "C": "Alcalose metabólica",
+   "D": "Hipocalcemia ionizada"
+  },
+  "gabarito": "A",
+  "armadilha": "D",
+  "dado_decisivo": "irradiadas há 18 dias",
+  "resolucao": "Em transfusão rápida e volumosa, a alteração que todos lembram é a hipocalcemia pelo citrato, e ela também pode ocorrer aqui. Mas o comando pergunta o que decorre da idade e do processamento das unidades, e o dado é cronológico: hemácias armazenadas perdem potássio para o sobrenadante ao longo da estocagem (a bomba de sódio e potássio para no frio), e a irradiação lesa a membrana e acelera muito esse vazamento. Por isso se recomenda transfundir hemácias irradiadas em até 14 dias após a irradiação e, em transfusão rápida, maciça ou por via central, usar unidades irradiadas há menos de 24 horas ou lavadas. Unidades irradiadas há 18 dias, infundidas em bolus por cateter próximo ao coração, podem levar a hiperpotassemia com arritmia e parada cardíaca. A alcalose metabólica é tardia, quando o citrato é metabolizado a bicarbonato, e não depende da irradiação.",
+  "comentarios": {
+   "A": "Correta. Estocagem prolongada após irradiação aumenta muito o potássio do sobrenadante; infusão rápida por via central causa hiperpotassemia.",
+   "B": "Errada. O citrato também quela magnésio, mas isso não depende da idade nem da irradiação da unidade.",
+   "C": "Errada. Surge depois, pelo metabolismo do citrato em bicarbonato, e independe do processamento.",
+   "D": "Errada, é a armadilha. Ocorre na transfusão rápida pelo citrato, mas não é consequência da idade nem da irradiação da unidade."
+  },
+  "para_levar": "Hemácia irradiada vaza potássio: usar em até 14 dias da irradiação e, em transfusão rápida, maciça ou por via central, preferir unidade irradiada há menos de 24 horas ou lavada.",
+  "referencias": "British Society for Haematology, Guidelines on the use of irradiated blood components (Foukaneli et al., 2020); Ministério da Saúde, Guia para uso de hemocomponentes (2015).",
+  "tags": [
+   "Hemoterapia (CM)",
+   "Hiperpotassemia (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Hemoterapia (0 de 4 no app); a cronologia do hemocomponente lida como enfeite."
+ }
+]

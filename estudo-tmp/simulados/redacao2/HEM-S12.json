@@ -1,0 +1,204 @@
+[
+ {
+  "id": "S12-HEM-01",
+  "simulado": 12,
+  "area": "Hematologia",
+  "titulo": "Microangiopatia com 11.000 plaquetas no segundo trimestre, normotensa e com transaminases normais: PTT e plasmaférese, não interrupção",
+  "arma": "Grade X / Y",
+  "comando": "diagnóstico",
+  "nivel": "difícil",
+  "enunciado": "Gestante de 26 anos, primigesta, com 22 semanas, procura a emergência por cefaleia, um episódio de confusão transitória e petéquias há 2 dias. PA 118 x 74 mmHg, FC 96 bpm, afebril. Hb 7,6 g/dL, esquizócitos 6%, reticulócitos 8%, LDH 1.480 U/L, bilirrubina indireta 2,8 mg/dL, haptoglobina indetectável, Coombs direto negativo, plaquetas 11.000/mm³, TP e TTPa normais, fibrinogênio 360 mg/dL, creatinina 0,9 mg/dL, AST 48 U/L, ALT 39 U/L, proteinúria de fita negativa. Ultrassonografia obstétrica com feto vivo e crescimento adequado. O diagnóstico mais provável e a conduta são, respectivamente:",
+  "alternativas": {
+   "A": "PTT / interrupção da gestação",
+   "B": "PTT / plasmaférese com corticoide",
+   "C": "Síndrome HELLP / interrupção da gestação",
+   "D": "Síndrome HELLP / corticoide e plaquetas"
+  },
+  "gabarito": "B",
+  "armadilha": "C",
+  "dado_decisivo": "PA 118 x 74 mmHg",
+  "resolucao": "Hemólise microangiopática com plaquetopenia na gestação puxa automaticamente para síndrome HELLP, cuja conduta é a interrupção. Mas três dados afastam HELLP: a idade gestacional de 22 semanas (HELLP é rara antes de 27 a 28 semanas), a pressão normal com proteinúria negativa (a HELLP é forma grave da pré-eclâmpsia) e as transaminases praticamente normais (o L de HELLP é elevação hepática). A plaquetopenia profunda, abaixo de 20.000, com sintomas neurológicos e creatinina normal compõe o quadro de PTT, e a gestação é gatilho conhecido tanto da forma adquirida quanto da congênita (deficiência hereditária de ADAMTS13). A conduta é colher ADAMTS13 e iniciar plasmaférese com corticoide sem esperar o resultado; a interrupção da gestação não trata PTT, e a resposta à plasmaférese permite, muitas vezes, levar a gestação adiante. Transfundir plaquetas na PTT sem sangramento grave deve ser evitado.",
+  "comentarios": {
+   "A": "Errada. O diagnóstico está certo, mas o parto não resolve a PTT; o tratamento é plasmaférese.",
+   "B": "Correta. Microangiopatia com plaquetas de 11.000, sintomas neurológicos, normotensão e transaminases normais em 22 semanas: PTT, com plasmaférese e corticoide.",
+   "C": "Errada, é a armadilha. Seria o par certo com hipertensão, proteinúria e AST elevada no terceiro trimestre.",
+   "D": "Errada nas duas metades: não é HELLP, e plaquetas na PTT só com sangramento grave."
+  },
+  "para_levar": "Microangiopatia trombótica na gestação: HELLP exige pré-eclâmpsia e transaminases altas e melhora com o parto; plaquetas abaixo de 20.000 com neurológico e pressão normal, sobretudo no segundo trimestre, é PTT até prova em contrário, e se trata com plasmaférese.",
+  "referencias": "ISTH guidelines for the diagnosis and treatment of TTP (Zheng et al., 2020); ACOG Practice Bulletin 222, Gestational hypertension and preeclampsia (2020).",
+  "tags": [
+   "Púrpura Trombocitopênica Trombótica (PTT) (CM)",
+   "Microangiopatia Trombótica (MAT) (CM)"
+  ],
+  "sourceQuestionId": "05339e88d5c11b0",
+  "alvo": "PTT errada no banco; rótulo de gestação puxando a doença de manual (HELLP)."
+ },
+ {
+  "id": "S12-HEM-02",
+  "simulado": 12,
+  "area": "Hematologia",
+  "titulo": "Lesão renal aguda com cadeias leves lambda acima de 5.000 mg/L e mieloma confirmado: tratar já, sem biópsia renal nem plasmaférese",
+  "arma": "Omissão",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Homem de 66 anos, com dor lombar há 3 meses, é internado por astenia e vômitos. PA 132 x 80 mmHg, sem edema, sem congestão. Creatinina 5,8 mg/dL (1,0 mg/dL há 1 ano), ureia 150 mg/dL, potássio 5,0 mEq/L, bicarbonato 19 mEq/L, cálcio 10,9 mg/dL, Hb 8,7 g/dL. Urina: fita com proteína negativa, mas proteinúria de 24 horas de 3,8 g. Ultrassonografia com rins de tamanho normal, sem hidronefrose. Cadeias leves livres séricas: lambda 5.600 mg/L, kappa 9 mg/L. Mielograma com 34% de plasmócitos clonais lambda. Diurese de 1.400 mL/dia após hidratação. O nefrologista sugere biópsia renal antes de qualquer decisão. A conduta mais adequada é:",
+  "alternativas": {
+   "A": "Biópsia renal antes de tratar",
+   "B": "Plasmaférese diária por 5 dias",
+   "C": "Bortezomibe e dexametasona imediatos",
+   "D": "Hemodiálise imediata"
+  },
+  "gabarito": "C",
+  "armadilha": "A",
+  "dado_decisivo": "lambda 5.600 mg/L",
+  "resolucao": "Lesão renal aguda com proteinúria em paciente com gamopatia leva muitos a pedir biópsia renal para definir a lesão (cilindros, amiloidose, depósito de cadeias leves). Mas, com mieloma confirmado e cadeia leve livre envolvida acima de 1.500 mg/L, a nefropatia por cilindros é tão provável que o IMWG permite presumi-la e tratar sem biópsia; a fita negativa com proteinúria de 24 horas alta também mostra que a proteína urinária é cadeia leve, não albumina. O que preserva o rim é baixar rapidamente a cadeia leve: bortezomibe com dexametasona (base dos esquemas, ajustáveis à função renal) iniciados de imediato, com hidratação e correção do cálcio. Plasmaférese não mostrou benefício consistente e não é rotina; diálise não tem indicação com diurese preservada, potássio de 5,0 e sem congestão ou acidose grave. Cada dia de espera pela biópsia diminui a chance de recuperar a função renal.",
+  "comentarios": {
+   "A": "Errada, é a armadilha. Biópsia seria necessária com cadeia leve abaixo de 500 mg/L ou com albuminúria dominante; com mais de 1.500 mg/L e mieloma confirmado, presume-se nefropatia por cilindros.",
+   "B": "Errada. Os ensaios não mostraram benefício consistente da plasmaférese na nefropatia por cilindros; não substitui a quimioterapia.",
+   "C": "Correta. Mieloma com cadeia leve lambda de 5.600 mg/L e lesão renal: bortezomibe e dexametasona imediatos, com hidratação.",
+   "D": "Errada. Sem hiperpotassemia grave, acidose importante, congestão ou uremia sintomática, e com diurese preservada, não há indicação de diálise."
+  },
+  "para_levar": "Mieloma com lesão renal e cadeia leve livre acima de 1.500 mg/L: presumir nefropatia por cilindros e iniciar bortezomibe com dexametasona de imediato; biópsia renal e plasmaférese não atrasam o tratamento.",
+  "referencias": "IMWG recommendations for the diagnosis and management of myeloma-related renal impairment (Dimopoulos et al., J Clin Oncol 2016; atualização 2023); KDIGO, Onconephrology controversies (2020).",
+  "tags": [
+   "Mieloma Múltiplo (CM)",
+   "Injúria Renal Aguda (CM)"
+  ],
+  "sourceQuestionId": "d88425c645795f7",
+  "alvo": "Gamopatia com rim errada no banco; padrão de pedir o exame invasivo do degrau seguinte quando o dado já decide."
+ },
+ {
+  "id": "S12-HEM-03",
+  "simulado": 12,
+  "area": "Hematologia",
+  "titulo": "Hemofilia B leve antes de exodontia: desmopressina não eleva o fator IX, usar concentrado de fator IX",
+  "arma": "Rótulo verdadeiro",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Homem de 34 anos, com hemofilia leve (atividade de fator IX de 14%), sem inibidor, será submetido a exodontia de dois terceiros molares inclusos. Teve sangramento prolongado após amigdalectomia na infância e nunca recebeu hemocomponentes ou concentrados de fator. Usa apenas omeprazol. O cirurgião bucomaxilofacial, que trata pacientes com hemofilia leve com desmopressina antes de extrações, propõe o mesmo esquema. Exame físico normal; plaquetas 240.000/mm³, TP normal, TTPa 44 segundos (VR 25 a 35). O preparo hemostático mais adequado é:",
+  "alternativas": {
+   "A": "Desmopressina e ácido tranexâmico",
+   "B": "Plasma fresco congelado pré-operatório",
+   "C": "Ácido tranexâmico isolado",
+   "D": "Concentrado de fator IX e ácido tranexâmico"
+  },
+  "gabarito": "D",
+  "armadilha": "A",
+  "dado_decisivo": "atividade de fator IX de 14%",
+  "resolucao": "Hemofilia leve é verdadeira, e na hemofilia leve a desmopressina é a primeira escolha para pequenos procedimentos, o que torna a proposta do cirurgião atraente. Mas isso vale para a hemofilia A: a desmopressina libera fator de von Willebrand e fator VIII estocados no endotélio e não tem efeito algum sobre o fator IX. Com fator IX de 14% e extração de dois terceiros molares inclusos (procedimento com sangramento relevante em mucosa fibrinolítica), o preparo é concentrado de fator IX antes do procedimento, buscando atividade de cerca de 50% a 80%, associado a ácido tranexâmico oral ou em bochecho por 7 a 10 dias. O plasma traz pouco fator IX por volume e só serve sem concentrado disponível; o antifibrinolítico isolado é insuficiente para cirurgia com esse fator.",
+  "comentarios": {
+   "A": "Errada, é a armadilha. Seria o esquema na hemofilia A leve (fator VIII responde à desmopressina); o fator IX não responde.",
+   "B": "Errada. Seria preciso grande volume para elevar o fator IX; plasma é recurso apenas sem concentrado disponível.",
+   "C": "Errada. Antifibrinolítico isolado basta para procedimento mínimo com fator mais alto; em exodontia de inclusos com 14%, é insuficiente.",
+   "D": "Correta. Hemofilia B leve antes de exodontia de inclusos: concentrado de fator IX com ácido tranexâmico."
+  },
+  "para_levar": "Desmopressina serve à hemofilia A leve e à doença de von Willebrand tipo 1; na hemofilia B, de qualquer gravidade, o preparo é concentrado de fator IX.",
+  "referencias": "WFH Guidelines for the Management of Hemophilia, 3ª edição (Srivastava et al., Haemophilia 2020); Ministério da Saúde, Manual de Hemofilia (2015, atualização 2023).",
+  "tags": [
+   "Hemofilias (CM)"
+  ],
+  "sourceQuestionId": "53ad4e8c304d72b",
+  "alvo": "Hemofilia errada no banco; rótulo verdadeiro (hemofilia leve) que traz a conduta de outra doença."
+ },
+ {
+  "id": "S12-HEM-04",
+  "simulado": 12,
+  "area": "Hematologia",
+  "titulo": "Gestante com traço beta-talassêmico confirmado: o exame que importa agora é o do parceiro",
+  "arma": "Rótulo verdadeiro",
+  "comando": "próximo exame",
+  "nivel": "difícil",
+  "enunciado": "Gestante de 24 anos, primigesta, com 12 semanas, tem Hb 9,9 g/dL, VCM 63 fL, HCM 20 pg, RDW 13,2%, hemácias 5,4 milhões/mm³ e ferritina 96 ng/mL. Usa sulfato ferroso desde a confirmação da gravidez, há 6 semanas, sem mudança na hemoglobina. A eletroforese de hemoglobina mostrou HbA2 de 5,4% e HbF de 1,2%, sem hemoglobinas variantes. Está assintomática, com exame físico normal e baço não palpável. O parceiro, descendente de italianos, é assintomático e nunca fez hemograma. O próximo exame mais adequado é:",
+  "alternativas": {
+   "A": "Hemograma e eletroforese do parceiro",
+   "B": "Saturação de transferrina da gestante",
+   "C": "Mutações da alfa-globina na gestante",
+   "D": "Biópsia de vilo corial imediata"
+  },
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "HbA2 de 5,4%",
+  "resolucao": "Anemia na gestação é quase sempre ferropriva, e quem pensa assim insiste no ferro e quer completar o perfil férrico. Mas a ferritina de 96 já afasta ferropenia, a microcitose desproporcional à anemia com hemácias acima de 5 milhões e RDW normal aponta talassemia, e a HbA2 acima de 3,5% confirma traço beta-talassêmico. O traço em si não tem repercussão e não se trata com ferro (o ferro deve ser suspenso, mantendo-se o ácido fólico). O que muda a conduta agora é o risco fetal: se o parceiro também for portador de beta-talassemia ou de hemoglobina S, o feto tem 25% de chance de doença grave (talassemia maior ou S-beta-talassemia). Por isso o próximo passo é hemograma e eletroforese do parceiro; só se ele for portador se discute diagnóstico pré-natal por vilo corial ou amniocentese, com aconselhamento genético.",
+  "comentarios": {
+   "A": "Correta. Gestante com traço beta confirmado: estudar o parceiro define o risco de doença grave no feto.",
+   "B": "Errada, é a armadilha. Completar o perfil férrico seria o passo com ferritina baixa; com ferritina de 96 e HbA2 de 5,4%, a anemia não é ferropriva.",
+   "C": "Errada. Pesquisa de alfa-talassemia se faria com microcitose e HbA2 normal; aqui a HbA2 alta já define o traço beta.",
+   "D": "Errada. Diagnóstico pré-natal invasivo só se indica se o parceiro também for portador."
+  },
+  "para_levar": "Microcitose com ferritina normal na gestante: eletroforese; confirmado o traço talassêmico, suspender o ferro e estudar o parceiro, porque o risco que importa é o do feto.",
+  "referencias": "Ministério da Saúde, Manual de Gestação de Alto Risco (2022); Thalassaemia International Federation, Guidelines for the management of non-transfusion-dependent and transfusion-dependent thalassaemia (2021, 2025).",
+  "tags": [
+   "Talassemias (CM)"
+  ],
+  "sourceQuestionId": "0b0915b6b274928",
+  "alvo": "Talassemia errada no banco; regra fixada de não ler ferritina e saturação (hiperferritinemia/ferro) e rótulo de anemia da gestação."
+ },
+ {
+  "id": "S12-HEM-05",
+  "simulado": 12,
+  "area": "Hematologia",
+  "titulo": "Agranulocitose com úlceras amigdalianas após analgésico em gotas de venda livre: metamizol, com parada de maturação em promielócitos",
+  "arma": "Droga a deduzir",
+  "comando": "etiologia",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 47 anos procura a emergência por odinofagia intensa e febre de 39 °C há 2 dias. Usa losartana há 3 anos e sinvastatina há 2 anos; há 10 dias toma, várias vezes ao dia, um analgésico comum em gotas, comprado sem receita, para cefaleia tensional. Exame: úlceras necróticas nas amígdalas, sem linfonodomegalia generalizada, sem esplenomegalia, sem exantema. Hemograma: Hb 12,8 g/dL, leucócitos 1.100/mm³, neutrófilos 40/mm³, linfócitos 900/mm³, sem linfócitos atípicos, plaquetas 228.000/mm³. Hemograma de rotina há 2 meses: normal. Mielograma: celularidade normal, série granulocítica com parada de maturação em promielócitos, sem blastos e sem displasia. A causa mais provável da neutropenia é:",
+  "alternativas": {
+   "A": "Agranulocitose por metamizol",
+   "B": "Mononucleose infecciosa",
+   "C": "Leucemia aguda aleucêmica",
+   "D": "Neutropenia pela sinvastatina"
+  },
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "analgésico comum em gotas, comprado sem receita",
+  "resolucao": "Odinofagia, febre e amígdalas ulceradas em adulto lembram mononucleose, que pode causar neutropenia leve. Mas a mononucleose traz linfocitose com linfócitos atípicos, linfonodomegalia e esplenomegalia, e a neutropenia é discreta; aqui há agranulocitose isolada (neutrófilos de 40) com linfócitos normais e sem atípicos. A droga a deduzir é o analgésico em gotas vendido sem receita no Brasil: dipirona (metamizol), a causa medicamentosa mais lembrada de agranulocitose imune, de início em dias a semanas, que poupa hemácias e plaquetas. A medula com parada de maturação em promielócitos (na verdade, consumo periférico das formas maduras, com a medula tentando repor) e sem blastos ou displasia confirma. A conduta é suspender a dipirona definitivamente, tratar como neutropenia febril com antibiótico de amplo espectro e considerar fator estimulador de colônias; a recuperação ocorre em 1 a 2 semanas. Estatinas e losartana não são causas reconhecidas de agranulocitose e estão em uso há anos.",
+  "comentarios": {
+   "A": "Correta. Agranulocitose isolada 10 dias após dipirona, com medula sem blastos e parada de maturação: reação ao metamizol.",
+   "B": "Errada, é a armadilha. A mononucleose daria linfocitose atípica, linfonodomegalia e esplenomegalia, com neutropenia leve.",
+   "C": "Errada. Leucemia aguda aleucêmica teria blastos na medula e, em geral, anemia e plaquetopenia.",
+   "D": "Errada. Em uso há 2 anos, com hemograma normal há 2 meses; estatina não é causa reconhecida de agranulocitose."
+  },
+  "para_levar": "Agranulocitose isolada com infecção orofaríngea: perguntar pelo analgésico de venda livre; dipirona é a causa a lembrar no Brasil, e a medula mostra parada de maturação sem blastos.",
+  "referencias": "Andrès E, Mourot-Cottet R. Non-chemotherapy drug-induced neutropenia (Expert Opin Drug Saf, 2017); IDSA/ASCO Outpatient management of fever and neutropenia (2018).",
+  "tags": [
+   "Avaliação Global do Hemograma (CM)",
+   "Medicamentos genéricos - Efeitos colaterais (CM)"
+  ],
+  "sourceQuestionId": "f0f24001acb9ee8",
+  "alvo": "Neutropenias adquiridas e mononucleose e diferenciais (0 de 2 no app); a droga em uso ignorada."
+ },
+ {
+  "id": "S12-HEM-06",
+  "simulado": 12,
+  "area": "Hematologia",
+  "titulo": "Diabetes insípido central com lesão lítica no crânio e cistos pulmonares em tabagista: histiocitose de células de Langerhans",
+  "arma": "Dado omitido",
+  "comando": "diagnóstico",
+  "nivel": "difícil",
+  "enunciado": "Homem de 34 anos, tabagista de 20 maços-ano, procura atendimento por poliúria e polidipsia há 5 meses, com diurese de 6 litros por dia, e dor na região temporal esquerda. Exame físico normal. Sódio 146 mEq/L, osmolalidade urinária 140 mOsm/kg, que sobe para 520 mOsm/kg após desmopressina. RM de sela: ausência do brilho da neuro-hipófise e espessamento da haste. TC de crânio: lesão lítica de bordas bem definidas, sem esclerose, no osso temporal esquerdo. TC de tórax: nódulos e cistos de paredes irregulares e formas bizarras, predominando em lobos superiores e poupando os seios costofrênicos. Cálcio, enzima conversora da angiotensina e eletroforese de proteínas normais. O diagnóstico mais provável é:",
+  "alternativas": {
+   "A": "Doença de Erdheim-Chester",
+   "B": "Histiocitose de células de Langerhans",
+   "C": "Linfangioleiomiomatose",
+   "D": "Sarcoidose"
+  },
+  "gabarito": "B",
+  "armadilha": "D",
+  "dado_decisivo": "tabagista de 20 maços-ano",
+  "resolucao": "Diabetes insípido central com doença pulmonar em adulto jovem lembra sarcoidose, que infiltra hipotálamo e haste. Mas a sarcoidose não faz lesão óssea lítica no crânio nem cistos pulmonares de formas bizarras, e cálcio e ECA estão normais. O dado que amarra tudo é o tabagismo: a histiocitose de células de Langerhans pulmonar do adulto ocorre quase exclusivamente em fumantes, com nódulos que cavitam e viram cistos irregulares nos lobos superiores, poupando as bases. Somada ao diabetes insípido (o local endócrino mais acometido) e à lesão lítica em saca-bocado no crânio, compõe a forma multissistêmica. A confirmação é por biópsia (células CD1a e langerina positivas), com pesquisa de BRAF V600E, e a cessação do tabagismo é parte central do tratamento. A linfangioleiomiomatose é de mulheres, com cistos redondos e difusos; Erdheim-Chester faz esclerose de ossos longos, não lise craniana.",
+  "comentarios": {
+   "A": "Errada. Também causa diabetes insípido, mas o osso típico é esclerose simétrica de diáfises de ossos longos, e os histiócitos são CD1a negativos.",
+   "B": "Correta. Fumante com diabetes insípido central, lesão lítica craniana e nódulos e cistos irregulares nos lobos superiores: histiocitose de células de Langerhans.",
+   "C": "Errada. Ocorre em mulheres, com cistos redondos, de paredes finas e distribuição difusa, sem diabetes insípido nem lesão lítica.",
+   "D": "Errada, é a armadilha. Pode causar diabetes insípido, mas não faz cistos bizarros nem lise óssea craniana, e cálcio e ECA estão normais."
+  },
+  "para_levar": "Diabetes insípido central mais lesão lítica óssea mais cistos pulmonares em fumante é histiocitose de células de Langerhans; parar de fumar faz parte do tratamento.",
+  "referencias": "Goyal G et al., Consensus recommendations for the diagnosis and management of Langerhans cell histiocytosis in adults (Mayo Clinic/Histiocyte Society, Blood 2022).",
+  "tags": [
+   "Doenças Raras (CM)",
+   "Diabetes Insipidus (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Dado do enunciado (tabagismo) lido como enfeite quando um rótulo forte (sarcoidose) vem antes."
+ }
+]

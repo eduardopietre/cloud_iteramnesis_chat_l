@@ -3,34 +3,34 @@
   "id": "S15-PNE-01",
   "simulado": 15,
   "area": "Pneumologia",
-  "titulo": "Exacerbação aguda de fibrose pulmonar idiopática: corticoide mantendo o antifibrótico, sem ciclofosfamida",
-  "arma": "Grade X / Y",
-  "comando": "conduta",
+  "titulo": "Exacerbação aguda de fibrose pulmonar idiopática desencadeada por vírus: infecção identificada não exclui a exacerbação (definição de 2016)",
+  "arma": "Rótulo verdadeiro",
+  "comando": "diagnóstico",
   "nivel": "difícil",
-  "enunciado": "Homem de 71 anos com fibrose pulmonar idiopática há 3 anos, em uso de nintedanibe, CVF basal de 62%, tem piora da dispneia há 12 dias, sem febre. FR 30 irpm, SpO2 84% em ar ambiente, estertores em velcro bilaterais. TC de tórax: vidro fosco bilateral novo sobreposto ao faveolamento basal. Angiotomografia sem embolia; BNP 90 pg/mL e ecocardiograma sem disfunção; procalcitonina 0,08 ng/mL; pesquisa de vírus e culturas negativas. Além do oxigênio, o diagnóstico e a conduta mais adequados são, respectivamente:",
+  "enunciado": "Homem de 71 anos com fibrose pulmonar idiopática há 3 anos (padrão de pneumonia intersticial usual na TC), em uso de nintedanibe, CVF de 62% e estável nos últimos 6 meses, teve coriza e dor de garganta há 14 dias, seguidas de piora progressiva da dispneia há 10 dias, sem febre. FR 30 irpm, SpO2 84% em ar ambiente, estertores em velcro bilaterais, sem edema nem turgência jugular. TC de tórax: vidro fosco bilateral e difuso, novo, sobreposto ao faveolamento basal, sem consolidação lobar. Angiotomografia sem embolia; BNP 90 pg/mL; ecocardiograma com FE de 60% e sem sinais de sobrecarga de volume. Painel molecular do swab nasofaríngeo: rinovírus detectado; procalcitonina 0,08 ng/mL; hemoculturas negativas. O diagnóstico mais adequado é:",
   "alternativas": {
-   "A": "Progressão da FPI / trocar para pirfenidona",
-   "B": "Exacerbação aguda / ciclofosfamida e corticoide",
-   "C": "Exacerbação aguda / corticoide, mantendo nintedanibe",
-   "D": "Congestão pulmonar / furosemida venosa"
+   "A": "Infecção viral, sem exacerbação da FPI",
+   "B": "Exacerbação aguda da FPI",
+   "C": "Progressão da FPI",
+   "D": "Congestão pulmonar"
   },
-  "gabarito": "C",
-  "armadilha": "B",
-  "dado_decisivo": "vidro fosco bilateral novo sobreposto ao faveolamento basal",
-  "resolucao": "Piora respiratória em menos de 1 mês, com vidro fosco bilateral novo sobre o padrão de pneumonia intersticial usual, sem embolia, sem insuficiência cardíaca e sem infecção identificada, define exacerbação aguda de FPI, com mortalidade hospitalar de cerca de 50%. O tratamento de maior porte (ciclofosfamida com corticoide) atrai por ser grave, mas o ensaio EXAFIP mostrou mortalidade maior com a ciclofosfamida. O que se faz é suporte, corticoide sistêmico (recomendação fraca, prática corrente), tratar infecção se aparecer, e manter o antifibrótico, que reduz o risco de novas exacerbações. A progressão lenta seria queda gradual da CVF, não vidro fosco novo em dias, e trocar de antifibrótico não trata a exacerbação.",
+  "gabarito": "B",
+  "armadilha": "A",
+  "dado_decisivo": "vidro fosco bilateral e difuso, novo, sobreposto ao faveolamento basal",
+  "resolucao": "O rinovírus detectado é verdadeiro e puxa a leitura de que tudo se explica por uma virose, o que, pela definição antiga de 2007 (que exigia excluir infecção), afastaria a exacerbação aguda. A definição revisada do grupo internacional de 2016 mudou isso: exacerbação aguda de FPI é piora respiratória clinicamente significativa em menos de 1 mês, com vidro fosco ou consolidação bilateral nova sobre o padrão de pneumonia intersticial usual, não explicada por insuficiência cardíaca ou sobrecarga de volume. Ela pode ser idiopática ou desencadeada (infecção, procedimento, aspiração, droga), e a desencadeada tem o mesmo prognóstico ruim, com mortalidade hospitalar ao redor de 50%. Aqui a embolia foi afastada, e BNP e ecocardiograma afastam congestão. Progressão seria queda gradual da CVF em meses, não vidro fosco bilateral novo em dias. O nome importa porque muda o manejo e o prognóstico: suporte, manter o antifibrótico, corticoide como opção de recomendação fraca, e nada de ciclofosfamida, que aumentou a mortalidade no EXAFIP.",
   "comentarios": {
-   "A": "Errada. Progressão é queda gradual em meses; vidro fosco novo em 12 dias é exacerbação, e a troca de antifibrótico não a trata.",
-   "B": "Errada. O diagnóstico está certo, mas a ciclofosfamida aumentou a mortalidade no EXAFIP.",
-   "C": "Correta. Exacerbação aguda definida após excluir embolia, IC e infecção: suporte, corticoide e manutenção do nintedanibe.",
-   "D": "Errada. BNP de 90 pg/mL e ecocardiograma normal afastam congestão."
+   "A": "Errada. Seria a leitura com consolidação localizada e sem vidro fosco bilateral novo; pela definição de 2016, infecção identificada não exclui exacerbação, apenas a classifica como desencadeada.",
+   "B": "Correta. Menos de 1 mês, vidro fosco bilateral novo sobre o padrão usual, sem IC nem sobrecarga de volume: exacerbação aguda desencadeada por vírus.",
+   "C": "Errada. Progressão é queda gradual da CVF e da DLCO ao longo de meses, sem vidro fosco difuso novo em dias.",
+   "D": "Errada. Seria o diagnóstico com BNP elevado, disfunção ventricular ou sobrecarga de volume; BNP de 90 pg/mL e ecocardiograma normal afastam."
   },
-  "para_levar": "Exacerbação aguda de FPI: menos de 1 mês, vidro fosco novo sobre o padrão usual, causas cardíaca, embólica e infecciosa excluídas. Suporte, corticoide, manter o antifibrótico; ciclofosfamida aumenta a mortalidade.",
-  "referencias": "ATS/ERS/JRS/ALAT IPF Guideline (2011, atualizações 2015 e 2022); Collard HR et al., Acute exacerbation of IPF, AJRCCM 2016; EXAFIP trial (Naccache et al., Lancet Respir Med 2022).",
+  "para_levar": "Exacerbação aguda de FPI (definição de 2016): menos de 1 mês, vidro fosco bilateral novo sobre o padrão usual, não explicado por IC ou volume. Infecção identificada não exclui: torna a exacerbação desencadeada, com o mesmo prognóstico.",
+  "referencias": "Collard HR et al., Acute Exacerbation of Idiopathic Pulmonary Fibrosis: An International Working Group Report, Am J Respir Crit Care Med (2016); ATS/ERS/JRS/ALAT IPF Guideline (2011, atualização 2022); Naccache JM et al., EXAFIP, Lancet Respir Med (2022).",
   "tags": [
    "Fibrose Pulmonar Idiopática (FPI) (CM)"
   ],
   "sourceQuestionId": null,
-  "alvo": "Gravidade puxando o tratamento de maior porte; a conduta mais agressiva que piora o desfecho."
+  "alvo": "Rótulo verdadeiro (vírus identificado) usado para excluir o diagnóstico; definição vigente de exacerbação aguda de FPI."
  },
  {
   "id": "S15-PNE-02",
@@ -58,10 +58,10 @@
    "D": "Errada. Nenhuma indicação brasileira dispensa o corte; mesmo os de maior risco usam 5 mm."
   },
   "para_levar": "ILTB no Brasil: 5 mm para HIV, contatos, anti-TNF, transplante e sequela fibrótica; 10 mm para silicose, diabetes, diálise, neoplasia em quimioterapia, baixo peso e tabagismo pesado.",
-  "referencias": "Ministério da Saúde, Protocolo de Vigilância da Infecção Latente pelo Mycobacterium tuberculosis no Brasil (2022) e Manual de Recomendações para o Controle da Tuberculose (2019).",
+  "referencias": "Ministério da Saúde, Manual de Recomendações para o Controle da Tuberculose no Brasil, 2ª ed. atualizada (2019); Nota Informativa nº 4/2024 CGTM/DATHI/SVSA/MS (indicações de tratamento da ILTB); Protocolo de Vigilância da Infecção Latente pelo Mycobacterium tuberculosis no Brasil, 2ª ed. (2022).",
   "tags": [
    "ILTB (CM)",
-   "Doença Pulmonar Intersticial (CM)"
+   "Outros temas em Pneumologia (CM)"
   ],
   "sourceQuestionId": null,
   "alvo": "Limiar: grupo de risco colocado na faixa errada."
@@ -70,34 +70,35 @@
   "id": "S15-PNE-03",
   "simulado": 15,
   "area": "Pneumologia",
-  "titulo": "Bola fúngica estável em cavidade antiga em assintomática: aspergiloma simples, observação e não antifúngico",
-  "arma": "Grade X / Y",
-  "comando": "diagnóstico",
+  "titulo": "Hidrotórax hepático com febre e líquido ascítico sem peritonite: toracocentese diagnóstica para empiema bacteriano espontâneo",
+  "arma": "Negativo no meio",
+  "comando": "próximo exame",
   "nivel": "difícil",
-  "enunciado": "Mulher de 52 anos, tratada para tuberculose pulmonar há 9 anos com cura comprovada, está assintomática e faz TC de tórax por avaliação de rotina: cavidade de paredes finas de 3 cm no lobo superior direito, com massa intracavitária que muda de posição em decúbito ventral e sinal do crescente aéreo, sem mudança em relação a uma TC de 4 anos atrás; sem espessamento pleural novo nem outras cavidades. Nega tosse, hemoptise, febre ou perda de peso. IgG anti-Aspergillus positiva; baciloscopia e TRM-TB no escarro negativos. O diagnóstico e a conduta mais adequados são, respectivamente:",
+  "enunciado": "Homem de 54 anos com cirrose alcoólica Child-Pugh C, abstinente há 1 ano, em uso de espironolactona, furosemida e propranolol, tem derrame pleural direito há 6 meses, puncionado duas vezes para alívio, sempre com transudato. Há 2 dias tem febre de 38,4 °C, piora da dispneia e sonolência. PA 102/64 mmHg, FC 104 bpm, SpO2 93% em ar ambiente; asterixe presente; ascite moderada; sem dor abdominal. Radiografia de tórax: derrame à direita até a metade do hemitórax, semelhante ao de 3 semanas atrás, sem opacidade no pulmão contralateral. Paracentese diagnóstica: 120 polimorfonucleares/mm³, proteína total 0,9 g/dL, cultura em andamento. Urina tipo 1 normal; hemoculturas colhidas. O próximo exame mais adequado é:",
   "alternativas": {
-   "A": "Aspergilose cavitária crônica / itraconazol por 6 meses",
-   "B": "Aspergilose invasiva / voriconazol",
-   "C": "Reativação de tuberculose / esquema básico",
-   "D": "Aspergiloma simples / observação clínica e radiológica"
+   "A": "Ecocardiograma transtorácico",
+   "B": "Nova paracentese em 48 horas",
+   "C": "TC de tórax com contraste",
+   "D": "Toracocentese diagnóstica com cultura"
   },
   "gabarito": "D",
-  "armadilha": "A",
-  "dado_decisivo": "sem mudança em relação a uma TC de 4 anos atrás",
-  "resolucao": "A IgG anti-Aspergillus positiva e a bola fúngica puxam o diagnóstico de aspergilose cavitária crônica e o antifúngico. A aspergilose pulmonar cavitária crônica, porém, exige doença ativa: sintomas por mais de 3 meses (tosse, perda de peso, hemoptise) ou cavidades que se expandem, se multiplicam ou espessam a pleura. Aqui há uma única cavidade de parede fina, estável há 4 anos, numa paciente sem sintomas: aspergiloma simples. O antifúngico não penetra a bola fúngica nem a resolve, e a diretriz da IDSA recomenda observação nos assintomáticos sem progressão; a cirurgia é reservada à hemoptise ou à progressão. A forma invasiva exige imunossupressão grave, e a tuberculose foi afastada.",
+  "armadilha": "C",
+  "dado_decisivo": "120 polimorfonucleares/mm³",
+  "resolucao": "O líquido ascítico com 120 polimorfonucleares afasta a peritonite bacteriana espontânea, a urina é normal, e o derrame é o mesmo de sempre na radiografia: o apressado conclui que o foco está escondido no pulmão e pede a TC de tórax. O dado que manda é o próprio derrame: num cirrótico com hidrotórax hepático, febre ou piora clínica sem foco definido pedem toracocentese diagnóstica, porque o empiema bacteriano espontâneo (infecção do hidrotórax sem pneumonia) ocorre em até 13% dos cirróticos com hidrotórax e, em cerca de 40% dos casos, sem peritonite associada. O diagnóstico é feito com cultura positiva e mais de 250 neutrófilos/mm³, ou cultura negativa e mais de 500, sem pneumonia que o explique; o líquido deve ser semeado em frascos de hemocultura à beira do leito. A TC não substitui a análise do líquido e atrasa o diagnóstico. Na nova paracentese não há o que ganhar, porque a ascite já foi analisada e não há suspeita de peritonite secundária.",
   "comentarios": {
-   "A": "Errada. Seria o diagnóstico com sintomas há mais de 3 meses ou cavidades em expansão; a IgG positiva sozinha não define atividade.",
-   "B": "Errada. Exigiria imunossupressão grave (neutropenia, transplante) e quadro agudo.",
-   "C": "Errada. A massa móvel com crescente e os exames micobacteriológicos negativos falam contra; TB não se trata por suspeita aqui.",
-   "D": "Correta. Cavidade única, parede fina, estável há 4 anos e paciente assintomática: aspergiloma simples, observação."
+   "A": "Errada. Seria pedido para afastar causa cardíaca de derrame ou hipertensão portopulmonar; não investiga a febre.",
+   "B": "Errada. Repetir a paracentese em 48 horas avalia resposta ao tratamento da peritonite ou suspeita de peritonite secundária; aqui a ascite não está infectada.",
+   "C": "Errada. Procuraria pneumonia oculta ou loculação, mas não analisa o líquido; o foco mais provável é o próprio hidrotórax, e só a punção o diagnostica.",
+   "D": "Correta. Hidrotórax hepático com febre sem foco e ascite sem peritonite: toracocentese com contagem celular e cultura em frasco de hemocultura para empiema bacteriano espontâneo."
   },
-  "para_levar": "Bola fúngica em cavidade antiga: assintomática e estável é aspergiloma simples (observar; operar se hemoptise). Sintomas há mais de 3 meses ou cavidade que cresce é aspergilose cavitária crônica (itraconazol por 6 meses ou mais).",
-  "referencias": "IDSA Practice Guidelines for the Diagnosis and Management of Aspergillosis (2016); ESCMID/ERS Chronic Pulmonary Aspergillosis Guidelines (2016).",
+  "para_levar": "Cirrótico com hidrotórax e febre sem foco: puncionar o tórax. Empiema bacteriano espontâneo pode ocorrer sem peritonite bacteriana espontânea (cultura positiva com mais de 250 neutrófilos, ou mais de 500 com cultura negativa).",
+  "referencias": "AASLD Practice Guidance: Diagnosis, Evaluation and Management of Ascites, Spontaneous Bacterial Peritonitis and Hepatorenal Syndrome (Biggins SW et al., Hepatology 2021); EASL Clinical Practice Guidelines for the management of patients with decompensated cirrhosis (2018).",
   "tags": [
-   "Aspergilose (CM)"
+   "Derrame Pleural (CM)",
+   "Cirrose e Complicações (CM)"
   ],
   "sourceQuestionId": null,
-  "alvo": "Tratar o que não precisa; exame positivo (IgG) lido como indicação."
+  "alvo": "Exame negativo (ascite sem PBE) lido como fim da investigação; o líquido que decide é outro."
  },
  {
   "id": "S15-PNE-04",

@@ -106,35 +106,35 @@
   "id": "S12-END-04",
   "simulado": 12,
   "area": "Endocrinologia",
-  "titulo": "Feocromocitoma diagnosticado com 14 semanas de gestação: alfabloqueio com doxazosina e adrenalectomia laparoscópica antes de 24 semanas",
+  "titulo": "Feocromocitoma bioquímico na gestação de 14 semanas: alfabloqueio antes de qualquer betabloqueador e localização por ressonância sem gadolínio",
   "arma": "Grade X / Y",
   "comando": "conduta",
   "nivel": "extremamente difícil",
-  "enunciado": "Gestante de 31 anos, secundigesta, com 14 semanas, é encaminhada por hipertensão: PA de 168 x 104 mmHg na primeira consulta, com crises de cefaleia, palpitações e sudorese, uma delas durante a ultrassonografia transvaginal. A gestação anterior, há 4 anos, foi normotensa. Proteinúria negativa, plaquetas e transaminases normais. Metanefrinas livres plasmáticas: normetanefrina 8 vezes o limite superior. Ressonância sem gadolínio mostra massa adrenal esquerda de 4 cm, hiperintensa em T2. Usa metildopa 750 mg/dia, iniciada há 1 semana na UBS. Quanto ao controle pressórico e ao momento da adrenalectomia, a conduta mais adequada é, respectivamente:",
+  "enunciado": "Gestante de 31 anos, secundigesta, com 14 semanas, é encaminhada por hipertensão: PA de 168 x 104 mmHg na primeira consulta, com crises de cefaleia, palpitações e sudorese, uma delas durante a ultrassonografia transvaginal. A gestação anterior, há 4 anos, foi normotensa. Proteinúria negativa, plaquetas e transaminases normais. FC 104 bpm. Usa metildopa 750 mg/dia, iniciada há 1 semana na UBS, sem melhora. Metanefrinas livres plasmáticas: normetanefrina 8 vezes o limite superior, confirmada nas urinárias de 24 horas. Ainda não fez exame de imagem. Quanto ao controle pressórico inicial e ao exame para localizar o tumor, a conduta mais adequada é, respectivamente:",
   "alternativas": {
-   "A": "Doxazosina / laparoscópica antes de 24 semanas",
-   "B": "Labetalol / laparoscópica antes de 24 semanas",
-   "C": "Doxazosina / após o parto, com a cesariana",
-   "D": "Metildopa em dose máxima / após o parto"
+   "A": "Doxazosina / ressonância sem gadolínio",
+   "B": "Labetalol / ressonância sem gadolínio",
+   "C": "Doxazosina / cintilografia com MIBG",
+   "D": "Labetalol / tomografia com contraste"
   },
   "gabarito": "A",
   "armadilha": "B",
-  "dado_decisivo": "com 14 semanas",
-  "resolucao": "Hipertensão na gestação puxa para os anti-hipertensivos de manual da gestante (metildopa, labetalol), e o labetalol parece ainda melhor por ter efeito alfa, que é a armadilha. No feocromocitoma, o primeiro passo é o bloqueio alfa seletivo; betabloqueador antes do alfabloqueio, e o labetalol tem ação beta muito maior que a alfa, pode precipitar crise hipertensiva por estímulo alfa sem oposição. A doxazosina é preferida na gestação por atravessar menos a placenta que a fenoxibenzamina. Quanto ao momento, com diagnóstico na primeira metade da gestação a adrenalectomia laparoscópica é feita no segundo trimestre, antes de 24 semanas, depois de 10 a 14 dias de preparo; após 24 semanas, o útero dificulta o acesso e a cirurgia fica para a cesariana ou depois do parto. A metildopa não controla o excesso de catecolaminas e deve ser trocada.",
+  "dado_decisivo": "normetanefrina 8 vezes o limite superior",
+  "resolucao": "Hipertensão na gestação puxa para os anti-hipertensivos de manual da gestante, e o labetalol, com taquicardia e algum efeito alfa, parece ainda melhor: é a armadilha. Mas a normetanefrina 8 vezes acima do limite, confirmada na urina, fecha excesso de catecolaminas, e no feocromocitoma o primeiro passo é sempre o bloqueio alfa seletivo; o labetalol tem ação beta muito maior que a alfa, e betabloqueio sem alfabloqueio prévio deixa o estímulo alfa sem oposição e pode precipitar crise hipertensiva. O betabloqueador só entra depois, se a taquicardia persistir. A doxazosina é preferida na gestação por atravessar menos a placenta que a fenoxibenzamina. Para localizar, a ressonância sem gadolínio é o exame da gestante: não irradia e mostra bem a lesão hiperintensa em T2. Tomografia irradia o feto e o contraste iodado é dispensável, e a cintilografia com MIBG é contraindicada na gestação pela radiação e pelo iodo radioativo, que a tireoide fetal capta. A metildopa não controla o excesso de catecolaminas e deve ser trocada.",
   "comentarios": {
-   "A": "Correta. Alfabloqueio seletivo e adrenalectomia laparoscópica no segundo trimestre, antes de 24 semanas, quando o diagnóstico é feito cedo.",
-   "B": "Errada. É a armadilha: labetalol é primeira linha na hipertensão da gestação, mas no feocromocitoma o predomínio beta pode desencadear crise antes do alfabloqueio.",
-   "C": "Errada. O controle está certo, mas adiar a cirurgia para o parto é a conduta quando o diagnóstico vem após 24 semanas; com 14 semanas, operar expõe menos mãe e feto a crises.",
-   "D": "Errada. Metildopa não bloqueia os receptores das catecolaminas tumorais e deixa a gestação inteira sob risco de crise."
+   "A": "Correta. Alfabloqueio seletivo primeiro e localização sem radiação nem contraste, pela ressonância sem gadolínio.",
+   "B": "Errada. É a armadilha: a imagem está certa, mas labetalol é primeira linha na hipertensão gestacional comum; no feocromocitoma, o predomínio beta antes do alfabloqueio pode desencadear crise.",
+   "C": "Errada. O controle está certo, mas a cintilografia com MIBG irradia e expõe a tireoide fetal ao iodo radioativo; fora da gestação, ela tem papel em doença metastática ou extra-adrenal.",
+   "D": "Errada. Erra as duas decisões: betabloqueio sem alfa prévio e tomografia com contraste, que seria o exame de localização fora da gestação."
   },
-  "para_levar": "Feocromocitoma na gestação: alfabloqueio primeiro (doxazosina), nunca betabloqueador antes; cirurgia antes de 24 semanas se diagnosticado cedo, senão na cesariana ou depois.",
+  "para_levar": "Feocromocitoma na gestação: alfabloqueio primeiro (doxazosina), betabloqueador só depois e nunca antes; localizar com ressonância sem gadolínio, sem tomografia nem MIBG.",
   "referencias": "Endocrine Society 2014 (Pheochromocytoma and Paraganglioma); Bancos e cols., Maternal and fetal outcomes in phaeochromocytoma and pregnancy (Lancet Diabetes Endocrinol 2021).",
   "tags": [
    "Feocromocitoma (CM)",
    "HAS Secundária (CM)"
   ],
   "sourceQuestionId": "61e8c27b735edda",
-  "alvo": "Rótulo verdadeiro (hipertensão da gestante) puxando a droga de manual; ordem e momento da conduta."
+  "alvo": "Ignorar o diagnóstico que já está nos exames e usar o anti-hipertensivo de manual da gestante; exame a mais ou proibido (MIBG, TC) na gestação."
  },
  {
   "id": "S12-END-05",

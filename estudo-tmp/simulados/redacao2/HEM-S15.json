@@ -1,0 +1,205 @@
+[
+ {
+  "id": "S15-HEM-01",
+  "simulado": 15,
+  "area": "Hematologia",
+  "titulo": "LMA com t(8;21) em remissão com doença residual negativa: risco favorável e consolidação com citarabina em altas doses, sem transplante",
+  "arma": "Grade X / Y",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Homem de 38 anos, com leucemia mieloide aguda: leucócitos 12.000/mm³, blastos mieloides com bastonetes de Auer, cariótipo 46,XY,t(8;21)(q22;q22.1) com fusão RUNX1::RUNX1T1, mutação de KIT no éxon 17, FLT3 e TP53 sem mutação. Após indução com daunorrubicina e citarabina, está em remissão completa, com doença residual mensurável negativa por PCR do transcrito de fusão. Tem um irmão HLA-idêntico disponível e deseja o tratamento com maior chance de cura e menor toxicidade. A categoria de risco pela ELN 2022 e a terapia pós-remissão são, respectivamente:",
+  "alternativas": {
+   "A": "Favorável / citarabina em altas doses",
+   "B": "Favorável / transplante alogênico com o irmão",
+   "C": "Adverso / transplante alogênico com o irmão",
+   "D": "Adverso / citarabina em altas doses"
+  },
+  "gabarito": "A",
+  "armadilha": "C",
+  "dado_decisivo": "mutação de KIT no éxon 17",
+  "resolucao": "A mutação de KIT na LMA com t(8;21) foi, por anos, considerada marcador de pior prognóstico, e quem guarda essa regra classifica como risco adverso e manda para transplante, sobretudo com irmão compatível disponível. A ELN 2022 classifica as LMA com fatores de ligação ao core (t(8;21) e inv(16)) como risco favorável independentemente de KIT, e o que hoje separa os pacientes de pior evolução é a doença residual mensurável. Com remissão completa e DRM negativa, o risco é favorável e a consolidação é citarabina em altas doses (3 a 4 ciclos), com seguimento seriado do transcrito RUNX1::RUNX1T1. O transplante alogênico em primeira remissão no risco favorável traz mortalidade sem recaída que supera o ganho; fica para DRM persistente ou em ascensão, ou para recaída.",
+  "comentarios": {
+   "A": "Correta. t(8;21) é risco favorável pela ELN 2022, e com DRM negativa a consolidação é citarabina em altas doses.",
+   "B": "Errada. A categoria está certa, mas transplante em primeira remissão no risco favorável com DRM negativa expõe a toxicidade sem benefício.",
+   "C": "Errada nas duas metades, é a armadilha. Classificar pela mutação de KIT é regra antiga; a ELN 2022 a retirou.",
+   "D": "Errada. A consolidação está certa, mas a categoria não; e no risco adverso o caminho seria transplante."
+  },
+  "para_levar": "LMA com t(8;21) ou inv(16) é risco favorável pela ELN 2022, com ou sem KIT; com DRM negativa, consolidar com citarabina em altas doses e acompanhar o transcrito, sem transplante em primeira remissão.",
+  "referencias": "Döhner H et al., Diagnosis and management of AML in adults: 2022 ELN recommendations (Blood 2022); NCCN Guidelines Acute Myeloid Leukemia (2025).",
+  "tags": [
+   "LMA (CM)"
+  ],
+  "sourceQuestionId": "526f391c2632222",
+  "alvo": "Leucemias erradas no banco (3 erros); regra antiga fixada e o tratamento do degrau mais alto."
+ },
+ {
+  "id": "S15-HEM-02",
+  "simulado": 15,
+  "area": "Hematologia",
+  "titulo": "Hipercalcemia grave no mieloma com clearance de 16 mL/min: denosumabe no lugar do bisfosfonato",
+  "arma": "Limiar",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Homem de 70 anos, com mieloma múltiplo IgA lambda diagnosticado há 1 semana, ainda sem tratamento, é admitido por sonolência, constipação e poliúria. PA 108 x 66 mmHg, mucosas secas. Cálcio total corrigido 14,6 mg/dL, creatinina 3,9 mg/dL (clearance estimado de 16 mL/min), sem valor basal conhecido, potássio 4,2 mEq/L, albumina 3,4 g/dL. Iniciados soro fisiológico a 250 mL/h e calcitonina subcutânea; após 6 horas, diurese de 120 mL/h, sem sinais de congestão. Além da dexametasona e do tratamento do mieloma, o agente antirreabsortivo mais adequado é:",
+  "alternativas": {
+   "A": "Ácido zoledrônico 4 mg intravenoso",
+   "B": "Pamidronato 90 mg em 2 horas",
+   "C": "Ibandronato oral diário",
+   "D": "Denosumabe 120 mg subcutâneo"
+  },
+  "gabarito": "D",
+  "armadilha": "A",
+  "dado_decisivo": "clearance estimado de 16 mL/min",
+  "resolucao": "Na hipercalcemia da malignidade, a sequência de manual é hidratação, calcitonina como ponte e bisfosfonato intravenoso, de preferência ácido zoledrônico, o que faz marcá-lo sem olhar o rim. Mas o limiar decide: com clearance abaixo de 30 mL/min, o zoledronato não é recomendado (nefrotoxicidade, necrose tubular e glomeruloesclerose), e o pamidronato, se usado, exige dose reduzida e infusão lenta, nunca 90 mg em 2 horas. O denosumabe, anticorpo anti-RANKL, não é eliminado pelo rim, reduz o cálcio de forma eficaz e é a escolha do IMWG para o mieloma com insuficiência renal grave. Exige vigilância de hipocalcemia nos dias seguintes, mais provável na DRC, com dosagens seriadas e reposição de cálcio e vitamina D assim que a calcemia normalizar. A causa da lesão renal (hipercalcemia, desidratação, cadeia leve) deve ser abordada em paralelo.",
+  "comentarios": {
+   "A": "Errada, é a armadilha. É a escolha com clearance acima de 30 mL/min; abaixo disso, é nefrotóxico e contraindicado.",
+   "B": "Errada. Pamidronato na DRC grave só em dose menor e infusão de 4 a 6 horas; 90 mg em 2 horas lesa o rim.",
+   "C": "Errada. Bisfosfonato oral tem absorção mínima e efeito lento; não trata hipercalcemia grave.",
+   "D": "Correta. Hipercalcemia grave no mieloma com clearance de 16 mL/min: denosumabe, que não depende do rim."
+  },
+  "para_levar": "Hipercalcemia da malignidade com clearance abaixo de 30 mL/min: denosumabe em vez de zoledronato, com vigilância de hipocalcemia nos dias seguintes.",
+  "referencias": "Terpos E et al., IMWG recommendations for the treatment of myeloma-related bone disease (Lancet Oncol 2021); Endocrine Society Clinical Practice Guideline, Treatment of hypercalcemia of malignancy in adults (2023).",
+  "tags": [
+   "Mieloma Múltiplo (CM)",
+   "Hipercalcemia Relacionada à Malignidade (CM)"
+  ],
+  "sourceQuestionId": "5ca99835fd3dbe7",
+  "alvo": "Mieloma com hipercalcemia errado no banco; a função renal (primeira linha) ignorada na escolha da droga."
+ },
+ {
+  "id": "S15-HEM-03",
+  "simulado": 15,
+  "area": "Hematologia",
+  "titulo": "Mulher de família com hemofilia B, com menorragia e TTPa normal antes de cirurgia: dosar o fator IX",
+  "arma": "Negativo no meio",
+  "comando": "próximo exame",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 28 anos será submetida a colecistectomia videolaparoscópica eletiva. O irmão e um tio materno têm hemofilia B grave. Relata menorragia desde a menarca, com ferropenia tratada duas vezes, e sangramento prolongado após exodontia aos 19 anos. Nega uso de medicamentos. Exame físico sem equimoses. Exames: Hb 12,4 g/dL, plaquetas 260.000/mm³, TP normal, TTPa de 33 segundos (VR 25 a 35), fibrinogênio 280 mg/dL. O próximo exame mais adequado é:",
+  "alternativas": {
+   "A": "Dosagem da atividade do fator IX",
+   "B": "Fator de von Willebrand e fator VIII",
+   "C": "Sequenciamento do gene F9 isolado",
+   "D": "Nenhum, TTPa normal libera a cirurgia"
+  },
+  "gabarito": "A",
+  "armadilha": "D",
+  "dado_decisivo": "TTPa de 33 segundos (VR 25 a 35)",
+  "resolucao": "TTPa normal costuma ser lido como garantia de hemostasia, e aqui ele tranquiliza. Mas o TTPa só se alonga quando o fator IX cai abaixo de cerca de 30% a 40%, e portadoras de hemofilia B podem ter fator IX entre 20% e 50% (por inativação desigual do X) com sangramento real: menorragia, sangramento pós-exodontia e pós-cirúrgico. Ela é portadora obrigatória? Não necessariamente, mas é filha de mãe portadora provável (irmão e tio materno afetados), com 50% de chance de ser portadora, e já tem fenótipo hemorrágico. Antes de uma cirurgia, o exame que muda a conduta é a dosagem da atividade do fator IX: se baixa, o preparo é com concentrado de fator IX e antifibrinolítico. O estudo genético define o estado de portadora para aconselhamento reprodutivo, mas não informa o risco de sangramento; a pesquisa de von Willebrand cabe a menorragia sem história familiar sugestiva.",
+  "comentarios": {
+   "A": "Correta. Possível portadora de hemofilia B com fenótipo hemorrágico: dosar o fator IX antes da cirurgia, porque o TTPa pode ser normal.",
+   "B": "Errada. Seria o exame de menorragia sem história familiar de hemofilia; aqui a história aponta o fator IX.",
+   "C": "Errada. Define o estado de portadora, mas não o nível do fator, que é o que orienta o preparo cirúrgico.",
+   "D": "Errada, é a armadilha. TTPa normal não exclui fator IX de 30% a 40%, nível que sangra em cirurgia."
+  },
+  "para_levar": "Portadora de hemofilia pode sangrar com TTPa normal: em mulher de família afetada, dosar o fator antes de procedimento.",
+  "referencias": "WFH Guidelines for the Management of Hemophilia, 3ª edição (2020); ISTH, nomenclatura de mulheres e meninas com hemofilia (van Galen et al., J Thromb Haemost 2021).",
+  "tags": [
+   "Hemofilias (CM)",
+   "Pré-Operatório (CM)"
+  ],
+  "sourceQuestionId": "53ad4e8c304d72b",
+  "alvo": "Coagulograma normal lido como garantia (negativo no meio); próximo exame."
+ },
+ {
+  "id": "S15-HEM-04",
+  "simulado": 15,
+  "area": "Hematologia",
+  "titulo": "Transfusão maciça empírica: plasma, plaquetas e hemácias na proporção de 1:1:1",
+  "arma": "Qualificador",
+  "comando": "fato solto",
+  "nivel": "média",
+  "enunciado": "Na transfusão maciça empírica do paciente com hemorragia grave, antes de haver resultado de coagulograma ou de teste viscoelástico, a proporção de plasma, plaquetas e concentrado de hemácias que resultou em melhor hemostasia e menos mortes por exsanguinação nas primeiras 24 horas é:",
+  "alternativas": {
+   "A": "1:1:2",
+   "B": "1:1:1",
+   "C": "1:2:4",
+   "D": "2:1:1"
+  },
+  "gabarito": "B",
+  "armadilha": "A",
+  "dado_decisivo": "menos mortes por exsanguinação nas primeiras 24 horas",
+  "resolucao": "A proporção 1:1:2 (uma unidade de plasma e uma de plaquetas para cada duas de hemácias) foi o padrão de muitos protocolos e também é uma relação alta, o que a torna atraente. O estudo PROPPR comparou diretamente 1:1:1 com 1:1:2 no trauma com hemorragia grave: não houve diferença de mortalidade total em 24 horas e 30 dias, mas o grupo 1:1:1 atingiu hemostasia com mais frequência e teve menos mortes por exsanguinação nas primeiras 24 horas, sem aumento de complicações. Por isso os protocolos de transfusão maciça empírica usam proporções próximas de 1:1:1 até que exames de coagulação ou viscoelásticos permitam guiar a reposição por metas. O qualificador do comando (empírica, antes dos exames, exsanguinação) é o que separa as duas respostas.",
+  "comentarios": {
+   "A": "Errada, é a armadilha. Foi o braço comparador do PROPPR, sem vantagem em hemostasia e com mais mortes por exsanguinação.",
+   "B": "Correta. No PROPPR, 1:1:1 deu mais hemostasia e menos mortes por exsanguinação em 24 horas.",
+   "C": "Errada. Proporção baixa de plasma e plaquetas, que agrava a coagulopatia dilucional.",
+   "D": "Errada. Excesso de plasma sem base em estudo, com mais sobrecarga de volume e citrato."
+  },
+  "para_levar": "Transfusão maciça empírica: plasma, plaquetas e hemácias perto de 1:1:1 até que exames permitam guiar por metas.",
+  "referencias": "Holcomb JB et al., PROPPR (JAMA 2015); European guideline on management of major bleeding and coagulopathy following trauma, 6ª edição (2023).",
+  "tags": [
+   "Hemoterapia (CM)",
+   "Choque Hipovolêmico (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Hemoterapia (0 de 4 no app); qualificador do comando que separa duas respostas próximas."
+ },
+ {
+  "id": "S15-HEM-05",
+  "simulado": 15,
+  "area": "Hematologia",
+  "titulo": "Neutropenia isolada meses após R-CHOP com PET em remissão: neutropenia tardia pelo rituximabe",
+  "arma": "Droga a deduzir",
+  "comando": "etiologia",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 58 anos, com linfoma difuso de grandes células B, terminou 6 ciclos de R-CHOP há 4 meses, com PET-CT de fim de tratamento em remissão metabólica completa (Deauville 2). Assintomática e afebril. Hemograma de rotina: Hb 12,4 g/dL, leucócitos 1.900/mm³, neutrófilos 420/mm³, linfócitos 1.200/mm³, plaquetas 210.000/mm³. Os hemogramas de 2 e 3 meses após o último ciclo eram normais. Sem linfonodomegalias nem esplenomegalia, LDH normal, B12 e folato normais. Esfregaço sem blastos e sem displasia. A causa mais provável da neutropenia é:",
+  "alternativas": {
+   "A": "Neutropenia tardia pelo rituximabe",
+   "B": "Neoplasia mieloide relacionada à terapia",
+   "C": "Recidiva com infiltração medular",
+   "D": "Hiperesplenismo"
+  },
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "Os hemogramas de 2 e 3 meses após o último ciclo eram normais",
+  "resolucao": "Citopenia nova depois de quimioterapia com ciclofosfamida e doxorrubicina faz temer neoplasia mieloide relacionada à terapia ou recidiva com infiltração da medula. Mas a neoplasia relacionada a alquilante surge, em geral, 5 a 7 anos depois (e 1 a 3 anos para inibidores de topoisomerase), com displasia e outras citopenias; a recidiva viria com LDH alta, linfonodos ou outras linhagens comprometidas, e o PET foi negativo. A droga a deduzir está no R do esquema: o rituximabe causa neutropenia isolada de início tardio (late-onset neutropenia), semanas a meses após a última dose, depois de hemogramas normais, em até 5% a 25% dos tratados. Costuma ser autolimitada e se resolve em semanas; com neutrófilos acima de 500 e sem febre, a conduta é observação, com fator estimulador de colônias reservado para neutropenia profunda ou infecção.",
+  "comentarios": {
+   "A": "Correta. Neutropenia isolada meses após rituximabe, com hemogramas intermediários normais e remissão do linfoma.",
+   "B": "Errada, é a armadilha. Aparece anos após alquilante, com displasia e outras citopenias; 4 meses é cedo demais.",
+   "C": "Errada. PET em remissão, LDH normal e plaquetas e Hb normais contrariam infiltração medular.",
+   "D": "Errada. Não há esplenomegalia, e o hiperesplenismo afetaria também as plaquetas."
+  },
+  "para_levar": "Neutropenia isolada semanas a meses depois de rituximabe, com hemogramas intermediários normais, é neutropenia tardia pelo anticorpo: em geral autolimitada.",
+  "referencias": "Wolach O et al., Late-onset neutropenia after rituximab treatment (Medicine 2010); NCCN Guidelines B-cell Lymphomas (2025), seção de toxicidades.",
+  "tags": [
+   "Linfomas (CM)",
+   "Esquemas Quimioterápicos e Efeitos Colaterais (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Neutropenias adquiridas por droga; a droga em uso (dentro da sigla do esquema) ignorada."
+ },
+ {
+  "id": "S15-HEM-06",
+  "simulado": 15,
+  "area": "Hematologia",
+  "titulo": "Hipereosinofilia com B12 e triptase altas, esplenomegalia e fibrose endomiocárdica, sem resposta à ivermectina: neoplasia mieloide com FIP1L1::PDGFRA",
+  "arma": "Dado omitido",
+  "comando": "etiologia",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 42 anos, de área rural, com dispneia progressiva e edema há 4 meses. Eosinófilos de 6.800/mm³ e de 7.200/mm³ em dois hemogramas com 6 semanas de intervalo, apesar de duas doses de ivermectina e de albendazol. Nega asma, rinite ou uso de medicamentos novos. Exame: baço a 5 cm do rebordo costal, sem lesões de pele. Ecocardiograma: obliteração do ápice do ventrículo esquerdo por material ecogênico e padrão restritivo. Exames: Hb 12,9 g/dL, plaquetas 160.000/mm³, vitamina B12 sérica 2.900 pg/mL (VR 200 a 900), triptase sérica 28 ng/mL (VR até 11,4), IgE normal, ANCA negativo, sorologia para Strongyloides negativa, parasitológico de fezes seriado negativo. A etiologia mais provável é:",
+  "alternativas": {
+   "A": "Estrongiloidíase",
+   "B": "Granulomatose eosinofílica com poliangeíte",
+   "C": "Neoplasia mieloide com FIP1L1::PDGFRA",
+   "D": "Síndrome hipereosinofílica idiopática"
+  },
+  "gabarito": "C",
+  "armadilha": "A",
+  "dado_decisivo": "vitamina B12 sérica 2.900 pg/mL (VR 200 a 900), triptase sérica 28 ng/mL",
+  "resolucao": "Eosinofilia acima de 1.500 em paciente de área rural no Brasil leva à estrongiloidíase, e o rótulo pesa porque a doença é endêmica. Mas a eosinofilia persistiu após duas doses de ivermectina, com sorologia e parasitológico negativos, e o quadro tem dados que o raciocínio parasitário não explica: esplenomegalia, vitamina B12 sérica muito elevada (pela transcobalamina dos granulócitos em expansão clonal) e triptase aumentada. Esse trio em homem com hipereosinofilia e lesão de órgão (fibrose endomiocárdica, a doença de Löffler) é a assinatura da neoplasia mieloide com rearranjo FIP1L1::PDGFRA, que se pesquisa por FISH ou PCR no sangue. O diagnóstico importa porque a doença responde de forma dramática a imatinibe em dose baixa, inclusive com estabilização do coração; a síndrome hipereosinofílica idiopática é diagnóstico de exclusão, só depois de afastar o rearranjo.",
+  "comentarios": {
+   "A": "Errada, é a armadilha. Endêmica e plausível, mas não explica B12 e triptase altas nem esplenomegalia, e não respondeu à ivermectina com sorologia negativa.",
+   "B": "Errada. Exigiria asma (quase universal na EGPA), sinusite ou vasculite; não há asma e o ANCA é negativo.",
+   "C": "Correta. Hipereosinofilia com esplenomegalia, B12 e triptase elevadas e fibrose endomiocárdica: neoplasia mieloide com FIP1L1::PDGFRA, sensível a imatinibe.",
+   "D": "Errada. É diagnóstico de exclusão; B12 e triptase altas apontam um clone mieloide a pesquisar antes."
+  },
+  "para_levar": "Hipereosinofilia com esplenomegalia, B12 e triptase altas é neoplasia mieloide até prova em contrário: pesquisar FIP1L1::PDGFRA, porque responde a imatinibe.",
+  "referencias": "Shomali W, Gotlib J, World Health Organization-defined eosinophilic disorders: 2024 update (Am J Hematol 2024); Classificação OMS de neoplasias hematolinfoides, 5ª edição (2022).",
+  "tags": [
+   "Síndromes da Medula Óssea (CM)",
+   "Cardiomiopatias Restritivas (CM)"
+  ],
+  "sourceQuestionId": "893b5dbd3301606",
+  "alvo": "Eosinofilia errada no banco; reincidente UERJ Löffler/endomiocardiofibrose com ângulo hematológico; dado laboratorial lido como enfeite."
+ }
+]
