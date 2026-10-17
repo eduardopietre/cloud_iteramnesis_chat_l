@@ -1,0 +1,172 @@
+[
+ {
+  "id": "S8-NEU-01",
+  "simulado": 8,
+  "titulo": "Rebaixamento que não melhora 90 minutos depois da crise, com abalos sutis: estado de mal não convulsivo, não pós-ictal",
+  "arma": "Cronologia",
+  "comando": "diagnóstico",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 67 anos, com epilepsia focal por sequela de AVC em uso de levetiracetam (a família refere que ela ficou sem a medicação nos últimos 4 dias), teve em casa uma crise tônico-clônica bilateral de 3 minutos. No pronto-socorro, 15 minutos depois, recebeu diazepam 10 mg IV por agitação. Uma hora e meia após a crise, permanece com Glasgow 9 (abertura ocular à dor, sons incompreensíveis, localiza a dor), sem movimentos tônico-clônicos; observam-se piscamentos rítmicos e breves abalos intermitentes no canto esquerdo da boca. Tax 37,4 °C, PA 150/88 mmHg, glicemia 118 mg/dL, sódio 137 mEq/L, cálcio e magnésio normais. TC de crânio: encefalomalácia antiga temporoparietal direita, sem lesão nova. O diagnóstico mais provável é:",
+  "alternativas": {
+   "A": "Estado pós-ictal prolongado",
+   "B": "Sedação residual pelo diazepam",
+   "C": "Estado de mal epiléptico não convulsivo",
+   "D": "AVC isquêmico de tronco encefálico"
+  },
+  "gabarito": "C",
+  "armadilha": "A",
+  "dado_decisivo": "Uma hora e meia após a crise, permanece com Glasgow 9",
+  "resolucao": "Depois de uma crise generalizada e de um benzodiazepínico, rebaixamento é esperado, e 'pós-ictal' é o rótulo que encerra a investigação. Mas o pós-ictal melhora de forma progressiva: quem não começa a recuperar a consciência em 30 a 60 minutos após uma crise tônico-clônica, e ainda tem fenômenos motores sutis e rítmicos (piscamentos, abalos perioral), está em estado de mal não convulsivo até prova em contrário. Ele ocorre em até metade dos pacientes após estado de mal convulsivo controlado e em parte dos que não recuperam após crise isolada. A suspensão do levetiracetam e a lesão estrutural antiga explicam o quadro. Diazepam 10 mg não sustenta 90 minutos de Glasgow 9 com abalos. A conduta é EEG contínuo urgente e tratamento como estado de mal (droga de segunda linha IV), sem esperar.",
+  "comentarios": {
+   "A": "Errada, é a armadilha. Pós-ictal após crise de 3 minutos melhora em minutos a poucas horas e de forma progressiva, sem abalos rítmicos; 90 minutos parado em Glasgow 9 com abalos não é pós-ictal.",
+   "B": "Errada. Seria considerada com doses repetidas ou altas de benzodiazepínico; dose única de diazepam não explica abalos rítmicos.",
+   "C": "Correta. Falta de recuperação da consciência além de 30 a 60 minutos com fenômenos motores sutis após crise convulsiva é estado de mal não convulsivo.",
+   "D": "Errada. AVC de tronco daria sinais de nervos cranianos e de vias longas; a TC sem lesão nova e os abalos rítmicos apontam para atividade epiléptica."
+  },
+  "para_levar": "Quem não volta da crise em 30 a 60 minutos, ou tem abalos sutis, está em estado de mal não convulsivo até o EEG provar o contrário.",
+  "referencias": "Neurocritical Care Society Guideline for Status Epilepticus 2012; AES Guideline for convulsive status epilepticus 2016; ILAE definição de estado de mal 2015 (Trinka et al.).",
+  "tags": [
+   "Estado de Mal Epiléptico (CM)",
+   "Epilepsia (CM)"
+  ],
+  "sourceQuestionId": "29f8cfdeeb52b08",
+  "alvo": "Estado de mal (sequência e reconhecimento): errou duas questões de estado de mal no Einstein; cronologia lida como enfeite.",
+  "area": "Neurologia"
+ },
+ {
+  "id": "S8-NEU-02",
+  "simulado": 8,
+  "titulo": "'Epilepsia refratária' com crises desencadeadas por susto sonoro e QTc de 510 ms: síndrome do QT longo",
+  "arma": "Rótulo verdadeiro",
+  "comando": "diagnóstico",
+  "nivel": "extremamente difícil",
+  "enunciado": "Mulher de 22 anos, com diagnóstico de epilepsia desde os 16 anos, usa carbamazepina 400 mg de 12/12 horas e foi encaminhada por 'crises refratárias'. Os episódios, cerca de quatro por ano, são de perda súbita de consciência com queda e abalos generalizados por 15 a 20 segundos, com recuperação em 1 a 2 minutos e sem confusão prolongada; dois ocorreram ao ser acordada pelo despertador e um ao ouvir o telefone tocar durante o banho. Um primo morreu afogado aos 19 anos. EEG interictal normal em duas ocasiões; RM de encéfalo normal. Exame físico normal, PA 112/70 mmHg, FC 56 bpm. Potássio 4,1 mEq/L, magnésio 2,0 mg/dL. ECG: ritmo sinusal, QTc de 510 ms, ondas T bífidas de V2 a V4. O diagnóstico mais provável é:",
+  "alternativas": {
+   "A": "Epilepsia generalizada agravada pela carbamazepina",
+   "B": "Epilepsia focal refratária do lobo temporal",
+   "C": "Crises não epilépticas psicogênicas",
+   "D": "Síndrome do QT longo congênito"
+  },
+  "gabarito": "D",
+  "armadilha": "B",
+  "dado_decisivo": "QTc de 510 ms",
+  "resolucao": "O diagnóstico de epilepsia é antigo e vem com droga em uso, e a palavra 'refratária' convida a trocar ou somar anticrise. Mas o padrão não é de crise: abalos breves de 15 a 20 segundos com recuperação rápida e sem confusão são síncope convulsiva, e os gatilhos (despertador, telefone, susto auditivo) mais a morte súbita por afogamento na família apontam para arritmia hereditária. O ECG, que costuma ser lido como exame de rotina, decide: QTc de 510 ms com T bífida é síndrome do QT longo, e o gatilho auditivo sugere o tipo 2. Até 30% dos pacientes com QT longo recebem antes um diagnóstico de epilepsia. A conduta é betabloqueador (nadolol ou propranolol), evitar drogas que prolongam o QT, avaliação para CDI e rastreio familiar, e não mais uma droga anticrise.",
+  "comentarios": {
+   "A": "Errada. Carbamazepina agrava mioclonias e ausências da epilepsia generalizada; aqui o ECG explica os eventos e o EEG é repetidamente normal.",
+   "B": "Errada, é a armadilha. Seria a hipótese com crises de semiologia focal, confusão pós-ictal e alteração no EEG ou na RM; os eventos são síncopes por arritmia.",
+   "C": "Errada. Crises psicogênicas duram mais, com olhos fechados e flutuação, e não explicariam QTc de 510 ms nem morte súbita na família.",
+   "D": "Correta. Síncope convulsiva com gatilho auditivo, morte súbita juvenil na família e QTc de 510 ms com T bífida: QT longo congênito."
+  },
+  "para_levar": "Epilepsia 'refratária' com eventos breves, gatilho por susto ou esforço e morte súbita na família: leia o ECG; QT longo se passa por epilepsia.",
+  "referencias": "ESC Guidelines for ventricular arrhythmias and prevention of sudden cardiac death 2022; ESC Guidelines for syncope 2018.",
+  "tags": [
+   "Epilepsia (CM)",
+   "Síncope (CM)",
+   "Taquiarritmias Venticulares (CM)"
+  ],
+  "sourceQuestionId": "8a409f0fd5cffe4",
+  "alvo": "Exame que decide (ECG) lido como enfeite quando um rótulo forte (epilepsia) vem antes.",
+  "area": "Neurologia"
+ },
+ {
+  "id": "S8-NEU-03",
+  "simulado": 8,
+  "titulo": "Epilepsia mioclônica juvenil em valproato que planeja engravidar: levetiracetam, e a troca antes da concepção",
+  "arma": "Grade X / Y",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 26 anos, com epilepsia mioclônica juvenil diagnosticada aos 15 anos (abalos matinais e duas crises tônico-clônicas generalizadas na adolescência), está sem crises há 4 anos com valproato de sódio 1.000 mg/dia. Casou-se e planeja engravidar daqui a 6 meses; usa preservativo. Não tem ausências nem mioclonias atuais. Exame normal; EEG recente com descargas esparsas de poliponta-onda generalizadas. A droga anticrise mais adequada e o momento da troca são, respectivamente:",
+  "alternativas": {
+   "A": "Levetiracetam / antes da concepção",
+   "B": "Levetiracetam / ao confirmar a gestação",
+   "C": "Carbamazepina / antes da concepção",
+   "D": "Carbamazepina / ao confirmar a gestação"
+  },
+  "gabarito": "A",
+  "armadilha": "C",
+  "dado_decisivo": "epilepsia mioclônica juvenil",
+  "resolucao": "As duas decisões têm armadilha. Na droga, a carbamazepina tem perfil gestacional aceitável e é lembrada como 'segura', mas bloqueadores de canal de sódio agravam mioclonias e ausências da epilepsia mioclônica juvenil, que é generalizada; a alternativa ao valproato nela é o levetiracetam (ou a lamotrigina, que pode piorar mioclonias). No tempo, o tubo neural fecha por volta do 28º dia, antes de a gestação ser confirmada: a troca do valproato, com titulação cruzada e checagem de controle, tem de ser feita antes da concepção, junto com ácido fólico. Retirar a droga não é opção: a epilepsia mioclônica juvenil recorre em quase todos ao suspender. O valproato tem o maior risco de malformações maiores (cerca de 10%) e de prejuízo cognitivo e autismo na prole.",
+  "comentarios": {
+   "A": "Correta. Levetiracetam controla a epilepsia mioclônica juvenil com baixo risco teratogênico, e a troca precisa terminar antes da concepção.",
+   "B": "Errada. A droga está certa, mas ao confirmar a gestação o tubo neural já se formou sob valproato; a janela de proteção perdeu-se.",
+   "C": "Errada, é a armadilha. O momento está certo, mas carbamazepina agrava mioclonias e ausências da epilepsia generalizada.",
+   "D": "Errada. Droga inadequada para epilepsia generalizada e troca tardia demais para proteger o embrião."
+  },
+  "para_levar": "Mulher com epilepsia em valproato que quer engravidar: trocar antes da concepção; na epilepsia generalizada (mioclônica juvenil) a troca é por levetiracetam, nunca carbamazepina.",
+  "referencias": "EMA/PRAC valproato 2018 e 2024; ILAE/EAN Task Force on valproate in women 2023 (Tomson et al.); AAN/AES Practice Guideline Update: epilepsy in pregnancy 2024.",
+  "tags": [
+   "Epilepsia (CM)"
+  ],
+  "sourceQuestionId": "7266b4bc6ac9987",
+  "alvo": "Farmacologia das drogas anticrise (errou carbamazepina e lacosamida) e população especial (gestação); cronologia da conduta.",
+  "area": "Neurologia"
+ },
+ {
+  "id": "S8-NEU-04",
+  "simulado": 8,
+  "titulo": "'Parkinson' sem resposta à levodopa com membros superiores livres e ventriculomegalia desproporcional: punção lombar de alívio",
+  "arma": "Dado omitido",
+  "comando": "próximo exame",
+  "nivel": "difícil",
+  "enunciado": "Homem de 76 anos foi diagnosticado com doença de Parkinson há 1 ano por 'marcha arrastada e lentidão' e usa levodopa/benserazida até 600 mg/dia, sem melhora. A esposa conta que a marcha piorou progressivamente em 2 anos, com passos curtos, 'pés colados ao chão' e quedas, e que ele ficou mais lento para pensar e apático. Nega tremor e alucinações. Exame: sem tremor de repouso, sem rigidez apendicular, membros superiores com movimentos rápidos normais e balanço dos braços preservado; base alargada, dificuldade para iniciar a marcha e para girar; MoCA 21/30. RM de encéfalo: ventriculomegalia (índice de Evans 0,36) com sulcos altos da convexidade apertados e fissuras sylvianas alargadas; sem lesão obstrutiva. O exame mais adequado a seguir é:",
+  "alternativas": {
+   "A": "Cintilografia do transportador de dopamina",
+   "B": "Punção lombar de alívio com reavaliação da marcha",
+   "C": "Cisternografia com radioisótopo",
+   "D": "PET cerebral com FDG"
+  },
+  "gabarito": "B",
+  "armadilha": "A",
+  "dado_decisivo": "sulcos altos da convexidade apertados e fissuras sylvianas alargadas",
+  "resolucao": "O diagnóstico prévio de Parkinson é o rótulo, e sem resposta à levodopa a pergunta natural seria se há mesmo degeneração dopaminérgica (cintilografia). Mas o quadro é de parkinsonismo da metade inferior: membros superiores normais, braços que balançam, base alargada e marcha magnética, mais lentificação cognitiva, com ventriculomegalia e padrão DESH na RM (sulcos altos apertados e fissuras sylvianas alargadas). Falta a incontinência urinária, omitida de propósito: a tríade completa não é necessária e costuma surgir por último. O passo seguinte na hidrocefalia de pressão normal provável é o teste de punção lombar de alívio (30 a 50 mL) com medida objetiva da marcha antes e depois, que seleciona quem se beneficia da derivação ventriculoperitoneal. A cisternografia caiu em desuso e o PET não muda a conduta.",
+  "comentarios": {
+   "A": "Errada, é a armadilha. Seria útil para separar Parkinson de tremor essencial ou de parkinsonismo sem degeneração nigral; aqui a clínica e a RM já apontam outra causa, e o resultado não indica a derivação.",
+   "B": "Correta. O tap test com reavaliação objetiva da marcha prediz a resposta à derivação na hidrocefalia de pressão normal.",
+   "C": "Errada. A cisternografia tem baixo valor preditivo e foi substituída pelo tap test e pela drenagem lombar prolongada.",
+   "D": "Errada. O PET com FDG ajuda a separar demências degenerativas, mas não seleciona candidato à derivação."
+  },
+  "para_levar": "Parkinsonismo de membros inferiores sem resposta à levodopa com ventriculomegalia e padrão DESH: punção de alívio com teste da marcha, mesmo sem incontinência.",
+  "referencias": "Japanese Guidelines for Management of Idiopathic Normal Pressure Hydrocephalus, 3ª ed. (2021); International iNPH Guidelines (Relkin et al., 2005).",
+  "tags": [
+   "HPN (hidrocefalia de pressão normal) (CM)",
+   "Demências (CM)"
+  ],
+  "sourceQuestionId": "7b8ed97d0802c41",
+  "alvo": "Diagnosticar sem o dado de manual (omitido) e próximo exame: o degrau certo em vez do exame do diagnóstico errado.",
+  "area": "Neurologia"
+ },
+ {
+  "id": "S8-NEU-05",
+  "simulado": 8,
+  "titulo": "Demência rapidamente progressiva com mioclonias e anti-TPO alto que não responde ao pulso: doença de Creutzfeldt-Jakob",
+  "arma": "Negativo no meio",
+  "comando": "diagnóstico",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 63 anos, com tireoidite de Hashimoto eutireoidea em levotiroxina, apresenta em 10 semanas declínio cognitivo rápido: esquecimento, desorientação e depois dificuldade para andar e falar. Exame: MEEM 12, ataxia de marcha, mioclonias espontâneas e desencadeadas por susto; afebril. Anti-TPO 860 UI/mL (VR menor que 35), TSH 2,1 mUI/L, sódio 138 mEq/L. Líquor: 2 células/mm³, proteína 44 mg/dL, glicose normal. EEG: complexos periódicos de ondas agudas a cerca de 1 por segundo. RM: restrição à difusão no córtex frontal e parietal bilateral e nos núcleos caudados e putâmens, sem realce. Recebeu metilprednisolona 1 g/dia por 5 dias, sem nenhuma melhora. O diagnóstico mais provável é:",
+  "alternativas": {
+   "A": "Encefalite anti-LGI1",
+   "B": "Encefalopatia responsiva a corticoide associada a tireoidite",
+   "C": "Doença de Creutzfeldt-Jakob esporádica",
+   "D": "Demência com corpos de Lewy"
+  },
+  "gabarito": "C",
+  "armadilha": "B",
+  "dado_decisivo": "sem nenhuma melhora",
+  "resolucao": "O anti-TPO muito alto numa mulher com Hashimoto puxa para a encefalopatia responsiva a corticoide, causa tratável de demência rápida com mioclonias, e o pulso foi feito por isso. Mas anti-TPO é positivo em até 10% da população e não prova nada sozinho; o que define essa entidade é a resposta ao corticoide, e ela não veio. O resto é de doença priônica: demência rapidamente progressiva com mioclonias de susto e ataxia, EEG com complexos periódicos, e restrição à difusão em faixa cortical e nos núcleos da base (caudado e putâmen) sem realce, com líquor sem inflamação. O próximo passo é o RT-QuIC no líquor, que confirma com alta especificidade.",
+  "comentarios": {
+   "A": "Errada. Anti-LGI1 dá crises distônicas faciobraquiais, hiponatremia e alteração em hipocampo, e responde a imunoterapia; nada disso aqui.",
+   "B": "Errada, é a armadilha. Seria o diagnóstico se houvesse resposta clara ao corticoide; anti-TPO alto é comum e inespecífico.",
+   "C": "Correta. Demência rápida com mioclonias, complexos periódicos no EEG e restrição à difusão cortical e estriatal sem resposta à imunoterapia: doença priônica.",
+   "D": "Errada. Corpos de Lewy evolui em anos, com flutuação, alucinações e parkinsonismo, sem restrição à difusão."
+  },
+  "para_levar": "Demência rápida com mioclonias e difusão restrita no córtex e no estriado é príon; anti-TPO alto só vale quando o corticoide responde.",
+  "referencias": "CDC Diagnostic Criteria for sporadic CJD 2018 (com RT-QuIC); Graus et al., Clinical approach to autoimmune encephalitis (Lancet Neurol 2016).",
+  "tags": [
+   "Demências (CM)",
+   "Encefalites (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Rótulo laboratorial verdadeiro (autoanticorpo) contra o negativo que decide; autoanticorpo enganando, como em reumato.",
+  "area": "Neurologia"
+ }
+]

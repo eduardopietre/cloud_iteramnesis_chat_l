@@ -1,0 +1,172 @@
+[
+ {
+  "id": "S6-NEU-01",
+  "simulado": 6,
+  "titulo": "Dissecção da carótida interna com Horner parcial em migranosa jovem: angiotomografia cervical antes de procurar forame oval",
+  "arma": "Rótulo verdadeiro",
+  "comando": "próximo exame",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 36 anos, com migrânea com aura visual desde a adolescência (duas crises por ano, sem profilaxia), procura o pronto-socorro por dor contínua na região cervical esquerda e na hemiface esquerda há 4 dias, diferente das crises habituais, iniciada após uma aula de ioga com extensão cervical prolongada. Hoje teve dois episódios de 10 minutos de fraqueza e dormência na mão direita com dificuldade para encontrar palavras, com recuperação completa. Não fuma e usa anticoncepcional combinado. PA 128/78 mmHg, FC 76 bpm, ritmo regular. Exame neurológico atual sem déficit motor ou de linguagem; pupila esquerda de 2 mm e direita de 4 mm, com ptose discreta à esquerda e sudorese facial preservada. TC de crânio sem contraste normal. ECG em ritmo sinusal. O exame a ser solicitado a seguir, com maior impacto na conduta, é:",
+  "alternativas": {
+   "A": "Angiotomografia de vasos cervicais e intracranianos",
+   "B": "Ecocardiograma transtorácico com microbolhas",
+   "C": "Eletroencefalograma",
+   "D": "Pesquisa de trombofilias hereditárias"
+  },
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "pupila esquerda de 2 mm e direita de 4 mm, com ptose discreta à esquerda",
+  "resolucao": "Dois rótulos verdadeiros puxam para longe da artéria: a migrânea com aura (que associa AVC no jovem a forame oval patente e faz pensar em ecocardiograma com microbolhas) e o anticoncepcional (que puxa para trombofilia). Mas a paciente tem dor cervicofacial nova e contínua depois de hiperextensão do pescoço, AIT no hemisfério esquerdo (mão direita e linguagem) e síndrome de Horner parcial à esquerda, com sudorese preservada, o que localiza a lesão simpática pós-ganglionar, ao longo da carótida interna. Dor cervical mais Horner ipsilateral mais isquemia no mesmo território é dissecção da carótida interna até prova em contrário. O exame que muda a conduta é a imagem do vaso (angiotomografia ou angiorressonância cervical com cortes axiais em T1 com saturação de gordura), que mostra o hematoma mural e a estenose e indica antitrombótico já. Ecocardiograma e trombofilias só entram se a imagem vascular for normal.",
+  "comentarios": {
+   "A": "Correta. Horner pós-ganglionar com dor cervical e AIT carotídeo do mesmo lado pede imagem do vaso cervical para confirmar dissecção e iniciar antitrombótico.",
+   "B": "Errada, é a armadilha. Seria o exame num AVC criptogênico do jovem com investigação vascular normal; aqui a dor cervical e o Horner apontam para a carótida antes do coração.",
+   "C": "Errada. Seria pensado se os episódios fossem marcha de sintomas positivos sugestivos de crise focal ou aura; fraqueza com afasia de 10 minutos é déficit negativo, isquêmico.",
+   "D": "Errada. Trombofilia hereditária quase nunca causa evento arterial e só se investiga, em casos selecionados, depois da imagem vascular e cardíaca normais."
+  },
+  "para_levar": "Dor cervical ou facial nova com Horner (sudorese preservada) e isquemia no território da mesma carótida é dissecção: angiotomografia ou angiorressonância cervical antes de procurar forame oval.",
+  "referencias": "ESO Guideline on cervical artery dissection (Debette et al., 2021); AHA/ASA Secondary Stroke Prevention Guideline 2021.",
+  "tags": [
+   "AVC Isquêmico (CM)",
+   "AIT (CM)",
+   "Neurovascular (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Rótulo verdadeiro (migrânea com aura, anticoncepcional) competindo com o achado de exame físico que decide; próximo exame, o pior comando dele.",
+  "area": "Neurologia"
+ },
+ {
+  "id": "S6-NEU-02",
+  "simulado": 6,
+  "titulo": "Hemorragia cerebelar acima de 3 cm com deterioração e hidrocefalia: evacuação cirúrgica, não derivação ventricular isolada",
+  "arma": "Limiar",
+  "comando": "conduta",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 71 anos, hipertenso com uso irregular de anlodipino, é trazido ao pronto-socorro 3 horas após cefaleia occipital súbita, vômitos repetidos e incapacidade de ficar de pé. Na admissão estava sonolento, com Glasgow 14; duas horas depois, Glasgow 11 (abertura ocular à voz, confuso, localiza a dor), com paresia do olhar conjugado para a direita e paralisia facial periférica direita. PA 186/102 mmHg, FC 58 bpm. Não usa antitrombóticos; plaquetas 210.000/mm³, INR 1,0. TC de crânio: hematoma no hemisfério cerebelar direito com 3,8 cm de maior diâmetro, apagamento do quarto ventrículo e dilatação dos cornos temporais dos ventrículos laterais. Além do controle pressórico, a conduta mais adequada é:",
+  "alternativas": {
+   "A": "Manitol e nova TC em 6 horas",
+   "B": "Derivação ventricular externa isolada",
+   "C": "Craniectomia suboccipital com evacuação do hematoma",
+   "D": "Ácido tranexâmico intravenoso"
+  },
+  "gabarito": "C",
+  "armadilha": "B",
+  "dado_decisivo": "3,8 cm de maior diâmetro",
+  "resolucao": "A hidrocefalia é verdadeira e chama a derivação ventricular, que resolve o problema que se vê na TC. Mas o hematoma cerebelar passa de 3 cm (cerca de 15 mL), o paciente piora (Glasgow de 14 para 11) e já há sinais de compressão do tronco (paresia do olhar e facial periférica do mesmo lado, bradicardia relativa com PA alta). Nesse cenário a diretriz da AHA/ASA de 2022 indica remoção cirúrgica imediata do hematoma por craniectomia suboccipital, com ou sem derivação associada, e recomenda NÃO fazer a derivação ventricular isolada: drenar o terceiro ventrículo com a fossa posterior ainda comprimida não descomprime o tronco e pode precipitar herniação ascendente. Manitol é ponte, não tratamento, e ácido tranexâmico não tem benefício funcional demonstrado na hemorragia espontânea.",
+  "comentarios": {
+   "A": "Errada. Seria uma ponte para a cirurgia; observar com nova TC num paciente que já perdeu três pontos de Glasgow e tem sinais de tronco desperdiça o tempo que decide o desfecho.",
+   "B": "Errada, é a armadilha. Na hidrocefalia por hemorragia intraventricular sem efeito de massa na fossa posterior ela basta; no hematoma cerebelar compressivo a derivação isolada não é recomendada.",
+   "C": "Correta. Hematoma cerebelar acima de 3 cm (ou 15 mL) com deterioração, compressão de tronco ou hidrocefalia vai para evacuação cirúrgica imediata.",
+   "D": "Errada. Antifibrinolítico não melhora o desfecho funcional na hemorragia intracerebral espontânea fora de estudos, e não trata a compressão."
+  },
+  "para_levar": "Hemorragia cerebelar acima de 3 cm (ou 15 mL) com piora neurológica, compressão de tronco ou hidrocefalia: craniectomia suboccipital e evacuação; derivação ventricular sozinha não basta.",
+  "referencias": "AHA/ASA Guideline for the Management of Spontaneous Intracerebral Hemorrhage 2022 (Greenberg et al.).",
+  "tags": [
+   "AVC Hemorrágico (CM)",
+   "Neurointensivismo (CM)"
+  ],
+  "sourceQuestionId": "c1f974047ae5a0f",
+  "alvo": "Porte e ordem da conduta no AVC hemorrágico (errou cuidados gerais da hemorragia intraparenquimatosa); limiar numérico que muda a conduta.",
+  "area": "Neurologia"
+ },
+ {
+  "id": "S6-NEU-03",
+  "simulado": 6,
+  "titulo": "Crise de cefaleia em salvas em coronariopata deduzido pelo ticagrelor: oxigênio a 100%, não triptano",
+  "arma": "Droga a deduzir",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Homem de 46 anos, tabagista, procura o pronto-socorro às 2 h da madrugada com a terceira crise do dia de dor excruciante em torno do olho direito, com lacrimejamento, rinorreia e ptose à direita; anda de um lado para o outro e não consegue ficar deitado. Há três semanas tem crises iguais, de 45 a 90 minutos, quase todas noturnas; teve um período idêntico há dois anos, que cessou sozinho em 2 meses. Usa AAS 100 mg/dia, ticagrelor 90 mg de 12/12 horas, rosuvastatina e metoprolol desde uma internação há 8 meses. PA 138/86 mmHg, FC 64 bpm, SpO2 97%. Exame neurológico normal entre as crises. Para abortar a crise atual, a medida mais adequada é:",
+  "alternativas": {
+   "A": "Sumatriptana 6 mg subcutânea",
+   "B": "Oxigênio a 100% sob máscara, 12 L/min",
+   "C": "Prednisona 60 mg por via oral",
+   "D": "Verapamil 80 mg por via oral"
+  },
+  "gabarito": "B",
+  "armadilha": "A",
+  "dado_decisivo": "ticagrelor 90 mg de 12/12 horas",
+  "resolucao": "O quadro é de cefaleia em salvas episódica (homem, dor orbitária excruciante de 45 a 90 minutos, várias por dia, autonômicos ipsilaterais, agitação, salva prévia que remitiu), e o tratamento abortivo de primeira linha que todos lembram é a sumatriptana subcutânea. O dado que derruba o triptano não está escrito como diagnóstico: a dupla antiagregação com ticagrelor iniciada numa internação há 8 meses, com estatina e betabloqueador, só se explica por síndrome coronariana aguda recente com angioplastia. Doença coronariana é contraindicação aos triptanos (vasoconstrição coronariana). Sobra o outro abortivo de primeira linha, igualmente eficaz e sem contraindicação cardiovascular: oxigênio a 100% sob máscara não reinalante, 12 a 15 L/min, por 15 a 20 minutos. Prednisona e verapamil são terapia de transição e preventiva, não abortam a crise em curso.",
+  "comentarios": {
+   "A": "Errada, é a armadilha. Seria a escolha num paciente sem doença vascular; dupla antiagregação com ticagrelor denuncia síndrome coronariana recente, que contraindica triptano.",
+   "B": "Correta. Oxigênio a 100% em alto fluxo aborta a crise em 15 minutos na maioria e não tem contraindicação cardiovascular.",
+   "C": "Errada. Corticoide é tratamento de transição para encurtar a salva enquanto a profilaxia faz efeito; não aborta a crise atual.",
+   "D": "Errada. Verapamil é a profilaxia de escolha da salva (com ECG por risco de bloqueio, ainda mais com metoprolol), e não tem efeito na crise em curso."
+  },
+  "para_levar": "Crise de salvas: oxigênio a 100% em alto fluxo ou triptano subcutâneo; na coronariopatia (deduza pela droga em uso) fica o oxigênio.",
+  "referencias": "EAN Guideline on the treatment of cluster headache 2023; AHS Evidence-Based Guideline 2016; ICHD-3 (2018).",
+  "tags": [
+   "Cefaleia em Salvas (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Droga em uso ignorada (face 2 do degrau de conduta) e fenótipo de cefaleia primária (memória cefaleia-triagem).",
+  "area": "Neurologia"
+ },
+ {
+  "id": "S6-NEU-04",
+  "simulado": 6,
+  "titulo": "Psicose na doença de Parkinson avançada: amantadina sem ajuste à função renal, com bacteriúria assintomática como rótulo",
+  "arma": "Rótulo verdadeiro",
+  "comando": "etiologia",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 74 anos, com doença de Parkinson há 9 anos, usa levodopa/benserazida 200/50 mg 4 vezes ao dia, dose estável há 2 anos. Por discinesias de pico de dose, o neurologista acrescentou amantadina 100 mg de 12/12 horas há 3 semanas, com boa resposta. Há 5 dias passou a ver 'crianças e bichos' no quarto à noite, com crítica parcial, e fica confusa à tarde; está mais sonolenta e surgiu livedo reticular nas pernas. Tem também diabetes tipo 2 e doença renal crônica (creatinina 2,1 mg/dL, TFGe 23 mL/min/1,73 m²). Tax 36,7 °C, PA 128/70 mmHg. Urina: leucócitos 25 por campo, nitrito positivo; urocultura com mais de 100.000 UFC/mL de E. coli; sem disúria, sem febre. Sódio 138 mEq/L, glicemia 142 mg/dL. A causa mais provável do quadro atual é:",
+  "alternativas": {
+   "A": "Infecção do trato urinário",
+   "B": "Progressão para demência com corpos de Lewy",
+   "C": "Excesso de levodopa",
+   "D": "Acúmulo de amantadina"
+  },
+  "gabarito": "D",
+  "armadilha": "A",
+  "dado_decisivo": "TFGe 23 mL/min/1,73 m²",
+  "resolucao": "A urocultura positiva é verdadeira e oferece a explicação de manual para delirium no idoso. Mas não há febre, disúria nem leucocitose descrita: é bacteriúria assintomática, comum na diabética idosa, e não explica sozinha alucinações visuais com livedo reticular. A amantadina é excretada quase inteiramente pelo rim; com TFGe de 23 a dose deveria ser 100 mg em dias alternados ou menos, e ela recebe 200 mg/dia há 3 semanas. O acúmulo produz alucinações visuais, confusão, sonolência e mioclonias, e o livedo reticular é efeito próprio da droga. A levodopa está estável há 2 anos, e demência com corpos de Lewy não começa em 5 dias logo após uma droga nova. A conduta é reduzir ou suspender a amantadina (retirada gradual) antes de pensar em antipsicótico, e não tratar a bacteriúria.",
+  "comentarios": {
+   "A": "Errada, é a armadilha. Seria a causa com febre, disúria ou sinais sistêmicos; sem eles, urocultura positiva na idosa diabética é bacteriúria assintomática e não se trata.",
+   "B": "Errada. Alucinações visuais aparecem na doença de Parkinson avançada, mas a instalação em dias, 3 semanas depois de droga nova e com livedo, aponta para toxicidade, não para progressão.",
+   "C": "Errada. Seria considerada se a dose de levodopa tivesse subido; está estável há 2 anos, e o que mudou foi a amantadina.",
+   "D": "Correta. Amantadina em dose plena com TFGe de 23 acumula e causa alucinações, confusão e livedo reticular; ajusta-se pela função renal."
+  },
+  "para_levar": "Psicose na doença de Parkinson: procure primeiro a droga nova e a dose ajustada ao rim (amantadina, anticolinérgico, agonista) antes do antipsicótico; bacteriúria sem sintomas não explica delirium.",
+  "referencias": "MDS Evidence-Based Medicine Review on treatments for motor symptoms of PD 2018; bula ANVISA da amantadina (ajuste renal); IDSA Asymptomatic Bacteriuria Guideline 2019.",
+  "tags": [
+   "Doença de Parkinson (CM)",
+   "Delirium (CM)"
+  ],
+  "sourceQuestionId": "8427ec357bbc9d6",
+  "alvo": "Droga em uso e função renal ignoradas; rótulo laboratorial verdadeiro (urocultura) puxando a causa de manual.",
+  "area": "Neurologia"
+ },
+ {
+  "id": "S6-NEU-05",
+  "simulado": 6,
+  "titulo": "Terceira piora depois de 8 semanas numa suposta síndrome de Guillain-Barré: polirradiculoneuropatia desmielinizante inflamatória crônica de início agudo",
+  "arma": "Cronologia",
+  "comando": "diagnóstico",
+  "nivel": "extremamente difícil",
+  "enunciado": "Mulher de 44 anos teve, há 10 semanas, fraqueza ascendente simétrica com arreflexia, que atingiu o nadir no 12º dia (não deambulava sem apoio); o líquor mostrou proteína de 148 mg/dL e 3 células/mm³, e a eletroneuromiografia, padrão desmielinizante. Recebeu imunoglobulina humana IV 2 g/kg, com melhora parcial. Na 5ª semana piorou e recebeu novo ciclo, com melhora; na 8ª semana, nova piora, tratada com plasmaférese. Hoje, na 10ª semana, procura o ambulatório com a terceira piora: volta a não subir escadas, com parestesias em luvas e botas e arreflexia global. Sem disautonomia, sem queixas respiratórias (CVF 2,9 L), afebril. Anti-HIV, eletroforese de proteínas com imunofixação e glicemia de jejum normais. O diagnóstico mais provável é:",
+  "alternativas": {
+   "A": "Polirradiculoneuropatia desmielinizante inflamatória crônica",
+   "B": "Novo episódio de síndrome de Guillain-Barré",
+   "C": "Flutuação relacionada ao tratamento",
+   "D": "Síndrome POEMS"
+  },
+  "gabarito": "A",
+  "armadilha": "C",
+  "dado_decisivo": "Hoje, na 10ª semana, procura o ambulatório com a terceira piora",
+  "resolucao": "O início foi indistinguível de síndrome de Guillain-Barré, e piora depois da imunoglobulina tem nome conhecido: flutuação relacionada ao tratamento, que ocorre em cerca de 10% e responde a novo ciclo. A flutuação, porém, tem limites: acontece dentro das primeiras 8 semanas e no máximo duas vezes. Piora depois de 8 semanas do início, ou três ou mais flutuações, define polirradiculoneuropatia desmielinizante inflamatória crônica de início agudo (cerca de 5% das que começam como Guillain-Barré). A consequência é prática: a doença crônica responde a corticoide (o Guillain-Barré não) e exige terapia de manutenção (corticoide, imunoglobulina periódica ou subcutânea). A imunofixação normal afasta POEMS, e um novo Guillain-Barré exigiria recuperação completa e intervalo longo.",
+  "comentarios": {
+   "A": "Correta. A terceira piora, depois da 8ª semana, cumpre o critério de início agudo da forma crônica, que passa a ter corticoide e manutenção como tratamento.",
+   "B": "Errada. Recorrência de Guillain-Barré é rara e vem após recuperação completa e intervalo de meses ou anos, não em piora contínua por 10 semanas.",
+   "C": "Errada, é a armadilha. Flutuação relacionada ao tratamento é a resposta até a 8ª semana e com no máximo duas pioras; aqui são três, a última na 10ª semana.",
+   "D": "Errada. POEMS dá polineuropatia desmielinizante refratária, mas exige proteína monoclonal lambda, ausente na imunofixação normal."
+  },
+  "para_levar": "Guillain-Barré que piora após 8 semanas ou que flutua três ou mais vezes é polirradiculoneuropatia desmielinizante inflamatória crônica: muda para corticoide e manutenção.",
+  "referencias": "EAN/PNS Guideline on chronic inflammatory demyelinating polyradiculoneuropathy 2021 (Van den Bergh et al.); EAN/PNS Guideline on Guillain-Barré syndrome 2023.",
+  "tags": [
+   "Guillain-Barré (CM)",
+   "Neuromuscular (CM)"
+  ],
+  "sourceQuestionId": "96e12e8df418f67",
+  "alvo": "Cronologia lida como enfeite quando o rótulo (Guillain-Barré) já foi dado; errou questão de Guillain-Barré e fator prognóstico.",
+  "area": "Neurologia"
+ }
+]

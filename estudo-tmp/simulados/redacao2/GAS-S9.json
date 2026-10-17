@@ -1,0 +1,236 @@
+[
+  {
+    "id": "S9-GAS-01",
+    "simulado": 9,
+    "area": "Gastroenterologia",
+    "titulo": "Doença celíaca sem resposta com antitransglutaminase ainda elevada: revisão dietética especializada antes de nova biópsia",
+    "arma": "Omissão",
+    "comando": "conduta",
+    "nivel": "difícil",
+    "enunciado": "Mulher de 34 anos, com doença celíaca diagnosticada há 2 anos (antitransglutaminase IgA 20 vezes o limite superior e biópsia duodenal Marsh 3c), mantém distensão, 3 a 4 evacuações amolecidas ao dia e anemia ferropriva leve. Afirma seguir rigorosamente a dieta sem glúten: lê os rótulos, mas almoça diariamente no restaurante do trabalho e usa a mesma torradeira da família. Nega anti-inflamatórios e outras medicações. Exame físico normal; IMC 21 kg/m². Exames: Hb 11,4 g/dL, ferritina 14 ng/mL, albumina 4,0 g/dL, antitransglutaminase IgA 8 vezes o limite superior, IgA total normal, TSH normal. A conduta mais adequada neste momento é:",
+    "alternativas": {
+      "A": "Nova endoscopia com biópsias duodenais",
+      "B": "Budesonida de liberação ileal",
+      "C": "Cápsula endoscópica do delgado",
+      "D": "Revisão da dieta com nutricionista especializado"
+    },
+    "gabarito": "D",
+    "armadilha": "A",
+    "dado_decisivo": "antitransglutaminase IgA 8 vezes o limite superior",
+    "resolucao": "Sintomas que persistem após 2 anos de dieta fazem pensar em doença celíaca refratária, e o reflexo é rebiopsiar ou pesquisar linfoma com cápsula. Mas a refratária só se define com atrofia persistente após 12 meses de dieta rigorosa comprovada, e com sorologia em geral negativa. Aqui a antitransglutaminase ainda está 8 vezes acima do limite: o anticorpo cai com a dieta e permanece elevado quando há ingestão de glúten, voluntária ou inadvertida. A refeição diária em restaurante e a torradeira compartilhada são fontes clássicas de contaminação cruzada. O primeiro passo, e o mais eficaz, é a avaliação por nutricionista experiente em doença celíaca; a exposição ao glúten responde pela maioria dos casos de doença não responsiva. Biópsia, cápsula e budesonida vêm depois, se a sorologia negativar e os sintomas persistirem.",
+    "comentarios": {
+      "A": "Errada. Seria o passo na doença não responsiva com sorologia negativa e dieta comprovada; com anticorpo ainda alto, a explicação mais provável é exposição ao glúten.",
+      "B": "Errada. É tratamento da doença celíaca refratária tipo 1 ou da colite microscópica associada, ambos diagnósticos que exigem afastar exposição ao glúten primeiro.",
+      "C": "Errada. Investiga complicação (jejunite ulcerativa, linfoma) na refratária tipo 2, degrau muito à frente.",
+      "D": "Correta. Antitransglutaminase ainda elevada indica exposição ao glúten; a revisão por nutricionista é o primeiro e o mais eficaz passo."
+    },
+    "para_levar": "Doença celíaca não responsiva com sorologia ainda positiva: procurar a exposição ao glúten com nutricionista antes de biópsia, cápsula ou imunossupressor.",
+    "referencias": "ACG Clinical Guideline: Diagnosis and Management of Celiac Disease (2023); AGA Clinical Practice Update on Refractory Celiac Disease (2022)",
+    "tags": [
+      "Doença Celíaca (CM)"
+    ],
+    "sourceQuestionId": "0500f63a17779e3",
+    "alvo": "Fazer mais do que o caso pede (biópsia, cápsula) quando o degrau mais simples resolve."
+  },
+  {
+    "id": "S9-GAS-02",
+    "simulado": 9,
+    "area": "Gastroenterologia",
+    "titulo": "Retocolite grave sem resposta no 3º dia de corticoide com colesterol baixo: infliximabe agora, e não ciclosporina",
+    "arma": "Grade X / Y",
+    "comando": "conduta",
+    "nivel": "extremamente difícil",
+    "enunciado": "Mulher de 27 anos, com retocolite ulcerativa extensa há 3 anos, em uso irregular de mesalazina, foi internada com 10 evacuações com sangue ao dia, FC 108 bpm e Tax 37,9 °C, e iniciou hidrocortisona 100 mg IV de 8 em 8 horas. Pesquisa de toxina de Clostridioides difficile negativa e biópsias da retossigmoidoscopia sem inclusões de citomegalovírus. Hoje, no terceiro dia de hidrocortisona: 8 evacuações com sangue nas últimas 24 horas, PCR 5,8 mg/dL, abdome flácido, radiografia simples sem dilatação colônica. Exames: Hb 9,8 g/dL, albumina 2,7 g/dL, magnésio 1,4 mg/dL, colesterol total 88 mg/dL, creatinina 0,7 mg/dL. Rastreio de tuberculose e hepatite B negativo. Quanto à terapia de resgate e ao momento, respectivamente:",
+    "alternativas": {
+      "A": "Infliximabe / agora, no terceiro dia",
+      "B": "Ciclosporina / agora, no terceiro dia",
+      "C": "Infliximabe / após sete dias de corticoide",
+      "D": "Ciclosporina / após sete dias de corticoide"
+    },
+    "gabarito": "A",
+    "armadilha": "B",
+    "dado_decisivo": "colesterol total 88 mg/dL",
+    "resolucao": "No terceiro dia de corticoide intravenoso, mais de 8 evacuações ou 3 a 8 com PCR acima de 4,5 predizem falha e colectomia (critério de Oxford), e o resgate deve começar agora, e não ao fim de uma semana. Infliximabe e ciclosporina têm eficácia semelhante no resgate, e quem conhece a ciclosporina como a droga de ação mais rápida tende a marcá-la. Mas este caso tem o dado que a contraindica: colesterol total abaixo de 120 mg/dL e magnésio baixo aumentam muito o risco de convulsão pela ciclosporina, e a albumina baixa piora a toxicidade. O resgate é infliximabe, com dose intensificada em colite grave pela perda fecal do anticorpo, já com tuberculose e hepatite B rastreadas. Sem resposta em 4 a 7 dias, colectomia.",
+    "comentarios": {
+      "A": "Correta. Critério de Oxford no terceiro dia indica resgate imediato; colesterol de 88 e magnésio baixo contraindicam ciclosporina.",
+      "B": "Errada. O momento está certo e a ciclosporina seria uma opção equivalente, mas colesterol abaixo de 120 e hipomagnesemia aumentam o risco de convulsão.",
+      "C": "Errada. A droga está certa, mas esperar sete dias com critério de falha no terceiro dia atrasa o resgate e aumenta a mortalidade da colectomia.",
+      "D": "Errada nas duas metades: a droga contraindicada pelo colesterol baixo e o atraso do resgate."
+    },
+    "para_levar": "Retocolite grave: avaliar no terceiro dia de corticoide (Oxford) e resgatar já; ciclosporina é evitada com colesterol abaixo de 120, magnésio baixo ou disfunção renal, e aí o resgate é infliximabe.",
+    "referencias": "ECCO Guidelines on Therapeutics in Ulcerative Colitis: Medical Treatment (2022); ACG Clinical Guideline: Ulcerative Colitis in Adults (2025); Travis SP et al. Gut (1996)",
+    "tags": [
+      "Retocolite Ulcerativa (CM)"
+    ],
+    "sourceQuestionId": "ec2c5ef517890f3",
+    "alvo": "Laboratório que contraindica a droga lido como enfeite, e o momento (cronologia) do resgate."
+  },
+  {
+    "id": "S9-GAS-03",
+    "simulado": 9,
+    "area": "Hepatologia",
+    "titulo": "Colestase com vias biliares normais semanas depois de antibiótico 875/125 mg: lesão hepática por amoxicilina-clavulanato",
+    "arma": "Droga a deduzir",
+    "comando": "etiologia",
+    "nivel": "difícil",
+    "enunciado": "Homem de 68 anos, hipertenso em uso de anlodipino há 6 anos, procura atendimento por prurido intenso e icterícia há 10 dias, com colúria e fezes claras. Há 5 semanas tratou sinusite com um antibiótico em comprimidos de 875/125 mg, de 12 em 12 horas, por 10 dias, terminado há 3 semanas, sem sintomas na ocasião. Nega álcool, chás e suplementos. Exame: icterícia 3+/4+, escoriações, sem febre, sem dor abdominal, vesícula não palpável. Exames: bilirrubina total 7,4 mg/dL (direta 6,1), fosfatase alcalina 520 U/L (referência até 120), GGT 610 U/L, ALT 180 U/L (referência até 40), INR 1,1. Anti-HAV IgM, HBsAg, anti-HBc IgM e anti-HCV não reagentes; antimitocôndria negativo. Ultrassonografia e colangiorressonância: vias biliares sem dilatação, sem cálculos ou massas, pâncreas normal. A etiologia mais provável é:",
+    "alternativas": {
+      "A": "Colangite biliar primária",
+      "B": "Coledocolitíase com cálculo já eliminado",
+      "C": "Lesão hepática por amoxicilina-clavulanato",
+      "D": "Colangiocarcinoma hilar"
+    },
+    "gabarito": "C",
+    "armadilha": "B",
+    "dado_decisivo": "comprimidos de 875/125 mg",
+    "resolucao": "Colestase com prurido e fezes claras em idoso puxa para obstrução, e quando a imagem não mostra cálculo, a explicação de que ele passou parece razoável. Mas a colangiorressonância não mostra dilatação nem cálculo, e a bilirrubina continua subindo 10 dias depois, sem dor, o que não combina com cálculo eliminado. A droga não foi nomeada: comprimido de 875/125 mg de 12 em 12 horas é amoxicilina-clavulanato, a causa mais comum de lesão hepática por droga idiossincrásica no mundo. Ela é colestática ou mista (aqui, R de cerca de 1), predomina em homens acima de 55 anos e caracteristicamente começa até 1 a 6 semanas depois de terminado o antibiótico, por isso a relação passa despercebida. A conduta é suporte e acompanhamento; a colestase pode durar semanas a meses. O antimitocôndria negativo e o homem afastam colangite biliar primária.",
+    "comentarios": {
+      "A": "Errada. Seria a hipótese de mulher de meia-idade com colestase crônica e antimitocôndria positivo; aqui o quadro é agudo, em homem, com antimitocôndria negativo.",
+      "B": "Errada. Cálculo eliminado daria dor e melhora rápida da colestase; aqui não houve dor e a bilirrubina segue alta com vias biliares normais.",
+      "C": "Correta. Colestase sem obstrução em idoso, iniciada semanas depois de amoxicilina-clavulanato (875/125 mg), a causa mais comum de hepatotoxicidade idiossincrásica.",
+      "D": "Errada. Daria dilatação das vias intra-hepáticas e estenose hilar na colangiorressonância, ausentes aqui."
+    },
+    "para_levar": "Amoxicilina-clavulanato causa colestase que pode começar semanas depois do fim do antibiótico, sobretudo em homens idosos; sempre perguntar antibióticos do último bimestre.",
+    "referencias": "ACG Clinical Guideline: Diagnosis and Management of Idiosyncratic Drug-Induced Liver Injury (2021); EASL Clinical Practice Guidelines: Drug-induced liver injury (2019); LiverTox (NIH, 2024)",
+    "tags": [
+      "Avaliação de Enzimas Hepaticas (CM)",
+      "141 Toxin- and Drug-Induced Liver Disease"
+    ],
+    "sourceQuestionId": "e34b08c790cab44",
+    "alvo": "Droga a deduzir pela posologia, e cronologia longa que esconde a causa."
+  },
+  {
+    "id": "S9-GAS-04",
+    "simulado": 9,
+    "area": "Hepatologia",
+    "titulo": "Trombose aguda de veia porta em não cirrótica com hemograma normal: JAK2 V617F como exame de maior rendimento",
+    "arma": "Negativo no meio",
+    "comando": "próximo exame",
+    "nivel": "extremamente difícil",
+    "enunciado": "Mulher de 39 anos, sem comorbidades, não usa contraceptivo hormonal, procura o pronto-socorro por dor abdominal difusa há 6 dias. A angiotomografia mostra trombose aguda do tronco da veia porta e do ramo direito, sem sinais de cirrose, sem neoplasia, sem pancreatite ou foco infeccioso abdominal, e baço de 13,5 cm. Iniciou enoxaparina. Exames: Hb 13,9 g/dL, hematócrito 42%, leucócitos 8.400/mm³, plaquetas 318.000/mm³, LDH, bilirrubina indireta e reticulócitos normais, função hepática normal. A investigação etiológica está em curso, e o primeiro exame pedido deve ser o de maior rendimento. O próximo exame mais adequado é:",
+    "alternativas": {
+      "A": "Dosagem de antitrombina e proteínas C e S",
+      "B": "Pesquisa da mutação JAK2 V617F",
+      "C": "Pesquisa de fator V de Leiden",
+      "D": "Citometria de fluxo para hemoglobinúria paroxística noturna"
+    },
+    "gabarito": "B",
+    "armadilha": "C",
+    "dado_decisivo": "plaquetas 318.000/mm³",
+    "resolucao": "Com hemograma normal, a neoplasia mieloproliferativa parece fora de questão, e a trombofilia hereditária vira o alvo da investigação. Mas nas tromboses esplâncnicas (porta e Budd-Chiari) a neoplasia mieloproliferativa é a causa mais frequente, em cerca de 30 a 40%, e costuma estar mascarada: a expansão do volume plasmático, o sequestro esplênico e a deficiência de ferro mantêm hemoglobina e plaquetas normais. Por isso a mutação JAK2 V617F é pesquisada em todos, independentemente do hemograma (e, se negativa, CALR e MPL). O baço discretamente aumentado reforça. Fator V de Leiden e protrombina também fazem parte da investigação, mas com rendimento menor; antitrombina e proteínas C e S são pouco interpretáveis na trombose aguda e em uso de heparina. A citometria para HPN se reserva a quem tem hemólise ou citopenia, ausentes aqui.",
+    "comentarios": {
+      "A": "Errada. Faz parte da investigação, mas os níveis caem na trombose aguda e em uso de anticoagulante, e o resultado agora não é interpretável.",
+      "B": "Correta. Neoplasia mieloproliferativa é a causa mais comum de trombose esplâncnica e costuma ter hemograma normal; JAK2 V617F se pesquisa em todos.",
+      "C": "Errada. É trombofilia a pesquisar, mas com rendimento menor que a JAK2 na trombose de veia porta.",
+      "D": "Errada. Seria prioridade com hemólise (LDH e reticulócitos altos) ou citopenias; aqui ambos estão normais."
+    },
+    "para_levar": "Trombose de veia porta ou Budd-Chiari sem cirrose: pesquisar JAK2 V617F mesmo com hemograma normal, porque a neoplasia mieloproliferativa é a causa mais comum e fica mascarada.",
+    "referencias": "EASL Clinical Practice Guidelines: Vascular diseases of the liver (2016); AASLD Practice Guidance: Vascular Liver Disorders, Portal Vein Thrombosis (2021); Baveno VII (2022)",
+    "tags": [
+      "Hipertensão Portal (CM)",
+      "Policitemia Vera (CM)"
+    ],
+    "sourceQuestionId": null,
+    "alvo": "Negativo no meio (hemograma normal) que parece excluir a causa mais comum."
+  },
+  {
+    "id": "S9-GAS-05",
+    "simulado": 9,
+    "area": "Gastroenterologia",
+    "titulo": "Pancreatite recorrente em jovem com retocolite e IgG4 normal após suspender a mesalazina: pancreatite autoimune tipo 2",
+    "arma": "Rótulo verdadeiro",
+    "comando": "diagnóstico",
+    "nivel": "extremamente difícil",
+    "enunciado": "Homem de 26 anos, com retocolite ulcerativa extensa há 3 anos, teve há 5 meses o primeiro episódio de pancreatite aguda leve, quando usava mesalazina; a droga foi suspensa e trocada por azatioprina, que também foi suspensa há 4 meses por intolerância. Hoje está apenas com vedolizumabe e tem o segundo episódio de dor epigástrica com lipase de 1.400 U/L. Não consome álcool; triglicerídeos 140 mg/dL, cálcio normal, ultrassonografia sem cálculos ou lama. Ressonância: pâncreas difusamente aumentado, com perda das lobulações, halo hipointenso periférico e ducto principal afilado e irregular, sem dilatação a montante, sem massa; vias biliares, rins e glândulas salivares normais. IgG4 sérica de 52 mg/dL (referência até 135). O diagnóstico mais provável é:",
+    "alternativas": {
+      "A": "Pancreatite autoimune tipo 2",
+      "B": "Pancreatite autoimune tipo 1",
+      "C": "Pancreatite induzida por mesalazina",
+      "D": "Adenocarcinoma de pâncreas"
+    },
+    "gabarito": "A",
+    "armadilha": "C",
+    "dado_decisivo": "IgG4 sérica de 52 mg/dL",
+    "resolucao": "Pancreatite em paciente com retocolite que usava mesalazina tem rótulo verdadeiro de pancreatite por droga, e a mesalazina e a azatioprina causam pancreatite. Mas as duas foram suspensas há 4 a 5 meses, e o episódio se repetiu só com vedolizumabe, que não causa pancreatite. A ressonância tem o aspecto de pancreatite autoimune: aumento difuso em salsicha, halo periférico e ducto afilado sem dilatação. O que separa os tipos é a IgG4: o tipo 1 é a manifestação pancreática da doença relacionada à IgG4, de homem idoso, com IgG4 sérica alta e acometimento de vias biliares, rins e glândulas; o tipo 2 é lesão epitelial granulocítica do ducto, de jovens, com IgG4 normal e associação com doença inflamatória intestinal em cerca de um terço dos casos. O tipo 2 responde ao corticoide e raramente recidiva. O adenocarcinoma daria massa focal com dilatação ductal a montante.",
+    "comentarios": {
+      "A": "Correta. Jovem com retocolite, aspecto difuso de pancreatite autoimune, IgG4 normal e sem acometimento extrapancreático: tipo 2.",
+      "B": "Errada. Seria o diagnóstico em homem idoso com IgG4 alta e colangite, sialoadenite ou nefrite por IgG4; aqui a IgG4 é normal e não há doença extrapancreática.",
+      "C": "Errada. A mesalazina causa pancreatite, mas foi suspensa há 5 meses e a crise se repetiu sem ela; a imagem é de pancreatite autoimune.",
+      "D": "Errada. Daria massa focal com dilatação do ducto a montante e atrofia distal, e não aumento difuso com ducto afilado em jovem."
+    },
+    "para_levar": "Pancreatite autoimune tipo 2: jovem, associada a doença inflamatória intestinal, IgG4 normal, sem doença extrapancreática; o tipo 1 é doença por IgG4, de idosos, com IgG4 alta e acometimento sistêmico.",
+    "referencias": "International Consensus Diagnostic Criteria for Autoimmune Pancreatitis (2011); ACG Clinical Guideline: Chronic Pancreatitis (2020); AGA Clinical Practice Update on Autoimmune Pancreatitis (2023)",
+    "tags": [
+      "Pâncreas (CM)",
+      "Retocolite Ulcerativa (CM)"
+    ],
+    "sourceQuestionId": null,
+    "alvo": "Rótulo verdadeiro (droga que causa pancreatite) e exame que separa subtipos (IgG4) lido como enfeite."
+  },
+  {
+    "id": "S9-GAS-06",
+    "simulado": 9,
+    "area": "Oncologia",
+    "titulo": "Neuronopatia sensitiva com anti-Hu e TC de tórax normal: PET-CT com FDG para achar o câncer de pequenas células",
+    "arma": "Negativo no meio",
+    "comando": "próximo exame",
+    "nivel": "difícil",
+    "enunciado": "Mulher de 63 anos, tabagista de 40 anos-maço, tem há 10 semanas formigamento e dormência que começaram na mão direita e se estenderam aos quatro membros e à face, de forma assimétrica, com piora da marcha no escuro. Exame: força preservada, arreflexia global, perda de propriocepção nas mãos com pseudoatetose, Romberg presente. Eletroneuromiografia: potenciais de ação sensitivos ausentes difusamente, com condução motora normal. Líquor com proteína de 62 mg/dL e 4 células/mm³. Anticorpo anti-Hu fortemente positivo no soro. Glicemia, vitamina B12 e eletroforese de proteínas normais; anti-Ro e anti-La negativos. A TC de tórax com contraste não mostra nódulos, massas ou linfonodomegalias. O próximo exame mais adequado é:",
+    "alternativas": {
+      "A": "Nova TC de tórax em 6 meses",
+      "B": "Broncoscopia com lavado broncoalveolar",
+      "C": "Ressonância magnética das mamas",
+      "D": "PET-CT com FDG de corpo inteiro"
+    },
+    "gabarito": "D",
+    "armadilha": "A",
+    "dado_decisivo": "A TC de tórax com contraste não mostra nódulos, massas ou linfonodomegalias",
+    "resolucao": "TC de tórax normal parece afastar o tumor, e a ideia de repetir a imagem adiante é a de quem trata o achado como tranquilizador. Mas a neuronopatia sensitiva subaguda, assimétrica e com anti-Hu é síndrome paraneoplásica de alto risco, associada a carcinoma de pulmão de pequenas células em mais de 80% dos casos, e o tumor costuma ser pequeno, limitado a linfonodos mediastinais, e escapar à TC. Com TC negativa, o passo recomendado é o PET-CT com FDG, que acha o tumor em boa parte desses casos; só se o PET também for negativo é que se repete o rastreio a cada 6 meses por 2 a 4 anos. O tratamento do tumor é o que mais estabiliza a neuropatia. Ressonância de mamas e pelve é o rastreio do anti-Yo, e broncoscopia sem lesão-alvo tem rendimento baixo.",
+    "comentarios": {
+      "A": "Errada. É a conduta depois de PET-CT negativo; parar na TC normal atrasa o diagnóstico do tumor oculto.",
+      "B": "Errada. Sem lesão na TC, a broncoscopia tem rendimento baixo; o tumor do anti-Hu costuma estar em linfonodos mediastinais.",
+      "C": "Errada. É o rastreio dirigido do anti-Yo (degeneração cerebelar em mulher, mama e ovário); o anti-Hu aponta para pulmão.",
+      "D": "Correta. Síndrome paraneoplásica de alto risco com TC negativa: PET-CT com FDG para o câncer de pequenas células oculto."
+    },
+    "para_levar": "Síndrome paraneoplásica neurológica com anticorpo de alto risco e TC negativa: PET-CT com FDG; se negativo, repetir o rastreio a cada 6 meses por 2 a 4 anos.",
+    "referencias": "Updated diagnostic criteria for paraneoplastic neurologic syndromes (Graus et al., Neurol Neuroimmunol Neuroinflamm, 2021); EFNS Guidelines on screening for tumours in paraneoplastic syndromes (2011)",
+    "tags": [
+      "Síndromes Paraneoplásicas (CM)"
+    ],
+    "sourceQuestionId": null,
+    "alvo": "Exame negativo (TC) lido como tranquilizador; ordem certa do rastreio do tumor."
+  },
+  {
+    "id": "S9-GAS-07",
+    "simulado": 9,
+    "area": "Oncologia",
+    "titulo": "Dor por metástase óssea única sem complicação em paciente frágil: radioterapia em fração única de 8 Gy",
+    "arma": "Qualificador",
+    "comando": "conduta",
+    "nivel": "média",
+    "enunciado": "Homem de 78 anos, com adenocarcinoma de próstata resistente à castração, metastático, em cuidados paliativos, PPS de 40% e expectativa de vida estimada em poucos meses, mora a 90 km do centro de radioterapia e depende da família para o transporte. Tem dor intensa em asa ilíaca direita há 3 semanas, apesar de morfina e dexametasona; a cintilografia mostra captação na asa ilíaca direita e em costelas, e a TC da pelve, lesão lítica-blástica sem fratura, sem risco iminente de fratura e sem extensão para partes moles ou canal medular. Para controle da dor, com o menor número de deslocamentos possível, a conduta mais adequada é:",
+    "alternativas": {
+      "A": "Radiocirurgia estereotáxica em três frações",
+      "B": "Radioterapia de 30 Gy em 10 frações",
+      "C": "Radioterapia de 8 Gy em fração única",
+      "D": "Fixação cirúrgica profilática do ilíaco"
+    },
+    "gabarito": "C",
+    "armadilha": "B",
+    "dado_decisivo": "sem fratura, sem risco iminente de fratura e sem extensão para partes moles ou canal medular",
+    "resolucao": "Esquemas fracionados longos parecem mais completos e são os mais lembrados. Mas, para dor por metástase óssea não complicada, a fração única de 8 Gy tem controle da dor equivalente ao de 30 Gy em 10 frações, com menos visitas e menor toxicidade aguda; a única diferença é retratamento um pouco mais frequente, o que pouco importa em quem tem expectativa de meses. O qualificador do comando (menor número de deslocamentos) e o paciente frágil, distante e dependente reforçam a escolha. Fracionamento maior ou radiocirurgia se reservam a compressão medular pós-operatória, extensão para partes moles, oligometástase em paciente com boa expectativa ou retratamento. A cirurgia é para fratura patológica ou risco alto de fratura, ausentes aqui.",
+    "comentarios": {
+      "A": "Errada. A radiocirurgia é para oligometástase em paciente com boa expectativa ou dor neuropática de vértebra; não é necessária aqui e exige mais deslocamentos.",
+      "B": "Errada. Controla a dor de forma equivalente, mas com dez deslocamentos; seria preferida com extensão para partes moles ou após cirurgia.",
+      "C": "Correta. Metástase óssea dolorosa não complicada: 8 Gy em fração única tem a mesma analgesia com uma só visita.",
+      "D": "Errada. Indicada para fratura patológica ou risco alto de fratura; a TC não mostra nenhum dos dois."
+    },
+    "para_levar": "Dor por metástase óssea não complicada: 8 Gy em fração única controla a dor tanto quanto os esquemas fracionados, com menos visitas.",
+    "referencias": "ASTRO Clinical Practice Guideline: Palliative Radiation Therapy for Symptomatic Bone Metastases (2024); ESMO Clinical Practice Guideline on Bone Health and Bone Metastases (2020)",
+    "tags": [
+      "Paliativos Oncologia: Dor (CM)"
+    ],
+    "sourceQuestionId": "283869d31dc813a",
+    "alvo": "Fazer mais do que o caso pede (esquema maior) quando o qualificador pede o mínimo eficaz."
+  }
+]

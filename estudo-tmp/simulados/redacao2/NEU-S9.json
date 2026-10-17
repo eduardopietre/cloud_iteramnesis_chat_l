@@ -1,0 +1,171 @@
+[
+ {
+  "id": "S9-NEU-01",
+  "simulado": 9,
+  "titulo": "Encefalopatia hipertensiva com edema vasogênico posterior: nicardipina IV e queda da PAM de até 25% na primeira hora",
+  "arma": "Grade X / Y",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Homem de 44 anos, com hipertensão sem tratamento há anos, é trazido ao pronto-socorro com cefaleia progressiva há 2 dias, vômitos, visão turva e, hoje, confusão; teve uma crise tônico-clônica breve na chegada. PA 236/138 mmHg (repetida), FC 96 bpm. Sonolento, desorientado, sem déficit focal, sem rigidez de nuca. Fundo de olho: hemorragias em chama de vela, exsudatos algodonosos e edema de papila bilateral. Creatinina 1,9 mg/dL, urina com proteína 2+ e 10 hemácias por campo; troponina normal. TC de crânio: hipodensidade em substância branca parieto-occipital bilateral, sem sangramento. O anti-hipertensivo e a meta para a primeira hora são, respectivamente:",
+  "alternativas": {
+   "A": "Nicardipina IV / PAS abaixo de 140 mmHg",
+   "B": "Captopril sublingual / PAS abaixo de 140 mmHg",
+   "C": "Captopril sublingual / queda da PAM de até 25%",
+   "D": "Nicardipina IV / queda da PAM de até 25%"
+  },
+  "gabarito": "D",
+  "armadilha": "A",
+  "dado_decisivo": "hipodensidade em substância branca parieto-occipital bilateral, sem sangramento",
+  "resolucao": "É emergência hipertensiva com encefalopatia (e edema vasogênico posterior compatível com PRES), retinopatia grau IV e lesão renal. A primeira decisão é a via: emergência se trata com droga IV titulável (nicardipina, clevidipina ou labetalol), nunca com captopril sublingual de efeito imprevisível. A segunda é a meta, e é aí que mora a armadilha: a meta de PAS abaixo de 140 mmHg vale para a hemorragia intracerebral, e a TC exclui sangramento. Na encefalopatia hipertensiva a autorregulação cerebral está deslocada para a direita; reduzir rápido demais causa isquemia. A meta é baixar a PAM em até 20 a 25% na primeira hora e, se estável, chegar a 160/100 mmHg nas 2 a 6 horas seguintes.",
+  "comentarios": {
+   "A": "Errada, é a armadilha. A droga está certa, mas PAS abaixo de 140 é a meta da hemorragia intracerebral; aqui não há sangramento e a queda brusca causa isquemia cerebral.",
+   "B": "Errada. Captopril sublingual não é titulável e a meta seria agressiva demais: dois erros.",
+   "C": "Errada. A meta está certa, mas emergência hipertensiva com encefalopatia exige droga IV titulável.",
+   "D": "Correta. Droga IV titulável e queda da PAM de no máximo 20 a 25% na primeira hora protegem o cérebro com autorregulação deslocada."
+  },
+  "para_levar": "Encefalopatia hipertensiva: droga IV titulável e queda da PAM de até 25% na primeira hora; PAS abaixo de 140 é meta da hemorragia intracerebral, não daqui.",
+  "referencias": "Diretrizes Brasileiras de Hipertensão Arterial 2020 (SBC); ESH Guidelines 2023; ESC Guidelines for elevated blood pressure and hypertension 2024; AHA/ACC Hypertension Guideline 2017.",
+  "tags": [
+   "Emergência Hipertensiva (CM)",
+   "PRESS (CM)"
+  ],
+  "sourceQuestionId": "1ecfae1dedeaa55",
+  "alvo": "Limiar e porte da conduta (meta de outra doença aplicada à vizinha); grade X / Y.",
+  "area": "Neurologia"
+ },
+ {
+  "id": "S9-NEU-02",
+  "simulado": 9,
+  "titulo": "Natalizumabe há 30 meses com imunossupressor prévio e índice anti-JC acima de 1,5: trocar de droga antes da LEMP",
+  "arma": "Limiar",
+  "comando": "conduta",
+  "nivel": "extremamente difícil",
+  "enunciado": "Mulher de 35 anos, com esclerose múltipla remitente-recorrente, usa natalizumabe IV a cada 4 semanas há 30 meses, sem surtos e com RM estável há 2 anos; ela gosta da droga e quer mantê-la. Antes dele, usou mitoxantrona por 1 ano. O índice de anticorpos anti-vírus JC, que era 0,3 há 18 meses, agora é de 1,9. EDSS 2,0, sem queixas novas. A RM de controle de hoje não mostra lesões novas. A conduta mais adequada é:",
+  "alternativas": {
+   "A": "Manter natalizumabe e repetir RM em 12 meses",
+   "B": "Trocar por anticorpo monoclonal anti-CD20",
+   "C": "Manter natalizumabe com pulsos mensais de corticoide",
+   "D": "Suspender natalizumabe sem nova terapia"
+  },
+  "gabarito": "B",
+  "armadilha": "A",
+  "dado_decisivo": "agora é de 1,9",
+  "resolucao": "A doença está controlada e a RM está limpa, e o impulso é não mexer no que funciona. Mas o risco de leucoencefalopatia multifocal progressiva com natalizumabe se estratifica por três fatores, e ela tem os três: soropositividade para JC com índice acima de 1,5, mais de 24 meses de uso e imunossupressor prévio (mitoxantrona). Nesse grupo o risco passa de 1 em 100. As diretrizes recomendam discutir a troca para outra droga de alta eficácia (anti-CD20, como ocrelizumabe ou ofatumumabe) e programá-la com intervalo curto, de 4 a 8 semanas, para evitar o rebote de atividade que se segue à suspensão. Quem mantém a droga no alto risco precisa de RM a cada 3 a 4 meses, não anual. Suspender sem substituir provoca rebote grave.",
+  "comentarios": {
+   "A": "Errada, é a armadilha. Seria aceitável com JC negativo ou índice baixo; com os três fatores de risco, RM anual chega tarde para a LEMP.",
+   "B": "Correta. Índice acima de 1,5, mais de 2 anos de uso e imunossupressor prévio: trocar para droga de alta eficácia com baixo risco de LEMP, sem intervalo longo.",
+   "C": "Errada. Corticoide em pulsos não reduz o risco de LEMP e soma imunossupressão.",
+   "D": "Errada. Suspender sem substituir expõe a rebote de atividade inflamatória, às vezes pior que o surto original."
+  },
+  "para_levar": "Natalizumabe: JC positivo com índice acima de 1,5, mais de 24 meses e imunossupressor prévio é alto risco de LEMP; troca para outra alta eficácia sem intervalo longo.",
+  "referencias": "ECTRIMS/EAN Guideline on pharmacological treatment of MS 2018; AAN Practice Guideline on disease-modifying therapies 2018; Consenso BCTRIMS de tratamento da EM 2024.",
+  "tags": [
+   "Esclerose Múltipla (CM)"
+  ],
+  "sourceQuestionId": "e4e23929bff7f9c",
+  "alvo": "Limiar numérico que muda a conduta (pontos de corte não fixados); tratamento da EM (errou questão de droga da EM).",
+  "area": "Neurologia"
+ },
+ {
+  "id": "S9-NEU-03",
+  "simulado": 9,
+  "titulo": "Pé caído após emagrecimento com inversão preservada: nervo fibular comum, apesar da protrusão L4-L5",
+  "arma": "Negativo no meio",
+  "comando": "diagnóstico",
+  "nivel": "difícil",
+  "enunciado": "Homem de 58 anos, com lombalgia crônica, perdeu 14 kg em 3 meses após cirurgia bariátrica e passou a trabalhar horas de pernas cruzadas. Há 10 dias acordou com o pé direito 'caindo', tropeça e tem dormência no dorso do pé. Exame: dorsiflexão do pé e extensão do hálux direitos grau 2, eversão grau 2; inversão do pé grau 5 e flexão plantar grau 5; abdução do quadril normal; reflexos patelar e aquileu presentes e simétricos; hipoestesia no dorso do pé e na face lateral da perna distal; Lasègue negativo; Tinel positivo na cabeça da fíbula direita. RM lombar de 1 ano atrás: protrusão discal L4-L5 com contato na raiz L5 direita. A localização mais provável da lesão é:",
+  "alternativas": {
+   "A": "Nervo fibular comum no colo da fíbula",
+   "B": "Raiz L5 direita",
+   "C": "Tronco lombossacral",
+   "D": "Nervo isquiático na coxa"
+  },
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "inversão do pé grau 5",
+  "resolucao": "A RM com protrusão tocando a raiz L5 é verdadeira e, com lombalgia crônica, puxa para radiculopatia. Mas a raiz L5 inerva também o tibial posterior (inversão, pelo nervo tibial) e o glúteo médio (abdução do quadril), músculos fora do território do fibular. Pé caído com eversão fraca e inversão e abdução do quadril normais localiza a lesão no fibular comum, abaixo da divisão do isquiático. A história confirma: emagrecimento rápido (perda do coxim gorduroso), pernas cruzadas, Tinel na cabeça da fíbula, Lasègue negativo. Uma lesão do isquiático ou do tronco lombossacral também enfraqueceria inversão ou flexão plantar e poderia abolir o aquileu. A conduta é afastar a compressão e confirmar com eletroneuromiografia, sem cirurgia de coluna.",
+  "comentarios": {
+   "A": "Correta. Pé caído com eversão fraca, inversão preservada e Tinel na cabeça da fíbula, após emagrecimento e pernas cruzadas: fibular comum.",
+   "B": "Errada, é a armadilha. Na radiculopatia L5 a inversão (tibial posterior) e a abdução do quadril também enfraquecem; a RM antiga mostra um achado comum que não explica este exame.",
+   "C": "Errada. O tronco lombossacral (L4-L5) daria fraqueza de inversão e de glúteos, como a raiz L5.",
+   "D": "Errada. Lesão do isquiático acometeria também o componente tibial (flexão plantar, inversão) e reduziria o aquileu."
+  },
+  "para_levar": "Pé caído: inversão do pé e abdução do quadril preservadas excluem L5 e localizam no fibular comum.",
+  "referencias": "Preston & Shapiro, Electromyography and Neuromuscular Disorders, 4ª ed. (2020); Harrison's Principles of Internal Medicine, 22ª ed. (2025), neuropatias periféricas.",
+  "tags": [
+   "Outros temas em Neurologia (CM)",
+   "Neuroanatomia (CM)"
+  ],
+  "sourceQuestionId": "2a71aad10961a5f",
+  "alvo": "Negativo do exame físico lido como enfeite diante de exame de imagem verdadeiro; mononeuropatias (errou meralgia parestésica).",
+  "area": "Neurologia"
+ },
+ {
+  "id": "S9-NEU-04",
+  "simulado": 9,
+  "titulo": "Fraqueza adquirida na UTI com potenciais sensitivos normais e CPK alta: miopatia do doente crítico",
+  "arma": "Negativo no meio",
+  "comando": "diagnóstico",
+  "nivel": "difícil",
+  "enunciado": "Homem de 54 anos, previamente hígido, está no 16º dia de UTI por pneumonia grave com SDRA e choque séptico. Recebeu cisatracúrio contínuo por 72 horas (suspenso no 5º dia) e hidrocortisona 200 mg/dia por 7 dias. Sedação suspensa há 5 dias: está desperto, obedece a comandos com a face, mas falha no teste de respiração espontânea e tem tetraparesia flácida simétrica, proximal mais que distal, com reflexos diminuídos; faz careta e retira os quatro membros ao estímulo doloroso e percebe o diapasão nos háluces. CPK 1.140 U/L (VR até 190). Eletroneuromiografia: potenciais de ação motores de amplitude reduzida e duração aumentada, potenciais sensitivos de amplitude normal, sem bloqueio de condução e sem decremento à estimulação repetitiva. O diagnóstico mais provável é:",
+  "alternativas": {
+   "A": "Síndrome de Guillain-Barré",
+   "B": "Bloqueio neuromuscular residual",
+   "C": "Miopatia do doente crítico",
+   "D": "Polineuropatia do doente crítico"
+  },
+  "gabarito": "C",
+  "armadilha": "D",
+  "dado_decisivo": "potenciais sensitivos de amplitude normal",
+  "resolucao": "Fraqueza adquirida na UTI após sepse leva quase automaticamente ao rótulo de polineuropatia do doente crítico, a mais lembrada. Mas a polineuropatia é axonal sensitivo-motora: perde potenciais sensitivos e dá hipoestesia distal. Aqui a sensibilidade está preservada e os potenciais sensitivos são normais, com potenciais motores de duração aumentada, fraqueza proximal e CPK elevada: é miopatia do doente crítico, favorecida por corticoide e bloqueador neuromuscular, e de melhor prognóstico (recuperação em semanas a meses). Cisatracúrio sofre eliminação de Hofmann e não deixa bloqueio residual 11 dias depois, o que a ausência de decremento confirma. Guillain-Barré daria bloqueio de condução e acometimento sensitivo. A conduta é suporte, fisioterapia precoce, controle glicêmico e desmame do corticoide.",
+  "comentarios": {
+   "A": "Errada. Guillain-Barré daria desmielinização com bloqueio de condução e queixas sensitivas; não se instala durante sedação e bloqueio com CPK alta.",
+   "B": "Errada. Cisatracúrio é eliminado por via de Hofmann em minutos e foi suspenso há 11 dias; a estimulação repetitiva sem decremento afasta bloqueio da junção.",
+   "C": "Correta. Fraqueza proximal com potenciais sensitivos normais, potenciais motores de longa duração e CPK alta após corticoide e bloqueador: miopatia do doente crítico.",
+   "D": "Errada, é a armadilha. Seria o diagnóstico com redução dos potenciais sensitivos e hipoestesia distal, ausentes."
+  },
+  "para_levar": "Fraqueza adquirida na UTI: potencial sensitivo normal com CPK alta é miopatia; potencial sensitivo reduzido é polineuropatia.",
+  "referencias": "Latronico & Bolton, Critical illness polyneuropathy and myopathy (Lancet Neurol 2011); ATS Clinical Practice Guideline on ICU-acquired weakness 2014; ESICM 2020 (Vanhorebeek et al.).",
+  "tags": [
+   "UTI - Terapia Intensiva (CM)",
+   "Neuromuscular (CM)"
+  ],
+  "sourceQuestionId": "ed5669d6ee17141",
+  "alvo": "Negativo no meio (eletroneuromiografia) separando vizinhas; errou questão de fraqueza adquirida na UTI.",
+  "area": "Neurologia"
+ },
+ {
+  "id": "S9-NEU-05",
+  "simulado": 9,
+  "titulo": "Neuralgia do trigêmeo na mulher de 31 anos com hipoestesia em V2: RM de encéfalo antes de tratar como primária",
+  "arma": "Rótulo verdadeiro",
+  "comando": "próximo exame",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 31 anos procura o ambulatório por crises de dor em choque na bochecha e no lábio superior direitos há 2 meses, de 1 a 2 segundos, dezenas por dia, desencadeadas por escovar os dentes, mastigar e vento no rosto, com períodos refratários; entre as crises não tem dor. Antes das crises fez tratamento de canal num pré-molar superior direito, sem alívio. Nega outros sintomas. PA 118/74 mmHg. Exame: hipoestesia tátil e dolorosa discreta no território de V2 à direita, reflexo corneano presente, força mastigatória normal, restante do exame neurológico normal. O exame mais adequado a seguir é:",
+  "alternativas": {
+   "A": "Nenhum, iniciar carbamazepina",
+   "B": "Radiografia panorâmica da mandíbula e maxila",
+   "C": "TC de crânio sem contraste",
+   "D": "RM de encéfalo com contraste"
+  },
+  "gabarito": "D",
+  "armadilha": "B",
+  "dado_decisivo": "hipoestesia tátil e dolorosa discreta no território de V2 à direita",
+  "resolucao": "O tratamento de canal recente é verdadeiro e puxa a dor para o dente, e o fenótipo (choques de segundos, gatilhos, período refratário) faz pensar em neuralgia do trigêmeo clássica, que se trata com carbamazepina. O que muda tudo é o exame: déficit sensitivo no território do trigêmeo, numa mulher de 31 anos, é sinal de alerta para neuralgia secundária (placa desmielinizante de esclerose múltipla na entrada da raiz, tumor do ângulo pontocerebelar ou do cavo de Meckel). A RM de encéfalo com contraste, com sequências finas da cisterna do trigêmeo, é o exame indicado (e as diretrizes recomendam a RM em todo paciente com neuralgia trigeminal). A carbamazepina pode começar junto, mas não dispensa a imagem.",
+  "comentarios": {
+   "A": "Errada. Seria a conduta só se não houvesse déficit, e mesmo assim a RM é recomendada; hipoestesia em paciente jovem exige imagem.",
+   "B": "Errada, é a armadilha. Seria o exame de dor dentária contínua ou à percussão; dor em choque com gatilho e déficit sensitivo não é odontogênica.",
+   "C": "Errada. TC não vê placa desmielinizante, compressão neurovascular nem lesões pequenas do ângulo pontocerebelar.",
+   "D": "Correta. Déficit sensitivo e idade abaixo de 40 anos sugerem neuralgia secundária: RM com contraste."
+  },
+  "para_levar": "Neuralgia do trigêmeo com déficit sensitivo, idade jovem ou bilateral: RM com contraste para esclerose múltipla ou tumor.",
+  "referencias": "EAN Guideline on trigeminal neuralgia 2019 (Bendtsen et al.); ICHD-3 (2018); AAN/EFNS 2008.",
+  "tags": [
+   "Abordagem Inicial das Cefaleias (CM)",
+   "Esclerose Múltipla (CM)"
+  ],
+  "sourceQuestionId": "e8799c892fb8c4f",
+  "alvo": "Triagem de cefaleia secundária (memória cefaleia-triagem) e rótulo verdadeiro; aqui o exame a mais é o certo.",
+  "area": "Neurologia"
+ }
+]

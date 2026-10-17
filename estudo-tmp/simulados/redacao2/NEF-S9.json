@@ -142,21 +142,21 @@
     "id": "S9-NEF-05",
     "simulado": 9,
     "area": "Nefrologia",
-    "titulo": "Lesão renal não oligúrica com hipomagnesemia no oitavo dia de gentamicina, após TC com contraste · a creatinina já subia antes",
+    "titulo": "Lesão renal não oligúrica com hipomagnesemia no oitavo dia de amicacina, após TC com contraste · a creatinina já subia antes",
     "arma": "Rótulo verdadeiro",
     "comando": "etiologia",
     "nivel": "difícil",
-    "enunciado": "Mulher de 69 anos, internada por endocardite de valva mitral nativa por Enterococcus faecalis, recebe ampicilina e gentamicina desde a admissão. Creatinina de 0,8 mg/dL na admissão, 0,9 mg/dL no 4º dia, 1,3 mg/dL no 6º dia e 2,2 mg/dL no 8º dia. No 7º dia fez angiotomografia de crânio com contraste por cefaleia, sem alterações. Diurese de 1.800 mL/24 h, PA 128/70 mmHg, afebril desde o 3º dia, sem exantema, sem eosinofilia. Potássio 3,2 mEq/L, magnésio 1,3 mg/dL; EAS com cilindros granulosos pigmentados, sem hematúria dismórfica; fração de excreção de sódio de 3%. Complemento normal. A causa mais provável da lesão renal é:",
+    "enunciado": "Mulher de 69 anos, internada por pielonefrite com bacteremia por Pseudomonas aeruginosa multirresistente, sensível apenas a amicacina e polimixina, recebe amicacina associada a cefepima desde a admissão. Creatinina de 0,8 mg/dL na admissão, 0,9 mg/dL no 4º dia, 1,3 mg/dL no 6º dia e 2,2 mg/dL no 8º dia. No 7º dia fez angiotomografia de crânio com contraste por cefaleia, sem alterações. Diurese de 1.800 mL/24 h, PA 128/70 mmHg, afebril desde o 3º dia, sem exantema, sem eosinofilia. Potássio 3,2 mEq/L, magnésio 1,3 mg/dL; EAS com cilindros granulosos pigmentados, sem hematúria dismórfica; fração de excreção de sódio de 3%. Complemento normal. A causa mais provável da lesão renal é:",
     "alternativas": {
-      "A": "Nefrite intersticial pela ampicilina",
+      "A": "Nefrite intersticial pela cefepima",
       "B": "Nefropatia pelo contraste iodado",
-      "C": "Necrose tubular pela gentamicina",
-      "D": "Glomerulonefrite da endocardite"
+      "C": "Necrose tubular pela amicacina",
+      "D": "Glomerulonefrite associada à infecção"
     },
     "gabarito": "C",
     "armadilha": "B",
     "dado_decisivo": "1,3 mg/dL no 6º dia",
-    "resolucao": "O contraste no 7º dia é o rótulo verdadeiro: a angiotomografia aconteceu e a creatinina subiu depois dela. Mas a série de creatininas mostra que a subida começou no 6º dia, antes do contraste, o que tira dele o papel de causa (no máximo, um agravante). A necrose tubular por aminoglicosídeo surge após 5 a 7 dias de uso, é não oligúrica, tem cilindros granulosos e fração de excreção de sódio alta, e lesa o túbulo proximal e a alça, com perda urinária de magnésio e potássio, que explica a hipomagnesemia e a hipocalemia. A nefrite intersticial pela ampicilina teria exantema, febre ou eosinofilia, e a glomerulonefrite da endocardite teria hematúria dismórfica e complemento baixo. Vale lembrar que na endocardite por E. faecalis a associação de ampicilina com ceftriaxona evita esse risco.",
+    "resolucao": "O contraste no 7º dia é o rótulo verdadeiro: a angiotomografia aconteceu e a creatinina subiu depois dela. Mas a série de creatininas mostra que a subida começou no 6º dia, antes do contraste, o que tira dele o papel de causa (no máximo, um agravante). A necrose tubular por aminoglicosídeo surge após 5 a 7 dias de uso, é não oligúrica, tem cilindros granulosos e fração de excreção de sódio alta, e lesa o túbulo proximal e a alça, com perda urinária de magnésio e potássio, que explica a hipomagnesemia e a hipocalemia. A nefrite intersticial pela cefepima teria exantema, febre ou eosinofilia, e a glomerulonefrite associada à infecção teria hematúria dismórfica e, em geral, complemento baixo. Dose única diária e nível de vale reduzem esse risco quando o aminoglicosídeo é inevitável.",
     "comentarios": {
       "A": "Errada. Seria a causa com exantema, febre ou eosinofilia e leucocitúria após cerca de uma semana de betalactâmico; ela está afebril e sem eosinofilia.",
       "B": "Errada. A lesão por contraste começa 24 a 72 horas após a exposição; aqui a creatinina já subia no 6º dia, antes da angiotomografia do 7º.",
@@ -164,11 +164,11 @@
       "D": "Errada. Teria hematúria dismórfica, proteinúria e complemento baixo; o complemento é normal e não há hematúria dismórfica."
     },
     "para_levar": "Aminoglicosídeo: necrose tubular não oligúrica após 5 a 7 dias, com hipomagnesemia e hipocalemia. Use a série de creatininas para datar a lesão antes de culpar o último exame contrastado.",
-    "referencias": "KDIGO 2012 AKI Guideline; ESC 2023 Guidelines for the management of endocarditis (ampicilina e ceftriaxona para E. faecalis); ACR-NKF 2020 Consensus on IV iodinated contrast in kidney disease.",
+    "referencias": "KDIGO 2012 AKI Guideline; IDSA 2024 Guidance on the Treatment of Antimicrobial-Resistant Gram-Negative Infections; ACR-NKF 2020 Consensus on IV iodinated contrast in kidney disease.",
     "tags": [
       "Nefrotoxicidade por Drogas (CM)",
       "NTA (CM)",
-      "Endocardite Bacteriana (CM)"
+      "Infecção urinária (ITU) (CM)"
     ],
     "sourceQuestionId": "8a3fde99c725925",
     "alvo": "Rótulo verdadeiro (contraste) contra a cronologia escrita na série de exames."

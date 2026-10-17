@@ -1,0 +1,171 @@
+[
+ {
+  "id": "S10-NEU-01",
+  "simulado": 10,
+  "titulo": "Lesão anelar em tabagista com nódulo pulmonar e extração dentária: restrição à difusão central decide abscesso",
+  "arma": "Rótulo verdadeiro",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Homem de 61 anos, tabagista de 45 maços-ano, foi submetido há 3 semanas à extração de dois molares inferiores com abscesso periapical. Há 10 dias tem cefaleia progressiva e, há 2 dias, fraqueza na mão esquerda; teve uma crise focal motora hoje. Afebril, PA 142/84 mmHg. Hemiparesia esquerda grau 4, sem rigidez de nuca, fundo de olho sem papiledema. Leucócitos 11.800/mm³, PCR 3,2 mg/dL. TC de tórax: nódulo espiculado de 1,8 cm no lobo superior direito. RM de encéfalo: lesão frontoparietal direita de 3,2 cm com realce anelar de parede fina e regular, edema perilesional e restrição à difusão no centro da lesão. A conduta mais adequada é:",
+  "alternativas": {
+   "A": "Ceftriaxona e metronidazol com aspiração estereotáxica",
+   "B": "Dexametasona e radioterapia de crânio total",
+   "C": "Punção lombar com cultura antes do antibiótico",
+   "D": "Dexametasona e biópsia do nódulo pulmonar"
+  },
+  "gabarito": "A",
+  "armadilha": "D",
+  "dado_decisivo": "restrição à difusão no centro da lesão",
+  "resolucao": "O nódulo espiculado num tabagista pesado é verdadeiro e provavelmente é câncer, e lesão cerebral anelar nesse contexto parece metástase: dexametasona e biópsia do pulmão. A ausência de febre reforça o engano (metade dos abscessos cerebrais é afebril). O dado que separa as duas é a difusão: o pus viscoso do abscesso restringe a difusão no centro, enquanto a necrose tumoral não restringe. A parede fina e regular e a porta de entrada (extração de molar com abscesso periapical há 3 semanas) completam o quadro. Abscesso maior que 2,5 cm pede aspiração estereotáxica (diagnóstica e terapêutica) e antibiótico empírico cobrindo estreptococos e anaeróbios orais (ceftriaxona com metronidazol). Punção lombar é contraindicada pelo efeito de massa e pouco rende.",
+  "comentarios": {
+   "A": "Correta. Lesão anelar com restrição central à difusão e foco dentário: abscesso; acima de 2,5 cm, aspiração e antibiótico para flora oral.",
+   "B": "Errada. Seria conduta em metástases múltiplas já confirmadas; aqui a lesão é única, com difusão de abscesso, e não há diagnóstico histológico.",
+   "C": "Errada. Lesão com efeito de massa contraindica punção lombar (risco de herniação), e a cultura do líquor raramente identifica o agente.",
+   "D": "Errada, é a armadilha. Seria o caminho para metástase com necrose sem restrição à difusão; corticoide num abscesso piora a penetração do antibiótico e a encapsulação."
+  },
+  "para_levar": "Lesão anelar: restrição à difusão no centro é abscesso (pus), não metástase; acima de 2,5 cm, aspiração e antibiótico.",
+  "referencias": "ESCMID Guideline on diagnosis and treatment of brain abscess 2024 (Bodilsen et al.); Brouwer et al., Brain abscess (NEJM 2014).",
+  "tags": [
+   "Neuroinfecção (CM)",
+   "Nódulo Pulmonar (CM)"
+  ],
+  "sourceQuestionId": "e40172b7d23401e",
+  "alvo": "Rótulo verdadeiro (neoplasia de pulmão) contra o exame que decide; errou questão de abscesso cerebral.",
+  "area": "Neurologia"
+ },
+ {
+  "id": "S10-NEU-02",
+  "simulado": 10,
+  "titulo": "Tremor essencial na asma: primidona como primeira escolha oral",
+  "arma": "Qualificador",
+  "comando": "fato solto",
+  "nivel": "média",
+  "enunciado": "Em paciente com tremor essencial que limita a escrita e o uso de talheres, e que tem asma persistente em uso de budesonida-formoterol, o tratamento oral de primeira escolha é:",
+  "alternativas": {
+   "A": "Propranolol",
+   "B": "Clonazepam",
+   "C": "Primidona",
+   "D": "Levodopa"
+  },
+  "gabarito": "C",
+  "armadilha": "A",
+  "dado_decisivo": "asma persistente em uso de budesonida-formoterol",
+  "resolucao": "Propranolol e primidona são as duas drogas de primeira linha no tremor essencial, com eficácia semelhante (redução de cerca de 50% da amplitude). O qualificador decide: na asma o betabloqueador não seletivo pode desencadear broncoespasmo grave e é contraindicado. Sobra a primidona, iniciada em dose baixa (12,5 a 25 mg à noite) pela sedação e náusea das primeiras doses. Benzodiazepínicos e topiramato são segunda linha, e levodopa não age no tremor essencial.",
+  "comentarios": {
+   "A": "Errada, é a armadilha. Seria a primeira escolha sem asma; betabloqueador não seletivo na asma persistente arrisca broncoespasmo.",
+   "B": "Errada. Clonazepam é segunda linha, com eficácia menor e risco de dependência e quedas.",
+   "C": "Correta. Primeira linha ao lado do propranolol, e a escolha quando o betabloqueador é contraindicado.",
+   "D": "Errada. Levodopa trata o tremor de repouso da doença de Parkinson, não o tremor de ação do tremor essencial."
+  },
+  "para_levar": "Tremor essencial: propranolol ou primidona; com asma, primidona.",
+  "referencias": "AAN Evidence-based guideline update: treatment of essential tremor 2011 (reafirmada); MDS Evidence-Based Review on essential tremor 2018; GINA 2026 (betabloqueador não seletivo na asma).",
+  "tags": [
+   "Tremor Essencial (CM)"
+  ],
+  "sourceQuestionId": "3c990feac43c8e3",
+  "alvo": "Fato solto e comorbidade que derruba a conduta de manual; errou questão fácil de tremor essencial no Einstein.",
+  "area": "Neurologia"
+ },
+ {
+  "id": "S10-NEU-03",
+  "simulado": 10,
+  "titulo": "Variante comportamental da demência frontotemporal rotulada como bipolar: ISRS para o comportamento, não anticolinesterásico",
+  "arma": "Grade X / Y",
+  "comando": "diagnóstico",
+  "nivel": "difícil",
+  "enunciado": "Homem de 59 anos, engenheiro, é trazido pela esposa porque em 18 meses 'virou outra pessoa': faz comentários sexuais a desconhecidas, gastou as economias em compras impulsivas, come doces compulsivamente (ganhou 9 kg), perdeu a empatia com os netos e repete rituais de abrir e fechar portas. Recebeu diagnóstico de transtorno bipolar há 1 ano, sem resposta ao lítio. Está orientado, lembra-se de fatos recentes e acerta o trajeto até o consultório; nega tristeza. MoCA 25/30, com perdas em fluência verbal e abstração. Sem sinais motores. RM: atrofia frontal e temporal anterior bilateral, predominante à direita, com hipocampos relativamente preservados. O diagnóstico e o tratamento farmacológico mais adequado para os sintomas comportamentais são, respectivamente:",
+  "alternativas": {
+   "A": "Doença de Alzheimer / donepezila",
+   "B": "Demência frontotemporal / ISRS",
+   "C": "Demência frontotemporal / donepezila",
+   "D": "Doença de Alzheimer / ISRS"
+  },
+  "gabarito": "B",
+  "armadilha": "C",
+  "dado_decisivo": "atrofia frontal e temporal anterior bilateral, predominante à direita",
+  "resolucao": "O diagnóstico é a variante comportamental da demência frontotemporal: início antes dos 65 anos, desinibição, compras impulsivas, hiperoralidade, perda de empatia e comportamentos compulsivos, com memória e orientação espacial relativamente preservadas, e atrofia frontal e temporal anterior com hipocampos poupados. O rótulo de transtorno bipolar tardio sem resposta ao lítio é a forma mais comum de atraso diagnóstico. A segunda metade é a armadilha: o raciocínio 'demência, então anticolinesterásico' falha aqui, porque não há déficit colinérgico na degeneração frontotemporal, e donepezila não melhora e pode piorar a agitação. Para desinibição e compulsões usam-se ISRS (ou trazodona); antipsicótico só em dose baixa e com cautela.",
+  "comentarios": {
+   "A": "Errada. Alzheimer começa por memória episódica com atrofia hipocampal; aqui a memória está relativamente preservada e os hipocampos poupados.",
+   "B": "Correta. Quadro comportamental com atrofia frontotemporal; ISRS reduz desinibição e compulsões.",
+   "C": "Errada, é a armadilha. O diagnóstico está certo, mas anticolinesterásicos não funcionam na demência frontotemporal e podem agravar o comportamento.",
+   "D": "Errada. O ISRS seria aceitável para sintomas, mas o diagnóstico não é Alzheimer."
+  },
+  "para_levar": "Demência frontotemporal comportamental: memória poupada, atrofia frontal e temporal anterior; trata-se o comportamento com ISRS ou trazodona, e anticolinesterásico não serve.",
+  "referencias": "Rascovsky et al., critérios internacionais da variante comportamental da DFT (Brain 2011); Recomendações da Academia Brasileira de Neurologia para diagnóstico e tratamento das demências (Dement Neuropsychol, 2022).",
+  "tags": [
+   "Demências (CM)",
+   "Demências - Abordagem inicial (CM)"
+  ],
+  "sourceQuestionId": "41b0242e2ba0843",
+  "alvo": "Rótulo psiquiátrico prévio e tratamento 'de classe' aplicado sem checar a doença; grade X / Y.",
+  "area": "Neurologia"
+ },
+ {
+  "id": "S10-NEU-04",
+  "simulado": 10,
+  "titulo": "Ptose fatigável que alterna de olho no diabético: anticorpo antirreceptor de acetilcolina, não esperar o III nervo melhorar",
+  "arma": "Cronologia",
+  "comando": "próximo exame",
+  "nivel": "difícil",
+  "enunciado": "Homem de 64 anos, diabético há 15 anos (HbA1c 8,9%) e hipertenso, procura o ambulatório por visão dupla há 5 semanas. Conta que a pálpebra esquerda 'cai' mais no fim da tarde e após ler; na última semana, em alguns dias, a queda passou a ser também à direita. Nega cefaleia, dor ocular, disfagia ou fraqueza nos membros. Exame: ptose esquerda que aumenta após 60 segundos de olhar sustentado para cima, ptose leve à direita, limitação variável da adução e da abdução do olho esquerdo, pupilas isocóricas de 3 mm com reflexos normais; força e reflexos normais nos membros. O exame mais adequado a seguir é:",
+  "alternativas": {
+   "A": "Angiotomografia intracraniana",
+   "B": "Hemoglobina glicada e reavaliação em 8 semanas",
+   "C": "RM de órbitas com contraste",
+   "D": "Anticorpo antirreceptor de acetilcolina"
+  },
+  "gabarito": "D",
+  "armadilha": "B",
+  "dado_decisivo": "ptose esquerda que aumenta após 60 segundos de olhar sustentado para cima",
+  "resolucao": "Diabético antigo com diplopia, ptose e pupila poupada é o cenário de manual da paralisia isquêmica do III nervo, que se acompanha clinicamente e melhora em 8 a 12 semanas. Mas o tempo conta outra história: a ptose piora no fim do dia e com o uso, aumenta com o olhar sustentado (fatigabilidade), troca de lado e a limitação ocular é variável e não respeita o território de um único nervo (adução e abdução do mesmo olho). Isso é miastenia ocular. O primeiro exame é o anticorpo antirreceptor de acetilcolina (positivo em cerca de metade das formas oculares); se negativo, anti-MuSK e eletroneuromiografia de fibra única. Confirmada, pede-se TC de tórax para timoma.",
+  "comentarios": {
+   "A": "Errada. Seria urgente no III nervo com pupila dilatada ou dor (aneurisma de comunicante posterior); aqui a pupila é normal e o quadro flutua.",
+   "B": "Errada, é a armadilha. Seria a conduta na paralisia isquêmica do III nervo do diabético, que é fixa; ptose fatigável que alterna de lado não é mononeuropatia.",
+   "C": "Errada. RM de órbitas procura orbitopatia ou massa, que dão déficit fixo e proptose, não fatigabilidade.",
+   "D": "Correta. Ptose e diplopia fatigáveis, flutuantes e que mudam de lado, com pupila normal: miastenia ocular, e o primeiro exame é o anticorpo."
+  },
+  "para_levar": "Ptose que piora com o uso e troca de olho, com motilidade que não respeita um nervo e pupila normal, é miastenia mesmo no diabético: anticorpo antirreceptor de acetilcolina.",
+  "referencias": "International Consensus Guidance for Management of Myasthenia Gravis 2020 (Narayanaswami et al.); Consenso brasileiro de miastenia gravis (Arq Neuropsiquiatr, 2024).",
+  "tags": [
+   "Miastenia Gravis (CM)",
+   "Neuroanatomia (CM)"
+  ],
+  "sourceQuestionId": "41c1518a463c5c7",
+  "alvo": "Rótulo de comorbidade (diabetes) puxando o diagnóstico de manual; próximo exame; errou questões de miastenia.",
+  "area": "Neurologia"
+ },
+ {
+  "id": "S10-NEU-05",
+  "simulado": 10,
+  "titulo": "Paciente 'sem responder' ao lado do frasco de clonazepam que olha para cima quando pedido: síndrome do encarceramento por oclusão da basilar",
+  "arma": "Rótulo verdadeiro",
+  "comando": "diagnóstico",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 66 anos, hipertenso e com fibrilação atrial sem anticoagulação, foi encontrado pela filha às 7 h caído ao lado da cama, 'sem responder'; ao lado havia um frasco de clonazepam com poucos comprimidos (o número exato é desconhecido). Fora visto bem às 23 h. No pronto-socorro, não fala e não move os membros; está de olhos abertos espontaneamente e, quando solicitado, olha para cima e fecha os olhos, repetindo o comando; não há movimentos horizontais dos olhos. Tetraplegia com Babinski bilateral. PA 178/96 mmHg, FC 104 bpm irregular, SpO2 95%. Glicemia 132 mg/dL, sódio 139 mEq/L. TC de crânio sem lesões agudas. O diagnóstico mais provável é:",
+  "alternativas": {
+   "A": "Coma por intoxicação por benzodiazepínico",
+   "B": "Síndrome do encarceramento por oclusão da basilar",
+   "C": "Estado de mal epiléptico não convulsivo",
+   "D": "Síndrome do encarceramento por mielinólise pontina"
+  },
+  "gabarito": "B",
+  "armadilha": "A",
+  "dado_decisivo": "quando solicitado, olha para cima e fecha os olhos, repetindo o comando",
+  "resolucao": "O frasco de clonazepam é o rótulo que encerra o raciocínio em intoxicação e flumazenil. Mas o paciente não está em coma: está de olhos abertos e obedece a comandos com o olhar vertical e as pálpebras, com tetraplegia, anartria, perda do olhar horizontal e Babinski bilateral. Isso é síndrome do encarceramento, por lesão da base da ponte com tegmento poupado. Benzodiazepínico deprime a consciência e não produz tetraplegia com Babinski e olhar vertical voluntário preservado. Entre as causas do encarceramento, a instalação súbita num paciente com fibrilação atrial sem anticoagulação aponta para oclusão embólica da artéria basilar, e o sódio normal afasta mielinólise. A TC inicial costuma ser normal; o passo seguinte é a angiotomografia, porque a trombectomia na basilar tem benefício até 24 horas do último momento visto bem.",
+  "comentarios": {
+   "A": "Errada, é a armadilha. Intoxicação por benzodiazepínico rebaixa a consciência por inteiro; não deixa o paciente acordado obedecendo com o olhar vertical, nem dá Babinski bilateral.",
+   "B": "Correta. Consciência preservada com tetraplegia, anartria e só olhar vertical e piscar voluntários, em paciente com fibrilação atrial: encarceramento por oclusão da basilar.",
+   "C": "Errada. Estado de mal não convulsivo rebaixa a consciência e não permite obedecer a comandos de forma consistente.",
+   "D": "Errada. A mielinólise pontina dá o mesmo encarceramento, mas dias após correção rápida de sódio ou em etilista desnutrido; aqui o sódio é normal e a instalação foi abrupta."
+  },
+  "para_levar": "Paciente que parece em coma mas olha para cima e pisca sob comando está encarcerado: pense em oclusão da basilar e peça angiotomografia, a trombectomia vale até 24 horas.",
+  "referencias": "AHA/ASA Guidelines for the Early Management of Acute Ischemic Stroke 2019; ATTENTION e BAOCHE (NEJM 2022) para trombectomia na basilar; Plum and Posner's Diagnosis of Stupor and Coma, 5ª ed. (2019).",
+  "tags": [
+   "AVC Isquêmico (CM)",
+   "Neuroanatomia (CM)"
+  ],
+  "sourceQuestionId": "7af927244a96466",
+  "alvo": "Rótulo verdadeiro de cena (frasco do remédio) contra o exame neurológico que decide; topografia de tronco (errou hematoma pontino).",
+  "area": "Neurologia"
+ }
+]

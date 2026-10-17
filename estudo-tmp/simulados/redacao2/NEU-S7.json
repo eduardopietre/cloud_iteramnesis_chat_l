@@ -1,0 +1,172 @@
+[
+ {
+  "id": "S7-NEU-01",
+  "simulado": 7,
+  "titulo": "Episódios focais transitórios da angiopatia amiloide rotulados como AIT: RM com sequência de suscetibilidade antes de antiagregar",
+  "arma": "Rótulo verdadeiro",
+  "comando": "próximo exame",
+  "nivel": "extremamente difícil",
+  "enunciado": "Mulher de 79 anos, hipertensa controlada com losartana, relata três episódios nas últimas 2 semanas, cada um com cerca de 15 minutos, de formigamento que começa nos dedos da mão esquerda e 'sobe' em 1 a 2 minutos até o ombro e o lado esquerdo da boca, com resolução completa. Nega perda de força, alteração da fala ou da visão. Tem queixa de esquecimento há 2 anos (MEEM 24). Ritmo cardíaco regular, sem sopros carotídeos, PA 136/80 mmHg, glicemia 104 mg/dL. Exame neurológico atual normal. TC de crânio sem contraste sem lesões agudas. ECG em ritmo sinusal. A equipe pretende iniciar AAS e clopidogrel após o próximo exame. O exame mais adequado neste momento é:",
+  "alternativas": {
+   "A": "Doppler de artérias carótidas e vertebrais",
+   "B": "RM de encéfalo com sequência de suscetibilidade magnética",
+   "C": "Eletroencefalograma",
+   "D": "Holter de 24 horas"
+  },
+  "gabarito": "B",
+  "armadilha": "A",
+  "dado_decisivo": "'sobe' em 1 a 2 minutos",
+  "resolucao": "O rótulo AIT é atraente: idosa hipertensa com episódios focais transitórios, e o caminho de manual é Doppler, Holter e dupla antiagregação. Mas os episódios são estereotipados, de sintomas positivos (formigamento) que marcham pelo corpo em 1 a 2 minutos, e isquemia produz déficit negativo e instalação simultânea. Num idoso com queixa cognitiva, essa marcha sensitiva repetida é a apresentação dos episódios neurológicos focais transitórios da angiopatia amiloide cerebral, causados por hemorragia subaracnóidea da convexidade ou siderose superficial, muitas vezes invisíveis na TC. O exame que decide é a RM com sequência de suscetibilidade (SWI ou T2*), que mostra micro-hemorragias lobares e siderose (critérios de Boston 2.0). Se confirmada, antiagregação dupla aumenta muito o risco de hemorragia lobar: o exame vem antes da droga.",
+  "comentarios": {
+   "A": "Errada, é a armadilha. Seria o exame do AIT carotídeo de déficit negativo; marcha sensitiva estereotipada não é isquemia e o Doppler normal levaria à dupla antiagregação perigosa.",
+   "B": "Correta. A sequência de suscetibilidade mostra siderose superficial, hemorragia da convexidade e micro-hemorragias lobares da angiopatia amiloide.",
+   "C": "Errada. Crise focal sensitiva entra no diferencial da marcha, mas episódios de 15 minutos em idosa com declínio cognitivo pedem antes a RM, que mostra a causa estrutural; o EEG interictal raramente decide.",
+   "D": "Errada. Procuraria fibrilação atrial paroxística num AIT embólico; os episódios não são isquêmicos."
+  },
+  "para_levar": "Idoso com episódios sensitivos estereotipados que marcham em minutos: pense em angiopatia amiloide (siderose superficial) e peça RM com suscetibilidade antes de antiagregar.",
+  "referencias": "Boston Criteria version 2.0 for cerebral amyloid angiopathy (Charidimou et al., Lancet Neurol 2022); AHA/ASA Secondary Stroke Prevention Guideline 2021.",
+  "tags": [
+   "AIT (CM)",
+   "AVC Hemorrágico (CM)",
+   "Neurovascular (CM)"
+  ],
+  "sourceQuestionId": "baccfdc8ada77e3",
+  "alvo": "Rótulo verdadeiro (AIT) sobre o dado semiológico que decide; próximo exame; tratar antes de investigar.",
+  "area": "Neurologia"
+ },
+ {
+  "id": "S7-NEU-02",
+  "simulado": 7,
+  "titulo": "Síndrome de vasoconstrição cerebral reversível no puerpério com laudo de 'vasculite': suspender os vasoativos, não pulsar corticoide",
+  "arma": "Rótulo verdadeiro",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 33 anos, no 18º dia pós-parto vaginal sem intercorrências, procura o pronto-socorro pela quarta cefaleia explosiva em 8 dias, holocraniana, que atinge o máximo em menos de 1 minuto, desencadeada por esforço evacuatório e banho; entre as crises sente dor leve. Iniciou sertralina 50 mg/dia há 2 semanas por depressão puerperal e usa oximetazolina nasal várias vezes ao dia por rinite. PA 148/92 mmHg, sem proteinúria, plaquetas e enzimas hepáticas normais. Exame neurológico normal. TC de crânio normal; punção lombar sem xantocromia, 2 células/mm³ e proteína de 32 mg/dL. Angiotomografia: estreitamentos segmentares multifocais em ramos das artérias cerebrais médias e anteriores, sem aneurisma, com laudo de 'aspecto sugestivo de vasculite'; seios venosos pérvios. A conduta mais adequada é:",
+  "alternativas": {
+   "A": "Pulso de metilprednisolona",
+   "B": "Anticoagulação plena com enoxaparina",
+   "C": "Suspender sertralina e descongestionante nasal",
+   "D": "Biópsia leptomeníngea e cortical"
+  },
+  "gabarito": "C",
+  "armadilha": "A",
+  "dado_decisivo": "quarta cefaleia explosiva em 8 dias",
+  "resolucao": "O laudo da angiotomografia é verdadeiro na descrição e enganoso na conclusão: estreitamentos multifocais existem tanto na vasculite primária do SNC quanto na síndrome de vasoconstrição cerebral reversível. O que separa as duas é a clínica: cefaleias em trovoada recorrentes em dias, desencadeadas por esforço e banho, no puerpério e com duas drogas vasoativas (ISRS e descongestionante simpaticomimético), com líquor normal, é vasoconstrição reversível. A vasculite primária começa com cefaleia insidiosa, déficits multifocais e líquor inflamatório. A conduta é retirar os gatilhos, evitar esforço, controlar a dor sem triptano e, se necessário, usar nimodipina ou verapamil; a angiografia normaliza em até 12 semanas. Corticoide é associado a pior desfecho na vasoconstrição reversível.",
+  "comentarios": {
+   "A": "Errada, é a armadilha. Seria a conduta na vasculite primária do SNC com déficits e líquor inflamatório; na vasoconstrição reversível o corticoide piora o desfecho.",
+   "B": "Errada. Anticoagulação trataria trombose venosa cerebral, causa de cefaleia no puerpério, mas os seios venosos estão pérvios.",
+   "C": "Correta. Cefaleias em trovoada recorrentes com drogas vasoativas e líquor normal: retirar os gatilhos é o centro do tratamento, com bloqueador de cálcio se necessário.",
+   "D": "Errada. Biópsia só entra quando se suspeita de vasculite primária com quadro compatível; aqui a clínica fecha vasoconstrição reversível sem procedimento invasivo."
+  },
+  "para_levar": "Cefaleias em trovoada recorrentes em dias, com gatilho (puerpério, ISRS, descongestionante) e líquor normal: vasoconstrição cerebral reversível; retirar o gatilho e nunca pulsar corticoide pelo laudo de 'vasculite'.",
+  "referencias": "Ducros A, Reversible cerebral vasoconstriction syndrome (Lancet Neurol 2012) e RCVS2 score (Rocha et al., Neurology 2019); ICHD-3 (2018).",
+  "tags": [
+   "Abordagem Inicial das Cefaleias (CM)",
+   "Neurovascular (CM)"
+  ],
+  "sourceQuestionId": "f39672a7fa5aae7",
+  "alvo": "Laudo verdadeiro que puxa a doença de manual; cefaleia em trovoada (errou HSA na triagem); fazer mais do que o caso pede.",
+  "area": "Neurologia"
+ },
+ {
+  "id": "S7-NEU-03",
+  "simulado": 7,
+  "titulo": "Brown-Séquard: lado da lesão e nível medular acima do nível sensitivo doloroso",
+  "arma": "Grade X / Y",
+  "comando": "fato solto",
+  "nivel": "difícil",
+  "enunciado": "Um homem com ferimento por arma branca no dorso tem, abaixo da lesão, fraqueza e perda da propriocepção na perna direita e perda da sensibilidade dolorosa e térmica à esquerda a partir da cicatriz umbilical (T10). O lado da medula e o segmento lesados são, respectivamente:",
+  "alternativas": {
+   "A": "Esquerdo / T10",
+   "B": "Direito / T10",
+   "C": "Esquerdo / T8",
+   "D": "Direito / T8"
+  },
+  "gabarito": "D",
+  "armadilha": "B",
+  "dado_decisivo": "perda da sensibilidade dolorosa e térmica à esquerda a partir da cicatriz umbilical (T10)",
+  "resolucao": "Na hemissecção medular, o trato corticoespinhal e as colunas posteriores, que cruzam no bulbo, são lesados do mesmo lado: fraqueza e perda proprioceptiva à direita localizam a lesão na hemimedula direita. O trato espinotalâmico, ao contrário, cruza na medula, e a fibra de dor e temperatura sobe um a dois segmentos antes de cruzar pela comissura anterior. Por isso o nível sensitivo doloroso contralateral fica um a dois segmentos ABAIXO da lesão: perda a partir de T10 à esquerda corresponde a lesão em torno de T8 à direita. Quem acerta o lado costuma parar no T10, tomando o nível sensitivo pelo nível medular, e quem se guia pela dor marca o lado esquerdo.",
+  "comentarios": {
+   "A": "Errada. Toma o lado da perda de dor como o da lesão e o nível sensitivo como nível medular: dois erros somados.",
+   "B": "Errada, é a armadilha. O lado está certo, mas o espinotalâmico sobe um a dois segmentos antes de cruzar; a lesão fica acima de T10.",
+   "C": "Errada. O nível está certo, mas fraqueza e perda proprioceptiva são ipsilaterais à lesão, que é à direita.",
+   "D": "Correta. Motor e propriocepção ipsilaterais (direita) e nível doloroso contralateral um a dois segmentos abaixo da lesão (T10 para lesão em T8)."
+  },
+  "para_levar": "Brown-Séquard: o lado da fraqueza é o lado da lesão, e o nível de dor contralateral fica um a dois segmentos abaixo dela.",
+  "referencias": "Harrison's Principles of Internal Medicine, 22ª ed. (2025), capítulo de doenças da medula espinal; Campbell, DeJong's The Neurologic Examination, 8ª ed. (2020).",
+  "tags": [
+   "Neuroanatomia (CM)",
+   "Mielopatia (CM)"
+  ],
+  "sourceQuestionId": "8b62260c6fbd44e",
+  "alvo": "Neuroanatomia topográfica (errou trauma medular e topografia de tronco); evocação do fato solto.",
+  "area": "Neurologia"
+ },
+ {
+  "id": "S7-NEU-04",
+  "simulado": 7,
+  "titulo": "Neurocisticercose apenas calcificada com epilepsia: droga anticrise sem antiparasitário, mesmo com imunoblot positivo",
+  "arma": "Omissão",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Homem de 38 anos, criado na zona rural de Minas Gerais, procura o ambulatório após três crises em 6 meses, que começam com abalos no braço esquerdo e às vezes evoluem para tônico-clônicas bilaterais. Nega febre, cefaleia ou déficit entre as crises; exame neurológico normal. TC de crânio: quatro calcificações puntiformes de 3 a 5 mm (frontal direita, parietal e occipitais). RM de encéfalo: lesões calcificadas, sem cisto viável, sem realce e sem edema perilesional. Imunoblot (EITB) sérico para cisticercose positivo. Fundo de olho normal. A conduta mais adequada é:",
+  "alternativas": {
+   "A": "Carbamazepina, sem antiparasitário",
+   "B": "Albendazol isolado por 14 dias",
+   "C": "Albendazol, dexametasona e carbamazepina",
+   "D": "Albendazol, praziquantel e dexametasona"
+  },
+  "gabarito": "A",
+  "armadilha": "C",
+  "dado_decisivo": "sem cisto viável, sem realce e sem edema perilesional",
+  "resolucao": "A neurocisticercose está confirmada (calcificações e imunoblot positivo), e o reflexo é tratar o parasita com albendazol e corticoide. Mas o antiparasitário só tem alvo quando há cisto viável (vesicular) ou em degeneração (coloidal, com realce e edema); calcificação é parasita morto, e o imunoblot positivo só documenta exposição. A diretriz IDSA/ASTMH recomenda não usar antiparasitário na doença apenas calcificada. Ao mesmo tempo, aqui a droga anticrise está indicada: três crises não provocadas com lesão estrutural epileptogênica é epilepsia, o oposto da crise provocada que se trata pela causa. A conduta é carbamazepina (ou outra droga para crise focal), e o corticoide fica reservado aos episódios de edema perilesional em torno da calcificação.",
+  "comentarios": {
+   "A": "Correta. Lesões só calcificadas não têm cisto vivo para matar; trata-se a epilepsia com droga anticrise.",
+   "B": "Errada. Albendazol isolado seria a opção para um a dois cistos viáveis; aqui não há nenhum.",
+   "C": "Errada, é a armadilha. É o esquema para cistos viáveis ou coloidais com crises; calcificação não responde a antiparasitário, e o imunoblot positivo não muda isso.",
+   "D": "Errada. A combinação albendazol e praziquantel é para mais de dois cistos viáveis; sem cisto viável não há indicação de antiparasitário."
+  },
+  "para_levar": "Neurocisticercose só calcificada: droga anticrise sim, antiparasitário não; o imunoblot positivo só mostra exposição.",
+  "referencias": "IDSA/ASTMH Clinical Practice Guidelines for the Diagnosis and Treatment of Neurocysticercosis 2017 (White et al.); ILAE definição de epilepsia 2014.",
+  "tags": [
+   "Neurocisticercose (CM)",
+   "Epilepsia (CM)"
+  ],
+  "sourceQuestionId": "8804d53af57996b",
+  "alvo": "Fazer mais do que o caso pede (tratar o que não tem alvo) e, no contraponto da regra fixada da crise provocada, saber quando a droga anticrise está indicada.",
+  "area": "Neurologia"
+ },
+ {
+  "id": "S7-NEU-05",
+  "simulado": 7,
+  "titulo": "Paralisia descendente com midríase após diarreia: botulismo, não Miller Fisher",
+  "arma": "Negativo no meio",
+  "comando": "diagnóstico",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 52 anos procura o pronto-socorro com visão dupla e 'pálpebras pesadas' há 24 horas; hoje tem dificuldade para engolir e fala anasalada, e há 6 horas notou fraqueza para elevar os braços. Há 10 dias teve diarreia que durou 3 dias. Refere boca muito seca e intestino preso desde ontem. Lúcido, afebril, PA 118/76 mmHg, FC 92 bpm. Ptose bilateral, oftalmoparesia em todas as direções, pupilas de 6 mm com reação lenta à luz, paresia facial bilateral; força grau 4 nos membros superiores proximais e grau 5 nos inferiores; reflexos profundos presentes e simétricos; sensibilidade normal; sem ataxia. CVF 2,6 L. Líquor: 1 célula/mm³, proteína 36 mg/dL. O diagnóstico mais provável é:",
+  "alternativas": {
+   "A": "Síndrome de Guillain-Barré",
+   "B": "Botulismo",
+   "C": "Síndrome de Miller Fisher",
+   "D": "Miastenia gravis"
+  },
+  "gabarito": "B",
+  "armadilha": "C",
+  "dado_decisivo": "reflexos profundos presentes e simétricos",
+  "resolucao": "A diarreia há 10 dias é o rótulo que puxa para as síndromes pós-infecciosas, e oftalmoparesia com fraqueza bulbar faz pensar em Miller Fisher ou na variante faringo-cérvico-braquial do Guillain-Barré; o líquor normal parece compatível, porque a dissociação aparece só depois da primeira semana. Mas Miller Fisher é a tríade oftalmoplegia, ataxia e ARREFLEXIA, e este paciente tem reflexos presentes e não tem ataxia. A paralisia é descendente (olhos, bulbo, depois membros superiores proximais), sem perda sensitiva, com disautonomia colinérgica (pupilas dilatadas e pouco reativas, boca seca, constipação): é botulismo. A miastenia também desce e poupa reflexos, mas não mexe na pupila nem dá boca seca. Conduta: soro antibotulínico precoce, notificação imediata e vigilância da CVF.",
+  "comentarios": {
+   "A": "Errada. Guillain-Barré é ascendente, com arreflexia e parestesias; aqui a fraqueza desce e os reflexos estão presentes.",
+   "B": "Correta. Paralisia flácida descendente simétrica, reflexos preservados, sensibilidade normal e disautonomia com midríase e boca seca: botulismo.",
+   "C": "Errada, é a armadilha. Exigiria ataxia e arreflexia, ausentes; o antecedente de diarreia é o rótulo que puxa para ela.",
+   "D": "Errada. Miastenia dá ptose, diplopia e disfagia com reflexos normais, mas nunca midríase, boca seca ou constipação."
+  },
+  "para_levar": "Paralisia descendente com pupila dilatada, boca seca e reflexos presentes é botulismo; Miller Fisher exige ataxia e arreflexia.",
+  "referencias": "Ministério da Saúde, Guia de Vigilância em Saúde 2024 (botulismo) e Manual integrado de vigilância epidemiológica do botulismo; CDC Clinical Guidelines for Botulism 2021.",
+  "tags": [
+   "Neuromuscular (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Negativo no meio do exame físico lido como enfeite quando um antecedente verdadeiro (diarreia) aponta a doença vizinha.",
+  "area": "Neurologia"
+ }
+]
