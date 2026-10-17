@@ -1,0 +1,175 @@
+[
+ {
+  "id": "S15-NEF-01",
+  "simulado": 15,
+  "area": "Nefrologia",
+  "titulo": "Potássio de 7,2 com ECG normal na leucemia linfocítica crônica com leucocitose extrema · pseudo-hipercalemia, confirmar em sangue total antes de tratar",
+  "arma": "Negativo no meio",
+  "comando": "próximo exame",
+  "nivel": "difícil",
+  "enunciado": "Homem de 71 anos, com leucemia linfocítica crônica sem indicação de tratamento, em consulta de rotina, assintomático. Usa enalapril 10 mg/dia há oito anos, sem mudança recente de dose. Exames colhidos no laboratório do ambulatório, em tubo de soro, e enviados ao setor técnico por sistema pneumático: potássio 7,2 mEq/L, leucócitos 186.000/mm³ (92% linfócitos), hemoglobina 12,8 g/dL, plaquetas 140.000/mm³, creatinina 1,0 mg/dL, bicarbonato 25 mEq/L, glicemia 92 mg/dL. Exame físico normal, força muscular preservada. ECG: ritmo sinusal, 68 bpm, ondas T de amplitude normal, PR e QRS normais. O próximo passo mais adequado é:",
+  "alternativas": {
+   "A": "Potássio urinário e gradiente transtubular",
+   "B": "Potássio em sangue total, levado em mãos",
+   "C": "Gluconato de cálcio e insulina com glicose",
+   "D": "Suspender o enalapril e iniciar quelante"
+  },
+  "gabarito": "B",
+  "armadilha": "C",
+  "dado_decisivo": "ECG: ritmo sinusal, 68 bpm, ondas T de amplitude normal, PR e QRS normais",
+  "resolucao": "Potássio de 7,2 é número de emergência e puxa o protocolo inteiro de hipercalemia. Mas nada no paciente acompanha o número: função renal normal, sem acidose, enalapril estável há anos, força preservada e, no meio do caso, um ECG inteiramente normal. Com 186.000 leucócitos frágeis, a coagulação no tubo de soro e o choque mecânico do sistema pneumático rompem células e liberam potássio depois da coleta, a pseudo-hipercalemia. O passo seguinte é medir o potássio em sangue total heparinizado num gasômetro, com transporte em mãos e sem centrifugação, antes de qualquer tratamento; tratar um potássio falso com insulina pode causar hipoglicemia e hipocalemia verdadeira.",
+  "comentarios": {
+   "A": "Errada. Investigar a excreção renal só faz sentido depois de confirmar que a hipercalemia é real.",
+   "B": "Correta. Leucocitose extrema, tubo de soro e transporte pneumático com ECG normal: confirmar em sangue total antes de tratar.",
+   "C": "Errada. É a isca do número; seria a conduta com hipercalemia confirmada ou com alteração no ECG, que aqui é normal.",
+   "D": "Errada. O enalapril está estável há oito anos com creatinina normal; mudar a medicação por um valor provavelmente falso é tratar o laboratório."
+  },
+  "para_levar": "Hipercalemia sem causa e com ECG normal em quem tem leucocitose ou trombocitose extrema pede potássio em sangue total, transportado em mãos, antes de tratar.",
+  "referencias": "Clase CM et al. Potassium homeostasis and management of dyskalemia: KDIGO Controversies Conference, Kidney Int 2020.",
+  "tags": [
+   "Hiperpotassemia (CM)",
+   "Leucemias (CM)",
+   "Distúrbio do Potássio (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Exame que decide (ECG normal) lido como enfeite diante de um rótulo numérico forte; tratar antes de confirmar."
+ },
+ {
+  "id": "S15-NEF-02",
+  "simulado": 15,
+  "area": "Nefrologia",
+  "titulo": "Placas violáceas dolorosas com necrose nas coxas da dialítica em uso de varfarina há dois anos · calcifilaxia, e não necrose pela varfarina",
+  "arma": "Cronologia",
+  "comando": "diagnóstico",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 62 anos, obesa (IMC 38 kg/m²), diabética, em hemodiálise há seis anos, em uso de varfarina há dois anos por fibrilação atrial (INR entre 2 e 3 nos controles), carbonato de cálcio como quelante e calcitriol. Há três semanas surgiram placas violáceas em padrão rendilhado, muito dolorosas e endurecidas, na face interna das coxas e no abdome inferior; duas delas têm agora escara necrótica central. Pulsos pediosos presentes. Sem febre, sem eosinofilia, sem cateterismo ou outro procedimento vascular recente. Exames: cálcio 10,1 mg/dL, fósforo 7,2 mg/dL, PTH 1.150 pg/mL, albumina 3,2 g/dL; ANCA, FAN e crioglobulinas negativos. O diagnóstico mais provável é:",
+  "alternativas": {
+   "A": "Necrose cutânea induzida pela varfarina",
+   "B": "Embolia de colesterol",
+   "C": "Arteriolopatia urêmica calcificante",
+   "D": "Vasculite cutânea de pequenos vasos"
+  },
+  "gabarito": "C",
+  "armadilha": "A",
+  "dado_decisivo": "em uso de varfarina há dois anos",
+  "resolucao": "Necrose de pele em área de gordura (coxas, abdome, mamas) em quem usa varfarina lembra a necrose cutânea da varfarina, e a droga é real. Mas essa necrose aparece nos primeiros dias depois de iniciar o antagonista da vitamina K (por queda rápida da proteína C), e não depois de dois anos de uso estável. Em dialítica obesa e diabética, com fósforo alto, PTH muito elevado, quelante com cálcio e calcitriol, placas rendilhadas extremamente dolorosas que necrosam em áreas de tecido adiposo são calcifilaxia (arteriolopatia urêmica calcificante). A varfarina, aliás, é fator de risco para ela, por inibir a proteína Gla da matriz, e costuma ser trocada. Pulsos presentes e ausência de procedimento vascular e eosinofilia falam contra embolia de colesterol.",
+  "comentarios": {
+   "A": "Errada. É a isca; seria o diagnóstico nos primeiros 3 a 10 dias depois de iniciar a varfarina, e ela usa a droga há dois anos.",
+   "B": "Errada. Embolia de colesterol vem depois de cateterismo ou anticoagulação recente, com livedo distal, dedos azuis e eosinofilia, ausentes aqui.",
+   "C": "Correta. Dialítica com fósforo e PTH altos, cálcio exógeno e varfarina, com placas dolorosas que necrosam em áreas de gordura.",
+   "D": "Errada. Vasculite daria púrpura palpável, em geral distal, com marcadores ou causa associada; ANCA, FAN e crioglobulinas são negativos."
+  },
+  "para_levar": "Necrose cutânea dolorosa em áreas de gordura no paciente em diálise é calcifilaxia; a necrose pela varfarina é dos primeiros dias de uso, e a varfarina crônica é fator de risco da calcifilaxia.",
+  "referencias": "Nigwekar SU et al. Calciphylaxis. N Engl J Med 2018; KDIGO 2017 Clinical Practice Guideline Update for CKD-MBD.",
+  "tags": [
+   "Doença Mineral Óssea no DRC (CM)",
+   "Diálise (Crônicos) (CM)"
+  ],
+  "sourceQuestionId": "40d7d4fd8312b2c",
+  "alvo": "Rótulo de droga verdadeiro lido sem a cronologia que o derruba."
+ },
+ {
+  "id": "S15-NEF-03",
+  "simulado": 15,
+  "area": "Nefrologia",
+  "titulo": "Efluente turvo na diálise peritoneal com mais de 100 leucócitos e predomínio neutrofílico · antibiótico intraperitoneal empírico, sem esperar a cultura",
+  "arma": "Limiar",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Homem de 54 anos, em diálise peritoneal automatizada há dois anos, procura o serviço porque o efluente da drenagem da manhã está turvo, com dor abdominal difusa leve. Tax 37,6 °C, PA 134/82 mmHg, FC 90 bpm, abdome com dor discreta à descompressão, orifício de saída do cateter sem secreção nem hiperemia, túnel sem dor. Efluente colhido após permanência de 2 horas: 640 leucócitos/mm³ com 82% de neutrófilos; Gram sem bactérias; cultura em frasco de hemocultura em andamento. Não usa antibiótico há seis meses e não tem alergias. A conduta mais adequada é:",
+  "alternativas": {
+   "A": "Vancomicina e ceftazidima intraperitoneais",
+   "B": "Ceftriaxona intravenosa e internação",
+   "C": "Retirada imediata do cateter de Tenckhoff",
+   "D": "Aguardar a cultura para tratar"
+  },
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "640 leucócitos/mm³ com 82% de neutrófilos",
+  "resolucao": "Peritonite com febre leva ao antibiótico intravenoso e à internação, que é o reflexo de quem trata a peritonite do cirrótico. Na diálise peritoneal, efluente turvo com mais de 100 leucócitos/mm³ e mais de 50% de neutrófilos, após permanência de pelo menos 2 horas, já fecha o diagnóstico, e o Gram negativo não muda a conduta. A ISPD recomenda iniciar logo, sem esperar a cultura, cobertura empírica para Gram-positivos (vancomicina ou cefalosporina de primeira geração) e Gram-negativos (ceftazidima, cefepima ou aminoglicosídeo), pela via intraperitoneal, que dá concentração muito maior no peritônio que a venosa. Sem sepse grave, o tratamento pode ser ambulatorial, e a retirada do cateter fica para peritonite refratária, recidivante ou fúngica.",
+  "comentarios": {
+   "A": "Correta. Critério de peritonite atingido: cobertura empírica de Gram-positivos e Gram-negativos pela via intraperitoneal.",
+   "B": "Errada. É a isca da peritonite bacteriana espontânea; na diálise peritoneal a via preferida é a intraperitoneal, e o quadro não é grave.",
+   "C": "Errada. Retirar o cateter é para peritonite refratária após 5 dias, recidivante, fúngica ou com infecção de túnel associada.",
+   "D": "Errada. O limiar diagnóstico já foi atingido; atrasar o antibiótico aumenta a falha e a perda da membrana."
+  },
+  "para_levar": "Na diálise peritoneal, efluente com mais de 100 leucócitos e mais de 50% de neutrófilos é peritonite: antibiótico intraperitoneal empírico para Gram-positivos e negativos, já.",
+  "referencias": "Li PK et al. ISPD peritonitis guideline recommendations: 2022 update on prevention and treatment. Perit Dial Int 2022.",
+  "tags": [
+   "Diálise (Crônicos) (CM)",
+   "Antibióticos: Situações Clínicas (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Limiar diagnóstico lido como enfeite; via e porte da conduta trocados pelo reflexo de outra peritonite."
+ },
+ {
+  "id": "S15-NEF-04",
+  "simulado": 15,
+  "area": "Nefrologia",
+  "titulo": "Hipertensão com hipocalemia, renina e aldosterona suprimidas na indução da leucemia mieloide aguda · excesso aparente de mineralocorticoide pelo posaconazol",
+  "arma": "Droga a deduzir",
+  "comando": "mecanismo",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 58 anos, com leucemia mieloide aguda em quimioterapia de indução, recebe há cinco semanas a profilaxia antifúngica oral recomendada para a neutropenia prolongada da indução, com um triazólico de amplo espectro que cobre fungos filamentosos. Era normotenso. Agora com PA de 164/100 mmHg em medidas repetidas, edema discreto e fraqueza. Exames: potássio 2,6 mEq/L, bicarbonato 33 mEq/L, magnésio 2,0 mg/dL, cloro urinário 64 mEq/L, potássio urinário 48 mEq/L, renina suprimida, aldosterona de 2 ng/dL (4 a 31), cortisol matinal 14 µg/dL, ACTH normal. Não usa corticoide, diurético, alcaçuz ou fludrocortisona. TC de adrenais normal. O mecanismo mais provável do distúrbio é:",
+  "alternativas": {
+   "A": "Mutação ativadora do ENaC",
+   "B": "Inibição da 11-beta-hidroxiesteroide desidrogenase 2",
+   "C": "Secreção ectópica de ACTH",
+   "D": "Hiperaldosteronismo primário"
+  },
+  "gabarito": "B",
+  "armadilha": "D",
+  "dado_decisivo": "aldosterona de 2 ng/dL (4 a 31)",
+  "resolucao": "Hipertensão nova com hipocalemia, alcalose e perda renal de potássio é o retrato do hiperaldosteronismo primário, mas a aldosterona está suprimida: o excesso é de outro mineralocorticoide. Com renina e aldosterona baixas, as opções são Liddle, excesso aparente de mineralocorticoide (alcaçuz, carbenoxolona ou drogas) ou outro esteroide. A droga não é nomeada, mas o triazólico de profilaxia na indução da LMA é o posaconazol, que inibe a 11-beta-hidroxiesteroide desidrogenase tipo 2 (e também a 11-beta-hidroxilase): o cortisol deixa de ser inativado no túbulo distal e ocupa o receptor mineralocorticoide. Uma mutação do ENaC não surgiria aos 58 anos em quem era normotenso, e ACTH e cortisol normais afastam secreção ectópica. A conduta é trocar o antifúngico ou reduzir a exposição, com espironolactona se preciso.",
+  "comentarios": {
+   "A": "Errada. Liddle tem o mesmo perfil de renina e aldosterona baixas, mas é hereditário e começa na juventude; aqui a hipertensão é nova, com droga nova.",
+   "B": "Correta. O posaconazol inibe a 11-beta-HSD2 e o cortisol passa a agir como mineralocorticoide, com renina e aldosterona suprimidas.",
+   "C": "Errada. Secreção ectópica de ACTH daria cortisol e ACTH muito elevados, ambos normais aqui.",
+   "D": "Errada. É a isca do fenótipo; hiperaldosteronismo primário exige aldosterona alta, e ela está em 2 ng/dL."
+  },
+  "para_levar": "Hipertensão hipocalêmica com renina e aldosterona baixas: pense em droga (alcaçuz, posaconazol, itraconazol) que inibe a 11-beta-HSD2 antes de pensar em doença genética.",
+  "referencias": "Thompson GR et al. Posaconazole-induced hypertension and hypokalemia due to inhibition of 11-beta-hydroxylase and 11-beta-HSD2, Clin Infect Dis 2019; Endocrine Society Primary Aldosteronism guideline (2016).",
+  "tags": [
+   "Hipopotassemia (CM)",
+   "HAS Secundária (CM)",
+   "LMA (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Droga em uso não nomeada e ignorada; o valor absoluto da aldosterona lido como enfeite diante do fenótipo."
+ },
+ {
+  "id": "S15-NEF-05",
+  "simulado": 15,
+  "area": "Nefrologia",
+  "titulo": "Osteomalácia na pessoa com HIV e gastroplastia, com vitamina D normal e glicosúria sem hiperglicemia · tubulopatia proximal pelo tenofovir, e não a bariátrica",
+  "arma": "Rótulo verdadeiro",
+  "comando": "etiologia",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 45 anos, com infecção pelo HIV em uso há seis anos de tenofovir desoproxila, lamivudina e efavirenz, com carga viral indetectável, e gastroplastia em Y de Roux há quatro anos, procura atendimento por dor óssea difusa e fraqueza proximal há oito meses. Faz reposição de vitamina D e cálcio conforme o protocolo da cirurgia. Densitometria com T-score de -2,8 no colo femoral; cintilografia com múltiplas pseudofraturas em costelas. Exames: cálcio 9,0 mg/dL, fósforo 1,6 mg/dL, fosfatase alcalina 410 U/L, PTH 58 pg/mL, 25-hidroxivitamina D 36 ng/mL, glicemia 88 mg/dL, bicarbonato 19 mEq/L, creatinina 1,2 mg/dL (era 0,8). Urina: glicose 2+, proteinúria tubular, fração de excreção de fosfato de 32%. A causa mais provável da osteomalácia é:",
+  "alternativas": {
+   "A": "Má absorção de vitamina D pós-bariátrica",
+   "B": "Osteomalácia oncogênica por FGF23",
+   "C": "Hiperparatireoidismo secundário pós-bariátrico",
+   "D": "Tubulopatia proximal pelo tenofovir"
+  },
+  "gabarito": "D",
+  "armadilha": "A",
+  "dado_decisivo": "Urina: glicose 2+",
+  "resolucao": "A gastroplastia em Y de Roux é verdadeira e é causa conhecida de osteomalácia, e por isso puxa a resposta. Mas a 25-hidroxivitamina D está normal com a reposição e o PTH não está elevado, o que tira a má absorção de cena. O problema é a perda renal: fósforo baixo com fração de excreção de 32% (deveria ficar abaixo de 5% na hipofosfatemia), glicosúria com glicemia de 88, proteinúria tubular e acidose leve compõem a síndrome de Fanconi, e o tenofovir desoproxila é a causa adquirida mais lembrada em adultos com HIV. A osteomalácia oncogênica também perde fosfato, mas não causa glicosúria nem acidose. A conduta é trocar o tenofovir desoproxila (por exemplo, por tenofovir alafenamida ou esquema sem tenofovir) e repor fósforo e calcitriol.",
+  "comentarios": {
+   "A": "Errada. É a isca da bariátrica; com 25-hidroxivitamina D de 36 ng/mL e PTH normal, a má absorção não explica a perda renal de fosfato.",
+   "B": "Errada. O FGF23 tumoral causa fosfatúria isolada, sem glicosúria, proteinúria tubular ou acidose.",
+   "C": "Errada. PTH de 58 pg/mL não é hiperparatireoidismo, e ele não daria glicosúria.",
+   "D": "Correta. Fosfatúria com glicosúria normoglicêmica, proteinúria tubular e acidose no usuário de tenofovir desoproxila: Fanconi."
+  },
+  "para_levar": "Osteomalácia com hipofosfatemia e fração de excreção de fosfato alta é perda renal; se vier com glicosúria normoglicêmica, é Fanconi, e no HIV o suspeito é o tenofovir desoproxila.",
+  "referencias": "PCDT para manejo da infecção pelo HIV em adultos, Ministério da Saúde 2024; EACS Guidelines 2023 (toxicidade renal e óssea do TDF).",
+  "tags": [
+   "Osteomalácia e outros distúrbios (CM)",
+   "Tubulopatias (CM)",
+   "HIV : Diagnóstico, Seguimento e Antirretrovirais (CM)"
+  ],
+  "sourceQuestionId": "cd834dfa04a3217",
+  "alvo": "Reincidente (osteomalácia pós-bariátrica) com ângulo novo: o antecedente verdadeiro puxa, e a droga em uso decide."
+ }
+]

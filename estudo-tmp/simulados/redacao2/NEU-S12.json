@@ -1,0 +1,171 @@
+[
+ {
+  "id": "S12-NEU-01",
+  "simulado": 12,
+  "titulo": "Infarto lacunar 4 meses depois, ainda em dupla antiagregação: AAS isolado e PAS abaixo de 130 mmHg",
+  "arma": "Grade X / Y",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Homem de 66 anos, diabético (HbA1c 6,9%), retorna ao ambulatório 4 meses após AVC isquêmico com hemiparesia direita proporcionada, sem afasia, sem negligência e sem alteração de campo visual, NIHSS 4 na admissão, fora da janela de trombólise. RM: infarto de 12 mm no ramo posterior da cápsula interna esquerda e hiperintensidades periventriculares; angiotomografia sem estenose cervical ou intracraniana; ecocardiograma e Holter de 72 horas normais. Teve alta com AAS 100 mg e clopidogrel 75 mg 'sem data para suspender', atorvastatina 80 mg e losartana 50 mg. Hoje: força grau 5 menos à direita, equimoses nos antebraços, PA média de 142/86 mmHg na MAPA de 24 horas, LDL 62 mg/dL, creatinina 1,0 mg/dL. A antiagregação e a meta de pressão arterial sistólica são, respectivamente:",
+  "alternativas": {
+   "A": "Manter AAS e clopidogrel / abaixo de 130 mmHg",
+   "B": "AAS isolado / abaixo de 130 mmHg",
+   "C": "AAS isolado / abaixo de 140 mmHg",
+   "D": "Anticoagulante oral / abaixo de 130 mmHg"
+  },
+  "gabarito": "B",
+  "armadilha": "A",
+  "dado_decisivo": "retorna ao ambulatório 4 meses após AVC isquêmico",
+  "resolucao": "Infarto lacunar recidiva por doença de pequenos vasos, e a tentação é manter tudo o que 'protege mais', inclusive a dupla antiagregação indefinida. A dupla antiagregação tem papel nos primeiros 21 a 30 dias (ou até 90 dias na estenose intracraniana grave); mantida a longo prazo no infarto lacunar, como no estudo SPS3, não reduziu recorrência e aumentou sangramento e mortalidade, e as equimoses já mostram o custo. Aos 4 meses o correto é ficar com um antiagregante. A segunda decisão é a pressão: na doença de pequenos vasos, a meta sistólica abaixo de 130 mmHg reduz hemorragia intracerebral e tende a reduzir recorrência, e as diretrizes de prevenção secundária adotam 130/80. Não há fonte cardioembólica, logo anticoagulação não tem lugar.",
+  "comentarios": {
+   "A": "Errada, é a armadilha. A meta está certa, mas dupla antiagregação além de 90 dias no infarto lacunar aumenta sangramento e mortalidade sem reduzir recorrência.",
+   "B": "Correta. Passado o período inicial, um antiagregante isolado; e PAS abaixo de 130 mmHg na doença de pequenos vasos.",
+   "C": "Errada. A antiagregação está certa, mas 140 mmHg é meta frouxa para prevenção secundária de AVC, sobretudo de pequenos vasos.",
+   "D": "Errada. Anticoagulação seria para fibrilação atrial ou outra fonte cardioembólica; ecocardiograma e Holter normais e infarto lacunar não a indicam."
+  },
+  "para_levar": "Infarto lacunar: dupla antiagregação só nas primeiras semanas; depois, um antiagregante, estatina e PAS abaixo de 130 mmHg.",
+  "referencias": "AHA/ASA 2021 Guideline for the Prevention of Stroke in Patients With Stroke and TIA; SPS3 Investigators, N Engl J Med 2012 e Lancet 2013; Diretrizes Brasileiras de Hipertensão Arterial 2020.",
+  "tags": [
+   "AVC Isquêmico (CM)",
+   "Cuidados pós AVC (CM)"
+  ],
+  "sourceQuestionId": "0ebaab9140d7853",
+  "alvo": "Fazer mais do que o caso pede (manter dupla antiagregação indefinida); cronologia da conduta; grade X / Y.",
+  "area": "Neurologia"
+ },
+ {
+  "id": "S12-NEU-02",
+  "simulado": 12,
+  "titulo": "Coreia com antiestreptolisina alta no adulto adotado com atrofia dos caudados: expansão CAG no HTT, não ecocardiograma de Sydenham",
+  "arma": "Rótulo verdadeiro",
+  "comando": "próximo exame",
+  "nivel": "difícil",
+  "enunciado": "Homem de 42 anos, motorista, é levado pela esposa por irritabilidade, impulsividade e 'tiques' há 1 ano: movimentos rápidos, irregulares e sem padrão nos dedos, nos ombros e na face, que ele disfarça emendando um gesto voluntário; perdeu o emprego após dois acidentes. Teve faringoamigdalite há 2 meses, e o clínico pediu antiestreptolisina O, de 420 UI/mL (VR até 200). Foi adotado aos 3 anos e soube recentemente que a mãe biológica 'morreu internada em hospital psiquiátrico' aos 55 anos. Sem uso de neurolépticos, anticoncepcional ou drogas ilícitas. Exame: movimentos coreicos generalizados, impersistência motora (não mantém a língua protrusa), sacadas lentas; sem sopros, artrite ou nódulos. Hemograma, TSH, glicemia e cálcio normais. RM: atrofia das cabeças dos núcleos caudados com aumento dos cornos frontais dos ventrículos laterais. O próximo exame mais adequado é:",
+  "alternativas": {
+   "A": "Pesquisa de acantócitos em sangue fresco",
+   "B": "Ecocardiograma transtorácico",
+   "C": "Anticorpos antifosfolípides",
+   "D": "Expansão de repetições CAG no gene HTT"
+  },
+  "gabarito": "D",
+  "armadilha": "B",
+  "dado_decisivo": "atrofia das cabeças dos núcleos caudados com aumento dos cornos frontais dos ventrículos laterais",
+  "resolucao": "Coreia com antiestreptolisina alta depois de uma amigdalite puxa para a coreia de Sydenham e para o ecocardiograma em busca de cardite. Mas Sydenham é doença de crianças e adolescentes, surge semanas a meses após a faringite, não dura um ano com declínio comportamental progressivo, e antiestreptolisina elevada só documenta infecção recente, comum na população. O conjunto é de doença de Huntington: coreia generalizada com impersistência motora, sacadas lentas, alteração de comportamento e atrofia dos caudados, com história materna sugestiva escondida pela adoção. O exame que confirma é a pesquisa de expansão de repetições CAG no gene HTT, feita com aconselhamento genético. Acantócitos e anticorpos antifosfolípides entram quando a pesquisa do HTT vem negativa ou quando há pistas próprias (neuropatia, CPK alta, tromboses, lúpus).",
+  "comentarios": {
+   "A": "Errada. Acantócitos seriam pesquisados na neuroacantocitose (coreia com tiques orofaciais, neuropatia, CPK alta) ou após HTT negativo; não são o primeiro passo aqui.",
+   "B": "Errada, é a armadilha. Ecocardiograma seria o exame na coreia de Sydenham da criança ou do adolescente; aos 42 anos, com um ano de evolução progressiva e atrofia dos caudados, a antiestreptolisina é rótulo.",
+   "C": "Errada. Antifosfolípides entrariam na coreia de mulher jovem com tromboses, abortos ou lúpus, sem atrofia dos caudados.",
+   "D": "Correta. Coreia progressiva com alteração de comportamento, sacadas lentas, história materna e atrofia caudada: o teste genético do HTT confirma."
+  },
+  "para_levar": "Coreia progressiva no adulto com alteração de comportamento e atrofia dos caudados é Huntington até prova em contrário, e se confirma pelas repetições CAG do HTT; antiestreptolisina alta só mostra estreptococo recente.",
+  "referencias": "Bates GP et al. Huntington disease. Nat Rev Dis Primers 2015; Huntington's Disease Society of America. Genetic testing protocol for Huntington's disease, 2016; MDS evidence-based review of chorea treatment 2023.",
+  "tags": [
+   "Distúrbios do Movimento (CM)"
+  ],
+  "sourceQuestionId": "a1c31880af207f6",
+  "alvo": "Rótulo verdadeiro (antiestreptolisina alta) e dado omitido pela história familiar escondida; próximo exame.",
+  "area": "Neurologia"
+ },
+ {
+  "id": "S12-NEU-03",
+  "simulado": 12,
+  "titulo": "Piora no 5º dia depois da hiponatremia corrigida 13 mEq/L em 24 horas no etilista hipocalêmico: desmielinização osmótica, não oclusão da basilar",
+  "arma": "Cronologia",
+  "comando": "diagnóstico",
+  "nivel": "difícil",
+  "enunciado": "Homem de 52 anos, etilista de 1 litro de cachaça por dia e desnutrido, foi internado há 6 dias com sódio de 108 mEq/L, potássio de 2,6 mEq/L, vômitos e confusão leve. Recebeu salina a 0,9% com cloreto de potássio; o sódio foi a 121 mEq/L em 24 horas e a 132 mEq/L em 48 horas, quando já estava lúcido, conversando e caminhando. No 5º dia evoluiu com disartria, disfagia e choro fácil e, hoje, com tetraparesia e sinal de Babinski bilateral, mantendo abertura ocular e movimentos verticais dos olhos ao comando. Afebril; PA 128/80 mmHg, glicemia 96 mg/dL, sódio 138 mEq/L, magnésio 1,9 mg/dL; recebe tiamina desde a admissão. TC de crânio na admissão e hoje sem alterações. O diagnóstico mais provável é:",
+  "alternativas": {
+   "A": "Síndrome de desmielinização osmótica",
+   "B": "Encefalopatia de Wernicke",
+   "C": "Oclusão da artéria basilar",
+   "D": "Encefalopatia hepática"
+  },
+  "gabarito": "A",
+  "armadilha": "C",
+  "dado_decisivo": "o sódio foi a 121 mEq/L em 24 horas",
+  "resolucao": "Tetraparesia com disfagia, disartria e olhos preservados ao comando lembra a síndrome do encarceramento por oclusão da basilar, que ele já viu, e essa é a armadilha. A diferença está na cronologia: aqui houve melhora completa com a correção do sódio e piora 3 a 5 dias depois, o curso bifásico da desmielinização osmótica, e não um déficit súbito. A causa está no número: 13 mEq/L em 24 horas, acima do limite de 8 mEq/L recomendado para quem tem alto risco (sódio de 108, etilismo, desnutrição, hipocalemia, cuja reposição também eleva o sódio). TC normal não afasta, porque a lesão pontina aparece na RM e muitas vezes só 1 a 2 semanas depois. Wernicke foi prevenido com tiamina e não dá tetraparesia piramidal, e encefalopatia hepática não produz paralisia pseudobulbar com Babinski bilateral.",
+  "comentarios": {
+   "A": "Correta. Melhora inicial, piora tardia com quadro pseudobulbar e tetraparesia, depois de correção de 13 mEq/L em 24 horas num etilista hipocalêmico.",
+   "B": "Errada. Wernicke daria confusão, oftalmoparesia e ataxia, e o paciente recebe tiamina desde a admissão; não explica tetraparesia com Babinski.",
+   "C": "Errada, é a armadilha. Seria a resposta num déficit súbito sem relação com o sódio; aqui o curso é bifásico e segue a correção rápida.",
+   "D": "Errada. Encefalopatia hepática daria flutuação da consciência e asterixe, não paralisia pseudobulbar com consciência preservada."
+  },
+  "para_levar": "Desmielinização osmótica é bifásica: melhora com a correção e piora 2 a 6 dias depois; no paciente de alto risco, a correção não deve passar de 8 mEq/L em 24 horas, e TC normal não afasta.",
+  "referencias": "European Clinical Practice Guideline on hyponatraemia (ESE/ESICM/ERBP) 2014; Adrogué HJ, Tucker BM, Madias NE. Diagnosis and Management of Hyponatremia: A Review. JAMA 2022.",
+  "tags": [
+   "Hiponatremia aguda e complicações (CM)",
+   "Neurointensivismo (CM)"
+  ],
+  "sourceQuestionId": "ec4a9ab5fbf5925",
+  "alvo": "Cronologia lida como enfeite (curso bifásico) e rótulo forte de quadro já visto (encarceramento por basilar).",
+  "area": "Neurologia"
+ },
+ {
+  "id": "S12-NEU-04",
+  "simulado": 12,
+  "titulo": "Vertigem posicional de segundos no idoso vascular: o HINTS não se aplica fora da síndrome vestibular contínua, e o exame é a manobra de Dix-Hallpike",
+  "arma": "Qualificador",
+  "comando": "próximo exame",
+  "nivel": "difícil",
+  "enunciado": "Homem de 69 anos, hipertenso, diabético e tabagista, procura o pronto-socorro por vertigem rotatória há 3 dias, em crises de 15 a 30 segundos, desencadeadas ao deitar e ao virar para a direita na cama, com náusea; entre as crises fica sem tontura e caminha normalmente. Nega cefaleia, diplopia, disartria, disfagia e perda auditiva. PA 150/90 mmHg, glicemia capilar 180 mg/dL. Examinado já sem vertigem: sem nistagmo espontâneo, impulso cefálico normal para os dois lados, sem desvio vertical no teste de cobertura, marcha e coordenação normais. O plantonista, ao ver o impulso cefálico normal num idoso vascular, solicita RM de encéfalo com difusão. O exame mais adequado neste momento é:",
+  "alternativas": {
+   "A": "RM de encéfalo com difusão",
+   "B": "Angiotomografia de vasos cervicais",
+   "C": "Manobra de Dix-Hallpike",
+   "D": "Audiometria com prova calórica"
+  },
+  "gabarito": "C",
+  "armadilha": "A",
+  "dado_decisivo": "em crises de 15 a 30 segundos, desencadeadas ao deitar e ao virar para a direita na cama",
+  "resolucao": "Ele aprendeu que, no HINTS, impulso cefálico normal num paciente com vertigem é sinal central, e o plantonista aplica a regra para pedir RM. O qualificador que falta é onde o HINTS vale: só na síndrome vestibular aguda contínua, com nistagmo espontâneo presente durante o exame. Este paciente tem síndrome vestibular episódica desencadeada por posição, com crises de segundos e exame normal entre elas; nele o impulso cefálico normal é o esperado, porque o reflexo vestíbulo-ocular está íntegro. O exame indicado é a manobra de Dix-Hallpike (e o teste de rotação em supino para o canal horizontal), que diagnostica a vertigem posicional paroxística benigna e já orienta a manobra de reposição. A imagem só entraria se o nistagmo provocado tivesse características centrais (vertical puro para baixo, sem latência, sem fadiga, sem vertigem proporcional) ou houvesse sinais neurológicos.",
+  "comentarios": {
+   "A": "Errada, é a armadilha. RM seria indicada na síndrome vestibular contínua com HINTS central ou com nistagmo posicional de padrão central; aqui o HINTS não se aplica.",
+   "B": "Errada. Angiotomografia seria para suspeita de dissecção ou de AIT vertebrobasilar, com sintomas de tronco ou cervicalgia, ausentes.",
+   "C": "Correta. Vertigem de segundos desencadeada por posição, sem nada entre as crises: Dix-Hallpike confirma vertigem posicional paroxística benigna.",
+   "D": "Errada. Audiometria e prova calórica entram na suspeita de doença de Ménière ou de hipofunção vestibular, com perda auditiva ou desequilíbrio contínuo."
+  },
+  "para_levar": "HINTS só se interpreta na vertigem contínua com nistagmo espontâneo; na vertigem posicional de segundos, o exame é a manobra de Dix-Hallpike, mesmo no idoso vascular.",
+  "referencias": "Edlow JA et al. Guidelines for reasonable and appropriate care in the emergency department 3 (GRACE-3): acute dizziness and vertigo. Acad Emerg Med 2023; AAO-HNS Clinical Practice Guideline: Benign Paroxysmal Positional Vertigo (update) 2017.",
+  "tags": [
+   "Vertigem (CM)",
+   "VPPB (CM)"
+  ],
+  "sourceQuestionId": "02b8e65e01c2ae9",
+  "alvo": "Regra fixada do HINTS aplicada fora do qualificador (síndrome vestibular contínua); exame a mais (RM) no lugar do simples.",
+  "area": "Neurologia"
+ },
+ {
+  "id": "S12-NEU-05",
+  "simulado": 12,
+  "titulo": "Dor e fraqueza proximal de coxa após emagrecimento rápido no diabético, com protrusão L3-L4: radiculoplexoneuropatia lombossacra diabética",
+  "arma": "Rótulo verdadeiro",
+  "comando": "diagnóstico",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 61 anos, com diabetes tipo 2 há 6 anos, iniciou semaglutida há 5 meses e perdeu 11 kg (HbA1c de 9,8% para 6,6%). Há 7 semanas tem dor intensa em queimação na coxa e no quadril direitos, pior à noite, seguida em 3 semanas de fraqueza para subir escadas; há 10 dias, dor semelhante começou na coxa esquerda. Exame: atrofia e força grau 3 no quadríceps, nos adutores e no iliopsoas à direita, força grau 4 no tibial anterior direito, patelar abolido à direita, hipoestesia na face anterior da coxa direita; membros superiores normais. RM lombar: protrusão discal L3-L4 à direita, sem compressão radicular evidente. VHS 38 mm/h, CPK normal. ENMG: desnervação em múltiplos miótomos de L2 a L5, inclusive em paravertebrais, à direita mais que à esquerda, com potenciais sensitivos reduzidos. O diagnóstico mais provável é:",
+  "alternativas": {
+   "A": "Polirradiculoneuropatia desmielinizante crônica",
+   "B": "Radiculoplexoneuropatia lombossacra diabética",
+   "C": "Radiculopatia compressiva de L3-L4",
+   "D": "Mononeuropatia femoral diabética"
+  },
+  "gabarito": "B",
+  "armadilha": "C",
+  "dado_decisivo": "desnervação em múltiplos miótomos de L2 a L5, inclusive em paravertebrais",
+  "resolucao": "A RM com protrusão L3-L4 do mesmo lado é o rótulo que faz marcar radiculopatia compressiva. Mas uma raiz não explica fraqueza no quadríceps (femoral), nos adutores (obturatório) e no tibial anterior (L4-L5, fibular), nem a progressão para o outro lado, e a própria RM não mostra compressão. O quadro é de dor proximal intensa seguida de fraqueza e atrofia, assimétrica e depois contralateral, num diabético tipo 2 com emagrecimento importante e queda rápida da HbA1c, com ENMG mostrando acometimento de raízes (paravertebrais) e plexo em vários miótomos: radiculoplexoneuropatia lombossacra diabética (amiotrofia diabética), uma microvasculite. O curso é monofásico, com recuperação lenta em meses, e o tratamento é sintomático e de reabilitação. A desmielinizante crônica seria simétrica, com condução lenta e sem dor tão intensa, e a mononeuropatia femoral não explica adutores, tibial anterior e paravertebrais.",
+  "comentarios": {
+   "A": "Errada. A desmielinizante inflamatória crônica seria simétrica, proximal e distal, com lentificação de condução e hiperproteinorraquia, sem dor lancinante assimétrica.",
+   "B": "Correta. Dor intensa proximal seguida de fraqueza assimétrica que se estende ao outro lado, após emagrecimento, com desnervação de raízes e plexo em vários miótomos.",
+   "C": "Errada, é a armadilha. Seria a resposta se a fraqueza ficasse restrita a L3-L4 e a RM mostrasse compressão; aqui são vários nervos e dois lados.",
+   "D": "Errada. A femoral explicaria o quadríceps e o patelar, mas não adutores, iliopsoas inervado por raízes, tibial anterior e paravertebrais."
+  },
+  "para_levar": "Diabético tipo 2 com emagrecimento, dor intensa na coxa e depois fraqueza proximal assimétrica que passa para o outro lado: radiculoplexoneuropatia lombossacra diabética; a hérnia da RM costuma ser incidental.",
+  "referencias": "Dyck PJB, Windebank AJ. Diabetic and nondiabetic lumbosacral radiculoplexus neuropathies. Muscle Nerve 2002; ADA Standards of Care in Diabetes 2026, seção 12; Pop-Busui R et al. Diabetic Neuropathy: A Position Statement by the ADA. Diabetes Care 2017.",
+  "tags": [
+   "Complicações Crônicas do Diabetes (CM)",
+   "Neuromuscular (CM)"
+  ],
+  "sourceQuestionId": "2a71aad10961a5f",
+  "alvo": "Rótulo verdadeiro de imagem (protrusão discal) que encobre a distribuição clínica; localização periférica.",
+  "area": "Neurologia"
+ }
+]

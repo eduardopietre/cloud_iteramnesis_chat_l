@@ -1,0 +1,171 @@
+[
+ {
+  "id": "S14-NEU-01",
+  "simulado": 14,
+  "titulo": "ELA bulbar com perda de peso, ortopneia e CVF de 58%: gastrostomia e ventilação não invasiva agora, sem esperar a CVF cair abaixo de 50%",
+  "arma": "Grade X / Y",
+  "comando": "conduta",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 63 anos, com esclerose lateral amiotrófica de início bulbar diagnosticada há 10 meses, em uso de riluzol, vem à consulta com engasgos frequentes com líquidos, refeições que duram mais de uma hora e perda de 9% do peso em 3 meses (IMC atual de 20 kg/m²). Dorme sentado em duas almofadas por falta de ar ao deitar e acorda com cefaleia. Capacidade vital forçada de 58% do previsto sentado; pressão inspiratória máxima de -48 cmH2O; gasometria diurna com PaCO2 de 43 mmHg. Deseja todas as medidas que prolonguem a vida, exceto traqueostomia. Quanto à gastrostomia e à ventilação não invasiva, a conduta é, respectivamente:",
+  "alternativas": {
+   "A": "Aguardar CVF abaixo de 50% / aguardar CVF abaixo de 50%",
+   "B": "Indicar agora / aguardar CVF abaixo de 50%",
+   "C": "Aguardar CVF abaixo de 50% / indicar agora",
+   "D": "Indicar agora / indicar agora"
+  },
+  "gabarito": "D",
+  "armadilha": "B",
+  "dado_decisivo": "Dorme sentado em duas almofadas por falta de ar ao deitar e acorda com cefaleia",
+  "resolucao": "A regra que ele guarda é a da CVF abaixo de 50% para iniciar a ventilação não invasiva, e com 58% a armadilha é adiar. Mas a CVF é só um dos gatilhos: ortopneia, cefaleia matinal (hipoventilação noturna), pressão inspiratória máxima mais fraca que -60 cmH2O, hipercapnia ou dessaturação noturna também indicam, e a CVF sentada subestima a fraqueza diafragmática que aparece deitado. Ele tem ortopneia, cefaleia ao acordar e PImáx de -48: ventilação não invasiva agora, que prolonga sobrevida e melhora qualidade de vida na ELA. A gastrostomia está indicada por disfagia com perda de mais de 5 a 10% do peso, e deve ser feita enquanto a CVF ainda está acima de 50%, porque abaixo disso o risco do procedimento sobe muito; esperar é perder a janela. As duas decisões são agora, e uma não depende da outra.",
+  "comentarios": {
+   "A": "Errada. Adia as duas e perde a janela da gastrostomia segura, além de deixar a hipoventilação sintomática sem tratamento.",
+   "B": "Errada, é a armadilha. Acerta a gastrostomia, mas usa só a CVF para a ventilação; ortopneia, cefaleia matinal e PImáx de -48 já a indicam.",
+   "C": "Errada. Acerta a ventilação, mas esperar a CVF cair abaixo de 50% para a gastrostomia é exatamente o que torna o procedimento arriscado.",
+   "D": "Correta. Disfagia com perda de 9% do peso indica gastrostomia com CVF ainda acima de 50%, e ortopneia com PImáx de -48 indica ventilação não invasiva."
+  },
+  "para_levar": "Na ELA, ventilação não invasiva não espera a CVF abaixo de 50% se houver ortopneia, cefaleia matinal ou PImáx fraca; e a gastrostomia se faz antes da CVF cair abaixo de 50%.",
+  "referencias": "EAN Guideline on the management of amyotrophic lateral sclerosis 2024 (Van Damme P et al., Eur J Neurol); AAN Practice Parameter update: care of the patient with ALS 2009 (reafirmado); NICE NG42 (Motor neurone disease) 2016, atualização 2019.",
+  "tags": [
+   "Esclerose Lateral Amiotrófica (CM)"
+  ],
+  "sourceQuestionId": "4df74512ef44a56",
+  "alvo": "Regra fixada de ELA com ângulo novo (manejo); limiar único aplicado quando outro gatilho já decide; grade X / Y.",
+  "area": "Neurologia"
+ },
+ {
+  "id": "S14-NEU-02",
+  "simulado": 14,
+  "titulo": "Wernicke sem resposta a tiamina em dose alta no etilista com diarreia e IBP crônico: o magnésio que não foi dosado",
+  "arma": "Dado omitido",
+  "comando": "próximo exame",
+  "nivel": "difícil",
+  "enunciado": "Homem de 55 anos, etilista, com diarreia crônica e uso de omeprazol 40 mg/dia há 6 anos, foi internado com confusão, nistagmo horizontal, paresia bilateral do VI nervo e ataxia de marcha. Recebe tiamina 500 mg IV de 8 em 8 horas há 4 dias, iniciada antes de qualquer glicose, sem melhora da oftalmoparesia nem da confusão. Afebril, PA 118/72 mmHg. Exames: glicemia 92 mg/dL, sódio 136 mEq/L, potássio 3,0 mEq/L (repondo cloreto de potássio há 3 dias, sem subir), cálcio total 7,6 mg/dL com albumina de 3,8 g/dL, amônia normal, TC de crânio normal. ECG: QTc de 490 ms. O exame que mais provavelmente explica a falta de resposta é:",
+  "alternativas": {
+   "A": "Magnésio sérico",
+   "B": "RM de encéfalo com difusão",
+   "C": "Dosagem sérica de tiamina",
+   "D": "Eletroencefalograma"
+  },
+  "gabarito": "A",
+  "armadilha": "C",
+  "dado_decisivo": "potássio 3,0 mEq/L (repondo cloreto de potássio há 3 dias, sem subir), cálcio total 7,6 mg/dL com albumina de 3,8 g/dL",
+  "resolucao": "Wernicke que não melhora com tiamina faz duvidar da dose ou do diagnóstico, e dosar a tiamina é a armadilha: o nível sérico não muda a conduta de quem já recebe 1.500 mg/dia. O que falta no caso é o magnésio, e todas as pistas apontam para ele: etilismo, diarreia crônica e inibidor de bomba de prótons por anos (que reduz a absorção intestinal de magnésio), hipocalemia que não sobe com reposição, hipocalcemia verdadeira com albumina normal e QTc longo. O magnésio é cofator da transcetolase e das enzimas dependentes de tiamina; sem ele, a tiamina não funciona, e há relatos de Wernicke refratário que só respondeu à reposição de magnésio. Corrigido o magnésio, o potássio e o cálcio também passam a subir. A RM pode mostrar as lesões de Wernicke, mas não explica a falta de resposta.",
+  "comentarios": {
+   "A": "Correta. Hipocalemia refratária, hipocalcemia, QTc longo, diarreia e IBP crônico apontam hipomagnesemia, que impede a ação da tiamina.",
+   "B": "Errada. RM confirmaria lesões periaquedutais e talâmicas, mas o diagnóstico clínico já está feito e ela não explica a refratariedade.",
+   "C": "Errada, é a armadilha. O nível de tiamina seria útil antes de tratar, em dúvida diagnóstica; em quem recebe 1.500 mg/dia, não muda nada.",
+   "D": "Errada. EEG entraria na suspeita de estado de mal não convulsivo, sem pistas aqui; o quadro é de oftalmoparesia e ataxia."
+  },
+  "para_levar": "Wernicke que não responde à tiamina: dose o magnésio; hipocalemia e hipocalcemia refratárias no etilista ou no usuário crônico de IBP são a pista.",
+  "referencias": "EFNS guidelines for diagnosis, therapy and prevention of Wernicke encephalopathy (Galvin R et al., Eur J Neurol 2010); Sechi G, Serra A. Wernicke's encephalopathy: new clinical settings and recent advances. Lancet Neurol 2007.",
+  "tags": [
+   "Encefalopatia de Wernicke (CM)",
+   "Distúrbios de Fósforo e Magnésio (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Dado omitido (magnésio não dosado) e exame lido como enfeite (potássio que não sobe); próximo exame.",
+  "area": "Neurologia"
+ },
+ {
+  "id": "S14-NEU-03",
+  "simulado": 14,
+  "titulo": "Mielite transversa sem resposta a 5 dias de metilprednisolona: plasmaférese como resgate, não esperar",
+  "arma": "Cronologia",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 34 anos apresentou, há 9 dias, dormência ascendente nas pernas seguida de paraparesia e retenção urinária, com nível sensitivo em T6 instalado em 48 horas. RM: lesão medular em T5-T6, de dois segmentos, com realce; RM de encéfalo normal. Líquor: 18 células/mm³ (linfócitos), proteína 62 mg/dL, sem bandas oligoclonais. Anti-aquaporina-4 e anti-MOG negativos por ensaio celular; sorologias para HIV, sífilis, HTLV-1 e herpesvírus negativas, B12 e cobre normais. Recebeu metilprednisolona 1 g/dia por 5 dias, terminada há 2 dias, e permanece com força grau 1 nos membros inferiores e sem controle esfincteriano. A conduta mais adequada agora é:",
+  "alternativas": {
+   "A": "Rituximabe intravenoso",
+   "B": "Plasmaférese terapêutica",
+   "C": "Ciclofosfamida intravenosa",
+   "D": "Reabilitação, reavaliar em 4 semanas"
+  },
+  "gabarito": "B",
+  "armadilha": "D",
+  "dado_decisivo": "permanece com força grau 1 nos membros inferiores e sem controle esfincteriano",
+  "resolucao": "Ele costuma acertar quando a resposta é fazer menos, e aqui a armadilha é justamente essa: esperar a recuperação espontânea depois do pulso. Na mielite transversa aguda com déficit grave (paraplegia, sem controle esfincteriano) que não responde a 5 dias de metilprednisolona, a plasmaférese é o resgate com melhor evidência, e o benefício depende de começar cedo, nos primeiros dias a semanas. Infecção, compressão, deficiência de B12 e de cobre e as doenças com anticorpo (aquaporina-4 e MOG) foram afastadas. Rituximabe é manutenção para prevenir recaídas da neuromielite óptica, não tratamento de ataque; ciclofosfamida fica para mielite de doença sistêmica grave, como o lúpus. A reabilitação começa já, mas junto com a plasmaférese, não no lugar dela.",
+  "comentarios": {
+   "A": "Errada. Rituximabe previne recaídas na neuromielite óptica com anti-aquaporina-4; não é tratamento de resgate do ataque, e os anticorpos são negativos.",
+   "B": "Correta. Déficit grave sem resposta ao pulso de corticoide: plasmaférese precoce como resgate.",
+   "C": "Errada. Ciclofosfamida entraria na mielite do lúpus ou de outra doença sistêmica grave, ausente aqui.",
+   "D": "Errada, é a armadilha. Seria aceitável no déficit leve e em melhora; com paraplegia e bexiga neurogênica, esperar perde a janela da plasmaférese."
+  },
+  "para_levar": "Mielite transversa grave que não melhora com 5 dias de metilprednisolona: plasmaférese logo em seguida; o tempo conta para a recuperação.",
+  "referencias": "Scott TF et al. Evidence-based guideline: clinical evaluation and treatment of transverse myelitis. Report of the AAN Therapeutics and Technology Assessment Subcommittee. Neurology 2011; Greenberg BM. Transverse myelitis. Continuum 2018.",
+  "tags": [
+   "Mielopatia (CM)",
+   "Neuroimunologia (CM)"
+  ],
+  "sourceQuestionId": "c61de9971cbb7c8",
+  "alvo": "Cronologia da conduta (o resgate tem janela); quando o certo é o degrau seguinte, e não a omissão.",
+  "area": "Neurologia"
+ },
+ {
+  "id": "S14-NEU-04",
+  "simulado": 14,
+  "titulo": "Dor intensa no ombro que cede quando surge escápula alada e fraqueza, após cirurgia: neurite braquial idiopática, não lesão do manguito",
+  "arma": "Rótulo verdadeiro",
+  "comando": "diagnóstico",
+  "nivel": "difícil",
+  "enunciado": "Homem de 38 anos, previamente hígido, operou hérnia inguinal há 3 semanas. Cinco dias depois acordou com dor lancinante no ombro e na região escapular direitos, que não cedia com anti-inflamatório e o impedia de dormir; a ortopedia registrou 'tendinite do manguito rotador' e indicou fisioterapia. Há 1 semana a dor quase desapareceu, mas surgiu dificuldade para elevar o braço e pentear o cabelo. Exame: escápula alada à direita ao empurrar a parede, atrofia do deltoide e do supraespinal, força grau 3 na abdução e na rotação externa do ombro, pequena área de hipoestesia na face lateral do braço; sem dor cervical, Spurling negativo, bíceps e tricipital simétricos. RM do ombro: edema muscular difuso no supraespinal e no infraespinal, tendões íntegros. O diagnóstico mais provável é:",
+  "alternativas": {
+   "A": "Radiculopatia C5-C6 por hérnia discal",
+   "B": "Ruptura do manguito rotador",
+   "C": "Neurite braquial idiopática",
+   "D": "Síndrome do desfiladeiro torácico"
+  },
+  "gabarito": "C",
+  "armadilha": "A",
+  "dado_decisivo": "Há 1 semana a dor quase desapareceu, mas surgiu dificuldade para elevar o braço",
+  "resolucao": "Dor no ombro com fraqueza de abdução em C5-C6 leva a pensar em radiculopatia cervical, e a tendinite registrada desvia para o manguito. A sequência é o que decide: dor intensa, noturna e refratária, que alivia em dias justamente quando aparecem fraqueza e atrofia. Junte a isso escápula alada (nervo torácico longo), deltoide (axilar) e supraespinal e infraespinal (supraescapular): vários nervos do plexo braquial superior, não uma raiz, após um gatilho imunológico (cirurgia, infecção, vacina). É a neurite braquial idiopática (amiotrofia nevrálgica, síndrome de Parsonage-Turner). O edema muscular difuso na RM é a desnervação, e os tendões íntegros afastam ruptura; sem dor cervical, com Spurling negativo e reflexos simétricos, a radiculopatia perde força. A ENMG após 3 semanas confirma o padrão multifocal.",
+  "comentarios": {
+   "A": "Errada, é a armadilha. Radiculopatia C5-C6 daria dor cervical irradiada, Spurling positivo e reflexo bicipital reduzido, e não explicaria escápula alada pelo torácico longo.",
+   "B": "Errada. Ruptura do manguito daria fraqueza com dor persistente e tendão roto na RM; aqui os tendões estão íntegros e há atrofia neurogênica.",
+   "C": "Correta. Dor intensa que cede quando surge fraqueza multifocal no plexo superior, com escápula alada, após cirurgia: amiotrofia nevrálgica.",
+   "D": "Errada. Desfiladeiro torácico neurogênico acomete o tronco inferior (mão, face medial do antebraço), com sintomas posturais crônicos."
+  },
+  "para_levar": "Dor lancinante no ombro que melhora quando aparece fraqueza e atrofia em vários nervos do plexo superior, após cirurgia, infecção ou vacina: neurite braquial idiopática.",
+  "referencias": "van Alfen N, van Engelen BGM. The clinical spectrum of neuralgic amyotrophy in 246 cases. Brain 2006; van Alfen N. Clinical and pathophysiological concepts of neuralgic amyotrophy. Nat Rev Neurol 2011.",
+  "tags": [
+   "Neuromuscular (CM)",
+   "Fisiopatologia da Dor e Síndromes Partes Moles - Bursites, Tendinites e Outras Lesões (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Rótulo verdadeiro (tendinite, protrusão) e cronologia lida como enfeite; localização periférica.",
+  "area": "Neurologia"
+ },
+ {
+  "id": "S14-NEU-05",
+  "simulado": 14,
+  "titulo": "Hemorragia intracerebral em dupla antiagregação, sem indicação cirúrgica: não transfundir plaquetas",
+  "arma": "Omissão",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Homem de 69 anos, com angioplastia coronária e stent farmacológico há 8 meses, em uso de AAS 100 mg e clopidogrel 75 mg, é admitido 2 horas após o início de hemiparesia esquerda e disartria. PA 186/100 mmHg, Glasgow 15. TC: hematoma putaminal direito de 18 mL, sem extensão ventricular e sem desvio de linha média; a neurocirurgia não indica intervenção. Plaquetas 245.000/mm³, RNI 1,0, TTPa normal, fibrinogênio 310 mg/dL. Iniciada nicardipina com meta de PAS de 140 mmHg. Quanto à antiagregação, além de suspender AAS e clopidogrel, a conduta mais adequada é:",
+  "alternativas": {
+   "A": "Plasma fresco congelado 15 mL/kg",
+   "B": "Transfusão de uma aférese de plaquetas",
+   "C": "Complexo protrombínico de 4 fatores",
+   "D": "Nenhuma medida hemostática adicional"
+  },
+  "gabarito": "D",
+  "armadilha": "B",
+  "dado_decisivo": "a neurocirurgia não indica intervenção",
+  "resolucao": "Se a varfarina se reverte, parece lógico 'reverter' o antiagregante com plaquetas, e é a armadilha. No estudo PATCH, a transfusão de plaquetas em hemorragia intracerebral associada a antiagregante, em pacientes que não iam a cirurgia, aumentou morte ou dependência; por isso a diretriz da AHA/ASA classifica a transfusão como potencialmente danosa nesse cenário. A transfusão só se discute quando o paciente vai a neurocirurgia de urgência. Plasma e complexo protrombínico corrigem fatores de coagulação, que estão normais, e não têm efeito sobre a função plaquetária. A conduta é suspender os antiagregantes, controlar a pressão e discutir com a cardiologia o retorno do antiagregante por causa do stent.",
+  "comentarios": {
+   "A": "Errada. Plasma repõe fatores de coagulação, normais aqui, e não age sobre a antiagregação.",
+   "B": "Errada, é a armadilha. Plaquetas seriam discutidas se houvesse neurocirurgia de urgência; sem cirurgia, aumentaram morte ou dependência no PATCH.",
+   "C": "Errada. Complexo protrombínico é para reversão de antagonista da vitamina K ou de inibidor do fator Xa, não de antiagregante.",
+   "D": "Correta. Sem cirurgia indicada, suspender os antiagregantes e controlar a pressão; nenhum hemocomponente acrescenta benefício."
+  },
+  "para_levar": "Hemorragia intracerebral em uso de antiagregante sem cirurgia: não transfundir plaquetas (PATCH); a transfusão só se discute se for operar.",
+  "referencias": "AHA/ASA 2022 Guideline for the Management of Patients With Spontaneous Intracerebral Hemorrhage; Baharoglu MI et al. PATCH trial, Lancet 2016.",
+  "tags": [
+   "AVC Hemorrágico (CM)",
+   "Hemoterapia (CM)"
+  ],
+  "sourceQuestionId": "941b0428cf92d10",
+  "alvo": "Fazer mais do que o caso pede (hemocomponente sem indicação); omissão; hemoterapia (lacuna nova).",
+  "area": "Neurologia"
+ }
+]

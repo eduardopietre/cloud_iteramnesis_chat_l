@@ -1,0 +1,171 @@
+[
+ {
+  "id": "S13-NEU-01",
+  "simulado": 13,
+  "titulo": "Retenção urinária atribuída ao tramadol na lombociatalgia com anestesia em sela: RM lombossacra de urgência para síndrome da cauda equina",
+  "arma": "Rótulo verdadeiro",
+  "comando": "próximo exame",
+  "nivel": "difícil",
+  "enunciado": "Homem de 45 anos, pedreiro, com lombociatalgia à esquerda há 3 semanas, tratado com diclofenaco e tramadol 50 mg de 6 em 6 horas, volta ao pronto-socorro porque há 18 horas 'não consegue urinar direito' e precisa fazer força. Refere que a dor piorou e agora irradia para as duas pernas, e uma 'dormência estranha' ao se limpar após evacuar. PA 138/84 mmHg, afebril. Exame: Lasègue positivo a 40 graus bilateralmente, força grau 5 nos membros inferiores, aquileu diminuído à esquerda, hipoestesia tátil e dolorosa na região perineal e na face medial das nádegas, tônus anal diminuído ao toque. Ultrassonografia vesical: resíduo pós-miccional de 620 mL. O residente atribui a retenção ao opioide e propõe sondagem de alívio. Além do cateterismo vesical, o exame mais adequado agora é:",
+  "alternativas": {
+   "A": "Estudo urodinâmico após suspender tramadol",
+   "B": "Eletroneuromiografia dos membros inferiores",
+   "C": "RM de coluna lombossacra de urgência",
+   "D": "Radiografia dinâmica da coluna lombar"
+  },
+  "gabarito": "C",
+  "armadilha": "A",
+  "dado_decisivo": "hipoestesia tátil e dolorosa na região perineal e na face medial das nádegas, tônus anal diminuído ao toque",
+  "resolucao": "O opioide é uma causa verdadeira de retenção urinária e oferece uma explicação benigna, e a força normal nas pernas parece tranquilizar. Mas a ciatalgia virou bilateral, há anestesia em sela, tônus anal reduzido e resíduo de 620 mL: é síndrome da cauda equina, provavelmente por hérnia discal volumosa central, até prova em contrário. A força preservada não afasta, porque as raízes sacrais podem ser comprimidas antes das lombares. O exame é a RM lombossacra de urgência, e confirmada a compressão, a descompressão cirúrgica deve ser feita o quanto antes, idealmente antes da retenção se tornar completa e definitiva. Urodinâmica, ENMG e radiografia atrasam a única decisão que importa.",
+  "comentarios": {
+   "A": "Errada, é a armadilha. Seria razoável numa retenção isolada após iniciar opioide, sem déficit sacral; com anestesia em sela e tônus anal reduzido, esperar é perder função esfincteriana.",
+   "B": "Errada. ENMG documenta radiculopatia crônica e não tem lugar na urgência; só mostra desnervação semanas depois.",
+   "C": "Correta. Ciatalgia bilateral, anestesia em sela, tônus anal reduzido e retenção: RM de urgência e cirurgia se confirmada a compressão.",
+   "D": "Errada. Radiografia dinâmica avalia instabilidade em espondilolistese, não mostra disco nem raízes."
+  },
+  "para_levar": "Lombociatalgia com retenção urinária, anestesia em sela ou tônus anal reduzido é síndrome da cauda equina até prova em contrário: RM de urgência, mesmo com força normal e com uma droga que explicaria a retenção.",
+  "referencias": "NICE guideline NG59 (Low back pain and sciatica), atualização 2020; Getting It Right First Time (GIRFT) National Suspected Cauda Equina Syndrome Pathway 2023; North American Spine Society guideline 2020.",
+  "tags": [
+   "Lombalgia (CM)",
+   "Neuroanatomia (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Rótulo verdadeiro (droga que explica a retenção) e negativo tranquilizador (força normal); próximo exame.",
+  "area": "Neurologia"
+ },
+ {
+  "id": "S13-NEU-02",
+  "simulado": 13,
+  "titulo": "Hemorragia intracerebral com última dose de rivaroxabana há 60 horas e anti-Xa indetectável: nenhum agente reversor",
+  "arma": "Omissão",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 74 anos, com fibrilação atrial em uso de rivaroxabana 20 mg uma vez ao dia, tomou a última dose há 60 horas, antes de suspender todos os remédios por gastroenterite com vômitos. É trazida por cefaleia e hemiparesia direita leve iniciadas há 3 horas. PA 168/92 mmHg, Glasgow 15. TC: hematoma lobar parietal esquerdo de 14 mL, sem extensão ventricular. Creatinina 0,9 mg/dL (clearance estimado de 62 mL/min), RNI 1,1, TTPa normal, plaquetas 230.000/mm³; atividade anti-Xa calibrada para rivaroxabana abaixo do limite de detecção. Além do controle pressórico, quanto à reversão da anticoagulação, a conduta mais adequada é:",
+  "alternativas": {
+   "A": "Nenhum agente reversor",
+   "B": "Andexanet alfa em bolus e infusão",
+   "C": "Complexo protrombínico 50 UI/kg",
+   "D": "Plasma fresco congelado 15 mL/kg"
+  },
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "atividade anti-Xa calibrada para rivaroxabana abaixo do limite de detecção",
+  "resolucao": "Hemorragia intracerebral em quem usa inibidor do fator Xa evoca o antídoto específico, e o andexanet é a armadilha de quem faz o degrau mais caro por reflexo. A reversão só faz sentido se ainda houver droga circulando: as diretrizes a indicam quando a última dose foi há menos de cerca de 24 a 48 horas ou quando o nível anti-Xa é mensurável. Aqui são 60 horas desde a última dose, com função renal normal (meia-vida da rivaroxabana de 5 a 13 horas) e atividade anti-Xa indetectável: não há anticoagulante a reverter. Andexanet aumenta eventos trombóticos (como no ANNEXA-I), e complexo protrombínico também é pró-trombótico; dar qualquer um sem droga circulante é só risco. A conduta é controle pressórico (PAS em torno de 140 mmHg) e cuidados habituais.",
+  "comentarios": {
+   "A": "Correta. Sessenta horas após a dose, com rim normal e anti-Xa indetectável, não há efeito anticoagulante a reverter.",
+   "B": "Errada, é a armadilha. Andexanet seria a escolha com dose nas últimas horas ou anti-Xa mensurável; sem droga circulante, só acrescenta trombose.",
+   "C": "Errada. Complexo protrombínico é a alternativa ao andexanet quando há efeito residual; aqui não há, e ele também é pró-trombótico.",
+   "D": "Errada. Plasma não reverte inibidor do fator Xa em nenhuma situação e carrega volume e risco transfusional."
+  },
+  "para_levar": "Antes de reverter um anticoagulante oral direto, pergunte quando foi a última dose e se há nível mensurável; passadas 48 horas com rim normal ou com anti-Xa indetectável, não há o que reverter.",
+  "referencias": "AHA/ASA 2022 Guideline for the Management of Patients With Spontaneous Intracerebral Hemorrhage; ESO Guideline on reversal of oral anticoagulants in acute intracerebral haemorrhage 2019; Connolly SJ et al. ANNEXA-I, N Engl J Med 2024.",
+  "tags": [
+   "AVC Hemorrágico (CM)",
+   "Anticoagulação (CM)"
+  ],
+  "sourceQuestionId": "f9197028ad4cf4a",
+  "alvo": "Fazer mais do que o caso pede (antídoto sem droga circulante); exame que decide (anti-Xa) lido como enfeite; omissão.",
+  "area": "Neurologia"
+ },
+ {
+  "id": "S13-NEU-03",
+  "simulado": 13,
+  "titulo": "Diplopia no diabético rotulada de paralisia microvascular do III nervo: a adução preservada na convergência localiza no fascículo longitudinal medial",
+  "arma": "Rótulo verdadeiro",
+  "comando": "achado esperado",
+  "nivel": "difícil",
+  "enunciado": "Homem de 67 anos, diabético há 15 anos (HbA1c 8,9%), acorda com visão dupla horizontal ao olhar para a esquerda. Sem cefaleia e sem dor ocular. O clínico registra 'provável paralisia microvascular do III nervo direito' porque o olho direito não aduz no olhar conjugado para a esquerda. Pupilas isocóricas e fotorreagentes, sem ptose; ao olhar para a esquerda, o olho esquerdo abduz por completo com nistagmo; ao olhar para a direita, os dois olhos se movem normalmente. PA 170/94 mmHg. O achado que, se presente, localiza a lesão no fascículo longitudinal medial e afasta a lesão do III nervo é:",
+  "alternativas": {
+   "A": "Ptose da pálpebra direita",
+   "B": "Limitação da elevação do olho direito",
+   "C": "Pupila direita fotorreagente",
+   "D": "Adução direita preservada na convergência"
+  },
+  "gabarito": "D",
+  "armadilha": "C",
+  "dado_decisivo": "o olho esquerdo abduz por completo com nistagmo",
+  "resolucao": "Diabético, sem dor, com pupila normal e falha de adução: a regra da paralisia microvascular do III nervo que poupa a pupila parece encaixar, e a pupila reativa é a armadilha, porque não localiza nada. O que o caso mostra é falha de adução de um olho com nistagmo do olho que abduz, o desenho da oftalmoplegia internuclear direita (lesão no fascículo longitudinal medial direito, na ponte ou no mesencéfalo). O teste que separa as duas é a convergência: na oftalmoplegia internuclear o reto medial e o núcleo do III estão íntegros e são acionados pela via de convergência, que não passa pelo fascículo, então o olho aduz ao convergir; na paralisia do III, o reto medial está fraco em qualquer comando. Ptose e limitação da elevação são achados a favor do III nervo, não contra. Num idoso vascular hipertenso, a oftalmoplegia internuclear unilateral é quase sempre isquêmica e pede RM com difusão.",
+  "comentarios": {
+   "A": "Errada. Ptose apontaria o III nervo (levantador da pálpebra), o contrário do que a questão pede.",
+   "B": "Errada. Limitação da elevação também é sinal de III nervo (reto superior e oblíquo inferior); não aparece na lesão do fascículo.",
+   "C": "Errada, é a armadilha. Pupila poupada é argumento para causa microvascular do III, mas não localiza no fascículo nem afasta o III.",
+   "D": "Correta. Adução que falha no olhar conjugado e funciona na convergência só acontece com reto medial e núcleo do III íntegros, ou seja, lesão no fascículo longitudinal medial."
+  },
+  "para_levar": "Falha de adução com nistagmo do olho contralateral que abduz: teste a convergência; adução preservada ao convergir localiza no fascículo longitudinal medial e afasta o III nervo.",
+  "referencias": "Frohman TC, Frohman EM. Internuclear ophthalmoplegia. Neurol Clin 2010 (revisão); Keane JR. Internuclear ophthalmoplegia: unusual causes in 114 of 410 patients. Arch Neurol 2005.",
+  "tags": [
+   "Neuroanatomia (CM)",
+   "AVC Isquêmico (CM)"
+  ],
+  "sourceQuestionId": "9df8d5e381f1447",
+  "alvo": "Regra fixada da oftalmoplegia internuclear com ângulo novo (convergência); rótulo do III nervo diabético.",
+  "area": "Neurologia"
+ },
+ {
+  "id": "S13-NEU-04",
+  "simulado": 13,
+  "titulo": "Paraplegia ao despertar após endoprótese de aorta toracoabdominal, com vibração e posição preservadas: infarto da artéria espinal anterior",
+  "arma": "Negativo no meio",
+  "comando": "diagnóstico",
+  "nivel": "difícil",
+  "enunciado": "Homem de 70 anos está no 1º dia de pós-operatório de correção endovascular de aneurisma toracoabdominal, com cobertura extensa da aorta descendente; a PAM chegou a 55 mmHg por 20 minutos no intraoperatório. Ao despertar, refere que não mexe as pernas e não sente a sonda vesical. Exame: paraplegia flácida, patelares e aquileus abolidos, nível sensitivo para dor e temperatura em T10, com sensibilidade vibratória e posição segmentar preservadas nos pés; membros superiores normais. Sem febre e sem dor dorsal; o cateter peridural foi retirado há 10 horas com coagulograma normal. RM de coluna torácica sem coleção e sem compressão; difusão inconclusiva pelo artefato da prótese. A causa mais provável é:",
+  "alternativas": {
+   "A": "Hematoma epidural pelo cateter peridural",
+   "B": "Infarto da artéria espinal anterior",
+   "C": "Mielite transversa aguda",
+   "D": "Síndrome de Guillain-Barré"
+  },
+  "gabarito": "B",
+  "armadilha": "C",
+  "dado_decisivo": "com sensibilidade vibratória e posição segmentar preservadas nos pés",
+  "resolucao": "Paraplegia aguda com nível sensitivo e bexiga neurogênica sugere mielopatia transversa, e o reflexo de quem não lê o exame sensitivo por coluna é chamar de mielite. O dado que decide é a dissociação: dor e temperatura perdidas abaixo de T10, vibração e posição preservadas. A artéria espinal anterior irriga os dois terços anteriores da medula (cornos anteriores, tratos corticoespinais e espinotalâmicos) e poupa as colunas dorsais, nutridas pelas espinais posteriores. A cobertura extensa da aorta descendente (que pode ocluir a artéria radicular magna de Adamkiewicz) somada à hipotensão intraoperatória dá o mecanismo. A flacidez e a arreflexia são do choque medular, não de nervo periférico; a RM sem coleção afasta o hematoma. A conduta imediata é elevar a PAM e considerar drenagem liquórica.",
+  "comentarios": {
+   "A": "Errada. Hematoma epidural daria dor dorsal e compressão na RM, e acometeria todas as modalidades sensitivas.",
+   "B": "Correta. Perda de dor e temperatura com colunas dorsais preservadas, após cobertura aórtica extensa e hipotensão: território da espinal anterior.",
+   "C": "Errada, é a armadilha. Mielite transversa se instala em horas a dias, com líquor inflamatório, e costuma acometer todas as modalidades, inclusive vibração e posição.",
+   "D": "Errada. Guillain-Barré não dá nível sensitivo nem retenção urinária precoce, e é ascendente em dias."
+  },
+  "para_levar": "Paraplegia com perda de dor e temperatura e vibração preservada é infarto da artéria espinal anterior; após cirurgia da aorta, pense nele primeiro.",
+  "referencias": "Rubin MN, Rabinstein AA. Vascular diseases of the spinal cord. Neurol Clin 2013; ESC Guidelines for the diagnosis and treatment of aortic diseases 2024 (proteção medular na correção toracoabdominal).",
+  "tags": [
+   "Mielopatia (CM)",
+   "Neuroanatomia (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Achado negativo no meio do exame (colunas dorsais preservadas) lido como enfeite; localização medular.",
+  "area": "Neurologia"
+ },
+ {
+  "id": "S13-NEU-05",
+  "simulado": 13,
+  "titulo": "Morte encefálica no adulto pela Resolução CFM 2.173/2017: intervalo mínimo de 1 hora entre os dois exames clínicos",
+  "arma": "Limiar",
+  "comando": "fato solto",
+  "nivel": "média",
+  "enunciado": "Pela Resolução CFM nº 2.173/2017, em paciente de 40 anos, com lesão encefálica estrutural conhecida e todos os pré-requisitos cumpridos, o intervalo mínimo entre o primeiro e o segundo exame clínico para a determinação de morte encefálica é de:",
+  "alternativas": {
+   "A": "6 horas",
+   "B": "12 horas",
+   "C": "1 hora",
+   "D": "24 horas"
+  },
+  "gabarito": "C",
+  "armadilha": "A",
+  "dado_decisivo": "paciente de 40 anos",
+  "resolucao": "Seis horas era o intervalo da resolução antiga (CFM 1.480/1997) para maiores de 2 anos, e por isso é a armadilha; a confusão aumenta porque 6 horas continua existindo, mas como tempo mínimo de observação e tratamento antes de abrir o protocolo. Na resolução vigente, os intervalos entre os dois exames clínicos dependem da idade: 24 horas de 7 dias a 2 meses incompletos, 12 horas de 2 a 24 meses incompletos, e 1 hora acima de 2 anos. Os 24 horas que ele já viu são outra regra: observação mínima antes do protocolo na encefalopatia hipóxico-isquêmica após PCR. Os dois exames são feitos por médicos diferentes, e o teste de apneia e um exame complementar completam o diagnóstico.",
+  "comentarios": {
+   "A": "Errada, é a armadilha. Era o intervalo da resolução de 1997; hoje 6 horas é o tempo mínimo de observação antes de abrir o protocolo.",
+   "B": "Errada. Doze horas é o intervalo para crianças de 2 a 24 meses incompletos.",
+   "C": "Correta. Acima de 2 anos de idade, o intervalo mínimo entre os dois exames clínicos é de 1 hora.",
+   "D": "Errada. Vinte e quatro horas é o intervalo de 7 dias a 2 meses incompletos, e a observação mínima após encefalopatia hipóxico-isquêmica."
+  },
+  "para_levar": "CFM 2.173/2017: observação mínima de 6 horas (24 horas após PCR) antes de abrir o protocolo; intervalo entre os exames clínicos de 1 hora acima de 2 anos.",
+  "referencias": "Resolução CFM nº 2.173/2017 e anexo (Manual de Determinação de Morte Encefálica).",
+  "tags": [
+   "Morte Encefálica (CM)"
+  ],
+  "sourceQuestionId": "2304d324f91103e",
+  "alvo": "Limiares numéricos vizinhos confundidos (observação x intervalo; regra antiga x vigente).",
+  "area": "Neurologia"
+ }
+]

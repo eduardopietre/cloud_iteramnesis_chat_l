@@ -1,0 +1,205 @@
+[
+ {
+  "id": "S13-INF-01",
+  "simulado": 13,
+  "titulo": "Ataque por enxame com centenas de picadas e anafilaxia já revertida: vigiar hemólise, rabdomiólise e lesão renal tardias",
+  "arma": "Cronologia",
+  "comando": "próximo exame",
+  "nivel": "difícil",
+  "enunciado": "Homem de 50 anos, apicultor amador, foi atacado por um enxame ao abrir uma caixa sem proteção há 2 horas e contou cerca de 300 picadas na cabeça, tronco e braços. Chegou com urticária generalizada, sibilância e PA 76 x 40 mmHg; recebeu adrenalina 0,5 mg IM, cristaloide, anti-histamínico e corticoide, com resposta completa. Os ferrões foram retirados por raspagem com lâmina. Agora: PA 128 x 80 mmHg, FC 92 bpm, SpO2 98%, sem sibilos, sem edema de glote, urina clara. Refere dor difusa e mialgia leve. Não tem doença prévia nem usa medicamentos. A família pede alta após as 6 horas de observação habituais da anafilaxia. O próximo passo mais adequado é:",
+  "alternativas": {
+   "A": "Triptase sérica e alta após 6 horas",
+   "B": "CK, creatinina e hemograma seriados, internado",
+   "C": "IgE específica para veneno de abelha",
+   "D": "Alta com adrenalina autoinjetável"
+  },
+  "gabarito": "B",
+  "armadilha": "D",
+  "dado_decisivo": "cerca de 300 picadas",
+  "resolucao": "A resposta completa à adrenalina e o tempo de observação da anafilaxia fazem a alta com prescrição de adrenalina autoinjetável parecer a conduta completa. Mas há dois acidentes diferentes no mesmo paciente: a reação alérgica, que se resolveu, e o envenenamento tóxico por centenas de picadas, que é dose-dependente e tardio. Com mais de 100 a 200 picadas num adulto, a melitina e a fosfolipase A2 causam hemólise intravascular, rabdomiólise, lesão hepática e lesão renal aguda, que costumam surgir entre 12 e 72 horas depois, com urina ainda clara nas primeiras horas. Por isso a conduta é internar, hidratar e seguir CK, creatinina, potássio, hemograma, bilirrubinas e cor da urina por 48 a 72 horas. A IgE específica e a triptase servem ao diagnóstico da alergia e ao encaminhamento para imunoterapia, mas não protegem contra a toxicidade que ainda vai se manifestar.",
+  "comentarios": {
+   "A": "Errada. A triptase confirma anafilaxia retrospectivamente, e a alta em 6 horas ignora a toxicidade tardia das centenas de picadas.",
+   "B": "Correta. Envenenamento maciço exige internação e vigilância de hemólise, rabdomiólise e função renal, que se manifestam horas a dias depois.",
+   "C": "Errada. A IgE específica orienta a imunoterapia depois, e é pouco confiável logo após a reação; não muda a conduta de agora.",
+   "D": "Errada. É a armadilha: seria a alta adequada após anafilaxia por poucas picadas; com 300 picadas, a toxicidade sistêmica ainda vai aparecer."
+  },
+  "para_levar": "No ataque por enxame, anafilaxia e envenenamento são acidentes distintos: com centenas de picadas, internar e seguir CK, creatinina e hemólise por 48 a 72 horas, mesmo com a alergia resolvida.",
+  "referencias": "Ministério da Saúde, Guia de Vigilância em Saúde, 6ª ed. (2023), acidentes por abelhas; Manual de Diagnóstico e Tratamento de Acidentes por Animais Peçonhentos (MS/FUNASA).",
+  "tags": [
+   "Demais acidentes (CM)",
+   "Acidentes com Animais Peçonhentos (CM)"
+  ],
+  "sourceQuestionId": "59ddf77bff7f452",
+  "alvo": "Animais peçonhentos e cronologia: a complicação que ainda não apareceu no momento da decisão.",
+  "area": "Infectologia"
+ },
+ {
+  "id": "S13-INF-02",
+  "simulado": 13,
+  "titulo": "Endocardite aórtica estafilocócica com febre que volta e PR que se alarga durante o tratamento: abscesso perivalvar e cirurgia",
+  "arma": "Grade X / Y",
+  "comando": "diagnóstico",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 52 anos, sem valvopatia conhecida, está no 8º dia de oxacilina por endocardite de valva aórtica nativa por Staphylococcus aureus sensível à oxacilina. As hemoculturas negativaram no 3º dia e ele ficou afebril, mas há 2 dias voltou a ter febre de 38,3 °C. Não há flebite, o cateter periférico foi trocado, urina e radiografia de tórax normais; sem exantema e sem eosinofilia. ECG da admissão: ritmo sinusal, PR de 160 ms; ECG de hoje: ritmo sinusal, PR de 280 ms, sem outras alterações. PA 122 x 64 mmHg, sem sinais de insuficiência cardíaca. O ecocardiograma transtorácico mostra a mesma vegetação de 8 mm e insuficiência aórtica leve. A complicação mais provável e a conduta, respectivamente, são:",
+  "alternativas": {
+   "A": "Abscesso perivalvar / cirurgia precoce",
+   "B": "Abscesso perivalvar / ampliar o antibiótico",
+   "C": "Febre por betalactâmico / trocar por cefazolina",
+   "D": "Miocardite séptica / manter o esquema"
+  },
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "PR de 280 ms",
+  "resolucao": "Febre que retorna depois de culturas negativas costuma ser atribuída à droga, ao cateter ou a outro foco, e quem reconhece o abscesso tende a tratá-lo com mais antibiótico. O dado que decide é o ECG: um bloqueio atrioventricular de primeiro grau novo na endocardite aórtica indica extensão perivalvar da infecção para a região do septo e do sistema de condução, porque o abscesso do anel aórtico fica junto ao nó atrioventricular e ao feixe de His. O ecocardiograma transtorácico tem sensibilidade baixa para abscesso, e o transesofágico deve confirmar, mas a decisão é cirúrgica: abscesso perivalvar é indicação de cirurgia precoce (na mesma internação) pelo risco de bloqueio total, fístula e destruição do anel, e não se resolve com antibiótico. A febre por betalactâmico existe, mas vem com exantema ou eosinofilia e não alarga o PR.",
+  "comentarios": {
+   "A": "Correta. PR que se alarga na endocardite aórtica é extensão perivalvar até prova em contrário, e o abscesso é indicação de cirurgia precoce.",
+   "B": "Errada. É a armadilha: acerta a complicação, mas o abscesso perivalvar não se esteriliza com antibiótico e a cirurgia é a indicação.",
+   "C": "Errada. Seria a hipótese com exantema, eosinofilia e ECG inalterado; não explica o bloqueio atrioventricular novo.",
+   "D": "Errada. Miocardite séptica daria disfunção ventricular e arritmias difusas; o alargamento isolado do PR na endocardite aórtica aponta o anel."
+  },
+  "para_levar": "Na endocardite aórtica, BAV novo ou PR que se alarga indica abscesso perivalvar, e isso é indicação de cirurgia precoce, não de ampliar antibiótico.",
+  "referencias": "2023 ESC Guidelines for the management of endocarditis; AHA Scientific Statement on infective endocarditis in adults (2015).",
+  "tags": [
+   "Endocardite Bacteriana (CM)"
+  ],
+  "sourceQuestionId": "1719e8488e56b55",
+  "alvo": "Exame que decide lido como enfeite: o ECG seriado, num tema (endocardite) com vários erros.",
+  "area": "Infectologia"
+ },
+ {
+  "id": "S13-INF-03",
+  "simulado": 13,
+  "titulo": "Dispneia no 8º dia de dengue com hematócrito em queda, plaquetas subindo e hipertensão: hipervolemia da fase de recuperação",
+  "arma": "Rótulo verdadeiro",
+  "comando": "diagnóstico",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 40 anos, hipertensa em uso de losartana (suspensa na internação), foi internada no 5º dia de dengue por dor abdominal intensa e hematócrito de 48%, e recebeu hidratação venosa de cerca de 3 L/dia desde então, mantida por prescrição. Hoje, no 8º dia, está afebril há 36 horas e passou a ter dispneia, ortopneia e tosse seca. Exame: PA 162 x 96 mmHg, FC 90 bpm, FR 28 irpm, SpO2 91% em ar ambiente, estertores crepitantes bibasais, turgência jugular, edema de membros inferiores. Exames: hematócrito de 33%, plaquetas de 58.000/mm³ (eram 22.000/mm³ há 48 horas), albumina 3,2 g/dL, troponina normal, BNP 620 pg/mL. Radiografia: congestão hilar bilateral e pequenos derrames. O diagnóstico mais provável é:",
+  "alternativas": {
+   "A": "Pneumonia hospitalar",
+   "B": "Miocardite por dengue",
+   "C": "Extravasamento plasmático com SDRA",
+   "D": "Hipervolemia da fase de recuperação"
+  },
+  "gabarito": "D",
+  "armadilha": "C",
+  "dado_decisivo": "PA 162 x 96 mmHg",
+  "resolucao": "Dengue que piora com dispneia e derrames na internação evoca extravasamento plasmático grave, e o reflexo é mais volume ou albumina. Mas a fase crítica (extravasamento) ocorre na defervescência, entre o 3º e o 7º dia, com hematócrito subindo, hipotensão e pulso convergente. Aqui o cenário é o oposto: no 8º dia, afebril há 36 horas, com plaquetas em recuperação, o líquido extravasado está sendo reabsorvido, e a hidratação mantida por prescrição soma volume. O hematócrito em queda por hemodiluição, a hipertensão, a turgência jugular, o BNP alto e a congestão radiológica são de hipervolemia. A conduta é suspender a hidratação venosa e usar diurético, e não expandir. Miocardite cursa com troponina elevada e disfunção, e pneumonia não explica a hipertensão nem o hematócrito.",
+  "comentarios": {
+   "A": "Errada. Seria pensada com febre que retorna e infiltrado localizado; aqui a paciente está afebril, com congestão bilateral e turgência jugular.",
+   "B": "Errada. A miocardite da dengue cursa com troponina elevada, arritmia ou hipotensão; a troponina normal e a hipertensão a afastam.",
+   "C": "Errada. É a armadilha: o extravasamento ocorre na fase crítica, com hematócrito subindo e hipotensão, e não no 8º dia com hematócrito em queda e PA alta.",
+   "D": "Correta. Fase de recuperação, plaquetas subindo, hematócrito caindo por diluição, hipertensão e congestão com hidratação ainda correndo: hipervolemia."
+  },
+  "para_levar": "Na dengue, a fase de recuperação reabsorve o que extravasou: dispneia com hipertensão e hematócrito em queda após a defervescência é hipervolemia, e a conduta é suspender o soro e usar diurético.",
+  "referencias": "Ministério da Saúde, Dengue: diagnóstico e manejo clínico, adulto e criança, 6ª ed. (2024); OMS, Handbook for clinical management of dengue (2012).",
+  "tags": [
+   "Dengue (CM)",
+   "Arboviroses (CM)"
+  ],
+  "sourceQuestionId": "791ef172dd5efe7",
+  "alvo": "Rótulo verdadeiro (dengue grave) que leva à conduta de manual errada para a fase da doença.",
+  "area": "Infectologia"
+ },
+ {
+  "id": "S13-INF-04",
+  "simulado": 13,
+  "titulo": "Histoplasmose disseminada na aids em quem trata tuberculose: itraconazol só depois de trocar rifampicina por rifabutina",
+  "arma": "Droga a deduzir",
+  "comando": "conduta",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 31 anos, com aids (CD4 45 células/mm³), trata tuberculose pulmonar há 4 semanas com o esquema básico de 4 drogas em dose fixa combinada. Iniciou há 2 semanas tenofovir, lamivudina e dolutegravir 50 mg de 12/12 horas. Foi internado com febre, pancitopenia, hepatoesplenomegalia e lesões papulares na face; antígeno de Histoplasma na urina reagente. Recebeu anfotericina B lipossomal por 2 semanas, com melhora clínica, afebril, sem acometimento do SNC. A equipe planeja passar para a fase de consolidação oral. A conduta mais adequada é:",
+  "alternativas": {
+   "A": "Itraconazol 200 mg de 12/12 h, mantendo os esquemas",
+   "B": "Fluconazol 800 mg/dia, mantendo os esquemas",
+   "C": "Itraconazol, trocando rifampicina por rifabutina",
+   "D": "Voriconazol, mantendo os esquemas"
+  },
+  "gabarito": "C",
+  "armadilha": "A",
+  "dado_decisivo": "dolutegravir 50 mg de 12/12 horas",
+  "resolucao": "Itraconazol na dose de consolidação é o tratamento correto da histoplasmose depois da anfotericina, e por isso a opção que apenas o prescreve atrai. O dado a deduzir está na posologia da TARV: dolutegravir de 12/12 horas significa indutor potente associado, e o esquema básico da tuberculose contém rifampicina. A rifampicina induz o CYP3A4 e reduz os níveis de itraconazol a valores indetectáveis, o que leva à falha da histoplasmose; o mesmo ocorre com voriconazol (combinação contraindicada) e, em menor grau, com fluconazol, que ainda é menos eficaz na histoplasmose. A saída recomendada é trocar a rifampicina por rifabutina, indutor fraco, e então usar itraconazol com dosagem de nível sérico, ajustando a rifabutina pela interação. Com a troca, o dolutegravir volta a 50 mg uma vez ao dia, pois a rifabutina não exige dose dobrada.",
+  "comentarios": {
+   "A": "Errada. É a armadilha: a droga certa para a histoplasmose, mas a rifampicina do esquema básico derruba o nível de itraconazol e leva à falha.",
+   "B": "Errada. O fluconazol é alternativa menos eficaz na histoplasmose e também tem o nível reduzido pela rifampicina.",
+   "C": "Correta. Trocar a rifampicina por rifabutina permite o itraconazol em nível terapêutico, com dosagem sérica e ajuste da rifabutina.",
+   "D": "Errada. Voriconazol com rifampicina é combinação contraindicada pela indução intensa, além de não ser primeira linha na histoplasmose."
+  },
+  "para_levar": "Rifampicina e azólicos não convivem: na histoplasmose com tuberculose, a consolidação com itraconazol exige trocar rifampicina por rifabutina e dosar o nível sérico.",
+  "referencias": "NIH/CDC/IDSA Guidelines for Prevention and Treatment of Opportunistic Infections in Adults with HIV, histoplasmose (atualização 2024); Ministério da Saúde, PCDT HIV adultos, módulo 2 (2023).",
+  "tags": [
+   "Micoses sistêmicas (CM)",
+   "Coinfecção HIV/Tuberculose (CM)",
+   "Doenças Oportunistas no HIV (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Doenças oportunistas no HIV e padrão de ignorar a droga em uso (a deduzir pela posologia).",
+  "area": "Infectologia"
+ },
+ {
+  "id": "S13-INF-05",
+  "simulado": 13,
+  "titulo": "Doença inflamatória pélvica leve em usuária de DIU de cobre: tratamento ambulatorial sem retirar o dispositivo",
+  "arma": "Omissão",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 27 anos, com DIU de cobre há 2 anos, procura a UBS com dor em baixo ventre há 4 dias, corrimento amarelado e febre de 38,2 °C. Tem parceiro fixo e um parceiro eventual recente. Exame: PA 118 x 74 mmHg, FC 92 bpm, abdome doloroso em hipogástrio, sem descompressão dolorosa; ao toque, dor à mobilização do colo e anexos dolorosos bilateralmente, sem massa palpável; fios do DIU visíveis. β-hCG negativo. Ultrassonografia transvaginal: DIU bem posicionado, sem abscesso tubo-ovariano e sem coleção. Tolera dieta oral e não tem vômitos. A conduta mais adequada é:",
+  "alternativas": {
+   "A": "Ceftriaxona, doxiciclina e metronidazol, mantendo o DIU",
+   "B": "Internação e antibiótico intravenoso",
+   "C": "O mesmo esquema e retirada imediata do DIU",
+   "D": "Retirada do DIU e reavaliação em 72 horas"
+  },
+  "gabarito": "A",
+  "armadilha": "C",
+  "dado_decisivo": "sem abscesso tubo-ovariano e sem coleção",
+  "resolucao": "O DIU é visto como corpo estranho mantenedor da infecção, e a retirada parece obrigatória. Mas o risco de doença inflamatória pélvica atribuível ao DIU concentra-se nas primeiras semanas após a inserção, e os ensaios mostram que retirar o dispositivo não acelera a cura da DIP leve a moderada; por isso o PCDT e o CDC recomendam manter o DIU e reavaliar em 72 horas, retirando-o apenas se não houver melhora. Sem abscesso tubo-ovariano, sem gravidez, sem sinais de peritonite e com tolerância oral, o tratamento é ambulatorial: ceftriaxona 500 mg IM dose única, doxiciclina 100 mg de 12/12 horas por 14 dias e metronidazol 500 mg de 12/12 horas por 14 dias, com tratamento das parcerias dos últimos 60 dias. Internação seria indicada por abscesso, gestação, intolerância oral ou falha ambulatorial.",
+  "comentarios": {
+   "A": "Correta. DIP leve, sem abscesso e com tolerância oral: esquema ambulatorial de 14 dias, mantendo o DIU e reavaliando em 72 horas.",
+   "B": "Errada. A internação é para abscesso tubo-ovariano, gestação, peritonite, intolerância oral ou falha do esquema oral.",
+   "C": "Errada. É a armadilha: a retirada imediata não melhora a evolução e deixa a paciente sem contracepção; só se retira se não houver melhora.",
+   "D": "Errada. Retirar sem tratar é inverter a conduta: o antibiótico é o tratamento, e a retirada só entra na falha."
+  },
+  "para_levar": "Na DIP leve a moderada em usuária de DIU, trata-se ambulatorialmente com o DIU no lugar e reavalia-se em 72 horas; retirar só se não houver melhora.",
+  "referencias": "Ministério da Saúde, PCDT para Atenção Integral às Pessoas com IST (2022); CDC Sexually Transmitted Infections Treatment Guidelines (2021).",
+  "tags": [
+   "Sífilis, Uretrites Infecciosas e outras DSTs (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Padrão dominante: fazer mais do que o caso pede (retirar o dispositivo, internar).",
+  "area": "Infectologia"
+ },
+ {
+  "id": "S13-INF-06",
+  "simulado": 13,
+  "titulo": "Hepatite B aguda sintomática no adulto: o antiviral entra pela coagulopatia ou encefalopatia, e não pela ALT",
+  "arma": "Limiar",
+  "comando": "fato solto",
+  "nivel": "difícil",
+  "enunciado": "Homem de 38 anos, previamente hígido, tem hepatite B aguda há 3 semanas (HBsAg e anti-HBc IgM reagentes, anti-HDV não reagente). Está ictérico, sem confusão mental e sem ascite, em seguimento ambulatorial. Exames de hoje: ALT 2.400 U/L, bilirrubina total 6 mg/dL, RNI 1,1, albumina 3,9 g/dL. Nesse paciente, o tratamento antiviral (tenofovir ou entecavir) passará a estar indicado se surgir:",
+  "alternativas": {
+   "A": "HBeAg reagente com HBV-DNA alto",
+   "B": "ALT acima de 1.000 U/L por 4 semanas",
+   "C": "Icterícia que dure mais de 2 semanas",
+   "D": "RNI acima de 1,5 ou encefalopatia"
+  },
+  "gabarito": "D",
+  "armadilha": "B",
+  "dado_decisivo": "RNI 1,1",
+  "resolucao": "ALT de 2.400 U/L impressiona e faz pensar que o grau de necrose indica tratar, e o HBeAg com carga viral alta lembra os critérios da hepatite B crônica. Na infecção aguda do adulto imunocompetente, porém, mais de 95% eliminam o vírus espontaneamente, e a ALT muito alta reflete a resposta imune que faz essa eliminação; HBeAg e HBV-DNA altos são esperados na fase aguda e não indicam nada. O antiviral é reservado à hepatite aguda grave, definida pela função hepática: coagulopatia (RNI acima de 1,5), encefalopatia, ou curso protraído com bilirrubina persistentemente acima de 3 mg/dL por mais de 4 semanas, além da insuficiência hepática aguda, quando o paciente deve ser também encaminhado a centro de transplante. Hoje, com RNI de 1,1 e sem encefalopatia, a conduta é acompanhar com HBsAg em 6 meses para documentar a resolução.",
+  "comentarios": {
+   "A": "Errada. HBeAg e HBV-DNA altos são próprios da fase aguda e não definem tratamento; esse é raciocínio da hepatite B crônica.",
+   "B": "Errada. É a armadilha: a ALT mede a necrose e a resposta imune, não a gravidade funcional, e não é critério para antiviral na forma aguda.",
+   "C": "Errada. A icterícia é comum na hepatite aguda; o curso protraído que indica antiviral é bilirrubina acima de 3 mg/dL por mais de 4 semanas, e não 2 semanas de icterícia.",
+   "D": "Correta. Coagulopatia ou encefalopatia definem hepatite B aguda grave, indicação de antiviral e de avaliação para transplante."
+  },
+  "para_levar": "Na hepatite B aguda do adulto, o antiviral é indicado pela gravidade funcional (RNI acima de 1,5, encefalopatia ou curso protraído), e não pela ALT nem pelo HBeAg.",
+  "referencias": "AASLD Guidance on Prevention, Diagnosis and Treatment of Chronic Hepatitis B (2018); EASL Clinical Practice Guidelines on hepatitis B (2025); Ministério da Saúde, PCDT Hepatite B e Coinfecções (2023).",
+  "tags": [
+   "Hepatite B (CM)",
+   "Hepatites Virais (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Limiar: o número impressionante que não é o critério (ALT) contra o que define a conduta (RNI).",
+  "area": "Infectologia"
+ }
+]

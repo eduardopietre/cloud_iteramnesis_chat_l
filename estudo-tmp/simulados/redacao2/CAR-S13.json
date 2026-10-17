@@ -1,0 +1,157 @@
+[
+{
+ "id": "S13-CAR-01",
+ "simulado": 13,
+ "area": "Cardiologia",
+ "titulo": "Megaesôfago com BRD e BDAS: a lesão esperada é o aneurisma apical chagásico, e não a obliteração apical da endomiocardiofibrose",
+ "arma": "Dado omitido",
+ "comando": "achado esperado",
+ "nivel": "difícil",
+ "enunciado": "Homem de 54 anos, nascido no norte de Minas Gerais, onde viveu até os 20 anos, procura atendimento por palpitações e dispneia aos médios esforços há 6 meses. Há 15 anos tem dificuldade para engolir sólidos e líquidos, com regurgitação noturna, e perdeu 7 kg; esofagograma antigo mostrou esôfago dilatado com afilamento distal em 'bico de pássaro'. Nega etilismo e angina. Um exame de sangue de 3 anos atrás registrou 'eosinófilos 900/mm³', atribuídos a verminose e tratados com albendazol; o hemograma atual tem 280 eosinófilos/mm³. PA 112x70 mmHg, FC 58 bpm, irregular por extrassístoles; bulhas normofonéticas, sem sopros; sem estase jugular. ECG: bloqueio de ramo direito, bloqueio divisional anterossuperior esquerdo e extrassístoles ventriculares polimórficas. A alteração mais esperada no ecocardiograma é:",
+ "alternativas": {
+  "A": "Hipertrofia septal assimétrica",
+  "B": "Obliteração apical por fibrose endocárdica",
+  "C": "Dilatação da raiz da aorta",
+  "D": "Aneurisma apical do ventrículo esquerdo"
+ },
+ "gabarito": "D",
+ "armadilha": "B",
+ "dado_decisivo": "esôfago dilatado com afilamento distal em 'bico de pássaro'",
+ "resolucao": "O caso não nomeia a doença, e a eosinofilia antiga é colocada para puxar a endomiocardiofibrose, cuja marca no eco é a obliteração do ápice por fibrose e trombo: essa é a isca. O que decide é o conjunto de origem em área endêmica, megaesôfago (acalasia secundária à destruição dos plexos mioentéricos pelo Trypanosoma cruzi), bradicardia com extrassístoles ventriculares polimórficas e a dupla de bloqueio de ramo direito com divisional anterossuperior, que é a assinatura eletrocardiográfica da cardiopatia chagásica crônica. A lesão estrutural mais característica dessa cardiopatia é o aneurisma apical do VE (lesão vorticilar), muitas vezes com trombo, ao lado de hipocinesia inferolateral basal, e ela explica a arritmia ventricular e o risco embólico. A eosinofilia atual é normal e a antiga, tratada como verminose, não sustenta síndrome hipereosinofílica.",
+ "comentarios": {
+  "A": "Errada. Hipertrofia septal assimétrica é da cardiomiopatia hipertrófica, com sopro que aumenta na manobra de Valsalva e sobrecarga de VE no ECG, não com megaesôfago e bloqueio bifascicular.",
+  "B": "Errada, e é a armadilha. Seria a lesão da endomiocardiofibrose ou da fase fibrótica de Löffler, com hipereosinofilia sustentada e fisiologia restritiva; aqui os eosinófilos atuais são normais e há megaesôfago.",
+  "C": "Errada. Dilatação da raiz aórtica é a lesão do Marfan, da sífilis terciária e da valva bicúspide, sem relação com megaesôfago.",
+  "D": "Correta. Megaesôfago, área endêmica, bradicardia, extrassístoles polimórficas e BRD com BDAS são cardiopatia chagásica, cuja lesão característica é o aneurisma apical."
+ },
+ "para_levar": "Megaesôfago ou megacólon com BRD e BDAS é Chagas, e o eco esperado é aneurisma apical do VE (com trombo) e hipocinesia inferolateral; obliteração apical por fibrose é endomiocardiofibrose.",
+ "referencias": "Diretriz da SBC sobre Diagnóstico e Tratamento de Pacientes com Cardiomiopatia da Doença de Chagas, 2023; II Consenso Brasileiro em Doença de Chagas, 2015; AHA Scientific Statement on Chagas cardiomyopathy, 2018",
+ "tags": ["Outras Doenças Tropicais (Chagas, elefantíse) (CM)", "Cardiomiopatias (CM)", "Fisiologia e Semiologia Cardíaca (CM)"],
+ "sourceQuestionId": "348a60698300ca9",
+ "alvo": "Semiologia da síndrome à lesão (lacuna fixa) e a reincidente endomiocardiofibrose, que aqui é o vizinho a descartar."
+},
+{
+ "id": "S13-CAR-02",
+ "simulado": 13,
+ "area": "Cardiologia",
+ "titulo": "Padrão de Brugada tipo 1 só durante a febre em assintomático: tratar a febre e evitar drogas, sem CDI",
+ "arma": "Omissão",
+ "comando": "conduta",
+ "nivel": "difícil",
+ "enunciado": "Homem de 34 anos, sem comorbidades, é atendido por síndrome gripal com febre de 39,6 °C há 2 dias. Nunca teve síncope, palpitações, respiração agônica noturna ou crises convulsivas; não há morte súbita ou síncope em parentes de primeiro grau antes dos 45 anos. ECG na admissão, febril: supradesnivelamento do ST de 3 mm em V1 e V2, com morfologia em 'cúpula' e onda T negativa, QRS de 100 ms e QTc de 420 ms. O ECG admissional da empresa, de 1 ano atrás, era normal. Após dipirona e resfriamento, o ECG repetido com 37,0 °C, 12 horas depois, é normal. Ecocardiograma normal; potássio 4,1 mEq/L. Ele vai receber alta. A conduta mais adequada é:",
+ "alternativas": {
+  "A": "Implante de cardioversor-desfibrilador",
+  "B": "Quinidina oral contínua",
+  "C": "Antitérmico precoce e lista de drogas a evitar",
+  "D": "Estudo eletrofisiológico para estratificação"
+ },
+ "gabarito": "C",
+ "armadilha": "A",
+ "dado_decisivo": "Nunca teve síncope, palpitações, respiração agônica noturna ou crises convulsivas",
+ "resolucao": "O padrão de Brugada tipo 1 (supra em cúpula de 2 mm ou mais em V1 e V2 com T negativa) desmascarado pela febre assusta, e o CDI é a isca. Mas o risco de morte súbita no Brugada depende da clínica: o CDI tem indicação em quem sobreviveu a parada cardíaca, teve TV sustentada ou síncope de provável origem arrítmica. No assintomático, e ainda mais com padrão tipo 1 que só aparece com febre (não espontâneo), o risco anual de evento é muito baixo, e a conduta é educação: tratar toda febre precocemente com antitérmico, evitar as drogas que bloqueiam o canal de sódio ou desmascaram o padrão (lista disponível em brugadadrugs.org: antiarrítmicos da classe I, alguns antidepressivos tricíclicos, lítio, propofol em altas doses, cocaína) e evitar excesso de álcool. Estudo eletrofisiológico é, no máximo, considerado no assintomático com padrão tipo 1 espontâneo, que não é o caso.",
+ "comentarios": {
+  "A": "Errada, e é a armadilha. O CDI está indicado no Brugada com parada recuperada, TV sustentada ou síncope arrítmica; no assintomático com padrão induzido por febre, o dano do dispositivo supera o benefício.",
+  "B": "Errada. A quinidina é usada em tempestade elétrica ou como alternativa em quem tem indicação de CDI e não pode recebê-lo; não é profilaxia de assintomático.",
+  "C": "Correta. Sem sintomas e com padrão só durante a febre, a conduta é tratar a febre precocemente e evitar drogas que desmascaram o padrão.",
+  "D": "Errada. O estudo eletrofisiológico tem papel discutível e só é considerado no assintomático com padrão tipo 1 espontâneo; com padrão induzido por febre, não acrescenta."
+ },
+ "para_levar": "Brugada: CDI para parada recuperada ou síncope arrítmica. Assintomático, sobretudo com padrão tipo 1 só na febre: antitérmico precoce e lista de drogas a evitar.",
+ "referencias": "ESC 2022 Guidelines for ventricular arrhythmias and the prevention of sudden cardiac death; Expert Consensus Statement on inherited primary arrhythmia syndromes (HRS/EHRA/APHRS 2022)",
+ "tags": ["Indicações de CDI (CM)", "Taquiarritmias Venticulares (CM)", "Eletrocardiograma (CM)"],
+ "sourceQuestionId": "bf04a5d719613de",
+ "alvo": "Padrão dominante de fazer mais: o dispositivo definitivo quando a resposta é a omissão orientada."
+},
+{
+ "id": "S13-CAR-03",
+ "simulado": 13,
+ "area": "Cardiologia",
+ "titulo": "Cardiomiopatia dilatada na adulta jovem tratada de osteossarcoma na adolescência: cardiotoxicidade tardia por antraciclina, e não miocardite",
+ "arma": "Rótulo verdadeiro",
+ "comando": "etiologia",
+ "nivel": "extremamente difícil",
+ "enunciado": "Mulher de 33 anos procura atendimento por dispneia progressiva há 3 meses, hoje aos pequenos esforços, com ortopneia. Teve síndrome gripal há 6 semanas e acredita que 'o vírus atacou o coração'. Aos 14 anos tratou um tumor ósseo maligno do fêmur com quimioterapia antes e depois da cirurgia, e está em remissão desde então. Teve um parto há 4 anos, sem intercorrências. Bebe duas doses por semana; nega drogas. PA 104x68 mmHg, FC 104 bpm, B3, estertores em bases, edema de tornozelos. ECG: taquicardia sinusal, sem áreas inativas. Ecocardiograma: VE com diâmetro diastólico de 63 mm, FE 30%, hipocinesia difusa. Troponina discretamente elevada e estável; sorologia para Chagas negativa; TSH normal. Ressonância cardíaca: dilatação biventricular, sem edema miocárdico em T2 e sem realce tardio. Coronárias normais na angiotomografia. A etiologia mais provável da cardiomiopatia é:",
+ "alternativas": {
+  "A": "Cardiomiopatia periparto",
+  "B": "Cardiotoxicidade tardia por antraciclina",
+  "C": "Miocardite viral aguda",
+  "D": "Cardiomiopatia alcoólica"
+ },
+ "gabarito": "B",
+ "armadilha": "C",
+ "dado_decisivo": "sem edema miocárdico em T2 e sem realce tardio",
+ "resolucao": "A síndrome gripal recente é verdadeira e cria o rótulo de miocardite viral, que é a isca. Mas a ressonância decide: miocardite aguda tem edema em T2 e realce tardio mesoepicárdico ou não isquêmico (critérios de Lake Louise), e aqui não há nenhum dos dois. O dado omitido está na história oncológica: tumor ósseo maligno de fêmur tratado aos 14 anos com quimioterapia antes e depois da cirurgia é osteossarcoma, cujo esquema padrão contém doxorrubicina em dose cumulativa alta. A antraciclina causa cardiomiopatia dilatada dose-dependente que pode surgir décadas depois, e o risco é maior quando a exposição ocorre na infância e adolescência; por isso sobreviventes precisam de ecocardiograma periódico por toda a vida. O parto há 4 anos está fora da janela da cardiomiopatia periparto, e duas doses semanais de álcool não causam cardiomiopatia.",
+ "comentarios": {
+  "A": "Errada. A cardiomiopatia periparto surge do último mês da gestação até 5 meses após o parto; o parto foi há 4 anos.",
+  "B": "Correta. Osteossarcoma tratado na adolescência implica doxorrubicina em dose cumulativa alta, e a cardiomiopatia dilatada tardia, sem edema nem realce na ressonância, é a apresentação esperada.",
+  "C": "Errada, e é a armadilha. Seria a resposta com edema em T2 e realce tardio mesoepicárdico na ressonância; a gripe recente é verdadeira, mas a ressonância não mostra inflamação.",
+  "D": "Errada. A cardiomiopatia alcoólica exige consumo pesado e prolongado (em geral acima de 80 g por dia por anos); duas doses por semana não a explicam."
+ },
+ "para_levar": "Cardiomiopatia dilatada em sobrevivente de câncer da infância ou adolescência (osteossarcoma, linfoma, leucemia): pense em antraciclina, que causa disfunção tardia décadas depois; a ressonância sem edema e sem realce afasta miocardite.",
+ "referencias": "ESC 2022 Guidelines on cardio-oncology; Diretriz Brasileira de Cardio-oncologia SBC 2020; Children's Oncology Group Long-Term Follow-Up Guidelines v6.0, 2023",
+ "tags": ["Esquemas Quimioterápicos e Efeitos Colaterais (CM)", "Cardiomiopatias (CM)"],
+ "sourceQuestionId": null,
+ "alvo": "Rótulo verdadeiro (gripe recente) contra o exame que decide (ressonância) e a droga a deduzir da história oncológica."
+},
+{
+ "id": "S13-CAR-04",
+ "simulado": 13,
+ "area": "Cardiologia",
+ "titulo": "Hipertensa crônica que planeja gestar: AAS a partir de 12 semanas e metildopa no lugar do IECA",
+ "arma": "Grade X / Y",
+ "comando": "fato solto",
+ "nivel": "média",
+ "enunciado": "Mulher de 34 anos, hipertensa crônica controlada com enalapril e clortalidona, sem lesão de órgão-alvo, quer engravidar nos próximos meses. Para prevenção de pré-eclâmpsia e controle pressórico na gestação, a medida indicada e o anti-hipertensivo adequado são, respectivamente:",
+ "alternativas": {
+  "A": "AAS a partir de 12 semanas / metildopa",
+  "B": "AAS a partir de 20 semanas / metildopa",
+  "C": "Heparina profilática / metildopa",
+  "D": "AAS a partir de 20 semanas / losartana"
+ },
+ "gabarito": "A",
+ "armadilha": "B",
+ "dado_decisivo": "hipertensa crônica controlada com enalapril",
+ "resolucao": "Hipertensão crônica é fator de alto risco para pré-eclâmpsia, e o AAS em dose baixa (100 a 150 mg à noite) reduz esse risco quando começa entre 12 e 16 semanas, idealmente antes da 16ª, e segue até 36 semanas. Iniciar após 20 semanas é a isca: nessa fase a placentação já se completou e o benefício praticamente desaparece. O enalapril (e qualquer IECA ou BRA) deve ser trocado antes da concepção ou assim que a gestação for confirmada, pelo risco de fetopatia renal e oligoâmnio; metildopa, nifedipino de liberação prolongada e labetalol são as opções. Heparina profilática não previne pré-eclâmpsia.",
+ "comentarios": {
+  "A": "Correta. AAS em dose baixa a partir de 12 semanas (até 16 para o benefício pleno) e troca do IECA por metildopa (ou nifedipino) é o preparo da hipertensa crônica.",
+  "B": "Errada, e é a armadilha. A metildopa está certa, mas o AAS iniciado após 20 semanas chega depois da placentação e perde o efeito preventivo.",
+  "C": "Errada. A heparina profilática não previne pré-eclâmpsia em hipertensa sem trombofilia ou síndrome antifosfolípide; a metildopa está certa.",
+  "D": "Errada nas duas metades: AAS tardio e losartana, que, como o IECA, é contraindicada na gestação."
+ },
+ "para_levar": "Hipertensa crônica gestante: AAS 100 a 150 mg a partir de 12 semanas (antes de 16) e troca de IECA ou BRA por metildopa, nifedipino ou labetalol.",
+ "referencias": "Diretrizes Brasileiras de Hipertensão Arterial 2025 (SBC/SBH/SBN); Protocolo FEBRASGO de pré-eclâmpsia 2023; ACOG Practice Bulletin 203 (Chronic Hypertension in Pregnancy) e Committee Opinion 743 (low-dose aspirin)",
+ "tags": ["HAS : Tratamento Farmacológico (CM)", "226 Common Medical Problems in Pregnancy"],
+ "sourceQuestionId": null,
+ "alvo": "Fato solto com corte temporal (12 x 20 semanas) e troca de droga na população especial."
+},
+{
+ "id": "S13-CAR-05",
+ "simulado": 13,
+ "area": "Cardiologia",
+ "titulo": "Cardiomiopatia induzida por taquicardia na fibrilação atrial persistente: restaurar o ritmo e reavaliar a FE antes de indicar CDI",
+ "arma": "Cronologia",
+ "comando": "conduta",
+ "nivel": "extremamente difícil",
+ "enunciado": "Homem de 58 anos, sem doenças prévias, procura atendimento por palpitações e dispneia progressiva há 4 meses. ECG: fibrilação atrial com resposta ventricular de 140 bpm. Ecocardiograma: VE com diâmetro diastólico de 61 mm, FE 28%, hipocinesia difusa, átrio esquerdo de 46 mm. Cineangiocoronariografia sem lesões; ressonância sem realce tardio; TSH normal, sem etilismo. Está há 5 semanas em uso regular de apixabana, carvedilol em dose máxima tolerada, sacubitril-valsartana, espironolactona e dapagliflozina; a FC em repouso caiu para 112 bpm, mas no Holter a média de 24 horas é 118 bpm. Sem sinais de congestão hoje. O cardiologista do convênio sugere implantar logo um cardiodesfibrilador 'porque a FE está abaixo de 35%'. A conduta mais adequada neste momento é:",
+ "alternativas": {
+  "A": "Implante de cardiodesfibrilador para prevenção primária",
+  "B": "Cardioversão elétrica e reavaliação da FE em 3 meses",
+  "C": "Ablação do nó atrioventricular com marca-passo",
+  "D": "Associar digoxina e manter o controle de frequência"
+ },
+ "gabarito": "B",
+ "armadilha": "A",
+ "dado_decisivo": "Cineangiocoronariografia sem lesões; ressonância sem realce tardio",
+ "resolucao": "FE abaixo de 35% lembra a indicação de CDI, que é a isca, mas a diretriz exige pelo menos 3 meses de tratamento otimizado e, quando há causa potencialmente reversível, a correção dela antes. FA persistente com resposta ventricular alta e mal controlada, coronárias normais e ressonância sem realce tardio (sem fibrose) é o cenário da cardiomiopatia induzida por taquicardia, que costuma recuperar a FE em semanas a meses depois de restaurado o ritmo sinusal. Com mais de 3 semanas de anticoagulação eficaz, a cardioversão elétrica pode ser feita sem eco transesofágico, mantendo a anticoagulação por pelo menos 4 semanas depois, e a ablação de FA é a estratégia para manter o ritmo se houver recorrência. A FE é reavaliada após cerca de 3 meses: se recuperar, o diagnóstico se confirma e o CDI não é necessário.",
+ "comentarios": {
+  "A": "Errada, e é a armadilha. O CDI de prevenção primária exige FE de 35% ou menos após pelo menos 3 meses de tratamento otimizado e sem causa reversível; aqui a taquicardia persistente é a causa provável e ainda não foi corrigida.",
+  "B": "Correta. Com mais de 3 semanas de anticoagulação, restaurar o ritmo sinusal trata a causa provável da disfunção, e a FE reavaliada em 3 meses decide sobre dispositivos.",
+  "C": "Errada. A ablação do nó com marca-passo é para FA permanente refratária ao controle de frequência e de ritmo; ainda não se tentou o ritmo sinusal.",
+  "D": "Errada. A digoxina pode ajudar no controle de frequência, mas manter a FA quando a disfunção é provavelmente induzida pela taquicardia perde a chance de recuperar a FE."
+ },
+ "para_levar": "FE baixa com FA de resposta alta, coronárias normais e sem fibrose na ressonância: suspeite de cardiomiopatia induzida por taquicardia, restaure o ritmo e reavalie a FE em cerca de 3 meses antes de indicar CDI.",
+ "referencias": "ESC 2024 Guidelines for the management of atrial fibrillation; ESC 2021 Guidelines for heart failure e atualização 2023; ESC 2022 Guidelines for ventricular arrhythmias (indicação de CDI)",
+ "tags": ["Fibrilação Atrial (CM)", "ICFER - Tratamento medicamentoso (CM)", "Indicações de CDI (CM)"],
+ "sourceQuestionId": "7e08bf95dc07f75",
+ "alvo": "Ordem da conduta: tratar a causa reversível antes do dispositivo definitivo (fazer mais e antes do tempo)."
+}
+]
