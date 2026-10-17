@@ -1,204 +1,204 @@
 [
- {
-  "id": "S14-REU-01",
-  "simulado": 14,
-  "area": "Reumatologia",
-  "titulo": "Síndrome antifosfolípide catastrófica com plaquetopenia: heparina plena apesar das plaquetas, com glicocorticoide e plasmaférese",
-  "arma": "Grade X / Y",
-  "comando": "conduta",
-  "nivel": "extremamente difícil",
-  "enunciado": "Mulher de 34 anos tem lúpus com síndrome antifosfolípide (trombose venosa profunda prévia, tripla positividade) e suspendeu a varfarina por conta própria há 3 semanas. Há 4 dias, após infecção urinária, evolui com dor abdominal, confusão mental, dispneia e oligúria. Exame físico: PA 168 x 100 mmHg, FC 118 bpm, SpO2 90% em ar ambiente, livedo reticular em tronco e coxas. Exames: Hb 9,8 g/dL com 2 esquizócitos por campo, plaquetas 42.000/mm³, creatinina 3,4 mg/dL, troponina elevada, TC de abdome com infartos esplênico e renal, ressonância de crânio com múltiplos infartos corticais pequenos. Hemoculturas negativas. A anticoagulação e o tratamento associado mais adequados são, respectivamente:",
-  "alternativas": {
-   "A": "Heparina não fracionada plena / glicocorticoide e plasmaférese",
-   "B": "Suspender anticoagulação / transfusão de plaquetas",
-   "C": "Heparina profilática / rituximabe isolado",
-   "D": "Varfarina / AAS e hidroxicloroquina"
+  {
+    "id": "S14-REU-01",
+    "simulado": 14,
+    "area": "Reumatologia",
+    "titulo": "Síndrome antifosfolípide catastrófica com plaquetopenia: heparina plena apesar das plaquetas, com glicocorticoide e plasmaférese",
+    "arma": "Grade X / Y",
+    "comando": "conduta",
+    "nivel": "extremamente difícil",
+    "enunciado": "Mulher de 34 anos tem lúpus com síndrome antifosfolípide (trombose venosa profunda prévia, tripla positividade) e suspendeu a varfarina por conta própria há 3 semanas. Há 4 dias, após infecção urinária, evolui com dor abdominal, confusão mental, dispneia e oligúria. Exame físico: PA 168 x 100 mmHg, FC 118 bpm, SpO2 90% em ar ambiente, livedo reticular em tronco e coxas. Exames: Hb 9,8 g/dL com 2 esquizócitos por campo, plaquetas 42.000/mm³, creatinina 3,4 mg/dL, troponina elevada, TC de abdome com infartos esplênico e renal, ressonância de crânio com múltiplos infartos corticais pequenos. Hemoculturas negativas. A anticoagulação e o tratamento associado mais adequados são, respectivamente:",
+    "alternativas": {
+      "A": "Heparina não fracionada plena / glicocorticoide e plasmaférese",
+      "B": "Suspender anticoagulação / transfusão de plaquetas",
+      "C": "Heparina profilática / rituximabe isolado",
+      "D": "Varfarina / AAS e hidroxicloroquina"
+    },
+    "gabarito": "A",
+    "armadilha": "B",
+    "dado_decisivo": "TC de abdome com infartos esplênico e renal, ressonância de crânio com múltiplos infartos corticais pequenos",
+    "resolucao": "Plaquetas de 42.000 com esquizócitos assustam e levam a suspender a anticoagulação e a transfundir. Mas o caso preenche síndrome antifosfolípide catastrófica: três ou mais órgãos (rim, baço, cérebro, coração) acometidos em menos de uma semana, com microangiopatia trombótica, em portadora de anticorpos, depois de um gatilho (infecção e suspensão da varfarina). A plaquetopenia é consumo pela trombose, e a anticoagulação é o pilar que mais reduz mortalidade. O tratamento recomendado é a terapia tripla: heparina em dose plena (a não fracionada é preferida pela reversibilidade e pela insuficiência renal), glicocorticoide em dose alta e plasmaférese e/ou imunoglobulina; rituximabe ou eculizumabe ficam para casos refratários.",
+    "comentarios": {
+      "A": "Correta. Terapia tripla: anticoagulação plena, glicocorticoide e plasmaférese (ou imunoglobulina).",
+      "B": "Errada. Seria a conduta em plaquetopenia com sangramento; aqui a plaquetopenia é consumo trombótico e transfundir alimenta a trombose.",
+      "C": "Errada. Dose profilática não trata trombose em múltiplos órgãos; rituximabe é para casos refratários.",
+      "D": "Errada. Varfarina é a manutenção na síndrome antifosfolípide; na fase aguda catastrófica, heparina e imunomodulação."
+    },
+    "para_levar": "Síndrome antifosfolípide catastrófica: três ou mais órgãos em menos de uma semana; terapia tripla (heparina plena, glicocorticoide, plasmaférese ou imunoglobulina), e plaquetopenia não contraindica a anticoagulação.",
+    "referencias": "EULAR recommendations for the management of antiphospholipid syndrome in adults (2019); Cervera R, et al. 14th International Congress on Antiphospholipid Antibodies Task Force Report on Catastrophic APS (Autoimmun Rev, 2014); 2023 ACR/EULAR antiphospholipid syndrome classification criteria.",
+    "tags": [
+      "SAF (CM)",
+      "Lúpus (CM)"
+    ],
+    "sourceQuestionId": null,
+    "alvo": "Porte e ordem da conduta sob um rótulo que assusta (plaquetopenia); SAF como cenário de LES."
   },
-  "gabarito": "A",
-  "armadilha": "B",
-  "dado_decisivo": "TC de abdome com infartos esplênico e renal, ressonância de crânio com múltiplos infartos corticais pequenos",
-  "resolucao": "Plaquetas de 42.000 com esquizócitos assustam e levam a suspender a anticoagulação e a transfundir. Mas o caso preenche síndrome antifosfolípide catastrófica: três ou mais órgãos (rim, baço, cérebro, coração) acometidos em menos de uma semana, com microangiopatia trombótica, em portadora de anticorpos, depois de um gatilho (infecção e suspensão da varfarina). A plaquetopenia é consumo pela trombose, e a anticoagulação é o pilar que mais reduz mortalidade. O tratamento recomendado é a terapia tripla: heparina em dose plena (a não fracionada é preferida pela reversibilidade e pela insuficiência renal), glicocorticoide em dose alta e plasmaférese e/ou imunoglobulina; rituximabe ou eculizumabe ficam para casos refratários.",
-  "comentarios": {
-   "A": "Correta. Terapia tripla: anticoagulação plena, glicocorticoide e plasmaférese (ou imunoglobulina).",
-   "B": "Errada. Seria a conduta em plaquetopenia com sangramento; aqui a plaquetopenia é consumo trombótico e transfundir alimenta a trombose.",
-   "C": "Errada. Dose profilática não trata trombose em múltiplos órgãos; rituximabe é para casos refratários.",
-   "D": "Errada. Varfarina é a manutenção na síndrome antifosfolípide; na fase aguda catastrófica, heparina e imunomodulação."
+  {
+    "id": "S14-REU-02",
+    "simulado": 14,
+    "area": "Reumatologia",
+    "titulo": "Sjögren com parótida persistente e laudo de sialadenite linfoepitelial: falta provar ou afastar clonalidade B antes de estadiar",
+    "arma": "Dado omitido",
+    "comando": "próximo exame",
+    "nivel": "extremamente difícil",
+    "enunciado": "Mulher de 54 anos tem síndrome de Sjögren primária há 10 anos, com anti-Ro reagente. Há 8 meses tem aumento indolor e persistente da parótida direita, que não regrediu com hidratação, sialogogos e antibiótico. Exames: C4 de 6 mg/dL (VR 10 a 40), fator reumatoide 280 UI/mL, crioglobulinas positivas, linfócitos 800/mm³, LDH normal, sem linfonodomegalias ao exame. A parotidectomia superficial foi laudada, só com hematoxilina-eosina, como sialadenite linfoepitelial com lesões linfoepiteliais e infiltrado linfoide denso, compatível com síndrome de Sjögren. A paciente pergunta se pode apenas manter o seguimento. O exame a solicitar agora é:",
+    "alternativas": {
+      "A": "PET-CT de corpo inteiro",
+      "B": "Biópsia de glândula salivar menor",
+      "C": "Pesquisa de clonalidade B no tecido",
+      "D": "Biópsia de medula óssea"
+    },
+    "gabarito": "C",
+    "armadilha": "A",
+    "dado_decisivo": "só com hematoxilina-eosina",
+    "resolucao": "O laudo tranquiliza, e a paciente quer só seguir. Mas ela acumula os preditores de linfoma no Sjögren (parótida persistente, C4 baixo, crioglobulinemia, fator reumatoide alto, linfopenia), e o laudo foi feito só com hematoxilina-eosina. Lesões linfoepiteliais e infiltrado denso existem tanto na sialadenite benigna do Sjögren quanto no linfoma MALT da zona marginal, que nasce justamente nela; o que separa os dois é a clonalidade B, demonstrada por imuno-histoquímica (restrição de cadeia leve kappa ou lambda, agregados de células B monocitoides) e pela pesquisa de rearranjo do gene da cadeia pesada. O estadiamento com PET-CT e medula só faz sentido depois do diagnóstico de linfoma, e biópsia de glândula menor não avalia a parótida.",
+    "comentarios": {
+      "A": "Errada. É estadiamento, que vem depois de confirmado o linfoma; antes disso é fazer o exame do degrau seguinte.",
+      "B": "Errada. Serve ao diagnóstico de Sjögren, que já está estabelecido; não avalia a parótida aumentada.",
+      "C": "Correta. Imuno-histoquímica para cadeias leves e rearranjo de IgH separam sialadenite benigna de linfoma MALT.",
+      "D": "Errada. Também é estadiamento; não define se a parótida tem linfoma."
+    },
+    "para_levar": "No Sjögren com preditores de linfoma, laudo de sialadenite linfoepitelial só com hematoxilina-eosina não afasta MALT: peça pesquisa de clonalidade B no tecido antes de estadiar ou de tranquilizar.",
+    "referencias": "WHO Classification of Haematolymphoid Tumours, 5ª edição (2022); EULAR recommendations for the management of Sjögren's syndrome (2019).",
+    "tags": [
+      "Sjogren (CM)"
+    ],
+    "sourceQuestionId": "ad2659e6134ced0",
+    "alvo": "Dado omitido (a análise que faltou no laudo) e próximo exame contra o exame do degrau seguinte (estadiamento)."
   },
-  "para_levar": "Síndrome antifosfolípide catastrófica: três ou mais órgãos em menos de uma semana; terapia tripla (heparina plena, glicocorticoide, plasmaférese ou imunoglobulina), e plaquetopenia não contraindica a anticoagulação.",
-  "referencias": "EULAR recommendations for the management of antiphospholipid syndrome in adults (2019); CAPS Registry, Cervera R (2018); ACR/EULAR APS classification criteria (2023).",
-  "tags": [
-   "SAF (CM)",
-   "Lúpus (CM)"
-  ],
-  "sourceQuestionId": null,
-  "alvo": "Porte e ordem da conduta sob um rótulo que assusta (plaquetopenia); SAF como cenário de LES."
- },
- {
-  "id": "S14-REU-02",
-  "simulado": 14,
-  "area": "Reumatologia",
-  "titulo": "Sjögren com parótida persistente e laudo de sialadenite linfoepitelial: falta provar ou afastar clonalidade B antes de estadiar",
-  "arma": "Dado omitido",
-  "comando": "próximo exame",
-  "nivel": "extremamente difícil",
-  "enunciado": "Mulher de 54 anos tem síndrome de Sjögren primária há 10 anos, com anti-Ro reagente. Há 8 meses tem aumento indolor e persistente da parótida direita, que não regrediu com hidratação, sialogogos e antibiótico. Exames: C4 de 6 mg/dL (VR 10 a 40), fator reumatoide 280 UI/mL, crioglobulinas positivas, linfócitos 800/mm³, LDH normal, sem linfonodomegalias ao exame. A parotidectomia superficial foi laudada, só com hematoxilina-eosina, como sialadenite linfoepitelial com lesões linfoepiteliais e infiltrado linfoide denso, compatível com síndrome de Sjögren. A paciente pergunta se pode apenas manter o seguimento. O exame a solicitar agora é:",
-  "alternativas": {
-   "A": "PET-CT de corpo inteiro",
-   "B": "Biópsia de glândula salivar menor",
-   "C": "Pesquisa de clonalidade B no tecido",
-   "D": "Biópsia de medula óssea"
+  {
+    "id": "S14-REU-03",
+    "simulado": 14,
+    "area": "Reumatologia",
+    "titulo": "Poliartrite simétrica de mãos com fator reumatoide baixo e IgM para parvovírus B19: autolimitada, sem DMARD, mesmo pontuando para artrite reumatoide",
+    "arma": "Omissão",
+    "comando": "conduta",
+    "nivel": "difícil",
+    "enunciado": "Mulher de 32 anos, professora de educação infantil, tem há 10 dias dor e edema simétricos em metacarpofalangeanas, interfalangeanas proximais e punhos, com rigidez matinal de 1 hora. Duas semanas antes teve febre baixa e coriza, e vários alunos tiveram as bochechas muito vermelhas. Exame físico: sinovite em oito pequenas articulações das mãos e nos punhos, exantema reticulado tênue nas coxas. Exames: Hb 12,4 g/dL, leucócitos 4.200/mm³, plaquetas 160.000/mm³, VHS 34 mm/h, fator reumatoide 32 UI/mL (VR até 14), anti-CCP não reagente, FAN 1:160 pontilhado fino, IgM anti-parvovírus B19 reagente. Radiografias de mãos sem erosões. A conduta mais adequada é:",
+    "alternativas": {
+      "A": "Hidroxicloroquina 400 mg/dia",
+      "B": "Imunoglobulina humana venosa",
+      "C": "Anti-inflamatório e reavaliação clínica",
+      "D": "Metotrexato 15 mg/semana"
+    },
+    "gabarito": "C",
+    "armadilha": "D",
+    "dado_decisivo": "IgM anti-parvovírus B19 reagente",
+    "resolucao": "Poliartrite simétrica de pequenas articulações, rigidez matinal, fator reumatoide positivo e VHS alta somam pontos nos critérios ACR/EULAR, e o reflexo é iniciar metotrexato. Mas os critérios só se aplicam quando não há explicação melhor, e aqui ela existe: exposição a crianças com eritema infeccioso, pródromo viral, exantema reticulado e IgM para parvovírus B19 reagente. No adulto, sobretudo na mulher, o parvovírus dá poliartrite aguda simétrica de mãos e punhos que imita artrite reumatoide e pode vir com fator reumatoide e FAN transitórios. A evolução é autolimitada em semanas; trata-se com anti-inflamatório e reavaliação, reservando a investigação de artrite reumatoide para o que persistir além de 6 a 8 semanas.",
+    "comentarios": {
+      "A": "Errada. Seria uma opção para artrite reumatoide leve ou lúpus; aqui a artrite é viral e autolimitada.",
+      "B": "Errada. É tratamento da infecção crônica por parvovírus com aplasia eritroide no imunossuprimido, não da artrite.",
+      "C": "Correta. A artrite do parvovírus é autolimitada: sintomáticos e reavaliação.",
+      "D": "Errada. Seria a resposta na artrite reumatoide estabelecida; iniciar DMARD numa artrite viral é tratar o que não precisa."
+    },
+    "para_levar": "Poliartrite simétrica aguda de mãos com pródromo viral e IgM para parvovírus B19 é autolimitada, mesmo com fator reumatoide e FAN positivos: anti-inflamatório e reavaliação, sem DMARD.",
+    "referencias": "2010 ACR/EULAR classification criteria for rheumatoid arthritis; Moore TL. Parvovirus-associated arthritis (Curr Opin Rheumatol, 2000); Harrison's Principles of Internal Medicine, 21ª edição, cap. Parvovirus.",
+    "tags": [
+      "Artrites Infecciosas Não Sépticas (CM)",
+      "347 Parvovirus",
+      "Artrite Reumatóide (CM)"
+    ],
+    "sourceQuestionId": "01a955c34edaeb3",
+    "alvo": "Omissão: tratar o que não precisa; rótulo (critérios de AR) contra a explicação melhor."
   },
-  "gabarito": "C",
-  "armadilha": "A",
-  "dado_decisivo": "só com hematoxilina-eosina",
-  "resolucao": "O laudo tranquiliza, e a paciente quer só seguir. Mas ela acumula os preditores de linfoma no Sjögren (parótida persistente, C4 baixo, crioglobulinemia, fator reumatoide alto, linfopenia), e o laudo foi feito só com hematoxilina-eosina. Lesões linfoepiteliais e infiltrado denso existem tanto na sialadenite benigna do Sjögren quanto no linfoma MALT da zona marginal, que nasce justamente nela; o que separa os dois é a clonalidade B, demonstrada por imuno-histoquímica (restrição de cadeia leve kappa ou lambda, agregados de células B monocitoides) e pela pesquisa de rearranjo do gene da cadeia pesada. O estadiamento com PET-CT e medula só faz sentido depois do diagnóstico de linfoma, e biópsia de glândula menor não avalia a parótida.",
-  "comentarios": {
-   "A": "Errada. É estadiamento, que vem depois de confirmado o linfoma; antes disso é fazer o exame do degrau seguinte.",
-   "B": "Errada. Serve ao diagnóstico de Sjögren, que já está estabelecido; não avalia a parótida aumentada.",
-   "C": "Correta. Imuno-histoquímica para cadeias leves e rearranjo de IgH separam sialadenite benigna de linfoma MALT.",
-   "D": "Errada. Também é estadiamento; não define se a parótida tem linfoma."
+  {
+    "id": "S14-REU-04",
+    "simulado": 14,
+    "area": "Reumatologia",
+    "titulo": "Artropatia da hemocromatose com ferritina já no alvo: as sangrias não revertem a artropatia, e intensificá-las só traz anemia",
+    "arma": "Limiar",
+    "comando": "conduta",
+    "nivel": "difícil",
+    "enunciado": "Homem de 56 anos tem hemocromatose HFE (homozigoto C282Y) diagnosticada há 3 anos com ferritina de 2.400 ng/mL, tratado com flebotomias semanais até ferritina de 50 ng/mL e hoje em manutenção a cada 3 meses. Persiste com dor mecânica e rigidez nas 2ª e 3ª metacarpofalangeanas de ambas as mãos e nos tornozelos, sem sinovite, que atrapalham o trabalho. Exames de hoje: Hb 14,1 g/dL, ferritina 62 ng/mL, saturação de transferrina 38%, cálcio, magnésio e PTH normais. Radiografias: redução do espaço articular com osteófitos em gancho nas 2ª e 3ª metacarpofalangeanas e condrocalcinose nos joelhos. Ele pergunta se aumentar as sangrias melhoraria as articulações. A conduta mais adequada é:",
+    "alternativas": {
+      "A": "Flebotomias semanais até ferritina abaixo de 20",
+      "B": "Manter a manutenção e tratar a dor",
+      "C": "Associar deferasirox às flebotomias",
+      "D": "Iniciar prednisona 10 mg/dia"
+    },
+    "gabarito": "B",
+    "armadilha": "A",
+    "dado_decisivo": "ferritina 62 ng/mL",
+    "resolucao": "Se o ferro causou a artropatia, parece lógico tirar mais ferro. Mas a ferritina já está no alvo de manutenção (50 a 100 ng/mL) e a saturação abaixo de 50%, e a artropatia da hemocromatose, ao contrário da cardiopatia, da hepatopatia e da pigmentação, não regride com a remoção do ferro: costuma persistir e até progredir. Levar a ferritina abaixo de 20 só produz deficiência de ferro e anemia, sem ganho articular. A conduta é manter a manutenção e tratar a artropatia como osteoartrite com depósito de pirofosfato: analgesia, anti-inflamatório quando tolerado, fisioterapia e, nos casos avançados, artroplastia. Quelante não tem lugar em quem tolera sangria, e corticoide sistêmico não trata artropatia degenerativa.",
+    "comentarios": {
+      "A": "Errada. Ferritina abaixo do alvo causa deficiência de ferro e não melhora a artropatia, que não regride com as sangrias.",
+      "B": "Correta. Ferritina no alvo: manter a manutenção e tratar a artropatia sintomaticamente.",
+      "C": "Errada. Quelante é para quem não tolera flebotomia (anemia, cardiopatia grave); não melhora articulações.",
+      "D": "Errada. Corticoide sistêmico não trata artropatia degenerativa por depósito."
+    },
+    "para_levar": "Na hemocromatose, ferritina de manutenção é 50 a 100 ng/mL; a artropatia não melhora com mais sangrias e se trata como osteoartrite.",
+    "referencias": "EASL Clinical Practice Guidelines on haemochromatosis (2022); ACG Clinical Guideline: Hereditary Hemochromatosis (2019).",
+    "tags": [
+      "Hemocromatose (CM)"
+    ],
+    "sourceQuestionId": null,
+    "alvo": "Limiar (ferritina de manutenção) e porte da conduta: fazer mais do que o caso pede."
   },
-  "para_levar": "No Sjögren com preditores de linfoma, laudo de sialadenite linfoepitelial só com hematoxilina-eosina não afasta MALT: peça pesquisa de clonalidade B no tecido antes de estadiar ou de tranquilizar.",
-  "referencias": "WHO Classification of Haematolymphoid Tumours, 5ª edição (2022); EULAR recommendations for the management of Sjögren's syndrome (2019).",
-  "tags": [
-   "Sjogren (CM)"
-  ],
-  "sourceQuestionId": "ad2659e6134ced0",
-  "alvo": "Dado omitido (a análise que faltou no laudo) e próximo exame contra o exame do degrau seguinte (estadiamento)."
- },
- {
-  "id": "S14-REU-03",
-  "simulado": 14,
-  "area": "Reumatologia",
-  "titulo": "Poliartrite simétrica de mãos com fator reumatoide baixo e IgM para parvovírus B19: autolimitada, sem DMARD, mesmo pontuando para artrite reumatoide",
-  "arma": "Omissão",
-  "comando": "conduta",
-  "nivel": "difícil",
-  "enunciado": "Mulher de 32 anos, professora de educação infantil, tem há 10 dias dor e edema simétricos em metacarpofalangeanas, interfalangeanas proximais e punhos, com rigidez matinal de 1 hora. Duas semanas antes teve febre baixa e coriza, e vários alunos tiveram as bochechas muito vermelhas. Exame físico: sinovite em oito pequenas articulações das mãos e nos punhos, exantema reticulado tênue nas coxas. Exames: Hb 12,4 g/dL, leucócitos 4.200/mm³, plaquetas 160.000/mm³, VHS 34 mm/h, fator reumatoide 32 UI/mL (VR até 14), anti-CCP não reagente, FAN 1:160 pontilhado fino, IgM anti-parvovírus B19 reagente. Radiografias de mãos sem erosões. A conduta mais adequada é:",
-  "alternativas": {
-   "A": "Hidroxicloroquina 400 mg/dia",
-   "B": "Imunoglobulina humana venosa",
-   "C": "Anti-inflamatório e reavaliação clínica",
-   "D": "Metotrexato 15 mg/semana"
+  {
+    "id": "S14-REU-05",
+    "simulado": 14,
+    "area": "Reumatologia",
+    "titulo": "Dor bilateral nos tendões calcâneos em transplantado renal após pielonefrite: tendinopatia pela fluoroquinolona a deduzir, potencializada pelo corticoide",
+    "arma": "Droga a deduzir",
+    "comando": "etiologia",
+    "nivel": "difícil",
+    "enunciado": "Homem de 71 anos, transplantado renal há 6 anos, em uso de tacrolimo, micofenolato e prednisona 5 mg/dia, teve pielonefrite há 12 dias. A urocultura mostrou Escherichia coli resistente a sulfametoxazol-trimetoprima e a amoxicilina-clavulanato, e ele recebeu alta com um antibiótico oral de dose única diária, alta biodisponibilidade e ação também contra Pseudomonas, por 10 dias. Há 3 dias tem dor nos dois calcanhares ao caminhar, sem febre e sem trauma. Exame físico: espessamento doloroso dos tendões calcâneos cerca de 3 cm acima da inserção, bilateralmente, teste de Thompson normal, sem artrite em outras articulações, sem lesões de pele, sem uretrite. Ácido úrico 8,1 mg/dL. A causa mais provável é:",
+    "alternativas": {
+      "A": "Tendinopatia por fluoroquinolona",
+      "B": "Gota com acometimento tendíneo",
+      "C": "Entesite de artrite reativa",
+      "D": "Tendinopatia pelo tacrolimo"
+    },
+    "gabarito": "A",
+    "armadilha": "B",
+    "dado_decisivo": "dose única diária, alta biodisponibilidade e ação também contra Pseudomonas",
+    "resolucao": "O ácido úrico alto (comum com inibidor de calcineurina) puxa para gota. Mas a droga a deduzir está no meio do caso: antibiótico oral em dose única diária, com alta biodisponibilidade e ação antipseudomonas, escolhido para pielonefrite, é o levofloxacino. Fluoroquinolonas causam tendinopatia e ruptura, em geral nas primeiras semanas, em geral no corpo do tendão calcâneo 2 a 6 cm acima da inserção e muitas vezes bilateral, e o risco é muito maior acima dos 60 anos, com corticoide em uso e em transplantados renais. A gota raramente acomete os dois tendões sem artrite, e a entesite da artrite reativa é na inserção, com quadro articular ou uretrite. A conduta é suspender a quinolona definitivamente, repouso relativo e não infiltrar corticoide.",
+    "comentarios": {
+      "A": "Correta. Levofloxacino em idoso transplantado com corticoide: tendinopatia bilateral no corpo do tendão calcâneo.",
+      "B": "Errada. Hiperuricemia é rótulo verdadeiro; a gota daria artrite ou tofo, e não tendinopatia bilateral isolada logo após o antibiótico.",
+      "C": "Errada. A entesite é na inserção do tendão e vem com artrite ou uretrite, ausentes aqui.",
+      "D": "Errada. O tacrolimo é usado há 6 anos e não causa tendinopatia; o fator novo é o antibiótico."
+    },
+    "para_levar": "Tendinopatia do corpo do tendão calcâneo, bilateral, dias após fluoroquinolona em idoso com corticoide ou transplante renal: suspender a quinolona para sempre e não infiltrar.",
+    "referencias": "FDA Drug Safety Communication on fluoroquinolones (2016 e 2018); Persson R, Jick S. Clinical implications of the association between fluoroquinolones and tendon rupture (Br J Clin Pharmacol, 2019).",
+    "tags": [
+      "Fisiopatologia da Dor e Síndromes Partes Moles - Bursites, Tendinites e Outras Lesões (CM)",
+      "Antibióticos: Farmacologia e Microbiologia (CM)"
+    ],
+    "sourceQuestionId": null,
+    "alvo": "Droga em uso ignorada (a deduzir) diante de um rótulo laboratorial verdadeiro (hiperuricemia)."
   },
-  "gabarito": "C",
-  "armadilha": "D",
-  "dado_decisivo": "IgM anti-parvovírus B19 reagente",
-  "resolucao": "Poliartrite simétrica de pequenas articulações, rigidez matinal, fator reumatoide positivo e VHS alta somam pontos nos critérios ACR/EULAR, e o reflexo é iniciar metotrexato. Mas os critérios só se aplicam quando não há explicação melhor, e aqui ela existe: exposição a crianças com eritema infeccioso, pródromo viral, exantema reticulado e IgM para parvovírus B19 reagente. No adulto, sobretudo na mulher, o parvovírus dá poliartrite aguda simétrica de mãos e punhos que imita artrite reumatoide e pode vir com fator reumatoide e FAN transitórios. A evolução é autolimitada em semanas; trata-se com anti-inflamatório e reavaliação, reservando a investigação de artrite reumatoide para o que persistir além de 6 a 8 semanas.",
-  "comentarios": {
-   "A": "Errada. Seria uma opção para artrite reumatoide leve ou lúpus; aqui a artrite é viral e autolimitada.",
-   "B": "Errada. É tratamento da infecção crônica por parvovírus com aplasia eritroide no imunossuprimido, não da artrite.",
-   "C": "Correta. A artrite do parvovírus é autolimitada: sintomáticos e reavaliação.",
-   "D": "Errada. Seria a resposta na artrite reumatoide estabelecida; iniciar DMARD numa artrite viral é tratar o que não precisa."
-  },
-  "para_levar": "Poliartrite simétrica aguda de mãos com pródromo viral e IgM para parvovírus B19 é autolimitada, mesmo com fator reumatoide e FAN positivos: anti-inflamatório e reavaliação, sem DMARD.",
-  "referencias": "2010 ACR/EULAR classification criteria for rheumatoid arthritis; Moore TL. Parvovirus-associated arthritis (Curr Opin Rheumatol, 2000); Harrison's Principles of Internal Medicine, 21ª edição, cap. Parvovirus.",
-  "tags": [
-   "Artrites Infecciosas Não Sépticas (CM)",
-   "347 Parvovirus",
-   "Artrite Reumatóide (CM)"
-  ],
-  "sourceQuestionId": "01a955c34edaeb3",
-  "alvo": "Omissão: tratar o que não precisa; rótulo (critérios de AR) contra a explicação melhor."
- },
- {
-  "id": "S14-REU-04",
-  "simulado": 14,
-  "area": "Reumatologia",
-  "titulo": "Artropatia da hemocromatose com ferritina já no alvo: as sangrias não revertem a artropatia, e intensificá-las só traz anemia",
-  "arma": "Limiar",
-  "comando": "conduta",
-  "nivel": "difícil",
-  "enunciado": "Homem de 56 anos tem hemocromatose HFE (homozigoto C282Y) diagnosticada há 3 anos com ferritina de 2.400 ng/mL, tratado com flebotomias semanais até ferritina de 50 ng/mL e hoje em manutenção a cada 3 meses. Persiste com dor mecânica e rigidez nas 2ª e 3ª metacarpofalangeanas de ambas as mãos e nos tornozelos, sem sinovite, que atrapalham o trabalho. Exames de hoje: Hb 14,1 g/dL, ferritina 62 ng/mL, saturação de transferrina 38%, cálcio, magnésio e PTH normais. Radiografias: redução do espaço articular com osteófitos em gancho nas 2ª e 3ª metacarpofalangeanas e condrocalcinose nos joelhos. Ele pergunta se aumentar as sangrias melhoraria as articulações. A conduta mais adequada é:",
-  "alternativas": {
-   "A": "Flebotomias semanais até ferritina abaixo de 20",
-   "B": "Manter a manutenção e tratar a dor",
-   "C": "Associar deferasirox às flebotomias",
-   "D": "Iniciar prednisona 10 mg/dia"
-  },
-  "gabarito": "B",
-  "armadilha": "A",
-  "dado_decisivo": "ferritina 62 ng/mL",
-  "resolucao": "Se o ferro causou a artropatia, parece lógico tirar mais ferro. Mas a ferritina já está no alvo de manutenção (50 a 100 ng/mL) e a saturação abaixo de 50%, e a artropatia da hemocromatose, ao contrário da cardiopatia, da hepatopatia e da pigmentação, não regride com a remoção do ferro: costuma persistir e até progredir. Levar a ferritina abaixo de 20 só produz deficiência de ferro e anemia, sem ganho articular. A conduta é manter a manutenção e tratar a artropatia como osteoartrite com depósito de pirofosfato: analgesia, anti-inflamatório quando tolerado, fisioterapia e, nos casos avançados, artroplastia. Quelante não tem lugar em quem tolera sangria, e corticoide sistêmico não trata artropatia degenerativa.",
-  "comentarios": {
-   "A": "Errada. Ferritina abaixo do alvo causa deficiência de ferro e não melhora a artropatia, que não regride com as sangrias.",
-   "B": "Correta. Ferritina no alvo: manter a manutenção e tratar a artropatia sintomaticamente.",
-   "C": "Errada. Quelante é para quem não tolera flebotomia (anemia, cardiopatia grave); não melhora articulações.",
-   "D": "Errada. Corticoide sistêmico não trata artropatia degenerativa por depósito."
-  },
-  "para_levar": "Na hemocromatose, ferritina de manutenção é 50 a 100 ng/mL; a artropatia não melhora com mais sangrias e se trata como osteoartrite.",
-  "referencias": "EASL Clinical Practice Guidelines on haemochromatosis (2022); ACG Clinical Guideline: Hereditary Hemochromatosis (2019).",
-  "tags": [
-   "Hemocromatose (CM)"
-  ],
-  "sourceQuestionId": null,
-  "alvo": "Limiar (ferritina de manutenção) e porte da conduta: fazer mais do que o caso pede."
- },
- {
-  "id": "S14-REU-05",
-  "simulado": 14,
-  "area": "Reumatologia",
-  "titulo": "Dor bilateral nos tendões calcâneos em transplantado renal após pielonefrite: tendinopatia pela fluoroquinolona a deduzir, potencializada pelo corticoide",
-  "arma": "Droga a deduzir",
-  "comando": "etiologia",
-  "nivel": "difícil",
-  "enunciado": "Homem de 71 anos, transplantado renal há 6 anos, em uso de tacrolimo, micofenolato e prednisona 5 mg/dia, teve pielonefrite há 12 dias. A urocultura mostrou Escherichia coli resistente a sulfametoxazol-trimetoprima e a amoxicilina-clavulanato, e ele recebeu alta com um antibiótico oral de dose única diária, alta biodisponibilidade e ação também contra Pseudomonas, por 10 dias. Há 3 dias tem dor nos dois calcanhares ao caminhar, sem febre e sem trauma. Exame físico: espessamento doloroso dos tendões calcâneos cerca de 3 cm acima da inserção, bilateralmente, teste de Thompson normal, sem artrite em outras articulações, sem lesões de pele, sem uretrite. Ácido úrico 8,1 mg/dL. A causa mais provável é:",
-  "alternativas": {
-   "A": "Tendinopatia por fluoroquinolona",
-   "B": "Gota com acometimento tendíneo",
-   "C": "Entesite de artrite reativa",
-   "D": "Tendinopatia pelo tacrolimo"
-  },
-  "gabarito": "A",
-  "armadilha": "B",
-  "dado_decisivo": "dose única diária, alta biodisponibilidade e ação também contra Pseudomonas",
-  "resolucao": "O ácido úrico alto (comum com inibidor de calcineurina) puxa para gota. Mas a droga a deduzir está no meio do caso: antibiótico oral em dose única diária, com alta biodisponibilidade e ação antipseudomonas, escolhido para pielonefrite, é o levofloxacino. Fluoroquinolonas causam tendinopatia e ruptura, em geral nas primeiras semanas, em geral no corpo do tendão calcâneo 2 a 6 cm acima da inserção e muitas vezes bilateral, e o risco é muito maior acima dos 60 anos, com corticoide em uso e em transplantados renais. A gota raramente acomete os dois tendões sem artrite, e a entesite da artrite reativa é na inserção, com quadro articular ou uretrite. A conduta é suspender a quinolona definitivamente, repouso relativo e não infiltrar corticoide.",
-  "comentarios": {
-   "A": "Correta. Levofloxacino em idoso transplantado com corticoide: tendinopatia bilateral no corpo do tendão calcâneo.",
-   "B": "Errada. Hiperuricemia é rótulo verdadeiro; a gota daria artrite ou tofo, e não tendinopatia bilateral isolada logo após o antibiótico.",
-   "C": "Errada. A entesite é na inserção do tendão e vem com artrite ou uretrite, ausentes aqui.",
-   "D": "Errada. O tacrolimo é usado há 6 anos e não causa tendinopatia; o fator novo é o antibiótico."
-  },
-  "para_levar": "Tendinopatia do corpo do tendão calcâneo, bilateral, dias após fluoroquinolona em idoso com corticoide ou transplante renal: suspender a quinolona para sempre e não infiltrar.",
-  "referencias": "FDA Drug Safety Communication on fluoroquinolones (2016 e 2018); Persson R, Jick S. Clinical implications of the association between fluoroquinolones and tendon rupture (Br J Clin Pharmacol, 2019).",
-  "tags": [
-   "Fisiopatologia da Dor e Síndromes Partes Moles - Bursites, Tendinites e Outras Lesões (CM)",
-   "Antibióticos: Farmacologia e Microbiologia (CM)"
-  ],
-  "sourceQuestionId": null,
-  "alvo": "Droga em uso ignorada (a deduzir) diante de um rótulo laboratorial verdadeiro (hiperuricemia)."
- },
- {
-  "id": "S14-REU-06",
-  "simulado": 14,
-  "area": "Reumatologia",
-  "titulo": "Endurecimento cutâneo de membros poupando mãos e face, sem Raynaud e com eosinofilia: fasciíte eosinofílica, confirmada por biópsia que alcança a fáscia",
-  "arma": "Rótulo verdadeiro",
-  "comando": "próximo exame",
-  "nivel": "difícil",
-  "enunciado": "Homem de 45 anos, que há 5 meses iniciou treinos intensos de musculação, tem há 3 meses endurecimento progressivo da pele dos antebraços e das pernas, com dificuldade para fechar as mãos e estender os cotovelos. Nega fenômeno de Raynaud, pirose e disfagia. Exame físico: pele de antebraços e pernas endurecida, com aspecto de casca de laranja e depressões lineares ao longo das veias quando eleva os braços; dedos, mãos e face poupados; sem telangiectasias e sem úlceras digitais. Exames: leucócitos 11.200/mm³ com 18% de eosinófilos, VHS 48 mm/h, gamaglobulina policlonal aumentada, FAN não reagente. Um colega firmou diagnóstico de esclerose sistêmica difusa e quer iniciar micofenolato. O exame mais adequado para confirmar o diagnóstico é:",
-  "alternativas": {
-   "A": "Anti-Scl-70 e anti-RNA polimerase III",
-   "B": "Biópsia de pele por punch",
-   "C": "Capilaroscopia periungueal",
-   "D": "Biópsia em bloco da pele até a fáscia"
-  },
-  "gabarito": "D",
-  "armadilha": "B",
-  "dado_decisivo": "dedos, mãos e face poupados",
-  "resolucao": "Endurecimento cutâneo extenso e rápido parece esclerose sistêmica difusa, e o rótulo pega. Mas a esclerose sistêmica começa pelos dedos (esclerodactilia), vem com Raynaud quase sempre e com capilaroscopia alterada. Aqui as mãos e a face estão poupadas, não há Raynaud, há aspecto de casca de laranja, sinal do sulco venoso, eosinofilia e hipergamaglobulinemia, depois de esforço físico intenso: é fasciíte eosinofílica, em que a inflamação e a fibrose estão na fáscia, não na derme. O diagnóstico se confirma por biópsia em bloco (em cunha) que inclua pele, subcutâneo, fáscia e músculo; o punch fica na derme e pode vir normal. A ressonância ajuda a escolher o local. O tratamento é glicocorticoide, muitas vezes com metotrexato.",
-  "comentarios": {
-   "A": "Errada. Serviria para estratificar esclerose sistêmica difusa; o quadro é de outra doença e esses anticorpos viriam negativos.",
-   "B": "Errada. O punch alcança só a derme, e a lesão da fasciíte eosinofílica está na fáscia.",
-   "C": "Errada. Útil na esclerose sistêmica, mas é normal na fasciíte eosinofílica e não a confirma.",
-   "D": "Correta. A biópsia que alcança a fáscia mostra espessamento e infiltrado com eosinófilos, e confirma o diagnóstico."
-  },
-  "para_levar": "Endurecimento cutâneo de membros que poupa mãos e face, sem Raynaud, com sinal do sulco e eosinofilia, é fasciíte eosinofílica: biópsia em bloco até a fáscia.",
-  "referencias": "Mazilu D, et al. Eosinophilic fasciitis: current and remaining challenges (Int J Mol Sci, 2023); Jinnin M, et al. Diagnostic criteria for eosinophilic fasciitis (J Dermatol, 2018).",
-  "tags": [
-   "Esclerose Sistêmica (CM)"
-  ],
-  "sourceQuestionId": "a7ca32d0105cfbb",
-  "alvo": "Rótulo verdadeiro (endurecimento cutâneo) que puxa a doença de manual; próximo exame correto."
- }
+  {
+    "id": "S14-REU-06",
+    "simulado": 14,
+    "area": "Reumatologia",
+    "titulo": "Endurecimento cutâneo de membros poupando mãos e face, sem Raynaud e com eosinofilia: fasciíte eosinofílica, confirmada por biópsia que alcança a fáscia",
+    "arma": "Rótulo verdadeiro",
+    "comando": "próximo exame",
+    "nivel": "difícil",
+    "enunciado": "Homem de 45 anos, que há 5 meses iniciou treinos intensos de musculação, tem há 3 meses endurecimento progressivo da pele dos antebraços e das pernas, com dificuldade para fechar as mãos e estender os cotovelos. Nega fenômeno de Raynaud, pirose e disfagia. Exame físico: pele de antebraços e pernas endurecida, com aspecto de casca de laranja e depressões lineares ao longo das veias quando eleva os braços; dedos, mãos e face poupados; sem telangiectasias e sem úlceras digitais. Exames: leucócitos 11.200/mm³ com 18% de eosinófilos, VHS 48 mm/h, gamaglobulina policlonal aumentada, FAN não reagente. Um colega firmou diagnóstico de esclerose sistêmica difusa e quer iniciar micofenolato. O exame mais adequado para confirmar o diagnóstico é:",
+    "alternativas": {
+      "A": "Capilaroscopia periungueal",
+      "B": "Biópsia de pele por punch",
+      "C": "Anti-Scl-70 e anti-RNA polimerase III",
+      "D": "Biópsia em bloco da pele até a fáscia"
+    },
+    "gabarito": "D",
+    "armadilha": "C",
+    "dado_decisivo": "dedos, mãos e face poupados",
+    "resolucao": "Endurecimento cutâneo extenso e rápido parece esclerose sistêmica difusa, e o rótulo do colega pega: o apressado pede os autoanticorpos da esclerose sistêmica difusa para confirmar. Mas a esclerose sistêmica começa pelos dedos (esclerodactilia), vem com Raynaud quase sempre e com capilaroscopia alterada. Aqui as mãos e a face estão poupadas, não há Raynaud, há aspecto de casca de laranja, sinal do sulco venoso, eosinofilia e hipergamaglobulinemia, depois de esforço físico intenso: é fasciíte eosinofílica, em que a inflamação e a fibrose estão na fáscia, não na derme. O diagnóstico se confirma por biópsia em bloco (em cunha) que inclua pele, subcutâneo, fáscia e músculo; o punch fica na derme e pode vir normal. A ressonância ajuda a escolher o local. O tratamento é glicocorticoide, muitas vezes com metotrexato.",
+    "comentarios": {
+      "A": "Errada. Útil na esclerose sistêmica, mas é normal na fasciíte eosinofílica e não a confirma.",
+      "B": "Errada. O punch alcança só a derme, e a lesão da fasciíte eosinofílica está na fáscia.",
+      "C": "Errada. Serviria para estratificar esclerose sistêmica difusa; o quadro é de outra doença e esses anticorpos viriam negativos.",
+      "D": "Correta. A biópsia que alcança a fáscia mostra espessamento e infiltrado com eosinófilos, e confirma o diagnóstico."
+    },
+    "para_levar": "Endurecimento cutâneo de membros que poupa mãos e face, sem Raynaud, com sinal do sulco e eosinofilia, é fasciíte eosinofílica: biópsia em bloco até a fáscia.",
+    "referencias": "Mazilu D, et al. Eosinophilic fasciitis: current and remaining challenges (Int J Mol Sci, 2023); Jinnin M, et al. Diagnostic criteria for eosinophilic fasciitis (J Dermatol, 2018).",
+    "tags": [
+      "Esclerose Sistêmica (CM)"
+    ],
+    "sourceQuestionId": "a7ca32d0105cfbb",
+    "alvo": "Rótulo verdadeiro (endurecimento cutâneo) que puxa a doença de manual; próximo exame correto."
+  }
 ]

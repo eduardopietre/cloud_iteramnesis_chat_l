@@ -1,204 +1,204 @@
 [
- {
-  "id": "S12-REU-01",
-  "simulado": 12,
-  "area": "Reumatologia",
-  "titulo": "Dor inguinal no lúpus após pulsos de corticoide com radiografia normal: ressonância dos quadris para osteonecrose da cabeça femoral",
-  "arma": "Negativo no meio",
-  "comando": "próximo exame",
-  "nivel": "difícil",
-  "enunciado": "Mulher de 31 anos tem lúpus eritematoso sistêmico com nefrite classe IV tratada há 10 meses com pulsos de metilprednisolona, prednisona 1 mg/kg com redução lenta (hoje 10 mg/dia) e micofenolato. Há 6 semanas tem dor na virilha direita, pior ao apoiar o peso e ao subir escadas, que irradia para a face medial da coxa, sem febre. Há 2 semanas, numa emergência, a radiografia de bacia foi laudada como normal, recebeu diagnóstico de bursite trocantérica e fez infiltração local, sem melhora. Exame físico: Tax 36,6 °C, sem dor à palpação do trocânter, dor e limitação à rotação interna do quadril direito, sem derrame em joelhos. Exames: C3 e C4 normais, anti-DNA não reagente, PCR 3 mg/L, urina sem hematúria. O exame a solicitar agora é:",
-  "alternativas": {
-   "A": "Ressonância magnética dos quadris",
-   "B": "Cintilografia óssea trifásica",
-   "C": "Tomografia do quadril direito",
-   "D": "Punção do quadril guiada por ultrassom"
+  {
+    "id": "S12-REU-01",
+    "simulado": 12,
+    "area": "Reumatologia",
+    "titulo": "Dor inguinal no lúpus após pulsos de corticoide com radiografia normal: ressonância dos quadris para osteonecrose da cabeça femoral",
+    "arma": "Negativo no meio",
+    "comando": "próximo exame",
+    "nivel": "difícil",
+    "enunciado": "Mulher de 31 anos tem lúpus eritematoso sistêmico com nefrite classe IV tratada há 10 meses com pulsos de metilprednisolona, prednisona 1 mg/kg com redução lenta (hoje 10 mg/dia) e micofenolato. Há 6 semanas tem dor na virilha direita, pior ao apoiar o peso e ao subir escadas, que irradia para a face medial da coxa, sem febre. Há 2 semanas, numa emergência, a radiografia de bacia foi laudada como normal, recebeu diagnóstico de bursite trocantérica e fez infiltração local, sem melhora. Exame físico: Tax 36,6 °C, sem dor à palpação do trocânter, dor e limitação à rotação interna do quadril direito, sem derrame em joelhos. Exames: C3 e C4 normais, anti-DNA não reagente, PCR 3 mg/L, urina sem hematúria. O exame a solicitar agora é:",
+    "alternativas": {
+      "A": "Ressonância magnética dos quadris",
+      "B": "Cintilografia óssea trifásica",
+      "C": "Tomografia do quadril direito",
+      "D": "Punção do quadril guiada por ultrassom"
+    },
+    "gabarito": "A",
+    "armadilha": "D",
+    "dado_decisivo": "dor e limitação à rotação interna do quadril direito",
+    "resolucao": "A radiografia normal tranquiliza, e o imunossuprimido com dor articular atrai a punção para afastar artrite séptica. Mas não há febre, a PCR é de 3 mg/L e o lúpus está inativo; o que o caso traz é dor inguinal mecânica com limitação da rotação interna, que é dor intra-articular do quadril, num paciente que recebeu pulsos e dose alta de corticoide meses antes. Isso é osteonecrose da cabeça femoral até prova em contrário, e a radiografia só se altera nas fases tardias (colapso subcondral). A ressonância magnética é o exame mais sensível e específico nas fases iniciais e deve incluir os dois quadris, porque a doença é bilateral em até metade dos casos e o estágio pré-colapso é o único em que a descompressão preserva a articulação.",
+    "comentarios": {
+      "A": "Correta. Detecta osteonecrose antes do colapso, quando ainda há tratamento que preserva a cabeça femoral, e avalia o lado contralateral.",
+      "B": "Errada. Já foi usada, mas é menos sensível e menos específica que a ressonância nas fases iniciais.",
+      "C": "Errada. Mostra bem o colapso subcondral tardio; nas fases iniciais é pouco sensível.",
+      "D": "Errada. Seria a primeira conduta com febre, derrame e PCR alta no imunossuprimido; aqui não há sinal de infecção."
+    },
+    "para_levar": "Dor inguinal mecânica com perda da rotação interna em quem recebeu corticoide em dose alta é osteonecrose da cabeça femoral até prova em contrário: radiografia normal não afasta, peça ressonância dos dois quadris.",
+    "referencias": "ACR Appropriateness Criteria: Osteonecrosis of the hip (2022); EULAR recommendations for the management of SLE (2023 update).",
+    "tags": [
+      "Lúpus (CM)",
+      "234 Osteonecrosis, Osteosclerosis/Hyperostosis, and Other Disorders of Bone"
+    ],
+    "sourceQuestionId": null,
+    "alvo": "Negativo no meio (radiografia normal) e próximo exame, o comando que ele mais erra."
   },
-  "gabarito": "A",
-  "armadilha": "D",
-  "dado_decisivo": "dor e limitação à rotação interna do quadril direito",
-  "resolucao": "A radiografia normal tranquiliza, e o imunossuprimido com dor articular atrai a punção para afastar artrite séptica. Mas não há febre, a PCR é de 3 mg/L e o lúpus está inativo; o que o caso traz é dor inguinal mecânica com limitação da rotação interna, que é dor intra-articular do quadril, num paciente que recebeu pulsos e dose alta de corticoide meses antes. Isso é osteonecrose da cabeça femoral até prova em contrário, e a radiografia só se altera nas fases tardias (colapso subcondral). A ressonância magnética é o exame mais sensível e específico nas fases iniciais e deve incluir os dois quadris, porque a doença é bilateral em até metade dos casos e o estágio pré-colapso é o único em que a descompressão preserva a articulação.",
-  "comentarios": {
-   "A": "Correta. Detecta osteonecrose antes do colapso, quando ainda há tratamento que preserva a cabeça femoral, e avalia o lado contralateral.",
-   "B": "Errada. Já foi usada, mas é menos sensível e menos específica que a ressonância nas fases iniciais.",
-   "C": "Errada. Mostra bem o colapso subcondral tardio; nas fases iniciais é pouco sensível.",
-   "D": "Errada. Seria a primeira conduta com febre, derrame e PCR alta no imunossuprimido; aqui não há sinal de infecção."
+  {
+    "id": "S12-REU-02",
+    "simulado": 12,
+    "area": "Reumatologia",
+    "titulo": "Gota refratária em pegloticase com ácido úrico acima de 6 em duas dosagens seguidas: suspender, porque a perda de resposta prediz reação infusional",
+    "arma": "Limiar",
+    "comando": "conduta",
+    "nivel": "extremamente difícil",
+    "enunciado": "Homem de 58 anos tem gota tofácea há 14 anos, com tofos em cotovelos e mãos e crises mensais. Teve reação de hipersensibilidade grave ao alopurinol e não atingiu ácido úrico abaixo de 6 mg/dL com febuxostate 120 mg/dia. O febuxostate foi suspenso e ele iniciou pegloticase 8 mg EV a cada 2 semanas, com pré-medicação com anti-histamínico e corticoide, após dosagem normal de G6PD; mantém colchicina 0,5 mg/dia. Ácido úrico dosado antes de cada infusão: 0,4; 0,6; 1,1; 6,8 e, hoje, antes da 6ª infusão, 7,4 mg/dL. Está assintomático e não teve reação nas infusões anteriores. A conduta mais adequada é:",
+    "alternativas": {
+      "A": "Infundir com pré-medicação reforçada",
+      "B": "Associar febuxostate e manter a infusão",
+      "C": "Encurtar o intervalo para semanal",
+      "D": "Suspender a pegloticase"
+    },
+    "gabarito": "D",
+    "armadilha": "A",
+    "dado_decisivo": "6,8 e, hoje, antes da 6ª infusão, 7,4 mg/dL",
+    "resolucao": "Sem reação nas infusões anteriores e com gota grave sem alternativa, a tentação é seguir infundindo com mais pré-medicação. Mas a subida do ácido úrico para acima de 6 mg/dL em duas dosagens consecutivas indica anticorpos contra a pegloticase: o fármaco perdeu eficácia e o risco de anafilaxia e de reação infusional grave aumenta muito. A regra é dosar o ácido úrico antes de cada infusão e suspender o tratamento nessa situação. Pré-medicação mascara, não previne. Hipouricemiante oral é proibido durante a pegloticase justamente porque esconde a subida do ácido úrico que denuncia os anticorpos. Hoje se recomenda associar metotrexato desde o início para reduzir a imunogenicidade, mas isso não resgata quem já perdeu a resposta.",
+    "comentarios": {
+      "A": "Errada. Corticoide e anti-histamínico não evitam a anafilaxia por anticorpos e podem mascarar os primeiros sinais.",
+      "B": "Errada. Hipouricemiante oral é contraindicado com pegloticase, porque esconde a perda de resposta.",
+      "C": "Errada. Encurtar o intervalo não vence anticorpos neutralizantes e aumenta a exposição ao risco.",
+      "D": "Correta. Ácido úrico acima de 6 mg/dL em duas dosagens seguidas indica anticorpos: suspender."
+    },
+    "para_levar": "Pegloticase: dosar ácido úrico antes de cada infusão; acima de 6 mg/dL em duas dosagens seguidas, suspender, porque a perda de resposta antecede a anafilaxia.",
+    "referencias": "2020 ACR Guideline for the Management of Gout; bula da pegloticase (FDA, atualização de 2022, coadministração com metotrexato).",
+    "tags": [
+      "Gota (CM)",
+      "Drogas antirreumáticas (CM)"
+    ],
+    "sourceQuestionId": "919e16dd171bd32",
+    "alvo": "Limiar de suspensão e porte da conduta (insistir no tratamento em vez de parar)."
   },
-  "para_levar": "Dor inguinal mecânica com perda da rotação interna em quem recebeu corticoide em dose alta é osteonecrose da cabeça femoral até prova em contrário: radiografia normal não afasta, peça ressonância dos dois quadris.",
-  "referencias": "ACR Appropriateness Criteria: Osteonecrosis of the hip (2022); EULAR recommendations for the management of SLE (2023 update).",
-  "tags": [
-   "Lúpus (CM)",
-   "234 Osteonecrosis, Osteosclerosis/Hyperostosis, and Other Disorders of Bone"
-  ],
-  "sourceQuestionId": null,
-  "alvo": "Negativo no meio (radiografia normal) e próximo exame, o comando que ele mais erra."
- },
- {
-  "id": "S12-REU-02",
-  "simulado": 12,
-  "area": "Reumatologia",
-  "titulo": "Gota refratária em pegloticase com ácido úrico acima de 6 em duas dosagens seguidas: suspender, porque a perda de resposta prediz reação infusional",
-  "arma": "Limiar",
-  "comando": "conduta",
-  "nivel": "extremamente difícil",
-  "enunciado": "Homem de 58 anos tem gota tofácea há 14 anos, com tofos em cotovelos e mãos e crises mensais. Teve reação de hipersensibilidade grave ao alopurinol e não atingiu ácido úrico abaixo de 6 mg/dL com febuxostate 120 mg/dia. O febuxostate foi suspenso e ele iniciou pegloticase 8 mg EV a cada 2 semanas, com pré-medicação com anti-histamínico e corticoide, após dosagem normal de G6PD; mantém colchicina 0,5 mg/dia. Ácido úrico dosado antes de cada infusão: 0,4; 0,6; 1,1; 6,8 e, hoje, antes da 6ª infusão, 7,4 mg/dL. Está assintomático e não teve reação nas infusões anteriores. A conduta mais adequada é:",
-  "alternativas": {
-   "A": "Infundir com pré-medicação reforçada",
-   "B": "Associar febuxostate e manter a infusão",
-   "C": "Encurtar o intervalo para semanal",
-   "D": "Suspender a pegloticase"
+  {
+    "id": "S12-REU-03",
+    "simulado": 12,
+    "area": "Reumatologia",
+    "titulo": "Tenossinovite, pústulas e artrite com HLA-B27 positivo: infecção gonocócica disseminada se confirma pela pesquisa molecular nas mucosas",
+    "arma": "Rótulo verdadeiro",
+    "comando": "próximo exame",
+    "nivel": "difícil",
+    "enunciado": "Homem de 26 anos, com parceria sexual nova há 1 mês e sexo oral e anal sem preservativo, tem há 4 dias febre e dor em punhos, dorso das mãos e tornozelos e, desde ontem, o joelho esquerdo inchado. Há 2 anos teve uveíte anterior, e na época o HLA-B27 foi positivo. Nega disúria, secreção uretral, diarreia e dor lombar. Exame físico: Tax 38,4 °C, tenossinovite dos extensores do punho direito, quatro pápulas com centro pustuloso em dedos e antebraço, derrame no joelho esquerdo. Artrocentese: líquido turvo, 38.000 leucócitos/mm³ com 88% de neutrófilos, sem cristais, Gram sem bactérias; hemoculturas e cultura do líquido em andamento. O exame com maior chance de confirmar a etiologia é:",
+    "alternativas": {
+      "A": "Biópsia sinovial com cultura",
+      "B": "Pesquisa molecular de gonococo em urina, faringe e reto",
+      "C": "Ressonância magnética de sacroilíacas",
+      "D": "Repetir a artrocentese em 48 horas"
+    },
+    "gabarito": "B",
+    "armadilha": "C",
+    "dado_decisivo": "quatro pápulas com centro pustuloso em dedos e antebraço",
+    "resolucao": "O HLA-B27 positivo e a uveíte prévia são verdadeiros e puxam para espondiloartrite ou artrite reativa. Mas a tríade de poliartralgia migratória, tenossinovite e lesões pustulosas acrais, em homem com exposição sexual de risco, é infecção gonocócica disseminada, e a ausência de uretrite não afasta, porque a infecção mucosa costuma ser assintomática, sobretudo em faringe e reto. O gonococo cresce mal: hemoculturas e cultura do líquido sinovial são positivas em menos da metade dos casos e o Gram costuma ser negativo. O exame de maior rendimento é a pesquisa por amplificação de ácidos nucleicos nos sítios mucosos expostos (urina ou uretra, faringe e reto), positiva na maioria dos casos. O tratamento com ceftriaxona não espera o resultado.",
+    "comentarios": {
+      "A": "Errada. Invasiva e com rendimento de cultura tão baixo quanto o do líquido para o gonococo.",
+      "B": "Correta. Os sítios mucosos, mesmo assintomáticos, são onde o gonococo é mais encontrado na forma disseminada.",
+      "C": "Errada. Serviria para dor lombar inflamatória; o HLA-B27 é um rótulo verdadeiro que não explica pústulas e tenossinovite.",
+      "D": "Errada. A nova punção pode drenar, mas não aumenta a chance de isolar um germe que cresce mal."
+    },
+    "para_levar": "Na infecção gonocócica disseminada, culturas de sangue e líquido sinovial falham com frequência: confirme pela pesquisa molecular em uretra, faringe e reto, mesmo sem sintoma local.",
+    "referencias": "CDC Sexually Transmitted Infections Treatment Guidelines (2021); PCDT IST, Ministério da Saúde (2022).",
+    "tags": [
+      "Artrite Gonocócica (CM)"
+    ],
+    "sourceQuestionId": null,
+    "alvo": "Rótulo verdadeiro (HLA-B27) contra a tríade que decide; próximo exame de maior rendimento."
   },
-  "gabarito": "D",
-  "armadilha": "A",
-  "dado_decisivo": "6,8 e, hoje, antes da 6ª infusão, 7,4 mg/dL",
-  "resolucao": "Sem reação nas infusões anteriores e com gota grave sem alternativa, a tentação é seguir infundindo com mais pré-medicação. Mas a subida do ácido úrico para acima de 6 mg/dL em duas dosagens consecutivas indica anticorpos contra a pegloticase: o fármaco perdeu eficácia e o risco de anafilaxia e de reação infusional grave aumenta muito. A regra é dosar o ácido úrico antes de cada infusão e suspender o tratamento nessa situação. Pré-medicação mascara, não previne. Hipouricemiante oral é proibido durante a pegloticase justamente porque esconde a subida do ácido úrico que denuncia os anticorpos. Hoje se recomenda associar metotrexato desde o início para reduzir a imunogenicidade, mas isso não resgata quem já perdeu a resposta.",
-  "comentarios": {
-   "A": "Errada. Corticoide e anti-histamínico não evitam a anafilaxia por anticorpos e podem mascarar os primeiros sinais.",
-   "B": "Errada. Hipouricemiante oral é contraindicado com pegloticase, porque esconde a perda de resposta.",
-   "C": "Errada. Encurtar o intervalo não vence anticorpos neutralizantes e aumenta a exposição ao risco.",
-   "D": "Correta. Ácido úrico acima de 6 mg/dL em duas dosagens seguidas indica anticorpos: suspender."
+  {
+    "id": "S12-REU-04",
+    "simulado": 12,
+    "area": "Reumatologia",
+    "titulo": "Lúpus com nefrite prévia e proteinúria nova no terceiro trimestre: pré-eclâmpsia pelo sedimento inativo e complemento em ascensão, e não recidiva da nefrite",
+    "arma": "Rótulo verdadeiro",
+    "comando": "diagnóstico",
+    "nivel": "extremamente difícil",
+    "enunciado": "Mulher de 30 anos, primigesta com 32 semanas, tem lúpus eritematoso sistêmico com nefrite classe IV tratada há 4 anos e em remissão desde então com hidroxicloroquina e azatioprina; usa AAS 100 mg desde a 12ª semana. No início da gestação tinha proteinúria de 0,2 g/24 h e PA 110 x 70 mmHg. Há 3 dias tem cefaleia e edema de face e mãos, sem artrite, exantema ou úlceras orais. Exame físico: PA 162 x 108 mmHg, FC 88 bpm, edema 2+/4+. Exames: Hb 11,8 g/dL, plaquetas 118.000/mm³, creatinina 0,9 mg/dL, ácido úrico 7,4 mg/dL, AST 48 U/L, relação proteína/creatinina urinária de 1,9 g/g, sedimento urinário sem hematúria e sem cilindros, C3 e C4 mais altos que no início da gestação, anti-DNA não reagente, relação sFlt-1/PlGF de 190. O diagnóstico mais provável é:",
+    "alternativas": {
+      "A": "Recidiva de nefrite lúpica proliferativa",
+      "B": "Pré-eclâmpsia com sinais de gravidade",
+      "C": "Microangiopatia trombótica por antifosfolípide",
+      "D": "Púrpura trombocitopênica trombótica"
+    },
+    "gabarito": "B",
+    "armadilha": "A",
+    "dado_decisivo": "sedimento urinário sem hematúria e sem cilindros",
+    "resolucao": "Nefrite classe IV prévia, proteinúria nova e hipertensão no terceiro trimestre fazem pensar em recidiva lúpica, e o rótulo é verdadeiro. Os dados que separam as duas estão no laboratório: a nefrite proliferativa ativa vem com sedimento ativo (hematúria dismórfica, cilindros), queda de C3 e C4 e anti-DNA em ascensão; a pré-eclâmpsia vem com sedimento inativo, ácido úrico alto, plaquetas em queda, transaminases elevadas e relação sFlt-1/PlGF muito alta. Complemento normalmente sobe na gestação, e subir, em vez de cair, fala contra atividade lúpica. PA acima de 160 x 110 mmHg com cefaleia faz da pré-eclâmpsia grave, e a conduta é sulfato de magnésio, anti-hipertensivo e planejamento do parto, não pulso de corticoide.",
+    "comentarios": {
+      "A": "Errada. Seria a resposta com hematúria dismórfica, cilindros, C3 e C4 em queda e anti-DNA reagente.",
+      "B": "Correta. Hipertensão grave, sedimento inativo, ácido úrico alto e sFlt-1/PlGF alta com complemento preservado.",
+      "C": "Errada. Exigiria esquizócitos, hemólise e anticorpos antifosfolípides, ausentes no caso.",
+      "D": "Errada. Plaquetopenia de 118.000 sem hemólise microangiopática nem disfunção neurológica não sustenta PTT."
+    },
+    "para_levar": "No lúpus gestante com proteinúria nova: sedimento ativo, complemento em queda e anti-DNA subindo é nefrite; sedimento inativo, ácido úrico alto e sFlt-1/PlGF alta é pré-eclâmpsia.",
+    "referencias": "EULAR recommendations for women's health and the management of family planning, pregnancy in SLE/APS (2017); ACOG Practice Bulletin 222 (2020); FEBRASGO, Pré-eclâmpsia (2023).",
+    "tags": [
+      "Lúpus (CM)"
+    ],
+    "sourceQuestionId": "42970a5c1d187e3",
+    "alvo": "Rótulo verdadeiro (nefrite prévia) contra o dado laboratorial que discrimina (sedimento, complemento)."
   },
-  "para_levar": "Pegloticase: dosar ácido úrico antes de cada infusão; acima de 6 mg/dL em duas dosagens seguidas, suspender, porque a perda de resposta antecede a anafilaxia.",
-  "referencias": "2020 ACR Guideline for the Management of Gout; bula da pegloticase (FDA, atualização de 2022, coadministração com metotrexato).",
-  "tags": [
-   "Gota (CM)",
-   "Drogas antirreumáticas (CM)"
-  ],
-  "sourceQuestionId": "919e16dd171bd32",
-  "alvo": "Limiar de suspensão e porte da conduta (insistir no tratamento em vez de parar)."
- },
- {
-  "id": "S12-REU-03",
-  "simulado": 12,
-  "area": "Reumatologia",
-  "titulo": "Tenossinovite, pústulas e artrite com HLA-B27 positivo: infecção gonocócica disseminada se confirma pela pesquisa molecular nas mucosas",
-  "arma": "Rótulo verdadeiro",
-  "comando": "próximo exame",
-  "nivel": "difícil",
-  "enunciado": "Homem de 26 anos, com parceria sexual nova há 1 mês e sexo oral e anal sem preservativo, tem há 4 dias febre e dor em punhos, dorso das mãos e tornozelos e, desde ontem, o joelho esquerdo inchado. Há 2 anos teve uveíte anterior, e na época o HLA-B27 foi positivo. Nega disúria, secreção uretral, diarreia e dor lombar. Exame físico: Tax 38,4 °C, tenossinovite dos extensores do punho direito, quatro pápulas com centro pustuloso em dedos e antebraço, derrame no joelho esquerdo. Artrocentese: líquido turvo, 38.000 leucócitos/mm³ com 88% de neutrófilos, sem cristais, Gram sem bactérias; hemoculturas e cultura do líquido em andamento. O exame com maior chance de confirmar a etiologia é:",
-  "alternativas": {
-   "A": "Biópsia sinovial com cultura",
-   "B": "Pesquisa molecular de gonococo em urina, faringe e reto",
-   "C": "Ressonância magnética de sacroilíacas",
-   "D": "Repetir a artrocentese em 48 horas"
+  {
+    "id": "S12-REU-05",
+    "simulado": 12,
+    "area": "Imunologia e alergia",
+    "titulo": "Anafilaxia e reação bifásica: o que protege na alta é o autoinjetor de adrenalina, não o corticoide",
+    "arma": "Qualificador",
+    "comando": "fato solto",
+    "nivel": "difícil",
+    "enunciado": "Adulto tratado de anafilaxia por amendoim com duas doses de adrenalina intramuscular está assintomático há 6 horas e vai receber alta. Para a possível reação bifásica, a medida que, isoladamente, tem maior respaldo é:",
+    "alternativas": {
+      "A": "Anti-histamínico H1 e H2 por 3 dias",
+      "B": "Prednisona oral por 3 dias",
+      "C": "Autoinjetor de adrenalina com plano escrito",
+      "D": "Montelucaste por 2 semanas"
+    },
+    "gabarito": "C",
+    "armadilha": "B",
+    "dado_decisivo": "a medida que, isoladamente, tem maior respaldo",
+    "resolucao": "Corticoide na alta para prevenir a reação bifásica é prática difundida e por isso atrai. Os parâmetros de anafilaxia (AAAAI/ACAAI 2020) e a WAO concluem que não há evidência de que corticoide ou anti-histamínico previnam a reação bifásica e recomendam não usá-los com essa finalidade. O que tem respaldo é identificar quem tem mais risco (anafilaxia grave, necessidade de mais de uma dose de adrenalina, como aqui) para observação estendida, e dar a todo paciente que teve anafilaxia o autoinjetor de adrenalina, com treinamento, plano escrito e encaminhamento ao alergista. A adrenalina precoce é o único tratamento que muda o desfecho da recorrência.",
+    "comentarios": {
+      "A": "Errada. Aliviam urticária e prurido, mas não previnem nem tratam a reação bifásica.",
+      "B": "Errada. Muito usada, mas sem evidência de prevenção da reação bifásica; as diretrizes desaconselham com esse fim.",
+      "C": "Correta. Toda anafilaxia sai com autoinjetor, treinamento e plano escrito: a adrenalina precoce é o que muda o desfecho.",
+      "D": "Errada. Não tem papel na anafilaxia."
+    },
+    "para_levar": "Reação bifásica: corticoide e anti-histamínico não previnem; observar mais tempo quem teve anafilaxia grave ou precisou de mais de uma dose, e dar autoinjetor de adrenalina a todos na alta.",
+    "referencias": "Anaphylaxis: a 2020 practice parameter update (AAAAI/ACAAI); World Allergy Organization Anaphylaxis Guidance (2020).",
+    "tags": [
+      "Anafilaxia (CM)",
+      "Alergias (CM)"
+    ],
+    "sourceQuestionId": null,
+    "alvo": "Alergia e anafilaxia (lacuna nova) em fato solto com qualificador; fazer mais (corticoide) do que a evidência sustenta."
   },
-  "gabarito": "B",
-  "armadilha": "C",
-  "dado_decisivo": "quatro pápulas com centro pustuloso em dedos e antebraço",
-  "resolucao": "O HLA-B27 positivo e a uveíte prévia são verdadeiros e puxam para espondiloartrite ou artrite reativa. Mas a tríade de poliartralgia migratória, tenossinovite e lesões pustulosas acrais, em homem com exposição sexual de risco, é infecção gonocócica disseminada, e a ausência de uretrite não afasta, porque a infecção mucosa costuma ser assintomática, sobretudo em faringe e reto. O gonococo cresce mal: hemoculturas e cultura do líquido sinovial são positivas em menos da metade dos casos e o Gram costuma ser negativo. O exame de maior rendimento é a pesquisa por amplificação de ácidos nucleicos nos sítios mucosos expostos (urina ou uretra, faringe e reto), positiva na maioria dos casos. O tratamento com ceftriaxona não espera o resultado.",
-  "comentarios": {
-   "A": "Errada. Invasiva e com rendimento de cultura tão baixo quanto o do líquido para o gonococo.",
-   "B": "Correta. Os sítios mucosos, mesmo assintomáticos, são onde o gonococo é mais encontrado na forma disseminada.",
-   "C": "Errada. Serviria para dor lombar inflamatória; o HLA-B27 é um rótulo verdadeiro que não explica pústulas e tenossinovite.",
-   "D": "Errada. A nova punção pode drenar, mas não aumenta a chance de isolar um germe que cresce mal."
-  },
-  "para_levar": "Na infecção gonocócica disseminada, culturas de sangue e líquido sinovial falham com frequência: confirme pela pesquisa molecular em uretra, faringe e reto, mesmo sem sintoma local.",
-  "referencias": "CDC Sexually Transmitted Infections Treatment Guidelines (2021); PCDT IST, Ministério da Saúde (2022).",
-  "tags": [
-   "Artrite Gonocócica (CM)"
-  ],
-  "sourceQuestionId": null,
-  "alvo": "Rótulo verdadeiro (HLA-B27) contra a tríade que decide; próximo exame de maior rendimento."
- },
- {
-  "id": "S12-REU-04",
-  "simulado": 12,
-  "area": "Reumatologia",
-  "titulo": "Lúpus com nefrite prévia e proteinúria nova no terceiro trimestre: pré-eclâmpsia pelo sedimento inativo e complemento em ascensão, e não recidiva da nefrite",
-  "arma": "Rótulo verdadeiro",
-  "comando": "diagnóstico",
-  "nivel": "extremamente difícil",
-  "enunciado": "Mulher de 30 anos, primigesta com 32 semanas, tem lúpus eritematoso sistêmico com nefrite classe IV tratada há 4 anos e em remissão desde então com hidroxicloroquina e azatioprina; usa AAS 100 mg desde a 12ª semana. No início da gestação tinha proteinúria de 0,2 g/24 h e PA 110 x 70 mmHg. Há 3 dias tem cefaleia e edema de face e mãos, sem artrite, exantema ou úlceras orais. Exame físico: PA 162 x 108 mmHg, FC 88 bpm, edema 2+/4+. Exames: Hb 11,8 g/dL, plaquetas 118.000/mm³, creatinina 0,9 mg/dL, ácido úrico 7,4 mg/dL, AST 48 U/L, relação proteína/creatinina urinária de 1,9 g/g, sedimento urinário sem hematúria e sem cilindros, C3 e C4 mais altos que no início da gestação, anti-DNA não reagente, relação sFlt-1/PlGF de 190. O diagnóstico mais provável é:",
-  "alternativas": {
-   "A": "Recidiva de nefrite lúpica proliferativa",
-   "B": "Pré-eclâmpsia com sinais de gravidade",
-   "C": "Microangiopatia trombótica por antifosfolípide",
-   "D": "Púrpura trombocitopênica trombótica"
-  },
-  "gabarito": "B",
-  "armadilha": "A",
-  "dado_decisivo": "sedimento urinário sem hematúria e sem cilindros",
-  "resolucao": "Nefrite classe IV prévia, proteinúria nova e hipertensão no terceiro trimestre fazem pensar em recidiva lúpica, e o rótulo é verdadeiro. Os dados que separam as duas estão no laboratório: a nefrite proliferativa ativa vem com sedimento ativo (hematúria dismórfica, cilindros), queda de C3 e C4 e anti-DNA em ascensão; a pré-eclâmpsia vem com sedimento inativo, ácido úrico alto, plaquetas em queda, transaminases elevadas e relação sFlt-1/PlGF muito alta. Complemento normalmente sobe na gestação, e subir, em vez de cair, fala contra atividade lúpica. PA acima de 160 x 110 mmHg com cefaleia faz da pré-eclâmpsia grave, e a conduta é sulfato de magnésio, anti-hipertensivo e planejamento do parto, não pulso de corticoide.",
-  "comentarios": {
-   "A": "Errada. Seria a resposta com hematúria dismórfica, cilindros, C3 e C4 em queda e anti-DNA reagente.",
-   "B": "Correta. Hipertensão grave, sedimento inativo, ácido úrico alto e sFlt-1/PlGF alta com complemento preservado.",
-   "C": "Errada. Exigiria esquizócitos, hemólise e anticorpos antifosfolípides, ausentes no caso.",
-   "D": "Errada. Plaquetopenia de 118.000 sem hemólise microangiopática nem disfunção neurológica não sustenta PTT."
-  },
-  "para_levar": "No lúpus gestante com proteinúria nova: sedimento ativo, complemento em queda e anti-DNA subindo é nefrite; sedimento inativo, ácido úrico alto e sFlt-1/PlGF alta é pré-eclâmpsia.",
-  "referencias": "EULAR recommendations for women's health and the management of family planning, pregnancy in SLE/APS (2017); ACOG Practice Bulletin 222 (2020); FEBRASGO, Pré-eclâmpsia (2023).",
-  "tags": [
-   "Lúpus (CM)"
-  ],
-  "sourceQuestionId": "42970a5c1d187e3",
-  "alvo": "Rótulo verdadeiro (nefrite prévia) contra o dado laboratorial que discrimina (sedimento, complemento)."
- },
- {
-  "id": "S12-REU-05",
-  "simulado": 12,
-  "area": "Imunologia e alergia",
-  "titulo": "Anafilaxia e reação bifásica: o que protege na alta é o autoinjetor de adrenalina, não o corticoide",
-  "arma": "Qualificador",
-  "comando": "fato solto",
-  "nivel": "difícil",
-  "enunciado": "Adulto tratado de anafilaxia por amendoim com duas doses de adrenalina intramuscular está assintomático há 6 horas e vai receber alta. Para a possível reação bifásica, a medida que, isoladamente, tem maior respaldo é:",
-  "alternativas": {
-   "A": "Anti-histamínico H1 e H2 por 3 dias",
-   "B": "Prednisona oral por 3 dias",
-   "C": "Autoinjetor de adrenalina com plano escrito",
-   "D": "Montelucaste por 2 semanas"
-  },
-  "gabarito": "C",
-  "armadilha": "B",
-  "dado_decisivo": "a medida que, isoladamente, tem maior respaldo",
-  "resolucao": "Corticoide na alta para prevenir a reação bifásica é prática difundida e por isso atrai. Os parâmetros de anafilaxia (AAAAI/ACAAI 2020) e a WAO concluem que não há evidência de que corticoide ou anti-histamínico previnam a reação bifásica e recomendam não usá-los com essa finalidade. O que tem respaldo é identificar quem tem mais risco (anafilaxia grave, necessidade de mais de uma dose de adrenalina, como aqui) para observação estendida, e dar a todo paciente que teve anafilaxia o autoinjetor de adrenalina, com treinamento, plano escrito e encaminhamento ao alergista. A adrenalina precoce é o único tratamento que muda o desfecho da recorrência.",
-  "comentarios": {
-   "A": "Errada. Aliviam urticária e prurido, mas não previnem nem tratam a reação bifásica.",
-   "B": "Errada. Muito usada, mas sem evidência de prevenção da reação bifásica; as diretrizes desaconselham com esse fim.",
-   "C": "Correta. Toda anafilaxia sai com autoinjetor, treinamento e plano escrito: a adrenalina precoce é o que muda o desfecho.",
-   "D": "Errada. Não tem papel na anafilaxia."
-  },
-  "para_levar": "Reação bifásica: corticoide e anti-histamínico não previnem; observar mais tempo quem teve anafilaxia grave ou precisou de mais de uma dose, e dar autoinjetor de adrenalina a todos na alta.",
-  "referencias": "Anaphylaxis: a 2020 practice parameter update (AAAAI/ACAAI); World Allergy Organization Anaphylaxis Guidance (2020).",
-  "tags": [
-   "Anafilaxia (CM)",
-   "Alergias (CM)"
-  ],
-  "sourceQuestionId": null,
-  "alvo": "Alergia e anafilaxia (lacuna nova) em fato solto com qualificador; fazer mais (corticoide) do que a evidência sustenta."
- },
- {
-  "id": "S12-REU-06",
-  "simulado": 12,
-  "area": "Reumatologia",
-  "titulo": "Esclerose sistêmica com DLCO isoladamente baixa: ecocardiograma primeiro e a definição hemodinâmica atual de hipertensão arterial pulmonar",
-  "arma": "Grade X / Y",
-  "comando": "próximo exame",
-  "nivel": "extremamente difícil",
-  "enunciado": "Mulher de 52 anos tem esclerose sistêmica cutânea limitada há 9 anos, com anticentrômero reagente, telangiectasias e fenômeno de Raynaud. Há 6 meses tem dispneia aos médios esforços, sem tosse. Exame físico: SpO2 95% em repouso, B2 hiperfonética em foco pulmonar, sem estertores e sem edema. Prova de função pulmonar: CVF 94% do previsto e DLCO 38% do previsto. Tomografia de tórax de alta resolução sem doença intersticial. NT-proBNP 620 pg/mL; ECG com desvio do eixo para a direita. O próximo exame e o critério hemodinâmico que confirmará hipertensão arterial pulmonar são, respectivamente:",
-  "alternativas": {
-   "A": "Ecocardiograma / PAPm > 20 e POAP > 15 mmHg",
-   "B": "Cateterismo direito / PAPm ≥ 25 e POAP ≤ 15 mmHg",
-   "C": "Angiotomografia / RVP > 3 Wood isolada",
-   "D": "Ecocardiograma / PAPm > 20, POAP ≤ 15, RVP > 2 Wood"
-  },
-  "gabarito": "D",
-  "armadilha": "B",
-  "dado_decisivo": "CVF 94% do previsto e DLCO 38% do previsto",
-  "resolucao": "CVF preservada com DLCO muito baixa (relação CVF/DLCO acima de 1,6), sem doença intersticial, NT-proBNP alto e eixo desviado para a direita apontam hipertensão arterial pulmonar na esclerose sistêmica limitada. O rastreio segue degraus (algoritmo DETECT): com o primeiro passo positivo, o ecocardiograma vem antes do cateterismo, que é o exame confirmatório. A armadilha é dupla: ir direto ao cateterismo e usar a definição antiga. Desde as diretrizes ESC/ERS de 2022, hipertensão pulmonar é PAPm acima de 20 mmHg, e a forma pré-capilar (arterial) exige POAP até 15 mmHg e resistência vascular pulmonar acima de 2 unidades Wood. POAP acima de 15 indica causa pós-capilar (coração esquerdo).",
-  "comentarios": {
-   "A": "Errada. Acerta o exame, mas POAP acima de 15 mmHg define hipertensão pós-capilar, de causa cardíaca esquerda.",
-   "B": "Errada. Pula o ecocardiograma do rastreio e usa o limiar antigo de 25 mmHg, abandonado em 2022.",
-   "C": "Errada. Angiotomografia avalia tromboembolismo crônico; RVP isolada não define hipertensão pulmonar.",
-   "D": "Correta. Ecocardiograma antes do cateterismo, e hipertensão arterial pulmonar é PAPm > 20, POAP ≤ 15 e RVP > 2 Wood."
-  },
-  "para_levar": "Na esclerose sistêmica, DLCO desproporcionalmente baixa sem doença intersticial pede ecocardiograma e depois cateterismo; hipertensão arterial pulmonar é PAPm > 20 mmHg, POAP ≤ 15 mmHg e RVP > 2 Wood (ESC/ERS 2022).",
-  "referencias": "2022 ESC/ERS Guidelines for the diagnosis and treatment of pulmonary hypertension; DETECT study algorithm (Coghlan, Ann Rheum Dis 2014).",
-  "tags": [
-   "Esclerose Sistêmica (CM)",
-   "Hipertensão Pulmonar (CM)"
-  ],
-  "sourceQuestionId": "9a65a8fe2137cf7",
-  "alvo": "Próximo exame em degraus e limiar atualizado (pontos de corte não fixados)."
- }
+  {
+    "id": "S12-REU-06",
+    "simulado": 12,
+    "area": "Reumatologia",
+    "titulo": "Esclerose sistêmica com DLCO isoladamente baixa: ecocardiograma primeiro e a definição hemodinâmica atual de hipertensão arterial pulmonar",
+    "arma": "Grade X / Y",
+    "comando": "próximo exame",
+    "nivel": "extremamente difícil",
+    "enunciado": "Mulher de 52 anos tem esclerose sistêmica cutânea limitada há 9 anos, com anticentrômero reagente, telangiectasias e fenômeno de Raynaud. Há 6 meses tem dispneia aos médios esforços, sem tosse. Exame físico: SpO2 95% em repouso, B2 hiperfonética em foco pulmonar, sem estertores e sem edema. Prova de função pulmonar: CVF 94% do previsto e DLCO 38% do previsto. Tomografia de tórax de alta resolução sem doença intersticial. NT-proBNP 620 pg/mL; ECG com desvio do eixo para a direita. O próximo exame e o critério hemodinâmico que confirmará hipertensão arterial pulmonar são, respectivamente:",
+    "alternativas": {
+      "A": "Cateterismo direito / PAPm ≥ 25, POAP ≤ 15, RVP > 3 Wood",
+      "B": "Cateterismo direito / PAPm > 20, POAP ≤ 15, RVP > 2 Wood",
+      "C": "Ecocardiograma / PAPm ≥ 25, POAP ≤ 15, RVP > 3 Wood",
+      "D": "Ecocardiograma / PAPm > 20, POAP ≤ 15, RVP > 2 Wood"
+    },
+    "gabarito": "D",
+    "armadilha": "B",
+    "dado_decisivo": "CVF 94% do previsto e DLCO 38% do previsto",
+    "resolucao": "CVF preservada com DLCO muito baixa (relação CVF/DLCO acima de 1,6), sem doença intersticial, NT-proBNP alto e eixo desviado para a direita apontam hipertensão arterial pulmonar na esclerose sistêmica limitada. O rastreio segue degraus (algoritmo DETECT, recomendado pelas diretrizes ESC/ERS de 2022 na esclerose sistêmica com DLCO abaixo de 60%): com o primeiro passo positivo, o ecocardiograma vem antes do cateterismo direito, que é o exame confirmatório. A armadilha é ir direto ao cateterismo, o exame do degrau seguinte. Na outra metade, a armadilha é a definição antiga: desde 2022, hipertensão pulmonar é PAPm acima de 20 mmHg, e a forma pré-capilar (arterial) exige POAP até 15 mmHg e resistência vascular pulmonar acima de 2 unidades Wood, e não mais PAPm de 25 e RVP de 3.",
+    "comentarios": {
+      "A": "Errada. Pula o ecocardiograma do rastreio e usa a definição de 2015 (PAPm ≥ 25 e RVP > 3 Wood), abandonada em 2022.",
+      "B": "Errada. Acerta a definição, mas pula o degrau: o cateterismo seria o próximo exame se o ecocardiograma já tivesse sido feito e sugerisse hipertensão pulmonar.",
+      "C": "Errada. Acerta o degrau, mas usa a definição antiga, que deixaria de fora pacientes com PAPm entre 21 e 24 mmHg e RVP entre 2 e 3 Wood.",
+      "D": "Correta. Ecocardiograma antes do cateterismo, e hipertensão arterial pulmonar é PAPm > 20, POAP ≤ 15 e RVP > 2 Wood."
+    },
+    "para_levar": "Na esclerose sistêmica, DLCO desproporcionalmente baixa sem doença intersticial pede ecocardiograma e depois cateterismo; hipertensão arterial pulmonar é PAPm > 20 mmHg, POAP ≤ 15 mmHg e RVP > 2 Wood (ESC/ERS 2022).",
+    "referencias": "2022 ESC/ERS Guidelines for the diagnosis and treatment of pulmonary hypertension; DETECT study algorithm (Coghlan, Ann Rheum Dis 2014).",
+    "tags": [
+      "Esclerose Sistêmica (CM)",
+      "Hipertensão Pulmonar (CM)"
+    ],
+    "sourceQuestionId": "9a65a8fe2137cf7",
+    "alvo": "Próximo exame em degraus e limiar atualizado (pontos de corte não fixados)."
+  }
 ]
