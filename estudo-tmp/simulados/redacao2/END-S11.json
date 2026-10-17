@@ -1,170 +1,170 @@
 [
-  {
-    "id": "S11-END-01",
-    "simulado": 11,
-    "area": "Endocrinologia",
-    "titulo": "Hipoglicemias de madrugada no idoso em uso de gliclazida após antibiótico em dose única diária para pneumonia: fluoroquinolona respiratória a deduzir",
-    "arma": "Droga a deduzir",
-    "comando": "etiologia",
-    "nivel": "extremamente difícil",
-    "enunciado": "Homem de 78 anos, com diabetes tipo 2 há 15 anos em uso de metformina 1.000 mg/dia e gliclazida MR 60 mg/dia (HbA1c recente de 7,1%), hipertensão e doença renal crônica com TFGe de 38 mL/min/1,73 m², foi atendido na UPA há 4 dias por tosse produtiva, febre e consolidação em base direita, com CURB-65 de 1, e recebeu alta com um antibiótico oral em dose única diária, em monoterapia, escolhido porque ele é alérgico a penicilina. Desde ontem teve três episódios de sudorese e confusão de madrugada, com glicemias capilares de 42, 38 e 47 mg/dL, revertidos com glicose oral. Não mudou a alimentação nem as doses. Hoje: afebril, PA 132 x 78 mmHg, FC 84 bpm, SpO2 95%. Exames: creatinina 1,7 mg/dL (basal de 1,6 mg/dL), sódio 138 mEq/L, potássio 4,4 mEq/L, cortisol às 8 horas 19 µg/dL, ECG com QTc de 488 ms. A causa mais provável das hipoglicemias é:",
-    "alternativas": {
-      "A": "Acúmulo da gliclazida por piora renal",
-      "B": "Insuficiência adrenal relativa da infecção",
-      "C": "Fluoroquinolona somada à sulfonilureia",
-      "D": "Acúmulo da metformina pela TFG baixa"
-    },
-    "gabarito": "C",
-    "armadilha": "A",
-    "dado_decisivo": "um antibiótico oral em dose única diária, em monoterapia, escolhido porque ele é alérgico a penicilina",
-    "resolucao": "Idoso, renal crônico e em uso de sulfonilureia: o reflexo é culpar a gliclazida acumulada, e é a armadilha. Mas a creatinina está estável (1,7 contra 1,6 de base) e a HbA1c de 7,1% mostra anos de esquema sem hipoglicemia; o que mudou há 4 dias foi o antibiótico. Para pneumonia comunitária ambulatorial em quem tem comorbidades (diabetes, DRC) e é alérgico a penicilina, a monoterapia oral em dose única diária é a fluoroquinolona respiratória (levofloxacino ou moxifloxacino), e o QTc de 488 ms reforça a dedução. As fluoroquinolonas bloqueiam os canais de potássio dependentes de ATP da célula beta e aumentam a secreção de insulina, com risco de hipoglicemia grave sobretudo em idosos, na DRC e em associação com sulfonilureia ou insulina. O cortisol de 19 µg/dL afasta a insuficiência adrenal, e a metformina isolada não causa hipoglicemia. A conduta é trocar o antibiótico e suspender ou reduzir a gliclazida enquanto durar a interação.",
-    "comentarios": {
-      "A": "Errada. É a armadilha: seria a causa se a função renal tivesse piorado ou a dose tivesse subido; a creatinina está no basal e o esquema era o mesmo há anos sem hipoglicemia.",
-      "B": "Errada. Insuficiência adrenal na infecção daria hipotensão e hiponatremia; cortisol matinal de 19 µg/dL praticamente a exclui.",
-      "C": "Correta. Monoterapia oral diária para pneumonia em comorbido alérgico a penicilina é fluoroquinolona respiratória; ela estimula a secreção de insulina e potencializa a sulfonilureia, e o QTc longo é outro efeito da classe.",
-      "D": "Errada. A metformina acumulada na TFG baixa ameaça com acidose láctica, não com hipoglicemia, porque não estimula a secreção de insulina."
-    },
-    "para_levar": "Hipoglicemia nova em diabético estável pede a lista de drogas dos últimos dias: fluoroquinolonas (e claritromicina, por interação com sulfonilureia) causam hipoglicemia, principalmente em idosos e na DRC.",
-    "referencias": "FDA Drug Safety Communication 2018 (fluoroquinolonas e disglicemia); Diretriz Brasileira de Pneumonia Adquirida na Comunidade (SBPT 2018); ADA Standards of Care in Diabetes 2026, seção 6.",
-    "tags": [
-      "Hipoglicemias (CM)",
-      "Antibióticos: Farmacologia e Microbiologia (CM)"
-    ],
-    "sourceQuestionId": "394fca25b3c985c",
-    "alvo": "Ignorar a droga em uso; hipoglicemia por interação (ele errou a investigação de hipoglicemia no banco)."
+ {
+  "id": "S11-END-01",
+  "simulado": 11,
+  "area": "Endocrinologia",
+  "titulo": "Hipoglicemias de madrugada no idoso em uso de gliclazida após antibiótico em dose única diária para pneumonia: fluoroquinolona respiratória a deduzir",
+  "arma": "Droga a deduzir",
+  "comando": "etiologia",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 78 anos, com diabetes tipo 2 há 15 anos em uso de metformina 1.000 mg/dia e gliclazida MR 60 mg/dia (HbA1c recente de 7,1%), hipertensão e doença renal crônica com TFGe de 38 mL/min/1,73 m², foi atendido na UPA há 4 dias por tosse produtiva, febre e consolidação em base direita, com CURB-65 de 1, e recebeu alta com um antibiótico oral em dose única diária, em monoterapia, escolhido porque ele é alérgico a penicilina. Desde ontem teve três episódios de sudorese e confusão de madrugada, com glicemias capilares de 42, 38 e 47 mg/dL, revertidos com glicose oral. Não mudou a alimentação nem as doses. Hoje: afebril, PA 132 x 78 mmHg, FC 84 bpm, SpO2 95%. Exames: creatinina 1,7 mg/dL (basal de 1,6 mg/dL), sódio 138 mEq/L, potássio 4,4 mEq/L, cortisol às 8 horas 19 µg/dL, ECG com QTc de 488 ms. A causa mais provável das hipoglicemias é:",
+  "alternativas": {
+   "A": "Acúmulo da gliclazida por piora renal",
+   "B": "Insuficiência adrenal relativa da infecção",
+   "C": "Fluoroquinolona somada à sulfonilureia",
+   "D": "Acúmulo da metformina pela TFG baixa"
   },
-  {
-    "id": "S11-END-02",
-    "simulado": 11,
-    "area": "Endocrinologia",
-    "titulo": "Diabetes rotulado como tipo 1 com peptídeo C preservado após 9 anos e variante no HNF1A: gliclazida em dose baixa no lugar da insulina",
-    "arma": "Rótulo verdadeiro",
-    "comando": "conduta",
-    "nivel": "difícil",
-    "enunciado": "Mulher de 26 anos tem diagnóstico de diabetes tipo 1 desde os 17 anos, feito por glicemia de 290 mg/dL sem cetoacidose, e usa insulina glargina 10 U/dia e asparte 3 a 4 U por refeição. Relata hipoglicemias frequentes mesmo com essas doses e HbA1c de 7,9%. A mãe teve diabetes aos 22 anos, tratada por muitos anos só com glibenclamida, e o avô materno também era diabético; nenhum deles é obeso. IMC 21 kg/m², sem acantose. Exames: anti-GAD, anti-IA2 e anti-ZnT8 negativos; peptídeo C de 1,8 ng/mL com glicemia simultânea de 160 mg/dL; glicosúria 3+ com glicemia de 140 mg/dL; PCR ultrassensível de 0,2 mg/L. O sequenciamento genético mostrou variante patogênica no gene HNF1A. A conduta mais adequada é:",
-    "alternativas": {
-      "A": "Gliclazida em dose baixa, suspendendo a insulina",
-      "B": "Manter o basal-bolus com doses menores",
-      "C": "Insulina basal isolada, sem os bolus",
-      "D": "Metformina, suspendendo a insulina"
-    },
-    "gabarito": "A",
-    "armadilha": "B",
-    "dado_decisivo": "variante patogênica no gene HNF1A",
-    "resolucao": "O rótulo de diabetes tipo 1 é antigo e parece sólido (jovem, magra, diagnóstico aos 17 anos), e por isso o apressado só ajusta a insulina. Mas nove anos depois o peptídeo C segue preservado, os três autoanticorpos são negativos, há herança autossômica dominante em três gerações e a mãe foi controlada anos com sulfonilureia: é diabetes monogênico, confirmado pela variante no HNF1A (MODY 3). Nesse tipo, a célula beta responde de forma exagerada às sulfonilureias, que costumam controlar a glicemia melhor que a insulina e em doses baixas (gliclazida 20 a 40 mg ou glibenclamida 1,25 a 2,5 mg), com troca gradual e vigilância de hipoglicemia. A glicosúria com glicemia de 140 mg/dL (limiar renal baixo, defeito tubular do HNF1A) e a PCR ultrassensível muito baixa são marcas do mesmo gene. A metformina não aproveita a sensibilidade específica que define o tratamento.",
-    "comentarios": {
-      "A": "Correta. MODY por HNF1A é muito sensível a sulfonilureia: dose baixa de gliclazida substitui a insulina, com titulação lenta para evitar hipoglicemia.",
-      "B": "Errada. É a armadilha: seria o ajuste no tipo 1 com hipoglicemias; aqui o rótulo caiu com o peptídeo C preservado, autoanticorpos negativos e a variante no HNF1A.",
-      "C": "Errada. Simplificar a insulina seria opção no tipo 2 ou no autoimune latente com secreção residual; não usa a resposta específica à sulfonilureia.",
-      "D": "Errada. Metformina é a primeira linha no tipo 2 com resistência à insulina; no HNF1A o defeito é de secreção, e a resposta é muito inferior à da sulfonilureia."
-    },
-    "para_levar": "Diabetes jovem, não obeso, com autoanticorpos negativos, peptídeo C preservado anos depois e herança em três gerações: pense em MODY. HNF1A e HNF4A tratam com sulfonilureia em dose baixa; glicoquinase não trata.",
-    "referencias": "ADA Standards of Care in Diabetes 2026, seção 2; ISPAD Clinical Practice Consensus Guidelines 2022 (diabetes monogênico); Diretriz SBD 2024.",
-    "tags": [
-      "Classificação e Diagnóstico Diabetes (CM)",
-      "Antidiabéticos (CM)"
-    ],
-    "sourceQuestionId": "29295c3bcd18519",
-    "alvo": "Rótulo verdadeiro antigo (tipo 1) contra o dado que o derruba; classificação de diabetes, que ele errou no banco."
+  "gabarito": "C",
+  "armadilha": "A",
+  "dado_decisivo": "um antibiótico oral em dose única diária, em monoterapia, escolhido porque ele é alérgico a penicilina",
+  "resolucao": "Idoso, renal crônico e em uso de sulfonilureia: o reflexo é culpar a gliclazida acumulada, e é a armadilha. Mas a creatinina está estável (1,7 contra 1,6 de base) e a HbA1c de 7,1% mostra anos de esquema sem hipoglicemia; o que mudou há 4 dias foi o antibiótico. Para pneumonia comunitária ambulatorial em quem tem comorbidades (diabetes, DRC) e é alérgico a penicilina, a monoterapia oral em dose única diária é a fluoroquinolona respiratória (levofloxacino ou moxifloxacino), e o QTc de 488 ms reforça a dedução. As fluoroquinolonas bloqueiam os canais de potássio dependentes de ATP da célula beta e aumentam a secreção de insulina, com risco de hipoglicemia grave sobretudo em idosos, na DRC e em associação com sulfonilureia ou insulina. O cortisol de 19 µg/dL afasta a insuficiência adrenal, e a metformina isolada não causa hipoglicemia. A conduta é trocar o antibiótico e suspender ou reduzir a gliclazida enquanto durar a interação.",
+  "comentarios": {
+   "A": "Errada. É a armadilha: seria a causa se a função renal tivesse piorado ou a dose tivesse subido; a creatinina está no basal e o esquema era o mesmo há anos sem hipoglicemia.",
+   "B": "Errada. Insuficiência adrenal na infecção daria hipotensão e hiponatremia; cortisol matinal de 19 µg/dL praticamente a exclui.",
+   "C": "Correta. Monoterapia oral diária para pneumonia em comorbido alérgico a penicilina é fluoroquinolona respiratória; ela estimula a secreção de insulina e potencializa a sulfonilureia, e o QTc longo é outro efeito da classe.",
+   "D": "Errada. A metformina acumulada na TFG baixa ameaça com acidose láctica, não com hipoglicemia, porque não estimula a secreção de insulina."
   },
-  {
-    "id": "S11-END-03",
-    "simulado": 11,
-    "area": "Endocrinologia",
-    "titulo": "Fibrose tireoidiana que ultrapassa a cápsula com fibrose retroperitoneal e anti-TPO positivo: tireoidite de Riedel, glicocorticoide",
-    "arma": "Grade X / Y",
-    "comando": "diagnóstico",
-    "nivel": "extremamente difícil",
-    "enunciado": "Mulher de 47 anos refere aumento progressivo do pescoço há 10 meses, com rouquidão há 2 meses e dispneia ao deitar. Há 3 anos fez nefrostomia bilateral por hidronefrose causada por fibrose retroperitoneal, em acompanhamento. Exame: tireoide aumentada de forma difusa, pétrea, indolor, aderida aos planos profundos e sem mobilidade à deglutição; sem linfonodos palpáveis; afebril. TSH 7,8 mUI/L, T4 livre 0,9 ng/dL (referência 0,9 a 1,8), anti-TPO 210 UI/mL (referência até 35), VHS 32 mm/h. Duas punções aspirativas foram não diagnósticas por material acelular. A biópsia incisional mostrou fibrose densa hialinizada que ultrapassa a cápsula e invade a musculatura pré-tireoidiana, flebite oclusiva e infiltrado linfoplasmocitário com mais de 30 plasmócitos IgG4 positivos por campo, sem atipias. O diagnóstico e o tratamento clínico de primeira linha são, respectivamente:",
-    "alternativas": {
-      "A": "Hashimoto fibrosante / levotiroxina",
-      "B": "Tireoidite de Riedel / prednisona",
-      "C": "Carcinoma anaplásico / quimiorradioterapia",
-      "D": "Linfoma primário da tireoide / R-CHOP"
-    },
-    "gabarito": "B",
-    "armadilha": "A",
-    "dado_decisivo": "fibrose densa hialinizada que ultrapassa a cápsula",
-    "resolucao": "Anti-TPO alto e TSH elevado são verdadeiros e puxam para Hashimoto na variante fibrosante, que também dá bócio firme. O dado que separa está na biópsia: na variante fibrosante de Hashimoto a fibrose fica contida dentro da cápsula; na tireoidite de Riedel ela ultrapassa a cápsula e invade as estruturas vizinhas, com flebite oclusiva. A fibrose retroperitoneal prévia e os plasmócitos IgG4 positivos completam o quadro de fibrose multifocal da doença relacionada a IgG4, da qual Riedel faz parte. A punção acelular é esperada num tecido tão fibroso, e por isso a biópsia incisional foi necessária. O tratamento de primeira linha é o glicocorticoide (prednisona), com tamoxifeno como alternativa ou adjuvante e rituximabe nos refratários; levotiroxina corrige o hipotireoidismo, mas não trata a fibrose, e cirurgia limita-se a desobstruir a via aérea (istmectomia).",
-    "comentarios": {
-      "A": "Errada. É a armadilha: anti-TPO e TSH alto são verdadeiros, mas na variante fibrosante de Hashimoto a fibrose não ultrapassa a cápsula; levotiroxina não age na fibrose invasiva.",
-      "B": "Correta. Fibrose que invade além da cápsula, flebite oclusiva, IgG4 e fibrose retroperitoneal: Riedel, tratada inicialmente com glicocorticoide.",
-      "C": "Errada. O anaplásico cresce em semanas, em idosos, e a biópsia mostra células com atipia acentuada, fusiformes e gigantes; aqui não há atipias.",
-      "D": "Errada. Linfoma tireoidiano surge sobre Hashimoto com crescimento rápido e infiltrado linfoide monoclonal; a biópsia mostra fibrose, e não população linfoide monoclonal."
-    },
-    "para_levar": "Bócio pétreo, fixo e invasivo com punção acelular: biópsia incisional. Fibrose além da cápsula e fibrose retroperitoneal associada é Riedel (espectro IgG4), tratada com glicocorticoide.",
-    "referencias": "Khosroshahi e cols., International Consensus Guidance Statement on the Management and Treatment of IgG4-Related Disease (Arthritis Rheumatol 2015); Critérios de classificação ACR/EULAR 2019 da doença relacionada a IgG4.",
-    "tags": [
-      "Tireoidites (CM)",
-      "Doença por IgG4 (CM)"
-    ],
-    "sourceQuestionId": "13d505f5cb8e6fb",
-    "alvo": "Rótulo verdadeiro (anti-TPO) contra o achado que discrimina; IgG4 é tema UERJ recorrente."
+  "para_levar": "Hipoglicemia nova em diabético estável pede a lista de drogas dos últimos dias: fluoroquinolonas (e claritromicina, por interação com sulfonilureia) causam hipoglicemia, principalmente em idosos e na DRC.",
+  "referencias": "FDA Drug Safety Communication 2018 (fluoroquinolonas e disglicemia); Diretriz Brasileira de Pneumonia Adquirida na Comunidade (SBPT 2018); ADA Standards of Care in Diabetes 2026, seção 6.",
+  "tags": [
+   "Hipoglicemias (CM)",
+   "Antibióticos: Farmacologia e Microbiologia (CM)"
+  ],
+  "sourceQuestionId": "394fca25b3c985c",
+  "alvo": "Ignorar a droga em uso; hipoglicemia por interação (ele errou a investigação de hipoglicemia no banco)."
+ },
+ {
+  "id": "S11-END-02",
+  "simulado": 11,
+  "area": "Endocrinologia",
+  "titulo": "Diabetes rotulado como tipo 1 com peptídeo C preservado após 9 anos e variante no HNF1A: gliclazida em dose baixa no lugar da insulina",
+  "arma": "Rótulo verdadeiro",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 26 anos tem diagnóstico de diabetes tipo 1 desde os 17 anos, feito por glicemia de 290 mg/dL sem cetoacidose, e usa insulina glargina 10 U/dia e asparte 3 a 4 U por refeição. Relata hipoglicemias frequentes mesmo com essas doses e HbA1c de 7,9%. A mãe teve diabetes aos 22 anos, tratada por muitos anos só com glibenclamida, e o avô materno também era diabético; nenhum deles é obeso. IMC 21 kg/m², sem acantose. Exames: anti-GAD, anti-IA2 e anti-ZnT8 negativos; peptídeo C de 1,8 ng/mL com glicemia simultânea de 160 mg/dL; glicosúria 3+ com glicemia de 140 mg/dL; PCR ultrassensível de 0,2 mg/L. O sequenciamento genético mostrou variante patogênica no gene HNF1A. A conduta mais adequada é:",
+  "alternativas": {
+   "A": "Gliclazida em dose baixa, suspendendo a insulina",
+   "B": "Manter o basal-bolus com doses menores",
+   "C": "Insulina basal isolada, sem os bolus",
+   "D": "Metformina, suspendendo a insulina"
   },
-  {
-    "id": "S11-END-04",
-    "simulado": 11,
-    "area": "Endocrinologia",
-    "titulo": "Calcitonina detectável abaixo de 150 pg/mL após tireoidectomia por carcinoma medular: ultrassonografia cervical, e não estadiamento sistêmico",
-    "arma": "Limiar",
-    "comando": "próximo exame",
-    "nivel": "difícil",
-    "enunciado": "Homem de 44 anos foi submetido, há 4 meses, a tireoidectomia total com esvaziamento do compartimento central por carcinoma medular esporádico de 2,1 cm (pesquisa germinativa de RET negativa), com 2 de 14 linfonodos centrais comprometidos. Antes da cirurgia, a calcitonina era de 1.240 pg/mL e o CEA de 18 ng/mL. Está assintomático, em uso de levotiroxina 125 µg/dia, com TSH de 1,6 mUI/L e cálcio normal. Exame cervical sem nódulos palpáveis. Exames atuais: calcitonina 86 pg/mL (referência abaixo de 10) e CEA 4,1 ng/mL (referência abaixo de 5). O exame mais adequado neste momento é:",
-    "alternativas": {
-      "A": "Pesquisa de corpo inteiro com iodo-131",
-      "B": "PET-CT com FDG de corpo inteiro",
-      "C": "TC de tórax e RM de fígado",
-      "D": "Ultrassonografia cervical"
-    },
-    "gabarito": "D",
-    "armadilha": "C",
-    "dado_decisivo": "calcitonina 86 pg/mL",
-    "resolucao": "Calcitonina ainda detectável após a cirurgia indica doença residual, e o reflexo é estadiar o corpo todo, que é a armadilha. No carcinoma medular, o nível pós-operatório guia a extensão da busca: abaixo de 150 pg/mL, a doença persistente está quase sempre no pescoço, e o exame indicado é a ultrassonografia cervical, seguida de calcitonina e CEA a cada 6 meses para calcular o tempo de duplicação. Acima de 150 pg/mL, aí sim, procuram-se metástases a distância com TC de pescoço e tórax, RM ou TC trifásica de fígado e RM de coluna e pelve ou cintilografia óssea. A queda de 1.240 para 86 pg/mL e o CEA normalizado reforçam doença de baixo volume. Iodo radioativo não tem papel, porque a célula C não capta iodo.",
-    "comentarios": {
-      "A": "Errada. Pesquisa com iodo-131 serve ao carcinoma diferenciado de origem folicular; a célula C do medular não concentra iodo.",
-      "B": "Errada. PET com FDG tem baixa sensibilidade no medular de baixo volume e fica para doença avançada com duplicação rápida dos marcadores.",
-      "C": "Errada. É a armadilha: o estadiamento sistêmico é a conduta quando a calcitonina pós-operatória passa de 150 pg/mL; com 86, a busca começa no pescoço.",
-      "D": "Correta. Calcitonina detectável, mas abaixo de 150 pg/mL: ultrassonografia cervical e seguimento dos marcadores a cada 6 meses."
-    },
-    "para_levar": "Carcinoma medular operado: calcitonina indetectável é cura bioquímica; detectável abaixo de 150 pg/mL, ultrassonografia cervical; acima de 150, imagem sistêmica.",
-    "referencias": "ATA 2015 (Revised Guidelines for the Management of Medullary Thyroid Carcinoma); NCCN Thyroid Carcinoma 2025.",
-    "tags": [
-      "Nódulos Tireoideanos (CM)"
-    ],
-    "sourceQuestionId": "07f9121ec6efad2",
-    "alvo": "Limiar que decide o porte do exame; padrão de fazer mais (estadiar o corpo todo) e calcitonina como produto do medular, que ele errou."
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "variante patogênica no gene HNF1A",
+  "resolucao": "O rótulo de diabetes tipo 1 é antigo e parece sólido (jovem, magra, diagnóstico aos 17 anos), e por isso o apressado só ajusta a insulina. Mas nove anos depois o peptídeo C segue preservado, os três autoanticorpos são negativos, há herança autossômica dominante em três gerações e a mãe foi controlada anos com sulfonilureia: é diabetes monogênico, confirmado pela variante no HNF1A (MODY 3). Nesse tipo, a célula beta responde de forma exagerada às sulfonilureias, que costumam controlar a glicemia melhor que a insulina e em doses baixas (gliclazida 20 a 40 mg ou glibenclamida 1,25 a 2,5 mg), com troca gradual e vigilância de hipoglicemia. A glicosúria com glicemia de 140 mg/dL (limiar renal baixo, defeito tubular do HNF1A) e a PCR ultrassensível muito baixa são marcas do mesmo gene. A metformina não aproveita a sensibilidade específica que define o tratamento.",
+  "comentarios": {
+   "A": "Correta. MODY por HNF1A é muito sensível a sulfonilureia: dose baixa de gliclazida substitui a insulina, com titulação lenta para evitar hipoglicemia.",
+   "B": "Errada. É a armadilha: seria o ajuste no tipo 1 com hipoglicemias; aqui o rótulo caiu com o peptídeo C preservado, autoanticorpos negativos e a variante no HNF1A.",
+   "C": "Errada. Simplificar a insulina seria opção no tipo 2 ou no autoimune latente com secreção residual; não usa a resposta específica à sulfonilureia.",
+   "D": "Errada. Metformina é a primeira linha no tipo 2 com resistência à insulina; no HNF1A o defeito é de secreção, e a resposta é muito inferior à da sulfonilureia."
   },
-  {
-    "id": "S11-END-05",
-    "simulado": 11,
-    "area": "Endocrinologia",
-    "titulo": "Sela parcialmente vazia achada em ressonância de cefaleia, sem sinais clínicos: avaliação hormonal basal e nenhuma nova imagem",
-    "arma": "Omissão",
-    "comando": "próximo exame",
-    "nivel": "média",
-    "enunciado": "Mulher de 49 anos, hipertensa e obesa (IMC 36 kg/m²), fez ressonância de crânio para investigar cefaleia tensional de longa data, que melhorou com amitriptilina. O laudo descreve sela túrcica parcialmente vazia, com haste centrada e hipófise de 3 mm rechaçada contra o assoalho, sem lesões. Está na menopausa há 2 anos, amamentou os dois filhos sem dificuldade e não tem fadiga, poliúria, galactorreia nem alteração visual. PA 138 x 86 mmHg, FC 76 bpm; fundoscopia sem papiledema e campos visuais normais à confrontação. Sódio 139 mEq/L, glicemia 98 mg/dL. Ela traz o laudo preocupada com um tumor. O passo mais adequado é:",
-    "alternativas": {
-      "A": "Avaliação hormonal basal da hipófise",
-      "B": "Nova ressonância de sela em 12 meses",
-      "C": "Campimetria computadorizada seriada",
-      "D": "Punção lombar com manometria"
-    },
-    "gabarito": "A",
-    "armadilha": "B",
-    "dado_decisivo": "sela túrcica parcialmente vazia, com haste centrada",
-    "resolucao": "Um achado de imagem na sela costuma gerar a vontade de repetir a imagem, e essa é a armadilha. A sela parcialmente vazia é achado frequente em ressonâncias, sobretudo em mulheres obesas e hipertensas, e não é tumor nem tende a progredir; por isso não se programa nova ressonância. O que se recomenda é uma avaliação hormonal basal (cortisol às 8 horas, TSH e T4 livre, prolactina, IGF-1 e gonadotrofinas, que na menopausa devem estar altas e, se normais ou baixas, denunciam deficiência gonadotrófica), porque uma minoria tem hipopituitarismo parcial. Campimetria só se houver queixa visual ou herniação do quiasma, ausente aqui, e punção lombar só se houver papiledema ou sintomas de hipertensão intracraniana idiopática, que a fundoscopia normal e a cefaleia tensional controlada afastam. Com hormônios normais, ela recebe alta da investigação.",
-    "comentarios": {
-      "A": "Correta. Sela vazia primária assintomática pede só a triagem hormonal basal; se normal, não há seguimento de imagem.",
-      "B": "Errada. É a armadilha: repetir imagem é o seguimento do microadenoma ou macroadenoma não funcionante; sela vazia não progride.",
-      "C": "Errada. Campimetria seria indicada com queixa visual ou herniação do quiasma na imagem; o campo é normal à confrontação.",
-      "D": "Errada. Manometria liquórica investiga hipertensão intracraniana idiopática, que exige papiledema ou sintomas compatíveis; aqui não há."
-    },
-    "para_levar": "Sela vazia primária achada sem sintomas: triagem hormonal basal e nada mais. Não é tumor e não pede imagem de controle.",
-    "referencias": "Endocrine Society 2011 (Pituitary Incidentaloma); Endocrine Society 2016 (Hormonal Replacement in Hypopituitarism in Adults).",
-    "tags": [
-      "Hipófise (CM)"
-    ],
-    "sourceQuestionId": null,
-    "alvo": "Omissão: fazer mais do que o caso pede (imagem de controle e exame do degrau seguinte)."
-  }
+  "para_levar": "Diabetes jovem, não obeso, com autoanticorpos negativos, peptídeo C preservado anos depois e herança em três gerações: pense em MODY. HNF1A e HNF4A tratam com sulfonilureia em dose baixa; glicoquinase não trata.",
+  "referencias": "ADA Standards of Care in Diabetes 2026, seção 2; ISPAD Clinical Practice Consensus Guidelines 2022 (diabetes monogênico); Diretriz SBD 2024.",
+  "tags": [
+   "Classificação e Diagnóstico Diabetes (CM)",
+   "Antidiabéticos (CM)"
+  ],
+  "sourceQuestionId": "29295c3bcd18519",
+  "alvo": "Rótulo verdadeiro antigo (tipo 1) contra o dado que o derruba; classificação de diabetes, que ele errou no banco."
+ },
+ {
+  "id": "S11-END-03",
+  "simulado": 11,
+  "area": "Endocrinologia",
+  "titulo": "Fibrose tireoidiana que ultrapassa a cápsula com fibrose retroperitoneal e anti-TPO positivo: tireoidite de Riedel, glicocorticoide",
+  "arma": "Grade X / Y",
+  "comando": "diagnóstico",
+  "nivel": "extremamente difícil",
+  "enunciado": "Mulher de 47 anos refere aumento progressivo do pescoço há 10 meses, com rouquidão há 2 meses e dispneia ao deitar. Há 3 anos fez nefrostomia bilateral por hidronefrose causada por fibrose retroperitoneal, em acompanhamento. Exame: tireoide aumentada de forma difusa, pétrea, indolor, aderida aos planos profundos e sem mobilidade à deglutição; sem linfonodos palpáveis; afebril. TSH 7,8 mUI/L, T4 livre 0,9 ng/dL (referência 0,9 a 1,8), anti-TPO 210 UI/mL (referência até 35), VHS 32 mm/h. Duas punções aspirativas foram não diagnósticas por material acelular. A biópsia incisional mostrou fibrose densa hialinizada que ultrapassa a cápsula e invade a musculatura pré-tireoidiana, flebite oclusiva e infiltrado linfoplasmocitário com mais de 30 plasmócitos IgG4 positivos por campo, sem atipias. O diagnóstico e o tratamento clínico de primeira linha são, respectivamente:",
+  "alternativas": {
+   "A": "Hashimoto fibrosante / levotiroxina",
+   "B": "Tireoidite de Riedel / prednisona",
+   "C": "Carcinoma anaplásico / quimiorradioterapia",
+   "D": "Linfoma primário da tireoide / R-CHOP"
+  },
+  "gabarito": "B",
+  "armadilha": "A",
+  "dado_decisivo": "fibrose densa hialinizada que ultrapassa a cápsula",
+  "resolucao": "Anti-TPO alto e TSH elevado são verdadeiros e puxam para Hashimoto na variante fibrosante, que também dá bócio firme. O dado que separa está na biópsia: na variante fibrosante de Hashimoto a fibrose fica contida dentro da cápsula; na tireoidite de Riedel ela ultrapassa a cápsula e invade as estruturas vizinhas, com flebite oclusiva. A fibrose retroperitoneal prévia e os plasmócitos IgG4 positivos completam o quadro de fibrose multifocal da doença relacionada a IgG4, da qual Riedel faz parte. A punção acelular é esperada num tecido tão fibroso, e por isso a biópsia incisional foi necessária. O tratamento de primeira linha é o glicocorticoide (prednisona), com tamoxifeno como alternativa ou adjuvante e rituximabe nos refratários; levotiroxina corrige o hipotireoidismo, mas não trata a fibrose, e cirurgia limita-se a desobstruir a via aérea (istmectomia).",
+  "comentarios": {
+   "A": "Errada. É a armadilha: anti-TPO e TSH alto são verdadeiros, mas na variante fibrosante de Hashimoto a fibrose não ultrapassa a cápsula; levotiroxina não age na fibrose invasiva.",
+   "B": "Correta. Fibrose que invade além da cápsula, flebite oclusiva, IgG4 e fibrose retroperitoneal: Riedel, tratada inicialmente com glicocorticoide.",
+   "C": "Errada. O anaplásico cresce em semanas, em idosos, e a biópsia mostra células com atipia acentuada, fusiformes e gigantes; aqui não há atipias.",
+   "D": "Errada. Linfoma tireoidiano surge sobre Hashimoto com crescimento rápido e infiltrado linfoide monoclonal; a biópsia mostra fibrose, e não população linfoide monoclonal."
+  },
+  "para_levar": "Bócio pétreo, fixo e invasivo com punção acelular: biópsia incisional. Fibrose além da cápsula e fibrose retroperitoneal associada é Riedel (espectro IgG4), tratada com glicocorticoide.",
+  "referencias": "Khosroshahi e cols., International Consensus Guidance Statement on the Management and Treatment of IgG4-Related Disease (Arthritis Rheumatol 2015); Critérios de classificação ACR/EULAR 2019 da doença relacionada a IgG4.",
+  "tags": [
+   "Tireoidites (CM)",
+   "Doença por IgG4 (CM)"
+  ],
+  "sourceQuestionId": "13d505f5cb8e6fb",
+  "alvo": "Rótulo verdadeiro (anti-TPO) contra o achado que discrimina; IgG4 é tema UERJ recorrente."
+ },
+ {
+  "id": "S11-END-04",
+  "simulado": 11,
+  "area": "Endocrinologia",
+  "titulo": "Calcitonina detectável abaixo de 150 pg/mL após tireoidectomia por carcinoma medular: ultrassonografia cervical, e não estadiamento sistêmico",
+  "arma": "Limiar",
+  "comando": "próximo exame",
+  "nivel": "difícil",
+  "enunciado": "Homem de 44 anos foi submetido, há 4 meses, a tireoidectomia total com esvaziamento do compartimento central por carcinoma medular esporádico de 2,1 cm (pesquisa germinativa de RET negativa), com 2 de 14 linfonodos centrais comprometidos. Antes da cirurgia, a calcitonina era de 1.240 pg/mL e o CEA de 18 ng/mL. Está assintomático, em uso de levotiroxina 125 µg/dia, com TSH de 1,6 mUI/L e cálcio normal. Exame cervical sem nódulos palpáveis. Exames atuais: calcitonina 86 pg/mL (referência abaixo de 10) e CEA 4,1 ng/mL (referência abaixo de 5). O exame mais adequado neste momento é:",
+  "alternativas": {
+   "A": "Pesquisa de corpo inteiro com iodo-131",
+   "B": "PET-CT com FDG de corpo inteiro",
+   "C": "TC de tórax e RM de fígado",
+   "D": "Ultrassonografia cervical"
+  },
+  "gabarito": "D",
+  "armadilha": "C",
+  "dado_decisivo": "calcitonina 86 pg/mL",
+  "resolucao": "Calcitonina ainda detectável após a cirurgia indica doença residual, e o reflexo é estadiar o corpo todo, que é a armadilha. No carcinoma medular, o nível pós-operatório guia a extensão da busca: abaixo de 150 pg/mL, a doença persistente está quase sempre no pescoço, e o exame indicado é a ultrassonografia cervical, seguida de calcitonina e CEA a cada 6 meses para calcular o tempo de duplicação. Acima de 150 pg/mL, aí sim, procuram-se metástases a distância com TC de pescoço e tórax, RM ou TC trifásica de fígado e RM de coluna e pelve ou cintilografia óssea. A queda de 1.240 para 86 pg/mL e o CEA normalizado reforçam doença de baixo volume. Iodo radioativo não tem papel, porque a célula C não capta iodo.",
+  "comentarios": {
+   "A": "Errada. Pesquisa com iodo-131 serve ao carcinoma diferenciado de origem folicular; a célula C do medular não concentra iodo.",
+   "B": "Errada. PET com FDG tem baixa sensibilidade no medular de baixo volume e fica para doença avançada com duplicação rápida dos marcadores.",
+   "C": "Errada. É a armadilha: o estadiamento sistêmico é a conduta quando a calcitonina pós-operatória passa de 150 pg/mL; com 86, a busca começa no pescoço.",
+   "D": "Correta. Calcitonina detectável, mas abaixo de 150 pg/mL: ultrassonografia cervical e seguimento dos marcadores a cada 6 meses."
+  },
+  "para_levar": "Carcinoma medular operado: calcitonina indetectável é cura bioquímica; detectável abaixo de 150 pg/mL, ultrassonografia cervical; acima de 150, imagem sistêmica.",
+  "referencias": "ATA 2015 (Revised Guidelines for the Management of Medullary Thyroid Carcinoma); NCCN Thyroid Carcinoma 2025.",
+  "tags": [
+   "Nódulos Tireoideanos (CM)"
+  ],
+  "sourceQuestionId": "07f9121ec6efad2",
+  "alvo": "Limiar que decide o porte do exame; padrão de fazer mais (estadiar o corpo todo) e calcitonina como produto do medular, que ele errou."
+ },
+ {
+  "id": "S11-END-05",
+  "simulado": 11,
+  "area": "Endocrinologia",
+  "titulo": "Sela parcialmente vazia achada em ressonância de cefaleia, sem sinais clínicos: avaliação hormonal basal e nenhuma nova imagem",
+  "arma": "Omissão",
+  "comando": "próximo exame",
+  "nivel": "média",
+  "enunciado": "Mulher de 49 anos, hipertensa e obesa (IMC 36 kg/m²), fez ressonância de crânio para investigar cefaleia tensional de longa data, que melhorou com amitriptilina. O laudo descreve sela túrcica parcialmente vazia, com haste centrada e hipófise de 3 mm rechaçada contra o assoalho, sem lesões. Está na menopausa há 2 anos, amamentou os dois filhos sem dificuldade e não tem fadiga, poliúria, galactorreia nem alteração visual. PA 138 x 86 mmHg, FC 76 bpm; fundoscopia sem papiledema e campos visuais normais à confrontação. Sódio 139 mEq/L, glicemia 98 mg/dL. Ela traz o laudo preocupada com um tumor. O passo mais adequado é:",
+  "alternativas": {
+   "A": "Avaliação hormonal basal da hipófise",
+   "B": "Nova ressonância de sela em 12 meses",
+   "C": "Campimetria computadorizada seriada",
+   "D": "Punção lombar com manometria"
+  },
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "sela túrcica parcialmente vazia, com haste centrada",
+  "resolucao": "Um achado de imagem na sela costuma gerar a vontade de repetir a imagem, e essa é a armadilha. A sela parcialmente vazia é achado frequente em ressonâncias, sobretudo em mulheres obesas e hipertensas, e não é tumor nem tende a progredir; por isso não se programa nova ressonância. O que se recomenda é uma avaliação hormonal basal (cortisol às 8 horas, TSH e T4 livre, prolactina, IGF-1 e gonadotrofinas, que na menopausa devem estar altas e, se normais ou baixas, denunciam deficiência gonadotrófica), porque uma minoria tem hipopituitarismo parcial. Campimetria só se houver queixa visual ou herniação do quiasma, ausente aqui, e punção lombar só se houver papiledema ou sintomas de hipertensão intracraniana idiopática, que a fundoscopia normal e a cefaleia tensional controlada afastam. Com hormônios normais, ela recebe alta da investigação.",
+  "comentarios": {
+   "A": "Correta. Sela vazia primária assintomática pede só a triagem hormonal basal; se normal, não há seguimento de imagem.",
+   "B": "Errada. É a armadilha: repetir imagem é o seguimento do microadenoma ou macroadenoma não funcionante; sela vazia não progride.",
+   "C": "Errada. Campimetria seria indicada com queixa visual ou herniação do quiasma na imagem; o campo é normal à confrontação.",
+   "D": "Errada. Manometria liquórica investiga hipertensão intracraniana idiopática, que exige papiledema ou sintomas compatíveis; aqui não há."
+  },
+  "para_levar": "Sela vazia primária achada sem sintomas: triagem hormonal basal e nada mais. Não é tumor e não pede imagem de controle.",
+  "referencias": "Endocrine Society 2011 (Pituitary Incidentaloma); Endocrine Society 2016 (Hormonal Replacement in Hypopituitarism in Adults).",
+  "tags": [
+   "Hipófise (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Omissão: fazer mais do que o caso pede (imagem de controle e exame do degrau seguinte)."
+ }
 ]
