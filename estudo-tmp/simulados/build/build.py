@@ -175,6 +175,12 @@ def resolucao_html(n, qs, data):
     return pagina(f'Simulado UERJ {n} · Resolução', corpo)
 
 
+def tempo(k):
+    m = k * 3
+    h, r = divmod(m, 60)
+    return f'{h} horas' + (f' e {r} minutos' if r else '')
+
+
 def caderno_html(n, qs, data):
     corpo = capa(n, 'Caderno de questões',
                  'Prova inédita no formato da UERJ: quatro alternativas, casos longos e a armadilha da banca em cada questão.',
@@ -182,7 +188,7 @@ def caderno_html(n, qs, data):
     corpo += f'''<section class="pg"><div class="kicker azul">ANTES DE COMEÇAR</div><h2>Instruções</h2>
 <ul class="instr">
 <li>São {len(qs)} questões de Clínica Médica, com quatro alternativas cada (A a D) e uma única correta.</li>
-<li>Tempo sugerido: 4 horas, sem consulta, de uma vez só.</li>
+<li>Tempo sugerido: {tempo(len(qs))}, sem consulta, de uma vez só.</li>
 <li>Marque as respostas na folha de respostas da última página, e só depois abra a resolução.</li>
 <li>Nas questões de identificar, faça o teste do resto: liste os achados e veja se a hipótese explica todos. Antes de pedir exame ou tratamento, pergunte qual é o degrau mais simples que resolve e o que o paciente já usa.</li>
 <li>Na correção, anote em qual arma da banca você caiu. É isso que vai para o diagnóstico, não o total.</li>
@@ -197,7 +203,7 @@ def caderno_html(n, qs, data):
 
 
 def main():
-    data = '15 de outubro de 2026'
+    data = os.environ.get('DATA', '15 de outubro de 2026')
     todos_ok = True
     for n in (int(x) for x in (sys.argv[1:] or ['2', '3', '4', '5'])):
         qs = carregar(n)

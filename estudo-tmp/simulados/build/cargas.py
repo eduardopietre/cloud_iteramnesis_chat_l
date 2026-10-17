@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Gera os argumentos de iterq_create (lotes de 20) a partir de out/simulado{n}.json,
 na ordem final do simulado."""
-import json, os
+import json, os, sys
 
 BASE = os.path.dirname(os.path.abspath(__file__))
 PEDIDO = ("Agora, quero que se inspire nesse modelo E gere mais 4 simulados pareados com resoluções "
@@ -9,8 +9,9 @@ PEDIDO = ("Agora, quero que se inspire nesse modelo E gere mais 4 simulados pare
           "Inspire-se nas que já fizemos. Adicione as questões criadas também via MCP, usando o bypass se "
           "necessário para criar questões livremente. [Escolheu: 4 alternativas, igual à UERJ; um grupo por simulado]")
 os.makedirs(os.path.join(BASE, 'cargas'), exist_ok=True)
-for n in (2, 3, 4, 5):
-    qs = json.load(open(os.path.join(BASE, 'out', f'simulado{n}.json')))
+OUTD = os.environ.get('OUT_DIR', os.path.join(BASE, 'out'))
+for n in [int(x) for x in sys.argv[1:]] or [2, 3, 4, 5]:
+    qs = json.load(open(os.path.join(OUTD, f'simulado{n}.json')))
     itens = []
     for q in qs:
         alts = []
