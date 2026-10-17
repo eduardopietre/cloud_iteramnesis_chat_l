@@ -58,10 +58,11 @@
    "D": "Errada. É a armadilha: a citologia não diferencia adenoma de carcinoma e a punção pode disseminar células no trajeto; está contraindicada na suspeita de carcinoma."
   },
   "para_levar": "Cálcio acima de 14, PTH acima de 3 a 5 vezes o normal e massa cervical palpável: suspeite de carcinoma de paratireoide, não puncione e opere em bloco com o lobo tireoidiano ipsilateral.",
-  "referencias": "Fifth International Workshop on Primary Hyperparathyroidism 2022; NCCN Neuroendocrine and Adrenal Tumors 2025 (parathyroid carcinoma); AAES 2016 (Guidelines for definitive management of primary hyperparathyroidism).",
+  "referencias": "Fifth International Workshop on Primary Hyperparathyroidism, J Bone Miner Res 2022; AAES 2016 (Guidelines for definitive management of primary hyperparathyroidism, Wilhelm SM et al., JAMA Surg).",
   "tags": [
    "Hiperparatireoidismo Primário (Clínica Médica) (CM)",
-   "Hipercalcemias (CM)"
+   "Hipercalcemias (CM)",
+   "Paratireóides (CM)"
   ],
   "sourceQuestionId": "46fbcc28ebb219b",
   "alvo": "Limiar numérico (cálcio e PTH) e o reflexo de pedir o exame a mais (punção) quando ele é contraindicado."
@@ -126,7 +127,7 @@
    "D": "Errada. O aumento fisiológico da gestação regride após o parto e não causa insuficiência adrenal, cefaleia progressiva nem espessamento da haste."
   },
   "para_levar": "Hipopituitarismo no periparto sem hemorragia, com lactação preservada e hipófise aumentada de forma simétrica com haste espessada é hipofisite linfocítica; Sheehan pede hemorragia com choque e falha da lactação.",
-  "referencias": "Endocrine Society 2016 (Hormonal replacement in hypopituitarism); Joshi MN et al., Eur J Endocrinol 2017 (hypophysitis); Karaca Z et al., Nat Rev Dis Primers 2016 (Sheehan syndrome).",
+  "referencias": "Endocrine Society 2016 (Hormonal replacement in hypopituitarism in adults); Joshi MN et al., Eur J Endocrinol 2018 (Hypophysitis: diagnosis and treatment); Karaca Z et al., Nat Rev Dis Primers 2016 (Sheehan syndrome).",
   "tags": [
    "Hipófise (CM)",
    "Insuficiência Adrenal (CM)"
@@ -144,19 +145,19 @@
   "nivel": "difícil",
   "enunciado": "Homem de 68 anos está no 9º dia de UTI por choque séptico de foco pulmonar, em ventilação mecânica, com noradrenalina em redução, dieta enteral plena e hidrocortisona 200 mg/dia. Não tem doença tireoidiana prévia e não recebeu amiodarona nem contraste iodado. Nega cefaleia ou alterações visuais antes da internação. Exames: TSH 0,28 mUI/L (VR 0,4 a 4,0), T4 livre 0,82 ng/dL (VR 0,9 a 1,8), T3 total 38 ng/dL (VR 80 a 180), T3 reverso elevado, sódio 137 mEq/L, glicemia 152 mg/dL. O diagnóstico e a conduta mais adequados são, respectivamente:",
   "alternativas": {
-   "A": "Hipotireoidismo central / levotiroxina em dose baixa",
+   "A": "Eutireoidiano doente / repetir após a recuperação",
    "B": "Eutireoidiano doente / liotironina venosa",
-   "C": "Eutireoidiano doente / repetir após a recuperação",
+   "C": "Hipotireoidismo central / levotiroxina em dose baixa",
    "D": "Hipotireoidismo central / repetir após a recuperação"
   },
-  "gabarito": "C",
-  "armadilha": "A",
+  "gabarito": "A",
+  "armadilha": "C",
   "dado_decisivo": "T3 reverso elevado",
   "resolucao": "TSH baixo com T4 livre baixa é, fora da UTI, o desenho do hipotireoidismo central, e o reflexo é repor levotiroxina. No doente crítico, o mesmo desenho é adaptação: a inflamação inibe a deiodinase tipo 1 e desvia o T4 para T3 reverso (por isso o T3 cai muito e o T3 reverso sobe), a secreção hipotalâmica de TRH cai, e drogas comuns na UTI, como glicocorticoide e dopamina, suprimem ainda mais o TSH. O T3 reverso elevado é o dado que separa: no hipotireoidismo verdadeiro ele está baixo ou normal. Ensaios com reposição de T4 ou T3 nesses pacientes não mostraram benefício, e a conduta é não tratar e repetir a função tireoidiana semanas após a recuperação, quando o TSH pode até subir transitoriamente.",
   "comentarios": {
-   "A": "Errada. É a armadilha: o padrão imita o hipotireoidismo central, mas o T3 reverso alto, a sepse e a hidrocortisona explicam os números, e repor não traz benefício.",
+   "A": "Correta. T3 muito baixo com T3 reverso alto, TSH e T4 livre discretamente baixos na sepse e sob corticoide: eutireoidiano doente, sem reposição e com reavaliação após a recuperação.",
    "B": "Errada. O diagnóstico está certo, mas a liotironina não mostrou benefício no doente crítico e acrescenta risco de arritmia.",
-   "C": "Correta. T3 muito baixo com T3 reverso alto, TSH e T4 livre discretamente baixos na sepse e sob corticoide: eutireoidiano doente, sem reposição e com reavaliação após a recuperação.",
+   "C": "Errada. É a armadilha: o padrão imita o hipotireoidismo central, mas o T3 reverso alto, a sepse e a hidrocortisona explicam os números, e repor não traz benefício.",
    "D": "Errada. A conduta de reavaliar é a certa, mas o diagnóstico não: com T3 reverso alto e sem sintomas prévios de massa selar, não há base para chamar de hipotireoidismo central."
   },
   "para_levar": "Na doença grave, TSH e T4 livre baixos com T3 baixo e T3 reverso alto são adaptação (eutireoidiano doente): não reponha, repita após a recuperação.",

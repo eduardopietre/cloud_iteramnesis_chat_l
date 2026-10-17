@@ -5,7 +5,7 @@
   "area": "Gastroenterologia",
   "titulo": "Câncer gástrico difuso na mãe antes dos 50 e câncer lobular de mama na tia: teste germinativo para CDH1, apesar de endoscopia normal",
   "arma": "Rótulo verdadeiro",
-  "comando": "conduta",
+  "comando": "próximo exame",
   "nivel": "difícil",
   "enunciado": "Mulher de 32 anos procura avaliação porque a mãe morreu aos 44 anos de câncer gástrico do tipo difuso, com células em anel de sinete, e a tia materna teve carcinoma lobular de mama aos 47 anos. Assintomática. Fez endoscopia há 1 mês com biópsias aleatórias do estômago (6 fragmentos), todas normais, e pesquisa de Helicobacter pylori negativa. A irmã teve H. pylori erradicado no ano passado. O próximo passo mais adequado é:",
   "alternativas": {
@@ -105,29 +105,29 @@
   "id": "S15-GAS-04",
   "simulado": 15,
   "area": "Gastroenterologia",
-  "titulo": "Constipação refratária a laxativos com contração paradoxal do esfíncter no toque retal: manometria anorretal com teste de expulsão do balão",
+  "titulo": "Constipação refratária a laxativos com contração paradoxal do esfíncter ao esforço: dissinergia evacuatória, e não trânsito lento",
   "arma": "Rótulo verdadeiro",
-  "comando": "próximo exame",
+  "comando": "diagnóstico",
   "nivel": "difícil",
-  "enunciado": "Mulher de 38 anos tem constipação há 4 anos, sem sangramento, anemia ou perda de peso. Colonoscopia aos 36 anos normal; TSH, cálcio e glicemia normais; sem medicações constipantes. Usou fibras, polietilenoglicol em dose plena e bisacodil por 3 meses, sem melhora. Evacua 2 vezes por semana, com esforço intenso, sensação de bloqueio anal e necessidade de pressionar o períneo para evacuar, mesmo com fezes amolecidas. Toque retal: tônus de repouso normal; ao pedir que faça força para evacuar, o esfíncter anal se contrai e o períneo não desce. O exame mais adequado neste momento é:",
+  "enunciado": "Mulher de 38 anos tem constipação há 4 anos, sem sangramento, anemia ou perda de peso. Colonoscopia aos 36 anos normal; TSH, cálcio e glicemia normais; sem medicações constipantes. Usou fibras, polietilenoglicol em dose plena e bisacodil por 3 meses, sem melhora. Evacua 2 vezes por semana, com esforço intenso, sensação de bloqueio anal e necessidade de pressionar o períneo para evacuar, mesmo com fezes amolecidas. Nega dor abdominal relacionada às evacuações. Toque retal: tônus de repouso normal, sem abaulamento da parede anterior do reto; ao pedir que faça força para evacuar, o esfíncter anal se contrai e o períneo não desce. O diagnóstico mais provável é:",
   "alternativas": {
-   "A": "Tempo de trânsito colônico com marcadores",
-   "B": "Nova colonoscopia",
-   "C": "Defecografia por ressonância",
-   "D": "Manometria anorretal com expulsão de balão"
+   "A": "Constipação de trânsito lento",
+   "B": "Síndrome do intestino irritável com constipação",
+   "C": "Retocele sintomática",
+   "D": "Dissinergia evacuatória"
   },
   "gabarito": "D",
   "armadilha": "A",
   "dado_decisivo": "o esfíncter anal se contrai e o períneo não desce",
-  "resolucao": "Constipação que não responde a laxativos osmóticos e estimulantes recebe o rótulo de constipação de trânsito lento, e o tempo de trânsito colônico parece o exame natural. Mas a dificuldade aqui é de saída: esforço intenso mesmo com fezes moles, sensação de bloqueio, manobra digital no períneo e, no toque, contração paradoxal do esfíncter com o períneo que não desce ao fazer força. Isso é dissinergia evacuatória, e a investigação começa pela manometria anorretal com teste de expulsão do balão; o trânsito colônico só se interpreta depois de afastar a dissinergia, que por si só lentifica o trânsito. A defecografia fica para resultado discordante ou suspeita de alteração estrutural (retocele, intussuscepção). Confirmada a dissinergia, o tratamento é biofeedback, e não mais laxativo.",
+  "resolucao": "Constipação que não responde a laxativos osmóticos e estimulantes recebe o rótulo de trânsito lento, e a falha dos laxativos é real. Mas a queixa aqui é de saída: esforço intenso mesmo com fezes moles, sensação de bloqueio, necessidade de pressionar o períneo e, no toque, contração paradoxal do esfíncter com o períneo que não desce ao fazer força. Isso é dissinergia evacuatória, distúrbio funcional da evacuação em que a musculatura do assoalho pélvico se contrai em vez de relaxar; ela própria lentifica o trânsito, por isso um estudo de trânsito feito antes engana. A confirmação é pela manometria anorretal com teste de expulsão do balão, e o tratamento é biofeedback, e não mais laxativo. A síndrome do intestino irritável exige dor abdominal ligada às evacuações, que ela nega, e a retocele daria abaulamento da parede anterior do reto ao esforço, ausente no toque.",
   "comentarios": {
-   "A": "Errada. É a armadilha: o trânsito lento é investigado depois de afastar a dissinergia, que também lentifica o trânsito e confunde o resultado.",
-   "B": "Errada. Sem sinais de alarme e com colonoscopia recente normal, não há indicação.",
-   "C": "Errada. É exame de segunda linha, para teste inicial discordante ou suspeita de alteração anatômica.",
-   "D": "Correta. Sintomas de saída e contração paradoxal no toque: manometria anorretal com expulsão do balão confirma dissinergia, que se trata com biofeedback."
+   "A": "Errada. É a armadilha: a falha dos laxativos é verdadeira, mas os sintomas são de saída e o toque mostra contração paradoxal; a dissinergia também lentifica o trânsito e confunde esse diagnóstico.",
+   "B": "Errada. Exige dor abdominal recorrente relacionada às evacuações; ela nega dor, e o problema está na saída.",
+   "C": "Errada. Daria abaulamento da parede anterior do reto ao esforço, às vezes com necessidade de apoio vaginal; o toque não mostra abaulamento e sim contração paradoxal do esfíncter.",
+   "D": "Correta. Esforço, bloqueio, manobra perineal e contração paradoxal do esfíncter com períneo que não desce: dissinergia, a confirmar por manometria com expulsão do balão e tratar com biofeedback."
   },
-  "para_levar": "Constipação refratária com esforço, bloqueio e manobras digitais: manometria anorretal com expulsão do balão antes do trânsito colônico; dissinergia trata-se com biofeedback.",
-  "referencias": "AGA Technical Review on Constipation (2013); AGA-ACG Clinical Practice Guideline: Pharmacological Management of Chronic Idiopathic Constipation (2023)",
+  "para_levar": "Constipação refratária com esforço, bloqueio e manobras manuais, e contração paradoxal do esfíncter no toque: dissinergia evacuatória; confirma-se com manometria anorretal e expulsão do balão e trata-se com biofeedback, não com mais laxativo.",
+  "referencias": "AGA Technical Review on Constipation (2013); ACG Clinical Guidelines: Management of Benign Anorectal Disorders (2021)",
   "tags": [
    "Constipação (CM)"
   ],
@@ -212,23 +212,23 @@
   "nivel": "difícil",
   "enunciado": "Homem de 69 anos, com adenocarcinoma de cabeça de pâncreas que envolve 270 graus da artéria mesentérica superior (localmente avançado e irressecável), sem metástases, ECOG 1, apresenta icterícia com bilirrubina de 14 mg/dL e prurido, sem febre ou colangite. A oncologia programa quimioterapia com FOLFIRINOX, com expectativa de vida estimada em mais de 6 meses. O tipo de prótese biliar e a via de colocação mais adequados são, respectivamente:",
   "alternativas": {
-   "A": "Metálica / percutânea transparieto-hepática",
-   "B": "Plástica / percutânea transparieto-hepática",
-   "C": "Metálica autoexpansível / por CPRE",
-   "D": "Plástica / por CPRE"
+   "A": "Metálica / via percutânea",
+   "B": "Plástica / via percutânea",
+   "C": "Metálica / via endoscópica (CPRE)",
+   "D": "Plástica / via endoscópica (CPRE)"
   },
   "gabarito": "C",
   "armadilha": "D",
   "dado_decisivo": "com expectativa de vida estimada em mais de 6 meses",
   "resolucao": "A prótese plástica por CPRE é a mais lembrada, barata e fácil de trocar, e atrai. Mas na obstrução biliar distal maligna com expectativa de vida acima de 3 meses, especialmente quando a quimioterapia vai começar, a prótese metálica autoexpansível é preferida: permanece pérvia por muito mais tempo, reduz colangite e reintervenções e evita interrupções da quimioterapia por oclusão. A via de escolha é a endoscópica (CPRE), com menos complicações e mais conforto que a drenagem percutânea, que fica para falha ou impossibilidade da CPRE (por exemplo, obstrução duodenal ou anatomia alterada). Drenar antes do FOLFIRINOX é necessário, porque a quimioterapia exige bilirrubina próxima do normal.",
   "comentarios": {
-   "A": "Errada. A prótese está certa, mas a via percutânea é para falha ou impossibilidade da CPRE.",
+   "A": "Errada. A prótese está certa, mas a via percutânea (ou a drenagem guiada por ecoendoscopia) é para falha ou impossibilidade da CPRE.",
    "B": "Errada. Prótese plástica e via percutânea: as duas escolhas inferiores para este paciente.",
    "C": "Correta. Obstrução distal maligna com sobrevida esperada acima de 3 meses e quimioterapia programada: prótese metálica autoexpansível por CPRE.",
    "D": "Errada. É a armadilha: a plástica oclui em poucos meses, causa colangite e interrompe a quimioterapia; serve para sobrevida curta ou diagnóstico incerto."
   },
   "para_levar": "Obstrução biliar distal maligna: prótese metálica autoexpansível por CPRE quando a sobrevida esperada passa de 3 meses; via percutânea só se a CPRE falhar.",
-  "referencias": "ESGE Guideline: Endoscopic biliary stenting: indications, choice of stents and results (2018, atualização); ASGE Guideline on the role of endoscopy in malignant distal biliary obstruction (2023)",
+  "referencias": "ESGE Guideline: Endoscopic biliary stenting: indications, choice of stents, and results (2018); NCCN Pancreatic Adenocarcinoma (2025)",
   "tags": [
    "185 Pancreatic Cancer",
    "Cuidados Paliativos - Oncologia (CM)"

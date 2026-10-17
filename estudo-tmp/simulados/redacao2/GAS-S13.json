@@ -25,7 +25,7 @@
    "D": "Errada. Sem etilismo, sem esteatorreia e sem calcificações na TC; a dor não teria esse padrão estrito pós-prandial."
   },
   "para_levar": "Dor abdominal 20 a 30 minutos após comer, medo de comer e emagrecimento em paciente vascular: isquemia mesentérica crônica até prova em contrário; angiotomografia confirma.",
-  "referencias": "ESVS 2017 Clinical Practice Guidelines on the Management of Diseases of Mesenteric Arteries and Veins; ACG Clinical Guideline: Epidemiology, Risk Factors, Patterns of Presentation, Diagnosis, and Management of Colon Ischemia and mesenteric ischemia (2015)",
+  "referencias": "ESVS 2017 Clinical Practice Guidelines on the Management of the Diseases of Mesenteric Arteries and Veins (Björck M et al., Eur J Vasc Endovasc Surg, 2017)",
   "tags": [
    "134 Vascular Diseases of the Gastrointestinal Tract",
    "Intestino (CM)"
@@ -126,7 +126,7 @@
    "D": "Errada. É a armadilha: MELD acima de 15 indicaria encaminhamento, mas este valor não reflete a função hepática."
   },
   "para_levar": "O MELD não vale em quem usa antagonista da vitamina K: o INR do anticoagulante superestima o escore.",
-  "referencias": "AASLD Practice Guideline: Evaluation for liver transplantation in adults (2013, atualização 2021); Kamath PS, Kim WR. The model for end-stage liver disease (MELD). Hepatology (2007)",
+  "referencias": "AASLD/AST Practice Guideline: Evaluation for liver transplantation in adults (2013); Kamath PS, Kim WR. The model for end-stage liver disease (MELD). Hepatology (2007)",
   "tags": [
    "Conceitos e Avaliação Geral do Paciente Cirrótico (CM)",
    "145 Hepatic Failure and Liver Transplantation"
@@ -138,35 +138,36 @@
   "id": "S13-GAS-05",
   "simulado": 13,
   "area": "Gastroenterologia",
-  "titulo": "Colecistite aguda calculosa no segundo trimestre: colecistectomia videolaparoscópica na mesma internação",
+  "titulo": "Febre, leucopenia e aminotransferases em milhares com bilirrubina quase normal no terceiro trimestre: hepatite por herpes simples, e não esteatose aguda da gestação",
   "arma": "Rótulo verdadeiro",
-  "comando": "conduta",
+  "comando": "etiologia",
   "nivel": "difícil",
-  "enunciado": "Gestante de 27 anos, com 20 semanas, tem dor em hipocôndrio direito há 30 horas, febre de 38,2 °C e vômitos. É a segunda internação por dor biliar nesta gestação. Sinal de Murphy positivo. Leucócitos 17.000/mm³, bilirrubina 0,8 mg/dL, fosfatase alcalina e GGT dentro da faixa da gestação, lipase normal. Ultrassonografia: vesícula distendida, parede de 6 mm, cálculo impactado no infundíbulo, líquido perivesicular, colédoco de 4 mm. Avaliação obstétrica: feto vivo, sem contrações. Além do antibiótico, a conduta mais adequada é:",
+  "enunciado": "Gestante de 31 anos, primigesta, com 32 semanas, procura a emergência por febre de 39,1 °C há 4 dias, mialgia, odinofagia e dor em hipocôndrio direito. Nega prurido, cefaleia e escotomas. Pré-natal sem intercorrências; usa apenas sulfato ferroso e nega paracetamol. Sem lesões orais ou genitais ao exame. PA 112x68 mmHg, FC 112 bpm, sem edema, sem asterixe. Exames: AST 4.850 U/L, ALT 3.920 U/L, bilirrubina total 1,1 mg/dL, leucócitos 2.300/mm³, plaquetas 96.000/mm³, INR 1,6, glicemia 88 mg/dL, creatinina 0,7 mg/dL, haptoglobina normal, esfregaço sem esquistócitos, proteinúria negativa. Anti-HAV IgM, HBsAg, anti-HBc IgM e anti-HCV não reagentes. Ultrassonografia: fígado de tamanho normal, sem esteatose, vias biliares normais; feto com vitalidade preservada. A etiologia mais provável da hepatite é:",
   "alternativas": {
-   "A": "Colecistectomia videolaparoscópica nesta internação",
-   "B": "Tratamento clínico e colecistectomia após o parto",
-   "C": "Colecistostomia percutânea",
-   "D": "CPRE com papilotomia"
+   "A": "Hepatite por herpes simples",
+   "B": "Esteatose hepática aguda da gestação",
+   "C": "Síndrome HELLP",
+   "D": "Hepatite aguda pelo vírus E"
   },
   "gabarito": "A",
   "armadilha": "B",
-  "dado_decisivo": "É a segunda internação por dor biliar nesta gestação",
-  "resolucao": "A gestação é o rótulo que faz adiar a cirurgia, como se operar fosse o risco maior. Mas o tratamento conservador da doença biliar sintomática na gestação tem alta taxa de recorrência (esta já é a segunda internação), e cada novo episódio, com nova colecistite, pancreatite ou coledocolitíase, traz mais risco de parto prematuro e perda fetal do que a própria cirurgia. A colecistectomia videolaparoscópica é segura em qualquer trimestre e o segundo é o momento ideal, por isso a recomendação é operar na mesma internação. Colecistostomia é para o paciente grave que não tolera cirurgia, e a CPRE só se houver coledocolitíase ou colangite, ausentes aqui (bilirrubina normal e colédoco de 4 mm).",
+  "dado_decisivo": "bilirrubina total 1,1 mg/dL, leucócitos 2.300/mm³",
+  "resolucao": "Terceiro trimestre, plaquetopenia e INR alargado formam o cenário em que se pensa primeiro nas doenças hepáticas próprias da gestação, e a esteatose aguda é a que mais atrai pela coagulopatia. Mas as doenças da gestação raramente levam as aminotransferases a milhares: na esteatose aguda e na HELLP elas costumam ficar abaixo de 1.000 U/L, a esteatose aguda traz bilirrubina alta, hipoglicemia e lesão renal (ausentes aqui), e a HELLP exige hemólise e em geral hipertensão (haptoglobina normal, sem esquistócitos, PA normal). Febre alta com pródromo viral, leucopenia, plaquetopenia e aminotransferases em milhares com bilirrubina quase normal (hepatite anictérica) é o desenho da hepatite por herpes simples, que na gestação, sobretudo no terceiro trimestre, tende à forma disseminada e grave, e em boa parte dos casos sem lesão mucocutânea. O diagnóstico muda a conduta: aciclovir intravenoso empírico imediato, sem esperar a PCR para herpes no sangue, porque a mortalidade materna e fetal sem tratamento é alta; e, ao contrário da esteatose aguda e da HELLP, antecipar o parto não trata a doença. A hepatite E grave da gestante é ictérica, com bilirrubina alta.",
   "comentarios": {
-   "A": "Correta. Colecistite calculosa na gestação, especialmente no segundo trimestre: colecistectomia videolaparoscópica precoce.",
-   "B": "Errada. É a armadilha: adiar até o parto aumenta recorrência, complicações e perda fetal; a recorrência já aconteceu.",
-   "C": "Errada. Fica para paciente instável ou de altíssimo risco cirúrgico, o que não é o caso.",
-   "D": "Errada. Não há coledocolitíase nem colangite; colédoco de 4 mm e bilirrubina normal."
+   "A": "Correta. Febre, leucopenia, plaquetopenia e aminotransferases em milhares com bilirrubina de 1,1 mg/dL: hepatite herpética anictérica, que pede aciclovir intravenoso empírico já.",
+   "B": "Errada. É a armadilha: coagulopatia no terceiro trimestre atrai, mas a esteatose aguda traz bilirrubina alta, hipoglicemia e lesão renal, com aminotransferases em geral abaixo de 1.000.",
+   "C": "Errada. Seria a resposta com hipertensão, hemólise (esquistócitos, haptoglobina baixa) e aminotransferases em geral abaixo de 1.000; PA e haptoglobina normais a afastam.",
+   "D": "Errada. Seria lembrada na gestante vinda de área endêmica do genótipo 1, com hepatite grave e ictérica; bilirrubina quase normal com febre alta e leucopenia não combinam."
   },
-  "para_levar": "Doença biliar sintomática na gestação: colecistectomia videolaparoscópica em qualquer trimestre, idealmente no segundo; adiar aumenta o risco.",
-  "referencias": "SAGES Guidelines for the Use of Laparoscopy During Pregnancy (2017); Tokyo Guidelines 2018",
+  "para_levar": "Gestante com febre, leucopenia e aminotransferases em milhares com pouca icterícia: hepatite por herpes simples até prova em contrário; aciclovir intravenoso empírico sem esperar a PCR, e o parto não é o tratamento.",
+  "referencias": "EASL Clinical Practical Guidelines on the management of acute (fulminant) liver failure (2017); ACG Clinical Guideline: Liver Disease and Pregnancy (2016)",
   "tags": [
-   "Colecistite",
+   "Herpes Simples (CM)",
+   "Insuficiência Hepática Aguda (CM)",
    "226 Common Medical Problems in Pregnancy"
   ],
   "sourceQuestionId": null,
-  "alvo": "Rótulo verdadeiro (gestação) que puxa para a omissão errada."
+  "alvo": "Rótulo verdadeiro (gestação, coagulopatia) que puxa para a doença própria da gestação; exame que decide (bilirrubina, leucócitos) lido como enfeite."
  },
  {
   "id": "S13-GAS-06",
@@ -213,19 +214,19 @@
   "enunciado": "Mulher de 56 anos tratou há 5 anos carcinoma ductal invasivo de mama com receptor de estrogênio positivo e HER2 1+, seguido de 5 anos de hormonioterapia. Agora apresenta metástases hepáticas múltiplas, sem crise visceral, com bilirrubina e enzimas normais. Biópsia hepática: carcinoma de origem mamária, receptor de estrogênio positivo em 80%, receptor de progesterona negativo e HER2 escore 2+ na imuno-histoquímica. A equipe cogita trastuzumabe, pertuzumabe e taxano por considerar o tumor HER2 positivo. O próximo exame mais adequado é:",
   "alternativas": {
    "A": "Painel genômico de 21 genes",
-   "B": "Hibridização in situ para HER2",
+   "B": "Pesquisa de mutação de PIK3CA",
    "C": "Nova imuno-histoquímica no tumor primário",
-   "D": "Pesquisa de mutação de PIK3CA"
+   "D": "Hibridização in situ para HER2"
   },
-  "gabarito": "B",
+  "gabarito": "D",
   "armadilha": "C",
   "dado_decisivo": "HER2 escore 2+ na imuno-histoquímica",
   "resolucao": "O escore 2+ soa como positivo, e a equipe já planeja o duplo bloqueio anti-HER2. Mas na imuno-histoquímica só o escore 3+ é positivo; o 2+ é equívoco e exige hibridização in situ (FISH ou outra técnica) para mostrar se há amplificação do gene. Se houver, o tumor é HER2 positivo e a primeira linha é o duplo bloqueio com taxano; se não houver, o tumor é HER2 baixo, que na primeira linha segue como luminal (hormonioterapia com inibidor de CDK4/6) e mais adiante pode receber trastuzumabe deruxtecana. A metástase deve ser biopsiada justamente porque o status pode mudar em relação ao primário, por isso repetir o primário não resolve. Painel de 21 genes é ferramenta de decisão adjuvante, e a pesquisa de PIK3CA entra depois da progressão à primeira linha hormonal.",
   "comentarios": {
    "A": "Errada. O painel de 21 genes orienta quimioterapia adjuvante na doença inicial, não a doença metastática.",
-   "B": "Correta. HER2 2+ é equívoco; a hibridização in situ define amplificação e, portanto, a terapia.",
+   "B": "Errada. É útil após progressão à hormonioterapia de primeira linha; não resolve o status HER2.",
    "C": "Errada. É a armadilha: o status da metástase é o que vale, porque pode divergir do primário; repetir o primário não define o tratamento atual.",
-   "D": "Errada. É útil após progressão à hormonioterapia de primeira linha; não resolve o status HER2."
+   "D": "Correta. HER2 2+ é equívoco; a hibridização in situ define amplificação e, portanto, a terapia."
   },
   "para_levar": "HER2 na imuno-histoquímica: 3+ positivo, 0 e 1+ negativos, 2+ equívoco e obriga hibridização in situ.",
   "referencias": "ASCO/CAP Guideline Update: HER2 testing in breast cancer (2023); ESMO Metastatic Breast Cancer Living Guideline (2024)",

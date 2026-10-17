@@ -41,7 +41,7 @@
   "arma": "Droga a deduzir",
   "comando": "etiologia",
   "nivel": "difícil",
-  "enunciado": "Mulher de 76 anos é trazida pela filha por palpitações há 3 semanas. Foi operada da tireoide há 22 anos por \"caroço benigno\" e desde então toma \"um comprimido em jejum\". Há 4 meses, ao queixar-se de cansaço a outro médico, \"o comprimido de jejum foi trocado por um mais forte\". Perdeu 3 kg e anda mais ansiosa. Exame: FC 118 bpm irregular, PA 138 x 76 mmHg, cicatriz cervical antiga, sem bócio ou nódulo palpável, sem oftalmopatia, tremor fino. ECG: fibrilação atrial. Exames: TSH 0,02 mUI/L (VR 0,4 a 4,0), T4 livre 2,1 ng/dL (VR 0,9 a 1,8), T3 livre no limite superior, tireoglobulina sérica indetectável com anticorpo antitireoglobulina negativo, VHS normal. A causa mais provável da tireotoxicose é:",
+  "enunciado": "Mulher de 76 anos é trazida pela filha por palpitações há 3 semanas. Foi operada da tireoide há 22 anos (retirada de um dos lobos por \"caroço benigno\") e desde então toma \"um comprimido em jejum\". Há 4 meses, ao queixar-se de cansaço a outro médico, teve todas as receitas refeitas. Perdeu 3 kg e anda mais ansiosa. Exame: FC 118 bpm irregular, PA 138 x 76 mmHg, cicatriz cervical antiga, sem bócio ou nódulo palpável, sem oftalmopatia, tremor fino. ECG: fibrilação atrial. Exames: TSH 0,02 mUI/L (VR 0,4 a 4,0), T4 livre 2,1 ng/dL (VR 0,9 a 1,8), T3 livre no limite superior, tireoglobulina sérica indetectável com anticorpo antitireoglobulina negativo, VHS normal. A causa mais provável da tireotoxicose é:",
   "alternativas": {
    "A": "Bócio multinodular tóxico no lobo remanescente",
    "B": "Doença de Graves de início tardio",
@@ -51,15 +51,15 @@
   "gabarito": "C",
   "armadilha": "A",
   "dado_decisivo": "tireoglobulina sérica indetectável com anticorpo antitireoglobulina negativo",
-  "resolucao": "Idosa com fibrilação atrial e TSH suprimido puxa bócio multinodular tóxico, a causa mais comum de hipertireoidismo nessa faixa, e o reflexo é a cintilografia. A droga não está nomeada e precisa ser deduzida: quem foi operado da tireoide e toma \"um comprimido em jejum\" há 22 anos usa levotiroxina, e a dose foi aumentada há 4 meses por um sintoma inespecífico. A tireoglobulina confirma: toda tireotoxicose de origem glandular (nódulo autônomo, Graves, tireoidite) libera tireoglobulina, enquanto o hormônio exógeno suprime a glândula remanescente e a tireoglobulina fica indetectável, desde que o anticorpo antitireoglobulina seja negativo (que falsearia a dosagem). A conduta é reduzir a levotiroxina para a dose anterior, controlar a frequência e anticoagular conforme o risco, e repetir TSH em 6 a 8 semanas; cintilografia seria exame a mais.",
+  "resolucao": "Idosa com fibrilação atrial e TSH suprimido puxa bócio multinodular tóxico, a causa mais comum de hipertireoidismo nessa faixa, e o reflexo é a cintilografia. A droga não está nomeada e precisa ser deduzida: quem foi operado da tireoide e toma \"um comprimido em jejum\" há 22 anos usa levotiroxina, e as receitas foram refeitas há 4 meses por um sintoma inespecífico, o momento em que uma dose costuma mudar sem que o paciente perceba. A tireoglobulina confirma: toda tireotoxicose de origem glandular (nódulo autônomo, Graves, tireoidite) libera tireoglobulina, enquanto o hormônio exógeno suprime o lobo remanescente e a tireoglobulina fica indetectável, desde que o anticorpo antitireoglobulina seja negativo (que falsearia a dosagem). A conduta é reduzir a levotiroxina para a dose anterior, controlar a frequência e anticoagular conforme o risco, e repetir TSH em 6 a 8 semanas; cintilografia seria exame a mais.",
   "comentarios": {
-   "A": "Errada. É a armadilha: o nódulo autônomo libera tireoglobulina, que estaria normal ou alta; não há nódulo palpável, e a dose do comprimido aumentou há 4 meses.",
+   "A": "Errada. É a armadilha: o lobo remanescente pode desenvolver nódulo autônomo, mas ele liberaria tireoglobulina, que estaria normal ou alta; não há nódulo palpável, e as receitas foram refeitas há 4 meses.",
    "B": "Errada. Graves é raro aos 76 anos sem bócio nem oftalmopatia e, como toda fonte glandular, teria tireoglobulina detectável.",
-   "C": "Correta. Comprimido de jejum desde a tireoidectomia, dose aumentada há 4 meses e tireoglobulina indetectável com anticorpo negativo: tireotoxicose por levotiroxina.",
+   "C": "Correta. Comprimido de jejum desde a lobectomia, receitas refeitas há 4 meses e tireoglobulina indetectável com anticorpo negativo apesar do lobo remanescente: tireotoxicose por levotiroxina.",
    "D": "Errada. Tireoidite libera hormônio pré-formado e tireoglobulina em grande quantidade; tireoglobulina indetectável a afasta."
   },
   "para_levar": "Tireotoxicose com tireoglobulina indetectável (anticorpo negativo) é hormônio exógeno; no idoso em levotiroxina com fibrilação atrial, reduza a dose antes de investigar nódulo.",
-  "referencias": "ATA 2016 (Hyperthyroidism and other causes of thyrotoxicosis); SBEM 2013/ATA 2014 (tratamento do hipotireoidismo).",
+  "referencias": "ATA 2016 (Guidelines for the diagnosis and management of hyperthyroidism and other causes of thyrotoxicosis); ATA 2014 (Guidelines for the treatment of hypothyroidism); Brenta G et al., Arq Bras Endocrinol Metabol 2013 (Diretrizes clínicas práticas para o manejo do hipotireoidismo).",
   "tags": [
    "Tratamento do Hipotireoidismo (CM)",
    "Hipertireoidismo e Tireotoxicose (CM)"
@@ -71,34 +71,35 @@
   "id": "S10-END-03",
   "simulado": 10,
   "area": "Endocrinologia",
-  "titulo": "Esteatose no diabético idoso com FIB-4 de 1,53: acima de 65 anos o corte inferior é 2,0, e não há elastografia",
+  "titulo": "Esteatose metabólica com ALT pouco mais de duas vezes o normal após infarto: reintroduzir a estatina de alta intensidade, sem esperar as enzimas normalizarem",
   "arma": "Limiar",
   "comando": "conduta",
-  "nivel": "extremamente difícil",
-  "enunciado": "Homem de 71 anos, com diabetes tipo 2 há 12 anos (HbA1c 7,1%), hipertensão e IMC de 31 kg/m², fez ultrassonografia de abdome por dor lombar, que mostrou esteatose hepática moderada. Consome menos de uma dose de álcool por semana; sorologias para hepatites B e C negativas. Sem estigmas de hepatopatia, baço não palpável. Exames: AST 28 U/L, ALT 32 U/L, GGT 48 U/L, plaquetas 230.000/mm³, albumina 4,2 g/dL, bilirrubinas normais. FIB-4 calculado: 1,53. A conduta mais adequada quanto à fibrose hepática é:",
+  "nivel": "difícil",
+  "enunciado": "Homem de 57 anos, com diabetes tipo 2 há 8 anos em metformina e empagliflozina (HbA1c 7,2%), hipertensão e IMC de 32 kg/m², teve infarto sem supradesnivelamento de ST há 3 meses, tratado com angioplastia. Recebeu atorvastatina 80 mg/dia na alta, mas outro médico a suspendeu há 6 semanas ao ver transaminases elevadas e esteatose moderada na ultrassonografia, orientando aguardar a normalização. Antes da estatina, a ALT já era de 88 U/L. Consome uma dose de álcool por semana; HBsAg e anti-HCV negativos. Sem estigmas de hepatopatia, baço não palpável. Exames atuais: AST 58 U/L (VR até 40), ALT 96 U/L (VR até 41), bilirrubinas e albumina normais, plaquetas 245.000/mm³, LDL 148 mg/dL. Elastografia hepática transitória: 6,1 kPa. Em relação ao tratamento hipolipemiante, a conduta mais adequada é:",
   "alternativas": {
-   "A": "Repetir o FIB-4 em 1 a 2 anos",
-   "B": "Elastografia hepática transitória",
-   "C": "Encaminhar ao hepatologista",
-   "D": "Biópsia hepática percutânea"
+   "A": "Reintroduzir atorvastatina 80 mg/dia",
+   "B": "Ezetimiba isolada até normalizar a ALT",
+   "C": "Aguardar a ALT normalizar, sem droga",
+   "D": "Rosuvastatina 5 mg em dias alternados"
   },
   "gabarito": "A",
   "armadilha": "B",
-  "dado_decisivo": "Homem de 71 anos",
-  "resolucao": "Diabético com esteatose e FIB-4 de 1,53 cai, pela regra geral, na faixa intermediária (1,3 a 2,67), que pede elastografia; esse é o reflexo de quem fixou os cortes. O dado que muda o limiar é a idade: o FIB-4 inclui a idade no numerador e, acima de 65 anos, superestima a fibrose e gera muitos falsos positivos. Por isso, as diretrizes vigentes recomendam, a partir de 65 anos, corte inferior de 2,0 em vez de 1,3. Com FIB-4 de 1,53 aos 71 anos, o paciente é de baixo risco para fibrose avançada: segue com controle metabólico, perda de peso e reavaliação do FIB-4 em 1 a 2 anos (diabéticos e com vários fatores de risco ficam no intervalo mais curto). Elastografia, hepatologista e biópsia seriam degraus a mais.",
+  "dado_decisivo": "ALT 96 U/L (VR até 41)",
+  "resolucao": "Esteatose com transaminases elevadas é um rótulo verdadeiro que assusta e faz suspender a estatina, e quem percebe que o paciente precisa de algum hipolipemiante tende a escolher o meio-termo que parece poupar o fígado. O limiar que decide é o das transaminases: estatina só se evita ou se suspende com ALT acima de 3 vezes o limite superior, na cirrose descompensada ou na insuficiência hepática aguda. Aqui a ALT está em pouco mais de 2 vezes, já estava alta antes da droga (ou seja, é da doença hepática metabólica, e não da estatina) e a elastografia de 6,1 kPa afasta fibrose avançada. A doença hepática gordurosa metabólica não contraindica estatina; ela é segura nesses pacientes e o risco que mata este homem é cardiovascular (infarto há 3 meses, diabetes). A conduta é reintroduzir a estatina de alta intensidade, repetir as enzimas em 6 a 12 semanas e, se o LDL seguir fora da meta, associar ezetimiba depois, e não no lugar dela.",
   "comentarios": {
-   "A": "Correta. Acima de 65 anos o corte inferior do FIB-4 é 2,0; com 1,53, o risco de fibrose avançada é baixo e a conduta é reavaliar em 1 a 2 anos.",
-   "B": "Errada. É a armadilha: seria o passo com FIB-4 entre 1,3 e 2,67 abaixo de 65 anos, ou entre 2,0 e 2,67 a partir dos 65.",
-   "C": "Errada. Encaminhamento direto cabe com FIB-4 acima de 2,67 ou elastografia acima de 12 kPa (ou 8 a 12 kPa com fatores de risco), nada disso aqui.",
-   "D": "Errada. Biópsia fica para dúvida diagnóstica ou discordância entre testes não invasivos; não é exame de estratificação inicial."
+   "A": "Correta. ALT abaixo de 3 vezes o limite superior, já elevada antes da estatina, sem fibrose avançada, em paciente de muito alto risco após infarto: reintroduzir a estatina de alta intensidade.",
+   "B": "Errada. É a armadilha: ezetimiba isolada reduz o LDL em cerca de 20% e não substitui a estatina na prevenção secundária; seria opção só com intolerância real e documentada às estatinas.",
+   "C": "Errada. Seria a conduta com ALT acima de 3 vezes o limite superior ou com hepatopatia descompensada; esperar deixa sem tratamento um paciente no período de maior risco após o infarto.",
+   "D": "Errada. Dose baixa intermitente é estratégia para intolerância muscular às estatinas; não há intolerância aqui, e a dose não alcança a redução de LDL que a prevenção secundária exige."
   },
-  "para_levar": "FIB-4 a partir de 65 anos: corte inferior 2,0 (e não 1,3); abaixo disso, baixo risco e reavaliação periódica, sem elastografia.",
-  "referencias": "AASLD 2023 (Practice guidance on the clinical assessment and management of NAFLD/MASLD); EASL-EASD-EASO 2024 (Clinical practice guidelines on MASLD).",
+  "para_levar": "Esteatose metabólica não contraindica estatina: só ALT acima de 3 vezes o limite superior, cirrose descompensada ou insuficiência hepática aguda justificam suspendê-la; na prevenção secundária, mantenha a alta intensidade.",
+  "referencias": "AASLD 2023 (Practice guidance on the clinical assessment and management of NAFLD); EASL-EASD-EASO 2024 (Clinical practice guidelines on MASLD); ESC/EAS 2019 (Guidelines for the management of dyslipidaemias).",
   "tags": [
-   "DHGNA (CM)"
+   "DHGNA (CM)",
+   "Tratamento das Dislipidemias (CM)"
   ],
   "sourceQuestionId": "c9df06d07040f83",
-  "alvo": "Regra fixada (FIB-4), uma única aparição no bloco, com ângulo novo: a exceção da idade que muda o limiar."
+  "alvo": "Fazer menos do que o caso pede por um rótulo hepático verdadeiro, e ler o limiar das transaminases como enfeite."
  },
  {
   "id": "S10-END-04",
@@ -126,7 +127,7 @@
    "D": "Correta. Jejum prolongado com etanol: glicogênio esgotado e gliconeogênese bloqueada pelo excesso de NADH; trata-se com glicose venosa e tiamina."
   },
   "para_levar": "Hipoglicemia do etilista em jejum é falta de glicogênio com gliconeogênese bloqueada: glucagon não funciona; dê glicose venosa com tiamina.",
-  "referencias": "Endocrine Society 2009 (Adult hypoglycemic disorders); Harrison's Principles of Internal Medicine, 22ª ed., 2025 (cap. Hypoglycemia).",
+  "referencias": "Endocrine Society 2009 (Evaluation and management of adult hypoglycemic disorders); Harrison's Principles of Internal Medicine, 21ª ed., 2022 (cap. Hypoglycemia).",
   "tags": [
    "Hipoglicemias (CM)",
    "Encefalopatia de Wernicke (CM)"
@@ -142,7 +143,7 @@
   "arma": "Rótulo verdadeiro",
   "comando": "diagnóstico",
   "nivel": "difícil",
-  "enunciado": "Homem de 54 anos, transplantado renal há 5 meses (doador falecido), usa tacrolimo, micofenolato e prednisona 5 mg/dia, com creatinina estável de 1,3 mg/dL. Não tinha diabetes antes do transplante. No 3º mês pós-transplante teve anemia (hemoglobina de 7,8 g/dL), recebeu duas transfusões e iniciou eritropoetina; a hemoglobina atual é de 10,9 g/dL. Assintomático. Exames de rotina: glicemia de jejum de 112 e 118 mg/dL em duas ocasiões e HbA1c de 5,7%. Teste oral com 75 g de glicose: jejum 114 mg/dL e 2 horas 236 mg/dL. Com esses dados, o diagnóstico é:",
+  "enunciado": "Homem de 54 anos, transplantado renal há 5 meses (doador falecido), usa tacrolimo, micofenolato e prednisona 5 mg/dia, com creatinina estável de 1,3 mg/dL. Não tinha diabetes antes do transplante. No 3º mês pós-transplante teve anemia (hemoglobina de 7,8 g/dL), recebeu duas transfusões e iniciou eritropoetina; a hemoglobina atual é de 10,9 g/dL. Assintomático. Exames de rotina: glicemia de jejum de 112 e 118 mg/dL em duas ocasiões e HbA1c de 5,7%. Teste oral com 75 g de glicose, repetido com intervalo de 2 semanas: jejum de 114 e 117 mg/dL, e 2 horas de 236 e 224 mg/dL. Com esses dados, o diagnóstico é:",
   "alternativas": {
    "A": "Glicemia de jejum alterada",
    "B": "Diabetes pós-transplante",
@@ -151,16 +152,16 @@
   },
   "gabarito": "B",
   "armadilha": "A",
-  "dado_decisivo": "2 horas 236 mg/dL",
-  "resolucao": "Glicemia de jejum entre 100 e 125 e HbA1c de 5,7% parecem, juntas, um pré-diabetes tranquilizador. Mas no transplantado a HbA1c no primeiro ano é pouco confiável: anemia, transfusões, eritropoetina e a disfunção renal encurtam ou alteram a sobrevida das hemácias e subestimam a glicemia média. O tacrolimo e o corticoide prejudicam sobretudo a glicemia pós-prandial, que a glicemia de jejum não capta. Por isso o teste oral de 75 g é o exame mais sensível para o diabetes pós-transplante, e 2 horas acima de 200 mg/dL fecham o diagnóstico. A hiperglicemia dos primeiros dias a semanas após a cirurgia não se rotula como diabetes, mas aos 5 meses, em imunossupressão estável de manutenção, o critério vale.",
+  "dado_decisivo": "2 horas de 236 e 224 mg/dL",
+  "resolucao": "Glicemia de jejum entre 100 e 125 e HbA1c de 5,7% parecem, juntas, um pré-diabetes tranquilizador. Mas no transplantado a HbA1c no primeiro ano é pouco confiável: anemia, transfusões, eritropoetina e a disfunção renal encurtam ou alteram a sobrevida das hemácias e subestimam a glicemia média. O tacrolimo e o corticoide prejudicam sobretudo a glicemia pós-prandial, que a glicemia de jejum não capta. Por isso o teste oral de 75 g é o exame mais sensível para o diabetes pós-transplante, e 2 horas acima de 200 mg/dL em dois testes fecham o diagnóstico no assintomático. A hiperglicemia dos primeiros dias a semanas após a cirurgia não se rotula como diabetes, mas aos 5 meses, em imunossupressão estável de manutenção, o critério vale.",
   "comentarios": {
    "A": "Errada. É a armadilha: a glicemia de jejum está na faixa alterada, mas a de 2 horas acima de 200 já define diabetes, e a HbA1c está falseada por anemia, transfusões e eritropoetina.",
-   "B": "Correta. Cinco meses após o transplante, em imunossupressão de manutenção, teste oral com 2 horas de 236: diabetes pós-transplante, apesar da HbA1c normal.",
+   "B": "Correta. Cinco meses após o transplante, em imunossupressão de manutenção, dois testes orais com 2 horas acima de 200: diabetes pós-transplante, apesar da HbA1c normal.",
    "C": "Errada. A hiperglicemia transitória é a dos primeiros dias a semanas após o transplante, com corticoide em dose alta; aos 5 meses, com prednisona 5 mg estável, o diagnóstico é de diabetes.",
-   "D": "Errada. A tolerância diminuída tem glicemia de 2 horas entre 140 e 199; o valor de 236 ultrapassa esse limite."
+   "D": "Errada. A tolerância diminuída tem glicemia de 2 horas entre 140 e 199; valores de 236 e 224 ultrapassam esse limite."
   },
   "para_levar": "No primeiro ano após o transplante a HbA1c subestima a glicemia (anemia, transfusões, eritropoetina): use o teste oral de 75 g para diagnosticar diabetes pós-transplante.",
-  "referencias": "Sharif A et al., International consensus on post-transplantation diabetes mellitus, Nephrol Dial Transplant 2024; ADA Standards of Care in Diabetes 2026, seção 2; KDIGO 2009 (Care of the kidney transplant recipient).",
+  "referencias": "Sharif A et al., Second international consensus on post-transplantation diabetes mellitus, Nephrol Dial Transplant 2024; ADA Standards of Care in Diabetes 2026, seção 2; KDIGO 2009 (Care of the kidney transplant recipient).",
   "tags": [
    "Classificação e Diagnóstico Diabetes (CM)",
    "Transplante Renal (CM)"

@@ -38,7 +38,7 @@
   "area": "Endocrinologia",
   "titulo": "Orbitopatia de Graves ativa e moderada a grave em tabagista: metilprednisolona venosa, e não descompressão",
   "arma": "Grade X / Y",
-  "comando": "conduta",
+  "comando": "diagnóstico",
   "nivel": "difícil",
   "enunciado": "Mulher de 41 anos, tabagista (20 maços-ano), tem doença de Graves diagnosticada há 4 meses e usa metimazol 20 mg/dia; está clinicamente eutireoidea, com T4 livre de 1,3 ng/dL (VR 0,9 a 1,8) e TRAb de 18 UI/L (VR até 1,75). Há 6 semanas tem dor retro-ocular espontânea e à movimentação dos olhos, hiperemia palpebral e conjuntival, edema palpebral e de carúncula (escore de atividade clínica de 5 em 7). Exoftalmometria: 24 mm à direita e 23 mm à esquerda (VR até 20 mm). Refere diplopia nos extremos do olhar para cima. Acuidade visual 20/20 bilateral, visão de cores normal, sem defeito pupilar aferente, fundo de olho sem edema de papila e córnea íntegra. A classificação da orbitopatia e a conduta mais adequada são, respectivamente:",
   "alternativas": {
@@ -48,12 +48,12 @@
    "D": "Ativa, moderada a grave / metilprednisolona EV"
   },
   "gabarito": "D",
-  "armadilha": "B",
+  "armadilha": "A",
   "dado_decisivo": "diplopia nos extremos do olhar para cima",
-  "resolucao": "A orbitopatia se classifica em dois eixos independentes: atividade (escore de atividade clínica, ativo se 3 ou mais de 7) e gravidade (leve, moderada a grave ou ameaçadora à visão). O escore de 5 marca doença ativa. A gravidade se decide pelos dados do meio: proptose de 3 mm ou mais acima do normal e diplopia inconstante (nos extremos do olhar) já a tornam moderada a grave; a doença leve tem diplopia ausente ou só transitória. Ameaçadora à visão exige neuropatia óptica (perda de acuidade, de visão de cores, defeito pupilar, edema de papila) ou ruptura de córnea, todos negados aqui, de modo que a descompressão urgente é degrau a mais. Para a doença ativa e moderada a grave, a primeira linha é metilprednisolona venosa em pulsos semanais (dose cumulativa de cerca de 4,5 g em 12 semanas), associada a micofenolato segundo o EUGOGO, junto com a cessação do tabagismo e a manutenção do eutireoidismo com metimazol. Radioiodo está contraindicado na doença ativa.",
+  "resolucao": "A orbitopatia se classifica em dois eixos independentes: atividade (escore de atividade clínica, ativo se 3 ou mais de 7) e gravidade (leve, moderada a grave ou ameaçadora à visão). O escore de 5 marca doença ativa. A gravidade se decide pelos dados do meio, e é aí que mora a armadilha (diplopia só nos extremos do olhar parece pouca coisa): proptose de 3 mm ou mais acima do normal e diplopia inconstante (nos extremos do olhar) já a tornam moderada a grave; a doença leve tem diplopia ausente ou só transitória. Ameaçadora à visão exige neuropatia óptica (perda de acuidade, de visão de cores, defeito pupilar, edema de papila) ou ruptura de córnea, todos negados aqui, de modo que a descompressão urgente é degrau a mais. Para a doença ativa e moderada a grave, a primeira linha é metilprednisolona venosa em pulsos semanais (dose cumulativa de cerca de 4,5 g em 12 semanas), associada a micofenolato segundo o EUGOGO, junto com a cessação do tabagismo e a manutenção do eutireoidismo com metimazol. Radioiodo está contraindicado na doença ativa.",
   "comentarios": {
-   "A": "Errada. Selênio é para orbitopatia leve; proptose acima de 3 mm do normal e diplopia inconstante tiram o caso dessa faixa.",
-   "B": "Errada. É a armadilha: descompressão urgente é para neuropatia óptica compressiva ou exposição de córnea, e a acuidade, a visão de cores, as pupilas e o fundo de olho estão normais.",
+   "A": "Errada. É a armadilha: diplopia só nos extremos do olhar parece leve, mas é diplopia inconstante, que, com proptose de 3 mm ou mais acima do normal, coloca a doença na faixa moderada a grave; selênio é para a orbitopatia leve.",
+   "B": "Errada. Descompressão urgente é para neuropatia óptica compressiva ou exposição de córnea, e a acuidade, a visão de cores, as pupilas e o fundo de olho estão normais.",
    "C": "Errada. A doença é ativa (escore 5) e, ativa e moderada a grave, contraindica radioiodo, que piora a orbitopatia sobretudo em tabagistas.",
    "D": "Correta. Escore de atividade 5, proptose acima de 3 mm do normal e diplopia inconstante: ativa e moderada a grave, tratada com pulsos de metilprednisolona venosa."
   },
@@ -126,7 +126,7 @@
    "D": "Errada. Cortisol e ACTH baixos isolados sugeririam deficiência, mas o paciente tem fenótipo de excesso, e não de falta; a supressão do eixo é consequência do corticoide exógeno, e não a doença."
   },
   "para_levar": "Fenótipo de Cushing com cortisol e ACTH suprimidos é corticoide exógeno; com ritonavir ou cobicistate, até a fluticasona inalatória ou intra-articular causa Cushing.",
-  "referencias": "Endocrine Society 2008/2021 update (Diagnosis of Cushing syndrome); DHHS Antiretroviral Guidelines 2024 (drug interactions, inhaled corticosteroids); PCDT HIV adultos, MS 2024.",
+  "referencias": "Endocrine Society 2008 (The diagnosis of Cushing's syndrome); Fleseriu M et al., Pituitary Society consensus, Lancet Diabetes Endocrinol 2021; DHHS Guidelines for the use of antiretroviral agents in adults and adolescents with HIV, 2024 (interações com corticoides inalatórios).",
   "tags": [
    "Cushing (CM)",
    "HIV : Diagnóstico, Seguimento e Antirretrovirais (CM)"
@@ -144,23 +144,23 @@
   "nivel": "difícil",
   "enunciado": "Mulher de 39 anos foi submetida a bypass gástrico em Y de Roux há 3 anos e perdeu 48 kg. Há 5 meses tem episódios de tremor, sudorese, confusão e, uma vez, síncope, que ocorrem 1 a 3 horas após refeições ricas em doces e massas. Em um episódio, a glicemia capilar foi de 44 mg/dL, com melhora após ingerir suco. Também tem palpitações e diarreia nos primeiros 30 minutos após comer. Nunca teve sintomas em jejum, inclusive no jejum de 14 horas que fez para exames. Usa apenas polivitamínico e não tem diabetes. Exame físico normal, IMC 26 kg/m². Para confirmar a principal hipótese diagnóstica, o exame mais adequado é:",
   "alternativas": {
-   "A": "Jejum supervisionado de 72 horas",
-   "B": "Teste de refeição mista com glicemias seriadas",
+   "A": "Teste oral de tolerância com 75 g",
+   "B": "Teste de refeição mista padronizada",
    "C": "Tomografia de pâncreas com contraste",
-   "D": "Teste oral de tolerância com 75 g"
+   "D": "Jejum supervisionado de 72 horas"
   },
   "gabarito": "B",
-  "armadilha": "A",
+  "armadilha": "D",
   "dado_decisivo": "Nunca teve sintomas em jejum, inclusive no jejum de 14 horas que fez para exames",
   "resolucao": "Hipoglicemia documentada em não diabético puxa o reflexo do insulinoma e do jejum de 72 horas. O negativo do meio desfaz isso: as crises só ocorrem de 1 a 3 horas após refeições ricas em carboidrato simples, e nunca em jejum, nem no de 14 horas. Depois do bypass, o alimento chega rápido ao jejuno, a glicemia sobe muito e a resposta de GLP-1 e insulina é exagerada, com hipoglicemia tardia (o dumping precoce, com palpitações e diarreia nos primeiros 30 minutos, acompanha). O exame que reproduz o fenômeno é o teste de refeição mista, com glicemia, insulina e peptídeo C seriados por 3 a 5 horas, ou o registro da glicemia durante as crises com monitorização contínua. O jejum prolongado é negativo nesse quadro, e o teste oral com 75 g não é recomendado após bypass, porque provoca dumping e hipoglicemia até em operados assintomáticos. O tratamento começa pela dieta: refeições pequenas e fracionadas, pobres em carboidrato simples, sem líquido junto.",
   "comentarios": {
-   "A": "Errada. É a armadilha: o jejum de 72 horas investiga hipoglicemia de jejum (insulinoma), e ela nunca teve sintomas em jejum.",
+   "A": "Errada. A sobrecarga de glicose líquida após bypass provoca dumping e hipoglicemia em grande parte dos operados, mesmo assintomáticos, e por isso não é recomendada.",
    "B": "Correta. Crises só pós-prandiais após bypass gástrico: o teste de refeição mista reproduz a hipoglicemia pós-bariátrica de forma fisiológica.",
    "C": "Errada. Imagem pancreática só entra depois de demonstrar hiperinsulinismo de jejum; aqui seria procurar um tumor que o padrão clínico não sugere.",
-   "D": "Errada. A sobrecarga de glicose líquida após bypass provoca dumping e hipoglicemia em grande parte dos operados, mesmo assintomáticos, e por isso não é recomendada."
+   "D": "Errada. É a armadilha: o jejum de 72 horas investiga hipoglicemia de jejum (insulinoma), e ela nunca teve sintomas em jejum."
   },
   "para_levar": "Hipoglicemia só pós-prandial após bypass gástrico: confirme com refeição mista (ou glicemia na crise), não com jejum de 72 horas nem teste oral de glicose, e trate primeiro com dieta.",
-  "referencias": "Endocrine Society 2009 (Adult hypoglycemic disorders); Salehi M et al., J Clin Endocrinol Metab 2018 (post-bariatric hypoglycemia); ASMBS 2017.",
+  "referencias": "Endocrine Society 2009 (Evaluation and management of adult hypoglycemic disorders); Salehi M et al., J Clin Endocrinol Metab 2018 (Hypoglycemia after gastric bypass surgery: current concepts and controversies).",
   "tags": [
    "Hipoglicemias (CM)",
    "Tratamento Farmacológico e Cirurgico da Obesidade (CM)"

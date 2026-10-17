@@ -77,20 +77,20 @@
   "nivel": "difícil",
   "enunciado": "Homem de 67 anos tem icterícia indolor e prurido há 3 semanas, perda de 3 kg e diabetes diagnosticado há 2 meses. Afebril. Bilirrubina total 6,2 mg/dL, fosfatase alcalina 540 U/L, GGT 690 U/L, CA 19-9 de 48 U/mL, IgG4 sérica de 540 mg/dL (referência até 135). TC: pâncreas difusamente aumentado, em salsicha, com halo hipodenso periférico, sem massa focal e sem dilatação do ducto pancreático principal; estenose do colédoco intrapancreático; lesões hipodensas corticais bilaterais nos rins. Glândulas submandibulares aumentadas e endurecidas. A conduta mais adequada é:",
   "alternativas": {
-   "A": "Prednisona 0,6 a 1 mg/kg/dia",
+   "A": "Rituximabe como indução",
    "B": "Ecoendoscopia com punção antes do corticoide",
    "C": "Duodenopancreatectomia",
-   "D": "Rituximabe como indução"
+   "D": "Prednisona 0,6 a 1 mg/kg/dia"
   },
-  "gabarito": "A",
+  "gabarito": "D",
   "armadilha": "B",
   "dado_decisivo": "pâncreas difusamente aumentado, em salsicha, com halo hipodenso periférico, sem massa focal",
   "resolucao": "Icterícia indolor, emagrecimento e diabetes novo num homem de 67 anos assustam, e a reação é exigir tecido antes de qualquer corticoide. Isso vale quando há massa focal, porque o adenocarcinoma também pode elevar a IgG4. Aqui, porém, a imagem é a da forma difusa (pâncreas em salsicha com halo, sem massa e sem dilatação ductal), a IgG4 está acima de duas vezes o limite e há acometimento de outros órgãos (rins e glândulas submandibulares): pelos critérios internacionais, esse conjunto confirma a pancreatite autoimune tipo 1 sem histologia. O tratamento de indução é prednisona 0,6 a 1 mg/kg/dia, com resposta esperada em 2 a 4 semanas; a falta de resposta é que mandaria rever o diagnóstico. Prótese biliar fica para colangite ou icterícia que não cede, e o rituximabe é para recidiva ou contraindicação ao corticoide.",
   "comentarios": {
-   "A": "Correta. Imagem difusa típica, IgG4 acima de duas vezes o limite e acometimento de outros órgãos fecham o diagnóstico; tratar com corticoide.",
+   "A": "Errada. Fica para recidiva, dependência ou contraindicação ao corticoide, não para indução inicial.",
    "B": "Errada. É a armadilha: a punção é obrigatória com massa focal; na forma difusa com sorologia e outros órgãos, não acrescenta e só atrasa.",
    "C": "Errada. Cirurgia para doença que responde a corticoide; seria o caso de massa focal com adenocarcinoma confirmado.",
-   "D": "Errada. Fica para recidiva, dependência ou contraindicação ao corticoide, não para indução inicial."
+   "D": "Correta. Imagem difusa característica, IgG4 acima de duas vezes o limite e acometimento de outros órgãos fecham o diagnóstico; tratar com corticoide."
   },
   "para_levar": "Pancreatite autoimune tipo 1: forma difusa típica com IgG4 alta e outro órgão acometido dispensa biópsia e vai para corticoide; massa focal exige afastar câncer antes.",
   "referencias": "International Consensus Diagnostic Criteria for Autoimmune Pancreatitis (2011); International consensus for the treatment of autoimmune pancreatitis (2017); 2019 ACR/EULAR Classification Criteria for IgG4-Related Disease",
@@ -187,7 +187,7 @@
   "gabarito": "A",
   "armadilha": "B",
   "dado_decisivo": "tumor primário ulcerado de 6 cm no corpo gástrico ainda não ressecado",
-  "resolucao": "A frase do residente é verdadeira: ensaios com rivaroxabana, edoxabana e apixabana mostraram eficácia igual ou maior que a heparina de baixo peso molecular no tromboembolismo associado ao câncer, e eles são hoje primeira linha para muitos pacientes. Mas os mesmos estudos mostraram aumento de sangramento com rivaroxabana e edoxabana justamente nos tumores gastrointestinais e geniturinários luminais, sobretudo com o primário intacto, e este paciente tem um tumor gástrico ulcerado não ressecado e melena recente. Nessa situação as diretrizes preferem a heparina de baixo peso molecular em dose plena, ou usam o anticoagulante oral direto com muita cautela. A varfarina é inferior no câncer, com mais recorrência, controle de INR instável sob quimioterapia e interação com fluoropirimidinas. A anticoagulação deve durar pelo menos 6 meses e enquanto o câncer estiver ativo.",
+  "resolucao": "A frase do residente é verdadeira: ensaios com rivaroxabana, edoxabana e apixabana mostraram eficácia igual ou maior que a heparina de baixo peso molecular no tromboembolismo associado ao câncer, e eles são hoje primeira linha para muitos pacientes. Mas os mesmos estudos mostraram aumento de sangramento com rivaroxabana e edoxabana justamente nos tumores gastrointestinais e geniturinários luminais, sobretudo com o primário intacto, e este paciente tem um tumor gástrico ulcerado não ressecado e melena recente. A apixabana não aumentou o sangramento maior no estudo Caravaggio, mas os pacientes com primário gastrointestinal intacto e sangramento recente foram pouco representados, e ela não está entre as opções. Nessa situação as diretrizes preferem a heparina de baixo peso molecular em dose plena, ou usam o anticoagulante oral direto com muita cautela. A varfarina é inferior no câncer, com mais recorrência, controle de INR instável sob quimioterapia e interação com fluoropirimidinas. A anticoagulação deve durar pelo menos 6 meses e enquanto o câncer estiver ativo.",
   "comentarios": {
    "A": "Correta. Tumor gastrointestinal luminal intacto e sangramento recente: heparina de baixo peso molecular em dose plena.",
    "B": "Errada. É a armadilha: seria a opção oral em muitos cânceres, mas aumenta sangramento gastrointestinal no tumor luminal não ressecado.",
@@ -229,7 +229,7 @@
    "D": "Errada. É a armadilha: o corticoide em dose baixa contribui pouco; a mudança com efeito comprovado é a conversão para inibidor de mTOR."
   },
   "para_levar": "Transplantado com carcinomas espinocelulares cutâneos múltiplos: converter para inibidor de mTOR e evitar azatioprina; fotoproteção e seguimento dermatológico.",
-  "referencias": "Euvrard S et al., N Engl J Med (2012, estudo TUMORAPA); KDIGO Clinical Practice Guideline for the Care of Kidney Transplant Recipients (2009); ITSCC/SCOPE recommendations (2021)",
+  "referencias": "Euvrard S et al., N Engl J Med (2012, estudo TUMORAPA); KDIGO Clinical Practice Guideline for the Care of Kidney Transplant Recipients (2009)",
   "tags": [
    "Melanomas e Carcinomas (CM)",
    "193 Melanoma and Nonmelanoma Skin Cancers"
