@@ -1,172 +1,172 @@
 [
-  {
-    "id": "S9-PNE-01",
-    "simulado": 9,
-    "area": "Pneumologia",
-    "titulo": "Síndrome de hipoventilação da obesidade estável com apneia grave: CPAP antes da ventilação com dois níveis",
-    "arma": "Rótulo verdadeiro",
-    "comando": "conduta",
-    "nivel": "difícil",
-    "enunciado": "Homem de 49 anos, IMC 44 kg/m², hipertenso, é encaminhado por sonolência diurna, ronco alto e cefaleia matinal. Está estável e nunca foi internado. Gasometria arterial em ar ambiente, acordado: pH 7,38, PaCO2 51 mmHg, PaO2 66 mmHg, HCO3 30 mEq/L. Espirometria: CVF 82% do previsto, VEF1/CVF 0,80. Radiografia de tórax e ecocardiograma sem alterações relevantes; TSH normal. Polissonografia: índice de apneia e hipopneia de 58 eventos por hora, com SpO2 mínima de 74%. Além de encaminhar para perda de peso, o tratamento ventilatório inicial mais adequado é:",
-    "alternativas": {
-      "A": "CPAP noturno",
-      "B": "BiPAP com frequência de resgate",
-      "C": "Oxigênio noturno isolado",
-      "D": "Traqueostomia"
-    },
-    "gabarito": "A",
-    "armadilha": "B",
-    "dado_decisivo": "índice de apneia e hipopneia de 58 eventos por hora",
-    "resolucao": "Obesidade, hipercapnia acordado (PaCO2 acima de 45) e bicarbonato elevado, sem DPOC nem doença neuromuscular, fazem síndrome de hipoventilação da obesidade. O rótulo hipercapnia puxa a ventilação não invasiva com dois níveis, mas cerca de 70% desses pacientes têm apneia obstrutiva grave, e nesse subgrupo, quando estáveis e ambulatoriais, a diretriz da ATS recomenda CPAP como tratamento inicial: os ensaios (Pickwick) mostraram eficácia semelhante à ventilação com dois níveis, com custo menor. A ventilação com dois níveis fica para quem não tem apneia grave, persiste hipercápnico com CPAP adequado ou chega descompensado. Oxigênio isolado pode piorar a hipercapnia.",
-    "comentarios": {
-      "A": "Correta. Hipoventilação da obesidade estável com apneia grave (IAH de 58): CPAP como primeira linha.",
-      "B": "Errada. Seria a escolha sem apneia obstrutiva grave, na falha do CPAP ou na descompensação aguda.",
-      "C": "Errada. Corrige a saturação e piora a hipercapnia; não trata a obstrução nem a hipoventilação.",
-      "D": "Errada. Reservada a casos refratários e excepcionais."
-    },
-    "para_levar": "Hipoventilação da obesidade estável com IAH de 30 ou mais: CPAP primeiro; ventilação com dois níveis se não houver apneia grave, se o CPAP falhar ou na descompensação.",
-    "referencias": "ATS Clinical Practice Guideline on Obesity Hypoventilation Syndrome 2019; Pickwick trial (Masa et al., Lancet 2019).",
-    "tags": [
-      "SAHOS (CM)",
-      "Ventilação Não Invasiva (VNI) (CM)"
-    ],
-    "sourceQuestionId": "870f22d57e242a4",
-    "alvo": "Limiar (IAH grave) que muda a escolha; rótulo hipercapnia puxando o tratamento de maior porte."
+ {
+  "id": "S9-PNE-01",
+  "simulado": 9,
+  "area": "Pneumologia",
+  "titulo": "Síndrome de hipoventilação da obesidade estável com apneia grave: CPAP antes da ventilação com dois níveis",
+  "arma": "Rótulo verdadeiro",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Homem de 49 anos, IMC 44 kg/m², hipertenso, é encaminhado por sonolência diurna, ronco alto e cefaleia matinal. Está estável e nunca foi internado. Gasometria arterial em ar ambiente, acordado: pH 7,38, PaCO2 51 mmHg, PaO2 66 mmHg, HCO3 30 mEq/L. Espirometria: CVF 82% do previsto, VEF1/CVF 0,80. Radiografia de tórax e ecocardiograma sem alterações relevantes; TSH normal. Polissonografia: índice de apneia e hipopneia de 58 eventos por hora, com SpO2 mínima de 74%. Além de encaminhar para perda de peso, o tratamento ventilatório inicial mais adequado é:",
+  "alternativas": {
+   "A": "CPAP noturno",
+   "B": "BiPAP com frequência de resgate",
+   "C": "Oxigênio noturno isolado",
+   "D": "Traqueostomia"
   },
-  {
-    "id": "S9-PNE-02",
-    "simulado": 9,
-    "area": "Pneumologia",
-    "titulo": "Complexo Mycobacterium avium em uma única cultura de escarro: repetir antes de tratar",
-    "arma": "Omissão",
-    "comando": "próximo exame",
-    "nivel": "difícil",
-    "enunciado": "Mulher de 68 anos, magra (IMC 19 kg/m²), nunca fumou, tem tosse produtiva crônica há 2 anos, sem febre, hemoptise ou perda de peso recente. TC de tórax: bronquiectasias cilíndricas no lobo médio e na língula, com nódulos centrolobulares em árvore em brotamento, sem cavitação. Anti-HIV negativo. Duas baciloscopias e um teste rápido molecular para tuberculose no escarro foram negativos; na cultura de uma das amostras cresceu complexo Mycobacterium avium, e a cultura da outra amostra foi negativa. Ela está bem e pergunta se vai precisar tomar remédios. A conduta mais adequada agora é:",
-    "alternativas": {
-      "A": "Claritromicina, rifampicina e etambutol",
-      "B": "Esquema básico para tuberculose",
-      "C": "Nova coleta de escarro para cultura",
-      "D": "Broncoscopia com biópsia transbrônquica"
-    },
-    "gabarito": "C",
-    "armadilha": "A",
-    "dado_decisivo": "a cultura da outra amostra foi negativa",
-    "resolucao": "O quadro clínico e radiológico combina com doença pulmonar por micobactéria não tuberculosa na forma nodular e bronquiectásica, e o germe isolado é o mais comum, o que empurra para o esquema com macrolídeo. Mas o MAC é ambiental, e uma cultura isolada pode ser contaminação ou colonização: o critério microbiológico exige crescimento em pelo menos duas amostras de escarro colhidas em dias diferentes (ou uma de lavado broncoalveolar). Com uma positiva e uma negativa, o passo é colher novas amostras, e não tratar. Mesmo com o diagnóstico confirmado, na forma nodular sem cavitação e com poucos sintomas, a observação é aceitável, porque o tratamento dura mais de um ano após a negativação. Esquema de tuberculose não cobre o MAC adequadamente e não está indicado com TRM negativo.",
-    "comentarios": {
-      "A": "Errada. É o esquema da doença por MAC confirmada (três vezes por semana na forma nodular); com uma única cultura positiva o critério não foi cumprido.",
-      "B": "Errada. Seria a conduta com TRM ou cultura para M. tuberculosis positivos; o isolado é MAC.",
-      "C": "Correta. Uma cultura positiva para MAC não basta: são necessárias duas amostras de escarro positivas.",
-      "D": "Errada. Lavado broncoscópico é alternativa quando não se obtém escarro; biópsia é o exame a mais."
-    },
-    "para_levar": "Micobactéria não tuberculosa no escarro só vira doença com clínica, imagem e cultura positiva em pelo menos duas amostras separadas; uma cultura isolada pede nova coleta, não tratamento.",
-    "referencias": "ATS/ERS/ESCMID/IDSA Clinical Practice Guideline for NTM Pulmonary Disease 2020; BTS NTM Guideline 2017.",
-    "tags": [
-      "MNT e Diferenciais (CM)",
-      "Bronquiectasias (CM)"
-    ],
-    "sourceQuestionId": "4a6a6b80d41f40d",
-    "alvo": "Tratar o que ainda não precisa (padrão de fazer mais); limiar de duas culturas."
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "índice de apneia e hipopneia de 58 eventos por hora",
+  "resolucao": "Obesidade, hipercapnia acordado (PaCO2 acima de 45) e bicarbonato elevado, sem DPOC nem doença neuromuscular, fazem síndrome de hipoventilação da obesidade. O rótulo hipercapnia puxa a ventilação não invasiva com dois níveis, mas cerca de 70% desses pacientes têm apneia obstrutiva grave, e nesse subgrupo, quando estáveis e ambulatoriais, a diretriz da ATS recomenda CPAP como tratamento inicial: os ensaios (Pickwick) mostraram eficácia semelhante à ventilação com dois níveis, com custo menor. A ventilação com dois níveis fica para quem não tem apneia grave, persiste hipercápnico com CPAP adequado ou chega descompensado. Oxigênio isolado pode piorar a hipercapnia.",
+  "comentarios": {
+   "A": "Correta. Hipoventilação da obesidade estável com apneia grave (IAH de 58): CPAP como primeira linha.",
+   "B": "Errada. Seria a escolha sem apneia obstrutiva grave, na falha do CPAP ou na descompensação aguda.",
+   "C": "Errada. Corrige a saturação e piora a hipercapnia; não trata a obstrução nem a hipoventilação.",
+   "D": "Errada. Reservada a casos refratários e excepcionais."
   },
-  {
-    "id": "S9-PNE-03",
-    "simulado": 9,
-    "area": "Pneumologia",
-    "titulo": "Abscesso pulmonar aspirativo em jovem não tabagista: antibiótico prolongado, sem broncoscopia nem drenagem",
-    "arma": "Negativo no meio",
-    "comando": "conduta",
-    "nivel": "média",
-    "enunciado": "Homem de 39 anos, etilista pesado, com dentes em péssimo estado, teve um episódio de embriaguez com vômitos há 3 semanas. Desde então tem febre baixa, tosse com escarro fétido e perda de 3 kg. Nunca fumou. Teste rápido molecular para tuberculose no escarro, em duas amostras: negativo. Anti-HIV negativo. SpO2 95%, PA 126 x 80 mmHg, aceitando dieta. Leucócitos 15.600/mm³. TC: cavidade de 5 cm de paredes espessas, com nível hidroaéreo, no segmento posterior do lobo superior direito, sem massa endobrônquica, sem linfonodomegalia e sem empiema. A conduta mais adequada é:",
-    "alternativas": {
-      "A": "Amoxicilina-clavulanato por semanas",
-      "B": "Drenagem percutânea guiada por TC",
-      "C": "Broncoscopia antes do antibiótico",
-      "D": "Esquema básico para tuberculose"
-    },
-    "gabarito": "A",
-    "armadilha": "C",
-    "dado_decisivo": "Nunca fumou",
-    "resolucao": "Etilista com dentes ruins, episódio de vômito com rebaixamento, escarro fétido e cavidade com nível no segmento posterior do lobo superior: abscesso pulmonar por aspiração, de flora mista com anaeróbios. A broncoscopia atrai porque cavidade em adulto lembra carcinoma escavado, mas ela se reserva a quem tem fatores para neoplasia (tabagismo, idade acima de 45 a 50 anos, ausência de fator aspirativo, sinais de obstrução) ou não responde ao antibiótico, e aqui o paciente nunca fumou, é jovem, tem causa clara e a TC não mostra massa. O tratamento é antibiótico com cobertura de anaeróbios (amoxicilina-clavulanato, ou ampicilina-sulbactam e clindamicina) por semanas, até a cavidade regredir; a maioria cura sem drenagem. O TRM negativo em duas amostras torna a tuberculose improvável.",
-    "comentarios": {
-      "A": "Correta. Abscesso aspirativo com fator claro, estável, sem sinal de neoplasia: antibiótico com cobertura de anaeróbios por 3 a 8 semanas.",
-      "B": "Errada. Drenagem fica para falha do antibiótico, cavidade muito grande com toxemia ou empiema associado.",
-      "C": "Errada. Seria indicada em tabagista mais velho, sem fator aspirativo ou com massa; aqui nada disso existe.",
-      "D": "Errada. Duas amostras com TRM negativo e quadro agudo com escarro fétido afastam tuberculose como primeira hipótese."
-    },
-    "para_levar": "Abscesso pulmonar com fator aspirativo claro, sem tabagismo e sem massa: antibiótico com cobertura anaeróbia por semanas, sem broncoscopia nem drenagem de rotina.",
-    "referencias": "Mandell, Douglas e Bennett, Principles and Practice of Infectious Diseases, 9ª ed. 2020 (abscesso pulmonar); IDSA/ATS CAP Guideline 2019 (aspiração); SBPT, Recomendações para o manejo da PAC 2018.",
-    "tags": [
-      "Pneumonia (CM)",
-      "Pneumonia Adquirida na Comunidade PAC (CM)"
-    ],
-    "sourceQuestionId": null,
-    "alvo": "Pedir o exame invasivo do degrau seguinte quando o caso tem explicação simples."
+  "para_levar": "Hipoventilação da obesidade estável com IAH de 30 ou mais: CPAP primeiro; ventilação com dois níveis se não houver apneia grave, se o CPAP falhar ou na descompensação.",
+  "referencias": "ATS Clinical Practice Guideline on Obesity Hypoventilation Syndrome 2019; Pickwick trial (Masa et al., Lancet 2019).",
+  "tags": [
+   "SAHOS (CM)",
+   "Ventilação Não Invasiva (VNI) (CM)"
+  ],
+  "sourceQuestionId": "870f22d57e242a4",
+  "alvo": "Limiar (IAH grave) que muda a escolha; rótulo hipercapnia puxando o tratamento de maior porte."
+ },
+ {
+  "id": "S9-PNE-02",
+  "simulado": 9,
+  "area": "Pneumologia",
+  "titulo": "Complexo Mycobacterium avium em uma única cultura de escarro: repetir antes de tratar",
+  "arma": "Omissão",
+  "comando": "próximo exame",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 68 anos, magra (IMC 19 kg/m²), nunca fumou, tem tosse produtiva crônica há 2 anos, sem febre, hemoptise ou perda de peso recente. TC de tórax: bronquiectasias cilíndricas no lobo médio e na língula, com nódulos centrolobulares em árvore em brotamento, sem cavitação. Anti-HIV negativo. Duas baciloscopias e um teste rápido molecular para tuberculose no escarro foram negativos; na cultura de uma das amostras cresceu complexo Mycobacterium avium, e a cultura da outra amostra foi negativa. Ela está bem e pergunta se vai precisar tomar remédios. A conduta mais adequada agora é:",
+  "alternativas": {
+   "A": "Claritromicina, rifampicina e etambutol",
+   "B": "Esquema básico para tuberculose",
+   "C": "Nova coleta de escarro para cultura",
+   "D": "Broncoscopia com biópsia transbrônquica"
   },
-  {
-    "id": "S9-PNE-04",
-    "simulado": 9,
-    "area": "Pneumologia",
-    "titulo": "Pavimentação em mosaico com lavado leitoso PAS positivo: proteinose alveolar, não pneumocistose",
-    "arma": "Rótulo verdadeiro",
-    "comando": "diagnóstico",
-    "nivel": "média",
-    "enunciado": "Homem de 44 anos, tabagista, tem dispneia progressiva aos esforços há 10 meses, com tosse pouco produtiva; nega febre e perda de peso. Recebeu dois ciclos de antibiótico por pneumonia que não resolve. Anti-HIV negativo, sem uso de imunossupressores. SpO2 91% em repouso, poucos estertores, sem baqueteamento. DLCO 48%. TC: vidro fosco bilateral de distribuição geográfica, com espessamento de septos sobreposto (pavimentação em mosaico), poupando áreas subpleurais. Lavado broncoalveolar: aspecto leitoso, macrófagos espumosos e material acelular PAS positivo; imunofluorescência para Pneumocystis negativa; sem predomínio de eosinófilos e sem hemossiderófagos. O diagnóstico mais provável é:",
-    "alternativas": {
-      "A": "Pneumocistose",
-      "B": "Pneumonia eosinofílica crônica",
-      "C": "Hemorragia alveolar difusa",
-      "D": "Proteinose alveolar pulmonar"
-    },
-    "gabarito": "D",
-    "armadilha": "A",
-    "dado_decisivo": "aspecto leitoso, macrófagos espumosos e material acelular PAS positivo",
-    "resolucao": "Pavimentação em mosaico com vidro fosco que poupa a periferia e material espumoso no lavado lembram pneumocistose, que é a doença mais lembrada com esse padrão. Mas o paciente é imunocompetente, a evolução é de 10 meses sem febre, há dissociação entre a imagem extensa e a clínica leve, e a imunofluorescência para Pneumocystis foi negativa. O lavado leitoso com material acelular PAS positivo é o achado da proteinose alveolar, que no adulto é quase sempre autoimune (anticorpos anti-GM-CSF, mais comum em tabagistas). A confirmação vem do anti-GM-CSF sérico, e o tratamento é a lavagem pulmonar total nos sintomáticos com hipoxemia, com GM-CSF inalado (molgramostim) como opção. Cessar o tabagismo faz parte.",
-    "comentarios": {
-      "A": "Errada. Daria o mesmo padrão de imagem em imunossuprimido com febre e evolução de semanas, com imunofluorescência positiva.",
-      "B": "Errada. Daria opacidades periféricas (negativo do edema pulmonar) e eosinófilos altos no lavado.",
-      "C": "Errada. O lavado seria progressivamente hemorrágico, com hemossiderófagos.",
-      "D": "Correta. Lavado leitoso com material acelular PAS positivo e pavimentação em mosaico em imunocompetente: proteinose alveolar."
-    },
-    "para_levar": "Pavimentação em mosaico não é sinônimo de pneumocistose: lavado leitoso com material PAS positivo em imunocompetente é proteinose alveolar (autoimune, anti-GM-CSF), tratada com lavagem pulmonar total.",
-    "referencias": "Trapnell et al., Nat Rev Dis Primers 2019 (Pulmonary alveolar proteinosis); IMPALA trial (N Engl J Med 2020); SBPT, Doenças pulmonares intersticiais.",
-    "tags": [
-      "Doença Pulmonar Intersticial (CM)",
-      "Outros temas em Pneumologia (CM)"
-    ],
-    "sourceQuestionId": null,
-    "alvo": "Rótulo de imagem (pavimentação em mosaico) puxando a doença de manual; o exame que decide lido como enfeite."
+  "gabarito": "C",
+  "armadilha": "A",
+  "dado_decisivo": "a cultura da outra amostra foi negativa",
+  "resolucao": "O quadro clínico e radiológico combina com doença pulmonar por micobactéria não tuberculosa na forma nodular e bronquiectásica, e o germe isolado é o mais comum, o que empurra para o esquema com macrolídeo. Mas o MAC é ambiental, e uma cultura isolada pode ser contaminação ou colonização: o critério microbiológico exige crescimento em pelo menos duas amostras de escarro colhidas em dias diferentes (ou uma de lavado broncoalveolar). Com uma positiva e uma negativa, o passo é colher novas amostras, e não tratar. Mesmo com o diagnóstico confirmado, na forma nodular sem cavitação e com poucos sintomas, a observação é aceitável, porque o tratamento dura mais de um ano após a negativação. Esquema de tuberculose não cobre o MAC adequadamente e não está indicado com TRM negativo.",
+  "comentarios": {
+   "A": "Errada. É o esquema da doença por MAC confirmada (três vezes por semana na forma nodular); com uma única cultura positiva o critério não foi cumprido.",
+   "B": "Errada. Seria a conduta com TRM ou cultura para M. tuberculosis positivos; o isolado é MAC.",
+   "C": "Correta. Uma cultura positiva para MAC não basta: são necessárias duas amostras de escarro positivas.",
+   "D": "Errada. Lavado broncoscópico é alternativa quando não se obtém escarro; biópsia é o exame a mais."
   },
-  {
-    "id": "S9-PNE-05",
-    "simulado": 9,
-    "area": "Emergência",
-    "titulo": "Organofosforado: taquicardia não é limite da atropina, o alvo é secar o pulmão",
-    "arma": "Limiar",
-    "comando": "conduta",
-    "nivel": "difícil",
-    "enunciado": "Agricultor de 42 anos é trazido 40 minutos após ingerir um inseticida organofosforado em tentativa de suicídio. Na chegada tinha sudorese profusa, vômitos, diarreia, miose puntiforme, fasciculações, broncorreia e sibilos, com FC de 52 bpm. Recebeu atropina em bolus com doses dobradas a cada 5 minutos, totalizando 14 mg, e pralidoxima foi iniciada. Agora: FC 122 bpm, PA 138 x 84 mmHg, pupilas ainda mióticas, axilas úmidas, estertores bolhosos bilaterais, SpO2 88% com máscara de reservatório, Glasgow 13. A conduta mais adequada neste momento é:",
-    "alternativas": {
-      "A": "Trocar a atropina por fisostigmina",
-      "B": "Dobrar a dose de atropina",
-      "C": "Suspender a atropina pela taquicardia",
-      "D": "Intubar e suspender a atropina"
-    },
-    "gabarito": "B",
-    "armadilha": "C",
-    "dado_decisivo": "estertores bolhosos bilaterais",
-    "resolucao": "A FC de 122 parece sinal de atropinização plena e convida a parar. Mas na intoxicação por organofosforado a taquicardia não é contraindicação nem limite da atropina: ela pode vir da hipóxia, da broncorreia, da hipovolemia ou do efeito nicotínico. Os alvos da atropinização são pulmões limpos à ausculta, ausência de broncoespasmo, axilas secas, PAS acima de 80 mmHg e FC acima de 80 bpm. Aqui ainda há estertores bolhosos e axilas úmidas, então a dose deve continuar sendo dobrada até secar o pulmão, e depois mantida em infusão. Pupilas não servem de alvo, porque a miose pode persistir. Fisostigmina é outro inibidor de colinesterase e pioraria o quadro. Se precisar intubar, a atropina continua.",
-    "comentarios": {
-      "A": "Errada. Fisostigmina inibe a colinesterase e é antídoto da síndrome anticolinérgica, o oposto deste caso.",
-      "B": "Correta. Ainda há broncorreia e axilas úmidas: dobrar a dose até pulmões limpos, sem se guiar pela FC.",
-      "C": "Errada. A taquicardia não limita a atropina na síndrome colinérgica; parar agora deixa o paciente afogar em secreção.",
-      "D": "Errada. Intubar pode ser necessário, mas suspender a atropina nunca: a via aérea protegida segue cheia de secreção."
-    },
-    "para_levar": "Organofosforado: dobre a atropina a cada 5 minutos até pulmões limpos e axilas secas; taquicardia e miose persistente não são alvo nem limite.",
-    "referencias": "Eddleston et al., Lancet 2008 (manejo da intoxicação por organofosforado).",
-    "tags": [
-      "Intoxicações (CM)",
-      "Síndrome Colinérgica (CM)"
-    ],
-    "sourceQuestionId": "2d07c644759121b",
-    "alvo": "Limiar mal fixado (FC como alvo) e decisão sob rótulo verdadeiro na emergência."
-  }
+  "para_levar": "Micobactéria não tuberculosa no escarro só vira doença com clínica, imagem e cultura positiva em pelo menos duas amostras separadas; uma cultura isolada pede nova coleta, não tratamento.",
+  "referencias": "ATS/ERS/ESCMID/IDSA Clinical Practice Guideline for NTM Pulmonary Disease 2020; BTS NTM Guideline 2017.",
+  "tags": [
+   "MNT e Diferenciais (CM)",
+   "Bronquiectasias (CM)"
+  ],
+  "sourceQuestionId": "4a6a6b80d41f40d",
+  "alvo": "Tratar o que ainda não precisa (padrão de fazer mais); limiar de duas culturas."
+ },
+ {
+  "id": "S9-PNE-03",
+  "simulado": 9,
+  "area": "Pneumologia",
+  "titulo": "Abscesso pulmonar aspirativo em jovem não tabagista: antibiótico prolongado, sem broncoscopia nem drenagem",
+  "arma": "Negativo no meio",
+  "comando": "conduta",
+  "nivel": "média",
+  "enunciado": "Homem de 39 anos, etilista pesado, com dentes em péssimo estado, teve um episódio de embriaguez com vômitos há 3 semanas. Desde então tem febre baixa, tosse com escarro fétido e perda de 3 kg. Nunca fumou. Teste rápido molecular para tuberculose no escarro, em duas amostras: negativo. Anti-HIV negativo. SpO2 95%, PA 126 x 80 mmHg, aceitando dieta. Leucócitos 15.600/mm³. TC: cavidade de 5 cm de paredes espessas, com nível hidroaéreo, no segmento posterior do lobo superior direito, sem massa endobrônquica, sem linfonodomegalia e sem empiema. A conduta mais adequada é:",
+  "alternativas": {
+   "A": "Amoxicilina-clavulanato por semanas",
+   "B": "Drenagem percutânea guiada por TC",
+   "C": "Broncoscopia antes do antibiótico",
+   "D": "Esquema básico para tuberculose"
+  },
+  "gabarito": "A",
+  "armadilha": "C",
+  "dado_decisivo": "Nunca fumou",
+  "resolucao": "Etilista com dentes ruins, episódio de vômito com rebaixamento, escarro fétido e cavidade com nível no segmento posterior do lobo superior: abscesso pulmonar por aspiração, de flora mista com anaeróbios. A broncoscopia atrai porque cavidade em adulto lembra carcinoma escavado, mas ela se reserva a quem tem fatores para neoplasia (tabagismo, idade acima de 45 a 50 anos, ausência de fator aspirativo, sinais de obstrução) ou não responde ao antibiótico, e aqui o paciente nunca fumou, é jovem, tem causa clara e a TC não mostra massa. O tratamento é antibiótico com cobertura de anaeróbios (amoxicilina-clavulanato, ou ampicilina-sulbactam e clindamicina) por semanas, até a cavidade regredir; a maioria cura sem drenagem. O TRM negativo em duas amostras torna a tuberculose improvável.",
+  "comentarios": {
+   "A": "Correta. Abscesso aspirativo com fator claro, estável, sem sinal de neoplasia: antibiótico com cobertura de anaeróbios por 3 a 8 semanas.",
+   "B": "Errada. Drenagem fica para falha do antibiótico, cavidade muito grande com toxemia ou empiema associado.",
+   "C": "Errada. Seria indicada em tabagista mais velho, sem fator aspirativo ou com massa; aqui nada disso existe.",
+   "D": "Errada. Duas amostras com TRM negativo e quadro agudo com escarro fétido afastam tuberculose como primeira hipótese."
+  },
+  "para_levar": "Abscesso pulmonar com fator aspirativo claro, sem tabagismo e sem massa: antibiótico com cobertura anaeróbia por semanas, sem broncoscopia nem drenagem de rotina.",
+  "referencias": "Mandell, Douglas e Bennett, Principles and Practice of Infectious Diseases, 9ª ed. 2020 (abscesso pulmonar); IDSA/ATS CAP Guideline 2019 (aspiração); SBPT, Recomendações para o manejo da PAC 2018.",
+  "tags": [
+   "Pneumonia (CM)",
+   "Pneumonia Adquirida na Comunidade PAC (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Pedir o exame invasivo do degrau seguinte quando o caso tem explicação simples."
+ },
+ {
+  "id": "S9-PNE-04",
+  "simulado": 9,
+  "area": "Pneumologia",
+  "titulo": "Pavimentação em mosaico com lavado leitoso PAS positivo: proteinose alveolar, não pneumocistose",
+  "arma": "Rótulo verdadeiro",
+  "comando": "diagnóstico",
+  "nivel": "média",
+  "enunciado": "Homem de 44 anos, tabagista, tem dispneia progressiva aos esforços há 10 meses, com tosse pouco produtiva; nega febre e perda de peso. Recebeu dois ciclos de antibiótico por pneumonia que não resolve. Anti-HIV negativo, sem uso de imunossupressores. SpO2 91% em repouso, poucos estertores, sem baqueteamento. DLCO 48%. TC: vidro fosco bilateral de distribuição geográfica, com espessamento de septos sobreposto (pavimentação em mosaico), poupando áreas subpleurais. Lavado broncoalveolar: aspecto leitoso, macrófagos espumosos e material acelular PAS positivo; imunofluorescência para Pneumocystis negativa; sem predomínio de eosinófilos e sem hemossiderófagos. O diagnóstico mais provável é:",
+  "alternativas": {
+   "A": "Pneumocistose",
+   "B": "Pneumonia eosinofílica crônica",
+   "C": "Hemorragia alveolar difusa",
+   "D": "Proteinose alveolar pulmonar"
+  },
+  "gabarito": "D",
+  "armadilha": "A",
+  "dado_decisivo": "aspecto leitoso, macrófagos espumosos e material acelular PAS positivo",
+  "resolucao": "Pavimentação em mosaico com vidro fosco que poupa a periferia e material espumoso no lavado lembram pneumocistose, que é a doença mais lembrada com esse padrão. Mas o paciente é imunocompetente, a evolução é de 10 meses sem febre, há dissociação entre a imagem extensa e a clínica leve, e a imunofluorescência para Pneumocystis foi negativa. O lavado leitoso com material acelular PAS positivo é o achado da proteinose alveolar, que no adulto é quase sempre autoimune (anticorpos anti-GM-CSF, mais comum em tabagistas). A confirmação vem do anti-GM-CSF sérico, e o tratamento é a lavagem pulmonar total nos sintomáticos com hipoxemia, com GM-CSF inalado (molgramostim) como opção. Cessar o tabagismo faz parte.",
+  "comentarios": {
+   "A": "Errada. Daria o mesmo padrão de imagem em imunossuprimido com febre e evolução de semanas, com imunofluorescência positiva.",
+   "B": "Errada. Daria opacidades periféricas (negativo do edema pulmonar) e eosinófilos altos no lavado.",
+   "C": "Errada. O lavado seria progressivamente hemorrágico, com hemossiderófagos.",
+   "D": "Correta. Lavado leitoso com material acelular PAS positivo e pavimentação em mosaico em imunocompetente: proteinose alveolar."
+  },
+  "para_levar": "Pavimentação em mosaico não é sinônimo de pneumocistose: lavado leitoso com material PAS positivo em imunocompetente é proteinose alveolar (autoimune, anti-GM-CSF), tratada com lavagem pulmonar total.",
+  "referencias": "Trapnell et al., Nat Rev Dis Primers 2019 (Pulmonary alveolar proteinosis); IMPALA trial (N Engl J Med 2020); SBPT, Doenças pulmonares intersticiais.",
+  "tags": [
+   "Doença Pulmonar Intersticial (CM)",
+   "Outros temas em Pneumologia (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Rótulo de imagem (pavimentação em mosaico) puxando a doença de manual; o exame que decide lido como enfeite."
+ },
+ {
+  "id": "S9-PNE-05",
+  "simulado": 9,
+  "area": "Emergência",
+  "titulo": "Organofosforado: taquicardia não é limite da atropina, o alvo é secar o pulmão",
+  "arma": "Limiar",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Agricultor de 42 anos é trazido 40 minutos após ingerir um inseticida organofosforado em tentativa de suicídio. Na chegada tinha sudorese profusa, vômitos, diarreia, miose puntiforme, fasciculações, broncorreia e sibilos, com FC de 52 bpm. Recebeu atropina em bolus com doses dobradas a cada 5 minutos, totalizando 14 mg, e pralidoxima foi iniciada. Agora: FC 122 bpm, PA 138 x 84 mmHg, pupilas ainda mióticas, axilas úmidas, estertores bolhosos bilaterais, SpO2 88% com máscara de reservatório, Glasgow 13. A conduta mais adequada neste momento é:",
+  "alternativas": {
+   "A": "Trocar a atropina por fisostigmina",
+   "B": "Dobrar a dose de atropina",
+   "C": "Suspender a atropina pela taquicardia",
+   "D": "Intubar e suspender a atropina"
+  },
+  "gabarito": "B",
+  "armadilha": "C",
+  "dado_decisivo": "estertores bolhosos bilaterais",
+  "resolucao": "A FC de 122 parece sinal de atropinização plena e convida a parar. Mas na intoxicação por organofosforado a taquicardia não é contraindicação nem limite da atropina: ela pode vir da hipóxia, da broncorreia, da hipovolemia ou do efeito nicotínico. Os alvos da atropinização são pulmões limpos à ausculta, ausência de broncoespasmo, axilas secas, PAS acima de 80 mmHg e FC acima de 80 bpm. Aqui ainda há estertores bolhosos e axilas úmidas, então a dose deve continuar sendo dobrada até secar o pulmão, e depois mantida em infusão. Pupilas não servem de alvo, porque a miose pode persistir. Fisostigmina é outro inibidor de colinesterase e pioraria o quadro. Se precisar intubar, a atropina continua.",
+  "comentarios": {
+   "A": "Errada. Fisostigmina inibe a colinesterase e é antídoto da síndrome anticolinérgica, o oposto deste caso.",
+   "B": "Correta. Ainda há broncorreia e axilas úmidas: dobrar a dose até pulmões limpos, sem se guiar pela FC.",
+   "C": "Errada. A taquicardia não limita a atropina na síndrome colinérgica; parar agora deixa o paciente afogar em secreção.",
+   "D": "Errada. Intubar pode ser necessário, mas suspender a atropina nunca: a via aérea protegida segue cheia de secreção."
+  },
+  "para_levar": "Organofosforado: dobre a atropina a cada 5 minutos até pulmões limpos e axilas secas; taquicardia e miose persistente não são alvo nem limite.",
+  "referencias": "Eddleston et al., Lancet 2008 (manejo da intoxicação por organofosforado).",
+  "tags": [
+   "Intoxicações (CM)",
+   "Síndrome Colinérgica (CM)"
+  ],
+  "sourceQuestionId": "2d07c644759121b",
+  "alvo": "Limiar mal fixado (FC como alvo) e decisão sob rótulo verdadeiro na emergência."
+ }
 ]

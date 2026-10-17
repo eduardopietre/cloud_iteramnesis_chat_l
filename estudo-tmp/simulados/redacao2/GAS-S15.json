@@ -43,20 +43,20 @@
   "nivel": "difícil",
   "enunciado": "Gestante de 24 anos, com 24 semanas, tem HBsAg reagente no pré-natal. HBeAg reagente, anti-HBe não reagente, HBV-DNA de 8,4 x 10^7 UI/mL, ALT de 22 U/L em duas dosagens, ultrassonografia hepática normal. Anti-HIV e anti-HCV não reagentes. Assintomática. O hepatologista lembra que, na fase de imunotolerância, a hepatite B não se trata. A conduta mais adequada é:",
   "alternativas": {
-   "A": "Somente imunoprofilaxia do recém-nascido",
+   "A": "Interferon peguilado durante a gestação",
    "B": "Tenofovir a partir de agora e imunoprofilaxia do recém-nascido",
    "C": "Entecavir até o parto e cesariana eletiva",
-   "D": "Interferon peguilado durante a gestação"
+   "D": "Somente imunoprofilaxia do recém-nascido"
   },
   "gabarito": "B",
-  "armadilha": "A",
+  "armadilha": "D",
   "dado_decisivo": "HBV-DNA de 8,4 x 10^7 UI/mL",
   "resolucao": "A frase do hepatologista é um rótulo verdadeiro: com ALT normal e sem fibrose, a mãe não tem indicação de tratamento pela doença hepática. Mas a questão aqui é a criança. A vacina e a imunoglobulina ao nascer previnem a maioria das transmissões, porém falham em até 10% quando a carga viral materna é muito alta. Por isso, gestantes com HBV-DNA acima de 200.000 UI/mL (ou HBeAg reagente, quando a carga não está disponível) recebem tenofovir a partir de 24 a 28 semanas, mantido até o parto ou depois, conforme a avaliação materna, além da vacina e da imunoglobulina no recém-nascido nas primeiras 12 horas. Entecavir e interferon não são usados na gestação, e a via de parto segue indicação obstétrica.",
   "comentarios": {
-   "A": "Errada. É a armadilha: com carga viral acima de 200.000 UI/mL a imunoprofilaxia isolada falha com frequência; é preciso reduzir a viremia materna.",
+   "A": "Errada. Interferon é contraindicado na gestação.",
    "B": "Correta. Carga viral muito alta: tenofovir a partir de 24 a 28 semanas, mais vacina e imunoglobulina ao recém-nascido.",
    "C": "Errada. Entecavir não tem segurança estabelecida na gestação, e a cesariana não reduz a transmissão da hepatite B.",
-   "D": "Errada. Interferon é contraindicado na gestação."
+   "D": "Errada. É a armadilha: com carga viral acima de 200.000 UI/mL a imunoprofilaxia isolada falha com frequência; é preciso reduzir a viremia materna."
   },
   "para_levar": "Hepatite B na gestação: HBV-DNA acima de 200.000 UI/mL (ou HBeAg reagente) indica tenofovir a partir de 24 a 28 semanas, mesmo sem indicação materna, somado à imunoprofilaxia do recém-nascido.",
   "referencias": "Ministério da Saúde: Protocolo Clínico e Diretrizes Terapêuticas para Prevenção da Transmissão Vertical de HIV, Sífilis e Hepatites Virais (2022) e PCDT Hepatite B e Coinfecções (2023); EASL Clinical Practice Guidelines on hepatitis B (2025)",

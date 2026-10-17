@@ -11,18 +11,18 @@
   "alternativas": {
    "A": "Hipotensão ortostática sintomática",
    "B": "Frequência cardíaca fixa em repouso",
-   "C": "Menor variação da FC na respiração profunda",
-   "D": "Resposta pressórica reduzida ao handgrip"
+   "C": "Resposta pressórica reduzida ao handgrip",
+   "D": "Menor variação da FC na respiração profunda"
   },
-  "gabarito": "C",
+  "gabarito": "D",
   "armadilha": "A",
   "dado_decisivo": "mais precocemente, ainda sem sintomas",
   "resolucao": "Hipotensão ortostática é a manifestação mais lembrada da neuropatia autonômica, e por isso atrai, mas é tardia. A neuropatia diabética é dependente do comprimento da fibra, e o vago, o nervo autonômico mais longo, é lesado primeiro: a primeira alteração é a redução da variabilidade da frequência cardíaca, medida pela resposta à respiração profunda (relação expiração e inspiração), à manobra de Valsalva e à mudança postural. Com a perda vagal surge a taquicardia de repouso; só depois, com a lesão simpática, aparecem a resposta pressórica reduzida e a hipotensão ortostática, e a frequência fixa, que não varia com nada, marca a denervação quase completa. Por isso o rastreio com os testes de reflexos cardiovasculares se faz no assintomático: no tipo 2 ao diagnóstico e no tipo 1 após 5 anos de doença.",
   "comentarios": {
    "A": "Errada. É a armadilha: hipotensão ortostática depende de lesão simpática eferente e aparece em fase avançada.",
    "B": "Errada. A frequência fixa, sem resposta a estímulos, indica denervação cardíaca quase completa, que é tardia.",
-   "C": "Correta. A lesão vagal vem primeiro, e a perda da variação da frequência cardíaca na respiração profunda é o achado mais precoce.",
-   "D": "Errada. A resposta pressórica ao exercício isométrico avalia a via simpática, comprometida depois da parassimpática."
+   "C": "Errada. A resposta pressórica ao exercício isométrico avalia a via simpática, comprometida depois da parassimpática.",
+   "D": "Correta. A lesão vagal vem primeiro, e a perda da variação da frequência cardíaca na respiração profunda é o achado mais precoce."
   },
   "para_levar": "Neuropatia autonômica cardiovascular: primeiro cai a variabilidade da frequência cardíaca (vago), depois vem a taquicardia de repouso e só por último a hipotensão ortostática (simpático).",
   "referencias": "ADA Standards of Care in Diabetes 2026, seção 12; Pop-Busui e cols., Diabetic Neuropathy: ADA Position Statement (Diabetes Care 2017); Diretriz SBD 2024.",
@@ -44,19 +44,19 @@
   "enunciado": "Homem de 46 anos, em hemodiálise por 9 anos por glomerulonefrite crônica, recebeu transplante renal de doador falecido há 14 meses, com boa função do enxerto (creatinina 1,2 mg/dL). Antes do transplante usava calcitriol, cinacalcete e sevelâmer, com PTH entre 1.100 e 1.500 pg/mL; os três foram suspensos no transplante. Usa tacrolimo, micofenolato e prednisona 5 mg/dia. Na revisão, assintomático: cálcio total 11,4 mg/dL (albumina 4,1 g/dL), fósforo 2,0 mg/dL, PTH 620 pg/mL, 25-hidroxivitamina D 32 ng/mL, fosfatase alcalina levemente elevada. O cálcio já estava em 10,9 mg/dL no terceiro mês e não normalizou desde então. Ultrassonografia cervical: quatro paratireoides aumentadas. A causa da hipercalcemia é:",
   "alternativas": {
    "A": "Hiperparatireoidismo terciário persistente",
-   "B": "Hiperparatireoidismo secundário em regressão",
+   "B": "Excesso de calcitriol exógeno",
    "C": "Adenoma de paratireoide primário",
-   "D": "Excesso de calcitriol exógeno"
+   "D": "Hiperparatireoidismo secundário em regressão"
   },
   "gabarito": "A",
-  "armadilha": "B",
+  "armadilha": "D",
   "dado_decisivo": "O cálcio já estava em 10,9 mg/dL no terceiro mês e não normalizou desde então",
   "resolucao": "O PTH caiu de cerca de 1.300 para 620 pg/mL, e isso sugere que o hiperparatireoidismo secundário está apenas regredindo, que é a armadilha. Mas o secundário cursa com cálcio normal ou baixo; PTH alto com hipercalcemia e hipofosfatemia, com enxerto funcionando, significa que as glândulas hiperplásicas passaram a secretar de forma autônoma, sem responder ao cálcio: é o terciário. A cronologia decide: a hipercalcemia surgiu nos primeiros meses, quando o rim novo voltou a produzir calcitriol e a eliminar fósforo, e persiste após 1 ano, quando a regressão espontânea já deveria ter ocorrido. Quatro glândulas aumentadas falam de hiperplasia difusa, e não de adenoma único; o calcitriol foi suspenso há mais de 1 ano. Hipercalcemia persistente após 1 ano do transplante é indicação de paratireoidectomia subtotal, pelo risco ao enxerto (nefrocalcinose) e ao osso.",
   "comentarios": {
    "A": "Correta. PTH alto com cálcio alto e fósforo baixo, persistindo mais de 1 ano após transplante com boa função: secreção autônoma das glândulas hiperplásicas.",
-   "B": "Errada. É a armadilha: o PTH está caindo, mas o secundário não eleva o cálcio; hipercalcemia com PTH alto 14 meses depois é terciário.",
+   "B": "Errada. Hipercalcemia por calcitriol suprime o PTH, e a droga foi suspensa há 14 meses.",
    "C": "Errada. Adenoma primário aparece como glândula única; aqui as quatro estão aumentadas, depois de anos de estímulo urêmico.",
-   "D": "Errada. Hipercalcemia por calcitriol suprime o PTH, e a droga foi suspensa há 14 meses."
+   "D": "Errada. É a armadilha: o PTH está caindo, mas o secundário não eleva o cálcio; hipercalcemia com PTH alto 14 meses depois é terciário."
   },
   "para_levar": "Após transplante renal, hipercalcemia com PTH alto e fósforo baixo que persiste além de 1 ano é hiperparatireoidismo terciário; o secundário nunca dá cálcio alto.",
   "referencias": "KDIGO 2017 Clinical Practice Guideline Update for CKD-MBD; KDIGO 2009 (Care of Kidney Transplant Recipients).",

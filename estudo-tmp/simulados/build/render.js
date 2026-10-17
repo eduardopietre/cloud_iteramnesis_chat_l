@@ -21,7 +21,7 @@ const fs = require('fs');
       printBackground: true,
       displayHeaderFooter: true,
       headerTemplate: '<span></span>',
-      footerTemplate: `<div style="font-family:Inter,sans-serif;font-size:7px;color:#6b7280;width:100%;padding:0 17mm;display:flex;justify-content:space-between"><span>Iteramnese · ${rotulo.replace(/^Simulado estilo UERJ (\d)/, 'Simulado $1 estilo UERJ')}</span><span><span class="pageNumber"></span> / <span class="totalPages"></span></span></div>`,
+      footerTemplate: `<div style="font-family:Inter,sans-serif;font-size:7px;color:#6b7280;width:100%;padding:0 17mm;display:flex;justify-content:space-between"><span>Iteramnese · ${rotulo.replace(/^Simulado estilo UERJ (\d+)/, 'Simulado $1 estilo UERJ')}</span><span><span class="pageNumber"></span> / <span class="totalPages"></span></span></div>`,
       margin: { top: '18mm', bottom: '20mm', left: '17mm', right: '17mm' },
     });
     await page.close();

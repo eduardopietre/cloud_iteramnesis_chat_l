@@ -9,20 +9,20 @@
   "nivel": "extremamente difícil",
   "enunciado": "Mulher de 27 anos procura atendimento por cansaço aos grandes esforços há 1 ano. Usa aparelho auditivo desde a infância por surdez neurossensorial bilateral e foi operada de catarata congênita no primeiro ano de vida; a mãe conta que teve 'manchas vermelhas e ínguas atrás da orelha' no segundo mês da gestação e que a filha nasceu com baixo peso. Exame: PA 128x52 mmHg, FC 84 bpm, pulsos amplos e de colapso rápido nos quatro membros, ictus no 6º espaço intercostal, desviado para fora e com impulsão aumentada; SpO2 de 98% nas mãos e nos pés. ECG: sobrecarga ventricular esquerda. Radiografia de tórax: aumento de átrio e ventrículo esquerdos, botão aórtico proeminente e trama vascular pulmonar aumentada. O achado auscultatório esperado é:",
   "alternativas": {
-   "A": "Sopro diastólico aspirativo em borda esternal esquerda",
+   "A": "Sopro holossistólico em borda esternal esquerda baixa",
    "B": "Sopro contínuo em maquinária infraclavicular esquerdo",
    "C": "Desdobramento fixo de B2 e sopro pulmonar",
-   "D": "Sopro holossistólico em borda esternal esquerda baixa"
+   "D": "Sopro diastólico aspirativo em borda esternal esquerda"
   },
   "gabarito": "B",
-  "armadilha": "A",
+  "armadilha": "D",
   "dado_decisivo": "trama vascular pulmonar aumentada",
   "resolucao": "A banca tirou o sopro, e o que sobrou (PA divergente, pulsos de colapso rápido, ventrículo esquerdo dilatado) é o quadro periférico que se decorou para a insuficiência aórtica, que é a armadilha. Dois dados mudam a lesão. Catarata congênita, surdez neurossensorial e baixo peso com exantema materno no primeiro trimestre são a síndrome da rubéola congênita, cuja lesão cardíaca mais comum é a persistência do canal arterial (com estenose de ramos pulmonares). E a radiografia mostra trama vascular pulmonar aumentada com átrio esquerdo grande: há hiperfluxo pulmonar, isto é, shunt da aorta para a pulmonar, o que a insuficiência aórtica não produz. O canal com shunt importante rouba a diástole da aorta (PA diastólica baixa, pulsos amplos) e sobrecarrega átrio e ventrículo esquerdos; a ausculta é sopro contínuo, em maquinária, que envolve B2, no 2º espaço intercostal esquerdo e região infraclavicular. A saturação igual em mãos e pés afasta inversão do shunt.",
   "comentarios": {
-   "A": "Errada, e é a armadilha. A insuficiência aórtica explica os pulsos amplos e a sobrecarga esquerda, mas não o hiperfluxo pulmonar, e não tem relação com rubéola congênita.",
+   "A": "Errada. A CIV dá hiperfluxo e sobrecarga esquerda, mas não rouba a diástole aórtica: a PA diastólica e os pulsos ficam normais.",
    "B": "Correta. Rubéola congênita com pulsos amplos, sobrecarga esquerda e hiperfluxo pulmonar é persistência do canal arterial, de sopro contínuo infraclavicular esquerdo.",
    "C": "Errada. A CIA também tem hiperfluxo pulmonar, mas sobrecarrega o ventrículo direito, com átrio esquerdo normal e sem pulsos amplos.",
-   "D": "Errada. A CIV dá hiperfluxo e sobrecarga esquerda, mas não rouba a diástole aórtica: a PA diastólica e os pulsos ficam normais."
+   "D": "Errada, e é a armadilha. A insuficiência aórtica explica os pulsos amplos e a sobrecarga esquerda, mas não o hiperfluxo pulmonar, e não tem relação com rubéola congênita."
   },
   "para_levar": "Rubéola congênita (catarata, surdez, baixo peso): persistência do canal arterial, com PA divergente, pulsos amplos, hiperfluxo pulmonar e sopro contínuo infraclavicular esquerdo.",
   "referencias": "ESC 2020 (adult congenital heart disease); ACC/AHA 2018 (adult congenital heart disease); Ministério da Saúde, Guia de Vigilância em Saúde (síndrome da rubéola congênita)",
@@ -44,18 +44,18 @@
   "enunciado": "Homem de 46 anos, com valva aórtica bicúspide conhecida e sem acompanhamento, está internado há 6 dias por endocardite por Staphylococcus aureus sensível à oxacilina, em uso de oxacilina, com hemoculturas negativas desde o 3º dia. Há 10 horas tem dispneia súbita e ortopneia. Exame: PA 96x62 mmHg, FC 124 bpm, FR 30 irpm, SpO2 89% com cateter de O2, extremidades frias, crepitações até os ápices, B1 hipofonética e sopro diastólico suave e curto na borda esternal esquerda; pulsos finos, sem sinais periféricos de pulso amplo. Ecocardiograma: perfuração de folheto aórtico com regurgitação grave, fechamento precoce da valva mitral, ventrículo esquerdo de diâmetro normal e fração de ejeção de 60%, sem abscesso. Lactato 3,8 mmol/L. A conduta mais adequada é:",
   "alternativas": {
    "A": "Betabloqueador para reduzir a frequência",
-   "B": "Balão intra-aórtico como ponte",
-   "C": "Completar o antibiótico antes de operar",
+   "B": "Completar o antibiótico antes de operar",
+   "C": "Balão intra-aórtico como ponte",
    "D": "Troca valvar aórtica de emergência"
   },
   "gabarito": "D",
-  "armadilha": "B",
+  "armadilha": "C",
   "dado_decisivo": "fechamento precoce da valva mitral",
   "resolucao": "Quem aprendeu insuficiência aórtica pelos sinais periféricos (PA divergente, pulsos em martelo d'água, sopro longo) lê este quadro como regurgitação leve, mas eles são da forma crônica, em que o ventrículo esquerdo dilatado acomoda o volume. Na forma aguda, com ventrículo de tamanho normal, a pressão diastólica do ventrículo sobe até igualar a da aorta: o sopro fica curto e suave, a PA diastólica não cai, a B1 some e a valva mitral fecha antes do tempo, sinal ecocardiográfico de gravidade extrema. Com edema pulmonar, hipoperfusão e lactato alto 10 horas depois da perfuração, é insuficiência cardíaca refratária por regurgitação aórtica aguda grave, indicação de cirurgia de emergência (nas primeiras 24 horas) em qualquer fase do antibiótico. O balão intra-aórtico é contraindicado (insufla na diástole e aumenta a regurgitação), e o betabloqueador tira a taquicardia que encurta a diástole e sustenta o débito. Ponte, se necessária, é com vasodilatador e inotrópico.",
   "comentarios": {
    "A": "Errada. A taquicardia é compensatória: encurta a diástole e reduz a regurgitação; betabloquear derruba o débito.",
-   "B": "Errada, e é a armadilha. Seria ponte no choque cardiogênico do infarto ou na insuficiência mitral aguda; na insuficiência aórtica grave o balão aumenta a regurgitação e é contraindicado.",
-   "C": "Errada. A espera pelo fim do antibiótico vale para a endocardite sem complicação; insuficiência cardíaca com edema e choque por regurgitação aguda é indicação de cirurgia de emergência em qualquer dia do tratamento.",
+   "B": "Errada. A espera pelo fim do antibiótico vale para a endocardite sem complicação; insuficiência cardíaca com edema e choque por regurgitação aguda é indicação de cirurgia de emergência em qualquer dia do tratamento.",
+   "C": "Errada, e é a armadilha. Seria ponte no choque cardiogênico do infarto ou na insuficiência mitral aguda; na insuficiência aórtica grave o balão aumenta a regurgitação e é contraindicado.",
    "D": "Correta. Regurgitação aórtica aguda grave com edema pulmonar e hipoperfusão pede troca valvar de emergência, já que o ventrículo não dilatado não tolera a sobrecarga."
   },
   "para_levar": "Insuficiência aórtica aguda: sem pulso amplo, sopro curto, B1 hipofonética e fechamento precoce da mitral; com IC, cirurgia de emergência, e balão intra-aórtico e betabloqueador são contraindicados.",
@@ -112,20 +112,20 @@
   "nivel": "difícil",
   "enunciado": "Homem de 36 anos, motorista de ônibus intermunicipal, faz ECG no exame periódico do trabalho. Nunca teve palpitações, síncope, pré-síncope ou dispneia. ECG: ritmo sinusal, PR de 100 ms, onda delta e QRS de 124 ms. Ecocardiograma normal. Teste ergométrico máximo: a pré-excitação persiste até o pico do esforço, com FC de 176 bpm, sem arritmias. Holter de 24 horas: pré-excitação contínua, sem arritmias. Não tem história familiar de morte súbita. O próximo passo mais adequado é:",
   "alternativas": {
-   "A": "Seguimento clínico, sem novos exames",
+   "A": "Propafenona contínua",
    "B": "Holter de 7 dias",
    "C": "Estudo eletrofisiológico invasivo",
-   "D": "Propafenona contínua"
+   "D": "Seguimento clínico, sem novos exames"
   },
   "gabarito": "C",
-  "armadilha": "A",
+  "armadilha": "D",
   "dado_decisivo": "motorista de ônibus intermunicipal",
   "resolucao": "O rótulo 'assintomático' leva ao seguimento sem intervenção, e é o que se faz em boa parte das pré-excitações assintomáticas. Mas dois dados mudam a conduta. Primeiro, a estratificação não invasiva não mostrou baixo risco: a pré-excitação foi contínua no Holter e persistiu no pico do esforço, sem a perda abrupta que indicaria via de período refratário longo. Segundo, a ocupação: motorista profissional é atividade em que uma síncope ou morte súbita põe outras pessoas em risco. Nessas pessoas (e em atletas competitivos), o estudo eletrofisiológico é recomendado para estratificar o risco, medindo o período refratário da via, a indutibilidade e a menor RR pré-excitada em FA; se a via for de alto risco, a ablação se faz no mesmo procedimento. Antiarrítmico contínuo em assintomático não é estratégia de prevenção.",
   "comentarios": {
-   "A": "Errada, e é a armadilha. Seria a conduta no assintomático sem ocupação de risco ou com perda abrupta da pré-excitação no esforço; aqui a via não se mostrou de baixo risco e a ocupação exige estratificação.",
+   "A": "Errada. Antiarrítmico contínuo não é indicado para prevenção em pré-excitação assintomática.",
    "B": "Errada. O Holter já mostrou pré-excitação contínua; prolongar a monitorização não estratifica o risco da via.",
    "C": "Correta. Pré-excitação assintomática em ocupação de risco, sem marcador não invasivo de baixo risco, tem indicação de estudo eletrofisiológico, com ablação se a via for de alto risco.",
-   "D": "Errada. Antiarrítmico contínuo não é indicado para prevenção em pré-excitação assintomática."
+   "D": "Errada, e é a armadilha. Seria a conduta no assintomático sem ocupação de risco ou com perda abrupta da pré-excitação no esforço; aqui a via não se mostrou de baixo risco e a ocupação exige estratificação."
   },
   "para_levar": "Pré-excitação assintomática: perda abrupta no esforço ou intermitência é baixo risco; ocupação de risco ou atleta competitivo pede estudo eletrofisiológico, com ablação se a via for de alto risco.",
   "referencias": "ESC 2019 (supraventricular tachycardia); ACC/AHA/HRS 2015 (supraventricular tachycardia); PACES/HRS 2012 (asymptomatic young patients with WPW pattern)",
@@ -147,19 +147,19 @@
   "enunciado": "Mulher de 52 anos, com carcinoma de mama HER2 positivo, operada, recebeu 4 ciclos de doxorrubicina e ciclofosfamida e está no 5º mês de trastuzumabe adjuvante. Assintomática, caminha 40 minutos por dia. PA 126x78 mmHg, FC 78 bpm, sem congestão. Ecocardiograma de monitorização: fração de ejeção de 55% (basal de 63%) e queda relativa de 17% do strain longitudinal global em relação ao basal. Troponina I ultrassensível de 18 ng/L (basal 6; referência até 16) e NT-proBNP de 210 pg/mL. A conduta mais adequada é:",
   "alternativas": {
    "A": "Interromper até normalizar a fração de ejeção",
-   "B": "Suspender o trastuzumabe definitivamente",
+   "B": "Suspender e iniciar dexrazoxano",
    "C": "Manter trastuzumabe com cardioproteção",
-   "D": "Suspender e iniciar dexrazoxano"
+   "D": "Suspender o trastuzumabe definitivamente"
   },
   "gabarito": "C",
-  "armadilha": "B",
+  "armadilha": "D",
   "dado_decisivo": "fração de ejeção de 55% (basal de 63%)",
   "resolucao": "Queda de 8 pontos na fração de ejeção, strain pior e troponina subindo soam como cardiotoxicidade que obriga parar a droga, e suspender o trastuzumabe é a armadilha. A classificação da cardio-oncologia separa as faixas: com fração de ejeção de 50% ou mais e queda relativa do strain acima de 15% e/ou elevação nova de biomarcador, a disfunção é LEVE e assintomática. Nesse grau, a recomendação é manter a terapia anti-HER2, que reduz recidiva e morte pelo câncer, e considerar cardioproteção (IECA ou BRA e betabloqueador), com monitorização mais frequente. A interrupção temporária fica para a disfunção grave (fração de ejeção abaixo de 40%) ou sintomática, e na moderada (40 a 49%) assintomática, em geral se mantém a droga com cardioproteção e monitorização estreita, após discussão multidisciplinar. Ao contrário da antraciclina, a disfunção do trastuzumabe costuma ser reversível.",
   "comentarios": {
    "A": "Errada. A interrupção temporária é para disfunção grave (abaixo de 40%) ou sintomática; na leve, interromper tira do tratamento oncológico sem ganho cardíaco.",
-   "B": "Errada, e é a armadilha. Suspender definitivamente por disfunção leve e assintomática compromete a sobrevida do câncer; a disfunção do trastuzumabe é em geral reversível.",
+   "B": "Errada. Dexrazoxano é cardioprotetor durante a antraciclina, já concluída; não tem papel na disfunção pelo trastuzumabe.",
    "C": "Correta. Disfunção leve e assintomática (fração de ejeção de 50% ou mais, strain e troponina alterados): manter o trastuzumabe e considerar IECA ou BRA e betabloqueador.",
-   "D": "Errada. Dexrazoxano é cardioprotetor durante a antraciclina, já concluída; não tem papel na disfunção pelo trastuzumabe."
+   "D": "Errada, e é a armadilha. Suspender definitivamente por disfunção leve e assintomática compromete a sobrevida do câncer; a disfunção do trastuzumabe é em geral reversível."
   },
   "para_levar": "Cardiotoxicidade por trastuzumabe: leve e assintomática (FE 50% ou mais com strain ou biomarcador alterado) mantém a droga com cardioproteção; grave (abaixo de 40%) ou sintomática interrompe.",
   "referencias": "ESC 2022 (cardio-oncology); Diretriz Brasileira de Cardio-oncologia (SBC 2020)",

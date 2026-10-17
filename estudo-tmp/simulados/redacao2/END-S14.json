@@ -77,20 +77,20 @@
   "nivel": "extremamente difícil",
   "enunciado": "Homem de 50 anos é encaminhado com diagnóstico de hemocromatose genética para iniciar flebotomias. Tem obesidade (IMC 33 kg/m²), diabetes tipo 2, hipertensão e esteatose à ultrassonografia; não bebe álcool. Exames: ferritina 980 ng/mL, ferro sérico 92 µg/dL, saturação de transferrina 31%, hemoglobina 15,1 g/dL, ALT 58 U/L, PCR 4 mg/L, plaquetas 230.000/mm³. Pesquisa do HFE: heterozigose composta C282Y/H63D. O irmão de 47 anos, com o mesmo genótipo, tem ferritina normal. Sem hepatoesplenomegalia nem hiperpigmentação. O diagnóstico mais provável para a hiperferritinemia é:",
   "alternativas": {
-   "A": "Hemocromatose HFE por heterozigose composta",
+   "A": "Doença hepática alcoólica oculta",
    "B": "Hemocromatose por mutação na ferroportina",
    "C": "Hiperferritinemia dismetabólica",
-   "D": "Doença hepática alcoólica oculta"
+   "D": "Hemocromatose HFE por heterozigose composta"
   },
   "gabarito": "C",
-  "armadilha": "A",
+  "armadilha": "D",
   "dado_decisivo": "saturação de transferrina 31%",
   "resolucao": "Ferritina perto de 1.000 e um genótipo HFE alterado formam um rótulo verdadeiro e forte, e o encaminhamento já chega com o nome da doença: é a armadilha. A heterozigose composta C282Y/H63D tem penetrância muito baixa e raramente causa sobrecarga; quando causa, a saturação de transferrina sobe acima de 45%. Aqui ela é de 31%, e o irmão com o mesmo genótipo tem ferritina normal. Com obesidade, diabetes, hipertensão, esteatose e ALT elevada, a ferritina alta é reagente de fase aguda e marcador de lesão hepática metabólica, com estoque de ferro normal ou pouco aumentado. A conduta é tratar o metabolismo (peso, glicemia, esteatose), e flebotomias seriam inúteis e anemizantes. A doença da ferroportina dá ferritina alta com saturação normal, mas é autossômica dominante, rara e sem contexto metabólico que a explique.",
   "comentarios": {
-   "A": "Errada. É a armadilha: o genótipo é real, mas tem baixa penetrância, e sem saturação acima de 45% não há sobrecarga de ferro.",
+   "A": "Errada. Etanol eleva a ferritina, mas o paciente não bebe, e o padrão é explicado pelo metabolismo.",
    "B": "Errada. A doença da ferroportina também cursa com saturação normal, mas é rara e familiar dominante; a síndrome metabólica explica o quadro sem ela.",
    "C": "Correta. Ferritina alta com saturação abaixo de 45% em obeso diabético com esteatose: hiperferritinemia dismetabólica.",
-   "D": "Errada. Etanol eleva a ferritina, mas o paciente não bebe, e o padrão é explicado pelo metabolismo."
+   "D": "Errada. É a armadilha: o genótipo é real, mas tem baixa penetrância, e sem saturação acima de 45% não há sobrecarga de ferro."
   },
   "para_levar": "Ferritina alta sem saturação de transferrina acima de 45% não é sobrecarga de ferro, mesmo com genótipo HFE alterado; heterozigose composta raramente adoece.",
   "referencias": "EASL Clinical Practice Guidelines on Haemochromatosis (2022); AASLD 2011/ACG 2019 (Hereditary Hemochromatosis).",

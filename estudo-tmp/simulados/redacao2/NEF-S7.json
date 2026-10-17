@@ -1,176 +1,176 @@
 [
-  {
-    "id": "S7-NEF-01",
-    "simulado": 7,
-    "area": "Nefrologia",
-    "titulo": "Hiponatremia no usuário de tiazídico com gap de proteínas · osmolalidade sérica medida antes de investigar o rim",
-    "arma": "Rótulo verdadeiro",
-    "comando": "próximo exame",
-    "nivel": "extremamente difícil",
-    "enunciado": "Homem de 68 anos, hipertenso em uso de hidroclorotiazida 25 mg/dia há 3 anos, é avaliado por dor lombar há 2 meses e cansaço. Lúcido, orientado, sem edema, sem sinais de desidratação, PA 136/82 mmHg. Exames: sódio 130 mEq/L, potássio 4,0 mEq/L, glicose 96 mg/dL, ureia 48 mg/dL, creatinina 1,3 mg/dL, cálcio 10,1 mg/dL, proteínas totais 14,6 g/dL com albumina de 2,9 g/dL, triglicerídeos 160 mg/dL, hemoglobina 10,2 g/dL. O exame mais adequado a seguir, para conduzir a hiponatremia, é:",
-    "alternativas": {
-      "A": "Osmolalidade e sódio urinários",
-      "B": "TSH e cortisol matinal",
-      "C": "Osmolalidade sérica medida",
-      "D": "TC de crânio sem contraste"
-    },
-    "gabarito": "C",
-    "armadilha": "A",
-    "dado_decisivo": "proteínas totais 14,6 g/dL com albumina de 2,9 g/dL",
-    "resolucao": "O tiazídico é o rótulo verdadeiro: é a causa mais comum de hiponatremia induzida por droga no idoso, e o apressado segue direto para osmolalidade e sódio urinários. Mas o primeiro passo de qualquer hiponatremia é confirmar que ela é hipotônica, e o dado que obriga isso está na linha dos exames: 11,7 g/dL de globulinas (14,6 menos 2,9), com anemia e dor lombar, sugerem paraproteína de mieloma. Proteínas em excesso reduzem a fração aquosa do plasma, e o método indireto do laboratório central (que dilui a amostra) subestima o sódio: é a pseudo-hiponatremia, com osmolalidade medida normal. A osmolalidade medida separa o artefato (normal) da hiponatremia verdadeira (baixa), e só no segundo caso faz sentido seguir com osmolalidade e sódio urinários ou culpar o tiazídico; o sódio por eletrodo direto (gasometria) confirmaria o valor real. Se for artefato, o passo seguinte do caso passa a ser a investigação do mieloma, e não a do sódio.",
-    "comentarios": {
-      "A": "Errada. Seria o passo seguinte numa hiponatremia já confirmada como hipotônica (osmolalidade baixa), para separar SIADH, tiazídico e perda renal; aqui ela ainda não foi confirmada.",
-      "B": "Errada. Hipotireoidismo e insuficiência adrenal se excluem antes de rotular SIADH, também só depois de confirmar hipotonicidade.",
-      "C": "Correta. Globulinas de 11,7 g/dL sugerem paraproteína e pseudo-hiponatremia; a osmolalidade medida decide se há hiponatremia verdadeira a investigar.",
-      "D": "Errada. Seria considerada com sintomas neurológicos agudos; ele está lúcido e sem déficit."
-    },
-    "para_levar": "Toda hiponatremia começa pela osmolalidade sérica medida. Gap proteína-albumina alto (mieloma) ou triglicerídeos muito altos causam pseudo-hiponatremia pelo método indireto, com osmolalidade normal.",
-    "referencias": "Spasovski G et al. Clinical practice guideline on diagnosis and treatment of hyponatraemia (ESE/ESICM/ERA-EDTA). Eur J Endocrinol 2014; Verbalis JG et al. Diagnosis, evaluation, and treatment of hyponatremia: expert panel recommendations. Am J Med 2013.",
-    "tags": [
-      "Hiponatremia (CM)",
-      "Distúrbios do Sódio (CM)",
-      "Mieloma Múltiplo (CM)"
-    ],
-    "sourceQuestionId": "2a94e1491db9c7c",
-    "alvo": "Rótulo verdadeiro (tiazídico) e exame que decide lido como enfeite (proteínas totais); próximo exame no degrau certo."
+ {
+  "id": "S7-NEF-01",
+  "simulado": 7,
+  "area": "Nefrologia",
+  "titulo": "Hiponatremia no usuário de tiazídico com gap de proteínas · osmolalidade sérica medida antes de investigar o rim",
+  "arma": "Rótulo verdadeiro",
+  "comando": "próximo exame",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 68 anos, hipertenso em uso de hidroclorotiazida 25 mg/dia há 3 anos, é avaliado por dor lombar há 2 meses e cansaço. Lúcido, orientado, sem edema, sem sinais de desidratação, PA 136/82 mmHg. Exames: sódio 130 mEq/L, potássio 4,0 mEq/L, glicose 96 mg/dL, ureia 48 mg/dL, creatinina 1,3 mg/dL, cálcio 10,1 mg/dL, proteínas totais 14,6 g/dL com albumina de 2,9 g/dL, triglicerídeos 160 mg/dL, hemoglobina 10,2 g/dL. O exame mais adequado a seguir, para conduzir a hiponatremia, é:",
+  "alternativas": {
+   "A": "TC de crânio sem contraste",
+   "B": "TSH e cortisol matinal",
+   "C": "Osmolalidade sérica medida",
+   "D": "Osmolalidade e sódio urinários"
   },
-  {
-    "id": "S7-NEF-02",
-    "simulado": 7,
-    "area": "Nefrologia",
-    "titulo": "Paralisia hipocalêmica com potássio urinário baixo e taquicardia · reposição cautelosa e propranolol pelo risco de rebote",
-    "arma": "Grade X / Y",
-    "comando": "conduta",
-    "nivel": "difícil",
-    "enunciado": "Homem de 26 anos, descendente de japoneses, acorda sem conseguir levantar da cama, com fraqueza nas quatro extremidades, após jantar com grande quantidade de massas e cerveja na véspera. Teve episódio semelhante e mais leve há 2 meses, com recuperação espontânea em horas. Refere perda de 5 kg em 3 meses e palpitações. Não usa diuréticos nem laxantes; sem vômitos ou diarreia. Exame: PA 142/68 mmHg, FC 124 bpm, tremor fino, tireoide difusamente aumentada, força grau 2 proximal nos quatro membros, reflexos abolidos, sensibilidade normal. Exames: potássio 1,9 mEq/L, bicarbonato 24 mEq/L, magnésio 2,0 mg/dL, fósforo 2,0 mg/dL, potássio urinário em amostra isolada de 9 mEq/L. ECG com ondas U proeminentes. Quanto à reposição de potássio e ao betabloqueador, a conduta é, respectivamente:",
-    "alternativas": {
-      "A": "Agressiva / apenas metimazol",
-      "B": "Cautelosa / apenas metimazol",
-      "C": "Agressiva / propranolol oral",
-      "D": "Cautelosa / propranolol oral"
-    },
-    "gabarito": "D",
-    "armadilha": "C",
-    "dado_decisivo": "potássio urinário em amostra isolada de 9 mEq/L",
-    "resolucao": "Potássio de 1,9 com paralisia leva o apressado à reposição agressiva, mas o potássio urinário de 9 mEq/L mostra que o rim está poupando potássio: não houve perda, houve deslocamento para dentro das células, mediado pelo hormônio tireoidiano e pela insulina da refeição rica em carboidrato, que aumentam a Na/K-ATPase. Na paralisia periódica tireotóxica o estoque corporal de potássio é normal, e repor grandes quantidades leva a hipercalemia de rebote quando o deslocamento se desfaz (descrita em até 40% dos casos com mais de 90 mEq). Por isso a reposição é cautelosa, em doses pequenas (até cerca de 10 mEq/h e poucas dezenas de mEq no total), com potássio seriado. O propranolol, betabloqueador não seletivo, bloqueia o estímulo adrenérgico à bomba e reverte a paralisia mesmo com pouco potássio; o metimazol trata a causa, mas não age na crise.",
-    "comentarios": {
-      "A": "Errada. Erra as duas metades: reposição agressiva arrisca rebote e o metimazol leva semanas para agir.",
-      "B": "Errada. A reposição está certa, mas sem betabloqueador a paralisia demora a reverter; o metimazol não age na crise.",
-      "C": "Errada. É a resposta de quem lê só o potássio sérico; seria correta na paralisia por perda real (diurético, diarreia, ATR), com potássio urinário alto ou perda evidente.",
-      "D": "Correta. Potássio urinário de 9 mEq/L indica deslocamento sem perda: reposição pequena e propranolol, que reverte a causa do deslocamento."
-    },
-    "para_levar": "Paralisia hipocalêmica com potássio urinário baixo e tireotoxicose é deslocamento transcelular: repor pouco potássio (risco de hipercalemia de rebote) e dar propranolol.",
-    "referencias": "Ross DS et al. 2016 American Thyroid Association Guidelines for Hyperthyroidism and Other Causes of Thyrotoxicosis; Lin SH. Thyrotoxic periodic paralysis. Mayo Clin Proc 2005; UpToDate 2026.",
-    "tags": [
-      "Hipopotassemia (CM)",
-      "Hipertireoidismo e Tireotoxicose (CM)",
-      "Distúrbio do Potássio (CM)"
-    ],
-    "sourceQuestionId": "510153d2f595659",
-    "alvo": "Fazer mais do que o caso pede (repor o número) e ignorar o exame urinário que decide."
+  "gabarito": "C",
+  "armadilha": "D",
+  "dado_decisivo": "proteínas totais 14,6 g/dL com albumina de 2,9 g/dL",
+  "resolucao": "O tiazídico é o rótulo verdadeiro: é a causa mais comum de hiponatremia induzida por droga no idoso, e o apressado segue direto para osmolalidade e sódio urinários. Mas o primeiro passo de qualquer hiponatremia é confirmar que ela é hipotônica, e o dado que obriga isso está na linha dos exames: 11,7 g/dL de globulinas (14,6 menos 2,9), com anemia e dor lombar, sugerem paraproteína de mieloma. Proteínas em excesso reduzem a fração aquosa do plasma, e o método indireto do laboratório central (que dilui a amostra) subestima o sódio: é a pseudo-hiponatremia, com osmolalidade medida normal. A osmolalidade medida separa o artefato (normal) da hiponatremia verdadeira (baixa), e só no segundo caso faz sentido seguir com osmolalidade e sódio urinários ou culpar o tiazídico; o sódio por eletrodo direto (gasometria) confirmaria o valor real. Se for artefato, o passo seguinte do caso passa a ser a investigação do mieloma, e não a do sódio.",
+  "comentarios": {
+   "A": "Errada. Seria considerada com sintomas neurológicos agudos; ele está lúcido e sem déficit.",
+   "B": "Errada. Hipotireoidismo e insuficiência adrenal se excluem antes de rotular SIADH, também só depois de confirmar hipotonicidade.",
+   "C": "Correta. Globulinas de 11,7 g/dL sugerem paraproteína e pseudo-hiponatremia; a osmolalidade medida decide se há hiponatremia verdadeira a investigar.",
+   "D": "Errada. Seria o passo seguinte numa hiponatremia já confirmada como hipotônica (osmolalidade baixa), para separar SIADH, tiazídico e perda renal; aqui ela ainda não foi confirmada."
   },
-  {
-    "id": "S7-NEF-03",
-    "simulado": 7,
-    "area": "Nefrologia",
-    "titulo": "Glomerulonefrite com IgA dominante durante bacteremia estafilocócica no diabético · infecção ativa, e não nefropatia por IgA primária",
-    "arma": "Rótulo verdadeiro",
-    "comando": "etiologia",
-    "nivel": "extremamente difícil",
-    "enunciado": "Homem de 67 anos, com diabetes tipo 2 há 20 anos, está internado há 12 dias por osteomielite do pé com bacteremia por Staphylococcus aureus sensível à oxacilina, em uso de oxacilina; as hemoculturas do quinto dia ainda eram positivas e a úlcera continua drenando secreção purulenta. Creatinina basal 1,1 mg/dL, hoje 3,2 mg/dL. EAS: 50 hemácias por campo, 70% dismórficas, cilindros hemáticos, proteinúria 2+; proteinúria de 2,4 g/24 h. Sem exantema, sem eosinofilia, sem púrpura. C3 levemente reduzido, C4 normal, ANCA negativo. Ecocardiograma transesofágico sem vegetações. A biópsia renal mostra glomerulonefrite proliferativa endocapilar e exsudativa com depósitos dominantes de IgA e de C3 na imunofluorescência. A causa mais provável da lesão renal é:",
-    "alternativas": {
-      "A": "Glomerulonefrite associada ao estafilococo",
-      "B": "Nefropatia por IgA primária",
-      "C": "Nefrite intersticial pela oxacilina",
-      "D": "Vasculite por IgA do adulto"
-    },
-    "gabarito": "A",
-    "armadilha": "B",
-    "dado_decisivo": "as hemoculturas do quinto dia ainda eram positivas e a úlcera continua drenando secreção purulenta",
-    "resolucao": "Depósito dominante de IgA na imunofluorescência é o rótulo verdadeiro que leva à nefropatia por IgA primária. O dado que decide está no começo do caso: a nefrite surge DURANTE uma infecção estafilocócica ativa e persistente, em idoso diabético, que é exatamente o perfil da glomerulonefrite associada ao estafilococo com IgA dominante. Diferente da pós-estreptocócica, ela não tem latência (é concomitante à infecção), atinge idosos, diabéticos e imunossuprimidos, e o C3 pode estar só levemente baixo; a histologia é endocapilar e exsudativa, com IgA e C3 forte. Reconhecer muda a conduta: o tratamento é erradicar a infecção (desbridamento, antibiótico), e corticoide ou imunossupressor, que seriam tentadores para uma nefropatia por IgA, pioram o prognóstico. O transesofágico negativo afasta a glomerulonefrite da endocardite, e a ausência de exantema e eosinofilia, com hematúria dismórfica e cilindros hemáticos, afasta a nefrite intersticial.",
-    "comentarios": {
-      "A": "Correta. Nefrite concomitante a infecção estafilocócica ativa, em diabético idoso, com IgA e C3 na biópsia.",
-      "B": "Errada. Seria o diagnóstico com hematúria episódica em adulto jovem, sem infecção ativa, ou com infecção de mucosa só como gatilho; aqui a infecção profunda persistente é a causa.",
-      "C": "Errada. Seria a causa com exantema, eosinofilia, leucocitúria e cilindros leucocitários; cilindros hemáticos e hematúria dismórfica localizam a lesão no glomérulo.",
-      "D": "Errada. A vasculite por IgA do adulto teria púrpura palpável, dor abdominal ou artralgia, e não explicaria a coincidência com a bacteremia."
-    },
-    "para_levar": "Glomerulonefrite com IgA dominante durante infecção estafilocócica ativa (idoso, diabético) é glomerulonefrite associada ao estafilococo: tratar a infecção, sem imunossupressão.",
-    "referencias": "Nasr SH, D'Agati VD. IgA-dominant postinfectious glomerulonephritis. Nephron Clin Pract 2011; KDIGO 2021 Glomerular Diseases Guideline (infection-related GN); UpToDate 2026.",
-    "tags": [
-      "Síndrome Nefrítica (CM)",
-      "Glomerulopatias (CM)",
-      "Infecção de Corrente Sanguínea (CM)"
-    ],
-    "sourceQuestionId": "12591abad2affd7",
-    "alvo": "Rótulo verdadeiro (IgA na biópsia) contra a cronologia que decide; nefrítica é lacuna registrada."
+  "para_levar": "Toda hiponatremia começa pela osmolalidade sérica medida. Gap proteína-albumina alto (mieloma) ou triglicerídeos muito altos causam pseudo-hiponatremia pelo método indireto, com osmolalidade normal.",
+  "referencias": "Spasovski G et al. Clinical practice guideline on diagnosis and treatment of hyponatraemia (ESE/ESICM/ERA-EDTA). Eur J Endocrinol 2014; Verbalis JG et al. Diagnosis, evaluation, and treatment of hyponatremia: expert panel recommendations. Am J Med 2013.",
+  "tags": [
+   "Hiponatremia (CM)",
+   "Distúrbios do Sódio (CM)",
+   "Mieloma Múltiplo (CM)"
+  ],
+  "sourceQuestionId": "2a94e1491db9c7c",
+  "alvo": "Rótulo verdadeiro (tiazídico) e exame que decide lido como enfeite (proteínas totais); próximo exame no degrau certo."
+ },
+ {
+  "id": "S7-NEF-02",
+  "simulado": 7,
+  "area": "Nefrologia",
+  "titulo": "Paralisia hipocalêmica com potássio urinário baixo e taquicardia · reposição cautelosa e propranolol pelo risco de rebote",
+  "arma": "Grade X / Y",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Homem de 26 anos, descendente de japoneses, acorda sem conseguir levantar da cama, com fraqueza nas quatro extremidades, após jantar com grande quantidade de massas e cerveja na véspera. Teve episódio semelhante e mais leve há 2 meses, com recuperação espontânea em horas. Refere perda de 5 kg em 3 meses e palpitações. Não usa diuréticos nem laxantes; sem vômitos ou diarreia. Exame: PA 142/68 mmHg, FC 124 bpm, tremor fino, tireoide difusamente aumentada, força grau 2 proximal nos quatro membros, reflexos abolidos, sensibilidade normal. Exames: potássio 1,9 mEq/L, bicarbonato 24 mEq/L, magnésio 2,0 mg/dL, fósforo 2,0 mg/dL, potássio urinário em amostra isolada de 9 mEq/L. ECG com ondas U proeminentes. Quanto à reposição de potássio e ao betabloqueador, a conduta é, respectivamente:",
+  "alternativas": {
+   "A": "Agressiva / apenas metimazol",
+   "B": "Cautelosa / apenas metimazol",
+   "C": "Agressiva / propranolol oral",
+   "D": "Cautelosa / propranolol oral"
   },
-  {
-    "id": "S7-NEF-04",
-    "simulado": 7,
-    "area": "Nefrologia",
-    "titulo": "Lesão renal 40 horas após aciclovir intravenoso em bolus e pouca hidratação · nefropatia por cristais",
-    "arma": "Cronologia",
-    "comando": "mecanismo",
-    "nivel": "difícil",
-    "enunciado": "Mulher de 38 anos, com 50 kg e previamente hígida, iniciou aciclovir intravenoso 10 mg/kg a cada 8 horas, infundido em 20 minutos, por suspeita de encefalite herpética. Por estar em jejum, recebeu apenas 500 mL de cristaloide nas primeiras 24 horas. Creatinina de admissão 0,7 mg/dL; 40 horas depois, 2,4 mg/dL, com dor lombar bilateral e diurese de 0,6 mL/kg/h. PA 122/76 mmHg, afebril, sem exantema. EAS com leucocitúria discreta, hematúria microscópica e sem eosinófilos na urina; ultrassom com rins de tamanho normal, sem hidronefrose. Não recebeu contraste, anti-inflamatório nem aminoglicosídeo. O mecanismo mais provável da lesão renal é:",
-    "alternativas": {
-      "A": "Nefrite intersticial de hipersensibilidade",
-      "B": "Precipitação de cristais nos túbulos",
-      "C": "Necrose tubular por hipoperfusão",
-      "D": "Vasoconstrição da arteríola aferente"
-    },
-    "gabarito": "B",
-    "armadilha": "A",
-    "dado_decisivo": "40 horas depois",
-    "resolucao": "Lesão renal após antiviral com leucocitúria puxa para nefrite intersticial, mas a cronologia não combina: a nefrite de hipersensibilidade leva em geral 7 a 10 dias de exposição (ou poucos dias numa reexposição), e aqui a creatinina triplicou em 40 horas. O aciclovir é pouco solúvel na urina; infundido rápido (deveria correr em pelo menos 1 hora) e em paciente pouco hidratada, ele precipita nos túbulos e causa obstrução intratubular, com dor lombar e cristais em agulha birrefringentes no sedimento quando procurados. É uma lesão de 24 a 48 horas, reversível com hidratação vigorosa e ajuste da dose à função renal, sem suspender o antiviral se a encefalite herpética for provável. A PA normal afasta necrose isquêmica, e vasoconstrição aferente é o mecanismo de AINE e inibidor de calcineurina, não do aciclovir.",
-    "comentarios": {
-      "A": "Errada. Seria o mecanismo após cerca de uma semana de exposição a betalactâmico, IBP ou AINE, com exantema, febre ou eosinofilia; 40 horas é cedo demais.",
-      "B": "Correta. Infusão rápida, pouca hidratação e lesão em 24 a 48 horas com dor lombar: cristais de aciclovir nos túbulos.",
-      "C": "Errada. Exigiria hipotensão ou choque; a PA de 122/76 mmHg se manteve.",
-      "D": "Errada. É o mecanismo dos AINE e dos inibidores de calcineurina; ela não recebeu nenhum deles."
-    },
-    "para_levar": "Aciclovir intravenoso causa nefropatia por cristais em 24 a 48 horas, sobretudo com infusão rápida e pouca hidratação: prevenir com infusão em 1 hora, hidratação e dose ajustada à função renal.",
-    "referencias": "Perazella MA. Crystal-induced acute renal failure. Am J Med 1999; KDIGO 2012 AKI Guideline; UpToDate 2026 (acyclovir nephrotoxicity).",
-    "tags": [
-      "Nefrotoxicidade por Drogas (CM)",
-      "Meningoencefalite Herpética (CM)",
-      "Injúria Renal Aguda (CM)"
-    ],
-    "sourceQuestionId": null,
-    "alvo": "Cronologia como dado decisivo, que ele já acerta em IRA pré-renal; aqui o tempo separa cristal de hipersensibilidade."
+  "gabarito": "D",
+  "armadilha": "C",
+  "dado_decisivo": "potássio urinário em amostra isolada de 9 mEq/L",
+  "resolucao": "Potássio de 1,9 com paralisia leva o apressado à reposição agressiva, mas o potássio urinário de 9 mEq/L mostra que o rim está poupando potássio: não houve perda, houve deslocamento para dentro das células, mediado pelo hormônio tireoidiano e pela insulina da refeição rica em carboidrato, que aumentam a Na/K-ATPase. Na paralisia periódica tireotóxica o estoque corporal de potássio é normal, e repor grandes quantidades leva a hipercalemia de rebote quando o deslocamento se desfaz (descrita em até 40% dos casos com mais de 90 mEq). Por isso a reposição é cautelosa, em doses pequenas (até cerca de 10 mEq/h e poucas dezenas de mEq no total), com potássio seriado. O propranolol, betabloqueador não seletivo, bloqueia o estímulo adrenérgico à bomba e reverte a paralisia mesmo com pouco potássio; o metimazol trata a causa, mas não age na crise.",
+  "comentarios": {
+   "A": "Errada. Erra as duas metades: reposição agressiva arrisca rebote e o metimazol leva semanas para agir.",
+   "B": "Errada. A reposição está certa, mas sem betabloqueador a paralisia demora a reverter; o metimazol não age na crise.",
+   "C": "Errada. É a resposta de quem lê só o potássio sérico; seria correta na paralisia por perda real (diurético, diarreia, ATR), com potássio urinário alto ou perda evidente.",
+   "D": "Correta. Potássio urinário de 9 mEq/L indica deslocamento sem perda: reposição pequena e propranolol, que reverte a causa do deslocamento."
   },
-  {
-    "id": "S7-NEF-05",
-    "simulado": 7,
-    "area": "Nefrologia",
-    "titulo": "Estenose aterosclerótica de artéria renal com edema pulmonar súbito recorrente · exceção que indica revascularização",
-    "arma": "Negativo no meio",
-    "comando": "conduta",
-    "nivel": "extremamente difícil",
-    "enunciado": "Mulher de 71 anos, tabagista, com hipertensão há 20 anos, usa anlodipino 10 mg, losartana 100 mg, clortalidona 25 mg e espironolactona 25 mg, com PA de consultório de 138/84 mmHg. Nos últimos 6 meses teve dois episódios de edema agudo de pulmão de instalação súbita, com PA de 220/120 mmHg na chegada, resolvidos com nitrato e diurético. Ecocardiograma: fração de ejeção de 62%, sem valvopatia significativa; cateterismo sem lesões coronarianas obstrutivas. Creatinina 1,4 mg/dL, estável há 1 ano; potássio 4,6 mEq/L. Angiotomografia: estenose aterosclerótica de 80% no óstio da artéria renal direita, rim direito de 9,8 cm e esquerdo de 11 cm, sem lesão à esquerda. A conduta mais adequada é:",
-    "alternativas": {
-      "A": "Angioplastia renal com stent",
-      "B": "Manter o tratamento clínico otimizado",
-      "C": "Suspender a losartana",
-      "D": "Nefrectomia direita"
-    },
-    "gabarito": "A",
-    "armadilha": "B",
-    "dado_decisivo": "fração de ejeção de 62%, sem valvopatia significativa; cateterismo sem lesões coronarianas obstrutivas",
-    "resolucao": "Quem estudou os ensaios ASTRAL e CORAL sabe que, na estenose aterosclerótica de artéria renal, a angioplastia não supera o tratamento clínico otimizado para PA e função renal, e marca manter o tratamento. Esse é o raciocínio de manual que este caso derruba. Os ensaios excluíram ou sub-representaram os pacientes com edema pulmonar súbito recorrente (síndrome de Pickering), e esta é uma das poucas indicações aceitas de revascularização, junto com perda rápida e inexplicada de função renal e hipertensão verdadeiramente refratária. O negativo no meio do caso é o que fecha o raciocínio: fração de ejeção preservada, sem valvopatia e sem coronariopatia, ou seja, o edema pulmonar não tem causa cardíaca e é atribuído à estenose renal com ativação neuro-humoral. A PA de consultório controlada é um distrator: os episódios são de crise.",
-    "comentarios": {
-      "A": "Correta. Edema pulmonar súbito recorrente sem causa cardíaca é indicação de revascularização da estenose aterosclerótica.",
-      "B": "Errada. Seria a conduta na estenose aterosclerótica com PA controlada e função estável, sem edema pulmonar súbito (a população do CORAL e do ASTRAL).",
-      "C": "Errada. Seria considerada com estenose bilateral ou de rim único e queda da filtração após o bloqueio do SRAA; com estenose unilateral, creatinina estável e potássio de 4,6, a losartana pode ser mantida e não causa os episódios.",
-      "D": "Errada. Nefrectomia fica para rim atrófico e sem função (em geral menor que 7 cm) com hipertensão refratária e oclusão não revascularizável; o rim direito tem 9,8 cm."
-    },
-    "para_levar": "Estenose aterosclerótica de artéria renal: tratamento clínico por padrão; revascularizar só com edema pulmonar súbito recorrente, perda rápida de função ou hipertensão refratária verdadeira.",
-    "referencias": "2024 ESC Guidelines for the management of elevated blood pressure and hypertension; 2017 ESC/ESVS Guidelines on the Diagnosis and Treatment of Peripheral Arterial Diseases (doença renovascular); SCAI 2014 Expert Consensus Statement for Renal Artery Stenting; CORAL (2014) e ASTRAL (2009).",
-    "tags": [
-      "HAS Secundária (CM)",
-      "Hipertensão Arterial Sistêmica (CM)"
-    ],
-    "sourceQuestionId": null,
-    "alvo": "Conduta de manual que o caso derruba: a exceção à regra decorada, com o negativo que exclui a causa cardíaca."
-  }
+  "para_levar": "Paralisia hipocalêmica com potássio urinário baixo e tireotoxicose é deslocamento transcelular: repor pouco potássio (risco de hipercalemia de rebote) e dar propranolol.",
+  "referencias": "Ross DS et al. 2016 American Thyroid Association Guidelines for Hyperthyroidism and Other Causes of Thyrotoxicosis; Lin SH. Thyrotoxic periodic paralysis. Mayo Clin Proc 2005; UpToDate 2026.",
+  "tags": [
+   "Hipopotassemia (CM)",
+   "Hipertireoidismo e Tireotoxicose (CM)",
+   "Distúrbio do Potássio (CM)"
+  ],
+  "sourceQuestionId": "510153d2f595659",
+  "alvo": "Fazer mais do que o caso pede (repor o número) e ignorar o exame urinário que decide."
+ },
+ {
+  "id": "S7-NEF-03",
+  "simulado": 7,
+  "area": "Nefrologia",
+  "titulo": "Glomerulonefrite com IgA dominante durante bacteremia estafilocócica no diabético · infecção ativa, e não nefropatia por IgA primária",
+  "arma": "Rótulo verdadeiro",
+  "comando": "etiologia",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 67 anos, com diabetes tipo 2 há 20 anos, está internado há 12 dias por osteomielite do pé com bacteremia por Staphylococcus aureus sensível à oxacilina, em uso de oxacilina; as hemoculturas do quinto dia ainda eram positivas e a úlcera continua drenando secreção purulenta. Creatinina basal 1,1 mg/dL, hoje 3,2 mg/dL. EAS: 50 hemácias por campo, 70% dismórficas, cilindros hemáticos, proteinúria 2+; proteinúria de 2,4 g/24 h. Sem exantema, sem eosinofilia, sem púrpura. C3 levemente reduzido, C4 normal, ANCA negativo. Ecocardiograma transesofágico sem vegetações. A biópsia renal mostra glomerulonefrite proliferativa endocapilar e exsudativa com depósitos dominantes de IgA e de C3 na imunofluorescência. A causa mais provável da lesão renal é:",
+  "alternativas": {
+   "A": "Glomerulonefrite associada ao estafilococo",
+   "B": "Nefropatia por IgA primária",
+   "C": "Nefrite intersticial pela oxacilina",
+   "D": "Vasculite por IgA do adulto"
+  },
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "as hemoculturas do quinto dia ainda eram positivas e a úlcera continua drenando secreção purulenta",
+  "resolucao": "Depósito dominante de IgA na imunofluorescência é o rótulo verdadeiro que leva à nefropatia por IgA primária. O dado que decide está no começo do caso: a nefrite surge DURANTE uma infecção estafilocócica ativa e persistente, em idoso diabético, que é exatamente o perfil da glomerulonefrite associada ao estafilococo com IgA dominante. Diferente da pós-estreptocócica, ela não tem latência (é concomitante à infecção), atinge idosos, diabéticos e imunossuprimidos, e o C3 pode estar só levemente baixo; a histologia é endocapilar e exsudativa, com IgA e C3 forte. Reconhecer muda a conduta: o tratamento é erradicar a infecção (desbridamento, antibiótico), e corticoide ou imunossupressor, que seriam tentadores para uma nefropatia por IgA, pioram o prognóstico. O transesofágico negativo afasta a glomerulonefrite da endocardite, e a ausência de exantema e eosinofilia, com hematúria dismórfica e cilindros hemáticos, afasta a nefrite intersticial.",
+  "comentarios": {
+   "A": "Correta. Nefrite concomitante a infecção estafilocócica ativa, em diabético idoso, com IgA e C3 na biópsia.",
+   "B": "Errada. Seria o diagnóstico com hematúria episódica em adulto jovem, sem infecção ativa, ou com infecção de mucosa só como gatilho; aqui a infecção profunda persistente é a causa.",
+   "C": "Errada. Seria a causa com exantema, eosinofilia, leucocitúria e cilindros leucocitários; cilindros hemáticos e hematúria dismórfica localizam a lesão no glomérulo.",
+   "D": "Errada. A vasculite por IgA do adulto teria púrpura palpável, dor abdominal ou artralgia, e não explicaria a coincidência com a bacteremia."
+  },
+  "para_levar": "Glomerulonefrite com IgA dominante durante infecção estafilocócica ativa (idoso, diabético) é glomerulonefrite associada ao estafilococo: tratar a infecção, sem imunossupressão.",
+  "referencias": "Nasr SH, D'Agati VD. IgA-dominant postinfectious glomerulonephritis. Nephron Clin Pract 2011; KDIGO 2021 Glomerular Diseases Guideline (infection-related GN); UpToDate 2026.",
+  "tags": [
+   "Síndrome Nefrítica (CM)",
+   "Glomerulopatias (CM)",
+   "Infecção de Corrente Sanguínea (CM)"
+  ],
+  "sourceQuestionId": "12591abad2affd7",
+  "alvo": "Rótulo verdadeiro (IgA na biópsia) contra a cronologia que decide; nefrítica é lacuna registrada."
+ },
+ {
+  "id": "S7-NEF-04",
+  "simulado": 7,
+  "area": "Nefrologia",
+  "titulo": "Lesão renal 40 horas após aciclovir intravenoso em bolus e pouca hidratação · nefropatia por cristais",
+  "arma": "Cronologia",
+  "comando": "mecanismo",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 38 anos, com 50 kg e previamente hígida, iniciou aciclovir intravenoso 10 mg/kg a cada 8 horas, infundido em 20 minutos, por suspeita de encefalite herpética. Por estar em jejum, recebeu apenas 500 mL de cristaloide nas primeiras 24 horas. Creatinina de admissão 0,7 mg/dL; 40 horas depois, 2,4 mg/dL, com dor lombar bilateral e diurese de 0,6 mL/kg/h. PA 122/76 mmHg, afebril, sem exantema. EAS com leucocitúria discreta, hematúria microscópica e sem eosinófilos na urina; ultrassom com rins de tamanho normal, sem hidronefrose. Não recebeu contraste, anti-inflamatório nem aminoglicosídeo. O mecanismo mais provável da lesão renal é:",
+  "alternativas": {
+   "A": "Vasoconstrição da arteríola aferente",
+   "B": "Precipitação de cristais nos túbulos",
+   "C": "Necrose tubular por hipoperfusão",
+   "D": "Nefrite intersticial de hipersensibilidade"
+  },
+  "gabarito": "B",
+  "armadilha": "D",
+  "dado_decisivo": "40 horas depois",
+  "resolucao": "Lesão renal após antiviral com leucocitúria puxa para nefrite intersticial, mas a cronologia não combina: a nefrite de hipersensibilidade leva em geral 7 a 10 dias de exposição (ou poucos dias numa reexposição), e aqui a creatinina triplicou em 40 horas. O aciclovir é pouco solúvel na urina; infundido rápido (deveria correr em pelo menos 1 hora) e em paciente pouco hidratada, ele precipita nos túbulos e causa obstrução intratubular, com dor lombar e cristais em agulha birrefringentes no sedimento quando procurados. É uma lesão de 24 a 48 horas, reversível com hidratação vigorosa e ajuste da dose à função renal, sem suspender o antiviral se a encefalite herpética for provável. A PA normal afasta necrose isquêmica, e vasoconstrição aferente é o mecanismo de AINE e inibidor de calcineurina, não do aciclovir.",
+  "comentarios": {
+   "A": "Errada. É o mecanismo dos AINE e dos inibidores de calcineurina; ela não recebeu nenhum deles.",
+   "B": "Correta. Infusão rápida, pouca hidratação e lesão em 24 a 48 horas com dor lombar: cristais de aciclovir nos túbulos.",
+   "C": "Errada. Exigiria hipotensão ou choque; a PA de 122/76 mmHg se manteve.",
+   "D": "Errada. Seria o mecanismo após cerca de uma semana de exposição a betalactâmico, IBP ou AINE, com exantema, febre ou eosinofilia; 40 horas é cedo demais."
+  },
+  "para_levar": "Aciclovir intravenoso causa nefropatia por cristais em 24 a 48 horas, sobretudo com infusão rápida e pouca hidratação: prevenir com infusão em 1 hora, hidratação e dose ajustada à função renal.",
+  "referencias": "Perazella MA. Crystal-induced acute renal failure. Am J Med 1999; KDIGO 2012 AKI Guideline; UpToDate 2026 (acyclovir nephrotoxicity).",
+  "tags": [
+   "Nefrotoxicidade por Drogas (CM)",
+   "Meningoencefalite Herpética (CM)",
+   "Injúria Renal Aguda (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Cronologia como dado decisivo, que ele já acerta em IRA pré-renal; aqui o tempo separa cristal de hipersensibilidade."
+ },
+ {
+  "id": "S7-NEF-05",
+  "simulado": 7,
+  "area": "Nefrologia",
+  "titulo": "Estenose aterosclerótica de artéria renal com edema pulmonar súbito recorrente · exceção que indica revascularização",
+  "arma": "Negativo no meio",
+  "comando": "conduta",
+  "nivel": "extremamente difícil",
+  "enunciado": "Mulher de 71 anos, tabagista, com hipertensão há 20 anos, usa anlodipino 10 mg, losartana 100 mg, clortalidona 25 mg e espironolactona 25 mg, com PA de consultório de 138/84 mmHg. Nos últimos 6 meses teve dois episódios de edema agudo de pulmão de instalação súbita, com PA de 220/120 mmHg na chegada, resolvidos com nitrato e diurético. Ecocardiograma: fração de ejeção de 62%, sem valvopatia significativa; cateterismo sem lesões coronarianas obstrutivas. Creatinina 1,4 mg/dL, estável há 1 ano; potássio 4,6 mEq/L. Angiotomografia: estenose aterosclerótica de 80% no óstio da artéria renal direita, rim direito de 9,8 cm e esquerdo de 11 cm, sem lesão à esquerda. A conduta mais adequada é:",
+  "alternativas": {
+   "A": "Angioplastia renal com stent",
+   "B": "Manter o tratamento clínico otimizado",
+   "C": "Suspender a losartana",
+   "D": "Nefrectomia direita"
+  },
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "fração de ejeção de 62%, sem valvopatia significativa; cateterismo sem lesões coronarianas obstrutivas",
+  "resolucao": "Quem estudou os ensaios ASTRAL e CORAL sabe que, na estenose aterosclerótica de artéria renal, a angioplastia não supera o tratamento clínico otimizado para PA e função renal, e marca manter o tratamento. Esse é o raciocínio de manual que este caso derruba. Os ensaios excluíram ou sub-representaram os pacientes com edema pulmonar súbito recorrente (síndrome de Pickering), e esta é uma das poucas indicações aceitas de revascularização, junto com perda rápida e inexplicada de função renal e hipertensão verdadeiramente refratária. O negativo no meio do caso é o que fecha o raciocínio: fração de ejeção preservada, sem valvopatia e sem coronariopatia, ou seja, o edema pulmonar não tem causa cardíaca e é atribuído à estenose renal com ativação neuro-humoral. A PA de consultório controlada é um distrator: os episódios são de crise.",
+  "comentarios": {
+   "A": "Correta. Edema pulmonar súbito recorrente sem causa cardíaca é indicação de revascularização da estenose aterosclerótica.",
+   "B": "Errada. Seria a conduta na estenose aterosclerótica com PA controlada e função estável, sem edema pulmonar súbito (a população do CORAL e do ASTRAL).",
+   "C": "Errada. Seria considerada com estenose bilateral ou de rim único e queda da filtração após o bloqueio do SRAA; com estenose unilateral, creatinina estável e potássio de 4,6, a losartana pode ser mantida e não causa os episódios.",
+   "D": "Errada. Nefrectomia fica para rim atrófico e sem função (em geral menor que 7 cm) com hipertensão refratária e oclusão não revascularizável; o rim direito tem 9,8 cm."
+  },
+  "para_levar": "Estenose aterosclerótica de artéria renal: tratamento clínico por padrão; revascularizar só com edema pulmonar súbito recorrente, perda rápida de função ou hipertensão refratária verdadeira.",
+  "referencias": "2024 ESC Guidelines for the management of elevated blood pressure and hypertension; 2017 ESC/ESVS Guidelines on the Diagnosis and Treatment of Peripheral Arterial Diseases (doença renovascular); SCAI 2014 Expert Consensus Statement for Renal Artery Stenting; CORAL (2014) e ASTRAL (2009).",
+  "tags": [
+   "HAS Secundária (CM)",
+   "Hipertensão Arterial Sistêmica (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Conduta de manual que o caso derruba: a exceção à regra decorada, com o negativo que exclui a causa cardíaca."
+ }
 ]

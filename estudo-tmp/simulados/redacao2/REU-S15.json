@@ -1,204 +1,204 @@
 [
-  {
-    "id": "S15-REU-01",
-    "simulado": 15,
-    "area": "Imunologia e alergia",
-    "titulo": "Sífilis na gestante com anafilaxia prévia à penicilina: dessensibilização e penicilina benzatina, porque só a penicilina trata o feto",
-    "arma": "Rótulo verdadeiro",
-    "comando": "conduta",
-    "nivel": "difícil",
-    "enunciado": "Gestante de 24 anos, com 20 semanas, tem VDRL 1:32 e teste treponêmico reagente no pré-natal, sem lesões cutâneas ou mucosas e sem sintomas neurológicos ou oculares; não sabe quando se infectou. Relata que aos 18 anos, minutos após injeção de penicilina benzatina para amigdalite, teve urticária generalizada, edema de lábios, sibilância e hipotensão, tratados com adrenalina na emergência. Nega outras alergias. Sorologia para HIV não reagente. PA 110 x 70 mmHg. A conduta mais adequada é:",
-    "alternativas": {
-      "A": "Ceftriaxona 1 g/dia por 10 dias",
-      "B": "Azitromicina 2 g em dose única",
-      "C": "Dessensibilização e penicilina benzatina",
-      "D": "Doxiciclina por 28 dias"
-    },
-    "gabarito": "C",
-    "armadilha": "A",
-    "dado_decisivo": "Gestante de 24 anos, com 20 semanas",
-    "resolucao": "A história de anafilaxia à penicilina é verdadeira e grave, e o reflexo é trocar o antibiótico, com a ceftriaxona como alternativa de manual na sífilis fora da gestação. Mas na gestante só a penicilina benzatina atravessa a placenta e trata o feto de forma comprovada; qualquer outro esquema conta como tratamento inadequado e o recém-nascido é tratado como sífilis congênita. Por isso a gestante com alergia à penicilina mediada por IgE é dessensibilizada, em ambiente hospitalar, e recebe o esquema completo de benzatina (aqui, sífilis latente de duração ignorada: três doses semanais). Com reação remota leve e não grave, o teste de provocação direta seria possível; com anafilaxia, dessensibilização. Doxiciclina é contraindicada na gestação, e a azitromicina falha por resistência.",
-    "comentarios": {
-      "A": "Errada. Seria uma alternativa fora da gestação; na gestante não é considerada tratamento adequado para prevenir sífilis congênita.",
-      "B": "Errada. Há resistência de Treponema pallidum aos macrolídeos e não trata o feto.",
-      "C": "Correta. Anafilaxia prévia em gestante: dessensibilizar e tratar com penicilina benzatina.",
-      "D": "Errada. Seria a alternativa para a não gestante alérgica; tetraciclinas são contraindicadas na gestação."
-    },
-    "para_levar": "Sífilis na gestação só se trata com penicilina: alergia mediada por IgE pede dessensibilização, e não troca de antibiótico.",
-    "referencias": "PCDT para Atenção Integral às Pessoas com IST, Ministério da Saúde (2022); CDC STI Treatment Guidelines (2021); Drug allergy: a 2022 practice parameter update (AAAAI/ACAAI).",
-    "tags": [
-      "Alergias (CM)",
-      "Sífilis Latente e Interpretação de VDRL (CM)"
-    ],
-    "sourceQuestionId": null,
-    "alvo": "Rótulo verdadeiro (anafilaxia) que puxa a conduta de manual; alergia a fármaco e dessensibilização (lacuna nova)."
+ {
+  "id": "S15-REU-01",
+  "simulado": 15,
+  "area": "Imunologia e alergia",
+  "titulo": "Sífilis na gestante com anafilaxia prévia à penicilina: dessensibilização e penicilina benzatina, porque só a penicilina trata o feto",
+  "arma": "Rótulo verdadeiro",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Gestante de 24 anos, com 20 semanas, tem VDRL 1:32 e teste treponêmico reagente no pré-natal, sem lesões cutâneas ou mucosas e sem sintomas neurológicos ou oculares; não sabe quando se infectou. Relata que aos 18 anos, minutos após injeção de penicilina benzatina para amigdalite, teve urticária generalizada, edema de lábios, sibilância e hipotensão, tratados com adrenalina na emergência. Nega outras alergias. Sorologia para HIV não reagente. PA 110 x 70 mmHg. A conduta mais adequada é:",
+  "alternativas": {
+   "A": "Ceftriaxona 1 g/dia por 10 dias",
+   "B": "Azitromicina 2 g em dose única",
+   "C": "Dessensibilização e penicilina benzatina",
+   "D": "Doxiciclina por 28 dias"
   },
-  {
-    "id": "S15-REU-02",
-    "simulado": 15,
-    "area": "Imunologia e alergia",
-    "titulo": "Febre, sintomas gastrointestinais e respiratórios que pioram a cada dose na segunda semana de antirretroviral: hipersensibilidade ao abacavir a deduzir",
-    "arma": "Droga a deduzir",
-    "comando": "diagnóstico",
-    "nivel": "extremamente difícil",
-    "enunciado": "Homem de 38 anos com HIV, sem tratamento prévio, CD4 de 450 células/mm³ e sem infecção oportunista, tem doença renal crônica com taxa de filtração de 38 mL/min/1,73 m². Há 9 dias iniciou um comprimido único diário com dolutegravir, lamivudina e um terceiro antirretroviral escolhido para evitar o tenofovir; a genotipagem do HLA não estava disponível. Há 2 dias tem febre de 38,6 °C, náuseas, vômitos, diarreia, mialgia, dor de garganta e tosse seca, que pioram nas horas seguintes a cada comprimido, e exantema maculopapular discreto no tronco. Exame físico: sem lesões mucosas, sem linfonodomegalias. Exames: eosinófilos 200/mm³, transaminases normais, radiografia de tórax normal. O diagnóstico mais provável é:",
-    "alternativas": {
-      "A": "DRESS pelo dolutegravir",
-      "B": "Síndrome inflamatória de reconstituição imune",
-      "C": "Gastroenterite viral aguda",
-      "D": "Hipersensibilidade ao abacavir"
-    },
-    "gabarito": "D",
-    "armadilha": "B",
-    "dado_decisivo": "pioram nas horas seguintes a cada comprimido",
-    "resolucao": "Febre logo depois de iniciar antirretroviral lembra síndrome de reconstituição imune, mas ela exige uma infecção oportunista a desmascarar e costuma ocorrer em CD4 baixo; aqui o CD4 é 450 e não há infecção. A droga está a deduzir: o comprimido único com dolutegravir, lamivudina e um terceiro fármaco usado para poupar o rim do tenofovir contém abacavir. A hipersensibilidade ao abacavir surge em mediana de 8 a 11 dias (quase sempre nas primeiras 6 semanas), com febre, exantema muitas vezes discreto, sintomas gastrointestinais e respiratórios, e piora a cada dose; associa-se ao HLA-B*57:01, que deve ser pesquisado antes de prescrever. Suspende-se o abacavir e não se reintroduz nunca, porque a reexposição pode ser fatal. DRESS teria latência maior, eosinofilia e hepatite.",
-    "comentarios": {
-      "A": "Errada. DRESS surge após 2 a 8 semanas, com eosinofilia, hepatite e linfonodomegalia, ausentes aqui.",
-      "B": "Errada. Exige infecção oportunista desmascarada, em geral com CD4 baixo; não há nenhuma das duas.",
-      "C": "Errada. Não explica febre, exantema e sintomas respiratórios que pioram a cada dose.",
-      "D": "Correta. Início na segunda semana, sintomas multissistêmicos que pioram a cada dose: abacavir, que não pode ser reintroduzido."
-    },
-    "para_levar": "Abacavir: pesquisar HLA-B*57:01 antes; febre com sintomas gastrointestinais e respiratórios que pioram a cada dose nas primeiras semanas é hipersensibilidade, e o fármaco nunca mais volta.",
-    "referencias": "DHHS Guidelines for the Use of Antiretroviral Agents in Adults and Adolescents with HIV (2024); PCDT para Manejo da Infecção pelo HIV em Adultos, Ministério da Saúde.",
-    "tags": [
-      "Farmacodermias (CM)",
-      "HIV : Diagnóstico, Seguimento e Antirretrovirais (CM)"
-    ],
-    "sourceQuestionId": null,
-    "alvo": "Farmacodermias e reações a fármacos (0 de 3) com droga a deduzir; HIV fora das oportunistas."
+  "gabarito": "C",
+  "armadilha": "A",
+  "dado_decisivo": "Gestante de 24 anos, com 20 semanas",
+  "resolucao": "A história de anafilaxia à penicilina é verdadeira e grave, e o reflexo é trocar o antibiótico, com a ceftriaxona como alternativa de manual na sífilis fora da gestação. Mas na gestante só a penicilina benzatina atravessa a placenta e trata o feto de forma comprovada; qualquer outro esquema conta como tratamento inadequado e o recém-nascido é tratado como sífilis congênita. Por isso a gestante com alergia à penicilina mediada por IgE é dessensibilizada, em ambiente hospitalar, e recebe o esquema completo de benzatina (aqui, sífilis latente de duração ignorada: três doses semanais). Com reação remota leve e não grave, o teste de provocação direta seria possível; com anafilaxia, dessensibilização. Doxiciclina é contraindicada na gestação, e a azitromicina falha por resistência.",
+  "comentarios": {
+   "A": "Errada. Seria uma alternativa fora da gestação; na gestante não é considerada tratamento adequado para prevenir sífilis congênita.",
+   "B": "Errada. Há resistência de Treponema pallidum aos macrolídeos e não trata o feto.",
+   "C": "Correta. Anafilaxia prévia em gestante: dessensibilizar e tratar com penicilina benzatina.",
+   "D": "Errada. Seria a alternativa para a não gestante alérgica; tetraciclinas são contraindicadas na gestação."
   },
-  {
-    "id": "S15-REU-03",
-    "simulado": 15,
-    "area": "Reumatologia",
-    "titulo": "Prevenção da osteonecrose dos maxilares antes de antirreabsortivo em dose oncológica: avaliação e tratamento odontológico antes da primeira dose",
-    "arma": "Qualificador",
-    "comando": "fato solto",
-    "nivel": "média",
-    "enunciado": "Antes de iniciar ácido zoledrônico mensal para metástases ósseas de câncer de mama, a medida com maior respaldo para reduzir o risco de osteonecrose dos maxilares é:",
-    "alternativas": {
-      "A": "Avaliação e tratamento odontológico antes de iniciar",
-      "B": "Antibiótico profilático a cada infusão",
-      "C": "Dosar CTX sérico antes de cada procedimento oral",
-      "D": "Intercalar meses sem o fármaco"
-    },
-    "gabarito": "A",
-    "armadilha": "C",
-    "dado_decisivo": "a medida com maior respaldo",
-    "resolucao": "A dosagem do CTX sérico antes de procedimentos orais ficou popular como forma de medir o risco e atrai por parecer objetiva, mas não tem validação para prever osteonecrose e não é recomendada. O risco de osteonecrose dos maxilares é muito maior com doses oncológicas de zoledronato ou denosumabe do que com doses para osteoporose, e o principal gatilho é procedimento dentoalveolar (extração) durante o tratamento. A medida com maior respaldo é examinar e tratar a boca antes da primeira dose: extrair dentes sem prognóstico, tratar focos infecciosos, ajustar próteses, e manter higiene e revisões periódicas, evitando extrações durante o uso. Interromper o tratamento oncológico de forma programada não tem respaldo e expõe a eventos esqueléticos.",
-    "comentarios": {
-      "A": "Correta. Resolver a doença dentária antes da primeira dose é a medida preventiva que reduz o risco.",
-      "B": "Errada. Antibiótico profilático rotineiro não tem respaldo na prevenção primária.",
-      "C": "Errada. O CTX sérico não prevê osteonecrose e não é recomendado para estratificar risco.",
-      "D": "Errada. Interrupção programada na dose oncológica não tem evidência de benefício e aumenta eventos ósseos."
-    },
-    "para_levar": "Antes de antirreabsortivo em dose oncológica, trate a boca antes da primeira dose; CTX sérico e pausas programadas não têm respaldo.",
-    "referencias": "AAOMS Position Paper on Medication-Related Osteonecrosis of the Jaws (2022 update); MASCC/ISOO/ASCO Clinical Practice Guideline on MRONJ (2019).",
-    "tags": [
-      "234 Osteonecrosis, Osteosclerosis/Hyperostosis, and Other Disorders of Bone",
-      "Osteoporose (CM)"
-    ],
-    "sourceQuestionId": "e1b7c5546a66c08",
-    "alvo": "Fato solto curto com qualificador; ângulo de prevenção, diferente do diagnóstico de osteonecrose já cobrado."
+  "para_levar": "Sífilis na gestação só se trata com penicilina: alergia mediada por IgE pede dessensibilização, e não troca de antibiótico.",
+  "referencias": "PCDT para Atenção Integral às Pessoas com IST, Ministério da Saúde (2022); CDC STI Treatment Guidelines (2021); Drug allergy: a 2022 practice parameter update (AAAAI/ACAAI).",
+  "tags": [
+   "Alergias (CM)",
+   "Sífilis Latente e Interpretação de VDRL (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Rótulo verdadeiro (anafilaxia) que puxa a conduta de manual; alergia a fármaco e dessensibilização (lacuna nova)."
+ },
+ {
+  "id": "S15-REU-02",
+  "simulado": 15,
+  "area": "Imunologia e alergia",
+  "titulo": "Febre, sintomas gastrointestinais e respiratórios que pioram a cada dose na segunda semana de antirretroviral: hipersensibilidade ao abacavir a deduzir",
+  "arma": "Droga a deduzir",
+  "comando": "diagnóstico",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 38 anos com HIV, sem tratamento prévio, CD4 de 450 células/mm³ e sem infecção oportunista, tem doença renal crônica com taxa de filtração de 38 mL/min/1,73 m². Há 9 dias iniciou um comprimido único diário com dolutegravir, lamivudina e um terceiro antirretroviral escolhido para evitar o tenofovir; a genotipagem do HLA não estava disponível. Há 2 dias tem febre de 38,6 °C, náuseas, vômitos, diarreia, mialgia, dor de garganta e tosse seca, que pioram nas horas seguintes a cada comprimido, e exantema maculopapular discreto no tronco. Exame físico: sem lesões mucosas, sem linfonodomegalias. Exames: eosinófilos 200/mm³, transaminases normais, radiografia de tórax normal. O diagnóstico mais provável é:",
+  "alternativas": {
+   "A": "DRESS pelo dolutegravir",
+   "B": "Síndrome inflamatória de reconstituição imune",
+   "C": "Gastroenterite viral aguda",
+   "D": "Hipersensibilidade ao abacavir"
   },
-  {
-    "id": "S15-REU-04",
-    "simulado": 15,
-    "area": "Reumatologia",
-    "titulo": "Periartrite aguda bilateral de tornozelos com febre e hiperuricemia em homem: síndrome de Löfgren sem eritema nodoso, e não gota",
-    "arma": "Rótulo verdadeiro",
-    "comando": "diagnóstico",
-    "nivel": "difícil",
-    "enunciado": "Homem de 33 anos procura atendimento por dor e edema nos dois tornozelos há 12 dias, que o impedem de caminhar, com febre de 38 °C. Nega uretrite, diarreia, lesões de pele, tosse e dispneia. Tem obesidade e bebe cerveja nos fins de semana. Exame físico: edema, calor e eritema periarticulares difusos nos dois tornozelos, sem nódulos cutâneos; demais articulações normais. Ultrassonografia: edema de partes moles e tenossinovite, sem derrame tibiotársico significativo. Exames: ácido úrico 8,4 mg/dL, VHS 70 mm/h, PCR 48 mg/L, fator reumatoide e FAN não reagentes, cálcio normal. Radiografia de tórax: linfonodomegalia hilar bilateral. O diagnóstico mais provável é:",
-    "alternativas": {
-      "A": "Artrite reativa",
-      "B": "Síndrome de Löfgren",
-      "C": "Gota poliarticular",
-      "D": "Reumatismo de Poncet"
-    },
-    "gabarito": "B",
-    "armadilha": "C",
-    "dado_decisivo": "Radiografia de tórax: linfonodomegalia hilar bilateral",
-    "resolucao": "Homem obeso, que bebe cerveja, com ácido úrico de 8,4 e tornozelos inflamados: o rótulo de gota é verdadeiro e forte. Mas gota começa monoarticular, não acomete os dois tornozelos de forma simétrica e periarticular em adulto jovem na primeira crise, e não explica adenopatia hilar bilateral. A combinação de periartrite aguda bilateral de tornozelos, febre e adenopatia hilar bilateral é síndrome de Löfgren, e no homem o eritema nodoso costuma faltar, sendo a periartrite de tornozelos a manifestação dominante. Com a tríade, o diagnóstico é clínico e de bom prognóstico, com regressão espontânea na maioria; trata-se com anti-inflamatório. Poncet exigiria tuberculose ativa.",
-    "comentarios": {
-      "A": "Errada. Daria oligoartrite assimétrica após uretrite ou diarreia, sem adenopatia hilar.",
-      "B": "Correta. Periartrite bilateral de tornozelos, febre e adenopatia hilar bilateral; no homem, o eritema nodoso costuma faltar.",
-      "C": "Errada. Hiperuricemia é rótulo verdadeiro, mas não explica adenopatia hilar nem periartrite simétrica bilateral.",
-      "D": "Errada. Artrite reativa à tuberculose ativa, que não há no caso; a adenopatia simétrica fala contra."
-    },
-    "para_levar": "Periartrite aguda bilateral de tornozelos com febre e adenopatia hilar bilateral é síndrome de Löfgren, mesmo sem eritema nodoso (frequente no homem); hiperuricemia não faz o diagnóstico de gota.",
-    "referencias": "ATS Clinical Practice Guideline: Diagnosis and Detection of Sarcoidosis (2020); Grunewald J, Eklund A. Sex-specific manifestations of Löfgren's syndrome (Am J Respir Crit Care Med, 2007).",
-    "tags": [
-      "Sarcoidose (CM)"
-    ],
-    "sourceQuestionId": "91a2fb3e1b1d8a1",
-    "alvo": "Rótulo verdadeiro (hiperuricemia e perfil metabólico) que puxa a doença de manual; dado decisivo na imagem."
+  "gabarito": "D",
+  "armadilha": "B",
+  "dado_decisivo": "pioram nas horas seguintes a cada comprimido",
+  "resolucao": "Febre logo depois de iniciar antirretroviral lembra síndrome de reconstituição imune, mas ela exige uma infecção oportunista a desmascarar e costuma ocorrer em CD4 baixo; aqui o CD4 é 450 e não há infecção. A droga está a deduzir: o comprimido único com dolutegravir, lamivudina e um terceiro fármaco usado para poupar o rim do tenofovir contém abacavir. A hipersensibilidade ao abacavir surge em mediana de 8 a 11 dias (quase sempre nas primeiras 6 semanas), com febre, exantema muitas vezes discreto, sintomas gastrointestinais e respiratórios, e piora a cada dose; associa-se ao HLA-B*57:01, que deve ser pesquisado antes de prescrever. Suspende-se o abacavir e não se reintroduz nunca, porque a reexposição pode ser fatal. DRESS teria latência maior, eosinofilia e hepatite.",
+  "comentarios": {
+   "A": "Errada. DRESS surge após 2 a 8 semanas, com eosinofilia, hepatite e linfonodomegalia, ausentes aqui.",
+   "B": "Errada. Exige infecção oportunista desmascarada, em geral com CD4 baixo; não há nenhuma das duas.",
+   "C": "Errada. Não explica febre, exantema e sintomas respiratórios que pioram a cada dose.",
+   "D": "Correta. Início na segunda semana, sintomas multissistêmicos que pioram a cada dose: abacavir, que não pode ser reintroduzido."
   },
-  {
-    "id": "S15-REU-05",
-    "simulado": 15,
-    "area": "Imunologia e alergia",
-    "titulo": "Lesão violácea que volta no mesmo lugar a cada ciclo menstrual: erupção fixa pelo anti-inflamatório tomado nesses dias, e não pela droga de uso contínuo",
-    "arma": "Cronologia",
-    "comando": "diagnóstico",
-    "nivel": "difícil",
-    "enunciado": "Mulher de 27 anos procura atendimento pela quarta recorrência, em 8 meses, de uma mancha arredondada de 3 cm no lábio inferior, que arde, fica violácea, às vezes forma bolha e regride em 10 dias deixando mancha acastanhada, sempre no mesmo lugar. Usa losartana diariamente há 3 anos por hipertensão e, há 1 ano, toma naproxeno por 2 ou 3 dias a cada menstruação, por cólica. As lesões surgem algumas horas depois da primeira dose de cada ciclo. Nega febre, lesões em outras mucosas e vesículas agrupadas precedidas de formigamento. Exame físico: placa eritematoviolácea de 3 cm, bem delimitada, com halo acastanhado, no lábio inferior. O diagnóstico mais provável é:",
-    "alternativas": {
-      "A": "Eritema multiforme recorrente",
-      "B": "Erupção fixa pela losartana",
-      "C": "Erupção fixa pelo naproxeno",
-      "D": "Herpes simples recorrente"
-    },
-    "gabarito": "C",
-    "armadilha": "D",
-    "dado_decisivo": "algumas horas depois da primeira dose de cada ciclo",
-    "resolucao": "Lesão que volta no mesmo lugar do lábio lembra herpes recorrente. Mas herpes vem com vesículas agrupadas e pródromo de formigamento, e não deixa hiperpigmentação residual, enquanto a placa violácea bem delimitada, às vezes bolhosa, que regride com mancha acastanhada e recorre sempre no mesmo sítio, é erupção fixa por droga. A cronologia identifica o agente: a lesão é intermitente e aparece horas após a primeira dose a cada ciclo, o que a liga ao naproxeno, tomado só nesses dias; a losartana, de uso contínuo há 3 anos, não explica crises intermitentes. AINEs, sulfonamidas, dipirona e tetraciclinas são as causas mais comuns. Basta suspender e trocar o analgésico, e o teste de contato na lesão residual pode confirmar.",
-    "comentarios": {
-      "A": "Errada. Eritema multiforme dá lesões em alvo múltiplas e acrais, em geral após herpes; não uma placa única recorrente no mesmo sítio.",
-      "B": "Errada. A losartana é contínua há 3 anos; não explica lesões intermitentes ligadas a cada ciclo.",
-      "C": "Correta. Placa no mesmo sítio, horas após a primeira dose, a cada uso intermitente: erupção fixa pelo naproxeno.",
-      "D": "Errada. Herpes daria vesículas agrupadas com pródromo e sem pigmentação residual; esse quadro foi negado."
-    },
-    "para_levar": "Erupção fixa por droga recorre no mesmo sítio horas após cada exposição e deixa hiperpigmentação; o culpado é a droga de uso intermitente que coincide com as crises.",
-    "referencias": "Anderson HJ, Lee JB. A review of fixed drug eruption with a special focus on generalized bullous fixed drug eruption (Medicina, 2021); Bolognia Dermatology, 4ª edição (2018).",
-    "tags": [
-      "Farmacodermias (CM)"
-    ],
-    "sourceQuestionId": null,
-    "alvo": "Farmacodermias (0 de 3) pela cronologia da exposição; droga em uso a separar da intermitente."
+  "para_levar": "Abacavir: pesquisar HLA-B*57:01 antes; febre com sintomas gastrointestinais e respiratórios que pioram a cada dose nas primeiras semanas é hipersensibilidade, e o fármaco nunca mais volta.",
+  "referencias": "DHHS Guidelines for the Use of Antiretroviral Agents in Adults and Adolescents with HIV (2024); PCDT para Manejo da Infecção pelo HIV em Adultos, Ministério da Saúde.",
+  "tags": [
+   "Farmacodermias (CM)",
+   "HIV : Diagnóstico, Seguimento e Antirretrovirais (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Farmacodermias e reações a fármacos (0 de 3) com droga a deduzir; HIV fora das oportunistas."
+ },
+ {
+  "id": "S15-REU-03",
+  "simulado": 15,
+  "area": "Reumatologia",
+  "titulo": "Prevenção da osteonecrose dos maxilares antes de antirreabsortivo em dose oncológica: avaliação e tratamento odontológico antes da primeira dose",
+  "arma": "Qualificador",
+  "comando": "fato solto",
+  "nivel": "média",
+  "enunciado": "Antes de iniciar ácido zoledrônico mensal para metástases ósseas de câncer de mama, a medida com maior respaldo para reduzir o risco de osteonecrose dos maxilares é:",
+  "alternativas": {
+   "A": "Avaliação e tratamento odontológico antes de iniciar",
+   "B": "Antibiótico profilático a cada infusão",
+   "C": "Dosar CTX sérico antes de cada procedimento oral",
+   "D": "Intercalar meses sem o fármaco"
   },
-  {
-    "id": "S15-REU-06",
-    "simulado": 15,
-    "area": "Imunologia e alergia",
-    "titulo": "Angioedema hereditário tipo 1 antes de extração dentária e na crise laríngea: concentrado de inibidor de C1 antes e icatibanto na crise, e não adrenalina",
-    "arma": "Grade X / Y",
-    "comando": "conduta",
-    "nivel": "difícil",
-    "enunciado": "Mulher de 26 anos tem angioedema hereditário tipo 1 (C4 baixo, inibidor de C1 baixo em nível e função), com crises de edema de face e de dor abdominal sem urticária. Não usa profilaxia de longo prazo. Vai extrair os terceiros molares sob anestesia local na próxima semana. Ela pergunta o que fazer antes do procedimento e, se tiver edema de laringe depois, o que deve receber na emergência. A profilaxia antes da extração e o tratamento da crise laríngea são, respectivamente:",
-    "alternativas": {
-      "A": "Anti-histamínico e corticoide / adrenalina intramuscular",
-      "B": "Plasma fresco antes / adrenalina intramuscular",
-      "C": "Nenhuma profilaxia / anti-histamínico venoso",
-      "D": "Concentrado de inibidor de C1 / icatibanto"
-    },
-    "gabarito": "D",
-    "armadilha": "A",
-    "dado_decisivo": "sem urticária",
-    "resolucao": "Angioedema de laringe leva ao reflexo de anafilaxia: adrenalina, anti-histamínico e corticoide. Mas o angioedema hereditário é mediado por bradicinina, não por histamina, e por isso não responde a nenhum dos três. Procedimentos dentários são gatilho importante e a laringe fica próxima: antes deles se faz profilaxia de curto prazo, de preferência com concentrado de inibidor de C1 1 a 6 horas antes (plasma fresco é alternativa só quando o concentrado não está disponível). Na crise, sobretudo laríngea, trata-se com concentrado de inibidor de C1 ou icatibanto (antagonista do receptor B2 da bradicinina), com preparo para via aérea avançada.",
-    "comentarios": {
-      "A": "Errada. Seria a conduta na anafilaxia ou no angioedema histaminérgico; no hereditário, bradicinérgico, não funciona.",
-      "B": "Errada. Plasma é alternativa de profilaxia só sem concentrado disponível, e a adrenalina não trata a crise.",
-      "C": "Errada. Extração dentária pede profilaxia de curto prazo, e anti-histamínico não age na bradicinina.",
-      "D": "Correta. Concentrado de inibidor de C1 antes do procedimento; icatibanto (ou concentrado) na crise laríngea."
-    },
-    "para_levar": "Angioedema hereditário é bradicinérgico: adrenalina, anti-histamínico e corticoide não funcionam; profilaxia de curto prazo com concentrado de inibidor de C1 antes de procedimento e icatibanto ou concentrado na crise.",
-    "referencias": "WAO/EAACI Guideline for the Management of Hereditary Angioedema (2021 revision and update); Diretrizes brasileiras do angioedema hereditário, ASBAI (2022).",
-    "tags": [
-      "Angioedema Hereditário (CM)",
-      "Erros Inatos da Imunidade (CM)"
-    ],
-    "sourceQuestionId": null,
-    "alvo": "Imunologia e alergia (lacunas novas); rótulo de anafilaxia puxando a conduta errada."
-  }
+  "gabarito": "A",
+  "armadilha": "C",
+  "dado_decisivo": "a medida com maior respaldo",
+  "resolucao": "A dosagem do CTX sérico antes de procedimentos orais ficou popular como forma de medir o risco e atrai por parecer objetiva, mas não tem validação para prever osteonecrose e não é recomendada. O risco de osteonecrose dos maxilares é muito maior com doses oncológicas de zoledronato ou denosumabe do que com doses para osteoporose, e o principal gatilho é procedimento dentoalveolar (extração) durante o tratamento. A medida com maior respaldo é examinar e tratar a boca antes da primeira dose: extrair dentes sem prognóstico, tratar focos infecciosos, ajustar próteses, e manter higiene e revisões periódicas, evitando extrações durante o uso. Interromper o tratamento oncológico de forma programada não tem respaldo e expõe a eventos esqueléticos.",
+  "comentarios": {
+   "A": "Correta. Resolver a doença dentária antes da primeira dose é a medida preventiva que reduz o risco.",
+   "B": "Errada. Antibiótico profilático rotineiro não tem respaldo na prevenção primária.",
+   "C": "Errada. O CTX sérico não prevê osteonecrose e não é recomendado para estratificar risco.",
+   "D": "Errada. Interrupção programada na dose oncológica não tem evidência de benefício e aumenta eventos ósseos."
+  },
+  "para_levar": "Antes de antirreabsortivo em dose oncológica, trate a boca antes da primeira dose; CTX sérico e pausas programadas não têm respaldo.",
+  "referencias": "AAOMS Position Paper on Medication-Related Osteonecrosis of the Jaws (2022 update); MASCC/ISOO/ASCO Clinical Practice Guideline on MRONJ (2019).",
+  "tags": [
+   "234 Osteonecrosis, Osteosclerosis/Hyperostosis, and Other Disorders of Bone",
+   "Osteoporose (CM)"
+  ],
+  "sourceQuestionId": "e1b7c5546a66c08",
+  "alvo": "Fato solto curto com qualificador; ângulo de prevenção, diferente do diagnóstico de osteonecrose já cobrado."
+ },
+ {
+  "id": "S15-REU-04",
+  "simulado": 15,
+  "area": "Reumatologia",
+  "titulo": "Periartrite aguda bilateral de tornozelos com febre e hiperuricemia em homem: síndrome de Löfgren sem eritema nodoso, e não gota",
+  "arma": "Rótulo verdadeiro",
+  "comando": "diagnóstico",
+  "nivel": "difícil",
+  "enunciado": "Homem de 33 anos procura atendimento por dor e edema nos dois tornozelos há 12 dias, que o impedem de caminhar, com febre de 38 °C. Nega uretrite, diarreia, lesões de pele, tosse e dispneia. Tem obesidade e bebe cerveja nos fins de semana. Exame físico: edema, calor e eritema periarticulares difusos nos dois tornozelos, sem nódulos cutâneos; demais articulações normais. Ultrassonografia: edema de partes moles e tenossinovite, sem derrame tibiotársico significativo. Exames: ácido úrico 8,4 mg/dL, VHS 70 mm/h, PCR 48 mg/L, fator reumatoide e FAN não reagentes, cálcio normal. Radiografia de tórax: linfonodomegalia hilar bilateral. O diagnóstico mais provável é:",
+  "alternativas": {
+   "A": "Artrite reativa",
+   "B": "Síndrome de Löfgren",
+   "C": "Gota poliarticular",
+   "D": "Reumatismo de Poncet"
+  },
+  "gabarito": "B",
+  "armadilha": "C",
+  "dado_decisivo": "Radiografia de tórax: linfonodomegalia hilar bilateral",
+  "resolucao": "Homem obeso, que bebe cerveja, com ácido úrico de 8,4 e tornozelos inflamados: o rótulo de gota é verdadeiro e forte. Mas gota começa monoarticular, não acomete os dois tornozelos de forma simétrica e periarticular em adulto jovem na primeira crise, e não explica adenopatia hilar bilateral. A combinação de periartrite aguda bilateral de tornozelos, febre e adenopatia hilar bilateral é síndrome de Löfgren, e no homem o eritema nodoso costuma faltar, sendo a periartrite de tornozelos a manifestação dominante. Com a tríade, o diagnóstico é clínico e de bom prognóstico, com regressão espontânea na maioria; trata-se com anti-inflamatório. Poncet exigiria tuberculose ativa.",
+  "comentarios": {
+   "A": "Errada. Daria oligoartrite assimétrica após uretrite ou diarreia, sem adenopatia hilar.",
+   "B": "Correta. Periartrite bilateral de tornozelos, febre e adenopatia hilar bilateral; no homem, o eritema nodoso costuma faltar.",
+   "C": "Errada. Hiperuricemia é rótulo verdadeiro, mas não explica adenopatia hilar nem periartrite simétrica bilateral.",
+   "D": "Errada. Artrite reativa à tuberculose ativa, que não há no caso; a adenopatia simétrica fala contra."
+  },
+  "para_levar": "Periartrite aguda bilateral de tornozelos com febre e adenopatia hilar bilateral é síndrome de Löfgren, mesmo sem eritema nodoso (frequente no homem); hiperuricemia não faz o diagnóstico de gota.",
+  "referencias": "ATS Clinical Practice Guideline: Diagnosis and Detection of Sarcoidosis (2020); Grunewald J, Eklund A. Sex-specific manifestations of Löfgren's syndrome (Am J Respir Crit Care Med, 2007).",
+  "tags": [
+   "Sarcoidose (CM)"
+  ],
+  "sourceQuestionId": "91a2fb3e1b1d8a1",
+  "alvo": "Rótulo verdadeiro (hiperuricemia e perfil metabólico) que puxa a doença de manual; dado decisivo na imagem."
+ },
+ {
+  "id": "S15-REU-05",
+  "simulado": 15,
+  "area": "Imunologia e alergia",
+  "titulo": "Lesão violácea que volta no mesmo lugar a cada ciclo menstrual: erupção fixa pelo anti-inflamatório tomado nesses dias, e não pela droga de uso contínuo",
+  "arma": "Cronologia",
+  "comando": "diagnóstico",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 27 anos procura atendimento pela quarta recorrência, em 8 meses, de uma mancha arredondada de 3 cm no lábio inferior, que arde, fica violácea, às vezes forma bolha e regride em 10 dias deixando mancha acastanhada, sempre no mesmo lugar. Usa losartana diariamente há 3 anos por hipertensão e, há 1 ano, toma naproxeno por 2 ou 3 dias a cada menstruação, por cólica. As lesões surgem algumas horas depois da primeira dose de cada ciclo. Nega febre, lesões em outras mucosas e vesículas agrupadas precedidas de formigamento. Exame físico: placa eritematoviolácea de 3 cm, bem delimitada, com halo acastanhado, no lábio inferior. O diagnóstico mais provável é:",
+  "alternativas": {
+   "A": "Eritema multiforme recorrente",
+   "B": "Erupção fixa pela losartana",
+   "C": "Erupção fixa pelo naproxeno",
+   "D": "Herpes simples recorrente"
+  },
+  "gabarito": "C",
+  "armadilha": "D",
+  "dado_decisivo": "algumas horas depois da primeira dose de cada ciclo",
+  "resolucao": "Lesão que volta no mesmo lugar do lábio lembra herpes recorrente. Mas herpes vem com vesículas agrupadas e pródromo de formigamento, e não deixa hiperpigmentação residual, enquanto a placa violácea bem delimitada, às vezes bolhosa, que regride com mancha acastanhada e recorre sempre no mesmo sítio, é erupção fixa por droga. A cronologia identifica o agente: a lesão é intermitente e aparece horas após a primeira dose a cada ciclo, o que a liga ao naproxeno, tomado só nesses dias; a losartana, de uso contínuo há 3 anos, não explica crises intermitentes. AINEs, sulfonamidas, dipirona e tetraciclinas são as causas mais comuns. Basta suspender e trocar o analgésico, e o teste de contato na lesão residual pode confirmar.",
+  "comentarios": {
+   "A": "Errada. Eritema multiforme dá lesões em alvo múltiplas e acrais, em geral após herpes; não uma placa única recorrente no mesmo sítio.",
+   "B": "Errada. A losartana é contínua há 3 anos; não explica lesões intermitentes ligadas a cada ciclo.",
+   "C": "Correta. Placa no mesmo sítio, horas após a primeira dose, a cada uso intermitente: erupção fixa pelo naproxeno.",
+   "D": "Errada. Herpes daria vesículas agrupadas com pródromo e sem pigmentação residual; esse quadro foi negado."
+  },
+  "para_levar": "Erupção fixa por droga recorre no mesmo sítio horas após cada exposição e deixa hiperpigmentação; o culpado é a droga de uso intermitente que coincide com as crises.",
+  "referencias": "Anderson HJ, Lee JB. A review of fixed drug eruption with a special focus on generalized bullous fixed drug eruption (Medicina, 2021); Bolognia Dermatology, 4ª edição (2018).",
+  "tags": [
+   "Farmacodermias (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Farmacodermias (0 de 3) pela cronologia da exposição; droga em uso a separar da intermitente."
+ },
+ {
+  "id": "S15-REU-06",
+  "simulado": 15,
+  "area": "Imunologia e alergia",
+  "titulo": "Angioedema hereditário tipo 1 antes de extração dentária e na crise laríngea: concentrado de inibidor de C1 antes e icatibanto na crise, e não adrenalina",
+  "arma": "Grade X / Y",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 26 anos tem angioedema hereditário tipo 1 (C4 baixo, inibidor de C1 baixo em nível e função), com crises de edema de face e de dor abdominal sem urticária. Não usa profilaxia de longo prazo. Vai extrair os terceiros molares sob anestesia local na próxima semana. Ela pergunta o que fazer antes do procedimento e, se tiver edema de laringe depois, o que deve receber na emergência. A profilaxia antes da extração e o tratamento da crise laríngea são, respectivamente:",
+  "alternativas": {
+   "A": "Anti-histamínico e corticoide / adrenalina intramuscular",
+   "B": "Plasma fresco antes / adrenalina intramuscular",
+   "C": "Nenhuma profilaxia / anti-histamínico venoso",
+   "D": "Concentrado de inibidor de C1 / icatibanto"
+  },
+  "gabarito": "D",
+  "armadilha": "A",
+  "dado_decisivo": "sem urticária",
+  "resolucao": "Angioedema de laringe leva ao reflexo de anafilaxia: adrenalina, anti-histamínico e corticoide. Mas o angioedema hereditário é mediado por bradicinina, não por histamina, e por isso não responde a nenhum dos três. Procedimentos dentários são gatilho importante e a laringe fica próxima: antes deles se faz profilaxia de curto prazo, de preferência com concentrado de inibidor de C1 1 a 6 horas antes (plasma fresco é alternativa só quando o concentrado não está disponível). Na crise, sobretudo laríngea, trata-se com concentrado de inibidor de C1 ou icatibanto (antagonista do receptor B2 da bradicinina), com preparo para via aérea avançada.",
+  "comentarios": {
+   "A": "Errada. Seria a conduta na anafilaxia ou no angioedema histaminérgico; no hereditário, bradicinérgico, não funciona.",
+   "B": "Errada. Plasma é alternativa de profilaxia só sem concentrado disponível, e a adrenalina não trata a crise.",
+   "C": "Errada. Extração dentária pede profilaxia de curto prazo, e anti-histamínico não age na bradicinina.",
+   "D": "Correta. Concentrado de inibidor de C1 antes do procedimento; icatibanto (ou concentrado) na crise laríngea."
+  },
+  "para_levar": "Angioedema hereditário é bradicinérgico: adrenalina, anti-histamínico e corticoide não funcionam; profilaxia de curto prazo com concentrado de inibidor de C1 antes de procedimento e icatibanto ou concentrado na crise.",
+  "referencias": "WAO/EAACI Guideline for the Management of Hereditary Angioedema (2021 revision and update); Diretrizes brasileiras do angioedema hereditário, ASBAI (2022).",
+  "tags": [
+   "Angioedema Hereditário (CM)",
+   "Erros Inatos da Imunidade (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Imunologia e alergia (lacunas novas); rótulo de anafilaxia puxando a conduta errada."
+ }
 ]

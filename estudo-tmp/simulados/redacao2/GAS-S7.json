@@ -1,237 +1,237 @@
 [
-  {
-    "id": "S7-GAS-01",
-    "simulado": 7,
-    "area": "Gastroenterologia",
-    "titulo": "Odinofagia em pessoa com HIV controlado usando doxiciclina pós-exposição: esofagite por comprimido, e não oportunista",
-    "arma": "Rótulo verdadeiro",
-    "comando": "etiologia",
-    "nivel": "difícil",
-    "enunciado": "Homem de 31 anos, vivendo com HIV há 6 anos, em uso de tenofovir, lamivudina e dolutegravir, com último CD4 de 680 células/mm³ e carga viral indetectável há 4 anos, procura atendimento por dor retroesternal intensa ao engolir há 3 dias, que começou de forma súbita. Desde o mês passado usa doxiciclina 200 mg como profilaxia pós-exposição a IST, que tomou nas últimas quatro noites seguidas, deitando-se logo após, com pouco líquido. Nega febre, perda de peso e lesões orais; orofaringe sem placas. A endoscopia mostra úlcera única, rasa, de 1,2 cm, com bordas bem definidas, no terço médio do esôfago, na altura da compressão do arco aórtico, com mucosa ao redor normal; esôfago distal sem lesões. A etiologia mais provável é:",
-    "alternativas": {
-      "A": "Esofagite por citomegalovírus",
-      "B": "Esofagite herpética",
-      "C": "Úlcera aftosa idiopática do HIV",
-      "D": "Esofagite induzida por comprimido"
-    },
-    "gabarito": "D",
-    "armadilha": "A",
-    "dado_decisivo": "no terço médio do esôfago, na altura da compressão do arco aórtico",
-    "resolucao": "HIV com úlcera esofágica puxa para oportunistas, e citomegalovírus e úlcera aftosa idiopática são as causas de úlcera grande no HIV avançado. Mas o CD4 de 680 com carga viral indetectável afasta as duas, que aparecem com CD4 abaixo de 50 a 100. O quadro tem a assinatura da lesão por comprimido: odinofagia súbita após doxiciclina tomada à noite, deitado e com pouco líquido, úlcera única e rasa no terço médio, no ponto de estreitamento fisiológico pelo arco aórtico, onde o comprimido para, com mucosa ao redor normal. Herpes daria múltiplas úlceras pequenas em vulcão; citomegalovírus, úlceras grandes e profundas, em geral distais. A conduta é orientar tomar o comprimido em pé, com 200 mL de água, e não deitar por 30 minutos, e analgesia; a úlcera cicatriza em dias.",
-    "comentarios": {
-      "A": "Errada. Seria a causa com CD4 abaixo de 50, úlceras grandes e profundas e biópsia com inclusões; aqui o CD4 é 680 com carga viral indetectável.",
-      "B": "Errada. Herpes produz múltiplas úlceras pequenas e rasas em vulcão, com frequência com lesão oral; aqui há úlcera única ligada ao comprimido.",
-      "C": "Errada. Diagnóstico de exclusão no HIV avançado, depois de biópsia negativa para vírus; não se aplica a quem tem imunidade preservada.",
-      "D": "Correta. Úlcera única no terço médio, no estreitamento do arco aórtico, após doxiciclina tomada deitado e com pouco líquido."
-    },
-    "para_levar": "Odinofagia súbita com úlcera única no terço médio do esôfago após doxiciclina, AINE, bifosfonato ou cloreto de potássio: esofagite por comprimido; no HIV, o CD4 decide se oportunista entra no diferencial.",
-    "referencias": "Kikendall JW. Pill esophagitis. J Clin Gastroenterol (1999); CDC Clinical Guidelines on the Use of Doxycycline Postexposure Prophylaxis for Bacterial STI Prevention (2024)",
-    "tags": [
-      "Esôfago (CM)",
-      "Úlceras em TGI no HIV (CM)"
-    ],
-    "sourceQuestionId": null,
-    "alvo": "Rótulo verdadeiro (HIV) puxando oportunista quando o CD4 e a droga em uso decidem."
+ {
+  "id": "S7-GAS-01",
+  "simulado": 7,
+  "area": "Gastroenterologia",
+  "titulo": "Odinofagia em pessoa com HIV controlado usando doxiciclina pós-exposição: esofagite por comprimido, e não oportunista",
+  "arma": "Rótulo verdadeiro",
+  "comando": "etiologia",
+  "nivel": "difícil",
+  "enunciado": "Homem de 31 anos, vivendo com HIV há 6 anos, em uso de tenofovir, lamivudina e dolutegravir, com último CD4 de 680 células/mm³ e carga viral indetectável há 4 anos, procura atendimento por dor retroesternal intensa ao engolir há 3 dias, que começou de forma súbita. Desde o mês passado usa doxiciclina 200 mg como profilaxia pós-exposição a IST, que tomou nas últimas quatro noites seguidas, deitando-se logo após, com pouco líquido. Nega febre, perda de peso e lesões orais; orofaringe sem placas. A endoscopia mostra úlcera única, rasa, de 1,2 cm, com bordas bem definidas, no terço médio do esôfago, na altura da compressão do arco aórtico, com mucosa ao redor normal; esôfago distal sem lesões. A etiologia mais provável é:",
+  "alternativas": {
+   "A": "Esofagite por citomegalovírus",
+   "B": "Esofagite herpética",
+   "C": "Úlcera aftosa idiopática do HIV",
+   "D": "Esofagite induzida por comprimido"
   },
-  {
-    "id": "S7-GAS-02",
-    "simulado": 7,
-    "area": "Gastroenterologia",
-    "titulo": "Úlceras duodenais múltiplas com gastrina elevada em uso de inibidor de bomba: suspender e repetir gastrina com pH gástrico",
-    "arma": "Droga a deduzir",
-    "comando": "próximo exame",
-    "nivel": "extremamente difícil",
-    "enunciado": "Homem de 46 anos tem úlceras pépticas recorrentes há 3 anos. A última endoscopia mostrou duas úlceras, uma no bulbo e outra na segunda porção do duodeno, e pregas gástricas espessadas; biópsias negativas para H. pylori, confirmadas por sorologia negativa. Nega anti-inflamatórios, ácido acetilsalicílico e tabagismo. Tem diarreia aquosa crônica, que melhora nas fases em que o médico aumenta a dose do medicamento usado para a úlcera, que está em dose dobrada, em jejum e antes do jantar, há 8 meses. Cálcio sérico de 9,4 mg/dL. A gastrina sérica de jejum colhida na semana passada veio 480 pg/mL (referência até 100). O próximo exame mais adequado é:",
-    "alternativas": {
-      "A": "Gastrina e pH gástrico sem o medicamento",
-      "B": "Teste de estímulo com secretina sem suspensão",
-      "C": "PET-CT com gálio-68 DOTATATE",
-      "D": "Ecoendoscopia do pâncreas e do duodeno"
-    },
-    "gabarito": "A",
-    "armadilha": "C",
-    "dado_decisivo": "em dose dobrada, em jejum e antes do jantar",
-    "resolucao": "Úlceras múltiplas e pós-bulbares, pregas espessas e diarreia que melhora com supressão ácida fazem pensar em gastrinoma, e com a gastrina alta o reflexo é ir direto à localização do tumor. Mas a droga que não foi nomeada é um inibidor de bomba de prótons em dose dobrada, e o IBP eleva a gastrina por si só, pela hipocloridria, chegando a valores de várias vezes o normal. A gastrina de 480 está abaixo de dez vezes o limite e foi colhida em uso do IBP: não confirma nada. O passo é suspender o IBP por cerca de uma semana (com cobertura por bloqueador H2, porque suspender abruptamente em gastrinoma tem risco de complicação) e repetir a gastrina com o pH gástrico; gastrina acima de dez vezes com pH abaixo de 2 confirma, e valores intermediários vão para o teste da secretina. Localizar antes de confirmar é o exame do degrau seguinte.",
-    "comentarios": {
-      "A": "Correta. A gastrina foi colhida em uso de IBP; só tem valor sem a droga e com o pH gástrico ao lado.",
-      "B": "Errada. O teste da secretina é o desempate quando a gastrina sem IBP fica abaixo de dez vezes o normal com pH ácido; também perde validade em uso de IBP.",
-      "C": "Errada. É o exame de localização do gastrinoma, que se faz depois da confirmação bioquímica; aqui a hipergastrinemia pode ser só da droga.",
-      "D": "Errada. Também localiza tumores no triângulo do gastrinoma, mas é degrau posterior à confirmação do diagnóstico."
-    },
-    "para_levar": "Gastrina elevada em uso de IBP não confirma gastrinoma: suspender o IBP com cobertura por anti-H2 e repetir a gastrina com o pH gástrico antes de qualquer exame de localização.",
-    "referencias": "ENETS Guidance Paper for Gastroduodenal Neuroendocrine Tumours (2023); Metz DC. Diagnosis of the Zollinger-Ellison syndrome. Clin Gastroenterol Hepatol (2012)",
-    "tags": [
-      "Úlcera péptica (CM)",
-      "Dispepsia e IBPs (CM)"
-    ],
-    "sourceQuestionId": "457aa986195ef17",
-    "alvo": "Ignorar a droga em uso (IBP) que altera o exame e pular para o exame de localização."
+  "gabarito": "D",
+  "armadilha": "A",
+  "dado_decisivo": "no terço médio do esôfago, na altura da compressão do arco aórtico",
+  "resolucao": "HIV com úlcera esofágica puxa para oportunistas, e citomegalovírus e úlcera aftosa idiopática são as causas de úlcera grande no HIV avançado. Mas o CD4 de 680 com carga viral indetectável afasta as duas, que aparecem com CD4 abaixo de 50 a 100. O quadro tem a assinatura da lesão por comprimido: odinofagia súbita após doxiciclina tomada à noite, deitado e com pouco líquido, úlcera única e rasa no terço médio, no ponto de estreitamento fisiológico pelo arco aórtico, onde o comprimido para, com mucosa ao redor normal. Herpes daria múltiplas úlceras pequenas em vulcão; citomegalovírus, úlceras grandes e profundas, em geral distais. A conduta é orientar tomar o comprimido em pé, com 200 mL de água, e não deitar por 30 minutos, e analgesia; a úlcera cicatriza em dias.",
+  "comentarios": {
+   "A": "Errada. Seria a causa com CD4 abaixo de 50, úlceras grandes e profundas e biópsia com inclusões; aqui o CD4 é 680 com carga viral indetectável.",
+   "B": "Errada. Herpes produz múltiplas úlceras pequenas e rasas em vulcão, com frequência com lesão oral; aqui há úlcera única ligada ao comprimido.",
+   "C": "Errada. Diagnóstico de exclusão no HIV avançado, depois de biópsia negativa para vírus; não se aplica a quem tem imunidade preservada.",
+   "D": "Correta. Úlcera única no terço médio, no estreitamento do arco aórtico, após doxiciclina tomada deitado e com pouco líquido."
   },
-  {
-    "id": "S7-GAS-03",
-    "simulado": 7,
-    "area": "Gastroenterologia",
-    "titulo": "Colite isquêmica restrita ao cólon direito: angiotomografia para avaliar a artéria mesentérica superior",
-    "arma": "Negativo no meio",
-    "comando": "próximo exame",
-    "nivel": "extremamente difícil",
-    "enunciado": "Homem de 74 anos, em hemodiálise por nefropatia diabética, com fibrilação atrial anticoagulada com apixabana, apresentou hipotensão intradialítica (PA 78 x 44 mmHg) seguida, horas depois, de dor em fossa ilíaca direita e duas evacuações com sangue vivo misturado às fezes. Exame: Tax 37,4 °C, FC 92 bpm irregular, PA 132 x 78 mmHg, abdome com dor leve à palpação profunda do flanco direito, sem peritonite. Hb 11,2 g/dL (basal 11,6), lactato 1,6 mmol/L. A colonoscopia, no dia seguinte, mostrou edema, hemorragia submucosa e úlceras rasas no ceco e no cólon ascendente, com reto e cólon esquerdo sem alterações; as biópsias são compatíveis com isquemia. O paciente evolui estável. O próximo exame mais adequado é:",
-    "alternativas": {
-      "A": "Pesquisa de trombofilia hereditária",
-      "B": "Colonoscopia de controle em 2 semanas",
-      "C": "Angiotomografia das artérias mesentéricas",
-      "D": "Ecocardiograma transesofágico"
-    },
-    "gabarito": "C",
-    "armadilha": "B",
-    "dado_decisivo": "com reto e cólon esquerdo sem alterações",
-    "resolucao": "Colite isquêmica após hipotensão em idoso dialítico costuma ser transitória e de manejo conservador, e o rótulo de doença benigna leva a só acompanhar com colonoscopia. Mas o detalhe da distribuição muda o caso: a isquemia está restrita ao cólon direito, com reto e cólon esquerdo poupados. A colite isquêmica isolada do cólon direito é irrigada pela artéria mesentérica superior e se associa a doença oclusiva dela, com mortalidade maior e risco de evoluir para isquemia mesentérica aguda do delgado. Por isso a diretriz pede angiotomografia nesses casos, mesmo com o paciente estável. Ecocardiograma e trombofilia não respondem à pergunta anatômica, e o paciente já está anticoagulado.",
-    "comentarios": {
-      "A": "Errada. Reservada a jovens com colite isquêmica recorrente sem causa; aqui há hipotensão clara e o risco é vascular arterial.",
-      "B": "Errada. Pode ser útil na colite isquêmica segmentar do cólon esquerdo para documentar a resolução, mas aqui a distribuição direita pede avaliar a mesentérica superior antes.",
-      "C": "Correta. Colite isquêmica isolada do cólon direito se associa a doença da mesentérica superior e exige angiotomografia.",
-      "D": "Errada. Procura fonte embólica, mas a pergunta é a perviedade da mesentérica superior, e ele já está anticoagulado pela fibrilação atrial."
-    },
-    "para_levar": "Colite isquêmica isolada do cólon direito: angiotomografia das mesentéricas, pelo risco de doença da mesentérica superior e de isquemia do delgado.",
-    "referencias": "ACG Clinical Guideline: Epidemiology, Risk Factors, Patterns of Presentation, Diagnosis, and Management of Colon Ischemia (2015); ESVS Guidelines on the Management of Diseases of Mesenteric Arteries and Veins (2017)",
-    "tags": [
-      "Intestino (CM)",
-      "134 Vascular Diseases of the Gastrointestinal Tract"
-    ],
-    "sourceQuestionId": null,
-    "alvo": "Negativo no meio (cólon esquerdo poupado) lido como enfeite."
+  "para_levar": "Odinofagia súbita com úlcera única no terço médio do esôfago após doxiciclina, AINE, bifosfonato ou cloreto de potássio: esofagite por comprimido; no HIV, o CD4 decide se oportunista entra no diferencial.",
+  "referencias": "Kikendall JW. Pill esophagitis. J Clin Gastroenterol (1999); CDC Clinical Guidelines on the Use of Doxycycline Postexposure Prophylaxis for Bacterial STI Prevention (2024)",
+  "tags": [
+   "Esôfago (CM)",
+   "Úlceras em TGI no HIV (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Rótulo verdadeiro (HIV) puxando oportunista quando o CD4 e a droga em uso decidem."
+ },
+ {
+  "id": "S7-GAS-02",
+  "simulado": 7,
+  "area": "Gastroenterologia",
+  "titulo": "Úlceras duodenais múltiplas com gastrina elevada em uso de inibidor de bomba: suspender e repetir gastrina com pH gástrico",
+  "arma": "Droga a deduzir",
+  "comando": "próximo exame",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 46 anos tem úlceras pépticas recorrentes há 3 anos. A última endoscopia mostrou duas úlceras, uma no bulbo e outra na segunda porção do duodeno, e pregas gástricas espessadas; biópsias negativas para H. pylori, confirmadas por sorologia negativa. Nega anti-inflamatórios, ácido acetilsalicílico e tabagismo. Tem diarreia aquosa crônica, que melhora nas fases em que o médico aumenta a dose do medicamento usado para a úlcera, que está em dose dobrada, em jejum e antes do jantar, há 8 meses. Cálcio sérico de 9,4 mg/dL. A gastrina sérica de jejum colhida na semana passada veio 480 pg/mL (referência até 100). O próximo exame mais adequado é:",
+  "alternativas": {
+   "A": "Gastrina e pH gástrico sem o medicamento",
+   "B": "Teste de estímulo com secretina sem suspensão",
+   "C": "PET-CT com gálio-68 DOTATATE",
+   "D": "Ecoendoscopia do pâncreas e do duodeno"
   },
-  {
-    "id": "S7-GAS-04",
-    "simulado": 7,
-    "area": "Hepatologia",
-    "titulo": "Hepatite autoimune com cirrose: prednisona, e não budesonida, e dosagem da TPMT antes da azatioprina",
-    "arma": "Grade X / Y",
-    "comando": "conduta",
-    "nivel": "difícil",
-    "enunciado": "Mulher de 54 anos, sem consumo de álcool, procura atendimento por fadiga e icterícia leve há 6 semanas. Exames: ALT 640 U/L, AST 590 U/L, bilirrubina total 3,2 mg/dL, fosfatase alcalina 160 U/L, IgG 3.400 mg/dL (2,1 vezes o limite superior), FAN 1:320 padrão homogêneo, antimúsculo liso 1:160, sorologias virais negativas, ceruloplasmina normal. A biópsia hepática mostra hepatite de interface com infiltrado linfoplasmocitário e rosetas. A elastografia hepática transitória mede 16 kPa, a ultrassonografia mostra fígado de contornos irregulares e esplenomegalia, e a endoscopia, varizes esofágicas de fino calibre. Albumina 3,4 g/dL, INR 1,2, sem ascite nem encefalopatia. Quanto ao corticoide de indução e ao exame a obter antes da azatioprina, respectivamente:",
-    "alternativas": {
-      "A": "Budesonida / atividade da TPMT",
-      "B": "Prednisona / atividade da TPMT",
-      "C": "Budesonida / atividade da G6PD",
-      "D": "Prednisona / atividade da G6PD"
-    },
-    "gabarito": "B",
-    "armadilha": "A",
-    "dado_decisivo": "varizes esofágicas de fino calibre",
-    "resolucao": "A budesonida tem menos efeito sistêmico e é opção de primeira linha na hepatite autoimune, e quem a lembra marca-a para poupar a paciente. Mas a budesonida depende do metabolismo de primeira passagem hepático, que se perde na cirrose, onde ela passa à circulação sistêmica e por shunts portossistêmicos, e por isso é contraindicada. A elastografia de 16 kPa, sozinha, poderia estar superestimada pela necroinflamação (ALT acima de 600), mas varizes esofágicas, esplenomegalia e contornos irregulares definem hipertensão portal e cirrose compensada, e a indução se faz com prednisona (ou prednisolona) associada à azatioprina. Antes da azatioprina, dosa-se a atividade (ou o genótipo) da tiopurina metiltransferase, porque a deficiência causa mielotoxicidade grave. A G6PD é o exame antes de dapsona, primaquina ou rasburicase.",
-    "comentarios": {
-      "A": "Errada. A TPMT está certa, mas a budesonida é contraindicada na cirrose; seria a escolha na hepatite autoimune sem cirrose.",
-      "B": "Correta. Cirrose (varizes, esplenomegalia, contornos irregulares) contraindica budesonida; prednisona e TPMT antes da azatioprina.",
-      "C": "Errada nas duas metades: budesonida na cirrose e G6PD, que não guarda relação com a toxicidade da azatioprina.",
-      "D": "Errada. A prednisona está certa, mas a G6PD é o exame antes de dapsona ou primaquina, não da azatioprina."
-    },
-    "para_levar": "Hepatite autoimune: budesonida só sem cirrose; na cirrose, prednisona com azatioprina, sempre com TPMT dosada antes da tiopurina.",
-    "referencias": "EASL Clinical Practice Guidelines on the management of autoimmune hepatitis (2025); AASLD Practice Guidance and Guidelines for Autoimmune Hepatitis (2019)",
-    "tags": [
-      "Hepatite Autoimune (CM)"
-    ],
-    "sourceQuestionId": null,
-    "alvo": "Ignorar a comorbidade (cirrose) que contraindica a droga de manual."
+  "gabarito": "A",
+  "armadilha": "C",
+  "dado_decisivo": "em dose dobrada, em jejum e antes do jantar",
+  "resolucao": "Úlceras múltiplas e pós-bulbares, pregas espessas e diarreia que melhora com supressão ácida fazem pensar em gastrinoma, e com a gastrina alta o reflexo é ir direto à localização do tumor. Mas a droga que não foi nomeada é um inibidor de bomba de prótons em dose dobrada, e o IBP eleva a gastrina por si só, pela hipocloridria, chegando a valores de várias vezes o normal. A gastrina de 480 está abaixo de dez vezes o limite e foi colhida em uso do IBP: não confirma nada. O passo é suspender o IBP por cerca de uma semana (com cobertura por bloqueador H2, porque suspender abruptamente em gastrinoma tem risco de complicação) e repetir a gastrina com o pH gástrico; gastrina acima de dez vezes com pH abaixo de 2 confirma, e valores intermediários vão para o teste da secretina. Localizar antes de confirmar é o exame do degrau seguinte.",
+  "comentarios": {
+   "A": "Correta. A gastrina foi colhida em uso de IBP; só tem valor sem a droga e com o pH gástrico ao lado.",
+   "B": "Errada. O teste da secretina é o desempate quando a gastrina sem IBP fica abaixo de dez vezes o normal com pH ácido; também perde validade em uso de IBP.",
+   "C": "Errada. É o exame de localização do gastrinoma, que se faz depois da confirmação bioquímica; aqui a hipergastrinemia pode ser só da droga.",
+   "D": "Errada. Também localiza tumores no triângulo do gastrinoma, mas é degrau posterior à confirmação do diagnóstico."
   },
-  {
-    "id": "S7-GAS-05",
-    "simulado": 7,
-    "area": "Hepatologia",
-    "titulo": "Hipoxemia ortostática em cirrótico tabagista com microbolhas tardias: síndrome hepatopulmonar",
-    "arma": "Rótulo verdadeiro",
-    "comando": "diagnóstico",
-    "nivel": "difícil",
-    "enunciado": "Homem de 58 anos, com cirrose por hepatite C tratada (Child-Pugh B, MELD 15), tabagista de 30 anos-maço, refere dispneia progressiva aos esforços há 8 meses, que piora ao se levantar e melhora deitado. Exame: aranhas vasculares no tronco, baqueteamento digital, SpO2 de 93% deitado e 86% em pé, ausculta pulmonar normal, B2 normofonética. Gasometria em ar ambiente, sentado: PaO2 58 mmHg, PaCO2 32 mmHg, gradiente alvéolo-arterial de 48 mmHg. Radiografia de tórax e TC de tórax sem alterações parenquimatosas; espirometria com VEF1/CVF de 0,78 e CVF de 92% do previsto. Ecocardiograma transtorácico com microbolhas: microbolhas no átrio esquerdo após o quarto ciclo cardíaco, PSAP estimada em 28 mmHg, ventrículo direito normal. O diagnóstico mais provável é:",
-    "alternativas": {
-      "A": "Hipertensão portopulmonar",
-      "B": "Doença pulmonar obstrutiva crônica",
-      "C": "Forame oval patente com shunt",
-      "D": "Síndrome hepatopulmonar"
-    },
-    "gabarito": "D",
-    "armadilha": "B",
-    "dado_decisivo": "microbolhas no átrio esquerdo após o quarto ciclo cardíaco",
-    "resolucao": "Trinta anos-maço e dispneia progressiva puxam para DPOC, e o rótulo é verdadeiro. Mas a espirometria não tem obstrução (VEF1/CVF de 0,78) e a TC é normal, e o que o caso mostra é hipoxemia com gradiente alargado que piora em pé (ortodeoxia e platipneia), no cirrótico com aranhas e baqueteamento. A ecocardiografia com microbolhas fecha: bolhas no átrio esquerdo depois do terceiro ciclo indicam passagem pelo leito pulmonar dilatado (shunt intrapulmonar), e não pelo septo, onde aparecem já nos três primeiros ciclos. Com PaO2 de 58, a síndrome hepatopulmonar é grave e tem indicação de transplante, com pontuação de exceção no MELD. A hipertensão portopulmonar exige pressão pulmonar elevada no cateterismo, e aqui a PSAP é normal.",
-    "comentarios": {
-      "A": "Errada. Daria PSAP elevada e sobrecarga de ventrículo direito, com hipoxemia leve; aqui a PSAP é 28 mmHg e o VD é normal.",
-      "B": "Errada. O tabagismo é real, mas a espirometria não tem obstrução e DPOC não causa ortodeoxia nem microbolhas tardias no átrio esquerdo.",
-      "C": "Errada. No shunt intracardíaco as microbolhas cruzam nos três primeiros ciclos; o aparecimento tardio indica shunt intrapulmonar.",
-      "D": "Correta. Hipoxemia ortostática com gradiente alargado em cirrótico e microbolhas tardias no átrio esquerdo: dilatação vascular intrapulmonar."
-    },
-    "para_levar": "Síndrome hepatopulmonar: hepatopatia, gradiente alvéolo-arterial alargado e microbolhas no átrio esquerdo após o terceiro ciclo; PaO2 abaixo de 60 dá prioridade no transplante.",
-    "referencias": "ERS/EASL Task Force on hepatopulmonary syndrome and portopulmonary hypertension (2016); AASLD Practice Guidance on Evaluation for Liver Transplantation (2013); ILTS Practice Guidelines (2016)",
-    "tags": [
-      "Síndrome Hepatopulmonar (CM)"
-    ],
-    "sourceQuestionId": null,
-    "alvo": "Rótulo verdadeiro (tabagismo) contra o exame que decide (microbolhas tardias, espirometria normal)."
+  "para_levar": "Gastrina elevada em uso de IBP não confirma gastrinoma: suspender o IBP com cobertura por anti-H2 e repetir a gastrina com o pH gástrico antes de qualquer exame de localização.",
+  "referencias": "ENETS Guidance Paper for Gastroduodenal Neuroendocrine Tumours (2023); Metz DC. Diagnosis of the Zollinger-Ellison syndrome. Clin Gastroenterol Hepatol (2012)",
+  "tags": [
+   "Úlcera péptica (CM)",
+   "Dispepsia e IBPs (CM)"
+  ],
+  "sourceQuestionId": "457aa986195ef17",
+  "alvo": "Ignorar a droga em uso (IBP) que altera o exame e pular para o exame de localização."
+ },
+ {
+  "id": "S7-GAS-03",
+  "simulado": 7,
+  "area": "Gastroenterologia",
+  "titulo": "Colite isquêmica restrita ao cólon direito: angiotomografia para avaliar a artéria mesentérica superior",
+  "arma": "Negativo no meio",
+  "comando": "próximo exame",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 74 anos, em hemodiálise por nefropatia diabética, com fibrilação atrial anticoagulada com apixabana, apresentou hipotensão intradialítica (PA 78 x 44 mmHg) seguida, horas depois, de dor em fossa ilíaca direita e duas evacuações com sangue vivo misturado às fezes. Exame: Tax 37,4 °C, FC 92 bpm irregular, PA 132 x 78 mmHg, abdome com dor leve à palpação profunda do flanco direito, sem peritonite. Hb 11,2 g/dL (basal 11,6), lactato 1,6 mmol/L. A colonoscopia, no dia seguinte, mostrou edema, hemorragia submucosa e úlceras rasas no ceco e no cólon ascendente, com reto e cólon esquerdo sem alterações; as biópsias são compatíveis com isquemia. O paciente evolui estável. O próximo exame mais adequado é:",
+  "alternativas": {
+   "A": "Pesquisa de trombofilia hereditária",
+   "B": "Ecocardiograma transesofágico",
+   "C": "Angiotomografia das artérias mesentéricas",
+   "D": "Colonoscopia de controle em 2 semanas"
   },
-  {
-    "id": "S7-GAS-06",
-    "simulado": 7,
-    "area": "Oncologia",
-    "titulo": "Hormonioterapia adjuvante na pós-menopausa com trombose venosa prévia a deduzir: inibidor de aromatase e densitometria",
-    "arma": "Dado omitido",
-    "comando": "conduta",
-    "nivel": "difícil",
-    "enunciado": "Mulher de 64 anos, menopausada aos 51, foi submetida a setorectomia com biópsia de linfonodo sentinela por carcinoma ductal invasivo de 1,6 cm, grau 2, receptores de estrogênio e progesterona positivos, HER2 negativo, linfonodo sentinela negativo; fará radioterapia. O risco genômico de recorrência foi baixo e a quimioterapia foi dispensada. Antecedentes: hipertensão em uso de losartana; há 3 anos, após artroplastia total do joelho esquerdo, teve dor e edema da panturrilha esquerda e usou rivaroxabana por 3 meses. Não fuma. Nunca fez densitometria óssea. A hormonioterapia adjuvante mais adequada e o exame a solicitar junto são:",
-    "alternativas": {
-      "A": "Tamoxifeno com ultrassonografia transvaginal anual",
-      "B": "Anastrozol, com densitometria óssea basal",
-      "C": "Raloxifeno, com densitometria óssea basal",
-      "D": "Tamoxifeno por 5 anos, sem exame adicional"
-    },
-    "gabarito": "B",
-    "armadilha": "D",
-    "dado_decisivo": "usou rivaroxabana por 3 meses",
-    "resolucao": "O tamoxifeno é a hormonioterapia que todos conhecem e serve a qualquer idade, e quem não decifra o antecedente marca-o. Mas o caso omite o nome do diagnóstico e dá a pista: dor e edema de panturrilha após artroplastia, tratados com rivaroxabana por 3 meses, são trombose venosa profunda provocada. O tamoxifeno aumenta duas a três vezes o risco de tromboembolismo venoso, e com trombose prévia passa a ser evitado. Na pós-menopausa o inibidor de aromatase é preferível e não tem esse risco, mas acelera a perda óssea, e a densitometria basal é obrigatória (com cálcio, vitamina D e bifosfonato ou denosumabe se houver osteoporose ou risco alto). O raloxifeno não é tratamento adjuvante de câncer de mama e também é trombogênico. A ultrassonografia transvaginal de rotina não é recomendada nem no uso de tamoxifeno.",
-    "comentarios": {
-      "A": "Errada. Além da trombose prévia contra o tamoxifeno, a ultrassonografia transvaginal anual em assintomática não é recomendada.",
-      "B": "Correta. Pós-menopausa com trombose venosa prévia: inibidor de aromatase, com densitometria basal pela perda óssea que ele causa.",
-      "C": "Errada. O raloxifeno serve à prevenção primária em alto risco, não ao tratamento adjuvante, e aumenta o tromboembolismo como o tamoxifeno.",
-      "D": "Errada. Seria opção na pré-menopausa ou na intolerância ao inibidor de aromatase; aqui a trombose venosa prévia, deduzida pela rivaroxabana, contraindica."
-    },
-    "para_levar": "Hormonioterapia adjuvante: com tromboembolismo venoso prévio, evitar tamoxifeno; na pós-menopausa, inibidor de aromatase com densitometria basal.",
-    "referencias": "ASCO Guideline: Adjuvant Endocrine Therapy for Women With Hormone Receptor-Positive Breast Cancer (2018, atualização 2019); NCCN Breast Cancer (2025); ESMO Early Breast Cancer Guideline (2024)",
-    "tags": [
-      "Câncer de mama invasivo",
-      "Neoplasias e Esquemas Quimioterápicos (CM)"
-    ],
-    "sourceQuestionId": null,
-    "alvo": "Antecedente da primeira linha que derruba a droga de manual, com o diagnóstico a deduzir."
+  "gabarito": "C",
+  "armadilha": "D",
+  "dado_decisivo": "com reto e cólon esquerdo sem alterações",
+  "resolucao": "Colite isquêmica após hipotensão em idoso dialítico costuma ser transitória e de manejo conservador, e o rótulo de doença benigna leva a só acompanhar com colonoscopia. Mas o detalhe da distribuição muda o caso: a isquemia está restrita ao cólon direito, com reto e cólon esquerdo poupados. A colite isquêmica isolada do cólon direito é irrigada pela artéria mesentérica superior e se associa a doença oclusiva dela, com mortalidade maior e risco de evoluir para isquemia mesentérica aguda do delgado. Por isso a diretriz pede angiotomografia nesses casos, mesmo com o paciente estável. Ecocardiograma e trombofilia não respondem à pergunta anatômica, e o paciente já está anticoagulado.",
+  "comentarios": {
+   "A": "Errada. Reservada a jovens com colite isquêmica recorrente sem causa; aqui há hipotensão clara e o risco é vascular arterial.",
+   "B": "Errada. Procura fonte embólica, mas a pergunta é a perviedade da mesentérica superior, e ele já está anticoagulado pela fibrilação atrial.",
+   "C": "Correta. Colite isquêmica isolada do cólon direito se associa a doença da mesentérica superior e exige angiotomografia.",
+   "D": "Errada. Pode ser útil na colite isquêmica segmentar do cólon esquerdo para documentar a resolução, mas aqui a distribuição direita pede avaliar a mesentérica superior antes."
   },
-  {
-    "id": "S7-GAS-07",
-    "simulado": 7,
-    "area": "Oncologia",
-    "titulo": "Sedação e bradipneia em uso estável de metadona após início de fluconazol: inibição do metabolismo da metadona",
-    "arma": "Cronologia",
-    "comando": "mecanismo",
-    "nivel": "extremamente difícil",
-    "enunciado": "Mulher de 67 anos, com câncer de pulmão e metástases ósseas, usa metadona 10 mg de 8 em 8 horas há 3 semanas, sem mudança de dose, com boa analgesia e sem sonolência desde a primeira semana. Há 4 dias iniciou fluconazol 200 mg/dia por candidíase orofaríngea. Hoje a família relata sonolência excessiva desde ontem. Exame: Glasgow 12, pupilas mióticas, FR 9 irpm, SpO2 90% em ar ambiente, PA 122 x 70 mmHg. Exames: creatinina 0,8 mg/dL (igual à do mês passado), cálcio corrigido 9,6 mg/dL, sódio 138 mEq/L, glicemia 104 mg/dL. TC de crânio sem lesões novas. O mecanismo mais provável do quadro é:",
-    "alternativas": {
-      "A": "Inibição do metabolismo hepático da metadona",
-      "B": "Acúmulo de morfina-6-glicuronídeo por lesão renal",
-      "C": "Acúmulo tardio pela meia-vida longa da metadona",
-      "D": "Hipercalcemia da malignidade"
-    },
-    "gabarito": "A",
-    "armadilha": "C",
-    "dado_decisivo": "Há 4 dias iniciou fluconazol 200 mg/dia",
-    "resolucao": "A metadona é famosa por acumular tardiamente por causa da meia-vida longa e variável, e é a resposta que parece de especialista. Mas esse acúmulo aparece nos primeiros 3 a 5 dias após o início ou cada aumento de dose; aqui a dose está estável há 3 semanas, sem sonolência desde a primeira. O que mudou foi a droga nova: o fluconazol inibe o CYP3A4 e o CYP2C19, que participam do metabolismo da metadona, e eleva seu nível sérico em dias, com sedação, miose e bradipneia (e prolongamento do QT). A creatinina inalterada afasta acúmulo por lesão renal, que, de todo modo, é mecanismo da morfina, e não da metadona; cálcio e TC normais afastam as outras causas. A conduta é naloxona em doses pequenas tituladas (ou infusão, pela meia-vida longa), reduzir a metadona e trocar ou suspender o azólico, com ECG.",
-    "comentarios": {
-      "A": "Correta. O fluconazol, iniciado há 4 dias, inibe o CYP3A4 e o CYP2C19 e eleva o nível de uma dose que estava estável.",
-      "B": "Errada. É o mecanismo da neurotoxicidade da morfina na lesão renal; a metadona não gera esse metabólito e a creatinina está inalterada.",
-      "C": "Errada. O acúmulo pela meia-vida ocorre nos primeiros dias após o início ou aumento de dose; aqui a dose está estável há 3 semanas.",
-      "D": "Errada. Causaria sonolência sem miose e bradipneia, e o cálcio corrigido é 9,6 mg/dL."
-    },
-    "para_levar": "Metadona em dose estável que intoxica: procurar o inibidor de CYP3A4, CYP2C19 ou CYP2B6 iniciado (azóis, macrolídeos, alguns antirretrovirais) e checar o QT.",
-    "referencias": "Manual de Cuidados Paliativos ANCP, 2ª ed. (2012); NCCN Adult Cancer Pain (2025); ESMO Clinical Practice Guidelines: Management of cancer pain in adult patients (2018)",
-    "tags": [
-      "Paliativos Oncologia: Dor (CM)"
-    ],
-    "sourceQuestionId": "59a7ddf44bfa06f",
-    "alvo": "Ignorar a droga nova em uso (interação) e responder a regra de manual fora da cronologia."
-  }
+  "para_levar": "Colite isquêmica isolada do cólon direito: angiotomografia das mesentéricas, pelo risco de doença da mesentérica superior e de isquemia do delgado.",
+  "referencias": "ACG Clinical Guideline: Epidemiology, Risk Factors, Patterns of Presentation, Diagnosis, and Management of Colon Ischemia (2015); ESVS Guidelines on the Management of Diseases of Mesenteric Arteries and Veins (2017)",
+  "tags": [
+   "Intestino (CM)",
+   "134 Vascular Diseases of the Gastrointestinal Tract"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Negativo no meio (cólon esquerdo poupado) lido como enfeite."
+ },
+ {
+  "id": "S7-GAS-04",
+  "simulado": 7,
+  "area": "Hepatologia",
+  "titulo": "Hepatite autoimune com cirrose: prednisona, e não budesonida, e dosagem da TPMT antes da azatioprina",
+  "arma": "Grade X / Y",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 54 anos, sem consumo de álcool, procura atendimento por fadiga e icterícia leve há 6 semanas. Exames: ALT 640 U/L, AST 590 U/L, bilirrubina total 3,2 mg/dL, fosfatase alcalina 160 U/L, IgG 3.400 mg/dL (2,1 vezes o limite superior), FAN 1:320 padrão homogêneo, antimúsculo liso 1:160, sorologias virais negativas, ceruloplasmina normal. A biópsia hepática mostra hepatite de interface com infiltrado linfoplasmocitário e rosetas. A elastografia hepática transitória mede 16 kPa, a ultrassonografia mostra fígado de contornos irregulares e esplenomegalia, e a endoscopia, varizes esofágicas de fino calibre. Albumina 3,4 g/dL, INR 1,2, sem ascite nem encefalopatia. Quanto ao corticoide de indução e ao exame a obter antes da azatioprina, respectivamente:",
+  "alternativas": {
+   "A": "Budesonida / atividade da TPMT",
+   "B": "Prednisona / atividade da TPMT",
+   "C": "Budesonida / atividade da G6PD",
+   "D": "Prednisona / atividade da G6PD"
+  },
+  "gabarito": "B",
+  "armadilha": "A",
+  "dado_decisivo": "varizes esofágicas de fino calibre",
+  "resolucao": "A budesonida tem menos efeito sistêmico e é opção de primeira linha na hepatite autoimune, e quem a lembra marca-a para poupar a paciente. Mas a budesonida depende do metabolismo de primeira passagem hepático, que se perde na cirrose, onde ela passa à circulação sistêmica e por shunts portossistêmicos, e por isso é contraindicada. A elastografia de 16 kPa, sozinha, poderia estar superestimada pela necroinflamação (ALT acima de 600), mas varizes esofágicas, esplenomegalia e contornos irregulares definem hipertensão portal e cirrose compensada, e a indução se faz com prednisona (ou prednisolona) associada à azatioprina. Antes da azatioprina, dosa-se a atividade (ou o genótipo) da tiopurina metiltransferase, porque a deficiência causa mielotoxicidade grave. A G6PD é o exame antes de dapsona, primaquina ou rasburicase.",
+  "comentarios": {
+   "A": "Errada. A TPMT está certa, mas a budesonida é contraindicada na cirrose; seria a escolha na hepatite autoimune sem cirrose.",
+   "B": "Correta. Cirrose (varizes, esplenomegalia, contornos irregulares) contraindica budesonida; prednisona e TPMT antes da azatioprina.",
+   "C": "Errada nas duas metades: budesonida na cirrose e G6PD, que não guarda relação com a toxicidade da azatioprina.",
+   "D": "Errada. A prednisona está certa, mas a G6PD é o exame antes de dapsona ou primaquina, não da azatioprina."
+  },
+  "para_levar": "Hepatite autoimune: budesonida só sem cirrose; na cirrose, prednisona com azatioprina, sempre com TPMT dosada antes da tiopurina.",
+  "referencias": "EASL Clinical Practice Guidelines on the management of autoimmune hepatitis (2025); AASLD Practice Guidance and Guidelines for Autoimmune Hepatitis (2019)",
+  "tags": [
+   "Hepatite Autoimune (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Ignorar a comorbidade (cirrose) que contraindica a droga de manual."
+ },
+ {
+  "id": "S7-GAS-05",
+  "simulado": 7,
+  "area": "Hepatologia",
+  "titulo": "Hipoxemia ortostática em cirrótico tabagista com microbolhas tardias: síndrome hepatopulmonar",
+  "arma": "Rótulo verdadeiro",
+  "comando": "diagnóstico",
+  "nivel": "difícil",
+  "enunciado": "Homem de 58 anos, com cirrose por hepatite C tratada (Child-Pugh B, MELD 15), tabagista de 30 anos-maço, refere dispneia progressiva aos esforços há 8 meses, que piora ao se levantar e melhora deitado. Exame: aranhas vasculares no tronco, baqueteamento digital, SpO2 de 93% deitado e 86% em pé, ausculta pulmonar normal, B2 normofonética. Gasometria em ar ambiente, sentado: PaO2 58 mmHg, PaCO2 32 mmHg, gradiente alvéolo-arterial de 48 mmHg. Radiografia de tórax e TC de tórax sem alterações parenquimatosas; espirometria com VEF1/CVF de 0,78 e CVF de 92% do previsto. Ecocardiograma transtorácico com microbolhas: microbolhas no átrio esquerdo após o quarto ciclo cardíaco, PSAP estimada em 28 mmHg, ventrículo direito normal. O diagnóstico mais provável é:",
+  "alternativas": {
+   "A": "Hipertensão portopulmonar",
+   "B": "Doença pulmonar obstrutiva crônica",
+   "C": "Forame oval patente com shunt",
+   "D": "Síndrome hepatopulmonar"
+  },
+  "gabarito": "D",
+  "armadilha": "B",
+  "dado_decisivo": "microbolhas no átrio esquerdo após o quarto ciclo cardíaco",
+  "resolucao": "Trinta anos-maço e dispneia progressiva puxam para DPOC, e o rótulo é verdadeiro. Mas a espirometria não tem obstrução (VEF1/CVF de 0,78) e a TC é normal, e o que o caso mostra é hipoxemia com gradiente alargado que piora em pé (ortodeoxia e platipneia), no cirrótico com aranhas e baqueteamento. A ecocardiografia com microbolhas fecha: bolhas no átrio esquerdo depois do terceiro ciclo indicam passagem pelo leito pulmonar dilatado (shunt intrapulmonar), e não pelo septo, onde aparecem já nos três primeiros ciclos. Com PaO2 de 58, a síndrome hepatopulmonar é grave e tem indicação de transplante, com pontuação de exceção no MELD. A hipertensão portopulmonar exige pressão pulmonar elevada no cateterismo, e aqui a PSAP é normal.",
+  "comentarios": {
+   "A": "Errada. Daria PSAP elevada e sobrecarga de ventrículo direito, com hipoxemia leve; aqui a PSAP é 28 mmHg e o VD é normal.",
+   "B": "Errada. O tabagismo é real, mas a espirometria não tem obstrução e DPOC não causa ortodeoxia nem microbolhas tardias no átrio esquerdo.",
+   "C": "Errada. No shunt intracardíaco as microbolhas cruzam nos três primeiros ciclos; o aparecimento tardio indica shunt intrapulmonar.",
+   "D": "Correta. Hipoxemia ortostática com gradiente alargado em cirrótico e microbolhas tardias no átrio esquerdo: dilatação vascular intrapulmonar."
+  },
+  "para_levar": "Síndrome hepatopulmonar: hepatopatia, gradiente alvéolo-arterial alargado e microbolhas no átrio esquerdo após o terceiro ciclo; PaO2 abaixo de 60 dá prioridade no transplante.",
+  "referencias": "ERS/EASL Task Force on hepatopulmonary syndrome and portopulmonary hypertension (2016); AASLD Practice Guidance on Evaluation for Liver Transplantation (2013); ILTS Practice Guidelines (2016)",
+  "tags": [
+   "Síndrome Hepatopulmonar (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Rótulo verdadeiro (tabagismo) contra o exame que decide (microbolhas tardias, espirometria normal)."
+ },
+ {
+  "id": "S7-GAS-06",
+  "simulado": 7,
+  "area": "Oncologia",
+  "titulo": "Hormonioterapia adjuvante na pós-menopausa com trombose venosa prévia a deduzir: inibidor de aromatase e densitometria",
+  "arma": "Dado omitido",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 64 anos, menopausada aos 51, foi submetida a setorectomia com biópsia de linfonodo sentinela por carcinoma ductal invasivo de 1,6 cm, grau 2, receptores de estrogênio e progesterona positivos, HER2 negativo, linfonodo sentinela negativo; fará radioterapia. O risco genômico de recorrência foi baixo e a quimioterapia foi dispensada. Antecedentes: hipertensão em uso de losartana; há 3 anos, após artroplastia total do joelho esquerdo, teve dor e edema da panturrilha esquerda e usou rivaroxabana por 3 meses. Não fuma. Nunca fez densitometria óssea. A hormonioterapia adjuvante mais adequada e o exame a solicitar junto são:",
+  "alternativas": {
+   "A": "Tamoxifeno com ultrassonografia transvaginal anual",
+   "B": "Anastrozol, com densitometria óssea basal",
+   "C": "Raloxifeno, com densitometria óssea basal",
+   "D": "Tamoxifeno por 5 anos, sem exame adicional"
+  },
+  "gabarito": "B",
+  "armadilha": "D",
+  "dado_decisivo": "usou rivaroxabana por 3 meses",
+  "resolucao": "O tamoxifeno é a hormonioterapia que todos conhecem e serve a qualquer idade, e quem não decifra o antecedente marca-o. Mas o caso omite o nome do diagnóstico e dá a pista: dor e edema de panturrilha após artroplastia, tratados com rivaroxabana por 3 meses, são trombose venosa profunda provocada. O tamoxifeno aumenta duas a três vezes o risco de tromboembolismo venoso, e com trombose prévia passa a ser evitado. Na pós-menopausa o inibidor de aromatase é preferível e não tem esse risco, mas acelera a perda óssea, e a densitometria basal é obrigatória (com cálcio, vitamina D e bifosfonato ou denosumabe se houver osteoporose ou risco alto). O raloxifeno não é tratamento adjuvante de câncer de mama e também é trombogênico. A ultrassonografia transvaginal de rotina não é recomendada nem no uso de tamoxifeno.",
+  "comentarios": {
+   "A": "Errada. Além da trombose prévia contra o tamoxifeno, a ultrassonografia transvaginal anual em assintomática não é recomendada.",
+   "B": "Correta. Pós-menopausa com trombose venosa prévia: inibidor de aromatase, com densitometria basal pela perda óssea que ele causa.",
+   "C": "Errada. O raloxifeno serve à prevenção primária em alto risco, não ao tratamento adjuvante, e aumenta o tromboembolismo como o tamoxifeno.",
+   "D": "Errada. Seria opção na pré-menopausa ou na intolerância ao inibidor de aromatase; aqui a trombose venosa prévia, deduzida pela rivaroxabana, contraindica."
+  },
+  "para_levar": "Hormonioterapia adjuvante: com tromboembolismo venoso prévio, evitar tamoxifeno; na pós-menopausa, inibidor de aromatase com densitometria basal.",
+  "referencias": "ASCO Guideline: Adjuvant Endocrine Therapy for Women With Hormone Receptor-Positive Breast Cancer (2018, atualização 2019); NCCN Breast Cancer (2025); ESMO Early Breast Cancer Guideline (2024)",
+  "tags": [
+   "Câncer de mama invasivo",
+   "Neoplasias e Esquemas Quimioterápicos (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Antecedente da primeira linha que derruba a droga de manual, com o diagnóstico a deduzir."
+ },
+ {
+  "id": "S7-GAS-07",
+  "simulado": 7,
+  "area": "Oncologia",
+  "titulo": "Sedação e bradipneia em uso estável de metadona após início de fluconazol: inibição do metabolismo da metadona",
+  "arma": "Cronologia",
+  "comando": "mecanismo",
+  "nivel": "extremamente difícil",
+  "enunciado": "Mulher de 67 anos, com câncer de pulmão e metástases ósseas, usa metadona 10 mg de 8 em 8 horas há 3 semanas, sem mudança de dose, com boa analgesia e sem sonolência desde a primeira semana. Há 4 dias iniciou fluconazol 200 mg/dia por candidíase orofaríngea. Hoje a família relata sonolência excessiva desde ontem. Exame: Glasgow 12, pupilas mióticas, FR 9 irpm, SpO2 90% em ar ambiente, PA 122 x 70 mmHg. Exames: creatinina 0,8 mg/dL (igual à do mês passado), cálcio corrigido 9,6 mg/dL, sódio 138 mEq/L, glicemia 104 mg/dL. TC de crânio sem lesões novas. O mecanismo mais provável do quadro é:",
+  "alternativas": {
+   "A": "Inibição do metabolismo hepático da metadona",
+   "B": "Acúmulo de morfina-6-glicuronídeo por lesão renal",
+   "C": "Acúmulo tardio pela meia-vida longa da metadona",
+   "D": "Hipercalcemia da malignidade"
+  },
+  "gabarito": "A",
+  "armadilha": "C",
+  "dado_decisivo": "Há 4 dias iniciou fluconazol 200 mg/dia",
+  "resolucao": "A metadona é famosa por acumular tardiamente por causa da meia-vida longa e variável, e é a resposta que parece de especialista. Mas esse acúmulo aparece nos primeiros 3 a 5 dias após o início ou cada aumento de dose; aqui a dose está estável há 3 semanas, sem sonolência desde a primeira. O que mudou foi a droga nova: o fluconazol inibe o CYP3A4 e o CYP2C19, que participam do metabolismo da metadona, e eleva seu nível sérico em dias, com sedação, miose e bradipneia (e prolongamento do QT). A creatinina inalterada afasta acúmulo por lesão renal, que, de todo modo, é mecanismo da morfina, e não da metadona; cálcio e TC normais afastam as outras causas. A conduta é naloxona em doses pequenas tituladas (ou infusão, pela meia-vida longa), reduzir a metadona e trocar ou suspender o azólico, com ECG.",
+  "comentarios": {
+   "A": "Correta. O fluconazol, iniciado há 4 dias, inibe o CYP3A4 e o CYP2C19 e eleva o nível de uma dose que estava estável.",
+   "B": "Errada. É o mecanismo da neurotoxicidade da morfina na lesão renal; a metadona não gera esse metabólito e a creatinina está inalterada.",
+   "C": "Errada. O acúmulo pela meia-vida ocorre nos primeiros dias após o início ou aumento de dose; aqui a dose está estável há 3 semanas.",
+   "D": "Errada. Causaria sonolência sem miose e bradipneia, e o cálcio corrigido é 9,6 mg/dL."
+  },
+  "para_levar": "Metadona em dose estável que intoxica: procurar o inibidor de CYP3A4, CYP2C19 ou CYP2B6 iniciado (azóis, macrolídeos, alguns antirretrovirais) e checar o QT.",
+  "referencias": "Manual de Cuidados Paliativos ANCP, 2ª ed. (2012); NCCN Adult Cancer Pain (2025); ESMO Clinical Practice Guidelines: Management of cancer pain in adult patients (2018)",
+  "tags": [
+   "Paliativos Oncologia: Dor (CM)"
+  ],
+  "sourceQuestionId": "59a7ddf44bfa06f",
+  "alvo": "Ignorar a droga nova em uso (interação) e responder a regra de manual fora da cronologia."
+ }
 ]

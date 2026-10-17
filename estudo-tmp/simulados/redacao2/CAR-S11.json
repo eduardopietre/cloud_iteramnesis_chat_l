@@ -44,20 +44,20 @@
   "nivel": "extremamente difícil",
   "enunciado": "Homem de 52 anos, tabagista e dislipidêmico, chega ao pronto-socorro com dor retroesternal opressiva, irradiada para a mandíbula, iniciada há 50 minutos, com sudorese fria. PA 148x92 mmHg, FC 94 bpm, SpO2 96%, pulmões limpos, sem sopros. ECG da chegada: ritmo sinusal, QRS estreito, infradesnivelamento ascendente do ponto J de 2 mm de V2 a V5, seguido de ondas T altas, simétricas e apiculadas nas mesmas derivações, e supradesnivelamento de 1 mm em aVR; nenhuma derivação com supradesnivelamento do ST em 2 derivações contíguas. Troponina T ultrassensível da chegada: 9 ng/L (referência até 14 ng/L). O hospital tem hemodinâmica 24 horas, com tempo previsto até a passagem do fio de 40 minutos. O plantonista registra 'SCA sem supra de ST, troponina negativa: repetir em 1 hora'. Além de AAS e anticoagulação, a conduta mais adequada neste momento é:",
   "alternativas": {
-   "A": "Angioplastia primária imediata",
-   "B": "Troponina seriada em 1 hora",
-   "C": "Cateterismo nas primeiras 24 horas",
-   "D": "Fibrinólise com tenecteplase"
+   "A": "Fibrinólise com tenecteplase",
+   "B": "Cateterismo nas primeiras 24 horas",
+   "C": "Troponina seriada em 1 hora",
+   "D": "Angioplastia primária imediata"
   },
-  "gabarito": "A",
-  "armadilha": "B",
+  "gabarito": "D",
+  "armadilha": "C",
   "dado_decisivo": "seguido de ondas T altas, simétricas e apiculadas nas mesmas derivações",
   "resolucao": "O rótulo do plantonista é verdadeiro ao pé da letra: não há supradesnivelamento do ST, e a troponina da chegada ainda está normal. Mas infradesnivelamento ascendente do ponto J em precordiais com ondas T altas, simétricas e apiculadas, com leve supra em aVR, é o padrão de De Winter, equivalente de oclusão aguda da descendente anterior proximal. A troponina normal aos 50 minutos de dor não tranquiliza ninguém, porque a necrose ainda não liberou marcador suficiente. A diretriz europeia de 2023 inclui esse padrão entre os que indicam oclusão coronariana aguda e pedem reperfusão imediata, como no IAM com supra; com hemodinâmica disponível em 40 minutos, a angioplastia primária é a escolha. Esperar a segunda troponina ou adiar o cateterismo para 24 horas deixa a parede anterior morrer.",
   "comentarios": {
-   "A": "Correta. O padrão de De Winter equivale à oclusão da descendente anterior, e com sala disponível em 40 minutos a reperfusão é por angioplastia primária, sem esperar marcador.",
-   "B": "Errada, e é a armadilha. O algoritmo de 0 e 1 hora serve para a dor torácica com ECG sem padrão de oclusão; aqui o ECG já decide, e a troponina precoce normal é esperada nos primeiros minutos de uma oclusão.",
-   "C": "Errada. Estratégia invasiva precoce em até 24 horas é para SCA sem supra de alto risco sem padrão de oclusão; o De Winter pede reperfusão imediata.",
-   "D": "Errada. Fibrinólise seria a escolha se o tempo previsto até a angioplastia passasse de 120 minutos; com a hemodinâmica a 40 minutos, a angioplastia é superior."
+   "A": "Errada. Fibrinólise seria a escolha se o tempo previsto até a angioplastia passasse de 120 minutos; com a hemodinâmica a 40 minutos, a angioplastia é superior.",
+   "B": "Errada. Estratégia invasiva precoce em até 24 horas é para SCA sem supra de alto risco sem padrão de oclusão; o De Winter pede reperfusão imediata.",
+   "C": "Errada, e é a armadilha. O algoritmo de 0 e 1 hora serve para a dor torácica com ECG sem padrão de oclusão; aqui o ECG já decide, e a troponina precoce normal é esperada nos primeiros minutos de uma oclusão.",
+   "D": "Correta. O padrão de De Winter equivale à oclusão da descendente anterior, e com sala disponível em 40 minutos a reperfusão é por angioplastia primária, sem esperar marcador."
   },
   "para_levar": "Infra ascendente do ponto J em V2 a V5 com T alta, simétrica e apiculada (De Winter) é oclusão da descendente anterior: tratar como IAM com supra, sem esperar troponina.",
   "referencias": "ESC 2023 Guidelines for the management of acute coronary syndromes; Diretriz da SBC sobre IAM com supradesnível do ST, 2015; de Winter RJ et al., N Engl J Med 2008",

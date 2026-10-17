@@ -9,20 +9,20 @@
   "nivel": "extremamente difícil",
   "enunciado": "Homem de 78 anos, com diabetes tipo 2 há 15 anos em uso de metformina 1.000 mg/dia e gliclazida MR 60 mg/dia (HbA1c recente de 7,1%), hipertensão e doença renal crônica com TFGe de 38 mL/min/1,73 m², foi atendido na UPA há 4 dias por tosse produtiva, febre e consolidação em base direita, com CURB-65 de 1, e recebeu alta com um antibiótico oral em dose única diária, em monoterapia, escolhido porque ele é alérgico a penicilina. Desde ontem teve três episódios de sudorese e confusão de madrugada, com glicemias capilares de 42, 38 e 47 mg/dL, revertidos com glicose oral. Não mudou a alimentação nem as doses. Hoje: afebril, PA 132 x 78 mmHg, FC 84 bpm, SpO2 95%. Exames: creatinina 1,7 mg/dL (basal de 1,6 mg/dL), sódio 138 mEq/L, potássio 4,4 mEq/L, cortisol às 8 horas 19 µg/dL, ECG com QTc de 488 ms. A causa mais provável das hipoglicemias é:",
   "alternativas": {
-   "A": "Acúmulo da gliclazida por piora renal",
+   "A": "Acúmulo da metformina pela TFG baixa",
    "B": "Insuficiência adrenal relativa da infecção",
    "C": "Fluoroquinolona somada à sulfonilureia",
-   "D": "Acúmulo da metformina pela TFG baixa"
+   "D": "Acúmulo da gliclazida por piora renal"
   },
   "gabarito": "C",
-  "armadilha": "A",
+  "armadilha": "D",
   "dado_decisivo": "um antibiótico oral em dose única diária, em monoterapia, escolhido porque ele é alérgico a penicilina",
   "resolucao": "Idoso, renal crônico e em uso de sulfonilureia: o reflexo é culpar a gliclazida acumulada, e é a armadilha. Mas a creatinina está estável (1,7 contra 1,6 de base) e a HbA1c de 7,1% mostra anos de esquema sem hipoglicemia; o que mudou há 4 dias foi o antibiótico. Para pneumonia comunitária ambulatorial em quem tem comorbidades (diabetes, DRC) e é alérgico a penicilina, a monoterapia oral em dose única diária é a fluoroquinolona respiratória (levofloxacino ou moxifloxacino), e o QTc de 488 ms reforça a dedução. As fluoroquinolonas bloqueiam os canais de potássio dependentes de ATP da célula beta e aumentam a secreção de insulina, com risco de hipoglicemia grave sobretudo em idosos, na DRC e em associação com sulfonilureia ou insulina. O cortisol de 19 µg/dL afasta a insuficiência adrenal, e a metformina isolada não causa hipoglicemia. A conduta é trocar o antibiótico e suspender ou reduzir a gliclazida enquanto durar a interação.",
   "comentarios": {
-   "A": "Errada. É a armadilha: seria a causa se a função renal tivesse piorado ou a dose tivesse subido; a creatinina está no basal e o esquema era o mesmo há anos sem hipoglicemia.",
+   "A": "Errada. A metformina acumulada na TFG baixa ameaça com acidose láctica, não com hipoglicemia, porque não estimula a secreção de insulina.",
    "B": "Errada. Insuficiência adrenal na infecção daria hipotensão e hiponatremia; cortisol matinal de 19 µg/dL praticamente a exclui.",
    "C": "Correta. Monoterapia oral diária para pneumonia em comorbido alérgico a penicilina é fluoroquinolona respiratória; ela estimula a secreção de insulina e potencializa a sulfonilureia, e o QTc longo é outro efeito da classe.",
-   "D": "Errada. A metformina acumulada na TFG baixa ameaça com acidose láctica, não com hipoglicemia, porque não estimula a secreção de insulina."
+   "D": "Errada. É a armadilha: seria a causa se a função renal tivesse piorado ou a dose tivesse subido; a creatinina está no basal e o esquema era o mesmo há anos sem hipoglicemia."
   },
   "para_levar": "Hipoglicemia nova em diabético estável pede a lista de drogas dos últimos dias: fluoroquinolonas (e claritromicina, por interação com sulfonilureia) causam hipoglicemia, principalmente em idosos e na DRC.",
   "referencias": "FDA Drug Safety Communication 2018 (fluoroquinolonas e disglicemia); Diretriz Brasileira de Pneumonia Adquirida na Comunidade (SBPT 2018); ADA Standards of Care in Diabetes 2026, seção 6.",
@@ -44,18 +44,18 @@
   "enunciado": "Mulher de 26 anos tem diagnóstico de diabetes tipo 1 desde os 17 anos, feito por glicemia de 290 mg/dL sem cetoacidose, e usa insulina glargina 10 U/dia e asparte 3 a 4 U por refeição. Relata hipoglicemias frequentes mesmo com essas doses e HbA1c de 7,9%. A mãe teve diabetes aos 22 anos, tratada por muitos anos só com glibenclamida, e o avô materno também era diabético; nenhum deles é obeso. IMC 21 kg/m², sem acantose. Exames: anti-GAD, anti-IA2 e anti-ZnT8 negativos; peptídeo C de 1,8 ng/mL com glicemia simultânea de 160 mg/dL; glicosúria 3+ com glicemia de 140 mg/dL; PCR ultrassensível de 0,2 mg/L. O sequenciamento genético mostrou variante patogênica no gene HNF1A. A conduta mais adequada é:",
   "alternativas": {
    "A": "Gliclazida em dose baixa, suspendendo a insulina",
-   "B": "Manter o basal-bolus com doses menores",
-   "C": "Insulina basal isolada, sem os bolus",
+   "B": "Insulina basal isolada, sem os bolus",
+   "C": "Manter o basal-bolus com doses menores",
    "D": "Metformina, suspendendo a insulina"
   },
   "gabarito": "A",
-  "armadilha": "B",
+  "armadilha": "C",
   "dado_decisivo": "variante patogênica no gene HNF1A",
   "resolucao": "O rótulo de diabetes tipo 1 é antigo e parece sólido (jovem, magra, diagnóstico aos 17 anos), e por isso o apressado só ajusta a insulina. Mas nove anos depois o peptídeo C segue preservado, os três autoanticorpos são negativos, há herança autossômica dominante em três gerações e a mãe foi controlada anos com sulfonilureia: é diabetes monogênico, confirmado pela variante no HNF1A (MODY 3). Nesse tipo, a célula beta responde de forma exagerada às sulfonilureias, que costumam controlar a glicemia melhor que a insulina e em doses baixas (gliclazida 20 a 40 mg ou glibenclamida 1,25 a 2,5 mg), com troca gradual e vigilância de hipoglicemia. A glicosúria com glicemia de 140 mg/dL (limiar renal baixo, defeito tubular do HNF1A) e a PCR ultrassensível muito baixa são marcas do mesmo gene. A metformina não aproveita a sensibilidade específica que define o tratamento.",
   "comentarios": {
    "A": "Correta. MODY por HNF1A é muito sensível a sulfonilureia: dose baixa de gliclazida substitui a insulina, com titulação lenta para evitar hipoglicemia.",
-   "B": "Errada. É a armadilha: seria o ajuste no tipo 1 com hipoglicemias; aqui o rótulo caiu com o peptídeo C preservado, autoanticorpos negativos e a variante no HNF1A.",
-   "C": "Errada. Simplificar a insulina seria opção no tipo 2 ou no autoimune latente com secreção residual; não usa a resposta específica à sulfonilureia.",
+   "B": "Errada. Simplificar a insulina seria opção no tipo 2 ou no autoimune latente com secreção residual; não usa a resposta específica à sulfonilureia.",
+   "C": "Errada. É a armadilha: seria o ajuste no tipo 1 com hipoglicemias; aqui o rótulo caiu com o peptídeo C preservado, autoanticorpos negativos e a variante no HNF1A.",
    "D": "Errada. Metformina é a primeira linha no tipo 2 com resistência à insulina; no HNF1A o defeito é de secreção, e a resposta é muito inferior à da sulfonilureia."
   },
   "para_levar": "Diabetes jovem, não obeso, com autoanticorpos negativos, peptídeo C preservado anos depois e herança em três gerações: pense em MODY. HNF1A e HNF4A tratam com sulfonilureia em dose baixa; glicoquinase não trata.",

@@ -44,18 +44,18 @@
   "enunciado": "Mulher de 74 anos, com hipertensão e diabetes controlados, ativa e independente (ECOG 1), FE de 60% e creatinina de 1,0 mg/dL, recebe diagnóstico de leucemia linfoblástica aguda B: leucócitos 38.000/mm³ com 70% de blastos, imunofenotipagem CD19+, CD10+, TdT+, citogenética com t(9;22) e transcrito BCR-ABL1 p190. Líquor sem blastos. A família lembra que um tio morreu de 'leucemia de idoso' durante quimioterapia e teme o tratamento. O esquema de indução mais adequado é:",
   "alternativas": {
    "A": "Hiper-CVAD com rituximabe",
-   "B": "Cuidados paliativos exclusivos",
-   "C": "Inibidor de tirosina-quinase com corticoide",
+   "B": "Inibidor de tirosina-quinase com corticoide",
+   "C": "Cuidados paliativos exclusivos",
    "D": "Transplante alogênico imediato"
   },
-  "gabarito": "C",
-  "armadilha": "B",
+  "gabarito": "B",
+  "armadilha": "C",
   "dado_decisivo": "transcrito BCR-ABL1 p190",
   "resolucao": "Leucemia aguda em pessoa de 74 anos carrega o rótulo verdadeiro de prognóstico ruim e de toxicidade alta da quimioterapia intensiva, o que empurra para paliativo exclusivo ou, no outro extremo, para hiper-CVAD. O cromossomo Philadelphia muda o problema: na LLA Ph+, inibidores de tirosina-quinase (imatinibe, dasatinibe, ponatinibe) associados apenas a corticoide induzem remissão completa em mais de 90% dos idosos, com toxicidade baixa, e a profilaxia intratecal do sistema nervoso central é mantida. Por isso a indução em idosos é ITK com corticoide, sem quimioterapia intensiva, e a consolidação pode incorporar blinatumomabe ou quimioterapia de baixa intensidade. Hiper-CVAD em pessoa de 74 anos tem mortalidade de indução proibitiva, e transplante alogênico não é tratamento de indução, ainda menos nesta idade.",
   "comentarios": {
    "A": "Errada. Esquema intensivo para adultos jovens; em idosos, a mortalidade da indução anula o benefício, e o ITK resolve sem ele.",
-   "B": "Errada, é a armadilha. Seria razoável em paciente frágil e sem alvo; esta paciente é funcional e tem alvo com remissão acima de 90% com ITK.",
-   "C": "Correta. LLA Ph+ em idosa funcional: ITK com corticoide, com profilaxia do SNC.",
+   "B": "Correta. LLA Ph+ em idosa funcional: ITK com corticoide, com profilaxia do SNC.",
+   "C": "Errada, é a armadilha. Seria razoável em paciente frágil e sem alvo; esta paciente é funcional e tem alvo com remissão acima de 90% com ITK.",
    "D": "Errada. Transplante é consolidação em casos selecionados, não indução, e raramente se aplica aos 74 anos."
   },
   "para_levar": "LLA Ph+ no idoso funcional se induz com inibidor de tirosina-quinase e corticoide, sem quimioterapia intensiva; o alvo molecular muda o prognóstico do rótulo de idade.",

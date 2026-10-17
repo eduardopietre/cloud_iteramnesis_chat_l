@@ -1,175 +1,175 @@
 [
-  {
-    "id": "S12-NEF-01",
-    "simulado": 12,
-    "area": "Nefrologia",
-    "titulo": "Nefrite lúpica classe V isolada com proteinúria nefrótica · imunossupressão indicada pelo limiar, e não só bloqueio do SRAA",
-    "arma": "Limiar",
-    "comando": "conduta",
-    "nivel": "difícil",
-    "enunciado": "Mulher de 31 anos, com lúpus eritematoso sistêmico há quatro anos (artrite e fotossensibilidade), em uso de hidroxicloroquina 400 mg/dia. Há dois meses com edema de membros inferiores. PA 124/78 mmHg. Exames: creatinina 0,8 mg/dL, albumina 2,6 g/dL, colesterol total 340 mg/dL, proteinúria de 4,6 g/24 h, sedimento com 3 hemácias por campo, C3 e C4 normais, anti-DNA 1:20. Biópsia renal: espessamento difuso da membrana basal com depósitos subepiteliais globais, sem proliferação endocapilar nem crescentes (classe V isolada, ISN/RPS), índice de cronicidade de 1. Usa losartana em dose plena há seis semanas, sem queda da proteinúria. A conduta mais adequada, além de manter a hidroxicloroquina e o bloqueio do sistema renina-angiotensina, é:",
-    "alternativas": {
-      "A": "Manter e reavaliar em seis meses",
-      "B": "Glicocorticoide com micofenolato",
-      "C": "Glicocorticoide isolado em dose alta",
-      "D": "Belimumabe em monoterapia"
-    },
-    "gabarito": "B",
-    "armadilha": "A",
-    "dado_decisivo": "proteinúria de 4,6 g/24 h",
-    "resolucao": "Sedimento pobre, complemento normal, anti-DNA baixo e creatinina normal dão a impressão de doença quieta, e a classe V isolada lembra a classe II, em que basta o bloqueio do sistema renina-angiotensina. O que decide é a proteinúria: na classe V isolada, proteinúria nefrótica (3,5 g/24 h ou mais), ou persistente apesar do bloqueio do SRAA, indica imunossupressão. A KDIGO 2024 recomenda glicocorticoide associado a um segundo agente (micofenolato, inibidor de calcineurina, rituximabe ou ciclofosfamida), e o micofenolato é a escolha mais usada pela tolerância e pela proteção extrarrenal. Abaixo de 3,5 g, com resposta ao bloqueio, a observação seria aceitável.",
-    "comentarios": {
-      "A": "Errada. Seria a conduta na classe V com proteinúria subnefrótica, ou na classe II; com 4,6 g/24 h sem resposta ao bloqueio, observar deixa a doença ativa.",
-      "B": "Correta. Classe V com proteinúria nefrótica pede glicocorticoide com um segundo imunossupressor, e o micofenolato é a escolha usual.",
-      "C": "Errada. Glicocorticoide sozinho tem taxa de remissão baixa na classe V e expõe a dose cumulativa alta; a diretriz associa um segundo agente.",
-      "D": "Errada. Belimumabe é usado em associação, sobretudo nas classes proliferativas; não é monoterapia de indução da classe V."
-    },
-    "para_levar": "Na nefrite lúpica classe V isolada, a proteinúria decide: nefrótica (ou persistente apesar do bloqueio do SRAA) indica glicocorticoide com segundo imunossupressor.",
-    "referencias": "KDIGO 2024 Clinical Practice Guideline for the Management of Lupus Nephritis; EULAR 2023 recommendations for SLE.",
-    "tags": [
-      "Lúpus (CM)",
-      "Síndrome Nefrótica (CM)"
-    ],
-    "sourceQuestionId": null,
-    "alvo": "Limiar lido como enfeite quando o resto do caso parece quieto; LES como cenário de decisão renal."
+ {
+  "id": "S12-NEF-01",
+  "simulado": 12,
+  "area": "Nefrologia",
+  "titulo": "Nefrite lúpica classe V isolada com proteinúria nefrótica · imunossupressão indicada pelo limiar, e não só bloqueio do SRAA",
+  "arma": "Limiar",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 31 anos, com lúpus eritematoso sistêmico há quatro anos (artrite e fotossensibilidade), em uso de hidroxicloroquina 400 mg/dia. Há dois meses com edema de membros inferiores. PA 124/78 mmHg. Exames: creatinina 0,8 mg/dL, albumina 2,6 g/dL, colesterol total 340 mg/dL, proteinúria de 4,6 g/24 h, sedimento com 3 hemácias por campo, C3 e C4 normais, anti-DNA 1:20. Biópsia renal: espessamento difuso da membrana basal com depósitos subepiteliais globais, sem proliferação endocapilar nem crescentes (classe V isolada, ISN/RPS), índice de cronicidade de 1. Usa losartana em dose plena há seis semanas, sem queda da proteinúria. A conduta mais adequada, além de manter a hidroxicloroquina e o bloqueio do sistema renina-angiotensina, é:",
+  "alternativas": {
+   "A": "Manter e reavaliar em seis meses",
+   "B": "Glicocorticoide com micofenolato",
+   "C": "Glicocorticoide isolado em dose alta",
+   "D": "Belimumabe em monoterapia"
   },
-  {
-    "id": "S12-NEF-02",
-    "simulado": 12,
-    "area": "Nefrologia",
-    "titulo": "Síndrome nefrótica com componente monoclonal pequeno e fibrilas de 20 nm vermelho Congo negativas · glomerulonefrite fibrilar, e não amiloidose",
-    "arma": "Rótulo verdadeiro",
-    "comando": "diagnóstico",
-    "nivel": "extremamente difícil",
-    "enunciado": "Homem de 61 anos, hipertenso há dez anos, com edema há três meses. PA 152/94 mmHg. Exames: creatinina 1,9 mg/dL, albumina 2,9 g/dL, proteinúria de 5,8 g/24 h, sedimento com 25 hemácias dismórficas por campo, C3 e C4 normais, sorologias para hepatites B e C e HIV negativas, crioglobulinas negativas. Imunofixação sérica com pequeno componente monoclonal IgG lambda (0,3 g/dL), relação kappa/lambda livre de 1,4 e sem lesões ósseas. Biópsia renal: expansão mesangial com padrão membranoproliferativo; imunofluorescência com IgG e C3, com kappa e lambda em intensidade semelhante; vermelho Congo negativo; microscopia eletrônica com fibrilas retas, dispostas ao acaso, de 18 a 20 nm de diâmetro, sem organização em microtúbulos. O diagnóstico mais provável é:",
-    "alternativas": {
-      "A": "Glomerulopatia imunotactoide",
-      "B": "Amiloidose de cadeia leve",
-      "C": "Glomerulonefrite fibrilar",
-      "D": "Glomerulonefrite crioglobulinêmica"
-    },
-    "gabarito": "C",
-    "armadilha": "B",
-    "dado_decisivo": "fibrilas retas, dispostas ao acaso, de 18 a 20 nm de diâmetro",
-    "resolucao": "O componente monoclonal é real e, junto com depósitos fibrilares e síndrome nefrótica, puxa para amiloidose AL. Mas a amiloide tem fibrilas mais finas (8 a 12 nm) e cora pelo vermelho Congo, que aqui é negativo. Fibrilas de 18 a 20 nm, retas e ao acaso, Congo negativas e com imunofluorescência policlonal (kappa e lambda iguais) definem a glomerulonefrite fibrilar, hoje confirmada pela imuno-histoquímica para DNAJB9. A imunotactoide tem microtúbulos maiores (acima de 30 nm), organizados em feixes paralelos, e costuma ser monoclonal. A crioglobulinêmica foi afastada pela pesquisa negativa e daria microtúbulos curvos e trombos de crioglobulina. O pequeno pico monoclonal com relação livre normal é provavelmente uma gamopatia de significado indeterminado associada, e não a causa.",
-    "comentarios": {
-      "A": "Errada. Seria o diagnóstico com microtúbulos acima de 30 nm em arranjo paralelo e depósito monoclonal; aqui as fibrilas são de 18 a 20 nm, ao acaso, e policlonais.",
-      "B": "Errada. É a isca do pico monoclonal; amiloide tem fibrilas de 8 a 12 nm e é vermelho Congo positiva, e aqui o Congo é negativo.",
-      "C": "Correta. Fibrilas de 18 a 20 nm, ao acaso, Congo negativas e policlonais: glomerulonefrite fibrilar (DNAJB9 positiva).",
-      "D": "Errada. Crioglobulinas negativas, complemento normal e sorologia para hepatite C negativa; a ultraestrutura seria de microtúbulos curvos."
-    },
-    "para_levar": "Depósito fibrilar no glomérulo se separa por diâmetro, organização e vermelho Congo: 8 a 12 nm e Congo positivo é amiloide; cerca de 20 nm, ao acaso e Congo negativo é fibrilar; acima de 30 nm e em feixes é imunotactoide.",
-    "referencias": "KDIGO 2021 Clinical Practice Guideline for the Management of Glomerular Diseases; Nasr SH et al., Kidney Int 2018 (DNAJB9).",
-    "tags": [
-      "Glomerulopatias (CM)",
-      "Síndrome Nefrótica (CM)",
-      "Gamopatia Monoclonal de Significado Indeterminado (GMSI) (CM)"
-    ],
-    "sourceQuestionId": null,
-    "alvo": "Rótulo verdadeiro (componente monoclonal) puxando amiloidose; dado morfológico decisivo lido como enfeite."
+  "gabarito": "B",
+  "armadilha": "A",
+  "dado_decisivo": "proteinúria de 4,6 g/24 h",
+  "resolucao": "Sedimento pobre, complemento normal, anti-DNA baixo e creatinina normal dão a impressão de doença quieta, e a classe V isolada lembra a classe II, em que basta o bloqueio do sistema renina-angiotensina. O que decide é a proteinúria: na classe V isolada, proteinúria nefrótica (3,5 g/24 h ou mais), ou persistente apesar do bloqueio do SRAA, indica imunossupressão. A KDIGO 2024 recomenda glicocorticoide associado a um segundo agente (micofenolato, inibidor de calcineurina, rituximabe ou ciclofosfamida), e o micofenolato é a escolha mais usada pela tolerância e pela proteção extrarrenal. Abaixo de 3,5 g, com resposta ao bloqueio, a observação seria aceitável.",
+  "comentarios": {
+   "A": "Errada. Seria a conduta na classe V com proteinúria subnefrótica, ou na classe II; com 4,6 g/24 h sem resposta ao bloqueio, observar deixa a doença ativa.",
+   "B": "Correta. Classe V com proteinúria nefrótica pede glicocorticoide com um segundo imunossupressor, e o micofenolato é a escolha usual.",
+   "C": "Errada. Glicocorticoide sozinho tem taxa de remissão baixa na classe V e expõe a dose cumulativa alta; a diretriz associa um segundo agente.",
+   "D": "Errada. Belimumabe é usado em associação, sobretudo nas classes proliferativas; não é monoterapia de indução da classe V."
   },
-  {
-    "id": "S12-NEF-03",
-    "simulado": 12,
-    "area": "Nefrologia",
-    "titulo": "GESF colapsante na pessoa com HIV sem terapia antirretroviral · a TARV é o que muda o prognóstico renal, e não o corticoide",
-    "arma": "Qualificador",
-    "comando": "conduta",
-    "nivel": "difícil",
-    "enunciado": "Homem de 29 anos, negro, com infecção pelo HIV diagnosticada há dois meses (CD4 de 90 células/mm³, carga viral de 310.000 cópias/mL), ainda sem terapia antirretroviral porque faltou às consultas, procura atendimento por urina espumosa. PA 118/72 mmHg, sem edema. Exames: creatinina 2,4 mg/dL, ureia 64 mg/dL, albumina 3,1 g/dL, proteinúria de 6,2 g/24 h, sedimento sem hemácias, sorologias para hepatites B e C e VDRL negativas. Ultrassonografia: rins de 13,5 cm, hiperecogênicos. Biópsia renal: glomerulosclerose segmentar e focal com colapso do tufo, hiperplasia de podócitos e microcistos tubulares. Já foi iniciado IECA. A medida que mais altera o prognóstico renal deste paciente é:",
-    "alternativas": {
-      "A": "Associar inibidor de SGLT2",
-      "B": "Ciclosporina oral",
-      "C": "Prednisona 1 mg/kg/dia",
-      "D": "Iniciar terapia antirretroviral"
-    },
-    "gabarito": "D",
-    "armadilha": "C",
-    "dado_decisivo": "ainda sem terapia antirretroviral",
-    "resolucao": "GESF com colapso é a variante de pior prognóstico e, na forma primária, leva ao corticoide; a lesão é real e puxa para a imunossupressão. Mas aqui a GESF colapsante, com microcistos tubulares e rins grandes e ecogênicos, em pessoa com HIV, viremia alta e sem TARV, é a nefropatia associada ao HIV, causada pela infecção direta do epitélio renal. O qualificador do comando pede o que mais muda o prognóstico renal: a TARV, que reduz a progressão para doença renal terminal, junto ao IECA já iniciado. O corticoide teve papel histórico, mas não é recomendado de rotina e aumenta o risco infeccioso com CD4 de 90. Na escolha da TARV, evitar tenofovir desoproxila com essa TFG e ajustar as doses à função renal.",
-    "comentarios": {
-      "A": "Errada. É adjuvante razoável na doença renal proteinúrica, mas não muda o curso da nefropatia do HIV como a supressão viral.",
-      "B": "Errada. Inibidor de calcineurina é usado na GESF primária corticorresistente; aqui a causa é viral e a imunossupressão não é a base.",
-      "C": "Errada. É a isca da GESF colapsante tratada como primária; com CD4 de 90 e viremia alta, o corticoide não é rotina e aumenta infecções.",
-      "D": "Correta. Na nefropatia associada ao HIV, a TARV é o tratamento que altera a progressão renal, junto com o IECA."
-    },
-    "para_levar": "GESF colapsante na pessoa com HIV virêmica é nefropatia associada ao HIV: TARV imediata com IECA, e não corticoide.",
-    "referencias": "Swanepoel CR et al. Kidney disease in the setting of HIV infection: KDIGO Controversies Conference, Kidney Int 2018; PCDT para manejo da infecção pelo HIV em adultos, Ministério da Saúde 2024.",
-    "tags": [
-      "HIV/AIDS (CM)",
-      "Glomerulopatias (CM)",
-      "Síndrome Nefrótica (CM)"
-    ],
-    "sourceQuestionId": null,
-    "alvo": "Achado histológico verdadeiro puxando o tratamento de manual; qualificador do comando lido pela metade."
+  "para_levar": "Na nefrite lúpica classe V isolada, a proteinúria decide: nefrótica (ou persistente apesar do bloqueio do SRAA) indica glicocorticoide com segundo imunossupressor.",
+  "referencias": "KDIGO 2024 Clinical Practice Guideline for the Management of Lupus Nephritis; EULAR 2023 recommendations for SLE.",
+  "tags": [
+   "Lúpus (CM)",
+   "Síndrome Nefrótica (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Limiar lido como enfeite quando o resto do caso parece quieto; LES como cenário de decisão renal."
+ },
+ {
+  "id": "S12-NEF-02",
+  "simulado": 12,
+  "area": "Nefrologia",
+  "titulo": "Síndrome nefrótica com componente monoclonal pequeno e fibrilas de 20 nm vermelho Congo negativas · glomerulonefrite fibrilar, e não amiloidose",
+  "arma": "Rótulo verdadeiro",
+  "comando": "diagnóstico",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 61 anos, hipertenso há dez anos, com edema há três meses. PA 152/94 mmHg. Exames: creatinina 1,9 mg/dL, albumina 2,9 g/dL, proteinúria de 5,8 g/24 h, sedimento com 25 hemácias dismórficas por campo, C3 e C4 normais, sorologias para hepatites B e C e HIV negativas, crioglobulinas negativas. Imunofixação sérica com pequeno componente monoclonal IgG lambda (0,3 g/dL), relação kappa/lambda livre de 1,4 e sem lesões ósseas. Biópsia renal: expansão mesangial com padrão membranoproliferativo; imunofluorescência com IgG e C3, com kappa e lambda em intensidade semelhante; vermelho Congo negativo; microscopia eletrônica com fibrilas retas, dispostas ao acaso, de 18 a 20 nm de diâmetro, sem organização em microtúbulos. O diagnóstico mais provável é:",
+  "alternativas": {
+   "A": "Glomerulopatia imunotactoide",
+   "B": "Amiloidose de cadeia leve",
+   "C": "Glomerulonefrite fibrilar",
+   "D": "Glomerulonefrite crioglobulinêmica"
   },
-  {
-    "id": "S12-NEF-04",
-    "simulado": 12,
-    "area": "Nefrologia",
-    "titulo": "Hipocalcemia com PTH baixo depois de quimiorradioterapia em quem teve tireoidectomia parcial · hipomagnesemia por perda tubular, e não hipoparatireoidismo",
-    "arma": "Droga a deduzir",
-    "comando": "etiologia",
-    "nivel": "extremamente difícil",
-    "enunciado": "Homem de 58 anos, com carcinoma epidermoide de laringe tratado há três anos com laringectomia total, lobectomia tireoidiana esquerda e esvaziamento cervical, com cálcio normal em todos os controles depois da cirurgia. Por recidiva cervical, terminou há quatro semanas três ciclos de quimiorradioterapia com um quimioterápico trissemanal que exigiu hidratação venosa vigorosa a cada ciclo e deixou perda auditiva bilateral para sons agudos. Há cinco dias com parestesias periorais e cãibras; sinal de Trousseau positivo. Exames: cálcio total 6,9 mg/dL (albumina 3,9 g/dL), fósforo 3,6 mg/dL, potássio 3,0 mEq/L, magnésio 0,8 mg/dL (1,7 a 2,4), PTH 9 pg/mL (15 a 65), creatinina 1,2 mg/dL, 25-hidroxivitamina D 28 ng/mL, fração de excreção de magnésio de 9%. A causa da hipocalcemia é:",
-    "alternativas": {
-      "A": "Hipomagnesemia por perda renal",
-      "B": "Hipoparatireoidismo pós-cirúrgico",
-      "C": "Deficiência de vitamina D",
-      "D": "Síndrome de lise tumoral"
-    },
-    "gabarito": "A",
-    "armadilha": "B",
-    "dado_decisivo": "cálcio normal em todos os controles depois da cirurgia",
-    "resolucao": "A droga não é nomeada, mas quimioterapia trissemanal com radioterapia no câncer de cabeça e pescoço, que exige hidratação vigorosa e causa ototoxicidade, é a cisplatina. A cirurgia cervical prévia e o PTH baixo puxam para hipoparatireoidismo, mas o cálcio foi normal por três anos depois da operação, o que tira a cirurgia de cena. A cisplatina lesa o túbulo e causa perda renal de magnésio (fração de excreção de 9%, quando o rim deveria conservar e ficar abaixo de 2%), e magnésio abaixo de cerca de 1 mg/dL inibe a secreção de PTH e causa resistência a ele. Por isso o PTH está baixo e a hipocalcemia e a hipocalemia não corrigem enquanto o magnésio não for reposto. A conduta é sulfato de magnésio intravenoso, antes ou junto do cálcio.",
-    "comentarios": {
-      "A": "Correta. Perda tubular de magnésio pela cisplatina, com hipomagnesemia grave que suprime a secreção de PTH.",
-      "B": "Errada. É a isca da cirurgia cervical; um hipoparatireoidismo pós-operatório teria aparecido logo depois da cirurgia, e o cálcio ficou normal por três anos.",
-      "C": "Errada. A 25-hidroxivitamina D é de 28 ng/mL, e a deficiência daria PTH alto, e não baixo.",
-      "D": "Errada. Lise tumoral daria fósforo, potássio e ácido úrico altos; aqui o fósforo é normal e o potássio está baixo."
-    },
-    "para_levar": "Hipocalcemia com PTH baixo e magnésio abaixo de 1 mg/dL é hipocalcemia da hipomagnesemia até prova em contrário: repor magnésio primeiro; na cisplatina, a perda é renal.",
-    "referencias": "Second International Workshop on Hypoparathyroidism, J Bone Miner Res 2022; Oronsky B et al., Transl Oncol 2017 (nefrotoxicidade da cisplatina).",
-    "tags": [
-      "Hipocalcemias (CM)",
-      "Distúrbios de Fósforo e Magnésio (CM)",
-      "Nefrotoxicidade por Drogas (CM)"
-    ],
-    "sourceQuestionId": null,
-    "alvo": "Antecedente cirúrgico verdadeiro puxando o diagnóstico de manual; a droga em uso (não nomeada) ignorada."
+  "gabarito": "C",
+  "armadilha": "B",
+  "dado_decisivo": "fibrilas retas, dispostas ao acaso, de 18 a 20 nm de diâmetro",
+  "resolucao": "O componente monoclonal é real e, junto com depósitos fibrilares e síndrome nefrótica, puxa para amiloidose AL. Mas a amiloide tem fibrilas mais finas (8 a 12 nm) e cora pelo vermelho Congo, que aqui é negativo. Fibrilas de 18 a 20 nm, retas e ao acaso, Congo negativas e com imunofluorescência policlonal (kappa e lambda iguais) definem a glomerulonefrite fibrilar, hoje confirmada pela imuno-histoquímica para DNAJB9. A imunotactoide tem microtúbulos maiores (acima de 30 nm), organizados em feixes paralelos, e costuma ser monoclonal. A crioglobulinêmica foi afastada pela pesquisa negativa e daria microtúbulos curvos e trombos de crioglobulina. O pequeno pico monoclonal com relação livre normal é provavelmente uma gamopatia de significado indeterminado associada, e não a causa.",
+  "comentarios": {
+   "A": "Errada. Seria o diagnóstico com microtúbulos acima de 30 nm em arranjo paralelo e depósito monoclonal; aqui as fibrilas são de 18 a 20 nm, ao acaso, e policlonais.",
+   "B": "Errada. É a isca do pico monoclonal; amiloide tem fibrilas de 8 a 12 nm e é vermelho Congo positiva, e aqui o Congo é negativo.",
+   "C": "Correta. Fibrilas de 18 a 20 nm, ao acaso, Congo negativas e policlonais: glomerulonefrite fibrilar (DNAJB9 positiva).",
+   "D": "Errada. Crioglobulinas negativas, complemento normal e sorologia para hepatite C negativa; a ultraestrutura seria de microtúbulos curvos."
   },
-  {
-    "id": "S12-NEF-05",
-    "simulado": 12,
-    "area": "Nefrologia",
-    "titulo": "Acidose lática com débito cardíaco alto e saturação venosa elevada na nutrição parenteral sem vitaminas · deficiência de tiamina, e não sepse",
-    "arma": "Cronologia",
-    "comando": "etiologia",
-    "nivel": "extremamente difícil",
-    "enunciado": "Mulher de 47 anos, no 19º dia de internação após ressecção intestinal extensa por isquemia mesentérica, em nutrição parenteral total exclusiva desde o pós-operatório. Por falta no estoque, a solução de polivitamínicos não é adicionada à bolsa há 16 dias. Há 24 horas evolui com taquicardia, confusão mental e oligúria. PA 92/54 mmHg com noradrenalina a 0,08 µg/kg/min, extremidades quentes, enchimento capilar de 2 segundos. Ecocardiograma: FE de 68% e débito cardíaco elevado. Hemoculturas e cultura da ponta do cateter negativas em 48 horas, procalcitonina 0,3 ng/mL, TC de abdome sem coleção nem sinais de nova isquemia. Gasometria: pH 7,18, bicarbonato 9 mEq/L, pCO2 24 mmHg, lactato 11 mmol/L, saturação venosa central de 84%, glicemia 210 mg/dL. Após 2 L de cristaloide, o lactato não se alterou. A causa mais provável da acidose é:",
-    "alternativas": {
-      "A": "Acidose D-lática do intestino curto",
-      "B": "Isquemia mesentérica recorrente",
-      "C": "Deficiência de tiamina",
-      "D": "Choque séptico por infecção do cateter"
-    },
-    "gabarito": "C",
-    "armadilha": "D",
-    "dado_decisivo": "a solução de polivitamínicos não é adicionada à bolsa há 16 dias",
-    "resolucao": "Hipotensão, extremidades quentes, débito alto e lactato elevado em paciente com cateter central levam à sepse, e é ela que a equipe trataria. Mas culturas e procalcitonina negativas, TC sem foco, saturação venosa central alta e lactato que não responde a volume apontam para falha do uso celular de oxigênio, e não de oferta (acidose lática tipo B). A cronologia decide: duas semanas de nutrição parenteral com glicose e sem vitaminas consomem a reserva de tiamina, cofator da piruvato desidrogenase; sem ela o piruvato vira lactato, e a carga de glicose acelera o quadro, que se apresenta como beribéri úmido com débito alto e encefalopatia. A conduta é tiamina intravenosa em dose alta, com melhora do lactato em horas.",
-    "comentarios": {
-      "A": "Errada. A acidose D-lática ocorre no intestino curto com carboidrato por via oral fermentado no cólon, e o lactato dosado na rotina (L) vem normal; aqui ela está em jejum oral e o lactato medido é de 11.",
-      "B": "Errada. Seria a primeira hipótese com dor e TC alterada; a TC não mostra nova isquemia, e a saturação venosa alta não combina com hipoperfusão.",
-      "C": "Correta. Nutrição parenteral sem vitaminas por 16 dias, débito alto, saturação venosa alta e lactato refratário ao volume: tiamina.",
-      "D": "Errada. É a isca; culturas negativas, procalcitonina baixa e lactato que não cai com volume não sustentam sepse como causa."
-    },
-    "para_levar": "Lactato alto com saturação venosa central alta e sem foco infeccioso é acidose lática tipo B; em nutrição parenteral sem vitaminas, ou no etilista, dê tiamina antes de escalar o choque.",
-    "referencias": "ESPEN micronutrient guideline 2022; ASPEN parenteral multivitamin shortage recommendations (2012, atualizadas).",
-    "tags": [
-      "Gasometria Arterial (CM)",
-      "Nutrição no Doente Crítico e Desvitaminoses (CM)"
-    ],
-    "sourceQuestionId": "5cc578794316f36",
-    "alvo": "Rótulo forte (sepse no cateter) faz ler a saturação venosa e o tempo sem vitaminas como enfeite."
-  }
+  "para_levar": "Depósito fibrilar no glomérulo se separa por diâmetro, organização e vermelho Congo: 8 a 12 nm e Congo positivo é amiloide; cerca de 20 nm, ao acaso e Congo negativo é fibrilar; acima de 30 nm e em feixes é imunotactoide.",
+  "referencias": "KDIGO 2021 Clinical Practice Guideline for the Management of Glomerular Diseases; Nasr SH et al., Kidney Int 2018 (DNAJB9).",
+  "tags": [
+   "Glomerulopatias (CM)",
+   "Síndrome Nefrótica (CM)",
+   "Gamopatia Monoclonal de Significado Indeterminado (GMSI) (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Rótulo verdadeiro (componente monoclonal) puxando amiloidose; dado morfológico decisivo lido como enfeite."
+ },
+ {
+  "id": "S12-NEF-03",
+  "simulado": 12,
+  "area": "Nefrologia",
+  "titulo": "GESF colapsante na pessoa com HIV sem terapia antirretroviral · a TARV é o que muda o prognóstico renal, e não o corticoide",
+  "arma": "Qualificador",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Homem de 29 anos, negro, com infecção pelo HIV diagnosticada há dois meses (CD4 de 90 células/mm³, carga viral de 310.000 cópias/mL), ainda sem terapia antirretroviral porque faltou às consultas, procura atendimento por urina espumosa. PA 118/72 mmHg, sem edema. Exames: creatinina 2,4 mg/dL, ureia 64 mg/dL, albumina 3,1 g/dL, proteinúria de 6,2 g/24 h, sedimento sem hemácias, sorologias para hepatites B e C e VDRL negativas. Ultrassonografia: rins de 13,5 cm, hiperecogênicos. Biópsia renal: glomerulosclerose segmentar e focal com colapso do tufo, hiperplasia de podócitos e microcistos tubulares. Já foi iniciado IECA. A medida que mais altera o prognóstico renal deste paciente é:",
+  "alternativas": {
+   "A": "Associar inibidor de SGLT2",
+   "B": "Ciclosporina oral",
+   "C": "Prednisona 1 mg/kg/dia",
+   "D": "Iniciar terapia antirretroviral"
+  },
+  "gabarito": "D",
+  "armadilha": "C",
+  "dado_decisivo": "ainda sem terapia antirretroviral",
+  "resolucao": "GESF com colapso é a variante de pior prognóstico e, na forma primária, leva ao corticoide; a lesão é real e puxa para a imunossupressão. Mas aqui a GESF colapsante, com microcistos tubulares e rins grandes e ecogênicos, em pessoa com HIV, viremia alta e sem TARV, é a nefropatia associada ao HIV, causada pela infecção direta do epitélio renal. O qualificador do comando pede o que mais muda o prognóstico renal: a TARV, que reduz a progressão para doença renal terminal, junto ao IECA já iniciado. O corticoide teve papel histórico, mas não é recomendado de rotina e aumenta o risco infeccioso com CD4 de 90. Na escolha da TARV, evitar tenofovir desoproxila com essa TFG e ajustar as doses à função renal.",
+  "comentarios": {
+   "A": "Errada. É adjuvante razoável na doença renal proteinúrica, mas não muda o curso da nefropatia do HIV como a supressão viral.",
+   "B": "Errada. Inibidor de calcineurina é usado na GESF primária corticorresistente; aqui a causa é viral e a imunossupressão não é a base.",
+   "C": "Errada. É a isca da GESF colapsante tratada como primária; com CD4 de 90 e viremia alta, o corticoide não é rotina e aumenta infecções.",
+   "D": "Correta. Na nefropatia associada ao HIV, a TARV é o tratamento que altera a progressão renal, junto com o IECA."
+  },
+  "para_levar": "GESF colapsante na pessoa com HIV virêmica é nefropatia associada ao HIV: TARV imediata com IECA, e não corticoide.",
+  "referencias": "Swanepoel CR et al. Kidney disease in the setting of HIV infection: KDIGO Controversies Conference, Kidney Int 2018; PCDT para manejo da infecção pelo HIV em adultos, Ministério da Saúde 2024.",
+  "tags": [
+   "HIV/AIDS (CM)",
+   "Glomerulopatias (CM)",
+   "Síndrome Nefrótica (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Achado histológico verdadeiro puxando o tratamento de manual; qualificador do comando lido pela metade."
+ },
+ {
+  "id": "S12-NEF-04",
+  "simulado": 12,
+  "area": "Nefrologia",
+  "titulo": "Hipocalcemia com PTH baixo depois de quimiorradioterapia em quem teve tireoidectomia parcial · hipomagnesemia por perda tubular, e não hipoparatireoidismo",
+  "arma": "Droga a deduzir",
+  "comando": "etiologia",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 58 anos, com carcinoma epidermoide de laringe tratado há três anos com laringectomia total, lobectomia tireoidiana esquerda e esvaziamento cervical, com cálcio normal em todos os controles depois da cirurgia. Por recidiva cervical, terminou há quatro semanas três ciclos de quimiorradioterapia com um quimioterápico trissemanal que exigiu hidratação venosa vigorosa a cada ciclo e deixou perda auditiva bilateral para sons agudos. Há cinco dias com parestesias periorais e cãibras; sinal de Trousseau positivo. Exames: cálcio total 6,9 mg/dL (albumina 3,9 g/dL), fósforo 3,6 mg/dL, potássio 3,0 mEq/L, magnésio 0,8 mg/dL (1,7 a 2,4), PTH 9 pg/mL (15 a 65), creatinina 1,2 mg/dL, 25-hidroxivitamina D 28 ng/mL, fração de excreção de magnésio de 9%. A causa da hipocalcemia é:",
+  "alternativas": {
+   "A": "Hipomagnesemia por perda renal",
+   "B": "Hipoparatireoidismo pós-cirúrgico",
+   "C": "Deficiência de vitamina D",
+   "D": "Síndrome de lise tumoral"
+  },
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "cálcio normal em todos os controles depois da cirurgia",
+  "resolucao": "A droga não é nomeada, mas quimioterapia trissemanal com radioterapia no câncer de cabeça e pescoço, que exige hidratação vigorosa e causa ototoxicidade, é a cisplatina. A cirurgia cervical prévia e o PTH baixo puxam para hipoparatireoidismo, mas o cálcio foi normal por três anos depois da operação, o que tira a cirurgia de cena. A cisplatina lesa o túbulo e causa perda renal de magnésio (fração de excreção de 9%, quando o rim deveria conservar e ficar abaixo de 2%), e magnésio abaixo de cerca de 1 mg/dL inibe a secreção de PTH e causa resistência a ele. Por isso o PTH está baixo e a hipocalcemia e a hipocalemia não corrigem enquanto o magnésio não for reposto. A conduta é sulfato de magnésio intravenoso, antes ou junto do cálcio.",
+  "comentarios": {
+   "A": "Correta. Perda tubular de magnésio pela cisplatina, com hipomagnesemia grave que suprime a secreção de PTH.",
+   "B": "Errada. É a isca da cirurgia cervical; um hipoparatireoidismo pós-operatório teria aparecido logo depois da cirurgia, e o cálcio ficou normal por três anos.",
+   "C": "Errada. A 25-hidroxivitamina D é de 28 ng/mL, e a deficiência daria PTH alto, e não baixo.",
+   "D": "Errada. Lise tumoral daria fósforo, potássio e ácido úrico altos; aqui o fósforo é normal e o potássio está baixo."
+  },
+  "para_levar": "Hipocalcemia com PTH baixo e magnésio abaixo de 1 mg/dL é hipocalcemia da hipomagnesemia até prova em contrário: repor magnésio primeiro; na cisplatina, a perda é renal.",
+  "referencias": "Second International Workshop on Hypoparathyroidism, J Bone Miner Res 2022; Oronsky B et al., Transl Oncol 2017 (nefrotoxicidade da cisplatina).",
+  "tags": [
+   "Hipocalcemias (CM)",
+   "Distúrbios de Fósforo e Magnésio (CM)",
+   "Nefrotoxicidade por Drogas (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Antecedente cirúrgico verdadeiro puxando o diagnóstico de manual; a droga em uso (não nomeada) ignorada."
+ },
+ {
+  "id": "S12-NEF-05",
+  "simulado": 12,
+  "area": "Nefrologia",
+  "titulo": "Acidose lática com débito cardíaco alto e saturação venosa elevada na nutrição parenteral sem vitaminas · deficiência de tiamina, e não sepse",
+  "arma": "Cronologia",
+  "comando": "etiologia",
+  "nivel": "extremamente difícil",
+  "enunciado": "Mulher de 47 anos, no 19º dia de internação após ressecção intestinal extensa por isquemia mesentérica, em nutrição parenteral total exclusiva desde o pós-operatório. Por falta no estoque, a solução de polivitamínicos não é adicionada à bolsa há 16 dias. Há 24 horas evolui com taquicardia, confusão mental e oligúria. PA 92/54 mmHg com noradrenalina a 0,08 µg/kg/min, extremidades quentes, enchimento capilar de 2 segundos. Ecocardiograma: FE de 68% e débito cardíaco elevado. Hemoculturas e cultura da ponta do cateter negativas em 48 horas, procalcitonina 0,3 ng/mL, TC de abdome sem coleção nem sinais de nova isquemia. Gasometria: pH 7,18, bicarbonato 9 mEq/L, pCO2 24 mmHg, lactato 11 mmol/L, saturação venosa central de 84%, glicemia 210 mg/dL. Após 2 L de cristaloide, o lactato não se alterou. A causa mais provável da acidose é:",
+  "alternativas": {
+   "A": "Acidose D-lática do intestino curto",
+   "B": "Isquemia mesentérica recorrente",
+   "C": "Deficiência de tiamina",
+   "D": "Choque séptico por infecção do cateter"
+  },
+  "gabarito": "C",
+  "armadilha": "D",
+  "dado_decisivo": "a solução de polivitamínicos não é adicionada à bolsa há 16 dias",
+  "resolucao": "Hipotensão, extremidades quentes, débito alto e lactato elevado em paciente com cateter central levam à sepse, e é ela que a equipe trataria. Mas culturas e procalcitonina negativas, TC sem foco, saturação venosa central alta e lactato que não responde a volume apontam para falha do uso celular de oxigênio, e não de oferta (acidose lática tipo B). A cronologia decide: duas semanas de nutrição parenteral com glicose e sem vitaminas consomem a reserva de tiamina, cofator da piruvato desidrogenase; sem ela o piruvato vira lactato, e a carga de glicose acelera o quadro, que se apresenta como beribéri úmido com débito alto e encefalopatia. A conduta é tiamina intravenosa em dose alta, com melhora do lactato em horas.",
+  "comentarios": {
+   "A": "Errada. A acidose D-lática ocorre no intestino curto com carboidrato por via oral fermentado no cólon, e o lactato dosado na rotina (L) vem normal; aqui ela está em jejum oral e o lactato medido é de 11.",
+   "B": "Errada. Seria a primeira hipótese com dor e TC alterada; a TC não mostra nova isquemia, e a saturação venosa alta não combina com hipoperfusão.",
+   "C": "Correta. Nutrição parenteral sem vitaminas por 16 dias, débito alto, saturação venosa alta e lactato refratário ao volume: tiamina.",
+   "D": "Errada. É a isca; culturas negativas, procalcitonina baixa e lactato que não cai com volume não sustentam sepse como causa."
+  },
+  "para_levar": "Lactato alto com saturação venosa central alta e sem foco infeccioso é acidose lática tipo B; em nutrição parenteral sem vitaminas, ou no etilista, dê tiamina antes de escalar o choque.",
+  "referencias": "ESPEN micronutrient guideline 2022; ASPEN parenteral multivitamin shortage recommendations (2012, atualizadas).",
+  "tags": [
+   "Gasometria Arterial (CM)",
+   "Nutrição no Doente Crítico e Desvitaminoses (CM)"
+  ],
+  "sourceQuestionId": "5cc578794316f36",
+  "alvo": "Rótulo forte (sepse no cateter) faz ler a saturação venosa e o tempo sem vitaminas como enfeite."
+ }
 ]

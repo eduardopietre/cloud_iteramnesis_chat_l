@@ -37,35 +37,35 @@
   "id": "S7-HEM-02",
   "simulado": 7,
   "area": "Hematologia",
-  "titulo": "Hemólise por primaquina com G6PD normal na crise: reticulocitose falseia a dosagem, repetir após 2 a 3 meses",
+  "titulo": "Cianose com oximetria de 85% e PaO2 alta após anestesia tópica com benzocaína: metemoglobinemia, cooximetria antes de investigar TEP",
   "arma": "Negativo no meio",
   "comando": "próximo exame",
   "nivel": "difícil",
-  "enunciado": "Homem de 23 anos, militar, voltou de missão na Amazônia e foi tratado de malária por Plasmodium vivax com cloroquina e primaquina. No 4º dia de primaquina, apresenta urina escura, icterícia e cansaço. Hb 8,1 g/dL (13,9 g/dL antes do tratamento), reticulócitos 9%, LDH 1.100 U/L, bilirrubina indireta 4,2 mg/dL, haptoglobina indetectável, Coombs direto negativo. Esfregaço com hemácias \"mordidas\" e corpúsculos de Heinz à coloração supravital. Gota espessa negativa. A primaquina foi suspensa. A dosagem quantitativa de G6PD, colhida hoje, foi de 9,8 U/g Hb (VR 7 a 20). Quanto à investigação, a conduta mais adequada é:",
+  "enunciado": "Mulher de 61 anos, no 5º dia de pós-operatório de artroplastia total de joelho, em enoxaparina profilática, fez endoscopia digestiva alta por dispepsia, com anestesia tópica da orofaringe por spray de benzocaína aplicado várias vezes por dificuldade com o exame. Quarenta minutos depois, apresenta dispneia leve, cefaleia e cianose de lábios e extremidades. PA 132 x 78 mmHg, FC 104 bpm, FR 22 irpm, ausculta pulmonar normal, panturrilhas sem edema. O oxímetro de pulso marca 85% e não sobe com máscara com reservatório a 15 L/min. Gasometria arterial colhida com a máscara: pH 7,44, PaO2 412 mmHg, PaCO2 34 mmHg, saturação calculada pelo aparelho de 99%. Radiografia de tórax normal. D-dímero 2.900 ng/mL. O próximo exame mais adequado é:",
   "alternativas": {
-   "A": "Considerar G6PD normal e investigar HPN",
-   "B": "Eletroforese de hemoglobina",
-   "C": "Repetir a dosagem de G6PD após 2 a 3 meses",
-   "D": "Coombs direto com eluato e anti-C3d"
+   "A": "Cintilografia de ventilação e perfusão",
+   "B": "Ecocardiograma com microbolhas",
+   "C": "Cooximetria em sangue arterial",
+   "D": "Angiotomografia de tórax"
   },
   "gabarito": "C",
-  "armadilha": "A",
-  "dado_decisivo": "colhida hoje, foi de 9,8 U/g Hb (VR 7 a 20)",
-  "resolucao": "O exame negativo no meio do caso é a armadilha: G6PD normal parece afastar a deficiência. Mas a hemólise oxidativa destrói as hemácias velhas, que têm menos enzima, e a medula responde com reticulócitos (9%), que têm atividade alta de G6PD; a dosagem feita na crise sai falsamente normal, sobretudo em homens hemizigotos com variantes de expressão parcial, como a A-, frequente no Brasil. Hemólise intravascular após oxidante, com corpúsculos de Heinz e hemácias mordidas e Coombs negativo, é deficiência de G6PD até prova em contrário. A dosagem se repete 2 a 3 meses depois, quando a população de hemácias voltou a ter idade normal (ou se usa a razão com outra enzima de hemácias jovens, como a piruvatoquinase). HPN, hemoglobinopatia e hemólise imune não explicam o desencadeante nem os corpúsculos de Heinz.",
+  "armadilha": "D",
+  "dado_decisivo": "PaO2 412 mmHg",
+  "resolucao": "O pós-operatório ortopédico e o D-dímero alto são verdadeiros e empurram para TEP, mas o dado que decide é negativo: a PaO2 de 412 mmHg mostra que a troca gasosa está preservada. Hipoxemia por TEP ou por shunt teria PaO2 baixa, e a oximetria de 85% que não responde ao oxigênio, com PaO2 alta, é um hiato de saturação. A saturação da gasometria é calculada a partir da PaO2 e supõe hemoglobina normal, por isso dá 99%; o oxímetro de dois comprimentos de onda tende a 85% quando há metemoglobina. A benzocaína tópica, sobretudo em doses repetidas, é causa conhecida de metemoglobinemia adquirida, e a cooximetria mede diretamente a fração de metemoglobina. Confirmada e sintomática (em geral acima de 20% a 30%), trata-se com azul de metileno, depois de afastar deficiência de G6PD.",
   "comentarios": {
-   "A": "Errada, é a armadilha. Lê o resultado na crise como definitivo; a HPN seria pensada com hemólise crônica, trombose ou citopenias, sem oxidante desencadeante.",
-   "B": "Errada. A eletroforese investiga hemoglobinopatia; hemólise aguda e intravascular após primaquina, com corpúsculos de Heinz, aponta para a enzima.",
-   "C": "Correta. A reticulocitose eleva a G6PD média durante a crise; a dosagem fora da crise confirma a deficiência.",
-   "D": "Errada. O Coombs direto já foi negativo, e corpúsculos de Heinz não são achado de hemólise imune."
+   "A": "Errada. Alternativa à angiotomografia na suspeita de TEP com contraindicação ao contraste; não cabe quando a troca gasosa está normal.",
+   "B": "Errada. Pesquisa shunt direita-esquerda, que daria hipoxemia refratária com PaO2 baixa; a PaO2 alta afasta shunt relevante.",
+   "C": "Correta. O hiato entre oximetria de 85% e PaO2 de 412 mmHg após benzocaína aponta metemoglobinemia, e a cooximetria mede a metemoglobina diretamente.",
+   "D": "Errada, é a armadilha. Seria o exame no TEP suspeito em pós-operatório com D-dímero alto; mas TEP com saturação de 85% teria PaO2 baixa, e aqui ela é de 412 mmHg."
   },
-  "para_levar": "G6PD dosada durante a hemólise pode vir normal por causa dos reticulócitos: repetir 2 a 3 meses depois antes de descartar a deficiência.",
-  "referencias": "Ministério da Saúde, Guia de tratamento da malária no Brasil, 2021 (e nota técnica de testagem de G6PD, 2023); WHO Guidelines for malaria 2024; Luzzatto et al., G6PD deficiency, Blood 2020.",
+  "para_levar": "Saturação baixa que não sobe com oxigênio, com PaO2 alta, é hiato de saturação: pense em metemoglobinemia (benzocaína, dapsona) e peça cooximetria, porque a saturação da gasometria comum é calculada.",
+  "referencias": "Iolascon et al., Recommendations for diagnosis and treatment of methemoglobinemia, Am J Hematol 2021; FDA Drug Safety Communication sobre benzocaína tópica (2018).",
   "tags": [
-   "Deficiência de G6PD (CM)",
-   "Anemias Hemolíticas Hereditárias (CM)"
+   "Intoxicações (CM)",
+   "154 Sickle Cell Disease and Other Hemoglobinopathies"
   ],
   "sourceQuestionId": null,
-  "alvo": "Exame tranquilizador lido como definitivo (exame que decide lido como enfeite) e G6PD fora do LES."
+  "alvo": "Exame que decide (PaO2) lido como enfeite diante de rótulo verdadeiro (pós-operatório, D-dímero); exame do degrau certo."
  },
  {
   "id": "S7-HEM-03",

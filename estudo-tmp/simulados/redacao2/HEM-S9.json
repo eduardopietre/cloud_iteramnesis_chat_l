@@ -110,20 +110,20 @@
   "nivel": "extremamente difícil",
   "enunciado": "Homem de 29 anos tem o terceiro episódio de trombose venosa profunda proximal em quatro anos, todos sem fator provocador, e dois tios maternos tiveram trombose antes dos 40 anos. Internado com trombose iliofemoral extensa, iniciou heparina não fracionada em bomba, com ajustes sucessivos: mesmo chegando a doses muito acima do habitual por peso, o TTPa permanece subterapêutico e o anti-Xa dosado está baixo para a dose infundida. Plaquetas 243.000/mm³, TP normal, função hepática e renal normais, sem perda proteica urinária, sem uso prévio de heparina. A causa mais provável da resposta inadequada à heparina é:",
   "alternativas": {
-   "A": "Fator V de Leiden",
+   "A": "Deficiência de proteína C",
    "B": "Deficiência de antitrombina",
    "C": "Mutação do gene da protrombina",
-   "D": "Deficiência de proteína C"
+   "D": "Fator V de Leiden"
   },
   "gabarito": "B",
-  "armadilha": "A",
+  "armadilha": "D",
   "dado_decisivo": "o TTPa permanece subterapêutico e o anti-Xa dosado está baixo para a dose infundida",
   "resolucao": "Trombose recorrente não provocada em jovem com história familiar puxa para a trombofilia hereditária mais comum, o fator V de Leiden, e é esse o rótulo que atrai. Mas o dado que decide não é o número de tromboses: é a resposta à heparina. A heparina não fracionada age acelerando a antitrombina, seu cofator obrigatório; quando a antitrombina é deficiente, falta o alvo sobre o qual a heparina trabalha, e o TTPa (e o anti-Xa) não sobe mesmo com doses crescentes, o quadro de resistência à heparina. Fator V de Leiden, mutação da protrombina e deficiência de proteína C causam trombofilia, mas nenhum interfere na ação da heparina, de modo que não explicam a resistência. Diante dela, confirma-se a antitrombina (lembrando que a própria heparina e o consumo pela trombose aguda a reduzem, e que há formas adquiridas, como síndrome nefrótica e L-asparaginase), e o manejo é repor antitrombina ou migrar para um anticoagulante que não dependa dela.",
   "comentarios": {
-   "A": "Errada, é a armadilha. É a trombofilia hereditária mais comum e explicaria a trombose recorrente, mas não torna a heparina ineficaz: o TTPa subiria com a dose.",
+   "A": "Errada. A deficiência de proteína C causa trombofilia (e risco de necrose cutânea pela varfarina), mas a heparina continua a funcionar normalmente.",
    "B": "Correta. A heparina depende da antitrombina; a deficiência explica ao mesmo tempo a trombose recorrente e a resistência à heparina (TTPa e anti-Xa baixos apesar de doses altas).",
    "C": "Errada. A mutação da protrombina aumenta o risco trombótico, mas não interfere na resposta à heparina.",
-   "D": "Errada. A deficiência de proteína C causa trombofilia (e risco de necrose cutânea pela varfarina), mas a heparina continua a funcionar normalmente."
+   "D": "Errada, é a armadilha. É a trombofilia hereditária mais comum e explicaria a trombose recorrente, mas não torna a heparina ineficaz: o TTPa subiria com a dose."
   },
   "para_levar": "Trombose que não anticoagula apesar de doses altas de heparina (TTPa e anti-Xa baixos) é resistência à heparina por deficiência de antitrombina, o cofator da heparina; as demais trombofilias não afetam a resposta à heparina.",
   "referencias": "Khor & Van Cott, Laboratory evaluation of hypercoagulability, Clin Lab Med 2009; ISTH SSC e BSH 2012 Guidelines on antithrombin deficiency (Van Cott et al.).",

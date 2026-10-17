@@ -9,20 +9,20 @@
   "nivel": "difícil",
   "enunciado": "Mulher de 74 anos, hipertensa, em uso de naproxeno por artrose há 2 meses, é admitida com melena há 2 dias e tontura ao levantar. Nega dor torácica, dispneia ou palpitações em toda a evolução. PA 92x58 mmHg, FC 118 bpm. Hemoglobina de 6,4 g/dL (12,8 g/dL há 3 meses). ECG: taquicardia sinusal com infradesnivelamento horizontal do segmento ST de 1,5 mm de V4 a V6, ausente em traçado anterior. Troponina T ultrassensível de 64 ng/L na admissão e de 118 ng/L após 3 horas (referência até 14). Ecocardiograma sem alteração da contratilidade segmentar, fração de ejeção de 62%. O diagnóstico mais provável é:",
   "alternativas": {
-   "A": "Infarto agudo do miocárdio tipo 1",
+   "A": "Angina instável de alto risco",
    "B": "Injúria miocárdica aguda não isquêmica",
    "C": "Infarto agudo do miocárdio tipo 2",
-   "D": "Angina instável de alto risco"
+   "D": "Infarto agudo do miocárdio tipo 1"
   },
   "gabarito": "C",
-  "armadilha": "A",
+  "armadilha": "D",
   "dado_decisivo": "infradesnivelamento horizontal do segmento ST de 1,5 mm de V4 a V6, ausente em traçado anterior",
   "resolucao": "Troponina subindo com infradesnivelamento de ST é lida como infarto sem supra por ruptura de placa (tipo 1), a armadilha, que levaria a antiagregação dupla e anticoagulação numa paciente sangrando. A definição universal separa três situações. Injúria miocárdica é troponina acima do percentil 99; ela é aguda quando sobe ou cai, como aqui. Para ser infarto, precisa de evidência de isquemia: sintoma, alteração isquêmica nova no ECG, onda Q nova, imagem ou trombo. A paciente nega dor (o negativo que empurra para injúria não isquêmica), mas tem infradesnivelamento horizontal novo, critério de isquemia, então é infarto. E o mecanismo é desequilíbrio entre oferta e demanda (hemoglobina de 6,4 com taquicardia e hipotensão), sem evidência de evento aterotrombótico: infarto tipo 2. O tratamento é corrigir a causa (transfusão, endoscopia, suspender o anti-inflamatório), sem antitrombóticos de síndrome coronariana.",
   "comentarios": {
-   "A": "Errada, e é a armadilha. Exigiria evento aterotrombótico primário; aqui há causa evidente de desequilíbrio entre oferta e demanda, e tratar como tipo 1 (antitrombóticos) agravaria o sangramento.",
+   "A": "Errada. Angina instável não tem elevação de troponina; com troponina subindo acima do percentil 99, a categoria é infarto.",
    "B": "Errada. Seria o diagnóstico sem nenhuma evidência de isquemia; a ausência de dor não basta, pois o infradesnivelamento novo é critério isquêmico.",
    "C": "Correta. Troponina em ascensão com alteração isquêmica nova no ECG define infarto, e a anemia aguda com taquicardia e hipotensão define o mecanismo tipo 2.",
-   "D": "Errada. Angina instável não tem elevação de troponina; com troponina subindo acima do percentil 99, a categoria é infarto."
+   "D": "Errada, e é a armadilha. Exigiria evento aterotrombótico primário; aqui há causa evidente de desequilíbrio entre oferta e demanda, e tratar como tipo 1 (antitrombóticos) agravaria o sangramento."
   },
   "para_levar": "Infarto exige troponina que sobe ou cai mais evidência de isquemia (sintoma, ECG, imagem); tipo 2 é desequilíbrio entre oferta e demanda (anemia, taquiarritmia, hipotensão), tratado pela causa.",
   "referencias": "Quarta Definição Universal de Infarto do Miocárdio (ESC/ACC/AHA/WHF 2018); ESC 2023 (acute coronary syndromes)",

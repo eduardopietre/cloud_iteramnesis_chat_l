@@ -3,35 +3,35 @@
   "id": "S8-REU-01",
   "simulado": 8,
   "area": "Reumatologia",
-  "titulo": "Paralisia hipocalêmica com acidose hiperclorêmica e pH urinário alto: acidose tubular distal do Sjögren, e não paralisia tireotóxica",
+  "titulo": "Anafilaxia de madrugada horas depois do jantar com carne de mamífero, em quem é picado por carrapatos: síndrome alfa-gal, e não anafilaxia idiopática",
   "arma": "Rótulo verdadeiro",
   "comando": "etiologia",
   "nivel": "difícil",
-  "enunciado": "Mulher de 36 anos é levada à emergência por fraqueza nos quatro membros que começou ao acordar, sem alteração de sensibilidade. Teve episódio semelhante há 1 ano, resolvido com reposição de potássio. Usa levotiroxina 100 mcg/dia por tireoidite de Hashimoto e refere olhos ressecados, que atribui às lentes de contato. PA 112 x 70 mmHg, FC 80 bpm. Força grau 2 proximal, reflexos diminuídos. Exames: K 2,1 mEq/L, Na 139 mEq/L, Cl 116 mEq/L, gasometria arterial com pH 7,28, bicarbonato 14 mEq/L, pCO2 30 mmHg; TSH 0,3 mUI/L (VR 0,4 a 4,5), T4 livre 1,7 ng/dL (VR 0,9 a 1,8); urina com pH 6,8 e ânion gap urinário positivo. Radiografia simples de abdome com calcificações em topografia das pirâmides renais. A causa mais provável do quadro é:",
+  "enunciado": "Homem de 46 anos, trabalhador rural no interior de São Paulo, teve três episódios em 8 meses de urticária generalizada, angioedema labial e hipotensão, todos de madrugada, entre 3 e 5 horas depois do jantar, o último com necessidade de adrenalina intramuscular. Os jantares incluíam carne de porco ou de boi; o almoço, em geral frango ou peixe, nunca provocou sintomas. Refere picadas frequentes de carrapato no último ano. Usa ibuprofeno ocasionalmente, nunca nos dias das crises. Em outro serviço, foi rotulado com anafilaxia idiopática, e a triptase basal foi de 4,2 ng/mL (VR até 11,4). IgE total 310 UI/mL. A causa mais provável das reações é:",
   "alternativas": {
-   "A": "Acidose tubular renal distal",
-   "B": "Paralisia periódica tireotóxica",
-   "C": "Hiperaldosteronismo primário",
-   "D": "Uso oculto de diurético tiazídico"
+   "A": "Alergia ao alfa-gal da carne de mamífero",
+   "B": "Anafilaxia idiopática recorrente",
+   "C": "Mastocitose sistêmica indolente",
+   "D": "Hipersensibilidade ao ibuprofeno"
   },
   "gabarito": "A",
   "armadilha": "B",
-  "dado_decisivo": "gasometria arterial com pH 7,28, bicarbonato 14 mEq/L",
-  "resolucao": "TSH discretamente suprimido em quem usa levotiroxina, com paralisia hipocalêmica ao acordar, é o rótulo da paralisia periódica tireotóxica. Mas nela a hipocalemia é por desvio intracelular, sem distúrbio ácido-base, e o T4 livre aqui está normal. A gasometria decide: acidose metabólica hiperclorêmica (ânion gap de 9) com pH urinário de 6,8 e ânion gap urinário positivo é incapacidade de acidificar a urina, ou seja, acidose tubular renal distal, e a nefrocalcinose é sua complicação. Em mulher jovem com olhos secos e outra doença autoimune, a causa adquirida mais comum de acidose tubular distal é a síndrome de Sjögren, que deve ser investigada com anti-Ro, anti-La, teste de Schirmer e biópsia de glândula salivar menor. Hiperaldosteronismo e diurético produzem alcalose, e não acidose.",
+  "dado_decisivo": "entre 3 e 5 horas depois do jantar",
+  "resolucao": "O rótulo de anafilaxia idiopática é verdadeiro no sentido de que nenhuma causa foi achada, e a triptase basal normal parece encerrar a investigação. Mas o padrão aponta a causa: reações de madrugada, de 3 a 5 horas depois de refeições com carne de porco ou boi, nunca depois de frango ou peixe, em quem é picado por carrapatos. É a síndrome alfa-gal, IgE contra a galactose-alfa-1,3-galactose da carne de mamíferos, induzida pela picada do carrapato; a latência longa existe porque o antígeno é absorvido ligado a lipídios. A confirmação é a IgE específica para alfa-gal, e a conduta é evitar carne de mamíferos (e, em parte dos casos, laticínios e gelatina), com adrenalina autoinjetável. Anafilaxia idiopática é diagnóstico de exclusão, e não cabe antes de considerar essa causa.",
   "comentarios": {
-   "A": "Correta. Acidose hiperclorêmica, pH urinário de 6,8, ânion gap urinário positivo e nefrocalcinose definem acidose tubular distal.",
-   "B": "Errada. Seria a resposta com T4 livre alto, sem acidose e com potássio que rebota após a crise; aqui há acidose hiperclorêmica.",
-   "C": "Errada. Daria hipertensão e alcalose metabólica; esta paciente tem PA 112 x 70 mmHg e bicarbonato de 14.",
-   "D": "Errada. Tiazídico causa hipocalemia com alcalose metabólica e cálcio urinário baixo, não acidose com nefrocalcinose."
+   "A": "Correta. Anafilaxia tardia, noturna, só após carne de mamífero, em quem é picado por carrapato: síndrome alfa-gal, confirmada por IgE específica.",
+   "B": "Errada, é a armadilha. Seria o diagnóstico depois de excluir as causas; aqui há um gatilho reconhecível na latência de 3 a 5 horas após carne vermelha.",
+   "C": "Errada. Entra no diferencial de anafilaxia recorrente, mas com triptase basal de 4,2 ng/mL e reações presas a um alimento é improvável.",
+   "D": "Errada. Seria a causa se as reações seguissem o anti-inflamatório; ele não o tomou nos dias das crises."
   },
-  "para_levar": "Hipocalemia com acidose hiperclorêmica e pH urinário acima de 5,5 é acidose tubular distal; em mulher jovem com secura, pense em Sjögren.",
-  "referencias": "2016 ACR/EULAR classification criteria for primary Sjögren's syndrome; EULAR recommendations for the management of Sjögren's syndrome with topical and systemic therapies (2020).",
+  "para_levar": "Anafilaxia ou urticária de madrugada, horas depois de carne de mamífero, em quem tem picadas de carrapato, é síndrome alfa-gal: pedir IgE para alfa-gal antes de rotular anafilaxia idiopática.",
+  "referencias": "Commins SP, Diagnosis and management of alpha-gal syndrome, J Allergy Clin Immunol Pract 2020; World Allergy Organization Anaphylaxis Guidance 2020.",
   "tags": [
-   "Sjogren (CM)",
-   "Hipopotassemia (CM)"
+   "Anafilaxia (CM)",
+   "Alergias (CM)"
   ],
   "sourceQuestionId": null,
-  "alvo": "Exame que decide (gasometria) lido como enfeite quando um rótulo (TSH baixo) vem antes; Sjögren extraglandular."
+  "alvo": "Alergia e anafilaxia (lacuna nova); rótulo verdadeiro (idiopática, triptase normal) que encerra a investigação cedo."
  },
  {
   "id": "S8-REU-02",

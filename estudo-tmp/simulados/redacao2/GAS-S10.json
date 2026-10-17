@@ -1,239 +1,239 @@
 [
-  {
-    "id": "S10-GAS-01",
-    "simulado": 10,
-    "area": "Gastroenterologia",
-    "titulo": "Sangramento recorrente por angiodisplasias com estenose aórtica grave (síndrome de Heyde): troca valvar reduz a recidiva",
-    "arma": "Qualificador",
-    "comando": "conduta",
-    "nivel": "difícil",
-    "enunciado": "Homem de 81 anos, com estenose aórtica grave (área valvar 0,7 cm², gradiente médio 46 mmHg, fração de ejeção de 60%) e dispneia aos esforços moderados, tem anemia ferropriva recorrente com necessidade de 6 transfusões no último ano, com melena intermitente. Endoscopia alta e colonoscopia sem lesões; a cápsula endoscópica e a enteroscopia mostraram múltiplas angiodisplasias jejunais, tratadas com plasma de argônio em duas sessões, com nova queda de hemoglobina 6 semanas após cada uma. Não usa antiplaquetários nem anticoagulantes. Coagulograma normal; a análise de multímeros mostra perda dos multímeros de alto peso molecular do fator de von Willebrand. A equipe cardiológica considera o implante transcateter de valva aórtica viável e de risco aceitável. A conduta que mais reduz a recidiva do sangramento é:",
-    "alternativas": {
-      "A": "Nova enteroscopia com plasma de argônio",
-      "B": "Substituição da valva aórtica",
-      "C": "Octreotida de depósito mensal",
-      "D": "Ferro intravenoso e transfusão conforme necessidade"
-    },
-    "gabarito": "B",
-    "armadilha": "A",
-    "dado_decisivo": "perda dos multímeros de alto peso molecular do fator de von Willebrand",
-    "resolucao": "Angiodisplasias que sangram pedem tratamento endoscópico, e repetir o argônio é o caminho natural. Mas a recidiva em semanas após duas sessões e a perda dos multímeros de alto peso molecular do fator de von Willebrand mostram o mecanismo da síndrome de Heyde: o fluxo turbulento pela valva estenótica desdobra e cliva os multímeros, criando doença de von Willebrand adquirida tipo 2A que faz as angiodisplasias sangrarem (e talvez as forme). Corrigida a estenose, os multímeros se normalizam em horas a dias e o sangramento cessa ou cai muito na maioria dos pacientes. Como a estenose também é sintomática, a troca valvar está indicada por si, e o qualificador do comando pede o que mais reduz a recidiva. Octreotida e argônio são paliativos, com recidiva alta enquanto a valva não for tratada.",
-    "comentarios": {
-      "A": "Errada. Seria o primeiro tratamento de angiodisplasia que sangra; aqui já falhou duas vezes e a causa do sangramento persiste na valva.",
-      "B": "Correta. A estenose aórtica cliva os multímeros do fator de von Willebrand; a troca valvar corrige a coagulopatia e reduz a recidiva.",
-      "C": "Errada. Reduz transfusões nas angiodisplasias refratárias sem causa corrigível; não trata a doença de von Willebrand adquirida da estenose.",
-      "D": "Errada. É suporte, e não reduz a recidiva; manteria o paciente dependente de transfusão."
-    },
-    "para_levar": "Síndrome de Heyde: estenose aórtica, angiodisplasias que sangram e von Willebrand adquirido (perda de multímeros grandes); a troca valvar é o que resolve.",
-    "referencias": "ACG Clinical Guideline: Diagnosis and Management of Small Bowel Bleeding (2015); ESC/EACTS Guidelines for the management of valvular heart disease (2025); Vincentelli A et al. N Engl J Med (2003)",
-    "tags": [
-      "Estenose Aórtica (CM)",
-      "Intestino (CM)",
-      "Doença de Von Willebrand (CM)"
-    ],
-    "sourceQuestionId": null,
-    "alvo": "Estenose aórtica (lacuna nova) como cenário de outra doença; tratar o efeito em vez da causa."
+ {
+  "id": "S10-GAS-01",
+  "simulado": 10,
+  "area": "Gastroenterologia",
+  "titulo": "Hemorragia por variz gástrica isolada de fundo (IGV1) no cirrótico: cianoacrilato, e não ligadura elástica",
+  "arma": "Qualificador",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Homem de 57 anos, com cirrose por hepatite C tratada (Child-Pugh B8), é admitido por hematêmese volumosa. PA 96 x 58 mmHg após 1.000 mL de cristaloide e um concentrado de hemácias (Hb 7,4 g/dL), FC 108 bpm. Recebeu terlipressina, ceftriaxona e eritromicina antes da endoscopia, feita em 8 horas, com o paciente intubado para proteção da via aérea. Endoscopia: varizes esofágicas de fino calibre, sem estigmas, que não se continuam para o estômago; no fundo gástrico, variz isolada de grosso calibre com mamilo de fibrina e coágulo aderido. Doppler recente com veia esplênica pérvia. No mesmo exame, a terapia endoscópica mais adequada é:",
+  "alternativas": {
+   "A": "Escleroterapia da variz com etanolamina",
+   "B": "Cianoacrilato injetado na variz gástrica",
+   "C": "Ligadura elástica das varizes esofágicas",
+   "D": "Ligadura elástica da variz gástrica"
   },
-  {
-    "id": "S10-GAS-02",
-    "simulado": 10,
-    "area": "Hepatologia",
-    "titulo": "Colangite esclerosante recém-diagnosticada em retocolite: colonoscopia anual a partir do diagnóstico, sem esperar 8 anos",
-    "arma": "Grade X / Y",
-    "comando": "conduta",
-    "nivel": "difícil",
-    "enunciado": "Homem de 24 anos tem retocolite ulcerativa extensa diagnosticada há 2 anos, em remissão clínica com mesalazina, com última colonoscopia há 10 meses mostrando mucosa cicatrizada. Na rotina, fosfatase alcalina de 380 U/L e GGT de 420 U/L persistentes há 6 meses, com bilirrubinas normais e assintomático. A colangiorressonância mostra estenoses curtas multifocais intercaladas com segmentos dilatados nas vias intra e extra-hepáticas, sem estenose dominante; antimitocôndria negativo e IgG4 sérica normal; elastografia de 7 kPa. Firmado o diagnóstico de colangite esclerosante primária, quanto à vigilância colonoscópica do câncer colorretal, a periodicidade e o início são, respectivamente:",
-    "alternativas": {
-      "A": "A cada 3 anos / a partir de agora",
-      "B": "A cada 3 anos / após 8 anos de colite",
-      "C": "Anual / após 8 anos de colite",
-      "D": "Anual / a partir de agora"
-    },
-    "gabarito": "D",
-    "armadilha": "C",
-    "dado_decisivo": "Firmado o diagnóstico de colangite esclerosante primária",
-    "resolucao": "A regra conhecida para doença inflamatória intestinal é iniciar a vigilância 8 anos após o início dos sintomas, e com retocolite de 2 anos parece cedo demais para colonoscopia. Mas a colangite esclerosante primária é a exceção: aumenta várias vezes o risco de displasia e câncer colorretal, com predomínio no cólon direito, e o risco começa cedo. Por isso a vigilância passa a ser anual (com cromoendoscopia e biópsias), iniciada no momento do diagnóstico de CEP, independentemente do tempo de colite. A remissão clínica e a mucosa cicatrizada não mudam essa regra. O ácido ursodesoxicólico em dose alta não é recomendado como quimioprevenção (aumentou eventos em dose de 28 a 30 mg/kg).",
-    "comentarios": {
-      "A": "Errada. O início está certo, mas intervalo de 3 anos serve à colite extensa sem fatores de alto risco; com CEP o intervalo é anual.",
-      "B": "Errada nas duas metades: seria a regra da retocolite extensa de risco intermediário, sem CEP.",
-      "C": "Errada. O intervalo anual está certo, mas a CEP antecipa o início para o momento do diagnóstico, sem esperar 8 anos.",
-      "D": "Correta. CEP com doença inflamatória intestinal: colonoscopia anual a partir do diagnóstico da CEP."
-    },
-    "para_levar": "Doença inflamatória intestinal com colangite esclerosante primária: colonoscopia de vigilância anual desde o diagnóstico da CEP, sem esperar os 8 anos.",
-    "referencias": "AASLD Practice Guidance on primary sclerosing cholangitis and cholangiocarcinoma (2023); ACG Clinical Guideline: Primary Sclerosing Cholangitis (2015); ECCO Guidelines on Inflammatory Bowel Disease and Malignancies (2023)",
-    "tags": [
-      "Colangite Esclerosante Primária (CM)",
-      "Retocolite Ulcerativa (CM)"
-    ],
-    "sourceQuestionId": "80aec5b06c8880a",
-    "alvo": "Regra aplicada sem checar a exceção (CEP muda o início e o intervalo da vigilância)."
+  "gabarito": "B",
+  "armadilha": "D",
+  "dado_decisivo": "no fundo gástrico, variz isolada de grosso calibre com mamilo de fibrina",
+  "resolucao": "A ligadura elástica é a terapia endoscópica de escolha na hemorragia por varizes esofágicas, e o reflexo é estendê-la a toda variz. O qualificador do comando (a terapia endoscópica, no mesmo exame) e o dado da endoscopia mudam a resposta: a fonte é uma variz gástrica isolada de fundo (IGV1), sem continuidade com as esofágicas, que são finas e sem estigmas. Nas varizes de fundo (IGV1 e GOV2), as varizes são grossas e de fluxo alto, a ligadura captura mal a parede e a queda da banda causa úlcera com ressangramento; o Baveno VII recomenda injeção de adesivo tissular (cianoacrilato). A escleroterapia tem eficácia baixa e mais ressangramento nesse território. Controlado o sangramento, TIPS ou obliteração retrógrada são opções para a prevenção do ressangramento, e a veia esplênica pérvia afasta a hipertensão portal segmentar.",
+  "comentarios": {
+   "A": "Errada. A escleroterapia tem baixa eficácia e mais ressangramento nas varizes gástricas; não é a primeira escolha.",
+   "B": "Correta. Variz gástrica isolada de fundo (IGV1) sangrante: injeção de cianoacrilato, recomendada pelo Baveno VII.",
+   "C": "Errada. Seria a conduta se o sangramento viesse das varizes esofágicas; aqui elas são finas e sem estigmas, e o mamilo está na variz de fundo.",
+   "D": "Errada, é a armadilha. Seria a escolha para varizes esofágicas ou GOV1 pequenas; na variz isolada de fundo, de grosso calibre, ressangra mais que o cianoacrilato."
   },
-  {
-    "id": "S10-GAS-03",
-    "simulado": 10,
-    "area": "Hepatologia",
-    "titulo": "Insuficiência hepática no terceiro trimestre com hipoglicemia e coagulopatia: esteatose hepática aguda da gestação, e não HELLP",
-    "arma": "Rótulo verdadeiro",
-    "comando": "diagnóstico",
-    "nivel": "difícil",
-    "enunciado": "Primigesta de 27 anos, com 34 semanas, gestação gemelar, procura a maternidade com náuseas, vômitos e dor epigástrica há 5 dias, mal-estar, muita sede e urina abundante, e há 2 dias percebeu os olhos amarelados. Exame: sonolenta, mas orientada, ictérica 2+/4+, PA 142 x 92 mmHg, FC 104 bpm, dor leve em epigástrio, sem edema. Exames: glicemia 52 mg/dL, AST 420 U/L, ALT 380 U/L, bilirrubina total 6,8 mg/dL, INR 2,1, fibrinogênio 110 mg/dL, plaquetas 118.000/mm³, LDH 420 U/L, sem esquizócitos no esfregaço, leucócitos 19.500/mm³, creatinina 1,9 mg/dL, ácido úrico 9,8 mg/dL, proteinúria de fita 1+. Ultrassonografia: fígado discretamente hiperecogênico, sem hematoma subcapsular. O diagnóstico mais provável é:",
-    "alternativas": {
-      "A": "Esteatose hepática aguda da gestação",
-      "B": "Síndrome HELLP",
-      "C": "Colestase intra-hepática da gestação",
-      "D": "Hepatite viral aguda fulminante"
-    },
-    "gabarito": "A",
-    "armadilha": "B",
-    "dado_decisivo": "glicemia 52 mg/dL",
-    "resolucao": "PA de 142 x 92 com proteinúria e dor epigástrica no terceiro trimestre é rótulo verdadeiro de pré-eclâmpsia, e com transaminases altas e plaquetas abaixo de 150.000 o reflexo é HELLP. Mas HELLP é microangiopatia, com hemólise (LDH acima de 600, esquizócitos), plaquetopenia como achado central e função de síntese preservada até tarde. Aqui o que domina é insuficiência hepática: hipoglicemia de 52, INR de 2,1, fibrinogênio baixo, icterícia, encefalopatia leve, além de leucocitose, lesão renal, ácido úrico alto e polidipsia com poliúria (diabetes insípido transitório), compondo os critérios de Swansea da esteatose aguda da gestação. Gestação gemelar e primiparidade são fatores de risco. Hipertensão leve aparece em até metade dos casos. A conduta é estabilizar (glicose, plasma, crioprecipitado) e interromper a gestação logo.",
-    "comentarios": {
-      "A": "Correta. Hipoglicemia, coagulopatia com fibrinogênio baixo, encefalopatia, leucocitose, lesão renal e poliúria no terceiro trimestre: critérios de Swansea.",
-      "B": "Errada. Daria hemólise com LDH acima de 600 e esquizócitos, plaquetopenia dominante e função de síntese preservada; não explica hipoglicemia nem INR de 2,1.",
-      "C": "Errada. Causa prurido com ácidos biliares altos e transaminases moderadas, sem insuficiência hepática, hipoglicemia ou coagulopatia.",
-      "D": "Errada. Pode imitar o quadro, mas não explica poliúria, ácido úrico alto e o contexto do terceiro trimestre de gemelar; a investigação viral é feita, mas não é a hipótese mais provável."
-    },
-    "para_levar": "Terceiro trimestre com insuficiência hepática: hipoglicemia, INR alto e fibrinogênio baixo apontam esteatose aguda da gestação; HELLP é hemólise com plaquetopenia e síntese preservada.",
-    "referencias": "EASL Clinical Practice Guidelines on the management of liver diseases in pregnancy (2023); ACG Clinical Guideline: Liver Disease and Pregnancy (2016); critérios de Swansea (Ch'ng et al., Gut, 2002)",
-    "tags": [
-      "Insuficiência Hepática Aguda (CM)"
-    ],
-    "sourceQuestionId": null,
-    "alvo": "Rótulo verdadeiro (hipertensão e proteinúria) contra o laboratório que separa (glicemia, INR)."
+  "para_levar": "Na hemorragia por variz gástrica de fundo (IGV1 ou GOV2), a terapia endoscópica é o cianoacrilato; a ligadura é para as esofágicas.",
+  "referencias": "Baveno VII (de Franchis et al., J Hepatol 2022); AASLD Practice Guidance on risk stratification and management of portal hypertension and varices in cirrhosis (Kaplan et al., Hepatology 2024).",
+  "tags": [
+   "Hipertensão Portal (CM)",
+   "Cirrose e Complicações (CM)",
+   "Hemorragia digestiva alta"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Qualificador e dado da endoscopia contra o reflexo de manual (ligadura para toda variz)."
+ },
+ {
+  "id": "S10-GAS-02",
+  "simulado": 10,
+  "area": "Hepatologia",
+  "titulo": "Colangite esclerosante recém-diagnosticada em retocolite: colonoscopia anual a partir do diagnóstico, sem esperar 8 anos",
+  "arma": "Grade X / Y",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Homem de 24 anos tem retocolite ulcerativa extensa diagnosticada há 2 anos, em remissão clínica com mesalazina, com última colonoscopia há 10 meses mostrando mucosa cicatrizada. Na rotina, fosfatase alcalina de 380 U/L e GGT de 420 U/L persistentes há 6 meses, com bilirrubinas normais e assintomático. A colangiorressonância mostra estenoses curtas multifocais intercaladas com segmentos dilatados nas vias intra e extra-hepáticas, sem estenose dominante; antimitocôndria negativo e IgG4 sérica normal; elastografia de 7 kPa. Firmado o diagnóstico de colangite esclerosante primária, quanto à vigilância colonoscópica do câncer colorretal, a periodicidade e o início são, respectivamente:",
+  "alternativas": {
+   "A": "A cada 3 anos / a partir de agora",
+   "B": "A cada 3 anos / após 8 anos de colite",
+   "C": "Anual / após 8 anos de colite",
+   "D": "Anual / a partir de agora"
   },
-  {
-    "id": "S10-GAS-04",
-    "simulado": 10,
-    "area": "Gastroenterologia",
-    "titulo": "Esteatorreia persistente na pancreatite crônica em reposição enzimática: dose de lipase insuficiente",
-    "arma": "Limiar",
-    "comando": "etiologia",
-    "nivel": "média",
-    "enunciado": "Homem de 54 anos, com pancreatite crônica alcoólica (calcificações pancreáticas difusas), abstinente há 2 anos, com diabetes em insulina, mantém 4 evacuações volumosas, gordurosas e malcheirosas ao dia e perda de 3 kg em 4 meses. Foi orientado a tomar pancreatina em cápsulas de 10.000 U de lipase, uma cápsula no meio de cada uma das três refeições principais, e relata adesão completa. Usa omeprazol 20 mg/dia. Exames: elastase fecal de 35 mcg/g, albumina 3,6 g/dL, vitamina D 14 ng/mL, antitransglutaminase IgA negativo com IgA total normal. A causa mais provável da persistência da esteatorreia é:",
-    "alternativas": {
-      "A": "Inativação das enzimas pelo ácido gástrico",
-      "B": "Doença celíaca associada",
-      "C": "Dose de lipase insuficiente por refeição",
-      "D": "Supercrescimento bacteriano do delgado"
-    },
-    "gabarito": "C",
-    "armadilha": "D",
-    "dado_decisivo": "cápsulas de 10.000 U de lipase, uma cápsula",
-    "resolucao": "Supercrescimento bacteriano é causa real de esteatorreia persistente na pancreatite crônica, e é a resposta de quem procura uma segunda doença. Mas o primeiro passo diante de falha é conferir a dose: a reposição recomendada começa com 40.000 a 50.000 U de lipase nas refeições principais (e metade nos lanches), tomadas durante a refeição. Uma cápsula de 10.000 U por refeição é um quarto a um quinto da dose mínima, e explica sozinha a esteatorreia, a perda de peso e a vitamina D baixa. A inativação pelo ácido seria a explicação com dose adequada, e ele já usa omeprazol, que é exatamente o passo para isso; a doença celíaca foi afastada com IgA normal. Só depois de dose otimizada e IBP é que se investiga supercrescimento.",
-    "comentarios": {
-      "A": "Errada. A acidez inativa as enzimas e se trata com IBP, mas ele já usa omeprazol; o problema primário é a dose.",
-      "B": "Errada. Associação possível, mas a antitransglutaminase é negativa com IgA total normal.",
-      "C": "Correta. 10.000 U de lipase por refeição está muito abaixo dos 40.000 a 50.000 U recomendados.",
-      "D": "Errada. Seria investigado se a esteatorreia persistisse com dose adequada e IBP; aqui a dose é um quarto do mínimo."
-    },
-    "para_levar": "Insuficiência pancreática exócrina: 40.000 a 50.000 U de lipase por refeição principal, durante a refeição; na falha, primeiro conferir dose e adesão, depois IBP, e só então outra causa.",
-    "referencias": "ACG Clinical Guideline: Chronic Pancreatitis (2020); AGA Clinical Practice Update on the Epidemiology, Evaluation, and Management of Exocrine Pancreatic Insufficiency (2023); United European Gastroenterology Guideline (2017)",
-    "tags": [
-      "Pancreatite Crônica (CM)",
-      "Pâncreas (CM)"
-    ],
-    "sourceQuestionId": "684c0af1d07356b",
-    "alvo": "Limiar numérico (dose) lido como enfeite enquanto se procura doença exótica."
+  "gabarito": "D",
+  "armadilha": "C",
+  "dado_decisivo": "Firmado o diagnóstico de colangite esclerosante primária",
+  "resolucao": "A regra conhecida para doença inflamatória intestinal é iniciar a vigilância 8 anos após o início dos sintomas, e com retocolite de 2 anos parece cedo demais para colonoscopia. Mas a colangite esclerosante primária é a exceção: aumenta várias vezes o risco de displasia e câncer colorretal, com predomínio no cólon direito, e o risco começa cedo. Por isso a vigilância passa a ser anual (com cromoendoscopia e biópsias), iniciada no momento do diagnóstico de CEP, independentemente do tempo de colite. A remissão clínica e a mucosa cicatrizada não mudam essa regra. O ácido ursodesoxicólico em dose alta não é recomendado como quimioprevenção (aumentou eventos em dose de 28 a 30 mg/kg).",
+  "comentarios": {
+   "A": "Errada. O início está certo, mas intervalo de 3 anos serve à colite extensa sem fatores de alto risco; com CEP o intervalo é anual.",
+   "B": "Errada nas duas metades: seria a regra da retocolite extensa de risco intermediário, sem CEP.",
+   "C": "Errada. O intervalo anual está certo, mas a CEP antecipa o início para o momento do diagnóstico, sem esperar 8 anos.",
+   "D": "Correta. CEP com doença inflamatória intestinal: colonoscopia anual a partir do diagnóstico da CEP."
   },
-  {
-    "id": "S10-GAS-05",
-    "simulado": 10,
-    "area": "Gastroenterologia",
-    "titulo": "Colite colagenosa em idosa que iniciou medicação para pirose: budesonida e retirada do inibidor de bomba",
-    "arma": "Droga a deduzir",
-    "comando": "conduta",
-    "nivel": "difícil",
-    "enunciado": "Mulher de 68 anos tem há 3 meses diarreia aquosa, 6 a 8 evacuações ao dia, inclusive à noite, com urgência, sem sangue, sem febre e com perda de 3 kg. Começou, 2 meses antes da diarreia, um comprimido diário em jejum para pirose, que mantém; usa também sertralina há 6 anos e losartana. Exames: hemograma, PCR, TSH, eletrólitos e antitransglutaminase IgA (com IgA total normal) normais; coproparasitológico e toxina de Clostridioides difficile negativos; calprotectina fecal de 180 mcg/g. Colonoscopia com íleo e mucosa colônica macroscopicamente normais; as biópsias seriadas mostram banda de colágeno subepitelial de 18 micrômetros com aumento de linfócitos na lâmina própria. A conduta mais adequada é:",
-    "alternativas": {
-      "A": "Budesonida oral e suspender o IBP",
-      "B": "Mesalazina oral e suspender a sertralina",
-      "C": "Prednisona oral e suspender o IBP",
-      "D": "Loperamida e manter as medicações"
-    },
-    "gabarito": "A",
-    "armadilha": "B",
-    "dado_decisivo": "Começou, 2 meses antes da diarreia, um comprimido diário em jejum para pirose",
-    "resolucao": "Colonoscopia macroscopicamente normal com colite à histologia faz pensar em tratamento de doença inflamatória intestinal, e a mesalazina é a droga anti-inflamatória que vem à cabeça, somada à suspeita sobre o antidepressivo. Mas a banda de colágeno subepitelial acima de 10 micrômetros define colite colagenosa, uma colite microscópica, e nela a budesonida oral é o único tratamento de indução com eficácia comprovada (mesalazina e bismuto são inferiores). O caso pede ainda deduzir a droga: comprimido diário em jejum para pirose, iniciado meses antes da diarreia, é um inibidor de bomba de prótons, um dos principais desencadeantes de colite microscópica (com AINE, sertralina e outros ISRS), e sua retirada faz parte do tratamento. A sertralina, usada há 6 anos sem diarreia, é suspeita menor. Prednisona tem mais efeitos e menos resposta, e loperamida isolada é para sintomas leves.",
-    "comentarios": {
-      "A": "Correta. Colite colagenosa: budesonida é a indução de escolha, e o IBP iniciado antes da diarreia é desencadeante a retirar.",
-      "B": "Errada. A mesalazina é inferior à budesonida na colite microscópica, e a sertralina, usada há 6 anos sem diarreia, é suspeita menor que a droga iniciada 2 meses antes dos sintomas.",
-      "C": "Errada. A retirada do IBP está certa, mas o corticoide sistêmico tem resposta menor e mais efeitos adversos que a budesonida na colite microscópica.",
-      "D": "Errada. Antidiarreico isolado serve a sintomas leves; aqui há diarreia noturna, perda de peso e uma droga desencadeante mantida."
-    },
-    "para_levar": "Colite microscópica: budesonida oral para indução e retirada de drogas desencadeantes (IBP, AINE, ISRS, estatinas).",
-    "referencias": "AGA Institute Guideline on the Medical Management of Microscopic Colitis (2016); European Microscopic Colitis Group/UEG Guidelines (2021)",
-    "tags": [
-      "Diarréias crônicas (CM)"
-    ],
-    "sourceQuestionId": "de60b28ed00239f",
-    "alvo": "Droga a deduzir (IBP) e escolha do tratamento pela histologia, e não pelo rótulo de colite."
+  "para_levar": "Doença inflamatória intestinal com colangite esclerosante primária: colonoscopia de vigilância anual desde o diagnóstico da CEP, sem esperar os 8 anos.",
+  "referencias": "AASLD Practice Guidance on primary sclerosing cholangitis and cholangiocarcinoma (2023); ACG Clinical Guideline: Primary Sclerosing Cholangitis (2015); ECCO Guidelines on Inflammatory Bowel Disease and Malignancies (2023)",
+  "tags": [
+   "Colangite Esclerosante Primária (CM)",
+   "Retocolite Ulcerativa (CM)"
+  ],
+  "sourceQuestionId": "80aec5b06c8880a",
+  "alvo": "Regra aplicada sem checar a exceção (CEP muda o início e o intervalo da vigilância)."
+ },
+ {
+  "id": "S10-GAS-03",
+  "simulado": 10,
+  "area": "Hepatologia",
+  "titulo": "Insuficiência hepática no terceiro trimestre com hipoglicemia e coagulopatia: esteatose hepática aguda da gestação, e não HELLP",
+  "arma": "Rótulo verdadeiro",
+  "comando": "diagnóstico",
+  "nivel": "difícil",
+  "enunciado": "Primigesta de 27 anos, com 34 semanas, gestação gemelar, procura a maternidade com náuseas, vômitos e dor epigástrica há 5 dias, mal-estar, muita sede e urina abundante, e há 2 dias percebeu os olhos amarelados. Exame: sonolenta, mas orientada, ictérica 2+/4+, PA 142 x 92 mmHg, FC 104 bpm, dor leve em epigástrio, sem edema. Exames: glicemia 52 mg/dL, AST 420 U/L, ALT 380 U/L, bilirrubina total 6,8 mg/dL, INR 2,1, fibrinogênio 110 mg/dL, plaquetas 118.000/mm³, LDH 420 U/L, sem esquizócitos no esfregaço, leucócitos 19.500/mm³, creatinina 1,9 mg/dL, ácido úrico 9,8 mg/dL, proteinúria de fita 1+. Ultrassonografia: fígado discretamente hiperecogênico, sem hematoma subcapsular. O diagnóstico mais provável é:",
+  "alternativas": {
+   "A": "Esteatose hepática aguda da gestação",
+   "B": "Síndrome HELLP",
+   "C": "Colestase intra-hepática da gestação",
+   "D": "Hepatite viral aguda fulminante"
   },
-  {
-    "id": "S10-GAS-06",
-    "simulado": 10,
-    "area": "Oncologia",
-    "titulo": "Câncer de cólon metastático antes do anti-EGFR: pesquisa de RAS, BRAF e reparo de DNA no tumor",
-    "arma": "Dado omitido",
-    "comando": "próximo exame",
-    "nivel": "difícil",
-    "enunciado": "Homem de 58 anos, com adenocarcinoma de cólon sigmoide diagnosticado por colonoscopia, tem na TC múltiplas metástases hepáticas bilobares, consideradas irressecáveis pela equipe de cirurgia hepática, sem doença extra-hepática. ECOG 1, função hepática e renal normais, CEA de 84 ng/mL. A oncologista considera iniciar quimioterapia com FOLFOX associada a anticorpo monoclonal anti-EGFR, pela localização à esquerda do tumor primário. A biópsia da lesão primária só tem o diagnóstico histológico. Antes de definir o esquema, o próximo exame mais adequado é:",
-    "alternativas": {
-      "A": "Imuno-histoquímica para expressão de EGFR",
-      "B": "PET-CT com FDG de corpo inteiro",
-      "C": "CEA e CA 19-9 seriados por 4 semanas",
-      "D": "Pesquisa de RAS, BRAF e reparo de DNA no tumor"
-    },
-    "gabarito": "D",
-    "armadilha": "A",
-    "dado_decisivo": "A biópsia da lesão primária só tem o diagnóstico histológico",
-    "resolucao": "Se a droga é anti-EGFR, parece lógico medir o EGFR no tumor, e é a armadilha. Mas a expressão de EGFR por imuno-histoquímica não prediz resposta. O que prediz é o estado de RAS: mutações de KRAS ou NRAS (éxons 2, 3 e 4) tornam o anti-EGFR ineficaz e até prejudicial, e ele só se usa em RAS selvagem, preferencialmente de cólon esquerdo. O BRAF V600E muda prognóstico e linha de tratamento (encorafenibe com cetuximabe), e a deficiência de reparo (ou instabilidade de microssatélites) indica imunoterapia em primeira linha, que supera a quimioterapia. O caso omite exatamente esse perfil molecular, e é ele que define o esquema. PET-CT e marcadores seriados não escolhem droga.",
-    "comentarios": {
-      "A": "Errada. Parece a medida natural antes do anti-EGFR, mas a expressão de EGFR não prediz resposta; o que importa é o RAS.",
-      "B": "Errada. Teria papel para excluir doença extra-hepática antes de ressecção com intenção curativa; não define o esquema sistêmico.",
-      "C": "Errada. Marcadores servem a seguimento de resposta, e não à escolha da terapia.",
-      "D": "Correta. RAS mutado contraindica anti-EGFR, BRAF muda a linha e deficiência de reparo indica imunoterapia de primeira linha."
-    },
-    "para_levar": "Câncer colorretal metastático: RAS, BRAF e reparo de DNA (MMR ou MSI) antes da primeira linha; anti-EGFR só em RAS selvagem, e dMMR vai para imunoterapia.",
-    "referencias": "ESMO Clinical Practice Guideline: Metastatic colorectal cancer (2023); NCCN Colon Cancer (2025); ASCO Guideline: Treatment of Metastatic Colorectal Cancer (2023)",
-    "tags": [
-      "Câncer Colorretal (CM)",
-      "Metástases hepáticas de CCR"
-    ],
-    "sourceQuestionId": "a9b381815d28884",
-    "alvo": "Dado omitido (perfil molecular) e exame errado que parece lógico."
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "glicemia 52 mg/dL",
+  "resolucao": "PA de 142 x 92 com proteinúria e dor epigástrica no terceiro trimestre é rótulo verdadeiro de pré-eclâmpsia, e com transaminases altas e plaquetas abaixo de 150.000 o reflexo é HELLP. Mas HELLP é microangiopatia, com hemólise (LDH acima de 600, esquizócitos), plaquetopenia como achado central e função de síntese preservada até tarde. Aqui o que domina é insuficiência hepática: hipoglicemia de 52, INR de 2,1, fibrinogênio baixo, icterícia, encefalopatia leve, além de leucocitose, lesão renal, ácido úrico alto e polidipsia com poliúria (diabetes insípido transitório), compondo os critérios de Swansea da esteatose aguda da gestação. Gestação gemelar e primiparidade são fatores de risco. Hipertensão leve aparece em até metade dos casos. A conduta é estabilizar (glicose, plasma, crioprecipitado) e interromper a gestação logo.",
+  "comentarios": {
+   "A": "Correta. Hipoglicemia, coagulopatia com fibrinogênio baixo, encefalopatia, leucocitose, lesão renal e poliúria no terceiro trimestre: critérios de Swansea.",
+   "B": "Errada. Daria hemólise com LDH acima de 600 e esquizócitos, plaquetopenia dominante e função de síntese preservada; não explica hipoglicemia nem INR de 2,1.",
+   "C": "Errada. Causa prurido com ácidos biliares altos e transaminases moderadas, sem insuficiência hepática, hipoglicemia ou coagulopatia.",
+   "D": "Errada. Pode imitar o quadro, mas não explica poliúria, ácido úrico alto e o contexto do terceiro trimestre de gemelar; a investigação viral é feita, mas não é a hipótese mais provável."
   },
-  {
-    "id": "S10-GAS-07",
-    "simulado": 10,
-    "area": "Oncologia",
-    "titulo": "Rastreamento do câncer colorretal com pai acometido aos 52 anos: colonoscopia aos 40, a cada 5 anos",
-    "arma": "Cronologia",
-    "comando": "fato solto",
-    "nivel": "média",
-    "enunciado": "Homem de 36 anos, assintomático, cujo pai teve adenocarcinoma de cólon aos 52 anos (sem síndrome hereditária identificada); não há outros casos na família. Quanto ao rastreamento do câncer colorretal, o início e o intervalo da colonoscopia são:",
-    "alternativas": {
-      "A": "Aos 45 anos, a cada 10 anos",
-      "B": "Aos 40 anos, a cada 5 anos",
-      "C": "Aos 42 anos, a cada 5 anos",
-      "D": "Agora, a cada 3 anos"
-    },
-    "gabarito": "B",
-    "armadilha": "C",
-    "dado_decisivo": "pai teve adenocarcinoma de cólon aos 52 anos",
-    "resolucao": "A regra dos 10 anos antes do caso índice é a mais lembrada, e 52 menos 10 dá 42 anos. Mas a regra completa é iniciar aos 40 anos ou 10 anos antes da idade do parente mais jovem ao diagnóstico, o que vier primeiro: aqui 40 vem antes de 42. Com um parente de primeiro grau diagnosticado antes dos 60 anos, o exame é colonoscopia, repetida a cada 5 anos. Com parente de primeiro grau após os 60, o rastreamento segue o da população geral a partir dos 40 a 45 anos. Começar agora, aos 36, seria a regra da síndrome de Lynch, não confirmada.",
-    "comentarios": {
-      "A": "Errada. É o rastreamento da população de risco médio, que não se aplica a filho de quem teve câncer antes dos 60 anos.",
-      "B": "Correta. Parente de primeiro grau com câncer antes dos 60: colonoscopia aos 40 ou 10 anos antes, o que vier primeiro, a cada 5 anos.",
-      "C": "Errada. Aplica só a metade da regra (10 anos antes do caso índice); 40 anos vem antes de 42.",
-      "D": "Errada. Início imediato com intervalo curto é para síndrome de Lynch, aqui sem indício."
-    },
-    "para_levar": "Parente de primeiro grau com câncer colorretal antes dos 60 anos: colonoscopia aos 40 ou 10 anos antes do caso mais jovem (o que vier primeiro), a cada 5 anos.",
-    "referencias": "US Multi-Society Task Force on Colorectal Cancer: Recommendations for Follow-up and Screening in Familial Risk (2017); ACG Clinical Guidelines: Colorectal Cancer Screening (2021)",
-    "tags": [
-      "Rastreamentos em Clínica Médica (CM)",
-      "Câncer Colorretal (CM)"
-    ],
-    "sourceQuestionId": "ce461d66647079f",
-    "alvo": "Fato solto com cronologia (o que vier primeiro) e a meia regra como armadilha."
-  }
+  "para_levar": "Terceiro trimestre com insuficiência hepática: hipoglicemia, INR alto e fibrinogênio baixo apontam esteatose aguda da gestação; HELLP é hemólise com plaquetopenia e síntese preservada.",
+  "referencias": "EASL Clinical Practice Guidelines on the management of liver diseases in pregnancy (2023); ACG Clinical Guideline: Liver Disease and Pregnancy (2016); critérios de Swansea (Ch'ng et al., Gut, 2002)",
+  "tags": [
+   "Insuficiência Hepática Aguda (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Rótulo verdadeiro (hipertensão e proteinúria) contra o laboratório que separa (glicemia, INR)."
+ },
+ {
+  "id": "S10-GAS-04",
+  "simulado": 10,
+  "area": "Gastroenterologia",
+  "titulo": "Esteatorreia persistente na pancreatite crônica em reposição enzimática: dose de lipase insuficiente",
+  "arma": "Limiar",
+  "comando": "etiologia",
+  "nivel": "média",
+  "enunciado": "Homem de 54 anos, com pancreatite crônica alcoólica (calcificações pancreáticas difusas), abstinente há 2 anos, com diabetes em insulina, mantém 4 evacuações volumosas, gordurosas e malcheirosas ao dia e perda de 3 kg em 4 meses. Foi orientado a tomar pancreatina em cápsulas de 10.000 U de lipase, uma cápsula no meio de cada uma das três refeições principais, e relata adesão completa. Usa omeprazol 20 mg/dia. Exames: elastase fecal de 35 mcg/g, albumina 3,6 g/dL, vitamina D 14 ng/mL, antitransglutaminase IgA negativo com IgA total normal. A causa mais provável da persistência da esteatorreia é:",
+  "alternativas": {
+   "A": "Inativação das enzimas pelo ácido gástrico",
+   "B": "Doença celíaca associada",
+   "C": "Dose de lipase insuficiente por refeição",
+   "D": "Supercrescimento bacteriano do delgado"
+  },
+  "gabarito": "C",
+  "armadilha": "D",
+  "dado_decisivo": "cápsulas de 10.000 U de lipase, uma cápsula",
+  "resolucao": "Supercrescimento bacteriano é causa real de esteatorreia persistente na pancreatite crônica, e é a resposta de quem procura uma segunda doença. Mas o primeiro passo diante de falha é conferir a dose: a reposição recomendada começa com 40.000 a 50.000 U de lipase nas refeições principais (e metade nos lanches), tomadas durante a refeição. Uma cápsula de 10.000 U por refeição é um quarto a um quinto da dose mínima, e explica sozinha a esteatorreia, a perda de peso e a vitamina D baixa. A inativação pelo ácido seria a explicação com dose adequada, e ele já usa omeprazol, que é exatamente o passo para isso; a doença celíaca foi afastada com IgA normal. Só depois de dose otimizada e IBP é que se investiga supercrescimento.",
+  "comentarios": {
+   "A": "Errada. A acidez inativa as enzimas e se trata com IBP, mas ele já usa omeprazol; o problema primário é a dose.",
+   "B": "Errada. Associação possível, mas a antitransglutaminase é negativa com IgA total normal.",
+   "C": "Correta. 10.000 U de lipase por refeição está muito abaixo dos 40.000 a 50.000 U recomendados.",
+   "D": "Errada. Seria investigado se a esteatorreia persistisse com dose adequada e IBP; aqui a dose é um quarto do mínimo."
+  },
+  "para_levar": "Insuficiência pancreática exócrina: 40.000 a 50.000 U de lipase por refeição principal, durante a refeição; na falha, primeiro conferir dose e adesão, depois IBP, e só então outra causa.",
+  "referencias": "ACG Clinical Guideline: Chronic Pancreatitis (2020); AGA Clinical Practice Update on the Epidemiology, Evaluation, and Management of Exocrine Pancreatic Insufficiency (2023); United European Gastroenterology Guideline (2017)",
+  "tags": [
+   "Pancreatite Crônica (CM)",
+   "Pâncreas (CM)"
+  ],
+  "sourceQuestionId": "684c0af1d07356b",
+  "alvo": "Limiar numérico (dose) lido como enfeite enquanto se procura doença exótica."
+ },
+ {
+  "id": "S10-GAS-05",
+  "simulado": 10,
+  "area": "Gastroenterologia",
+  "titulo": "Colite colagenosa em idosa que iniciou medicação para pirose: budesonida e retirada do inibidor de bomba",
+  "arma": "Droga a deduzir",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 68 anos tem há 3 meses diarreia aquosa, 6 a 8 evacuações ao dia, inclusive à noite, com urgência, sem sangue, sem febre e com perda de 3 kg. Começou, 2 meses antes da diarreia, um comprimido diário em jejum para pirose, que mantém; usa também sertralina há 6 anos e losartana. Exames: hemograma, PCR, TSH, eletrólitos e antitransglutaminase IgA (com IgA total normal) normais; coproparasitológico e toxina de Clostridioides difficile negativos; calprotectina fecal de 180 mcg/g. Colonoscopia com íleo e mucosa colônica macroscopicamente normais; as biópsias seriadas mostram banda de colágeno subepitelial de 18 micrômetros com aumento de linfócitos na lâmina própria. A conduta mais adequada é:",
+  "alternativas": {
+   "A": "Budesonida oral e suspender o IBP",
+   "B": "Mesalazina oral e suspender a sertralina",
+   "C": "Prednisona oral e suspender o IBP",
+   "D": "Loperamida e manter as medicações"
+  },
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "Começou, 2 meses antes da diarreia, um comprimido diário em jejum para pirose",
+  "resolucao": "Colonoscopia macroscopicamente normal com colite à histologia faz pensar em tratamento de doença inflamatória intestinal, e a mesalazina é a droga anti-inflamatória que vem à cabeça, somada à suspeita sobre o antidepressivo. Mas a banda de colágeno subepitelial acima de 10 micrômetros define colite colagenosa, uma colite microscópica, e nela a budesonida oral é o único tratamento de indução com eficácia comprovada (mesalazina e bismuto são inferiores). O caso pede ainda deduzir a droga: comprimido diário em jejum para pirose, iniciado meses antes da diarreia, é um inibidor de bomba de prótons, um dos principais desencadeantes de colite microscópica (com AINE, sertralina e outros ISRS), e sua retirada faz parte do tratamento. A sertralina, usada há 6 anos sem diarreia, é suspeita menor. Prednisona tem mais efeitos e menos resposta, e loperamida isolada é para sintomas leves.",
+  "comentarios": {
+   "A": "Correta. Colite colagenosa: budesonida é a indução de escolha, e o IBP iniciado antes da diarreia é desencadeante a retirar.",
+   "B": "Errada. A mesalazina é inferior à budesonida na colite microscópica, e a sertralina, usada há 6 anos sem diarreia, é suspeita menor que a droga iniciada 2 meses antes dos sintomas.",
+   "C": "Errada. A retirada do IBP está certa, mas o corticoide sistêmico tem resposta menor e mais efeitos adversos que a budesonida na colite microscópica.",
+   "D": "Errada. Antidiarreico isolado serve a sintomas leves; aqui há diarreia noturna, perda de peso e uma droga desencadeante mantida."
+  },
+  "para_levar": "Colite microscópica: budesonida oral para indução e retirada de drogas desencadeantes (IBP, AINE, ISRS, estatinas).",
+  "referencias": "AGA Institute Guideline on the Medical Management of Microscopic Colitis (2016); European Microscopic Colitis Group/UEG Guidelines (2021)",
+  "tags": [
+   "Diarréias crônicas (CM)"
+  ],
+  "sourceQuestionId": "de60b28ed00239f",
+  "alvo": "Droga a deduzir (IBP) e escolha do tratamento pela histologia, e não pelo rótulo de colite."
+ },
+ {
+  "id": "S10-GAS-06",
+  "simulado": 10,
+  "area": "Oncologia",
+  "titulo": "Câncer de cólon metastático antes do anti-EGFR: pesquisa de RAS, BRAF e reparo de DNA no tumor",
+  "arma": "Dado omitido",
+  "comando": "próximo exame",
+  "nivel": "difícil",
+  "enunciado": "Homem de 58 anos, com adenocarcinoma de cólon sigmoide diagnosticado por colonoscopia, tem na TC múltiplas metástases hepáticas bilobares, consideradas irressecáveis pela equipe de cirurgia hepática, sem doença extra-hepática. ECOG 1, função hepática e renal normais, CEA de 84 ng/mL. A oncologista considera iniciar quimioterapia com FOLFOX associada a anticorpo monoclonal anti-EGFR, pela localização à esquerda do tumor primário. A biópsia da lesão primária só tem o diagnóstico histológico. Antes de definir o esquema, o próximo exame mais adequado é:",
+  "alternativas": {
+   "A": "Imuno-histoquímica para expressão de EGFR",
+   "B": "PET-CT com FDG de corpo inteiro",
+   "C": "CEA e CA 19-9 seriados por 4 semanas",
+   "D": "Pesquisa de RAS, BRAF e reparo de DNA no tumor"
+  },
+  "gabarito": "D",
+  "armadilha": "A",
+  "dado_decisivo": "A biópsia da lesão primária só tem o diagnóstico histológico",
+  "resolucao": "Se a droga é anti-EGFR, parece lógico medir o EGFR no tumor, e é a armadilha. Mas a expressão de EGFR por imuno-histoquímica não prediz resposta. O que prediz é o estado de RAS: mutações de KRAS ou NRAS (éxons 2, 3 e 4) tornam o anti-EGFR ineficaz e até prejudicial, e ele só se usa em RAS selvagem, preferencialmente de cólon esquerdo. O BRAF V600E muda prognóstico e linha de tratamento (encorafenibe com cetuximabe), e a deficiência de reparo (ou instabilidade de microssatélites) indica imunoterapia em primeira linha, que supera a quimioterapia. O caso omite exatamente esse perfil molecular, e é ele que define o esquema. PET-CT e marcadores seriados não escolhem droga.",
+  "comentarios": {
+   "A": "Errada. Parece a medida natural antes do anti-EGFR, mas a expressão de EGFR não prediz resposta; o que importa é o RAS.",
+   "B": "Errada. Teria papel para excluir doença extra-hepática antes de ressecção com intenção curativa; não define o esquema sistêmico.",
+   "C": "Errada. Marcadores servem a seguimento de resposta, e não à escolha da terapia.",
+   "D": "Correta. RAS mutado contraindica anti-EGFR, BRAF muda a linha e deficiência de reparo indica imunoterapia de primeira linha."
+  },
+  "para_levar": "Câncer colorretal metastático: RAS, BRAF e reparo de DNA (MMR ou MSI) antes da primeira linha; anti-EGFR só em RAS selvagem, e dMMR vai para imunoterapia.",
+  "referencias": "ESMO Clinical Practice Guideline: Metastatic colorectal cancer (2023); NCCN Colon Cancer (2025); ASCO Guideline: Treatment of Metastatic Colorectal Cancer (2023)",
+  "tags": [
+   "Câncer Colorretal (CM)",
+   "Metástases hepáticas de CCR"
+  ],
+  "sourceQuestionId": "a9b381815d28884",
+  "alvo": "Dado omitido (perfil molecular) e exame errado que parece lógico."
+ },
+ {
+  "id": "S10-GAS-07",
+  "simulado": 10,
+  "area": "Oncologia",
+  "titulo": "Rastreamento do câncer colorretal com pai acometido aos 52 anos: colonoscopia aos 40, a cada 5 anos",
+  "arma": "Cronologia",
+  "comando": "fato solto",
+  "nivel": "média",
+  "enunciado": "Homem de 36 anos, assintomático, cujo pai teve adenocarcinoma de cólon aos 52 anos (sem síndrome hereditária identificada); não há outros casos na família. Quanto ao rastreamento do câncer colorretal, o início e o intervalo da colonoscopia são:",
+  "alternativas": {
+   "A": "Aos 45 anos, a cada 10 anos",
+   "B": "Aos 40 anos, a cada 5 anos",
+   "C": "Aos 42 anos, a cada 5 anos",
+   "D": "Agora, a cada 3 anos"
+  },
+  "gabarito": "B",
+  "armadilha": "C",
+  "dado_decisivo": "pai teve adenocarcinoma de cólon aos 52 anos",
+  "resolucao": "A regra dos 10 anos antes do caso índice é a mais lembrada, e 52 menos 10 dá 42 anos. Mas a regra completa é iniciar aos 40 anos ou 10 anos antes da idade do parente mais jovem ao diagnóstico, o que vier primeiro: aqui 40 vem antes de 42. Com um parente de primeiro grau diagnosticado antes dos 60 anos, o exame é colonoscopia, repetida a cada 5 anos. Com parente de primeiro grau após os 60, o rastreamento segue o da população geral a partir dos 40 a 45 anos. Começar agora, aos 36, seria a regra da síndrome de Lynch, não confirmada.",
+  "comentarios": {
+   "A": "Errada. É o rastreamento da população de risco médio, que não se aplica a filho de quem teve câncer antes dos 60 anos.",
+   "B": "Correta. Parente de primeiro grau com câncer antes dos 60: colonoscopia aos 40 ou 10 anos antes, o que vier primeiro, a cada 5 anos.",
+   "C": "Errada. Aplica só a metade da regra (10 anos antes do caso índice); 40 anos vem antes de 42.",
+   "D": "Errada. Início imediato com intervalo curto é para síndrome de Lynch, aqui sem indício."
+  },
+  "para_levar": "Parente de primeiro grau com câncer colorretal antes dos 60 anos: colonoscopia aos 40 ou 10 anos antes do caso mais jovem (o que vier primeiro), a cada 5 anos.",
+  "referencias": "US Multi-Society Task Force on Colorectal Cancer: Recommendations for Follow-up and Screening in Familial Risk (2017); ACG Clinical Guidelines: Colorectal Cancer Screening (2021)",
+  "tags": [
+   "Rastreamentos em Clínica Médica (CM)",
+   "Câncer Colorretal (CM)"
+  ],
+  "sourceQuestionId": "ce461d66647079f",
+  "alvo": "Fato solto com cronologia (o que vier primeiro) e a meia regra como armadilha."
+ }
 ]

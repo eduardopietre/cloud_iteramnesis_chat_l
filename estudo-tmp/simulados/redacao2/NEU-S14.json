@@ -35,35 +35,35 @@
  {
   "id": "S14-NEU-02",
   "simulado": 14,
-  "titulo": "Wernicke sem resposta a tiamina em dose alta no etilista com diarreia e IBP crônico: o magnésio que não foi dosado",
+  "titulo": "Cefaleia ortostática sem punção prévia em jovem com hipermobilidade: hipotensão liquórica espontânea, RM com gadolínio antes de qualquer punção",
   "arma": "Dado omitido",
   "comando": "próximo exame",
   "nivel": "difícil",
-  "enunciado": "Homem de 55 anos, etilista, com diarreia crônica e uso de omeprazol 40 mg/dia há 6 anos, foi internado com confusão, nistagmo horizontal, paresia bilateral do VI nervo e ataxia de marcha. Recebe tiamina 500 mg IV de 8 em 8 horas há 4 dias, iniciada antes de qualquer glicose, sem melhora da oftalmoparesia nem da confusão. Afebril, PA 118/72 mmHg. Exames: glicemia 92 mg/dL, sódio 136 mEq/L, potássio 3,0 mEq/L (repondo cloreto de potássio há 3 dias, sem subir), cálcio total 7,6 mg/dL com albumina de 3,8 g/dL, amônia normal, TC de crânio normal. ECG: QTc de 490 ms. O exame que mais provavelmente explica a falta de resposta é:",
+  "enunciado": "Mulher de 37 anos, professora de educação física, procura atendimento por cefaleia há 3 semanas, holocraniana e em peso na nuca, que surge cerca de 15 minutos depois de se levantar pela manhã e melhora em 20 minutos deitada, com zumbido, abafamento auditivo e náusea; passa parte do dia deitada. Nega trauma, febre, perda de peso e uso de anticoncepcional. Não foi submetida a punção lombar, anestesia peridural ou procedimento na coluna. Tem hipermobilidade articular desde a infância. Exame neurológico e fundo de olho normais; PA 118 x 74 mmHg. TC de crânio sem contraste, feita na emergência, normal. O próximo exame mais adequado é:",
   "alternativas": {
-   "A": "Magnésio sérico",
-   "B": "RM de encéfalo com difusão",
-   "C": "Dosagem sérica de tiamina",
-   "D": "Eletroencefalograma"
+   "A": "RM de encéfalo com gadolínio",
+   "B": "Angiorressonância venosa cerebral",
+   "C": "Punção lombar com manometria",
+   "D": "Angiotomografia de vasos cervicais"
   },
   "gabarito": "A",
   "armadilha": "C",
-  "dado_decisivo": "potássio 3,0 mEq/L (repondo cloreto de potássio há 3 dias, sem subir), cálcio total 7,6 mg/dL com albumina de 3,8 g/dL",
-  "resolucao": "Wernicke que não melhora com tiamina faz duvidar da dose ou do diagnóstico, e dosar a tiamina é a armadilha: o nível sérico não muda a conduta de quem já recebe 1.500 mg/dia. O que falta no caso é o magnésio, e todas as pistas apontam para ele: etilismo, diarreia crônica e inibidor de bomba de prótons por anos (que reduz a absorção intestinal de magnésio), hipocalemia que não sobe com reposição, hipocalcemia verdadeira com albumina normal e QTc longo. O magnésio é cofator da transcetolase e das enzimas dependentes de tiamina; sem ele, a tiamina não funciona, e há relatos de Wernicke refratário que só respondeu à reposição de magnésio. Corrigido o magnésio, o potássio e o cálcio também passam a subir. A RM pode mostrar as lesões de Wernicke, mas não explica a falta de resposta.",
+  "dado_decisivo": "surge cerca de 15 minutos depois de se levantar pela manhã e melhora em 20 minutos deitada",
+  "resolucao": "Falta o dado que costuma acompanhar a cefaleia ortostática, a punção dural prévia, e por isso a hipótese de pressão liquórica baixa costuma ser abandonada. Mas a cefaleia que surge minutos após ficar de pé e cede deitada, com zumbido e abafamento auditivo, é hipotensão liquórica, e sem punção ela é espontânea, por fístula liquórica espinal, mais comum em quem tem doença do tecido conjuntivo (a hipermobilidade). O consenso multidisciplinar de 2023 indica como primeiro exame a RM de encéfalo com gadolínio: realce paquimeníngeo difuso, descida das tonsilas, distensão dos seios venosos e coleções subdurais, que compõem o escore de Bern; depois, RM de coluna para localizar a fístula. A punção lombar não é necessária, a pressão de abertura é normal em boa parte dos casos e a punção pode piorar o vazamento. A trombose venosa cerebral piora deitada, e não melhora.",
   "comentarios": {
-   "A": "Correta. Hipocalemia refratária, hipocalcemia, QTc longo, diarreia e IBP crônico apontam hipomagnesemia, que impede a ação da tiamina.",
-   "B": "Errada. RM confirmaria lesões periaquedutais e talâmicas, mas o diagnóstico clínico já está feito e ela não explica a refratariedade.",
-   "C": "Errada, é a armadilha. O nível de tiamina seria útil antes de tratar, em dúvida diagnóstica; em quem recebe 1.500 mg/dia, não muda nada.",
-   "D": "Errada. EEG entraria na suspeita de estado de mal não convulsivo, sem pistas aqui; o quadro é de oftalmoparesia e ataxia."
+   "A": "Correta. Cefaleia ortostática sem punção prévia: RM de encéfalo com gadolínio para os sinais de hipotensão liquórica espontânea.",
+   "B": "Errada. Seria o exame na suspeita de trombose venosa cerebral, cuja cefaleia piora ao deitar; aqui ela melhora deitada.",
+   "C": "Errada, é a armadilha. Medir a pressão parece confirmar, mas ela é normal em muitos casos, a punção cria nova fístula e não é necessária quando a RM mostra os sinais.",
+   "D": "Errada. Seria o exame na suspeita de dissecção arterial cervical, com dor cervical e Horner ou déficit, ausentes aqui."
   },
-  "para_levar": "Wernicke que não responde à tiamina: dose o magnésio; hipocalemia e hipocalcemia refratárias no etilista ou no usuário crônico de IBP são a pista.",
-  "referencias": "EFNS guidelines for diagnosis, therapy and prevention of Wernicke encephalopathy (Galvin R et al., Eur J Neurol 2010); Sechi G, Serra A. Wernicke's encephalopathy: new clinical settings and recent advances. Lancet Neurol 2007.",
+  "para_levar": "Cefaleia ortostática sem punção prévia é hipotensão liquórica espontânea até prova em contrário: RM de encéfalo com gadolínio primeiro, sem punção lombar diagnóstica.",
+  "referencias": "Cheema S et al., Multidisciplinary consensus guideline for the diagnosis and management of spontaneous intracranial hypotension, J Neurol Neurosurg Psychiatry 2023; ICHD-3 (2018), item 7.2.3.",
   "tags": [
-   "Encefalopatia de Wernicke (CM)",
-   "Distúrbios de Fósforo e Magnésio (CM)"
+   "Outras Cefaléias : Hipotensão Liquórica e pós Punção Lombar (CM)",
+   "Cefaleia (CM)"
   ],
   "sourceQuestionId": null,
-  "alvo": "Dado omitido (magnésio não dosado) e exame lido como enfeite (potássio que não sobe); próximo exame.",
+  "alvo": "Próximo exame (o pior comando dele), com o exame invasivo a mais como armadilha; dado omitido (sem punção prévia).",
   "area": "Neurologia"
  },
  {

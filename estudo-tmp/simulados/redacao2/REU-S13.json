@@ -1,204 +1,204 @@
 [
-  {
-    "id": "S13-REU-01",
-    "simulado": 13,
-    "area": "Reumatologia",
-    "titulo": "Ativação macrofágica na doença de Still em uso de tocilizumabe: PCR e febre silenciadas pelo bloqueio da IL-6",
-    "arma": "Cronologia",
-    "comando": "mecanismo",
-    "nivel": "extremamente difícil",
-    "enunciado": "Mulher de 27 anos tem doença de Still do adulto há 2 anos, controlada com tocilizumabe endovenoso a cada 4 semanas e prednisona 5 mg/dia; a última infusão foi há 12 dias. Há 3 semanas teve faringite e há 10 dias sente astenia intensa e dor abdominal, sem febre aferida e sem exantema. Exame físico: Tax 37,1 °C, FC 110 bpm, PA 100 x 62 mmHg, baço palpável a 3 cm do rebordo. Exames de 2 meses atrás e de hoje, respectivamente: leucócitos 7.800 e 3.100/mm³; plaquetas 260.000 e 96.000/mm³; ferritina 310 e 14.600 ng/mL; AST 28 e 240 U/L; triglicerídeos 140 e 420 mg/dL; fibrinogênio 290 e 120 mg/dL; PCR 0,3 e 0,8 mg/dL. A explicação mais provável para a PCR praticamente normal neste momento é:",
-    "alternativas": {
-      "A": "Doença de Still em remissão",
-      "B": "Consumo da PCR pelos macrófagos ativados",
-      "C": "Bloqueio da síntese hepática dependente de IL-6",
-      "D": "Insuficiência hepática pela ativação macrofágica"
-    },
-    "gabarito": "C",
-    "armadilha": "D",
-    "dado_decisivo": "controlada com tocilizumabe endovenoso a cada 4 semanas",
-    "resolucao": "A sequência dos exames mostra ativação macrofágica: citopenias novas, ferritina que multiplica por 47, transaminases, triglicerídeos altos e fibrinogênio consumido, com esplenomegalia, depois de uma infecção que serviu de gatilho. A PCR normal e a ausência de febre parecem contradizer. A explicação está na droga em uso: a PCR é produzida pelo fígado sob estímulo da IL-6, e o tocilizumabe, bloqueando o receptor da IL-6, a mantém baixa e suprime a febre mesmo com inflamação grave. A disfunção hepática da ativação macrofágica é leve aqui (AST 240) e não abole a síntese de PCR. Em quem usa bloqueador de IL-6, monitore ferritina, contagens, fibrinogênio e transaminases, e não a PCR.",
-    "comentarios": {
-      "A": "Errada. Citopenias, ferritina de 14.600 e fibrinogênio consumido não são remissão.",
-      "B": "Errada. A PCR não é consumida por macrófagos; o mecanismo que a mantém baixa é a falta de estímulo hepático.",
-      "C": "Correta. O tocilizumabe bloqueia o receptor da IL-6, que comanda a síntese hepática da PCR, e silencia febre e PCR.",
-      "D": "Errada. Seria plausível com insuficiência hepática grave e coagulopatia; transaminase de 240 não abole a síntese de PCR."
-    },
-    "para_levar": "Em uso de bloqueador de IL-6, febre e PCR deixam de servir como marcadores: ativação macrofágica e infecção grave se reconhecem pela ferritina, contagens, fibrinogênio e transaminases.",
-    "referencias": "EULAR/ACR recommendations for the diagnosis and management of Still's disease (Ann Rheum Dis, 2024); 2022 EULAR/ACR points to consider for the diagnosis and management of HLH/MAS (Ann Rheum Dis, 2023); bula do tocilizumabe (ANVISA).",
-    "tags": [
-      "Doença de Still do Adulto (CM)",
-      "Drogas antirreumáticas (CM)"
-    ],
-    "sourceQuestionId": null,
-    "alvo": "Droga em uso ignorada e exame lido como enfeite (PCR normal) em tema UERJ recorrente (Still)."
+ {
+  "id": "S13-REU-01",
+  "simulado": 13,
+  "area": "Reumatologia",
+  "titulo": "Ativação macrofágica na doença de Still em uso de tocilizumabe: PCR e febre silenciadas pelo bloqueio da IL-6",
+  "arma": "Cronologia",
+  "comando": "mecanismo",
+  "nivel": "extremamente difícil",
+  "enunciado": "Mulher de 27 anos tem doença de Still do adulto há 2 anos, controlada com tocilizumabe endovenoso a cada 4 semanas e prednisona 5 mg/dia; a última infusão foi há 12 dias. Há 3 semanas teve faringite e há 10 dias sente astenia intensa e dor abdominal, sem febre aferida e sem exantema. Exame físico: Tax 37,1 °C, FC 110 bpm, PA 100 x 62 mmHg, baço palpável a 3 cm do rebordo. Exames de 2 meses atrás e de hoje, respectivamente: leucócitos 7.800 e 3.100/mm³; plaquetas 260.000 e 96.000/mm³; ferritina 310 e 14.600 ng/mL; AST 28 e 240 U/L; triglicerídeos 140 e 420 mg/dL; fibrinogênio 290 e 120 mg/dL; PCR 0,3 e 0,8 mg/dL. A explicação mais provável para a PCR praticamente normal neste momento é:",
+  "alternativas": {
+   "A": "Doença de Still em remissão",
+   "B": "Consumo da PCR pelos macrófagos ativados",
+   "C": "Bloqueio da síntese hepática dependente de IL-6",
+   "D": "Insuficiência hepática pela ativação macrofágica"
   },
-  {
-    "id": "S13-REU-02",
-    "simulado": 13,
-    "area": "Reumatologia",
-    "titulo": "Fibrose retroperitoneal com hidronefrose bilateral e hipercalemia: derivação urinária primeiro, glicocorticoide para a doença, e IgG4 normal não muda nada",
-    "arma": "Grade X / Y",
-    "comando": "conduta",
-    "nivel": "difícil",
-    "enunciado": "Homem de 63 anos procura a emergência por dor lombar surda há 4 meses, perda de 6 kg e oligúria há 3 dias. Nega uso de derivados do ergot. Tomografia sem contraste: manto de tecido mole envolvendo a aorta abdominal infrarrenal e as ilíacas comuns, que traciona os ureteres medialmente, com hidronefrose bilateral moderada; sem linfonodomegalias em outras cadeias e sem massa pélvica. Exame físico: PA 150 x 92 mmHg, sem edema pulmonar. Exames: creatinina 5,8 mg/dL (0,9 mg/dL há 1 ano), potássio 6,1 mEq/L, pH 7,29, bicarbonato 17 mEq/L, VHS 76 mm/h, IgG4 sérica 98 mg/dL (VR até 135). ECG sem alterações. A conduta imediata e o tratamento da doença de base são, respectivamente:",
-    "alternativas": {
-      "A": "Derivação urinária bilateral / glicocorticoide",
-      "B": "Hemodiálise de urgência / rituximabe",
-      "C": "Glicocorticoide isolado / ureterólise se falhar",
-      "D": "Ureterólise cirúrgica / tamoxifeno"
-    },
-    "gabarito": "A",
-    "armadilha": "C",
-    "dado_decisivo": "hidronefrose bilateral moderada",
-    "resolucao": "Fibrose retroperitoneal periaórtica com ureteres desviados medialmente, sem massa e sem linfonodos, é a forma idiopática, frequentemente parte da doença relacionada à IgG4; a IgG4 sérica é normal em até metade desses casos e não afasta nem muda o tratamento. Como o corticoide reduz a massa, a armadilha é tratar só com ele e esperar. Mas há insuficiência renal pós-renal com hipercalemia e acidose: a conduta imediata é desobstruir (cateter duplo J ou nefrostomia bilateral), o que corrige potássio e acidose sem diálise. Depois, glicocorticoide é a primeira linha para a fibrose; rituximabe e tamoxifeno ficam para recidiva ou intolerância, e ureterólise para falha clínica.",
-    "comentarios": {
-      "A": "Correta. Desobstrução corrige a lesão pós-renal; o glicocorticoide é a base do tratamento da fibrose.",
-      "B": "Errada. Hipercalemia de 6,1 sem alteração no ECG com obstrução tratável não exige diálise; rituximabe não é primeira linha.",
-      "C": "Errada. Seria aceitável sem obstrução significativa; com creatinina de 5,8 e hipercalemia, desobstruir não pode esperar.",
-      "D": "Errada. Cirurgia é reservada à falha do tratamento clínico; tamoxifeno é segunda linha."
-    },
-    "para_levar": "Fibrose retroperitoneal com uropatia obstrutiva: desobstruir primeiro, glicocorticoide depois; IgG4 sérica normal não afasta a doença relacionada à IgG4.",
-    "referencias": "Vaglio A, Maritati F. Idiopathic retroperitoneal fibrosis (J Am Soc Nephrol, 2016); International Consensus Guidance on IgG4-related disease (Arthritis Rheumatol, 2015).",
-    "tags": [
-      "Doença por IgG4 (CM)"
-    ],
-    "sourceQuestionId": null,
-    "alvo": "Ordem da conduta (desobstruir antes de tratar a doença) e IgG4 normal lido como exclusão; tema UERJ recorrente."
+  "gabarito": "C",
+  "armadilha": "D",
+  "dado_decisivo": "controlada com tocilizumabe endovenoso a cada 4 semanas",
+  "resolucao": "A sequência dos exames mostra ativação macrofágica: citopenias novas, ferritina que multiplica por 47, transaminases, triglicerídeos altos e fibrinogênio consumido, com esplenomegalia, depois de uma infecção que serviu de gatilho. A PCR normal e a ausência de febre parecem contradizer. A explicação está na droga em uso: a PCR é produzida pelo fígado sob estímulo da IL-6, e o tocilizumabe, bloqueando o receptor da IL-6, a mantém baixa e suprime a febre mesmo com inflamação grave. A disfunção hepática da ativação macrofágica é leve aqui (AST 240) e não abole a síntese de PCR. Em quem usa bloqueador de IL-6, monitore ferritina, contagens, fibrinogênio e transaminases, e não a PCR.",
+  "comentarios": {
+   "A": "Errada. Citopenias, ferritina de 14.600 e fibrinogênio consumido não são remissão.",
+   "B": "Errada. A PCR não é consumida por macrófagos; o mecanismo que a mantém baixa é a falta de estímulo hepático.",
+   "C": "Correta. O tocilizumabe bloqueia o receptor da IL-6, que comanda a síntese hepática da PCR, e silencia febre e PCR.",
+   "D": "Errada. Seria plausível com insuficiência hepática grave e coagulopatia; transaminase de 240 não abole a síntese de PCR."
   },
-  {
-    "id": "S13-REU-03",
-    "simulado": 13,
-    "area": "Reumatologia",
-    "titulo": "Parótidas aumentadas, uveíte granulomatosa e paralisia facial com contato de caxumba: febre uveoparotídea da sarcoidose",
-    "arma": "Rótulo verdadeiro",
-    "comando": "diagnóstico",
-    "nivel": "difícil",
-    "enunciado": "Mulher de 29 anos procura atendimento por aumento bilateral das parótidas há 3 semanas, com febre baixa, olhos vermelhos e fotofobia há 10 dias e, desde ontem, dificuldade para fechar o olho esquerdo e desvio da boca para a direita. Mora com um sobrinho de 5 anos que teve caxumba há 1 mês, e não tem registro de vacinação. Exame físico: Tax 37,8 °C, parótidas aumentadas, firmes e pouco dolorosas, sem saída de pus pelo ducto; paralisia facial periférica à esquerda; injeção ciliar bilateral com precipitados ceráticos em gordura de carneiro. Exames: amilase 210 U/L, cálcio 10,9 mg/dL, linfócitos 900/mm³. Radiografia de tórax com alargamento hilar bilateral e simétrico. O diagnóstico mais provável é:",
-    "alternativas": {
-      "A": "Sarcoidose com febre uveoparotídea",
-      "B": "Caxumba com neurite facial",
-      "C": "Síndrome de Sjögren primária",
-      "D": "Linfoma não Hodgkin"
-    },
-    "gabarito": "A",
-    "armadilha": "B",
-    "dado_decisivo": "alargamento hilar bilateral e simétrico",
-    "resolucao": "O contato com caxumba e a falta de vacinação são verdadeiros e parecem explicar a parotidite. Mas caxumba não dá uveíte granulomatosa (precipitados em gordura de carneiro), não dura 3 semanas com parótidas firmes e indolores, e não explica hipercalcemia, linfopenia e adenopatia hilar bilateral. A combinação de parotidite, uveíte anterior, paralisia facial e febre é a síndrome de Heerfordt (febre uveoparotídea), forma aguda da sarcoidose. A confirmação vem da biópsia do sítio mais acessível (glândula salivar, linfonodo por ecobroncoscopia) com granuloma não caseoso, e a paralisia facial com uveíte costuma pedir corticoide sistêmico.",
-    "comentarios": {
-      "A": "Correta. Parotidite, uveíte granulomatosa, paralisia facial e febre com adenopatia hilar e hipercalcemia.",
-      "B": "Errada. Seria a resposta com parotidite dolorosa de poucos dias; não explica uveíte granulomatosa, hipercalcemia e adenopatia hilar.",
-      "C": "Errada. Aumento de parótidas e olho seco, mas sem uveíte granulomatosa, paralisia facial e adenopatia hilar.",
-      "D": "Errada. Pode dar parótida e hilo aumentados, mas adenopatia hilar simétrica com uveíte granulomatosa é sarcoidose."
-    },
-    "para_levar": "Parotidite, uveíte, paralisia facial e febre com adenopatia hilar bilateral é a síndrome de Heerfordt, forma aguda da sarcoidose.",
-    "referencias": "ATS Clinical Practice Guideline: Diagnosis and Detection of Sarcoidosis (2020); ERS clinical practice guidelines on treatment of sarcoidosis (2021).",
-    "tags": [
-      "Sarcoidose (CM)"
-    ],
-    "sourceQuestionId": "2520db94de80827",
-    "alvo": "Rótulo verdadeiro (contato de caxumba) que puxa a doença de manual; achados característicos de sarcoidose, que ele errou."
+  "para_levar": "Em uso de bloqueador de IL-6, febre e PCR deixam de servir como marcadores: ativação macrofágica e infecção grave se reconhecem pela ferritina, contagens, fibrinogênio e transaminases.",
+  "referencias": "EULAR/ACR recommendations for the diagnosis and management of Still's disease (Ann Rheum Dis, 2024); 2022 EULAR/ACR points to consider for the diagnosis and management of HLH/MAS (Ann Rheum Dis, 2023); bula do tocilizumabe (ANVISA).",
+  "tags": [
+   "Doença de Still do Adulto (CM)",
+   "Drogas antirreumáticas (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Droga em uso ignorada e exame lido como enfeite (PCR normal) em tema UERJ recorrente (Still)."
+ },
+ {
+  "id": "S13-REU-02",
+  "simulado": 13,
+  "area": "Reumatologia",
+  "titulo": "Fibrose retroperitoneal com hidronefrose bilateral e hipercalemia: derivação urinária primeiro, glicocorticoide para a doença, e IgG4 normal não muda nada",
+  "arma": "Grade X / Y",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Homem de 63 anos procura a emergência por dor lombar surda há 4 meses, perda de 6 kg e oligúria há 3 dias. Nega uso de derivados do ergot. Tomografia sem contraste: manto de tecido mole envolvendo a aorta abdominal infrarrenal e as ilíacas comuns, que traciona os ureteres medialmente, com hidronefrose bilateral moderada; sem linfonodomegalias em outras cadeias e sem massa pélvica. Exame físico: PA 150 x 92 mmHg, sem edema pulmonar. Exames: creatinina 5,8 mg/dL (0,9 mg/dL há 1 ano), potássio 6,1 mEq/L, pH 7,29, bicarbonato 17 mEq/L, VHS 76 mm/h, IgG4 sérica 98 mg/dL (VR até 135). ECG sem alterações. A conduta imediata e o tratamento da doença de base são, respectivamente:",
+  "alternativas": {
+   "A": "Derivação urinária bilateral / glicocorticoide",
+   "B": "Hemodiálise de urgência / rituximabe",
+   "C": "Glicocorticoide isolado / ureterólise se falhar",
+   "D": "Ureterólise cirúrgica / tamoxifeno"
   },
-  {
-    "id": "S13-REU-04",
-    "simulado": 13,
-    "area": "Reumatologia",
-    "titulo": "Artrite reativa pós-clamídia que passa de 6 meses apesar de dois AINEs: cronificou, e a conduta é DMARD (sulfassalazina)",
-    "arma": "Limiar",
-    "comando": "conduta",
-    "nivel": "difícil",
-    "enunciado": "Homem de 34 anos teve uretrite por Chlamydia trachomatis há 9 meses, tratada com doxiciclina por 7 dias junto com a parceira, com teste de controle negativo. Duas semanas depois surgiu artrite de joelho direito e tornozelo esquerdo, com entesite no calcâneo. Usou naproxeno em dose plena e depois indometacina em dose plena, e recebeu duas infiltrações de corticoide no joelho, com melhora parcial e recidiva. Hoje mantém sinovite de joelho e tornozelo, sem dor lombar inflamatória, uveíte ou lesões de pele. HLA-B27 positivo, VHS 42 mm/h, PCR 22 mg/L, radiografias sem erosões; sorologias para HIV, hepatite B e hepatite C negativas. A conduta mais adequada é:",
-    "alternativas": {
-      "A": "Doxiciclina por 3 meses",
-      "B": "Sulfassalazina 2 a 3 g/dia",
-      "C": "Prednisona 1 mg/kg/dia",
-      "D": "Anti-TNF imediatamente"
-    },
-    "gabarito": "B",
-    "armadilha": "A",
-    "dado_decisivo": "há 9 meses",
-    "resolucao": "Como a artrite começou com uma clamídia, a ideia de que o germe persiste e de que basta mais antibiótico atrai. Mas a uretrite foi tratada com teste de controle negativo, e antibiótico prolongado isolado não mudou a evolução da artrite reativa em ensaios. O dado que muda a conduta é o tempo: artrite reativa com mais de 6 meses é crônica, o que acontece em parte dos pacientes HLA-B27 positivos. Com falha de dois AINEs e infiltrações, o passo seguinte é DMARD convencional, e a sulfassalazina é o de maior evidência (metotrexato é alternativa). Anti-TNF fica para falha do DMARD; corticoide sistêmico em dose alta não tem papel na doença articular crônica.",
-    "comentarios": {
-      "A": "Errada. A infecção foi erradicada; antibiótico prolongado isolado não altera a artrite reativa crônica.",
-      "B": "Correta. Artrite reativa acima de 6 meses refratária a AINE e infiltração pede DMARD, e a sulfassalazina é a primeira escolha.",
-      "C": "Errada. Corticoide sistêmico em dose alta não é tratamento de manutenção da artrite periférica crônica.",
-      "D": "Errada. Fica para falha do DMARD convencional; pular o degrau é fazer mais do que o caso pede."
-    },
-    "para_levar": "Artrite reativa: AINE e infiltração nos primeiros meses; passou de 6 meses, é crônica e pede DMARD (sulfassalazina) antes do biológico.",
-    "referencias": "Recomendações da SBR para o tratamento das espondiloartrites (2023); Schmitt SK. Reactive arthritis (Infect Dis Clin North Am, 2017).",
-    "tags": [
-      "Artrite Reativa (CM)",
-      "Espondiloartrites (CM)"
-    ],
-    "sourceQuestionId": "245c096fc64750a",
-    "alvo": "Limiar de tempo que muda a conduta e degrau do tratamento (nem antibiótico a mais, nem biológico antes da hora)."
+  "gabarito": "A",
+  "armadilha": "C",
+  "dado_decisivo": "hidronefrose bilateral moderada",
+  "resolucao": "Fibrose retroperitoneal periaórtica com ureteres desviados medialmente, sem massa e sem linfonodos, é a forma idiopática, frequentemente parte da doença relacionada à IgG4; a IgG4 sérica é normal em até metade desses casos e não afasta nem muda o tratamento. Como o corticoide reduz a massa, a armadilha é tratar só com ele e esperar. Mas há insuficiência renal pós-renal com hipercalemia e acidose: a conduta imediata é desobstruir (cateter duplo J ou nefrostomia bilateral), o que corrige potássio e acidose sem diálise. Depois, glicocorticoide é a primeira linha para a fibrose; rituximabe e tamoxifeno ficam para recidiva ou intolerância, e ureterólise para falha clínica.",
+  "comentarios": {
+   "A": "Correta. Desobstrução corrige a lesão pós-renal; o glicocorticoide é a base do tratamento da fibrose.",
+   "B": "Errada. Hipercalemia de 6,1 sem alteração no ECG com obstrução tratável não exige diálise; rituximabe não é primeira linha.",
+   "C": "Errada. Seria aceitável sem obstrução significativa; com creatinina de 5,8 e hipercalemia, desobstruir não pode esperar.",
+   "D": "Errada. Cirurgia é reservada à falha do tratamento clínico; tamoxifeno é segunda linha."
   },
-  {
-    "id": "S13-REU-05",
-    "simulado": 13,
-    "area": "Reumatologia",
-    "titulo": "Trombose venosa profunda na doença de Behçet: a trombose é inflamatória, e o tratamento é imunossupressor, não anticoagulação isolada",
-    "arma": "Rótulo verdadeiro",
-    "comando": "conduta",
-    "nivel": "extremamente difícil",
-    "enunciado": "Homem de 28 anos, com aftas orais recorrentes desde a adolescência, duas úlceras escrotais já cicatrizadas, pseudofoliculite e uveíte posterior tratada há 1 ano, apresenta edema doloroso da perna esquerda há 4 dias. Doppler: trombose venosa femoral e poplítea esquerda. Teve tromboflebite superficial no braço direito há 6 meses. Sem dispneia nem hemoptise; angiotomografia de tórax sem trombos e sem aneurismas de artérias pulmonares. Usa colchicina. Exames: plaquetas 290.000/mm³, função renal normal, anticoagulante lúpico e anticardiolipinas negativos. A conduta mais adequada para a trombose é:",
-    "alternativas": {
-      "A": "Anticoagulação isolada por 3 meses",
-      "B": "Glicocorticoide e azatioprina",
-      "C": "Filtro de veia cava inferior",
-      "D": "Trombólise dirigida por cateter"
-    },
-    "gabarito": "B",
-    "armadilha": "A",
-    "dado_decisivo": "Teve tromboflebite superficial no braço direito há 6 meses",
-    "resolucao": "Trombose venosa profunda proximal leva o reflexo à anticoagulação, e o rótulo é verdadeiro. Mas o paciente tem doença de Behçet (aftas, úlceras genitais, pseudofoliculite, uveíte), e a trombose na doença de Behçet nasce da inflamação da parede venosa, recorre e migra (tromboflebite prévia), e o trombo é aderente e pouco embolígeno. Por isso as recomendações EULAR de 2018 tratam a trombose venosa aguda com glicocorticoide e imunossupressor (azatioprina, ciclofosfamida ou ciclosporina), que reduz recorrência; anticoagulante pode ser associado quando o risco de sangramento é baixo e aneurismas pulmonares foram afastados, mas isolado não basta. Filtro e trombólise não têm papel.",
-    "comentarios": {
-      "A": "Errada. Seria a conduta na trombose comum; na doença de Behçet, isolada não evita recorrência da trombose inflamatória.",
-      "B": "Correta. Glicocorticoide com imunossupressor é a base do tratamento da trombose venosa da doença de Behçet.",
-      "C": "Errada. Não há contraindicação à anticoagulação nem embolia em vigência; filtro pode trombosar.",
-      "D": "Errada. Reservada a trombose maciça com ameaça ao membro, ausente aqui."
-    },
-    "para_levar": "Na doença de Behçet, trombose venosa é vasculite da parede: glicocorticoide e azatioprina, com anticoagulante apenas como complemento depois de afastar aneurisma pulmonar.",
-    "referencias": "2018 update of the EULAR recommendations for the management of Behçet's syndrome.",
-    "tags": [
-      "Behçet (CM)",
-      "Vasculites (CM)"
-    ],
-    "sourceQuestionId": null,
-    "alvo": "Rótulo verdadeiro (TVP proximal) puxando a conduta de manual que esta doença derruba."
+  "para_levar": "Fibrose retroperitoneal com uropatia obstrutiva: desobstruir primeiro, glicocorticoide depois; IgG4 sérica normal não afasta a doença relacionada à IgG4.",
+  "referencias": "Vaglio A, Maritati F. Idiopathic retroperitoneal fibrosis (J Am Soc Nephrol, 2016); International Consensus Guidance on IgG4-related disease (Arthritis Rheumatol, 2015).",
+  "tags": [
+   "Doença por IgG4 (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Ordem da conduta (desobstruir antes de tratar a doença) e IgG4 normal lido como exclusão; tema UERJ recorrente."
+ },
+ {
+  "id": "S13-REU-03",
+  "simulado": 13,
+  "area": "Reumatologia",
+  "titulo": "Parótidas aumentadas, uveíte granulomatosa e paralisia facial com contato de caxumba: febre uveoparotídea da sarcoidose",
+  "arma": "Rótulo verdadeiro",
+  "comando": "diagnóstico",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 29 anos procura atendimento por aumento bilateral das parótidas há 3 semanas, com febre baixa, olhos vermelhos e fotofobia há 10 dias e, desde ontem, dificuldade para fechar o olho esquerdo e desvio da boca para a direita. Mora com um sobrinho de 5 anos que teve caxumba há 1 mês, e não tem registro de vacinação. Exame físico: Tax 37,8 °C, parótidas aumentadas, firmes e pouco dolorosas, sem saída de pus pelo ducto; paralisia facial periférica à esquerda; injeção ciliar bilateral com precipitados ceráticos em gordura de carneiro. Exames: amilase 210 U/L, cálcio 10,9 mg/dL, linfócitos 900/mm³. Radiografia de tórax com alargamento hilar bilateral e simétrico. O diagnóstico mais provável é:",
+  "alternativas": {
+   "A": "Sarcoidose com febre uveoparotídea",
+   "B": "Caxumba com neurite facial",
+   "C": "Síndrome de Sjögren primária",
+   "D": "Linfoma não Hodgkin"
   },
-  {
-    "id": "S13-REU-06",
-    "simulado": 13,
-    "area": "Reumatologia",
-    "titulo": "Síndrome nefrótica no lúpus com complemento normal, anti-DNA negativo e sedimento inativo: nefrite lúpica membranosa (classe V)",
-    "arma": "Negativo no meio",
-    "comando": "diagnóstico",
-    "nivel": "difícil",
-    "enunciado": "Mulher de 36 anos tem lúpus eritematoso sistêmico há 6 anos, com manifestações cutâneas e articulares controladas com hidroxicloroquina. Há 2 meses tem edema de membros inferiores progressivo e urina espumosa, sem hematúria macroscópica, artrite ou exantema. Não usa anti-inflamatórios. PA 128 x 80 mmHg. Exames: albumina 2,1 g/dL, colesterol total 340 mg/dL, proteinúria de 6,2 g/24 h, creatinina 0,8 mg/dL, sedimento com 2 hemácias por campo e sem cilindros celulares, C3 e C4 normais, anti-DNA não reagente, anti-Sm reagente. A biópsia renal foi indicada. A classe histológica mais provável é:",
-    "alternativas": {
-      "A": "II, mesangial",
-      "B": "III, focal",
-      "C": "IV, difusa",
-      "D": "V, membranosa"
-    },
-    "gabarito": "D",
-    "armadilha": "C",
-    "dado_decisivo": "C3 e C4 normais, anti-DNA não reagente",
-    "resolucao": "Proteinúria nefrótica no lúpus faz pensar na classe IV, a mais frequente e a mais grave, e por isso ela atrai. Mas a classe IV vem com sedimento ativo (hematúria dismórfica, cilindros), hipertensão, queda da função renal, complemento consumido e anti-DNA em título alto. Síndrome nefrótica pura, com sedimento inativo, função preservada e sorologia quieta (C3 e C4 normais, anti-DNA negativo) é o perfil da classe V, membranosa, que pode surgir com a doença extrarrenal controlada. Ela merece atenção para trombose (sobretudo de veia renal) quando a albumina está muito baixa, e trata-se com bloqueio do eixo renina-angiotensina e imunossupressão (micofenolato com glicocorticoide, ou inibidor de calcineurina) quando a proteinúria é nefrótica.",
-    "comentarios": {
-      "A": "Errada. Classe II dá hematúria ou proteinúria discretas, raramente nefrótica.",
-      "B": "Errada. Classe proliferativa focal: sedimento ativo e sorologia em atividade, que faltam aqui.",
-      "C": "Errada. Seria a resposta com sedimento ativo, complemento baixo, anti-DNA alto e piora da função renal.",
-      "D": "Correta. Síndrome nefrótica com sedimento e sorologia inativos é o perfil da nefrite membranosa."
-    },
-    "para_levar": "No lúpus, síndrome nefrótica pura com complemento normal e anti-DNA negativo sugere classe V (membranosa); sedimento ativo e sorologia em atividade sugerem classes III e IV.",
-    "referencias": "KDIGO 2024 Clinical Practice Guideline for the Management of Lupus Nephritis; EULAR/ERA-EDTA recommendations for lupus nephritis (2019).",
-    "tags": [
-      "Lúpus (CM)",
-      "Glomerulopatias (CM)"
-    ],
-    "sourceQuestionId": "36fa57fe461d3b8",
-    "alvo": "Negativo no meio (complemento e anti-DNA normais) lido como enfeite diante do rótulo forte (lúpus com proteinúria)."
-  }
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "alargamento hilar bilateral e simétrico",
+  "resolucao": "O contato com caxumba e a falta de vacinação são verdadeiros e parecem explicar a parotidite. Mas caxumba não dá uveíte granulomatosa (precipitados em gordura de carneiro), não dura 3 semanas com parótidas firmes e indolores, e não explica hipercalcemia, linfopenia e adenopatia hilar bilateral. A combinação de parotidite, uveíte anterior, paralisia facial e febre é a síndrome de Heerfordt (febre uveoparotídea), forma aguda da sarcoidose. A confirmação vem da biópsia do sítio mais acessível (glândula salivar, linfonodo por ecobroncoscopia) com granuloma não caseoso, e a paralisia facial com uveíte costuma pedir corticoide sistêmico.",
+  "comentarios": {
+   "A": "Correta. Parotidite, uveíte granulomatosa, paralisia facial e febre com adenopatia hilar e hipercalcemia.",
+   "B": "Errada. Seria a resposta com parotidite dolorosa de poucos dias; não explica uveíte granulomatosa, hipercalcemia e adenopatia hilar.",
+   "C": "Errada. Aumento de parótidas e olho seco, mas sem uveíte granulomatosa, paralisia facial e adenopatia hilar.",
+   "D": "Errada. Pode dar parótida e hilo aumentados, mas adenopatia hilar simétrica com uveíte granulomatosa é sarcoidose."
+  },
+  "para_levar": "Parotidite, uveíte, paralisia facial e febre com adenopatia hilar bilateral é a síndrome de Heerfordt, forma aguda da sarcoidose.",
+  "referencias": "ATS Clinical Practice Guideline: Diagnosis and Detection of Sarcoidosis (2020); ERS clinical practice guidelines on treatment of sarcoidosis (2021).",
+  "tags": [
+   "Sarcoidose (CM)"
+  ],
+  "sourceQuestionId": "2520db94de80827",
+  "alvo": "Rótulo verdadeiro (contato de caxumba) que puxa a doença de manual; achados característicos de sarcoidose, que ele errou."
+ },
+ {
+  "id": "S13-REU-04",
+  "simulado": 13,
+  "area": "Reumatologia",
+  "titulo": "Artrite reativa pós-clamídia que passa de 6 meses apesar de dois AINEs: cronificou, e a conduta é DMARD (sulfassalazina)",
+  "arma": "Limiar",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Homem de 34 anos teve uretrite por Chlamydia trachomatis há 9 meses, tratada com doxiciclina por 7 dias junto com a parceira, com teste de controle negativo. Duas semanas depois surgiu artrite de joelho direito e tornozelo esquerdo, com entesite no calcâneo. Usou naproxeno em dose plena e depois indometacina em dose plena, e recebeu duas infiltrações de corticoide no joelho, com melhora parcial e recidiva. Hoje mantém sinovite de joelho e tornozelo, sem dor lombar inflamatória, uveíte ou lesões de pele. HLA-B27 positivo, VHS 42 mm/h, PCR 22 mg/L, radiografias sem erosões; sorologias para HIV, hepatite B e hepatite C negativas. A conduta mais adequada é:",
+  "alternativas": {
+   "A": "Doxiciclina por 3 meses",
+   "B": "Sulfassalazina 2 a 3 g/dia",
+   "C": "Prednisona 1 mg/kg/dia",
+   "D": "Anti-TNF imediatamente"
+  },
+  "gabarito": "B",
+  "armadilha": "A",
+  "dado_decisivo": "há 9 meses",
+  "resolucao": "Como a artrite começou com uma clamídia, a ideia de que o germe persiste e de que basta mais antibiótico atrai. Mas a uretrite foi tratada com teste de controle negativo, e antibiótico prolongado isolado não mudou a evolução da artrite reativa em ensaios. O dado que muda a conduta é o tempo: artrite reativa com mais de 6 meses é crônica, o que acontece em parte dos pacientes HLA-B27 positivos. Com falha de dois AINEs e infiltrações, o passo seguinte é DMARD convencional, e a sulfassalazina é o de maior evidência (metotrexato é alternativa). Anti-TNF fica para falha do DMARD; corticoide sistêmico em dose alta não tem papel na doença articular crônica.",
+  "comentarios": {
+   "A": "Errada. A infecção foi erradicada; antibiótico prolongado isolado não altera a artrite reativa crônica.",
+   "B": "Correta. Artrite reativa acima de 6 meses refratária a AINE e infiltração pede DMARD, e a sulfassalazina é a primeira escolha.",
+   "C": "Errada. Corticoide sistêmico em dose alta não é tratamento de manutenção da artrite periférica crônica.",
+   "D": "Errada. Fica para falha do DMARD convencional; pular o degrau é fazer mais do que o caso pede."
+  },
+  "para_levar": "Artrite reativa: AINE e infiltração nos primeiros meses; passou de 6 meses, é crônica e pede DMARD (sulfassalazina) antes do biológico.",
+  "referencias": "Recomendações da SBR para o tratamento das espondiloartrites (2023); Schmitt SK. Reactive arthritis (Infect Dis Clin North Am, 2017).",
+  "tags": [
+   "Artrite Reativa (CM)",
+   "Espondiloartrites (CM)"
+  ],
+  "sourceQuestionId": "245c096fc64750a",
+  "alvo": "Limiar de tempo que muda a conduta e degrau do tratamento (nem antibiótico a mais, nem biológico antes da hora)."
+ },
+ {
+  "id": "S13-REU-05",
+  "simulado": 13,
+  "area": "Reumatologia",
+  "titulo": "Trombose venosa profunda na doença de Behçet: a trombose é inflamatória, e o tratamento é imunossupressor, não anticoagulação isolada",
+  "arma": "Rótulo verdadeiro",
+  "comando": "conduta",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 28 anos, com aftas orais recorrentes desde a adolescência, duas úlceras escrotais já cicatrizadas, pseudofoliculite e uveíte posterior tratada há 1 ano, apresenta edema doloroso da perna esquerda há 4 dias. Doppler: trombose venosa femoral e poplítea esquerda. Teve tromboflebite superficial no braço direito há 6 meses. Sem dispneia nem hemoptise; angiotomografia de tórax sem trombos e sem aneurismas de artérias pulmonares. Usa colchicina. Exames: plaquetas 290.000/mm³, função renal normal, anticoagulante lúpico e anticardiolipinas negativos. A conduta mais adequada para a trombose é:",
+  "alternativas": {
+   "A": "Anticoagulação isolada por 3 meses",
+   "B": "Glicocorticoide e azatioprina",
+   "C": "Filtro de veia cava inferior",
+   "D": "Trombólise dirigida por cateter"
+  },
+  "gabarito": "B",
+  "armadilha": "A",
+  "dado_decisivo": "Teve tromboflebite superficial no braço direito há 6 meses",
+  "resolucao": "Trombose venosa profunda proximal leva o reflexo à anticoagulação, e o rótulo é verdadeiro. Mas o paciente tem doença de Behçet (aftas, úlceras genitais, pseudofoliculite, uveíte), e a trombose na doença de Behçet nasce da inflamação da parede venosa, recorre e migra (tromboflebite prévia), e o trombo é aderente e pouco embolígeno. Por isso as recomendações EULAR de 2018 tratam a trombose venosa aguda com glicocorticoide e imunossupressor (azatioprina, ciclofosfamida ou ciclosporina), que reduz recorrência; anticoagulante pode ser associado quando o risco de sangramento é baixo e aneurismas pulmonares foram afastados, mas isolado não basta. Filtro e trombólise não têm papel.",
+  "comentarios": {
+   "A": "Errada. Seria a conduta na trombose comum; na doença de Behçet, isolada não evita recorrência da trombose inflamatória.",
+   "B": "Correta. Glicocorticoide com imunossupressor é a base do tratamento da trombose venosa da doença de Behçet.",
+   "C": "Errada. Não há contraindicação à anticoagulação nem embolia em vigência; filtro pode trombosar.",
+   "D": "Errada. Reservada a trombose maciça com ameaça ao membro, ausente aqui."
+  },
+  "para_levar": "Na doença de Behçet, trombose venosa é vasculite da parede: glicocorticoide e azatioprina, com anticoagulante apenas como complemento depois de afastar aneurisma pulmonar.",
+  "referencias": "2018 update of the EULAR recommendations for the management of Behçet's syndrome.",
+  "tags": [
+   "Behçet (CM)",
+   "Vasculites (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Rótulo verdadeiro (TVP proximal) puxando a conduta de manual que esta doença derruba."
+ },
+ {
+  "id": "S13-REU-06",
+  "simulado": 13,
+  "area": "Reumatologia",
+  "titulo": "Síndrome nefrótica no lúpus com complemento normal, anti-DNA negativo e sedimento inativo: nefrite lúpica membranosa (classe V)",
+  "arma": "Negativo no meio",
+  "comando": "diagnóstico",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 36 anos tem lúpus eritematoso sistêmico há 6 anos, com manifestações cutâneas e articulares controladas com hidroxicloroquina. Há 2 meses tem edema de membros inferiores progressivo e urina espumosa, sem hematúria macroscópica, artrite ou exantema. Não usa anti-inflamatórios. PA 128 x 80 mmHg. Exames: albumina 2,1 g/dL, colesterol total 340 mg/dL, proteinúria de 6,2 g/24 h, creatinina 0,8 mg/dL, sedimento com 2 hemácias por campo e sem cilindros celulares, C3 e C4 normais, anti-DNA não reagente, anti-Sm reagente. A biópsia renal foi indicada. A classe histológica mais provável é:",
+  "alternativas": {
+   "A": "II, mesangial",
+   "B": "III, focal",
+   "C": "IV, difusa",
+   "D": "V, membranosa"
+  },
+  "gabarito": "D",
+  "armadilha": "C",
+  "dado_decisivo": "C3 e C4 normais, anti-DNA não reagente",
+  "resolucao": "Proteinúria nefrótica no lúpus faz pensar na classe IV, a mais frequente e a mais grave, e por isso ela atrai. Mas a classe IV vem com sedimento ativo (hematúria dismórfica, cilindros), hipertensão, queda da função renal, complemento consumido e anti-DNA em título alto. Síndrome nefrótica pura, com sedimento inativo, função preservada e sorologia quieta (C3 e C4 normais, anti-DNA negativo) é o perfil da classe V, membranosa, que pode surgir com a doença extrarrenal controlada. Ela merece atenção para trombose (sobretudo de veia renal) quando a albumina está muito baixa, e trata-se com bloqueio do eixo renina-angiotensina e imunossupressão (micofenolato com glicocorticoide, ou inibidor de calcineurina) quando a proteinúria é nefrótica.",
+  "comentarios": {
+   "A": "Errada. Classe II dá hematúria ou proteinúria discretas, raramente nefrótica.",
+   "B": "Errada. Classe proliferativa focal: sedimento ativo e sorologia em atividade, que faltam aqui.",
+   "C": "Errada. Seria a resposta com sedimento ativo, complemento baixo, anti-DNA alto e piora da função renal.",
+   "D": "Correta. Síndrome nefrótica com sedimento e sorologia inativos é o perfil da nefrite membranosa."
+  },
+  "para_levar": "No lúpus, síndrome nefrótica pura com complemento normal e anti-DNA negativo sugere classe V (membranosa); sedimento ativo e sorologia em atividade sugerem classes III e IV.",
+  "referencias": "KDIGO 2024 Clinical Practice Guideline for the Management of Lupus Nephritis; EULAR/ERA-EDTA recommendations for lupus nephritis (2019).",
+  "tags": [
+   "Lúpus (CM)",
+   "Glomerulopatias (CM)"
+  ],
+  "sourceQuestionId": "36fa57fe461d3b8",
+  "alvo": "Negativo no meio (complemento e anti-DNA normais) lido como enfeite diante do rótulo forte (lúpus com proteinúria)."
+ }
 ]

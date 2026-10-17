@@ -1,172 +1,172 @@
 [
-  {
-    "id": "S7-PNE-01",
-    "simulado": 7,
-    "area": "Pneumologia",
-    "titulo": "TEP subsegmentar isolado e incidental no câncer ativo: anticoagular, e não vigiar",
-    "arma": "Rótulo verdadeiro",
-    "comando": "conduta",
-    "nivel": "difícil",
-    "enunciado": "Homem de 63 anos, em quimioterapia paliativa com gencitabina por adenocarcinoma de pâncreas com metástases hepáticas, faz TC de reestadiamento que mostra, de forma incidental, falha de enchimento em uma única artéria subsegmentar do lobo inferior direito. Nega dispneia, dor torácica e hemoptise. PA 124 x 76 mmHg, FC 82 bpm, SpO2 97%. Ultrassonografia venosa compressiva dos membros inferiores: sem trombose. Hemoglobina 11,2 g/dL, plaquetas 210.000/mm³, creatinina 0,9 mg/dL; sem sangramento recente. O radiologista comenta no laudo que falhas subsegmentares isoladas costumam ser artefato e muitas vezes dispensam tratamento. A conduta mais adequada é:",
-    "alternativas": {
-      "A": "Vigilância com ultrassonografia seriada",
-      "B": "Anticoagulação plena por 6 meses",
-      "C": "Filtro de veia cava inferior isolado",
-      "D": "Enoxaparina em dose profilática"
-    },
-    "gabarito": "B",
-    "armadilha": "A",
-    "dado_decisivo": "em quimioterapia paliativa com gencitabina por adenocarcinoma de pâncreas com metástases hepáticas",
-    "resolucao": "O comentário do radiologista é verdadeiro: o TEP subsegmentar isolado, sem TVP, em paciente de baixo risco de recorrência, pode ser apenas vigiado com ultrassonografia seriada, segundo a diretriz do CHEST. A precondição dessa regra é o baixo risco, e este paciente tem câncer ativo metastático em quimioterapia, o maior fator de recorrência de tromboembolismo. No câncer ativo o TEP incidental recebe o mesmo tratamento do sintomático: anticoagulação plena por pelo menos 6 meses, e enquanto o câncer estiver ativo. Heparina de baixo peso ou um anticoagulante oral direto (apixabana tem dados favoráveis inclusive em tumores do aparelho digestivo, sem lesão luminal) são opções. Filtro é só para quem não pode anticoagular.",
-    "comentarios": {
-      "A": "Errada. É a conduta no subsegmentar isolado SEM câncer ativo, sem TVP e com reserva cardiopulmonar; o adenocarcinoma metastático em quimioterapia derruba a precondição.",
-      "B": "Correta. Câncer ativo é risco alto de recorrência: o TEP incidental, mesmo subsegmentar, é anticoagulado por ao menos 6 meses.",
-      "C": "Errada. Filtro só quando a anticoagulação é contraindicada, e aqui não há sangramento nem plaquetopenia.",
-      "D": "Errada. Dose profilática é prevenção, não tratamento de trombo já formado."
-    },
-    "para_levar": "TEP subsegmentar isolado pode ser só vigiado se o risco de recorrência for baixo; câncer ativo muda a regra, e o TEP incidental no câncer é tratado como o sintomático.",
-    "referencias": "CHEST Guideline and Expert Panel Report on Antithrombotic Therapy for VTE 2021 (Stevens et al.); ASCO Guideline Update on VTE in Cancer 2023; ESC 2019.",
-    "tags": [
-      "TEP (CM)",
-      "Anticoagulação (CM)"
-    ],
-    "sourceQuestionId": "832607006c91324",
-    "alvo": "Regra aplicada sem checar a precondição (baixo risco); rótulo verdadeiro do radiologista puxando a omissão."
+ {
+  "id": "S7-PNE-01",
+  "simulado": 7,
+  "area": "Pneumologia",
+  "titulo": "TEP subsegmentar isolado e incidental no câncer ativo: anticoagular, e não vigiar",
+  "arma": "Rótulo verdadeiro",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Homem de 63 anos, em quimioterapia paliativa com gencitabina por adenocarcinoma de pâncreas com metástases hepáticas, faz TC de reestadiamento que mostra, de forma incidental, falha de enchimento em uma única artéria subsegmentar do lobo inferior direito. Nega dispneia, dor torácica e hemoptise. PA 124 x 76 mmHg, FC 82 bpm, SpO2 97%. Ultrassonografia venosa compressiva dos membros inferiores: sem trombose. Hemoglobina 11,2 g/dL, plaquetas 210.000/mm³, creatinina 0,9 mg/dL; sem sangramento recente. O radiologista comenta no laudo que falhas subsegmentares isoladas costumam ser artefato e muitas vezes dispensam tratamento. A conduta mais adequada é:",
+  "alternativas": {
+   "A": "Vigilância com ultrassonografia seriada",
+   "B": "Anticoagulação plena por 6 meses",
+   "C": "Filtro de veia cava inferior isolado",
+   "D": "Enoxaparina em dose profilática"
   },
-  {
-    "id": "S7-PNE-02",
-    "simulado": 7,
-    "area": "Pneumologia",
-    "titulo": "Pneumonia eosinofílica aguda após começar a fumar, sem eosinofilia no sangue, em recruta: não é Mycoplasma resistente",
-    "arma": "Negativo no meio",
-    "comando": "diagnóstico",
-    "nivel": "extremamente difícil",
-    "enunciado": "Homem de 19 anos, recruta militar, previamente hígido, começou a fumar cigarros há três semanas. Há 4 dias tem febre de 38,5 °C, tosse seca, mialgia e dispneia progressiva; dois colegas de alojamento tiveram pneumonia no último mês. Internado como pneumonia comunitária grave, recebe ceftriaxona e azitromicina há 72 horas, sem melhora. Hoje: FR 32 irpm, SpO2 86% com máscara de reservatório, PA 118 x 72 mmHg. Leucócitos 14.800/mm³ com 2% de eosinófilos; procalcitonina 0,2 ng/mL. TC: vidro fosco difuso, espessamento de septos interlobulares e pequeno derrame pleural bilateral, sem nódulos centrolobulares e sem consolidação. Ecocardiograma com função ventricular normal. Antígenos urinários e PCR para vírus respiratórios negativos. Nega contato com aves, mofo ou vapores. O diagnóstico mais provável é:",
-    "alternativas": {
-      "A": "Pneumonia eosinofílica aguda",
-      "B": "Pneumonia por Mycoplasma pneumoniae",
-      "C": "Pneumonite de hipersensibilidade aguda",
-      "D": "Pneumonia intersticial aguda"
-    },
-    "gabarito": "A",
-    "armadilha": "B",
-    "dado_decisivo": "começou a fumar cigarros há três semanas",
-    "resolucao": "O recruta com colegas de alojamento doentes puxa para surto de Mycoplasma, e a falta de resposta parece resistência ao macrolídeo; o negativo posto no meio (2% de eosinófilos no sangue) parece afastar doença eosinofílica. Mas na pneumonia eosinofílica aguda a eosinofilia periférica costuma faltar no início e surgir dias depois, e o gatilho mais conhecido é justamente começar a fumar (ou mudar o hábito) poucas semanas antes, descrito inclusive em militares. Mycoplasma dá bronquiolite (nódulos centrolobulares, árvore em brotamento, consolidação), raramente insuficiência respiratória grave, e a imagem aqui é de vidro fosco com septos espessados e derrame bilateral, com coração normal e procalcitonina baixa. A confirmação vem do lavado broncoalveolar (eosinófilos acima de 25%), e a resposta ao corticoide é rápida.",
-    "comentarios": {
-      "A": "Correta. Insuficiência respiratória aguda em jovem que começou a fumar há três semanas, vidro fosco com septos e derrame bilateral, sem resposta a antibiótico: o eosinófilo no sangue normal não afasta.",
-      "B": "Errada. O alojamento é um rótulo verdadeiro para Mycoplasma, mas ele daria padrão de bronquiolite e raramente hipoxemia grave; a azitromicina já o cobre na maioria.",
-      "C": "Errada. Seria a resposta com exposição antigênica (aves, mofo) e nódulos centrolobulares em vidro fosco com aprisionamento; ele nega exposição e a TC não tem nódulos.",
-      "D": "Errada. Pneumonia intersticial aguda é diagnóstico de exclusão, sem gatilho, em idade mais alta, com dano alveolar difuso e prognóstico ruim; aqui há um gatilho claro."
-    },
-    "para_levar": "Insuficiência respiratória aguda em jovem que começou a fumar há poucas semanas: pense em pneumonia eosinofílica aguda mesmo sem eosinofilia no sangue, e confirme pelo lavado (eosinófilos acima de 25%).",
-    "referencias": "Allen JN et al. Acute eosinophilic pneumonia as a reversible cause of noninfectious respiratory failure. N Engl J Med 1989; Philit F et al. Idiopathic acute eosinophilic pneumonia. Medicine (Baltimore) 2002; Shorr AF et al. Acute eosinophilic pneumonia among US military personnel deployed in or near Iraq. JAMA 2004.",
-    "tags": [
-      "Doença Pulmonar Intersticial (CM)",
-      "Outros temas em Pneumologia (CM)"
-    ],
-    "sourceQuestionId": "e26aa0fbecf0b06",
-    "alvo": "Negativo no meio (sem eosinofilia) e rótulo verdadeiro (alojamento militar) ocultando o gatilho do tabagismo recente."
+  "gabarito": "B",
+  "armadilha": "A",
+  "dado_decisivo": "em quimioterapia paliativa com gencitabina por adenocarcinoma de pâncreas com metástases hepáticas",
+  "resolucao": "O comentário do radiologista é verdadeiro: o TEP subsegmentar isolado, sem TVP, em paciente de baixo risco de recorrência, pode ser apenas vigiado com ultrassonografia seriada, segundo a diretriz do CHEST. A precondição dessa regra é o baixo risco, e este paciente tem câncer ativo metastático em quimioterapia, o maior fator de recorrência de tromboembolismo. No câncer ativo o TEP incidental recebe o mesmo tratamento do sintomático: anticoagulação plena por pelo menos 6 meses, e enquanto o câncer estiver ativo. Heparina de baixo peso ou um anticoagulante oral direto (apixabana tem dados favoráveis inclusive em tumores do aparelho digestivo, sem lesão luminal) são opções. Filtro é só para quem não pode anticoagular.",
+  "comentarios": {
+   "A": "Errada. É a conduta no subsegmentar isolado SEM câncer ativo, sem TVP e com reserva cardiopulmonar; o adenocarcinoma metastático em quimioterapia derruba a precondição.",
+   "B": "Correta. Câncer ativo é risco alto de recorrência: o TEP incidental, mesmo subsegmentar, é anticoagulado por ao menos 6 meses.",
+   "C": "Errada. Filtro só quando a anticoagulação é contraindicada, e aqui não há sangramento nem plaquetopenia.",
+   "D": "Errada. Dose profilática é prevenção, não tratamento de trombo já formado."
   },
-  {
-    "id": "S7-PNE-03",
-    "simulado": 7,
-    "area": "Pneumologia",
-    "titulo": "Enfisema panlobular basal aos 41 anos: a fração alfa-1 baixa escondida na eletroforese",
-    "arma": "Rótulo verdadeiro",
-    "comando": "diagnóstico",
-    "nivel": "difícil",
-    "enunciado": "Homem de 41 anos, ex-tabagista de 12 maços-ano (parou há 5 anos), tem dispneia progressiva há 2 anos. Trabalhou 6 anos com polimento de pisos de granito. Espirometria: VEF1/CVF 0,52, VEF1 48% do previsto, sem resposta ao broncodilatador; DLCO 45%. TC de tórax: enfisema panlobular de predomínio nos lobos inferiores, sem nódulos, bronquiectasias ou cistos. Trouxe exames de check-up: hemograma normal, ALT 58 U/L, AST 49 U/L, eletroforese de proteínas séricas com albumina 4,2 g/dL, fração alfa-1 de 0,1 g/dL (referência 0,2 a 0,4) e gamaglobulina normal. Usa tiotrópio-olodaterol. A explicação mais provável para o quadro é:",
-    "alternativas": {
-      "A": "Silicose com enfisema associado",
-      "B": "Deficiência de alfa-1 antitripsina",
-      "C": "DPOC tabágica de início precoce",
-      "D": "Bronquiolite constritiva"
-    },
-    "gabarito": "B",
-    "armadilha": "C",
-    "dado_decisivo": "fração alfa-1 de 0,1 g/dL",
-    "resolucao": "O rótulo de tabagista com obstrução fixa leva à DPOC tabágica comum. Mas 12 maços-ano não costumam produzir obstrução grave aos 41 anos, e o enfisema do cigarro é centrolobular e de lobos superiores; panlobular e basal é a marca da deficiência de alfa-1 antitripsina. O dado que fecha está escondido nos exames de rotina: a alfa-1 antitripsina é a maior parte da banda alfa-1 da eletroforese, e uma fração alfa-1 baixa é pista direta. As transaminases discretamente altas apontam para o acometimento hepático da mesma doença. A confirmação é a dosagem sérica de alfa-1 antitripsina e a fenotipagem (PiZZ), e a família deve ser testada. Silicose daria nódulos de lobos superiores, não enfisema basal isolado.",
-    "comentarios": {
-      "A": "Errada. A exposição à sílica é verdadeira, mas silicose se manifesta por micronódulos e conglomerados em lobos superiores, ausentes na TC.",
-      "B": "Correta. Enfisema panlobular basal precoce, carga tabágica baixa, fração alfa-1 baixa e transaminases altas: deficiência de alfa-1 antitripsina.",
-      "C": "Errada. Seria a resposta com enfisema centrolobular de ápices e carga tabágica alta; não explica a fração alfa-1 de 0,1 g/dL.",
-      "D": "Errada. Bronquiolite constritiva dá aprisionamento aéreo com parênquima preservado, sem enfisema e com DLCO pouco alterada."
-    },
-    "para_levar": "Enfisema panlobular de bases, antes dos 45 anos ou com carga tabágica baixa, pede dosagem de alfa-1 antitripsina; a banda alfa-1 baixa na eletroforese já é pista.",
-    "referencias": "GOLD 2025; ATS/ERS Statement on Alpha-1 Antitrypsin Deficiency 2003; SBPT, Recomendações para DPOC 2022.",
-    "tags": [
-      "DPOC - fisiopatologia e diagnóstico (CM)",
-      "DPOC (CM)"
-    ],
-    "sourceQuestionId": "aabd3a38f27088d",
-    "alvo": "Exame que decide (eletroforese) lido como enfeite; rótulo de tabagista puxando a doença de manual."
+  "para_levar": "TEP subsegmentar isolado pode ser só vigiado se o risco de recorrência for baixo; câncer ativo muda a regra, e o TEP incidental no câncer é tratado como o sintomático.",
+  "referencias": "CHEST Guideline and Expert Panel Report on Antithrombotic Therapy for VTE 2021 (Stevens et al.); ASCO Guideline Update on VTE in Cancer 2023; ESC 2019.",
+  "tags": [
+   "TEP (CM)",
+   "Anticoagulação (CM)"
+  ],
+  "sourceQuestionId": "832607006c91324",
+  "alvo": "Regra aplicada sem checar a precondição (baixo risco); rótulo verdadeiro do radiologista puxando a omissão."
+ },
+ {
+  "id": "S7-PNE-02",
+  "simulado": 7,
+  "area": "Pneumologia",
+  "titulo": "Pneumonia eosinofílica aguda após começar a fumar, sem eosinofilia no sangue, em recruta: não é Mycoplasma resistente",
+  "arma": "Negativo no meio",
+  "comando": "diagnóstico",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 19 anos, recruta militar, previamente hígido, começou a fumar cigarros há três semanas. Há 4 dias tem febre de 38,5 °C, tosse seca, mialgia e dispneia progressiva; dois colegas de alojamento tiveram pneumonia no último mês. Internado como pneumonia comunitária grave, recebe ceftriaxona e azitromicina há 72 horas, sem melhora. Hoje: FR 32 irpm, SpO2 86% com máscara de reservatório, PA 118 x 72 mmHg. Leucócitos 14.800/mm³ com 2% de eosinófilos; procalcitonina 0,2 ng/mL. TC: vidro fosco difuso, espessamento de septos interlobulares e pequeno derrame pleural bilateral, sem nódulos centrolobulares e sem consolidação. Ecocardiograma com função ventricular normal. Antígenos urinários e PCR para vírus respiratórios negativos. Nega contato com aves, mofo ou vapores. O diagnóstico mais provável é:",
+  "alternativas": {
+   "A": "Pneumonia eosinofílica aguda",
+   "B": "Pneumonia por Mycoplasma pneumoniae",
+   "C": "Pneumonite de hipersensibilidade aguda",
+   "D": "Pneumonia intersticial aguda"
   },
-  {
-    "id": "S7-PNE-04",
-    "simulado": 7,
-    "area": "Pneumologia",
-    "titulo": "Nódulo em vidro fosco puro de 8 mm: repetir a TC, sem PET e sem biópsia",
-    "arma": "Omissão",
-    "comando": "próximo exame",
-    "nivel": "média",
-    "enunciado": "Mulher de 58 anos, que nunca fumou, fez TC de tórax por tosse após um quadro viral, já resolvido. O exame mostra um nódulo único em vidro fosco puro de 8 mm no lobo superior direito, sem componente sólido, e nenhum outro achado. Não tem história de câncer e o exame físico é normal. Está muito ansiosa e pede para retirar o nódulo logo. Uma TC de abdome feita há 3 meses em outro hospital, por cólica renal, incluiu as bases pulmonares, mas não os ápices. A conduta mais adequada em relação ao nódulo é:",
-    "alternativas": {
-      "A": "Biópsia percutânea guiada por TC",
-      "B": "PET-CT com FDG",
-      "C": "TC de tórax em 6 a 12 meses",
-      "D": "Segmentectomia por videotoracoscopia"
-    },
-    "gabarito": "C",
-    "armadilha": "B",
-    "dado_decisivo": "nódulo único em vidro fosco puro de 8 mm",
-    "resolucao": "O reflexo é investigar o nódulo com PET-CT, como se faz com o nódulo sólido de risco intermediário. Mas o nódulo em vidro fosco puro tem comportamento próprio: muitos são inflamatórios e somem, e os que persistem correspondem a lesões de crescimento muito lento (adenocarcinoma in situ ou minimamente invasivo). O PET é pouco útil porque essas lesões captam pouco FDG, e a biópsia tem baixo rendimento. Pela Fleischner, o vidro fosco puro solitário de 6 mm ou mais pede TC em 6 a 12 meses para confirmar persistência e, se persistir, TC a cada 2 anos até completar 5 anos. Ressecção só se surgir componente sólido ou crescimento. A TC antiga não ajuda porque não incluiu o ápice.",
-    "comentarios": {
-      "A": "Errada. Biópsia de vidro fosco puro tem baixo rendimento e não muda a conduta; seria considerada em nódulo sólido ou parte sólido que cresce.",
-      "B": "Errada. PET-CT é útil no nódulo sólido de 8 mm ou mais com risco intermediário; no vidro fosco puro dá falso negativo.",
-      "C": "Correta. Vidro fosco puro solitário de 6 mm ou mais: TC em 6 a 12 meses, e depois a cada 2 anos se persistir.",
-      "D": "Errada. Cirurgia só se aparecer componente sólido ou crescimento no seguimento."
-    },
-    "para_levar": "Nódulo em vidro fosco puro solitário de 6 mm ou mais: TC em 6 a 12 meses e, se persistir, a cada 2 anos até 5 anos. PET e biópsia não entram de saída.",
-    "referencias": "Fleischner Society Guidelines for Management of Incidental Pulmonary Nodules 2017; SBPT, Consenso sobre nódulo pulmonar.",
-    "tags": [
-      "Nódulo Pulmonar (CM)"
-    ],
-    "sourceQuestionId": "3055763ee87b5c7",
-    "alvo": "Fazer mais do que o caso pede (PET e biópsia) num nódulo que só pede seguimento."
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "começou a fumar cigarros há três semanas",
+  "resolucao": "O recruta com colegas de alojamento doentes puxa para surto de Mycoplasma, e a falta de resposta parece resistência ao macrolídeo; o negativo posto no meio (2% de eosinófilos no sangue) parece afastar doença eosinofílica. Mas na pneumonia eosinofílica aguda a eosinofilia periférica costuma faltar no início e surgir dias depois, e o gatilho mais conhecido é justamente começar a fumar (ou mudar o hábito) poucas semanas antes, descrito inclusive em militares. Mycoplasma dá bronquiolite (nódulos centrolobulares, árvore em brotamento, consolidação), raramente insuficiência respiratória grave, e a imagem aqui é de vidro fosco com septos espessados e derrame bilateral, com coração normal e procalcitonina baixa. A confirmação vem do lavado broncoalveolar (eosinófilos acima de 25%), e a resposta ao corticoide é rápida.",
+  "comentarios": {
+   "A": "Correta. Insuficiência respiratória aguda em jovem que começou a fumar há três semanas, vidro fosco com septos e derrame bilateral, sem resposta a antibiótico: o eosinófilo no sangue normal não afasta.",
+   "B": "Errada. O alojamento é um rótulo verdadeiro para Mycoplasma, mas ele daria padrão de bronquiolite e raramente hipoxemia grave; a azitromicina já o cobre na maioria.",
+   "C": "Errada. Seria a resposta com exposição antigênica (aves, mofo) e nódulos centrolobulares em vidro fosco com aprisionamento; ele nega exposição e a TC não tem nódulos.",
+   "D": "Errada. Pneumonia intersticial aguda é diagnóstico de exclusão, sem gatilho, em idade mais alta, com dano alveolar difuso e prognóstico ruim; aqui há um gatilho claro."
   },
-  {
-    "id": "S7-PNE-05",
-    "simulado": 7,
-    "area": "Medicina baseada em evidências",
-    "titulo": "Rastreamento de câncer de pulmão: sobrevida após o diagnóstico enganada pelo viés de antecipação",
-    "arma": "Qualificador",
-    "comando": "fato solto",
-    "nivel": "difícil",
-    "enunciado": "Um hospital divulga que, entre os casos de câncer de pulmão detectados pelo seu programa de rastreamento com TC de baixa dose, a sobrevida em 5 anos contada a partir do diagnóstico foi de 62%, contra 18% entre os casos diagnosticados por sintomas no mesmo período. Os casos rastreados tinham mais tumores em estádio I e foram operados com mais frequência. Não houve randomização, e ninguém comparou a população rastreada com uma população semelhante não rastreada. Para concluir que o rastreamento traz benefício real, o desfecho a comparar entre um grupo rastreado e outro não rastreado é:",
-    "alternativas": {
-      "A": "Sobrevida em 5 anos após o diagnóstico",
-      "B": "Proporção de tumores em estádio I",
-      "C": "Taxa de ressecção cirúrgica curativa",
-      "D": "Mortalidade por câncer de pulmão"
-    },
-    "gabarito": "D",
-    "armadilha": "A",
-    "dado_decisivo": "ninguém comparou a população rastreada com uma população semelhante não rastreada",
-    "resolucao": "A sobrevida a partir do diagnóstico parece a medida natural e foi a que o hospital usou, mas é exatamente a que os vieses inflam. Antecipar o diagnóstico alonga a sobrevida contada do diagnóstico mesmo que a morte aconteça na mesma data (viés de tempo de antecipação), e o rastreamento acha de preferência os tumores de crescimento lento, de melhor prognóstico (viés de duração), além dos que nunca matariam (sobrediagnóstico). Estádio I e ressecção sobem pelos mesmos motivos. O comando pede benefício real, e o único desfecho imune a esses vieses é a mortalidade específica pela doença na população inteira, rastreada contra não rastreada, de preferência em ensaio randomizado, como fizeram o NLST e o NELSON.",
-    "comentarios": {
-      "A": "Errada. É a medida inflada pelo viés de antecipação e pelo viés de duração; serve para comparar tratamentos em pacientes já diagnosticados no mesmo estádio.",
-      "B": "Errada. Mudança de estádio é desfecho intermediário e sobe com o sobrediagnóstico, sem provar menos mortes.",
-      "C": "Errada. Mais ressecções acompanham mais diagnósticos precoces, inclusive dos que não matariam.",
-      "D": "Correta. A mortalidade específica na população rastreada contra a não rastreada não depende de quando se faz o diagnóstico."
-    },
-    "para_levar": "Rastreamento só se prova por menos mortes na população (mortalidade específica, rastreados contra não rastreados); sobrevida após o diagnóstico é distorcida pelos vieses de antecipação, de duração e pelo sobrediagnóstico.",
-    "referencias": "NLST (N Engl J Med 2011); NELSON (N Engl J Med 2020); USPSTF Lung Cancer Screening 2021.",
-    "tags": [
-      "Rastreamentos em Clínica Médica (CM)",
-      "Estudos Epidemiológicos",
-      "Câncer de pulmão"
-    ],
-    "sourceQuestionId": null,
-    "alvo": "Fato de mecanismo/epidemiologia e resposta verdadeira fora do comando (sobrevida no lugar de mortalidade)."
-  }
+  "para_levar": "Insuficiência respiratória aguda em jovem que começou a fumar há poucas semanas: pense em pneumonia eosinofílica aguda mesmo sem eosinofilia no sangue, e confirme pelo lavado (eosinófilos acima de 25%).",
+  "referencias": "Allen JN et al. Acute eosinophilic pneumonia as a reversible cause of noninfectious respiratory failure. N Engl J Med 1989; Philit F et al. Idiopathic acute eosinophilic pneumonia. Medicine (Baltimore) 2002; Shorr AF et al. Acute eosinophilic pneumonia among US military personnel deployed in or near Iraq. JAMA 2004.",
+  "tags": [
+   "Doença Pulmonar Intersticial (CM)",
+   "Outros temas em Pneumologia (CM)"
+  ],
+  "sourceQuestionId": "e26aa0fbecf0b06",
+  "alvo": "Negativo no meio (sem eosinofilia) e rótulo verdadeiro (alojamento militar) ocultando o gatilho do tabagismo recente."
+ },
+ {
+  "id": "S7-PNE-03",
+  "simulado": 7,
+  "area": "Pneumologia",
+  "titulo": "Enfisema panlobular basal aos 41 anos: a fração alfa-1 baixa escondida na eletroforese",
+  "arma": "Rótulo verdadeiro",
+  "comando": "diagnóstico",
+  "nivel": "difícil",
+  "enunciado": "Homem de 41 anos, ex-tabagista de 12 maços-ano (parou há 5 anos), tem dispneia progressiva há 2 anos. Trabalhou 6 anos com polimento de pisos de granito. Espirometria: VEF1/CVF 0,52, VEF1 48% do previsto, sem resposta ao broncodilatador; DLCO 45%. TC de tórax: enfisema panlobular de predomínio nos lobos inferiores, sem nódulos, bronquiectasias ou cistos. Trouxe exames de check-up: hemograma normal, ALT 58 U/L, AST 49 U/L, eletroforese de proteínas séricas com albumina 4,2 g/dL, fração alfa-1 de 0,1 g/dL (referência 0,2 a 0,4) e gamaglobulina normal. Usa tiotrópio-olodaterol. A explicação mais provável para o quadro é:",
+  "alternativas": {
+   "A": "Silicose com enfisema associado",
+   "B": "Deficiência de alfa-1 antitripsina",
+   "C": "DPOC tabágica de início precoce",
+   "D": "Bronquiolite constritiva"
+  },
+  "gabarito": "B",
+  "armadilha": "C",
+  "dado_decisivo": "fração alfa-1 de 0,1 g/dL",
+  "resolucao": "O rótulo de tabagista com obstrução fixa leva à DPOC tabágica comum. Mas 12 maços-ano não costumam produzir obstrução grave aos 41 anos, e o enfisema do cigarro é centrolobular e de lobos superiores; panlobular e basal é a marca da deficiência de alfa-1 antitripsina. O dado que fecha está escondido nos exames de rotina: a alfa-1 antitripsina é a maior parte da banda alfa-1 da eletroforese, e uma fração alfa-1 baixa é pista direta. As transaminases discretamente altas apontam para o acometimento hepático da mesma doença. A confirmação é a dosagem sérica de alfa-1 antitripsina e a fenotipagem (PiZZ), e a família deve ser testada. Silicose daria nódulos de lobos superiores, não enfisema basal isolado.",
+  "comentarios": {
+   "A": "Errada. A exposição à sílica é verdadeira, mas silicose se manifesta por micronódulos e conglomerados em lobos superiores, ausentes na TC.",
+   "B": "Correta. Enfisema panlobular basal precoce, carga tabágica baixa, fração alfa-1 baixa e transaminases altas: deficiência de alfa-1 antitripsina.",
+   "C": "Errada. Seria a resposta com enfisema centrolobular de ápices e carga tabágica alta; não explica a fração alfa-1 de 0,1 g/dL.",
+   "D": "Errada. Bronquiolite constritiva dá aprisionamento aéreo com parênquima preservado, sem enfisema e com DLCO pouco alterada."
+  },
+  "para_levar": "Enfisema panlobular de bases, antes dos 45 anos ou com carga tabágica baixa, pede dosagem de alfa-1 antitripsina; a banda alfa-1 baixa na eletroforese já é pista.",
+  "referencias": "GOLD 2025; ATS/ERS Statement on Alpha-1 Antitrypsin Deficiency 2003; SBPT, Recomendações para DPOC 2022.",
+  "tags": [
+   "DPOC - fisiopatologia e diagnóstico (CM)",
+   "DPOC (CM)"
+  ],
+  "sourceQuestionId": "aabd3a38f27088d",
+  "alvo": "Exame que decide (eletroforese) lido como enfeite; rótulo de tabagista puxando a doença de manual."
+ },
+ {
+  "id": "S7-PNE-04",
+  "simulado": 7,
+  "area": "Pneumologia",
+  "titulo": "Nódulo em vidro fosco puro de 8 mm: repetir a TC, sem PET e sem biópsia",
+  "arma": "Omissão",
+  "comando": "próximo exame",
+  "nivel": "média",
+  "enunciado": "Mulher de 58 anos, que nunca fumou, fez TC de tórax por tosse após um quadro viral, já resolvido. O exame mostra um nódulo único em vidro fosco puro de 8 mm no lobo superior direito, sem componente sólido, e nenhum outro achado. Não tem história de câncer e o exame físico é normal. Está muito ansiosa e pede para retirar o nódulo logo. Uma TC de abdome feita há 3 meses em outro hospital, por cólica renal, incluiu as bases pulmonares, mas não os ápices. A conduta mais adequada em relação ao nódulo é:",
+  "alternativas": {
+   "A": "Biópsia percutânea guiada por TC",
+   "B": "PET-CT com FDG",
+   "C": "TC de tórax em 6 a 12 meses",
+   "D": "Segmentectomia por videotoracoscopia"
+  },
+  "gabarito": "C",
+  "armadilha": "B",
+  "dado_decisivo": "nódulo único em vidro fosco puro de 8 mm",
+  "resolucao": "O reflexo é investigar o nódulo com PET-CT, como se faz com o nódulo sólido de risco intermediário. Mas o nódulo em vidro fosco puro tem comportamento próprio: muitos são inflamatórios e somem, e os que persistem correspondem a lesões de crescimento muito lento (adenocarcinoma in situ ou minimamente invasivo). O PET é pouco útil porque essas lesões captam pouco FDG, e a biópsia tem baixo rendimento. Pela Fleischner, o vidro fosco puro solitário de 6 mm ou mais pede TC em 6 a 12 meses para confirmar persistência e, se persistir, TC a cada 2 anos até completar 5 anos. Ressecção só se surgir componente sólido ou crescimento. A TC antiga não ajuda porque não incluiu o ápice.",
+  "comentarios": {
+   "A": "Errada. Biópsia de vidro fosco puro tem baixo rendimento e não muda a conduta; seria considerada em nódulo sólido ou parte sólido que cresce.",
+   "B": "Errada. PET-CT é útil no nódulo sólido de 8 mm ou mais com risco intermediário; no vidro fosco puro dá falso negativo.",
+   "C": "Correta. Vidro fosco puro solitário de 6 mm ou mais: TC em 6 a 12 meses, e depois a cada 2 anos se persistir.",
+   "D": "Errada. Cirurgia só se aparecer componente sólido ou crescimento no seguimento."
+  },
+  "para_levar": "Nódulo em vidro fosco puro solitário de 6 mm ou mais: TC em 6 a 12 meses e, se persistir, a cada 2 anos até 5 anos. PET e biópsia não entram de saída.",
+  "referencias": "Fleischner Society Guidelines for Management of Incidental Pulmonary Nodules 2017; SBPT, Consenso sobre nódulo pulmonar.",
+  "tags": [
+   "Nódulo Pulmonar (CM)"
+  ],
+  "sourceQuestionId": "3055763ee87b5c7",
+  "alvo": "Fazer mais do que o caso pede (PET e biópsia) num nódulo que só pede seguimento."
+ },
+ {
+  "id": "S7-PNE-05",
+  "simulado": 7,
+  "area": "Medicina baseada em evidências",
+  "titulo": "Rastreamento de câncer de pulmão: sobrevida após o diagnóstico enganada pelo viés de antecipação",
+  "arma": "Qualificador",
+  "comando": "fato solto",
+  "nivel": "difícil",
+  "enunciado": "Um hospital divulga que, entre os casos de câncer de pulmão detectados pelo seu programa de rastreamento com TC de baixa dose, a sobrevida em 5 anos contada a partir do diagnóstico foi de 62%, contra 18% entre os casos diagnosticados por sintomas no mesmo período. Os casos rastreados tinham mais tumores em estádio I e foram operados com mais frequência. Não houve randomização, e ninguém comparou a população rastreada com uma população semelhante não rastreada. Para concluir que o rastreamento traz benefício real, o desfecho a comparar entre um grupo rastreado e outro não rastreado é:",
+  "alternativas": {
+   "A": "Sobrevida em 5 anos após o diagnóstico",
+   "B": "Proporção de tumores em estádio I",
+   "C": "Taxa de ressecção cirúrgica curativa",
+   "D": "Mortalidade por câncer de pulmão"
+  },
+  "gabarito": "D",
+  "armadilha": "A",
+  "dado_decisivo": "ninguém comparou a população rastreada com uma população semelhante não rastreada",
+  "resolucao": "A sobrevida a partir do diagnóstico parece a medida natural e foi a que o hospital usou, mas é exatamente a que os vieses inflam. Antecipar o diagnóstico alonga a sobrevida contada do diagnóstico mesmo que a morte aconteça na mesma data (viés de tempo de antecipação), e o rastreamento acha de preferência os tumores de crescimento lento, de melhor prognóstico (viés de duração), além dos que nunca matariam (sobrediagnóstico). Estádio I e ressecção sobem pelos mesmos motivos. O comando pede benefício real, e o único desfecho imune a esses vieses é a mortalidade específica pela doença na população inteira, rastreada contra não rastreada, de preferência em ensaio randomizado, como fizeram o NLST e o NELSON.",
+  "comentarios": {
+   "A": "Errada. É a medida inflada pelo viés de antecipação e pelo viés de duração; serve para comparar tratamentos em pacientes já diagnosticados no mesmo estádio.",
+   "B": "Errada. Mudança de estádio é desfecho intermediário e sobe com o sobrediagnóstico, sem provar menos mortes.",
+   "C": "Errada. Mais ressecções acompanham mais diagnósticos precoces, inclusive dos que não matariam.",
+   "D": "Correta. A mortalidade específica na população rastreada contra a não rastreada não depende de quando se faz o diagnóstico."
+  },
+  "para_levar": "Rastreamento só se prova por menos mortes na população (mortalidade específica, rastreados contra não rastreados); sobrevida após o diagnóstico é distorcida pelos vieses de antecipação, de duração e pelo sobrediagnóstico.",
+  "referencias": "NLST (N Engl J Med 2011); NELSON (N Engl J Med 2020); USPSTF Lung Cancer Screening 2021.",
+  "tags": [
+   "Rastreamentos em Clínica Médica (CM)",
+   "Estudos Epidemiológicos",
+   "Câncer de pulmão"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Fato de mecanismo/epidemiologia e resposta verdadeira fora do comando (sobrevida no lugar de mortalidade)."
+ }
 ]

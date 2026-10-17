@@ -9,20 +9,20 @@
   "nivel": "extremamente difícil",
   "enunciado": "Homem de 49 anos tem acromegalia por macroadenoma operado há 2 anos, com resíduo tumoral no seio cavernoso. Usou octreotida de liberação prolongada em dose máxima por 1 ano sem normalizar o IGF-1 e, há 6 meses, passou a usar pegvisomanto em monoterapia. Refere melhora da sudorese, da cefaleia e das parestesias. Glicemia de jejum caiu de 162 para 108 mg/dL. Exames atuais: IGF-1 de 1,0 vez o limite superior para a idade (antes, 2,4 vezes), GH sérico 14 ng/mL (antes do pegvisomanto, 6 ng/mL), AST e ALT normais. Ressonância de sela há 1 mês: resíduo de 8 mm, sem mudança em relação ao exame de 1 ano antes. A conduta mais adequada neste momento é:",
   "alternativas": {
-   "A": "Aumentar a dose do pegvisomanto",
+   "A": "Nova cirurgia transesfenoidal",
    "B": "Manter o esquema e seguir pelo IGF-1",
    "C": "Radioterapia estereotáxica do resíduo",
-   "D": "Nova cirurgia transesfenoidal"
+   "D": "Aumentar a dose do pegvisomanto"
   },
   "gabarito": "B",
-  "armadilha": "A",
+  "armadilha": "D",
   "dado_decisivo": "IGF-1 de 1,0 vez o limite superior para a idade",
   "resolucao": "GH que mais que dobrou parece doença fora de controle ou tumor crescendo, e puxa aumentar a dose, irradiar ou reoperar. Mas o pegvisomanto é antagonista do receptor do GH: bloqueia a ação periférica e a produção de IGF-1, e com isso retira a retroalimentação negativa, de modo que o GH circulante sobe (além de o ensaio poder sofrer interferência). Por isso, sob pegvisomanto, o GH não serve para avaliar o controle; o marcador é o IGF-1, e aqui ele normalizou, com melhora clínica e glicêmica (o pegvisomanto também melhora a sensibilidade à insulina). A segurança se acompanha por transaminases e por ressonância periódica, porque a droga não age sobre o tumor; a ressonância mostrou resíduo estável. Nada há a acrescentar: manter a dose e seguir pelo IGF-1.",
   "comentarios": {
-   "A": "Errada. É a armadilha: a dose se titula pelo IGF-1, que já está normal; aumentar por causa do GH só eleva o risco de hepatotoxicidade.",
+   "A": "Errada. Reoperação se considera com resíduo acessível e doença não controlada; o resíduo está no seio cavernoso, estável, e o IGF-1 está normal.",
    "B": "Correta. IGF-1 normalizado, melhora clínica, transaminases normais e resíduo estável na ressonância: a doença está controlada, e o GH alto é efeito esperado da droga.",
    "C": "Errada. Radioterapia é terceira linha para doença não controlada ou resíduo em crescimento; nenhum dos dois ocorre.",
-   "D": "Errada. Reoperação se considera com resíduo acessível e doença não controlada; o resíduo está no seio cavernoso, estável, e o IGF-1 está normal."
+   "D": "Errada. É a armadilha: a dose se titula pelo IGF-1, que já está normal; aumentar por causa do GH só eleva o risco de hepatotoxicidade."
   },
   "para_levar": "Sob pegvisomanto, o GH sobe e não mede controle: titule pelo IGF-1 e vigie transaminases e o tamanho do tumor na ressonância.",
   "referencias": "Fleseriu M et al., A Pituitary Society update to acromegaly management guidelines, Pituitary 2021; Endocrine Society 2014 (Acromegaly: an Endocrine Society clinical practice guideline).",
@@ -111,18 +111,18 @@
   "enunciado": "Mulher de 34 anos tem diagnóstico de síndrome dos ovários policísticos desde os 17 anos (ciclos irregulares, acne e hirsutismo leve) e usa anticoncepcional oral de forma irregular. Há 6 meses notou piora rápida dos pelos (escore de Ferriman-Gallwey de 24; era 9), engrossamento da voz, entradas na região temporal e aumento do clitóris; está sem menstruar há 4 meses. PA 122 x 78 mmHg, IMC 25 kg/m², sem estrias violáceas nem fraqueza proximal. Exames: beta-hCG negativo, testosterona total 248 ng/dL (VR até 45), DHEA-S 210 mcg/dL (VR 35 a 430), 17-OH-progesterona basal 110 ng/dL (VR até 200), prolactina e TSH normais. O próximo exame mais adequado é:",
   "alternativas": {
    "A": "Teste de estímulo com ACTH",
-   "B": "Tomografia de adrenais",
-   "C": "Ultrassonografia transvaginal",
+   "B": "Ultrassonografia transvaginal",
+   "C": "Tomografia de adrenais",
    "D": "Supressão com dexametasona 1 mg"
   },
-  "gabarito": "C",
-  "armadilha": "B",
+  "gabarito": "B",
+  "armadilha": "C",
   "dado_decisivo": "DHEA-S 210 mcg/dL (VR 35 a 430)",
   "resolucao": "O diagnóstico de SOP desde a adolescência é verdadeiro e convida a atribuir tudo a ele. Mas a SOP dá hiperandrogenismo leve e estável; virilização (voz grave, calvície temporal, clitoromegalia) instalada em meses e testosterona acima de 150 a 200 ng/dL indicam tumor secretor de andrógeno até prova em contrário. A pergunta seguinte é onde ele está, e os exames do caso respondem: DHEA-S normal praticamente afasta origem adrenal (os tumores adrenais virilizantes produzem DHEA-S em excesso, como no carcinoma), e 17-OH-progesterona normal afasta hiperplasia adrenal. A fonte provável é o ovário (tumor de células de Sertoli-Leydig, de células esteroides ou do hilo), e o primeiro exame é a ultrassonografia transvaginal, seguida de ressonância de pelve se ela não localizar.",
   "comentarios": {
    "A": "Errada. O teste com ACTH avalia hiperplasia adrenal congênita não clássica com 17-OH-progesterona basal limítrofe; aqui ela é normal e o quadro é de tumor.",
-   "B": "Errada. É a armadilha: a imagem adrenal seria o passo com DHEA-S elevado; com DHEA-S normal e testosterona muito alta, a fonte provável é ovariana.",
-   "C": "Correta. Virilização rápida com testosterona acima de 200 e DHEA-S normal aponta tumor ovariano; a ultrassonografia transvaginal é o primeiro exame de localização.",
+   "B": "Correta. Virilização rápida com testosterona acima de 200 e DHEA-S normal aponta tumor ovariano; a ultrassonografia transvaginal é o primeiro exame de localização.",
+   "C": "Errada. É a armadilha: a imagem adrenal seria o passo com DHEA-S elevado; com DHEA-S normal e testosterona muito alta, a fonte provável é ovariana.",
    "D": "Errada. Rastreia Cushing, sem fenótipo aqui (sem estrias, sem miopatia, normotensa), e não localiza a fonte de andrógeno."
   },
   "para_levar": "Virilização em meses com testosterona acima de 150 a 200 é tumor até prova em contrário: DHEA-S alto aponta adrenal (tomografia), DHEA-S normal aponta ovário (ultrassonografia transvaginal).",

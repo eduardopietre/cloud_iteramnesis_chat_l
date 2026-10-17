@@ -1,171 +1,171 @@
 [
-  {
-    "id": "S10-PNE-01",
-    "simulado": 10,
-    "area": "Pneumologia",
-    "titulo": "Doença intersticial por nitrofurantoína profilática rotulada como fibrose pulmonar idiopática",
-    "arma": "Grade X / Y",
-    "comando": "etiologia",
-    "nivel": "extremamente difícil",
-    "enunciado": "Mulher de 76 anos tem dispneia progressiva e tosse seca há 8 meses. Há pouco mais de um ano toma, toda noite, um comprimido para não ter mais infecção de urina, receitado pelo urologista. Hipertensa, usa também anlodipino. Nunca fumou; nega aves, mofo, artralgias e Raynaud. Crepitações finas em bases, sem baqueteamento. FAN, fator reumatoide e anti-CCP negativos. ALT 72 U/L. Espirometria: CVF 64% do previsto, VEF1/CVF 0,84; DLCO 51%. TC: opacidades reticulares e em vidro fosco basais e subpleurais, sem faveolamento. A geriatra anterior registrou provável fibrose pulmonar idiopática e sugeriu antifibrótico. A causa mais provável e a primeira conduta são, respectivamente:",
-    "alternativas": {
-      "A": "Fibrose pulmonar idiopática / nintedanibe",
-      "B": "Pneumonia em organização / prednisona oral",
-      "C": "Pneumonite por nitrofurantoína / suspender",
-      "D": "Pneumonite por nitrofurantoína / pulsoterapia"
-    },
-    "gabarito": "C",
-    "armadilha": "A",
-    "dado_decisivo": "toma, toda noite, um comprimido para não ter mais infecção de urina",
-    "resolucao": "Idosa com doença intersticial basal e subpleural leva ao rótulo de fibrose pulmonar idiopática, mas FPI exige excluir causas conhecidas, e a primeira é droga. A profilaxia noturna de infecção urinária, mantida por mais de um ano, é em geral nitrofurantoína, que causa pneumonite crônica (padrão de pneumonia intersticial não específica ou em organização) após meses de uso, muitas vezes com hepatite associada, como sugere a ALT de 72. Vidro fosco sem faveolamento também não é o padrão de pneumonia intersticial usual. A primeira conduta é suspender a droga, o que costuma melhorar o quadro em semanas a meses; corticoide se reserva a quem não melhora ou tem doença grave, e pulsoterapia não cabe numa paciente estável. Antifibrótico seria erro de diagnóstico.",
-    "comentarios": {
-      "A": "Errada. Seria a resposta com padrão de pneumonia intersticial usual (faveolamento) e causas excluídas; a droga em uso ainda não foi afastada.",
-      "B": "Errada. Pneumonia em organização pode ser o padrão histológico da lesão por droga, mas o primeiro passo é retirar a causa, não tratar o padrão.",
-      "C": "Correta. Profilaxia urinária crônica com nitrofurantoína, doença intersticial e ALT alta: suspender a droga.",
-      "D": "Errada. A etiologia está certa, mas pulsoterapia é para insuficiência respiratória aguda grave, que ela não tem."
-    },
-    "para_levar": "Antes de chamar de FPI, procure droga: nitrofurantoína em profilaxia urinária prolongada causa doença intersticial crônica (e hepatite), e o tratamento é suspender.",
-    "referencias": "ATS/ERS/JRS/ALAT Clinical Practice Guideline on IPF 2022; Pneumotox (pneumotox.com); SBPT, Diretrizes de doenças pulmonares intersticiais 2012.",
-    "tags": [
-      "Doença Pulmonar Intersticial (CM)",
-      "Iatrogenias (CM)"
-    ],
-    "sourceQuestionId": "6e43e598ceb5b43",
-    "alvo": "Droga em uso a deduzir, ignorada pelo rótulo da doença de manual; grade conferida pela metade."
+ {
+  "id": "S10-PNE-01",
+  "simulado": 10,
+  "area": "Pneumologia",
+  "titulo": "Doença intersticial por nitrofurantoína profilática rotulada como fibrose pulmonar idiopática",
+  "arma": "Grade X / Y",
+  "comando": "etiologia",
+  "nivel": "extremamente difícil",
+  "enunciado": "Mulher de 76 anos tem dispneia progressiva e tosse seca há 8 meses. Há pouco mais de um ano toma, toda noite, um comprimido para não ter mais infecção de urina, receitado pelo urologista. Hipertensa, usa também anlodipino. Nunca fumou; nega aves, mofo, artralgias e Raynaud. Crepitações finas em bases, sem baqueteamento. FAN, fator reumatoide e anti-CCP negativos. ALT 72 U/L. Espirometria: CVF 64% do previsto, VEF1/CVF 0,84; DLCO 51%. TC: opacidades reticulares e em vidro fosco basais e subpleurais, sem faveolamento. A geriatra anterior registrou provável fibrose pulmonar idiopática e sugeriu antifibrótico. A causa mais provável e a primeira conduta são, respectivamente:",
+  "alternativas": {
+   "A": "Fibrose pulmonar idiopática / nintedanibe",
+   "B": "Pneumonia em organização / prednisona oral",
+   "C": "Pneumonite por nitrofurantoína / suspender",
+   "D": "Pneumonite por nitrofurantoína / pulsoterapia"
   },
-  {
-    "id": "S10-PNE-02",
-    "simulado": 10,
-    "area": "Pneumologia",
-    "titulo": "Obstrução fixa após transplante alogênico de medula: bronquiolite obliterante, não asma reativada",
-    "arma": "Rótulo verdadeiro",
-    "comando": "diagnóstico",
-    "nivel": "difícil",
-    "enunciado": "Homem de 36 anos, há 14 meses submetido a transplante alogênico de células-tronco hematopoéticas por leucemia mieloide aguda, em remissão, tem dispneia progressiva aos esforços há 4 meses, sem febre. Teve doença do enxerto contra o hospedeiro em pele e boca, controlada com ciclosporina. Na infância teve bronquite, sem crises desde os 12 anos. Ausculta pulmonar normal, SpO2 95%. Espirometria: VEF1/CVF 0,58, VEF1 54% do previsto (era 98% antes do transplante), sem resposta ao broncodilatador. TC de tórax em inspiração normal; em expiração, aprisionamento aéreo em mosaico difuso. Lavado broncoalveolar sem infecção. O diagnóstico mais provável é:",
-    "alternativas": {
-      "A": "Asma reativada pela imunossupressão",
-      "B": "Pneumonia em organização",
-      "C": "Toxicidade pulmonar da ciclosporina",
-      "D": "Bronquiolite obliterante"
-    },
-    "gabarito": "D",
-    "armadilha": "A",
-    "dado_decisivo": "sem resposta ao broncodilatador",
-    "resolucao": "A história de bronquite na infância é verdadeira e convida a chamar a obstrução de asma. Mas a obstrução é nova (VEF1 caiu de 98% para 54%), fixa, sem resposta ao broncodilatador, a ausculta é normal e a TC só se altera em expiração, com aprisionamento aéreo em mosaico: lesão da pequena via aérea. Depois de transplante alogênico, com doença do enxerto contra o hospedeiro em outros órgãos, esse quadro é a bronquiolite obliterante, manifestação pulmonar da doença do enxerto crônica, e os critérios do NIH se cumprem com VEF1/CVF baixa, VEF1 abaixo de 75%, aprisionamento aéreo e ausência de infecção. O tratamento inicial inclui fluticasona inalatória, azitromicina e montelucaste (esquema FAM), além da imunossupressão sistêmica; o prognóstico é reservado.",
-    "comentarios": {
-      "A": "Errada. Asma daria obstrução variável, com resposta ao broncodilatador e sibilos; a obstrução aqui é fixa e nova.",
-      "B": "Errada. Pneumonia em organização dá consolidações e vidro fosco na inspiração, com padrão restritivo.",
-      "C": "Errada. Ciclosporina não causa lesão pulmonar relevante; seria lembrar de bleomicina, metotrexato ou amiodarona.",
-      "D": "Correta. Obstrução fixa nova com aprisionamento aéreo só na expiração após transplante alogênico com doença do enxerto: bronquiolite obliterante."
-    },
-    "para_levar": "Obstrução fixa nova após transplante alogênico, com TC normal em inspiração e mosaico na expiração, é bronquiolite obliterante (doença do enxerto pulmonar); tratar com FAM e imunossupressão.",
-    "referencias": "Jagasia MH et al. NIH Consensus Development Project on Criteria for Clinical Trials in Chronic GVHD: 2014 Diagnosis and Staging Working Group Report. Biol Blood Marrow Transplant 2015.",
-    "tags": [
-      "Distúrbios Ventilatórios Obstrutivos (CM)",
-      "Espirometria (CM)"
-    ],
-    "sourceQuestionId": "9391c235579aa13",
-    "alvo": "Rótulo verdadeiro (bronquite na infância) contra o dado de função pulmonar que decide."
+  "gabarito": "C",
+  "armadilha": "A",
+  "dado_decisivo": "toma, toda noite, um comprimido para não ter mais infecção de urina",
+  "resolucao": "Idosa com doença intersticial basal e subpleural leva ao rótulo de fibrose pulmonar idiopática, mas FPI exige excluir causas conhecidas, e a primeira é droga. A profilaxia noturna de infecção urinária, mantida por mais de um ano, é em geral nitrofurantoína, que causa pneumonite crônica (padrão de pneumonia intersticial não específica ou em organização) após meses de uso, muitas vezes com hepatite associada, como sugere a ALT de 72. Vidro fosco sem faveolamento também não é o padrão de pneumonia intersticial usual. A primeira conduta é suspender a droga, o que costuma melhorar o quadro em semanas a meses; corticoide se reserva a quem não melhora ou tem doença grave, e pulsoterapia não cabe numa paciente estável. Antifibrótico seria erro de diagnóstico.",
+  "comentarios": {
+   "A": "Errada. Seria a resposta com padrão de pneumonia intersticial usual (faveolamento) e causas excluídas; a droga em uso ainda não foi afastada.",
+   "B": "Errada. Pneumonia em organização pode ser o padrão histológico da lesão por droga, mas o primeiro passo é retirar a causa, não tratar o padrão.",
+   "C": "Correta. Profilaxia urinária crônica com nitrofurantoína, doença intersticial e ALT alta: suspender a droga.",
+   "D": "Errada. A etiologia está certa, mas pulsoterapia é para insuficiência respiratória aguda grave, que ela não tem."
   },
-  {
-    "id": "S10-PNE-03",
-    "simulado": 10,
-    "area": "Pneumologia",
-    "titulo": "Carcinoma de pequenas células com linfonodos mediastinais contralaterais: ainda doença limitada",
-    "arma": "Grade X / Y",
-    "comando": "conduta",
-    "nivel": "extremamente difícil",
-    "enunciado": "Homem de 64 anos, tabagista de 55 maços-ano, tem tosse e emagrecimento de 4 kg. TC: massa hilar direita de 5 cm, linfonodos paratraqueais aumentados dos dois lados do mediastino e linfonodo supraclavicular direito de 1,8 cm, cuja punção mostrou carcinoma de pequenas células. PET-CT e ressonância de crânio: nenhuma lesão fora do tórax e da fossa supraclavicular direita; não há derrame pleural nem pericárdico. Sódio 128 mEq/L, com euvolemia e osmolalidade urinária alta. ECOG 1, função pulmonar adequada para radioterapia. A classificação da doença e o tratamento mais adequados são, respectivamente:",
-    "alternativas": {
-      "A": "Limitada / lobectomia e quimioterapia adjuvante",
-      "B": "Limitada / quimiorradioterapia concomitante",
-      "C": "Extensa / quimioterapia com imunoterapia",
-      "D": "Extensa / radioterapia paliativa"
-    },
-    "gabarito": "B",
-    "armadilha": "C",
-    "dado_decisivo": "nenhuma lesão fora do tórax e da fossa supraclavicular direita",
-    "resolucao": "Linfonodos mediastinais contralaterais e supraclavicular parecem doença avançada e puxam para o esquema da doença extensa, com quimioterapia e imunoterapia. Mas no carcinoma de pequenas células a divisão que manda é se toda a doença cabe num campo de radioterapia com segurança: linfonodos mediastinais dos dois lados e supraclavicular homolateral ainda são doença limitada (estádio III, sem metástase à distância), e a SIADH é paraneoplásica, não metástase. A doença limitada com bom desempenho recebe quimiorradioterapia concomitante (platina com etoposídeo e radioterapia torácica), seguida de consolidação com durvalumabe (ADRIATIC) e de profilaxia ou vigilância do crânio. Cirurgia só se aplica ao estádio I, sem linfonodos.",
-    "comentarios": {
-      "A": "Errada. Ressecção cabe no carcinoma de pequenas células T1-2 N0; com N3 não há papel cirúrgico.",
-      "B": "Correta. Doença restrita ao tórax e à fossa supraclavicular homolateral, cabível num campo de radioterapia: limitada, quimiorradioterapia concomitante.",
-      "C": "Errada. É o tratamento da doença extensa (metástase à distância, derrame maligno); aqui não há nada fora do campo irradiável.",
-      "D": "Errada. Radioterapia isolada é paliativa e não cura; o paciente tem ECOG 1 e doença potencialmente curável."
-    },
-    "para_levar": "Carcinoma de pequenas células: limitado é o que cabe num campo de radioterapia (inclui mediastino contralateral e supraclavicular homolateral) e recebe quimiorradioterapia concomitante; extenso recebe quimioterapia com imunoterapia.",
-    "referencias": "NCCN Small Cell Lung Cancer v.2025; ADRIATIC (Cheng et al., N Engl J Med 2024); ESMO SCLC Guideline 2021.",
-    "tags": [
-      "Câncer de pulmão",
-      "Diagnóstico das Neoplasias e Estadiamentos (CM)"
-    ],
-    "sourceQuestionId": null,
-    "alvo": "Rótulo verdadeiro (linfonodos à distância do tumor) e grade X / Y conferida pela metade."
+  "para_levar": "Antes de chamar de FPI, procure droga: nitrofurantoína em profilaxia urinária prolongada causa doença intersticial crônica (e hepatite), e o tratamento é suspender.",
+  "referencias": "ATS/ERS/JRS/ALAT Clinical Practice Guideline on IPF 2022; Pneumotox (pneumotox.com); SBPT, Diretrizes de doenças pulmonares intersticiais 2012.",
+  "tags": [
+   "Doença Pulmonar Intersticial (CM)",
+   "Iatrogenias (CM)"
+  ],
+  "sourceQuestionId": "6e43e598ceb5b43",
+  "alvo": "Droga em uso a deduzir, ignorada pelo rótulo da doença de manual; grade conferida pela metade."
+ },
+ {
+  "id": "S10-PNE-02",
+  "simulado": 10,
+  "area": "Pneumologia",
+  "titulo": "Obstrução fixa após transplante alogênico de medula: bronquiolite obliterante, não asma reativada",
+  "arma": "Rótulo verdadeiro",
+  "comando": "diagnóstico",
+  "nivel": "difícil",
+  "enunciado": "Homem de 36 anos, há 14 meses submetido a transplante alogênico de células-tronco hematopoéticas por leucemia mieloide aguda, em remissão, tem dispneia progressiva aos esforços há 4 meses, sem febre. Teve doença do enxerto contra o hospedeiro em pele e boca, controlada com ciclosporina. Na infância teve bronquite, sem crises desde os 12 anos. Ausculta pulmonar normal, SpO2 95%. Espirometria: VEF1/CVF 0,58, VEF1 54% do previsto (era 98% antes do transplante), sem resposta ao broncodilatador. TC de tórax em inspiração normal; em expiração, aprisionamento aéreo em mosaico difuso. Lavado broncoalveolar sem infecção. O diagnóstico mais provável é:",
+  "alternativas": {
+   "A": "Asma reativada pela imunossupressão",
+   "B": "Pneumonia em organização",
+   "C": "Toxicidade pulmonar da ciclosporina",
+   "D": "Bronquiolite obliterante"
   },
-  {
-    "id": "S10-PNE-04",
-    "simulado": 10,
-    "area": "Pneumologia",
-    "titulo": "Derrame com espessamento pleural nodular e duas citologias negativas: biópsia por toracoscopia no suspeito de mesotelioma",
-    "arma": "Negativo no meio",
-    "comando": "próximo exame",
-    "nivel": "difícil",
-    "enunciado": "Homem de 71 anos, aposentado de um estaleiro naval, tem há 3 meses dispneia e dor torácica contínua à direita, com perda de 6 kg. Radiografia: derrame pleural direito moderado. Duas toracocenteses: exsudato linfocítico, ADA 22 U/L, glicose 70 mg/dL e citologia oncótica negativa nas duas. Teste rápido molecular para tuberculose no líquido: negativo. TC de tórax com contraste: espessamento pleural nodular e circunferencial de 1,5 cm à direita, envolvendo a pleura mediastinal, sem massa pulmonar; placas pleurais calcificadas bilaterais. Não há linfonodomegalias. O próximo exame mais adequado é:",
-    "alternativas": {
-      "A": "PET-CT de corpo inteiro",
-      "B": "Biópsia pleural por toracoscopia",
-      "C": "Terceira citologia do líquido pleural",
-      "D": "Broncoscopia com lavado broncoalveolar"
-    },
-    "gabarito": "B",
-    "armadilha": "C",
-    "dado_decisivo": "espessamento pleural nodular e circunferencial de 1,5 cm à direita, envolvendo a pleura mediastinal",
-    "resolucao": "As duas citologias negativas, postas no meio do caso, parecem tranquilizar ou convidar a repetir. Mas a exposição ao asbesto (estaleiro, placas pleurais calcificadas), a dor torácica contínua e o espessamento pleural nodular, circunferencial, acima de 1 cm e envolvendo a pleura mediastinal são os critérios tomográficos de malignidade pleural, e a hipótese principal é mesotelioma. A citologia tem baixa sensibilidade para mesotelioma (em torno de 30%), e uma terceira amostra quase não acrescenta depois de duas negativas. O exame indicado é a biópsia pleural com amostra ampla, por toracoscopia (que permite também pleurodese) ou guiada por imagem no espessamento, com imuno-histoquímica. PET serve para estadiar depois do diagnóstico.",
-    "comentarios": {
-      "A": "Errada. PET-CT estadia e orienta biópsia, mas não dá o diagnóstico histológico; vem depois.",
-      "B": "Correta. Suspeita de mesotelioma com citologias negativas: biópsia pleural por toracoscopia, com imuno-histoquímica.",
-      "C": "Errada. Uma terceira citologia acrescenta pouco depois de duas negativas, sobretudo no mesotelioma; seria aceitável na suspeita de metástase de adenocarcinoma sem espessamento.",
-      "D": "Errada. Não há lesão endobrônquica nem massa; broncoscopia caberia com hemoptise ou atelectasia."
-    },
-    "para_levar": "Derrame com espessamento pleural nodular, circunferencial, acima de 1 cm ou mediastinal, e exposição ao asbesto: biópsia pleural (toracoscopia), porque a citologia falha no mesotelioma.",
-    "referencias": "BTS Guideline for Pleural Disease 2023; ERS/ESTS/EACTS/ESTRO Guidelines for Malignant Pleural Mesothelioma 2020.",
-    "tags": [
-      "Derrame Pleural (CM)"
-    ],
-    "sourceQuestionId": "e63e96d90b6165e",
-    "alvo": "Negativo no meio (citologias negativas) e exame que decide (TC) lido como enfeite; próximo exame."
+  "gabarito": "D",
+  "armadilha": "A",
+  "dado_decisivo": "sem resposta ao broncodilatador",
+  "resolucao": "A história de bronquite na infância é verdadeira e convida a chamar a obstrução de asma. Mas a obstrução é nova (VEF1 caiu de 98% para 54%), fixa, sem resposta ao broncodilatador, a ausculta é normal e a TC só se altera em expiração, com aprisionamento aéreo em mosaico: lesão da pequena via aérea. Depois de transplante alogênico, com doença do enxerto contra o hospedeiro em outros órgãos, esse quadro é a bronquiolite obliterante, manifestação pulmonar da doença do enxerto crônica, e os critérios do NIH se cumprem com VEF1/CVF baixa, VEF1 abaixo de 75%, aprisionamento aéreo e ausência de infecção. O tratamento inicial inclui fluticasona inalatória, azitromicina e montelucaste (esquema FAM), além da imunossupressão sistêmica; o prognóstico é reservado.",
+  "comentarios": {
+   "A": "Errada. Asma daria obstrução variável, com resposta ao broncodilatador e sibilos; a obstrução aqui é fixa e nova.",
+   "B": "Errada. Pneumonia em organização dá consolidações e vidro fosco na inspiração, com padrão restritivo.",
+   "C": "Errada. Ciclosporina não causa lesão pulmonar relevante; seria lembrar de bleomicina, metotrexato ou amiodarona.",
+   "D": "Correta. Obstrução fixa nova com aprisionamento aéreo só na expiração após transplante alogênico com doença do enxerto: bronquiolite obliterante."
   },
-  {
-    "id": "S10-PNE-05",
-    "simulado": 10,
-    "area": "Terapia intensiva",
-    "titulo": "Extubação do DPOC hipercápnico que passou no teste de respiração espontânea: VNI preventiva imediata",
-    "arma": "Limiar",
-    "comando": "conduta",
-    "nivel": "difícil",
-    "enunciado": "Homem de 70 anos, com DPOC (VEF1 35%) e insuficiência cardíaca, está intubado há 5 dias por exacerbação com acidose respiratória (pH inicial 7,18, PaCO2 92 mmHg). Hoje, sem sedação, está acordado e cooperativo, tem tosse eficaz e pouca secreção, sem vasopressor. Passou no teste de respiração espontânea de 30 minutos em pressão de suporte de 7 cmH2O: FR 24 irpm, SpO2 93% com FiO2 de 30%, sem desconforto. Gasometria ao fim do teste: pH 7,37, PaCO2 56 mmHg, HCO3 32 mEq/L. A equipe discute o que fazer agora. A conduta mais adequada é:",
-    "alternativas": {
-      "A": "Extubar e iniciar VNI imediatamente",
-      "B": "Extubar para cateter nasal de oxigênio",
-      "C": "Manter intubado e repetir o teste amanhã",
-      "D": "Indicar traqueostomia precoce"
-    },
-    "gabarito": "A",
-    "armadilha": "B",
-    "dado_decisivo": "pH 7,37, PaCO2 56 mmHg",
-    "resolucao": "Passou no teste de respiração espontânea, está acordado e tosse bem: o reflexo é extubar para oxigênio simples. Mas ele é paciente de alto risco de falha de extubação (DPOC, insuficiência cardíaca, idade acima de 65 anos) e está hipercápnico ao fim do teste, com PaCO2 acima de 45 mmHg. Para esse grupo, a diretriz da ERS/ATS recomenda extubar e colocar em ventilação não invasiva imediatamente, de forma preventiva, o que reduz reintubação e, nos hipercápnicos, mortalidade. Manter intubado não se justifica em quem passou no teste, e a hipercapnia compensada (pH normal, bicarbonato alto) não é falha do teste. VNI de resgate, iniciada só depois que a insuficiência respiratória pós-extubação se instala, não tem o mesmo benefício.",
-    "comentarios": {
-      "A": "Correta. Alto risco de falha e hipercapnia ao fim do teste: extubar direto para VNI preventiva.",
-      "B": "Errada. É a conduta no paciente de baixo risco, sem hipercapnia; aqui aumenta a chance de reintubação.",
-      "C": "Errada. Hipercapnia com pH normal não é falha do teste; adiar prolonga a ventilação sem benefício.",
-      "D": "Errada. Traqueostomia é para desmame prolongado, após falhas repetidas, não para quem passou no primeiro teste."
-    },
-    "para_levar": "Paciente que passou no teste de respiração espontânea mas é de alto risco, sobretudo hipercápnico (PaCO2 acima de 45): extubar direto para VNI preventiva, e não para oxigênio simples.",
-    "referencias": "ERS/ATS Clinical Practice Guidelines: Noninvasive Ventilation for Acute Respiratory Failure 2017; ATS/CHEST Liberation from Mechanical Ventilation Guideline 2017.",
-    "tags": [
-      "Capnografia, TRE e extubação (CM)",
-      "Ventilação Não Invasiva (VNI) (CM)"
-    ],
-    "sourceQuestionId": "8fc65d0e09b8663",
-    "alvo": "Limiar (PaCO2 ao fim do teste) e porte da conduta pós-extubação na UTI."
-  }
+  "para_levar": "Obstrução fixa nova após transplante alogênico, com TC normal em inspiração e mosaico na expiração, é bronquiolite obliterante (doença do enxerto pulmonar); tratar com FAM e imunossupressão.",
+  "referencias": "Jagasia MH et al. NIH Consensus Development Project on Criteria for Clinical Trials in Chronic GVHD: 2014 Diagnosis and Staging Working Group Report. Biol Blood Marrow Transplant 2015.",
+  "tags": [
+   "Distúrbios Ventilatórios Obstrutivos (CM)",
+   "Espirometria (CM)"
+  ],
+  "sourceQuestionId": "9391c235579aa13",
+  "alvo": "Rótulo verdadeiro (bronquite na infância) contra o dado de função pulmonar que decide."
+ },
+ {
+  "id": "S10-PNE-03",
+  "simulado": 10,
+  "area": "Pneumologia",
+  "titulo": "Carcinoma de pequenas células com linfonodos mediastinais contralaterais: ainda doença limitada",
+  "arma": "Grade X / Y",
+  "comando": "conduta",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 64 anos, tabagista de 55 maços-ano, tem tosse e emagrecimento de 4 kg. TC: massa hilar direita de 5 cm, linfonodos paratraqueais aumentados dos dois lados do mediastino e linfonodo supraclavicular direito de 1,8 cm, cuja punção mostrou carcinoma de pequenas células. PET-CT e ressonância de crânio: nenhuma lesão fora do tórax e da fossa supraclavicular direita; não há derrame pleural nem pericárdico. Sódio 128 mEq/L, com euvolemia e osmolalidade urinária alta. ECOG 1, função pulmonar adequada para radioterapia. A classificação da doença e o tratamento mais adequados são, respectivamente:",
+  "alternativas": {
+   "A": "Limitada / lobectomia e quimioterapia adjuvante",
+   "B": "Limitada / quimiorradioterapia concomitante",
+   "C": "Extensa / quimioterapia com imunoterapia",
+   "D": "Extensa / radioterapia paliativa"
+  },
+  "gabarito": "B",
+  "armadilha": "C",
+  "dado_decisivo": "nenhuma lesão fora do tórax e da fossa supraclavicular direita",
+  "resolucao": "Linfonodos mediastinais contralaterais e supraclavicular parecem doença avançada e puxam para o esquema da doença extensa, com quimioterapia e imunoterapia. Mas no carcinoma de pequenas células a divisão que manda é se toda a doença cabe num campo de radioterapia com segurança: linfonodos mediastinais dos dois lados e supraclavicular homolateral ainda são doença limitada (estádio III, sem metástase à distância), e a SIADH é paraneoplásica, não metástase. A doença limitada com bom desempenho recebe quimiorradioterapia concomitante (platina com etoposídeo e radioterapia torácica), seguida de consolidação com durvalumabe (ADRIATIC) e de profilaxia ou vigilância do crânio. Cirurgia só se aplica ao estádio I, sem linfonodos.",
+  "comentarios": {
+   "A": "Errada. Ressecção cabe no carcinoma de pequenas células T1-2 N0; com N3 não há papel cirúrgico.",
+   "B": "Correta. Doença restrita ao tórax e à fossa supraclavicular homolateral, cabível num campo de radioterapia: limitada, quimiorradioterapia concomitante.",
+   "C": "Errada. É o tratamento da doença extensa (metástase à distância, derrame maligno); aqui não há nada fora do campo irradiável.",
+   "D": "Errada. Radioterapia isolada é paliativa e não cura; o paciente tem ECOG 1 e doença potencialmente curável."
+  },
+  "para_levar": "Carcinoma de pequenas células: limitado é o que cabe num campo de radioterapia (inclui mediastino contralateral e supraclavicular homolateral) e recebe quimiorradioterapia concomitante; extenso recebe quimioterapia com imunoterapia.",
+  "referencias": "NCCN Small Cell Lung Cancer v.2025; ADRIATIC (Cheng et al., N Engl J Med 2024); ESMO SCLC Guideline 2021.",
+  "tags": [
+   "Câncer de pulmão",
+   "Diagnóstico das Neoplasias e Estadiamentos (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Rótulo verdadeiro (linfonodos à distância do tumor) e grade X / Y conferida pela metade."
+ },
+ {
+  "id": "S10-PNE-04",
+  "simulado": 10,
+  "area": "Pneumologia",
+  "titulo": "Derrame com espessamento pleural nodular e duas citologias negativas: biópsia por toracoscopia no suspeito de mesotelioma",
+  "arma": "Negativo no meio",
+  "comando": "próximo exame",
+  "nivel": "difícil",
+  "enunciado": "Homem de 71 anos, aposentado de um estaleiro naval, tem há 3 meses dispneia e dor torácica contínua à direita, com perda de 6 kg. Radiografia: derrame pleural direito moderado. Duas toracocenteses: exsudato linfocítico, ADA 22 U/L, glicose 70 mg/dL e citologia oncótica negativa nas duas. Teste rápido molecular para tuberculose no líquido: negativo. TC de tórax com contraste: espessamento pleural nodular e circunferencial de 1,5 cm à direita, envolvendo a pleura mediastinal, sem massa pulmonar; placas pleurais calcificadas bilaterais. Não há linfonodomegalias. O próximo exame mais adequado é:",
+  "alternativas": {
+   "A": "PET-CT de corpo inteiro",
+   "B": "Biópsia pleural por toracoscopia",
+   "C": "Terceira citologia do líquido pleural",
+   "D": "Broncoscopia com lavado broncoalveolar"
+  },
+  "gabarito": "B",
+  "armadilha": "C",
+  "dado_decisivo": "espessamento pleural nodular e circunferencial de 1,5 cm à direita, envolvendo a pleura mediastinal",
+  "resolucao": "As duas citologias negativas, postas no meio do caso, parecem tranquilizar ou convidar a repetir. Mas a exposição ao asbesto (estaleiro, placas pleurais calcificadas), a dor torácica contínua e o espessamento pleural nodular, circunferencial, acima de 1 cm e envolvendo a pleura mediastinal são os critérios tomográficos de malignidade pleural, e a hipótese principal é mesotelioma. A citologia tem baixa sensibilidade para mesotelioma (em torno de 30%), e uma terceira amostra quase não acrescenta depois de duas negativas. O exame indicado é a biópsia pleural com amostra ampla, por toracoscopia (que permite também pleurodese) ou guiada por imagem no espessamento, com imuno-histoquímica. PET serve para estadiar depois do diagnóstico.",
+  "comentarios": {
+   "A": "Errada. PET-CT estadia e orienta biópsia, mas não dá o diagnóstico histológico; vem depois.",
+   "B": "Correta. Suspeita de mesotelioma com citologias negativas: biópsia pleural por toracoscopia, com imuno-histoquímica.",
+   "C": "Errada. Uma terceira citologia acrescenta pouco depois de duas negativas, sobretudo no mesotelioma; seria aceitável na suspeita de metástase de adenocarcinoma sem espessamento.",
+   "D": "Errada. Não há lesão endobrônquica nem massa; broncoscopia caberia com hemoptise ou atelectasia."
+  },
+  "para_levar": "Derrame com espessamento pleural nodular, circunferencial, acima de 1 cm ou mediastinal, e exposição ao asbesto: biópsia pleural (toracoscopia), porque a citologia falha no mesotelioma.",
+  "referencias": "BTS Guideline for Pleural Disease 2023; ERS/ESTS/EACTS/ESTRO Guidelines for Malignant Pleural Mesothelioma 2020.",
+  "tags": [
+   "Derrame Pleural (CM)"
+  ],
+  "sourceQuestionId": "e63e96d90b6165e",
+  "alvo": "Negativo no meio (citologias negativas) e exame que decide (TC) lido como enfeite; próximo exame."
+ },
+ {
+  "id": "S10-PNE-05",
+  "simulado": 10,
+  "area": "Terapia intensiva",
+  "titulo": "Extubação do DPOC hipercápnico que passou no teste de respiração espontânea: VNI preventiva imediata",
+  "arma": "Limiar",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Homem de 70 anos, com DPOC (VEF1 35%) e insuficiência cardíaca, está intubado há 5 dias por exacerbação com acidose respiratória (pH inicial 7,18, PaCO2 92 mmHg). Hoje, sem sedação, está acordado e cooperativo, tem tosse eficaz e pouca secreção, sem vasopressor. Passou no teste de respiração espontânea de 30 minutos em pressão de suporte de 7 cmH2O: FR 24 irpm, SpO2 93% com FiO2 de 30%, sem desconforto. Gasometria ao fim do teste: pH 7,37, PaCO2 56 mmHg, HCO3 32 mEq/L. A equipe discute o que fazer agora. A conduta mais adequada é:",
+  "alternativas": {
+   "A": "Extubar e iniciar VNI imediatamente",
+   "B": "Extubar para cateter nasal de oxigênio",
+   "C": "Manter intubado e repetir o teste amanhã",
+   "D": "Indicar traqueostomia precoce"
+  },
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "pH 7,37, PaCO2 56 mmHg",
+  "resolucao": "Passou no teste de respiração espontânea, está acordado e tosse bem: o reflexo é extubar para oxigênio simples. Mas ele é paciente de alto risco de falha de extubação (DPOC, insuficiência cardíaca, idade acima de 65 anos) e está hipercápnico ao fim do teste, com PaCO2 acima de 45 mmHg. Para esse grupo, a diretriz da ERS/ATS recomenda extubar e colocar em ventilação não invasiva imediatamente, de forma preventiva, o que reduz reintubação e, nos hipercápnicos, mortalidade. Manter intubado não se justifica em quem passou no teste, e a hipercapnia compensada (pH normal, bicarbonato alto) não é falha do teste. VNI de resgate, iniciada só depois que a insuficiência respiratória pós-extubação se instala, não tem o mesmo benefício.",
+  "comentarios": {
+   "A": "Correta. Alto risco de falha e hipercapnia ao fim do teste: extubar direto para VNI preventiva.",
+   "B": "Errada. É a conduta no paciente de baixo risco, sem hipercapnia; aqui aumenta a chance de reintubação.",
+   "C": "Errada. Hipercapnia com pH normal não é falha do teste; adiar prolonga a ventilação sem benefício.",
+   "D": "Errada. Traqueostomia é para desmame prolongado, após falhas repetidas, não para quem passou no primeiro teste."
+  },
+  "para_levar": "Paciente que passou no teste de respiração espontânea mas é de alto risco, sobretudo hipercápnico (PaCO2 acima de 45): extubar direto para VNI preventiva, e não para oxigênio simples.",
+  "referencias": "ERS/ATS Clinical Practice Guidelines: Noninvasive Ventilation for Acute Respiratory Failure 2017; ATS/CHEST Liberation from Mechanical Ventilation Guideline 2017.",
+  "tags": [
+   "Capnografia, TRE e extubação (CM)",
+   "Ventilação Não Invasiva (VNI) (CM)"
+  ],
+  "sourceQuestionId": "8fc65d0e09b8663",
+  "alvo": "Limiar (PaCO2 ao fim do teste) e porte da conduta pós-extubação na UTI."
+ }
 ]

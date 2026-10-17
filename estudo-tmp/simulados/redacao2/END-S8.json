@@ -10,18 +10,18 @@
   "enunciado": "Homem de 41 anos recebeu o diagnóstico de diabetes tipo 2 há 14 meses, com glicemia de 290 mg/dL e HbA1c de 10,2%, sem cetoacidose. Iniciou metformina e, há 8 meses, gliclazida em dose máxima. Relata boa adesão e perdeu 7 kg sem fazer dieta; a HbA1c atual é de 9,6%. Tem hipotireoidismo por tireoidite de Hashimoto em uso de levotiroxina. Pais e irmãos sem diabetes. Exame: IMC 22,4 kg/m², PA 118 x 74 mmHg, sem acantose. Exames: triglicerídeos 88 mg/dL, HDL 62 mg/dL, creatinina normal, cetonúria negativa. Para orientar o tratamento, o próximo exame a ser solicitado é:",
   "alternativas": {
    "A": "Cortisol após dexametasona 1 mg",
-   "B": "Teste genético para MODY",
-   "C": "Insulinemia de jejum e HOMA-IR",
+   "B": "Insulinemia de jejum e HOMA-IR",
+   "C": "Teste genético para MODY",
    "D": "Anticorpo anti-GAD"
   },
   "gabarito": "D",
-  "armadilha": "B",
+  "armadilha": "C",
   "dado_decisivo": "Tem hipotireoidismo por tireoidite de Hashimoto em uso de levotiroxina",
   "resolucao": "O rótulo \"diabetes tipo 2\" foi dado na entrada e conduziu o tratamento com orais. O caso acumula o que não combina com ele: adulto magro, sem acantose, triglicerídeos baixos e HDL alto (sem síndrome metabólica), perda de peso involuntária e falha da sulfonilureia em pouco mais de um ano. A autoimunidade tireoidiana no primeiro plano de antecedentes reforça um diabetes autoimune de evolução lenta no adulto (LADA): idade acima de 30 anos, anticorpo positivo e independência de insulina por pelo menos 6 meses. O próximo exame é o anticorpo anti-GAD, o mais sensível nessa forma; se positivo, a sulfonilureia deve ser suspensa (acelera a falência da célula beta) e a insulina iniciada, e o peptídeo C ajuda a estimar a reserva. O MODY exigiria história familiar autossômica dominante, ausente aqui.",
   "comentarios": {
    "A": "Errada. Rastreio de Cushing cabe com fenótipo de excesso de cortisol (estrias, miopatia, hipertensão), ausente neste homem magro e normotenso.",
-   "B": "Errada. É a armadilha: jovem, magro e com anticorpo ainda não dosado lembra MODY, mas o diabetes monogênico pede história familiar em gerações sucessivas, e os pais e irmãos não têm diabetes.",
-   "C": "Errada. Medir resistência insulínica reforçaria o rótulo de tipo 2, que o fenótipo magro, sem síndrome metabólica e com perda de peso já contradiz; não muda a conduta.",
+   "B": "Errada. Medir resistência insulínica reforçaria o rótulo de tipo 2, que o fenótipo magro, sem síndrome metabólica e com perda de peso já contradiz; não muda a conduta.",
+   "C": "Errada. É a armadilha: jovem, magro e com anticorpo ainda não dosado lembra MODY, mas o diabetes monogênico pede história familiar em gerações sucessivas, e os pais e irmãos não têm diabetes.",
    "D": "Correta. Adulto magro, sem síndrome metabólica, com falha precoce aos orais e autoimunidade tireoidiana: anti-GAD para reconhecer o LADA e indicar insulina."
   },
   "para_levar": "Diabetes tipo 2 em adulto magro, sem síndrome metabólica, que falha rápido aos orais (sobretudo com outra autoimunidade): dose anti-GAD; se positivo, suspenda a sulfonilureia e inicie insulina.",
@@ -78,19 +78,19 @@
   "enunciado": "Mulher de 66 anos, com diabetes tipo 2 em uso de metformina (HbA1c 7,0% há 1 mês), está internada há 2 dias por exacerbação de DPOC e recebe prednisona 40 mg às 8 horas, uma vez ao dia. Alimenta-se bem, pesa 70 kg e tem função renal normal. Recebe apenas insulina regular por escala, em média 16 unidades por dia. Glicemias capilares dos dois dias: jejum entre 112 e 124 mg/dL, antes do almoço 205 a 214 mg/dL, antes do jantar 318 a 342 mg/dL, às 22 horas 280 a 292 mg/dL e às 3 horas 138 a 146 mg/dL. Para o controle glicêmico, a conduta mais adequada é:",
   "alternativas": {
    "A": "Glargina às 22 horas",
-   "B": "NPH pela manhã, com a prednisona",
+   "B": "Infusão venosa contínua de insulina",
    "C": "Ampliar a escala de insulina regular",
-   "D": "Infusão venosa contínua de insulina"
+   "D": "NPH pela manhã, com a prednisona"
   },
-  "gabarito": "B",
+  "gabarito": "D",
   "armadilha": "A",
   "dado_decisivo": "jejum entre 112 e 124 mg/dL",
   "resolucao": "O reflexo hospitalar é a insulina basal noturna, que é a resposta quando a glicemia de jejum está alta. Aqui a cronologia das glicemias desenha outra curva: jejum quase normal, subida a partir do fim da manhã, pico à tarde e no início da noite, e queda de madrugada. É o perfil da prednisona em dose única matinal, cujo efeito hiperglicemiante começa 4 a 6 horas após a dose e dura cerca de 12 a 16 horas. A insulina que acompanha esse perfil é a NPH aplicada pela manhã junto com o corticoide (em torno de 0,1 U/kg para cada 10 mg de prednisona, até cerca de 0,4 U/kg), com correção por escala nas refeições; a dose acompanha a redução do corticoide. Glargina noturna cobriria a madrugada e o jejum, que já estão bons, com risco de hipoglicemia, e a escala isolada apenas persegue a hiperglicemia já instalada.",
   "comentarios": {
    "A": "Errada. É a armadilha: a basal noturna corrige a glicemia de jejum, que está boa, e expõe a madrugada à hipoglicemia, sem cobrir o pico vespertino.",
-   "B": "Correta. Jejum quase normal com pico à tarde sob prednisona matinal: NPH pela manhã, junto com o corticoide, acompanha o perfil hiperglicemiante.",
+   "B": "Errada. Infusão venosa é para paciente crítico, em jejum ou em emergência hiperglicêmica; esta paciente se alimenta e está estável.",
    "C": "Errada. Escala isolada trata a hiperglicemia depois que ela aparece; as diretrizes desaconselham usá-la como único esquema na hiperglicemia persistente.",
-   "D": "Errada. Infusão venosa é para paciente crítico, em jejum ou em emergência hiperglicêmica; esta paciente se alimenta e está estável."
+   "D": "Correta. Jejum quase normal com pico à tarde sob prednisona matinal: NPH pela manhã, junto com o corticoide, acompanha o perfil hiperglicemiante."
   },
   "para_levar": "Corticoide em dose única matinal dá hiperglicemia da tarde e do início da noite com jejum preservado: use NPH pela manhã junto com o corticoide, e não basal noturna.",
   "referencias": "ADA Standards of Care in Diabetes 2026, seção 16 (Diabetes care in the hospital); SBD 2024 (Manejo da hiperglicemia hospitalar).",
@@ -111,20 +111,20 @@
   "nivel": "extremamente difícil",
   "enunciado": "Mulher de 31 anos, no 35º dia após parto vaginal sem intercorrências (perda sanguínea estimada de 300 mL, sem transfusão e sem hipotensão), amamenta exclusivamente com boa produção de leite. Tem cefaleia frontal progressiva há 3 semanas, náuseas, astenia e tontura ao levantar; refere cefaleia leve já no último mês da gestação. PA 92 x 60 mmHg em pé, sem alterações neurológicas, campos visuais normais à confrontação. Exames: sódio 128 mEq/L, potássio 4,1 mEq/L, glicemia 64 mg/dL, cortisol às 8 horas 1,8 mcg/dL, ACTH 6 pg/mL (VR 10 a 60), TSH 1,1 mUI/L, T4 livre 0,98 ng/dL (VR 0,9 a 1,8), prolactina 78 ng/mL. Ressonância de sela: hipófise aumentada de forma simétrica, com realce homogêneo e intenso pelo contraste, haste espessada, sem sinais de sangramento, quiasma livre. O diagnóstico mais provável é:",
   "alternativas": {
-   "A": "Hipofisite linfocítica",
+   "A": "Hiperplasia hipofisária da gestação",
    "B": "Síndrome de Sheehan",
    "C": "Macroadenoma não funcionante",
-   "D": "Hiperplasia hipofisária da gestação"
+   "D": "Hipofisite linfocítica"
   },
-  "gabarito": "A",
+  "gabarito": "D",
   "armadilha": "B",
   "dado_decisivo": "perda sanguínea estimada de 300 mL, sem transfusão e sem hipotensão",
   "resolucao": "Insuficiência adrenal central no puerpério puxa Sheehan, a resposta de manual. Os negativos do meio derrubam essa hipótese: Sheehan é necrose isquêmica após hemorragia obstétrica grave com choque, e esta paciente perdeu 300 mL sem hipotensão; além disso, a primeira manifestação do Sheehan costuma ser a falha da lactação, e ela amamenta com boa produção. A ressonância completa o quadro: hipófise aumentada de forma simétrica, com realce homogêneo e haste espessada, sem sangramento, em vez da sela que se esvazia no Sheehan. A hipofisite linfocítica acomete sobretudo mulheres no fim da gestação e no pós-parto, com cefaleia e deficiência precoce e seletiva de ACTH, e a prolactina pode estar elevada. A conduta é hidrocortisona imediata, e a cirurgia fica reservada para compressão visual.",
   "comentarios": {
-   "A": "Correta. Puerpério sem hemorragia, lactação preservada, deficiência de ACTH, prolactina alta e hipófise aumentada de forma simétrica com haste espessada: hipofisite linfocítica.",
+   "A": "Errada. O aumento fisiológico da gestação regride após o parto e não causa insuficiência adrenal, cefaleia progressiva nem espessamento da haste.",
    "B": "Errada. É a armadilha: Sheehan exige hemorragia obstétrica com hipotensão, cursa com falha da lactação e não aumenta a hipófise com realce intenso.",
    "C": "Errada. Adenoma não funcionante costuma ser assimétrico, desvia a haste em vez de espessá-la e dá deficiência de gonadotrofinas e GH antes da de ACTH.",
-   "D": "Errada. O aumento fisiológico da gestação regride após o parto e não causa insuficiência adrenal, cefaleia progressiva nem espessamento da haste."
+   "D": "Correta. Puerpério sem hemorragia, lactação preservada, deficiência de ACTH, prolactina alta e hipófise aumentada de forma simétrica com haste espessada: hipofisite linfocítica."
   },
   "para_levar": "Hipopituitarismo no periparto sem hemorragia, com lactação preservada e hipófise aumentada de forma simétrica com haste espessada é hipofisite linfocítica; Sheehan pede hemorragia com choque e falha da lactação.",
   "referencias": "Endocrine Society 2016 (Hormonal replacement in hypopituitarism in adults); Joshi MN et al., Eur J Endocrinol 2018 (Hypophysitis: diagnosis and treatment); Karaca Z et al., Nat Rev Dis Primers 2016 (Sheehan syndrome).",

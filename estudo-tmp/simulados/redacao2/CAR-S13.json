@@ -44,20 +44,20 @@
   "nivel": "difícil",
   "enunciado": "Homem de 34 anos, sem comorbidades, é atendido por síndrome gripal com febre de 39,6 °C há 2 dias. Nunca teve síncope, palpitações, respiração agônica noturna ou crises convulsivas; não há morte súbita ou síncope em parentes de primeiro grau antes dos 45 anos. ECG na admissão, febril: supradesnivelamento do ST de 3 mm em V1 e V2, com morfologia em 'cúpula' e onda T negativa, QRS de 100 ms e QTc de 420 ms. O ECG admissional da empresa, de 1 ano atrás, era normal. Após dipirona e resfriamento, o ECG repetido com 37,0 °C, 12 horas depois, é normal. Ecocardiograma normal; potássio 4,1 mEq/L. Ele vai receber alta. A conduta mais adequada é:",
   "alternativas": {
-   "A": "Implante de cardioversor-desfibrilador",
+   "A": "Estudo eletrofisiológico para estratificação",
    "B": "Quinidina oral contínua",
    "C": "Antitérmico precoce e lista de drogas a evitar",
-   "D": "Estudo eletrofisiológico para estratificação"
+   "D": "Implante de cardioversor-desfibrilador"
   },
   "gabarito": "C",
-  "armadilha": "A",
+  "armadilha": "D",
   "dado_decisivo": "Nunca teve síncope, palpitações, respiração agônica noturna ou crises convulsivas",
   "resolucao": "O padrão de Brugada tipo 1 (supra em cúpula de 2 mm ou mais em V1 e V2 com T negativa) desmascarado pela febre assusta, e o CDI é a isca. Mas o risco de morte súbita no Brugada depende da clínica: o CDI tem indicação em quem sobreviveu a parada cardíaca, teve TV sustentada ou síncope de provável origem arrítmica. No assintomático, e ainda mais com padrão tipo 1 que só aparece com febre (não espontâneo), o risco anual de evento é muito baixo, e a conduta é educação: tratar toda febre precocemente com antitérmico, evitar as drogas que bloqueiam o canal de sódio ou desmascaram o padrão (lista disponível em brugadadrugs.org: antiarrítmicos da classe I, alguns antidepressivos tricíclicos, lítio, propofol em altas doses, cocaína) e evitar excesso de álcool. Estudo eletrofisiológico é, no máximo, considerado no assintomático com padrão tipo 1 espontâneo, que não é o caso.",
   "comentarios": {
-   "A": "Errada, e é a armadilha. O CDI está indicado no Brugada com parada recuperada, TV sustentada ou síncope arrítmica; no assintomático com padrão induzido por febre, o dano do dispositivo supera o benefício.",
+   "A": "Errada. O estudo eletrofisiológico tem papel discutível e só é considerado no assintomático com padrão tipo 1 espontâneo; com padrão induzido por febre, não acrescenta.",
    "B": "Errada. A quinidina é usada em tempestade elétrica ou como alternativa em quem tem indicação de CDI e não pode recebê-lo; não é profilaxia de assintomático.",
    "C": "Correta. Sem sintomas e com padrão só durante a febre, a conduta é tratar a febre precocemente e evitar drogas que desmascaram o padrão.",
-   "D": "Errada. O estudo eletrofisiológico tem papel discutível e só é considerado no assintomático com padrão tipo 1 espontâneo; com padrão induzido por febre, não acrescenta."
+   "D": "Errada, e é a armadilha. O CDI está indicado no Brugada com parada recuperada, TV sustentada ou síncope arrítmica; no assintomático com padrão induzido por febre, o dano do dispositivo supera o benefício."
   },
   "para_levar": "Brugada: CDI para parada recuperada ou síncope arrítmica. Assintomático, sobretudo com padrão tipo 1 só na febre: antitérmico precoce e lista de drogas a evitar.",
   "referencias": "ESC 2022 Guidelines for ventricular arrhythmias and the prevention of sudden cardiac death; Expert Consensus Statement on inherited primary arrhythmia syndromes (HRS/EHRA/APHRS 2022)",
@@ -81,18 +81,18 @@
   "alternativas": {
    "A": "Cardiomiopatia periparto",
    "B": "Cardiotoxicidade tardia por antraciclina",
-   "C": "Miocardite viral aguda",
-   "D": "Cardiomiopatia alcoólica"
+   "C": "Cardiomiopatia alcoólica",
+   "D": "Miocardite viral aguda"
   },
   "gabarito": "B",
-  "armadilha": "C",
+  "armadilha": "D",
   "dado_decisivo": "sem edema miocárdico em T2 e sem realce tardio",
   "resolucao": "A síndrome gripal recente é verdadeira e cria o rótulo de miocardite viral, que é a isca. Mas a ressonância decide: miocardite aguda tem edema em T2 e realce tardio mesoepicárdico ou não isquêmico (critérios de Lake Louise), e aqui não há nenhum dos dois. O dado omitido está na história oncológica: tumor ósseo maligno de fêmur tratado aos 14 anos com quimioterapia antes e depois da cirurgia é osteossarcoma, cujo esquema padrão contém doxorrubicina em dose cumulativa alta. A antraciclina causa cardiomiopatia dilatada dose-dependente que pode surgir décadas depois, e o risco é maior quando a exposição ocorre na infância e adolescência; por isso sobreviventes precisam de ecocardiograma periódico por toda a vida. O parto há 4 anos está fora da janela da cardiomiopatia periparto, e duas doses semanais de álcool não causam cardiomiopatia.",
   "comentarios": {
    "A": "Errada. A cardiomiopatia periparto surge do último mês da gestação até 5 meses após o parto; o parto foi há 4 anos.",
    "B": "Correta. Osteossarcoma tratado na adolescência implica doxorrubicina em dose cumulativa alta, e a cardiomiopatia dilatada tardia, sem edema nem realce na ressonância, é a apresentação esperada.",
-   "C": "Errada, e é a armadilha. Seria a resposta com edema em T2 e realce tardio mesoepicárdico na ressonância; a gripe recente é verdadeira, mas a ressonância não mostra inflamação.",
-   "D": "Errada. A cardiomiopatia alcoólica exige consumo pesado e prolongado (em geral acima de 80 g por dia por anos); duas doses por semana não a explicam."
+   "C": "Errada. A cardiomiopatia alcoólica exige consumo pesado e prolongado (em geral acima de 80 g por dia por anos); duas doses por semana não a explicam.",
+   "D": "Errada, e é a armadilha. Seria a resposta com edema em T2 e realce tardio mesoepicárdico na ressonância; a gripe recente é verdadeira, mas a ressonância não mostra inflamação."
   },
   "para_levar": "Cardiomiopatia dilatada em sobrevivente de câncer da infância ou adolescência (osteossarcoma, linfoma, leucemia): pense em antraciclina, que causa disfunção tardia décadas depois; a ressonância sem edema e sem realce afasta miocardite.",
   "referencias": "ESC 2022 Guidelines on cardio-oncology; Diretriz Brasileira de Cardio-oncologia SBC 2020; Children's Oncology Group Long-Term Follow-Up Guidelines v6.0, 2023",
@@ -147,20 +147,20 @@
   "nivel": "extremamente difícil",
   "enunciado": "Homem de 58 anos, sem doenças prévias, procura atendimento por palpitações e dispneia progressiva há 4 meses. ECG: fibrilação atrial com resposta ventricular de 140 bpm. Ecocardiograma: VE com diâmetro diastólico de 61 mm, FE 28%, hipocinesia difusa, átrio esquerdo de 46 mm. Cineangiocoronariografia sem lesões; ressonância sem realce tardio; TSH normal, sem etilismo. Está há 5 semanas em uso regular de apixabana, carvedilol em dose máxima tolerada, sacubitril-valsartana, espironolactona e dapagliflozina; a FC em repouso caiu para 112 bpm, mas no Holter a média de 24 horas é 118 bpm. Sem sinais de congestão hoje. O cardiologista do convênio sugere implantar logo um cardiodesfibrilador 'porque a FE está abaixo de 35%'. A conduta mais adequada neste momento é:",
   "alternativas": {
-   "A": "Implante de cardiodesfibrilador para prevenção primária",
+   "A": "Associar digoxina e manter o controle de frequência",
    "B": "Cardioversão elétrica e reavaliação da FE em 3 meses",
    "C": "Ablação do nó atrioventricular com marca-passo",
-   "D": "Associar digoxina e manter o controle de frequência"
+   "D": "Implante de cardiodesfibrilador para prevenção primária"
   },
   "gabarito": "B",
-  "armadilha": "A",
+  "armadilha": "D",
   "dado_decisivo": "Cineangiocoronariografia sem lesões; ressonância sem realce tardio",
   "resolucao": "FE abaixo de 35% lembra a indicação de CDI, que é a isca, mas a diretriz exige pelo menos 3 meses de tratamento otimizado e, quando há causa potencialmente reversível, a correção dela antes. FA persistente com resposta ventricular alta e mal controlada, coronárias normais e ressonância sem realce tardio (sem fibrose) é o cenário da cardiomiopatia induzida por taquicardia, que costuma recuperar a FE em semanas a meses depois de restaurado o ritmo sinusal. Com mais de 3 semanas de anticoagulação eficaz, a cardioversão elétrica pode ser feita sem eco transesofágico, mantendo a anticoagulação por pelo menos 4 semanas depois, e a ablação por cateter da FA (recomendação classe I quando se suspeita de cardiomiopatia induzida por taquicardia) é a via para manter o ritmo, sobretudo se houver recorrência. A FE é reavaliada após cerca de 3 meses: se recuperar, o diagnóstico se confirma e o CDI não é necessário.",
   "comentarios": {
-   "A": "Errada, e é a armadilha. O CDI de prevenção primária exige FE de 35% ou menos após pelo menos 3 meses de tratamento otimizado e sem causa reversível; aqui a taquicardia persistente é a causa provável e ainda não foi corrigida.",
+   "A": "Errada. A digoxina pode ajudar no controle de frequência, mas manter a FA quando a disfunção é provavelmente induzida pela taquicardia perde a chance de recuperar a FE.",
    "B": "Correta. Com mais de 3 semanas de anticoagulação, restaurar o ritmo sinusal trata a causa provável da disfunção, e a FE reavaliada em 3 meses decide sobre dispositivos.",
    "C": "Errada. A ablação do nó com marca-passo é para FA permanente refratária ao controle de frequência e de ritmo; ainda não se tentou o ritmo sinusal.",
-   "D": "Errada. A digoxina pode ajudar no controle de frequência, mas manter a FA quando a disfunção é provavelmente induzida pela taquicardia perde a chance de recuperar a FE."
+   "D": "Errada, e é a armadilha. O CDI de prevenção primária exige FE de 35% ou menos após pelo menos 3 meses de tratamento otimizado e sem causa reversível; aqui a taquicardia persistente é a causa provável e ainda não foi corrigida."
   },
   "para_levar": "FE baixa com FA de resposta alta, coronárias normais e sem fibrose na ressonância: suspeite de cardiomiopatia induzida por taquicardia, restaure o ritmo e reavalie a FE em cerca de 3 meses antes de indicar CDI.",
   "referencias": "ESC 2024 Guidelines for the management of atrial fibrillation; ESC 2021 Guidelines for heart failure e atualização 2023; ESC 2022 Guidelines for ventricular arrhythmias (indicação de CDI)",

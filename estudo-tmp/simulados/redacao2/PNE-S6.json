@@ -1,171 +1,171 @@
 [
-  {
-    "id": "S6-PNE-01",
-    "simulado": 6,
-    "area": "Pneumologia",
-    "titulo": "TEP na gestante com sinais de TVP: ultrassonografia venosa antes de irradiar o tórax, e heparina de baixo peso",
-    "arma": "Grade X / Y",
-    "comando": "próximo exame",
-    "nivel": "difícil",
-    "enunciado": "Mulher de 31 anos, com 24 semanas de gestação, procura a emergência por dispneia aos moderados esforços e dor pleurítica à direita há dois dias. Nega febre e tosse. Sem comorbidades, usa apenas sulfato ferroso. Exame: PA 112 x 70 mmHg, FC 104 bpm, FR 22 irpm, SpO2 95% em ar ambiente, ausculta pulmonar sem alterações. A panturrilha esquerda está 3 cm mais grossa que a direita, com empastamento doloroso. Radiografia de tórax com proteção abdominal: normal. ECG: taquicardia sinusal. D-dímero 1.900 ng/mL. Função renal normal. O exame a solicitar agora e o anticoagulante a usar se o diagnóstico se confirmar são, respectivamente:",
-    "alternativas": {
-      "A": "Angiotomografia de tórax / heparina não fracionada",
-      "B": "Cintilografia de ventilação e perfusão / enoxaparina",
-      "C": "Ultrassonografia venosa compressiva / enoxaparina",
-      "D": "Ultrassonografia venosa compressiva / rivaroxabana"
-    },
-    "gabarito": "C",
-    "armadilha": "B",
-    "dado_decisivo": "A panturrilha esquerda está 3 cm mais grossa que a direita",
-    "resolucao": "A cintilografia atrai porque é o exame de tórax lembrado para a gestante com radiografia normal, e o medo da radiação empurra para ela. Mas este caso tem sinais clínicos de TVP no meio do exame físico, e na gestante com suspeita de TEP e sinais de TVP o primeiro exame é a ultrassonografia venosa compressiva: se mostrar trombose, o tratamento é o mesmo do TEP e nenhuma radiação é necessária. Só se o ultrassom for negativo segue-se para cintilografia ou angiotomografia. O D-dímero sobe fisiologicamente na gestação e, isolado, não decide. Confirmada a trombose, o anticoagulante é a heparina de baixo peso molecular em dose plena ajustada ao peso, que não atravessa a placenta; os anticoagulantes orais diretos são contraindicados na gestação, e a heparina não fracionada fica para quem tem disfunção renal grave ou pode precisar de procedimento imediato.",
-    "comentarios": {
-      "A": "Errada. Angiotomografia seria o exame com ultrassom negativo e radiografia alterada; a heparina não fracionada se reserva a insuficiência renal grave ou parto e trombólise iminentes. A panturrilha empastada pede ultrassom antes.",
-      "B": "Errada. A cintilografia é boa opção na gestante com radiografia normal e SEM sinais de TVP. Aqui há panturrilha 3 cm mais grossa, e o ultrassom pode dispensar qualquer radiação.",
-      "C": "Correta. Sinais de TVP na gestante: ultrassom venoso primeiro; confirmada a trombose, enoxaparina em dose plena.",
-      "D": "Errada. O exame está certo, mas anticoagulante oral direto atravessa a placenta e é contraindicado na gestação; seria opção após o parto em quem não amamenta."
-    },
-    "para_levar": "Na gestante com suspeita de TEP e sinais de TVP, ultrassonografia venosa compressiva primeiro; trombose confirmada dispensa imagem do tórax. Anticoagulante na gestação é heparina de baixo peso molecular, nunca DOAC ou varfarina.",
-    "referencias": "ESC 2019 (embolia pulmonar aguda); ASH 2018 (tromboembolismo venoso na gestação); Diretriz Conjunta sobre Tromboembolismo Venoso SBC 2022.",
-    "tags": [
-      "TEP (CM)",
-      "Hipertensão Pulmonar e TEP (CM)"
-    ],
-    "sourceQuestionId": "51c89ef02c07551",
-    "alvo": "Próximo exame: pular o degrau simples (ultrassom) e ir à imagem do tórax; droga contraindicada pela condição do paciente (gestação)."
+ {
+  "id": "S6-PNE-01",
+  "simulado": 6,
+  "area": "Pneumologia",
+  "titulo": "TEP na gestante com sinais de TVP: ultrassonografia venosa antes de irradiar o tórax, e heparina de baixo peso",
+  "arma": "Grade X / Y",
+  "comando": "próximo exame",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 31 anos, com 24 semanas de gestação, procura a emergência por dispneia aos moderados esforços e dor pleurítica à direita há dois dias. Nega febre e tosse. Sem comorbidades, usa apenas sulfato ferroso. Exame: PA 112 x 70 mmHg, FC 104 bpm, FR 22 irpm, SpO2 95% em ar ambiente, ausculta pulmonar sem alterações. A panturrilha esquerda está 3 cm mais grossa que a direita, com empastamento doloroso. Radiografia de tórax com proteção abdominal: normal. ECG: taquicardia sinusal. D-dímero 1.900 ng/mL. Função renal normal. O exame a solicitar agora e o anticoagulante a usar se o diagnóstico se confirmar são, respectivamente:",
+  "alternativas": {
+   "A": "Angiotomografia de tórax / heparina não fracionada",
+   "B": "Cintilografia de ventilação e perfusão / enoxaparina",
+   "C": "Ultrassonografia venosa compressiva / enoxaparina",
+   "D": "Ultrassonografia venosa compressiva / rivaroxabana"
   },
-  {
-    "id": "S6-PNE-02",
-    "simulado": 6,
-    "area": "Pneumologia",
-    "titulo": "Pneumotórax espontâneo primário no mergulhador profissional: cirurgia já no primeiro episódio",
-    "arma": "Qualificador",
-    "comando": "conduta",
-    "nivel": "difícil",
-    "enunciado": "Homem de 24 anos, alto e magro, tabagista de 5 maços-ano, trabalha como mergulhador profissional em plataforma de petróleo. Há 10 dias teve dor torácica súbita à esquerda em repouso; a radiografia mostrou pneumotórax de 2,5 cm na altura do hilo, tratado com aspiração por agulha, com reexpansão completa e alta no mesmo dia. Hoje volta ao ambulatório assintomático, SpO2 98%, radiografia normal. A TC de tórax mostra pequenas bolhas apicais bilaterais, sem cistos difusos nem outras alterações. Foi orientado a parar de fumar e pergunta quando volta a mergulhar. Para prevenir a recorrência, a conduta mais adequada é:",
-    "alternativas": {
-      "A": "Apenas cessação do tabagismo",
-      "B": "Pleurodese com talco pelo dreno",
-      "C": "Tomografia anual das bolhas",
-      "D": "Videotoracoscopia com pleurectomia"
-    },
-    "gabarito": "D",
-    "armadilha": "A",
-    "dado_decisivo": "trabalha como mergulhador profissional em plataforma de petróleo",
-    "resolucao": "A regra que o candidato lembra é verdadeira: no primeiro episódio de pneumotórax espontâneo primário não se indica procedimento para prevenir recorrência, e parar de fumar é a principal medida. O comando, porém, qualifica a conduta pela prevenção, e o dado da profissão muda a regra: em quem tem exposição ocupacional a variações de pressão (mergulhador, piloto), uma recorrência pode ser fatal, e a diretriz indica cirurgia definitiva já após o primeiro episódio. A técnica de escolha é a videotoracoscopia com pleurectomia (com ressecção das bolhas), que tem a menor taxa de recorrência. A pleurodese química pelo dreno é inferior e reservada a quem não pode ser operado. Mesmo após a cirurgia, a liberação para mergulho exige avaliação especializada.",
-    "comentarios": {
-      "A": "Errada. Seria a conduta no primeiro episódio de um paciente sem profissão de risco. Para o mergulhador profissional a recorrência é inaceitável.",
-      "B": "Errada. Pleurodese química pelo dreno tem recorrência maior que a cirurgia e fica para quem não tolera operação ou recusa a cirurgia.",
-      "C": "Errada. Seguir bolhas com tomografia não previne nada e não muda conduta; bolhas apicais pequenas são o achado esperado.",
-      "D": "Correta. Profissão com variação de pressão indica cirurgia definitiva já no primeiro episódio: videotoracoscopia com pleurectomia."
-    },
-    "para_levar": "Pneumotórax espontâneo primário: procedimento antirrecorrência só a partir do segundo episódio, EXCETO em profissões de risco (mergulho, aviação), em que a videotoracoscopia com pleurectomia se indica no primeiro.",
-    "referencias": "BTS Guideline for Pleural Disease 2023; ERS/EACTS statement on primary spontaneous pneumothorax 2015.",
-    "tags": [
-      "Outros temas em Pneumologia (CM)"
-    ],
-    "sourceQuestionId": "26f09b025dc8079",
-    "alvo": "Aplicar a regra sem checar a precondição (a exceção ocupacional no primeiro episódio)."
+  "gabarito": "C",
+  "armadilha": "B",
+  "dado_decisivo": "A panturrilha esquerda está 3 cm mais grossa que a direita",
+  "resolucao": "A cintilografia atrai porque é o exame de tórax lembrado para a gestante com radiografia normal, e o medo da radiação empurra para ela. Mas este caso tem sinais clínicos de TVP no meio do exame físico, e na gestante com suspeita de TEP e sinais de TVP o primeiro exame é a ultrassonografia venosa compressiva: se mostrar trombose, o tratamento é o mesmo do TEP e nenhuma radiação é necessária. Só se o ultrassom for negativo segue-se para cintilografia ou angiotomografia. O D-dímero sobe fisiologicamente na gestação e, isolado, não decide. Confirmada a trombose, o anticoagulante é a heparina de baixo peso molecular em dose plena ajustada ao peso, que não atravessa a placenta; os anticoagulantes orais diretos são contraindicados na gestação, e a heparina não fracionada fica para quem tem disfunção renal grave ou pode precisar de procedimento imediato.",
+  "comentarios": {
+   "A": "Errada. Angiotomografia seria o exame com ultrassom negativo e radiografia alterada; a heparina não fracionada se reserva a insuficiência renal grave ou parto e trombólise iminentes. A panturrilha empastada pede ultrassom antes.",
+   "B": "Errada. A cintilografia é boa opção na gestante com radiografia normal e SEM sinais de TVP. Aqui há panturrilha 3 cm mais grossa, e o ultrassom pode dispensar qualquer radiação.",
+   "C": "Correta. Sinais de TVP na gestante: ultrassom venoso primeiro; confirmada a trombose, enoxaparina em dose plena.",
+   "D": "Errada. O exame está certo, mas anticoagulante oral direto atravessa a placenta e é contraindicado na gestação; seria opção após o parto em quem não amamenta."
   },
-  {
-    "id": "S6-PNE-03",
-    "simulado": 6,
-    "area": "Pneumologia",
-    "titulo": "Asma grave com bronquiectasias centrais e IgE muito alta: sensibilização a Aspergillus antes do biológico",
-    "arma": "Dado omitido",
-    "comando": "próximo exame",
-    "nivel": "difícil",
-    "enunciado": "Mulher de 38 anos, asmática desde a infância, piorou no último ano apesar de budesonida-formoterol 400/12 mcg duas vezes ao dia, com técnica adequada e adesão conferida na farmácia. Recebeu três ciclos de prednisona no período e tem expectorado tampões acastanhados. Nega tabagismo e contato com aves. SpO2 96%, sibilos esparsos. Hemograma: eosinófilos 1.100/mm³. IgE total 2.400 UI/mL (referência até 100). TC de tórax: bronquiectasias centrais nos lobos superiores, algumas preenchidas por muco hiperdenso. O médico que a acompanhava já preencheu o formulário para mepolizumabe, por asma eosinofílica grave. O exame a solicitar agora é:",
-    "alternativas": {
-      "A": "IgE específica para Aspergillus",
-      "B": "Cultura de escarro para fungos",
-      "C": "Broncoscopia com lavado broncoalveolar",
-      "D": "Galactomanana sérica e hemoculturas"
-    },
-    "gabarito": "A",
-    "armadilha": "C",
-    "dado_decisivo": "bronquiectasias centrais nos lobos superiores, algumas preenchidas por muco hiperdenso",
-    "resolucao": "O rótulo de asma eosinofílica grave é verdadeiro e puxa o biológico, mas o caso tem tudo da aspergilose broncopulmonar alérgica: tampões acastanhados, IgE total acima de 500, eosinofilia e bronquiectasias centrais com muco hiperdenso. Pelos critérios da ISHAM (revisão de 2024), em quem tem asma o diagnóstico exige IgE total elevada e sensibilização ao Aspergillus fumigatus, demonstrada pela IgE específica (ou teste cutâneo). É um exame de sangue simples e é o que falta. Cultura de escarro tem baixa sensibilidade e o fungo pode ser só colonização; broncoscopia não entra no diagnóstico; galactomanana serve à aspergilose invasiva. Confirmada a ABPA, o tratamento inicial é prednisolona ou itraconazol, e o biológico vira opção para as recorrências.",
-    "comentarios": {
-      "A": "Correta. Com IgE total acima de 500 e bronquiectasias centrais, a sensibilização ao A. fumigatus fecha o diagnóstico de ABPA.",
-      "B": "Errada. Cultura positiva apoia, mas não é critério obrigatório e tem baixa sensibilidade; seria útil para suspeita de aspergilose crônica cavitária.",
-      "C": "Errada. É o exame a mais: a ABPA se diagnostica por sangue e imagem; broncoscopia caberia na suspeita de infecção oportunista ou neoplasia.",
-      "D": "Errada. Galactomanana sérica é marcador de aspergilose invasiva no neutropênico, não de doença alérgica."
-    },
-    "para_levar": "Asma difícil com IgE acima de 500, eosinofilia e bronquiectasias centrais: pedir IgE específica para Aspergillus antes do biológico. O tratamento da ABPA começa com corticoide oral ou itraconazol.",
-    "referencias": "ISHAM-ABPA Working Group 2024 (critérios revisados); GINA 2024 (asma difícil e grave).",
-    "tags": [
-      "Aspergilose Broncopulmonar Alérgica (ABPA) (CM)",
-      "Asma - ambulatorial (CM)"
-    ],
-    "sourceQuestionId": "048fc6c17f023db",
-    "alvo": "Dado omitido (a sensibilização ao Aspergillus que falta para fechar ABPA) sob o rótulo verdadeiro de asma eosinofílica grave; próximo exame simples x invasivo."
+  "para_levar": "Na gestante com suspeita de TEP e sinais de TVP, ultrassonografia venosa compressiva primeiro; trombose confirmada dispensa imagem do tórax. Anticoagulante na gestação é heparina de baixo peso molecular, nunca DOAC ou varfarina.",
+  "referencias": "ESC 2019 (embolia pulmonar aguda); ASH 2018 (tromboembolismo venoso na gestação); Diretriz Conjunta sobre Tromboembolismo Venoso SBC 2022.",
+  "tags": [
+   "TEP (CM)",
+   "Hipertensão Pulmonar e TEP (CM)"
+  ],
+  "sourceQuestionId": "51c89ef02c07551",
+  "alvo": "Próximo exame: pular o degrau simples (ultrassom) e ir à imagem do tórax; droga contraindicada pela condição do paciente (gestação)."
+ },
+ {
+  "id": "S6-PNE-02",
+  "simulado": 6,
+  "area": "Pneumologia",
+  "titulo": "Pneumotórax espontâneo primário no mergulhador profissional: cirurgia já no primeiro episódio",
+  "arma": "Qualificador",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Homem de 24 anos, alto e magro, tabagista de 5 maços-ano, trabalha como mergulhador profissional em plataforma de petróleo. Há 10 dias teve dor torácica súbita à esquerda em repouso; a radiografia mostrou pneumotórax de 2,5 cm na altura do hilo, tratado com aspiração por agulha, com reexpansão completa e alta no mesmo dia. Hoje volta ao ambulatório assintomático, SpO2 98%, radiografia normal. A TC de tórax mostra pequenas bolhas apicais bilaterais, sem cistos difusos nem outras alterações. Foi orientado a parar de fumar e pergunta quando volta a mergulhar. Para prevenir a recorrência, a conduta mais adequada é:",
+  "alternativas": {
+   "A": "Apenas cessação do tabagismo",
+   "B": "Pleurodese com talco pelo dreno",
+   "C": "Tomografia anual das bolhas",
+   "D": "Videotoracoscopia com pleurectomia"
   },
-  {
-    "id": "S6-PNE-04",
-    "simulado": 6,
-    "area": "Pneumologia",
-    "titulo": "Hemoptise maciça com lado definido: decúbito sobre o pulmão que sangra antes de qualquer exame",
-    "arma": "Cronologia",
-    "comando": "conduta",
-    "nivel": "difícil",
-    "enunciado": "Homem de 52 anos, com sequela de tuberculose tratada há 10 anos (cavidade residual no lobo superior direito), chega à emergência após expectorar cerca de 400 mL de sangue vivo nas últimas 3 horas. Está acordado e ansioso, fala frases curtas e tem nova golfada de sangue durante o exame. PA 128 x 80 mmHg, FC 112 bpm, SpO2 89% em ar ambiente, estertores grossos em todo o hemitórax direito, com o esquerdo limpo. Não usa anticoagulante; plaquetas e coagulograma normais. A equipe de radiologia intervencionista chega em 40 minutos. Enquanto se oferece oxigênio e se obtém acesso venoso, a primeira medida é:",
-    "alternativas": {
-      "A": "Decúbito lateral sobre o lado direito",
-      "B": "Broncoscopia flexível à beira do leito",
-      "C": "Angiotomografia de tórax imediata",
-      "D": "Ácido tranexâmico e observação"
-    },
-    "gabarito": "A",
-    "armadilha": "C",
-    "dado_decisivo": "estertores grossos em todo o hemitórax direito, com o esquerdo limpo",
-    "resolucao": "Na hemoptise maciça o paciente morre por asfixia, e não por choque: o sangue inunda o pulmão que ainda troca gás. Por isso a ordem é proteger o pulmão bom antes de localizar ou tratar a fonte. O lado já está definido pela cavidade residual à direita e pelos estertores só à direita, então a primeira medida é deitá-lo em decúbito lateral sobre o lado direito, para que o sangue não escorra para o esquerdo; se a via aérea se perder, intubação com tubo calibroso (ou seletiva do brônquio esquerdo). A angiotomografia é o exame certo para planejar a embolização, mas vem depois, com via aérea protegida; a broncoscopia rígida ou flexível também é passo seguinte, não o primeiro. Ácido tranexâmico é adjuvante e não substitui a proteção da via aérea.",
-    "comentarios": {
-      "A": "Correta. Lado sangrante definido: decúbito sobre ele, protegendo o pulmão esquerdo limpo, é a primeira medida.",
-      "B": "Errada. Broncoscopia localiza e controla temporariamente, mas vem depois de posicionar e garantir a via aérea; seria o primeiro passo com o lado desconhecido e via aérea já protegida.",
-      "C": "Errada. É o exame que antecede a embolização no paciente estabilizado; feito agora, leva ao tomógrafo um paciente que pode afogar no caminho.",
-      "D": "Errada. Antifibrinolítico é adjuvante, útil na hemoptise não maciça; aqui a ameaça é a via aérea."
-    },
-    "para_levar": "Hemoptise maciça: primeiro proteger o pulmão bom (decúbito sobre o lado que sangra, intubação se preciso), depois localizar (angiotomografia, broncoscopia) e por fim embolizar a artéria brônquica.",
-    "referencias": "Davidson K, Shojaee S. Managing massive hemoptysis. Chest 2020; Ittrich H et al. The diagnosis and treatment of hemoptysis. Dtsch Arztebl Int 2017.",
-    "tags": [
-      "Outros temas em Pneumologia (CM)",
-      "Bronquiectasias (CM)"
-    ],
-    "sourceQuestionId": null,
-    "alvo": "Ordem da conduta na emergência: investigar antes de estabilizar."
+  "gabarito": "D",
+  "armadilha": "A",
+  "dado_decisivo": "trabalha como mergulhador profissional em plataforma de petróleo",
+  "resolucao": "A regra que o candidato lembra é verdadeira: no primeiro episódio de pneumotórax espontâneo primário não se indica procedimento para prevenir recorrência, e parar de fumar é a principal medida. O comando, porém, qualifica a conduta pela prevenção, e o dado da profissão muda a regra: em quem tem exposição ocupacional a variações de pressão (mergulhador, piloto), uma recorrência pode ser fatal, e a diretriz indica cirurgia definitiva já após o primeiro episódio. A técnica de escolha é a videotoracoscopia com pleurectomia (com ressecção das bolhas), que tem a menor taxa de recorrência. A pleurodese química pelo dreno é inferior e reservada a quem não pode ser operado. Mesmo após a cirurgia, a liberação para mergulho exige avaliação especializada.",
+  "comentarios": {
+   "A": "Errada. Seria a conduta no primeiro episódio de um paciente sem profissão de risco. Para o mergulhador profissional a recorrência é inaceitável.",
+   "B": "Errada. Pleurodese química pelo dreno tem recorrência maior que a cirurgia e fica para quem não tolera operação ou recusa a cirurgia.",
+   "C": "Errada. Seguir bolhas com tomografia não previne nada e não muda conduta; bolhas apicais pequenas são o achado esperado.",
+   "D": "Correta. Profissão com variação de pressão indica cirurgia definitiva já no primeiro episódio: videotoracoscopia com pleurectomia."
   },
-  {
-    "id": "S6-PNE-05",
-    "simulado": 6,
-    "area": "Emergência",
-    "titulo": "Intoxicação digitálica precipitada por amiodarona na DRC: a FA que regulariza sem xantopsia, com hipercalemia como rótulo",
-    "arma": "Rótulo verdadeiro",
-    "comando": "etiologia",
-    "nivel": "difícil",
-    "enunciado": "Mulher de 81 anos, com fibrilação atrial permanente, insuficiência cardíaca com fração de ejeção de 35% e doença renal crônica (creatinina basal 1,8 mg/dL), é trazida por náuseas, anorexia e confusão há 4 dias. Há duas semanas o cardiologista acrescentou amiodarona por palpitações. Usa ainda furosemida, espironolactona 25 mg, sacubitril-valsartana, bisoprolol 2,5 mg e digoxina 0,25 mg/dia. PA 102 x 64 mmHg, FC 48 bpm. Potássio 5,9 mEq/L, creatinina 2,3 mg/dL, magnésio 1,9 mg/dL, TSH normal. ECG: ritmo regular de 48 bpm, sem ondas P visíveis, QRS estreito e infradesnivelamento côncavo do ST em V5 e V6. A causa mais provável do quadro é:",
-    "alternativas": {
-      "A": "Hipercalemia pela espironolactona",
-      "B": "Intoxicação digitálica",
-      "C": "Bradicardia pelo betabloqueador",
-      "D": "Hipotireoidismo pela amiodarona"
-    },
-    "gabarito": "B",
-    "armadilha": "A",
-    "dado_decisivo": "ritmo regular de 48 bpm, sem ondas P visíveis",
-    "resolucao": "A hipercalemia existe e tem causa verdadeira (espironolactona, sacubitril-valsartana, DRC), mas potássio de 5,9 não explica náuseas, anorexia e confusão, nem produz um ritmo regular lento numa FA permanente. O dado que decide está no ECG: uma fibrilação atrial permanente que ficou regular e lenta é bloqueio AV total com escape juncional, e isso, num paciente com digoxina, é intoxicação digitálica até prova em contrário. O gatilho é a amiodarona de duas semanas, que reduz a depuração da digoxina e eleva seu nível, somada à piora da função renal. A queixa visual (xantopsia) ajudaria, mas falta com frequência no idoso, e o ECG basta. A própria hipercalemia aqui é marcador de gravidade da intoxicação (inibição da Na/K ATPase). A conduta é suspender digoxina e amiodarona, dosar a digoxinemia e dar fragmentos Fab antidigoxina, indicados por bradiarritmia sintomática com hipercalemia; a digoxina não é removida por hemodiálise.",
-    "comentarios": {
-      "A": "Errada. Explica o potássio, mas não os sintomas digestivos e neurológicos nem a FA regularizada; seria a resposta com ondas T apiculadas e QRS alargando, sem digoxina.",
-      "B": "Correta. FA permanente que vira ritmo regular de 48 bpm, náuseas e confusão logo após amiodarona: intoxicação digitálica.",
-      "C": "Errada. Bisoprolol 2,5 mg mantido há tempos desacelera a FA, mas não a regulariza nem explica náuseas e confusão.",
-      "D": "Errada. Hipotireoidismo por amiodarona leva meses e o TSH está normal."
-    },
-    "para_levar": "Paciente com digoxina cuja FA fica regular e lenta tem BAV total por intoxicação digitálica. Amiodarona eleva o nível da digoxina; o tratamento é Fab antidigoxina, não hemodiálise.",
-    "referencias": "Diretriz Brasileira de Insuficiência Cardíaca SBC 2018 e atualização 2021; AHA 2023 Focused Update on Management of Patients With Cardiac Arrest or Life-Threatening Toxicity Due to Poisoning.",
-    "tags": [
-      "Intoxicações (CM)",
-      "Fibrilação Atrial (CM)"
-    ],
-    "sourceQuestionId": null,
-    "alvo": "Exame que decide (ECG) lido como enfeite quando o rótulo laboratorial (hipercalemia) vem antes; droga em uso ignorada."
-  }
+  "para_levar": "Pneumotórax espontâneo primário: procedimento antirrecorrência só a partir do segundo episódio, EXCETO em profissões de risco (mergulho, aviação), em que a videotoracoscopia com pleurectomia se indica no primeiro.",
+  "referencias": "BTS Guideline for Pleural Disease 2023; ERS/EACTS statement on primary spontaneous pneumothorax 2015.",
+  "tags": [
+   "Outros temas em Pneumologia (CM)"
+  ],
+  "sourceQuestionId": "26f09b025dc8079",
+  "alvo": "Aplicar a regra sem checar a precondição (a exceção ocupacional no primeiro episódio)."
+ },
+ {
+  "id": "S6-PNE-03",
+  "simulado": 6,
+  "area": "Pneumologia",
+  "titulo": "Asma grave com bronquiectasias centrais e IgE muito alta: sensibilização a Aspergillus antes do biológico",
+  "arma": "Dado omitido",
+  "comando": "próximo exame",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 38 anos, asmática desde a infância, piorou no último ano apesar de budesonida-formoterol 400/12 mcg duas vezes ao dia, com técnica adequada e adesão conferida na farmácia. Recebeu três ciclos de prednisona no período e tem expectorado tampões acastanhados. Nega tabagismo e contato com aves. SpO2 96%, sibilos esparsos. Hemograma: eosinófilos 1.100/mm³. IgE total 2.400 UI/mL (referência até 100). TC de tórax: bronquiectasias centrais nos lobos superiores, algumas preenchidas por muco hiperdenso. O médico que a acompanhava já preencheu o formulário para mepolizumabe, por asma eosinofílica grave. O exame a solicitar agora é:",
+  "alternativas": {
+   "A": "IgE específica para Aspergillus",
+   "B": "Cultura de escarro para fungos",
+   "C": "Broncoscopia com lavado broncoalveolar",
+   "D": "Galactomanana sérica e hemoculturas"
+  },
+  "gabarito": "A",
+  "armadilha": "C",
+  "dado_decisivo": "bronquiectasias centrais nos lobos superiores, algumas preenchidas por muco hiperdenso",
+  "resolucao": "O rótulo de asma eosinofílica grave é verdadeiro e puxa o biológico, mas o caso tem tudo da aspergilose broncopulmonar alérgica: tampões acastanhados, IgE total acima de 500, eosinofilia e bronquiectasias centrais com muco hiperdenso. Pelos critérios da ISHAM (revisão de 2024), em quem tem asma o diagnóstico exige IgE total elevada e sensibilização ao Aspergillus fumigatus, demonstrada pela IgE específica (ou teste cutâneo). É um exame de sangue simples e é o que falta. Cultura de escarro tem baixa sensibilidade e o fungo pode ser só colonização; broncoscopia não entra no diagnóstico; galactomanana serve à aspergilose invasiva. Confirmada a ABPA, o tratamento inicial é prednisolona ou itraconazol, e o biológico vira opção para as recorrências.",
+  "comentarios": {
+   "A": "Correta. Com IgE total acima de 500 e bronquiectasias centrais, a sensibilização ao A. fumigatus fecha o diagnóstico de ABPA.",
+   "B": "Errada. Cultura positiva apoia, mas não é critério obrigatório e tem baixa sensibilidade; seria útil para suspeita de aspergilose crônica cavitária.",
+   "C": "Errada. É o exame a mais: a ABPA se diagnostica por sangue e imagem; broncoscopia caberia na suspeita de infecção oportunista ou neoplasia.",
+   "D": "Errada. Galactomanana sérica é marcador de aspergilose invasiva no neutropênico, não de doença alérgica."
+  },
+  "para_levar": "Asma difícil com IgE acima de 500, eosinofilia e bronquiectasias centrais: pedir IgE específica para Aspergillus antes do biológico. O tratamento da ABPA começa com corticoide oral ou itraconazol.",
+  "referencias": "ISHAM-ABPA Working Group 2024 (critérios revisados); GINA 2024 (asma difícil e grave).",
+  "tags": [
+   "Aspergilose Broncopulmonar Alérgica (ABPA) (CM)",
+   "Asma - ambulatorial (CM)"
+  ],
+  "sourceQuestionId": "048fc6c17f023db",
+  "alvo": "Dado omitido (a sensibilização ao Aspergillus que falta para fechar ABPA) sob o rótulo verdadeiro de asma eosinofílica grave; próximo exame simples x invasivo."
+ },
+ {
+  "id": "S6-PNE-04",
+  "simulado": 6,
+  "area": "Pneumologia",
+  "titulo": "Hemoptise maciça com lado definido: decúbito sobre o pulmão que sangra antes de qualquer exame",
+  "arma": "Cronologia",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Homem de 52 anos, com sequela de tuberculose tratada há 10 anos (cavidade residual no lobo superior direito), chega à emergência após expectorar cerca de 400 mL de sangue vivo nas últimas 3 horas. Está acordado e ansioso, fala frases curtas e tem nova golfada de sangue durante o exame. PA 128 x 80 mmHg, FC 112 bpm, SpO2 89% em ar ambiente, estertores grossos em todo o hemitórax direito, com o esquerdo limpo. Não usa anticoagulante; plaquetas e coagulograma normais. A equipe de radiologia intervencionista chega em 40 minutos. Enquanto se oferece oxigênio e se obtém acesso venoso, a primeira medida é:",
+  "alternativas": {
+   "A": "Decúbito lateral sobre o lado direito",
+   "B": "Broncoscopia flexível à beira do leito",
+   "C": "Angiotomografia de tórax imediata",
+   "D": "Ácido tranexâmico e observação"
+  },
+  "gabarito": "A",
+  "armadilha": "C",
+  "dado_decisivo": "estertores grossos em todo o hemitórax direito, com o esquerdo limpo",
+  "resolucao": "Na hemoptise maciça o paciente morre por asfixia, e não por choque: o sangue inunda o pulmão que ainda troca gás. Por isso a ordem é proteger o pulmão bom antes de localizar ou tratar a fonte. O lado já está definido pela cavidade residual à direita e pelos estertores só à direita, então a primeira medida é deitá-lo em decúbito lateral sobre o lado direito, para que o sangue não escorra para o esquerdo; se a via aérea se perder, intubação com tubo calibroso (ou seletiva do brônquio esquerdo). A angiotomografia é o exame certo para planejar a embolização, mas vem depois, com via aérea protegida; a broncoscopia rígida ou flexível também é passo seguinte, não o primeiro. Ácido tranexâmico é adjuvante e não substitui a proteção da via aérea.",
+  "comentarios": {
+   "A": "Correta. Lado sangrante definido: decúbito sobre ele, protegendo o pulmão esquerdo limpo, é a primeira medida.",
+   "B": "Errada. Broncoscopia localiza e controla temporariamente, mas vem depois de posicionar e garantir a via aérea; seria o primeiro passo com o lado desconhecido e via aérea já protegida.",
+   "C": "Errada. É o exame que antecede a embolização no paciente estabilizado; feito agora, leva ao tomógrafo um paciente que pode afogar no caminho.",
+   "D": "Errada. Antifibrinolítico é adjuvante, útil na hemoptise não maciça; aqui a ameaça é a via aérea."
+  },
+  "para_levar": "Hemoptise maciça: primeiro proteger o pulmão bom (decúbito sobre o lado que sangra, intubação se preciso), depois localizar (angiotomografia, broncoscopia) e por fim embolizar a artéria brônquica.",
+  "referencias": "Davidson K, Shojaee S. Managing massive hemoptysis. Chest 2020; Ittrich H et al. The diagnosis and treatment of hemoptysis. Dtsch Arztebl Int 2017.",
+  "tags": [
+   "Outros temas em Pneumologia (CM)",
+   "Bronquiectasias (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Ordem da conduta na emergência: investigar antes de estabilizar."
+ },
+ {
+  "id": "S6-PNE-05",
+  "simulado": 6,
+  "area": "Emergência",
+  "titulo": "Intoxicação digitálica precipitada por amiodarona na DRC: a FA que regulariza sem xantopsia, com hipercalemia como rótulo",
+  "arma": "Rótulo verdadeiro",
+  "comando": "etiologia",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 81 anos, com fibrilação atrial permanente, insuficiência cardíaca com fração de ejeção de 35% e doença renal crônica (creatinina basal 1,8 mg/dL), é trazida por náuseas, anorexia e confusão há 4 dias. Há duas semanas o cardiologista acrescentou amiodarona por palpitações. Usa ainda furosemida, espironolactona 25 mg, sacubitril-valsartana, bisoprolol 2,5 mg e digoxina 0,25 mg/dia. PA 102 x 64 mmHg, FC 48 bpm. Potássio 5,9 mEq/L, creatinina 2,3 mg/dL, magnésio 1,9 mg/dL, TSH normal. ECG: ritmo regular de 48 bpm, sem ondas P visíveis, QRS estreito e infradesnivelamento côncavo do ST em V5 e V6. A causa mais provável do quadro é:",
+  "alternativas": {
+   "A": "Hipercalemia pela espironolactona",
+   "B": "Intoxicação digitálica",
+   "C": "Bradicardia pelo betabloqueador",
+   "D": "Hipotireoidismo pela amiodarona"
+  },
+  "gabarito": "B",
+  "armadilha": "A",
+  "dado_decisivo": "ritmo regular de 48 bpm, sem ondas P visíveis",
+  "resolucao": "A hipercalemia existe e tem causa verdadeira (espironolactona, sacubitril-valsartana, DRC), mas potássio de 5,9 não explica náuseas, anorexia e confusão, nem produz um ritmo regular lento numa FA permanente. O dado que decide está no ECG: uma fibrilação atrial permanente que ficou regular e lenta é bloqueio AV total com escape juncional, e isso, num paciente com digoxina, é intoxicação digitálica até prova em contrário. O gatilho é a amiodarona de duas semanas, que reduz a depuração da digoxina e eleva seu nível, somada à piora da função renal. A queixa visual (xantopsia) ajudaria, mas falta com frequência no idoso, e o ECG basta. A própria hipercalemia aqui é marcador de gravidade da intoxicação (inibição da Na/K ATPase). A conduta é suspender digoxina e amiodarona, dosar a digoxinemia e dar fragmentos Fab antidigoxina, indicados por bradiarritmia sintomática com hipercalemia; a digoxina não é removida por hemodiálise.",
+  "comentarios": {
+   "A": "Errada. Explica o potássio, mas não os sintomas digestivos e neurológicos nem a FA regularizada; seria a resposta com ondas T apiculadas e QRS alargando, sem digoxina.",
+   "B": "Correta. FA permanente que vira ritmo regular de 48 bpm, náuseas e confusão logo após amiodarona: intoxicação digitálica.",
+   "C": "Errada. Bisoprolol 2,5 mg mantido há tempos desacelera a FA, mas não a regulariza nem explica náuseas e confusão.",
+   "D": "Errada. Hipotireoidismo por amiodarona leva meses e o TSH está normal."
+  },
+  "para_levar": "Paciente com digoxina cuja FA fica regular e lenta tem BAV total por intoxicação digitálica. Amiodarona eleva o nível da digoxina; o tratamento é Fab antidigoxina, não hemodiálise.",
+  "referencias": "Diretriz Brasileira de Insuficiência Cardíaca SBC 2018 e atualização 2021; AHA 2023 Focused Update on Management of Patients With Cardiac Arrest or Life-Threatening Toxicity Due to Poisoning.",
+  "tags": [
+   "Intoxicações (CM)",
+   "Fibrilação Atrial (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Exame que decide (ECG) lido como enfeite quando o rótulo laboratorial (hipercalemia) vem antes; droga em uso ignorada."
+ }
 ]

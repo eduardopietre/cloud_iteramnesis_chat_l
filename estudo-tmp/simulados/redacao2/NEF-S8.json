@@ -1,176 +1,174 @@
 [
-  {
-    "id": "S8-NEF-01",
-    "simulado": 8,
-    "area": "Nefrologia",
-    "titulo": "Síndrome de realimentação no terceiro dia de dieta plena na anorexia · reduzir o aporte e repor fosfato intravenoso",
-    "arma": "Cronologia",
-    "comando": "conduta",
-    "nivel": "difícil",
-    "enunciado": "Mulher de 22 anos, com anorexia nervosa (IMC 12,8 kg/m²), foi internada por desnutrição grave e recebe dieta enteral plena de 2.200 kcal/dia desde a admissão; os eletrólitos da admissão eram normais. No terceiro dia está confusa, com fraqueza generalizada, dispneia e edema de membros inferiores. PA 96/60 mmHg, FC 118 bpm, SpO2 91% em ar ambiente, estertores em bases. Exames: fósforo 0,9 mg/dL, potássio 2,8 mEq/L, magnésio 1,2 mg/dL, glicose 168 mg/dL, CK 2.400 U/L. Ainda não recebeu tiamina. A conduta mais adequada é:",
-    "alternativas": {
-      "A": "Manter a dieta e repor fosfato oral",
-      "B": "Reduzir a dieta e repor fosfato intravenoso",
-      "C": "Suspender a dieta e infundir glicose a 10%",
-      "D": "Manter a dieta e iniciar furosemida"
-    },
-    "gabarito": "B",
-    "armadilha": "A",
-    "dado_decisivo": "No terceiro dia",
-    "resolucao": "Eletrólitos normais na admissão dão a falsa segurança de que a dieta pode seguir; o que decide é a cronologia: a realimentação de desnutrido grave com aporte pleno, sem progressão, desencadeia em 2 a 4 dias a liberação de insulina, que desloca fósforo, potássio e magnésio para dentro das células e retém sódio e água. Fósforo abaixo de 1 mg/dL com confusão, insuficiência respiratória, rabdomiólise (CK alta) e insuficiência cardíaca é a forma grave, e pede reposição intravenosa de fosfato, potássio e magnésio com monitorização, além de reduzir o aporte calórico (por exemplo, para 5 a 10 kcal/kg/dia) e progredir devagar. A tiamina deve ser dada antes ou junto, porque a glicose consome a reserva já mínima. Manter a dieta plena com fosfato oral subestima a gravidade, glicose a 10% repete o gatilho, e furosemida agrava a hipocalemia e a hipomagnesemia.",
-    "comentarios": {
-      "A": "Errada. Fosfato oral cabe na hipofosfatemia leve e assintomática (acima de 2 mg/dL); com 0,9 mg/dL, confusão e insuficiência respiratória, a via é intravenosa e o aporte precisa cair.",
-      "B": "Correta. Hipofosfatemia grave sintomática no terceiro dia de dieta plena: reduzir o aporte, repor fosfato, potássio e magnésio por via intravenosa, com tiamina.",
-      "C": "Errada. A carga de glicose é o próprio gatilho da síndrome; infundir glicose a 10% sem fosfato aprofunda a queda do fósforo.",
-      "D": "Errada. Diurético seria tentador pela congestão, mas espolia ainda mais potássio e magnésio; a congestão melhora com a redução do aporte e a correção dos eletrólitos."
-    },
-    "para_levar": "Síndrome de realimentação aparece em 2 a 4 dias de aporte pleno em desnutrido grave. Fósforo abaixo de 1 mg/dL sintomático: reduzir o aporte, repor por via intravenosa, dar tiamina e progredir devagar.",
-    "referencias": "ASPEN Consensus Recommendations for Refeeding Syndrome (da Silva JSV et al., Nutr Clin Pract 2020); NICE CG32 Nutrition support for adults (2006, atualizada em 2017).",
-    "tags": [
-      "Distúrbios de Fósforo e Magnésio (CM)",
-      "Nutrição no Doente Crítico e Desvitaminoses (CM)"
-    ],
-    "sourceQuestionId": "2d8221a0ed54ff7",
-    "alvo": "Cronologia (3º dia de dieta) e porte da conduta: a reposição que subestima a gravidade e o gatilho mantido."
+ {
+  "id": "S8-NEF-01",
+  "simulado": 8,
+  "area": "Nefrologia",
+  "titulo": "Síndrome de realimentação no terceiro dia de dieta plena na anorexia · reduzir o aporte e repor fosfato intravenoso",
+  "arma": "Cronologia",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 22 anos, com anorexia nervosa (IMC 12,8 kg/m²), foi internada por desnutrição grave e recebe dieta enteral plena de 2.200 kcal/dia desde a admissão; os eletrólitos da admissão eram normais. No terceiro dia está confusa, com fraqueza generalizada, dispneia e edema de membros inferiores. PA 96/60 mmHg, FC 118 bpm, SpO2 91% em ar ambiente, estertores em bases. Exames: fósforo 0,9 mg/dL, potássio 2,8 mEq/L, magnésio 1,2 mg/dL, glicose 168 mg/dL, CK 2.400 U/L. Ainda não recebeu tiamina. A conduta mais adequada é:",
+  "alternativas": {
+   "A": "Manter a dieta e repor fosfato oral",
+   "B": "Reduzir a dieta e repor fosfato intravenoso",
+   "C": "Suspender a dieta e infundir glicose a 10%",
+   "D": "Manter a dieta e iniciar furosemida"
   },
-  {
-    "id": "S8-NEF-02",
-    "simulado": 8,
-    "area": "Nefrologia",
-    "titulo": "Hipercalemia persistente com acidose hiperclorêmica no diabético com TFG de 48 · hipoaldosteronismo hiporreninêmico, e não a TFG",
-    "arma": "Limiar",
-    "comando": "diagnóstico",
-    "nivel": "extremamente difícil",
-    "enunciado": "Homem de 66 anos, com diabetes tipo 2 há 18 anos e retinopatia, tem potássio entre 5,8 e 6,1 mEq/L em quatro dosagens nos últimos 3 meses, sem hemólise na amostra e com plaquetas e leucócitos normais. Usa insulina NPH, metformina e anlodipino; não usa IECA, BRA, espironolactona, betabloqueador, anti-inflamatório nem trimetoprima. PA 132/80 mmHg, sem hipotensão postural, sem hiperpigmentação. Exames: TFGe de 48 mL/min/1,73 m², sódio 138 mEq/L, cloro 110 mEq/L, bicarbonato 18 mEq/L, glicose 142 mg/dL, cortisol às 8 h de 16 mcg/dL; pH urinário de 5,2. O diagnóstico mais provável é:",
-    "alternativas": {
-      "A": "Insuficiência adrenal primária",
-      "B": "Acidose tubular distal por defeito de voltagem",
-      "C": "Retenção de potássio pela queda da filtração",
-      "D": "Hipoaldosteronismo hiporreninêmico"
-    },
-    "gabarito": "D",
-    "armadilha": "C",
-    "dado_decisivo": "TFGe de 48 mL/min/1,73 m²",
-    "resolucao": "O apressado atribui a hipercalemia à doença renal do diabetes, mas o limiar não fecha: a retenção de potássio pela simples queda da filtração só aparece com TFG abaixo de cerca de 20 a 30 mL/min, porque os néfrons restantes aumentam a secreção por néfron. Com TFG de 48, sem droga que bloqueie o eixo, hipercalemia persistente com acidose hiperclorêmica (ânion gap de 10) é acidose tubular renal tipo 4, e no diabético a causa mais comum é o hipoaldosteronismo hiporreninêmico (lesão do aparelho justaglomerular e neuropatia autonômica). O pH urinário de 5,2 mostra que a acidificação distal está preservada, o que afasta o defeito de voltagem (pH acima de 5,5). A insuficiência adrenal primária teria hipotensão, hiperpigmentação, hiponatremia e cortisol baixo, com renina alta. O tratamento passa por dieta, diurético de alça ou tiazídico e, se a PA permitir, fludrocortisona, com correção do bicarbonato.",
-    "comentarios": {
-      "A": "Errada. Seria a resposta com hipotensão postural, hiperpigmentação e cortisol baixo; aqui a PA é normal e o cortisol de 16 mcg/dL não sugere.",
-      "B": "Errada. O defeito de voltagem (obstrução, falciforme, amilorida) dá hipercalemia com pH urinário acima de 5,5; o pH de 5,2 mostra acidificação distal preservada.",
-      "C": "Errada. Explicaria a hipercalemia com TFG abaixo de cerca de 20 a 30 mL/min ou com droga que bloqueia o eixo; com 48 e sem droga, não basta.",
-      "D": "Correta. Hipercalemia com acidose hiperclorêmica, pH urinário baixo e TFG moderada no diabético: ATR tipo 4 por hipoaldosteronismo hiporreninêmico."
-    },
-    "para_levar": "A DRC só explica hipercalemia sozinha com TFG abaixo de cerca de 20 a 30 mL/min. Acima disso, no diabético com acidose hiperclorêmica e pH urinário abaixo de 5,5, pense em ATR tipo 4 (hipoaldosteronismo hiporreninêmico).",
-    "referencias": "KDIGO 2024 CKD Guideline (manejo do potássio); Palmer BF, Clegg DJ. Hyperkalemia across the continuum of kidney function. CJASN 2018; Karet FE. JASN 2009.",
-    "tags": [
-      "Tubulopatias (CM)",
-      "Hiperpotassemia (CM)",
-      "Doença renal do diabetes - DRD (CM)"
-    ],
-    "sourceQuestionId": "a100da57ff43378",
-    "alvo": "Limiar não fixado (TFG que explica hipercalemia) e o rótulo DRC do diabético atropelando o diagnóstico tubular."
+  "gabarito": "B",
+  "armadilha": "A",
+  "dado_decisivo": "No terceiro dia",
+  "resolucao": "Eletrólitos normais na admissão dão a falsa segurança de que a dieta pode seguir; o que decide é a cronologia: a realimentação de desnutrido grave com aporte pleno, sem progressão, desencadeia em 2 a 4 dias a liberação de insulina, que desloca fósforo, potássio e magnésio para dentro das células e retém sódio e água. Fósforo abaixo de 1 mg/dL com confusão, insuficiência respiratória, rabdomiólise (CK alta) e insuficiência cardíaca é a forma grave, e pede reposição intravenosa de fosfato, potássio e magnésio com monitorização, além de reduzir o aporte calórico (por exemplo, para 5 a 10 kcal/kg/dia) e progredir devagar. A tiamina deve ser dada antes ou junto, porque a glicose consome a reserva já mínima. Manter a dieta plena com fosfato oral subestima a gravidade, glicose a 10% repete o gatilho, e furosemida agrava a hipocalemia e a hipomagnesemia.",
+  "comentarios": {
+   "A": "Errada. Fosfato oral cabe na hipofosfatemia leve e assintomática (acima de 2 mg/dL); com 0,9 mg/dL, confusão e insuficiência respiratória, a via é intravenosa e o aporte precisa cair.",
+   "B": "Correta. Hipofosfatemia grave sintomática no terceiro dia de dieta plena: reduzir o aporte, repor fosfato, potássio e magnésio por via intravenosa, com tiamina.",
+   "C": "Errada. A carga de glicose é o próprio gatilho da síndrome; infundir glicose a 10% sem fosfato aprofunda a queda do fósforo.",
+   "D": "Errada. Diurético seria tentador pela congestão, mas espolia ainda mais potássio e magnésio; a congestão melhora com a redução do aporte e a correção dos eletrólitos."
   },
-  {
-    "id": "S8-NEF-03",
-    "simulado": 8,
-    "area": "Nefrologia",
-    "titulo": "Microangiopatia trombótica após diarreia sanguinolenta com toxina Shiga positiva no adulto · suporte, sem antibiótico nem plasmaférese",
-    "arma": "Omissão",
-    "comando": "conduta",
-    "nivel": "difícil",
-    "enunciado": "Homem de 31 anos, previamente hígido, teve diarreia sanguinolenta com cólicas, sem febre alta, há 8 dias, já resolvida. Há 2 dias nota palidez e urina escura. Consciente e orientado, sem déficit neurológico, PA 148/90 mmHg, FC 96 bpm. Exames: hemoglobina 8,1 g/dL, esquizócitos 4%, LDH 1.450 U/L, haptoglobina indetectável, Coombs direto negativo, plaquetas 52.000/mm³, TP e TTPa normais, creatinina 3,9 mg/dL, potássio 5,1 mEq/L, bicarbonato 21 mEq/L, diurese de 1.200 mL/24 h. A coprocultura isolou Escherichia coli O157:H7 e a PCR para toxina Shiga nas fezes foi positiva. Atividade da ADAMTS13 de 64%. A conduta mais adequada é:",
-    "alternativas": {
-      "A": "Ciprofloxacino oral por 5 dias",
-      "B": "Eculizumabe intravenoso",
-      "C": "Tratamento de suporte isolado",
-      "D": "Plasmaférese diária"
-    },
-    "gabarito": "C",
-    "armadilha": "D",
-    "dado_decisivo": "Atividade da ADAMTS13 de 64%",
-    "resolucao": "Microangiopatia trombótica no adulto aciona o reflexo da plaquetopenia com esquizócitos: plasmaférese já, por medo de púrpura trombocitopênica trombótica. O reflexo é correto enquanto a ADAMTS13 está pendente, mas aqui o resultado está no enunciado: atividade de 64% afasta a PTT (que exige atividade abaixo de 10%). Com diarreia sanguinolenta prévia, E. coli O157:H7 e toxina Shiga positiva, é síndrome hemolítico-urêmica por toxina Shiga, e o tratamento é de suporte: hidratação cuidadosa, controle da PA, transfusão se necessário e diálise só se houver indicação (que ele não tem, com diurese preservada e potássio de 5,1). Antibiótico é evitado porque pode aumentar a liberação de toxina, e plasmaférese ou eculizumabe ficam reservados para casos com acometimento neurológico grave, que ele não tem. A resposta certa é fazer menos.",
-    "comentarios": {
-      "A": "Errada. Antibiótico seria a conduta numa disenteria bacteriana por Shigella ou Campylobacter grave; na E. coli produtora de toxina Shiga, pode aumentar a liberação de toxina e o risco de SHU.",
-      "B": "Errada. É a terapia da SHU atípica mediada por complemento (sem toxina Shiga) e, de forma excepcional, da SHU por toxina Shiga com acometimento neurológico grave.",
-      "C": "Correta. SHU por toxina Shiga, ADAMTS13 normal e sem indicação dialítica nem envolvimento neurológico: suporte.",
-      "D": "Errada. Seria a conduta na PTT (ADAMTS13 abaixo de 10%) ou enquanto a ADAMTS13 está pendente com escore PLASMIC alto; com 64% e toxina Shiga positiva, não há indicação."
-    },
-    "para_levar": "SHU por toxina Shiga no adulto, com ADAMTS13 normal: tratamento de suporte, sem antibiótico e sem plasmaférese, e diálise só pelas indicações habituais.",
-    "referencias": "ISTH Guidelines for the diagnosis of thrombotic thrombocytopenic purpura (Zheng XL et al., 2020); Goodship THJ et al. Atypical hemolytic uremic syndrome and C3 glomerulopathy: KDIGO Controversies Conference. Kidney Int 2017; IDSA 2017 Clinical Practice Guidelines for the Diagnosis and Management of Infectious Diarrhea.",
-    "tags": [
-      "Microangiopatia Trombótica (MAT) (CM)",
-      "Diarréias agudas e Clostridium (CM)",
-      "Injúria Renal Aguda (CM)"
-    ],
-    "sourceQuestionId": "150b2506c7021fb",
-    "alvo": "Omissão: a resposta é fazer menos, contra o reflexo da plasmaférese; exame que decide (ADAMTS13) lido como enfeite."
+  "para_levar": "Síndrome de realimentação aparece em 2 a 4 dias de aporte pleno em desnutrido grave. Fósforo abaixo de 1 mg/dL sintomático: reduzir o aporte, repor por via intravenosa, dar tiamina e progredir devagar.",
+  "referencias": "ASPEN Consensus Recommendations for Refeeding Syndrome (da Silva JSV et al., Nutr Clin Pract 2020); NICE CG32 Nutrition support for adults (2006, atualizada em 2017).",
+  "tags": [
+   "Distúrbios de Fósforo e Magnésio (CM)",
+   "Nutrição no Doente Crítico e Desvitaminoses (CM)"
+  ],
+  "sourceQuestionId": "2d8221a0ed54ff7",
+  "alvo": "Cronologia (3º dia de dieta) e porte da conduta: a reposição que subestima a gravidade e o gatilho mantido."
+ },
+ {
+  "id": "S8-NEF-02",
+  "simulado": 8,
+  "area": "Nefrologia",
+  "titulo": "Hipercalemia persistente com acidose hiperclorêmica no diabético com TFG de 48 · hipoaldosteronismo hiporreninêmico, e não a TFG",
+  "arma": "Limiar",
+  "comando": "diagnóstico",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 66 anos, com diabetes tipo 2 há 18 anos e retinopatia, tem potássio entre 5,8 e 6,1 mEq/L em quatro dosagens nos últimos 3 meses, sem hemólise na amostra e com plaquetas e leucócitos normais. Usa insulina NPH, metformina e anlodipino; não usa IECA, BRA, espironolactona, betabloqueador, anti-inflamatório nem trimetoprima. PA 132/80 mmHg, sem hipotensão postural, sem hiperpigmentação. Exames: TFGe de 48 mL/min/1,73 m², sódio 138 mEq/L, cloro 110 mEq/L, bicarbonato 18 mEq/L, glicose 142 mg/dL, cortisol às 8 h de 16 mcg/dL; pH urinário de 5,2. O diagnóstico mais provável é:",
+  "alternativas": {
+   "A": "Insuficiência adrenal primária",
+   "B": "Acidose tubular distal por defeito de voltagem",
+   "C": "Retenção de potássio pela queda da filtração",
+   "D": "Hipoaldosteronismo hiporreninêmico"
   },
-  {
-    "id": "S8-NEF-04",
-    "simulado": 8,
-    "area": "Nefrologia",
-    "titulo": "Diurese pós-obstrutiva com hipotensão postural e sódio subindo · repor parte da diurese com salina a 0,45%",
-    "arma": "Limiar",
-    "comando": "conduta",
-    "nivel": "difícil",
-    "enunciado": "Homem de 76 anos, com hiperplasia prostática, chega com retenção urinária há 3 dias. Creatinina 5,8 mg/dL, ureia 210 mg/dL, potássio 5,6 mEq/L, sódio 138 mEq/L. A sondagem vesical drena 2,1 L. Nas 12 horas seguintes a diurese se mantém entre 450 e 650 mL/h; ele está lúcido, mas sonolento à tarde, com PA de 132/80 mmHg deitado e 98/60 mmHg sentado, FC 108 bpm, mucosas secas. O sódio subiu para 149 mEq/L e a creatinina caiu para 3,9 mg/dL. Aceita mal a dieta e a água oferecidas. A conduta mais adequada para a reposição é:",
-    "alternativas": {
-      "A": "Repor parte da diurese com salina a 0,45%",
-      "B": "Repor 1:1 a diurese com SF 0,9%",
-      "C": "Clampear a sonda por períodos alternados",
-      "D": "Apenas liberar a ingestão oral"
-    },
-    "gabarito": "A",
-    "armadilha": "B",
-    "dado_decisivo": "PA de 132/80 mmHg deitado e 98/60 mmHg sentado",
-    "resolucao": "Depois de desobstruir, poliúria acima de 200 mL/h por algumas horas é esperada e, na maioria, fisiológica: o rim elimina ureia, sódio e água retidos, e basta deixar o paciente beber. O limiar que muda a conduta é quando ela passa a ser patológica, com sinais de hipovolemia (hipotensão postural, taquicardia) ou distúrbio eletrolítico, aqui o sódio subindo para 149, que mostra perda de água livre por defeito de concentração tubular. Nesse caso é preciso repor por via venosa, mas não 1:1: repor todo o volume urinado perpetua a poliúria, porque o rim continua eliminando o que entra. Repõe-se uma fração (cerca de 50 a 75% da diurese da hora anterior) com solução hipotônica, como salina a 0,45%, porque a urina dele é hipotônica e o sódio está alto, ajustando por PA, sódio e potássio seriados. Clampear a sonda é prática sem benefício e não se aplica à diurese pós-obstrutiva.",
-    "comentarios": {
-      "A": "Correta. Poliúria patológica (hipotensão postural, sódio de 149): repor uma fração da diurese com solução hipotônica.",
-      "B": "Errada. Reposição 1:1 mantém a poliúria indefinidamente, e SF 0,9% com sódio de 149 e urina hipotônica tende a elevar ainda mais o sódio.",
-      "C": "Errada. Clampeamento intermitente não previne hematúria nem hipotensão e não trata a diurese pós-obstrutiva.",
-      "D": "Errada. Seria a conduta na poliúria fisiológica, com paciente normotenso, sódio normal e capaz de beber; ele tem hipotensão postural, sódio subindo e aceita mal a água."
-    },
-    "para_levar": "Diurese pós-obstrutiva: se fisiológica, só oferecer água; se patológica (hipovolemia, sódio alterado), repor cerca de 50 a 75% da diurese com solução hipotônica, nunca 1:1.",
-    "referencias": "AUA/SUFU Guideline on Benign Prostatic Hyperplasia (2023); Halbgewachs C, Domes T. Postobstructive diuresis. Can Fam Physician 2015; UpToDate 2026.",
-    "tags": [
-      "Definição e Classificação da IRA - Pré/Pós-renal e Intrinseca(CM)",
-      "Injúria Renal Aguda (CM)",
-      "Hipernatremia (CM)"
-    ],
-    "sourceQuestionId": null,
-    "alvo": "Porte da conduta: o limiar entre não fazer nada e repor, e a reposição que faz demais (1:1)."
+  "gabarito": "D",
+  "armadilha": "C",
+  "dado_decisivo": "TFGe de 48 mL/min/1,73 m²",
+  "resolucao": "O apressado atribui a hipercalemia à doença renal do diabetes, mas o limiar não fecha: a retenção de potássio pela simples queda da filtração só aparece com TFG abaixo de cerca de 20 a 30 mL/min, porque os néfrons restantes aumentam a secreção por néfron. Com TFG de 48, sem droga que bloqueie o eixo, hipercalemia persistente com acidose hiperclorêmica (ânion gap de 10) é acidose tubular renal tipo 4, e no diabético a causa mais comum é o hipoaldosteronismo hiporreninêmico (lesão do aparelho justaglomerular e neuropatia autonômica). O pH urinário de 5,2 mostra que a acidificação distal está preservada, o que afasta o defeito de voltagem (pH acima de 5,5). A insuficiência adrenal primária teria hipotensão, hiperpigmentação, hiponatremia e cortisol baixo, com renina alta. O tratamento passa por dieta, diurético de alça ou tiazídico e, se a PA permitir, fludrocortisona, com correção do bicarbonato.",
+  "comentarios": {
+   "A": "Errada. Seria a resposta com hipotensão postural, hiperpigmentação e cortisol baixo; aqui a PA é normal e o cortisol de 16 mcg/dL não sugere.",
+   "B": "Errada. O defeito de voltagem (obstrução, falciforme, amilorida) dá hipercalemia com pH urinário acima de 5,5; o pH de 5,2 mostra acidificação distal preservada.",
+   "C": "Errada. Explicaria a hipercalemia com TFG abaixo de cerca de 20 a 30 mL/min ou com droga que bloqueia o eixo; com 48 e sem droga, não basta.",
+   "D": "Correta. Hipercalemia com acidose hiperclorêmica, pH urinário baixo e TFG moderada no diabético: ATR tipo 4 por hipoaldosteronismo hiporreninêmico."
   },
-  {
-    "id": "S8-NEF-05",
-    "simulado": 8,
-    "area": "Nefrologia",
-    "titulo": "Acidose hiperclorêmica com hipocalemia e ânion gap urinário positivo no trabalhador de calçados · gap osmolar urinário alto aponta tolueno",
-    "arma": "Rótulo verdadeiro",
-    "comando": "etiologia",
-    "nivel": "extremamente difícil",
-    "enunciado": "Homem de 23 anos, que trabalha colando solados numa fábrica de calçados em galpão fechado, é trazido por fraqueza progressiva nas pernas há 2 dias. Nega vômitos, diarreia e uso de diuréticos ou laxantes. Força grau 3 proximal nos membros inferiores, reflexos hipoativos, PA 118/70 mmHg. Exames: sódio 137 mEq/L, potássio 2,2 mEq/L, cloro 115 mEq/L, bicarbonato 12 mEq/L, pH 7,27, pCO2 27 mmHg, glicose 92 mg/dL, creatinina 1,0 mg/dL. Urina: pH 6,0, sódio 40 mEq/L, potássio 35 mEq/L e cloro 30 mEq/L (ânion gap urinário de +45); gap osmolar urinário de 210 mOsm/kg. A causa mais provável da acidose é:",
-    "alternativas": {
-      "A": "Acidose tubular distal (tipo 1)",
-      "B": "Exposição ao tolueno",
-      "C": "Acidose tubular proximal (tipo 2)",
-      "D": "Perda intestinal oculta de bicarbonato"
-    },
-    "gabarito": "B",
-    "armadilha": "A",
-    "dado_decisivo": "gap osmolar urinário de 210 mOsm/kg",
-    "resolucao": "Acidose hiperclorêmica (ânion gap de 10) com hipocalemia, pH urinário de 6,0 e ânion gap urinário positivo é o retrato que se decora para acidose tubular distal, e é por isso que ela atrai. Mas o ânion gap urinário estima a amônia só quando o ânion que a acompanha é o cloro; se um ânion não medido sai na urina, o gap fica positivo mesmo com amônia alta. O tolueno, inalado da cola, é metabolizado a ácido hipúrico, e o hipurato é filtrado e secretado com sódio e potássio (daí a hipocalemia grave) enquanto o hidrogênio fica retido como cloreto, produzindo acidose de ânion gap normal. O gap osmolar urinário mede a amônia de forma independente do ânion: 210 mOsm/kg (mais de 150) indica excreção de amônio alta, o oposto da ATR distal, em que a amônia urinária é baixa. A ocupação dá a exposição, e a perda intestinal fica afastada pela ausência de diarreia e pelo potássio urinário alto.",
-    "comentarios": {
-      "A": "Errada. Teria o mesmo ânion gap urinário positivo, mas com gap osmolar urinário baixo (abaixo de cerca de 100), porque o defeito é justamente não excretar amônio.",
-      "B": "Correta. Gap osmolar urinário alto mostra amônio excretado com hipurato, ânion não medido que torna o ânion gap urinário falsamente positivo; a exposição vem da cola.",
-      "C": "Errada. A ATR proximal cursa com bicarbonato entre 15 e 20 mEq/L e pH urinário abaixo de 5,5 no equilíbrio; um bicarbonato de 12 e potássio de 2,2 com pH 6,0 não combinam.",
-      "D": "Errada. Daria ânion gap urinário negativo e potássio urinário baixo; ele nega diarreia e laxantes e perde potássio pela urina."
-    },
-    "para_levar": "O ânion gap urinário falha quando a urina carrega ânion não medido (hipurato do tolueno, cetoânions, penicilinas). Nesse caso o gap osmolar urinário mede a amônia: alto exclui ATR distal.",
-    "referencias": "Carlisle EJ et al. Glue-sniffing and distal renal tubular acidosis: sticking to the facts. JASN 1991; Kraut JA, Madias NE. Differential diagnosis of nongap metabolic acidosis. CJASN 2012.",
-    "tags": [
-      "Gasometria Arterial (CM)",
-      "Tubulopatias (CM)",
-      "Intoxicações (CM)"
-    ],
-    "sourceQuestionId": "cd834dfa04a3217",
-    "alvo": "Rótulo verdadeiro em forma de laboratório (ânion gap urinário positivo) contra o exame que decide; ATR é tema ausente no lote."
-  }
+  "para_levar": "A DRC só explica hipercalemia sozinha com TFG abaixo de cerca de 20 a 30 mL/min. Acima disso, no diabético com acidose hiperclorêmica e pH urinário abaixo de 5,5, pense em ATR tipo 4 (hipoaldosteronismo hiporreninêmico).",
+  "referencias": "KDIGO 2024 CKD Guideline (manejo do potássio); Palmer BF, Clegg DJ. Hyperkalemia across the continuum of kidney function. CJASN 2018; Karet FE. JASN 2009.",
+  "tags": [
+   "Tubulopatias (CM)",
+   "Hiperpotassemia (CM)",
+   "Doença renal do diabetes - DRD (CM)"
+  ],
+  "sourceQuestionId": "a100da57ff43378",
+  "alvo": "Limiar não fixado (TFG que explica hipercalemia) e o rótulo DRC do diabético atropelando o diagnóstico tubular."
+ },
+ {
+  "id": "S8-NEF-03",
+  "simulado": 8,
+  "area": "Nefrologia",
+  "titulo": "Cisto renal grande com septo fino e calcificação (Bosniak II): nenhum seguimento por imagem, apesar do tamanho",
+  "arma": "Omissão",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 58 anos, hipertensa, fez ultrassonografia por dor lombar mecânica, que mostrou formação cística de 5,6 cm no polo superior do rim direito. Sem hematúria, perda de peso ou história familiar de doença renal. Creatinina 0,8 mg/dL, EAS normal. A tomografia de rins sem e com contraste, com protocolo renal, mostrou cisto de conteúdo homogêneo, com densidade de 8 UH sem contraste e de 11 UH na fase nefrográfica, parede lisa e fina, um único septo fino de 1 mm, sem realce mensurável, e fina calcificação na parede, sem componente sólido ou nódulo. O rim esquerdo tem dois cistos simples de 1 cm. Em relação ao cisto do rim direito, a conduta mais adequada é:",
+  "alternativas": {
+   "A": "Tomografia com contraste em 6 meses",
+   "B": "Nefrectomia parcial",
+   "C": "Nenhum seguimento por imagem",
+   "D": "Ultrassonografia renal anual"
+  },
+  "gabarito": "C",
+  "armadilha": "D",
+  "dado_decisivo": "um único septo fino de 1 mm, sem realce mensurável",
+  "resolucao": "O tamanho de 5,6 cm, o septo e a calcificação assustam e levam a pedir vigilância, mas a classificação de Bosniak (versão 2019) não usa o tamanho. Parede lisa e fina, de um a três septos finos (até 2 mm), calcificação de qualquer tipo e ausência de realce mensurável definem a classe II, cujo risco de malignidade é desprezível e que não precisa de seguimento. A classe IIF (parede ou septo minimamente espessados, de 3 mm, ou quatro ou mais septos finos com realce) é a que se acompanha com imagem; III e IV, com componente espesso ou nódulo com realce, vão para cirurgia ou ablação. Os dois cistos simples do rim esquerdo, aos 58 anos e sem história familiar, não fecham doença renal policística. A resposta é não fazer nada além do que já foi feito.",
+  "comentarios": {
+   "A": "Errada. Seria o seguimento da classe IIF, com parede ou septo de 3 mm ou quatro ou mais septos; aqui há um septo de 1 mm, sem realce.",
+   "B": "Errada. Seria a conduta nas classes III e IV, com septo espesso ou nódulo com realce, ausentes neste cisto.",
+   "C": "Correta. Bosniak II (septo fino único, calcificação, sem realce) não pede seguimento, qualquer que seja o tamanho.",
+   "D": "Errada, é a armadilha. Vigiar um cisto benigno por causa do tamanho é o exame a mais; o Bosniak 2019 dispensa seguimento das classes I e II."
+  },
+  "para_levar": "Na classificação de Bosniak 2019, o tamanho não entra: classes I e II (até três septos finos, calcificação, sem realce) não pedem seguimento; IIF se acompanha; III e IV se tratam.",
+  "referencias": "Bosniak Classification of Cystic Renal Masses, Version 2019 (Silverman et al., Radiology 2019); ACR Incidental Findings Committee, white paper sobre massas renais (Herts et al., J Am Coll Radiol 2018).",
+  "tags": [
+   "Câncer de rim"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Porte da conduta: exame a mais (vigilância) num achado benigno; a resposta é a omissão."
+ },
+ {
+  "id": "S8-NEF-04",
+  "simulado": 8,
+  "area": "Nefrologia",
+  "titulo": "Diurese pós-obstrutiva com hipotensão postural e sódio subindo · repor parte da diurese com salina a 0,45%",
+  "arma": "Limiar",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Homem de 76 anos, com hiperplasia prostática, chega com retenção urinária há 3 dias. Creatinina 5,8 mg/dL, ureia 210 mg/dL, potássio 5,6 mEq/L, sódio 138 mEq/L. A sondagem vesical drena 2,1 L. Nas 12 horas seguintes a diurese se mantém entre 450 e 650 mL/h; ele está lúcido, mas sonolento à tarde, com PA de 132/80 mmHg deitado e 98/60 mmHg sentado, FC 108 bpm, mucosas secas. O sódio subiu para 149 mEq/L e a creatinina caiu para 3,9 mg/dL. Aceita mal a dieta e a água oferecidas. A conduta mais adequada para a reposição é:",
+  "alternativas": {
+   "A": "Repor parte da diurese com salina a 0,45%",
+   "B": "Repor 1:1 a diurese com SF 0,9%",
+   "C": "Clampear a sonda por períodos alternados",
+   "D": "Apenas liberar a ingestão oral"
+  },
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "PA de 132/80 mmHg deitado e 98/60 mmHg sentado",
+  "resolucao": "Depois de desobstruir, poliúria acima de 200 mL/h por algumas horas é esperada e, na maioria, fisiológica: o rim elimina ureia, sódio e água retidos, e basta deixar o paciente beber. O limiar que muda a conduta é quando ela passa a ser patológica, com sinais de hipovolemia (hipotensão postural, taquicardia) ou distúrbio eletrolítico, aqui o sódio subindo para 149, que mostra perda de água livre por defeito de concentração tubular. Nesse caso é preciso repor por via venosa, mas não 1:1: repor todo o volume urinado perpetua a poliúria, porque o rim continua eliminando o que entra. Repõe-se uma fração (cerca de 50 a 75% da diurese da hora anterior) com solução hipotônica, como salina a 0,45%, porque a urina dele é hipotônica e o sódio está alto, ajustando por PA, sódio e potássio seriados. Clampear a sonda é prática sem benefício e não se aplica à diurese pós-obstrutiva.",
+  "comentarios": {
+   "A": "Correta. Poliúria patológica (hipotensão postural, sódio de 149): repor uma fração da diurese com solução hipotônica.",
+   "B": "Errada. Reposição 1:1 mantém a poliúria indefinidamente, e SF 0,9% com sódio de 149 e urina hipotônica tende a elevar ainda mais o sódio.",
+   "C": "Errada. Clampeamento intermitente não previne hematúria nem hipotensão e não trata a diurese pós-obstrutiva.",
+   "D": "Errada. Seria a conduta na poliúria fisiológica, com paciente normotenso, sódio normal e capaz de beber; ele tem hipotensão postural, sódio subindo e aceita mal a água."
+  },
+  "para_levar": "Diurese pós-obstrutiva: se fisiológica, só oferecer água; se patológica (hipovolemia, sódio alterado), repor cerca de 50 a 75% da diurese com solução hipotônica, nunca 1:1.",
+  "referencias": "AUA/SUFU Guideline on Benign Prostatic Hyperplasia (2023); Halbgewachs C, Domes T. Postobstructive diuresis. Can Fam Physician 2015; UpToDate 2026.",
+  "tags": [
+   "Definição e Classificação da IRA - Pré/Pós-renal e Intrinseca(CM)",
+   "Injúria Renal Aguda (CM)",
+   "Hipernatremia (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Porte da conduta: o limiar entre não fazer nada e repor, e a reposição que faz demais (1:1)."
+ },
+ {
+  "id": "S8-NEF-05",
+  "simulado": 8,
+  "area": "Nefrologia",
+  "titulo": "Acidose hiperclorêmica com hipocalemia e ânion gap urinário positivo no trabalhador de calçados · gap osmolar urinário alto aponta tolueno",
+  "arma": "Rótulo verdadeiro",
+  "comando": "etiologia",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 23 anos, que trabalha colando solados numa fábrica de calçados em galpão fechado, é trazido por fraqueza progressiva nas pernas há 2 dias. Nega vômitos, diarreia e uso de diuréticos ou laxantes. Força grau 3 proximal nos membros inferiores, reflexos hipoativos, PA 118/70 mmHg. Exames: sódio 137 mEq/L, potássio 2,2 mEq/L, cloro 115 mEq/L, bicarbonato 12 mEq/L, pH 7,27, pCO2 27 mmHg, glicose 92 mg/dL, creatinina 1,0 mg/dL. Urina: pH 6,0, sódio 40 mEq/L, potássio 35 mEq/L e cloro 30 mEq/L (ânion gap urinário de +45); gap osmolar urinário de 210 mOsm/kg. A causa mais provável da acidose é:",
+  "alternativas": {
+   "A": "Acidose tubular distal (tipo 1)",
+   "B": "Exposição ao tolueno",
+   "C": "Acidose tubular proximal (tipo 2)",
+   "D": "Perda intestinal oculta de bicarbonato"
+  },
+  "gabarito": "B",
+  "armadilha": "A",
+  "dado_decisivo": "gap osmolar urinário de 210 mOsm/kg",
+  "resolucao": "Acidose hiperclorêmica (ânion gap de 10) com hipocalemia, pH urinário de 6,0 e ânion gap urinário positivo é o retrato que se decora para acidose tubular distal, e é por isso que ela atrai. Mas o ânion gap urinário estima a amônia só quando o ânion que a acompanha é o cloro; se um ânion não medido sai na urina, o gap fica positivo mesmo com amônia alta. O tolueno, inalado da cola, é metabolizado a ácido hipúrico, e o hipurato é filtrado e secretado com sódio e potássio (daí a hipocalemia grave) enquanto o hidrogênio fica retido como cloreto, produzindo acidose de ânion gap normal. O gap osmolar urinário mede a amônia de forma independente do ânion: 210 mOsm/kg (mais de 150) indica excreção de amônio alta, o oposto da ATR distal, em que a amônia urinária é baixa. A ocupação dá a exposição, e a perda intestinal fica afastada pela ausência de diarreia e pelo potássio urinário alto.",
+  "comentarios": {
+   "A": "Errada. Teria o mesmo ânion gap urinário positivo, mas com gap osmolar urinário baixo (abaixo de cerca de 100), porque o defeito é justamente não excretar amônio.",
+   "B": "Correta. Gap osmolar urinário alto mostra amônio excretado com hipurato, ânion não medido que torna o ânion gap urinário falsamente positivo; a exposição vem da cola.",
+   "C": "Errada. A ATR proximal cursa com bicarbonato entre 15 e 20 mEq/L e pH urinário abaixo de 5,5 no equilíbrio; um bicarbonato de 12 e potássio de 2,2 com pH 6,0 não combinam.",
+   "D": "Errada. Daria ânion gap urinário negativo e potássio urinário baixo; ele nega diarreia e laxantes e perde potássio pela urina."
+  },
+  "para_levar": "O ânion gap urinário falha quando a urina carrega ânion não medido (hipurato do tolueno, cetoânions, penicilinas). Nesse caso o gap osmolar urinário mede a amônia: alto exclui ATR distal.",
+  "referencias": "Carlisle EJ et al. Glue-sniffing and distal renal tubular acidosis: sticking to the facts. JASN 1991; Kraut JA, Madias NE. Differential diagnosis of nongap metabolic acidosis. CJASN 2012.",
+  "tags": [
+   "Gasometria Arterial (CM)",
+   "Tubulopatias (CM)",
+   "Intoxicações (CM)"
+  ],
+  "sourceQuestionId": "cd834dfa04a3217",
+  "alvo": "Rótulo verdadeiro em forma de laboratório (ânion gap urinário positivo) contra o exame que decide; ATR é tema ausente no lote."
+ }
 ]

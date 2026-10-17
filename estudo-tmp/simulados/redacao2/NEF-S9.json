@@ -1,176 +1,176 @@
 [
-  {
-    "id": "S9-NEF-01",
-    "simulado": 9,
-    "area": "Nefrologia",
-    "titulo": "Hipercalcemia leve e estável há anos com PTH pouco elevado na mulher de 41 anos · calciúria de 24 horas antes de localizar a paratireoide",
-    "arma": "Rótulo verdadeiro",
-    "comando": "próximo exame",
-    "nivel": "difícil",
-    "enunciado": "Mulher de 41 anos é encaminhada por cálcio total entre 10,7 e 11,0 mg/dL (VR 8,6 a 10,2 mg/dL), com albumina normal, em cinco dosagens nos últimos 6 anos. É assintomática, nunca teve cólica renal nem fratura, e a densitometria é normal. Não usa tiazídico, lítio nem suplementos de cálcio ou vitamina D. Exames: PTH 72 pg/mL (VR 15 a 65 pg/mL), fósforo 2,6 mg/dL, magnésio 2,5 mg/dL (VR 1,7 a 2,4 mg/dL), creatinina 0,7 mg/dL, 25-hidroxivitamina D de 34 ng/mL. Ultrassonografia de rins sem cálculos. O cirurgião de cabeça e pescoço lembra que a idade abaixo de 50 anos, por si, já indica paratireoidectomia no hiperparatireoidismo primário. O exame mais adequado a seguir é:",
-    "alternativas": {
-      "A": "Ultrassonografia de paratireoides",
-      "B": "Calciúria de 24 horas com creatininúria",
-      "C": "Cintilografia com sestamibi",
-      "D": "Sequenciamento do gene CASR"
-    },
-    "gabarito": "B",
-    "armadilha": "C",
-    "dado_decisivo": "em cinco dosagens nos últimos 6 anos",
-    "resolucao": "Hipercalcemia com PTH acima da referência parece hiperparatireoidismo primário, e a informação do cirurgião é verdadeira: idade abaixo de 50 anos é critério cirúrgico. É o rótulo que leva a pedir exame de localização. Mas a localização não faz diagnóstico, e falta excluir a hipercalcemia hipocalciúrica familiar, que imita o quadro: hipercalcemia leve, estável por anos, assintomática, com magnésio no limite superior e PTH normal ou pouco elevado em parte dos casos. O exame simples que separa as duas é a urina de 24 horas com cálcio e creatinina, para a relação de depuração cálcio/creatinina, colhida com vitamina D suficiente e sem tiazídico, como aqui: abaixo de 0,01 sugere a forma familiar; acima de 0,02, hiperparatireoidismo primário; entre os dois, ou abaixo de 0,01, segue-se o teste genético. Operar uma hipercalcemia familiar não corrige o cálcio e expõe a paciente a uma cirurgia inútil.",
-    "comentarios": {
-      "A": "Errada. A ultrassonografia é exame de localização pré-operatória, depois de confirmado o hiperparatireoidismo primário; não separa a forma familiar.",
-      "B": "Correta. Hipercalcemia leve e estável há anos, com magnésio alto-normal: a relação de depuração cálcio/creatinina exclui a hipercalcemia hipocalciúrica familiar antes de qualquer localização.",
-      "C": "Errada. É o passo seguinte quando o diagnóstico bioquímico de hiperparatireoidismo primário está fechado e há indicação cirúrgica; sem excluir a forma familiar, pode levar a uma cirurgia que não cura.",
-      "D": "Errada. O teste genético entra quando a relação de depuração fica abaixo de 0,02; pedi-lo antes da urina de 24 horas inverte a ordem."
-    },
-    "para_levar": "Antes de localizar a paratireoide, a urina de 24 horas com cálcio e creatinina: relação de depuração abaixo de 0,01 sugere hipercalcemia hipocalciúrica familiar, que não se opera. Exame de imagem não faz diagnóstico de hiperparatireoidismo.",
-    "referencias": "Bilezikian JP et al. Evaluation and Management of Primary Hyperparathyroidism: Summary Statement and Guidelines from the Fifth International Workshop. J Bone Miner Res 2022; Minisola S et al. The diagnosis and management of hypercalcaemia. BMJ 2015.",
-    "tags": [
-      "Hipercalcemias (CM)",
-      "Hiperparatireoidismo Primário (Clínica Médica) (CM)",
-      "Distúrbios do Cálcio (CM)"
-    ],
-    "sourceQuestionId": "20289dcb5eea60b",
-    "alvo": "Próximo exame no degrau certo: a localização (degrau seguinte) antes do exame simples que confirma o diagnóstico; distúrbios do cálcio são lacuna registrada."
+ {
+  "id": "S9-NEF-01",
+  "simulado": 9,
+  "area": "Nefrologia",
+  "titulo": "Hipercalcemia leve e estável há anos com PTH pouco elevado na mulher de 41 anos · calciúria de 24 horas antes de localizar a paratireoide",
+  "arma": "Rótulo verdadeiro",
+  "comando": "próximo exame",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 41 anos é encaminhada por cálcio total entre 10,7 e 11,0 mg/dL (VR 8,6 a 10,2 mg/dL), com albumina normal, em cinco dosagens nos últimos 6 anos. É assintomática, nunca teve cólica renal nem fratura, e a densitometria é normal. Não usa tiazídico, lítio nem suplementos de cálcio ou vitamina D. Exames: PTH 72 pg/mL (VR 15 a 65 pg/mL), fósforo 2,6 mg/dL, magnésio 2,5 mg/dL (VR 1,7 a 2,4 mg/dL), creatinina 0,7 mg/dL, 25-hidroxivitamina D de 34 ng/mL. Ultrassonografia de rins sem cálculos. O cirurgião de cabeça e pescoço lembra que a idade abaixo de 50 anos, por si, já indica paratireoidectomia no hiperparatireoidismo primário. O exame mais adequado a seguir é:",
+  "alternativas": {
+   "A": "Ultrassonografia de paratireoides",
+   "B": "Calciúria de 24 horas com creatininúria",
+   "C": "Cintilografia com sestamibi",
+   "D": "Sequenciamento do gene CASR"
   },
-  {
-    "id": "S9-NEF-02",
-    "simulado": 9,
-    "area": "Nefrologia",
-    "titulo": "Primeira hemodiálise com ureia muito alta · sessão curta e fluxo de sangue baixo para prevenir o desequilíbrio dialítico",
-    "arma": "Grade X / Y",
-    "comando": "fato solto",
-    "nivel": "média",
-    "enunciado": "Na primeira sessão de hemodiálise de um paciente com doença renal crônica avançada, não dialítica até então, com ureia de 320 mg/dL, para prevenir a complicação neurológica mais temida desta sessão, ela deve ter, quanto à duração e ao fluxo de sangue, respectivamente:",
-    "alternativas": {
-      "A": "Longa, cerca de 4 horas / alto",
-      "B": "Longa, cerca de 4 horas / baixo",
-      "C": "Curta, cerca de 2 horas / alto",
-      "D": "Curta, cerca de 2 horas / baixo"
-    },
-    "gabarito": "D",
-    "armadilha": "A",
-    "dado_decisivo": "com ureia de 320 mg/dL",
-    "resolucao": "A tentação é retirar o máximo de ureia o quanto antes, com sessão longa e fluxo alto, que é a prescrição de manutenção. Na primeira sessão de um paciente com ureia muito elevada, a queda rápida da ureia plasmática cria um gradiente osmótico com o cérebro, onde a ureia sai mais devagar, e a água entra nos neurônios: é a síndrome do desequilíbrio dialítico, com cefaleia, náuseas, confusão, convulsão e, raramente, coma. A prevenção é limitar a redução da ureia na primeira sessão a cerca de 30 a 40%, com sessão curta (cerca de 2 horas), fluxo de sangue baixo (em torno de 200 mL/min) e dialisador de menor área, aumentando a dose nos dias seguintes. Sessão longa com fluxo baixo ainda permite remoção grande de ureia pelo tempo, e por isso também não é a escolha.",
-    "comentarios": {
-      "A": "Errada. É a prescrição de manutenção de um paciente estável em programa; na primeira sessão com ureia de 320 mg/dL, é a que mais provoca o desequilíbrio.",
-      "B": "Errada. Fluxo baixo, mas o tempo longo permite remoção total grande da ureia na primeira sessão.",
-      "C": "Errada. Encurta o tempo, mas o fluxo alto ainda derruba a ureia rapidamente; metade da prevenção.",
-      "D": "Correta. Sessão curta e fluxo baixo limitam a queda da ureia a cerca de 30 a 40% e previnem o edema cerebral osmótico."
-    },
-    "para_levar": "Primeira hemodiálise com ureia muito alta: sessão curta (cerca de 2 horas), fluxo de sangue baixo e meta de reduzir a ureia em só 30 a 40%, para evitar a síndrome do desequilíbrio dialítico.",
-    "referencias": "Daugirdas JT, Blake PG, Ing TS. Handbook of Dialysis, 5ª ed. (2015); KDOQI Clinical Practice Guideline for Hemodialysis Adequacy: 2015 Update.",
-    "tags": [
-      "Diálise (Crônicos) (CM)",
-      "Doença Renal Crônica (CM)"
-    ],
-    "sourceQuestionId": "af427af7267d270",
-    "alvo": "Diálise (lacuna registrada) e o reflexo de fazer mais: dose plena onde a ordem pede menos."
+  "gabarito": "B",
+  "armadilha": "C",
+  "dado_decisivo": "em cinco dosagens nos últimos 6 anos",
+  "resolucao": "Hipercalcemia com PTH acima da referência parece hiperparatireoidismo primário, e a informação do cirurgião é verdadeira: idade abaixo de 50 anos é critério cirúrgico. É o rótulo que leva a pedir exame de localização. Mas a localização não faz diagnóstico, e falta excluir a hipercalcemia hipocalciúrica familiar, que imita o quadro: hipercalcemia leve, estável por anos, assintomática, com magnésio no limite superior e PTH normal ou pouco elevado em parte dos casos. O exame simples que separa as duas é a urina de 24 horas com cálcio e creatinina, para a relação de depuração cálcio/creatinina, colhida com vitamina D suficiente e sem tiazídico, como aqui: abaixo de 0,01 sugere a forma familiar; acima de 0,02, hiperparatireoidismo primário; entre os dois, ou abaixo de 0,01, segue-se o teste genético. Operar uma hipercalcemia familiar não corrige o cálcio e expõe a paciente a uma cirurgia inútil.",
+  "comentarios": {
+   "A": "Errada. A ultrassonografia é exame de localização pré-operatória, depois de confirmado o hiperparatireoidismo primário; não separa a forma familiar.",
+   "B": "Correta. Hipercalcemia leve e estável há anos, com magnésio alto-normal: a relação de depuração cálcio/creatinina exclui a hipercalcemia hipocalciúrica familiar antes de qualquer localização.",
+   "C": "Errada. É o passo seguinte quando o diagnóstico bioquímico de hiperparatireoidismo primário está fechado e há indicação cirúrgica; sem excluir a forma familiar, pode levar a uma cirurgia que não cura.",
+   "D": "Errada. O teste genético entra quando a relação de depuração fica abaixo de 0,02; pedi-lo antes da urina de 24 horas inverte a ordem."
   },
-  {
-    "id": "S9-NEF-03",
-    "simulado": 9,
-    "area": "Nefrologia",
-    "titulo": "Estado hiperosmolar com sódio medido subindo após a expansão · sódio corrigido alto pede salina a 0,45%",
-    "arma": "Limiar",
-    "comando": "conduta",
-    "nivel": "difícil",
-    "enunciado": "Homem de 74 anos, com diabetes tipo 2, é admitido sonolento após 5 dias de poliúria. PA 88/54 mmHg, FC 120 bpm. Exames iniciais: glicose 1.050 mg/dL, sódio 136 mEq/L, potássio 4,8 mEq/L, bicarbonato 21 mEq/L, cetonemia negativa, ureia 120 mg/dL, creatinina 2,2 mg/dL. Recebeu 2 L de SF 0,9% na primeira hora e mais 1 L na segunda; agora PA 124/76 mmHg, FC 96 bpm, diurese de 100 mL/h, potássio 4,4 mEq/L, e a insulina contínua foi iniciada. Na quarta hora: glicose 620 mg/dL e sódio 146 mEq/L. O fluido mais adequado a seguir é:",
-    "alternativas": {
-      "A": "Manter SF 0,9% a 500 mL/h",
-      "B": "Trocar para salina a 0,45%",
-      "C": "Glicosado a 5% com salina a 0,45%",
-      "D": "Bicarbonato de sódio isotônico"
-    },
-    "gabarito": "B",
-    "armadilha": "A",
-    "dado_decisivo": "glicose 620 mg/dL e sódio 146 mEq/L",
-    "resolucao": "Quem segue a regra de que o estado hiperosmolar é volume e mais volume mantém o SF 0,9%, que foi a escolha certa enquanto havia choque. Depois da estabilização hemodinâmica, o fluido é escolhido pelo sódio corrigido, e não pelo medido: com glicose de 620, somam-se cerca de 1,6 a 2,4 mEq/L para cada 100 mg/dL acima de 100, o que leva o sódio de 146 a cerca de 154 a 158 mEq/L. Sódio corrigido normal ou alto indica salina a 0,45%, para repor água livre; o SF 0,9% agravaria a hipernatremia real, que é a regra no estado hiperosmolar porque a diurese osmótica perde mais água que sódio. A osmolalidade efetiva confirma: era cerca de 330 mOsm/kg na admissão (2 x 136 + 1.050/18) e está em cerca de 326 (2 x 146 + 620/18), ou seja, quase não caiu, abaixo da meta de 3 a 8 mOsm/kg por hora, outro motivo para passar ao fluido hipotônico. O soro glicosado só entra quando a glicose cai a cerca de 300 mg/dL, e bicarbonato não tem papel sem acidose relevante. O sódio medido subindo enquanto a glicose cai é esperado: é a água voltando para o intracelular.",
-    "comentarios": {
-      "A": "Errada. Foi a conduta correta nas primeiras horas, com choque; com hemodinâmica estável e sódio corrigido de cerca de 155, mantém e agrava a hipernatremia.",
-      "B": "Correta. Hemodinâmica restaurada e sódio corrigido alto (cerca de 154 a 158 mEq/L): salina a 0,45%.",
-      "C": "Errada. O glicosado é acrescentado quando a glicose chega a cerca de 300 mg/dL no estado hiperosmolar; com 620, ainda é cedo.",
-      "D": "Errada. Bicarbonato de 21 mEq/L e cetonemia negativa: não há acidose que justifique."
-    },
-    "para_levar": "No estado hiperosmolar e na cetoacidose, depois do choque, o fluido é escolhido pelo sódio corrigido (cerca de +1,6 a 2,4 mEq/L por 100 mg/dL de glicose acima de 100): normal ou alto, salina a 0,45%; baixo, SF 0,9%.",
-    "referencias": "ADA Consensus Report: Hyperglycemic Crises in Adults With Diabetes (Umpierrez GE et al., Diabetes Care 2024); Diretriz da Sociedade Brasileira de Diabetes 2025.",
-    "tags": [
-      "Estado Hipersomolar Hiperglicêmico (CM)",
-      "Hipernatremia (CM)",
-      "Emergências Hiperglicêmicas (CM)"
-    ],
-    "sourceQuestionId": null,
-    "alvo": "Fluidos na crise hiperglicêmica (tema UERJ recorrente) e o número que decide: sódio medido lido sem a correção."
+  "para_levar": "Antes de localizar a paratireoide, a urina de 24 horas com cálcio e creatinina: relação de depuração abaixo de 0,01 sugere hipercalcemia hipocalciúrica familiar, que não se opera. Exame de imagem não faz diagnóstico de hiperparatireoidismo.",
+  "referencias": "Bilezikian JP et al. Evaluation and Management of Primary Hyperparathyroidism: Summary Statement and Guidelines from the Fifth International Workshop. J Bone Miner Res 2022; Minisola S et al. The diagnosis and management of hypercalcaemia. BMJ 2015.",
+  "tags": [
+   "Hipercalcemias (CM)",
+   "Hiperparatireoidismo Primário (Clínica Médica) (CM)",
+   "Distúrbios do Cálcio (CM)"
+  ],
+  "sourceQuestionId": "20289dcb5eea60b",
+  "alvo": "Próximo exame no degrau certo: a localização (degrau seguinte) antes do exame simples que confirma o diagnóstico; distúrbios do cálcio são lacuna registrada."
+ },
+ {
+  "id": "S9-NEF-02",
+  "simulado": 9,
+  "area": "Nefrologia",
+  "titulo": "Primeira hemodiálise com ureia muito alta · sessão curta e fluxo de sangue baixo para prevenir o desequilíbrio dialítico",
+  "arma": "Grade X / Y",
+  "comando": "fato solto",
+  "nivel": "média",
+  "enunciado": "Na primeira sessão de hemodiálise de um paciente com doença renal crônica avançada, não dialítica até então, com ureia de 320 mg/dL, para prevenir a complicação neurológica mais temida desta sessão, ela deve ter, quanto à duração e ao fluxo de sangue, respectivamente:",
+  "alternativas": {
+   "A": "Longa, cerca de 4 horas / alto",
+   "B": "Longa, cerca de 4 horas / baixo",
+   "C": "Curta, cerca de 2 horas / alto",
+   "D": "Curta, cerca de 2 horas / baixo"
   },
-  {
-    "id": "S9-NEF-04",
-    "simulado": 9,
-    "area": "Nefrologia",
-    "titulo": "Transplante renal na síndrome de Alport ligada ao X · doença anti-membrana basal glomerular no enxerto, e não recidiva",
-    "arma": "Qualificador",
-    "comando": "fato solto",
-    "nivel": "difícil",
-    "enunciado": "No receptor de transplante renal cuja doença de base é a síndrome de Alport ligada ao X, a complicação imunológica específica dessa doença de base, a ser vigiada no enxerto, é:",
-    "alternativas": {
-      "A": "Nefropatia pelo poliomavírus BK",
-      "B": "Recidiva da nefropatia hereditária",
-      "C": "Doença anti-membrana basal glomerular",
-      "D": "Glomeruloesclerose segmentar recorrente"
-    },
-    "gabarito": "C",
-    "armadilha": "B",
-    "dado_decisivo": "complicação imunológica específica dessa doença de base",
-    "resolucao": "O raciocínio de quem pensa em doença de base e enxerto é a recidiva, mas a síndrome de Alport é genética: o defeito está no colágeno tipo IV do próprio rim nativo (cadeia alfa-5, no ligado ao X), e o rim doado tem colágeno normal, então a doença não recidiva. O qualificador do comando (imunológica e específica) aponta o oposto: o receptor nunca expressou a cadeia alfa-5 normal, e o sistema imune pode reconhecê-la como antígeno estranho no enxerto, formando anticorpos contra a membrana basal glomerular. Isso acontece em cerca de 3 a 5% dos transplantados com Alport, em geral no primeiro ano, como glomerulonefrite crescêntica com depósito linear de IgG, e com frequência leva à perda do enxerto. O anticorpo pode ser negativo nos ensaios comerciais, que medem o alvo da cadeia alfa-3. BK e glomeruloesclerose recorrente são complicações de outros contextos.",
-    "comentarios": {
-      "A": "Errada. É complicação da imunossupressão em qualquer transplantado renal, não específica do Alport.",
-      "B": "Errada. Seria a resposta para doenças que recidivam no enxerto (GESF primária, nefropatia por IgA, glomerulopatia C3); o Alport é defeito genético do rim nativo e não recidiva.",
-      "C": "Correta. O receptor não tem a cadeia alfa-5 do colágeno IV e pode formar anticorpos contra a membrana basal normal do enxerto.",
-      "D": "Errada. A GESF primária recorre no enxerto, às vezes em horas ou dias; não é a complicação do Alport."
-    },
-    "para_levar": "Alport não recidiva no enxerto, mas cerca de 3 a 5% desenvolvem doença anti-membrana basal glomerular contra o colágeno IV normal do doador.",
-    "referencias": "KDIGO 2020 Clinical Practice Guideline on the Evaluation and Management of Candidates for Kidney Transplantation; Savige J et al. Expert guidelines for the management of Alport syndrome and thin basement membrane nephropathy. J Am Soc Nephrol 2013.",
-    "tags": [
-      "Transplante Renal (CM)",
-      "Anti-membrana Basal Glomerular / anti-MBG / Goodpasture (CM)",
-      "Glomerulopatias (CM)"
-    ],
-    "sourceQuestionId": null,
-    "alvo": "Fato solto de mecanismo (o tipo que falha por evocação) com o qualificador que muda a resposta."
+  "gabarito": "D",
+  "armadilha": "A",
+  "dado_decisivo": "com ureia de 320 mg/dL",
+  "resolucao": "A tentação é retirar o máximo de ureia o quanto antes, com sessão longa e fluxo alto, que é a prescrição de manutenção. Na primeira sessão de um paciente com ureia muito elevada, a queda rápida da ureia plasmática cria um gradiente osmótico com o cérebro, onde a ureia sai mais devagar, e a água entra nos neurônios: é a síndrome do desequilíbrio dialítico, com cefaleia, náuseas, confusão, convulsão e, raramente, coma. A prevenção é limitar a redução da ureia na primeira sessão a cerca de 30 a 40%, com sessão curta (cerca de 2 horas), fluxo de sangue baixo (em torno de 200 mL/min) e dialisador de menor área, aumentando a dose nos dias seguintes. Sessão longa com fluxo baixo ainda permite remoção grande de ureia pelo tempo, e por isso também não é a escolha.",
+  "comentarios": {
+   "A": "Errada. É a prescrição de manutenção de um paciente estável em programa; na primeira sessão com ureia de 320 mg/dL, é a que mais provoca o desequilíbrio.",
+   "B": "Errada. Fluxo baixo, mas o tempo longo permite remoção total grande da ureia na primeira sessão.",
+   "C": "Errada. Encurta o tempo, mas o fluxo alto ainda derruba a ureia rapidamente; metade da prevenção.",
+   "D": "Correta. Sessão curta e fluxo baixo limitam a queda da ureia a cerca de 30 a 40% e previnem o edema cerebral osmótico."
   },
-  {
-    "id": "S9-NEF-05",
-    "simulado": 9,
-    "area": "Nefrologia",
-    "titulo": "Creatinina subindo anos depois do início do dolutegravir, com glicosúria normoglicêmica e hipofosfatemia · tubulopatia proximal pelo tenofovir",
-    "arma": "Rótulo verdadeiro",
-    "comando": "etiologia",
-    "nivel": "difícil",
-    "enunciado": "Homem de 52 anos vive com HIV há 7 anos, em uso de tenofovir desoproxila, lamivudina e dolutegravir desde o diagnóstico, com carga viral indetectável e CD4 de 640 células/mm³. É hipertenso, em uso de anlodipino, e não tem diabetes. Ao iniciar o dolutegravir, a creatinina passou de 0,9 para 1,05 mg/dL no primeiro mês e assim se manteve por anos. Há 6 meses tem dor óssea difusa e fraqueza para subir escadas, e usa ibuprofeno ocasionalmente. Hoje: creatinina 1,6 mg/dL, glicemia de jejum 92 mg/dL, HbA1c 5,4%, sódio 138 mEq/L, potássio 3,3 mEq/L, cloro 111 mEq/L, bicarbonato 18 mEq/L, fósforo 1,7 mg/dL, ácido úrico 2,0 mg/dL. EAS com glicose 2+, proteína 1+, sem hematúria e sem leucocitúria; relação proteína/creatinina urinária de 0,9 g/g, com relação albumina/creatinina de 60 mg/g. A causa mais provável da disfunção renal é:",
-    "alternativas": {
-      "A": "Tubulopatia proximal pelo tenofovir",
-      "B": "Bloqueio da secreção de creatinina pelo dolutegravir",
-      "C": "Nefropatia associada ao HIV",
-      "D": "Nefrite intersticial pelo ibuprofeno"
-    },
-    "gabarito": "A",
-    "armadilha": "B",
-    "dado_decisivo": "EAS com glicose 2+",
-    "resolucao": "O dolutegravir é o rótulo verdadeiro: ele inibe o transportador OCT2 e eleva a creatinina em cerca de 0,1 a 0,15 mg/dL nas primeiras semanas, sem queda real da filtração, e depois a creatinina estabiliza, exatamente como aconteceu aqui há anos. A nova subida vem acompanhada de sinais de disfunção do túbulo proximal (síndrome de Fanconi): glicosúria com glicemia e HbA1c normais, hipofosfatemia com dor óssea e fraqueza proximal de osteomalácia, hipouricemia, hipocalemia e acidose hiperclorêmica de ânion gap normal, com proteinúria de padrão tubular (proteína total de 0,9 g/g e pouca albumina). É a lesão do tenofovir desoproxila, que se acumula nas células tubulares proximais. A conduta é trocar o tenofovir desoproxila (por exemplo, pelo tenofovir alafenamida ou por outro esquema), sem interromper a TARV. A nefropatia associada ao HIV exigiria viremia, CD4 baixo e proteinúria albuminúrica alta, e a nefrite pelo anti-inflamatório teria leucocitúria, e não Fanconi.",
-    "comentarios": {
-      "A": "Correta. Glicosúria normoglicêmica, hipofosfatemia, hipouricemia e acidose hiperclorêmica com proteinúria tubular: Fanconi pelo tenofovir desoproxila.",
-      "B": "Errada. Explica a elevação discreta e estável do primeiro mês; não explica a nova subida anos depois nem os marcadores de lesão tubular proximal.",
-      "C": "Errada. Seria a causa com viremia alta, CD4 baixo e proteinúria nefrótica albuminúrica; a carga viral é indetectável e a albuminúria é baixa.",
-      "D": "Errada. Seria considerada com leucocitúria, cilindros leucocitários ou queda abrupta após o uso; não produz glicosúria, hipofosfatemia e hipouricemia."
-    },
-    "para_levar": "Creatinina subindo em quem usa tenofovir desoproxila: procure Fanconi (glicosúria normoglicêmica, hipofosfatemia, hipouricemia, proteinúria tubular). O dolutegravir só eleva a creatinina de forma discreta e estável no primeiro mês.",
-    "referencias": "Lucas GM et al. Clinical Practice Guideline for the Management of Chronic Kidney Disease in Patients Infected With HIV: 2014 Update by the HIV Medicine Association of the IDSA. Clin Infect Dis 2014; Swanepoel CR et al. Kidney disease in the setting of HIV infection: KDIGO Controversies Conference. Kidney Int 2018; PCDT para Manejo da Infecção pelo HIV em Adultos (Ministério da Saúde).",
-    "tags": [
-      "Nefrotoxicidade por Drogas (CM)",
-      "Tubulopatias (CM)",
-      "HIV : Diagnóstico, Seguimento e Antirretrovirais (CM)"
-    ],
-    "sourceQuestionId": null,
-    "alvo": "Rótulo verdadeiro (dolutegravir eleva a creatinina) contra o exame de urina que decide; droga em uso ignorada."
-  }
+  "para_levar": "Primeira hemodiálise com ureia muito alta: sessão curta (cerca de 2 horas), fluxo de sangue baixo e meta de reduzir a ureia em só 30 a 40%, para evitar a síndrome do desequilíbrio dialítico.",
+  "referencias": "Daugirdas JT, Blake PG, Ing TS. Handbook of Dialysis, 5ª ed. (2015); KDOQI Clinical Practice Guideline for Hemodialysis Adequacy: 2015 Update.",
+  "tags": [
+   "Diálise (Crônicos) (CM)",
+   "Doença Renal Crônica (CM)"
+  ],
+  "sourceQuestionId": "af427af7267d270",
+  "alvo": "Diálise (lacuna registrada) e o reflexo de fazer mais: dose plena onde a ordem pede menos."
+ },
+ {
+  "id": "S9-NEF-03",
+  "simulado": 9,
+  "area": "Nefrologia",
+  "titulo": "Estado hiperosmolar com sódio medido subindo após a expansão · sódio corrigido alto pede salina a 0,45%",
+  "arma": "Limiar",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Homem de 74 anos, com diabetes tipo 2, é admitido sonolento após 5 dias de poliúria. PA 88/54 mmHg, FC 120 bpm. Exames iniciais: glicose 1.050 mg/dL, sódio 136 mEq/L, potássio 4,8 mEq/L, bicarbonato 21 mEq/L, cetonemia negativa, ureia 120 mg/dL, creatinina 2,2 mg/dL. Recebeu 2 L de SF 0,9% na primeira hora e mais 1 L na segunda; agora PA 124/76 mmHg, FC 96 bpm, diurese de 100 mL/h, potássio 4,4 mEq/L, e a insulina contínua foi iniciada. Na quarta hora: glicose 620 mg/dL e sódio 146 mEq/L. O fluido mais adequado a seguir é:",
+  "alternativas": {
+   "A": "Manter SF 0,9% a 500 mL/h",
+   "B": "Trocar para salina a 0,45%",
+   "C": "Glicosado a 5% com salina a 0,45%",
+   "D": "Bicarbonato de sódio isotônico"
+  },
+  "gabarito": "B",
+  "armadilha": "A",
+  "dado_decisivo": "glicose 620 mg/dL e sódio 146 mEq/L",
+  "resolucao": "Quem segue a regra de que o estado hiperosmolar é volume e mais volume mantém o SF 0,9%, que foi a escolha certa enquanto havia choque. Depois da estabilização hemodinâmica, o fluido é escolhido pelo sódio corrigido, e não pelo medido: com glicose de 620, somam-se cerca de 1,6 a 2,4 mEq/L para cada 100 mg/dL acima de 100, o que leva o sódio de 146 a cerca de 154 a 158 mEq/L. Sódio corrigido normal ou alto indica salina a 0,45%, para repor água livre; o SF 0,9% agravaria a hipernatremia real, que é a regra no estado hiperosmolar porque a diurese osmótica perde mais água que sódio. A osmolalidade efetiva confirma: era cerca de 330 mOsm/kg na admissão (2 x 136 + 1.050/18) e está em cerca de 326 (2 x 146 + 620/18), ou seja, quase não caiu, abaixo da meta de 3 a 8 mOsm/kg por hora, outro motivo para passar ao fluido hipotônico. O soro glicosado só entra quando a glicose cai a cerca de 300 mg/dL, e bicarbonato não tem papel sem acidose relevante. O sódio medido subindo enquanto a glicose cai é esperado: é a água voltando para o intracelular.",
+  "comentarios": {
+   "A": "Errada. Foi a conduta correta nas primeiras horas, com choque; com hemodinâmica estável e sódio corrigido de cerca de 155, mantém e agrava a hipernatremia.",
+   "B": "Correta. Hemodinâmica restaurada e sódio corrigido alto (cerca de 154 a 158 mEq/L): salina a 0,45%.",
+   "C": "Errada. O glicosado é acrescentado quando a glicose chega a cerca de 300 mg/dL no estado hiperosmolar; com 620, ainda é cedo.",
+   "D": "Errada. Bicarbonato de 21 mEq/L e cetonemia negativa: não há acidose que justifique."
+  },
+  "para_levar": "No estado hiperosmolar e na cetoacidose, depois do choque, o fluido é escolhido pelo sódio corrigido (cerca de +1,6 a 2,4 mEq/L por 100 mg/dL de glicose acima de 100): normal ou alto, salina a 0,45%; baixo, SF 0,9%.",
+  "referencias": "ADA Consensus Report: Hyperglycemic Crises in Adults With Diabetes (Umpierrez GE et al., Diabetes Care 2024); Diretriz da Sociedade Brasileira de Diabetes 2025.",
+  "tags": [
+   "Estado Hipersomolar Hiperglicêmico (CM)",
+   "Hipernatremia (CM)",
+   "Emergências Hiperglicêmicas (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Fluidos na crise hiperglicêmica (tema UERJ recorrente) e o número que decide: sódio medido lido sem a correção."
+ },
+ {
+  "id": "S9-NEF-04",
+  "simulado": 9,
+  "area": "Nefrologia",
+  "titulo": "Transplante renal na síndrome de Alport ligada ao X · doença anti-membrana basal glomerular no enxerto, e não recidiva",
+  "arma": "Qualificador",
+  "comando": "fato solto",
+  "nivel": "difícil",
+  "enunciado": "No receptor de transplante renal cuja doença de base é a síndrome de Alport ligada ao X, a complicação imunológica específica dessa doença de base, a ser vigiada no enxerto, é:",
+  "alternativas": {
+   "A": "Nefropatia pelo poliomavírus BK",
+   "B": "Recidiva da nefropatia hereditária",
+   "C": "Doença anti-membrana basal glomerular",
+   "D": "Glomeruloesclerose segmentar recorrente"
+  },
+  "gabarito": "C",
+  "armadilha": "B",
+  "dado_decisivo": "complicação imunológica específica dessa doença de base",
+  "resolucao": "O raciocínio de quem pensa em doença de base e enxerto é a recidiva, mas a síndrome de Alport é genética: o defeito está no colágeno tipo IV do próprio rim nativo (cadeia alfa-5, no ligado ao X), e o rim doado tem colágeno normal, então a doença não recidiva. O qualificador do comando (imunológica e específica) aponta o oposto: o receptor nunca expressou a cadeia alfa-5 normal, e o sistema imune pode reconhecê-la como antígeno estranho no enxerto, formando anticorpos contra a membrana basal glomerular. Isso acontece em cerca de 3 a 5% dos transplantados com Alport, em geral no primeiro ano, como glomerulonefrite crescêntica com depósito linear de IgG, e com frequência leva à perda do enxerto. O anticorpo pode ser negativo nos ensaios comerciais, que medem o alvo da cadeia alfa-3. BK e glomeruloesclerose recorrente são complicações de outros contextos.",
+  "comentarios": {
+   "A": "Errada. É complicação da imunossupressão em qualquer transplantado renal, não específica do Alport.",
+   "B": "Errada. Seria a resposta para doenças que recidivam no enxerto (GESF primária, nefropatia por IgA, glomerulopatia C3); o Alport é defeito genético do rim nativo e não recidiva.",
+   "C": "Correta. O receptor não tem a cadeia alfa-5 do colágeno IV e pode formar anticorpos contra a membrana basal normal do enxerto.",
+   "D": "Errada. A GESF primária recorre no enxerto, às vezes em horas ou dias; não é a complicação do Alport."
+  },
+  "para_levar": "Alport não recidiva no enxerto, mas cerca de 3 a 5% desenvolvem doença anti-membrana basal glomerular contra o colágeno IV normal do doador.",
+  "referencias": "KDIGO 2020 Clinical Practice Guideline on the Evaluation and Management of Candidates for Kidney Transplantation; Savige J et al. Expert guidelines for the management of Alport syndrome and thin basement membrane nephropathy. J Am Soc Nephrol 2013.",
+  "tags": [
+   "Transplante Renal (CM)",
+   "Anti-membrana Basal Glomerular / anti-MBG / Goodpasture (CM)",
+   "Glomerulopatias (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Fato solto de mecanismo (o tipo que falha por evocação) com o qualificador que muda a resposta."
+ },
+ {
+  "id": "S9-NEF-05",
+  "simulado": 9,
+  "area": "Nefrologia",
+  "titulo": "Creatinina subindo anos depois do início do dolutegravir, com glicosúria normoglicêmica e hipofosfatemia · tubulopatia proximal pelo tenofovir",
+  "arma": "Rótulo verdadeiro",
+  "comando": "etiologia",
+  "nivel": "difícil",
+  "enunciado": "Homem de 52 anos vive com HIV há 7 anos, em uso de tenofovir desoproxila, lamivudina e dolutegravir desde o diagnóstico, com carga viral indetectável e CD4 de 640 células/mm³. É hipertenso, em uso de anlodipino, e não tem diabetes. Ao iniciar o dolutegravir, a creatinina passou de 0,9 para 1,05 mg/dL no primeiro mês e assim se manteve por anos. Há 6 meses tem dor óssea difusa e fraqueza para subir escadas, e usa ibuprofeno ocasionalmente. Hoje: creatinina 1,6 mg/dL, glicemia de jejum 92 mg/dL, HbA1c 5,4%, sódio 138 mEq/L, potássio 3,3 mEq/L, cloro 111 mEq/L, bicarbonato 18 mEq/L, fósforo 1,7 mg/dL, ácido úrico 2,0 mg/dL. EAS com glicose 2+, proteína 1+, sem hematúria e sem leucocitúria; relação proteína/creatinina urinária de 0,9 g/g, com relação albumina/creatinina de 60 mg/g. A causa mais provável da disfunção renal é:",
+  "alternativas": {
+   "A": "Tubulopatia proximal pelo tenofovir",
+   "B": "Bloqueio da secreção de creatinina pelo dolutegravir",
+   "C": "Nefropatia associada ao HIV",
+   "D": "Nefrite intersticial pelo ibuprofeno"
+  },
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "EAS com glicose 2+",
+  "resolucao": "O dolutegravir é o rótulo verdadeiro: ele inibe o transportador OCT2 e eleva a creatinina em cerca de 0,1 a 0,15 mg/dL nas primeiras semanas, sem queda real da filtração, e depois a creatinina estabiliza, exatamente como aconteceu aqui há anos. A nova subida vem acompanhada de sinais de disfunção do túbulo proximal (síndrome de Fanconi): glicosúria com glicemia e HbA1c normais, hipofosfatemia com dor óssea e fraqueza proximal de osteomalácia, hipouricemia, hipocalemia e acidose hiperclorêmica de ânion gap normal, com proteinúria de padrão tubular (proteína total de 0,9 g/g e pouca albumina). É a lesão do tenofovir desoproxila, que se acumula nas células tubulares proximais. A conduta é trocar o tenofovir desoproxila (por exemplo, pelo tenofovir alafenamida ou por outro esquema), sem interromper a TARV. A nefropatia associada ao HIV exigiria viremia, CD4 baixo e proteinúria albuminúrica alta, e a nefrite pelo anti-inflamatório teria leucocitúria, e não Fanconi.",
+  "comentarios": {
+   "A": "Correta. Glicosúria normoglicêmica, hipofosfatemia, hipouricemia e acidose hiperclorêmica com proteinúria tubular: Fanconi pelo tenofovir desoproxila.",
+   "B": "Errada. Explica a elevação discreta e estável do primeiro mês; não explica a nova subida anos depois nem os marcadores de lesão tubular proximal.",
+   "C": "Errada. Seria a causa com viremia alta, CD4 baixo e proteinúria nefrótica albuminúrica; a carga viral é indetectável e a albuminúria é baixa.",
+   "D": "Errada. Seria considerada com leucocitúria, cilindros leucocitários ou queda abrupta após o uso; não produz glicosúria, hipofosfatemia e hipouricemia."
+  },
+  "para_levar": "Creatinina subindo em quem usa tenofovir desoproxila: procure Fanconi (glicosúria normoglicêmica, hipofosfatemia, hipouricemia, proteinúria tubular). O dolutegravir só eleva a creatinina de forma discreta e estável no primeiro mês.",
+  "referencias": "Lucas GM et al. Clinical Practice Guideline for the Management of Chronic Kidney Disease in Patients Infected With HIV: 2014 Update by the HIV Medicine Association of the IDSA. Clin Infect Dis 2014; Swanepoel CR et al. Kidney disease in the setting of HIV infection: KDIGO Controversies Conference. Kidney Int 2018; PCDT para Manejo da Infecção pelo HIV em Adultos (Ministério da Saúde).",
+  "tags": [
+   "Nefrotoxicidade por Drogas (CM)",
+   "Tubulopatias (CM)",
+   "HIV : Diagnóstico, Seguimento e Antirretrovirais (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Rótulo verdadeiro (dolutegravir eleva a creatinina) contra o exame de urina que decide; droga em uso ignorada."
+ }
 ]
