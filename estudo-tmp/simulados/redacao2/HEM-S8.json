@@ -139,35 +139,35 @@
   "id": "S8-HEM-05",
   "simulado": 8,
   "area": "Hematologia",
-  "titulo": "TEP subsegmentar incidental no paciente com câncer de pâncreas: anticoagular como o sintomático, sem vigilância",
-  "arma": "Rótulo verdadeiro",
+  "titulo": "Plaquetopenia pela quimioterapia em quem tem TVP de câncer: reduzir a anticoagulação para dose profilática, não mantê-la plena",
+  "arma": "Limiar",
   "comando": "conduta",
   "nivel": "difícil",
-  "enunciado": "Homem de 61 anos, com adenocarcinoma de pâncreas localmente avançado em quimioterapia com FOLFIRINOX, faz TC de tórax e abdome de reestadiamento. O radiologista descreve falha de enchimento única em artéria subsegmentar do lobo inferior direito. Ele está assintomático, SpO2 97% em ar ambiente, FC 84 bpm, PA 124/76 mmHg. O Doppler venoso dos membros inferiores não mostra trombose. Plaquetas 168.000/mm³, TFGe 82 mL/min/1,73 m², sem sangramento recente, sem metástase cerebral. A conduta mais adequada é:",
+  "enunciado": "Mulher de 58 anos, com adenocarcinoma seroso de ovário em quimioterapia com carboplatina e paclitaxel, teve trombose venosa profunda femoral diagnosticada há 2 meses, tratada desde então com enoxaparina em dose plena (1 mg/kg de 12 em 12 horas). No 8º dia do ciclo atual, o controle mostra plaquetas de 38.000/mm³ (180.000/mm³ no início do ciclo), sem sangramento, sem petéquias e sem nova dor ou edema do membro. O Doppler de hoje mostra trombo residual não oclusivo, sem extensão proximal. Hb 10,4 g/dL, TFGe 76 mL/min/1,73 m², TP e TTPa normais, sem metástase cerebral. A conduta mais adequada quanto à anticoagulação é:",
   "alternativas": {
-   "A": "Anticoagular como embolia sintomática",
-   "B": "Vigilância com Doppler seriado",
-   "C": "Filtro de veia cava inferior",
-   "D": "Repetir angiotomografia em 1 semana"
+   "A": "Reduzir a enoxaparina para dose profilática",
+   "B": "Manter a enoxaparina em dose plena",
+   "C": "Suspender e colocar filtro de veia cava",
+   "D": "Trocar por anticoagulante oral direto"
   },
   "gabarito": "A",
   "armadilha": "B",
-  "dado_decisivo": "adenocarcinoma de pâncreas localmente avançado em quimioterapia com FOLFIRINOX",
-  "resolucao": "Embolia subsegmentar única, assintomática e sem trombose venosa profunda é o cenário em que a diretriz do CHEST aceita vigilância clínica em vez de anticoagular, e esse rótulo verdadeiro empurra para o Doppler seriado. Mas a vigilância é para quem tem baixo risco de recorrência, e câncer ativo em quimioterapia, sobretudo de pâncreas, é o maior fator de risco de recorrência e progressão. As diretrizes de câncer (ASCO 2023, ISTH, ITAC) recomendam tratar o TEP incidental como o sintomático, inclusive o subsegmentar, com o mesmo anticoagulante e a mesma duração (pelo menos 6 meses e enquanto o câncer estiver ativo). Filtro só cabe com contraindicação à anticoagulação, e repetir a imagem atrasa o tratamento sem mudar a decisão.",
+  "dado_decisivo": "trombose venosa profunda femoral diagnosticada há 2 meses",
+  "resolucao": "Trombose de câncer em quimioterapia faz o reflexo de não mexer na dose para não deixar o paciente desprotegido, e por isso a dose plena atrai. Mas o que decide é o cruzamento de dois números: a contagem de plaquetas e o tempo desde a trombose. A orientação da ISTH para trombose associada ao câncer com plaquetopenia separa o evento agudo (menos de 30 dias, alto risco de recorrência, em que se mantém dose plena com suporte transfusional para plaquetas acima de 40.000 a 50.000) do evento subagudo. Aqui a trombose tem 2 meses e o trombo é residual não oclusivo: o risco de recorrência já caiu, e com plaquetas entre 25.000 e 50.000 a recomendação é reduzir para dose profilática (ou intermediária) enquanto durar a plaquetopenia, retomando a dose plena quando as plaquetas voltarem acima de 50.000. Manter a dose plena com 38.000 plaquetas aumenta o risco de sangramento sem ganho proporcional; suspender e colocar filtro expõe à recorrência e o filtro não substitui anticoagulação; o anticoagulante oral direto não permite a modulação fina da dose e eleva o sangramento mucoso neste cenário.",
   "comentarios": {
-   "A": "Correta. TEP incidental no câncer ativo trata-se como o sintomático, mesmo subsegmentar e isolado.",
-   "B": "Errada, é a armadilha. Seria aceitável num paciente sem câncer, com TEP subsegmentar isolado, sem TVP e com reserva cardiopulmonar boa.",
-   "C": "Errada. Filtro de cava se reserva a TEV agudo com contraindicação absoluta à anticoagulação, ausente aqui.",
-   "D": "Errada. Repetir a imagem não muda a indicação e atrasa o tratamento num paciente de alto risco de recorrência."
+   "A": "Correta. Trombose subaguda (mais de 30 dias) com plaquetas entre 25.000 e 50.000: dose profilática até as plaquetas se recuperarem, quando se retoma a dose plena.",
+   "B": "Errada, é a armadilha. A dose plena se mantém no evento agudo (menos de 30 dias) ou com plaquetas acima de 50.000, transfundindo para manter esse piso; com 38.000 e trombo residual, o sangramento supera o benefício.",
+   "C": "Errada. Filtro de cava se reserva à contraindicação absoluta à anticoagulação e não dispensa anticoagular quando a plaquetopenia é transitória.",
+   "D": "Errada. O anticoagulante oral direto não permite ajustar a dose à plaquetopenia e eleva o sangramento mucoso; seria opção com plaquetas normais e sem tumor de alto risco de sangramento."
   },
-  "para_levar": "No paciente com câncer ativo, TEP incidental, inclusive subsegmentar, é tratado como TEP sintomático; vigilância sem anticoagular é só para o subsegmentar isolado de baixo risco.",
-  "referencias": "ASCO Guideline Update 2023 (Key et al.): VTE prophylaxis and treatment in cancer; CHEST 2021 Antithrombotic Therapy for VTE (Stevens et al.); ITAC 2022.",
+  "para_levar": "Na trombose do câncer com plaquetopenia pela quimioterapia, decidir pela contagem e pelo tempo: evento agudo ou plaquetas acima de 50.000, dose plena (transfundindo se preciso); evento subagudo com 25.000 a 50.000, dose profilática até recuperar.",
+  "referencias": "ISTH 2018 Guidance (Samuelson Bannow et al., J Thromb Haemost): management of anticoagulation in cancer-associated VTE with thrombocytopenia; ITAC 2022 (Farge et al.).",
   "tags": [
-   "TEP (CM)",
-   "Anticoagulação (CM)"
+   "Anticoagulação (CM)",
+   "Trombose Venosa Profunda (CM)"
   ],
-  "sourceQuestionId": "254da0a24f0795e",
-  "alvo": "Rótulo verdadeiro (subsegmentar isolado aceita vigilância) contra o antecedente da primeira linha (câncer ativo)."
+  "sourceQuestionId": null,
+  "alvo": "Porte da conduta (manter dose plena por reflexo) contra o limiar de plaquetas e o tempo da trombose."
  },
  {
   "id": "S8-HEM-06",

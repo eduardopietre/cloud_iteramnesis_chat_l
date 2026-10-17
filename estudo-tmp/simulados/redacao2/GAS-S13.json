@@ -1,0 +1,239 @@
+[
+ {
+  "id": "S13-GAS-01",
+  "simulado": 13,
+  "area": "Gastroenterologia",
+  "titulo": "Dor pós-prandial com medo de comer e emagrecimento em diabética tabagista rotulada como gastroparesia: isquemia mesentérica crônica",
+  "arma": "Rótulo verdadeiro",
+  "comando": "diagnóstico",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 68 anos, tabagista ativa de 50 anos-maço, hipertensa e com diabetes tipo 2 há 15 anos com retinopatia, refere há 6 meses dor abdominal periumbilical em cólica que começa 20 a 30 minutos após as refeições e dura 1 a 2 horas. Passou a comer pouco por medo da dor e perdeu 11 kg. Endoscopia e colonoscopia recentes normais; TC de abdome sem contraste sem massas. Cintilografia de esvaziamento gástrico com retenção de 18% em 4 horas (normal até 10%), e o quadro foi atribuído a gastroparesia diabética. Exame: abdome flácido e indolor, com sopro epigástrico; pulsos pediosos diminuídos. Lipase e enzimas hepáticas normais. O diagnóstico mais provável é:",
+  "alternativas": {
+   "A": "Câncer de pâncreas oculto",
+   "B": "Gastroparesia diabética",
+   "C": "Isquemia mesentérica crônica",
+   "D": "Pancreatite crônica"
+  },
+  "gabarito": "C",
+  "armadilha": "B",
+  "dado_decisivo": "começa 20 a 30 minutos após as refeições e dura 1 a 2 horas",
+  "resolucao": "A cintilografia alterada em diabética de longa data é um rótulo verdadeiro: ela provavelmente tem algum grau de gastroparesia. Mas a gastroparesia dá náusea, plenitude e vômitos, não dor em cólica com hora marcada; o padrão de dor que começa 20 a 30 minutos após comer e dura 1 a 2 horas, com sitofobia (medo de comer) e grande emagrecimento, é a angina intestinal. O terreno vascular completa o quadro: tabagismo pesado, diabetes com microangiopatia, sopro epigástrico e pulsos periféricos diminuídos. A isquemia mesentérica crônica costuma exigir estenose de pelo menos dois dos três troncos (celíaco, mesentérica superior e inferior) e é diagnosticada por angiotomografia; o tratamento de escolha atual é a revascularização endovascular. Câncer de pâncreas e pancreatite crônica entram no diferencial do emagrecimento com dor, mas a TC sem massa, a lipase normal e o caráter pós-prandial estrito apontam para a isquemia.",
+  "comentarios": {
+   "A": "Errada. Entra no diferencial de dor e emagrecimento, mas não explica a dor de hora marcada após cada refeição nem o sopro e a doença vascular difusa.",
+   "B": "Errada. É a armadilha: a cintilografia é verdadeira, mas gastroparesia causa náusea e plenitude, não dor em cólica pós-prandial com medo de comer.",
+   "C": "Correta. Angina intestinal com sitofobia e emagrecimento em paciente com aterosclerose difusa e sopro epigástrico.",
+   "D": "Errada. Sem etilismo, sem esteatorreia e sem calcificações na TC; a dor não teria esse padrão estrito pós-prandial."
+  },
+  "para_levar": "Dor abdominal 20 a 30 minutos após comer, medo de comer e emagrecimento em paciente vascular: isquemia mesentérica crônica até prova em contrário; angiotomografia confirma.",
+  "referencias": "ESVS 2017 Clinical Practice Guidelines on the Management of Diseases of Mesenteric Arteries and Veins; ACG Clinical Guideline: Epidemiology, Risk Factors, Patterns of Presentation, Diagnosis, and Management of Colon Ischemia and mesenteric ischemia (2015)",
+  "tags": [
+   "134 Vascular Diseases of the Gastrointestinal Tract",
+   "Intestino (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Rótulo verdadeiro (exame alterado) que puxa para o diagnóstico errado."
+ },
+ {
+  "id": "S13-GAS-02",
+  "simulado": 13,
+  "area": "Gastroenterologia",
+  "titulo": "Diverticulite com abscesso pélvico de 6 cm: Hinchey II e drenagem percutânea associada ao antibiótico",
+  "arma": "Grade X / Y",
+  "comando": "diagnóstico",
+  "nivel": "média",
+  "enunciado": "Homem de 58 anos tem dor em fossa ilíaca esquerda há 4 dias e febre de 38,4 °C. PA 128x78 mmHg, FC 98 bpm. Abdome com dor e defesa localizadas na fossa ilíaca esquerda, sem sinais de peritonite difusa. Leucócitos 16.800/mm³, PCR 190 mg/L. TC com contraste: espessamento do sigmoide com divertículos e coleção pélvica de 6 cm, com parede realçada, sem gás livre fora da coleção e sem líquido livre difuso. Nunca fez colonoscopia. A classificação de Hinchey e a conduta inicial são, respectivamente:",
+  "alternativas": {
+   "A": "Hinchey II / antibiótico e drenagem percutânea",
+   "B": "Hinchey Ib / antibiótico isolado",
+   "C": "Hinchey III / sigmoidectomia de urgência",
+   "D": "Hinchey II / antibiótico isolado"
+  },
+  "gabarito": "A",
+  "armadilha": "D",
+  "dado_decisivo": "coleção pélvica de 6 cm",
+  "resolucao": "Abscesso pélvico ou a distância do cólon é Hinchey II (o Ib é pericólico), e o paciente está estável e sem peritonite, o que leva muitos a manter só antibiótico. Mas o tamanho decide: abscessos pequenos, até cerca de 3 a 4 cm, costumam resolver com antibiótico; acima disso, como esta coleção de 6 cm, a recomendação é drenagem percutânea guiada por imagem associada ao antibiótico, que evita a cirurgia de urgência na maioria dos casos. Sigmoidectomia de urgência fica para peritonite purulenta ou fecal (Hinchey III e IV), falha da drenagem ou abscesso inacessível. Depois de resolvido o episódio, a colonoscopia em 6 a 8 semanas é indicada após diverticulite complicada, para afastar neoplasia, e nunca na fase aguda.",
+  "comentarios": {
+   "A": "Correta. Abscesso pélvico é Hinchey II, e 6 cm pede drenagem percutânea além do antibiótico.",
+   "B": "Errada. Hinchey Ib é abscesso pericólico; este é pélvico e grande demais para antibiótico isolado.",
+   "C": "Errada. Hinchey III é peritonite purulenta generalizada; não há líquido livre difuso nem peritonite.",
+   "D": "Errada. É a armadilha: a classificação está certa, mas abscesso de 6 cm raramente resolve só com antibiótico."
+  },
+  "para_levar": "Diverticulite com abscesso: até 3 a 4 cm, antibiótico; maior, drenagem percutânea; colonoscopia 6 a 8 semanas após diverticulite complicada.",
+  "referencias": "ASCRS Clinical Practice Guidelines for the Management of Left-sided Colonic Diverticulitis (2020); WSES Guidelines for the management of acute left sided colonic diverticulitis (2020)",
+  "tags": [
+   "Diverticulite Aguda"
+  ],
+  "sourceQuestionId": "dff6426d6d22a44",
+  "alvo": "Limiar de tamanho que define a conduta; acertar o rótulo e errar a segunda metade."
+ },
+ {
+  "id": "S13-GAS-03",
+  "simulado": 13,
+  "area": "Gastroenterologia",
+  "titulo": "Pseudo-obstrução colônica aguda refratária ao suporte em paciente com bradicardia: descompressão colonoscópica, e não neostigmina",
+  "arma": "Qualificador",
+  "comando": "conduta",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 74 anos, no 4º dia de pós-operatório de artroplastia de quadril, evolui com distensão abdominal progressiva, pouca dor e eliminação escassa de flatos. A oxicodona foi suspensa no início da distensão. Há 48 horas está em jejum, com sonda nasogástrica e sonda retal, deambulação estimulada e correção de potássio e magnésio, hoje normais; a distensão aumentou. Tem bloqueio atrioventricular de segundo grau Mobitz I conhecido; FC 48 bpm, PA 128x70 mmHg. Abdome timpânico, sem defesa e sem descompressão dolorosa. Lactato e leucócitos normais. TC: dilatação de ceco (12,5 cm), cólon ascendente e transverso, sem ponto de transição mecânico, sem pneumatose e sem pneumoperitônio. A conduta mais adequada para este paciente é:",
+  "alternativas": {
+   "A": "Neostigmina intravenosa com monitorização",
+   "B": "Manter o suporte por mais 72 horas",
+   "C": "Colectomia direita de urgência",
+   "D": "Descompressão colonoscópica"
+  },
+  "gabarito": "D",
+  "armadilha": "A",
+  "dado_decisivo": "FC 48 bpm",
+  "resolucao": "Pseudo-obstrução colônica aguda (síndrome de Ogilvie) que não responde a 24 a 48 horas de suporte, com ceco acima de 12 cm, tem indicação de tratamento ativo, e o primeiro passo farmacológico é a neostigmina, por isso ela atrai. Mas a neostigmina, inibidor da acetilcolinesterase, provoca bradicardia, às vezes grave, e está contraindicada ou exige extrema cautela em quem já tem bradicardia, distúrbio de condução, broncoespasmo ou insuficiência renal grave. Com FC de 48 bpm e bloqueio atrioventricular, a alternativa para este paciente é a descompressão colonoscópica, com colocação de sonda descompressiva. Prolongar o suporte com ceco de 12,5 cm em aumento expõe a isquemia e perfuração, e a cirurgia fica para perfuração, isquemia ou falha das medidas não cirúrgicas.",
+  "comentarios": {
+   "A": "Errada. É a armadilha: seria a conduta padrão após falha do suporte, mas a bradicardia com bloqueio atrioventricular a contraindica.",
+   "B": "Errada. O ceco de 12,5 cm em aumento após 48 horas de suporte já pede descompressão; esperar aumenta o risco de perfuração.",
+   "C": "Errada. Cirurgia é para perfuração, isquemia ou falha da descompressão; não há pneumatose, pneumoperitônio nem peritonite.",
+   "D": "Correta. Falha do suporte com ceco acima de 12 cm e contraindicação à neostigmina: descompressão colonoscópica."
+  },
+  "para_levar": "Ogilvie refratário ao suporte: neostigmina é a primeira escolha, exceto com bradicardia, distúrbio de condução ou broncoespasmo; nesses, descompressão colonoscópica.",
+  "referencias": "ASGE Guideline on the role of endoscopy in the management of acute colonic pseudo-obstruction and colonic volvulus (2020); ASCRS Clinical Practice Guidelines for Colonic Volvulus and Acute Colonic Pseudo-Obstruction (2021)",
+  "tags": [
+   "Constipação (CM)",
+   "Intestino (CM)"
+  ],
+  "sourceQuestionId": "24f2cd4b71fa350",
+  "alvo": "Conduta de manual que este paciente contraindica (dado do antecedente ignorado)."
+ },
+ {
+  "id": "S13-GAS-04",
+  "simulado": 13,
+  "area": "Hepatologia",
+  "titulo": "MELD elevado em cirrótico compensado que usa varfarina: escore superestimado pelo INR do anticoagulante",
+  "arma": "Droga a deduzir",
+  "comando": "mecanismo",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 61 anos, com cirrose por doença hepática esteatótica associada à disfunção metabólica, nunca descompensou. Tem fibrilação atrial e usa um anticoagulante oral que exige coleta mensal de sangue para ajuste da dose. Exame sem ascite, icterícia ou encefalopatia. Exames: bilirrubina 1,3 mg/dL, albumina 3,9 g/dL, creatinina 1,0 mg/dL, sódio 136 mEq/L, INR 2,6, plaquetas 118.000/mm³. O MELD calculado é 18. A interpretação correta desse MELD é:",
+  "alternativas": {
+   "A": "Reflete descompensação iminente",
+   "B": "Está superestimado pelo anticoagulante",
+   "C": "Contraindica manter a anticoagulação",
+   "D": "Indica avaliação para transplante"
+  },
+  "gabarito": "B",
+  "armadilha": "D",
+  "dado_decisivo": "usa um anticoagulante oral que exige coleta mensal de sangue para ajuste da dose",
+  "resolucao": "MELD de 18 ultrapassa o limiar de 15 a partir do qual se encaminha o cirrótico para avaliação de transplante, e o reflexo é encaminhar. Mas o MELD é calculado com bilirrubina, creatinina, sódio e INR, e o INR só mede a função de síntese hepática quando não há antagonista da vitamina K. O anticoagulante oral que exige controle mensal do exame é a varfarina, e o INR de 2,6 reflete o alvo terapêutico da fibrilação atrial, não a insuficiência hepática. Com bilirrubina 1,3, albumina 3,9 e nenhuma descompensação, a doença é compensada; o MELD está artificialmente elevado e não deve guiar o encaminhamento, a prioridade em lista nem o prognóstico. A anticoagulação, por sua vez, é indicada e pode ser mantida no cirrótico compensado.",
+  "comentarios": {
+   "A": "Errada. Nada no quadro (bilirrubina, albumina, ausência de ascite e encefalopatia) sugere descompensação; o número alto vem do INR.",
+   "B": "Correta. A varfarina, deduzida pelo controle mensal de sangue, eleva o INR e superestima o MELD.",
+   "C": "Errada. A fibrilação atrial indica anticoagulação, e o cirrótico compensado pode mantê-la; o MELD falseado não é contraindicação.",
+   "D": "Errada. É a armadilha: MELD acima de 15 indicaria encaminhamento, mas este valor não reflete a função hepática."
+  },
+  "para_levar": "O MELD não vale em quem usa antagonista da vitamina K: o INR do anticoagulante superestima o escore.",
+  "referencias": "AASLD Practice Guideline: Evaluation for liver transplantation in adults (2013, atualização 2021); Kamath PS, Kim WR. The model for end-stage liver disease (MELD). Hepatology (2007)",
+  "tags": [
+   "Conceitos e Avaliação Geral do Paciente Cirrótico (CM)",
+   "145 Hepatic Failure and Liver Transplantation"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Ignorar a droga em uso ao ler um exame; número lido sem o contexto."
+ },
+ {
+  "id": "S13-GAS-05",
+  "simulado": 13,
+  "area": "Gastroenterologia",
+  "titulo": "Colecistite aguda calculosa no segundo trimestre: colecistectomia videolaparoscópica na mesma internação",
+  "arma": "Rótulo verdadeiro",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Gestante de 27 anos, com 20 semanas, tem dor em hipocôndrio direito há 30 horas, febre de 38,2 °C e vômitos. É a segunda internação por dor biliar nesta gestação. Sinal de Murphy positivo. Leucócitos 17.000/mm³, bilirrubina 0,8 mg/dL, fosfatase alcalina e GGT dentro da faixa da gestação, lipase normal. Ultrassonografia: vesícula distendida, parede de 6 mm, cálculo impactado no infundíbulo, líquido perivesicular, colédoco de 4 mm. Avaliação obstétrica: feto vivo, sem contrações. Além do antibiótico, a conduta mais adequada é:",
+  "alternativas": {
+   "A": "Colecistectomia videolaparoscópica nesta internação",
+   "B": "Tratamento clínico e colecistectomia após o parto",
+   "C": "Colecistostomia percutânea",
+   "D": "CPRE com papilotomia"
+  },
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "É a segunda internação por dor biliar nesta gestação",
+  "resolucao": "A gestação é o rótulo que faz adiar a cirurgia, como se operar fosse o risco maior. Mas o tratamento conservador da doença biliar sintomática na gestação tem alta taxa de recorrência (esta já é a segunda internação), e cada novo episódio, com nova colecistite, pancreatite ou coledocolitíase, traz mais risco de parto prematuro e perda fetal do que a própria cirurgia. A colecistectomia videolaparoscópica é segura em qualquer trimestre e o segundo é o momento ideal, por isso a recomendação é operar na mesma internação. Colecistostomia é para o paciente grave que não tolera cirurgia, e a CPRE só se houver coledocolitíase ou colangite, ausentes aqui (bilirrubina normal e colédoco de 4 mm).",
+  "comentarios": {
+   "A": "Correta. Colecistite calculosa na gestação, especialmente no segundo trimestre: colecistectomia videolaparoscópica precoce.",
+   "B": "Errada. É a armadilha: adiar até o parto aumenta recorrência, complicações e perda fetal; a recorrência já aconteceu.",
+   "C": "Errada. Fica para paciente instável ou de altíssimo risco cirúrgico, o que não é o caso.",
+   "D": "Errada. Não há coledocolitíase nem colangite; colédoco de 4 mm e bilirrubina normal."
+  },
+  "para_levar": "Doença biliar sintomática na gestação: colecistectomia videolaparoscópica em qualquer trimestre, idealmente no segundo; adiar aumenta o risco.",
+  "referencias": "SAGES Guidelines for the Use of Laparoscopy During Pregnancy (2017); Tokyo Guidelines 2018",
+  "tags": [
+   "Colecistite",
+   "226 Common Medical Problems in Pregnancy"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Rótulo verdadeiro (gestação) que puxa para a omissão errada."
+ },
+ {
+  "id": "S13-GAS-06",
+  "simulado": 13,
+  "area": "Oncologia",
+  "titulo": "Compressão medular metastática com paraplegia completa há mais de 48 horas e coluna estável: radioterapia, sem cirurgia descompressiva",
+  "arma": "Cronologia",
+  "comando": "conduta",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 66 anos, com adenocarcinoma de pulmão metastático para ossos e ECOG 1 até o mês passado, procura atendimento por paraplegia completa (força grau 0 nos membros inferiores), nível sensitivo em T8 e retenção urinária, instalados há 4 dias, depois de 3 semanas de dorsalgia. Ressonância de toda a coluna: metástase em T8 com compressão epidural, colapso de 30% do corpo vertebral sem retropulsão e coluna considerada estável; demais níveis sem compressão. Expectativa de vida estimada maior que 6 meses. Já recebeu dexametasona. A conduta mais adequada para a compressão é:",
+  "alternativas": {
+   "A": "Descompressão cirúrgica seguida de radioterapia",
+   "B": "Vertebroplastia com cimento",
+   "C": "Radioterapia",
+   "D": "Dexametasona e reabilitação, sem radioterapia"
+  },
+  "gabarito": "C",
+  "armadilha": "A",
+  "dado_decisivo": "instalados há 4 dias",
+  "resolucao": "Compressão medular com déficit em paciente com boa expectativa de vida lembra o estudo que mostrou vantagem da descompressão cirúrgica seguida de radioterapia, e a cirurgia vira reflexo. Mas aquele benefício foi para quem ainda tinha função neurológica a salvar: o estudo excluiu pacientes paraplégicos há mais de 48 horas, e com paraplegia completa por mais de 24 a 48 horas a chance de recuperar a marcha com a cirurgia é desprezível. Com a coluna estável, não há indicação de estabilização, e a cirurgia acrescentaria só risco. O tratamento é radioterapia, para controle local e da dor, mantendo dexametasona, reabilitação e cuidados com bexiga e pele. Vertebroplastia trata dor de fratura sem compressão epidural, e deixar sem radioterapia abandona o controle do tumor.",
+  "comentarios": {
+   "A": "Errada. É a armadilha: o benefício da cirurgia vale para déficit recente; paraplegia completa há 4 dias, com coluna estável, não recupera com descompressão.",
+   "B": "Errada. Indicada para dor de fratura vertebral sem compressão epidural; aqui há compressão medular.",
+   "C": "Correta. Paraplegia completa há mais de 48 horas e coluna estável: radioterapia para controle local e da dor, sem cirurgia.",
+   "D": "Errada. Abre mão do controle tumoral e da dor, que a radioterapia oferece mesmo sem recuperação neurológica."
+  },
+  "para_levar": "Compressão medular metastática: a cirurgia descompressiva só beneficia déficit recente (paraplegia há menos de 48 horas) ou coluna instável; paraplegia completa estabelecida com coluna estável vai para radioterapia.",
+  "referencias": "NICE Guideline NG234: Spinal metastases and metastatic spinal cord compression (2023); Patchell RA et al., Lancet (2005)",
+  "tags": [
+   "Compressão Medular Oncológica (CM)",
+   "Emergências Oncológicas (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Tempo de instalação como dado que muda a conduta; fazer mais (cirurgia) do que o caso pede."
+ },
+ {
+  "id": "S13-GAS-07",
+  "simulado": 13,
+  "area": "Oncologia",
+  "titulo": "Metástase hepática de câncer de mama com HER2 2+ na imuno-histoquímica: hibridização in situ antes de decidir terapia anti-HER2",
+  "arma": "Rótulo verdadeiro",
+  "comando": "próximo exame",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 56 anos tratou há 5 anos carcinoma ductal invasivo de mama com receptor de estrogênio positivo e HER2 1+, seguido de 5 anos de hormonioterapia. Agora apresenta metástases hepáticas múltiplas, sem crise visceral, com bilirrubina e enzimas normais. Biópsia hepática: carcinoma de origem mamária, receptor de estrogênio positivo em 80%, receptor de progesterona negativo e HER2 escore 2+ na imuno-histoquímica. A equipe cogita trastuzumabe, pertuzumabe e taxano por considerar o tumor HER2 positivo. O próximo exame mais adequado é:",
+  "alternativas": {
+   "A": "Painel genômico de 21 genes",
+   "B": "Hibridização in situ para HER2",
+   "C": "Nova imuno-histoquímica no tumor primário",
+   "D": "Pesquisa de mutação de PIK3CA"
+  },
+  "gabarito": "B",
+  "armadilha": "C",
+  "dado_decisivo": "HER2 escore 2+ na imuno-histoquímica",
+  "resolucao": "O escore 2+ soa como positivo, e a equipe já planeja o duplo bloqueio anti-HER2. Mas na imuno-histoquímica só o escore 3+ é positivo; o 2+ é equívoco e exige hibridização in situ (FISH ou outra técnica) para mostrar se há amplificação do gene. Se houver, o tumor é HER2 positivo e a primeira linha é o duplo bloqueio com taxano; se não houver, o tumor é HER2 baixo, que na primeira linha segue como luminal (hormonioterapia com inibidor de CDK4/6) e mais adiante pode receber trastuzumabe deruxtecana. A metástase deve ser biopsiada justamente porque o status pode mudar em relação ao primário, por isso repetir o primário não resolve. Painel de 21 genes é ferramenta de decisão adjuvante, e a pesquisa de PIK3CA entra depois da progressão à primeira linha hormonal.",
+  "comentarios": {
+   "A": "Errada. O painel de 21 genes orienta quimioterapia adjuvante na doença inicial, não a doença metastática.",
+   "B": "Correta. HER2 2+ é equívoco; a hibridização in situ define amplificação e, portanto, a terapia.",
+   "C": "Errada. É a armadilha: o status da metástase é o que vale, porque pode divergir do primário; repetir o primário não define o tratamento atual.",
+   "D": "Errada. É útil após progressão à hormonioterapia de primeira linha; não resolve o status HER2."
+  },
+  "para_levar": "HER2 na imuno-histoquímica: 3+ positivo, 0 e 1+ negativos, 2+ equívoco e obriga hibridização in situ.",
+  "referencias": "ASCO/CAP Guideline Update: HER2 testing in breast cancer (2023); ESMO Metastatic Breast Cancer Living Guideline (2024)",
+  "tags": [
+   "Câncer de mama invasivo",
+   "188 Breast Cancer and Benign Breast Disorders"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Rótulo forte (escore 2+) lido como resultado definitivo; próximo exame antes da conduta."
+ }
+]

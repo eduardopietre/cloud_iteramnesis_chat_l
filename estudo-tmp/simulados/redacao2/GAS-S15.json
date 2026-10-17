@@ -1,0 +1,239 @@
+[
+ {
+  "id": "S15-GAS-01",
+  "simulado": 15,
+  "area": "Gastroenterologia",
+  "titulo": "Câncer gástrico difuso na mãe antes dos 50 e câncer lobular de mama na tia: teste germinativo para CDH1, apesar de endoscopia normal",
+  "arma": "Rótulo verdadeiro",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 32 anos procura avaliação porque a mãe morreu aos 44 anos de câncer gástrico do tipo difuso, com células em anel de sinete, e a tia materna teve carcinoma lobular de mama aos 47 anos. Assintomática. Fez endoscopia há 1 mês com biópsias aleatórias do estômago (6 fragmentos), todas normais, e pesquisa de Helicobacter pylori negativa. A irmã teve H. pylori erradicado no ano passado. O próximo passo mais adequado é:",
+  "alternativas": {
+   "A": "Teste genético germinativo para CDH1",
+   "B": "Endoscopia anual com biópsias aleatórias",
+   "C": "Gastrectomia total profilática",
+   "D": "Pesquisa de H. pylori nos familiares"
+  },
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "carcinoma lobular de mama aos 47 anos",
+  "resolucao": "A endoscopia com biópsias normais e o H. pylori negativo são verdadeiros e tranquilizam, e a vigilância endoscópica parece a continuação natural. Mas a combinação de câncer gástrico difuso antes dos 50 anos e carcinoma lobular de mama antes dos 70 na mesma família preenche os critérios para pesquisar mutação germinativa do CDH1 (síndrome do câncer gástrico difuso hereditário). Nessa síndrome os focos de células em anel de sinete crescem sob mucosa normal, e a endoscopia, mesmo com protocolo extenso de biópsias, perde a maioria deles. O teste genético vem primeiro porque define a conduta: se positivo, discute-se gastrectomia total profilática (em geral entre 20 e 30 anos) e rastreio de mama por ressonância; se negativo, a gastrectomia não se justifica. H. pylori não explica câncer difuso familiar.",
+  "comentarios": {
+   "A": "Correta. Câncer gástrico difuso antes dos 50 e câncer lobular de mama na família: critério para teste germinativo do CDH1.",
+   "B": "Errada. É a armadilha: a endoscopia não afasta câncer gástrico difuso hereditário, cujos focos ficam sob mucosa normal; vigilância sem o teste não define nada.",
+   "C": "Errada. Gastrectomia profilática só se indica com mutação confirmada; fazê-la antes do teste é fazer mais do que o caso pede.",
+   "D": "Errada. H. pylori está ligado ao câncer gástrico intestinal esporádico, não à agregação de câncer difuso com lobular de mama."
+  },
+  "para_levar": "Câncer gástrico difuso precoce ou associado a carcinoma lobular de mama na família: teste germinativo do CDH1; endoscopia normal não tranquiliza.",
+  "referencias": "International Gastric Cancer Linkage Consortium: Hereditary diffuse gastric cancer: updated clinical practice guidelines. Lancet Oncol (2020); NCCN Genetic/Familial High-Risk Assessment (2025)",
+  "tags": [
+   "183 Neoplasms of the Esophagus and Stomach",
+   "Rastreamentos em Clínica Médica (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Exame negativo lido como tranquilizador; ordem certa (teste antes de vigilância ou cirurgia)."
+ },
+ {
+  "id": "S15-GAS-02",
+  "simulado": 15,
+  "area": "Hepatologia",
+  "titulo": "Gestante HBeAg reagente com carga viral muito alta e ALT normal: tenofovir para prevenir a transmissão vertical, mesmo sem indicação materna",
+  "arma": "Rótulo verdadeiro",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Gestante de 24 anos, com 24 semanas, tem HBsAg reagente no pré-natal. HBeAg reagente, anti-HBe não reagente, HBV-DNA de 8,4 x 10^7 UI/mL, ALT de 22 U/L em duas dosagens, ultrassonografia hepática normal. Anti-HIV e anti-HCV não reagentes. Assintomática. O hepatologista lembra que, na fase de imunotolerância, a hepatite B não se trata. A conduta mais adequada é:",
+  "alternativas": {
+   "A": "Somente imunoprofilaxia do recém-nascido",
+   "B": "Tenofovir a partir de agora e imunoprofilaxia do recém-nascido",
+   "C": "Entecavir até o parto e cesariana eletiva",
+   "D": "Interferon peguilado durante a gestação"
+  },
+  "gabarito": "B",
+  "armadilha": "A",
+  "dado_decisivo": "HBV-DNA de 8,4 x 10^7 UI/mL",
+  "resolucao": "A frase do hepatologista é um rótulo verdadeiro: com ALT normal e sem fibrose, a mãe não tem indicação de tratamento pela doença hepática. Mas a questão aqui é a criança. A vacina e a imunoglobulina ao nascer previnem a maioria das transmissões, porém falham em até 10% quando a carga viral materna é muito alta. Por isso, gestantes com HBV-DNA acima de 200.000 UI/mL (ou HBeAg reagente, quando a carga não está disponível) recebem tenofovir a partir de 24 a 28 semanas, mantido até o parto ou depois, conforme a avaliação materna, além da vacina e da imunoglobulina no recém-nascido nas primeiras 12 horas. Entecavir e interferon não são usados na gestação, e a via de parto segue indicação obstétrica.",
+  "comentarios": {
+   "A": "Errada. É a armadilha: com carga viral acima de 200.000 UI/mL a imunoprofilaxia isolada falha com frequência; é preciso reduzir a viremia materna.",
+   "B": "Correta. Carga viral muito alta: tenofovir a partir de 24 a 28 semanas, mais vacina e imunoglobulina ao recém-nascido.",
+   "C": "Errada. Entecavir não tem segurança estabelecida na gestação, e a cesariana não reduz a transmissão da hepatite B.",
+   "D": "Errada. Interferon é contraindicado na gestação."
+  },
+  "para_levar": "Hepatite B na gestação: HBV-DNA acima de 200.000 UI/mL (ou HBeAg reagente) indica tenofovir a partir de 24 a 28 semanas, mesmo sem indicação materna, somado à imunoprofilaxia do recém-nascido.",
+  "referencias": "Ministério da Saúde: Protocolo Clínico e Diretrizes Terapêuticas para Prevenção da Transmissão Vertical de HIV, Sífilis e Hepatites Virais (2022) e PCDT Hepatite B e Coinfecções (2023); EASL Clinical Practice Guidelines on hepatitis B (2025)",
+  "tags": [
+   "Profilaxia da Hepatite B (CM)",
+   "Hepatite B : Contágio e Fases da Infecção (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Regra verdadeira (não tratar imunotolerante) aplicada fora do contexto; população especial (gestante)."
+ },
+ {
+  "id": "S15-GAS-03",
+  "simulado": 15,
+  "area": "Hepatologia",
+  "titulo": "Aminotransferases acima de 3.000 após choque, com LDH muito alta e queda rápida em 48 horas: hepatite isquêmica",
+  "arma": "Cronologia",
+  "comando": "diagnóstico",
+  "nivel": "média",
+  "enunciado": "Homem de 70 anos, com insuficiência cardíaca de fração de ejeção de 25%, é internado por pneumonia e evolui no 1º dia com choque séptico (PA 70x40 mmHg por cerca de 4 horas, até iniciar noradrenalina). Iniciou amoxicilina-clavulanato e azitromicina na admissão. Exames no 1º dia: AST 150 U/L, ALT 120 U/L. No 2º dia: AST 5.800 U/L, ALT 3.900 U/L, LDH 6.100 U/L, bilirrubina 2,0 mg/dL, INR 2,1, creatinina 2,4 mg/dL. No 4º dia: AST 1.200 U/L, ALT 1.700 U/L, INR 1,5, bilirrubina 2,4 mg/dL. Não usou paracetamol. O diagnóstico mais provável é:",
+  "alternativas": {
+   "A": "Hepatite viral aguda",
+   "B": "Colangite isquêmica secundária",
+   "C": "Hepatite isquêmica",
+   "D": "Lesão hepática por amoxicilina-clavulanato"
+  },
+  "gabarito": "C",
+  "armadilha": "D",
+  "dado_decisivo": "No 4º dia: AST 1.200 U/L, ALT 1.700 U/L",
+  "resolucao": "A amoxicilina-clavulanato é a droga que mais causa lesão hepática induzida por medicamento, e está no caso desde a admissão. Mas a lesão por ela costuma ser colestática ou mista e aparecer dias a semanas depois, não um pico de milhares de U/L 24 horas após um episódio de choque. A cronologia decide: elevação maciça das aminotransferases logo após hipotensão, em quem já tem baixo débito, com LDH muito alta (relação ALT/LDH abaixo de 1,5), coagulopatia e lesão renal simultâneas, e queda rápida, de mais de 50% em 48 a 72 horas, é a hepatite isquêmica (fígado de choque). A hepatite viral aguda sobe e desce mais devagar e teria LDH proporcionalmente menor. A colangite isquêmica secundária é complicação tardia da UTI, com colestase progressiva, e não pico de aminotransferases.",
+  "comentarios": {
+   "A": "Errada. A viral sobe ao longo de dias e cai lentamente, com LDH proporcionalmente baixa; não começaria um dia após o choque.",
+   "B": "Errada. É complicação tardia de UTI, colestática (fosfatase e GGT), não pico precoce de aminotransferases.",
+   "C": "Correta. Pico de milhares logo após choque, LDH muito alta e queda rápida em 48 a 72 horas.",
+   "D": "Errada. É a armadilha: a droga existe, mas a lesão por ela é tardia e colestática ou mista; o tempo e a curva não combinam."
+  },
+  "para_levar": "Hepatite isquêmica: aminotransferases em milhares 1 a 3 dias após hipotensão, LDH muito alta e queda de mais de 50% em 48 a 72 horas.",
+  "referencias": "ACG Clinical Guideline: Evaluation of Abnormal Liver Chemistries (2017); Waseem N, Chen PH. Hypoxic hepatitis: a review and clinical update. J Clin Transl Hepatol (2016)",
+  "tags": [
+   "Avaliação de Enzimas Hepaticas (CM)",
+   "Insuficiência Hepática Aguda (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Droga presente no caso usada como rótulo; a cronologia é o dado que decide."
+ },
+ {
+  "id": "S15-GAS-04",
+  "simulado": 15,
+  "area": "Gastroenterologia",
+  "titulo": "Constipação refratária a laxativos com contração paradoxal do esfíncter no toque retal: manometria anorretal com teste de expulsão do balão",
+  "arma": "Rótulo verdadeiro",
+  "comando": "próximo exame",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 38 anos tem constipação há 4 anos, sem sangramento, anemia ou perda de peso. Colonoscopia aos 36 anos normal; TSH, cálcio e glicemia normais; sem medicações constipantes. Usou fibras, polietilenoglicol em dose plena e bisacodil por 3 meses, sem melhora. Evacua 2 vezes por semana, com esforço intenso, sensação de bloqueio anal e necessidade de pressionar o períneo para evacuar, mesmo com fezes amolecidas. Toque retal: tônus de repouso normal; ao pedir que faça força para evacuar, o esfíncter anal se contrai e o períneo não desce. O exame mais adequado neste momento é:",
+  "alternativas": {
+   "A": "Tempo de trânsito colônico com marcadores",
+   "B": "Nova colonoscopia",
+   "C": "Defecografia por ressonância",
+   "D": "Manometria anorretal com expulsão de balão"
+  },
+  "gabarito": "D",
+  "armadilha": "A",
+  "dado_decisivo": "o esfíncter anal se contrai e o períneo não desce",
+  "resolucao": "Constipação que não responde a laxativos osmóticos e estimulantes recebe o rótulo de constipação de trânsito lento, e o tempo de trânsito colônico parece o exame natural. Mas a dificuldade aqui é de saída: esforço intenso mesmo com fezes moles, sensação de bloqueio, manobra digital no períneo e, no toque, contração paradoxal do esfíncter com o períneo que não desce ao fazer força. Isso é dissinergia evacuatória, e a investigação começa pela manometria anorretal com teste de expulsão do balão; o trânsito colônico só se interpreta depois de afastar a dissinergia, que por si só lentifica o trânsito. A defecografia fica para resultado discordante ou suspeita de alteração estrutural (retocele, intussuscepção). Confirmada a dissinergia, o tratamento é biofeedback, e não mais laxativo.",
+  "comentarios": {
+   "A": "Errada. É a armadilha: o trânsito lento é investigado depois de afastar a dissinergia, que também lentifica o trânsito e confunde o resultado.",
+   "B": "Errada. Sem sinais de alarme e com colonoscopia recente normal, não há indicação.",
+   "C": "Errada. É exame de segunda linha, para teste inicial discordante ou suspeita de alteração anatômica.",
+   "D": "Correta. Sintomas de saída e contração paradoxal no toque: manometria anorretal com expulsão do balão confirma dissinergia, que se trata com biofeedback."
+  },
+  "para_levar": "Constipação refratária com esforço, bloqueio e manobras digitais: manometria anorretal com expulsão do balão antes do trânsito colônico; dissinergia trata-se com biofeedback.",
+  "referencias": "AGA Technical Review on Constipation (2013); AGA-ACG Clinical Practice Guideline: Pharmacological Management of Chronic Idiopathic Constipation (2023)",
+  "tags": [
+   "Constipação (CM)"
+  ],
+  "sourceQuestionId": "e67392b2fb8a5f8",
+  "alvo": "Exame errado do degrau (trânsito colônico) quando o exame físico já apontou o mecanismo."
+ },
+ {
+  "id": "S15-GAS-05",
+  "simulado": 15,
+  "area": "Gastroenterologia",
+  "titulo": "Hematoquezia volumosa com instabilidade e endoscopia alta normal: angiotomografia antes da colonoscopia",
+  "arma": "Negativo no meio",
+  "comando": "próximo exame",
+  "nivel": "difícil",
+  "enunciado": "Homem de 76 anos, com fibrilação atrial em uso de apixabana e coronariopata em uso de AAS, apresenta quatro episódios de hematoquezia volumosa em 3 horas. Chega com PA 84x50 mmHg e FC 122 bpm; após cristaloide, mantém PA 90x56 mmHg com transfusão em curso. Hb 7,1 g/dL. Endoscopia digestiva alta de urgência feita há 1 hora: sem sangue no estômago e no duodeno e sem lesões. Última apixabana há 6 horas. Além de suspender os antitrombóticos e considerar a reversão do anticoagulante, o exame mais adequado agora é:",
+  "alternativas": {
+   "A": "Angiotomografia de abdome e pelve",
+   "B": "Colonoscopia após preparo rápido",
+   "C": "Cintilografia com hemácias marcadas",
+   "D": "Retossigmoidoscopia flexível"
+  },
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "mantém PA 90x56 mmHg com transfusão em curso",
+  "resolucao": "Hematoquezia com endoscopia alta normal é sangramento baixo, e a colonoscopia após preparo é o exame padrão da hemorragia digestiva baixa, por isso atrai. Mas isso vale para o paciente estável. Com instabilidade persistente apesar de volume e transfusão, e sangramento ativo, a diretriz recomenda angiotomografia primeiro: ela localiza o sangramento ativo em minutos, sem preparo, e guia a arteriografia com embolização. A endoscopia alta normal, sem sangue no duodeno, foi o passo certo para afastar fonte alta (que responde por parte das hematoquezias com instabilidade). A cintilografia é lenta e localiza mal, e a retossigmoidoscopia não alcança o cólon direito, sede frequente de diverticulose e angiodisplasia que sangram muito.",
+  "comentarios": {
+   "A": "Correta. Hemorragia digestiva baixa com instabilidade persistente: angiotomografia para localizar e guiar a embolização.",
+   "B": "Errada. É a armadilha: é o exame do paciente estável; no instável com sangramento ativo, a angiotomografia vem antes.",
+   "C": "Errada. É lenta, exige sangramento contínuo e localiza mal; não serve ao paciente instável.",
+   "D": "Errada. Não avalia o cólon direito e não resolve a localização."
+  },
+  "para_levar": "Hemorragia digestiva baixa: estável, colonoscopia após preparo; instável ou com sangramento ativo, angiotomografia primeiro, depois arteriografia com embolização.",
+  "referencias": "ACG Clinical Guideline: Management of Patients With Acute Lower Gastrointestinal Bleeding (2023); ESGE Guideline: Diagnosis and management of acute lower GI bleeding (2021)",
+  "tags": [
+   "126 Gastrointestinal Hemorrhage",
+   "Intestino (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Exame padrão aplicado ao contexto errado; o dado hemodinâmico decide a ordem."
+ },
+ {
+  "id": "S15-GAS-06",
+  "simulado": 15,
+  "area": "Oncologia",
+  "titulo": "Vacina contra HPV na transplantada renal de 33 anos: indicada pelo PNI até 45 anos, em três doses",
+  "arma": "Limiar",
+  "comando": "fato solto",
+  "nivel": "média",
+  "enunciado": "Mulher de 33 anos, transplantada renal em uso de tacrolimo e micofenolato, nunca vacinada contra HPV, pergunta se pode receber a vacina pelo SUS. Segundo o Programa Nacional de Imunizações, a conduta é:",
+  "alternativas": {
+   "A": "Não vacinar: contraindicada no imunossuprimido",
+   "B": "Vacinar com três doses (0, 2 e 6 meses)",
+   "C": "Vacinar com dose única",
+   "D": "Não vacinar: idade acima do limite"
+  },
+  "gabarito": "B",
+  "armadilha": "C",
+  "dado_decisivo": "transplantada renal",
+  "resolucao": "Duas armadilhas competem. A primeira é achar que imunossuprimido não pode receber vacina, mas a vacina contra HPV é inativada (partículas semelhantes ao vírus) e é segura. A segunda é a mudança recente do PNI para dose única, que vale para a faixa etária de rotina de adolescentes. Para imunossuprimidos (transplantados de órgão sólido ou de medula, pessoas vivendo com HIV, pacientes oncológicos em tratamento), o PNI amplia a idade de 9 até 45 anos e mantém o esquema de três doses (0, 2 e 6 meses), porque a resposta imune é menor. A transplantada tem risco aumentado de câncer de colo, anal e de outros sítios relacionados ao HPV, e o rastreio do colo segue também em intervalo encurtado.",
+  "comentarios": {
+   "A": "Errada. A vacina é inativada e segura em imunossuprimidos; o PNI a recomenda justamente nesse grupo.",
+   "B": "Correta. Imunossuprimidos de 9 a 45 anos: três doses, em 0, 2 e 6 meses.",
+   "C": "Errada. É a armadilha: a dose única vale para a rotina de adolescentes imunocompetentes; o imunossuprimido mantém três doses.",
+   "D": "Errada. Para imunossuprimidos o limite é 45 anos; aos 33 anos ela está dentro."
+  },
+  "para_levar": "HPV no imunossuprimido (transplante, HIV, oncológico): vacinar de 9 a 45 anos, sempre com três doses.",
+  "referencias": "Ministério da Saúde: Calendário Nacional de Vacinação e Manual dos Centros de Referência para Imunobiológicos Especiais (6ª edição, 2023); Nota Técnica do PNI sobre esquema da vacina HPV (2024)",
+  "tags": [
+   "Vacinas e Precauções (CM)",
+   "349 Papillomavirus"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Limiar etário e esquema em população especial; regra geral aplicada fora do grupo."
+ },
+ {
+  "id": "S15-GAS-07",
+  "simulado": 15,
+  "area": "Oncologia",
+  "titulo": "Câncer de pâncreas irressecável com icterícia antes de quimioterapia: prótese metálica autoexpansível por CPRE",
+  "arma": "Grade X / Y",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Homem de 69 anos, com adenocarcinoma de cabeça de pâncreas que envolve 270 graus da artéria mesentérica superior (localmente avançado e irressecável), sem metástases, ECOG 1, apresenta icterícia com bilirrubina de 14 mg/dL e prurido, sem febre ou colangite. A oncologia programa quimioterapia com FOLFIRINOX, com expectativa de vida estimada em mais de 6 meses. O tipo de prótese biliar e a via de colocação mais adequados são, respectivamente:",
+  "alternativas": {
+   "A": "Metálica / percutânea transparieto-hepática",
+   "B": "Plástica / percutânea transparieto-hepática",
+   "C": "Metálica autoexpansível / por CPRE",
+   "D": "Plástica / por CPRE"
+  },
+  "gabarito": "C",
+  "armadilha": "D",
+  "dado_decisivo": "com expectativa de vida estimada em mais de 6 meses",
+  "resolucao": "A prótese plástica por CPRE é a mais lembrada, barata e fácil de trocar, e atrai. Mas na obstrução biliar distal maligna com expectativa de vida acima de 3 meses, especialmente quando a quimioterapia vai começar, a prótese metálica autoexpansível é preferida: permanece pérvia por muito mais tempo, reduz colangite e reintervenções e evita interrupções da quimioterapia por oclusão. A via de escolha é a endoscópica (CPRE), com menos complicações e mais conforto que a drenagem percutânea, que fica para falha ou impossibilidade da CPRE (por exemplo, obstrução duodenal ou anatomia alterada). Drenar antes do FOLFIRINOX é necessário, porque a quimioterapia exige bilirrubina próxima do normal.",
+  "comentarios": {
+   "A": "Errada. A prótese está certa, mas a via percutânea é para falha ou impossibilidade da CPRE.",
+   "B": "Errada. Prótese plástica e via percutânea: as duas escolhas inferiores para este paciente.",
+   "C": "Correta. Obstrução distal maligna com sobrevida esperada acima de 3 meses e quimioterapia programada: prótese metálica autoexpansível por CPRE.",
+   "D": "Errada. É a armadilha: a plástica oclui em poucos meses, causa colangite e interrompe a quimioterapia; serve para sobrevida curta ou diagnóstico incerto."
+  },
+  "para_levar": "Obstrução biliar distal maligna: prótese metálica autoexpansível por CPRE quando a sobrevida esperada passa de 3 meses; via percutânea só se a CPRE falhar.",
+  "referencias": "ESGE Guideline: Endoscopic biliary stenting: indications, choice of stents and results (2018, atualização); ASGE Guideline on the role of endoscopy in malignant distal biliary obstruction (2023)",
+  "tags": [
+   "185 Pancreatic Cancer",
+   "Cuidados Paliativos - Oncologia (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Escolha do recurso pelo prognóstico; primeira metade da grade certa e segunda errada."
+ }
+]

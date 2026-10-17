@@ -104,35 +104,35 @@
   "id": "S9-HEM-04",
   "simulado": 9,
   "area": "Hematologia",
-  "titulo": "Trombose portomesentérica em jovem com anticoncepcional, plaquetas altas e esplenomegalia: neoplasia mieloproliferativa JAK2 mascarada pela ferropenia",
+  "titulo": "Resistência à heparina na trombose recorrente de jovem: deficiência de antitrombina, não a trombofilia de manual",
   "arma": "Rótulo verdadeiro",
   "comando": "etiologia",
   "nivel": "extremamente difícil",
-  "enunciado": "Mulher de 32 anos, em uso de anticoncepcional oral combinado há 6 anos, tem dor abdominal há 5 dias. A TC mostra trombose da veia porta e da veia mesentérica superior, sem isquemia intestinal, sem cirrose, sem pancreatite e sem foco infeccioso abdominal; o baço mede 15 cm. Não tem história pessoal ou familiar de trombose. Hemograma: Hb 14,6 g/dL, Ht 44%, VCM 74 fL, leucócitos 11.200/mm³, plaquetas 548.000/mm³. Ferritina 9 ng/mL. LDH, reticulócitos e bilirrubinas normais, sem hemoglobinúria. A causa mais provável da trombose é:",
+  "enunciado": "Homem de 29 anos tem o terceiro episódio de trombose venosa profunda proximal em quatro anos, todos sem fator provocador, e dois tios maternos tiveram trombose antes dos 40 anos. Internado com trombose iliofemoral extensa, iniciou heparina não fracionada em bomba, com ajustes sucessivos: mesmo chegando a doses muito acima do habitual por peso, o TTPa permanece subterapêutico e o anti-Xa dosado está baixo para a dose infundida. Plaquetas 243.000/mm³, TP normal, função hepática e renal normais, sem perda proteica urinária, sem uso prévio de heparina. A causa mais provável da resposta inadequada à heparina é:",
   "alternativas": {
-   "A": "Anticoncepcional oral combinado",
-   "B": "Neoplasia mieloproliferativa JAK2 positiva",
-   "C": "Hemoglobinúria paroxística noturna",
-   "D": "Deficiência hereditária de antitrombina"
+   "A": "Fator V de Leiden",
+   "B": "Deficiência de antitrombina",
+   "C": "Mutação do gene da protrombina",
+   "D": "Deficiência de proteína C"
   },
   "gabarito": "B",
   "armadilha": "A",
-  "dado_decisivo": "plaquetas 548.000/mm³",
-  "resolucao": "O anticoncepcional combinado é fator de risco verdadeiro, e o raciocínio para nele. Mas trombose de veias esplâncnicas (porta, mesentérica, supra-hepáticas) é sítio incomum, e a causa mais frequente nesse território, em adultos sem cirrose, é a neoplasia mieloproliferativa, sobretudo com JAK2 V617F, presente em cerca de 20% a 40% desses casos. As pistas estão no hemograma que parece normal: Hb de 14,6 com VCM de 74 e ferritina de 9 indica que a ferropenia está mascarando uma eritrocitose (a policitemia vera mascarada), e há trombocitose e esplenomegalia. A pesquisa de JAK2 V617F no sangue (e, se negativa, CALR e MPL) é obrigatória em toda trombose esplâncnica, mesmo com hemograma normal. Sem hemólise, HPN é improvável, e deficiência de antitrombina explicaria a trombose, mas não a trombocitose nem o baço.",
+  "dado_decisivo": "o TTPa permanece subterapêutico e o anti-Xa dosado está baixo para a dose infundida",
+  "resolucao": "Trombose recorrente não provocada em jovem com história familiar puxa para a trombofilia hereditária mais comum, o fator V de Leiden, e é esse o rótulo que atrai. Mas o dado que decide não é o número de tromboses: é a resposta à heparina. A heparina não fracionada age acelerando a antitrombina, seu cofator obrigatório; quando a antitrombina é deficiente, falta o alvo sobre o qual a heparina trabalha, e o TTPa (e o anti-Xa) não sobe mesmo com doses crescentes, o quadro de resistência à heparina. Fator V de Leiden, mutação da protrombina e deficiência de proteína C causam trombofilia, mas nenhum interfere na ação da heparina, de modo que não explicam a resistência. Diante dela, confirma-se a antitrombina (lembrando que a própria heparina e o consumo pela trombose aguda a reduzem, e que há formas adquiridas, como síndrome nefrótica e L-asparaginase), e o manejo é repor antitrombina ou migrar para um anticoagulante que não dependa dela.",
   "comentarios": {
-   "A": "Errada, é a armadilha. O anticoncepcional contribui, mas não explica plaquetas de 548.000, baço de 15 cm e eritrocitose mascarada pela ferropenia.",
-   "B": "Correta. Trombose esplâncnica com trombocitose, esplenomegalia e Hb normal apesar de ferropenia: neoplasia mieloproliferativa, pesquisada com JAK2 V617F.",
-   "C": "Errada. A HPN também causa trombose em sítio incomum, mas viria com hemólise (LDH, reticulócitos, hemoglobinúria), ausente aqui.",
-   "D": "Errada. Trombofilia hereditária explicaria trombose em jovem, mas não as alterações do hemograma nem a esplenomegalia."
+   "A": "Errada, é a armadilha. É a trombofilia hereditária mais comum e explicaria a trombose recorrente, mas não torna a heparina ineficaz: o TTPa subiria com a dose.",
+   "B": "Correta. A heparina depende da antitrombina; a deficiência explica ao mesmo tempo a trombose recorrente e a resistência à heparina (TTPa e anti-Xa baixos apesar de doses altas).",
+   "C": "Errada. A mutação da protrombina aumenta o risco trombótico, mas não interfere na resposta à heparina.",
+   "D": "Errada. A deficiência de proteína C causa trombofilia (e risco de necrose cutânea pela varfarina), mas a heparina continua a funcionar normalmente."
   },
-  "para_levar": "Trombose de veia porta, mesentérica ou supra-hepática pede pesquisa de JAK2 V617F mesmo com hemograma normal; Hb normal com ferropenia e plaquetas altas é policitemia mascarada.",
-  "referencias": "EASL 2016 Clinical Practice Guidelines: vascular diseases of the liver; Baveno VII (2022); ELN 2018/2021 recommendations for Ph-negative MPN (Barbui et al.).",
+  "para_levar": "Trombose que não anticoagula apesar de doses altas de heparina (TTPa e anti-Xa baixos) é resistência à heparina por deficiência de antitrombina, o cofator da heparina; as demais trombofilias não afetam a resposta à heparina.",
+  "referencias": "Khor & Van Cott, Laboratory evaluation of hypercoagulability, Clin Lab Med 2009; ISTH SSC e BSH 2012 Guidelines on antithrombin deficiency (Van Cott et al.).",
   "tags": [
-   "Policitemia Vera (CM)",
-   "Trombocitemia Essencial (CM)"
+   "Distúrbios de Hemostasia (CM)",
+   "Trombose Venosa Profunda (CM)"
   ],
-  "sourceQuestionId": "968e4e4b8ef1bb1",
-  "alvo": "Policitemia (tema UERJ que ele erra) e rótulo verdadeiro (anticoncepcional) contra o hemograma que decide."
+  "sourceQuestionId": null,
+  "alvo": "Rótulo verdadeiro (fator V de Leiden, a trombofilia de manual) contra o dado que decide (resistência à heparina)."
  },
  {
   "id": "S9-HEM-05",

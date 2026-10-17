@@ -1,0 +1,240 @@
+[
+ {
+  "id": "S14-GAS-01",
+  "simulado": 14,
+  "area": "Gastroenterologia",
+  "titulo": "Polipose adenomatosa familiar após proctocolectomia: endoscopia com visão frontal e lateral para adenomas duodenais e ampulares",
+  "arma": "Negativo no meio",
+  "comando": "próximo exame",
+  "nivel": "difícil",
+  "enunciado": "Homem de 36 anos, com polipose adenomatosa familiar (mutação germinativa do APC), foi submetido aos 21 anos a proctocolectomia total com bolsa ileal. Faz endoscopia anual da bolsa, a última há 3 meses, sem adenomas. Assintomático. TC de abdome há 2 anos sem tumor desmoide. Nunca fez endoscopia alta, porque lhe disseram que o risco era do intestino grosso, já retirado. Exame físico normal. O exame mais importante a incluir agora no seguimento é:",
+  "alternativas": {
+   "A": "Cápsula endoscópica do delgado",
+   "B": "TC de abdome anual para desmoide",
+   "C": "Nenhum exame além da endoscopia da bolsa",
+   "D": "Endoscopia com visão frontal e lateral"
+  },
+  "gabarito": "D",
+  "armadilha": "C",
+  "dado_decisivo": "Nunca fez endoscopia alta",
+  "resolucao": "Com o cólon retirado e a bolsa sem adenomas, parece que o risco acabou. Mas, depois da colectomia, as principais causas de morte na polipose adenomatosa familiar passam a ser o câncer duodenal e periampular e o tumor desmoide. Quase todos os portadores desenvolvem adenomas duodenais, e a ampola de Vater só é bem avaliada com aparelho de visão lateral; por isso o seguimento inclui endoscopia alta com visão frontal e lateral a partir de 20 a 25 anos, com intervalo definido pelo estádio de Spigelman. Este paciente, aos 36 anos, nunca fez o exame. A cápsula não substitui a avaliação ampular, e a TC para desmoide não é rotina anual em assintomático.",
+  "comentarios": {
+   "A": "Errada. Avalia o delgado distal, mas não substitui a endoscopia com visão lateral da ampola, onde está o maior risco.",
+   "B": "Errada. O desmoide é investigado por sintomas ou massa palpável; não é exame anual de rotina.",
+   "C": "Errada. É a armadilha: após a colectomia, o câncer duodenal e periampular passa a ser causa importante de morte.",
+   "D": "Correta. Endoscopia alta com visão frontal e lateral, a partir de 20 a 25 anos, com intervalo pelo estádio de Spigelman."
+  },
+  "para_levar": "Polipose adenomatosa familiar não termina na colectomia: endoscopia com visão frontal e lateral para adenomas duodenais e ampulares a partir de 20 a 25 anos.",
+  "referencias": "NCCN Genetic/Familial High-Risk Assessment: Colorectal, Endometrial, and Gastric (2025); ESGE Guideline: Gastrointestinal endoscopic surveillance in hereditary polyposis (2019)",
+  "tags": [
+   "Câncer Colorretal (CM)",
+   "184 Neoplasms of the Small and Large Intestine"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Exame negativo (bolsa sem adenomas) lido como fim do risco; seguimento esquecido."
+ },
+ {
+  "id": "S14-GAS-02",
+  "simulado": 14,
+  "area": "Gastroenterologia",
+  "titulo": "Megacólon tóxico na retocolite grave que já recebeu infliximabe de resgate: colectomia subtotal, e não segundo resgate clínico",
+  "arma": "Grade X / Y",
+  "comando": "diagnóstico",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 34 anos, com retocolite ulcerativa extensa, está internada há 5 dias por colite aguda grave, em hidrocortisona intravenosa e, por falta de resposta no 3º dia, recebeu infliximabe 5 mg/kg. Pesquisa de toxina de Clostridioides difficile negativa e biópsias retais sem citomegalovírus. Hoje tem distensão abdominal, FC 124 bpm, temperatura 38,9 °C, PA 96x60 mmHg, leucócitos 19.000/mm³ e albumina 2,4 g/dL. Os opioides e antidiarreicos foram suspensos. Radiografia de abdome: cólon transverso com 8 cm, sem pneumoperitônio. O diagnóstico e a conduta são, respectivamente:",
+  "alternativas": {
+   "A": "Megacólon tóxico / ciclosporina de resgate",
+   "B": "Colite grave sem megacólon / nova dose de infliximabe",
+   "C": "Megacólon tóxico / colectomia subtotal",
+   "D": "Megacólon tóxico / colonoscopia descompressiva"
+  },
+  "gabarito": "C",
+  "armadilha": "A",
+  "dado_decisivo": "cólon transverso com 8 cm",
+  "resolucao": "A ideia de resgatar com uma segunda droga (trocar infliximabe por ciclosporina) atrai quem pensa só em retocolite refratária. Mas aqui há megacólon tóxico: cólon transverso acima de 6 cm com toxicidade sistêmica (febre, taquicardia, leucocitose, hipotensão). O megacólon que surge apesar de corticoide intravenoso e de terapia de resgate já administrada indica falha do tratamento clínico; o resgate sequencial com uma segunda droga aumenta infecções e mortalidade e não é recomendado nessa situação, e a recomendação é a colectomia subtotal com ileostomia, sem esperar perfuração. Colonoscopia está contraindicada no megacólon pelo risco de perfuração. Infecção por C. difficile e citomegalovírus, que mudariam a conduta, já foram afastadas.",
+  "comentarios": {
+   "A": "Errada. É a armadilha: resgate sequencial após falha do infliximabe, com megacólon tóxico estabelecido, aumenta complicações e atrasa a cirurgia.",
+   "B": "Errada. Cólon de 8 cm com toxicidade sistêmica é megacólon tóxico; nova dose de infliximabe não trata a falha estabelecida.",
+   "C": "Correta. Megacólon tóxico após corticoide e infliximabe: colectomia subtotal com ileostomia.",
+   "D": "Errada. Colonoscopia no megacólon tóxico tem alto risco de perfuração; a descompressão endoscópica é para pseudo-obstrução, não para colite."
+  },
+  "para_levar": "Megacólon tóxico (cólon acima de 6 cm com toxicidade) que não responde ao tratamento clínico, ou que surge após resgate, vai para colectomia subtotal; não se faz segundo resgate.",
+  "referencias": "ECCO Guidelines on Therapeutics in Ulcerative Colitis: Medical Treatment (2022) e Surgical Treatment (2022); ACG Clinical Guideline: Ulcerative Colitis in Adults (2025)",
+  "tags": [
+   "Retocolite Ulcerativa (CM)",
+   "Doença Inflamatória Intestinal (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Insistir no tratamento clínico (fazer mais da mesma coisa) quando o caso pede cirurgia."
+ },
+ {
+  "id": "S14-GAS-03",
+  "simulado": 14,
+  "area": "Gastroenterologia",
+  "titulo": "Pancreatite autoimune tipo 1 com pâncreas em salsicha, IgG4 quatro vezes o limite e lesões renais: corticoide sem biópsia",
+  "arma": "Omissão",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Homem de 67 anos tem icterícia indolor e prurido há 3 semanas, perda de 3 kg e diabetes diagnosticado há 2 meses. Afebril. Bilirrubina total 6,2 mg/dL, fosfatase alcalina 540 U/L, GGT 690 U/L, CA 19-9 de 48 U/mL, IgG4 sérica de 540 mg/dL (referência até 135). TC: pâncreas difusamente aumentado, em salsicha, com halo hipodenso periférico, sem massa focal e sem dilatação do ducto pancreático principal; estenose do colédoco intrapancreático; lesões hipodensas corticais bilaterais nos rins. Glândulas submandibulares aumentadas e endurecidas. A conduta mais adequada é:",
+  "alternativas": {
+   "A": "Prednisona 0,6 a 1 mg/kg/dia",
+   "B": "Ecoendoscopia com punção antes do corticoide",
+   "C": "Duodenopancreatectomia",
+   "D": "Rituximabe como indução"
+  },
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "pâncreas difusamente aumentado, em salsicha, com halo hipodenso periférico, sem massa focal",
+  "resolucao": "Icterícia indolor, emagrecimento e diabetes novo num homem de 67 anos assustam, e a reação é exigir tecido antes de qualquer corticoide. Isso vale quando há massa focal, porque o adenocarcinoma também pode elevar a IgG4. Aqui, porém, a imagem é a da forma difusa (pâncreas em salsicha com halo, sem massa e sem dilatação ductal), a IgG4 está acima de duas vezes o limite e há acometimento de outros órgãos (rins e glândulas submandibulares): pelos critérios internacionais, esse conjunto confirma a pancreatite autoimune tipo 1 sem histologia. O tratamento de indução é prednisona 0,6 a 1 mg/kg/dia, com resposta esperada em 2 a 4 semanas; a falta de resposta é que mandaria rever o diagnóstico. Prótese biliar fica para colangite ou icterícia que não cede, e o rituximabe é para recidiva ou contraindicação ao corticoide.",
+  "comentarios": {
+   "A": "Correta. Imagem difusa típica, IgG4 acima de duas vezes o limite e acometimento de outros órgãos fecham o diagnóstico; tratar com corticoide.",
+   "B": "Errada. É a armadilha: a punção é obrigatória com massa focal; na forma difusa com sorologia e outros órgãos, não acrescenta e só atrasa.",
+   "C": "Errada. Cirurgia para doença que responde a corticoide; seria o caso de massa focal com adenocarcinoma confirmado.",
+   "D": "Errada. Fica para recidiva, dependência ou contraindicação ao corticoide, não para indução inicial."
+  },
+  "para_levar": "Pancreatite autoimune tipo 1: forma difusa típica com IgG4 alta e outro órgão acometido dispensa biópsia e vai para corticoide; massa focal exige afastar câncer antes.",
+  "referencias": "International Consensus Diagnostic Criteria for Autoimmune Pancreatitis (2011); International consensus for the treatment of autoimmune pancreatitis (2017); 2019 ACR/EULAR Classification Criteria for IgG4-Related Disease",
+  "tags": [
+   "Doença por IgG4 (CM)",
+   "Pâncreas (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Fazer mais (biópsia) do que o caso pede quando os critérios já fecham o diagnóstico."
+ },
+ {
+  "id": "S14-GAS-04",
+  "simulado": 14,
+  "area": "Gastroenterologia",
+  "titulo": "Neoplasia mucinosa papilar intraductal com ducto principal de 7 mm: sinal preocupante que pede ecoendoscopia",
+  "arma": "Limiar",
+  "comando": "próximo exame",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 70 anos, assintomática, faz ressonância por outro motivo, que mostra lesão cística de 22 mm na cabeça do pâncreas comunicando-se com o ducto pancreático principal, que mede 7 mm, sem nódulo mural realçante e sem componente sólido. Sem icterícia, sem pancreatite prévia e sem diabetes recente. CA 19-9 normal. O próximo passo mais adequado é:",
+  "alternativas": {
+   "A": "Dosagem de CEA sérico",
+   "B": "Ecoendoscopia",
+   "C": "Duodenopancreatectomia",
+   "D": "Nova ressonância em 1 ano"
+  },
+  "gabarito": "B",
+  "armadilha": "D",
+  "dado_decisivo": "que mede 7 mm",
+  "resolucao": "Cisto pequeno, sem nódulo e sem sintomas lembra o seguimento com ressonância. Mas o calibre do ducto principal reclassifica a lesão: dilatação de 5 a 9 mm é sinal preocupante (worrisome feature) pelos critérios de Fukuoka e Kyoto, sugerindo envolvimento do ducto principal, e todo sinal preocupante pede ecoendoscopia para procurar nódulo mural, espessamento de parede e envolvimento ductal, com punção quando indicada. Ducto de 10 mm ou mais, nódulo realçante de 5 mm ou mais, ou icterícia são estigmas de alto risco e indicam cirurgia diretamente, o que ainda não é o caso. CEA sérico não estratifica cistos.",
+  "comentarios": {
+   "A": "Errada. O CEA sérico não tem papel na estratificação; o CEA útil é o do líquido do cisto, obtido na ecoendoscopia.",
+   "B": "Correta. Ducto principal entre 5 e 9 mm é sinal preocupante e indica ecoendoscopia.",
+   "C": "Errada. Cirurgia direta fica para estigmas de alto risco (ducto de 10 mm ou mais, nódulo realçante, icterícia).",
+   "D": "Errada. É a armadilha: seria o seguimento de cisto de ramo secundário sem sinais preocupantes; o ducto de 7 mm muda a categoria."
+  },
+  "para_levar": "IPMN: ducto principal de 5 a 9 mm é sinal preocupante (ecoendoscopia); 10 mm ou mais é estigma de alto risco (cirurgia).",
+  "referencias": "International Evidence-Based Kyoto Guidelines for the Management of Intraductal Papillary Mucinous Neoplasm of the Pancreas (2024); European evidence-based guidelines on pancreatic cystic neoplasms (2018)",
+  "tags": [
+   "Pâncreas (CM)",
+   "185 Pancreatic Cancer"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Limiar numérico (calibre do ducto) que muda a categoria e o próximo exame."
+ },
+ {
+  "id": "S14-GAS-05",
+  "simulado": 14,
+  "area": "Hepatologia",
+  "titulo": "Varizes gástricas isoladas com esplenomegalia e fígado normal na pancreatite crônica: trombose da veia esplênica",
+  "arma": "Rótulo verdadeiro",
+  "comando": "etiologia",
+  "nivel": "difícil",
+  "enunciado": "Homem de 49 anos, etilista pesado até 2 anos atrás, com pancreatite crônica calcificante e diabetes, é internado por hematêmese. Endoscopia: varizes gástricas isoladas no fundo, com estigma de sangramento, sem varizes esofágicas. Exame: baço palpável a 4 cm do rebordo, sem ascite, sem aranhas vasculares ou eritema palmar. Plaquetas 98.000/mm³, albumina 4,0 g/dL, bilirrubina 0,8 mg/dL, INR 1,1. Elastografia hepática de 5,8 kPa. Doppler: veia porta pérvia e de calibre normal. A causa mais provável das varizes é:",
+  "alternativas": {
+   "A": "Cirrose alcoólica compensada",
+   "B": "Esquistossomose hepatoesplênica",
+   "C": "Trombose da veia esplênica",
+   "D": "Síndrome de Budd-Chiari"
+  },
+  "gabarito": "C",
+  "armadilha": "A",
+  "dado_decisivo": "sem varizes esofágicas",
+  "resolucao": "Etilista com hematêmese varicosa e plaquetopenia lembra cirrose, e o passado de álcool é verdadeiro. Mas o fígado está normal (elastografia de 5,8 kPa, albumina, bilirrubina e INR normais, sem estigmas) e as varizes são só gástricas, no fundo, sem varizes esofágicas: é a hipertensão porta segmentar, ou sinistra, causada por trombose da veia esplênica, complicação conhecida da pancreatite crônica e aguda pela proximidade da veia com o pâncreas inflamado. O sangue esplênico desvia pelas veias gástricas curtas para o fundo, poupando o sistema porta, que segue pérvio. O tratamento definitivo do sangramento é a esplenectomia (ou embolização da artéria esplênica), e não betabloqueador ou TIPS. A esquistossomose daria fibrose periportal e varizes esofágicas, e o Budd-Chiari, ascite e hepatomegalia.",
+  "comentarios": {
+   "A": "Errada. É a armadilha: o etilismo é real, mas elastografia e função hepática normais e varizes só gástricas afastam a cirrose.",
+   "B": "Errada. Daria fibrose periportal com hipertensão porta pré-sinusoidal e varizes esofágicas; não há história epidemiológica nem fibrose.",
+   "C": "Correta. Varizes gástricas isoladas com esplenomegalia, fígado normal e porta pérvia em portador de pancreatite crônica.",
+   "D": "Errada. Daria ascite, hepatomegalia dolorosa e alteração do fígado; o Doppler e o exame não sugerem."
+  },
+  "para_levar": "Varizes gástricas isoladas com fígado normal em quem tem doença pancreática: hipertensão porta segmentar por trombose da veia esplênica; esplenectomia cura.",
+  "referencias": "Baveno VII: Renewing consensus in portal hypertension (2022); ACG Clinical Guideline: Chronic Pancreatitis (2020)",
+  "tags": [
+   "Pancreatite Crônica (CM)",
+   "Hipertensão Portal (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Rótulo verdadeiro (etilismo) que puxa a doença de manual; dado negativo (sem varizes esofágicas) ignorado."
+ },
+ {
+  "id": "S14-GAS-06",
+  "simulado": 14,
+  "area": "Oncologia",
+  "titulo": "Adenocarcinoma de pulmão com rearranjo de ALK e metástases cerebrais pequenas assintomáticas: inibidor de ALK de segunda geração, adiando o tratamento local",
+  "arma": "Rótulo verdadeiro",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 44 anos, que nunca fumou, tem adenocarcinoma de pulmão estádio IV com rearranjo de ALK no sequenciamento e PD-L1 de 60%. Ressonância de crânio: 4 metástases de 4 a 9 mm, sem edema significativo e sem efeito de massa. Neurologicamente assintomática, ECOG 1, sem uso de corticoide. O tratamento inicial mais adequado é:",
+  "alternativas": {
+   "A": "Alectinibe",
+   "B": "Radioterapia de crânio total e depois alectinibe",
+   "C": "Pembrolizumabe",
+   "D": "Radiocirurgia seguida de quimioterapia com platina"
+  },
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "Neurologicamente assintomática",
+  "resolucao": "Metástase cerebral costuma acionar o reflexo de irradiar primeiro, e o PD-L1 alto puxa para a imunoterapia. Mas, com rearranjo de ALK, os inibidores de segunda e terceira geração (alectinibe, brigatinibe, lorlatinibe) atravessam a barreira hematoencefálica e têm alta taxa de resposta intracraniana. Em metástases pequenas e assintomáticas, as diretrizes permitem iniciar o inibidor de ALK e adiar o tratamento local, com ressonância seriada, poupando a toxicidade cognitiva da radioterapia de crânio total. Imunoterapia tem pouca eficácia em tumores com ALK e não deve ser a primeira linha, independentemente do PD-L1. Lesões sintomáticas, grandes ou com efeito de massa mudariam a ordem.",
+  "comentarios": {
+   "A": "Correta. ALK rearranjado com metástases cerebrais pequenas e assintomáticas: inibidor de ALK com boa ação no sistema nervoso central, com o tratamento local adiado.",
+   "B": "Errada. É a armadilha: radioterapia de crânio total antes do inibidor expõe a declínio cognitivo sem necessidade, porque a droga controla as lesões.",
+   "C": "Errada. Tumores com ALK respondem pouco à imunoterapia; o PD-L1 alto não muda isso.",
+   "D": "Errada. Quimioterapia com platina é inferior ao inibidor de ALK na primeira linha; radiocirurgia não é obrigatória em lesões assintomáticas."
+  },
+  "para_levar": "Câncer de pulmão com ALK ou EGFR e metástases cerebrais pequenas e assintomáticas: começar o inibidor com ação central e adiar o tratamento local.",
+  "referencias": "ASCO-SNO-ASTRO Guideline: Treatment for Brain Metastases (2022); NCCN Non-Small Cell Lung Cancer (2025)",
+  "tags": [
+   "Câncer de pulmão",
+   "182 Lung Cancer and Other Pulmonary Neoplasms"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Rótulo verdadeiro (metástase cerebral, PD-L1 alto) que puxa a conduta de manual errada."
+ },
+ {
+  "id": "S14-GAS-07",
+  "simulado": 14,
+  "area": "Oncologia",
+  "titulo": "Carcinomas espinocelulares cutâneos múltiplos no transplantado renal: conversão para inibidor de mTOR",
+  "arma": "Qualificador",
+  "comando": "fato solto",
+  "nivel": "média",
+  "enunciado": "Em transplantado renal em uso de tacrolimo, micofenolato e prednisona, com múltiplos carcinomas espinocelulares cutâneos ressecados no último ano, a modificação da imunossupressão com maior redução comprovada de novos carcinomas é:",
+  "alternativas": {
+   "A": "Trocar tacrolimo por ciclosporina",
+   "B": "Converter para inibidor de mTOR",
+   "C": "Trocar micofenolato por azatioprina",
+   "D": "Suspender a prednisona"
+  },
+  "gabarito": "B",
+  "armadilha": "D",
+  "dado_decisivo": "múltiplos carcinomas espinocelulares cutâneos ressecados no último ano",
+  "resolucao": "Reduzir a imunossupressão é o princípio, e suspender o corticoide parece o passo mais simples; mas a prednisona em dose baixa pesa pouco no risco cutâneo. Os inibidores de calcineurina e a azatioprina favorecem a carcinogênese cutânea (a azatioprina sensibiliza o DNA à radiação ultravioleta, aumentando o risco), enquanto os inibidores de mTOR (sirolimo, everolimo) têm efeito antiproliferativo e antiangiogênico. Em ensaios randomizados, a conversão para sirolimo em transplantados renais com carcinoma espinocelular prévio reduziu a ocorrência de novos tumores, e é a modificação recomendada para quem tem múltiplos carcinomas, junto com fotoproteção, acompanhamento dermatológico e, em casos selecionados, acitretina.",
+  "comentarios": {
+   "A": "Errada. Ambos são inibidores de calcineurina, com efeito semelhante sobre o risco cutâneo.",
+   "B": "Correta. A conversão para sirolimo ou everolimo reduz novos carcinomas espinocelulares em transplantados.",
+   "C": "Errada. A azatioprina aumenta a fotossensibilidade do DNA e o risco de carcinoma espinocelular; seria trocar para pior.",
+   "D": "Errada. É a armadilha: o corticoide em dose baixa contribui pouco; a mudança com efeito comprovado é a conversão para inibidor de mTOR."
+  },
+  "para_levar": "Transplantado com carcinomas espinocelulares cutâneos múltiplos: converter para inibidor de mTOR e evitar azatioprina; fotoproteção e seguimento dermatológico.",
+  "referencias": "Euvrard S et al., N Engl J Med (2012, estudo TUMORAPA); KDIGO Clinical Practice Guideline for the Care of Kidney Transplant Recipients (2009); ITSCC/SCOPE recommendations (2021)",
+  "tags": [
+   "Melanomas e Carcinomas (CM)",
+   "193 Melanoma and Nonmelanoma Skin Cancers"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Fato solto qualificado (maior redução comprovada) em população especial (transplantado)."
+ }
+]
