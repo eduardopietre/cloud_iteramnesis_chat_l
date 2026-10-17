@@ -173,35 +173,35 @@
   "id": "S14-GAS-06",
   "simulado": 14,
   "area": "Oncologia",
-  "titulo": "Adenocarcinoma de pulmão com rearranjo de ALK e metástases cerebrais pequenas assintomáticas: inibidor de ALK de segunda geração, adiando o tratamento local",
+  "titulo": "Trombose venosa associada a câncer gástrico não ressecado com lesão intraluminal: heparina de baixo peso molecular, e não rivaroxabana ou edoxabana",
   "arma": "Rótulo verdadeiro",
   "comando": "conduta",
   "nivel": "difícil",
-  "enunciado": "Mulher de 44 anos, que nunca fumou, tem adenocarcinoma de pulmão estádio IV com rearranjo de ALK no sequenciamento e PD-L1 de 60%. Ressonância de crânio: 4 metástases de 4 a 9 mm, sem edema significativo e sem efeito de massa. Neurologicamente assintomática, ECOG 1, sem uso de corticoide. O tratamento inicial mais adequado é:",
+  "enunciado": "Homem de 63 anos, com adenocarcinoma gástrico metastático para fígado e peritônio, tumor primário ulcerado de 6 cm no corpo gástrico ainda não ressecado, em quimioterapia paliativa com FOLFOX, apresenta trombose venosa profunda femoropoplítea esquerda confirmada por Doppler. Teve melena há 2 meses, tratada endoscopicamente, sem sangramento desde então. Hb 10,8 g/dL, plaquetas 210.000/mm³, clearance de creatinina 78 mL/min, peso 68 kg. Sem outras interações medicamentosas relevantes. O residente lembra que os anticoagulantes orais diretos substituíram a heparina no tromboembolismo associado ao câncer. O anticoagulante mais adequado para este paciente é:",
   "alternativas": {
-   "A": "Alectinibe",
-   "B": "Radioterapia de crânio total e depois alectinibe",
-   "C": "Pembrolizumabe",
-   "D": "Radiocirurgia seguida de quimioterapia com platina"
+   "A": "Enoxaparina em dose plena",
+   "B": "Rivaroxabana",
+   "C": "Edoxabana após 5 dias de heparina",
+   "D": "Varfarina com INR entre 2 e 3"
   },
   "gabarito": "A",
   "armadilha": "B",
-  "dado_decisivo": "Neurologicamente assintomática",
-  "resolucao": "Metástase cerebral costuma acionar o reflexo de irradiar primeiro, e o PD-L1 alto puxa para a imunoterapia. Mas, com rearranjo de ALK, os inibidores de segunda e terceira geração (alectinibe, brigatinibe, lorlatinibe) atravessam a barreira hematoencefálica e têm alta taxa de resposta intracraniana. Em metástases pequenas e assintomáticas, as diretrizes permitem iniciar o inibidor de ALK e adiar o tratamento local, com ressonância seriada, poupando a toxicidade cognitiva da radioterapia de crânio total. Imunoterapia tem pouca eficácia em tumores com ALK e não deve ser a primeira linha, independentemente do PD-L1. Lesões sintomáticas, grandes ou com efeito de massa mudariam a ordem.",
+  "dado_decisivo": "tumor primário ulcerado de 6 cm no corpo gástrico ainda não ressecado",
+  "resolucao": "A frase do residente é verdadeira: ensaios com rivaroxabana, edoxabana e apixabana mostraram eficácia igual ou maior que a heparina de baixo peso molecular no tromboembolismo associado ao câncer, e eles são hoje primeira linha para muitos pacientes. Mas os mesmos estudos mostraram aumento de sangramento com rivaroxabana e edoxabana justamente nos tumores gastrointestinais e geniturinários luminais, sobretudo com o primário intacto, e este paciente tem um tumor gástrico ulcerado não ressecado e melena recente. Nessa situação as diretrizes preferem a heparina de baixo peso molecular em dose plena, ou usam o anticoagulante oral direto com muita cautela. A varfarina é inferior no câncer, com mais recorrência, controle de INR instável sob quimioterapia e interação com fluoropirimidinas. A anticoagulação deve durar pelo menos 6 meses e enquanto o câncer estiver ativo.",
   "comentarios": {
-   "A": "Correta. ALK rearranjado com metástases cerebrais pequenas e assintomáticas: inibidor de ALK com boa ação no sistema nervoso central, com o tratamento local adiado.",
-   "B": "Errada. É a armadilha: radioterapia de crânio total antes do inibidor expõe a declínio cognitivo sem necessidade, porque a droga controla as lesões.",
-   "C": "Errada. Tumores com ALK respondem pouco à imunoterapia; o PD-L1 alto não muda isso.",
-   "D": "Errada. Quimioterapia com platina é inferior ao inibidor de ALK na primeira linha; radiocirurgia não é obrigatória em lesões assintomáticas."
+   "A": "Correta. Tumor gastrointestinal luminal intacto e sangramento recente: heparina de baixo peso molecular em dose plena.",
+   "B": "Errada. É a armadilha: seria a opção oral em muitos cânceres, mas aumenta sangramento gastrointestinal no tumor luminal não ressecado.",
+   "C": "Errada. A edoxabana também aumentou sangramento maior nos tumores gastrointestinais, e o primário ulcerado com melena recente pesa contra.",
+   "D": "Errada. Inferior no câncer, com mais recorrência e INR instável, além de interagir com a fluoropirimidina do FOLFOX."
   },
-  "para_levar": "Câncer de pulmão com ALK ou EGFR e metástases cerebrais pequenas e assintomáticas: começar o inibidor com ação central e adiar o tratamento local.",
-  "referencias": "ASCO-SNO-ASTRO Guideline: Treatment for Brain Metastases (2022); NCCN Non-Small Cell Lung Cancer (2025)",
+  "para_levar": "Tromboembolismo no câncer: anticoagulante oral direto é primeira linha, exceto com alto risco de sangramento, como tumor gastrointestinal ou geniturinário luminal não ressecado; aí, heparina de baixo peso molecular.",
+  "referencias": "ASCO Guideline Update: Venous Thromboembolism Prophylaxis and Treatment in Patients With Cancer (2023); International Initiative on Thrombosis and Cancer (ITAC) Clinical Practice Guidelines (2022); ESC Guidelines on Cardio-oncology (2022)",
   "tags": [
-   "Câncer de pulmão",
-   "182 Lung Cancer and Other Pulmonary Neoplasms"
+   "Anticoagulação (CM)",
+   "Complicações Clínico-Ambulatoriais das Neoplasias (CM)"
   ],
   "sourceQuestionId": null,
-  "alvo": "Rótulo verdadeiro (metástase cerebral, PD-L1 alto) que puxa a conduta de manual errada."
+  "alvo": "Rótulo verdadeiro (regra geral dos anticoagulantes orais diretos) aplicado sem olhar o antecedente que a contraindica."
  },
  {
   "id": "S14-GAS-07",
