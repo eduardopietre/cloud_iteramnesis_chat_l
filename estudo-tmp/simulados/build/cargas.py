@@ -4,7 +4,7 @@ na ordem final do simulado."""
 import json, os, sys
 
 BASE = os.path.dirname(os.path.abspath(__file__))
-PEDIDO = ("Agora, quero que se inspire nesse modelo E gere mais 4 simulados pareados com resoluções "
+PEDIDO = os.environ.get('PEDIDO') or ("Agora, quero que se inspire nesse modelo E gere mais 4 simulados pareados com resoluções "
           "(2 arquivos separados por simulado). Cada um deve ter 80 questões. Não copie questões desse .pdf. "
           "Inspire-se nas que já fizemos. Adicione as questões criadas também via MCP, usando o bypass se "
           "necessário para criar questões livremente. [Escolheu: 4 alternativas, igual à UERJ; um grupo por simulado]")
