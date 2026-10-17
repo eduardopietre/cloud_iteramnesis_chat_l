@@ -1,0 +1,171 @@
+[
+ {
+  "id": "S13-PNE-01",
+  "simulado": 13,
+  "area": "Pneumologia",
+  "titulo": "Reabilitação pulmonar após exacerbação de DPOC: começar nas 4 semanas após a alta, e não durante a internação",
+  "arma": "Cronologia",
+  "comando": "fato solto",
+  "nivel": "difícil",
+  "enunciado": "Em paciente com DPOC internado por exacerbação, o programa de reabilitação pulmonar estruturado (exercício supervisionado) traz maior benefício em readmissões e mortalidade quando iniciado:",
+  "alternativas": {
+   "A": "Após 3 meses de estabilidade",
+   "B": "Até 4 semanas após a alta",
+   "C": "Ainda durante a internação",
+   "D": "Apenas se VEF1 abaixo de 50%"
+  },
+  "gabarito": "B",
+  "armadilha": "C",
+  "dado_decisivo": "internado por exacerbação",
+  "resolucao": "A intuição de que mais cedo é melhor leva à internação, mas o ensaio que testou reabilitação iniciada durante a hospitalização (Greening, BMJ 2014) não reduziu readmissões e mostrou mortalidade maior em 12 meses. O benefício (menos readmissões, menor mortalidade, melhor qualidade de vida) aparece quando o programa começa logo depois da alta, dentro de 4 semanas; esperar 3 meses perde a janela em que o descondicionamento pós-exacerbação é maior. Durante a internação cabe mobilização precoce e fisioterapia, não o programa estruturado. A indicação independe do VEF1: vale para todo DPOC sintomático ou com exacerbação recente.",
+  "comentarios": {
+   "A": "Errada. Seria a lógica de esperar estabilidade, mas perde a janela de maior benefício após a exacerbação.",
+   "B": "Correta. Iniciada nas 4 semanas após a alta, reduz readmissões e mortalidade.",
+   "C": "Errada. O programa estruturado iniciado na internação não reduziu readmissões e associou-se a maior mortalidade; ali cabe só mobilização.",
+   "D": "Errada. A indicação é por sintomas e exacerbação recente, não por limiar de VEF1."
+  },
+  "para_levar": "Reabilitação pulmonar pós-exacerbação de DPOC: dentro de 4 semanas após a alta. Na internação, só mobilização precoce.",
+  "referencias": "GOLD 2026 (manejo pós-exacerbação); ATS/ERS Statement on Pulmonary Rehabilitation (2013, atualizações); Greening NJ et al., BMJ 2014.",
+  "tags": [
+   "DPOC - exacerbação (CM)",
+   "DPOC - ambulatorial (CM)"
+  ],
+  "sourceQuestionId": "af3942b078cd19d",
+  "alvo": "Cronologia da conduta: fazer cedo demais o que tem hora certa."
+ },
+ {
+  "id": "S13-PNE-02",
+  "simulado": 13,
+  "area": "Pneumologia",
+  "titulo": "Pneumonia aspirativa sem abscesso nem empiema: esquema padrão de PAC, sem cobertura anaeróbica adicional",
+  "arma": "Omissão",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Homem de 76 anos, com sequela de AVC e disfagia para líquidos documentada, tem febre há 2 dias, tosse e dispneia, iniciadas após um engasgo durante o almoço. FR 24 irpm, PA 128/76 mmHg, SpO2 91% em ar ambiente, nível de consciência igual ao habitual; ureia 38 mg/dL. Radiografia: consolidação no segmento posterior do lobo inferior direito, sem cavitação, sem nível hidroaéreo e sem derrame. Não recebeu antibiótico nem foi internado nos últimos 90 dias; não é etilista, e a dentição está em bom estado. Internado em enfermaria, o esquema antimicrobiano mais adequado é:",
+  "alternativas": {
+   "A": "Clindamicina isolada",
+   "B": "Ceftriaxona e metronidazol",
+   "C": "Ceftriaxona e azitromicina",
+   "D": "Piperacilina-tazobactam"
+  },
+  "gabarito": "C",
+  "armadilha": "B",
+  "dado_decisivo": "sem cavitação, sem nível hidroaéreo e sem derrame",
+  "resolucao": "Engasgo, disfagia e lobo inferior direito fazem pensar em anaeróbio, e acrescentar metronidazol parece prudente. A microbiologia da pneumonia aspirativa adquirida na comunidade, porém, é a mesma da PAC (pneumococo, Haemophilus, Staphylococcus aureus, enterobactérias); anaeróbios só têm papel relevante quando há abscesso, empiema ou doença periodontal grave. A diretriz ATS/IDSA recomenda não acrescentar cobertura anaeróbica de rotina, o que poupa toxicidade e risco de Clostridioides difficile. Sem fatores de risco para MRSA ou Pseudomonas (sem antibiótico nem internação nos 90 dias), o esquema de enfermaria é betalactâmico com macrolídeo. Piperacilina-tazobactam seria escalonar sem indicação.",
+  "comentarios": {
+   "A": "Errada. Cobre anaeróbios e Gram-positivos, mas falha em Haemophilus e atípicos, e tem alto risco de colite por C. difficile.",
+   "B": "Errada. O metronidazol seria acrescentado com abscesso, empiema ou cavitação; nada disso existe aqui.",
+   "C": "Correta. Pneumonia aspirativa sem abscesso nem empiema trata-se como PAC de enfermaria, sem cobertura anaeróbica extra.",
+   "D": "Errada. Seria opção com fator de risco para Pseudomonas ou pneumonia hospitalar; aqui é espectro desnecessário."
+  },
+  "para_levar": "Pneumonia aspirativa da comunidade sem abscesso ou empiema: o mesmo esquema da PAC, sem acrescentar anaerobicida.",
+  "referencias": "ATS/IDSA Guideline for Community-acquired Pneumonia in Adults (2019); Mandell LA, Niederman MS, NEJM 2019 (Aspiration pneumonia).",
+  "tags": [
+   "Pneumonia Adquirida na Comunidade PAC (CM)",
+   "Antibióticos: Situações Clínicas (CM)"
+  ],
+  "sourceQuestionId": "46a90fb1719b33f",
+  "alvo": "Fazer mais do que o caso pede (antibiótico a mais); negativos que retiram a indicação."
+ },
+ {
+  "id": "S13-PNE-03",
+  "simulado": 13,
+  "area": "Pneumologia",
+  "titulo": "Hipocalemia com alcalose e hiperglicemia rápida em tabagista com alargamento hilar: ACTH ectópico, apesar do tiazídico",
+  "arma": "Rótulo verdadeiro",
+  "comando": "etiologia",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 63 anos, tabagista de 55 maços-ano, hipertenso em uso de hidroclorotiazida 25 mg/dia há 4 anos, procura a emergência por fraqueza progressiva nas pernas há 3 semanas e edema. PA 172/100 mmHg, FC 92 bpm. IMC 23 kg/m², perdeu 6 kg em 2 meses; sem estrias, face arredondada ou giba. Exames: potássio 2,1 mEq/L, bicarbonato 36 mEq/L, sódio 145 mEq/L, creatinina 0,9 mg/dL, glicemia 268 mg/dL (era 92 mg/dL há 6 meses). Radiografia de tórax: alargamento hilar direito. A causa mais provável da hipocalemia é:",
+  "alternativas": {
+   "A": "Secreção ectópica de ACTH",
+   "B": "Efeito da hidroclorotiazida",
+   "C": "Hiperaldosteronismo primário",
+   "D": "Hipertensão renovascular"
+  },
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "glicemia 268 mg/dL (era 92 mg/dL há 6 meses)",
+  "resolucao": "O tiazídico causa hipocalemia e alcalose, e é o rótulo verdadeiro que fecha a questão para o apressado. Mas ele está em uso há 4 anos, e a hipocalemia do tiazídico raramente chega a 2,1 mEq/L; o que mudou nas últimas semanas foi hipertensão grave, edema, fraqueza, perda de peso e diabetes surgido em 6 meses. Em tabagista pesado com alargamento hilar, esse conjunto é a secreção ectópica de ACTH (carcinoma de pequenas células ou carcinoide): o cortisol em níveis altíssimos satura a 11-beta-hidroxiesteroide desidrogenase tipo 2 e age como mineralocorticoide. A evolução é rápida demais para o fenótipo cushingoide aparecer; o que domina é a hipocalemia e a hiperglicemia, com emagrecimento pelo tumor. O hiperaldosteronismo primário não explica o diabetes recente nem a perda de peso.",
+  "comentarios": {
+   "A": "Correta. Hipocalemia grave, alcalose, hipertensão, diabetes de início recente e emagrecimento em tabagista com massa hilar.",
+   "B": "Errada. Seria a explicação para hipocalemia leve e estável; não explica glicemia que saltou de 92 para 268 nem o emagrecimento.",
+   "C": "Errada. Causa hipocalemia e alcalose, mas evolui ao longo de anos, sem diabetes súbito nem consumpção.",
+   "D": "Errada. Pode dar hiperaldosteronismo secundário, mas não diabetes recente nem perda de peso, e não se relaciona à massa hilar."
+  },
+  "para_levar": "Hipocalemia grave com alcalose, hipertensão e hiperglicemia de instalação rápida, sem fenótipo cushingoide, em tabagista: pense em ACTH ectópico; o cortisol em excesso age como mineralocorticoide.",
+  "referencias": "Endocrine Society, Diagnosis of Cushing's Syndrome (2008) e Treatment of Cushing's Syndrome (2015); Pituitary Society Consensus on Cushing's disease (2021).",
+  "tags": [
+   "Síndromes Paraneoplásicas (CM)",
+   "Cushing (CM)",
+   "Câncer de pulmão"
+  ],
+  "sourceQuestionId": "a98a286cd95e9d1",
+  "alvo": "Rótulo verdadeiro (droga em uso que explica parte do quadro) e cronologia que separa o antigo do novo."
+ },
+ {
+  "id": "S13-PNE-04",
+  "simulado": 13,
+  "area": "Pneumologia",
+  "titulo": "Hipertensão arterial pulmonar idiopática: teste de vasorreatividade que cai 11 mmHg mas não chega a 40 é negativo",
+  "arma": "Grade X / Y",
+  "comando": "conduta",
+  "nivel": "extremamente difícil",
+  "enunciado": "Mulher de 34 anos com hipertensão arterial pulmonar idiopática, classe funcional III, caminha 330 m no teste de 6 minutos; NT-proBNP 900 pg/mL. Cateterismo direito: pressão média da artéria pulmonar (PAPm) 52 mmHg, pressão de oclusão 9 mmHg, resistência vascular pulmonar 10 unidades Wood, débito cardíaco 3,6 L/min. No teste de vasorreatividade com óxido nítrico inalado, a PAPm cai para 41 mmHg, com débito cardíaco de 3,8 L/min. O resultado do teste e o tratamento inicial mais adequado são, respectivamente:",
+  "alternativas": {
+   "A": "Positivo / nifedipino em dose alta",
+   "B": "Positivo / ambrisentana e tadalafila",
+   "C": "Negativo / nifedipino em dose alta",
+   "D": "Negativo / ambrisentana e tadalafila"
+  },
+  "gabarito": "D",
+  "armadilha": "A",
+  "dado_decisivo": "a PAPm cai para 41 mmHg",
+  "resolucao": "Uma queda de 11 mmHg parece resposta, e o aluno marca positivo com bloqueador de canal de cálcio. O critério de resposta exige as duas coisas: queda da PAPm de pelo menos 10 mmHg E valor absoluto final de 40 mmHg ou menos, com débito cardíaco mantido ou maior. Chegar a 41 mmHg falha o segundo critério, e o teste é negativo. Bloqueador de canal de cálcio em não respondedor piora a hemodinâmica e pode precipitar falência de ventrículo direito. Classe III, teste de caminhada entre 165 e 440 m e NT-proBNP entre 300 e 1.100 colocam a paciente em risco intermediário, para o qual a diretriz recomenda terapia combinada inicial com antagonista de endotelina e inibidor da fosfodiesterase 5.",
+  "comentarios": {
+   "A": "Errada. Exigiria PAPm final de 40 mmHg ou menos; com 41 o teste é negativo e o nifedipino é perigoso.",
+   "B": "Errada. A combinação está certa para o risco intermediário, mas o teste não é positivo.",
+   "C": "Errada. Se o teste é negativo, o bloqueador de canal de cálcio não tem indicação e pode causar colapso hemodinâmico.",
+   "D": "Correta. Queda de 11 mmHg sem atingir 40 mmHg é teste negativo; risco intermediário pede ambrisentana com tadalafila."
+  },
+  "para_levar": "Vasorreatividade positiva: PAPm cai 10 mmHg ou mais E chega a 40 mmHg ou menos, com débito mantido. Só os respondedores (menos de 10%) usam bloqueador de canal de cálcio.",
+  "referencias": "ESC/ERS Guidelines for the diagnosis and treatment of pulmonary hypertension (2022); 7th World Symposium on Pulmonary Hypertension (2024).",
+  "tags": [
+   "Hipertensão Pulmonar (CM)"
+  ],
+  "sourceQuestionId": "09addcf8254c0a1",
+  "alvo": "Limiar com dois critérios simultâneos; exame que decide lido pela metade."
+ },
+ {
+  "id": "S13-PNE-05",
+  "simulado": 13,
+  "area": "Dermatologia",
+  "titulo": "Lesão melanocítica suspeita: biópsia excisional com margem estreita antes de qualquer ampliação ou estadiamento",
+  "arma": "Cronologia",
+  "comando": "próximo exame",
+  "nivel": "média",
+  "enunciado": "Homem de 52 anos, fototipo II, tem no dorso uma lesão pigmentada de 9 mm, assimétrica, de bordas irregulares, com três tons de castanho e preto, que mudou de tamanho nos últimos 6 meses. A dermatoscopia mostra rede atípica e véu azul-esbranquiçado. Não há linfonodos palpáveis. A lesão é inteiramente acessível, e o fechamento primário após retirada é simples. O próximo passo mais adequado é:",
+  "alternativas": {
+   "A": "Biópsia por shaving superficial",
+   "B": "PET-CT antes da biópsia",
+   "C": "Biópsia excisional com margem de 1 a 3 mm",
+   "D": "Ampliação com margem de 2 cm"
+  },
+  "gabarito": "C",
+  "armadilha": "D",
+  "dado_decisivo": "o fechamento primário após retirada é simples",
+  "resolucao": "A suspeita de melanoma é alta, e por isso o apressado já opera com margem de segurança. A margem definitiva depende da espessura de Breslow, que só a histologia dá: 0,5 a 1 cm para in situ, 1 cm até 1 mm, 1 a 2 cm entre 1 e 2 mm, 2 cm acima de 2 mm. Ampliar 2 cm antes de saber a espessura pode tratar demais e altera a drenagem linfática, prejudicando a biópsia do linfonodo sentinela. A ordem é biópsia excisional com margem clínica de 1 a 3 mm, de espessura total, orientada no eixo da drenagem; depois, com o Breslow e a ulceração, decidem-se ampliação e linfonodo sentinela. O shaving superficial pode cortar a base e impedir a medida da espessura, e o PET-CT não tem papel antes do diagnóstico nem no melanoma inicial.",
+  "comentarios": {
+   "A": "Errada. O shaving superficial pode seccionar a base e impedir medir o Breslow, que define todo o tratamento.",
+   "B": "Errada. Estadiamento por imagem só depois do diagnóstico, e em geral a partir do estádio III.",
+   "C": "Correta. Lesão acessível com fechamento simples: excisão com margem de 1 a 3 mm para obter o Breslow antes de definir a margem final.",
+   "D": "Errada. Seria a margem para Breslow acima de 2 mm, decidida após a histologia; feita antes, pode tratar demais e atrapalhar o linfonodo sentinela."
+  },
+  "para_levar": "Lesão suspeita de melanoma: primeiro biópsia excisional com margem de 1 a 3 mm; a margem definitiva e o linfonodo sentinela dependem do Breslow.",
+  "referencias": "NCCN Melanoma: Cutaneous v.2026; Sociedade Brasileira de Dermatologia/GBM, Consenso de melanoma cutâneo; AAD Guidelines of care for primary cutaneous melanoma (2019).",
+  "tags": [
+   "Melanomas e Carcinomas (CM)"
+  ],
+  "sourceQuestionId": "5d50c4f93980173",
+  "alvo": "Ordem da conduta: o procedimento definitivo antes do exame que o define."
+ }
+]

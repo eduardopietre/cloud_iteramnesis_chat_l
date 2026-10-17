@@ -1,0 +1,206 @@
+[
+ {
+  "id": "S11-INF-01",
+  "simulado": 11,
+  "titulo": "Acidente elapídico com ptose identificado pelo vizinho como coral-falsa: soro antielapídico sem esperar piora",
+  "arma": "Rótulo verdadeiro",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Homem de 28 anos, jardineiro em Petrópolis, foi picado na mão direita há 2 horas por uma serpente pequena, de anéis vermelhos, pretos e brancos, ao remexer folhas. O vizinho, que mora na roça há 40 anos, matou o animal e garantiu que era coral-falsa, porque \"os anéis não fecham na barriga\". O paciente refere apenas parestesia discreta no local. Exame: PA 126 x 80 mmHg, FC 84 bpm, FR 18 irpm, SpO2 97%. Na mão, duas pequenas marcas puntiformes, sem edema, sem equimose e sem bolhas. Ao exame neurológico, ptose palpebral bilateral, que ele atribui ao sono, e queixa de visão turva para longe; força nos membros preservada. Tempo de coagulação normal. Não há serviço de herpetologia para identificar o animal. A conduta mais adequada neste momento é:",
+  "alternativas": {
+   "A": "Soro antielapídico, 10 ampolas IV",
+   "B": "Observação por 24 horas, sem soro",
+   "C": "Neostigmina isolada, sem soro",
+   "D": "Soro antibotrópico-crotálico IV"
+  },
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "ptose palpebral bilateral",
+  "resolucao": "A identificação leiga pelos anéis incompletos no ventre é verdadeira para muitas corais-falsas, e a ausência de quadro local reforça a ideia de acidente sem veneno, o que puxa para a observação. Mas o que define o acidente elapídico é a clínica, e não a identificação do animal: ptose palpebral bilateral e turvação visual em menos de 2 horas são a fácies miastênica da neurotoxina pós-sináptica (e pré-sináptica, em algumas espécies) das corais verdadeiras. O Ministério da Saúde considera todo acidente elapídico com manifestação neurológica potencialmente grave, pelo risco de insuficiência respiratória aguda por paralisia diafragmática, e indica soro antielapídico 10 ampolas IV, em dose única, independentemente do peso. A neostigmina (precedida de atropina) é adjuvante útil quando o veneno é pós-sináptico, mas não substitui o soro. O soro antibotrópico-crotálico não neutraliza o veneno elapídico, e o quadro neurológico crotálico vem com mialgia e urina escura, ausentes aqui.",
+  "comentarios": {
+   "A": "Correta. Ptose bilateral após picada por serpente anelada é acidente elapídico até prova em contrário, e o soro antielapídico em dose única de 10 ampolas está indicado mesmo sem quadro local.",
+   "B": "Errada. É a armadilha: seria a conduta numa picada por coral-falsa sem nenhum sinal sistêmico, mas a ptose bilateral já é envenenamento neurotóxico.",
+   "C": "Errada. A neostigmina com atropina é adjuvante no veneno pós-sináptico e pode ponte até o soro, mas usada isolada deixa o veneno circulante sem neutralização.",
+   "D": "Errada. Seria a escolha no acidente crotálico com fácies miastênica, mialgia e mioglobinúria, quando a serpente tem guizo; não neutraliza o veneno elapídico."
+  },
+  "para_levar": "No acidente por serpente anelada, a clínica neurológica manda, e não a identificação do animal: ptose ou diplopia indicam soro antielapídico 10 ampolas, sem esperar insuficiência respiratória.",
+  "referencias": "Ministério da Saúde, Guia de Vigilância em Saúde, 6ª ed. (2023), capítulo de acidentes por animais peçonhentos; Manual de Diagnóstico e Tratamento de Acidentes por Animais Peçonhentos (MS/FUNASA).",
+  "tags": [
+   "Acidente Ofídico (CM)",
+   "Acidentes com Animais Peçonhentos (CM)"
+  ],
+  "sourceQuestionId": "e7a29e92f748dc8",
+  "alvo": "Acidentes por animais peçonhentos (1 de 4 nas inéditas): o elapídico, que ainda não tinha sido cobrado; rótulo verdadeiro.",
+  "area": "Infectologia"
+ },
+ {
+  "id": "S11-INF-02",
+  "simulado": 11,
+  "titulo": "Dengue com choque que persiste após dois bolus e hematócrito em queda: hemorragia oculta e concentrado de hemácias",
+  "arma": "Limiar",
+  "comando": "conduta",
+  "nivel": "extremamente difícil",
+  "enunciado": "Mulher de 32 anos, sem comorbidades, está no 5º dia de dengue confirmada por NS1. Chegou à emergência com extremidades frias, enchimento capilar de 4 segundos, PA 84 x 70 mmHg e FC 126 bpm; hematócrito de 50% e plaquetas de 34.000/mm³. Recebeu dois bolus de 20 mL/kg de cristaloide em 40 minutos, com diurese de 0,3 mL/kg/h. Na reavaliação: PA 80 x 60 mmHg, FC 132 bpm, extremidades ainda frias, sem sangramento exteriorizado, sem melena ao toque retal; o novo hematócrito caiu para 36%, e as plaquetas são 18.000/mm³. RNI 1,4, fibrinogênio 160 mg/dL. A conduta mais adequada neste momento é:",
+  "alternativas": {
+   "A": "Albumina 0,5 a 1 g/kg IV",
+   "B": "Terceiro bolus de cristaloide 20 mL/kg",
+   "C": "Concentrado de hemácias 10 a 15 mL/kg",
+   "D": "Transfusão de concentrado de plaquetas"
+  },
+  "gabarito": "C",
+  "armadilha": "D",
+  "dado_decisivo": "o novo hematócrito caiu para 36%",
+  "resolucao": "A plaquetopenia de 18.000/mm³ e a falta de sangramento visível empurram para a transfusão de plaquetas ou para insistir no volume, mas o dado que decide é a direção do hematócrito diante da instabilidade. No choque da dengue, depois da expansão adequada, hematócrito em ascensão com choque persistente indica extravasamento contínuo e pede expansor plasmático (albumina); hematócrito em queda com choque persistente indica hemorragia, muitas vezes oculta (retroperitônio, trato digestivo ainda não exteriorizado), e pede concentrado de hemácias, além de avaliar a coagulopatia. Uma queda de 50% para 36% em menos de uma hora, sem melhora hemodinâmica, não se explica por hemodiluição. Transfusão de plaquetas não é guiada pela contagem na dengue e não corrige o choque; é considerada só no sangramento ativo com plaquetopenia grave, junto com a correção do resto. Novo bolus de cristaloide dilui ainda mais e piora o extravasamento.",
+  "comentarios": {
+   "A": "Errada. Seria a escolha se o hematócrito estivesse subindo após a expansão, sinal de extravasamento persistente; aqui ele caiu.",
+   "B": "Errada. Após dois bolus sem resposta, mais cristaloide com hematócrito em queda só dilui e alimenta o extravasamento, sem tratar a perda de sangue.",
+   "C": "Correta. Choque persistente com hematócrito em queda após expansão adequada é hemorragia até prova em contrário, e o concentrado de hemácias é a reposição indicada.",
+   "D": "Errada. É a armadilha: a contagem de plaquetas não indica transfusão na dengue, e plaquetas não corrigem o choque hemorrágico."
+  },
+  "para_levar": "Na dengue com choque que não responde à expansão, a direção do hematócrito decide: subindo, albumina; caindo, procurar hemorragia e transfundir hemácias. A contagem de plaquetas, sozinha, não indica transfusão.",
+  "referencias": "Ministério da Saúde, Dengue: diagnóstico e manejo clínico, adulto e criança, 6ª ed. (2024); OMS, Handbook for clinical management of dengue (2012).",
+  "tags": [
+   "Dengue (CM)",
+   "Arboviroses (CM)"
+  ],
+  "sourceQuestionId": "3dea82f838b8f00",
+  "alvo": "Exame que decide lido como enfeite: o hematócrito que cai, diante do rótulo forte da plaquetopenia.",
+  "area": "Infectologia"
+ },
+ {
+  "id": "S11-INF-03",
+  "simulado": 11,
+  "titulo": "Febre de origem indeterminada sem pista localizadora após investigação de primeira linha: PET-CT antes das biópsias às cegas",
+  "arma": "Dado omitido",
+  "comando": "próximo exame",
+  "nivel": "difícil",
+  "enunciado": "Homem de 58 anos, contador, apresenta febre diária de até 38,6 °C há 5 semanas, com sudorese noturna e perda de 4 kg. Está internado há 8 dias para investigação: três pares de hemoculturas negativos, ecocardiograma transtorácico normal, sorologias para HIV, hepatites B e C, sífilis e toxoplasmose não reagentes, FAN e fator reumatoide negativos, urina tipo 1 e urocultura normais, TC de tórax, abdome e pelve sem alterações. Hemograma sem citopenias, fosfatase alcalina e transaminases normais, VHS 88 mm/h, PCR 9 mg/dL, ferritina 640 ng/mL. Ao exame, não há sopro, linfonodomegalia, hepatoesplenomegalia, lesões de pele, artrite ou alteração de pulsos. Não viajou, não tem animais e não usa medicamentos. O próximo exame mais adequado é:",
+  "alternativas": {
+   "A": "Biópsia de medula óssea",
+   "B": "PET-CT com FDG",
+   "C": "Biópsia hepática percutânea",
+   "D": "Biópsia de artéria temporal"
+  },
+  "gabarito": "B",
+  "armadilha": "C",
+  "dado_decisivo": "Hemograma sem citopenias, fosfatase alcalina e transaminases normais",
+  "resolucao": "A biópsia hepática foi por décadas o passo seguinte na febre de origem indeterminada, e a de medula e a de artéria temporal são lembradas porque granulomatoses, linfoma e arterite de células gigantes estão entre as causas. Mas biópsia às cegas rende pouco quando nada aponta o órgão, e o que este caso tem de decisivo é exatamente o que falta: nenhuma citopenia que leve à medula, nenhuma alteração de enzimas canaliculares que leve ao fígado, nenhuma cefaleia, claudicação mandibular ou alteração visual que leve à temporal. Depois da investigação de primeira linha negativa, o PET-CT com FDG é o exame com maior rendimento diagnóstico, porque localiza linfoma, vasculite de grandes vasos (inclusive aortite que a TC não mostrou), infecção profunda e neoplasia oculta, e orienta onde biopsiar. Um PET-CT negativo também tem valor, por indicar evolução benigna na maioria dos casos.",
+  "comentarios": {
+   "A": "Errada. Teria rendimento se houvesse citopenia, esplenomegalia ou suspeita de doença granulomatosa disseminada no imunossuprimido, ausentes aqui.",
+   "B": "Correta. Sem pista localizadora após a investigação inicial, o PET-CT localiza o processo e aponta o alvo da biópsia.",
+   "C": "Errada. É a armadilha: a biópsia hepática faz sentido com fosfatase alcalina ou GGT elevadas ou hepatomegalia, e o caso tem enzimas normais.",
+   "D": "Errada. Seria o caminho com cefaleia, claudicação mandibular, alteração visual ou artéria temporal anormal; sem essas pistas, o PET-CT ainda detecta a vasculite de grandes vasos."
+  },
+  "para_levar": "Na febre de origem indeterminada sem pista localizadora após a primeira linha, o PET-CT com FDG vem antes de qualquer biópsia às cegas; biópsia é dirigida pelo achado.",
+  "referencias": "Haidar G, Singh N. Fever of unknown origin. N Engl J Med 2022; Diretrizes da European Society of Clinical Microbiology and Infectious Diseases e revisão do Harrison, 21ª ed.",
+  "tags": [
+   "Febre de Origem Indeterminada (FOI) (CM)"
+  ],
+  "sourceQuestionId": "52d678042073ada",
+  "alvo": "Próximo exame (o pior comando dele): o exótico ou invasivo antes do exame que localiza.",
+  "area": "Infectologia"
+ },
+ {
+  "id": "S11-INF-04",
+  "simulado": 11,
+  "titulo": "Influenza com hipoxemia no 4º dia de sintomas: oseltamivir indicado fora da janela de 48 horas e sem esperar o RT-PCR",
+  "arma": "Grade X / Y",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 67 anos, diabética e com DPOC, procura a emergência em julho, no 4º dia de febre de 38,8 °C, mialgia intensa, cefaleia e tosse seca. Duas pessoas da casa tiveram quadro parecido na semana anterior. Exame: T 38,4 °C, FR 26 irpm, SpO2 89% em ar ambiente, PA 128 x 74 mmHg, estertores finos em bases. Radiografia de tórax: infiltrado intersticial bilateral discreto. Será internada com oxigênio. O swab nasofaríngeo para RT-PCR de vírus respiratórios foi colhido, com resultado previsto em 48 horas. Quanto ao oseltamivir, ele está ____ e deve ser iniciado ____, respectivamente:",
+  "alternativas": {
+   "A": "Indicado / após o resultado do RT-PCR",
+   "B": "Não indicado / fora da janela de 48 horas",
+   "C": "Não indicado / apenas se RT-PCR positivo",
+   "D": "Indicado / imediatamente, sem esperar"
+  },
+  "gabarito": "D",
+  "armadilha": "B",
+  "dado_decisivo": "Será internada com oxigênio",
+  "resolucao": "A janela de 48 horas é o número que o aluno guarda, e ela empurra para negar o antiviral no 4º dia de sintomas. Ela vale para o paciente ambulatorial sem risco, em quem o benefício é encurtar sintomas. Na síndrome respiratória aguda grave (hipoxemia, internação) e em quem tem fator de risco para complicação (idade acima de 60 anos, diabetes, pneumopatia), o oseltamivir está indicado independentemente do tempo de sintomas, porque reduz mortalidade mesmo iniciado tardiamente. E deve começar na suspeita clínica, sem aguardar confirmação laboratorial: esperar 48 horas pelo RT-PCR é perder o benefício que se quer obter. A conduta é oseltamivir 75 mg de 12/12 horas por 5 dias, ajustado à função renal, associado à cobertura de pneumonia bacteriana secundária se houver suspeita.",
+  "comentarios": {
+   "A": "Errada. Acerta a indicação, mas atrasa o início; o protocolo manda iniciar na suspeita de SRAG, sem esperar o resultado.",
+   "B": "Errada. É a armadilha: a janela de 48 horas vale para o caso leve ambulatorial, não para o paciente hipoxêmico internado ou com fator de risco.",
+   "C": "Errada. Condicionar ao RT-PCR nega a indicação e ainda atrasa o tratamento de um caso grave.",
+   "D": "Correta. Hipoxemia e internação definem SRAG, e o oseltamivir é indicado em qualquer tempo de doença, iniciado já na suspeita."
+  },
+  "para_levar": "Na influenza grave ou em quem tem fator de risco, o oseltamivir é indicado mesmo após 48 horas de sintomas e começa na suspeita clínica, sem aguardar o exame.",
+  "referencias": "Ministério da Saúde, Protocolo de Tratamento de Influenza (2023); IDSA Clinical Practice Guidelines on Seasonal Influenza (2018, atualização 2024).",
+  "tags": [
+   "Influenza (CM)",
+   "Doenças Virais e Pândemicas (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Limiar aplicado fora do contexto (48 horas) e padrão de esperar exame antes da conduta que não depende dele.",
+  "area": "Infectologia"
+ },
+ {
+  "id": "S11-INF-05",
+  "simulado": 11,
+  "titulo": "Lesões cerebrais com realce anelar na aids e PCR de EBV positiva no líquor: resposta radiológica ao tratamento empírico define toxoplasmose",
+  "arma": "Rótulo verdadeiro",
+  "comando": "diagnóstico",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 36 anos, com aids diagnosticada há 1 mês (CD4 38 células/mm³, ainda sem TARV), apresentou cefaleia, febre baixa e hemiparesia direita progressivas em 10 dias. RM de crânio: três lesões com realce anelar e edema perilesional, em núcleos da base e na junção córtico-subcortical, sem contato com o epêndima. IgG anti-Toxoplasma reagente. Iniciados sulfadiazina, pirimetamina e ácido folínico. Uma punção lombar, feita após a imagem por não haver desvio de linha média, mostrou 12 células/mm³, proteína de 68 mg/dL, PCR para Toxoplasma gondii negativa e PCR para vírus Epstein-Barr positiva. No 14º dia de tratamento, a hemiparesia regrediu quase por completo, e a nova RM mostra redução de mais de 50% do volume das lesões. O diagnóstico mais provável é:",
+  "alternativas": {
+   "A": "Linfoma primário do SNC",
+   "B": "Neurotoxoplasmose",
+   "C": "Linfoma e toxoplasmose concomitantes",
+   "D": "Leucoencefalopatia multifocal progressiva"
+  },
+  "gabarito": "B",
+  "armadilha": "A",
+  "dado_decisivo": "redução de mais de 50% do volume das lesões",
+  "resolucao": "A PCR de EBV positiva no líquor é um rótulo verdadeiro e forte: na pessoa com aids e lesão expansiva, ela aumenta muito a probabilidade de linfoma primário do SNC e, quando o tratamento empírico falha, apoia a biópsia. Mas o teste tem falsos positivos (o EBV pode ser detectado no líquor em outras inflamações do SNC), e a PCR de toxoplasma no líquor tem sensibilidade baixa, de modo que um resultado negativo não exclui toxoplasmose. O que decide aqui é a prova terapêutica, que é o próprio critério diagnóstico na prática: lesões múltiplas, em núcleos da base e junção córtico-subcortical, com IgG reagente e resposta clínica e radiológica nítida em 10 a 14 dias de esquema específico, são neurotoxoplasmose. O linfoma não regride com sulfadiazina e pirimetamina; regride com corticoide, que este paciente não recebeu. A conduta é manter o tratamento e iniciar a TARV em cerca de 2 semanas, sem biópsia.",
+  "comentarios": {
+   "A": "Errada. É a armadilha: seria o diagnóstico com lesão única periventricular ou subependimária, sem resposta ao tratamento empírico em 14 dias e PCR de EBV positiva.",
+   "B": "Correta. Lesões múltiplas típicas da localização, IgG reagente e regressão de mais de 50% em 14 dias de esquema específico, sem corticoide, confirmam toxoplasmose.",
+   "C": "Errada. A coexistência existe, mas exigiria lesão que não responde ao tratamento enquanto as outras regridem; aqui todas regrediram.",
+   "D": "Errada. A LEMP dá lesões de substância branca sem realce e sem efeito de massa, com PCR para vírus JC no líquor."
+  },
+  "para_levar": "Na lesão expansiva cerebral da aids, a resposta clínica e radiológica ao tratamento empírico para toxoplasma em 14 dias vale mais do que uma PCR de EBV positiva isolada no líquor.",
+  "referencias": "Ministério da Saúde, PCDT para Manejo da Infecção pelo HIV em Adultos, módulo 2 (2023); NIH/CDC/IDSA Guidelines for Prevention and Treatment of Opportunistic Infections in Adults with HIV (atualização 2024).",
+  "tags": [
+   "Neurotoxoplasmose (CM)",
+   "Doenças Oportunistas no HIV (CM)",
+   "Linfomas (CM)"
+  ],
+  "sourceQuestionId": "3fa68c121ea70d0",
+  "alvo": "Doenças oportunistas no HIV (0 de 4): o exame forte lido sozinho contra a evolução do caso.",
+  "area": "Infectologia"
+ },
+ {
+  "id": "S11-INF-06",
+  "simulado": 11,
+  "titulo": "Uretrite persistente após ceftriaxona e azitromicina em dose única, com testes moleculares negativos: Mycoplasma genitalium",
+  "arma": "Negativo no meio",
+  "comando": "etiologia",
+  "nivel": "difícil",
+  "enunciado": "Homem de 26 anos, que faz sexo com homens, foi tratado há 3 semanas por uretrite com secreção mucopurulenta, com ceftriaxona 500 mg IM e azitromicina 1 g VO em dose única. Tomou corretamente, o parceiro fixo foi tratado com o mesmo esquema e nega nova exposição. Persiste com disúria e secreção uretral escassa e clara desde então. Bacterioscopia da secreção: mais de 5 polimorfonucleares por campo, sem diplococos gram-negativos. Os testes moleculares para gonococo e clamídia, colhidos agora, são negativos, assim como o teste molecular para Trichomonas vaginalis. Sem úlceras, sem lesões perianais; sorologias para sífilis e HIV não reagentes. O agente mais provável da persistência é:",
+  "alternativas": {
+   "A": "Neisseria gonorrhoeae resistente",
+   "B": "Chlamydia trachomatis",
+   "C": "Mycoplasma genitalium",
+   "D": "Herpes simples tipo 2"
+  },
+  "gabarito": "C",
+  "armadilha": "A",
+  "dado_decisivo": "Os testes moleculares para gonococo e clamídia, colhidos agora, são negativos",
+  "resolucao": "Uretrite que não melhora depois da ceftriaxona faz pensar em gonococo resistente, que é a preocupação de saúde pública do momento, e a clamídia é o agente mais frequente de uretrite não gonocócica. Mas os testes moleculares colhidos agora, negativos para os dois, e a bacterioscopia sem diplococos afastam ambos, e o teste para Trichomonas também foi negativo. A uretrite persistente com inflamação confirmada, após azitromicina em dose única e sem reexposição, é Mycoplasma genitalium até prova em contrário: o agente responde mal à azitromicina em dose única, que ainda seleciona resistência a macrolídeos. O tratamento é guiado pela resistência quando disponível; empiricamente, doxiciclina seguida de moxifloxacino. Herpes dá uretrite com disúria intensa e lesões ou linfonodos, e não secreção persistente isolada.",
+  "comentarios": {
+   "A": "Errada. É a armadilha: seria o agente com diplococos gram-negativos na bacterioscopia ou teste molecular positivo, ambos ausentes.",
+   "B": "Errada. É o agente mais comum da uretrite não gonocócica, mas o teste molecular colhido agora é negativo, e a azitromicina costuma tratá-la.",
+   "C": "Correta. Uretrite persistente com polimorfonucleares após azitromicina em dose única, com gonococo, clamídia e tricomonas negativos, aponta o micoplasma.",
+   "D": "Errada. Herpes causa uretrite com dor intensa, vesículas ou úlceras e linfadenomegalia, e não secreção clara persistente após antibiótico."
+  },
+  "para_levar": "Uretrite persistente com testes negativos para gonococo, clamídia e tricomonas, após azitromicina em dose única, é Mycoplasma genitalium: tratar com doxiciclina seguida de moxifloxacino.",
+  "referencias": "Ministério da Saúde, PCDT para Atenção Integral às Pessoas com IST (2022); CDC Sexually Transmitted Infections Treatment Guidelines (2021).",
+  "tags": [
+   "Uretrites Infecciosas (CM)",
+   "Sífilis, Uretrites Infecciosas e outras DSTs (CM)"
+  ],
+  "sourceQuestionId": "24ce3fd618b97e2",
+  "alvo": "Negativo no meio: o resultado negativo que derruba o agente de manual, em IST que ele erra.",
+  "area": "Infectologia"
+ }
+]

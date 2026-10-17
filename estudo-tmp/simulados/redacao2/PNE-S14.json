@@ -1,0 +1,172 @@
+[
+ {
+  "id": "S14-PNE-01",
+  "simulado": 14,
+  "area": "Pneumologia",
+  "titulo": "Pneumonite aguda por metotrexato rotulada como doença intersticial da artrite reumatoide",
+  "arma": "Grade X / Y",
+  "comando": "diagnóstico",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 58 anos com artrite reumatoide soropositiva há 2 anos, sem doença pulmonar na TC de rastreio feita ao diagnóstico, iniciou metotrexato há 4 meses (dose atual 20 mg/semana, com ácido fólico). Há 10 dias tem febre de 38,3 °C, tosse seca e dispneia progressiva. FR 28 irpm, SpO2 88% em ar ambiente, estertores finos bilaterais. Leucócitos 9.800/mm³ com 9% de eosinófilos; PCR 6 mg/dL. TC de tórax: vidro fosco difuso bilateral, sem faveolamento nem bronquiectasias de tração. Antígeno urinário, painel viral, beta-D-glucana e culturas negativos; ecocardiograma normal. O diagnóstico e a conduta mais adequados são, respectivamente:",
+  "alternativas": {
+   "A": "DPI da artrite reumatoide / nintedanibe",
+   "B": "Pneumonite por metotrexato / suspender e corticoide",
+   "C": "Pneumocistose / sulfametoxazol-trimetoprima",
+   "D": "DPI da artrite reumatoide / ciclofosfamida"
+  },
+  "gabarito": "B",
+  "armadilha": "A",
+  "dado_decisivo": "sem doença pulmonar na TC de rastreio feita ao diagnóstico",
+  "resolucao": "Artrite reumatoide com doença pulmonar puxa a doença intersticial da própria artrite, um rótulo verdadeiro que ele já errou. Mas a doença intersticial da artrite é crônica, em geral com padrão de pneumonia intersticial usual (faveolamento, bronquiectasias de tração), e a TC do diagnóstico era normal. Quadro subagudo nos primeiros meses de metotrexato, com febre, hipoxemia, vidro fosco difuso e eosinofilia discreta, após excluir infecção, é pneumonite de hipersensibilidade ao metotrexato. A conduta é suspender o metotrexato definitivamente e dar corticoide sistêmico, com boa resposta na maioria. A pneumocistose foi pesquisada (beta-D-glucana negativa) e é rara com metotrexato isolado sem corticoide.",
+  "comentarios": {
+   "A": "Errada. Antifibrótico seria para doença fibrosante progressiva; aqui o quadro é agudo, inflamatório e a TC prévia era normal.",
+   "B": "Correta. Vidro fosco agudo com febre e eosinofilia nos primeiros meses de metotrexato, infecção excluída: suspender e corticoide.",
+   "C": "Errada. Seria considerada com beta-D-glucana alta, LDH alta e imunossupressão com corticoide; aqui a pesquisa foi negativa.",
+   "D": "Errada. Imunossupressão para doença intersticial inflamatória grave da própria artrite, que não é o caso, e manteria a droga culpada."
+  },
+  "para_levar": "Vidro fosco agudo com febre nos primeiros meses de metotrexato, infecção excluída, é pneumonite pelo metotrexato: suspender para sempre e dar corticoide. A doença intersticial da artrite é crônica e fibrosante.",
+  "referencias": "ACR/CHEST Guideline for Screening, Monitoring and Treatment of ILD in Systemic Autoimmune Rheumatic Diseases (2023); Kremer criteria para pneumonite por metotrexato.",
+  "tags": [
+   "Iatrogenias (CM)",
+   "Doença Pulmonar Intersticial (CM)",
+   "Artrite Reumatóide (CM)"
+  ],
+  "sourceQuestionId": "6e43e598ceb5b43",
+  "alvo": "AR com DPI (reincidente UERJ) como rótulo; droga em uso ignorada."
+ },
+ {
+  "id": "S14-PNE-02",
+  "simulado": 14,
+  "area": "Pneumologia",
+  "titulo": "Sarcoidose pulmonar corticodependente com toxicidade: metotrexato como poupador antes do anti-TNF",
+  "arma": "Rótulo verdadeiro",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Homem de 45 anos com sarcoidose pulmonar estádio III, confirmada por biópsia, é tratado há 14 meses com prednisona por queda da CVF de 78% para 64% e dispneia. Com 30 mg/dia a CVF voltou a 76%, mas em três tentativas de reduzir abaixo de 15 mg/dia houve nova queda funcional e piora dos sintomas. Agora tem glicemia de jejum de 142 mg/dL, o IMC subiu de 26 para 31 kg/m² e a densitometria mostra osteopenia. RM cardíaca e exame neurológico normais. A conduta mais adequada é:",
+  "alternativas": {
+   "A": "Prednisona 40 mg/dia prolongada",
+   "B": "Infliximabe, mantendo a prednisona",
+   "C": "Suspender a prednisona e observar",
+   "D": "Associar metotrexato e reduzir a prednisona"
+  },
+  "gabarito": "D",
+  "armadilha": "B",
+  "dado_decisivo": "em três tentativas de reduzir abaixo de 15 mg/dia",
+  "resolucao": "Sarcoidose que não sai do corticoide parece refratária e puxa o anti-TNF, o rótulo de maior porte. Mas ele respondeu ao corticoide: o problema é a dependência de dose alta e a toxicidade (diabetes, ganho de peso, osteopenia). Para isso a diretriz indica acrescentar metotrexato como poupador de corticoide (segunda linha), o que permite reduzir a prednisona para 5 a 10 mg/dia ou menos. O infliximabe é terceira linha, para quem continua com doença ativa apesar de corticoide e metotrexato (ou com doença cardíaca ou neurológica grave, ausentes aqui). Suspender a prednisona sem substituto repetiria a queda funcional, e subir a dose aprofundaria a toxicidade.",
+  "comentarios": {
+   "A": "Errada. Aumenta a toxicidade que já existe; a dose de manutenção deve ser a menor possível.",
+   "B": "Errada. Seria a terceira linha, após falha do metotrexato, ou primeira opção ao lado do corticoide em doença cardíaca ou neurológica grave.",
+   "C": "Errada. Seria possível na doença estável sem perda funcional; aqui cada redução abaixo de 15 mg trouxe queda da CVF.",
+   "D": "Correta. Corticodependência com toxicidade e resposta preservada: metotrexato como poupador de corticoide."
+  },
+  "para_levar": "Sarcoidose pulmonar: prednisona na primeira linha; se não dá para reduzir ou há toxicidade, metotrexato; anti-TNF fica para a falha do metotrexato.",
+  "referencias": "ERS Clinical Practice Guidelines on Treatment of Sarcoidosis (2021); ATS Clinical Practice Guideline on Diagnosis and Detection of Sarcoidosis (2020).",
+  "tags": [
+   "Sarcoidose (CM)"
+  ],
+  "sourceQuestionId": "91a2fb3e1b1d8a1",
+  "alvo": "Degrau da conduta: pular para o tratamento de maior porte antes do degrau intermediário."
+ },
+ {
+  "id": "S14-PNE-03",
+  "simulado": 14,
+  "area": "Pneumologia",
+  "titulo": "Primeiro isolamento de Pseudomonas aeruginosa em DPOC com bronquiectasias: erradicação, mesmo sem exacerbação",
+  "arma": "Negativo no meio",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Homem de 66 anos com DPOC (VEF1 48% do previsto) e bronquiectasias cilíndricas nos lobos inferiores, em tiotrópio-olodaterol, teve duas exacerbações no último ano. As culturas de escarro trimestrais dos últimos 3 anos cresceram apenas Haemophilus influenzae. Em consulta de rotina, sem febre, sem piora da tosse e com escarro mucoide habitual, a cultura cresce Pseudomonas aeruginosa sensível a ciprofloxacino pela primeira vez. A conduta mais adequada é:",
+  "alternativas": {
+   "A": "Erradicação com ciprofloxacino oral",
+   "B": "Azitromicina contínua",
+   "C": "Repetir a cultura em 3 meses",
+   "D": "Internar para antibiótico venoso"
+  },
+  "gabarito": "A",
+  "armadilha": "C",
+  "dado_decisivo": "pela primeira vez",
+  "resolucao": "Sem sintomas novos, a cultura parece colonização, e a lição de não tratar colonização puxa para repetir o exame mais tarde. A exceção é o primeiro isolamento de Pseudomonas aeruginosa em bronquiectasias: a infecção crônica por esse germe dobra o risco de exacerbação e de internação e aumenta a mortalidade, e a erradicação só funciona antes de ela se tornar crônica. A diretriz europeia recomenda oferecer erradicação no novo isolamento, com ciprofloxacino oral por 2 semanas como primeira linha (betalactâmico venoso ou antibiótico inalatório nas falhas), e cultura de controle. A internação não se justifica num paciente estável, e a azitromicina contínua é profilaxia de exacerbação, não tratamento do germe.",
+  "comentarios": {
+   "A": "Correta. Primeiro isolamento de Pseudomonas em bronquiectasias: erradicação com ciprofloxacino oral, mesmo sem exacerbação.",
+   "B": "Errada. Serve para reduzir exacerbações em quem continua exacerbando com outras medidas; não erradica a Pseudomonas.",
+   "C": "Errada. Seria a conduta para colonização por germe de baixo impacto; esperar com Pseudomonas permite que a infecção se torne crônica.",
+   "D": "Errada. Antibiótico venoso é segunda linha na falha da erradicação oral ou na exacerbação grave."
+  },
+  "para_levar": "Bronquiectasia com primeiro isolamento de Pseudomonas aeruginosa: oferecer erradicação (ciprofloxacino 2 semanas) mesmo sem sintomas. É a exceção à regra de não tratar colonização.",
+  "referencias": "ERS Guidelines for the Management of Adult Bronchiectasis (2017); BTS Guideline for Bronchiectasis in Adults (2019).",
+  "tags": [
+   "Bronquiectasias (CM)",
+   "DPOC (CM)"
+  ],
+  "sourceQuestionId": "7d4be9b45e58a62",
+  "alvo": "Exceção em vez da regra: a omissão de manual que este caso derruba."
+ },
+ {
+  "id": "S14-PNE-04",
+  "simulado": 14,
+  "area": "Pneumologia",
+  "titulo": "Dispneia e hipertensão pulmonar um ano após embolia não nomeada: cintilografia de ventilação e perfusão para hipertensão pulmonar tromboembólica crônica",
+  "arma": "Dado omitido",
+  "comando": "próximo exame",
+  "nivel": "extremamente difícil",
+  "enunciado": "Mulher de 56 anos procura o ambulatório por dispneia aos médios esforços que piora há 8 meses. Há 1 ano foi internada por 5 dias com 'dor no peito e falta de ar' na segunda semana após artroplastia de joelho, recebendo alta com rivaroxabana por 3 meses. Exame: segunda bulha hiperfonética, sem estertores. Espirometria normal. Ecocardiograma: PSAP estimada de 62 mmHg, ventrículo direito dilatado, FE do ventrículo esquerdo de 65%, sem valvopatia. TC de alta resolução sem doença intersticial. O próximo exame mais adequado é:",
+  "alternativas": {
+   "A": "Angiotomografia de tórax",
+   "B": "Cateterismo cardíaco direito",
+   "C": "Cintilografia de ventilação e perfusão",
+   "D": "Polissonografia"
+  },
+  "gabarito": "C",
+  "armadilha": "B",
+  "dado_decisivo": "recebendo alta com rivaroxabana por 3 meses",
+  "resolucao": "A internação de 1 ano atrás não tem nome, mas dor torácica e dispneia após artroplastia, tratadas com 3 meses de anticoagulante, foram uma embolia pulmonar. Dispneia persistente com sinais de hipertensão pulmonar meses depois levanta hipertensão pulmonar tromboembólica crônica, que é potencialmente curável (endarterectomia, angioplastia com balão, riociguate). O cateterismo direito é obrigatório para confirmar, e é o que o apressado marca, mas a diretriz põe antes a cintilografia de ventilação e perfusão, o exame de triagem de toda hipertensão pulmonar não explicada: um exame normal praticamente exclui a forma tromboembólica, e defeitos de perfusão segmentares encaminham a um centro de referência. A angiotomografia é menos sensível para doença crônica distal. A polissonografia não explica PSAP de 62 mmHg com VD dilatado.",
+  "comentarios": {
+   "A": "Errada. Útil depois para mapear a anatomia, mas tem sensibilidade menor que a cintilografia para excluir a doença crônica.",
+   "B": "Errada. Confirma a hipertensão pulmonar e entra no centro de referência; vem depois da cintilografia na sequência da diretriz.",
+   "C": "Correta. Embolia prévia e hipertensão pulmonar persistente: cintilografia de ventilação e perfusão para triar a forma tromboembólica crônica.",
+   "D": "Errada. Apneia do sono causa no máximo hipertensão pulmonar leve; não explica o quadro nem a história de embolia."
+  },
+  "para_levar": "Hipertensão pulmonar sem explicação, especialmente após embolia: cintilografia de ventilação e perfusão antes do cateterismo. Cintilografia normal afasta a forma tromboembólica crônica.",
+  "referencias": "ESC/ERS Guidelines for Pulmonary Hypertension (2022); ESC Guidelines on Acute Pulmonary Embolism (2019), seguimento pós-embolia.",
+  "tags": [
+   "Hipertensão Pulmonar e TEP (CM)",
+   "TEP (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Próximo exame: o exame de triagem simples antes do invasivo; dado omitido (embolia prévia sem nome)."
+ },
+ {
+  "id": "S14-PNE-05",
+  "simulado": 14,
+  "area": "Dermatologia",
+  "titulo": "Psoríase grave em paciente com insuficiência cardíaca deduzida pelas drogas e fibrose hepática: anti-IL-23",
+  "arma": "Droga a deduzir",
+  "comando": "conduta",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 57 anos com psoríase em placas há 20 anos, agora com 30% da superfície corporal acometida e prurido que atrapalha o sono, sem resposta a corticoide tópico e calcipotriol. Usa sacubitril-valsartana, bisoprolol, espironolactona e dapagliflozina, e tem dispneia aos pequenos esforços há 1 ano. Não bebe álcool. Exames: creatinina 1,8 mg/dL (TFGe 42 mL/min/1,73 m²), AST 58 U/L, ALT 64 U/L, plaquetas 140.000/mm³, FIB-4 de 3,1; elastografia hepática de 13 kPa. IGRA negativo; sorologias para hepatites B e C negativas. O tratamento sistêmico mais adequado é:",
+  "alternativas": {
+   "A": "Risanquizumabe subcutâneo",
+   "B": "Infliximabe intravenoso",
+   "C": "Ciclosporina oral",
+   "D": "Metotrexato semanal com ácido fólico"
+  },
+  "gabarito": "A",
+  "armadilha": "D",
+  "dado_decisivo": "Usa sacubitril-valsartana, bisoprolol, espironolactona e dapagliflozina, e tem dispneia aos pequenos esforços",
+  "resolucao": "Metotrexato é a droga sistêmica de manual da psoríase moderada a grave, e é a que o apressado marca. Este paciente contraindica as três clássicas e um biológico. O FIB-4 acima de 2,67 com elastografia de 13 kPa indica fibrose avançada (provável doença hepática metabólica), e o metotrexato é hepatotóxico e acumula com TFG de 42. A ciclosporina é nefrotóxica e hipertensiva. A lista de drogas revela o que o enunciado não nomeia: sacubitril-valsartana, betabloqueador, espironolactona e dapagliflozina com dispneia aos pequenos esforços é insuficiência cardíaca de fração reduzida em classe III, que contraindica anti-TNF (pode agravá-la). Sobra o biológico anti-IL-23 (ou anti-IL-17), sem impacto cardíaco, hepático ou renal, com IGRA e sorologias já negativos.",
+  "comentarios": {
+   "A": "Correta. Anti-IL-23 não piora insuficiência cardíaca nem fibrose hepática e não exige ajuste renal; triagem infecciosa já feita.",
+   "B": "Errada. Seria opção sem insuficiência cardíaca; anti-TNF é contraindicado na IC classe III e IV.",
+   "C": "Errada. Útil como ponte curta em quem tem rim e pressão normais; aqui a TFG é 42.",
+   "D": "Errada. Primeira linha sistêmica habitual, mas com fibrose avançada (FIB-4 3,1, elastografia 13 kPa) e TFG de 42 é contraindicado."
+  },
+  "para_levar": "Antes de escolher o sistêmico da psoríase, leia a lista de drogas e o fígado: fibrose avançada afasta metotrexato, DRC afasta ciclosporina e metotrexato, IC classe III ou IV afasta anti-TNF.",
+  "referencias": "AAD-NPF Guidelines of care for psoriasis with systemic nonbiologic therapies (2020) e with biologics (2019); Consenso Brasileiro de Psoríase, SBD (2020); AASLD Guidance on MASLD (2023).",
+  "tags": [
+   "Psoríase (CM)",
+   "Farmacodermias (CM)"
+  ],
+  "sourceQuestionId": "a97a3c950dc484b",
+  "alvo": "Droga a deduzir e conduta de manual contraindicada pela comorbidade; FIB-4 (regra fixada) com ângulo novo."
+ }
+]

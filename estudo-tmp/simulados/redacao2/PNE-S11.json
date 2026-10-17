@@ -1,0 +1,170 @@
+[
+ {
+  "id": "S11-PNE-01",
+  "simulado": 11,
+  "area": "Pneumologia",
+  "titulo": "Tuberculose pulmonar com baciloscopia negativa em amostra salivar: escarro induzido antes da broncoscopia",
+  "arma": "Omissão",
+  "comando": "próximo exame",
+  "nivel": "difícil",
+  "enunciado": "Homem de 58 anos, diabético em uso de metformina, tem tosse seca há 7 semanas, febre vespertina e perda de 6 kg. Anti-HIV não reagente. Radiografia de tórax: opacidade heterogênea no ápice direito com pequena cavidade. Uma amostra de escarro colhida na primeira consulta, de pouco volume e aspecto salivar, teve baciloscopia negativa; desde então ele não consegue expectorar, apesar de orientado. TC de tórax: cavidade de 2 cm e nódulos centrolobulares em árvore em brotamento no lobo superior direito. SpO2 96% em ar ambiente, sem hemoptise. O próximo exame mais adequado é:",
+  "alternativas": {
+   "A": "Broncoscopia com lavado broncoalveolar",
+   "B": "Prova tuberculínica",
+   "C": "Escarro induzido para TRM-TB e cultura",
+   "D": "Biópsia transbrônquica"
+  },
+  "gabarito": "C",
+  "armadilha": "A",
+  "dado_decisivo": "de pouco volume e aspecto salivar",
+  "resolucao": "O quadro clínico e tomográfico é de tuberculose pulmonar ativa até prova em contrário, e a única baciloscopia negativa não afasta nada: a amostra era salivar, inadequada. Quem não expectora e tem baciloscopia negativa cai na tentação de pular para a broncoscopia, que é o exame de maior porte e o que o apressado marca. A ordem recomendada pelo Ministério da Saúde é obter escarro de boa qualidade, e quando o paciente não expectora, o escarro induzido com salina hipertônica tem rendimento semelhante ao do lavado broncoalveolar, sem procedimento invasivo. Na amostra induzida se pede o teste rápido molecular (que também mostra resistência à rifampicina) e a cultura com teste de sensibilidade. A broncoscopia fica para quem segue sem diagnóstico depois do escarro induzido. Prova tuberculínica não diagnostica doença ativa.",
+  "comentarios": {
+   "A": "Errada. Seria o passo seguinte se o escarro induzido também fosse negativo ou impossível; aqui ainda não se tentou a amostra adequada.",
+   "B": "Errada. Positiva indica infecção, não doença ativa; negativa não exclui tuberculose em quem está doente.",
+   "C": "Correta. A única amostra foi salivar e ele não expectora: escarro induzido com TRM-TB e cultura é o degrau certo antes da broncoscopia.",
+   "D": "Errada. Procedimento invasivo de maior risco, indicado em suspeita de doença intersticial ou neoplasia sem diagnóstico, não como segundo passo na tuberculose."
+  },
+  "para_levar": "Baciloscopia negativa em amostra ruim não é baciloscopia negativa. Sem expectoração, escarro induzido (TRM-TB e cultura) vem antes da broncoscopia.",
+  "referencias": "Ministério da Saúde, Manual de Recomendações para o Controle da Tuberculose no Brasil, 2ª ed. atualizada (2019); OMS, Consolidated guidelines on tuberculosis, Module 3: Diagnosis (2024).",
+  "tags": [
+   "Tuberculose Pulmonar : Clínica e Diagnóstico (CM)"
+  ],
+  "sourceQuestionId": "8ad49ec78aec396",
+  "alvo": "Próximo exame: pular para o exame invasivo antes do degrau simples que ainda não foi feito."
+ },
+ {
+  "id": "S11-PNE-02",
+  "simulado": 11,
+  "area": "Pneumologia",
+  "titulo": "Granulomatose eosinofílica com poliangeíte com miocardite: doença grave pede ciclofosfamida, e não o biológico da asma",
+  "arma": "Rótulo verdadeiro",
+  "comando": "conduta",
+  "nivel": "extremamente difícil",
+  "enunciado": "Mulher de 44 anos, com asma iniciada aos 38 anos, em uso de budesonida-formoterol em dose alta, rinossinusite crônica e polipose nasal. Há 6 semanas tem febre baixa, perda de 5 kg, parestesias e queda do pé esquerdo; há 5 dias, dispneia aos pequenos esforços e edema de membros inferiores. PA 108/70 mmHg, FC 112 bpm. Eosinófilos 4.800/mm³ (31%), creatinina 0,9 mg/dL, sedimento urinário sem hematúria, ANCA negativo. TC de tórax: opacidades em vidro fosco periféricas. Troponina T ultrassensível 210 ng/L (ref. < 14), BNP 1.400 pg/mL; ecocardiograma com FE de 32% e hipocinesia difusa; coronariografia sem lesões. O tratamento de indução mais adequado é:",
+  "alternativas": {
+   "A": "Pulso de metilprednisolona e ciclofosfamida",
+   "B": "Prednisona oral isolada",
+   "C": "Mepolizumabe 300 mg e prednisona",
+   "D": "Omalizumabe e corticoide inalatório"
+  },
+  "gabarito": "A",
+  "armadilha": "C",
+  "dado_decisivo": "FE de 32% e hipocinesia difusa",
+  "resolucao": "Asma tardia, polipose, eosinofilia acima de 10%, infiltrados pulmonares e mononeurite múltipla fecham granulomatose eosinofílica com poliangeíte, mesmo com ANCA negativo (que é a regra em cerca de 60% dos casos). O rótulo verdadeiro é a asma eosinofílica grave, que puxa o mepolizumabe: ele é aprovado para a doença, mas para a forma sem ameaça a órgão ou à vida. Aqui há miocardite com FE de 32%, a principal causa de morte na doença e critério de gravidade (Five-Factor Score). Doença grave se induz com pulso de glicocorticoide associado a ciclofosfamida (ou rituximabe); no ANCA negativo com acometimento cardíaco, a ciclofosfamida é a escolha mais apoiada. O mepolizumabe entra depois, na manutenção ou na recidiva não grave. Corticoide isolado é insuficiente com acometimento cardíaco e neurológico.",
+  "comentarios": {
+   "A": "Correta. Miocardite com FE de 32% e neuropatia: doença grave, indução com pulso de corticoide e ciclofosfamida.",
+   "B": "Errada. Seria aceitável na doença sem acometimento de órgão vital; com miocardite, corticoide isolado deixa a doença ativa.",
+   "C": "Errada. É a indução da forma não grave (asma, sinusite, pele) e a manutenção; não substitui a imunossupressão na miocardite.",
+   "D": "Errada. Anti-IgE para asma alérgica grave; não trata vasculite e não tem papel na indução."
+  },
+  "para_levar": "Na EGPA, o tratamento depende da gravidade, não da asma: coração, rim, sistema nervoso ou trato digestivo acometidos pedem corticoide com ciclofosfamida ou rituximabe; mepolizumabe é da doença não grave e da manutenção.",
+  "referencias": "ACR/Vasculitis Foundation Guideline for ANCA-Associated Vasculitis (2021); EULAR recommendations for the management of ANCA-associated vasculitis, 2022 update.",
+  "tags": [
+   "Churg-Strauss (Granulomatose Eosinofílica com Poliangeíte) (CM)",
+   "Vasculites ANCA-associadas (CM)"
+  ],
+  "sourceQuestionId": "fd2330cf6e73876",
+  "alvo": "Rótulo verdadeiro (asma eosinofílica) puxando o tratamento de manual; gravidade de órgão ignorada. Tema reincidente (0 de 2)."
+ },
+ {
+  "id": "S11-PNE-03",
+  "simulado": 11,
+  "area": "Pneumologia",
+  "titulo": "Crise de asma na gestante: PaCO2 de 40 mmHg é retenção, não normalidade",
+  "arma": "Limiar",
+  "comando": "diagnóstico",
+  "nivel": "difícil",
+  "enunciado": "Gestante de 26 anos, com 31 semanas, asmática, chega com crise há 10 horas, sem melhora após três ciclos de salbutamol inalatório. Está consciente, fala frases curtas e usa musculatura acessória. FR 30 irpm, FC 118 bpm, SpO2 93% em ar ambiente; sibilos difusos de intensidade reduzida. Pico de fluxo 45% do melhor valor pessoal. Gasometria arterial em ar ambiente: pH 7,40, PaCO2 40 mmHg, PaO2 68 mmHg, HCO3 24 mEq/L. A interpretação mais adequada da gasometria é:",
+  "alternativas": {
+   "A": "Alcalose respiratória esperada da gestação",
+   "B": "Retenção de CO2 com fadiga iminente",
+   "C": "Acidose metabólica associada à crise",
+   "D": "Gasometria normal, sem gravidade adicional"
+  },
+  "gabarito": "B",
+  "armadilha": "D",
+  "dado_decisivo": "PaCO2 40 mmHg",
+  "resolucao": "Os valores parecem normais pela régua de fora da gestação, e é isso que atrai a alternativa da gasometria normal. A progesterona aumenta a ventilação-minuto, e a gestante saudável vive com PaCO2 de 28 a 32 mmHg, bicarbonato de 18 a 21 mEq/L e pH discretamente alcalino. Numa crise de asma, a hiperventilação deveria baixar ainda mais o CO2; PaCO2 de 40 mmHg nessa gestante significa que ela já não consegue sustentar o trabalho respiratório, sinal de insuficiência respiratória iminente. Somam-se a PaO2 abaixo de 70 mmHg (que na gestação compromete o feto) e o pico de fluxo de 45%. Ela precisa de tratamento máximo (corticoide sistêmico, ipratrópio, magnésio), alvo de SpO2 de pelo menos 95% e vigilância em ambiente de terapia intensiva.",
+  "comentarios": {
+   "A": "Errada. Seria a leitura com PaCO2 próxima de 30 mmHg; com 40 mmHg o CO2 está alto para a gestante.",
+   "B": "Correta. Na gestação a PaCO2 basal é de 28 a 32 mmHg; 40 mmHg durante uma crise indica fadiga e falência iminente.",
+   "C": "Errada. Bicarbonato de 24 mEq/L e pH 7,40 não mostram acidose metabólica; o problema é o CO2 retido.",
+   "D": "Errada. Normal fora da gestação; aqui é o limiar de gravidade que mais se perde."
+  },
+  "para_levar": "Na gestante, PaCO2 normal é 28 a 32 mmHg: numa crise de asma, CO2 de 35 a 40 mmHg já é retenção e indica insuficiência respiratória iminente.",
+  "referencias": "GINA 2025/2026 (asma na gestação e manejo da exacerbação); ACOG Practice Bulletin 90, Asthma in Pregnancy (reafirmado).",
+  "tags": [
+   "Asma - exacerbação (CM)",
+   "Gasometria Arterial (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Limiar lido pela régua errada: exame que decide lido como enfeite por parecer normal."
+ },
+ {
+  "id": "S11-PNE-04",
+  "simulado": 11,
+  "area": "Pneumologia",
+  "titulo": "Derrame pleural maligno recidivante com pulmão encarcerado: cateter pleural tunelizado, e não pleurodese",
+  "arma": "Grade X / Y",
+  "comando": "diagnóstico",
+  "nivel": "extremamente difícil",
+  "enunciado": "Mulher de 61 anos com adenocarcinoma de mama metastático, em quimioterapia, ECOG 1, tem derrame pleural direito com citologia oncótica positiva, em terceira recidiva sintomática em 5 semanas. Na toracocentese de alívio, após retirar 1.100 mL, surgiram tosse e desconforto torácico; a manometria mostrou queda da pressão pleural de -2 para -24 cmH2O. A radiografia logo após mostra hidropneumotórax pequeno, com o pulmão sem reexpandir e pleura visceral espessada; não houve fístula, e a paciente segue estável. Expectativa de vida estimada em vários meses. A interpretação do achado e a conduta definitiva mais adequada são, respectivamente:",
+  "alternativas": {
+   "A": "Pulmão expansível / pleurodese com talco",
+   "B": "Pulmão encarcerado / pleurodese com talco",
+   "C": "Pulmão expansível / cateter pleural tunelizado",
+   "D": "Pulmão encarcerado / cateter pleural tunelizado"
+  },
+  "gabarito": "D",
+  "armadilha": "B",
+  "dado_decisivo": "queda da pressão pleural de -2 para -24 cmH2O",
+  "resolucao": "O pneumotórax após a toracocentese parece complicação do procedimento, mas é ex vacuo: o pulmão revestido por pleura visceral espessada não reexpande, e a queda rápida da pressão pleural (elastância alta, queda de mais de 14,5 cmH2O por litro) confirma o pulmão encarcerado. Não precisa de dreno. O apressado identifica o encarceramento e mantém a pleurodese com talco, que é a conduta de manual do derrame maligno recidivante; mas a pleurodese depende do contato entre as pleuras visceral e parietal, e com o pulmão que não expande ela falha. Para pulmão não expansível a diretriz indica o cateter pleural de longa permanência (tunelizado), que permite drenagens domiciliares e alivia a dispneia. A pleurodese com talco seria a escolha se o pulmão reexpandisse por completo.",
+  "comentarios": {
+   "A": "Errada. Pulmão expansível seria aquele que reexpande sem queda acentuada da pressão; aqui a manometria e a imagem mostram o contrário.",
+   "B": "Errada. O diagnóstico está certo, mas o talco precisa de aposição das pleuras; no pulmão encarcerado a pleurodese falha.",
+   "C": "Errada. O cateter seria opção também no pulmão expansível, mas a interpretação está errada: o hidropneumotórax é ex vacuo.",
+   "D": "Correta. Elastância alta e pulmão que não reexpande: encarcerado, tratado com cateter pleural tunelizado."
+  },
+  "para_levar": "Derrame maligno recidivante: se o pulmão reexpande, pleurodese ou cateter; se não reexpande (encarcerado, pneumotórax ex vacuo), cateter pleural tunelizado, porque o talco não tem pleura com que colar.",
+  "referencias": "BTS Guideline for Pleural Disease (2023); ATS/STS/STR Management of Malignant Pleural Effusions (2018).",
+  "tags": [
+   "Derrame Pleural (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Rótulo de complicação (pneumotórax) e conduta de manual que este paciente contraindica."
+ },
+ {
+  "id": "S11-PNE-05",
+  "simulado": 11,
+  "area": "Emergência",
+  "titulo": "Parada em fibrilação ventricular na hipotermia grave: potássio abaixo do limiar de futilidade, manter RCP e levar à ECMO",
+  "arma": "Limiar",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Homem de 74 anos, em situação de rua, é encontrado inconsciente e molhado numa madrugada de inverno. A equipe constata ausência de pulso, com fibrilação ventricular no monitor; temperatura esofágica de 26 °C. Recebeu três choques sem sucesso e está em RCP de alta qualidade há 40 minutos, sem retorno da circulação. Não há trauma, rigidez nem lesão incompatível com a vida. Gasometria: pH 7,08, potássio 5,4 mEq/L (ref. 3,5 a 5,0). Há hospital com ECMO a 25 minutos. A conduta mais adequada é:",
+  "alternativas": {
+   "A": "Encerrar a reanimação pelo tempo",
+   "B": "Manter RCP e transferir para ECMO",
+   "C": "Novos choques e amiodarona a cada ciclo",
+   "D": "Adrenalina a cada 3 a 5 minutos"
+  },
+  "gabarito": "B",
+  "armadilha": "A",
+  "dado_decisivo": "potássio 5,4 mEq/L",
+  "resolucao": "Quarenta minutos de RCP sem retorno, idoso, pH ácido: tudo puxa para encerrar. Na hipotermia, porém, o cérebro frio tolera longos períodos de baixo fluxo, e o critério de futilidade não é o tempo, mas o potássio: acima de 12 mmol/L (marcador de lise celular e asfixia) a sobrevida é praticamente nula; 5,4 está muito abaixo disso. Sem trauma letal, a conduta é manter compressões contínuas (dispositivo mecânico se houver) e transportar para reaquecimento extracorpóreo, o método de escolha na parada por hipotermia. Abaixo de 30 °C, depois de três choques, novos choques e drogas são suspensos até o reaquecimento, porque o miocárdio frio não responde e as drogas se acumulam; entre 30 e 35 °C os intervalos das drogas são dobrados.",
+  "comentarios": {
+   "A": "Errada. Seria a decisão com potássio acima de 12 mmol/L ou lesão incompatível; tempo de RCP não define futilidade no paciente hipotérmico.",
+   "B": "Correta. Hipotermia de 26 °C com potássio de 5,4: RCP contínua e reaquecimento extracorpóreo.",
+   "C": "Errada. Abaixo de 30 °C, após três choques, não se repetem choques nem antiarrítmicos até reaquecer acima de 30 °C.",
+   "D": "Errada. Adrenalina é suspensa abaixo de 30 °C; acima disso, com intervalo dobrado até 35 °C."
+  },
+  "para_levar": "Ninguém está morto até estar quente e morto: na parada por hipotermia o limiar de futilidade é potássio acima de 12 mmol/L, não o tempo; abaixo de 30 °C, três choques no máximo e nada de drogas até reaquecer.",
+  "referencias": "ERC Guidelines 2021, Cardiac arrest in special circumstances (hipotermia acidental); AHA 2020/2023 focused updates.",
+  "tags": [
+   "Parada Cardiorrespiratória (PCR) (CM)",
+   "Emergências Clínicas (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Limiar errado (tempo em vez de potássio) e conduta de manual da PCR aplicada ao paciente que a contraindica."
+ }
+]

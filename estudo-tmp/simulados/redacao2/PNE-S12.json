@@ -1,0 +1,171 @@
+[
+ {
+  "id": "S12-PNE-01",
+  "simulado": 12,
+  "area": "Pneumologia",
+  "titulo": "Pneumonia eosinofílica crônica rotulada como síndrome de Löffler: infiltrados que não migram e duram meses",
+  "arma": "Negativo no meio",
+  "comando": "diagnóstico",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 47 anos, asmática leve, não tabagista, tem há 10 semanas tosse, febre baixa vespertina, sudorese noturna, dispneia progressiva e perda de 7 kg. Recebeu amoxicilina-clavulanato e depois levofloxacino, sem melhora. Radiografias seriadas nas semanas 1, 5 e 9: consolidações periféricas bilaterais nos terços superiores, que poupam a região peri-hilar e permanecem nos mesmos locais. Eosinófilos 2.100/mm³ (19%), IgE total 380 UI/mL. Parasitológico de fezes em três amostras e sorologia para Strongyloides negativos; ANCA negativo; sem neuropatia, sinusite, lesões de pele ou alteração urinária. Nenhum medicamento novo. O diagnóstico mais provável é:",
+  "alternativas": {
+   "A": "Síndrome de Löffler",
+   "B": "Granulomatose eosinofílica com poliangeíte",
+   "C": "Aspergilose broncopulmonar alérgica",
+   "D": "Pneumonia eosinofílica crônica"
+  },
+  "gabarito": "D",
+  "armadilha": "A",
+  "dado_decisivo": "permanecem nos mesmos locais",
+  "resolucao": "Infiltrado pulmonar com eosinofilia no sangue puxa a síndrome de Löffler, mas ela é passageira: infiltrados migratórios, sintomas leves e resolução em até 4 semanas, ligados a larvas de helmintos ou drogas. Aqui são 10 semanas de doença consumptiva, infiltrados periféricos fixos que poupam o hilo (o negativo fotográfico do edema pulmonar), asma prévia, parasitológico negativo e nenhuma droga nova: pneumonia eosinofílica crônica. A ausência de neuropatia, sinusite, lesão cutânea, alteração urinária e ANCA tira a granulomatose eosinofílica com poliangeíte, e a IgE abaixo de 1.000 UI/mL sem bronquiectasias centrais tira a aspergilose broncopulmonar alérgica. A confirmação vem do lavado broncoalveolar com eosinófilos acima de 25%, e a resposta ao corticoide é dramática, com recidiva frequente na retirada.",
+  "comentarios": {
+   "A": "Errada. Seria o diagnóstico com infiltrados migratórios, sintomas leves e duração de até 4 semanas; aqui são fixos e há 10 semanas.",
+   "B": "Errada. Exigiria vasculite sistêmica (neuropatia, pele, rim, seios da face); todos os negativos foram descritos.",
+   "C": "Errada. Pede IgE total geralmente acima de 1.000 UI/mL, sensibilização ao Aspergillus e bronquiectasias centrais.",
+   "D": "Correta. Meses de evolução, sintomas sistêmicos, infiltrados periféricos fixos e eosinofilia em asmática."
+  },
+  "para_levar": "Infiltrado com eosinofilia: migratório e com menos de 4 semanas é Löffler; periférico, fixo, com meses de febre e emagrecimento em asmático, sem vasculite, é pneumonia eosinofílica crônica.",
+  "referencias": "Cottin V. Eosinophilic lung diseases, Clin Chest Med (2016); ERS Monograph Pulmonary Manifestations of Systemic Diseases (2019).",
+  "tags": [
+   "Doença Pulmonar Intersticial (CM)",
+   "Outros temas em Pneumologia (CM)"
+  ],
+  "sourceQuestionId": "e26aa0fbecf0b06",
+  "alvo": "Löffler (reincidente UERJ) como rótulo, e negativos do meio que separam as síndromes eosinofílicas."
+ },
+ {
+  "id": "S12-PNE-02",
+  "simulado": 12,
+  "area": "Pneumologia",
+  "titulo": "Viagem aérea no paciente já em oxigenoterapia domiciliar: aumentar o fluxo no voo, sem teste de hipóxia",
+  "arma": "Qualificador",
+  "comando": "conduta",
+  "nivel": "média",
+  "enunciado": "Homem de 70 anos com DPOC grave (VEF1 32% do previsto), em oxigenoterapia domiciliar contínua com 2 L/min por cateter nasal, estável há 6 meses, vai fazer um voo de 9 horas para visitar a filha. Com o oxigênio habitual, a SpO2 em repouso é de 93%. Não tem pneumotórax prévio, bolhas grandes nem exacerbação recente, e caminha 250 m no teste de 6 minutos. Quanto ao oxigênio durante o voo, a recomendação mais adequada é:",
+  "alternativas": {
+   "A": "Aumentar o fluxo durante o voo",
+   "B": "Manter o mesmo fluxo de 2 L/min",
+   "C": "Teste de hipóxia antes de decidir",
+   "D": "Contraindicar a viagem aérea"
+  },
+  "gabarito": "A",
+  "armadilha": "C",
+  "dado_decisivo": "em oxigenoterapia domiciliar contínua com 2 L/min",
+  "resolucao": "A cabine pressurizada equivale a uma altitude de 1.800 a 2.400 m, com FiO2 efetiva próxima de 15%, e quem já é hipoxêmico ao nível do mar dessatura mais. O teste de hipóxia (respirar FiO2 de 15% e medir a PaO2) serve para decidir se precisa de oxigênio quem ainda não usa; para quem já está em oxigenoterapia contínua a resposta já é sim, e o teste não acrescenta nada. A recomendação é aumentar o fluxo durante o voo (em geral cerca de 2 L/min acima do habitual), com oxigênio providenciado junto à companhia aérea. Manter o mesmo fluxo subestima a queda da pressão inspirada de oxigênio, e a DPOC estável sem pneumotórax ou bolhas não contraindica voar.",
+  "comentarios": {
+   "A": "Correta. Quem já usa oxigênio contínuo precisa de fluxo maior na altitude de cabine; não precisa de teste para saber disso.",
+   "B": "Errada. O fluxo que mantém 93% ao nível do mar não basta com FiO2 efetiva de cerca de 15%.",
+   "C": "Errada. É o exame de quem não usa oxigênio e tem SpO2 limítrofe ou fatores de risco; aqui a necessidade já está estabelecida.",
+   "D": "Errada. Contraindicariam pneumotórax não resolvido, exacerbação recente ou necessidade de fluxo muito alto, nenhum presente."
+  },
+  "para_levar": "Avião e doença pulmonar: o teste de hipóxia decide para quem não usa oxigênio; quem já usa oxigênio contínuo voa com fluxo aumentado, sem teste.",
+  "referencias": "BTS Clinical Statement on Air Travel (2022); BTS Air Travel Recommendations (2011).",
+  "tags": [
+   "DPOC - ambulatorial (CM)",
+   "DPOC (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Porte da conduta: pedir o exame que não muda a decisão (fazer mais do que o caso pede)."
+ },
+ {
+  "id": "S12-PNE-03",
+  "simulado": 12,
+  "area": "Pneumologia",
+  "titulo": "Adenocarcinoma ALK positivo com metástases cerebrais assintomáticas: inibidor de ALK antes da radioterapia de crânio",
+  "arma": "Rótulo verdadeiro",
+  "comando": "conduta",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 39 anos, que nunca fumou, tem adenocarcinoma de pulmão estádio IV com metástases ósseas e quatro metástases cerebrais de 5 a 12 mm, assintomáticas, sem edema significativo nem efeito de massa. ECOG 1, sem uso de corticoide. Painel molecular do tecido: rearranjo de ALK; EGFR selvagem; PD-L1 em 70% das células tumorais. O tratamento inicial mais adequado é:",
+  "alternativas": {
+   "A": "Pembrolizumabe isolado",
+   "B": "Alectinibe oral, com RM seriada",
+   "C": "Radioterapia de crânio total e quimioterapia",
+   "D": "Quimioterapia com pembrolizumabe"
+  },
+  "gabarito": "B",
+  "armadilha": "C",
+  "dado_decisivo": "assintomáticas, sem edema significativo nem efeito de massa",
+  "resolucao": "Metástases cerebrais puxam a radioterapia de crânio antes de tudo, e PD-L1 de 70% puxa a imunoterapia: os dois rótulos são verdadeiros e os dois enganam. Com rearranjo de ALK, a primeira linha é um inibidor de ALK de segunda ou terceira geração (alectinibe, brigatinibe ou lorlatinibe), que tem alta penetração no sistema nervoso central e respostas intracranianas de 60 a 80%. Nas metástases pequenas e assintomáticas, sem efeito de massa, a conduta aceita é iniciar o inibidor e vigiar com RM a cada 2 a 3 meses, guardando a radioterapia (de preferência estereotáxica) para progressão ou lesões sintomáticas; a radioterapia de crânio total traz declínio cognitivo sem ganho de sobrevida aqui. Imunoterapia em tumor com driver (ALK, EGFR) tem resposta pobre e mais toxicidade quando seguida do inibidor.",
+  "comentarios": {
+   "A": "Errada. Seria a escolha com PD-L1 alto sem mutação acionável; com ALK rearranjado a resposta é pobre.",
+   "B": "Correta. ALK positivo com metástases cerebrais pequenas e assintomáticas: inibidor de ALK com boa penetração no SNC e RM seriada.",
+   "C": "Errada. Seria considerada com lesões sintomáticas, grandes ou com efeito de massa; aqui adia o tratamento sistêmico e causa dano cognitivo.",
+   "D": "Errada. Primeira linha do adenocarcinoma sem driver; com ALK o inibidor vem primeiro."
+  },
+  "para_levar": "Adenocarcinoma avançado: o driver manda mais que o PD-L1 e, com metástases cerebrais assintomáticas, inibidores de ALK ou EGFR de nova geração tratam o cérebro e permitem adiar a radioterapia.",
+  "referencias": "NCCN Non-Small Cell Lung Cancer v.2026; ESMO Oncogene-addicted metastatic NSCLC Living Guideline (2023/2025); ALEX trial (Peters et al., NEJM 2017).",
+  "tags": [
+   "Câncer de pulmão"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Rótulo verdadeiro (metástase cerebral, PD-L1 alto) puxando o tratamento de maior porte."
+ },
+ {
+  "id": "S12-PNE-04",
+  "simulado": 12,
+  "area": "Pneumologia",
+  "titulo": "Bronquiectasias de lobo médio e língula sem situs inversus: óxido nítrico nasal na suspeita de discinesia ciliar primária",
+  "arma": "Negativo no meio",
+  "comando": "próximo exame",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 27 anos tem tosse produtiva diária desde a infância, rinossinusite crônica, otites médias de repetição na infância e dificuldade para engravidar há 3 anos (espermograma do marido normal). TC de tórax: bronquiectasias em lobo médio e língula; coração e vísceras abdominais em posição habitual. Teste do suor com cloreto de 28 mmol/L (ref. < 30), imunoglobulinas séricas normais, alfa-1 antitripsina normal, IgE total normal. Cultura de escarro: Haemophilus influenzae. O próximo exame mais adequado é:",
+  "alternativas": {
+   "A": "Broncoscopia com lavado broncoalveolar",
+   "B": "Painel genético para fibrose cística",
+   "C": "Óxido nítrico nasal",
+   "D": "Repetir o teste do suor"
+  },
+  "gabarito": "C",
+  "armadilha": "B",
+  "dado_decisivo": "otites médias de repetição na infância",
+  "resolucao": "Sem dextrocardia, o aluno descarta a discinesia ciliar e volta à fibrose cística, pedindo genética ou repetindo o suor. Mas metade dos pacientes com discinesia ciliar primária tem situs normal; a tríade de doença das vias aéreas superiores e inferiores desde a infância (tosse produtiva diária, rinossinusite, otites), subfertilidade e bronquiectasias de lobo médio e língula é o que levanta a suspeita. O cloreto de 28 mmol/L (abaixo de 30) torna a fibrose cística improvável, e as imunoglobulinas e a alfa-1 antitripsina normais tiram as outras causas investigadas. O exame de triagem recomendado é o óxido nítrico nasal, que é muito baixo na discinesia ciliar; a confirmação vem da videomicroscopia de alta velocidade do batimento ciliar, da microscopia eletrônica e da genética.",
+  "comentarios": {
+   "A": "Errada. Não diagnostica discinesia ciliar; ajudaria em micobactéria ou fungo sem escarro.",
+   "B": "Errada. Seria o passo com cloreto entre 30 e 59 mmol/L; com 28 a fibrose cística é improvável.",
+   "C": "Correta. Doença de vias aéreas superiores e inferiores desde a infância, subfertilidade e bronquiectasias de lobo médio e língula: triagem com óxido nítrico nasal.",
+   "D": "Errada. O resultado já está abaixo do limiar e coerente com o restante; repetir não muda a suspeita."
+  },
+  "para_levar": "Situs normal não afasta discinesia ciliar primária (metade dos casos). Bronquiectasia com doença de vias aéreas superiores desde a infância e subfertilidade: óxido nítrico nasal como triagem.",
+  "referencias": "ERS Guidelines for the Diagnosis of Primary Ciliary Dyskinesia (2017); ATS Clinical Practice Guideline on PCD Diagnosis (2018).",
+  "tags": [
+   "Bronquiectasias (CM)",
+   "Outros temas em Pneumologia (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Negativo no meio (situs normal) lido como exclusão; próximo exame."
+ },
+ {
+  "id": "S12-PNE-05",
+  "simulado": 12,
+  "area": "Geriatria",
+  "titulo": "Cascata de prescrição na idosa: edema pelo anlodipino tratado com furosemida, incontinência e oxibutinina",
+  "arma": "Rótulo verdadeiro",
+  "comando": "etiologia",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 78 anos, hipertensa, foi atendida em quatro consultas nos últimos 5 meses. Na primeira, PA 168/92 mmHg: iniciado anlodipino 10 mg/dia. Dois meses depois, edema maleolar bilateral: acrescentada furosemida 40 mg/dia. Na terceira, urgência miccional e perdas urinárias: iniciada oxibutinina. Agora a filha relata esquecimentos novos e constipação. Exame: PA 128/76 mmHg sentada, sem queda ortostática; edema maleolar 2+/4+, sem turgência jugular nem estertores. BNP 45 pg/mL (ref. < 100), albumina 4,0 g/dL, TSH normal, potássio 3,4 mEq/L. O ponto de partida do quadro atual é:",
+  "alternativas": {
+   "A": "Insuficiência cardíaca de fração preservada",
+   "B": "Edema pelo anlodipino",
+   "C": "Bexiga hiperativa idiopática",
+   "D": "Demência de Alzheimer incipiente"
+  },
+  "gabarito": "B",
+  "armadilha": "A",
+  "dado_decisivo": "BNP 45 pg/mL",
+  "resolucao": "Cada queixa nova é real e foi tratada como doença nova: é a cascata de prescrição. O edema maleolar do bloqueador de canal de cálcio diidropiridínico é dose-dependente, vem da vasodilatação arteriolar pré-capilar (não de retenção de volume) e por isso responde mal ao diurético. A furosemida trouxe urgência e perdas urinárias, tratadas com um anticolinérgico, que por sua vez explica os esquecimentos e a constipação. O rótulo verdadeiro é o edema numa hipertensa idosa, que puxa insuficiência cardíaca; mas não há turgência jugular nem estertores, e o BNP de 45 pg/mL torna a insuficiência cardíaca muito improvável. A conduta é desfazer a cascata: reduzir ou trocar o anlodipino (ou associar IECA ou BRA, que reduz o edema), suspender a furosemida e a oxibutinina.",
+  "comentarios": {
+   "A": "Errada. Exigiria congestão ou peptídeo natriurético elevado; BNP de 45 pg/mL sem turgência jugular a torna improvável.",
+   "B": "Correta. Edema dose-dependente do anlodipino 10 mg deu início à cascata (diurético, incontinência, anticolinérgico).",
+   "C": "Errada. A urgência surgiu depois da furosemida; é efeito do diurético, não doença primária da bexiga.",
+   "D": "Errada. Esquecimento novo, de semanas, logo após anticolinérgico, é efeito da droga até prova em contrário."
+  },
+  "para_levar": "Sintoma novo em idoso depois de droga nova é efeito da droga até prova em contrário. Edema por bloqueador de canal de cálcio não se trata com diurético: reduz-se a dose ou troca-se a droga.",
+  "referencias": "Critérios de Beers AGS (2023); STOPP/START versão 3 (2023); Sociedade Brasileira de Geriatria e Gerontologia, Consenso de Polifarmácia.",
+  "tags": [
+   "Iatrogenias (CM)",
+   "Escalas Geriátricas, Avaliação Global, Fragilidade e Iatrogenias (CM)"
+  ],
+  "sourceQuestionId": "64c614d701f4784",
+  "alvo": "Ignorar a droga em uso; rótulo verdadeiro (edema na idosa hipertensa) puxando a doença de manual."
+ }
+]

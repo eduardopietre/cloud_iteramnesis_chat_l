@@ -1,0 +1,169 @@
+[
+ {
+  "id": "S15-PNE-01",
+  "simulado": 15,
+  "area": "Pneumologia",
+  "titulo": "Exacerbação aguda de fibrose pulmonar idiopática: corticoide mantendo o antifibrótico, sem ciclofosfamida",
+  "arma": "Grade X / Y",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Homem de 71 anos com fibrose pulmonar idiopática há 3 anos, em uso de nintedanibe, CVF basal de 62%, tem piora da dispneia há 12 dias, sem febre. FR 30 irpm, SpO2 84% em ar ambiente, estertores em velcro bilaterais. TC de tórax: vidro fosco bilateral novo sobreposto ao faveolamento basal. Angiotomografia sem embolia; BNP 90 pg/mL e ecocardiograma sem disfunção; procalcitonina 0,08 ng/mL; pesquisa de vírus e culturas negativas. Além do oxigênio, o diagnóstico e a conduta mais adequados são, respectivamente:",
+  "alternativas": {
+   "A": "Progressão da FPI / trocar para pirfenidona",
+   "B": "Exacerbação aguda / ciclofosfamida e corticoide",
+   "C": "Exacerbação aguda / corticoide, mantendo nintedanibe",
+   "D": "Congestão pulmonar / furosemida venosa"
+  },
+  "gabarito": "C",
+  "armadilha": "B",
+  "dado_decisivo": "vidro fosco bilateral novo sobreposto ao faveolamento basal",
+  "resolucao": "Piora respiratória em menos de 1 mês, com vidro fosco bilateral novo sobre o padrão de pneumonia intersticial usual, sem embolia, sem insuficiência cardíaca e sem infecção identificada, define exacerbação aguda de FPI, com mortalidade hospitalar de cerca de 50%. O tratamento de maior porte (ciclofosfamida com corticoide) atrai por ser grave, mas o ensaio EXAFIP mostrou mortalidade maior com a ciclofosfamida. O que se faz é suporte, corticoide sistêmico (recomendação fraca, prática corrente), tratar infecção se aparecer, e manter o antifibrótico, que reduz o risco de novas exacerbações. A progressão lenta seria queda gradual da CVF, não vidro fosco novo em dias, e trocar de antifibrótico não trata a exacerbação.",
+  "comentarios": {
+   "A": "Errada. Progressão é queda gradual em meses; vidro fosco novo em 12 dias é exacerbação, e a troca de antifibrótico não a trata.",
+   "B": "Errada. O diagnóstico está certo, mas a ciclofosfamida aumentou a mortalidade no EXAFIP.",
+   "C": "Correta. Exacerbação aguda definida após excluir embolia, IC e infecção: suporte, corticoide e manutenção do nintedanibe.",
+   "D": "Errada. BNP de 90 pg/mL e ecocardiograma normal afastam congestão."
+  },
+  "para_levar": "Exacerbação aguda de FPI: menos de 1 mês, vidro fosco novo sobre o padrão usual, causas cardíaca, embólica e infecciosa excluídas. Suporte, corticoide, manter o antifibrótico; ciclofosfamida aumenta a mortalidade.",
+  "referencias": "ATS/ERS/JRS/ALAT IPF Guideline (2011, atualizações 2015 e 2022); Collard HR et al., Acute exacerbation of IPF, AJRCCM 2016; EXAFIP trial (Naccache et al., Lancet Respir Med 2022).",
+  "tags": [
+   "Fibrose Pulmonar Idiopática (FPI) (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Gravidade puxando o tratamento de maior porte; a conduta mais agressiva que piora o desfecho."
+ },
+ {
+  "id": "S15-PNE-02",
+  "simulado": 15,
+  "area": "Pneumologia",
+  "titulo": "Silicose e infecção latente por tuberculose: o ponto de corte da prova tuberculínica",
+  "arma": "Limiar",
+  "comando": "fato solto",
+  "nivel": "difícil",
+  "enunciado": "Segundo o Ministério da Saúde, no adulto com silicose, sem tuberculose ativa e sem outra indicação, a enduração da prova tuberculínica a partir da qual se trata a infecção latente é:",
+  "alternativas": {
+   "A": "10 mm",
+   "B": "5 mm",
+   "C": "15 mm",
+   "D": "Qualquer enduração"
+  },
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "silicose",
+  "resolucao": "A silicose aumenta muito o risco de adoecer por tuberculose, e por isso o aluno a coloca junto com os grupos de 5 mm (pessoas vivendo com HIV, contatos, usuários de anti-TNF, transplantados, sequela fibrótica de tuberculose não tratada). No quadro do Ministério da Saúde, porém, a silicose está no grupo de 10 mm ou IGRA positivo, ao lado de diabetes, diálise, neoplasias em quimioterapia, baixo peso e tabagismo pesado. Antes de tratar, exclui-se doença ativa com radiografia (e escarro se houver sintomas), o que na silicose exige atenção porque as lesões se confundem. Nenhum grupo trata com qualquer enduração, e 15 mm não é ponto de corte usado no Brasil.",
+  "comentarios": {
+   "A": "Correta. Silicose está no grupo de prova tuberculínica de 10 mm ou mais (ou IGRA positivo).",
+   "B": "Errada. É o corte de HIV, contatos, anti-TNF, transplante e sequela fibrótica não tratada.",
+   "C": "Errada. Ponto de corte usado em outros países para pessoas sem risco; não faz parte do quadro brasileiro.",
+   "D": "Errada. Nenhuma indicação brasileira dispensa o corte; mesmo os de maior risco usam 5 mm."
+  },
+  "para_levar": "ILTB no Brasil: 5 mm para HIV, contatos, anti-TNF, transplante e sequela fibrótica; 10 mm para silicose, diabetes, diálise, neoplasia em quimioterapia, baixo peso e tabagismo pesado.",
+  "referencias": "Ministério da Saúde, Protocolo de Vigilância da Infecção Latente pelo Mycobacterium tuberculosis no Brasil (2022) e Manual de Recomendações para o Controle da Tuberculose (2019).",
+  "tags": [
+   "ILTB (CM)",
+   "Doença Pulmonar Intersticial (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Limiar: grupo de risco colocado na faixa errada."
+ },
+ {
+  "id": "S15-PNE-03",
+  "simulado": 15,
+  "area": "Pneumologia",
+  "titulo": "Bola fúngica estável em cavidade antiga em assintomática: aspergiloma simples, observação e não antifúngico",
+  "arma": "Grade X / Y",
+  "comando": "diagnóstico",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 52 anos, tratada para tuberculose pulmonar há 9 anos com cura comprovada, está assintomática e faz TC de tórax por avaliação de rotina: cavidade de paredes finas de 3 cm no lobo superior direito, com massa intracavitária que muda de posição em decúbito ventral e sinal do crescente aéreo, sem mudança em relação a uma TC de 4 anos atrás; sem espessamento pleural novo nem outras cavidades. Nega tosse, hemoptise, febre ou perda de peso. IgG anti-Aspergillus positiva; baciloscopia e TRM-TB no escarro negativos. O diagnóstico e a conduta mais adequados são, respectivamente:",
+  "alternativas": {
+   "A": "Aspergilose cavitária crônica / itraconazol por 6 meses",
+   "B": "Aspergilose invasiva / voriconazol",
+   "C": "Reativação de tuberculose / esquema básico",
+   "D": "Aspergiloma simples / observação clínica e radiológica"
+  },
+  "gabarito": "D",
+  "armadilha": "A",
+  "dado_decisivo": "sem mudança em relação a uma TC de 4 anos atrás",
+  "resolucao": "A IgG anti-Aspergillus positiva e a bola fúngica puxam o diagnóstico de aspergilose cavitária crônica e o antifúngico. A aspergilose pulmonar cavitária crônica, porém, exige doença ativa: sintomas por mais de 3 meses (tosse, perda de peso, hemoptise) ou cavidades que se expandem, se multiplicam ou espessam a pleura. Aqui há uma única cavidade de parede fina, estável há 4 anos, numa paciente sem sintomas: aspergiloma simples. O antifúngico não penetra a bola fúngica nem a resolve, e a diretriz da IDSA recomenda observação nos assintomáticos sem progressão; a cirurgia é reservada à hemoptise ou à progressão. A forma invasiva exige imunossupressão grave, e a tuberculose foi afastada.",
+  "comentarios": {
+   "A": "Errada. Seria o diagnóstico com sintomas há mais de 3 meses ou cavidades em expansão; a IgG positiva sozinha não define atividade.",
+   "B": "Errada. Exigiria imunossupressão grave (neutropenia, transplante) e quadro agudo.",
+   "C": "Errada. A massa móvel com crescente e os exames micobacteriológicos negativos falam contra; TB não se trata por suspeita aqui.",
+   "D": "Correta. Cavidade única, parede fina, estável há 4 anos e paciente assintomática: aspergiloma simples, observação."
+  },
+  "para_levar": "Bola fúngica em cavidade antiga: assintomática e estável é aspergiloma simples (observar; operar se hemoptise). Sintomas há mais de 3 meses ou cavidade que cresce é aspergilose cavitária crônica (itraconazol por 6 meses ou mais).",
+  "referencias": "IDSA Practice Guidelines for the Diagnosis and Management of Aspergillosis (2016); ESCMID/ERS Chronic Pulmonary Aspergillosis Guidelines (2016).",
+  "tags": [
+   "Aspergilose (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Tratar o que não precisa; exame positivo (IgG) lido como indicação."
+ },
+ {
+  "id": "S15-PNE-04",
+  "simulado": 15,
+  "area": "Pneumologia",
+  "titulo": "Pneumonia comunitária com CURB-65 baixo e quatro critérios menores da ATS/IDSA: terapia intensiva",
+  "arma": "Rótulo verdadeiro",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 64 anos, previamente hígida, tem febre, tosse e dispneia há 3 dias. Está lúcida e orientada. PA 108/66 mmHg, FR 32 irpm, temperatura 38,6 °C, SpO2 89% em ar ambiente; PaO2 62 mmHg com FiO2 de 0,28 (relação PaO2/FiO2 de 221). Radiografia: consolidações nos lobos inferior direito, médio e inferior esquerdo. Ureia 38 mg/dL, leucócitos 3.200/mm³, plaquetas 180.000/mm³. CURB-65 calculado na triagem: 1. O local de tratamento mais adequado é:",
+  "alternativas": {
+   "A": "Domicílio, com reavaliação em 48 horas",
+   "B": "Unidade de terapia intensiva",
+   "C": "Enfermaria, com reavaliação em 48 horas",
+   "D": "Observação na emergência por 24 horas"
+  },
+  "gabarito": "B",
+  "armadilha": "C",
+  "dado_decisivo": "leucócitos 3.200/mm³",
+  "resolucao": "O CURB-65 de 1 está certo (só a frequência respiratória pontua) e é o rótulo verdadeiro que leva à enfermaria ou até ao domicílio. Mas o CURB-65 estima mortalidade, não necessidade de terapia intensiva, e subestima a gravidade em quem tem hipoxemia e leucopenia. Para decidir UTI, a diretriz usa os critérios da ATS/IDSA: um maior (choque com vasopressor ou ventilação mecânica) ou três ou mais menores. Esta paciente tem quatro menores: frequência respiratória de 30 ou mais, PaO2/FiO2 de 250 ou menos, infiltrado multilobar e leucopenia abaixo de 4.000 (que indica pior prognóstico, muitas vezes pneumococo grave). A internação em UTI precoce, antes de deteriorar, reduz mortalidade.",
+  "comentarios": {
+   "A": "Errada. Seria o destino com CURB-65 de 0 a 1 sem hipoxemia nem critérios de gravidade.",
+   "B": "Correta. Quatro critérios menores da ATS/IDSA (FR 32, PaO2/FiO2 221, multilobar, leucopenia): PAC grave, terapia intensiva.",
+   "C": "Errada. É o que o CURB-65 sugere, mas ele não mede necessidade de UTI e ignora a leucopenia e a hipoxemia.",
+   "D": "Errada. Adia uma decisão já definida pelos critérios de gravidade."
+  },
+  "para_levar": "CURB-65 decide internar ou não; para UTI use ATS/IDSA: um critério maior ou três menores (FR de 30 ou mais, PaO2/FiO2 de 250 ou menos, multilobar, confusão, ureia de 43 mg/dL ou mais, leucócitos abaixo de 4.000, plaquetas abaixo de 100.000, temperatura abaixo de 36 °C, hipotensão que exige volume).",
+  "referencias": "ATS/IDSA Guideline for Community-acquired Pneumonia in Adults (2019); Diretrizes Brasileiras para PAC em Adultos, SBPT (2018).",
+  "tags": [
+   "Pneumonia Adquirida na Comunidade PAC (CM)"
+  ],
+  "sourceQuestionId": "71532a88175450a",
+  "alvo": "Rótulo verdadeiro (escore baixo correto) escondendo o dado que decide."
+ },
+ {
+  "id": "S15-PNE-05",
+  "simulado": 15,
+  "area": "Medicina Baseada em Evidências",
+  "titulo": "Ensaio de superioridade com cruzamento entre grupos: intenção de tratar como análise primária, com viés para o nulo",
+  "arma": "Qualificador",
+  "comando": "fato solto",
+  "nivel": "difícil",
+  "enunciado": "Um ensaio de superioridade randomizou 1.000 pacientes com fibrilação atrial para ablação por cateter (500) ou drogas antiarrítmicas (500). Por falha técnica ou preferência, 90 do grupo ablação não foram ablacionados e 60 do grupo drogas cruzaram para ablação. O desfecho primário é morte ou AVC em 4 anos. A análise primária mais adequada e o efeito do cruzamento sobre ela são, respectivamente:",
+  "alternativas": {
+   "A": "Por protocolo / nenhum, pois exclui os cruzados",
+   "B": "Tratamento recebido / aproxima do nulo",
+   "C": "Intenção de tratar / aproxima do nulo",
+   "D": "Intenção de tratar / afasta do nulo"
+  },
+  "gabarito": "C",
+  "armadilha": "A",
+  "dado_decisivo": "Um ensaio de superioridade",
+  "resolucao": "Excluir quem cruzou parece limpar a comparação, e a análise por protocolo atrai. Mas quem não recebeu a ablação ou cruzou não é aleatório (mais doentes, mais sintomáticos, com anatomia difícil), e excluí-los ou realocá-los quebra a randomização e reintroduz confusão. A análise por intenção de tratar mantém cada paciente no grupo sorteado e preserva a comparabilidade, estimando o efeito da estratégia de oferecer a ablação. O preço é que o cruzamento torna os grupos mais parecidos e dilui a diferença, aproximando o resultado do nulo; num ensaio de superioridade isso é conservador (dificulta mostrar benefício), por isso ela é a análise primária. No ensaio de não inferioridade o mesmo viés favorece concluir não inferioridade, e as duas análises devem concordar.",
+  "comentarios": {
+   "A": "Errada. Exclui pacientes não aleatórios e quebra a randomização; não elimina o viés, troca-o por confusão.",
+   "B": "Errada. Agrupar pelo tratamento recebido também quebra a randomização; é análise observacional dentro do ensaio.",
+   "C": "Correta. Superioridade: intenção de tratar preserva a randomização, e o cruzamento dilui o efeito em direção ao nulo.",
+   "D": "Errada. O cruzamento torna os grupos parecidos e reduz a diferença; não a aumenta."
+  },
+  "para_levar": "Intenção de tratar preserva a randomização; cruzamento e baixa adesão puxam o resultado para o nulo. Em superioridade isso é conservador; em não inferioridade favorece a conclusão errada, por isso se exige concordância com a análise por protocolo.",
+  "referencias": "CONSORT 2025 Statement; ICH E9(R1) Addendum on estimands (2019); Hernán MA, Robins JM, Per-protocol analyses of pragmatic trials, NEJM 2017.",
+  "tags": [
+   "Ensaio Clínico",
+   "Estudos Epidemiológicos"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Qualificador (superioridade x não inferioridade) que muda o sentido do viés."
+ }
+]

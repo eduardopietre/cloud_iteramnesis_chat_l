@@ -6,20 +6,20 @@
   "arma": "Negativo no meio",
   "comando": "próximo exame",
   "nivel": "difícil",
-  "enunciado": "Homem de 34 anos teve HIV diagnosticado há 1 semana em triagem de banco de sangue. Está assintomático: nega cefaleia, febre, vômitos, alteração visual ou de comportamento. Exame: T 36,8 °C, PA 118 x 76 mmHg, Glasgow 15, sem rigidez de nuca, sem déficit focal, fundoscopia sem papiledema. Exames: CD4 62 células/mm³, carga viral 210.000 cópias/mL, radiografia de tórax normal. O teste rápido de antígeno criptocócico (CrAg) por fluxo lateral no soro, pedido pela rotina do serviço, foi reagente, com título de 1:320. Ainda não iniciou TARV nem antifúngico. O próximo exame mais adequado é:",
+  "enunciado": "Homem de 34 anos teve HIV diagnosticado há 1 semana em triagem de banco de sangue. Está assintomático: nega cefaleia, febre, vômitos, alteração visual ou de comportamento. Exame: T 36,8 °C, PA 118 x 76 mmHg, Glasgow 15, sem rigidez de nuca, sem déficit focal, fundoscopia sem papiledema. Exames: CD4 62 células/mm³, carga viral 210.000 cópias/mL, radiografia de tórax normal; TC de crânio sem contraste, feita na triagem, sem lesões. O teste rápido de antígeno criptocócico (CrAg) por fluxo lateral no soro, pedido pela rotina do serviço, foi reagente, com título de 1:320. Ainda não iniciou TARV nem antifúngico. O próximo exame mais adequado é:",
   "alternativas": {
    "A": "Repetir o CrAg sérico em 2 semanas",
-   "B": "TC de crânio com contraste",
+   "B": "RM de encéfalo com gadolínio",
    "C": "Punção lombar com pressão de abertura",
    "D": "Hemocultura para fungos"
   },
   "gabarito": "C",
   "armadilha": "B",
   "dado_decisivo": "foi reagente, com título de 1:320",
-  "resolucao": "A ausência de cefaleia e de sinais meníngeos convida a tratar o achado como colonização ou a apenas acompanhar, e o hábito de pedir imagem antes de puncionar puxa para a TC. O CrAg sérico precede a meningite criptocócica em semanas, e uma parcela relevante dos assintomáticos já tem meningite subclínica, sobretudo com título alto (1:160 ou mais). O que define o tratamento é o líquor: com CrAg ou cultura positivos no líquor, trata-se meningite (indução com anfotericina e flucitosina, TARV adiada por 4 a 6 semanas); com líquor negativo, faz-se fluconazol preemptivo em dose alta (800 mg/dia por 2 semanas, depois 400 mg/dia por 8 semanas e manutenção) e a TARV começa em cerca de 2 semanas. Sem déficit focal, rebaixamento ou papiledema, a TC não precisa preceder a punção. Repetir o CrAg só atrasa a decisão, e hemocultura negativa não exclui doença meníngea.",
+  "resolucao": "A ausência de cefaleia e de sinais meníngeos convida a tratar o achado como colonização ou a apenas acompanhar, e o hábito de somar imagem antes de puncionar puxa para a RM. O CrAg sérico precede a meningite criptocócica em semanas, e uma parcela relevante dos assintomáticos já tem meningite subclínica, sobretudo com título alto (1:160 ou mais). O que define o tratamento é o líquor: com CrAg ou cultura positivos no líquor, trata-se meningite (indução com anfotericina e flucitosina, TARV adiada por 4 a 6 semanas); com líquor negativo, faz-se fluconazol preemptivo em dose alta (800 mg/dia por 2 semanas, depois 400 mg/dia por 8 semanas e manutenção) e a TARV começa em cerca de 2 semanas. Sem déficit focal, rebaixamento ou papiledema, e com TC já sem lesões, a RM não acrescenta nada que mude a conduta e só atrasa a punção. Repetir o CrAg só atrasa a decisão, e hemocultura negativa não exclui doença meníngea.",
   "comentarios": {
    "A": "Errada. Repetir o teste não muda nada: o antígeno reagente já indica doença criptocócica em evolução, e o que falta saber é se há acometimento meníngeo.",
-   "B": "Errada. É a armadilha: a TC antes da punção se reserva para déficit focal, rebaixamento de consciência, crise convulsiva ou papiledema, todos ausentes aqui.",
+   "B": "Errada. É a armadilha: a RM seria o exame para déficit focal ou suspeita de criptococomas e pseudocistos; aqui não há sinal focal, a TC já afastou lesão com efeito de massa, e o que decide o antifúngico é o líquor.",
    "C": "Correta. CrAg sérico reagente com título alto e CD4 abaixo de 100 pedem punção lombar, com pressão de abertura, para separar meningite (indução) de antigenemia isolada (fluconazol preemptivo).",
    "D": "Errada. Hemocultura pode confirmar fungemia, mas negativa não exclui meningite, e o tratamento depende do líquor."
   },

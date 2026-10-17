@@ -6,7 +6,7 @@
   "arma": "Negativo no meio",
   "comando": "conduta",
   "nivel": "difícil",
-  "enunciado": "Homem de 38 anos, com HIV em TARV regular (CD4 520 células/mm³, carga viral indetectável), procura oftalmologista por embaçamento visual e moscas volantes no olho esquerdo há 2 semanas. Exame oftalmológico: acuidade 20/80, vitreíte e placa amarelada placoide em polo posterior. Sem cefaleia, sem rigidez de nuca, exame neurológico normal. VDRL sérico 1:128 e teste treponêmico reagente; há 2 anos, o VDRL era não reagente. Líquor: 3 células/mm³, proteína 38 mg/dL, glicose 60 mg/dL, VDRL não reagente. O tratamento mais adequado é:",
+  "enunciado": "Homem de 38 anos, com HIV em TARV regular (CD4 520 células/mm³, carga viral indetectável), procura oftalmologista por embaçamento visual e moscas volantes no olho esquerdo há 2 semanas. Exame oftalmológico: acuidade 20/80, vitreíte e placa amarelada placoide em polo posterior. Sem cefaleia, sem rigidez de nuca, exame neurológico normal. VDRL sérico 1:128 e teste treponêmico reagente; há 8 meses, o VDRL era não reagente. Líquor: 3 células/mm³, proteína 38 mg/dL, glicose 60 mg/dL, VDRL não reagente. O tratamento mais adequado é:",
   "alternativas": {
    "A": "Penicilina benzatina, 3 doses semanais",
    "B": "Penicilina cristalina IV por 14 dias",
@@ -16,7 +16,7 @@
   "gabarito": "B",
   "armadilha": "D",
   "dado_decisivo": "vitreíte e placa amarelada placoide em polo posterior",
-  "resolucao": "O líquor normal, o HIV controlado e a soroconversão documentada nos últimos 2 anos (sífilis recente) levam a tratar com benzatina, em dose única. O dado que decide está no olho: vitreíte com coriorretinite placoide em pessoa com VDRL alto é sífilis ocular, e a sífilis ocular (como a otossífilis) é tratada como neurossífilis, com penicilina cristalina intravenosa por 10 a 14 dias, independentemente do líquor. O líquor normal não autoriza tratamento menor, e nem é obrigatório quando o quadro é ocular isolado sem sinais neurológicos; ele serve de base para seguimento. Doxiciclina é alternativa da sífilis latente tardia na alergia, não de forma ocular.",
+  "resolucao": "O líquor normal, o HIV controlado e a soroconversão documentada nos últimos 8 meses (sífilis recente, com menos de 1 ano) levam a tratar com benzatina, em dose única. O dado que decide está no olho: vitreíte com coriorretinite placoide em pessoa com VDRL alto é sífilis ocular, e a sífilis ocular (como a otossífilis) é tratada como neurossífilis, com penicilina cristalina intravenosa por 10 a 14 dias, independentemente do líquor. O líquor normal não autoriza tratamento menor, e nem é obrigatório quando o quadro é ocular isolado sem sinais neurológicos; ele serve de base para seguimento. Doxiciclina é alternativa da sífilis latente tardia na alergia, não de forma ocular.",
   "comentarios": {
    "A": "Errada. Três doses de benzatina tratam sífilis latente tardia ou de duração ignorada; não atingem nível adequado no olho e no sistema nervoso.",
    "B": "Correta. Sífilis ocular: esquema de neurossífilis, penicilina cristalina IV por 10 a 14 dias, mesmo com líquor normal.",
@@ -138,35 +138,35 @@
  {
   "id": "S9-INF-05",
   "simulado": 9,
-  "titulo": "Vacina contra herpes-zóster no adulto jovem em uso de inibidor de JAK: recombinante, sem suspender",
-  "arma": "Rótulo verdadeiro",
-  "comando": "fato solto",
-  "nivel": "média",
-  "enunciado": "Mulher de 42 anos, com artrite reumatoide em uso de tofacitinibe e metotrexato, sem história de herpes-zóster, pergunta sobre vacinação contra o zóster. A recomendação mais adequada é:",
+  "titulo": "AVC semanas após herpes-zóster oftálmico, com estenose segmentar e pleocitose: vasculopatia pelo VZV apesar da PCR negativa no líquor",
+  "arma": "Negativo no meio",
+  "comando": "diagnóstico",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 71 anos, hipertenso e ex-tabagista, teve herpes-zóster oftálmico à esquerda há 7 semanas, tratado com valaciclovir por 7 dias. Há 2 semanas teve dois episódios de afasia e fraqueza da mão direita, de 30 minutos cada, e hoje acordou com hemiparesia direita leve. PA 146 x 88 mmHg, ritmo regular, T 36,9 °C. RM de crânio: infartos pequenos em núcleo caudado e cápsula interna à esquerda, de idades diferentes. Angiorressonância: estreitamento segmentar e focal do segmento proximal da artéria cerebral média esquerda; carótidas sem placas significativas. ECG e Holter de 24 horas em ritmo sinusal; ecocardiograma transtorácico normal. VHS 16 mm/h, PCR 0,4 mg/dL. Líquor: 14 células/mm³ (95% linfócitos), proteína 62 mg/dL, glicose 60 mg/dL (glicemia 98 mg/dL); PCR para VZV no líquor não detectado. O diagnóstico mais provável é:",
   "alternativas": {
-   "A": "Contraindicada enquanto usar tofacitinibe",
-   "B": "Atenuada, após suspender por 4 semanas",
-   "C": "Recombinante, só a partir dos 50 anos",
-   "D": "Recombinante adjuvada, 2 doses, sem suspender"
+   "A": "Aterosclerose intracraniana",
+   "B": "Arterite de células gigantes",
+   "C": "Embolia de origem cardíaca",
+   "D": "Vasculopatia pelo VZV"
   },
   "gabarito": "D",
   "armadilha": "A",
-  "dado_decisivo": "em uso de tofacitinibe e metotrexato",
-  "resolucao": "A regra verdadeira de que vacina viva é contraindicada no imunossuprimido costuma ser estendida, por engano, a toda vacina contra o zóster. A vacina recombinante adjuvada (glicoproteína E) é inativada, segura no imunossuprimido, e está indicada a partir dos 18 anos em quem tem risco aumentado por imunossupressão, com 2 doses separadas por 2 a 6 meses (o intervalo pode ser encurtado para 1 a 2 meses). Os inibidores de JAK aumentam muito o risco de zóster, o que torna a vacina prioridade, e não é preciso suspender o tratamento. A vacina atenuada saiu de uso na maioria dos países e, de qualquer modo, não se aplica a quem vai continuar imunossuprimido.",
+  "dado_decisivo": "14 células/mm³ (95% linfócitos)",
+  "resolucao": "Idoso hipertenso e ex-tabagista com estenose focal de artéria intracraniana parece aterosclerose, e a PCR negativa para VZV no líquor parece encerrar a hipótese viral. Mas aterosclerose não produz pleocitose linfocitária nem proteína elevada no líquor, e a sequência é a da vasculopatia pelo VZV: zóster oftálmico do mesmo lado, semanas antes, seguido de ataques isquêmicos e infartos de idades diferentes no território da artéria acometida, com estenose segmentar de artéria de grande calibre. A PCR do líquor é positiva em apenas cerca de 30% desses casos, porque a doença é da parede arterial e surge semanas depois da erupção; o exame que confirma é o anticorpo IgG anti-VZV no líquor com síntese intratecal (razão soro/líquor reduzida), positivo em mais de 90%. O tratamento é aciclovir intravenoso por pelo menos 14 dias, em geral com prednisona por curto período. A arterite de células gigantes raramente atinge artérias intracranianas e vem com VHS e PCR elevadas; a embolia cardíaca não explica a pleocitose, e ritmo, Holter e ecocardiograma não a sustentam.",
   "comentarios": {
-   "A": "Errada. É a armadilha: a contraindicação vale para a vacina atenuada, não para a recombinante.",
-   "B": "Errada. A atenuada exigiria suspender a imunossupressão e foi substituída pela recombinante, mais eficaz.",
-   "C": "Errada. O corte de 50 anos é para a população geral; imunossuprimidos têm indicação a partir dos 18 anos.",
-   "D": "Correta. Recombinante adjuvada, 2 doses, sem interromper o tofacitinibe."
+   "A": "Errada. É a armadilha: seria a hipótese com o mesmo perfil de risco e líquor normal; pleocitose linfocitária com proteína alta, semanas após zóster oftálmico ipsilateral, não é aterosclerose.",
+   "B": "Errada. Seria lembrada no idoso com AVC e sintomas cranianos, mas acomete artérias extracranianas e vertebrais, e VHS de 16 com PCR normal tornam muito improvável.",
+   "C": "Errada. Seria a hipótese com fibrilação atrial ou fonte no ecocardiograma e infartos em territórios diferentes; aqui os infartos se concentram na artéria estenosada e há pleocitose.",
+   "D": "Correta. Zóster oftálmico ipsilateral semanas antes, infartos de idades diferentes, estenose segmentar da cerebral média e pleocitose: vasculopatia pelo VZV, confirmada por IgG anti-VZV no líquor."
   },
-  "para_levar": "Imunossuprimido a partir dos 18 anos (inibidor de JAK, por exemplo): vacina recombinante contra zóster, 2 doses, sem suspender o tratamento.",
-  "referencias": "ACIP. Use of Recombinant Zoster Vaccine in Immunocompromised Adults Aged 19 Years and Older (MMWR, 2022); EULAR recommendations for vaccination in adult patients with autoimmune inflammatory rheumatic diseases (2019, atualização 2022); Calendários de vacinação SBIm (2024).",
+  "para_levar": "AVC ou AIT semanas a meses após zóster (sobretudo oftálmico e ipsilateral), com pleocitose no líquor, é vasculopatia pelo VZV mesmo com PCR negativa: confirme com IgG anti-VZV intratecal e trate com aciclovir intravenoso.",
+  "referencias": "Nagel MA et al. The value of detecting anti-VZV IgG antibody in CSF to diagnose VZV vasculopathy. Neurology 2007; Gilden D et al. Varicella zoster virus vasculopathies: diverse clinical manifestations, laboratory features, pathogenesis, and treatment. Lancet Neurol 2009; Harrison's Principles of Internal Medicine, 21ª ed. (2022), Varicella-Zoster Virus.",
   "tags": [
-   "Vacinas e Precauções (CM)",
-   "Varicela-Zoster (CM)"
+   "Varicela-Zoster (CM)",
+   "AVC Isquêmico (CM)"
   ],
-  "sourceQuestionId": "072516d7f69ceaa",
-  "alvo": "Vacinas no imunossuprimido, que ele já errou: a regra verdadeira (viva contraindicada) aplicada à vacina errada.",
+  "sourceQuestionId": null,
+  "alvo": "Negativo que parece excluir (PCR negativa) e exame do líquor lido como enfeite diante do rótulo de aterosclerose no idoso.",
   "area": "Infectologia"
  },
  {
