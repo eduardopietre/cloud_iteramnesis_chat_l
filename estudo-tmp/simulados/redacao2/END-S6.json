@@ -1,0 +1,170 @@
+[
+ {
+  "id": "S6-END-01",
+  "simulado": 6,
+  "area": "Endocrinologia",
+  "titulo": "Hipoglicemia pós-prandial com insulina muito alta após suplemento para neuropatia: síndrome autoimune insulínica (Hirata), e não insulinoma",
+  "arma": "Droga a deduzir",
+  "comando": "etiologia",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 58 anos, sem diabetes, procura atendimento por episódios de sudorese, tremor e confusão há 5 semanas, que ocorrem 2 a 3 horas após o almoço e, duas vezes, de madrugada. Em um episódio no pronto-socorro, a glicemia capilar foi de 38 mg/dL, com melhora imediata após glicose venosa. Tem neuropatia periférica atribuída ao alcoolismo pregresso (abstinente há 3 anos) e, há 2 meses, começou por conta própria um suplemento antioxidante vendido em farmácia para \"formigamento nos pés\". Nega uso de insulina ou de comprimidos para diabetes, e ninguém na casa é diabético. Exame físico sem alterações. Em nova hipoglicemia documentada (glicose plasmática de 42 mg/dL): insulina 1.850 µUI/mL (VR 2 a 25), peptídeo C 6,8 ng/mL (VR 0,9 a 4,0), pesquisa de sulfonilureias no plasma negativa. Tomografia de abdome com contraste sem alterações. A causa mais provável das hipoglicemias é:",
+  "alternativas": {
+   "A": "Insulinoma pancreático",
+   "B": "Uso sub-reptício de insulina",
+   "C": "Anticorpos contra a insulina",
+   "D": "Anticorpos contra o receptor de insulina"
+  },
+  "gabarito": "C",
+  "armadilha": "A",
+  "dado_decisivo": "insulina 1.850 µUI/mL",
+  "resolucao": "Hipoglicemia com insulina e peptídeo C altos fecha hiperinsulinismo endógeno, e o reflexo é insulinoma, que puxa a tomografia e o jejum de 72 horas. Mas dois dados não cabem no tumor. O primeiro é a magnitude: insulina acima de 1.000 µUI/mL é muito acima do que um insulinoma produz, e, convertida em pmol/L (cerca de 11.000), supera o peptídeo C molar (cerca de 2.250), relação maior que 1, que só existe quando um anticorpo prende a insulina e prolonga sua meia vida. O segundo é o padrão: crises pós-prandiais e de madrugada, porque a insulina ligada ao anticorpo depois da refeição é liberada horas mais tarde. O gatilho está escondido no suplemento antioxidante para neuropatia: ácido alfa-lipoico, composto com grupo sulfidrila (como metimazol e captopril), que induz a síndrome autoimune insulínica de Hirata em predispostos. Confirma-se com anticorpo anti-insulina, e a conduta é suspender o suplemento, com refeições fracionadas pobres em carboidrato simples; a maioria remite em meses.",
+  "comentarios": {
+   "A": "Errada. É a armadilha: insulinoma dá hipoglicemia de jejum, com insulina inapropriadamente alta mas modesta e relação insulina/peptídeo C molar menor que 1; seria a resposta com insulina de 15 µUI/mL e crise após jejum prolongado.",
+   "B": "Errada. A insulina exógena suprime o peptídeo C; aqui ele está alto, o que afasta a fonte externa.",
+   "C": "Correta. Insulina acima de 1.000 com relação molar insulina/peptídeo C maior que 1, crises pós-prandiais tardias e um composto sulfidrila em uso (ácido alfa-lipoico): síndrome de Hirata.",
+   "D": "Errada. A síndrome do anticorpo contra o receptor (resistência insulínica tipo B) pode dar hipoglicemia, mas com peptídeo C baixo, acantose e, em geral, lúpus ou outra autoimunidade associada."
+  },
+  "para_levar": "Hiperinsulinismo com insulina acima de 1.000 µUI/mL e relação molar insulina/peptídeo C maior que 1 é anticorpo anti-insulina até prova em contrário; procure droga com sulfidrila (ácido alfa-lipoico, metimazol, captopril) antes de procurar tumor.",
+  "referencias": "Endocrine Society 2009 (Evaluation and management of adult hypoglycemic disorders); Censi S et al., Eur J Endocrinol 2018 (insulin autoimmune syndrome).",
+  "tags": [
+   "Hipoglicemias (CM)"
+  ],
+  "sourceQuestionId": "394fca25b3c985c",
+  "alvo": "Hipoglicemia (errou no app): reconhecer quando o hiperinsulinismo endógeno não é tumor e deduzir a droga escondida no suplemento."
+ },
+ {
+  "id": "S6-END-02",
+  "simulado": 6,
+  "area": "Endocrinologia",
+  "titulo": "Cardiomiopatia acromegálica: hipertrofia biventricular concêntrica, e não a forma septal assimétrica",
+  "arma": "Qualificador",
+  "comando": "fato solto",
+  "nivel": "difícil",
+  "enunciado": "Na acromegalia ativa de longa duração, a alteração cardíaca estrutural mais frequente ao ecocardiograma, presente mesmo em normotensos, é:",
+  "alternativas": {
+   "A": "Hipertrofia biventricular concêntrica",
+   "B": "Dilatação com fração de ejeção reduzida",
+   "C": "Hipertrofia septal assimétrica obstrutiva",
+   "D": "Padrão restritivo de aspecto infiltrativo"
+  },
+  "gabarito": "A",
+  "armadilha": "C",
+  "dado_decisivo": "presente mesmo em normotensos",
+  "resolucao": "Quem associa GH a crescimento tende a marcar a hipertrofia septal assimétrica, que é a assinatura da cardiomiopatia hipertrófica sarcomérica, outra doença. O excesso crônico de GH e IGF-1 age diretamente sobre o miócito e o interstício e produz hipertrofia concêntrica dos dois ventrículos, com aumento da massa e disfunção diastólica, independentemente da pressão arterial (daí o qualificador \"mesmo em normotensos\"). A história natural tem três fases: hipercinética no início, hipertrofia biventricular com disfunção diastólica na doença estabelecida, e dilatação com disfunção sistólica só no fim, quando a doença ficou muitos anos sem controle. Arritmias e valvopatia mitral e aórtica acompanham. A hipertrofia regride parcialmente com o controle bioquímico, o que torna o ecocardiograma parte da avaliação inicial.",
+  "comentarios": {
+   "A": "Correta. A cardiomiopatia acromegálica é hipertrofia concêntrica biventricular com disfunção diastólica, presente mesmo sem hipertensão.",
+   "B": "Errada. É a fase final, rara hoje, de doença não controlada por muitos anos; não é a alteração mais frequente.",
+   "C": "Errada. É a armadilha: a hipertrofia septal assimétrica com obstrução é da cardiomiopatia hipertrófica sarcomérica, e não do excesso de GH.",
+   "D": "Errada. Padrão restritivo infiltrativo sugere amiloidose ou sarcoidose; a acromegalia dá hipertrofia por crescimento do miócito, e não por infiltração."
+  },
+  "para_levar": "Acromegalia dá hipertrofia concêntrica biventricular com disfunção diastólica, independente da pressão; a dilatação com fração de ejeção baixa é a fase tardia.",
+  "referencias": "Colao A et al., Nat Rev Dis Primers 2019 (Acromegaly); Giustina A et al., Pituitary Society consensus on complications of acromegaly, 2020.",
+  "tags": [
+   "Acromegalia (CM)",
+   "Cardiomiopatias (CM)"
+  ],
+  "sourceQuestionId": "99914c6ecbf6041",
+  "alvo": "Acromegalia (errou complicações no app): fato solto de complicação cardíaca, eixo da evocação que ele perde."
+ },
+ {
+  "id": "S6-END-03",
+  "simulado": 6,
+  "area": "Endocrinologia",
+  "titulo": "Hipotireoidismo central em reposição: TSH normal não serve de alvo, ajustar pela T4 livre",
+  "arma": "Rótulo verdadeiro",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 46 anos foi operada há 8 meses de macroadenoma hipofisário não funcionante e evoluiu com hipopituitarismo. Usa hidrocortisona 15 mg/dia, levotiroxina 75 mcg/dia desde a cirurgia e, há 3 meses, estradiol oral para a deficiência gonadotrófica. Queixa-se de cansaço, constipação, intolerância ao frio e ganho de 4 kg nos últimos meses. Exame: PA 112 x 70 mmHg, FC 58 bpm, pele seca, fase de relaxamento dos reflexos lentificada. Exames: TSH 0,9 mUI/L (VR 0,4 a 4,0), T4 livre 0,62 ng/dL (VR 0,9 a 1,8), sódio 138 mEq/L, glicemia 86 mg/dL. Ressonância de sela de controle há 1 mês: sem tumor residual. A conduta mais adequada neste momento é:",
+  "alternativas": {
+   "A": "Manter a dose, pois o TSH está normal",
+   "B": "Reduzir a hidrocortisona para 10 mg/dia",
+   "C": "Solicitar nova ressonância de sela",
+   "D": "Aumentar a levotiroxina pela T4 livre"
+  },
+  "gabarito": "D",
+  "armadilha": "A",
+  "dado_decisivo": "T4 livre 0,62 ng/dL (VR 0,9 a 1,8)",
+  "resolucao": "O rótulo verdadeiro é o TSH normal, que no hipotireoidismo primário encerraria a discussão. No hipotireoidismo central a hipófise não produz TSH adequado (ou produz TSH com bioatividade reduzida), e o valor do TSH não reflete a reposição: ele pode estar normal, baixo ou até discretamente alto com o paciente hipotireoideo. O alvo da levotiroxina é a T4 livre na metade superior da faixa de referência, coletada antes da dose. Esta paciente está clinicamente hipotireoidea, com T4 livre abaixo do normal, e acabou de iniciar estradiol oral, que aumenta a TBG e a necessidade de levotiroxina. A conduta é aumentar a dose e reavaliar pela T4 livre em 6 a 8 semanas. O cortisol já está reposto, de modo que não há o risco de precipitar crise adrenal.",
+  "comentarios": {
+   "A": "Errada. É a armadilha: o TSH só serve de alvo quando a hipófise está íntegra; no hipotireoidismo central ele é inútil para titular a dose.",
+   "B": "Errada. Hidrocortisona 15 mg/dia é dose fisiológica; reduzir o glicocorticoide não trata cansaço com T4 livre baixa e arrisca insuficiência adrenal.",
+   "C": "Errada. A ressonância recente não mostrou resíduo, e o quadro se explica pela reposição insuficiente; nova imagem seria degrau a mais.",
+   "D": "Correta. T4 livre de 0,62 com sintomas e estradiol oral recente: aumentar a levotiroxina e titular pela T4 livre, mirando a metade superior da faixa."
+  },
+  "para_levar": "No hipotireoidismo central, titule a levotiroxina pela T4 livre (metade superior da faixa), nunca pelo TSH; estrogênio oral aumenta a dose necessária.",
+  "referencias": "Endocrine Society 2016 (Hormonal replacement in hypopituitarism in adults); ETA 2018 (Guidelines on the diagnosis and management of central hypothyroidism).",
+  "tags": [
+   "Hipotireoidismo Central (CM)",
+   "Tratamento do Hipotireoidismo (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Exame que decide (T4 livre) lido como enfeite quando um rótulo forte (TSH normal) vem antes."
+ },
+ {
+  "id": "S6-END-04",
+  "simulado": 6,
+  "area": "Endocrinologia",
+  "titulo": "Pé de Charcot agudo com radiografia normal: descarga imediata, e não antibiótico para celulite",
+  "arma": "Negativo no meio",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Homem de 61 anos, com diabetes tipo 2 há 20 anos (HbA1c 8,4%) e neuropatia periférica (monofilamento não percebido em ambos os pés), procura atendimento porque há 10 dias o pé direito ficou inchado, quente e vermelho após uma torção leve ao descer da calçada. Refere apenas desconforto discreto e continua andando normalmente. Nega febre. Exame: pé direito edemaciado e eritematoso no mediopé, temperatura cutânea 3,2 °C maior que a do pé esquerdo, pele íntegra, sem úlcera ou porta de entrada entre os dedos, pulsos pediosos amplos; o eritema desaparece após elevação do membro por 5 minutos. Leucócitos 7.800/mm³, PCR 6 mg/L (VR até 5). Radiografia do pé com carga: sem fratura, sem erosão ou luxação. A conduta mais adequada neste momento é:",
+  "alternativas": {
+   "A": "Anti-inflamatório e retorno em 3 meses",
+   "B": "Gesso de contato total, sem carga",
+   "C": "Biópsia óssea antes de tratar",
+   "D": "Antibiótico oral para celulite"
+  },
+  "gabarito": "B",
+  "armadilha": "D",
+  "dado_decisivo": "o eritema desaparece após elevação do membro por 5 minutos",
+  "resolucao": "Pé quente, vermelho e inchado em diabético atrai antibiótico para celulite. Os negativos do meio derrubam a infecção: pele íntegra sem porta de entrada, sem febre, leucócitos normais, PCR quase normal e, sobretudo, eritema que some com a elevação do membro (na celulite ele persiste). Neuropatia grave, trauma mínimo, dor desproporcionalmente pequena e diferença de temperatura acima de 2 °C entre os pés compõem a neuroartropatia de Charcot ativa. A radiografia normal não afasta: na fase inicial (estágio 0) as alterações só aparecem na ressonância. O tratamento não espera a imagem, porque cada dia de carga sobre o pé ativo pode colapsar o mediopé: imobilização com gesso de contato total (ou órtese de joelho a tornozelo não removível) e retirada da carga, mantidos até a temperatura se igualar, com ressonância para estadiar.",
+  "comentarios": {
+   "A": "Errada. Anti-inflamatório não interrompe a destruição óssea e esperar 3 meses andando sobre o pé ativo é o caminho para o pé em mata-borrão; só seria aceitável em entorse simples sem neuropatia.",
+   "B": "Correta. Charcot ativo suspeito (neuropatia, pé quente com diferença acima de 2 °C, sem infecção) exige descarga imediata com gesso de contato total, mesmo com radiografia normal.",
+   "C": "Errada. Biópsia óssea é para osteomielite suspeita, em geral sob úlcera; sem ferida nem marcadores inflamatórios, é procedimento a mais e atrasa a descarga.",
+   "D": "Errada. É a armadilha: celulite teria porta de entrada, febre ou leucocitose, e o eritema não sumiria com a elevação do membro."
+  },
+  "para_levar": "Diabético com neuropatia e pé quente, vermelho e inchado sem ferida é Charcot até prova em contrário: descarga imediata com gesso de contato total, sem esperar a radiografia mudar.",
+  "referencias": "IWGDF/IDSA 2023 (Guidelines on the diagnosis and treatment of active Charcot neuro-osteoarthropathy); SBD 2024 (Diretriz de pé diabético).",
+  "tags": [
+   "Complicações Crônicas do Diabetes (CM)"
+  ],
+  "sourceQuestionId": "3162b4f059cbc04",
+  "alvo": "Padrão de fazer mais (antibiótico, biópsia) e ignorar o negativo do meio que muda o diagnóstico."
+ },
+ {
+  "id": "S6-END-05",
+  "simulado": 6,
+  "area": "Endocrinologia",
+  "titulo": "Hiperparatireoidismo normocalcêmico: excluir deficiência de vitamina D antes de localizar a paratireoide",
+  "arma": "Rótulo verdadeiro",
+  "comando": "próximo exame",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 63 anos, com osteoporose diagnosticada há 2 meses (T-escore de -2,7 no colo do fêmur), sem fraturas, é encaminhada por PTH elevado. Nega nefrolitíase, uso de lítio ou de tiazídico. Refere dieta pobre em laticínios e pouca exposição solar; usa omeprazol há 6 anos. Exames: cálcio total 9,6 mg/dL (VR 8,5 a 10,2), cálcio iônico 1,22 mmol/L (VR 1,12 a 1,32), albumina 4,1 g/dL, fósforo 2,9 mg/dL, PTH 112 pg/mL (VR 15 a 65), creatinina 0,8 mg/dL (TFG estimada de 78 mL/min/1,73 m²), fosfatase alcalina no limite superior, calciúria de 24 horas 72 mg. Para seguir a investigação, o próximo exame a ser solicitado é:",
+  "alternativas": {
+   "A": "25-hidroxivitamina D sérica",
+   "B": "Cintilografia com sestamibi",
+   "C": "Ultrassonografia cervical",
+   "D": "Fosfatase alcalina óssea"
+  },
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "Refere dieta pobre em laticínios e pouca exposição solar",
+  "resolucao": "Osteoporose com PTH alto é rótulo verdadeiro de hiperparatireoidismo primário, e o reflexo é localizar o adenoma. Mas o cálcio total e o iônico estão normais, e PTH alto com cálcio normal só vira hiperparatireoidismo primário normocalcêmico depois de excluídas as causas secundárias: deficiência de vitamina D (25-OH-D abaixo de 30 ng/mL), TFG abaixo de 60, diuréticos de alça, lítio, tiazídico, hipercalciúria renal e má absorção. Esta paciente tem três pistas de hiperparatireoidismo secundário: pouca ingestão de cálcio, pouca exposição solar e calciúria baixa (72 mg/24 h), além de inibidor de bomba de prótons por anos. O próximo passo é dosar a 25-hidroxivitamina D e, se baixa, repor até acima de 30 e repetir PTH e cálcio. Imagem de paratireoide não faz diagnóstico, só localiza, e é pedida apenas quando houver indicação cirúrgica.",
+  "comentarios": {
+   "A": "Correta. PTH alto com cálcio normal exige excluir deficiência de vitamina D antes de chamar de primário; a calciúria baixa e a dieta pobre em cálcio apontam para causa secundária.",
+   "B": "Errada. É a armadilha: o sestamibi localiza um adenoma já diagnosticado e com indicação cirúrgica; feito agora, pode mostrar captação inespecífica em paciente sem hiperparatireoidismo primário.",
+   "C": "Errada. Também é exame de localização, pré-operatório, e não de diagnóstico; não resolve se o PTH alto é secundário.",
+   "D": "Errada. Marca a remodelação óssea, que estará alta em qualquer hiperparatireoidismo; não distingue primário de secundário."
+  },
+  "para_levar": "Hiperparatireoidismo normocalcêmico é diagnóstico de exclusão: dose 25-OH-vitamina D, avalie TFG, drogas e calciúria antes de qualquer imagem de paratireoide.",
+  "referencias": "Fifth International Workshop on Primary Hyperparathyroidism, J Bone Miner Res 2022; Bilezikian JP et al.",
+  "tags": [
+   "Hiperparatireoidismo Primário (Clínica Médica) (CM)",
+   "Hiperparatireoidismo Secundário (Clínica Médica) (CM)"
+  ],
+  "sourceQuestionId": "46fbcc28ebb219b",
+  "alvo": "Próximo exame (pior comando dele): exame de localização antes do exame simples que define a causa."
+ }
+]

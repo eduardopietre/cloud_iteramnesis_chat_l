@@ -1,0 +1,171 @@
+[
+ {
+  "id": "S9-END-01",
+  "simulado": 9,
+  "area": "Endocrinologia",
+  "titulo": "Acromegalia em uso de pegvisomanto: o GH sobe por efeito da droga, e o controle se lê pelo IGF-1",
+  "arma": "Omissão",
+  "comando": "conduta",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 49 anos tem acromegalia por macroadenoma operado há 2 anos, com resíduo tumoral no seio cavernoso. Usou octreotida de liberação prolongada em dose máxima por 1 ano sem normalizar o IGF-1 e, há 6 meses, passou a usar pegvisomanto em monoterapia. Refere melhora da sudorese, da cefaleia e das parestesias. Glicemia de jejum caiu de 162 para 108 mg/dL. Exames atuais: IGF-1 de 1,0 vez o limite superior para a idade (antes, 2,4 vezes), GH sérico 14 ng/mL (antes do pegvisomanto, 6 ng/mL), AST e ALT normais. Ressonância de sela há 1 mês: resíduo de 8 mm, sem mudança em relação ao exame de 1 ano antes. A conduta mais adequada neste momento é:",
+  "alternativas": {
+   "A": "Manter o esquema e seguir pelo IGF-1",
+   "B": "Aumentar a dose do pegvisomanto",
+   "C": "Radioterapia estereotáxica do resíduo",
+   "D": "Nova cirurgia transesfenoidal"
+  },
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "IGF-1 de 1,0 vez o limite superior para a idade",
+  "resolucao": "GH que mais que dobrou parece doença fora de controle ou tumor crescendo, e puxa aumentar a dose, irradiar ou reoperar. Mas o pegvisomanto é antagonista do receptor do GH: bloqueia a ação periférica e a produção de IGF-1, e com isso retira a retroalimentação negativa, de modo que o GH circulante sobe (além de o ensaio poder sofrer interferência). Por isso, sob pegvisomanto, o GH não serve para avaliar o controle; o marcador é o IGF-1, e aqui ele normalizou, com melhora clínica e glicêmica (o pegvisomanto também melhora a sensibilidade à insulina). A segurança se acompanha por transaminases e por ressonância periódica, porque a droga não age sobre o tumor; a ressonância mostrou resíduo estável. Nada há a acrescentar: manter a dose e seguir pelo IGF-1.",
+  "comentarios": {
+   "A": "Correta. IGF-1 normalizado, melhora clínica, transaminases normais e resíduo estável na ressonância: a doença está controlada, e o GH alto é efeito esperado da droga.",
+   "B": "Errada. É a armadilha: a dose se titula pelo IGF-1, que já está normal; aumentar por causa do GH só eleva o risco de hepatotoxicidade.",
+   "C": "Errada. Radioterapia é terceira linha para doença não controlada ou resíduo em crescimento; nenhum dos dois ocorre.",
+   "D": "Errada. Reoperação se considera com resíduo acessível e doença não controlada; o resíduo está no seio cavernoso, estável, e o IGF-1 está normal."
+  },
+  "para_levar": "Sob pegvisomanto, o GH sobe e não mede controle: titule pelo IGF-1 e vigie transaminases e o tamanho do tumor na ressonância.",
+  "referencias": "Giustina A et al., Pituitary Society/Acromegaly Consensus Group 2021 (treatment of acromegaly); Endocrine Society 2014 (Acromegaly guideline).",
+  "tags": [
+   "Acromegalia (CM)",
+   "Hipófise (CM)"
+  ],
+  "sourceQuestionId": "d8126ac27da0796",
+  "alvo": "Omissão (não mexer no que está controlado) e o exame lido sem saber o que a droga faz com ele; acromegalia, errada no app."
+ },
+ {
+  "id": "S9-END-02",
+  "simulado": 9,
+  "area": "Endocrinologia",
+  "titulo": "Hiperglicemia de jejum que piora ao aumentar a NPH do jantar, com hipoglicemia às 3 horas: reduzir e adiar a NPH",
+  "arma": "Grade X / Y",
+  "comando": "diagnóstico",
+  "nivel": "média",
+  "enunciado": "Homem de 34 anos, com diabetes tipo 1, usa insulina NPH 18 unidades antes do café e 14 unidades antes do jantar (às 19 horas), além de insulina regular antes das refeições. Há 1 mês, por glicemias de jejum em torno de 190 mg/dL, a NPH do jantar foi aumentada de 10 para 14 unidades; desde então, as glicemias de jejum pioraram para 230 a 260 mg/dL. Acorda com cefaleia, roupa de cama molhada de suor e pesadelos frequentes. A pedido do médico, mediu a glicemia capilar às 3 horas em três noites: 48, 52 e 55 mg/dL. HbA1c de 7,6%. O fenômeno responsável e a conduta mais adequada são, respectivamente:",
+  "alternativas": {
+   "A": "Fenômeno do alvorecer / aumentar a NPH do jantar",
+   "B": "Hipoglicemia com rebote / reduzir e adiar a NPH",
+   "C": "Fenômeno do alvorecer / reduzir e adiar a NPH",
+   "D": "Hipoglicemia com rebote / aumentar a NPH do jantar"
+  },
+  "gabarito": "B",
+  "armadilha": "A",
+  "dado_decisivo": "48, 52 e 55 mg/dL",
+  "resolucao": "Glicemia de jejum alta é, por reflexo, insulina basal insuficiente, e a resposta que o próprio caso já tentou foi aumentar a NPH do jantar. A cronologia mostra que isso piorou o jejum. O dado que decide está na madrugada: glicemias de 48 a 55 mg/dL às 3 horas, com sudorese, pesadelos e cefaleia ao acordar, que são hipoglicemia noturna. A NPH aplicada às 19 horas tem pico entre 1 e 3 horas da manhã e acaba antes do amanhecer: produz hipoglicemia na madrugada e deixa o jejum descoberto, somado à resposta contrarreguladora e aos carboidratos usados para corrigir (o efeito de rebote clássico de Somogyi é hoje considerado raro, mas a hipoglicemia noturna é o problema real). No fenômeno do alvorecer, a glicemia das 3 horas é normal ou alta. A conduta é reduzir a NPH do jantar e transferi-la para a hora de dormir, ou trocar por análogo basal de ação longa, que tem menos hipoglicemia noturna.",
+  "comentarios": {
+   "A": "Errada. É a armadilha: no alvorecer a glicemia das 3 horas é normal ou alta; aqui é de 48 a 55, e aumentar a NPH já piorou o quadro.",
+   "B": "Correta. Hipoglicemia às 3 horas com sintomas noturnos e jejum alto que piorou ao aumentar a NPH do jantar: reduzir a dose e passá-la para a hora de dormir (ou usar análogo basal).",
+   "C": "Errada. A conduta seria razoável, mas o diagnóstico não: o alvorecer não tem hipoglicemia de madrugada.",
+   "D": "Errada. O fenômeno está certo, mas aumentar a NPH aprofunda a hipoglicemia noturna, que é a causa do problema."
+  },
+  "para_levar": "Jejum alto em quem usa NPH no jantar: meça a glicemia das 3 horas antes de subir a dose; se baixa, reduza e passe a NPH para a hora de dormir ou troque por análogo basal.",
+  "referencias": "SBD 2024 (Insulinoterapia no diabetes tipo 1); ADA Standards of Care in Diabetes 2026, seções 6 e 9.",
+  "tags": [
+   "Insulinoterapia (CM)"
+  ],
+  "sourceQuestionId": "57b75df6798dc32",
+  "alvo": "Grade com dois eixos; o hábito de escalar a conduta (mais insulina) sem medir o dado que decide."
+ },
+ {
+  "id": "S9-END-03",
+  "simulado": 9,
+  "area": "Endocrinologia",
+  "titulo": "Plenitude, vômitos tardios e hipoglicemia pós-prandial no tipo 1 após iniciar semaglutida: esvaziamento retardado pela droga, antes de rotular gastroparesia",
+  "arma": "Cronologia",
+  "comando": "etiologia",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 45 anos tem diabetes tipo 1 há 26 anos, com retinopatia tratada com laser, neuropatia periférica e hipotensão postural leve. Usa glargina e insulina asparte nas refeições. Até 1 ano atrás não tinha sintomas digestivos. Por obesidade (IMC 32 kg/m²), outro médico iniciou semaglutida subcutânea há 4 meses, hoje em 1 mg por semana. Há 3 meses tem saciedade precoce, plenitude, náuseas e vômitos de alimentos ingeridos muitas horas antes; perdeu 9 kg. Passou a ter hipoglicemias cerca de 1 hora após o bolus das refeições e hiperglicemias no fim da tarde. Endoscopia: restos alimentares no estômago, sem obstrução nem úlcera. Sódio, potássio e cortisol matinal normais; anticorpo antitransglutaminase negativo. A causa mais provável do quadro digestivo é:",
+  "alternativas": {
+   "A": "Gastroparesia diabética autonômica",
+   "B": "Insuficiência adrenal autoimune",
+   "C": "Doença celíaca associada",
+   "D": "Esvaziamento retardado pela semaglutida"
+  },
+  "gabarito": "D",
+  "armadilha": "A",
+  "dado_decisivo": "iniciou semaglutida subcutânea há 4 meses",
+  "resolucao": "Diabetes tipo 1 de 26 anos com retinopatia, neuropatia periférica e hipotensão postural é o terreno da gastroparesia autonômica, e esse rótulo verdadeiro puxa metoclopramida e cintilografia. A cronologia decide: até 1 ano atrás não havia sintoma digestivo, e o quadro começou um mês após iniciar semaglutida, que retarda o esvaziamento gástrico (efeito dose dependente, que pode ser intenso). O descompasso entre o bolus de insulina e a absorção do alimento explica a hipoglicemia 1 hora após a refeição e a hiperglicemia tardia. A conduta é suspender a semaglutida e reavaliar; a cintilografia de esvaziamento só tem valor com o agonista de GLP-1 suspenso (várias semanas para a forma semanal), senão o exame confirma a droga, e não a neuropatia. O cortisol normal e a antitransglutaminase negativa afastam as autoimunidades associadas.",
+  "comentarios": {
+   "A": "Errada. É a armadilha: o terreno favorece, mas o início um mês após a semaglutida, sem sintomas antes, aponta a droga; a gastroparesia só pode ser afirmada após retirá-la.",
+   "B": "Errada. Addison causa náuseas, perda de peso e queda da necessidade de insulina no tipo 1, mas o sódio, o potássio e o cortisol matinal estão normais.",
+   "C": "Errada. Doença celíaca se associa ao tipo 1 e altera a absorção, mas a antitransglutaminase é negativa e a endoscopia mostra estase, e não atrofia.",
+   "D": "Correta. Sintomas de estase iniciados um mês após a semaglutida, sem queixa digestiva prévia: o agonista de GLP-1 retarda o esvaziamento e desalinha o bolus de insulina."
+  },
+  "para_levar": "Sintomas de gastroparesia em quem usa agonista de GLP-1: suspenda a droga antes de rotular gastroparesia diabética ou pedir cintilografia de esvaziamento.",
+  "referencias": "ADA Standards of Care in Diabetes 2026, seções 9 e 12; ACG 2022 (Clinical guideline: gastroparesis).",
+  "tags": [
+   "Análogos GLP1 (CM)",
+   "Complicações Crônicas do Diabetes (CM)"
+  ],
+  "sourceQuestionId": "27ed1617722c631",
+  "alvo": "Droga em uso ignorada diante de rótulo forte (DM1 antigo com neuropatia); cronologia como dado que decide."
+ },
+ {
+  "id": "S9-END-04",
+  "simulado": 9,
+  "area": "Endocrinologia",
+  "titulo": "Virilização rápida em mulher com diagnóstico prévio de SOP, DHEA-S normal: tumor ovariano, ultrassonografia transvaginal primeiro",
+  "arma": "Rótulo verdadeiro",
+  "comando": "próximo exame",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 34 anos tem diagnóstico de síndrome dos ovários policísticos desde os 17 anos (ciclos irregulares, acne e hirsutismo leve) e usa anticoncepcional oral de forma irregular. Há 6 meses notou piora rápida dos pelos (escore de Ferriman-Gallwey de 24; era 9), engrossamento da voz, entradas na região temporal e aumento do clitóris; está sem menstruar há 4 meses. PA 122 x 78 mmHg, IMC 25 kg/m², sem estrias violáceas nem fraqueza proximal. Exames: beta-hCG negativo, testosterona total 248 ng/dL (VR até 45), DHEA-S 210 mcg/dL (VR 35 a 430), 17-OH-progesterona basal 110 ng/dL (VR até 200), prolactina e TSH normais. O próximo exame mais adequado é:",
+  "alternativas": {
+   "A": "Teste de estímulo com ACTH",
+   "B": "Tomografia de adrenais",
+   "C": "Ultrassonografia transvaginal",
+   "D": "Supressão com dexametasona 1 mg"
+  },
+  "gabarito": "C",
+  "armadilha": "B",
+  "dado_decisivo": "DHEA-S 210 mcg/dL (VR 35 a 430)",
+  "resolucao": "O diagnóstico de SOP desde a adolescência é verdadeiro e convida a atribuir tudo a ele. Mas a SOP dá hiperandrogenismo leve e estável; virilização (voz grave, calvície temporal, clitoromegalia) instalada em meses e testosterona acima de 150 a 200 ng/dL indicam tumor secretor de andrógeno até prova em contrário. A pergunta seguinte é onde ele está, e os exames do caso respondem: DHEA-S normal praticamente afasta origem adrenal (os tumores adrenais virilizantes produzem DHEA-S em excesso, como no carcinoma), e 17-OH-progesterona normal afasta hiperplasia adrenal. A fonte provável é o ovário (tumor de células de Sertoli-Leydig, de células esteroides ou do hilo), e o primeiro exame é a ultrassonografia transvaginal, seguida de ressonância de pelve se ela não localizar.",
+  "comentarios": {
+   "A": "Errada. O teste com ACTH avalia hiperplasia adrenal congênita não clássica com 17-OH-progesterona basal limítrofe; aqui ela é normal e o quadro é de tumor.",
+   "B": "Errada. É a armadilha: a imagem adrenal seria o passo com DHEA-S elevado; com DHEA-S normal e testosterona muito alta, a fonte provável é ovariana.",
+   "C": "Correta. Virilização rápida com testosterona acima de 200 e DHEA-S normal aponta tumor ovariano; a ultrassonografia transvaginal é o primeiro exame de localização.",
+   "D": "Errada. Rastreia Cushing, sem fenótipo aqui (sem estrias, sem miopatia, normotensa), e não localiza a fonte de andrógeno."
+  },
+  "para_levar": "Virilização em meses com testosterona acima de 150 a 200 é tumor até prova em contrário: DHEA-S alto aponta adrenal (tomografia), DHEA-S normal aponta ovário (ultrassonografia transvaginal).",
+  "referencias": "Endocrine Society 2018 (Evaluation and treatment of hirsutism in premenopausal women); Endocrine Society/AE-PCOS 2023 (International evidence-based guideline for PCOS).",
+  "tags": [
+   "Adrenal (CM)",
+   "Hipogonadismo Masculino e Feminino (CM)"
+  ],
+  "sourceQuestionId": "a0dbf02b2d6adaa",
+  "alvo": "Rótulo verdadeiro (SOP prévia) e o exame que decide (DHEA-S) lido como enfeite; mesmo tema da UERJ que ele errou, com outra fonte e outro exame."
+ },
+ {
+  "id": "S9-END-05",
+  "simulado": 9,
+  "area": "Endocrinologia",
+  "titulo": "Tireotoxicose no primeiro trimestre com hiperêmese e TRAb negativo: transitória por hCG, sem antitireoidiano",
+  "arma": "Negativo no meio",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 27 anos, primigesta com 9 semanas, está internada por hiperêmese gravídica: vomita várias vezes ao dia há 2 semanas e perdeu 4 kg. Refere palpitações leves. Nunca teve doença tireoidiana. Exame: FC 104 bpm, PA 110 x 70 mmHg, mucosas secas, tireoide de volume normal e sem sopro, sem exoftalmia, sem tremor de extremidades. Exames: TSH abaixo de 0,01 mUI/L, T4 livre 2,3 ng/dL (VR 0,9 a 1,8), T3 total 190 ng/dL, TRAb negativo, beta-hCG 182.000 mUI/mL, potássio 3,2 mEq/L, cetonúria 3+. Ultrassonografia obstétrica: gestação única tópica, compatível com a idade gestacional. A conduta mais adequada em relação à tireoide é:",
+  "alternativas": {
+   "A": "Metimazol em dose baixa",
+   "B": "Tireoidectomia no segundo trimestre",
+   "C": "Propiltiouracil em dose baixa",
+   "D": "Suporte e repetir a função tireoidiana"
+  },
+  "gabarito": "D",
+  "armadilha": "C",
+  "dado_decisivo": "TRAb negativo",
+  "resolucao": "TSH suprimido e T4 livre alta no primeiro trimestre puxam o reflexo de quem sabe a regra da gestação: propiltiouracil, que é o antitireoidiano preferido até 16 semanas. O que decide são os negativos do meio: sem história tireoidiana, sem bócio, sem orbitopatia e, sobretudo, TRAb negativo. O hCG, estruturalmente parecido com o TSH, estimula o receptor tireoidiano no pico do primeiro trimestre, e o efeito é maior com hCG muito alto e hiperêmese. É a tireotoxicose gestacional transitória, que se resolve espontaneamente até a 14ª a 18ª semana, quando o hCG cai. A conduta é tratar a hiperêmese (hidratação, antiemético, reposição de potássio), betabloqueador por curto período apenas se os sintomas adrenérgicos incomodarem, e repetir a função tireoidiana em 3 a 4 semanas. Antitireoidianos não estão indicados e expõem o feto a risco sem benefício.",
+  "comentarios": {
+   "A": "Errada. Metimazol no primeiro trimestre tem risco de embriopatia e, de qualquer forma, não há doença de Graves para tratar.",
+   "B": "Errada. Cirurgia na gestação é reservada para Graves que não se controla ou não tolera antitireoidianos; não há doença autônoma aqui.",
+   "C": "Errada. É a armadilha: o propiltiouracil é a escolha do primeiro trimestre quando há Graves; com TRAb negativo, sem bócio e com hiperêmese, a tireotoxicose é transitória por hCG.",
+   "D": "Correta. Hiperêmese, hCG muito alto, TRAb negativo e tireoide normal: tireotoxicose gestacional transitória, com suporte e nova dosagem em semanas."
+  },
+  "para_levar": "Tireotoxicose no primeiro trimestre com hiperêmese, sem bócio, sem orbitopatia e com TRAb negativo é efeito do hCG: suporte, sem antitireoidiano, e repetir a função tireoidiana.",
+  "referencias": "ATA 2017 (Guidelines for the diagnosis and management of thyroid disease during pregnancy and the postpartum); FEBRASGO 2021.",
+  "tags": [
+   "Hipertireoidismo e Tireotoxicose (CM)",
+   "Tireotoxicose (CM)"
+  ],
+  "sourceQuestionId": "2a8f2c90a87b8f6",
+  "alvo": "Omissão disfarçada (tratar o número) e o negativo do meio (TRAb) que derruba a doença de manual."
+ }
+]

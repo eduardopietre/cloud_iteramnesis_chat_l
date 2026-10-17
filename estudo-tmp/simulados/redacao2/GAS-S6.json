@@ -1,0 +1,238 @@
+[
+  {
+    "id": "S6-GAS-01",
+    "simulado": 6,
+    "area": "Gastroenterologia",
+    "titulo": "Impactação alimentar em jovem atópico com endoscopia de aspecto normal: biópsias esofágicas escalonadas antes de pHmetria ou manometria",
+    "arma": "Rótulo verdadeiro",
+    "comando": "próximo exame",
+    "nivel": "difícil",
+    "enunciado": "Homem de 24 anos, com rinite alérgica e asma leve em uso de budesonida-formoterol sob demanda, procura o ambulatório após o segundo episódio de impactação de carne no esôfago em um ano; no último, há três semanas, o bolo foi retirado por endoscopia de urgência, que descreveu \"mucosa esofágica de aspecto normal, sem estenose\", sem biópsias. Relata pirose ocasional e, desde então, usa omeprazol 20 mg/dia, com melhora parcial da pirose, mas segue comendo devagar e bebendo água para \"empurrar\" a comida. Nega emagrecimento, odinofagia e uso de anti-inflamatórios. Exame físico normal; IMC 23 kg/m². Hemograma com eosinófilos de 620/mm³. O médico assistente mantém o diagnóstico de doença do refluxo gastroesofágico. O próximo exame mais adequado é:",
+    "alternativas": {
+      "A": "Endoscopia com biópsias de esôfago proximal e distal",
+      "B": "pHmetria esofágica de 24 horas sem omeprazol",
+      "C": "Manometria esofágica de alta resolução",
+      "D": "Esofagograma baritado com pastilha de bário"
+    },
+    "gabarito": "A",
+    "armadilha": "B",
+    "dado_decisivo": "sem biópsias",
+    "resolucao": "A pirose verdadeira e a resposta parcial ao omeprazol sustentam o rótulo de refluxo, e quem compra o rótulo pede pHmetria para documentá-lo. Mas impactação alimentar recorrente em homem jovem e atópico é esofagite eosinofílica até prova em contrário, e em 10 a 30% dos casos a mucosa parece normal à endoscopia. A endoscopia de urgência foi feita sem biópsias, e é esse o buraco do caso: o diagnóstico exige pelo menos 15 eosinófilos por campo de grande aumento, em pelo menos seis fragmentos de dois níveis do esôfago (proximal e distal). O IBP em curso não impede o exame, mas pode reduzir a contagem; o relevante é documentar a doença. Manometria e esofagograma investigam motilidade e estenose, degraus seguintes que só se justificam com biópsias normais. A eosinofilia periférica é comum na doença, mas não é critério.",
+    "comentarios": {
+      "A": "Correta. Impactação recorrente em atópico com endoscopia prévia sem biópsias: o diagnóstico de esofagite eosinofílica depende de biópsias escalonadas, mesmo com mucosa normal.",
+      "B": "Errada. Seria o exame da pirose refratária com endoscopia e biópsias normais; aqui a disfagia com impactação é a queixa dominante e ainda não houve biópsia.",
+      "C": "Errada. Investiga acalasia e espasmo, disfagia que costuma ser também para líquidos; vem depois de biópsias negativas.",
+      "D": "Errada. Útil para estenose complexa ou anel antes de dilatar, mas não define esofagite eosinofílica e a endoscopia já não mostrou estenose."
+    },
+    "para_levar": "Impactação alimentar em jovem atópico: biópsias de esôfago proximal e distal (seis ou mais fragmentos), mesmo com mucosa normal; 15 ou mais eosinófilos por campo fecham o diagnóstico.",
+    "referencias": "ACG Clinical Guideline: Eosinophilic Esophagitis (2025); AGA/JTF Guidelines for the Management of Eosinophilic Esophagitis (2020); consenso AGREE (2018)",
+    "tags": [
+      "Disfagias, Esofagite Eosinofílica e Acalasias (CM)"
+    ],
+    "sourceQuestionId": "6a795fe180aea91",
+    "alvo": "Rótulo verdadeiro (refluxo) e exame do degrau seguinte (pHmetria, manometria) antes do exame que define."
+  },
+  {
+    "id": "S6-GAS-02",
+    "simulado": 6,
+    "area": "Gastroenterologia",
+    "titulo": "Tumor neuroendócrino gástrico tipo 1 na gastrite autoimune: ressecção endoscópica e vigilância, sem gastrectomia",
+    "arma": "Omissão",
+    "comando": "conduta",
+    "nivel": "difícil",
+    "enunciado": "Mulher de 58 anos, com hipotireoidismo por tireoidite de Hashimoto, é investigada por anemia macrocítica (Hb 10,1 g/dL, VCM 112 fL) com vitamina B12 sérica de 120 pg/mL. A endoscopia mostra mucosa de corpo e fundo atrófica e três lesões polipoides de 5, 6 e 8 mm no corpo gástrico; o antro é normal. A biópsia das lesões mostra tumor neuroendócrino bem diferenciado, Ki-67 de 1%; a das áreas planas mostra gastrite atrófica de corpo com metaplasia intestinal, e a pesquisa de H. pylori é negativa. Anticorpo anticélula parietal positivo; gastrina sérica de 1.150 pg/mL (referência até 100). A ecoendoscopia mostra lesões restritas à mucosa e submucosa, sem linfonodos, e a TC de abdome não tem lesões hepáticas. Além da reposição de B12, a conduta mais adequada para as lesões é:",
+    "alternativas": {
+      "A": "Gastrectomia total com linfadenectomia",
+      "B": "Antrectomia para suprimir a gastrina",
+      "C": "Ressecção endoscópica e vigilância endoscópica",
+      "D": "Análogo de somatostatina de depósito"
+    },
+    "gabarito": "C",
+    "armadilha": "A",
+    "dado_decisivo": "Ki-67 de 1%",
+    "resolucao": "A palavra tumor neuroendócrino e a gastrina acima de 1.000 puxam para tratamento grande, e é o reflexo de fazer mais. Mas o quadro tem tudo do tipo 1: gastrite atrófica autoimune de corpo, anemia por B12, anticélula parietal positivo, hipergastrinemia secundária à acloridria, lesões múltiplas e menores que 1 cm, grau 1 (Ki-67 de 1%) e sem invasão da muscular própria nem metástase. O tipo 1 tem risco de metástase muito baixo e sobrevida igual à da população geral. Lesões até 1 a 2 cm se ressecam por endoscopia (ou apenas se vigiam, se menores que 1 cm), com endoscopia de controle a cada 1 a 2 anos. Gastrectomia é para o tipo 3, esporádico e com gastrina normal, ou para invasão profunda. Antrectomia e análogo de somatostatina são opções para recidiva múltipla e incontrolável, não para o primeiro achado.",
+    "comentarios": {
+      "A": "Errada. É a conduta do tumor neuroendócrino gástrico tipo 3, esporádico, com gastrina normal e maior que 2 cm; aqui as lesões são pequenas, grau 1 e restritas à submucosa.",
+      "B": "Errada. Remove a fonte de gastrina e pode ser considerada em lesões múltiplas recorrentes; é degrau posterior, não a primeira conduta.",
+      "C": "Correta. Tipo 1 grau 1, menor que 1 cm, sem invasão nem metástase: ressecção endoscópica e endoscopia de vigilância.",
+      "D": "Errada. Reduz a gastrina e o número de lesões, mas é reservado a doença multifocal recorrente; não substitui a ressecção nem é necessário aqui."
+    },
+    "para_levar": "Tumor neuroendócrino gástrico tipo 1 (gastrite autoimune, gastrina alta, lesões pequenas e múltiplas): ressecção endoscópica e vigilância; cirurgia é para o tipo 3 ou invasão profunda.",
+    "referencias": "ENETS Guidance Paper for Gastroduodenal Neuroendocrine Tumours (2023); ESMO Clinical Practice Guideline Gastroenteropancreatic NETs (2020)",
+    "tags": [
+      "tumor neuroendócrino de estômago (CIR)",
+      "H.pylori, Úlcera péptica e Gastrite Atrófica (CM)"
+    ],
+    "sourceQuestionId": null,
+    "alvo": "Porte da conduta: tratar com cirurgia o que se resolve por endoscopia."
+  },
+  {
+    "id": "S6-GAS-03",
+    "simulado": 6,
+    "area": "Hepatologia",
+    "titulo": "Hepatite crônica no transplantado renal com anti-HEV IgM negativo: HEV-RNA por PCR",
+    "arma": "Negativo no meio",
+    "comando": "próximo exame",
+    "nivel": "extremamente difícil",
+    "enunciado": "Homem de 52 anos, transplantado renal há 4 anos, em uso de tacrolimo (nível sérico de 6 ng/mL, na faixa-alvo), micofenolato de mofetila e prednisona 5 mg/dia, sem medicação nova há mais de um ano, tem ALT entre 160 e 240 U/L em todas as dosagens dos últimos 5 meses (antes, sempre normal). Está assintomático; não consome álcool. Exames: AST 140 U/L, fosfatase alcalina e bilirrubinas normais, INR 1,0, creatinina estável em 1,3 mg/dL. HBsAg e anti-HBc não reagentes; anti-HCV não reagente e HCV-RNA indetectável; CMV-PCR indetectável; anti-HEV IgM e IgG não reagentes. Ultrassonografia com Doppler hepático normal. O próximo exame mais adequado é:",
+    "alternativas": {
+      "A": "Biópsia hepática percutânea",
+      "B": "HEV-RNA por PCR no sangue",
+      "C": "Colangiorressonância magnética",
+      "D": "FAN e anticorpo antimúsculo liso"
+    },
+    "gabarito": "B",
+    "armadilha": "A",
+    "dado_decisivo": "anti-HEV IgM e IgG não reagentes",
+    "resolucao": "A sorologia negativa para hepatite E parece encerrar a hipótese, e com as virais descartadas sobra a biópsia para procurar rejeição, droga ou hepatite autoimune. Mas em imunossuprimidos a sorologia anti-HEV tem baixa sensibilidade (o paciente pode não produzir anticorpos), e a hepatite E genótipo 3, adquirida por carne suína malcozida, é a principal causa de hepatite crônica viral nova em transplantados de órgão sólido, com risco de cirrose em poucos anos. O diagnóstico nesse grupo se faz por HEV-RNA no sangue ou nas fezes. Hepatite persistente por mais de 3 meses com PCR positivo define a forma crônica; o tratamento é reduzir a imunossupressão (principalmente o tacrolimo) e, sem clareamento, ribavirina por 3 meses. A biópsia viria se a PCR fosse negativa, e o nível de tacrolimo na faixa e a ausência de droga nova enfraquecem a hepatotoxicidade.",
+    "comentarios": {
+      "A": "Errada. Seria o passo para hepatite crônica sem causa após exames não invasivos completos; aqui falta o teste que o imunossuprimido exige para hepatite E.",
+      "B": "Correta. No imunossuprimido a sorologia anti-HEV pode ser negativa; a PCR para HEV-RNA define a hepatite E crônica.",
+      "C": "Errada. Investiga colestase por doença biliar; o padrão aqui é hepatocelular, com fosfatase alcalina normal e Doppler normal.",
+      "D": "Errada. Hepatite autoimune de novo pode ocorrer, mas é menos provável que hepatite E em transplantado e não seria o primeiro exame com a PCR viral pendente."
+    },
+    "para_levar": "Transplantado com ALT elevada persistente: pesquisar hepatite E por PCR (HEV-RNA), porque a sorologia pode ser negativa na imunossupressão.",
+    "referencias": "EASL Clinical Practice Guidelines on hepatitis E virus infection (2018); KDIGO Transplant Recipient Guideline (2009, atualização de infecções 2020); AST Infectious Diseases Guidelines (2019)",
+    "tags": [
+      "Hepatites Virais (CM)",
+      "Infecção em Imunossuprimido (CM)"
+    ],
+    "sourceQuestionId": null,
+    "alvo": "Exame tranquilizador (sorologia negativa no imunossuprimido) lido como resposta final."
+  },
+  {
+    "id": "S6-GAS-04",
+    "simulado": 6,
+    "area": "Hepatologia",
+    "titulo": "Hepatite alcoólica com MELD 18 e Maddrey abaixo de 32: abstinência e nutrição, sem corticoide",
+    "arma": "Limiar",
+    "comando": "conduta",
+    "nivel": "difícil",
+    "enunciado": "Homem de 47 anos, etilista de cerca de 120 g de álcool por dia há 15 anos, com última dose há 5 dias, procura o pronto-socorro por icterícia progressiva há 3 semanas. Exame: Tax 37,7 °C, FC 98 bpm, PA 118 x 74 mmHg, icterícia 2+/4+, hepatomegalia dolorosa, sem ascite ao exame, sem flapping. Exames: bilirrubina total 4,0 mg/dL, AST 210 U/L, ALT 82 U/L, GGT 640 U/L, tempo de protrombina 17 s (controle 12 s), INR 1,6, albumina 3,0 g/dL, creatinina 0,9 mg/dL, sódio 134 mEq/L, leucócitos 13.500/mm³. MELD 18. Hemoculturas, urocultura e radiografia de tórax sem alterações. Ultrassonografia: fígado aumentado e hiperecogênico, sem dilatação de vias biliares. A conduta mais adequada é:",
+    "alternativas": {
+      "A": "Pentoxifilina 400 mg três vezes ao dia",
+      "B": "Prednisolona 40 mg/dia por 28 dias",
+      "C": "Prednisolona com N-acetilcisteína intravenosa",
+      "D": "Abstinência e suporte nutricional, sem corticoide"
+    },
+    "gabarito": "D",
+    "armadilha": "B",
+    "dado_decisivo": "tempo de protrombina 17 s (controle 12 s)",
+    "resolucao": "Icterícia, AST maior que o dobro da ALT, leucocitose e febre baixa em etilista ativo fecham hepatite alcoólica, e o reflexo é prescrever prednisolona. Mas o corticoide só tem benefício na forma grave, definida por Maddrey de 32 ou mais ou MELD acima de 20. Aqui o Maddrey é 4,6 x (17 menos 12) mais 4,0, igual a 27, e o MELD é 18: hepatite alcoólica não grave, em que o corticoide aumenta infecção sem reduzir mortalidade. A conduta é abstinência (com tratamento do transtorno por uso de álcool), tiamina, aporte de 35 a 40 kcal/kg e 1,2 a 1,5 g/kg de proteína por dia, e reavaliação seriada, porque a doença pode se agravar nas semanas seguintes. A pentoxifilina não reduz mortalidade (STOPAH) e saiu das diretrizes, e a N-acetilcisteína só se soma à prednisolona na forma grave.",
+    "comentarios": {
+      "A": "Errada. Já foi alternativa ao corticoide, mas não reduziu mortalidade no STOPAH e não é recomendada em nenhuma gravidade.",
+      "B": "Errada. É a conduta da hepatite alcoólica grave (Maddrey de 32 ou mais, MELD acima de 20, sem infecção ativa); aqui o Maddrey é 27 e o MELD 18.",
+      "C": "Errada. A associação reduziu mortalidade em 1 mês apenas na forma grave; não se aplica à hepatite alcoólica não grave.",
+      "D": "Correta. Maddrey 27 e MELD 18 definem forma não grave: abstinência, tiamina, nutrição e vigilância, sem corticoide."
+    },
+    "para_levar": "Corticoide na hepatite alcoólica só com Maddrey de 32 ou mais ou MELD acima de 20, sem infecção ativa; abaixo disso, abstinência e nutrição.",
+    "referencias": "AASLD Practice Guidance: Alcohol-associated liver disease (2024); EASL Clinical Practice Guidelines: Management of alcohol-related liver disease (2018); ACG Guideline Alcohol-Associated Liver Disease (2024)",
+    "tags": [
+      "Hepatite Alcoólica (CM)"
+    ],
+    "sourceQuestionId": null,
+    "alvo": "Limiar numérico (Maddrey, MELD) que decide tratar ou não; tratar o que não precisa."
+  },
+  {
+    "id": "S6-GAS-05",
+    "simulado": 6,
+    "area": "Gastroenterologia",
+    "titulo": "Colecistite aguda acalculosa em paciente crítico instável: colecistostomia percutânea, e não colecistectomia",
+    "arma": "Grade X / Y",
+    "comando": "conduta",
+    "nivel": "difícil",
+    "enunciado": "Mulher de 66 anos está no 10º dia de UTI por choque séptico de foco pulmonar, em ventilação mecânica, nutrição parenteral total desde a admissão e noradrenalina 0,25 mcg/kg/min, que vinha em redução e voltou a subir há 24 horas. Recebe meropenem e vancomicina há 7 dias, com hemoculturas de controle negativas e radiografia de tórax em melhora. Hoje: Tax 38,6 °C, leucócitos 19.800/mm³, bilirrubina total 2,3 mg/dL, fosfatase alcalina 240 U/L. A ultrassonografia à beira do leito mostra vesícula distendida (11 x 5 cm), com parede de 5,5 mm com líquido pericolecístico, lama biliar, sem cálculos e sem dilatação de vias biliares. Quanto ao diagnóstico e à conduta, respectivamente:",
+    "alternativas": {
+      "A": "Colecistite aguda acalculosa / colecistostomia percutânea",
+      "B": "Colecistite aguda acalculosa / colecistectomia de urgência",
+      "C": "Lama biliar do jejum / manter e repetir ultrassonografia",
+      "D": "Lama biliar do jejum / ácido ursodesoxicólico"
+    },
+    "gabarito": "A",
+    "armadilha": "B",
+    "dado_decisivo": "parede de 5,5 mm com líquido pericolecístico",
+    "resolucao": "Lama e vesícula distendida são esperadas em quem está em jejum e nutrição parenteral há dias, e é fácil atribuir o achado ao jejum e procurar a febre em outro lugar. Mas parede espessada acima de 3,5 mm com líquido pericolecístico, febre nova, leucocitose e piora hemodinâmica num paciente crítico configuram colecistite aguda acalculosa, que evolui com gangrena e perfuração em até metade dos casos. Decidida a doença, a outra metade é o porte da intervenção: com noradrenalina em ascensão e ventilação mecânica, a colecistectomia de urgência tem mortalidade alta, e a colecistostomia percutânea guiada por imagem drena o foco à beira do leito com sucesso na maioria. A colecistectomia fica para depois da recuperação, se indicada, ou para gangrena e perfuração. O antibiótico em curso já cobre a flora biliar.",
+    "comentarios": {
+      "A": "Correta. Parede espessada com líquido pericolecístico e febre em paciente crítico é colecistite acalculosa; instável, drena-se por colecistostomia percutânea.",
+      "B": "Errada. O diagnóstico está certo, mas a colecistectomia é a conduta do paciente estável ou da perfuração; com choque em ascensão, o risco operatório é proibitivo.",
+      "C": "Errada. Seria a conduta da lama isolada sem inflamação; parede espessada com líquido pericolecístico e febre nova não são do jejum.",
+      "D": "Errada. O ursodesoxicólico não trata infecção nem inflamação da vesícula, e a hipótese de lama simples ignora os sinais inflamatórios."
+    },
+    "para_levar": "Colecistite acalculosa no paciente crítico instável: colecistostomia percutânea e antibiótico; colecistectomia só com estabilidade ou complicação.",
+    "referencias": "Tokyo Guidelines 2018 (TG18) para colecistite aguda; WSES Guidelines on acute calculous and acalculous cholecystitis (2020); ACR Appropriateness Criteria Right Upper Quadrant Pain (2022)",
+    "tags": [
+      "Colecistite",
+      "UTI - Terapia Intensiva (CM)"
+    ],
+    "sourceQuestionId": null,
+    "alvo": "Ler a imagem (parede e líquido) em vez do rótulo do jejum, e escolher o porte certo da intervenção."
+  },
+  {
+    "id": "S6-GAS-06",
+    "simulado": 6,
+    "area": "Oncologia",
+    "titulo": "Disfunção ventricular por trastuzumabe com FE abaixo de 40%: suspender temporariamente e iniciar cardioproteção",
+    "arma": "Limiar",
+    "comando": "conduta",
+    "nivel": "extremamente difícil",
+    "enunciado": "Mulher de 49 anos, com carcinoma ductal invasivo de mama HER2 positivo, estádio II, operada, recebeu doxorrubicina e ciclofosfamida (4 ciclos) e está no 5º mês de trastuzumabe adjuvante a cada 3 semanas. Ecocardiograma antes do trastuzumabe: fração de ejeção de 63%. No ecocardiograma de controle de hoje, realizado na véspera do próximo ciclo, a fração de ejeção de 37%, com hipocinesia difusa. Está assintomática, sem dispneia ou edema; PA 118 x 72 mmHg, FC 76 bpm, sem estertores, sem turgência jugular. BNP 210 pg/mL; troponina normal. A conduta mais adequada é:",
+    "alternativas": {
+      "A": "Manter o trastuzumabe sem mudanças",
+      "B": "Suspender definitivamente e não reintroduzir",
+      "C": "Suspender temporariamente e iniciar IECA e betabloqueador",
+      "D": "Manter o trastuzumabe com IECA e betabloqueador"
+    },
+    "gabarito": "C",
+    "armadilha": "D",
+    "dado_decisivo": "a fração de ejeção de 37%",
+    "resolucao": "A paciente está assintomática e o trastuzumabe reduz recidiva e morte no câncer HER2, então a tentação é mantê-lo com cardioproteção, que é exatamente o certo na disfunção moderada. A diretriz de cardio-oncologia separa por fração de ejeção: queda de 10 pontos ou mais para 40 a 49%, assintomática, permite manter o anti-HER2 com IECA ou BRA e betabloqueador e ecocardiogramas mais frequentes; fração abaixo de 40%, mesmo assintomática, é disfunção grave e exige interrupção temporária, tratamento de insuficiência cardíaca e decisão multidisciplinar. A cardiotoxicidade do trastuzumabe (tipo 2) costuma ser reversível, e a reintrodução é possível se a fração de ejeção se recuperar; por isso não se suspende definitivamente de saída. A antraciclina prévia aumenta o risco e explica a queda.",
+    "comentarios": {
+      "A": "Errada. Seria aceitável com queda pequena e fração de ejeção preservada acima de 50%; com 37% há disfunção grave.",
+      "B": "Errada. A cardiotoxicidade do trastuzumabe costuma ser reversível; com recuperação da fração de ejeção, a reintrodução pode ser discutida.",
+      "C": "Correta. Fração de ejeção de 37% é disfunção grave: interrupção temporária, IECA e betabloqueador, e reavaliação para possível reintrodução.",
+      "D": "Errada. É a conduta da disfunção moderada assintomática (fração de ejeção de 40 a 49%); abaixo de 40%, o trastuzumabe precisa ser interrompido."
+    },
+    "para_levar": "Trastuzumabe e fração de ejeção: 40 a 49% assintomática, manter com cardioproteção; abaixo de 40% ou sintomática, interromper e tratar, com possível reintrodução após recuperação.",
+    "referencias": "ESC Guidelines on cardio-oncology (2022); ASCO Guideline: Prevention and Monitoring of Cardiac Dysfunction in Survivors of Adult Cancers (2017)",
+    "tags": [
+      "Esquemas Quimioterápicos e Efeitos Colaterais (CM)",
+      "Câncer de mama invasivo"
+    ],
+    "sourceQuestionId": null,
+    "alvo": "Limiar numérico (FE 40%) que muda a conduta; resposta certa da faixa vizinha como armadilha."
+  },
+  {
+    "id": "S6-GAS-07",
+    "simulado": 6,
+    "area": "Oncologia",
+    "titulo": "Febre em paciente com metástases hepáticas e cateter implantado: febre neoplásica após investigação negativa",
+    "arma": "Rótulo verdadeiro",
+    "comando": "diagnóstico",
+    "nivel": "difícil",
+    "enunciado": "Homem de 63 anos, com adenocarcinoma de cólon e múltiplas metástases hepáticas, portador de cateter venoso totalmente implantado, está em pausa de quimioterapia há 5 semanas. Há 3 semanas tem febre diária de até 38,6 °C, no fim da tarde, com sudorese, sem calafrios, e mantém-se bem entre os picos. Recebeu ceftriaxona por 7 dias e, depois, piperacilina-tazobactam por 5 dias, sem nenhuma mudança na curva térmica. Exame: FC 92 bpm, PA 126 x 80 mmHg, sítio do cateter sem hiperemia ou secreção, sem sopros, hepatomegalia nodular indolor. Exames: leucócitos 9.100/mm³ com neutrófilos de 6.300/mm³, PCR 9,2 mg/dL, procalcitonina 0,08 ng/mL, três pares de hemoculturas pareadas do cateter e periféricas negativas, urocultura negativa. TC de tórax e abdome: metástases hepáticas maiores que no exame anterior, sem coleções, abscessos ou trombose. O diagnóstico mais provável é:",
+    "alternativas": {
+      "A": "Infecção do cateter totalmente implantado",
+      "B": "Febre neoplásica",
+      "C": "Abscesso hepático piogênico",
+      "D": "Neutropenia febril"
+    },
+    "gabarito": "B",
+    "armadilha": "A",
+    "dado_decisivo": "três pares de hemoculturas pareadas do cateter e periféricas negativas",
+    "resolucao": "Cateter implantado em paciente oncológico com febre é rótulo verdadeiro de infecção relacionada ao cateter, e o reflexo é retirar o dispositivo ou escalonar antibiótico. Mas a investigação foi completa e negativa: três pares de hemoculturas pareadas sem crescimento, procalcitonina baixa, sítio limpo, TC sem coleção, e nenhuma resposta a dois esquemas de largo espectro. Febre vespertina com bom estado entre os picos, em doença hepática metastática em progressão, é febre neoplásica, diagnóstico de exclusão mediado por citocinas tumorais. Não há neutropenia (neutrófilos de 6.300) nem quimioterapia recente. O teste do naproxeno (250 a 375 mg de 12 em 12 horas por 3 dias) costuma suprimir a febre neoplásica e apoia o diagnóstico; os antibióticos podem ser suspensos.",
+    "comentarios": {
+      "A": "Errada. Seria a primeira hipótese com hemocultura do cateter positiva ou crescendo antes da periférica; aqui as três pareadas foram negativas e o sítio está limpo.",
+      "B": "Correta. Febre vespertina com bom estado, investigação infecciosa negativa e falha de dois esquemas em doença metastática hepática em progressão.",
+      "C": "Errada. Daria coleção na TC e, em geral, procalcitonina alta e hemocultura positiva; a TC mostra só metástases.",
+      "D": "Errada. Exige neutrófilos abaixo de 500 ou em queda para isso; aqui são 6.300 e não há quimioterapia há 5 semanas."
+    },
+    "para_levar": "Febre neoplásica é diagnóstico de exclusão: culturas e imagem negativas, falha de antibiótico e bom estado entre os picos; o naproxeno costuma suprimi-la.",
+    "referencias": "IDSA Clinical Practice Guideline for Catheter-Related Bloodstream Infection (2009); Zell JA, Chang JC. Neoplastic fever: a neglected paraneoplastic syndrome. Support Care Cancer (2005); NCCN Guideline Prevention and Treatment of Cancer-Related Infections (2025)",
+    "tags": [
+      "Complicações Clínico-Ambulatoriais das Neoplasias (CM)",
+      "Febre de Origem Indeterminada (FOI) (CM)"
+    ],
+    "sourceQuestionId": null,
+    "alvo": "Rótulo verdadeiro (cateter implantado) puxando a doença de manual contra a investigação negativa."
+  }
+]

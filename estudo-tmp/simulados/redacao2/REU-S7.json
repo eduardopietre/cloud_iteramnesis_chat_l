@@ -1,0 +1,206 @@
+[
+ {
+  "id": "S7-REU-01",
+  "simulado": 7,
+  "area": "Farmacodermias",
+  "titulo": "DRESS por carbamazepina com hepatite: corticoide sistêmico e analgésico neuropático não aromático",
+  "arma": "Grade X / Y",
+  "comando": "conduta",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 38 anos iniciou carbamazepina há 5 semanas para neuralgia do trigêmeo. Há 6 dias tem febre de 39 °C, exantema morbiliforme confluente em mais de 60% da superfície corporal, edema facial e linfonodomegalias cervicais e axilares. Sem bolhas e sem erosões de mucosas. Exames: leucócitos 16.800/mm³ com 2.300 eosinófilos/mm³ e linfócitos atípicos, ALT 620 U/L, AST 410 U/L, bilirrubina total 1,4 mg/dL, INR 1,1, creatinina 0,9 mg/dL, EAS normal. A carbamazepina foi suspensa no primeiro dia, e a dor facial voltou a ser intensa. O tratamento da reação e o fármaco para a dor facial são, respectivamente:",
+  "alternativas": {
+   "A": "Prednisona 1 mg/kg / oxcarbazepina",
+   "B": "Suspensão e suporte apenas / oxcarbazepina",
+   "C": "Prednisona 1 mg/kg / gabapentina",
+   "D": "Suspensão e suporte apenas / gabapentina"
+  },
+  "gabarito": "C",
+  "armadilha": "A",
+  "dado_decisivo": "ALT 620 U/L",
+  "resolucao": "Febre, exantema extenso, edema facial, linfonodomegalias, eosinofilia, linfócitos atípicos e hepatite com 5 semanas de carbamazepina fecham DRESS. Suspender a droga é obrigatório, mas não basta quando há acometimento de órgão relevante: ALT acima de 10 vezes o limite indica hepatite moderada a grave, e a conduta é corticoide sistêmico (prednisona 0,5 a 1 mg/kg/dia) com retirada lenta em semanas, porque a retirada rápida causa recaída. A segunda metade é a armadilha: a oxcarbazepina é a alternativa natural na neuralgia do trigêmeo, mas é anticonvulsivante aromático, com reatividade cruzada alta com a carbamazepina (assim como fenitoína, fenobarbital e lamotrigina). Para a dor neuropática, uma droga não aromática como gabapentina (ou baclofeno) é a escolha segura, e o paciente deve ser orientado a nunca usar a classe aromática.",
+  "comentarios": {
+   "A": "Errada. O corticoide está certo, mas a oxcarbazepina é aromática e tem reatividade cruzada com a carbamazepina.",
+   "B": "Errada nas duas metades: hepatite com ALT acima de 10 vezes o limite pede corticoide, e a oxcarbazepina é aromática.",
+   "C": "Correta. A hepatite indica prednisona sistêmica, e a gabapentina não tem reatividade cruzada com os aromáticos.",
+   "D": "Errada. A droga está certa, mas suspensão isolada basta só no DRESS leve, sem hepatite importante."
+  },
+  "para_levar": "DRESS com órgão acometido (ALT muito alta, nefrite, pneumonite) pede corticoide sistêmico com retirada lenta; depois de reação a um anticonvulsivante aromático, evite toda a classe.",
+  "referencias": "RegiSCAR criteria (Kardaun et al., 2013); Consenso brasileiro de reações de hipersensibilidade a medicamentos (ASBAI, 2023); British Association of Dermatologists guideline (2024, DRESS).",
+  "tags": [
+   "DRESS (CM)",
+   "Farmacodermias (CM)"
+  ],
+  "sourceQuestionId": "d361cf745d59bd6",
+  "alvo": "Farmacodermias 0 de 3 (DRESS por anticonvulsivante); droga substituta que repete a reação."
+ },
+ {
+  "id": "S7-REU-02",
+  "simulado": 7,
+  "area": "Alergia",
+  "titulo": "Anafilaxia perioperatória: triptase sérica na primeira hora e basal, e testes cutâneos só depois de semanas",
+  "arma": "Cronologia",
+  "comando": "próximo exame",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 52 anos é submetida a colecistectomia eletiva. Cinco minutos após a indução com propofol, fentanil, rocurônio e cefazolina profilática, apresenta PA de 60 x 30 mmHg, FC 138 bpm, broncoespasmo com aumento da pressão de pico e eritema difuso no tronco. Recebe adrenalina intravenosa em bolus titulados e cristaloide, com estabilização em 15 minutos, e a cirurgia é adiada. Agora, 40 minutos após o início do quadro, está estável e extubada. Nunca foi operada e não tem alergias conhecidas. O exame mais adequado neste momento é:",
+  "alternativas": {
+   "A": "Triptase sérica agora e após 24 horas",
+   "B": "Testes cutâneos com os fármacos usados",
+   "C": "IgE específica para látex e cefazolina",
+   "D": "Histamina plasmática após 24 horas"
+  },
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "Agora, 40 minutos após o início do quadro",
+  "resolucao": "O impulso é descobrir já o culpado entre os quatro fármacos, e os testes cutâneos são o exame que faz isso. Mas feitos na fase aguda dão falso negativo, porque os mastócitos estão depletados: devem ser realizados entre 4 e 6 semanas após a reação. O que precisa ser colhido agora é a triptase sérica, que atinge o pico entre 30 minutos e 2 horas e confirma a ativação mastocitária; ela é comparada com a triptase basal, colhida após 24 horas (ou depois da recuperação), e uma elevação acima de 20% da basal mais 2 ng/mL confirma a anafilaxia. A histamina cai em menos de 1 hora e não serve depois de 24 horas. A investigação com testes, incluindo látex, rocurônio e cefazolina, vem no ambulatório de alergia.",
+  "comentarios": {
+   "A": "Correta. Aos 40 minutos a triptase está perto do pico, e a basal de 24 horas permite aplicar o critério de 20% mais 2 ng/mL.",
+   "B": "Errada. Identificam o agente, mas na fase aguda dão falso negativo; devem ser feitos 4 a 6 semanas após a reação.",
+   "C": "Errada. A IgE específica entra na investigação ambulatorial, e não confirma agora que houve anafilaxia.",
+   "D": "Errada. A histamina tem meia-vida de minutos e normaliza em menos de 1 hora; após 24 horas não informa nada."
+  },
+  "para_levar": "Na suspeita de anafilaxia, colha triptase entre 30 minutos e 2 horas e uma basal após 24 horas; testes cutâneos só após 4 a 6 semanas.",
+  "referencias": "World Allergy Organization Anaphylaxis Guidance (2020); International consensus on perioperative anaphylaxis (ISPAR, 2019).",
+  "tags": [
+   "Anafilaxia (CM)",
+   "Alergias (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Alergia e anafilaxia como lacuna nova; próximo exame com a janela de tempo que o habilita."
+ },
+ {
+  "id": "S7-REU-03",
+  "simulado": 7,
+  "area": "Alergia",
+  "titulo": "Bacteremia por S. aureus sensível à oxacilina em 'alérgico à penicilina' com exantema benigno remoto: cefazolina, e não vancomicina",
+  "arma": "Rótulo verdadeiro",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Homem de 61 anos, diabético, em hemodiálise por fístula arteriovenosa, tem bacteremia por Staphylococcus aureus sensível à oxacilina, com duas hemoculturas positivas, a partir de flebite em acesso periférico já retirado. Ecocardiograma transesofágico sem vegetações; hemoculturas de controle negativas em 48 horas. Relata alergia a penicilina: aos 20 anos, no 5º dia de amoxicilina, teve exantema maculopapular pruriginoso sem acometimento de mucosas, sem bolhas, sem dispneia e sem hipotensão, que regrediu em 4 dias. Desde então nunca recebeu betalactâmico. Iniciou-se vancomicina empírica. O antimicrobiano mais adequado para completar o tratamento é:",
+  "alternativas": {
+   "A": "Vancomicina",
+   "B": "Cefazolina",
+   "C": "Daptomicina",
+   "D": "Linezolida"
+  },
+  "gabarito": "B",
+  "armadilha": "A",
+  "dado_decisivo": "no 5º dia de amoxicilina, teve exantema maculopapular pruriginoso sem acometimento de mucosas",
+  "resolucao": "O rótulo 'alérgico à penicilina' é verdadeiro e empurra para manter a vancomicina, que já está correndo e é cômoda na hemodiálise. Mas a vancomicina é inferior aos betalactâmicos antiestafilocócicos na bacteremia por S. aureus sensível à oxacilina, com mais falha e recidiva. O dado que decide é a natureza da reação: exantema maculopapular tardio, há 40 anos, sem mucosa, bolha, eosinofilia ou acometimento sistêmico, é reação de baixo risco, e a maioria desses rótulos não se confirma. A cefazolina tem cadeia lateral diferente da amoxicilina, a reatividade cruzada é desprezível, e a diretriz permite usá-la sem teste prévio; ainda tem a vantagem de ser dada após cada sessão de diálise. Daptomicina fica para alergia grave verdadeira aos betalactâmicos.",
+  "comentarios": {
+   "A": "Errada. Seria a escolha com reação grave a betalactâmico (SSJ, DRESS, anafilaxia recente) ou MRSA; é inferior à cefazolina no MSSA.",
+   "B": "Correta. Reação remota, tardia e benigna permite cefazolina, de cadeia lateral diferente e superior à vancomicina no MSSA.",
+   "C": "Errada. Alternativa na alergia grave verdadeira a betalactâmicos ou no MRSA com falha da vancomicina; aqui não há indicação.",
+   "D": "Errada. Bacteriostática, não é droga de primeira linha para bacteremia por S. aureus."
+  },
+  "para_levar": "Na bacteremia por MSSA, o rótulo de alergia à penicilina por exantema benigno remoto não justifica vancomicina: use cefazolina.",
+  "referencias": "AAAAI/ACAAI Drug allergy: a 2022 practice parameter update; IDSA, Clinical practice guidelines for MRSA and S. aureus bacteremia (2011) e Khatib et al., consenso de 2023.",
+  "tags": [
+   "Alergias (CM)",
+   "Antibióticos: Situações Clínicas (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Rótulo verdadeiro (alergia) puxando para a droga pior; alergia a betalactâmico e reação cruzada."
+ },
+ {
+  "id": "S7-REU-04",
+  "simulado": 7,
+  "area": "Reumatologia",
+  "titulo": "Placas anulares fotodistribuídas com anti-Ro em tratamento de onicomicose: lúpus cutâneo subagudo induzido por terbinafina",
+  "arma": "Droga a deduzir",
+  "comando": "diagnóstico",
+  "nivel": "extremamente difícil",
+  "enunciado": "Mulher de 58 anos procura o ambulatório por lesões cutâneas há 3 semanas, que pioram com o sol. Há 7 semanas iniciou tratamento oral para onicomicose dos pés, prescrito pelo dermatologista e ainda em curso. Hipertensa, usa losartana há 5 anos. Nega artralgia, úlceras orais, fenômeno de Raynaud, febre e edema. Exame: placas anulares eritematosas, de bordas descamativas e centro claro, no decote, na face extensora dos braços e na região cervical posterior, sem atrofia e sem cicatriz; face e couro cabeludo poupados. Hemograma, creatinina e EAS normais. FAN 1:640 padrão nuclear pontilhado fino, anti-Ro/SSA positivo, anti-histona negativo, anti-DNA nativo negativo, C3 e C4 normais. O diagnóstico mais provável é:",
+  "alternativas": {
+   "A": "Lúpus discoide crônico",
+   "B": "Lúpus sistêmico com anti-Ro",
+   "C": "Tinha do corpo disseminada",
+   "D": "Lúpus cutâneo subagudo induzido"
+  },
+  "gabarito": "D",
+  "armadilha": "B",
+  "dado_decisivo": "Há 7 semanas iniciou tratamento oral para onicomicose dos pés",
+  "resolucao": "FAN alto com anti-Ro puxa para lúpus sistêmico, mas não há nenhum critério extracutâneo: hemograma, urina, complemento e anti-DNA normais, sem artrite, serosite ou úlcera. As lesões anulares, descamativas, fotodistribuídas, sem atrofia nem cicatriz, poupando a face, são de lúpus cutâneo subagudo, e o tratamento oral da onicomicose é a terbinafina, droga mais associada à forma induzida, ao lado de tiazídicos, inibidores da bomba de prótons, bloqueadores de canal de cálcio e anti-TNF. No lúpus cutâneo subagudo induzido o anti-Ro é positivo na maioria e o anti-histona costuma ser negativo, ao contrário do lúpus sistêmico induzido por hidralazina ou procainamida. A conduta é suspender a terbinafina, fotoproteção e corticoide tópico; as lesões regridem em semanas, e o anti-Ro pode persistir.",
+  "comentarios": {
+   "A": "Errada. O discoide forma placas com atrofia, cicatriz e alteração pigmentar, em face e couro cabeludo, e raramente tem anti-Ro.",
+   "B": "Errada. Seria a resposta com citopenia, nefrite, serosite, artrite ou complemento baixo; aqui só há pele e autoanticorpo.",
+   "C": "Errada. A tinha dá anéis descamativos, mas sem fotodistribuição e sem FAN 1:640 com anti-Ro; o micológico direto decidiria.",
+   "D": "Correta. Lesões anulares fotodistribuídas sem cicatriz, anti-Ro positivo e terbinafina iniciada há 7 semanas."
+  },
+  "para_levar": "Lúpus cutâneo subagudo de início tardio exige revisar drogas novas (terbinafina, tiazídicos, IBP, bloqueadores de canal de cálcio): anti-Ro positivo, anti-histona em geral negativo.",
+  "referencias": "EULAR recommendations for SLE (2023); Grönhagen et al., Drug-induced subacute cutaneous lupus erythematosus (Br J Dermatol, 2012).",
+  "tags": [
+   "Lúpus (CM)",
+   "Farmacodermias (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Autoanticorpo como rótulo (anti-Ro leva a LES) e droga a deduzir."
+ },
+ {
+  "id": "S7-REU-05",
+  "simulado": 7,
+  "area": "Reumatologia",
+  "titulo": "Artrite reumatoide refratária ao metotrexato em idosa tabagista com infarto prévio: biológico, e não inibidor de JAK",
+  "arma": "Limiar",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 66 anos tem artrite reumatoide há 2 anos, com anti-CCP de 280 U/mL, erosões nas radiografias de mãos e DAS28 de 5,4, apesar de metotrexato 25 mg/semana subcutâneo com ácido fólico há 6 meses. Tabagista de 30 maços-ano, teve infarto do miocárdio há 3 anos, tratado com angioplastia. Não tem doença pulmonar intersticial, insuficiência cardíaca, neoplasia ou história de tuberculose; IGRA negativo. Prefere tratamento por via oral. A conduta mais adequada é associar ao metotrexato:",
+  "alternativas": {
+   "A": "Tofacitinibe 5 mg duas vezes ao dia",
+   "B": "Um anti-TNF por via subcutânea",
+   "C": "Prednisona 10 mg/dia contínua",
+   "D": "Sulfassalazina e hidroxicloroquina"
+  },
+  "gabarito": "B",
+  "armadilha": "A",
+  "dado_decisivo": "Tabagista de 30 maços-ano, teve infarto do miocárdio há 3 anos",
+  "resolucao": "Falha do metotrexato em dose plena com fatores de mau prognóstico (anti-CCP alto, erosões, atividade alta) indica acrescentar um DMARD biológico ou sintético alvo-específico, e a preferência pela via oral puxa para o tofacitinibe. Mas, depois do ORAL Surveillance, os inibidores de JAK só devem ser usados, se não houver alternativa adequada, em pacientes com 65 anos ou mais, tabagistas ou ex-tabagistas de longa data, com doença cardiovascular aterosclerótica ou outros fatores de risco cardiovascular ou de neoplasia, pelo excesso de eventos cardiovasculares maiores, neoplasias e trombose. Esta paciente cruza três desses limiares. Sem insuficiência cardíaca, doença desmielinizante ou intersticial, o anti-TNF é seguro e é a escolha. Corticoide contínuo não modifica a doença, e a terapia tripla é inferior ao biológico em quem tem mau prognóstico.",
+  "comentarios": {
+   "A": "Errada. Seria opção sem fatores de risco; com 66 anos, tabagismo e infarto prévio, os inibidores de JAK ficam para quando não houver alternativa.",
+   "B": "Correta. Sem insuficiência cardíaca, DPI ou doença desmielinizante, o anti-TNF é a escolha após falha do metotrexato com mau prognóstico.",
+   "C": "Errada. Corticoide é ponte de curta duração e não controla a progressão erosiva; uso contínuo agrava o risco cardiovascular.",
+   "D": "Errada. Terapia tripla é opção sem fatores de mau prognóstico; com anti-CCP alto e erosões, recomenda-se biológico ou sintético alvo."
+  },
+  "para_levar": "Inibidor de JAK em AR só sem alternativa se o paciente tiver 65 anos ou mais, tabagismo ou risco cardiovascular ou neoplásico; nesses, prefira biológico.",
+  "referencias": "EULAR recommendations for the management of RA (2022 update); EMA/PRAC, medidas para minimizar o risco dos inibidores de JAK (2023); Recomendações da SBR para o tratamento da AR (2024).",
+  "tags": [
+   "Artrite Reumatóide (CM)",
+   "Drogas antirreumáticas (CM)"
+  ],
+  "sourceQuestionId": "3fe65b166783d92",
+  "alvo": "Ignora a comorbidade da primeira linha que derruba a droga; AR e contraindicações específicas (memória de reumato)."
+ },
+ {
+  "id": "S7-REU-06",
+  "simulado": 7,
+  "area": "Reumatologia",
+  "titulo": "Púrpura palpável após antibiótico com IgA na biópsia cutânea: urina tipo 1 antes da bateria sorológica",
+  "arma": "Omissão",
+  "comando": "próximo exame",
+  "nivel": "média",
+  "enunciado": "Homem de 45 anos, previamente hígido, iniciou amoxicilina-clavulanato para sinusite há 9 dias. Há 3 dias surgiram pápulas purpúricas que não desaparecem à digitopressão, simétricas, em pernas e tornozelos, algumas com centro vesiculoso, e artralgia leve de tornozelos. Sem dor abdominal, hemoptise, febre ou sintomas neurológicos. PA 122 x 78 mmHg. Plaquetas 260.000/mm³, creatinina 0,9 mg/dL. Biópsia de pele feita ontem: vasculite leucocitoclástica de vasos da derme superficial com depósitos de IgA na imunofluorescência. O antibiótico foi suspenso. O exame mais adequado neste momento é:",
+  "alternativas": {
+   "A": "Biópsia renal percutânea",
+   "B": "ANCA, crioglobulinas e complemento",
+   "C": "Urina tipo 1 com sedimento",
+   "D": "TC de abdome com contraste"
+  },
+  "gabarito": "C",
+  "armadilha": "B",
+  "dado_decisivo": "creatinina 0,9 mg/dL",
+  "resolucao": "A biópsia já respondeu à pergunta do tipo de vasculite: leucocitoclástica com IgA, em adulto, após infecção e antibiótico. A tentação é abrir a bateria de ANCA, crioglobulinas e complemento, que procura vasculites que a imunofluorescência já tornou improváveis. O que falta e muda o prognóstico é saber se há nefrite, mais frequente e mais grave na vasculite por IgA do adulto do que na criança, e a creatinina normal não a exclui: hematúria dismórfica e proteinúria aparecem antes da queda da filtração. A urina tipo 1 com sedimento (e a relação proteína/creatinina se alterada) é o exame que decide o seguimento; a biópsia renal só entra com proteinúria importante ou função em queda.",
+  "comentarios": {
+   "A": "Errada. Indicada com proteinúria acima de cerca de 1 g/dia, síndrome nefrítica ou queda da filtração, ainda não pesquisadas.",
+   "B": "Errada. Seria útil sem a imunofluorescência; com IgA nos vasos, a bateria não muda a conduta.",
+   "C": "Correta. Creatinina normal não afasta nefrite, e o sedimento urinário define o acometimento renal da vasculite por IgA.",
+   "D": "Errada. Só com dor abdominal ou sangramento digestivo, ausentes aqui."
+  },
+  "para_levar": "Em toda vasculite cutânea de pequenos vasos, a urina tipo 1 com sedimento é obrigatória; creatinina normal não exclui nefrite.",
+  "referencias": "EULAR/PRINTO/PRES criteria para vasculite por IgA (2010); KDIGO 2021 Glomerular Diseases (IgA vasculitis); Chapel Hill Consensus (2012).",
+  "tags": [
+   "Vasculite por IgA / Henoch Schonlein (CM)",
+   "Vasculites (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Próximo exame: pede a bateria a mais e omite o exame simples que decide."
+ }
+]

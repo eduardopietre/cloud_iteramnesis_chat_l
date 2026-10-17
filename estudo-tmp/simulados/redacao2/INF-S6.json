@@ -1,0 +1,202 @@
+[
+ {
+  "id": "S6-INF-01",
+  "simulado": 6,
+  "titulo": "Antígeno criptocócico sérico reagente na pessoa com HIV assintomática: punção lombar antes de escolher o antifúngico",
+  "arma": "Negativo no meio",
+  "comando": "próximo exame",
+  "nivel": "difícil",
+  "enunciado": "Homem de 34 anos teve HIV diagnosticado há 1 semana em triagem de banco de sangue. Está assintomático: nega cefaleia, febre, vômitos, alteração visual ou de comportamento. Exame: T 36,8 °C, PA 118 x 76 mmHg, Glasgow 15, sem rigidez de nuca, sem déficit focal, fundoscopia sem papiledema. Exames: CD4 62 células/mm³, carga viral 210.000 cópias/mL, radiografia de tórax normal. O teste rápido de antígeno criptocócico (CrAg) por fluxo lateral no soro, pedido pela rotina do serviço, foi reagente, com título de 1:320. Ainda não iniciou TARV nem antifúngico. O próximo exame mais adequado é:",
+  "alternativas": {
+   "A": "Repetir o CrAg sérico em 2 semanas",
+   "B": "TC de crânio com contraste",
+   "C": "Punção lombar com pressão de abertura",
+   "D": "Hemocultura para fungos"
+  },
+  "gabarito": "C",
+  "armadilha": "B",
+  "dado_decisivo": "foi reagente, com título de 1:320",
+  "resolucao": "A ausência de cefaleia e de sinais meníngeos convida a tratar o achado como colonização ou a apenas acompanhar, e o hábito de pedir imagem antes de puncionar puxa para a TC. O CrAg sérico precede a meningite criptocócica em semanas, e uma parcela relevante dos assintomáticos já tem meningite subclínica, sobretudo com título alto (1:160 ou mais). O que define o tratamento é o líquor: com CrAg ou cultura positivos no líquor, trata-se meningite (indução com anfotericina e flucitosina, TARV adiada por 4 a 6 semanas); com líquor negativo, faz-se fluconazol preemptivo em dose alta (800 mg/dia por 2 semanas, depois 400 mg/dia por 8 semanas e manutenção) e a TARV começa em cerca de 2 semanas. Sem déficit focal, rebaixamento ou papiledema, a TC não precisa preceder a punção. Repetir o CrAg só atrasa a decisão, e hemocultura negativa não exclui doença meníngea.",
+  "comentarios": {
+   "A": "Errada. Repetir o teste não muda nada: o antígeno reagente já indica doença criptocócica em evolução, e o que falta saber é se há acometimento meníngeo.",
+   "B": "Errada. É a armadilha: a TC antes da punção se reserva para déficit focal, rebaixamento de consciência, crise convulsiva ou papiledema, todos ausentes aqui.",
+   "C": "Correta. CrAg sérico reagente com título alto e CD4 abaixo de 100 pedem punção lombar, com pressão de abertura, para separar meningite (indução) de antigenemia isolada (fluconazol preemptivo).",
+   "D": "Errada. Hemocultura pode confirmar fungemia, mas negativa não exclui meningite, e o tratamento depende do líquor."
+  },
+  "para_levar": "CrAg sérico reagente na pessoa com HIV e CD4 abaixo de 100, mesmo assintomática, pede punção lombar antes de escolher entre fluconazol preemptivo e tratamento de meningite.",
+  "referencias": "WHO Guidelines for diagnosing, preventing and managing cryptococcal disease among adults, adolescents and children living with HIV (2022); NIH/CDC/IDSA Guidelines for Opportunistic Infections in Adults and Adolescents with HIV (Cryptococcosis); PCDT para Manejo da Infecção pelo HIV em Adultos (MS).",
+  "tags": [
+   "Neurocriptococcose (CM)",
+   "Doenças Oportunistas no HIV (CM)"
+  ],
+  "sourceQuestionId": "561b9e04b824be0",
+  "alvo": "Oportunistas no HIV (0 de 4) e próximo exame: o achado em assintomático que pede o exame que define a dose.",
+  "area": "Infectologia"
+ },
+ {
+  "id": "S6-INF-02",
+  "simulado": 6,
+  "titulo": "Acidente laquético: síndrome vagal separa da jararaca quando o quadro local é igual",
+  "arma": "Rótulo verdadeiro",
+  "comando": "etiologia",
+  "nivel": "difícil",
+  "enunciado": "Homem de 41 anos, trabalhador de fazenda de cacau no sul da Bahia, em área de mata, chega ao PS 2 horas após ser picado na perna direita por serpente que não conseguiu ver bem. Refere dor intensa no local. Exame: edema do pé até o joelho, equimose e duas bolhas próximas à picada; sem ptose, sem diplopia, sem fácies miastênica. Há 40 minutos tem cólicas abdominais, três episódios de diarreia e vômitos, com sudorese profusa. FC 46 bpm, PA 84 x 50 mmHg, FR 20 irpm. Tempo de coagulação: incoagulável. CK 310 U/L, urina de cor normal. O gênero da serpente mais provável é:",
+  "alternativas": {
+   "A": "Crotalus",
+   "B": "Lachesis",
+   "C": "Micrurus",
+   "D": "Bothrops"
+  },
+  "gabarito": "B",
+  "armadilha": "D",
+  "dado_decisivo": "FC 46 bpm, PA 84 x 50 mmHg",
+  "resolucao": "Dor intensa, edema extenso, equimose, bolhas e sangue incoagulável são verdadeiros e apontam para a jararaca, que responde pela grande maioria dos acidentes ofídicos no Brasil. Mas a ação proteolítica, coagulante e hemorrágica é comum ao Bothrops e ao Lachesis; o que separa os dois é a síndrome vagal do laquético: bradicardia, hipotensão, cólica, diarreia, vômitos e sudorese, que aqui surgiram cedo. Hipotensão no botrópico grave vem por sangramento ou perda para o terceiro espaço e acompanha taquicardia, não bradicardia. A epidemiologia (mata atlântica do sul da Bahia, área da surucucu) reforça. O crotálico dá pouco quadro local, fácies miastênica e mialgia com CK alta e urina escura; o elapídico é neuroparalítico puro. O tratamento é o soro antibotrópico-laquético; o antibotrópico isolado não neutraliza o veneno laquético.",
+  "comentarios": {
+   "A": "Errada. O crotálico tem pouco edema local e cursa com fácies miastênica, mialgia, CK muito alta e urina escura, ausentes aqui.",
+   "B": "Correta. Quadro local proteolítico com incoagulabilidade mais síndrome vagal (bradicardia, hipotensão, diarreia, cólica) em área de mata define o laquético, tratado com soro antibotrópico-laquético.",
+   "C": "Errada. O elapídico não causa edema, bolhas nem coagulopatia: é ptose, diplopia e paralisia descendente.",
+   "D": "Errada. É a armadilha: o botrópico explicaria todo o quadro local e a incoagulabilidade, mas não a bradicardia com hipotensão e diarreia."
+  },
+  "para_levar": "Quadro de jararaca com bradicardia, hipotensão, cólica e diarreia é surucucu (Lachesis): o soro é o antibotrópico-laquético.",
+  "referencias": "Ministério da Saúde. Guia de Vigilância em Saúde, 6ª ed. (2023), acidentes por animais peçonhentos; Manual de Diagnóstico e Tratamento de Acidentes por Animais Peçonhentos (MS/Funasa, 2001).",
+  "tags": [
+   "Acidente Ofídico (CM)",
+   "Acidentes com Animais Peçonhentos (CM)"
+  ],
+  "sourceQuestionId": "e7a29e92f748dc8",
+  "alvo": "Peçonhentos (1 de 4): o quadro local verdadeiro puxa para o botrópico, e o dado sistêmico decide.",
+  "area": "Infectologia"
+ },
+ {
+  "id": "S6-INF-03",
+  "simulado": 6,
+  "titulo": "Síndrome mononucleose-símile com anti-EBNA reagente: citomegalovírus no adulto de meia-idade",
+  "arma": "Rótulo verdadeiro",
+  "comando": "etiologia",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 41 anos, professor, em relação monogâmica com a esposa há 12 anos, procura ambulatório por febre diária até 38,6 °C há 3 semanas, astenia e sudorese. Nega dor de garganta, uso de medicamentos e viagens. Exame: bom estado geral, orofaringe sem exsudato, linfonodos cervicais de 1 cm, discretos, baço palpável a 2 cm do rebordo costal. Hemograma: leucócitos 11.800/mm³, 61% de linfócitos, 16% de linfócitos atípicos; plaquetas 128.000/mm³. ALT 168 U/L, AST 140 U/L, FA 190 U/L. Anticorpo heterófilo (monoteste) negativo no 7º e no 20º dia. Sorologias: anti-VCA IgM não reagente, anti-VCA IgG e anti-EBNA IgG reagentes; toxoplasmose IgG reagente e IgM não reagente; anti-HIV de 4ª geração não reagente. O agente etiológico mais provável é:",
+  "alternativas": {
+   "A": "Citomegalovírus",
+   "B": "Vírus Epstein-Barr",
+   "C": "HIV, na infecção aguda",
+   "D": "Toxoplasma gondii"
+  },
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "anti-VCA IgG e anti-EBNA IgG reagentes",
+  "resolucao": "Linfocitose com linfócitos atípicos, esplenomegalia e hepatite leve são verdadeiras e levam direto ao EBV. Mas o anti-EBNA IgG só aparece 6 a 8 semanas depois da infecção primária; reagente no início do quadro, com VCA IgM negativo, indica EBV antigo e praticamente exclui mononucleose por EBV agora, o que o heterófilo negativo duas vezes confirma. No adulto de meia-idade, a síndrome mononucleose-símile com febre prolongada, pouca faringite, pouca adenomegalia e hepatite é o perfil do citomegalovírus, a causa mais comum de mononucleose heterófilo-negativa; a confirmação é IgM anti-CMV (com avidez de IgG baixa, se preciso). Toxoplasmose aguda teria IgM reagente, e HIV agudo com 3 semanas de sintomas já positivaria o teste de 4ª geração, além de não haver exposição relatada.",
+  "comentarios": {
+   "A": "Correta. Mononucleose heterófilo-negativa, febre arrastada, hepatite e pouca faringite com EBV antigo pelo anti-EBNA: CMV, a confirmar com IgM anti-CMV.",
+   "B": "Errada. É a armadilha: o quadro hematológico é compatível, mas anti-EBNA reagente com VCA IgM negativo indica infecção passada.",
+   "C": "Errada. Seria a principal hipótese com exposição de risco, faringite, úlceras orais e exantema; com 3 semanas de sintomas o teste de 4ª geração já seria reagente.",
+   "D": "Errada. A toxoplasmose aguda daria IgM reagente e, em geral, adenomegalia mais proeminente que a hepatite."
+  },
+  "para_levar": "Anti-EBNA reagente no início do quadro exclui mononucleose aguda por EBV; mononucleose heterófilo-negativa com febre arrastada e hepatite no adulto é CMV até prova em contrário.",
+  "referencias": "Harrison's Principles of Internal Medicine, 21ª ed. (2022), capítulos de EBV e CMV; Mandell, Douglas and Bennett's Principles and Practice of Infectious Diseases, 9ª ed. (2020).",
+  "tags": [
+   "Mononucleose Infecciosa (CM)"
+  ],
+  "sourceQuestionId": "e5b4e29f3a3131a",
+  "alvo": "Mononucleose e diferenciais (0 de 2): o hemograma verdadeiro puxa para o EBV e a sorologia que decide é lida como enfeite.",
+  "area": "Infectologia"
+ },
+ {
+  "id": "S6-INF-04",
+  "simulado": 6,
+  "titulo": "Endocardite por Enterococcus faecalis em idoso com DRC: ampicilina com ceftriaxona por 6 semanas, apesar da gentamicina sensível",
+  "arma": "Grade X / Y",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Homem de 79 anos, hipertenso, com doença renal crônica (taxa de filtração glomerular estimada de 34 mL/min/1,73 m²), submetido a ressecção transuretral de próstata há 7 semanas, é internado por febre há 3 semanas, astenia e perda de 4 kg. Exame: T 38,2 °C, PA 132 x 70 mmHg, sopro diastólico aspirativo 2+/6 em foco aórtico acessório, sem sinais de insuficiência cardíaca. Três de três hemoculturas: Enterococcus faecalis sensível a ampicilina, sem alto nível de resistência a aminoglicosídeos. Ecocardiograma transesofágico: vegetação de 7 mm na valva aórtica nativa, insuficiência aórtica leve, sem abscesso. Audiometria basal com perda neurossensorial leve. O esquema antimicrobiano e a duração mais adequados são, respectivamente:",
+  "alternativas": {
+   "A": "Ampicilina e gentamicina / 4 semanas",
+   "B": "Ampicilina e ceftriaxona / 6 semanas",
+   "C": "Ampicilina e ceftriaxona / 2 semanas",
+   "D": "Vancomicina e gentamicina / 6 semanas"
+  },
+  "gabarito": "B",
+  "armadilha": "A",
+  "dado_decisivo": "taxa de filtração glomerular estimada de 34 mL/min/1,73 m²",
+  "resolucao": "A ausência de alto nível de resistência é verdadeira e libera, em tese, o sinergismo com gentamicina, e os sintomas há menos de 3 meses permitiriam 4 semanas; é por isso que o esquema de manual atrai. Mas o paciente tem 79 anos, filtração de 34 mL/min e perda auditiva prévia: o aminoglicosídeo por semanas tem risco alto de nefrotoxicidade e ototoxicidade. Ampicilina com ceftriaxona dá sinergia por saturação de proteínas ligadoras de penicilina diferentes, tem eficácia equivalente e muito menos toxicidade, e é o esquema preferido para E. faecalis em valva nativa quando há disfunção renal ou risco de ototoxicidade, por 6 semanas. Duas semanas são esquema de estreptococo sensível em casos selecionados, não de enterococo. Vancomicina é reserva para alergia grave a betalactâmico ou resistência à ampicilina, e somaria duas drogas nefrotóxicas.",
+  "comentarios": {
+   "A": "Errada. É a armadilha: seria opção em paciente jovem com função renal normal e sintomas há menos de 3 meses; aqui a filtração de 34 mL/min e a perda auditiva contraindicam aminoglicosídeo prolongado.",
+   "B": "Correta. Ampicilina com ceftriaxona por 6 semanas: sinergia sem aminoglicosídeo, preferida no idoso com DRC.",
+   "C": "Errada. O esquema é certo, mas 2 semanas só existem para estreptococos muito sensíveis em casos selecionados; enterococo em valva nativa exige 6 semanas com ceftriaxona.",
+   "D": "Errada. Vancomicina seria para alergia grave a betalactâmicos ou enterococo resistente à ampicilina; aqui é sensível, e o esquema soma nefrotoxicidade."
+  },
+  "para_levar": "Endocardite por E. faecalis sensível à ampicilina em idoso, DRC ou risco de ototoxicidade: ampicilina com ceftriaxona por 6 semanas, mesmo sem alto nível de resistência a aminoglicosídeo.",
+  "referencias": "ESC Guidelines for the management of endocarditis (2023); AHA Scientific Statement on Infective Endocarditis in Adults (Baddour et al., 2015).",
+  "tags": [
+   "Endocardite Bacteriana (CM)"
+  ],
+  "sourceQuestionId": "bb436b79ee7c546",
+  "alvo": "Padrão de ignorar o antecedente (idade, função renal, audição) que muda a primeira linha.",
+  "area": "Infectologia"
+ },
+ {
+  "id": "S6-INF-05",
+  "simulado": 6,
+  "titulo": "Primeira recorrência de Clostridioides difficile após vancomicina: fidaxomicina, e transplante fecal só depois",
+  "arma": "Cronologia",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 71 anos teve o primeiro episódio de diarreia por Clostridioides difficile há 7 semanas, após cefalosporina para pielonefrite, tratado com vancomicina oral 125 mg de 6/6 horas por 10 dias, com resolução completa em 4 dias. Há 3 dias, 12 dias após o fim da vancomicina e sem novo antibiótico, voltou a ter 6 evacuações líquidas por dia, com cólica e sem sangue. Usa omeprazol 20 mg/dia desde aquela internação. Exame: T 37,5 °C, PA 128 x 74 mmHg, abdome flácido, sem distensão. Leucócitos 12.400/mm³, creatinina 0,9 mg/dL (basal 0,8 mg/dL), albumina 3,6 g/dL. GDH e toxinas A/B positivas nas fezes. Além de reavaliar o omeprazol, o tratamento mais adequado é:",
+  "alternativas": {
+   "A": "Transplante de microbiota fecal",
+   "B": "Metronidazol oral por 14 dias",
+   "C": "Vancomicina oral por 10 dias",
+   "D": "Fidaxomicina oral por 10 dias"
+  },
+  "gabarito": "D",
+  "armadilha": "C",
+  "dado_decisivo": "Há 3 dias, 12 dias após o fim da vancomicina",
+  "resolucao": "Diarreia recorrente até 8 semanas após o fim do tratamento é recorrência, e esta é a primeira. Repetir o mesmo curso de vancomicina, que funcionou da primeira vez, é a resposta automática, mas a diretriz não a recomenda após recorrência de um curso padrão de vancomicina: a escolha preferida é fidaxomicina (padrão ou estendida em pulsos), com vancomicina em esquema prolongado com redução gradual e pulsos como alternativa. O episódio não é grave (leucócitos abaixo de 15.000 e creatinina abaixo de 1,5 mg/dL). O transplante de microbiota fecal é indicado a partir da segunda recorrência, depois de tratamento antibiótico adequado das recorrências; usá-lo agora pula uma etapa. Metronidazol não é recomendado para recorrência. Suspender o inibidor de bomba sem indicação reduz o risco de nova recorrência.",
+  "comentarios": {
+   "A": "Errada. O transplante fecal entra a partir da segunda recorrência; esta é a primeira.",
+   "B": "Errada. Metronidazol perdeu espaço até no primeiro episódio e não é recomendado na recorrência.",
+   "C": "Errada. É a armadilha: após recorrência de curso padrão de vancomicina, repetir o mesmo curso não é recomendado; a vancomicina só entraria em esquema prolongado com redução gradual e pulsos.",
+   "D": "Correta. Primeira recorrência, não grave, após vancomicina: fidaxomicina, que reduz nova recorrência."
+  },
+  "para_levar": "C. difficile: primeira recorrência, fidaxomicina (ou vancomicina em redução gradual e pulsos); transplante fecal a partir da segunda recorrência.",
+  "referencias": "IDSA/SHEA Clinical Practice Guideline: Focused Update on the Management of Clostridioides difficile Infection in Adults (2021); ACG Clinical Guidelines: Prevention, Diagnosis, and Treatment of C. difficile Infections (2021).",
+  "tags": [
+   "Diarréias agudas e Clostridium (CM)"
+  ],
+  "sourceQuestionId": "eb4c82ae8173c5d",
+  "alvo": "Porte e ordem da conduta: o degrau seguinte (transplante) antes da hora, e a repetição do que já falhou.",
+  "area": "Infectologia"
+ },
+ {
+  "id": "S6-INF-06",
+  "simulado": 6,
+  "titulo": "Varicela no adulto hígido: janela de 24 horas para o aciclovir oral",
+  "arma": "Limiar",
+  "comando": "fato solto",
+  "nivel": "média",
+  "enunciado": "Em adulto imunocompetente com varicela sem complicações, o benefício demonstrado do aciclovir oral (redução da duração da febre e do número de lesões) depende de iniciá-lo, no máximo:",
+  "alternativas": {
+   "A": "Até 24 horas do início do exantema",
+   "B": "Enquanto houver vesículas novas",
+   "C": "Até 72 horas do início do exantema",
+   "D": "Não há benefício no adulto hígido"
+  },
+  "gabarito": "A",
+  "armadilha": "C",
+  "dado_decisivo": "varicela sem complicações",
+  "resolucao": "A janela de 72 horas é a do herpes-zóster e é a que fica na memória, por isso atrai. Na varicela, os ensaios que mostraram benefício do aciclovir oral (menos lesões, febre mais curta) começaram o tratamento nas primeiras 24 horas do exantema; depois disso o ganho é mínimo no hígido sem complicações. O adulto tem varicela mais grave que a criança, e por isso o tratamento é recomendado nele quando chega a tempo. Fora da janela, o que muda a conduta é a complicação: pneumonia, encefalite, hepatite ou imunossupressão pedem aciclovir intravenoso em qualquer momento.",
+  "comentarios": {
+   "A": "Correta. Varicela no adulto sem complicações: aciclovir oral (ou valaciclovir) nas primeiras 24 horas do exantema.",
+   "B": "Errada. Vesículas novas indicam doença ativa, mas não definem benefício do antiviral oral no hígido; esse critério se usa no zóster.",
+   "C": "Errada. É a armadilha: 72 horas é a janela do herpes-zóster, não da varicela.",
+   "D": "Errada. Há benefício no adulto, que tem risco maior de complicações, desde que o início seja precoce."
+  },
+  "para_levar": "Varicela: aciclovir oral até 24 horas do exantema; zóster: até 72 horas; complicação ou imunossupressão: intravenoso a qualquer tempo.",
+  "referencias": "CDC. Varicella: Clinical Overview (2024); American Academy of Pediatrics. Red Book (2024), Varicella-Zoster Virus Infections.",
+  "tags": [
+   "Varicela-Zoster (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Limiares que ele troca entre doenças vizinhas (varicela x zóster).",
+  "area": "Infectologia"
+ }
+]

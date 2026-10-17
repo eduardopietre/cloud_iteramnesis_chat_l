@@ -1,0 +1,238 @@
+[
+  {
+    "id": "S8-GAS-01",
+    "simulado": 8,
+    "area": "Gastroenterologia",
+    "titulo": "Barrett com displasia de alto grau e lesão visível: ressecção endoscópica seguida de ablação, e não esofagectomia",
+    "arma": "Qualificador",
+    "comando": "conduta",
+    "nivel": "difícil",
+    "enunciado": "Homem de 61 anos, com doença do refluxo há 20 anos e esôfago de Barrett conhecido, faz endoscopia de vigilância com cromoscopia virtual em uso de IBP em dose plena. Há Barrett de 5 cm (Praga C4M5) com uma lesão elevada, plana, de 9 mm, às 3 horas, sem depressão ou ulceração, e mucosa plana no restante. A biópsia da lesão mostra displasia de alto grau, confirmada por segundo patologista experiente em trato digestivo; biópsias aleatórias em quatro quadrantes do restante do segmento mostram metaplasia intestinal sem displasia. TC de tórax e abdome sem linfonodomegalias. Bom estado geral, sem comorbidades relevantes. A conduta mais adequada para este paciente é:",
+    "alternativas": {
+      "A": "Esofagectomia com linfadenectomia",
+      "B": "Ressecção endoscópica da lesão e ablação do restante",
+      "C": "Ablação por radiofrequência de todo o segmento",
+      "D": "Nova endoscopia com biópsias em 3 meses"
+    },
+    "gabarito": "B",
+    "armadilha": "A",
+    "dado_decisivo": "uma lesão elevada, plana, de 9 mm",
+    "resolucao": "Displasia de alto grau soa como câncer iminente, e em paciente jovem e sem comorbidades a esofagectomia parece a conduta definitiva. Mas a erradicação endoscópica tem resultado oncológico equivalente com morbidade muito menor, e é a primeira linha na displasia de alto grau e no adenocarcinoma intramucoso. O qualificador está na lesão visível: toda irregularidade de mucosa deve ser ressecada por endoscopia (mucosectomia ou dissecção submucosa), porque a peça estadia a profundidade e pode revelar carcinoma; só depois se ablaciona o Barrett residual, com radiofrequência, para evitar lesões metacrônicas. Ablação isolada sobre lesão visível destrói o tecido sem estadiar. A esofagectomia fica para invasão da submucosa profunda, invasão linfovascular ou falha endoscópica. Repetir biópsias em 3 meses era aceitável para displasia de baixo grau indefinida, não para alto grau confirmado.",
+    "comentarios": {
+      "A": "Errada. Seria a conduta do adenocarcinoma com invasão submucosa profunda, invasão linfovascular ou falha da terapia endoscópica, e não da displasia de alto grau.",
+      "B": "Correta. Lesão visível com displasia de alto grau: ressecção endoscópica para estadiar e tratar, seguida de ablação do Barrett residual.",
+      "C": "Errada. A ablação é a conduta da displasia em mucosa plana; com lesão visível, ela deve ser ressecada antes, para estadiamento histológico.",
+      "D": "Errada. A displasia de alto grau já foi confirmada por dois patologistas; adiar a terapia não tem justificativa."
+    },
+    "para_levar": "Barrett com displasia de alto grau: terapia endoscópica; lesão visível se resseca primeiro (estadia e trata), depois se ablaciona o segmento residual.",
+    "referencias": "ACG Clinical Guideline: Diagnosis and Management of Barrett's Esophagus (2022); ESGE Position Statement on endoscopic management of Barrett's (2023); AGA Clinical Practice Update on Endoscopic Treatment of Barrett's (2020)",
+    "tags": [
+      "DRGE e Barret (CM)",
+      "Esôfago de Barrett (CIR)"
+    ],
+    "sourceQuestionId": "bf5c00a52c83808",
+    "alvo": "Porte e ordem da conduta (cirurgia em vez de endoscopia; ablação antes de ressecar)."
+  },
+  {
+    "id": "S8-GAS-02",
+    "simulado": 8,
+    "area": "Gastroenterologia",
+    "titulo": "Diarreia, emagrecimento e linfonodomegalia após anti-TNF em artrite soronegativa de longa data: doença de Whipple",
+    "arma": "Rótulo verdadeiro",
+    "comando": "diagnóstico",
+    "nivel": "extremamente difícil",
+    "enunciado": "Homem de 56 anos, agricultor, tem artralgias migratórias há seis anos, em joelhos, punhos e tornozelos, com fator reumatoide e anti-CCP negativos, rotuladas como artrite soronegativa e tratadas com prednisona em doses baixas. IGRA negativo e radiografia de tórax normal antes de iniciar adalimumabe, há 5 meses. Desde então, diarreia com 5 a 6 evacuações volumosas e gordurosas ao dia, distensão, perda de 12 kg e febre baixa vespertina. Exame: Tax 37,8 °C, hiperpigmentação difusa da pele, linfonodos axilares e inguinais de 1,5 cm, móveis e indolores, sem lesões orais. Exames: Hb 10,2 g/dL, albumina 2,6 g/dL, PCR 6,8 mg/dL, antitransglutaminase IgA negativo com IgA total normal, sorologia anti-HIV não reagente, TC de abdome com linfonodos mesentéricos e retroperitoneais de baixa atenuação. O diagnóstico mais provável é:",
+    "alternativas": {
+      "A": "Tuberculose intestinal",
+      "B": "Linfoma intestinal",
+      "C": "Doença de Whipple",
+      "D": "Doença celíaca soronegativa"
+    },
+    "gabarito": "C",
+    "armadilha": "A",
+    "dado_decisivo": "artralgias migratórias há seis anos",
+    "resolucao": "Anti-TNF iniciado há 5 meses, febre e linfonodos mesentéricos é o rótulo verdadeiro de tuberculose, a infecção de manual do imunobiológico. Mas a história começa seis anos antes, com artralgias migratórias soronegativas, que são o pródromo da doença de Whipple e precedem a fase intestinal por anos. O imunossupressor (corticoide e, sobretudo, anti-TNF) acelera a doença, que então se manifesta com má absorção, perda de peso, febre, hiperpigmentação e linfonodos periféricos e mesentéricos de baixa atenuação (gordurosos). O IGRA negativo antes do anti-TNF não exclui tuberculose, mas não há lesão pulmonar, nem a artropatia de seis anos se explicaria por ela. A confirmação vem da biópsia duodenal com macrófagos PAS positivos e PCR para Tropheryma whipplei; o tratamento é ceftriaxona seguida de sulfametoxazol-trimetoprima por um ano.",
+    "comentarios": {
+      "A": "Errada. Seria a primeira hipótese em quem inicia anti-TNF com febre e linfonodos; mas não explica a artralgia migratória de seis anos nem a hiperpigmentação, e o IGRA prévio foi negativo.",
+      "B": "Errada. Daria massa ou espessamento de alça e linfonodos de densidade de partes moles; também não explica a artropatia que precedeu em anos.",
+      "C": "Correta. Artralgias migratórias soronegativas por anos, depois má absorção, febre, hiperpigmentação e linfonodos de baixa atenuação, piorando com anti-TNF.",
+      "D": "Errada. A forma soronegativa existe, mas não causa febre, linfonodomegalia periférica nem a artropatia migratória anterior."
+    },
+    "para_levar": "Artralgia migratória soronegativa que precede por anos diarreia, perda de peso, febre e linfonodos, sobretudo piorando com imunossupressor: doença de Whipple, confirmada por biópsia duodenal PAS e PCR.",
+    "referencias": "Marth T et al. Tropheryma whipplei infection and Whipple's disease. Lancet Infect Dis (2016); Harrison's Principles of Internal Medicine, 22ª ed. (2025); ECCMID/ESCMID expert review on Whipple's disease (2023)",
+    "tags": [
+      "Doença de Whipple (CM)",
+      "Diarréias crônicas (CM)"
+    ],
+    "sourceQuestionId": null,
+    "alvo": "Rótulo verdadeiro (anti-TNF leva a tuberculose) contra o dado da cronologia longa."
+  },
+  {
+    "id": "S8-GAS-03",
+    "simulado": 8,
+    "area": "Gastroenterologia",
+    "titulo": "Câncer colorretal com perda de MLH1 e PMS2 em idosa sem história familiar: BRAF V600E antes do teste germinativo",
+    "arma": "Negativo no meio",
+    "comando": "próximo exame",
+    "nivel": "extremamente difícil",
+    "enunciado": "Mulher de 72 anos foi submetida a colectomia direita por adenocarcinoma de cólon ascendente, estádio II. Não tem história familiar de câncer de cólon, endométrio, ovário, estômago ou vias urinárias, e os pais morreram após os 80 anos por causas cardiovasculares. Como rotina, a peça foi submetida a imuno-histoquímica das proteínas de reparo de pareamento, que mostrou perda de expressão de MLH1 e PMS2, com MSH2 e MSH6 preservadas. Os dois filhos, de 44 e 46 anos, perguntam se precisam de colonoscopia precoce. O próximo exame mais adequado é:",
+    "alternativas": {
+      "A": "Pesquisa de BRAF V600E no tumor",
+      "B": "Sequenciamento germinativo de MLH1",
+      "C": "Colonoscopia imediata dos dois filhos",
+      "D": "Pesquisa de mutação germinativa de APC"
+    },
+    "gabarito": "A",
+    "armadilha": "B",
+    "dado_decisivo": "Não tem história familiar de câncer",
+    "resolucao": "Perda de MLH1 e PMS2 é a assinatura da deficiência de reparo, e quem liga isso a síndrome de Lynch pede logo o teste germinativo de MLH1. Mas a causa mais comum dessa perda é esporádica: hipermetilação somática do promotor do MLH1, frequente em mulheres idosas com tumor de cólon direito, sem história familiar. Por isso o passo seguinte é pesquisar BRAF V600E no tumor (ou a metilação do promotor de MLH1): a mutação BRAF ou a hipermetilação praticamente exclui Lynch e encerra a investigação; se ausentes, aí sim se faz o teste germinativo. Sem diagnóstico de Lynch, os filhos seguem a regra de parente de primeiro grau com câncer após os 60 anos, sem colonoscopia imediata. APC é o gene da polipose adenomatosa familiar, sem relação com a perda de MLH1.",
+    "comentarios": {
+      "A": "Correta. Perda de MLH1 em idosa sem história familiar sugere hipermetilação esporádica; BRAF V600E (ou metilação do promotor) separa esporádico de Lynch.",
+      "B": "Errada. É o passo quando BRAF é selvagem e não há hipermetilação, ou quando a perda é de MSH2, MSH6 ou PMS2 isolada.",
+      "C": "Errada. Seria indicada se Lynch fosse confirmado; com mãe acometida aos 72 anos, a colonoscopia dos filhos segue o rastreamento de parente de primeiro grau após os 60 anos.",
+      "D": "Errada. APC define polipose adenomatosa familiar, com centenas de pólipos, e não explica deficiência de reparo."
+    },
+    "para_levar": "Perda de MLH1 e PMS2 no tumor: pesquisar BRAF V600E ou metilação do promotor antes do teste germinativo; perda de MSH2 ou MSH6 vai direto ao germinativo.",
+    "referencias": "NCCN Genetic/Familial High-Risk Assessment: Colorectal, Endometrial, and Gastric (2025); US Multi-Society Task Force on Colorectal Cancer: Lynch Syndrome (2014, atualização 2022); ESMO Hereditary Gastrointestinal Cancers (2019)",
+    "tags": [
+      "Câncer Colorretal (CM)"
+    ],
+    "sourceQuestionId": "2a3ff5b9d931485",
+    "alvo": "Pular para o exame do degrau seguinte (germinativo) ignorando o negativo (sem história familiar)."
+  },
+  {
+    "id": "S8-GAS-04",
+    "simulado": 8,
+    "area": "Hepatologia",
+    "titulo": "Hiponatremia hipervolêmica assintomática no cirrótico em uso de diuréticos: suspender diuréticos e restringir água",
+    "arma": "Omissão",
+    "comando": "conduta",
+    "nivel": "difícil",
+    "enunciado": "Homem de 62 anos, com cirrose alcoólica (Child-Pugh B), abstinente há um ano, usa espironolactona 200 mg/dia e furosemida 80 mg/dia por ascite. Em consulta de rotina refere aumento discreto do volume abdominal e nega confusão, cefaleia, náuseas ou quedas. Exame: lúcido, sem flapping, PA 104 x 64 mmHg, FC 82 bpm, ascite moderada, edema de membros inferiores 1+/4+. Exames: sódio 123 mEq/L (há 2 meses, 131), potássio 4,6 mEq/L, creatinina 1,1 mg/dL (basal 1,0), glicemia 98 mg/dL, osmolalidade sérica 262 mOsm/kg, TSH normal. A conduta mais adequada é:",
+    "alternativas": {
+      "A": "Albumina e aumento da furosemida",
+      "B": "Tolvaptana por via oral",
+      "C": "Suspender diuréticos e restringir líquidos",
+      "D": "Salina hipertônica a 3% em bolus"
+    },
+    "gabarito": "C",
+    "armadilha": "D",
+    "dado_decisivo": "nega confusão, cefaleia, náuseas ou quedas",
+    "resolucao": "Sódio de 123 assusta, e a salina hipertônica é a resposta de quem trata o número. Mas a hiponatremia do cirrótico é hipervolêmica e crônica, e o paciente está assintomático: a salina hipertônica fica para sintomas graves (convulsão, rebaixamento) ou sódio abaixo de 110 a 115 com transplante iminente, e corrigir rápido no cirrótico desnutrido e etilista aumenta o risco de desmielinização osmótica. Com sódio abaixo de 125, os diuréticos devem ser suspensos (os de alça agravam a hiponatremia) e se restringe a água a cerca de 1 a 1,5 L por dia; a ascite passa a ser manejada por paracentese de alívio com albumina, se necessário. A tolvaptana é evitada na cirrose por hepatotoxicidade e risco de correção excessiva. O degrau certo aqui é tirar o que causa, e não acrescentar droga.",
+    "comentarios": {
+      "A": "Errada. A albumina pode ajudar na hiponatremia do cirrótico, mas aumentar a furosemida agrava a perda de água livre e o sódio.",
+      "B": "Errada. Antagonista de vasopressina eleva o sódio, mas tem risco de lesão hepática e correção excessiva, e é evitado na cirrose.",
+      "C": "Correta. Hiponatremia hipervolêmica abaixo de 125 sem sintomas: suspender diuréticos e restringir água.",
+      "D": "Errada. Seria a conduta da hiponatremia com sintomas graves; aqui o paciente está assintomático e a correção rápida arrisca desmielinização."
+    },
+    "para_levar": "Cirrótico com sódio abaixo de 125 e sem sintomas: suspender diuréticos e restringir água; salina hipertônica só com sintomas graves.",
+    "referencias": "AASLD Practice Guidance: Diagnosis, Evaluation, and Management of Ascites, SBP and Hepatorenal Syndrome (2021); EASL Clinical Practice Guidelines for decompensated cirrhosis (2018)",
+    "tags": [
+      "Cirrose e Complicações (CM)",
+      "Hiponatremia (CM)"
+    ],
+    "sourceQuestionId": null,
+    "alvo": "Tratar o número com a intervenção maior; o degrau certo é retirar a droga em uso."
+  },
+  {
+    "id": "S8-GAS-05",
+    "simulado": 8,
+    "area": "Hepatologia",
+    "titulo": "Hemorragia varicosa com função hepática preservada e fibrose periportal em etilista de Minas Gerais: esquistossomose hepatoesplênica",
+    "arma": "Rótulo verdadeiro",
+    "comando": "etiologia",
+    "nivel": "difícil",
+    "enunciado": "Homem de 44 anos, natural do interior de Minas Gerais, onde nadava em lagoas na infância, bebe cerca de 4 latas de cerveja aos sábados há 20 anos. Internado por hematêmese volumosa, recebeu ligadura de varizes esofágicas de grosso calibre. Exame após a estabilização: corado, anictérico, sem aranhas vasculares, sem eritema palmar, sem ginecomastia, sem ascite, baço palpável a 8 cm do rebordo costal. Exames: albumina 4,1 g/dL, INR 1,0, bilirrubina total 0,7 mg/dL, AST 32 U/L, ALT 28 U/L, GGT 48 U/L, plaquetas 64.000/mm³, HBsAg e anti-HCV não reagentes. Ultrassonografia com Doppler: fígado de superfície regular, com espessamento fibroso hiperecogênico ao redor dos ramos portais, veia porta pérvia de 15 mm, veias hepáticas pérvias, baço de 19 cm. A etiologia mais provável da hipertensão portal é:",
+    "alternativas": {
+      "A": "Trombose da veia porta",
+      "B": "Cirrose alcoólica",
+      "C": "Síndrome de Budd-Chiari",
+      "D": "Esquistossomose hepatoesplênica"
+    },
+    "gabarito": "D",
+    "armadilha": "B",
+    "dado_decisivo": "espessamento fibroso hiperecogênico ao redor dos ramos portais",
+    "resolucao": "Etilismo e varizes sangrando levam direto à cirrose alcoólica, e o rótulo é verdadeiro: ele bebe. Mas o volume é baixo, e o caso nega a cirrose em todos os eixos: sem estigmas, albumina, INR e bilirrubina normais, enzimas normais e fígado de superfície regular. A hipertensão portal com função hepática preservada e esplenomegalia volumosa é pré-sinusoidal, e a ultrassonografia mostra a fibrose periportal de Symmers, que em quem viveu em área endêmica e teve contato com água doce é esquistossomose mansônica hepatoesplênica. A veia porta pérvia afasta a trombose como causa pré-hepática e as veias hepáticas pérvias afastam Budd-Chiari, que daria ascite e transaminases altas. Por ser pré-sinusoidal, a doença raramente descompensa com ascite ou encefalopatia, e o sangramento é a principal causa de morte.",
+    "comentarios": {
+      "A": "Errada. Seria a causa pré-hepática com veia porta não pérvia ou cavernoma; aqui a porta está pérvia e há fibrose periportal.",
+      "B": "Errada. O etilismo é real, mas a cirrose daria estigmas, função hepática alterada e superfície nodular; tudo está preservado aqui.",
+      "C": "Errada. Daria hepatomegalia dolorosa, ascite com gradiente alto e proteína alta, e veias hepáticas não visualizadas; as veias estão pérvias.",
+      "D": "Correta. Hipertensão portal pré-sinusoidal com função hepática preservada, esplenomegalia volumosa e fibrose periportal em quem viveu em área endêmica."
+    },
+    "para_levar": "Varizes com função hepática normal, baço grande e fibrose periportal na ultrassonografia em quem veio de área endêmica: esquistossomose hepatoesplênica, hipertensão portal pré-sinusoidal.",
+    "referencias": "Ministério da Saúde: Vigilância da Esquistossomose mansoni, diretrizes técnicas (2014); Consenso da Sociedade Brasileira de Hepatologia sobre esquistossomose (2017); Baveno VII (2022)",
+    "tags": [
+      "Esquistossomose (CM)",
+      "Hipertensão Portal (CM)"
+    ],
+    "sourceQuestionId": "5d0047abca225e7",
+    "alvo": "Rótulo verdadeiro (etilismo) puxando a doença de manual contra a função hepática preservada."
+  },
+  {
+    "id": "S8-GAS-06",
+    "simulado": 8,
+    "area": "Oncologia",
+    "titulo": "Seminoma puro na histologia com alfafetoproteína elevada: tratar como tumor não seminomatoso",
+    "arma": "Rótulo verdadeiro",
+    "comando": "fato solto",
+    "nivel": "média",
+    "enunciado": "Homem de 29 anos foi submetido a orquiectomia radical por massa testicular; a histologia da peça descreve seminoma puro. No pós-operatório, a alfafetoproteína sérica é de 380 ng/mL (referência até 10) e a beta-hCG, de 45 mUI/mL. Para fins de estadiamento e tratamento, o tumor deve ser considerado:",
+    "alternativas": {
+      "A": "Seminoma puro",
+      "B": "Tumor de células germinativas não seminomatoso",
+      "C": "Tumor espermatocítico",
+      "D": "Tumor de células de Leydig"
+    },
+    "gabarito": "B",
+    "armadilha": "A",
+    "dado_decisivo": "a alfafetoproteína sérica é de 380 ng/mL",
+    "resolucao": "O laudo diz seminoma puro, e o rótulo histológico é forte. Mas o seminoma não produz alfafetoproteína; ele pode elevar discretamente a beta-hCG (pelas células sinciciotrofoblásticas), nunca a alfafetoproteína. AFP elevada indica componente não seminomatoso (em geral tumor do saco vitelino) que não foi amostrado na peça, e o tumor passa a ser tratado como não seminomatoso, com outro estadiamento, outra quimioterapia e sem a radiossensibilidade do seminoma. A beta-hCG de 45 é compatível com os dois. O tumor espermatocítico é de idosos e não eleva marcadores, e o de Leydig é estromal, produz andrógenos ou estrógenos.",
+    "comentarios": {
+      "A": "Errada. Seria a classificação se só a beta-hCG estivesse discretamente elevada; o seminoma não produz alfafetoproteína.",
+      "B": "Correta. Alfafetoproteína elevada indica componente não seminomatoso, mesmo com histologia de seminoma puro.",
+      "C": "Errada. Ocorre em homens acima de 50 anos, é indolente e não eleva alfafetoproteína nem beta-hCG.",
+      "D": "Errada. É tumor estromal, que se manifesta por alteração hormonal (ginecomastia, puberdade precoce), sem alfafetoproteína."
+    },
+    "para_levar": "Seminoma não produz alfafetoproteína: AFP elevada com histologia de seminoma significa componente não seminomatoso, e o tumor é tratado como tal.",
+    "referencias": "NCCN Testicular Cancer (2025); EAU Guidelines on Testicular Cancer (2025); ESMO Testicular Seminoma and Non-seminoma Guideline (2022)",
+    "tags": [
+      "190 Testicular Cancer",
+      "Neoplasias e Esquemas Quimioterápicos (CM)"
+    ],
+    "sourceQuestionId": null,
+    "alvo": "Fato solto de evocação e rótulo verdadeiro (laudo histológico) contra o marcador que decide."
+  },
+  {
+    "id": "S8-GAS-07",
+    "simulado": 8,
+    "area": "Oncologia",
+    "titulo": "Obstrução intestinal maligna inoperável e completa: suspender procinético e iniciar octreotida com dexametasona",
+    "arma": "Grade X / Y",
+    "comando": "conduta",
+    "nivel": "difícil",
+    "enunciado": "Mulher de 71 anos, com adenocarcinoma de ovário e carcinomatose peritoneal em progressão após a terceira linha de quimioterapia, em cuidados paliativos exclusivos, é internada por vômitos de aspecto fecaloide, distensão abdominal e cólicas há 4 dias, sem eliminação de flatos há três dias. Usa metoclopramida 10 mg de 8 em 8 horas desde o início dos vômitos e morfina oral. A TC mostra dilatação difusa de delgado com múltiplos pontos de transição por implantes peritoneais e ascite moderada; a cirurgia foi contraindicada pela equipe cirúrgica. PPS de 40%. A paciente quer evitar sonda nasogástrica prolongada. Quanto à metoclopramida e ao tratamento a associar, respectivamente:",
+    "alternativas": {
+      "A": "Suspender metoclopramida / octreotida e dexametasona",
+      "B": "Suspender metoclopramida / lactulose e enema",
+      "C": "Manter metoclopramida / octreotida e dexametasona",
+      "D": "Manter metoclopramida / lactulose e enema"
+    },
+    "gabarito": "A",
+    "armadilha": "C",
+    "dado_decisivo": "sem eliminação de flatos há três dias",
+    "resolucao": "Metoclopramida é o antiemético de primeira linha no paliativo, e a tentação é mantê-la e só somar o antissecretor. Mas sem eliminação de flatos há três dias, com cólicas e múltiplos pontos de transição, a obstrução é completa, e o procinético aumenta a cólica e o risco de perfuração: deve ser suspenso (ele cabe na obstrução parcial, sem cólica). O tratamento farmacológico da obstrução maligna inoperável combina analgesia opioide, antissecretor (octreotida, ou butilbrometo de escopolamina) para reduzir vômitos e secreção, dexametasona para reduzir o edema peritumoral e antiemético de ação central como haloperidol. Laxativos e enemas não têm papel na obstrução completa. Se os vômitos persistirem, a gastrostomia descompressiva evita a sonda prolongada.",
+    "comentarios": {
+      "A": "Correta. Obstrução completa contraindica procinético; octreotida reduz secreção e vômitos e a dexametasona reduz o edema.",
+      "B": "Errada. A suspensão está certa, mas laxativos e enemas não resolvem obstrução mecânica completa por implantes e aumentam a cólica.",
+      "C": "Errada. O antissecretor com corticoide está certo, mas a metoclopramida só cabe na obstrução parcial sem cólica.",
+      "D": "Errada nas duas metades: procinético e laxativo seriam a conduta da constipação por opioide, não da obstrução mecânica completa."
+    },
+    "para_levar": "Obstrução intestinal maligna inoperável: procinético só na parcial sem cólica; na completa, suspender e usar octreotida (ou escopolamina), dexametasona, haloperidol e opioide.",
+    "referencias": "ESMO Clinical Practice Guideline: Management of malignant bowel obstruction (2021, atualização 2023); MASCC/ESMO Antiemetic Guideline (2023); Diretrizes ANCP de Cuidados Paliativos (2020)",
+    "tags": [
+      "Cuidados Paliativos - Oncologia (CM)"
+    ],
+    "sourceQuestionId": "957779c924eaf5d",
+    "alvo": "Ignorar a droga em uso (procinético) que o achado contraindica."
+  }
+]

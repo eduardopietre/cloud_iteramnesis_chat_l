@@ -1,0 +1,205 @@
+[
+ {
+  "id": "S7-INF-01",
+  "simulado": 7,
+  "titulo": "Colite por citomegalovírus na aids: biópsia colônica, porque PCR no sangue não é doença de órgão",
+  "arma": "Rótulo verdadeiro",
+  "comando": "próximo exame",
+  "nivel": "difícil",
+  "enunciado": "Homem de 36 anos, com aids (CD4 24 células/mm³, carga viral 480.000 cópias/mL), abandonou a TARV há 1 ano e retomou tenofovir, lamivudina e dolutegravir há 10 dias. Há 3 semanas tem 6 a 8 evacuações por dia, com sangue e muco, dor em fossa ilíaca esquerda, tenesmo e febre de 38,3 °C; perdeu 5 kg. Exame: PA 112 x 70 mmHg, FC 104 bpm, abdome doloroso em hipogástrio, sem peritonite. Fundoscopia normal. Coproculturas, parasitológico com colorações especiais e pesquisa de toxinas de C. difficile negativos. PCR quantitativo para citomegalovírus no plasma: 6.800 cópias/mL. O próximo exame mais adequado é:",
+  "alternativas": {
+   "A": "Colonoscopia com biópsias",
+   "B": "TC de abdome com contraste",
+   "C": "Antigenemia pp65 para CMV",
+   "D": "Repetir PCR de CMV em 7 dias"
+  },
+  "gabarito": "A",
+  "armadilha": "C",
+  "dado_decisivo": "6 a 8 evacuações por dia, com sangue e muco",
+  "resolucao": "CD4 de 24, colite e PCR de CMV positivo no plasma formam um rótulo forte, e a tentação é confirmar a viremia por outro método ou iniciar ganciclovir. Mas viremia por CMV não é doença de órgão: o PCR plasmático tem valor preditivo limitado, pode ser positivo sem colite e negativo com colite. O diagnóstico de colite por CMV é histológico (inclusões citomegálicas, imuno-histoquímica) em biópsias colhidas por colonoscopia, que também avalia os diferenciais que mudam o tratamento nesse CD4: linfogranuloma venéreo, amebíase, micobactérias, linfoma e sarcoma de Kaposi. A TC mostra espessamento colônico, mas não a causa. Antigenemia e repetição do PCR medem a mesma viremia, não o órgão.",
+  "comentarios": {
+   "A": "Correta. Colite na aids avançada pede colonoscopia com biópsias: histologia e imuno-histoquímica confirmam CMV e afastam outros agentes.",
+   "B": "Errada. A TC seria o exame para suspeita de perfuração, abscesso ou megacólon; ela não dá etiologia.",
+   "C": "Errada. É a armadilha: antigenemia mede viremia, como o PCR, e não prova doença de órgão.",
+   "D": "Errada. Seguir a carga viral seria opção na viremia sem sintomas; aqui há colite ativa a diagnosticar."
+  },
+  "para_levar": "Na aids, doença por CMV fora da retina se prova por biópsia do órgão; PCR ou antigenemia no sangue não bastam.",
+  "referencias": "NIH/CDC/IDSA Guidelines for Opportunistic Infections in Adults and Adolescents with HIV (Cytomegalovirus Disease, 2024); PCDT para Manejo da Infecção pelo HIV em Adultos (MS).",
+  "tags": [
+   "AIDS em TGI (CM)",
+   "Doenças Oportunistas no HIV (CM)"
+  ],
+  "sourceQuestionId": "82f5cfc57c591e6",
+  "alvo": "Oportunistas no HIV e próximo exame: confia em exame de sangue para doença de órgão.",
+  "area": "Infectologia"
+ },
+ {
+  "id": "S7-INF-02",
+  "simulado": 7,
+  "titulo": "Acidente crotálico grave: urina escura com oligúria classifica, apesar do pouco quadro local",
+  "arma": "Grade X / Y",
+  "comando": "diagnóstico",
+  "nivel": "difícil",
+  "enunciado": "Homem de 52 anos, lavrador no interior de Minas Gerais, foi picado no pé esquerdo há 6 horas por serpente que fugiu. Refere pouca dor local; o pé tem apenas parestesia e discreto edema, sem equimose ou bolhas. Queixa visão turva e dor muscular generalizada intensa. Exame: ptose palpebral bilateral evidente, oftalmoplegia, força preservada nos membros, FR 18 irpm, SpO2 97%. Urina avermelhada escura e diurese de 15 mL/h nas últimas 3 horas. Tempo de coagulação: 25 minutos (referência: até 10 minutos). CK 9.800 U/L, creatinina 2,1 mg/dL. O tipo de acidente e a sua classificação de gravidade são, respectivamente:",
+  "alternativas": {
+   "A": "Crotálico / moderado",
+   "B": "Elapídico / grave",
+   "C": "Crotálico / grave",
+   "D": "Botrópico / grave"
+  },
+  "gabarito": "C",
+  "armadilha": "A",
+  "dado_decisivo": "Urina avermelhada escura e diurese de 15 mL/h",
+  "resolucao": "Pouca dor e pouco edema local, sem insuficiência respiratória e com força preservada fazem o quadro parecer contido, e a tendência é classificá-lo como moderado. A classificação do crotálico, porém, é dada pela intensidade das manifestações sistêmicas: fácies miastênica evidente, mialgia intensa e urina escura com oligúria definem o caso grave, que recebe 20 ampolas de soro anticrotálico (moderado, 10; leve, 5), além de hidratação vigorosa para proteger o rim da mioglobinúria. A ptose também ocorre no elapídico, mas este não causa rabdomiólise, urina escura nem incoagulabilidade. O botrópico teria edema, dor e equimose importantes no local.",
+  "comentarios": {
+   "A": "Errada. É a armadilha: o moderado tem sinais neurotóxicos discretos e mialgia discreta, sem oligúria; aqui há urina escura com oligúria e fácies miastênica evidente.",
+   "B": "Errada. O elapídico dá ptose e oftalmoplegia, mas não mialgia com CK de 9.800, urina escura ou coagulopatia.",
+   "C": "Correta. Neurotoxicidade evidente, rabdomiólise com mioglobinúria e oligúria, e incoagulabilidade: crotálico grave, 20 ampolas de soro anticrotálico.",
+   "D": "Errada. O botrópico teria dor, edema e equimose locais intensos e não causa fácies miastênica."
+  },
+  "para_levar": "No crotálico, o pouco quadro local não reduz a gravidade: fácies miastênica evidente, mialgia intensa e urina escura com oligúria classificam como grave.",
+  "referencias": "Ministério da Saúde. Guia de Vigilância em Saúde, 6ª ed. (2023); Manual de Diagnóstico e Tratamento de Acidentes por Animais Peçonhentos (MS/Funasa, 2001).",
+  "tags": [
+   "Acidente Ofídico (CM)",
+   "Acidentes com Animais Peçonhentos (CM)"
+  ],
+  "sourceQuestionId": "e7a29e92f748dc8",
+  "alvo": "Peçonhentos: depois de reconhecer o crotálico, classificar pela gravidade sistêmica.",
+  "area": "Infectologia"
+ },
+ {
+  "id": "S7-INF-03",
+  "simulado": 7,
+  "titulo": "Bacteremia persistente por S. aureus após retirada do cateter, com ecocardiogramas normais: tromboflebite séptica",
+  "arma": "Negativo no meio",
+  "comando": "próximo exame",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 64 anos, diabético, internado há 12 dias por pancreatite aguda, teve febre no 9º dia; hemoculturas periféricas e do cateter venoso central em jugular interna direita cresceram Staphylococcus aureus sensível à oxacilina. O cateter foi retirado no mesmo dia e iniciada oxacilina em dose plena. Hoje, após 72 horas de tratamento, mantém febre de 38,5 °C, e as hemoculturas de controle colhidas ontem estão positivas para o mesmo agente. Refere dor cervical à direita ao girar a cabeça. Exame: discreto empastamento e dor à palpação ao longo do esternocleidomastóideo direito, sem secreção no antigo orifício do cateter; sem sopros; sem dor à percussão da coluna; articulações livres. Ecocardiogramas transtorácico e transesofágico sem vegetações. O próximo exame mais adequado é:",
+  "alternativas": {
+   "A": "PET-CT com FDG de corpo inteiro",
+   "B": "Ultrassonografia Doppler venosa cervical",
+   "C": "RM de coluna total",
+   "D": "Repetir o ecocardiograma transesofágico"
+  },
+  "gabarito": "B",
+  "armadilha": "D",
+  "dado_decisivo": "discreto empastamento e dor à palpação ao longo do esternocleidomastóideo direito",
+  "resolucao": "Bacteremia por S. aureus que persiste 72 horas depois de retirar o cateter e com antibiótico adequado é complicada até prova em contrário, e o reflexo é voltar à endocardite e repetir o transesofágico, ou pedir um exame de varredura. O ecocardiograma transesofágico normal é um negativo verdadeiro que desloca a busca para outro foco endovascular, e o exame físico aponta o lugar: dor e empastamento no trajeto da jugular interna onde esteve o cateter sugerem tromboflebite séptica supurativa. O Doppler venoso cervical é simples, à beira do leito, e confirma. O achado prolonga o tratamento para 4 a 6 semanas e leva a discutir anticoagulação. Repetir o transesofágico pode ter lugar depois, se a busca for negativa e a bacteremia persistir; o PET-CT é varredura para quando não há pista localizatória; RM de coluna seria para dor lombar ou à percussão.",
+  "comentarios": {
+   "A": "Errada. O PET-CT é útil para achar focos metastáticos sem pista clínica; aqui o exame físico já localiza o foco.",
+   "B": "Correta. Bacteremia persistente após retirada de cateter jugular, com dor e empastamento cervical: Doppler para tromboflebite séptica.",
+   "C": "Errada. Seria o exame para espondilodiscite ou abscesso epidural, com dor à percussão ou déficit, ausentes aqui.",
+   "D": "Errada. É a armadilha: repetir o transesofágico entraria se a busca de outro foco fosse negativa; agora há um foco apontado pelo exame físico."
+  },
+  "para_levar": "Bacteremia por S. aureus persistente após retirar o cateter, com ecocardiograma normal: procure tromboflebite séptica no trajeto da veia com Doppler.",
+  "referencias": "IDSA Clinical Practice Guidelines for the Diagnosis and Management of Intravascular Catheter-Related Infection (Mermel et al., 2009); ESC Guidelines for the management of endocarditis (2023).",
+  "tags": [
+   "Infecção de Corrente Sanguínea (CM)",
+   "Infecções Nosocomiais (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Próximo exame: ele pede o degrau mais caro e repete o que já foi negativo, sem usar o exame físico.",
+  "area": "Infectologia"
+ },
+ {
+  "id": "S7-INF-04",
+  "simulado": 7,
+  "titulo": "Malária vivax com deficiência de G6PD: primaquina semanal por 8 semanas, sem tafenoquina",
+  "arma": "Rótulo verdadeiro",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Homem de 26 anos, garimpeiro em Roraima, tem febre em dias alternados há 5 dias. Gota espessa: Plasmodium vivax, 2.000 parasitos/mm³. Sem sinais de gravidade: lúcido, sem icterícia, Hb 12,8 g/dL, plaquetas 92.000/mm³, creatinina 0,9 mg/dL, aceitando a via oral. Peso 70 kg. O teste quantitativo de atividade da G6PD, feito no posto conforme o protocolo, mostrou atividade de 28% do normal. Nunca teve malária. O serviço dispõe de cloroquina, primaquina e tafenoquina. Além da cloroquina por 3 dias, para a cura radical o mais adequado é:",
+  "alternativas": {
+   "A": "Tafenoquina em dose única",
+   "B": "Primaquina diária por 7 dias",
+   "C": "Omitir a cura radical",
+   "D": "Primaquina semanal por 8 semanas"
+  },
+  "gabarito": "D",
+  "armadilha": "A",
+  "dado_decisivo": "mostrou atividade de 28% do normal",
+  "resolucao": "A tafenoquina em dose única é verdadeiramente vantajosa (adesão garantida) e está disponível, o que a torna atraente. Mas ela tem meia-vida longa e só pode ser usada com atividade de G6PD de pelo menos 70%; com 28% causaria hemólise prolongada e sem como suspender. A primaquina diária em dose plena também tem risco alto de hemólise no deficiente. Omitir a cura radical deixaria os hipnozoítos hepáticos e garantiria recaídas. Para o deficiente de G6PD, o esquema recomendado é primaquina 0,75 mg/kg uma vez por semana por 8 semanas, com vigilância de hemólise.",
+  "comentarios": {
+   "A": "Errada. É a armadilha: a tafenoquina exige atividade de G6PD de 70% ou mais; abaixo disso é contraindicada.",
+   "B": "Errada. É o esquema de quem tem G6PD normal; no deficiente, a dose diária causa hemólise.",
+   "C": "Errada. Sem cura radical, os hipnozoítos produzem recaídas; o deficiente recebe esquema adaptado, não fica sem tratamento.",
+   "D": "Correta. Deficiência de G6PD: primaquina 0,75 mg/kg semanal por 8 semanas, com a cloroquina por 3 dias."
+  },
+  "para_levar": "Na malária vivax, a cura radical é guiada pela G6PD: normal (70% ou mais), primaquina 7 dias ou tafenoquina; deficiente, primaquina semanal por 8 semanas.",
+  "referencias": "Ministério da Saúde. Guia de Tratamento da Malária no Brasil (2021) e atualização com incorporação da tafenoquina (2023/2024); WHO Guidelines for Malaria (2024).",
+  "tags": [
+   "Malária (CM)",
+   "Deficiência de G6PD (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Droga em uso e exame que contraindica a primeira linha: ignora a G6PD lida no meio do caso.",
+  "area": "Infectologia"
+ },
+ {
+  "id": "S7-INF-05",
+  "simulado": 7,
+  "titulo": "Proctite por clamídia em homem que faz sexo com homens, sem genotipagem: tratar como linfogranuloma por 21 dias",
+  "arma": "Dado omitido",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Homem de 31 anos, que faz sexo com homens, vive com HIV com carga viral indetectável e usa preservativo de forma irregular, procura atendimento por dor anal, tenesmo, secreção mucopurulenta com sangue e constipação há 10 dias. Exame: T 37,8 °C; linfonodos inguinais pequenos e indolores; sem úlcera perianal visível. Anuscopia: mucosa retal friável, com exsudato e ulcerações rasas. Teste molecular (NAAT) do swab retal: Chlamydia trachomatis detectada e Neisseria gonorrhoeae não detectada. VDRL não reagente. O laboratório não dispõe de genotipagem para os sorovares L1 a L3. O tratamento mais adequado é:",
+  "alternativas": {
+   "A": "Azitromicina 1 g em dose única",
+   "B": "Doxiciclina 100 mg 12/12 h por 7 dias",
+   "C": "Doxiciclina 100 mg 12/12 h por 21 dias",
+   "D": "Ceftriaxona IM e doxiciclina por 7 dias"
+  },
+  "gabarito": "C",
+  "armadilha": "B",
+  "dado_decisivo": "Anuscopia: mucosa retal friável, com exsudato e ulcerações rasas",
+  "resolucao": "Clamídia detectada no reto parece pedir o esquema de clamídia: doxiciclina por 7 dias. O dado que falta (a genotipagem dos sorovares L) quase nunca está disponível, e a diretriz manda decidir sem ele: proctite sintomática com dor, tenesmo, secreção com sangue e úlceras, em homem que faz sexo com homens e com clamídia retal, é tratada presuntivamente como linfogranuloma venéreo, com doxiciclina por 21 dias. Os linfonodos inguinais pequenos não afastam, porque a forma retal costuma não ter bubão. Sete dias de doxiciclina curam a clamídia não L, mas deixam o linfogranuloma evoluir para fístulas e estenose. Azitromicina dose única é inferior no reto, e a ceftriaxona cobriria gonococo, já excluído.",
+  "comentarios": {
+   "A": "Errada. Azitromicina dose única é inferior à doxiciclina na clamídia retal e não trata linfogranuloma.",
+   "B": "Errada. É a armadilha: 7 dias tratam clamídia retal sem proctite importante; com proctocolite sintomática, o tratamento presuntivo é de linfogranuloma.",
+   "C": "Correta. Proctite sintomática com clamídia retal em homem que faz sexo com homens, sem genotipagem: doxiciclina por 21 dias.",
+   "D": "Errada. Seria o empírico de proctite antes do resultado, cobrindo gonococo; o NAAT já excluiu gonococo."
+  },
+  "para_levar": "Clamídia retal com proctite sintomática (dor, tenesmo, sangue, úlceras) é tratada como linfogranuloma, com doxiciclina por 21 dias, sem esperar genotipagem.",
+  "referencias": "CDC Sexually Transmitted Infections Treatment Guidelines (2021); PCDT para Atenção Integral às Pessoas com IST (MS, 2022).",
+  "tags": [
+   "Sífilis, Uretrites Infecciosas e outras DSTs (CM)"
+  ],
+  "sourceQuestionId": "24ce3fd618b97e2",
+  "alvo": "Dado que falta: decidir sem o exame confirmatório quando a clínica já basta.",
+  "area": "Infectologia"
+ },
+ {
+  "id": "S7-INF-06",
+  "simulado": 7,
+  "titulo": "Sinusite necrosante em neutropênico em profilaxia com voriconazol e galactomanana negativa: mucormicose",
+  "arma": "Droga a deduzir",
+  "comando": "etiologia",
+  "nivel": "extremamente difícil",
+  "enunciado": "Mulher de 48 anos, com leucemia mieloide aguda, está no 18º dia de quimioterapia de indução, com neutrófilos de 60/mm³ há 15 dias, e em profilaxia com voriconazol desde o início do ciclo. Há 2 dias tem febre persistente apesar de meropeném e vancomicina, dor e edema na hemiface esquerda e obstrução nasal. Nasofibroscopia: área de mucosa enegrecida no corneto médio esquerdo. Exame: edema palpebral à esquerda, sem alteração visual. Glicemia 128 mg/dL. Galactomanana sérica: índice 0,2 em duas amostras. TC de seios da face: opacificação etmoidomaxilar com erosão óssea. TC de tórax: nódulo de 2 cm com sinal do halo invertido. O agente mais provável é:",
+  "alternativas": {
+   "A": "Mucorales (Rhizopus)",
+   "B": "Aspergillus fumigatus",
+   "C": "Candida krusei",
+   "D": "Pseudomonas aeruginosa"
+  },
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "em profilaxia com voriconazol desde o início do ciclo",
+  "resolucao": "Neutropenia profunda e prolongada com sinusite invasiva e nódulo pulmonar é o cenário do Aspergillus, o fungo filamentoso mais comum nesse paciente, por isso ele atrai. Três dados mudam a etiologia: a infecção surgiu durante profilaxia com voriconazol, que cobre Aspergillus mas não Mucorales (infecção de escape); a galactomanana é negativa em duas amostras; e o sinal do halo invertido é sugestivo de mucormicose. A mucosa necrótica com erosão óssea é comum às duas. A consequência prática é grande: voriconazol não trata mucormicose, e a conduta é anfotericina B lipossomal em dose alta com desbridamento cirúrgico precoce. Candida não forma escara necrótica nasal, e Pseudomonas não daria sinusite necrosante com nódulo de halo invertido sob meropeném.",
+  "comentarios": {
+   "A": "Correta. Infecção de escape sob voriconazol, galactomanana negativa, escara nasal e halo invertido: mucormicose, tratada com anfotericina lipossomal e desbridamento.",
+   "B": "Errada. É a armadilha: seria o agente mais provável sem profilaxia antifúngica ativa contra ele; voriconazol em uso e galactomanana negativa afastam.",
+   "C": "Errada. Candida krusei escapa do fluconazol, não do voriconazol, e causa candidemia, não sinusite necrosante.",
+   "D": "Errada. Pseudomonas causa ectima e otite externa maligna, e o paciente já recebe meropeném."
+  },
+  "para_levar": "Fungo filamentoso invasivo que surge durante profilaxia com voriconazol é mucormicose até prova em contrário: anfotericina lipossomal e cirurgia.",
+  "referencias": "Global guideline for the diagnosis and management of mucormycosis (ECMM/MSG ERC, Cornely et al., 2019); IDSA Practice Guidelines for the Diagnosis and Management of Aspergillosis (2016).",
+  "tags": [
+   "Infecção em Imunossuprimido (CM)",
+   "Neutropenia Febril (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Droga em uso: ignora a profilaxia que muda o agente provável.",
+  "area": "Infectologia"
+ }
+]

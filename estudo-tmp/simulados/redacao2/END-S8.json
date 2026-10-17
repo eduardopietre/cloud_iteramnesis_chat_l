@@ -1,0 +1,170 @@
+[
+ {
+  "id": "S8-END-01",
+  "simulado": 8,
+  "area": "Endocrinologia",
+  "titulo": "Diabetes rotulado como tipo 2 em adulto magro que falha aos orais, com Hashimoto: anti-GAD para reconhecer o autoimune latente",
+  "arma": "Rótulo verdadeiro",
+  "comando": "próximo exame",
+  "nivel": "difícil",
+  "enunciado": "Homem de 41 anos recebeu o diagnóstico de diabetes tipo 2 há 14 meses, com glicemia de 290 mg/dL e HbA1c de 10,2%, sem cetoacidose. Iniciou metformina e, há 8 meses, gliclazida em dose máxima. Relata boa adesão e perdeu 7 kg sem fazer dieta; a HbA1c atual é de 9,6%. Tem hipotireoidismo por tireoidite de Hashimoto em uso de levotiroxina. Pais e irmãos sem diabetes. Exame: IMC 22,4 kg/m², PA 118 x 74 mmHg, sem acantose. Exames: triglicerídeos 88 mg/dL, HDL 62 mg/dL, creatinina normal, cetonúria negativa. Para orientar o tratamento, o próximo exame a ser solicitado é:",
+  "alternativas": {
+   "A": "Cortisol após dexametasona 1 mg",
+   "B": "Teste genético para MODY",
+   "C": "Insulinemia de jejum e HOMA-IR",
+   "D": "Anticorpo anti-GAD"
+  },
+  "gabarito": "D",
+  "armadilha": "B",
+  "dado_decisivo": "Tem hipotireoidismo por tireoidite de Hashimoto em uso de levotiroxina",
+  "resolucao": "O rótulo \"diabetes tipo 2\" foi dado na entrada e conduziu o tratamento com orais. O caso acumula o que não combina com ele: adulto magro, sem acantose, triglicerídeos baixos e HDL alto (sem síndrome metabólica), perda de peso involuntária e falha da sulfonilureia em pouco mais de um ano. A autoimunidade tireoidiana no primeiro plano de antecedentes reforça um diabetes autoimune de evolução lenta no adulto (LADA): idade acima de 30 anos, anticorpo positivo e independência de insulina por pelo menos 6 meses. O próximo exame é o anticorpo anti-GAD, o mais sensível nessa forma; se positivo, a sulfonilureia deve ser suspensa (acelera a falência da célula beta) e a insulina iniciada, e o peptídeo C ajuda a estimar a reserva. O MODY exigiria história familiar autossômica dominante, ausente aqui.",
+  "comentarios": {
+   "A": "Errada. Rastreio de Cushing cabe com fenótipo de excesso de cortisol (estrias, miopatia, hipertensão), ausente neste homem magro e normotenso.",
+   "B": "Errada. É a armadilha: jovem, magro e com anticorpo ainda não dosado lembra MODY, mas o diabetes monogênico pede história familiar em gerações sucessivas, e os pais e irmãos não têm diabetes.",
+   "C": "Errada. Medir resistência insulínica reforçaria o rótulo de tipo 2, que o fenótipo magro, sem síndrome metabólica e com perda de peso já contradiz; não muda a conduta.",
+   "D": "Correta. Adulto magro, sem síndrome metabólica, com falha precoce aos orais e autoimunidade tireoidiana: anti-GAD para reconhecer o LADA e indicar insulina."
+  },
+  "para_levar": "Diabetes tipo 2 em adulto magro, sem síndrome metabólica, que falha rápido aos orais (sobretudo com outra autoimunidade): dose anti-GAD; se positivo, suspenda a sulfonilureia e inicie insulina.",
+  "referencias": "SBD 2024 (Classificação do diabetes); ADA Standards of Care in Diabetes 2026, seção 2; Buzzetti R et al., Diabetes 2020 (consenso de LADA).",
+  "tags": [
+   "Classificação e Diagnóstico Diabetes (CM)"
+  ],
+  "sourceQuestionId": "29295c3bcd18519",
+  "alvo": "Rótulo verdadeiro dado na entrada (DM2) e o antecedente da primeira linha que ele ignora; classificação do diabetes, errada no app."
+ },
+ {
+  "id": "S8-END-02",
+  "simulado": 8,
+  "area": "Endocrinologia",
+  "titulo": "Hipercalcemia acima de 14 com PTH muito alto e massa cervical: carcinoma de paratireoide, ressecção em bloco sem punção",
+  "arma": "Limiar",
+  "comando": "conduta",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 52 anos procura atendimento por fraqueza, poliúria, dores ósseas e perda de 6 kg em 3 meses. Tem nefrolitíase recorrente há 2 anos. Há 1 mês notou rouquidão. Exame: massa cervical endurecida de 3 cm, à esquerda, abaixo do polo inferior da tireoide, pouco móvel. Laringoscopia: paralisia da prega vocal esquerda. Exames: cálcio 15,1 mg/dL (VR 8,5 a 10,2), PTH 1.240 pg/mL (VR 15 a 65), fósforo 1,9 mg/dL, fosfatase alcalina 610 U/L, creatinina 1,5 mg/dL. Após hidratação venosa e zoledronato, o cálcio caiu para 12,3 mg/dL no terceiro dia. Cintilografia com sestamibi: captação intensa e única na massa. Controlada a hipercalcemia, a conduta mais adequada é:",
+  "alternativas": {
+   "A": "Paratireoidectomia minimamente invasiva",
+   "B": "Cinacalcete e reavaliação em 3 meses",
+   "C": "Ressecção em bloco com hemitireoidectomia",
+   "D": "Punção aspirativa por agulha fina da massa"
+  },
+  "gabarito": "C",
+  "armadilha": "D",
+  "dado_decisivo": "PTH 1.240 pg/mL (VR 15 a 65)",
+  "resolucao": "O adenoma de paratireoide dá hipercalcemia leve, PTH modestamente elevado e lesão pequena, quase nunca palpável. Este caso cruza todos os limiares do carcinoma: cálcio acima de 14 mg/dL, PTH muitas vezes acima de 3 a 5 vezes o limite superior (aqui, quase 20 vezes), massa cervical palpável de 3 cm, endurecida e aderida, doença óssea e renal simultâneas e paralisia do nervo laríngeo recorrente, que sugere invasão. O reflexo de quem pede mais um exame é a punção, mas ela está contraindicada: a citologia não distingue adenoma de carcinoma e a punção pode semear o tumor no trajeto. O tratamento que define a cura é cirúrgico e na primeira operação: ressecção em bloco da paratireoide com o lobo tireoidiano ipsilateral e tecidos aderidos, sem romper a cápsula. Cinacalcete é paliação para a hipercalcemia irressecável ou metastática.",
+  "comentarios": {
+   "A": "Errada. É a cirurgia do adenoma localizado; no carcinoma, retirar só a glândula deixa margem e aumenta a recidiva local.",
+   "B": "Errada. Cinacalcete controla o cálcio na doença irressecável ou metastática; adiar a cirurgia de um tumor ressecável perde a única chance de cura.",
+   "C": "Correta. Cálcio acima de 14, PTH quase 20 vezes o normal, massa palpável aderida e paralisia do recorrente: carcinoma de paratireoide, tratado com ressecção em bloco.",
+   "D": "Errada. É a armadilha: a citologia não diferencia adenoma de carcinoma e a punção pode disseminar células no trajeto; está contraindicada na suspeita de carcinoma."
+  },
+  "para_levar": "Cálcio acima de 14, PTH acima de 3 a 5 vezes o normal e massa cervical palpável: suspeite de carcinoma de paratireoide, não puncione e opere em bloco com o lobo tireoidiano ipsilateral.",
+  "referencias": "Fifth International Workshop on Primary Hyperparathyroidism 2022; NCCN Neuroendocrine and Adrenal Tumors 2025 (parathyroid carcinoma); AAES 2016 (Guidelines for definitive management of primary hyperparathyroidism).",
+  "tags": [
+   "Hiperparatireoidismo Primário (Clínica Médica) (CM)",
+   "Hipercalcemias (CM)"
+  ],
+  "sourceQuestionId": "46fbcc28ebb219b",
+  "alvo": "Limiar numérico (cálcio e PTH) e o reflexo de pedir o exame a mais (punção) quando ele é contraindicado."
+ },
+ {
+  "id": "S8-END-03",
+  "simulado": 8,
+  "area": "Endocrinologia",
+  "titulo": "Hiperglicemia vespertina por prednisona matinal no hospital: NPH pela manhã junto com o corticoide",
+  "arma": "Cronologia",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 66 anos, com diabetes tipo 2 em uso de metformina (HbA1c 7,0% há 1 mês), está internada há 2 dias por exacerbação de DPOC e recebe prednisona 40 mg às 8 horas, uma vez ao dia. Alimenta-se bem, pesa 70 kg e tem função renal normal. Recebe apenas insulina regular por escala, em média 16 unidades por dia. Glicemias capilares dos dois dias: jejum entre 112 e 124 mg/dL, antes do almoço 205 a 214 mg/dL, antes do jantar 318 a 342 mg/dL, às 22 horas 280 a 292 mg/dL e às 3 horas 138 a 146 mg/dL. Para o controle glicêmico, a conduta mais adequada é:",
+  "alternativas": {
+   "A": "Glargina às 22 horas",
+   "B": "NPH pela manhã, com a prednisona",
+   "C": "Ampliar a escala de insulina regular",
+   "D": "Infusão venosa contínua de insulina"
+  },
+  "gabarito": "B",
+  "armadilha": "A",
+  "dado_decisivo": "jejum entre 112 e 124 mg/dL",
+  "resolucao": "O reflexo hospitalar é a insulina basal noturna, que é a resposta quando a glicemia de jejum está alta. Aqui a cronologia das glicemias desenha outra curva: jejum quase normal, subida a partir do fim da manhã, pico à tarde e no início da noite, e queda de madrugada. É o perfil da prednisona em dose única matinal, cujo efeito hiperglicemiante começa 4 a 6 horas após a dose e dura cerca de 12 a 16 horas. A insulina que acompanha esse perfil é a NPH aplicada pela manhã junto com o corticoide (em torno de 0,1 U/kg para cada 10 mg de prednisona, até cerca de 0,4 U/kg), com correção por escala nas refeições; a dose acompanha a redução do corticoide. Glargina noturna cobriria a madrugada e o jejum, que já estão bons, com risco de hipoglicemia, e a escala isolada apenas persegue a hiperglicemia já instalada.",
+  "comentarios": {
+   "A": "Errada. É a armadilha: a basal noturna corrige a glicemia de jejum, que está boa, e expõe a madrugada à hipoglicemia, sem cobrir o pico vespertino.",
+   "B": "Correta. Jejum quase normal com pico à tarde sob prednisona matinal: NPH pela manhã, junto com o corticoide, acompanha o perfil hiperglicemiante.",
+   "C": "Errada. Escala isolada trata a hiperglicemia depois que ela aparece; as diretrizes desaconselham usá-la como único esquema na hiperglicemia persistente.",
+   "D": "Errada. Infusão venosa é para paciente crítico, em jejum ou em emergência hiperglicêmica; esta paciente se alimenta e está estável."
+  },
+  "para_levar": "Corticoide em dose única matinal dá hiperglicemia da tarde e do início da noite com jejum preservado: use NPH pela manhã junto com o corticoide, e não basal noturna.",
+  "referencias": "ADA Standards of Care in Diabetes 2026, seção 16 (Diabetes care in the hospital); SBD 2024 (Manejo da hiperglicemia hospitalar).",
+  "tags": [
+   "Hiperglicemia Hospitalar (CM)",
+   "Insulinoterapia (CM)"
+  ],
+  "sourceQuestionId": "57b75df6798dc32",
+  "alvo": "Cronologia (o horário do pico decide a insulina) e a droga em uso que muda a conduta de manual."
+ },
+ {
+  "id": "S8-END-04",
+  "simulado": 8,
+  "area": "Endocrinologia",
+  "titulo": "Insuficiência adrenal central no puerpério sem hemorragia, com lactação preservada: hipofisite linfocítica, e não Sheehan",
+  "arma": "Negativo no meio",
+  "comando": "diagnóstico",
+  "nivel": "extremamente difícil",
+  "enunciado": "Mulher de 31 anos, no 35º dia após parto vaginal sem intercorrências (perda sanguínea estimada de 300 mL, sem transfusão e sem hipotensão), amamenta exclusivamente com boa produção de leite. Tem cefaleia frontal progressiva há 3 semanas, náuseas, astenia e tontura ao levantar; refere cefaleia leve já no último mês da gestação. PA 92 x 60 mmHg em pé, sem alterações neurológicas, campos visuais normais à confrontação. Exames: sódio 128 mEq/L, potássio 4,1 mEq/L, glicemia 64 mg/dL, cortisol às 8 horas 1,8 mcg/dL, ACTH 6 pg/mL (VR 10 a 60), TSH 1,1 mUI/L, T4 livre 0,98 ng/dL (VR 0,9 a 1,8), prolactina 78 ng/mL. Ressonância de sela: hipófise aumentada de forma simétrica, com realce homogêneo e intenso pelo contraste, haste espessada, sem sinais de sangramento, quiasma livre. O diagnóstico mais provável é:",
+  "alternativas": {
+   "A": "Hipofisite linfocítica",
+   "B": "Síndrome de Sheehan",
+   "C": "Macroadenoma não funcionante",
+   "D": "Hiperplasia hipofisária da gestação"
+  },
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "perda sanguínea estimada de 300 mL, sem transfusão e sem hipotensão",
+  "resolucao": "Insuficiência adrenal central no puerpério puxa Sheehan, a resposta de manual. Os negativos do meio derrubam essa hipótese: Sheehan é necrose isquêmica após hemorragia obstétrica grave com choque, e esta paciente perdeu 300 mL sem hipotensão; além disso, a primeira manifestação do Sheehan costuma ser a falha da lactação, e ela amamenta com boa produção. A ressonância completa o quadro: hipófise aumentada de forma simétrica, com realce homogêneo e haste espessada, sem sangramento, em vez da sela que se esvazia no Sheehan. A hipofisite linfocítica acomete sobretudo mulheres no fim da gestação e no pós-parto, com cefaleia e deficiência precoce e seletiva de ACTH, e a prolactina pode estar elevada. A conduta é hidrocortisona imediata, e a cirurgia fica reservada para compressão visual.",
+  "comentarios": {
+   "A": "Correta. Puerpério sem hemorragia, lactação preservada, deficiência de ACTH, prolactina alta e hipófise aumentada de forma simétrica com haste espessada: hipofisite linfocítica.",
+   "B": "Errada. É a armadilha: Sheehan exige hemorragia obstétrica com hipotensão, cursa com falha da lactação e não aumenta a hipófise com realce intenso.",
+   "C": "Errada. Adenoma não funcionante costuma ser assimétrico, desvia a haste em vez de espessá-la e dá deficiência de gonadotrofinas e GH antes da de ACTH.",
+   "D": "Errada. O aumento fisiológico da gestação regride após o parto e não causa insuficiência adrenal, cefaleia progressiva nem espessamento da haste."
+  },
+  "para_levar": "Hipopituitarismo no periparto sem hemorragia, com lactação preservada e hipófise aumentada de forma simétrica com haste espessada é hipofisite linfocítica; Sheehan pede hemorragia com choque e falha da lactação.",
+  "referencias": "Endocrine Society 2016 (Hormonal replacement in hypopituitarism); Joshi MN et al., Eur J Endocrinol 2017 (hypophysitis); Karaca Z et al., Nat Rev Dis Primers 2016 (Sheehan syndrome).",
+  "tags": [
+   "Hipófise (CM)",
+   "Insuficiência Adrenal (CM)"
+  ],
+  "sourceQuestionId": "e0353a3f882e8d1",
+  "alvo": "Negativo no meio derrubando a doença de manual (Sheehan); hipófise, área de erro dele."
+ },
+ {
+  "id": "S8-END-05",
+  "simulado": 8,
+  "area": "Endocrinologia",
+  "titulo": "TSH e T4 livre baixos na sepse com corticoide: eutireoidiano doente, sem reposição",
+  "arma": "Grade X / Y",
+  "comando": "diagnóstico",
+  "nivel": "difícil",
+  "enunciado": "Homem de 68 anos está no 9º dia de UTI por choque séptico de foco pulmonar, em ventilação mecânica, com noradrenalina em redução, dieta enteral plena e hidrocortisona 200 mg/dia. Não tem doença tireoidiana prévia e não recebeu amiodarona nem contraste iodado. Nega cefaleia ou alterações visuais antes da internação. Exames: TSH 0,28 mUI/L (VR 0,4 a 4,0), T4 livre 0,82 ng/dL (VR 0,9 a 1,8), T3 total 38 ng/dL (VR 80 a 180), T3 reverso elevado, sódio 137 mEq/L, glicemia 152 mg/dL. O diagnóstico e a conduta mais adequados são, respectivamente:",
+  "alternativas": {
+   "A": "Hipotireoidismo central / levotiroxina em dose baixa",
+   "B": "Eutireoidiano doente / liotironina venosa",
+   "C": "Eutireoidiano doente / repetir após a recuperação",
+   "D": "Hipotireoidismo central / repetir após a recuperação"
+  },
+  "gabarito": "C",
+  "armadilha": "A",
+  "dado_decisivo": "T3 reverso elevado",
+  "resolucao": "TSH baixo com T4 livre baixa é, fora da UTI, o desenho do hipotireoidismo central, e o reflexo é repor levotiroxina. No doente crítico, o mesmo desenho é adaptação: a inflamação inibe a deiodinase tipo 1 e desvia o T4 para T3 reverso (por isso o T3 cai muito e o T3 reverso sobe), a secreção hipotalâmica de TRH cai, e drogas comuns na UTI, como glicocorticoide e dopamina, suprimem ainda mais o TSH. O T3 reverso elevado é o dado que separa: no hipotireoidismo verdadeiro ele está baixo ou normal. Ensaios com reposição de T4 ou T3 nesses pacientes não mostraram benefício, e a conduta é não tratar e repetir a função tireoidiana semanas após a recuperação, quando o TSH pode até subir transitoriamente.",
+  "comentarios": {
+   "A": "Errada. É a armadilha: o padrão imita o hipotireoidismo central, mas o T3 reverso alto, a sepse e a hidrocortisona explicam os números, e repor não traz benefício.",
+   "B": "Errada. O diagnóstico está certo, mas a liotironina não mostrou benefício no doente crítico e acrescenta risco de arritmia.",
+   "C": "Correta. T3 muito baixo com T3 reverso alto, TSH e T4 livre discretamente baixos na sepse e sob corticoide: eutireoidiano doente, sem reposição e com reavaliação após a recuperação.",
+   "D": "Errada. A conduta de reavaliar é a certa, mas o diagnóstico não: com T3 reverso alto e sem sintomas prévios de massa selar, não há base para chamar de hipotireoidismo central."
+  },
+  "para_levar": "Na doença grave, TSH e T4 livre baixos com T3 baixo e T3 reverso alto são adaptação (eutireoidiano doente): não reponha, repita após a recuperação.",
+  "referencias": "Fliers E et al., Lancet Diabetes Endocrinol 2015 (Thyroid function in critically ill patients); ATA 2014 (Guidelines for the treatment of hypothyroidism).",
+  "tags": [
+   "Síndrome do Eutireoidiano Doente (CM)"
+  ],
+  "sourceQuestionId": "696ea1ee0052ba1",
+  "alvo": "Omissão (não tratar o número) em grade; ele errou a conversão periférica de T4 em T3 no app."
+ }
+]

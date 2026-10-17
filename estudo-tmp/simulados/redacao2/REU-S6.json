@@ -1,0 +1,207 @@
+[
+ {
+  "id": "S6-REU-01",
+  "simulado": 6,
+  "area": "Imunologia",
+  "titulo": "Imunodeficiência comum variável com bronquiectasias e giardíase: dosar imunoglobulinas antes do teste do suor",
+  "arma": "Rótulo verdadeiro",
+  "comando": "próximo exame",
+  "nivel": "difícil",
+  "enunciado": "Homem de 29 anos é encaminhado por infecções respiratórias de repetição desde os 22 anos: quatro pneumonias com internação, sinusites a cada 2 ou 3 meses e otites médias. Há 1 ano tem diarreia aquosa crônica, com perda de 6 kg; o parasitológico mostrou Giardia lamblia, tratada duas vezes, com recidiva. Nunca fumou. Sem consanguinidade entre os pais, sem infertilidade conhecida. Exame físico: IMC 19 kg/m², estertores em bases, baqueteamento digital discreto e baço palpável a 2 cm do rebordo costal. TC de tórax: bronquiectasias cilíndricas em lobos inferiores. Hemograma: leucócitos 6.200/mm³ (linfócitos 1.400/mm³), plaquetas 140.000/mm³. Anti-HIV (quarta geração) não reagente. Eletroforese de proteínas séricas: albumina 3,8 g/dL, fração gama 0,3 g/dL (VR 0,7 a 1,6). O próximo exame mais adequado é:",
+  "alternativas": {
+   "A": "Teste do suor com dosagem de cloro",
+   "B": "Dosagem sérica de IgG, IgA e IgM",
+   "C": "Dosagem sérica de alfa-1 antitripsina",
+   "D": "Biópsia de mucosa nasal para cílios"
+  },
+  "gabarito": "B",
+  "armadilha": "A",
+  "dado_decisivo": "fração gama 0,3 g/dL (VR 0,7 a 1,6)",
+  "resolucao": "Bronquiectasias, diarreia com perda de peso e baqueteamento num adulto jovem formam o rótulo da fibrose cística de apresentação tardia, e o teste do suor parece o passo natural. Mas o padrão de germes conta outra história: pneumonias, sinusites e otites por encapsulados mais giardíase recidivante é a assinatura da deficiência de anticorpos, e a eletroforese já mostra a fração gama em menos da metade do limite inferior, com albumina normal (o que afasta perda proteica intestinal ou renal como causa da hipogamaglobulinemia). Esplenomegalia e plaquetas discretamente baixas também pertencem à imunodeficiência comum variável, que cursa com hiperplasia linfoide e autoimunidade. O passo seguinte é quantificar IgG, IgA e IgM; com IgG baixa e IgA ou IgM baixas, segue-se a resposta vacinal e a imunofenotipagem de linfócitos B, depois de afastadas causas secundárias (drogas, linfoma, perda proteica). A bronquiectasia aqui é consequência das infecções, e não doença primária das vias aéreas.",
+  "comentarios": {
+   "A": "Errada. Seria o exame com bronquiectasias, má absorção pancreática e infertilidade, sem hipogamaglobulinemia; aqui a fração gama baixa e a giardíase apontam para deficiência de anticorpos.",
+   "B": "Correta. A fração gama de 0,3 g/dL com albumina normal exige quantificar as imunoglobulinas, primeiro passo do diagnóstico da imunodeficiência comum variável.",
+   "C": "Errada. A deficiência de alfa-1 antitripsina dá enfisema panacinar de bases e hepatopatia, não infecções por encapsulados com giardíase.",
+   "D": "Errada. Discinesia ciliar primária começa na infância, com situs inversus em metade dos casos e otite crônica, e não reduz a fração gama."
+  },
+  "para_levar": "Infecções sinopulmonares por encapsulados com giardíase e fração gama baixa pedem dosagem de IgG, IgA e IgM antes de qualquer exame de doença de via aérea.",
+  "referencias": "ESID Registry working definitions for clinical diagnosis of inborn errors of immunity (2019); AAAAI/ACAAI Practice parameter for the diagnosis and management of primary immunodeficiency (2015).",
+  "tags": [
+   "Imunodeficiências (CM)",
+   "Hipogamaglobulinemia (CM)",
+   "Erros Inatos da Imunidade (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Imunodeficiências 0 de 3 nas inéditas; rótulo forte (bronquiectasia) contra o laboratório que discrimina."
+ },
+ {
+  "id": "S6-REU-02",
+  "simulado": 6,
+  "area": "Imunologia",
+  "titulo": "Angioedema sem urticária em usuário de IECA com leucemia linfocítica crônica: C4 e C1q baixos indicam deficiência adquirida do inibidor de C1",
+  "arma": "Rótulo verdadeiro",
+  "comando": "etiologia",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 66 anos, hipertenso em uso de enalapril 20 mg/dia há 6 anos, tem leucemia linfocítica crônica diagnosticada há 2 anos, em observação (Binet A). Apresenta o terceiro episódio em 5 meses de edema de lábios e língua, sem prurido e sem urticária, que se resolve em 3 dias. No primeiro episódio recebeu adrenalina intramuscular, prometazina e hidrocortisona, sem resposta. Há 2 meses teve dor abdominal em cólica com vômitos, e a TC mostrou espessamento de alça jejunal que regrediu em 48 horas. Nega casos semelhantes na família. Exames fora da crise: leucócitos 24.000/mm³ (82% linfócitos), C4 de 4 mg/dL (VR 10 a 40), inibidor de C1 quantitativo de 9 mg/dL (VR 21 a 39), C1q de 3 mg/dL (VR 10 a 25). A causa mais provável do angioedema é:",
+  "alternativas": {
+   "A": "Angioedema induzido pelo enalapril",
+   "B": "Angioedema hereditário tipo I",
+   "C": "Angioedema histaminérgico recorrente",
+   "D": "Deficiência adquirida do inibidor de C1"
+  },
+  "gabarito": "D",
+  "armadilha": "A",
+  "dado_decisivo": "C4 de 4 mg/dL (VR 10 a 40)",
+  "resolucao": "Angioedema de língua, sem urticária, sem resposta a adrenalina e anti-histamínico, num hipertenso que usa IECA: o rótulo do angioedema por enalapril é verdadeiro e fortíssimo, e o tempo de uso de 6 anos não o afasta, porque essa reação pode surgir anos depois. Mas o angioedema por IECA é um excesso de bradicinina com complemento normal; ele não consome C4 nem reduz o inibidor de C1. Aqui o C4 e o inibidor de C1 estão baixos fora da crise, o que define deficiência do inibidor, e o C1q baixo separa a forma adquirida (consumo por clone linfoproliferativo ou autoanticorpo anti-C1-INH) da hereditária, em que o C1q é normal. Início após os 60 anos, ausência de história familiar e a leucemia linfocítica crônica fecham o quadro. O enalapril deve ser suspenso de qualquer forma, porque piora qualquer angioedema bradicinérgico, mas não explica o laboratório; a crise se trata com icatibanto ou concentrado de inibidor de C1, e o controle a longo prazo depende de tratar a doença linfoproliferativa.",
+  "comentarios": {
+   "A": "Errada. Seria a resposta com C4 e inibidor de C1 normais; o IECA não consome complemento, e o C4 de 4 mg/dL exige outra explicação.",
+   "B": "Errada. O tipo I cursa com C4 e inibidor de C1 baixos, mas com C1q normal, início na infância ou adolescência e, em geral, história familiar.",
+   "C": "Errada. Seria a resposta com urticária, prurido e resposta a adrenalina e anti-histamínico; aqui não houve nenhum dos três.",
+   "D": "Correta. C4 e inibidor de C1 baixos com C1q baixo, após os 60 anos e com leucemia linfocítica crônica, definem a deficiência adquirida do inibidor de C1."
+  },
+  "para_levar": "No angioedema sem urticária, o C4 separa: normal com IECA aponta a droga; baixo exige dosar o inibidor de C1, e o C1q baixo indica a forma adquirida, que pede busca de doença linfoproliferativa.",
+  "referencias": "Diretrizes brasileiras do angioedema hereditário (ASBAI, 2022); WAO/EAACI guideline for the management of hereditary angioedema (2021 revision).",
+  "tags": [
+   "Angioedema Hereditário (CM)",
+   "Outros temas em Imunologia (CM)"
+  ],
+  "sourceQuestionId": "4f45b07b819fcc8",
+  "alvo": "Errou angioedema adquirido x hereditário (ENARE); rótulo do IECA contra o complemento que decide."
+ },
+ {
+  "id": "S6-REU-03",
+  "simulado": 6,
+  "area": "Farmacodermias",
+  "titulo": "Síndrome de Stevens-Johnson: lamotrigina na janela de latência, e não a dipirona tomada no pródromo",
+  "arma": "Cronologia",
+  "comando": "etiologia",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 41 anos, com epilepsia focal em uso de ácido valproico há 3 anos e transtorno bipolar, teve lamotrigina introduzida há 17 dias pelo psiquiatra, na dose de 50 mg/dia. Usa anlodipino há 4 anos. Há 4 dias teve febre, odinofagia e mal-estar, e tomou dipirona 1 g a cada 6 horas por 2 dias. Há 24 horas surgiram máculas purpúricas e lesões em alvo atípicas planas na face e no tronco, com bolhas flácidas, e erosões nos lábios, na mucosa oral e nas conjuntivas. Nikolsky positivo; o destacamento epidérmico é estimado em 8% da superfície corporal. Tax 38,6 °C, FC 108 bpm, PA 112 x 70 mmHg. O fármaco mais provavelmente responsável é:",
+  "alternativas": {
+   "A": "Dipirona",
+   "B": "Ácido valproico",
+   "C": "Lamotrigina",
+   "D": "Anlodipino"
+  },
+  "gabarito": "C",
+  "armadilha": "A",
+  "dado_decisivo": "teve lamotrigina introduzida há 17 dias",
+  "resolucao": "A dipirona é a última droga tomada e a mais lembrada, mas foi usada para tratar o pródromo febril da própria síndrome, e uma latência de 2 a 4 dias é curta demais para a primeira exposição: é o viés protopático. Na síndrome de Stevens-Johnson, a droga culpada é quase sempre uma iniciada entre 5 e 28 dias antes (critério de latência do algoritmo ALDEN), e a lamotrigina, começada há 17 dias, cai exatamente nessa janela. O valproico, usado há 3 anos, não causa a reação por si nesse tempo, mas explica por que ela ocorreu: inibe a glicuronidação da lamotrigina e dobra seu nível, e por isso a titulação com valproico começa com 25 mg em dias alternados; 50 mg/dia foi dose excessiva. O anlodipino, em uso há anos, tem risco desprezível. Com 8% de destacamento e mucosas acometidas, é síndrome de Stevens-Johnson (menos de 10%), e a conduta central é suspender a lamotrigina e nunca reexpô-la.",
+  "comentarios": {
+   "A": "Errada. Seria suspeita se tivesse sido iniciada 5 a 28 dias antes; tomada no pródromo, com latência de 2 dias, é viés protopático.",
+   "B": "Errada. Em uso há 3 anos, fora da janela de latência; seu papel é elevar o nível da lamotrigina, não causar a reação.",
+   "C": "Correta. Iniciada há 17 dias, em dose alta para quem usa valproico, está na janela de 5 a 28 dias e é droga de alto risco.",
+   "D": "Errada. Droga de baixo risco e em uso há 4 anos; seria considerada apenas se tivesse sido introduzida nas últimas semanas."
+  },
+  "para_levar": "Na SSJ/NET, procure a droga iniciada entre 5 e 28 dias antes; a usada para tratar o pródromo febril costuma ser inocente.",
+  "referencias": "Algoritmo ALDEN (Sassolas et al., 2010); British Association of Dermatologists guidelines for SJS/TEN in adults (2016).",
+  "tags": [
+   "Farmacodermias (CM)",
+   "Epilepsia (CM)"
+  ],
+  "sourceQuestionId": "380de2709646128",
+  "alvo": "Farmacodermias 0 de 3 nas inéditas; cronologia da latência que separa a droga culpada da inocente."
+ },
+ {
+  "id": "S6-REU-04",
+  "simulado": 6,
+  "area": "Reumatologia",
+  "titulo": "Hidroxicloroquina na doença renal crônica: dose por peso real e rastreio retiniano anual desde o início",
+  "arma": "Grade X / Y",
+  "comando": "fato solto",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 46 anos, com lúpus eritematoso sistêmico, peso de 50 kg e taxa de filtração glomerular estimada de 38 mL/min/1,73 m², vai iniciar hidroxicloroquina; o exame oftalmológico basal é normal. Segundo a Academia Americana de Oftalmologia, a dose diária máxima e a periodicidade do rastreio de retinopatia são, respectivamente:",
+  "alternativas": {
+   "A": "250 mg / anual desde o início",
+   "B": "400 mg / anual desde o início",
+   "C": "250 mg / anual após 5 anos",
+   "D": "400 mg / anual após 5 anos"
+  },
+  "gabarito": "A",
+  "armadilha": "C",
+  "dado_decisivo": "taxa de filtração glomerular estimada de 38 mL/min/1,73 m²",
+  "resolucao": "A dose máxima é de 5 mg/kg/dia de peso real, o que dá 250 mg para 50 kg; os 400 mg de hábito ultrapassam o limite e são o maior fator de risco modificável de retinopatia. A metade que engana é a periodicidade: o esquema de exame basal e rastreio anual só após 5 anos vale para quem não tem fator de risco maior. Doença renal crônica reduz a depuração da droga e é fator de risco maior, assim como tamoxifeno, doença retiniana prévia e dose acima de 5 mg/kg; com qualquer deles, o rastreio anual (campo visual automatizado e OCT) começa desde o início. Por isso a armadilha acerta a dose e erra a vigilância.",
+  "comentarios": {
+   "A": "Correta. 5 mg/kg de peso real dá 250 mg, e a TFG de 38 é fator de risco maior, que antecipa o rastreio anual.",
+   "B": "Errada. O rastreio está certo para quem tem DRC, mas 400 mg excedem 5 mg/kg em quem pesa 50 kg.",
+   "C": "Errada. A dose está certa, mas o rastreio anual só após 5 anos vale para quem não tem fator de risco; a DRC antecipa.",
+   "D": "Errada nas duas metades: dose acima de 5 mg/kg e vigilância de quem não tem fator de risco."
+  },
+  "para_levar": "Hidroxicloroquina: no máximo 5 mg/kg/dia de peso real; com DRC, tamoxifeno ou doença retiniana, rastreio anual desde o início.",
+  "referencias": "American Academy of Ophthalmology, Recommendations on screening for chloroquine and hydroxychloroquine retinopathy (2016, revisão 2020); EULAR recommendations for SLE (2023).",
+  "tags": [
+   "Lúpus (CM)",
+   "Drogas antirreumáticas (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Pontos de corte não fixados e regra aplicada sem checar a condição (fator de risco) que a altera."
+ },
+ {
+  "id": "S6-REU-05",
+  "simulado": 6,
+  "area": "Reumatologia",
+  "titulo": "Gota em descendente de coreanos com doença renal crônica: HLA-B*58:01 antes do alopurinol",
+  "arma": "Qualificador",
+  "comando": "próximo exame",
+  "nivel": "difícil",
+  "enunciado": "Homem de 57 anos, filho de imigrantes coreanos, tem gota tofácea com quatro crises no último ano, hipertensão e doença renal crônica com taxa de filtração glomerular estimada de 42 mL/min/1,73 m². Usa losartana e anlodipino. Ácido úrico sérico de 9,8 mg/dL. Radiografia dos pés com erosões em saca-bocado no primeiro metatarsofalângico, com bordas escleróticas. O reumatologista decidiu iniciar terapia hipouricemiante com alopurinol e profilaxia com colchicina. Antes de prescrever o alopurinol, o exame mais adequado é:",
+  "alternativas": {
+   "A": "Pesquisa do alelo HLA-B*58:01",
+   "B": "Atividade da G6PD eritrocitária",
+   "C": "Ácido úrico em urina de 24 horas",
+   "D": "Ultrassonografia articular com duplo contorno"
+  },
+  "gabarito": "A",
+  "armadilha": "C",
+  "dado_decisivo": "filho de imigrantes coreanos",
+  "resolucao": "O comando restringe a pergunta ao que precede o alopurinol, e não ao diagnóstico, que já está feito pelos tofos e pelas erosões. A uricosúria de 24 horas atrai porque separa hiperprodutor de hipoexcretor, mas não muda a escolha da droga e o ACR recomenda contra sua realização rotineira. O alelo HLA-B*58:01 confere risco muito alto de síndrome de Stevens-Johnson, necrólise epidérmica tóxica e DRESS pelo alopurinol, e sua frequência é alta em coreanos, chineses han e tailandeses (e também em afrodescendentes); a doença renal crônica multiplica esse risco. Por isso a diretriz recomenda a pesquisa do alelo antes de iniciar a droga nesses grupos, e um resultado positivo leva ao febuxostate. A G6PD é exigida antes da pegloticase, não do alopurinol.",
+  "comentarios": {
+   "A": "Correta. Ascendência coreana e DRC somam risco de reação grave ao alopurinol, e a pesquisa do alelo vem antes da primeira dose.",
+   "B": "Errada. A G6PD é obrigatória antes da pegloticase, pelo risco de hemólise e metemoglobinemia, e não antes do alopurinol.",
+   "C": "Errada. Separa hiperprodutor de hipoexcretor, mas não muda a escolha do hipouricemiante e não é recomendada de rotina.",
+   "D": "Errada. Seria útil para confirmar gota sem cristal identificado; aqui tofos e erosões já fecham o diagnóstico."
+  },
+  "para_levar": "Antes do alopurinol em descendentes do sudeste e leste asiático (coreanos, chineses han, tailandeses) e em afrodescendentes, pesquise o HLA-B*58:01, sobretudo com DRC.",
+  "referencias": "2020 American College of Rheumatology Guideline for the Management of Gout; Recomendações da SBR para o tratamento da gota (2023).",
+  "tags": [
+   "Gota (CM)",
+   "Farmacodermias (CM)"
+  ],
+  "sourceQuestionId": "176cde004bb35e1",
+  "alvo": "Farmacodermias (DRESS e SSJ por alopurinol) e o exame que precede a droga, não o que repete o diagnóstico."
+ },
+ {
+  "id": "S6-REU-06",
+  "simulado": 6,
+  "area": "Alergia",
+  "titulo": "Urticária crônica espontânea sem controle com anti-histamínico em dose padrão: quadruplicar a dose antes do omalizumabe",
+  "arma": "Omissão",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 34 anos tem há 10 semanas placas eritematoedematosas pruriginosas quase diárias, cada uma durando menos de 24 horas e desaparecendo sem deixar marca, com episódios ocasionais de edema palpebral. Sem febre, artralgia, perda de peso ou dor óssea. Não identifica desencadeante e nega uso de anti-inflamatórios. Usa loratadina 10 mg/dia há 6 semanas, com melhora parcial e escore de atividade semanal (UAS7) de 24. Traz hemograma, VHS, PCR e TSH normais. O próximo passo mais adequado é:",
+  "alternativas": {
+   "A": "Prednisona contínua em dose baixa",
+   "B": "Iniciar omalizumabe subcutâneo",
+   "C": "Pesquisar FAN, anti-TPO e parasitas",
+   "D": "Aumentar a loratadina até 40 mg/dia"
+  },
+  "gabarito": "D",
+  "armadilha": "B",
+  "dado_decisivo": "Usa loratadina 10 mg/dia há 6 semanas",
+  "resolucao": "O UAS7 de 24 indica doença ativa e o omalizumabe é eficaz, o que faz parecer que a hora do biológico chegou. Mas ele é o terceiro degrau: as diretrizes exigem antes a falha do anti-histamínico H1 de segunda geração em até quatro vezes a dose padrão, por 2 a 4 semanas, e a paciente só usou a dose simples. A investigação extensa (FAN, anticorpos tireoidianos, parasitológico, alérgenos) não é recomendada quando hemograma, provas inflamatórias e história não sugerem outra causa, e não muda a conduta. Corticoide contínuo é proscrito na urticária crônica; no máximo um curso de até 10 dias numa exacerbação. O degrau certo é o mais simples: quadruplicar a loratadina e reavaliar.",
+  "comentarios": {
+   "A": "Errada. Corticoide só em curso curto de até 10 dias numa exacerbação grave; o uso contínuo é proscrito pelos efeitos adversos.",
+   "B": "Errada. Seria o passo após falha do anti-H1 em até quatro vezes a dose; a paciente ainda está na dose padrão.",
+   "C": "Errada. Com hemograma, VHS, PCR e TSH normais e sem sinais sistêmicos, a bateria não é recomendada e não muda a conduta.",
+   "D": "Correta. A dose padrão por 6 semanas não controlou; o próximo degrau é até quatro vezes a dose do anti-H1 de segunda geração."
+  },
+  "para_levar": "Urticária crônica espontânea: anti-H1 de segunda geração em dose padrão, depois até quatro vezes a dose, e só então omalizumabe; corticoide contínuo e bateria de exames não entram.",
+  "referencias": "EAACI/GA²LEN/EuroGuiDerm/APAAACI guideline for urticaria (2021); Guia prático de urticária crônica da ASBAI (2023).",
+  "tags": [
+   "Urticária (CM)",
+   "Alergias (CM)"
+  ],
+  "sourceQuestionId": "7f93a77145ad96a",
+  "alvo": "Padrão dominante: pular degrau e pedir exame a mais; errou tratamento de urticária no banco."
+ }
+]

@@ -1,0 +1,171 @@
+[
+  {
+    "id": "S8-PNE-01",
+    "simulado": 8,
+    "area": "Pneumologia",
+    "titulo": "TEP de alto risco no pós-operatório de neurocirurgia: trombólise contraindicada, embolectomia",
+    "arma": "Rótulo verdadeiro",
+    "comando": "conduta",
+    "nivel": "difícil",
+    "enunciado": "Mulher de 56 anos está no 12º dia de pós-operatório de clipagem de aneurisma cerebral roto, já na enfermaria, quando apresenta dispneia súbita e síncope. PA 72 x 40 mmHg após 1.000 mL de cristaloide, FC 128 bpm, SpO2 84% com máscara de reservatório, extremidades frias, lactato 5,1 mmol/L. Ecocardiograma à beira do leito: ventrículo direito muito dilatado e hipocinético, com trombo móvel no átrio direito. Angiotomografia: trombos nas duas artérias pulmonares principais. Noradrenalina já iniciada. O hospital tem cirurgia cardíaca e hemodinâmica disponíveis 24 horas. Além do suporte, a estratégia de reperfusão mais adequada é:",
+    "alternativas": {
+      "A": "Alteplase 100 mg em 2 horas",
+      "B": "Alteplase em meia dose (50 mg)",
+      "C": "Embolectomia cirúrgica ou percutânea",
+      "D": "Filtro de veia cava e heparina plena"
+    },
+    "gabarito": "C",
+    "armadilha": "B",
+    "dado_decisivo": "12º dia de pós-operatório de clipagem de aneurisma cerebral roto",
+    "resolucao": "Choque obstrutivo por TEP com disfunção de ventrículo direito é TEP de alto risco, e o rótulo verdadeiro manda reperfundir com trombolítico sistêmico. Mas cirurgia intracraniana nas últimas 3 semanas é contraindicação absoluta à trombólise, e meia dose não muda isso: a meia dose é estratégia para quem tem risco de sangramento relativo, não para craniotomia recente com aneurisma roto. Quando a trombólise é contraindicada ou falha, a diretriz indica embolectomia cirúrgica ou tratamento dirigido por cateter, disponíveis neste hospital; o trombo móvel no átrio direito reforça a cirurgia. Filtro de veia cava não reperfunde nada e não tira o paciente do choque.",
+    "comentarios": {
+      "A": "Errada. É a reperfusão padrão do TEP de alto risco sem contraindicação; craniotomia há 12 dias é contraindicação absoluta.",
+      "B": "Errada. Meia dose reduz sangramento em cenários de risco relativo, mas cirurgia intracraniana recente segue contraindicação absoluta a qualquer dose sistêmica.",
+      "C": "Correta. TEP de alto risco com trombólise contraindicada e equipe disponível: embolectomia cirúrgica ou por cateter.",
+      "D": "Errada. Filtro previne nova embolia em quem não pode anticoagular, mas não desobstrui a artéria pulmonar nem trata o choque."
+    },
+    "para_levar": "TEP com choque e contraindicação absoluta à trombólise (cirurgia intracraniana recente, AVC hemorrágico, sangramento ativo): embolectomia cirúrgica ou por cateter, sem trombolítico em dose reduzida.",
+    "referencias": "ESC 2019 (embolia pulmonar aguda); Diretriz Conjunta sobre Tromboembolismo Venoso SBC 2022; AHA Scientific Statement on PE interventions 2019.",
+    "tags": [
+      "TEP (CM)",
+      "Choque Obstrutivo (CM)"
+    ],
+    "sourceQuestionId": "0dce7de1926b3b0",
+    "alvo": "Antecedente da primeira linha que contraindica a conduta de manual."
+  },
+  {
+    "id": "S8-PNE-02",
+    "simulado": 8,
+    "area": "Pneumologia",
+    "titulo": "Asma ocupacional no padeiro com asma já confirmada: pico de fluxo seriado, não metacolina",
+    "arma": "Cronologia",
+    "comando": "próximo exame",
+    "nivel": "difícil",
+    "enunciado": "Homem de 34 anos, padeiro há 3 anos, tem há 8 meses tosse, sibilância e aperto no peito que pioram ao longo da semana e melhoram nos fins de semana; nas férias de 20 dias ficou quase sem sintomas. Meses antes da tosse começou a ter coriza aquosa e espirros no trabalho. Nunca fumou. Espirometria feita há 2 semanas, numa segunda-feira pela manhã: VEF1/CVF 0,68, VEF1 78% do previsto, com aumento de 15% (310 mL) após broncodilatador. Continua trabalhando e ainda não usa medicações. O próximo exame mais adequado para estabelecer a relação com o trabalho é:",
+    "alternativas": {
+      "A": "Broncoprovocação inespecífica com metacolina",
+      "B": "Pico de fluxo seriado no trabalho e fora",
+      "C": "IgE total e eosinófilos no sangue",
+      "D": "TC de tórax de alta resolução em expiração"
+    },
+    "gabarito": "B",
+    "armadilha": "A",
+    "dado_decisivo": "com aumento de 15% (310 mL) após broncodilatador",
+    "resolucao": "A cronologia (piora na semana, melhora em folgas e férias, rinite antes da asma) aponta asma ocupacional por farinha. O diagnóstico tem dois degraus: confirmar a asma e depois ligá-la ao trabalho. O primeiro degrau já está cumprido pela prova broncodilatadora positiva, então a broncoprovocação com metacolina, que serve para confirmar asma quando a espirometria é normal, seria um exame a mais. O que falta é a relação com a exposição, e o exame recomendado para isso é o registro seriado do pico de fluxo, várias vezes ao dia, por semanas de trabalho e de afastamento, enquanto ele ainda está exposto. IgE específica para farinha ou teste cutâneo complementam, mas IgE total e eosinófilos não ligam nada ao trabalho.",
+    "comentarios": {
+      "A": "Errada. Metacolina confirma hiper-responsividade quando a espirometria é normal; aqui a asma já está provada pela resposta ao broncodilatador. Teria papel na broncoprovocação comparada dentro e fora do trabalho, em serviço especializado.",
+      "B": "Correta. Asma confirmada; o elo com o trabalho se prova pelo pico de fluxo seriado em períodos de exposição e de afastamento.",
+      "C": "Errada. Indicam atopia ou fenótipo eosinofílico, mas não relacionam a asma com a exposição.",
+      "D": "Errada. Tomografia não diagnostica asma; seria pedida na suspeita de pneumonite de hipersensibilidade ou bronquiectasias."
+    },
+    "para_levar": "Asma ocupacional: com a asma já confirmada, o exame que liga ao trabalho é o pico de fluxo seriado dentro e fora da exposição, feito antes de afastá-lo e antes de tratar.",
+    "referencias": "ERS Task Force on Work-related Asthma 2012; ACCP Consensus Statement on Work-related Asthma 2008; GINA 2024.",
+    "tags": [
+      "Asma - fisiopatologia e diagnóstico (CM)",
+      "Asma (CM)"
+    ],
+    "sourceQuestionId": "da9e7473e311606",
+    "alvo": "Próximo exame: pedir o degrau já cumprido (confirmar asma) em vez do que falta."
+  },
+  {
+    "id": "S8-PNE-03",
+    "simulado": 8,
+    "area": "Pneumologia",
+    "titulo": "Pneumonite actínica após radioterapia de mama rotulada como pneumonia que não responde",
+    "arma": "Rótulo verdadeiro",
+    "comando": "diagnóstico",
+    "nivel": "difícil",
+    "enunciado": "Mulher de 61 anos terminou há 7 semanas radioterapia adjuvante em mama e fossa supraclavicular direitas, após quadrantectomia por carcinoma ductal. Há 10 dias tem tosse seca, dispneia aos médios esforços e febre baixa (37,8 °C). Recebeu amoxicilina-clavulanato por 7 dias, sem melhora. SpO2 93%, estertores finos no ápice direito. Leucócitos 9.200/mm³, PCR 38 mg/L, procalcitonina 0,08 ng/mL. TC: vidro fosco com consolidação no lobo superior direito, com limite lateral retilíneo que não respeita fissuras nem segmentos; pulmão esquerdo normal. Não há derrame nem linfonodomegalia nova. O diagnóstico mais provável é:",
+    "alternativas": {
+      "A": "Pneumonia bacteriana não responsiva",
+      "B": "Linfangite carcinomatosa",
+      "C": "Tromboembolismo pulmonar",
+      "D": "Pneumonite actínica"
+    },
+    "gabarito": "D",
+    "armadilha": "A",
+    "dado_decisivo": "limite lateral retilíneo que não respeita fissuras nem segmentos",
+    "resolucao": "Tosse, febre baixa e consolidação parecem pneumonia, e a falha do antibiótico leva a pensar em germe resistente. Mas a opacidade tem borda retilínea que não obedece à anatomia (fissuras e segmentos) e obedece ao campo de radiação, no ápice do lado irradiado, e surgiu 7 semanas depois da radioterapia, dentro da janela de 4 a 12 semanas da pneumonite actínica. Procalcitonina baixa e leucograma normal reforçam. O tratamento é prednisona, em geral 0,5 a 1 mg/kg com retirada lenta; trocar antibiótico não ajuda. Uma variante a lembrar na mama é a pneumonia em organização induzida por radiação, que surge fora do campo e migra.",
+    "comentarios": {
+      "A": "Errada. Explicaria consolidação lobar ou segmentar com leucocitose e procalcitonina alta; a borda retilínea fora da anatomia indica o campo de radiação.",
+      "B": "Errada. Linfangite dá septos espessados nodulares, geralmente bilaterais, com linfonodos, e não uma consolidação de borda reta.",
+      "C": "Errada. TEP pode dar infarto periférico em cunha, mas não uma opacidade de borda retilínea moldada pelo campo irradiado.",
+      "D": "Correta. Opacidade confinada ao campo, com borda reta, 4 a 12 semanas após a radioterapia: pneumonite actínica."
+    },
+    "para_levar": "Opacidade de borda retilínea, que ignora fissuras e coincide com o campo irradiado, 4 a 12 semanas após radioterapia, é pneumonite actínica; trata-se com corticoide, não com antibiótico.",
+    "referencias": "UpToDate 2025, Radiation-induced lung injury.",
+    "tags": [
+      "Doença Pulmonar Intersticial (CM)",
+      "Outros temas em Pneumologia (CM)"
+    ],
+    "sourceQuestionId": null,
+    "alvo": "Rótulo verdadeiro (pneumonia que não responde) contra o dado de imagem que decide."
+  },
+  {
+    "id": "S8-PNE-04",
+    "simulado": 8,
+    "area": "Pneumologia",
+    "titulo": "Derrame parapneumônico loculado que não drena em paciente sem condição cirúrgica: fibrinolítico com dornase intrapleural",
+    "arma": "Grade X / Y",
+    "comando": "conduta",
+    "nivel": "extremamente difícil",
+    "enunciado": "Homem de 66 anos, com miocardiopatia isquêmica (fração de ejeção de 25%) e DPOC (VEF1 38%), está internado há 5 dias por pneumonia lobar esquerda. No 2º dia, a toracocentese mostrou líquido turvo não purulento, pH 7,05, glicose 30 mg/dL, LDH 2.100 U/L e Gram negativo; recebeu dreno pleural de 24 F e ampicilina-sulbactam. O dreno eliminou 300 mL e parou. Hoje continua febril (38,6 °C), com PCR subindo; o dreno está pérvio e bem posicionado. Ultrassonografia: derrame residual volumoso com múltiplos septos. A cirurgia torácica considera o risco anestésico proibitivo. A interpretação e a conduta mais adequadas são, respectivamente:",
+    "alternativas": {
+      "A": "Falha do antibiótico / trocar por meropeném",
+      "B": "Derrame loculado / alteplase e dornase intrapleurais",
+      "C": "Derrame loculado / decorticação por videotoracoscopia",
+      "D": "Pulmão encarcerado / retirar o dreno"
+    },
+    "gabarito": "B",
+    "armadilha": "C",
+    "dado_decisivo": "A cirurgia torácica considera o risco anestésico proibitivo",
+    "resolucao": "O dreno parou com grande volume residual e septos: o problema é a loculação que impede a drenagem, e não o antibiótico, que está adequado para flora de pneumonia comunitária e aspirativa. Em geral, a falha da drenagem do derrame complicado septado leva à videotoracoscopia com desbridamento ou decorticação, e é isso que o leitor apressado marca. Neste paciente o dado que decide é o risco cirúrgico proibitivo (FE de 25% e VEF1 de 38%), e para ele a diretriz indica a terapia intrapleural combinada de alteplase com dornase alfa, que no estudo MIST-2 melhorou a drenagem e reduziu o encaminhamento à cirurgia; o fibrinolítico isolado não tem esse benefício. Pulmão encarcerado se reconhece por pulmão que não reexpande com pleura visceral espessada, sem infecção ativa.",
+    "comentarios": {
+      "A": "Errada. Febre com coleção não drenada é falha de controle de foco, não de espectro; trocar antibiótico seria resposta com germe resistente isolado.",
+      "B": "Correta. Derrame complicado septado que não drena, em paciente sem condição cirúrgica: alteplase com dornase intrapleurais.",
+      "C": "Errada. É a conduta padrão para quem pode ser operado; o risco anestésico proibitivo a derruba aqui.",
+      "D": "Errada. Encarceramento é complicação tardia sem infecção ativa; retirar o dreno com empiema ativo é deixar o foco."
+    },
+    "para_levar": "Derrame parapneumônico complicado septado que falha à drenagem: videotoracoscopia se o paciente for operável; se não for, alteplase com dornase alfa intrapleurais (nunca fibrinolítico isolado).",
+    "referencias": "BTS Guideline for Pleural Disease 2023; MIST-2 (Rahman et al., N Engl J Med 2011); AATS Consensus on Empyema 2017.",
+    "tags": [
+      "Derrame Pleural (CM)"
+    ],
+    "sourceQuestionId": "a1e4170cc80392b",
+    "alvo": "Porte da conduta pela condição do paciente; grade X / Y conferida pela metade."
+  },
+  {
+    "id": "S8-PNE-05",
+    "simulado": 8,
+    "area": "Dermatologia",
+    "titulo": "Penfigoide bolhoso induzido por inibidor da DPP-4 escondido num comprimido combinado",
+    "arma": "Droga a deduzir",
+    "comando": "etiologia",
+    "nivel": "difícil",
+    "enunciado": "Homem de 74 anos, diabético há 12 anos, tem há 6 semanas prurido intenso e, há 3 semanas, bolhas tensas de conteúdo claro sobre pele eritematosa em coxas, abdome e face flexora dos antebraços. A mucosa oral está poupada e o sinal de Nikolsky é negativo. Há 4 meses o endocrinologista trocou a glibenclamida por um comprimido único que associa metformina a outro antidiabético oral, e ele não sabe o nome. Usa há anos losartana, anlodipino e atorvastatina. Biópsia: clivagem subepidérmica com eosinófilos; imunofluorescência direta com IgG e C3 lineares na zona da membrana basal. Glicemia bem controlada, sem perda de peso. A classe de medicamento com maior probabilidade de ter desencadeado o quadro é:",
+    "alternativas": {
+      "A": "Inibidores da DPP-4",
+      "B": "Biguanidas",
+      "C": "Inibidores do SGLT2",
+      "D": "Bloqueadores do receptor AT1"
+    },
+    "gabarito": "A",
+    "armadilha": "C",
+    "dado_decisivo": "um comprimido único que associa metformina a outro antidiabético oral",
+    "resolucao": "Bolhas tensas, prurido que precede as lesões, mucosa poupada, Nikolsky negativo e IgG e C3 lineares na membrana basal fecham penfigoide bolhoso, e não pênfigo. O idoso tem penfigoide sem droga, mas a cronologia aponta para a mudança de 4 meses: um comprimido que combina metformina com outro antidiabético. Das classes que se combinam com a metformina em comprimido único, a associada a penfigoide bolhoso é a dos inibidores da DPP-4 (gliptinas, sobretudo vildagliptina e linagliptina), com latência de meses. Metformina, losartana e estatina estão em uso há anos sem relação temporal. A conduta é suspender a gliptina e tratar com corticoide tópico de alta potência (clobetasol), que é a primeira linha mesmo na forma extensa.",
+    "comentarios": {
+      "A": "Correta. Gliptinas são a principal causa medicamentosa de penfigoide bolhoso, com início meses após começar, como aqui.",
+      "B": "Errada. A metformina está presente, mas não se associa a penfigoide; o que mudou foi a outra droga do comprimido.",
+      "C": "Errada. iSGLT2 também vêm combinados com metformina, mas seus efeitos de pele são infecção genital e raras farmacodermias, não penfigoide.",
+      "D": "Errada. Losartana em uso há anos, sem relação temporal; fármacos com grupo tiol, como a captopril, é que se ligam a pênfigo."
+    },
+    "para_levar": "Penfigoide bolhoso em diabético: pergunte pela gliptina (inibidor da DPP-4), mesmo escondida num comprimido combinado; suspender e usar clobetasol tópico.",
+    "referencias": "European guidelines (EADV) for bullous pemphigoid 2022.",
+    "tags": [
+      "Farmacodermias (CM)",
+      "Dermatologia (CM)"
+    ],
+    "sourceQuestionId": null,
+    "alvo": "Farmacodermia (lacuna 0 de 3) e droga em uso a deduzir."
+  }
+]
