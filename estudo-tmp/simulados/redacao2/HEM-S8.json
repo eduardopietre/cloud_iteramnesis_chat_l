@@ -1,0 +1,206 @@
+[
+ {
+  "id": "S8-HEM-01",
+  "simulado": 8,
+  "area": "Hematologia",
+  "titulo": "Refratariedade plaquetária na LMA: incremento baixo já em 1 hora indica aloimunização HLA e plaquetas compatíveis",
+  "arma": "Grade X / Y",
+  "comando": "mecanismo",
+  "nivel": "extremamente difícil",
+  "enunciado": "Mulher de 46 anos, G3P3, em indução de leucemia mieloide aguda, recebeu nos últimos 2 dias duas transfusões de plaquetas por aférese, ABO-idênticas e com menos de 48 horas de coleta. Primeira transfusão: plaquetas 5.000/mm³ antes e 7.000/mm³ 1 hora depois. Segunda: 6.000/mm³ antes e 8.000/mm³ 1 hora depois. Está afebril há 4 dias, sem sangramento ativo e sem esplenomegalia. TP, TTPa e fibrinogênio normais. Em uso de aciclovir e fluconazol profiláticos. O mecanismo mais provável da falta de resposta e a conduta para as próximas transfusões são, respectivamente:",
+  "alternativas": {
+   "A": "Consumo não imune / dobrar a dose de plaquetas",
+   "B": "Aloimunização anti-HLA / plaquetas HLA-compatíveis",
+   "C": "Aloimunização anti-HLA / dobrar a dose de plaquetas",
+   "D": "Consumo não imune / plaquetas HLA-compatíveis"
+  },
+  "gabarito": "B",
+  "armadilha": "A",
+  "dado_decisivo": "1 hora depois",
+  "resolucao": "Na leucemia em quimioterapia, a explicação que vem primeiro é o consumo não imune (febre, sepse, esplenomegalia, CIVD, anfotericina), e a reação é aumentar a dose. Mas o momento da contagem separa os mecanismos: no consumo, as plaquetas sobem bem em 1 hora e caem nas 24 horas seguintes; na destruição imune, o incremento já é mínimo em 1 hora. Duas transfusões ABO-idênticas e frescas com ganho de cerca de 2.000/mm³ em 1 hora (incremento corrigido muito abaixo de 5.000 a 7.500) definem refratariedade imune, e a multiparidade explica a sensibilização a antígenos HLA. Sem febre, baço, CIVD ou droga implicada, não há consumo. O passo é pesquisar anticorpos anti-HLA e transfundir plaquetas HLA-compatíveis (ou com prova cruzada compatível); dobrar a dose de plaquetas incompatíveis não muda a destruição.",
+  "comentarios": {
+   "A": "Errada, é a armadilha. Seria o raciocínio com incremento bom em 1 hora e queda em 24 horas, com febre ou esplenomegalia, ausentes aqui.",
+   "B": "Correta. Incremento mínimo já em 1 hora, duas vezes, em multípara: aloimunização HLA, e a conduta é plaqueta HLA-compatível.",
+   "C": "Errada na segunda metade. O mecanismo está certo, mas plaquetas incompatíveis em dose dobrada continuam destruídas pelo anticorpo.",
+   "D": "Errada na primeira metade. Plaquetas HLA-compatíveis não resolvem consumo não imune, e o padrão de 1 hora não é de consumo."
+  },
+  "para_levar": "Refratariedade plaquetária: contar 1 hora após a transfusão. Incremento baixo em 1 hora é imune (anti-HLA, plaquetas compatíveis); bom em 1 hora e perdido em 24 horas é consumo.",
+  "referencias": "BSH 2017 Guidelines for the use of platelet transfusions (Estcourt et al.); AABB 2025 International Platelet Transfusion Guidelines; Ministério da Saúde, Guia para uso de hemocomponentes, 2015.",
+  "tags": [
+   "Hemoterapia (CM)",
+   "LMA (CM)"
+  ],
+  "sourceQuestionId": "0fe0925cbd68c55",
+  "alvo": "Refratariedade plaquetária errada no banco; hemoterapia 0 de 4 no app; dado temporal (1 hora) lido como enfeite."
+ },
+ {
+  "id": "S8-HEM-02",
+  "simulado": 8,
+  "area": "Hematologia",
+  "titulo": "Esquizócitos e plaquetopenia com leucoeritroblastose e ADAMTS13 preservada: microangiopatia do carcinoma disseminado, não PTT",
+  "arma": "Rótulo verdadeiro",
+  "comando": "diagnóstico",
+  "nivel": "extremamente difícil",
+  "enunciado": "Mulher de 41 anos tem há 2 meses dor lombar e na bacia, perda de 6 kg e dispneia aos esforços. Sem febre, sem alterações neurológicas. Hb 7,4 g/dL, reticulócitos 8%, leucócitos 11.000/mm³ com 4% de mielócitos e 6 eritroblastos por 100 leucócitos, plaquetas 38.000/mm³, esquizócitos 6% no esfregaço. LDH 1.450 U/L, bilirrubina indireta 2,6 mg/dL, haptoglobina indetectável, Coombs direto negativo. Creatinina 0,9 mg/dL, INR 1,2, fibrinogênio 210 mg/dL, fosfatase alcalina 610 U/L (VR até 120). A atividade da ADAMTS13 foi de 52%. O diagnóstico mais provável é:",
+  "alternativas": {
+   "A": "Púrpura trombocitopênica trombótica adquirida",
+   "B": "Coagulação intravascular disseminada aguda",
+   "C": "Síndrome hemolítico-urêmica atípica",
+   "D": "Microangiopatia associada a carcinoma disseminado"
+  },
+  "gabarito": "D",
+  "armadilha": "A",
+  "dado_decisivo": "A atividade da ADAMTS13 foi de 52%",
+  "resolucao": "Anemia hemolítica com esquizócitos, Coombs negativo e plaquetopenia é microangiopatia trombótica, e o rótulo verdadeiro empurra para PTT e plasmaférese de urgência. Mas a PTT adquirida se define por ADAMTS13 abaixo de 10%, e aqui a atividade é de 52%. Os outros dados contam a história: dor óssea, perda de peso, fosfatase alcalina alta e leucoeritroblastose (mielócitos e eritroblastos no sangue), que indica infiltração da medula. É a microangiopatia associada a câncer disseminado, em geral adenocarcinoma de estômago, mama, próstata ou pulmão com metástase medular, por êmbolos tumorais na microcirculação. Não responde à plasmaférese; o caminho é a biópsia de medula e o tratamento do tumor. Sem lesão renal não é SHU atípica, e fibrinogênio e INR quase normais afastam CIVD aguda.",
+  "comentarios": {
+   "A": "Errada, é a armadilha. Exigiria ADAMTS13 abaixo de 10%; com 52%, plasmaférese não é o caminho.",
+   "B": "Errada. A CIVD aguda consumiria fibrinogênio e alongaria o tempo de protrombina; ambos estão quase normais. A CIVD crônica do câncer pode coexistir, mas não explica a leucoeritroblastose.",
+   "C": "Errada. A SHU atípica tem lesão renal aguda dominante; a creatinina é de 0,9 mg/dL.",
+   "D": "Correta. Microangiopatia com ADAMTS13 preservada, dor óssea, fosfatase alcalina alta e leucoeritroblastose: câncer com infiltração medular."
+  },
+  "para_levar": "Microangiopatia com ADAMTS13 acima de 10% e leucoeritroblastose não é PTT: pensar em carcinoma com metástase medular e biopsiar a medula, sem plasmaférese.",
+  "referencias": "ISTH 2020 Guidelines for diagnosis of TTP (Zheng et al.); Lechner & Obermeier, Cancer-related microangiopathic hemolytic anemia, Medicine 2012; George & Nester, NEJM 2014.",
+  "tags": [
+   "Microangiopatia Trombótica (MAT) (CM)",
+   "Anemias Hemolíticas Adquiridas (CM)"
+  ],
+  "sourceQuestionId": "5e56068b8909394",
+  "alvo": "Rótulo verdadeiro (esquizócitos levam à PTT) contra o exame da última linha que decide."
+ },
+ {
+  "id": "S8-HEM-03",
+  "simulado": 8,
+  "area": "Hematologia",
+  "titulo": "Queda de plaquetas em 24 horas de heparina com exposição há 19 dias: HIT de início rápido, suspender e trocar por anticoagulante não heparínico",
+  "arma": "Cronologia",
+  "comando": "conduta",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 64 anos fez angioplastia coronária por infarto sem supradesnivelamento de ST há 19 dias, com heparina não fracionada no procedimento e enoxaparina por 3 dias. Foi readmitido ontem por celulite da perna esquerda, com cefazolina e enoxaparina 40 mg/dia profilática. Plaquetas: 236.000/mm³ ontem, à admissão, e 88.000/mm³ hoje, 24 horas depois, confirmadas em amostra com citrato e sem agregados. Afebril há 12 horas, PA 132/80 mmHg, sem sangramento, sem sinais de trombose. Usa AAS e clopidogrel. TFGe 78 mL/min/1,73 m². A conduta mais adequada é:",
+  "alternativas": {
+   "A": "Suspender heparina e iniciar fondaparinux",
+   "B": "Manter enoxaparina e repetir plaquetas em 48 h",
+   "C": "Trocar enoxaparina por heparina não fracionada",
+   "D": "Suspender heparina e transfundir plaquetas"
+  },
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "há 19 dias, com heparina não fracionada no procedimento",
+  "resolucao": "Queda de plaquetas em 24 horas de heparina parece cedo demais para trombocitopenia induzida por heparina, que costuma surgir entre o 5º e o 10º dia, e o apressado mantém a enoxaparina. Mas o relógio começa na exposição anterior: quem recebeu heparina nos últimos 30 dias pode já ter anticorpos anti-PF4/heparina circulantes, e a queda começa em horas (início rápido). No escore 4T: queda de 63% com nadir acima de 20.000 (2 pontos), queda em até 1 dia com exposição nos últimos 30 dias (2), sem trombose (0) e infecção como outra causa possível (1): 5 pontos, probabilidade intermediária. Com probabilidade intermediária ou alta, a ASH recomenda suspender toda heparina, iniciar anticoagulante não heparínico (fondaparinux, argatrobana ou anticoagulante oral direto) e pedir o imunoensaio anti-PF4. Trocar por heparina não fracionada mantém o antígeno, e plaquetas não se transfundem sem sangramento.",
+  "comentarios": {
+   "A": "Correta. Probabilidade intermediária pelo 4T, com exposição recente que explica a queda precoce: suspender heparina, fondaparinux (TFGe preservada) e anti-PF4.",
+   "B": "Errada, é a armadilha. Seria aceitável com 4T baixo, sem exposição prévia e outra causa evidente; aqui a exposição há 19 dias dá 2 pontos ao tempo.",
+   "C": "Errada. Heparina não fracionada tem reação cruzada total com a de baixo peso: o anticorpo reconhece o complexo PF4/heparina.",
+   "D": "Errada. A heparina deve ser suspensa, mas a transfusão de plaquetas sem sangramento é desaconselhada na HIT e deixa o paciente sem anticoagulação."
+  },
+  "para_levar": "Na HIT, o tempo conta a partir da exposição: queda em menos de 24 horas é compatível se houve heparina nos últimos 30 dias. Com 4T intermediário ou alto, suspender heparina e usar anticoagulante não heparínico.",
+  "referencias": "ASH 2018 Guidelines for management of venous thromboembolism: heparin-induced thrombocytopenia (Cuker et al.); Warkentin & Kelton, Temporal aspects of HIT, NEJM 2001.",
+  "tags": [
+   "Trombocitopenia Induzida por heparina (HIT) (CM)",
+   "Anticoagulação (CM)"
+  ],
+  "sourceQuestionId": "5b1c91090ceb4a9",
+  "alvo": "HIT errada no banco pelo 4T; cronologia lida pelo início da internação e não pela exposição."
+ },
+ {
+  "id": "S8-HEM-04",
+  "simulado": 8,
+  "area": "Hematologia",
+  "titulo": "Leucemia linfoblástica aguda do adulto: profilaxia do sistema nervoso central faz parte de todo tratamento",
+  "arma": "Qualificador",
+  "comando": "fato solto",
+  "nivel": "difícil",
+  "enunciado": "No tratamento da leucemia linfoblástica aguda do adulto, independentemente do grupo de risco e diferentemente do tratamento padrão da leucemia mieloide aguda, faz parte obrigatória do protocolo:",
+  "alternativas": {
+   "A": "Ácido all-trans retinoico",
+   "B": "Agente hipometilante",
+   "C": "Profilaxia do sistema nervoso central",
+   "D": "Transplante autólogo de consolidação"
+  },
+  "gabarito": "C",
+  "armadilha": "D",
+  "dado_decisivo": "independentemente do grupo de risco",
+  "resolucao": "O transplante atrai porque é a palavra forte da consolidação nas leucemias, mas na LLA o transplante indicado em alto risco é o alogênico, e o autólogo não tem papel padrão. O traço que separa a LLA da LMA é o tropismo dos linfoblastos pelo sistema nervoso central: sem profilaxia, a recidiva meníngea ocorre em até 30% a 50% dos casos. Por isso, todo protocolo de LLA, de qualquer risco, inclui quimioterapia intratecal (metotrexato, às vezes com citarabina e corticoide) e metotrexato sistêmico em dose alta, e alguns protocolos irradiação craniana. Na LMA, a profilaxia do SNC não é rotina, reservada a hiperleucocitose ou subtipo monocítico. O ácido retinoico é da leucemia promielocítica, e o hipometilante, da LMA do idoso e da SMD.",
+  "comentarios": {
+   "A": "Errada. É o tratamento da leucemia promielocítica aguda, subtipo da LMA.",
+   "B": "Errada. Hipometilantes tratam SMD de alto risco e LMA de idosos não elegíveis para quimioterapia intensiva.",
+   "C": "Correta. Toda LLA recebe profilaxia do SNC (intratecal e metotrexato em dose alta), pela alta taxa de recidiva meníngea.",
+   "D": "Errada, é a armadilha. Na LLA de alto risco, a consolidação é o transplante alogênico; o autólogo não é padrão."
+  },
+  "para_levar": "LLA: profilaxia do sistema nervoso central em todos os pacientes; na LMA ela é exceção (hiperleucocitose, componente monocítico).",
+  "referencias": "NCCN Acute Lymphoblastic Leukemia 2025; ESMO Clinical Practice Guidelines for ALL in adults (Hoelzer et al., 2016).",
+  "tags": [
+   "LLA (CM)",
+   "Leucemias (CM)"
+  ],
+  "sourceQuestionId": "2fead8c1628934a",
+  "alvo": "Leucemias erradas no banco por evocação; fato solto (eixo de erro na UERJ: evocação fora do caso)."
+ },
+ {
+  "id": "S8-HEM-05",
+  "simulado": 8,
+  "area": "Hematologia",
+  "titulo": "TEP subsegmentar incidental no paciente com câncer de pâncreas: anticoagular como o sintomático, sem vigilância",
+  "arma": "Rótulo verdadeiro",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Homem de 61 anos, com adenocarcinoma de pâncreas localmente avançado em quimioterapia com FOLFIRINOX, faz TC de tórax e abdome de reestadiamento. O radiologista descreve falha de enchimento única em artéria subsegmentar do lobo inferior direito. Ele está assintomático, SpO2 97% em ar ambiente, FC 84 bpm, PA 124/76 mmHg. O Doppler venoso dos membros inferiores não mostra trombose. Plaquetas 168.000/mm³, TFGe 82 mL/min/1,73 m², sem sangramento recente, sem metástase cerebral. A conduta mais adequada é:",
+  "alternativas": {
+   "A": "Anticoagular como embolia sintomática",
+   "B": "Vigilância com Doppler seriado",
+   "C": "Filtro de veia cava inferior",
+   "D": "Repetir angiotomografia em 1 semana"
+  },
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "adenocarcinoma de pâncreas localmente avançado em quimioterapia com FOLFIRINOX",
+  "resolucao": "Embolia subsegmentar única, assintomática e sem trombose venosa profunda é o cenário em que a diretriz do CHEST aceita vigilância clínica em vez de anticoagular, e esse rótulo verdadeiro empurra para o Doppler seriado. Mas a vigilância é para quem tem baixo risco de recorrência, e câncer ativo em quimioterapia, sobretudo de pâncreas, é o maior fator de risco de recorrência e progressão. As diretrizes de câncer (ASCO 2023, ISTH, ITAC) recomendam tratar o TEP incidental como o sintomático, inclusive o subsegmentar, com o mesmo anticoagulante e a mesma duração (pelo menos 6 meses e enquanto o câncer estiver ativo). Filtro só cabe com contraindicação à anticoagulação, e repetir a imagem atrasa o tratamento sem mudar a decisão.",
+  "comentarios": {
+   "A": "Correta. TEP incidental no câncer ativo trata-se como o sintomático, mesmo subsegmentar e isolado.",
+   "B": "Errada, é a armadilha. Seria aceitável num paciente sem câncer, com TEP subsegmentar isolado, sem TVP e com reserva cardiopulmonar boa.",
+   "C": "Errada. Filtro de cava se reserva a TEV agudo com contraindicação absoluta à anticoagulação, ausente aqui.",
+   "D": "Errada. Repetir a imagem não muda a indicação e atrasa o tratamento num paciente de alto risco de recorrência."
+  },
+  "para_levar": "No paciente com câncer ativo, TEP incidental, inclusive subsegmentar, é tratado como TEP sintomático; vigilância sem anticoagular é só para o subsegmentar isolado de baixo risco.",
+  "referencias": "ASCO Guideline Update 2023 (Key et al.): VTE prophylaxis and treatment in cancer; CHEST 2021 Antithrombotic Therapy for VTE (Stevens et al.); ITAC 2022.",
+  "tags": [
+   "TEP (CM)",
+   "Anticoagulação (CM)"
+  ],
+  "sourceQuestionId": "254da0a24f0795e",
+  "alvo": "Rótulo verdadeiro (subsegmentar isolado aceita vigilância) contra o antecedente da primeira linha (câncer ativo)."
+ },
+ {
+  "id": "S8-HEM-06",
+  "simulado": 8,
+  "area": "Hematologia",
+  "titulo": "Mieloma latente com cintilografia normal: avaliar lesões líticas com TC de corpo inteiro de baixa dose",
+  "arma": "Negativo no meio",
+  "comando": "próximo exame",
+  "nivel": "difícil",
+  "enunciado": "Homem de 67 anos teve proteína monoclonal IgG kappa de 3,4 g/dL achada na investigação de VHS elevada. Medula óssea com 34% de plasmócitos clonais. Hb 12,9 g/dL, cálcio 9,6 mg/dL, creatinina 1,0 mg/dL, relação de cadeias leves livres kappa/lambda de 22. Queixa-se de dor lombar mecânica há 2 meses. Radiografias do esqueleto (inventário ósseo) e cintilografia óssea com tecnécio não mostraram lesões. O próximo exame para completar a avaliação é:",
+  "alternativas": {
+   "A": "Repetir cintilografia óssea em 6 meses",
+   "B": "TC de corpo inteiro de baixa dose",
+   "C": "Densitometria óssea de coluna e fêmur",
+   "D": "Nenhum, iniciar observação trimestral"
+  },
+  "gabarito": "B",
+  "armadilha": "D",
+  "dado_decisivo": "cintilografia óssea com tecnécio não mostraram lesões",
+  "resolucao": "Sem anemia, hipercalcemia ou insuficiência renal e com relação de cadeias leves abaixo de 100, ele parece mieloma latente, e a cintilografia normal tranquiliza: o apressado vai observar. Mas a cintilografia com tecnécio detecta atividade osteoblástica, e as lesões do mieloma são puramente osteolíticas, sem reação osteoblástica: ela é falsamente negativa e não serve para o mieloma. A radiografia só mostra lesão com perda de 30% a 50% do osso trabecular. O IMWG recomenda TC de corpo inteiro de baixa dose (ou PET-CT) e, se negativa, RM de coluna e pelve, porque uma lesão lítica de 5 mm ou mais, ou mais de uma lesão focal na RM, transforma o quadro em mieloma ativo com indicação de tratamento. A dor lombar torna isso ainda mais urgente.",
+  "comentarios": {
+   "A": "Errada. A cintilografia com tecnécio não detecta as lesões puramente líticas do mieloma; repeti-la não acrescenta nada.",
+   "B": "Correta. A TC de corpo inteiro de baixa dose (ou PET-CT) é o exame de imagem inicial do IMWG; uma lesão lítica muda o diagnóstico para mieloma ativo.",
+   "C": "Errada. A densitometria avalia osteoporose e não identifica lesão lítica focal.",
+   "D": "Errada, é a armadilha. Observar só depois de afastar lesão óssea com imagem sensível; a cintilografia negativa não afasta."
+  },
+  "para_levar": "No mieloma, cintilografia óssea é falsamente negativa (lesão lítica sem reação osteoblástica): a imagem é TC de corpo inteiro de baixa dose, PET-CT ou RM, e uma lesão lítica define doença ativa.",
+  "referencias": "IMWG 2014 diagnostic criteria (Rajkumar et al., Lancet Oncol); IMWG 2019 consensus on imaging in multiple myeloma (Hillengass et al., Lancet Oncol).",
+  "tags": [
+   "Mieloma Múltiplo (CM)",
+   "Mieloma Múltiplo e Outras Discrasias Plasmocitárias (CM)"
+  ],
+  "sourceQuestionId": "5ca99835fd3dbe7",
+  "alvo": "Exame tranquilizador lido como definitivo e próximo exame (o pior comando dele), aqui com a omissão como armadilha."
+ }
+]

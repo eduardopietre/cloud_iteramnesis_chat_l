@@ -1,0 +1,172 @@
+[
+ {
+  "id": "S9-CAR-01",
+  "simulado": 9,
+  "area": "Cardiologia",
+  "titulo": "Hemorragia digestiva com troponina em ascensão e infra de ST novo: infarto tipo 2, e não tipo 1",
+  "arma": "Negativo no meio",
+  "comando": "diagnóstico",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 74 anos, hipertensa, em uso de naproxeno por artrose há 2 meses, é admitida com melena há 2 dias e tontura ao levantar. Nega dor torácica, dispneia ou palpitações em toda a evolução. PA 92x58 mmHg, FC 118 bpm. Hemoglobina de 6,4 g/dL (12,8 g/dL há 3 meses). ECG: taquicardia sinusal com infradesnivelamento horizontal do segmento ST de 1,5 mm de V4 a V6, ausente em traçado anterior. Troponina T ultrassensível de 64 ng/L na admissão e de 118 ng/L após 3 horas (referência até 14). Ecocardiograma sem alteração da contratilidade segmentar, fração de ejeção de 62%. O diagnóstico mais provável é:",
+  "alternativas": {
+   "A": "Infarto agudo do miocárdio tipo 1",
+   "B": "Injúria miocárdica aguda não isquêmica",
+   "C": "Infarto agudo do miocárdio tipo 2",
+   "D": "Angina instável de alto risco"
+  },
+  "gabarito": "C",
+  "armadilha": "A",
+  "dado_decisivo": "infradesnivelamento horizontal do segmento ST de 1,5 mm de V4 a V6, ausente em traçado anterior",
+  "resolucao": "Troponina subindo com infradesnivelamento de ST é lida como infarto sem supra por ruptura de placa (tipo 1), a armadilha, que levaria a antiagregação dupla e anticoagulação numa paciente sangrando. A definição universal separa três situações. Injúria miocárdica é troponina acima do percentil 99; ela é aguda quando sobe ou cai, como aqui. Para ser infarto, precisa de evidência de isquemia: sintoma, alteração isquêmica nova no ECG, onda Q nova, imagem ou trombo. A paciente nega dor (o negativo que empurra para injúria não isquêmica), mas tem infradesnivelamento horizontal novo, critério de isquemia, então é infarto. E o mecanismo é desequilíbrio entre oferta e demanda (hemoglobina de 6,4 com taquicardia e hipotensão), sem evidência de evento aterotrombótico: infarto tipo 2. O tratamento é corrigir a causa (transfusão, endoscopia, suspender o anti-inflamatório), sem antitrombóticos de síndrome coronariana.",
+  "comentarios": {
+   "A": "Errada, e é a armadilha. Exigiria evento aterotrombótico primário; aqui há causa evidente de desequilíbrio entre oferta e demanda, e tratar como tipo 1 (antitrombóticos) agravaria o sangramento.",
+   "B": "Errada. Seria o diagnóstico sem nenhuma evidência de isquemia; a ausência de dor não basta, pois o infradesnivelamento novo é critério isquêmico.",
+   "C": "Correta. Troponina em ascensão com alteração isquêmica nova no ECG define infarto, e a anemia aguda com taquicardia e hipotensão define o mecanismo tipo 2.",
+   "D": "Errada. Angina instável não tem elevação de troponina; com troponina subindo acima do percentil 99, a categoria é infarto."
+  },
+  "para_levar": "Infarto exige troponina que sobe ou cai mais evidência de isquemia (sintoma, ECG, imagem); tipo 2 é desequilíbrio entre oferta e demanda (anemia, taquiarritmia, hipotensão), tratado pela causa.",
+  "referencias": "Quarta Definição Universal de Infarto do Miocárdio (ESC/ACC/AHA/WHF 2018); ESC 2023 (acute coronary syndromes)",
+  "tags": [
+   "IAMSSST (CM)",
+   "Síndrome Coronariana Aguda (CM)"
+  ],
+  "sourceQuestionId": "076985b0ae50179",
+  "alvo": "Laboratório (troponina e ECG) lido pelo rótulo e negativo no meio enganoso; porte da conduta na SCA."
+ },
+ {
+  "id": "S9-CAR-02",
+  "simulado": 9,
+  "area": "Cardiologia",
+  "titulo": "Lúpus com síndrome antifosfolípide e AVC: endocardite de Libman-Sacks e varfarina, e não anticoagulante oral direto",
+  "arma": "Grade X / Y",
+  "comando": "diagnóstico",
+  "nivel": "extremamente difícil",
+  "enunciado": "Mulher de 33 anos, com lúpus eritematoso sistêmico há 8 anos e dois abortamentos espontâneos de primeiro trimestre, é internada por afasia e hemiparesia direita que regrediram parcialmente em 24 horas. Sem febre em nenhum momento; nega uso de drogas intravenosas e não tem neoplasia conhecida. Ressonância: infartos corticais múltiplos em territórios distintos. Exame: PA 128x80 mmHg, FC 82 bpm, sopro holossistólico 2+/6+ no ápice, irradiado para a axila. Leucócitos 4.100/mm³, PCR 0,8 mg/dL; três pares de hemoculturas negativos, colhidos antes de qualquer antibiótico; sorologias para Coxiella e Bartonella negativas. Anticoagulante lúpico positivo e anticardiolipina IgG em título alto, confirmados após 12 semanas. Ecocardiograma transesofágico: vegetações sésseis e verrucosas na face atrial dos dois folhetos mitrais, com insuficiência mitral moderada, sem abscesso. A lesão valvar e a prevenção secundária são, respectivamente:",
+  "alternativas": {
+   "A": "Endocardite marântica / rivaroxabana",
+   "B": "Libman-Sacks / rivaroxabana",
+   "C": "Endocardite marântica / varfarina",
+   "D": "Libman-Sacks / varfarina"
+  },
+  "gabarito": "D",
+  "armadilha": "B",
+  "dado_decisivo": "Anticoagulante lúpico positivo e anticardiolipina IgG em título alto, confirmados após 12 semanas",
+  "resolucao": "Vegetação com AVC embólico puxa para endocardite infecciosa com cultura negativa, mas não há febre, a PCR é baixa e as hemoculturas e as sorologias para os agentes de cultura negativa vieram negativas. Vegetações sésseis e verrucosas na face atrial da mitral, num lúpus com síndrome antifosfolípide (dois abortamentos, anticoagulante lúpico e anticardiolipina persistentes), são a endocardite de Libman-Sacks, trombótica não infecciosa. 'Marântica' é o nome da mesma lesão quando associada a neoplasia ou doença consuptiva, o que a paciente não tem. A segunda metade decide a questão: a síndrome antifosfolípide com evento ARTERIAL (e com valvopatia) pede varfarina com INR de 2 a 3 (ou mais, segundo alguns protocolos), e os anticoagulantes orais diretos são contraindicados, porque tiveram mais eventos arteriais que a varfarina nos ensaios. A lesão valvar geralmente regride pouco, e a insuficiência mitral segue em vigilância.",
+  "comentarios": {
+   "A": "Errada. Erra as duas metades: não há neoplasia para chamar de marântica, e o anticoagulante direto é contraindicado na síndrome antifosfolípide com evento arterial.",
+   "B": "Errada, e é a armadilha. Acerta a lesão e erra o anticoagulante: rivaroxabana teve mais tromboses arteriais que a varfarina na síndrome antifosfolípide.",
+   "C": "Errada. A anticoagulação está certa, mas endocardite marântica é a forma associada a câncer avançado; no lúpus com anticorpos antifosfolípides a lesão é Libman-Sacks.",
+   "D": "Correta. Lúpus com anticorpos antifosfolípides persistentes e vegetações verrucosas estéreis é Libman-Sacks; o AVC na síndrome antifosfolípide pede varfarina."
+  },
+  "para_levar": "Libman-Sacks: vegetação estéril verrucosa, em geral mitral, no lúpus com antifosfolípides; embolia arterial na SAF pede varfarina, e anticoagulante oral direto é contraindicado.",
+  "referencias": "EULAR 2019 (manejo da síndrome antifosfolípide em adultos); ESC 2023 (endocarditis); ACR/EULAR 2023 (critérios de classificação da SAF)",
+  "tags": [
+   "SAF (CM)",
+   "Lúpus (CM)",
+   "Demais valvopatias (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Semiologia da síndrome à lesão (lúpus para lesão valvar) e grade conferida pela metade (a droga)."
+ },
+ {
+  "id": "S9-CAR-03",
+  "simulado": 9,
+  "area": "Cardiologia",
+  "titulo": "Trombose obstrutiva de prótese mecânica mitral com choque: troca valvar de emergência quando a cirurgia está disponível",
+  "arma": "Limiar",
+  "comando": "conduta",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 58 anos, com prótese mecânica mitral há 9 anos por estenose mitral reumática, em uso de varfarina, suspendeu o anticoagulante por conta própria há 3 semanas para uma extração dentária e não o reiniciou. Há 2 dias tem dispneia progressiva, hoje em repouso. Exame: PA 84x56 mmHg, FC 122 bpm, ritmo irregular, SpO2 86% com máscara, crepitações até os ápices, extremidades frias e cliques protéticos abafados. INR 1,1. Ecocardiograma transesofágico: um dos discos imóvel, gradiente médio transprotético de 19 mmHg e trombo de 1,4 cm² aderido à prótese; a fluoroscopia confirma a restrição. O hospital tem cirurgia cardíaca disponível, e o risco cirúrgico estimado é intermediário (EuroSCORE II de 4%). A conduta mais adequada é:",
+  "alternativas": {
+   "A": "Fibrinólise com alteplase",
+   "B": "Troca valvar de emergência",
+   "C": "Heparina intravenosa e reavaliar",
+   "D": "Varfarina com alvo de INR maior"
+  },
+  "gabarito": "B",
+  "armadilha": "C",
+  "dado_decisivo": "trombo de 1,4 cm² aderido à prótese",
+  "resolucao": "A suspensão da varfarina explica o trombo e convida a corrigir só a anticoagulação, que é a armadilha: heparina e reavaliação servem à trombose NÃO obstrutiva ou à obstrutiva de paciente estável com trombo pequeno e recente. Aqui a trombose é obstrutiva (disco imóvel, gradiente de 19 mmHg, cliques abafados) num paciente em choque e edema pulmonar. Para a trombose obstrutiva de prótese esquerda em paciente grave, a recomendação é troca valvar de urgência ou emergência quando a cirurgia está disponível e o risco não é proibitivo. A fibrinólise é a alternativa quando a cirurgia não está disponível ou o risco cirúrgico é muito alto, e o tamanho do trombo pesa contra ela: acima de 0,8 cm² o risco de embolia (cerebral, sobretudo) e de falha cresce. Com 1,4 cm², cirurgia disponível e EuroSCORE de 4%, a resposta é cirúrgica.",
+  "comentarios": {
+   "A": "Errada. Seria a escolha se não houvesse cirurgia cardíaca disponível ou se o risco cirúrgico fosse proibitivo; com trombo acima de 0,8 cm², o risco de embolia e de falha é maior.",
+   "B": "Correta. Trombose obstrutiva de prótese esquerda com choque e edema pulmonar, cirurgia disponível e risco aceitável, pede troca valvar de emergência.",
+   "C": "Errada, e é a armadilha. É a conduta na trombose não obstrutiva ou na obstrutiva de paciente estável com trombo pequeno e recente, e não em choque com disco imóvel.",
+   "D": "Errada. Ajustar o alvo do INR é medida para depois do evento; não desfaz a obstrução atual."
+  },
+  "para_levar": "Trombose obstrutiva de prótese esquerda em paciente grave: cirurgia de emergência; fibrinólise se cirurgia indisponível ou de risco proibitivo; trombo acima de 0,8 cm² pesa contra a lise.",
+  "referencias": "ESC/EACTS 2021 (valvular heart disease); Atualização das Diretrizes Brasileiras de Valvopatias 2020 (SBC); ACC/AHA 2020 (valvular heart disease)",
+  "tags": [
+   "Anticoagulação em Cardiologia (CM)",
+   "Demais valvopatias (CM)"
+  ],
+  "sourceQuestionId": "0911ce318a2a699",
+  "alvo": "Porte e ordem da conduta: anticoagular e esperar quando o grau (obstrução com choque) pede o degrau definitivo."
+ },
+ {
+  "id": "S9-CAR-04",
+  "simulado": 9,
+  "area": "Cardiologia",
+  "titulo": "Bloqueio atrioventricular 2:1: o achado que localiza o bloqueio abaixo do nó",
+  "arma": "Qualificador",
+  "comando": "fato solto",
+  "nivel": "difícil",
+  "enunciado": "No bloqueio atrioventricular de segundo grau com condução 2:1, que não pode ser classificado em Mobitz I ou II pelo traçado de repouso, o achado que indica bloqueio abaixo do nó atrioventricular (infra-hissiano) é:",
+  "alternativas": {
+   "A": "Piora da condução com esforço ou atropina",
+   "B": "Melhora da condução com atropina",
+   "C": "PR longo nos batimentos conduzidos",
+   "D": "QRS estreito nos batimentos conduzidos"
+  },
+  "gabarito": "A",
+  "armadilha": "C",
+  "dado_decisivo": "abaixo do nó atrioventricular (infra-hissiano)",
+  "resolucao": "Na condução 2:1 não há dois PR seguidos conduzidos para ver se o PR alarga, então a classificação vem de outros dados, e o comando pede o que aponta o nível infra-hissiano. A armadilha é achar que o PR longo indica bloqueio mais grave: ele indica atraso nodal, e o bloqueio nodal (Mobitz I) é o de PR longo e QRS estreito. O nó responde ao tônus autonômico: atropina e esforço aceleram o átrio e melhoram a condução nodal. O sistema His-Purkinje não responde à atropina; acelerar o átrio só leva mais impulsos a um tecido doente, e a condução PIORA (de 2:1 para 3:1). Por isso, piora com esforço ou atropina (e melhora com manobra vagal, que lentifica o átrio) aponta bloqueio infra-hissiano, de risco de progressão e com indicação de marca-passo, junto com QRS largo e PR normal nos batimentos conduzidos.",
+  "comentarios": {
+   "A": "Correta. O His-Purkinje não responde à atropina; acelerar o átrio piora a condução de um bloqueio infra-hissiano.",
+   "B": "Errada. Melhora com atropina indica bloqueio nodal, responsivo ao tônus vagal, de melhor prognóstico.",
+   "C": "Errada, e é a armadilha. PR longo nos batimentos conduzidos indica atraso no nó (sugere Mobitz I), e não infra-hissiano.",
+   "D": "Errada. QRS estreito favorece bloqueio nodal; o infra-hissiano costuma ter QRS largo."
+  },
+  "para_levar": "BAV 2:1: PR longo, QRS estreito e melhora com atropina ou esforço sugerem bloqueio nodal; PR normal, QRS largo e piora com atropina ou esforço sugerem infra-hissiano, de marca-passo.",
+  "referencias": "ACC/AHA/HRS 2018 (bradycardia and cardiac conduction delay); ESC 2021 (cardiac pacing and cardiac resynchronization therapy)",
+  "tags": [
+   "Bloqueios atrioventriculares (BAV) (CM)",
+   "Bradiarritmias Malignas e Indicação de Marca-Passo (CM)"
+  ],
+  "sourceQuestionId": "0cab12c3d82be08",
+  "alvo": "Fato solto (evocação sem caso) e ECG como discriminante, a fraca do marca-passo que ele errou."
+ },
+ {
+  "id": "S9-CAR-05",
+  "simulado": 9,
+  "area": "Cardiologia",
+  "titulo": "MAPA com vigília e 24 horas normais e sono acima de 120x70: não é avental branco",
+  "arma": "Limiar",
+  "comando": "diagnóstico",
+  "nivel": "média",
+  "enunciado": "Homem de 52 anos, sem medicação, com PA de consultório de 146x92 mmHg e 144x90 mmHg em duas consultas, realiza MAPA de 24 horas válida, com média de 24 horas de 127x78 mmHg, média de vigília de 131x82 mmHg, média do sono de 124x74 mmHg e descenso noturno da sistólica de 5%. ECG com índice de Sokolow-Lyon de 37 mm e relação albumina/creatinina urinária de 42 mg/g. O diagnóstico é:",
+  "alternativas": {
+   "A": "Hipertensão do avental branco",
+   "B": "Hipertensão mascarada",
+   "C": "Efeito do avental branco",
+   "D": "Hipertensão sustentada"
+  },
+  "gabarito": "D",
+  "armadilha": "A",
+  "dado_decisivo": "média do sono de 124x74 mmHg",
+  "resolucao": "PA alta no consultório com médias de 24 horas (abaixo de 130x80) e de vigília (abaixo de 135x85) normais leva direto a avental branco, que é a armadilha de quem olha só a vigília. O avental branco exige MAPA normal em todos os períodos, e o limiar do sono é 120x70 mmHg: com 124x74 a pressão noturna é hipertensiva. PA alta no consultório e alta fora dele, em qualquer período, é hipertensão sustentada (verdadeira), aqui com hipertensão noturna e ausência de descenso (5%, abaixo de 10%), padrões de maior risco. Hipertrofia ventricular pelo Sokolow-Lyon (acima de 35 mm) e albuminúria moderada confirmam lesão de órgão-alvo. Mascarada exigiria PA normal no consultório, e 'efeito do avental branco' é a diferença entre consultório e MAPA em quem já trata e está controlado fora.",
+  "comentarios": {
+   "A": "Errada, e é a armadilha. Exigiria MAPA normal também no sono (abaixo de 120x70); a média do sono está acima do limiar.",
+   "B": "Errada. Mascarada é PA normal no consultório com MAPA alterada; aqui o consultório está alto.",
+   "C": "Errada. Efeito do avental branco descreve a elevação no consultório de quem já está em tratamento; o paciente não usa medicação e tem MAPA alterada.",
+   "D": "Correta. PA alta no consultório e média do sono acima de 120x70 na MAPA é hipertensão sustentada, com hipertensão noturna e sem descenso."
+  },
+  "para_levar": "MAPA normal: 24 horas abaixo de 130x80, vigília abaixo de 135x85 e sono abaixo de 120x70; qualquer período alterado com consultório alto é hipertensão sustentada, não avental branco.",
+  "referencias": "Diretriz Brasileira de Hipertensão Arterial (SBC 2025); Diretrizes Brasileiras de Medidas da Pressão Arterial Dentro e Fora do Consultório (SBC 2023); ESH 2023",
+  "tags": [
+   "HAS : Diagnóstico, Estratificação, Metas terapeuticas e MEVs (CM)"
+  ],
+  "sourceQuestionId": "0c4f3c783bd0865",
+  "alvo": "Ponto de corte não fixado (sono da MAPA) e exame lido pela metade."
+ }
+]

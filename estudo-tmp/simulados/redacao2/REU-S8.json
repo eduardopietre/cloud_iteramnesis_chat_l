@@ -1,0 +1,204 @@
+[
+ {
+  "id": "S8-REU-01",
+  "simulado": 8,
+  "area": "Reumatologia",
+  "titulo": "Paralisia hipocalêmica com acidose hiperclorêmica e pH urinário alto: acidose tubular distal do Sjögren, e não paralisia tireotóxica",
+  "arma": "Rótulo verdadeiro",
+  "comando": "etiologia",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 36 anos é levada à emergência por fraqueza nos quatro membros que começou ao acordar, sem alteração de sensibilidade. Teve episódio semelhante há 1 ano, resolvido com reposição de potássio. Usa levotiroxina 100 mcg/dia por tireoidite de Hashimoto e refere olhos ressecados, que atribui às lentes de contato. PA 112 x 70 mmHg, FC 80 bpm. Força grau 2 proximal, reflexos diminuídos. Exames: K 2,1 mEq/L, Na 139 mEq/L, Cl 116 mEq/L, gasometria arterial com pH 7,28, bicarbonato 14 mEq/L, pCO2 30 mmHg; TSH 0,3 mUI/L (VR 0,4 a 4,5), T4 livre 1,7 ng/dL (VR 0,9 a 1,8); urina com pH 6,8 e ânion gap urinário positivo. Radiografia simples de abdome com calcificações em topografia das pirâmides renais. A causa mais provável do quadro é:",
+  "alternativas": {
+   "A": "Acidose tubular renal distal",
+   "B": "Paralisia periódica tireotóxica",
+   "C": "Hiperaldosteronismo primário",
+   "D": "Uso oculto de diurético tiazídico"
+  },
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "gasometria arterial com pH 7,28, bicarbonato 14 mEq/L",
+  "resolucao": "TSH discretamente suprimido em quem usa levotiroxina, com paralisia hipocalêmica ao acordar, é o rótulo da paralisia periódica tireotóxica. Mas nela a hipocalemia é por desvio intracelular, sem distúrbio ácido-base, e o T4 livre aqui está normal. A gasometria decide: acidose metabólica hiperclorêmica (ânion gap de 9) com pH urinário de 6,8 e ânion gap urinário positivo é incapacidade de acidificar a urina, ou seja, acidose tubular renal distal, e a nefrocalcinose é sua complicação. Em mulher jovem com olhos secos e outra doença autoimune, a causa adquirida mais comum de acidose tubular distal é a síndrome de Sjögren, que deve ser investigada com anti-Ro, anti-La, teste de Schirmer e biópsia de glândula salivar menor. Hiperaldosteronismo e diurético produzem alcalose, e não acidose.",
+  "comentarios": {
+   "A": "Correta. Acidose hiperclorêmica, pH urinário de 6,8, ânion gap urinário positivo e nefrocalcinose definem acidose tubular distal.",
+   "B": "Errada. Seria a resposta com T4 livre alto, sem acidose e com potássio que rebota após a crise; aqui há acidose hiperclorêmica.",
+   "C": "Errada. Daria hipertensão e alcalose metabólica; esta paciente tem PA 112 x 70 mmHg e bicarbonato de 14.",
+   "D": "Errada. Tiazídico causa hipocalemia com alcalose metabólica e cálcio urinário baixo, não acidose com nefrocalcinose."
+  },
+  "para_levar": "Hipocalemia com acidose hiperclorêmica e pH urinário acima de 5,5 é acidose tubular distal; em mulher jovem com secura, pense em Sjögren.",
+  "referencias": "2016 ACR/EULAR classification criteria for primary Sjögren's syndrome; Recomendações da SBR para manifestações extraglandulares da síndrome de Sjögren (2021).",
+  "tags": [
+   "Sjogren (CM)",
+   "Hipopotassemia (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Exame que decide (gasometria) lido como enfeite quando um rótulo (TSH baixo) vem antes; Sjögren extraglandular."
+ },
+ {
+  "id": "S8-REU-02",
+  "simulado": 8,
+  "area": "Reumatologia",
+  "titulo": "Anemia ferropriva na esclerose sistêmica com colangite biliar primária: ectasia vascular antral, e não gastropatia portal",
+  "arma": "Rótulo verdadeiro",
+  "comando": "etiologia",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 61 anos tem esclerose sistêmica cutânea limitada há 9 anos, com anticorpo anticentrômero positivo, e colangite biliar primária diagnosticada há 4 anos, em uso de ácido ursodesoxicólico. Procura atendimento por cansaço e duas evacuações enegrecidas no último mês. Nega uso de anti-inflamatórios ou anticoagulantes. Exames: Hb 7,9 g/dL, VCM 71 fL, ferritina 6 ng/mL, plaquetas 248.000/mm³, albumina 4,0 g/dL, INR 1,0, bilirrubina total 0,8 mg/dL. Elastografia hepática de 6,1 kPa. Endoscopia digestiva alta: ausência de varizes; no antro, faixas eritematosas lineares que convergem radialmente para o piloro; fundo e corpo gástricos sem alterações. A causa mais provável do sangramento é:",
+  "alternativas": {
+   "A": "Gastropatia da hipertensão portal",
+   "B": "Angiodisplasias do intestino delgado",
+   "C": "Ectasia vascular antral gástrica",
+   "D": "Esofagite péptica erosiva"
+  },
+  "gabarito": "C",
+  "armadilha": "A",
+  "dado_decisivo": "no antro, faixas eritematosas lineares que convergem radialmente para o piloro",
+  "resolucao": "Colangite biliar primária na esclerose sistêmica limitada é associação real e puxa para hipertensão portal e gastropatia portal. Mas não há nada de hipertensão portal: elastografia de 6,1 kPa, plaquetas normais, albumina e INR normais e ausência de varizes. E a topografia separa as duas lesões: a gastropatia portal acomete fundo e corpo, em padrão mosaico, enquanto faixas vermelhas lineares no antro, convergindo para o piloro (o estômago em melancia), são da ectasia vascular antral gástrica, complicação conhecida da esclerose sistêmica e causa de sangramento crônico com anemia ferropriva. O tratamento é endoscópico (coagulação com plasma de argônio ou ablação por radiofrequência) com reposição de ferro; betabloqueador, útil na gastropatia portal, não tem papel aqui.",
+  "comentarios": {
+   "A": "Errada. Seria a resposta com hipertensão portal (varizes, plaquetopenia, elastografia alta) e mosaico em fundo e corpo.",
+   "B": "Errada. Entrariam na investigação com endoscopia alta e colonoscopia normais; aqui a lesão antral já explica o sangramento.",
+   "C": "Correta. Faixas lineares antrais convergindo ao piloro, sem hipertensão portal, na esclerose sistêmica: estômago em melancia.",
+   "D": "Errada. A esofagite é comum na esclerose sistêmica, mas a endoscopia não a descreve e ela raramente dá melena e ferritina de 6."
+  },
+  "para_levar": "Na esclerose sistêmica, anemia ferropriva com faixas vermelhas lineares no antro é ectasia vascular antral; a gastropatia portal é de fundo e corpo e exige hipertensão portal.",
+  "referencias": "ASGE guideline on management of GAVE (2021); EULAR recommendations for the treatment of systemic sclerosis (2023).",
+  "tags": [
+   "Esclerose Sistêmica (CM)",
+   "Estômago (CM)"
+  ],
+  "sourceQuestionId": "eefaec292a6de95",
+  "alvo": "Errou diarreia na esclerose sistêmica (18% de acerto geral); rótulo verdadeiro (CBP) contra o achado que discrimina."
+ },
+ {
+  "id": "S8-REU-03",
+  "simulado": 8,
+  "area": "Reumatologia",
+  "titulo": "Policondrite recidivante com estridor: avaliar a via aérea por TC dinâmica, e não biopsiar a orelha",
+  "arma": "Negativo no meio",
+  "comando": "próximo exame",
+  "nivel": "difícil",
+  "enunciado": "Homem de 47 anos tem há 4 meses crises de dor, calor e vermelhidão nos dois pavilhões auriculares, poupando os lóbulos, que regridem em 1 a 2 semanas e deixaram as orelhas amolecidas. Há 2 meses notou afundamento do dorso nasal, sem obstrução, crostas ou epistaxe. Há 3 semanas tem rouquidão, tosse seca e dispneia aos esforços moderados, com chiado que não melhora com salbutamol. Teve episclerite à direita há 1 mês. Exame: SpO2 95%, estridor discreto à inspiração forçada, pavilhões auriculares flácidos, nariz em sela. VHS 68 mm/h, EAS normal, creatinina 0,8 mg/dL; ANCA por imunofluorescência e por ELISA negativos. O exame mais adequado neste momento é:",
+  "alternativas": {
+   "A": "Ecocardiograma transtorácico",
+   "B": "TC de tórax em inspiração e expiração",
+   "C": "Biópsia da cartilagem auricular",
+   "D": "Biópsia de mucosa nasal"
+  },
+  "gabarito": "B",
+  "armadilha": "C",
+  "dado_decisivo": "poupando os lóbulos",
+  "resolucao": "Condrite auricular bilateral que poupa o lóbulo (que não tem cartilagem), condrite nasal com nariz em sela, inflamação ocular e acometimento laringotraqueal somam quatro critérios de McAdam: o diagnóstico de policondrite recidivante é clínico, e a biópsia, que atrai por dar certeza histológica, não é necessária e não muda a conduta. A granulomatose com poliangeíte também dá nariz em sela e estenose subglótica, mas não poupa nem acomete a orelha dessa forma, cursa com sinusite crostosa e ANCA, ausentes aqui. O que decide o tratamento e o risco de morte agora é a via aérea: rouquidão, estridor e chiado sem resposta ao broncodilatador sugerem estenose ou traqueobroncomalácia, que a TC de tórax com fase expiratória (com espirometria e curva fluxo-volume) demonstra. Acometimento de via aérea indica corticoide em dose alta e imunossupressor.",
+  "comentarios": {
+   "A": "Errada. A aortite e a insuficiência aórtica são complicações a rastrear depois, mas não explicam o estridor atual.",
+   "B": "Correta. Estridor e chiado sem resposta ao broncodilatador exigem avaliar estenose e malácia traqueobrônquica, que definem a gravidade.",
+   "C": "Errada. Com quatro critérios clínicos de McAdam o diagnóstico está feito; a biópsia só é útil em apresentação incompleta.",
+   "D": "Errada. Seria útil na suspeita de granulomatose com poliangeíte, com sinusite crostosa e ANCA positivo, ausentes aqui."
+  },
+  "para_levar": "Na policondrite recidivante, o diagnóstico é clínico (orelha poupando o lóbulo, nariz, olho, via aérea); com rouquidão ou estridor, a prioridade é avaliar a via aérea.",
+  "referencias": "Critérios de McAdam modificados por Damiani; Kingdon et al., Relapsing polychondritis: BSR recommendations (2018); Mathian et al., French recommendations (2023).",
+  "tags": [
+   "Doenças Raras (CM)",
+   "Reumatologia (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Faz mais do que o caso pede (biópsia de confirmação) e perde a prioridade; doença rara que a UERJ cobra."
+ },
+ {
+  "id": "S8-REU-04",
+  "simulado": 8,
+  "area": "Reumatologia",
+  "titulo": "Polimiosite refratária em idoso com fraqueza assimétrica de quadríceps e flexores dos dedos: miosite por corpos de inclusão",
+  "arma": "Rótulo verdadeiro",
+  "comando": "diagnóstico",
+  "nivel": "difícil",
+  "enunciado": "Homem de 71 anos recebeu há 18 meses o diagnóstico de polimiosite por fraqueza progressiva e CK de 820 U/L. Usou prednisona em dose plena por 3 meses, hoje 10 mg/dia, e usa metotrexato 20 mg/semana, sem melhora: a fraqueza continua piorando lentamente. Refere quedas porque o joelho falseia, dificuldade para abotoar a camisa e segurar a xícara, e engasgos ocasionais. Exame: fraqueza assimétrica, mais intensa no quadríceps (grau 3 à direita, 4 à esquerda) e nos flexores profundos dos dedos, com deltoides grau 4+ e atrofia da face volar dos antebraços. CK 640 U/L. Sem lesões de pele, sem artrite, TC de tórax normal. Eletroneuromiografia com padrão miopático e potenciais de fibrilação. O diagnóstico mais provável é:",
+  "alternativas": {
+   "A": "Miopatia induzida por corticoide",
+   "B": "Polimiosite refratária",
+   "C": "Miopatia necrotizante imunomediada",
+   "D": "Miosite por corpos de inclusão"
+  },
+  "gabarito": "D",
+  "armadilha": "B",
+  "dado_decisivo": "mais intensa no quadríceps (grau 3 à direita, 4 à esquerda) e nos flexores profundos dos dedos",
+  "resolucao": "O diagnóstico prévio de polimiosite é um rótulo, e a falta de resposta sugere apenas intensificar a imunossupressão. Mas o padrão de fraqueza não é o da polimiosite, que é proximal, simétrico e cintural: aqui ela é assimétrica e predomina no quadríceps e nos flexores profundos dos dedos, com atrofia volar dos antebraços e disfagia, em homem acima de 50 anos, com CK apenas moderadamente elevada e progressão lenta apesar do tratamento. Essa combinação define a miosite por corpos de inclusão, a miopatia inflamatória mais comum depois dos 50 anos e a que não responde a imunossupressores. A confirmação é pela biópsia (vacúolos marginados, inclusões, invasão de fibras não necróticas) e pelo anticorpo anti-cN1A; a conduta é retirar a imunossupressão e investir em fisioterapia e manejo da disfagia.",
+  "comentarios": {
+   "A": "Errada. A miopatia por corticoide é proximal e simétrica, com CK normal e sem fibrilações; não explica flexores dos dedos.",
+   "B": "Errada. Seria a resposta com fraqueza proximal simétrica; o padrão assimétrico distal-proximal aponta outra doença.",
+   "C": "Errada. A necrotizante dá fraqueza proximal simétrica grave com CK geralmente acima de 5.000 U/L.",
+   "D": "Correta. Quadríceps e flexores profundos dos dedos, assimetria, idade acima de 50 anos e refratariedade definem a doença."
+  },
+  "para_levar": "Polimiosite que não responde em idoso: examine quadríceps e flexores dos dedos; fraqueza assimétrica nesses grupos é miosite por corpos de inclusão.",
+  "referencias": "ENMC IBM Research Diagnostic Criteria (2011); EULAR/ACR classification criteria for idiopathic inflammatory myopathies (2017).",
+  "tags": [
+   "Miopatias Autoimunes Sistêmicas - Dermatomiosite, Polimiosite e Anti-sintetase (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Rótulo verdadeiro (diagnóstico prévio) que impede reavaliar; miopatias com subtipo, ao estilo UERJ."
+ },
+ {
+  "id": "S8-REU-05",
+  "simulado": 8,
+  "area": "Reumatologia",
+  "titulo": "Osteoartrite erosiva de mãos com PCR discretamente alta: não iniciar DMARD",
+  "arma": "Omissão",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 62 anos tem há 2 anos crises de dor e edema em interfalângicas distais e proximais das mãos, com rigidez matinal de 20 minutos. Exame: nódulos de Heberden e de Bouchard, com sinovite em 2ª e 3ª interfalângicas proximais e 4ª interfalângica distal direitas; metacarpofalângicas, punhos e unhas normais; sem lesões de pele. FR e anti-CCP negativos, PCR 7 mg/L (VR < 5), ácido úrico 5,1 mg/dL. Radiografia: redução do espaço articular, osteófitos e erosões centrais subcondrais nas interfalângicas, sem proliferação óssea periarticular e sem osteopenia justa-articular. Usa paracetamol com alívio parcial. A conduta mais adequada é:",
+  "alternativas": {
+   "A": "AINE tópico, órtese e exercícios",
+   "B": "Hidroxicloroquina 400 mg/dia",
+   "C": "Metotrexato 15 mg/semana",
+   "D": "Prednisona 10 mg/dia contínua"
+  },
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "erosões centrais subcondrais nas interfalângicas, sem proliferação óssea periarticular",
+  "resolucao": "Sinovite, erosões e PCR discretamente alta dão aparência de artrite inflamatória e tentam a iniciar um DMARD, e a hidroxicloroquina parece a opção mais branda. Mas a distribuição em interfalângicas com nódulos de Heberden e Bouchard, poupando metacarpofalângicas e punhos, com erosões centrais (e não marginais), osteófitos e ausência de proliferação periosteal e de osteopenia, é osteoartrite erosiva de mãos, e não artrite reumatoide nem psoriásica. Os estudos com hidroxicloroquina, metotrexato e biológicos nessa doença foram negativos, e a diretriz recomenda contra DMARDs. O tratamento é educação, exercícios, órteses e AINE tópico como primeira escolha farmacológica, com AINE oral em ciclos curtos e infiltração de corticoide nas articulações mais dolorosas.",
+  "comentarios": {
+   "A": "Correta. Na osteoartrite de mãos, inclusive a erosiva, AINE tópico, órtese e exercício são a base, e DMARDs não têm benefício.",
+   "B": "Errada. Seria opção numa artrite inflamatória; na osteoartrite erosiva o ensaio HERO não mostrou benefício.",
+   "C": "Errada. Seria o DMARD de âncora na AR ou na artrite psoriásica; FR, anti-CCP, padrão e radiografia afastam ambas.",
+   "D": "Errada. Corticoide oral contínuo não está indicado na osteoartrite; no máximo curso curto numa crise inflamatória."
+  },
+  "para_levar": "Osteoartrite erosiva de mãos (erosões centrais em interfalângicas, sem proliferação periosteal) não se trata com DMARD: AINE tópico, órtese e exercício.",
+  "referencias": "EULAR recommendations for the management of hand osteoarthritis (2018); Kingsbury et al., HERO trial (2018).",
+  "tags": [
+   "Osteoartrite (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Porte da conduta: tratar o que não precisa; padrões radiográficos por artropatia (memória de reumato)."
+ },
+ {
+  "id": "S8-REU-06",
+  "simulado": 8,
+  "area": "Imunologia",
+  "titulo": "Febre, urticária e artrite 8 dias após soro antibotrópico com complemento baixo: doença do soro",
+  "arma": "Cronologia",
+  "comando": "diagnóstico",
+  "nivel": "média",
+  "enunciado": "Homem de 34 anos, trabalhador rural, foi picado por serpente no pé esquerdo há 10 dias, com edema até o joelho e sangue incoagulável, e recebeu soro antibotrópico (12 ampolas), com alta no 4º dia. Há 2 dias tem febre de 38,3 °C, placas urticariformes pruriginosas disseminadas, dor e edema em punhos, joelhos e tornozelos, e linfonodomegalias inguinais e cervicais. O local da picada tem edema residual discreto, sem calor, flutuação ou necrose. Exames: leucócitos 9.800/mm³ sem desvio, plaquetas 210.000/mm³, tempo de coagulação normal, creatinina 1,0 mg/dL, EAS com proteína 1+ e sem hematúria, C3 e C4 baixos. O diagnóstico mais provável é:",
+  "alternativas": {
+   "A": "Reação precoce ao antiveneno",
+   "B": "Doença do soro",
+   "C": "Abscesso da picada com bacteremia",
+   "D": "Vasculite urticariforme hipocomplementêmica"
+  },
+  "gabarito": "B",
+  "armadilha": "C",
+  "dado_decisivo": "Há 2 dias tem febre",
+  "resolucao": "Febre após acidente botrópico lembra a complicação infecciosa local, que é frequente pela flora da boca da serpente. Mas o local está sem calor, flutuação ou necrose, os leucócitos estão normais e o quadro é sistêmico: urticária, poliartrite, linfonodomegalias, proteinúria leve e consumo de C3 e C4. Surgindo 8 dias após grande volume de soro heterólogo (de cavalo), é reação de hipersensibilidade tipo III por imunocomplexos, a doença do soro, que aparece tipicamente entre 5 e 24 dias. A reação precoce ocorre durante a infusão ou nas primeiras horas, e é anafilática ou anafilactoide. O tratamento é anti-histamínico e corticoide oral por curto período, com resolução em 1 a 2 semanas; não há indicação de antibiótico.",
+  "comentarios": {
+   "A": "Errada. As reações precoces ocorrem durante a infusão ou nas primeiras 24 horas, com urticária, broncoespasmo e hipotensão.",
+   "B": "Correta. Febre, urticária, artrite, linfonodomegalia e complemento baixo 8 dias após soro heterólogo.",
+   "C": "Errada. Seria a resposta com calor, flutuação ou necrose no local e leucocitose com desvio, ausentes.",
+   "D": "Errada. Daria lesões que duram mais de 24 horas, com púrpura residual, em curso crônico, sem relação com o soro."
+  },
+  "para_levar": "Febre, urticária, artralgia e complemento baixo 5 a 24 dias após soro heterólogo (antiveneno) é doença do soro: anti-histamínico e corticoide, sem antibiótico.",
+  "referencias": "Ministério da Saúde, Guia de Vigilância em Saúde: acidentes por animais peçonhentos (2024); Manual de diagnóstico e tratamento de acidentes por animais peçonhentos (MS).",
+  "tags": [
+   "Doença do Soro (CM)",
+   "Acidente Ofídico (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Acidentes por animais peçonhentos 1 de 4; cronologia que separa reação precoce, tardia e infecção."
+ }
+]

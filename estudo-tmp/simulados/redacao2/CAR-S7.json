@@ -1,0 +1,173 @@
+[
+ {
+  "id": "S7-CAR-01",
+  "simulado": 7,
+  "area": "Cardiologia",
+  "titulo": "Síndrome de Noonan no homem com fenótipo 'de Turner': estenose pulmonar valvar, e não lesão aórtica",
+  "arma": "Rótulo verdadeiro",
+  "comando": "achado esperado",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 21 anos é encaminhado pelo urologista que operou criptorquidia bilateral na infância e agora investiga infertilidade. Mede 1,58 m e tem pescoço curto e alado, implantação baixa dos cabelos na nuca, hipertelorismo, ptose palpebral bilateral, orelhas de implantação baixa e pectus excavatum superior com pectus carinatum inferior. Cariótipo de sangue periférico 46,XY. Desenvolvimento escolar normal. Nega sintomas cardiovasculares. Exame: PA 118x74 mmHg no braço direito e 128x76 mmHg na coxa, pulsos femorais amplos e sem retardo, ictus não desviado, impulsão sistólica na borda esternal esquerda baixa. ECG: desvio do eixo para a direita e onda R ampla em V1. O conjunto auscultatório esperado é:",
+  "alternativas": {
+   "A": "Clique ejetivo aórtico e sopro interescapular",
+   "B": "Desdobramento fixo de B2 e ruflar tricúspide",
+   "C": "Sopro ejetivo pulmonar com P2 hipofonética",
+   "D": "Sopro holossistólico em borda esternal baixa"
+  },
+  "gabarito": "C",
+  "armadilha": "A",
+  "dado_decisivo": "Cariótipo de sangue periférico 46,XY",
+  "resolucao": "Pescoço alado, baixa estatura, implantação baixa dos cabelos e tórax deformado lembram a síndrome de Turner, e quem para no fenótipo marca a lesão de Turner (bicúspide com clique e coarctação com sopro no dorso). Mas o paciente é homem com cariótipo 46,XY, criptorquidia, ptose e hipertelorismo: é a síndrome de Noonan (via RAS-MAPK, PTPN11 em cerca de metade), que imita o Turner e tem lesões do lado direito. A lesão mais frequente é a estenose pulmonar valvar, muitas vezes com valva displásica, seguida pela cardiomiopatia hipertrófica. Os achados confirmam o lado direito: impulsão paraesternal esquerda baixa, R ampla em V1 e eixo para a direita (sobrecarga de ventrículo direito), sem gradiente entre braço e coxa. A ausculta da estenose pulmonar é sopro sistólico ejetivo no 2º espaço intercostal esquerdo com P2 diminuída e desdobramento amplo de B2; na valva displásica o clique costuma faltar.",
+  "comentarios": {
+   "A": "Errada, e é a armadilha. É o par de lesões do Turner (bicúspide e coarctação), que exige cariótipo 45,X; aqui o cariótipo é 46,XY, a PA da coxa supera a do braço e os femorais são amplos.",
+   "B": "Errada. Desdobramento fixo é da CIA, que dá sobrecarga de volume do ventrículo direito, mas não explica sopro ejetivo intenso nem se associa preferencialmente à síndrome de Noonan; o ruflar tricúspide surge só em shunt grande.",
+   "C": "Correta. Na síndrome de Noonan a lesão mais frequente é a estenose pulmonar valvar, com sopro ejetivo em foco pulmonar e P2 diminuída, coerente com a sobrecarga de ventrículo direito.",
+   "D": "Errada. O holossistólico paraesternal baixo é da CIV, de sobrecarga esquerda ou biventricular, sem relação preferencial com Noonan."
+  },
+  "para_levar": "Fenótipo de Turner em homem 46,XY é Noonan: estenose pulmonar valvar (e cardiomiopatia hipertrófica); Turner é lado esquerdo (bicúspide e coarctação).",
+  "referencias": "ESC 2020 (adult congenital heart disease); Roberts AE et al., Lancet 2013 (síndrome de Noonan); Diretriz brasileira de cardiopatias congênitas do adulto (SBC)",
+  "tags": [
+   "Cardiopatias congênitas (CM)",
+   "Fisiologia e Semiologia Cardíaca (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Semiologia da síndrome à lesão (lacuna fixa): o fenótipo parecido puxa a lesão da síndrome vizinha."
+ },
+ {
+  "id": "S7-CAR-02",
+  "simulado": 7,
+  "area": "Cardiologia",
+  "titulo": "Angina vasoespástica em paciente com enxaqueca: bloqueador de cálcio e retirada do propranolol e do triptano",
+  "arma": "Grade X / Y",
+  "comando": "conduta",
+  "nivel": "extremamente difícil",
+  "enunciado": "Mulher de 44 anos, tabagista de 20 maços-ano, com enxaqueca sem aura em profilaxia com propranolol 80 mg/dia há 6 meses e crises tratadas com sumatriptano, procura o ambulatório por episódios de opressão retroesternal que a despertam entre 4 h e 6 h, duram cerca de 10 minutos e cedem espontaneamente, três a quatro vezes por semana, há 4 meses. Caminha 5 km por dia sem sintomas. O Holter flagrou, durante um episódio às 5 h, supradesnivelamento de ST de 3 mm em DII, DIII e aVF, desfeito em 8 minutos. Angiotomografia de coronárias sem placas, escore de cálcio zero. PA 118x72 mmHg, FC 58 bpm; troponina e ecocardiograma normais. Além de cessar o tabagismo, a conduta antianginosa e a conduta com os remédios da enxaqueca são, respectivamente:",
+  "alternativas": {
+   "A": "Bloqueador de cálcio e nitrato / manter propranolol e triptano",
+   "B": "Bloqueador de cálcio e nitrato / suspender propranolol e triptano",
+   "C": "AAS e estatina / manter propranolol e triptano",
+   "D": "AAS e estatina / suspender propranolol e triptano"
+  },
+  "gabarito": "B",
+  "armadilha": "A",
+  "dado_decisivo": "propranolol 80 mg/dia há 6 meses e crises tratadas com sumatriptano",
+  "resolucao": "Dor em repouso de madrugada, tolerância normal ao esforço, supra de ST transitório no Holter e coronárias sem placa fecham angina vasoespástica, e a primeira metade (bloqueador de canal de cálcio, com nitrato para as crises) a maioria acerta. O erro está na primeira linha dos antecedentes. O propranolol, betabloqueador não seletivo, deixa a vasoconstrição alfa-adrenérgica coronária sem oposição e pode agravar o espasmo, e o sumatriptano é agonista 5-HT1B, vasoconstritor coronário, contraindicado em quem tem doença coronária vasoespástica. Manter os dois porque 'o betabloqueador é antianginoso' é a armadilha: na angina vasoespástica ele é evitado. A profilaxia da enxaqueca deve ser trocada (amitriptilina, topiramato, e o próprio bloqueador de cálcio ajuda) e as crises tratadas sem triptano. AAS e estatina não tratam espasmo em coronária sem placa.",
+  "comentarios": {
+   "A": "Errada, e é a armadilha. Acerta o antianginoso, mas mantém dois agravantes do espasmo: o betabloqueador não seletivo e o triptano vasoconstritor.",
+   "B": "Correta. Bloqueador de cálcio e nitrato tratam o espasmo; propranolol e sumatriptano o precipitam e devem sair.",
+   "C": "Errada. Prevenção aterosclerótica não trata espasmo em coronária com escore de cálcio zero, e ainda mantém os precipitantes.",
+   "D": "Errada. Retira corretamente os precipitantes, mas troca o tratamento do espasmo por prevenção de placa que a paciente não tem."
+  },
+  "para_levar": "Angina vasoespástica: bloqueador de canal de cálcio (com nitrato), parar de fumar e retirar precipitantes; evitar betabloqueador não seletivo e triptanos.",
+  "referencias": "Diretriz Brasileira de Síndrome Coronariana Crônica (SBC 2025); ESC 2024 (chronic coronary syndromes); COVADIS (critérios de angina vasoespástica)",
+  "tags": [
+   "Características Gerais da Angina (CM)",
+   "Coronariopatia Crônica (CM)",
+   "Enxaqueca / Migrânea (CM)"
+  ],
+  "sourceQuestionId": "9a6ebdd516cf026",
+  "alvo": "Droga em uso ignorada (primeira linha dos antecedentes) e grade conferida pela metade."
+ },
+ {
+  "id": "S7-CAR-03",
+  "simulado": 7,
+  "area": "Cardiologia",
+  "titulo": "Torsades de pointes por QT longo adquirido em idosa internada: sulfato de magnésio mesmo com magnésio normal",
+  "arma": "Droga a deduzir",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 78 anos, com depressão em uso de citalopram 40 mg/dia e hipertensão em uso de hidroclorotiazida, está internada há 3 dias por pneumonia comunitária, recebendo ceftriaxona com o antibiótico de dose diária única associado para cobertura de atípicos, além de um antiemético antagonista 5-HT3 por náuseas. Hoje teve dois episódios de pré-síncope. Monitor: salvas autolimitadas de taquicardia ventricular polimórfica, com QRS de amplitude que gira em torno da linha de base, precedidas de pausa. Entre as salvas, ritmo sinusal, FC 58 bpm e QTc de 590 ms. Consciente, PA 112x68 mmHg. Potássio 3,9 mEq/L e magnésio 2,0 mg/dL (VR 1,7 a 2,4). Além de suspender os fármacos que prolongam o QT, a conduta imediata é:",
+  "alternativas": {
+   "A": "Cardioversão elétrica sincronizada",
+   "B": "Amiodarona intravenosa",
+   "C": "Procainamida intravenosa",
+   "D": "Sulfato de magnésio intravenoso"
+  },
+  "gabarito": "D",
+  "armadilha": "B",
+  "dado_decisivo": "QTc de 590 ms",
+  "resolucao": "As drogas não foram todas nomeadas: o macrolídeo de dose única diária é a azitromicina, e o antiemético 5-HT3 é a ondansetrona; somadas ao citalopram em dose máxima, ao tiazídico, à idade, ao sexo feminino e à bradicardia, explicam o QTc de 590 ms e as torsades de pointes dependentes de pausa. A armadilha é tratar como TV qualquer e dar amiodarona, que prolonga ainda mais o QT. O tratamento imediato é sulfato de magnésio 2 g intravenoso, indicado mesmo com magnésio sérico normal, porque estabiliza a membrana e suprime as pós-despolarizações precoces; repete-se se as salvas voltarem. Junto vão potássio para 4,5 a 5,0 mEq/L e, se persistir, aumento da frequência (isoproterenol ou marca-passo provisório) para encurtar o QT. Choque é para a torsade sustentada com instabilidade, que não é o caso de salvas autolimitadas em paciente consciente.",
+  "comentarios": {
+   "A": "Errada. Salvas autolimitadas em paciente consciente e estável não pedem choque, e a cardioversão não impede a recorrência enquanto o QT estiver longo; a torsade sustentada sem pulso se desfibrila.",
+   "B": "Errada, e é a armadilha. Seria a escolha na TV monomórfica estável de cardiopata; aqui prolonga o QT e perpetua as torsades.",
+   "C": "Errada. Antiarrítmico de classe IA, prolonga o QT e é contraindicado na torsade.",
+   "D": "Correta. O magnésio intravenoso é o tratamento imediato da torsade de pointes, mesmo com magnésio sérico normal."
+  },
+  "para_levar": "Torsade de pointes: retirar drogas que prolongam o QT, magnésio intravenoso (mesmo com Mg normal), potássio alto-normal e aumentar a frequência; amiodarona e classe IA pioram.",
+  "referencias": "AHA 2020 (ACLS) e AHA/ACC/HRS 2017 (ventricular arrhythmias); Drew BJ et al., AHA Scientific Statement on prevention of torsade de pointes in hospital settings (2010)",
+  "tags": [
+   "Taquiarritmias Venticulares (CM)",
+   "Eletrocardiograma (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Droga em uso ignorada (a deduzir) e ECG como discriminante: o reflexo de tratar toda TV igual."
+ },
+ {
+  "id": "S7-CAR-04",
+  "simulado": 7,
+  "area": "Cardiologia",
+  "titulo": "Índice tornozelo-braquial acima de 1,40 no diabético com DRC: artéria incompressível, confirmar com índice hálux-braquial",
+  "arma": "Rótulo verdadeiro",
+  "comando": "próximo exame",
+  "nivel": "difícil",
+  "enunciado": "Homem de 67 anos, com diabetes tipo 2 há 22 anos, doença renal crônica (TFG 34 mL/min/1,73 m²) e tabagismo ativo, tem dor em panturrilha esquerda ao caminhar dois quarteirões, que cede com 3 minutos de repouso, há 8 meses. Nega dor em repouso. Exame: pele fina e sem pelos no terço distal da perna esquerda, pulsos poplíteo, tibial posterior e pedioso esquerdos não palpáveis, sem úlceras; sensibilidade ao monofilamento reduzida nos dois pés. Índice tornozelo-braquial de 1,48 à esquerda e 1,32 à direita. Para confirmar o diagnóstico, o próximo exame é:",
+  "alternativas": {
+   "A": "Índice hálux-braquial",
+   "B": "Arteriografia dos membros inferiores",
+   "C": "Índice tornozelo-braquial pós-esforço",
+   "D": "Eletroneuromiografia dos membros inferiores"
+  },
+  "gabarito": "A",
+  "armadilha": "D",
+  "dado_decisivo": "Índice tornozelo-braquial de 1,48 à esquerda",
+  "resolucao": "Claudicação que cede em minutos com o repouso, pulsos ausentes e pele atrófica são doença arterial obstrutiva periférica, mas o índice tornozelo-braquial 'alto' parece afastá-la, e a neuropatia diabética, que é real (monofilamento reduzido), oferece outra explicação: esse é o rótulo. O índice acima de 1,40 não é normal: é artéria incompressível por calcificação da média (diabetes e DRC), e o exame fica inválido para diagnóstico. A recomendação é medir o índice hálux-braquial (pressão no primeiro pododáctilo, cujas artérias raramente calcificam), anormal abaixo de 0,70, ou avaliar as curvas de Doppler. Arteriografia é exame de planejamento de revascularização, não de diagnóstico de claudicação, e o índice pós-esforço herda a mesma incompressibilidade. A neuropatia não explica dor que surge com a marcha e cede com o repouso na mesma distância.",
+  "comentarios": {
+   "A": "Correta. Com índice tornozelo-braquial acima de 1,40 por artérias incompressíveis, o diagnóstico se faz pelo índice hálux-braquial (anormal abaixo de 0,70) ou pelas curvas de Doppler.",
+   "B": "Errada. Arteriografia (ou angiotomografia) é para planejar revascularização em quem tem isquemia crítica ou claudicação limitante refratária, e não o próximo passo diagnóstico, sobretudo com TFG de 34.",
+   "C": "Errada. O teste de esforço serve para o índice de repouso normal (0,91 a 1,40) com sintomas; com artérias incompressíveis, a medida pós-esforço também não é confiável.",
+   "D": "Errada, e é a armadilha. A neuropatia existe, mas dor de esforço que cede com repouso e pulsos ausentes são vasculares; a eletroneuromiografia não esclarece a doença arterial."
+  },
+  "para_levar": "Índice tornozelo-braquial abaixo de 0,90 confirma DAOP; acima de 1,40 é incompressível (diabetes, DRC, idoso) e pede índice hálux-braquial.",
+  "referencias": "ESC 2024 (peripheral arterial and aortic diseases); AHA/ACC 2024 (lower extremity peripheral artery disease); Diretrizes da SBACV",
+  "tags": [
+   "Doença arterial obstrutiva periférica",
+   "Complicações Crônicas do Diabetes (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Exame 'tranquilizador' lido pelo valor bruto, sem checar a precondição (artéria compressível)."
+ },
+ {
+  "id": "S7-CAR-05",
+  "simulado": 7,
+  "area": "Cardiologia",
+  "titulo": "Cardiomiopatia periparto no puerpério com D-dímero alto: ecocardiograma antes da angiotomografia",
+  "arma": "Rótulo verdadeiro",
+  "comando": "próximo exame",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 31 anos, no 18º dia após cesariana de gestação gemelar complicada por pré-eclâmpsia, procura o pronto-socorro por dispneia progressiva há 5 dias, hoje aos mínimos esforços, com ortopneia e tosse seca. Está amamentando. Exame: PA 108x72 mmHg, FC 118 bpm, FR 26 irpm, SpO2 91% em ar ambiente, turgência jugular a 45 graus, B3 audível no ápice, crepitações em bases, edema simétrico de membros inferiores 2+/4+ e panturrilhas livres. ECG: taquicardia sinusal com alterações difusas e inespecíficas da repolarização. Radiografia: área cardíaca aumentada e redistribuição vascular. D-dímero 2.900 ng/mL (referência até 500), NT-proBNP 4.800 pg/mL e troponina discretamente elevada. O próximo exame é:",
+  "alternativas": {
+   "A": "Ressonância magnética cardíaca",
+   "B": "Ecocardiograma transtorácico",
+   "C": "Angiotomografia de artérias pulmonares",
+   "D": "Cineangiocoronariografia"
+  },
+  "gabarito": "B",
+  "armadilha": "C",
+  "dado_decisivo": "B3 audível no ápice, crepitações em bases, edema simétrico de membros inferiores 2+/4+ e panturrilhas livres",
+  "resolucao": "Puerpério, taquicardia, hipoxemia e D-dímero alto puxam para TEP, e a angiotomografia é a armadilha. Só que o D-dímero sobe normalmente na gravidez e no pós-parto e perde valor discriminante, e o resto do exame é de insuficiência cardíaca congestiva: B3, crepitações, turgência jugular, edema simétrico, cardiomegalia com redistribuição e NT-proBNP de 4.800. Dispneia que começa no último mês da gestação ou nos 5 meses após o parto, com fatores de risco (gemelar, pré-eclâmpsia), sugere cardiomiopatia periparto, e o exame que define é o ecocardiograma, que mostra a disfunção sistólica (fração de ejeção abaixo de 45%) e já avalia o ventrículo direito, trombo e derrame. A ressonância tem papel complementar depois, e a coronariografia só entraria por suspeita de dissecção coronária, que pede quadro de dor torácica.",
+  "comentarios": {
+   "A": "Errada. A ressonância caracteriza o miocárdio e ajuda no diferencial com miocardite, mas é complementar e não é o primeiro exame numa paciente congesta.",
+   "B": "Correta. Congestão com B3 e cardiomegalia no puerpério aponta cardiomiopatia periparto, e o ecocardiograma é o exame que confirma a disfunção ventricular.",
+   "C": "Errada, e é a armadilha. Seria a escolha com dispneia súbita, pulmões limpos e sinais de TVP; o D-dímero do puerpério é elevado por si só e não discrimina.",
+   "D": "Errada. Coronariografia entra se houver dor e suspeita de dissecção espontânea de coronária, comum no periparto, o que não é o quadro."
+  },
+  "para_levar": "Dispneia com congestão do fim da gestação até 5 meses pós-parto é cardiomiopatia periparto até prova em contrário: ecocardiograma; D-dímero não discrimina no puerpério.",
+  "referencias": "ESC 2025 (cardiovascular disease and pregnancy); Position statement da Heart Failure Association/ESC sobre cardiomiopatia periparto (2019); Diretriz da SBC para gravidez na mulher portadora de cardiopatia (2020)",
+  "tags": [
+   "Cardiomiopatias (CM)",
+   "Descompensações Agudas da Insuficiência Cardíaca (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Próximo exame e rótulo verdadeiro (puerpério e D-dímero) competindo com o exame físico que decide."
+ }
+]

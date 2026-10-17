@@ -1,0 +1,209 @@
+[
+ {
+  "id": "S9-REU-01",
+  "simulado": 9,
+  "area": "Imunologia",
+  "titulo": "Meningite meningocócica recorrente por sorogrupo incomum: pesquisar deficiência de complemento, e não fístula liquórica",
+  "arma": "Rótulo verdadeiro",
+  "comando": "próximo exame",
+  "nivel": "difícil",
+  "enunciado": "Homem de 24 anos recebe alta após o segundo episódio de meningite em 3 anos, ambos com Neisseria meningitidis sorogrupo Y isolada no líquor, com boa evolução. Um primo materno morreu de meningococcemia aos 17 anos. Nega trauma craniano, cirurgia prévia ou rinorreia. Recebeu vacina meningocócica C na adolescência. Nunca teve pneumonias, sinusites ou otites de repetição. Hemograma, imunoglobulinas séricas e anti-HIV normais. TC de crânio sem alterações. O próximo exame mais adequado é:",
+  "alternativas": {
+   "A": "TC de alta resolução da base do crânio",
+   "B": "Teste da di-hidrorodamina em neutrófilos",
+   "C": "Atividade hemolítica do complemento (CH50 e AH50)",
+   "D": "Subpopulações de linfócitos T"
+  },
+  "gabarito": "C",
+  "armadilha": "A",
+  "dado_decisivo": "ambos com Neisseria meningitidis sorogrupo Y",
+  "resolucao": "Meningite bacteriana recorrente faz pensar primeiro em defeito anatômico, como fístula liquórica pós-traumática ou congênita, e a TC de base de crânio é o exame dessa linha. Mas a fístula dá meningite recorrente sobretudo pneumocócica, e há negativos importantes: sem trauma, sem cirurgia, sem rinorreia. Doença meningocócica recorrente, por sorogrupo incomum (Y, W, X), com caso grave na família, é a assinatura da deficiência de complemento, em especial dos componentes terminais (C5 a C9) e da properdina, esta ligada ao X, o que combina com o primo do lado materno. O rastreio é funcional: CH50 para a via clássica e terminal e AH50 para a via alternativa. Confirmada a deficiência, vacinar contra meningococo ACWY e B, com reforços, e orientar busca precoce de atendimento na febre.",
+  "comentarios": {
+   "A": "Errada. Seria o exame na meningite recorrente pneumocócica ou com rinorreia e trauma; aqui o germe é meningococo e não há trauma.",
+   "B": "Errada. Rastreia doença granulomatosa crônica, com abscessos por S. aureus e fungos, não meningococo.",
+   "C": "Correta. Meningococo recorrente, sorogrupo incomum e caso familiar apontam deficiência de complemento terminal ou de properdina.",
+   "D": "Errada. Defeitos de linfócito T dão infecções oportunistas virais, fúngicas e por micobactérias, não meningococo."
+  },
+  "para_levar": "Doença meningocócica recorrente ou por sorogrupo incomum pede CH50 e AH50; meningite pneumocócica recorrente com trauma ou rinorreia pede pesquisa de fístula.",
+  "referencias": "AAAAI/ACAAI Practice parameter for primary immunodeficiency (2015); Ministério da Saúde, Manual dos CRIE (2023).",
+  "tags": [
+   "Imunodeficiências (CM)",
+   "Erros Inatos da Imunidade (CM)",
+   "Meningite Bacteriana (CM)"
+  ],
+  "sourceQuestionId": "ac0a8ce6529fe29",
+  "alvo": "Errou a assinatura de patógeno das imunodeficiências (36% de acerto geral); próximo exame."
+ },
+ {
+  "id": "S9-REU-02",
+  "simulado": 9,
+  "area": "Reumatologia",
+  "titulo": "Espondilite anquilosante com uveítes recorrentes e psoríase leve: anti-TNF monoclonal, e não anti-IL-17",
+  "arma": "Rótulo verdadeiro",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Homem de 33 anos tem espondilite anquilosante há 3 anos, com HLA-B27 positivo e sacroiliíte bilateral na ressonância. Usou naproxeno 500 mg duas vezes ao dia por 6 semanas e depois celecoxibe 200 mg duas vezes ao dia por 6 semanas, sem melhora: BASDAI de 6,2 e PCR de 24 mg/L. Teve três episódios de uveíte anterior aguda no último ano, tratados com colírio de corticoide. Tem placas de psoríase em cotovelos e couro cabeludo, menos de 3% da superfície corporal. Sem doença inflamatória intestinal, insuficiência cardíaca ou doença desmielinizante; IGRA negativo. O tratamento mais adequado é:",
+  "alternativas": {
+   "A": "Adalimumabe",
+   "B": "Secuquinumabe",
+   "C": "Etanercepte",
+   "D": "Sulfassalazina"
+  },
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "Teve três episódios de uveíte anterior aguda no último ano",
+  "resolucao": "Falha de dois AINEs em dose plena com BASDAI acima de 4 e PCR alta indica biológico. A psoríase puxa para o anti-IL-17, que trata pele e coluna. Mas a manifestação extra-articular que manda aqui é a uveíte anterior recorrente: os anticorpos monoclonais anti-TNF (adalimumabe, infliximabe, certolizumabe, golimumabe) reduzem as recidivas de uveíte, o etanercepte (proteína de fusão) é pouco eficaz e associa-se a uveíte paradoxal, e os anti-IL-17 não têm boa eficácia na uveíte. Psoríase leve não muda a escolha, e o adalimumabe também trata a pele. A sulfassalazina não age no esqueleto axial.",
+  "comentarios": {
+   "A": "Correta. Monoclonal anti-TNF é a escolha na espondiloartrite axial com uveíte anterior recorrente, e também cobre a psoríase.",
+   "B": "Errada. Seria a escolha com psoríase extensa sem uveíte, ou com doença desmielinizante; tem pouca eficácia na uveíte.",
+   "C": "Errada. Anti-TNF, mas proteína de fusão: menos eficaz na uveíte e associado a uveíte paradoxal.",
+   "D": "Errada. Pode ajudar a artrite periférica, mas não tem efeito na doença axial."
+  },
+  "para_levar": "Espondiloartrite axial com uveíte recorrente: anti-TNF monoclonal; com doença inflamatória intestinal, evite anti-IL-17; com psoríase extensa e sem uveíte, anti-IL-17 é opção.",
+  "referencias": "ASAS-EULAR recommendations for the management of axial spondyloarthritis (2022 update); Recomendações da SBR para espondiloartrite axial (2023).",
+  "tags": [
+   "Espondilite Anquilosante (CM)",
+   "Espondiloartrites (CM)"
+  ],
+  "sourceQuestionId": "5668afab1e09d4b",
+  "alvo": "Rótulo verdadeiro (psoríase) contra a manifestação que decide o biológico; espondiloartrite e biológico."
+ },
+ {
+  "id": "S9-REU-03",
+  "simulado": 9,
+  "area": "Reumatologia",
+  "titulo": "Tromboangeíte obliterante que progride depois de trocar o cigarro pelo cigarro eletrônico: a nicotina persiste",
+  "arma": "Droga a deduzir",
+  "comando": "etiologia",
+  "nivel": "difícil",
+  "enunciado": "Homem de 34 anos, tabagista desde os 15 anos, teve há 1 ano úlcera isquêmica no 3º pododáctilo esquerdo e episódios de cordão doloroso e avermelhado em veias superficiais da perna. Na época, FAN, ANCA, anticorpos antifosfolípides, crioglobulinas e sorologias para hepatites B e C foram negativos, o ecocardiograma transesofágico não mostrou trombos e a arteriografia revelou oclusões segmentares de artérias tibiais e digitais com colaterais em saca-rolhas, sem ateromatose proximal. Usa cilostazol e há 8 meses substituiu o cigarro pelo cigarro eletrônico, que usa ao longo do dia. Agora tem úlcera dolorosa na polpa do 2º quirodáctilo direito e frialdade da mão; pulso radial presente e ulnar ausente à direita. Glicemia e lípides normais. O fator que melhor explica a progressão é:",
+  "alternativas": {
+   "A": "Embolia arterial de origem cardíaca",
+   "B": "Aterosclerose precoce acelerada",
+   "C": "Trombofilia hereditária não investigada",
+   "D": "Exposição contínua à nicotina"
+  },
+  "gabarito": "D",
+  "armadilha": "C",
+  "dado_decisivo": "substituiu o cigarro pelo cigarro eletrônico, que usa ao longo do dia",
+  "resolucao": "Como o paciente parou de fumar e a doença progrediu, a tentação é procurar outra causa, e a trombofilia ainda não pesquisada parece a lacuna da investigação. Mas ele não parou de usar tabaco: trocou o cigarro pelo cigarro eletrônico, que mantém a exposição à nicotina e a outros tóxicos o dia todo. A tromboangeíte obliterante tem relação quase obrigatória com o tabaco, e qualquer forma de exposição, incluindo cigarro eletrônico, tabaco mascado, maconha e, segundo parte da literatura, a reposição de nicotina, mantém a atividade da doença. A progressão para a mão (artéria ulnar) com investigação inicial negativa para autoimunidade, embolia e aterosclerose é a evolução esperada de quem segue exposto. A única medida que muda o prognóstico e evita amputação é a abstinência completa de tabaco e nicotina; vasodilatadores como cilostazol e iloprosta são coadjuvantes.",
+  "comentarios": {
+   "A": "Errada. O ecocardiograma transesofágico sem trombos e o padrão de oclusões segmentares distais com colaterais em saca-rolhas não são de embolia.",
+   "B": "Errada. Glicemia e lípides normais e ausência de ateromatose proximal na arteriografia afastam aterosclerose como causa.",
+   "C": "Errada. Seria considerada com trombose venosa profunda ou arterial de grandes vasos e sem tabaco; aqui a exposição explica tudo.",
+   "D": "Correta. O cigarro eletrônico mantém a exposição à nicotina, que perpetua a tromboangeíte obliterante."
+  },
+  "para_levar": "Na tromboangeíte obliterante, só a abstinência completa de tabaco em qualquer forma (incluindo cigarro eletrônico) muda o prognóstico; progressão em quem diz ter parado pede revisar a exposição.",
+  "referencias": "ESC Guidelines on peripheral arterial and aortic diseases (2024); Olin JW, Thromboangiitis obliterans: 110 years old and little progress made (J Am Heart Assoc, 2018).",
+  "tags": [
+   "Outras Vasculites (CM)",
+   "Vasculites (CM)"
+  ],
+  "sourceQuestionId": "be972fcf905b472",
+  "alvo": "Droga em uso ignorada (nicotina por outra via) e busca do exótico antes do simples."
+ },
+ {
+  "id": "S9-REU-04",
+  "simulado": 9,
+  "area": "Imunologia",
+  "titulo": "Hipogamaglobulinemia persistente após rituximabe com infecções graves e sem resposta vacinal: reposição de imunoglobulina",
+  "arma": "Limiar",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 58 anos tem granulomatose com poliangeíte em remissão há 2 anos. Recebeu indução com rituximabe e manutenção com rituximabe 500 mg a cada 6 meses, suspensa há 9 meses pela remissão sustentada. No último ano teve três pneumonias com internação, uma delas com bacteremia pneumocócica, e duas sinusites bacterianas. Usa sulfametoxazol-trimetoprima profilático e recebeu vacina pneumocócica conjugada há 6 meses. Está sem infecção ativa. Exames: IgG 290 mg/dL (VR 700 a 1.600), IgA 40 mg/dL, IgM 18 mg/dL, albumina 4,1 g/dL, proteinúria ausente, linfócitos B CD19 de 0,5%; resposta de anticorpos à vacina pneumocócica ausente. A conduta mais adequada é:",
+  "alternativas": {
+   "A": "Azitromicina profilática três vezes por semana",
+   "B": "Reposição periódica de imunoglobulina humana",
+   "C": "Revacinar com a pneumocócica 23-valente",
+   "D": "Observar e repetir a IgG em 6 meses"
+  },
+  "gabarito": "B",
+  "armadilha": "D",
+  "dado_decisivo": "IgG 290 mg/dL (VR 700 a 1.600)",
+  "resolucao": "Como o rituximabe já foi suspenso, parece razoável esperar a recuperação dos linfócitos B e repetir a IgG. Mas a hipogamaglobulinemia após anti-CD20 pode persistir por anos, e esta paciente cruza os limiares que indicam reposição: IgG abaixo de 400 mg/dL, infecções bacterianas graves e recorrentes (incluindo bacteremia pneumocócica) e ausência de resposta vacinal documentada, com perda proteica afastada (albumina normal, sem proteinúria). Nessa situação, a reposição de imunoglobulina humana (intravenosa ou subcutânea) reduz as infecções graves. Revacinar não adianta com linfócitos B ausentes, e antibiótico profilático é alternativa para quem tem infecções leves ou IgG intermediária, não para quem já teve bacteremia.",
+  "comentarios": {
+   "A": "Errada. Profilaxia antibiótica é opção com IgG intermediária e infecções leves; não basta após bacteremia e três internações.",
+   "B": "Correta. IgG abaixo de 400 mg/dL, infecções graves recorrentes e resposta vacinal ausente indicam reposição de imunoglobulina.",
+   "C": "Errada. Com linfócitos B em 0,5%, nova vacina não gera anticorpos; a resposta à conjugada já foi nula.",
+   "D": "Errada. Seria aceitável com IgG limítrofe e sem infecção grave; aqui a espera expõe a nova bacteremia."
+  },
+  "para_levar": "Após rituximabe, IgG abaixo de 400 mg/dL com infecções graves recorrentes e sem resposta vacinal indica reposição de imunoglobulina, mesmo com a droga já suspensa.",
+  "referencias": "Wijetilleka et al., Recommendations for the management of secondary hypogammaglobulinaemia due to B cell targeted therapies in autoimmune rheumatic diseases (Rheumatology, 2019); EULAR recommendations for AAV (2022).",
+  "tags": [
+   "Hipogamaglobulinemia (CM)",
+   "Imunobiológicos e Imunoglobulina (CM)",
+   "Imunodeficiências (CM)"
+  ],
+  "sourceQuestionId": "8991f70ee2b8155",
+  "alvo": "Errou imunodeficiência secundária a droga (sulfassalazina); limiar que habilita a conduta."
+ },
+ {
+  "id": "S9-REU-05",
+  "simulado": 9,
+  "area": "Farmacodermias",
+  "titulo": "Lesões em alvo típicas acrais com erosões orais após herpes labial: eritema multiforme maior, e não Stevens-Johnson pela dipirona",
+  "arma": "Negativo no meio",
+  "comando": "etiologia",
+  "nivel": "difícil",
+  "enunciado": "Homem de 27 anos procura a emergência por lesões cutâneas há 3 dias. Há 10 dias teve vesículas dolorosas no lábio superior, como já ocorrera outras vezes, e há 4 dias tomou dipirona por cefaleia. Exame: Tax 37,6 °C; lesões em alvo arredondadas, com três zonas concêntricas e centro escuro, algumas com bolha central, simétricas no dorso das mãos, nas palmas, nos antebraços, nos cotovelos e nos joelhos, com poucas lesões no tronco; erosões na mucosa labial e jugal. Nikolsky negativo e sem áreas de destacamento epidérmico. Hemograma e provas hepáticas normais. Não usa outros medicamentos. A etiologia mais provável é:",
+  "alternativas": {
+   "A": "Eritema multiforme maior pelo herpes simples",
+   "B": "Síndrome de Stevens-Johnson pela dipirona",
+   "C": "Erupção fixa bolhosa generalizada pela dipirona",
+   "D": "Pênfigo paraneoplásico"
+  },
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "Nikolsky negativo e sem áreas de destacamento epidérmico",
+  "resolucao": "Lesões em alvo com bolhas, erosões de mucosa e uma droga recente formam o rótulo da síndrome de Stevens-Johnson. Mas a morfologia e a distribuição separam as duas doenças: no eritema multiforme as lesões são alvos típicos, elevados, com três zonas, de predomínio acral e extensor, e não há destacamento epidérmico; na síndrome de Stevens-Johnson predominam máculas purpúricas e alvos atípicos planos no tronco e na face, com Nikolsky positivo e destacamento. A dipirona foi tomada depois do início do pródromo e só 1 dia antes das lesões, e o herpes labial 10 dias antes é o gatilho mais comum do eritema multiforme, inclusive da forma maior, com mucosa. O tratamento é de suporte, e as recorrências se previnem com aciclovir ou valaciclovir supressivos.",
+  "comentarios": {
+   "A": "Correta. Alvos típicos acrais sem destacamento, com herpes labial 10 dias antes, definem eritema multiforme maior.",
+   "B": "Errada. Seria a resposta com alvos atípicos planos e máculas purpúricas no tronco, Nikolsky positivo e destacamento.",
+   "C": "Errada. A erupção fixa dá placas violáceas ovais que recidivam no mesmo lugar, sem alvos de três zonas acrais.",
+   "D": "Errada. Daria estomatite grave e refratária com neoplasia linfoproliferativa associada, de curso crônico."
+  },
+  "para_levar": "Alvo típico de três zonas, acral, sem destacamento, após herpes: eritema multiforme; alvo atípico plano no tronco com destacamento: Stevens-Johnson.",
+  "referencias": "Bastuji-Garin et al., classificação clínica de eritema multiforme e SJS/TEN (Arch Dermatol, 1993); Trayes et al., Erythema multiforme (Am Fam Physician, 2019).",
+  "tags": [
+   "Farmacodermias (CM)",
+   "Herpes Simples (CM)",
+   "Dermatologia (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Farmacodermias 0 de 3 (eritema multiforme x SSJ); negativo no meio que separa as duas."
+ },
+ {
+  "id": "S9-REU-06",
+  "simulado": 9,
+  "area": "Reumatologia",
+  "titulo": "Gestação não planejada em uso de leflunomida: suspender com eliminação por colestiramina e manter a hidroxicloroquina",
+  "arma": "Grade X / Y",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 31 anos, com artrite reumatoide em remissão com leflunomida 20 mg/dia e hidroxicloroquina 400 mg/dia há 2 anos, descobre gestação de 6 semanas, não planejada; usava anticoncepcional oral de forma irregular. Está sem sinovite, com DAS28 de 2,1, e deseja manter a gestação. Em relação à leflunomida e à hidroxicloroquina, a conduta é, respectivamente:",
+  "alternativas": {
+   "A": "Suspender apenas / suspender",
+   "B": "Suspender com colestiramina / suspender",
+   "C": "Suspender com colestiramina / manter",
+   "D": "Suspender apenas / manter"
+  },
+  "gabarito": "C",
+  "armadilha": "D",
+  "dado_decisivo": "leflunomida 20 mg/dia",
+  "resolucao": "Suspender a leflunomida parece suficiente, como se faria com o metotrexato. Mas o metabólito ativo da leflunomida (teriflunomida) tem circulação êntero-hepática e pode permanecer detectável por até 2 anos depois da suspensão; por isso, diante de gestação, a droga é suspensa e se faz eliminação acelerada com colestiramina 8 g três vezes ao dia por 11 dias, idealmente confirmando nível abaixo de 0,02 mg/L. Feito cedo, o risco de malformação não parece maior que o da população geral, e não há indicação de interromper a gestação. A hidroxicloroquina é compatível com a gestação e deve ser mantida: suspendê-la aumenta o risco de reativação da doença, que piora o desfecho gestacional.",
+  "comentarios": {
+   "A": "Errada nas duas metades: sem colestiramina a teriflunomida persiste, e suspender a hidroxicloroquina expõe à reativação.",
+   "B": "Errada. A eliminação está certa, mas a hidroxicloroquina é segura na gestação e deve ser mantida.",
+   "C": "Correta. Leflunomida exige eliminação acelerada com colestiramina; hidroxicloroquina é compatível com a gestação.",
+   "D": "Errada. Manter a hidroxicloroquina está certo, mas a simples suspensão deixa a teriflunomida circulando por meses."
+  },
+  "para_levar": "Gestação em uso de leflunomida: suspender e eliminar com colestiramina por 11 dias; hidroxicloroquina, sulfassalazina e certolizumabe podem ser mantidos.",
+  "referencias": "2020 ACR Guideline for the Management of Reproductive Health in Rheumatic and Musculoskeletal Diseases; EULAR points to consider for use of antirheumatic drugs in pregnancy (2016, atualização 2024).",
+  "tags": [
+   "Artrite Reumatóide (CM)",
+   "Drogas antirreumáticas (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Droga em uso e degrau da conduta; AR em população especial (gestante)."
+ }
+]

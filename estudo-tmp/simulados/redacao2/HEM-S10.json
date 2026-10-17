@@ -1,0 +1,205 @@
+[
+ {
+  "id": "S10-HEM-01",
+  "simulado": 10,
+  "area": "Hematologia",
+  "titulo": "Transfusão após sobrecarga circulatória prévia, em cardiopata com Hb 6,4: uma unidade, infusão lenta e diurético",
+  "arma": "Grade X / Y",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 84 anos, com insuficiência cardíaca de fração de ejeção reduzida (FE 30%) e doença renal crônica estágio 4, tem anemia por doença crônica e ferropenia, com Hb de 6,4 g/dL, dispneia aos pequenos esforços e tontura. Há 2 meses, em outra internação, teve sobrecarga circulatória associada à transfusão confirmada, após 2 concentrados de hemácias infundidos em 3 horas. Hoje está euvolêmica: PA 128/70 mmHg, FC 92 bpm, sem estertores, sem turgência jugular, SpO2 95% em ar ambiente. Peso de 52 kg. Para a transfusão de hoje, o número de unidades e o modo de infusão mais adequados são, respectivamente:",
+  "alternativas": {
+   "A": "Uma unidade / infusão lenta com diurético",
+   "B": "Duas unidades / infusão lenta com diurético",
+   "C": "Uma unidade / infusão padrão em 2 horas",
+   "D": "Duas unidades / infusão padrão em 2 horas"
+  },
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "Há 2 meses, em outra internação, teve sobrecarga circulatória associada à transfusão confirmada",
+  "resolucao": "Com Hb de 6,4, a meta de 7 a 8 g/dL parece pedir duas unidades, e o apressado acerta a velocidade e erra o volume. A transfusão está indicada (Hb abaixo de 7 com sintomas), mas a sobrecarga circulatória prévia, a FE de 30%, a DRC avançada, a idade e o peso baixo são os principais fatores de risco de recorrência. A recomendação é transfundir uma unidade por vez e reavaliar clínica e Hb antes da seguinte (em 52 kg, uma unidade eleva cerca de 1,5 g/dL), com infusão lenta (cerca de 1 mL/kg/h, sem passar de 4 horas por bolsa), diurético antes ou durante quando há risco e monitorização dos sinais e do balanço. Infusão padrão em 2 horas foi justamente o que causou a sobrecarga anterior.",
+  "comentarios": {
+   "A": "Correta. Uma unidade por vez com reavaliação, infusão lenta e diurético profilático, porque ela já teve sobrecarga e tem IC grave e DRC.",
+   "B": "Errada, é a armadilha. A infusão está certa, mas duas unidades de uma vez repetem o volume que causou a sobrecarga; a segunda só após reavaliar.",
+   "C": "Errada na segunda metade. Uma unidade é o certo, mas a velocidade padrão é o que precipitou a reação anterior.",
+   "D": "Errada nas duas metades. Repete exatamente o esquema da sobrecarga circulatória anterior."
+  },
+  "para_levar": "Quem já teve sobrecarga circulatória transfusional recebe uma unidade por vez, em infusão lenta (cerca de 1 mL/kg/h), com diurético e reavaliação antes da próxima.",
+  "referencias": "BSH 2017/2023 Guidelines on the administration of blood components (Robinson et al.); ISBT 2018 TACO surveillance criteria; Ministério da Saúde, Guia para uso de hemocomponentes, 2015.",
+  "tags": [
+   "Reações Transfusionais (CM)",
+   "Hemoterapia (CM)"
+  ],
+  "sourceQuestionId": "46fb7c3341d9a9b",
+  "alvo": "Hemoterapia 0 de 4 no app; porte da conduta (fazer mais: duas unidades) com o antecedente da primeira linha ignorado."
+ },
+ {
+  "id": "S10-HEM-02",
+  "simulado": 10,
+  "area": "Hematologia",
+  "titulo": "Monocitose persistente em idoso com doença inflamatória tratada: leucemia mielomonocítica crônica, investigar com medula e citogenética",
+  "arma": "Rótulo verdadeiro",
+  "comando": "próximo exame",
+  "nivel": "difícil",
+  "enunciado": "Homem de 72 anos, com polimialgia reumática há 1 ano, controlada com prednisona 5 mg/dia, VHS 12 mm/h e PCR normal. Há 5 meses seus hemogramas mostram monocitose: hoje, leucócitos 15.400/mm³ com monócitos 2.900/mm³ (19%), neutrófilos 10.200/mm³ com alguns hipogranulares, sem blastos; Hb 11,2 g/dL, VCM 101 fL, plaquetas 108.000/mm³. Baço palpável a 3 cm do rebordo costal. Sem febre, sem perda de peso, sem sintomas respiratórios; radiografia de tórax, ecocardiograma e hemoculturas normais; IGRA negativo. B12 e folato normais. O próximo exame mais adequado é:",
+  "alternativas": {
+   "A": "Repetir hemograma em 3 meses",
+   "B": "Mielograma e biópsia com citogenética",
+   "C": "Pesquisa de JAK2 V617F",
+   "D": "PET-CT de corpo inteiro"
+  },
+  "gabarito": "B",
+  "armadilha": "A",
+  "dado_decisivo": "Há 5 meses seus hemogramas mostram monocitose",
+  "resolucao": "A polimialgia em corticoide é um rótulo verdadeiro: doença inflamatória e corticoide causam monocitose reativa, e o apressado repete o hemograma. Mas a monocitose é acima de 1.000/mm³ e acima de 10% dos leucócitos, persiste há mais de 3 meses, a doença inflamatória está controlada (VHS e PCR normais) e as causas infecciosas foram afastadas. Somam-se anemia macrocítica, plaquetopenia, neutrófilos hipogranulares (displasia) e esplenomegalia. Isso preenche a suspeita de leucemia mielomonocítica crônica, neoplasia mielodisplásica/mieloproliferativa. O diagnóstico se faz com aspirado e biópsia de medula, com contagem de blastos e promonócitos, citogenética (e exclusão de BCR::ABL1) e, quando disponível, painel molecular (TET2, SRSF2, ASXL1). JAK2 é exame das neoplasias mieloproliferativas Filadélfia negativas, e PET-CT procura linfoma ou neoplasia sólida, sem pistas aqui.",
+  "comentarios": {
+   "A": "Errada, é a armadilha. Seria aceitável numa monocitose recente com doença inflamatória ativa; aqui ela persiste há 5 meses, com citopenias e displasia.",
+   "B": "Correta. Monocitose persistente acima de 1.000/mm³ e de 10%, com citopenias, displasia e baço: medula com citogenética para leucemia mielomonocítica crônica.",
+   "C": "Errada. JAK2 V617F é o exame de policitemia vera, trombocitemia essencial e mielofibrose, que não se apresentam com monocitose e citopenias.",
+   "D": "Errada. Seria um passo diante de suspeita de linfoma ou de neoplasia oculta, sem linfonodos nem sintomas B aqui."
+  },
+  "para_levar": "Monocitose acima de 1.000/mm³ e 10% por mais de 3 meses, sem causa reativa e com citopenia ou displasia, é leucemia mielomonocítica crônica até prova em contrário: medula com citogenética.",
+  "referencias": "WHO Classification of Haematolymphoid Tumours, 5th edition (2022) e ICC 2022 (critérios de LMMC); Patnaik & Tefferi, CMML: 2024 update, Am J Hematol.",
+  "tags": [
+   "Leucemias (CM)",
+   "Síndrome Mielodisplásica (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Rótulo verdadeiro (doença inflamatória em corticoide) contra a duração e as citopenias que decidem; próximo exame."
+ },
+ {
+  "id": "S10-HEM-03",
+  "simulado": 10,
+  "area": "Hematologia",
+  "titulo": "Plaquetopenia de 31.000 em pré-operatório sem nenhum sangramento e grumos no laudo: pseudoplaquetopenia por EDTA",
+  "arma": "Negativo no meio",
+  "comando": "diagnóstico",
+  "nivel": "média",
+  "enunciado": "Homem de 52 anos, em pré-operatório de colecistectomia, tem hepatite C tratada com resposta virológica sustentada há 4 anos, sem cirrose à elastografia (5,8 kPa). Assintomático. O hemograma automatizado mostrou plaquetas de 31.000/mm³, com Hb e leucócitos normais; repetido em novo tubo de tampa roxa, 28.000/mm³. Nunca teve sangramento, inclusive em hernioplastia há 3 anos e em extrações dentárias. Exame físico sem petéquias, equimoses ou esplenomegalia. TP e TTPa normais. Ultrassonografia: fígado e baço normais. Não usa medicamentos. O laudo do esfregaço descreve plaquetas agrupadas nas bordas da lâmina. O diagnóstico mais provável é:",
+  "alternativas": {
+   "A": "Hiperesplenismo por hepatopatia",
+   "B": "PTI secundária ao vírus C",
+   "C": "Plaquetopenia por fármaco",
+   "D": "Pseudoplaquetopenia por EDTA"
+  },
+  "gabarito": "D",
+  "armadilha": "B",
+  "dado_decisivo": "plaquetas agrupadas nas bordas da lâmina",
+  "resolucao": "O vírus C é um rótulo verdadeiro: causa PTI secundária e, com cirrose, hiperesplenismo. Mas a infecção foi curada há 4 anos, o fígado não é cirrótico e o baço é normal. Com 30.000 plaquetas reais, petéquias e sangramento seriam esperados, e ele não tem nenhum, nem em cirurgias recentes. A repetição no mesmo tipo de tubo não ajuda, porque o EDTA (tampa roxa) é a causa: em cerca de 0,1% das pessoas, autoanticorpos dependentes do EDTA aglutinam as plaquetas in vitro, e o contador não conta os grumos. O laudo de plaquetas agrupadas fecha o diagnóstico, confirmado pela contagem em tubo de citrato ou heparina. A cirurgia pode prosseguir sem transfusão nem investigação adicional.",
+  "comentarios": {
+   "A": "Errada. Hiperesplenismo exige hipertensão portal com baço aumentado; a elastografia e o baço são normais.",
+   "B": "Errada, é a armadilha. O HCV causa PTI, mas a infecção foi curada, ele nunca sangrou e o esfregaço mostra grumos.",
+   "C": "Errada. Ele não usa medicamentos.",
+   "D": "Correta. Plaquetopenia sem nenhum sangramento, repetida no mesmo tubo e com grumos no esfregaço: artefato do EDTA, confirmado em citrato."
+  },
+  "para_levar": "Plaquetopenia sem sangramento, com grumos no esfregaço, é pseudoplaquetopenia por EDTA: recontar em citrato antes de qualquer investigação ou transfusão.",
+  "referencias": "Lardinois et al., Pseudothrombocytopenia: a review, Int J Lab Hematol 2021; ASH 2019 Guidelines for ITP (Neunert et al.).",
+  "tags": [
+   "Púrpura Trombocitopênica Imunológica (PTI) (CM)",
+   "Avaliação Global do Hemograma (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Negativo no meio (sem sangramento algum) e rótulo verdadeiro antigo (HCV curado), contra a sobreinvestigação."
+ },
+ {
+  "id": "S10-HEM-04",
+  "simulado": 10,
+  "area": "Hematologia",
+  "titulo": "Trombose de veia safena de 8 cm a 6 cm da junção: fondaparinux profilático por 45 dias",
+  "arma": "Limiar",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 56 anos, com varizes de membros inferiores, tem há 3 dias dor, vermelhidão e cordão endurecido na face medial da coxa esquerda, sem trauma, sem acesso venoso e sem febre. Ultrassonografia: trombose da veia safena magna em extensão de 8 cm, com extremidade proximal a 6 cm da junção safenofemoral; veias profundas sem trombose. Sem câncer, sem trombose prévia, sem uso de hormônios. Plaquetas e função renal normais (TFGe 90 mL/min/1,73 m²), sem sangramento. A conduta mais adequada é:",
+  "alternativas": {
+   "A": "Anticoagulação plena por 3 meses",
+   "B": "Ligadura da junção safenofemoral",
+   "C": "Fondaparinux 2,5 mg/dia por 45 dias",
+   "D": "AINE tópico e compressão apenas"
+  },
+  "gabarito": "C",
+  "armadilha": "D",
+  "dado_decisivo": "em extensão de 8 cm",
+  "resolucao": "Tromboflebite superficial parece doença benigna, de compressa e anti-inflamatório, e o apressado não anticoagula. Mas o que decide é a extensão e a distância das junções: trombose de veia superficial com 5 cm ou mais de extensão tem risco relevante de progressão para TVP e TEP, e o estudo CALISTO mostrou que fondaparinux 2,5 mg/dia por 45 dias reduz esses eventos. Esta tem 8 cm, e a extremidade está a mais de 3 cm da junção safenofemoral, então a dose é profilática. Anticoagulação plena por 3 meses ficaria para o trombo a 3 cm ou menos da junção, tratado como TVP. A ligadura cirúrgica não supera a anticoagulação e tem mais complicações.",
+  "comentarios": {
+   "A": "Errada. Dose plena por 3 meses é para trombo a 3 cm ou menos da junção safenofemoral ou safenopoplítea, tratado como TVP.",
+   "B": "Errada. A ligadura da junção não é superior à anticoagulação e acrescenta risco cirúrgico.",
+   "C": "Correta. Trombose superficial de 5 cm ou mais e a mais de 3 cm da junção: fondaparinux 2,5 mg/dia por 45 dias.",
+   "D": "Errada, é a armadilha. Só tratamento sintomático é para trombose superficial menor que 5 cm e distante das junções."
+  },
+  "para_levar": "Trombose venosa superficial com 5 cm ou mais: fondaparinux 2,5 mg por 45 dias; a 3 cm ou menos da junção safenofemoral, anticoagulação plena como TVP.",
+  "referencias": "CHEST 2016 Antithrombotic Therapy for VTE (Kearon et al.); ESVS 2021 Clinical Practice Guidelines on venous thrombosis (Kakkos et al.); Decousus et al., CALISTO, NEJM 2010.",
+  "tags": [
+   "Trombose Venosa Profunda (CM)",
+   "Anticoagulação (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Limiar numérico não fixado; aqui a armadilha é fazer menos, para quebrar o automatismo da omissão."
+ },
+ {
+  "id": "S10-HEM-05",
+  "simulado": 10,
+  "area": "Hematologia",
+  "titulo": "Trombocitose de 712.000 com ferropenia grave por menorragia: repor ferro e repetir, antes de pesquisar neoplasia mieloproliferativa",
+  "arma": "Omissão",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 39 anos, com miomas uterinos e menorragia há 2 anos, queixa-se de cansaço. Hb 9,2 g/dL, VCM 69 fL, RDW 19%, leucócitos 7.800/mm³ com diferencial normal, plaquetas 712.000/mm³. Ferritina 5 ng/mL, saturação de transferrina 4%, PCR normal. Sem esplenomegalia, sem trombose prévia, sem eritromelalgia, sem cefaleia ou alterações visuais. Hemograma de 3 anos atrás, antes da menorragia, com plaquetas de 280.000/mm³. A conduta mais adequada neste momento é:",
+  "alternativas": {
+   "A": "Pesquisa de JAK2, CALR e MPL",
+   "B": "Repor ferro e repetir hemograma",
+   "C": "AAS e hidroxiureia",
+   "D": "Biópsia de medula óssea"
+  },
+  "gabarito": "B",
+  "armadilha": "A",
+  "dado_decisivo": "Ferritina 5 ng/mL",
+  "resolucao": "Plaquetas acima de 450.000 levantam a trombocitemia essencial, e o reflexo é pedir o painel molecular. Mas a trombocitose reativa responde pela grande maioria dos casos, e a ferropenia é uma das causas mais frequentes: a deficiência de ferro estimula a megacariopoese (a eritropoetina elevada e a própria carência aumentam a produção de plaquetas). Aqui há ferropenia grave e comprovada (ferritina 5, saturação 4%), causa evidente (menorragia), contagem normal antes da perda e nenhum sinal de neoplasia mieloproliferativa (baço, leucocitose, trombose). O passo é tratar a ferropenia (e a menorragia) e repetir o hemograma: as plaquetas costumam normalizar em semanas. Só se a trombocitose persistir com o ferro reposto entra a pesquisa de JAK2, CALR e MPL. Citorredução e biópsia são passos de quem já tem o diagnóstico de neoplasia.",
+  "comentarios": {
+   "A": "Errada, é a armadilha. Seria o próximo passo com trombocitose persistente após corrigir a ferropenia, ou sem causa reativa aparente.",
+   "B": "Correta. Trombocitose com ferropenia grave e causa evidente é reativa até prova em contrário: tratar a carência e recontar.",
+   "C": "Errada. Citorredução é para trombocitemia essencial de alto risco, diagnóstico que não existe aqui.",
+   "D": "Errada. A biópsia entra só depois de afastar causa reativa e quando a suspeita de neoplasia persiste."
+  },
+  "para_levar": "Trombocitose com ferropenia é reativa até repor o ferro: tratar e repetir o hemograma antes de pedir JAK2, CALR e MPL.",
+  "referencias": "BSH 2010/2014 Guideline for investigation and management of adults with essential thrombocythaemia (Harrison et al.); Bleeker & Hogan, Thrombocytosis: diagnostic evaluation, Thrombosis 2011.",
+  "tags": [
+   "Anemia Ferropriva (CM)",
+   "Trombocitemia Essencial (CM)"
+  ],
+  "sourceQuestionId": "90828889f322269",
+  "alvo": "Padrão dominante (exame do degrau seguinte antes de tratar a causa simples); mieloproliferativas erradas no banco."
+ },
+ {
+  "id": "S10-HEM-06",
+  "simulado": 10,
+  "area": "Hematologia",
+  "titulo": "Ferro oral em dias alternados: a hepcidina que sobe após cada dose reduz a absorção da dose seguinte",
+  "arma": "Cronologia",
+  "comando": "fato solto",
+  "nivel": "difícil",
+  "enunciado": "Na reposição de ferro oral para anemia ferropriva sem urgência, administrar a dose em dias alternados, em vez de duas ou três vezes ao dia, aumenta a fração de ferro absorvida porque:",
+  "alternativas": {
+   "A": "A hepcidina sobe por cerca de 24 h após cada dose",
+   "B": "O DMT1 duodenal é degradado com doses diárias",
+   "C": "A ferroportina é induzida a cada 48 h",
+   "D": "A transferrina satura e bloqueia a absorção"
+  },
+  "gabarito": "A",
+  "armadilha": "D",
+  "dado_decisivo": "em vez de duas ou três vezes ao dia",
+  "resolucao": "A explicação intuitiva é a saturação da transferrina, mas não é ela que regula a absorção intestinal. Cada dose oral de ferro eleva a hepcidina hepática por cerca de 24 horas; a hepcidina se liga à ferroportina, o exportador de ferro do enterócito para o plasma, e provoca sua internalização e degradação. Com a ferroportina reduzida, o ferro da dose seguinte fica retido no enterócito e é perdido com a descamação. Os estudos com isótopos de Stoffel e Moretti mostraram que doses em dias alternados aumentam a fração absorvida e reduzem efeitos gastrointestinais, por isso doses únicas, diárias ou em dias alternados, substituíram as tomadas fracionadas. A hepcidina degrada a ferroportina, e não a induz.",
+  "comentarios": {
+   "A": "Correta. A hepcidina induzida por uma dose dura cerca de 24 horas e reduz a ferroportina, diminuindo a absorção da dose seguinte.",
+   "B": "Errada. O DMT1 é o transportador apical e não é o ponto regulado pela dose oral; a regulação está na ferroportina.",
+   "C": "Errada. A hepcidina degrada a ferroportina; não existe indução em ciclos de 48 horas.",
+   "D": "Errada, é a armadilha. A transferrina transporta o ferro no plasma, mas a absorção é controlada pela hepcidina e pela ferroportina do enterócito."
+  },
+  "para_levar": "Ferro oral: uma dose eleva a hepcidina por cerca de 24 horas; dose única diária ou em dias alternados absorve melhor que doses fracionadas.",
+  "referencias": "Stoffel et al., Lancet Haematol 2017; Moretti et al., Blood 2015; BSG 2021 Guidelines for the management of iron deficiency anaemia in adults (Snook et al.).",
+  "tags": [
+   "Anemia Ferropriva (CM)"
+  ],
+  "sourceQuestionId": "81ba4e250bb6c46",
+  "alvo": "Fato solto de mecanismo (eixo de erro na evocação fora do caso, decoreba não fixada)."
+ }
+]

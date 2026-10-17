@@ -1,0 +1,206 @@
+[
+ {
+  "id": "S9-INF-01",
+  "simulado": 9,
+  "titulo": "Sífilis ocular com líquor normal na pessoa com HIV controlado: tratar como neurossífilis",
+  "arma": "Negativo no meio",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Homem de 38 anos, com HIV em TARV regular (CD4 520 células/mm³, carga viral indetectável), procura oftalmologista por embaçamento visual e moscas volantes no olho esquerdo há 2 semanas. Exame oftalmológico: acuidade 20/80, vitreíte e placa amarelada placoide em polo posterior. Sem cefaleia, sem rigidez de nuca, exame neurológico normal. VDRL sérico 1:128 e teste treponêmico reagente; há 2 anos, o VDRL era não reagente. Líquor: 3 células/mm³, proteína 38 mg/dL, glicose 60 mg/dL, VDRL não reagente. O tratamento mais adequado é:",
+  "alternativas": {
+   "A": "Penicilina benzatina, 3 doses semanais",
+   "B": "Penicilina cristalina IV por 14 dias",
+   "C": "Doxiciclina oral por 28 dias",
+   "D": "Penicilina benzatina em dose única"
+  },
+  "gabarito": "B",
+  "armadilha": "D",
+  "dado_decisivo": "vitreíte e placa amarelada placoide em polo posterior",
+  "resolucao": "O líquor normal, o HIV controlado e a soroconversão documentada nos últimos 2 anos (sífilis recente) levam a tratar com benzatina, em dose única. O dado que decide está no olho: vitreíte com coriorretinite placoide em pessoa com VDRL alto é sífilis ocular, e a sífilis ocular (como a otossífilis) é tratada como neurossífilis, com penicilina cristalina intravenosa por 10 a 14 dias, independentemente do líquor. O líquor normal não autoriza tratamento menor, e nem é obrigatório quando o quadro é ocular isolado sem sinais neurológicos; ele serve de base para seguimento. Doxiciclina é alternativa da sífilis latente tardia na alergia, não de forma ocular.",
+  "comentarios": {
+   "A": "Errada. Três doses de benzatina tratam sífilis latente tardia ou de duração ignorada; não atingem nível adequado no olho e no sistema nervoso.",
+   "B": "Correta. Sífilis ocular: esquema de neurossífilis, penicilina cristalina IV por 10 a 14 dias, mesmo com líquor normal.",
+   "C": "Errada. Doxiciclina é alternativa para sífilis sem acometimento neurológico ou ocular em alérgicos.",
+   "D": "Errada. É a armadilha: seria o tratamento da sífilis recente sem acometimento ocular; o olho muda o esquema."
+  },
+  "para_levar": "Sífilis ocular ou otológica se trata como neurossífilis (penicilina cristalina IV por 10 a 14 dias), qualquer que seja o líquor.",
+  "referencias": "CDC Sexually Transmitted Infections Treatment Guidelines (2021); PCDT para Atenção Integral às Pessoas com IST (MS, 2022).",
+  "tags": [
+   "Neurossífilis (CM)",
+   "Oftalmo (CM)"
+  ],
+  "sourceQuestionId": "a90eeee2368b04c",
+  "alvo": "Exame normal (líquor) que parece reduzir o tratamento, quando o dado clínico decide.",
+  "area": "Infectologia"
+ },
+ {
+  "id": "S9-INF-02",
+  "simulado": 9,
+  "titulo": "Escorpionismo leve no adulto: dor intensa sem sinais sistêmicos não pede soro",
+  "arma": "Omissão",
+  "comando": "conduta",
+  "nivel": "média",
+  "enunciado": "Homem de 35 anos, pedreiro em Belo Horizonte, foi picado há 40 minutos no dedo indicador direito por escorpião amarelo, que trouxe morto ao PS. Refere dor intensa, em queimação, irradiada ao antebraço, com parestesia local. Exame: lúcido, ansioso pela dor, sudorese e piloereção restritas à mão, FC 92 bpm, PA 132 x 84 mmHg, FR 18 irpm, sem vômitos, sem sialorreia, sem agitação psicomotora, ausculta pulmonar normal. A conduta mais adequada é:",
+  "alternativas": {
+   "A": "Bloqueio anestésico local e observação",
+   "B": "Soro antiescorpiônico, 3 ampolas",
+   "C": "Soro antiaracnídico, 5 ampolas",
+   "D": "Soro antiescorpiônico, 6 ampolas"
+  },
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "sem vômitos, sem sialorreia, sem agitação psicomotora",
+  "resolucao": "Escorpião amarelo (Tityus serrulatus) é o de maior gravidade no Brasil e a dor é intensa, o que empurra para o soro. Mas a classificação do escorpionismo é pela presença de manifestações sistêmicas: dor, parestesia e alterações restritas ao local (sudorese e piloereção na mão), com frequência e pressão discretamente alteradas pela própria dor, são acidente leve. O tratamento é sintomático: infiltração anestésica local ou bloqueio troncular com lidocaína sem vasoconstritor, analgésico, e observação por 4 a 6 horas no adulto (mais na criança) para detectar evolução. Vômitos, sudorese generalizada, agitação, sialorreia, taquicardia e hipertensão importantes caracterizam o moderado (2 a 3 ampolas) e o grave (4 a 6 ampolas, com UTI).",
+  "comentarios": {
+   "A": "Correta. Acidente leve: anestesia local, analgesia e observação por 4 a 6 horas.",
+   "B": "Errada. É a armadilha: 2 a 3 ampolas são do acidente moderado, com manifestações sistêmicas como vômitos e sudorese generalizada.",
+   "C": "Errada. O soro antiaracnídico também neutraliza Tityus, mas a indicação de soro é a mesma do antiescorpiônico, e este caso é leve.",
+   "D": "Errada. Quatro a 6 ampolas são do grave, com vômitos incoercíveis, choque, edema pulmonar ou rebaixamento."
+  },
+  "para_levar": "Escorpionismo leve (dor e sinais locais, sem manifestações sistêmicas) se trata com anestesia local e observação; soro só no moderado e grave.",
+  "referencias": "Ministério da Saúde. Guia de Vigilância em Saúde, 6ª ed. (2023), escorpionismo; Manual de Controle de Escorpiões (MS, 2009).",
+  "tags": [
+   "Acidentes com Animais Peçonhentos (CM)",
+   "Demais acidentes (CM)"
+  ],
+  "sourceQuestionId": "59ddf77bff7f452",
+  "alvo": "Porte da conduta (tratar o que não precisa) em peçonhentos (1 de 4).",
+  "area": "Infectologia"
+ },
+ {
+  "id": "S9-INF-03",
+  "simulado": 9,
+  "titulo": "Febre entérica após viagem com hemoculturas negativas por antibiótico prévio: mielocultura",
+  "arma": "Rótulo verdadeiro",
+  "comando": "próximo exame",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 29 anos voltou há 10 dias de 1 mês de trabalho voluntário em Bangladesh. Há 12 dias tem febre progressiva, hoje de 39,4 °C, cefaleia, dor abdominal difusa e constipação. Antes de voltar, tomou por conta própria ciprofloxacino por 5 dias, sem melhora. Exame: FC 84 bpm com T 39,4 °C, máculas róseas esparsas no abdome, hepatoesplenomegalia discreta. Leucócitos 3.600/mm³, sem eosinófilos, plaquetas 118.000/mm³; ALT 120 U/L. Três gotas espessas e teste rápido para malária negativos; NS1 e IgM para dengue não reagentes. Duas amostras de hemoculturas colhidas na admissão estão negativas após 5 dias. Para confirmar a hipótese principal, o próximo exame mais adequado é:",
+  "alternativas": {
+   "A": "Reação de Widal",
+   "B": "Repetir hemoculturas",
+   "C": "Mielocultura",
+   "D": "Coprocultura"
+  },
+  "gabarito": "C",
+  "armadilha": "B",
+  "dado_decisivo": "tomou por conta própria ciprofloxacino por 5 dias",
+  "resolucao": "Febre progressiva com bradicardia relativa, roséolas, hepatoesplenomegalia, leucopenia e aneosinofilia em viajante do sul da Ásia, com malária e dengue afastadas, é febre entérica. Hemoculturas negativas são um dado verdadeiro que parece enfraquecer a hipótese, e repeti-las parece o passo simples. Mas o ciprofloxacino tomado antes derruba a sensibilidade da hemocultura, que já é de apenas 40 a 80% sem antibiótico; a mielocultura positiva em 80 a 95% dos casos, inclusive após dias de antibiótico, porque a bactéria persiste nos macrófagos da medula. A coprocultura positiva mais tarde e com menor sensibilidade, e não distingue portador. O Widal tem sensibilidade e especificidade baixas em área endêmica e não confirma. A falha do ciprofloxacino é coerente com a resistência às fluoroquinolonas frequente no sul da Ásia, e a cultura dará o antibiograma.",
+  "comentarios": {
+   "A": "Errada. O Widal tem baixa sensibilidade e especificidade e não serve para confirmar; só teria lugar onde não há cultura.",
+   "B": "Errada. É a armadilha: repetir hemoculturas seria razoável sem antibiótico prévio; após 5 dias de ciprofloxacino a sensibilidade cai muito.",
+   "C": "Correta. Mielocultura: a maior sensibilidade na febre entérica, preservada mesmo após antibiótico, e com antibiograma.",
+   "D": "Errada. A coprocultura é menos sensível na fase febril inicial e pode refletir estado de portador."
+  },
+  "para_levar": "Febre entérica com hemoculturas negativas após antibiótico: a mielocultura é o exame mais sensível e continua positiva mesmo depois de dias de tratamento.",
+  "referencias": "CDC Yellow Book (2024), Typhoid and Paratyphoid Fever; Harrison's Principles of Internal Medicine, 21ª ed. (2022), Salmonella Infections.",
+  "tags": [
+   "Infecções Bacterianas (CM)",
+   "Febre de Origem Indeterminada (FOI) (CM)"
+  ],
+  "sourceQuestionId": "79f7756929eac8c",
+  "alvo": "Próximo exame: o exame negativo (hemocultura) lido sem a droga em uso que o explica.",
+  "area": "Infectologia"
+ },
+ {
+  "id": "S9-INF-04",
+  "simulado": 9,
+  "titulo": "Leishmaniose visceral na pessoa com HIV: anfotericina lipossomal e profilaxia secundária",
+  "arma": "Grade X / Y",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Homem de 39 anos, de Teresina, com HIV em abandono de TARV (CD4 110 células/mm³), tem febre há 2 meses, emagrecimento de 9 kg e aumento do volume abdominal. Exame: baço a 12 cm e fígado a 4 cm do rebordo costal. Hb 7,6 g/dL, leucócitos 1.900/mm³, plaquetas 64.000/mm³, albumina 2,6 g/dL, gamaglobulina 4,1 g/dL, creatinina 1,0 mg/dL, QTc 440 ms. Aspirado de medula óssea com formas amastigotas de Leishmania. O tratamento e a conduta após a cura clínica são, respectivamente:",
+  "alternativas": {
+   "A": "Anfotericina lipossomal / profilaxia secundária",
+   "B": "Anfotericina lipossomal / sem profilaxia",
+   "C": "Antimoniato de meglumina / profilaxia secundária",
+   "D": "Antimoniato de meglumina / sem profilaxia"
+  },
+  "gabarito": "A",
+  "armadilha": "C",
+  "dado_decisivo": "com HIV em abandono de TARV (CD4 110 células/mm³)",
+  "resolucao": "O antimoniato de meglumina é a primeira linha de manual da leishmaniose visceral, e a função renal e o QTc normais parecem liberá-lo. Mas na coinfecção com HIV o antimonial tem mais toxicidade (pancreatite, cardiotoxicidade) e mais falha e letalidade, e o Ministério da Saúde indica anfotericina B lipossomal como primeira escolha nessa população (como em idosos acima de 50 anos, gestantes, nefropatas e cardiopatas). A segunda decisão é igualmente específica do HIV: a recidiva é a regra com CD4 baixo, e após a cura clínica se faz profilaxia secundária com anfotericina lipossomal a intervalos regulares enquanto o CD4 estiver abaixo de 350, junto com a reintrodução da TARV.",
+  "comentarios": {
+   "A": "Correta. Coinfecção HIV: anfotericina B lipossomal, seguida de profilaxia secundária enquanto o CD4 estiver abaixo de 350.",
+   "B": "Errada. Acerta a droga, mas sem profilaxia secundária a recidiva é a regra com CD4 de 110.",
+   "C": "Errada. É a armadilha: antimonial é primeira linha no imunocompetente jovem; na coinfecção com HIV a escolha é a anfotericina lipossomal.",
+   "D": "Errada. Erra as duas decisões: droga de menor eficácia e mais tóxica na coinfecção, e sem prevenção da recidiva."
+  },
+  "para_levar": "Leishmaniose visceral com HIV: anfotericina B lipossomal e profilaxia secundária enquanto o CD4 estiver abaixo de 350, com TARV.",
+  "referencias": "Ministério da Saúde. Manual de Recomendações para Diagnóstico, Tratamento e Acompanhamento de Pacientes com a Coinfecção Leishmania-HIV (2015); Guia de Vigilância em Saúde, 6ª ed. (2023).",
+  "tags": [
+   "Leishmaniose (CM)",
+   "Doenças Oportunistas no HIV (CM)"
+  ],
+  "sourceQuestionId": "7efcd8747b6c2e6",
+  "alvo": "Oportunistas no HIV: a primeira linha de manual que a comorbidade muda.",
+  "area": "Infectologia"
+ },
+ {
+  "id": "S9-INF-05",
+  "simulado": 9,
+  "titulo": "Vacina contra herpes-zóster no adulto jovem em uso de inibidor de JAK: recombinante, sem suspender",
+  "arma": "Rótulo verdadeiro",
+  "comando": "fato solto",
+  "nivel": "média",
+  "enunciado": "Mulher de 42 anos, com artrite reumatoide em uso de tofacitinibe e metotrexato, sem história de herpes-zóster, pergunta sobre vacinação contra o zóster. A recomendação mais adequada é:",
+  "alternativas": {
+   "A": "Contraindicada enquanto usar tofacitinibe",
+   "B": "Atenuada, após suspender por 4 semanas",
+   "C": "Recombinante, só a partir dos 50 anos",
+   "D": "Recombinante adjuvada, 2 doses, sem suspender"
+  },
+  "gabarito": "D",
+  "armadilha": "A",
+  "dado_decisivo": "em uso de tofacitinibe e metotrexato",
+  "resolucao": "A regra verdadeira de que vacina viva é contraindicada no imunossuprimido costuma ser estendida, por engano, a toda vacina contra o zóster. A vacina recombinante adjuvada (glicoproteína E) é inativada, segura no imunossuprimido, e está indicada a partir dos 18 anos em quem tem risco aumentado por imunossupressão, com 2 doses separadas por 2 a 6 meses (o intervalo pode ser encurtado para 1 a 2 meses). Os inibidores de JAK aumentam muito o risco de zóster, o que torna a vacina prioridade, e não é preciso suspender o tratamento. A vacina atenuada saiu de uso na maioria dos países e, de qualquer modo, não se aplica a quem vai continuar imunossuprimido.",
+  "comentarios": {
+   "A": "Errada. É a armadilha: a contraindicação vale para a vacina atenuada, não para a recombinante.",
+   "B": "Errada. A atenuada exigiria suspender a imunossupressão e foi substituída pela recombinante, mais eficaz.",
+   "C": "Errada. O corte de 50 anos é para a população geral; imunossuprimidos têm indicação a partir dos 18 anos.",
+   "D": "Correta. Recombinante adjuvada, 2 doses, sem interromper o tofacitinibe."
+  },
+  "para_levar": "Imunossuprimido a partir dos 18 anos (inibidor de JAK, por exemplo): vacina recombinante contra zóster, 2 doses, sem suspender o tratamento.",
+  "referencias": "ACIP. Use of Recombinant Zoster Vaccine in Immunocompromised Adults Aged 19 Years and Older (MMWR, 2022); EULAR recommendations for vaccination in adult patients with autoimmune inflammatory rheumatic diseases (2019, atualização 2022); Calendários de vacinação SBIm (2024).",
+  "tags": [
+   "Vacinas e Precauções (CM)",
+   "Varicela-Zoster (CM)"
+  ],
+  "sourceQuestionId": "072516d7f69ceaa",
+  "alvo": "Vacinas no imunossuprimido, que ele já errou: a regra verdadeira (viva contraindicada) aplicada à vacina errada.",
+  "area": "Infectologia"
+ },
+ {
+  "id": "S9-INF-06",
+  "simulado": 9,
+  "titulo": "Retinocoroidite na pessoa com HIV e CD4 acima de 200: toxoplasmose, não citomegalovírus",
+  "arma": "Rótulo verdadeiro",
+  "comando": "diagnóstico",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 33 anos, com HIV em TARV irregular (CD4 210 células/mm³), procura atendimento por visão turva, dor ocular leve e moscas volantes no olho direito há 10 dias. Exame: reação de câmara anterior discreta. Fundoscopia: lesão única branco-amarelada de retinocoroidite, de bordas pouco definidas, com 2 diâmetros de disco, adjacente a cicatriz hiperpigmentada antiga, e vitreíte intensa que turva a visualização; sem hemorragias retinianas. Olho esquerdo normal. Sorologias: toxoplasmose IgG reagente e IgM não reagente; VDRL não reagente. O diagnóstico mais provável é:",
+  "alternativas": {
+   "A": "Retinite por citomegalovírus",
+   "B": "Necrose retiniana aguda",
+   "C": "Retinocoroidite por toxoplasma",
+   "D": "Sífilis ocular"
+  },
+  "gabarito": "C",
+  "armadilha": "A",
+  "dado_decisivo": "adjacente a cicatriz hiperpigmentada antiga",
+  "resolucao": "Retinite em pessoa com HIV puxa para o citomegalovírus, a retinite oportunista mais conhecida. Mas a retinite por CMV ocorre quase só com CD4 abaixo de 50, tem pouca vitreíte e se mostra como necrose granular com hemorragias. Aqui o CD4 é 210, a vitreíte é intensa e a lesão ativa nasce ao lado de uma cicatriz pigmentada: reativação de toxoplasmose ocular. IgM não reagente não afasta, porque a forma ocular é em geral recorrência de infecção antiga, e a IgG reagente basta como apoio. A necrose retiniana aguda (VZV, HSV) começa na periferia, com múltiplas áreas confluentes e progressão rápida, e a sífilis ocular exigiria VDRL reagente. Na pessoa com HIV, toda lesão de toxoplasmose ocular é tratada (pirimetamina com sulfadiazina, ou sulfametoxazol-trimetoprima).",
+  "comentarios": {
+   "A": "Errada. É a armadilha: a retinite por CMV ocorre com CD4 abaixo de 50, com pouca vitreíte e hemorragias.",
+   "B": "Errada. A necrose retiniana aguda é periférica, multifocal e de progressão rápida, sem cicatriz antiga adjacente.",
+   "C": "Correta. Lesão ativa ao lado de cicatriz antiga, com vitreíte intensa e IgG reagente: reativação de toxoplasmose ocular.",
+   "D": "Errada. A sífilis ocular pode imitar qualquer uveíte, mas o VDRL não reagente torna improvável."
+  },
+  "para_levar": "Retinite ao lado de cicatriz pigmentada com vitreíte intensa é toxoplasmose; CMV exige CD4 abaixo de 50 e tem pouca vitreíte.",
+  "referencias": "NIH/CDC/IDSA Guidelines for Opportunistic Infections in Adults and Adolescents with HIV (Toxoplasmosis; CMV); American Academy of Ophthalmology, Basic and Clinical Science Course, Uveitis and Ocular Inflammation (2023-2024).",
+  "tags": [
+   "Doenças Oportunistas no HIV (CM)",
+   "Oftalmo (CM)"
+  ],
+  "sourceQuestionId": "88477caeeb16e04",
+  "alvo": "Oportunistas no HIV (0 de 4): já errou retinite no HIV puxando para CMV; aqui o CD4 e a cicatriz decidem.",
+  "area": "Infectologia"
+ }
+]

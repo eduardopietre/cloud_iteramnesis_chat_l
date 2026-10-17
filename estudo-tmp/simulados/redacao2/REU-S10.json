@@ -1,0 +1,205 @@
+[
+ {
+  "id": "S10-REU-01",
+  "simulado": 10,
+  "area": "Farmacodermias",
+  "titulo": "Pustulose exantemática generalizada aguda com febre e neutrofilia: suspender a droga e corticoide tópico, sem corticoide sistêmico",
+  "arma": "Grade X / Y",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 49 anos, sem história pessoal ou familiar de psoríase, iniciou azitromicina para sinusite há 2 dias. Há 12 horas surgiu eritema edematoso em face, pescoço, axilas e virilhas, salpicado por dezenas de pústulas puntiformes não foliculares, com ardor, e febre de 38,8 °C. Mucosas poupadas, sem bolhas e sem áreas de destacamento. PA 118 x 72 mmHg, FC 98 bpm. Exames: leucócitos 18.400/mm³ com 14.200 neutrófilos e 600 eosinófilos, PCR 9 mg/dL, creatinina e transaminases normais. Bacterioscopia do conteúdo de uma pústula: neutrófilos, sem bactérias. A azitromicina foi suspensa. O diagnóstico e a conduta são, respectivamente:",
+  "alternativas": {
+   "A": "Psoríase pustulosa / prednisona oral",
+   "B": "Pustulose exantemática / corticoide tópico",
+   "C": "Pustulose exantemática / prednisona oral",
+   "D": "Psoríase pustulosa / corticoide tópico"
+  },
+  "gabarito": "B",
+  "armadilha": "C",
+  "dado_decisivo": "iniciou azitromicina para sinusite há 2 dias",
+  "resolucao": "Pústulas estéreis não foliculares sobre eritema que começa em face e grandes dobras, com febre e neutrofilia, 2 dias após um antibiótico, sem psoríase prévia, é pustulose exantemática generalizada aguda; a latência curta (menos de 48 horas para antibióticos) é característica. A psoríase pustulosa generalizada tem curso mais arrastado, história de psoríase e não guarda relação temporal com a droga. Na conduta está a armadilha: febre de 38,8 °C e 18 mil leucócitos parecem gravidade que pede corticoide sistêmico, mas a doença é autolimitada, as pústulas regridem em 1 a 2 semanas com descamação após a suspensão do fármaco, e o tratamento é corticoide tópico e sintomáticos. Corticoide sistêmico fica para acometimento sistêmico relevante (hepático, renal, respiratório), ausente aqui, e a febre com neutrofilia faz parte do quadro, e não indica antibiótico.",
+  "comentarios": {
+   "A": "Errada nas duas metades: sem psoríase prévia e com latência de 2 dias, e corticoide sistêmico causa rebote na psoríase pustulosa.",
+   "B": "Correta. Pustulose exantemática pela azitromicina, sem órgão acometido: suspender e tratar com corticoide tópico.",
+   "C": "Errada. O diagnóstico está certo, mas corticoide oral fica para acometimento sistêmico, ausente aqui.",
+   "D": "Errada. A conduta seria aceitável, mas o diagnóstico ignora a latência de 2 dias e a ausência de psoríase."
+  },
+  "para_levar": "Pustulose exantemática generalizada aguda: pústulas estéreis em dobras 1 a 2 dias após antibiótico, com febre e neutrofilia; suspender e usar corticoide tópico.",
+  "referencias": "EuroSCAR AGEP validation score (Sidoroff et al., 2001); Consenso brasileiro de reações de hipersensibilidade a medicamentos (ASBAI, 2023).",
+  "tags": [
+   "Farmacodermias (CM)",
+   "Psoríase (CM)"
+  ],
+  "sourceQuestionId": "380de2709646128",
+  "alvo": "Farmacodermias 0 de 3 (PEGA); porte da conduta, tratar mais do que o caso pede."
+ },
+ {
+  "id": "S10-REU-02",
+  "simulado": 10,
+  "area": "Farmacodermias",
+  "titulo": "SCORTEN na necrólise epidérmica: contar só o que passa do corte, com bicarbonato e glicemia no limite",
+  "arma": "Limiar",
+  "comando": "achado esperado",
+  "nivel": "difícil",
+  "enunciado": "Homem de 46 anos, sem neoplasia conhecida, é internado no 1º dia de síndrome de sobreposição Stevens-Johnson e necrólise epidérmica tóxica atribuída ao sulfametoxazol-trimetoprima, com destacamento epidérmico de 18% da superfície corporal. FC 124 bpm, PA 108 x 64 mmHg. Exames da admissão: ureia 72 mg/dL (nitrogênio ureico 34 mg/dL), bicarbonato sérico 21 mEq/L, glicemia 238 mg/dL, creatinina 1,4 mg/dL. A pontuação do SCORTEN deste paciente é:",
+  "alternativas": {
+   "A": "3",
+   "B": "4",
+   "C": "5",
+   "D": "6"
+  },
+  "gabarito": "B",
+  "armadilha": "C",
+  "dado_decisivo": "bicarbonato sérico 21 mEq/L, glicemia 238 mg/dL",
+  "resolucao": "O SCORTEN soma 1 ponto para cada um de sete itens no primeiro dia: idade de 40 anos ou mais, neoplasia, FC de 120 bpm ou mais, destacamento acima de 10% da superfície, nitrogênio ureico acima de 28 mg/dL (cerca de 60 mg/dL de ureia), bicarbonato abaixo de 20 mEq/L e glicemia acima de 252 mg/dL. Este paciente pontua idade (46), FC (124), destacamento (18%) e nitrogênio ureico (34): 4 pontos, mortalidade estimada de cerca de 58%. O bicarbonato de 21 e a glicemia de 238 estão próximos dos cortes, mas não os ultrapassam, e é aí que o apressado soma 5 ou 6. A creatinina não faz parte do escore. A pontuação orienta o nível de cuidado: 2 ou mais justificam unidade de queimados ou terapia intensiva.",
+  "comentarios": {
+   "A": "Errada. Seria a soma de quem esquece a idade de 46 anos, que já pontua a partir de 40.",
+   "B": "Correta. Idade, FC, destacamento acima de 10% e nitrogênio ureico acima de 28 mg/dL: 4 pontos.",
+   "C": "Errada. Soma um dos itens limítrofes: bicarbonato de 21 não é abaixo de 20, e glicemia de 238 não passa de 252.",
+   "D": "Errada. Conta os dois itens limítrofes como alterados; nenhum deles ultrapassa o corte."
+  },
+  "para_levar": "SCORTEN: idade de 40 ou mais, câncer, FC de 120 ou mais, destacamento acima de 10%, nitrogênio ureico acima de 28, bicarbonato abaixo de 20 e glicemia acima de 252; 4 pontos, cerca de 58% de mortalidade.",
+  "referencias": "Bastuji-Garin et al., SCORTEN (J Invest Dermatol, 2000); British Association of Dermatologists guidelines for SJS/TEN in adults (2016).",
+  "tags": [
+   "Farmacodermias (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Pontos de corte não fixados; farmacodermias 0 de 3."
+ },
+ {
+  "id": "S10-REU-03",
+  "simulado": 10,
+  "area": "Alergia",
+  "titulo": "Asma com polipose nasal e broncoespasmo após ibuprofeno: inibidor seletivo da COX-2 é o anti-inflamatório tolerado",
+  "arma": "Dado omitido",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 44 anos com asma moderada em uso de budesonida-formoterol e rinossinusite crônica com polipose nasal, operada duas vezes, relata que há 2 anos, cerca de 40 minutos após tomar ibuprofeno para cólica, teve obstrução nasal, rinorreia e crise de broncoespasmo com atendimento de emergência. Desde então evita anti-inflamatórios. Agora tem tendinite do ombro, com dor que não cede ao paracetamol 750 mg. Asma controlada, VEF1 de 82% do previsto. O anti-inflamatório mais seguro para esta paciente é:",
+  "alternativas": {
+   "A": "Celecoxibe",
+   "B": "Naproxeno",
+   "C": "Dipirona",
+   "D": "Diclofenaco"
+  },
+  "gabarito": "A",
+  "armadilha": "C",
+  "dado_decisivo": "rinossinusite crônica com polipose nasal, operada duas vezes",
+  "resolucao": "A palavra aspirina não aparece, mas asma, polipose nasal e reação respiratória a um AINE formam a doença respiratória exacerbada por AINE. Nela a reação não é alergia ao ibuprofeno: é efeito farmacológico da inibição da COX-1, que desvia o ácido araquidônico para leucotrienos, e por isso há reatividade cruzada com todos os inibidores fortes da COX-1. No Brasil a dipirona é vista como alternativa segura, mas também inibe a COX-1 e desencadeia crises nesses pacientes. Os inibidores seletivos da COX-2 (celecoxibe, etoricoxibe) são tolerados pela grande maioria e são a escolha, de preferência com a primeira dose sob observação; paracetamol em dose até 500 a 650 mg também costuma ser tolerado.",
+  "comentarios": {
+   "A": "Correta. Inibidor seletivo da COX-2 é tolerado pela grande maioria dos pacientes com doença respiratória exacerbada por AINE.",
+   "B": "Errada. Inibe fortemente a COX-1 e tem reatividade cruzada com o ibuprofeno.",
+   "C": "Errada. Tida como segura por hábito, também inibe a COX-1 e desencadeia reações nesses pacientes.",
+   "D": "Errada. Inibidor não seletivo potente, com o mesmo mecanismo da reação ao ibuprofeno."
+  },
+  "para_levar": "Asma, polipose nasal e reação respiratória a AINE: reatividade cruzada com todo inibidor forte da COX-1, dipirona incluída; use inibidor seletivo da COX-2.",
+  "referencias": "EAACI/ENDA position paper on NSAID hypersensitivity (2019); GINA 2026 (asma e doença respiratória exacerbada por AINE).",
+  "tags": [
+   "Alergias (CM)",
+   "Asma (CM)"
+  ],
+  "sourceQuestionId": "d361cf745d59bd6",
+  "alvo": "Alergia como lacuna nova; dado omitido (a aspirina não nomeada) e o hábito brasileiro com dipirona."
+ },
+ {
+  "id": "S10-REU-04",
+  "simulado": 10,
+  "area": "Reumatologia",
+  "titulo": "Pancitopenia, miopatia e neuropatia em gotoso com DRC após erradicação do H. pylori: intoxicação por colchicina pelo macrolídeo",
+  "arma": "Droga a deduzir",
+  "comando": "etiologia",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 68 anos, com gota e doença renal crônica (taxa de filtração glomerular estimada de 38 mL/min/1,73 m²), usa alopurinol 200 mg/dia há 2 anos, colchicina 0,5 mg duas vezes ao dia como profilaxia e atorvastatina 40 mg/dia. Há 12 dias iniciou esquema de 14 dias para erradicação do Helicobacter pylori, com omeprazol, amoxicilina e um macrolídeo. Há 5 dias tem diarreia aquosa, vômitos, fraqueza proximal progressiva e parestesias nos pés. Exame: desidratado, força grau 3 proximal, reflexos aquileus abolidos. Exames: leucócitos 2.100/mm³, plaquetas 68.000/mm³, Hb 11,2 g/dL, CK 4.800 U/L, creatinina 2,1 mg/dL (era 1,7), K 4,9 mEq/L. A causa mais provável do quadro é:",
+  "alternativas": {
+   "A": "Miopatia por atorvastatina potencializada",
+   "B": "Colite por Clostridioides difficile",
+   "C": "Intoxicação por colchicina",
+   "D": "DRESS pelo alopurinol"
+  },
+  "gabarito": "C",
+  "armadilha": "A",
+  "dado_decisivo": "omeprazol, amoxicilina e um macrolídeo",
+  "resolucao": "O macrolídeo do esquema é a claritromicina, inibidor potente do CYP3A4 e da glicoproteína P, e isso eleva tanto a atorvastatina quanto a colchicina. A miopatia por estatina potencializada é real e explica a CK, mas não explica diarreia, pancitopenia e neuropatia com arreflexia. A colchicina, cuja eliminação já está reduzida pela doença renal crônica, acumula com a claritromicina e produz o quadro completo da intoxicação: fase gastrointestinal, depois mielossupressão, miopatia com CK alta e neuropatia axonal (neuromiopatia). A conduta é suspender colchicina, macrolídeo e estatina, suporte e vigilância das citopenias. A interação é tão grave que a associação de colchicina com claritromicina é contraindicada na doença renal ou hepática.",
+  "comentarios": {
+   "A": "Errada. A claritromicina eleva a atorvastatina e explica a CK, mas não a diarreia, a pancitopenia e a neuropatia.",
+   "B": "Errada. Explicaria a diarreia após antibiótico, mas não a pancitopenia, a CK de 4.800 e a arreflexia.",
+   "C": "Correta. Claritromicina mais DRC elevam a colchicina: diarreia, pancitopenia, miopatia e neuropatia.",
+   "D": "Errada. Alopurinol em uso há 2 anos, fora da janela, e sem exantema, eosinofilia ou hepatite."
+  },
+  "para_levar": "Colchicina com claritromicina (ou outro inibidor forte do CYP3A4) na DRC: diarreia, citopenias e neuromiopatia; a associação é contraindicada.",
+  "referencias": "2020 ACR Guideline for the Management of Gout; bula da colchicina (ANVISA/FDA, interações com inibidores do CYP3A4 e da P-gp); V Consenso Brasileiro sobre H. pylori (2026).",
+  "tags": [
+   "Gota (CM)",
+   "Iatrogenias (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Droga a deduzir e interação ignorada; gota com DRC."
+ },
+ {
+  "id": "S10-REU-05",
+  "simulado": 10,
+  "area": "Reumatologia",
+  "titulo": "Antes de inibidor de JAK: vacina recombinante contra herpes-zóster",
+  "arma": "Qualificador",
+  "comando": "fato solto",
+  "nivel": "média",
+  "enunciado": "Homem de 52 anos, com artrite reumatoide, vai iniciar tofacitinibe associado ao metotrexato. Teve varicela na infância e nunca recebeu vacina contra herpes-zóster. Para a prevenção do herpes-zóster, a conduta mais adequada é:",
+  "alternativas": {
+   "A": "Valaciclovir profilático contínuo",
+   "B": "Vacina atenuada 4 semanas antes",
+   "C": "Nenhuma vacina, pela imunossupressão",
+   "D": "Vacina recombinante adjuvada, duas doses"
+  },
+  "gabarito": "D",
+  "armadilha": "B",
+  "dado_decisivo": "vai iniciar tofacitinibe associado ao metotrexato",
+  "resolucao": "Os inibidores de JAK aumentam de forma marcada o risco de herpes-zóster, mais ainda com metotrexato ou corticoide associado, e a prevenção deve ser feita antes de iniciá-los. A vacina atenuada parece suficiente se dada semanas antes, mas tem eficácia menor, é de vírus vivo (risco se a imunossupressão começar cedo) e foi substituída. A vacina recombinante adjuvada, de subunidade e não viva, em duas doses com intervalo de 2 a 6 meses, é recomendada a partir dos 18 anos para quem usa ou vai usar imunossupressor, e pode ser dada mesmo durante o tratamento. Profilaxia antiviral contínua não é recomendada de rotina.",
+  "comentarios": {
+   "A": "Errada. Antiviral contínuo não é recomendado de rotina; reserva-se a situações como transplante de medula.",
+   "B": "Errada. Vírus vivo, menos eficaz e substituída; não é a escolha para quem vai usar imunossupressor.",
+   "C": "Errada. A recombinante não é viva e pode ser dada em imunossuprimidos, que são justamente os mais beneficiados.",
+   "D": "Correta. Não viva, eficaz em imunossuprimidos e indicada a partir dos 18 anos para quem usa ou vai usar JAK."
+  },
+  "para_levar": "Antes de inibidor de JAK (e em qualquer imunossuprimido a partir dos 18 anos), vacina recombinante adjuvada contra zóster em duas doses.",
+  "referencias": "2022 ACR Guideline for Vaccinations in Patients with Rheumatic and Musculoskeletal Diseases; Recomendações da SBR e SBIm para vacinação em doenças reumáticas (2024).",
+  "tags": [
+   "Artrite Reumatóide (CM)",
+   "Drogas antirreumáticas (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Fato solto de evocação (AR, vacinas e JAK), eixo em que ele erra fora do caso."
+ },
+ {
+  "id": "S10-REU-06",
+  "simulado": 10,
+  "area": "Reumatologia",
+  "titulo": "Monoartrite de joelho em artrite reumatoide controlada com anti-TNF: artrocentese antes de infiltrar corticoide",
+  "arma": "Negativo no meio",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 57 anos, com artrite reumatoide há 12 anos, em uso de metotrexato 20 mg/semana, adalimumabe e prednisona 5 mg/dia, controlada há 1 ano (DAS28 de 2,4), refere há 3 dias dor intensa e edema no joelho direito, com dificuldade para deambular. Nega trauma. Tax 37,4 °C, PA 124 x 76 mmHg, FC 92 bpm. Joelho direito quente, com derrame volumoso e dor à mobilização passiva; punhos, metacarpofalângicas, interfalângicas e joelho esquerdo sem sinovite. Leucócitos 11.800/mm³, PCR 98 mg/L. A conduta mais adequada neste momento é:",
+  "alternativas": {
+   "A": "Artrocentese diagnóstica antes de qualquer droga",
+   "B": "Infiltração intra-articular de corticoide",
+   "C": "Aumentar a prednisona para 20 mg/dia",
+   "D": "Trocar o adalimumabe por tocilizumabe"
+  },
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "punhos, metacarpofalângicas, interfalângicas e joelho esquerdo sem sinovite",
+  "resolucao": "Em quem tem artrite reumatoide, uma articulação inflamada parece apenas uma crise da doença, e a infiltração de corticoide resolve a crise localizada. Mas a doença está controlada há 1 ano e só o joelho direito está acometido, com as demais articulações sem sinovite: monoartrite desproporcional numa AR quieta é artrite séptica até prova em contrário. Os fatores de risco se somam (AR com articulação danificada, anti-TNF, metotrexato e corticoide), e os imunossupressores atenuam a febre, o que explica a temperatura de 37,4 °C. A conduta é puncionar antes de qualquer droga, com celularidade, Gram, cultura e pesquisa de cristais, e iniciar antibiótico empírico após a coleta se o líquido for purulento; infiltrar corticoide numa articulação séptica é um erro grave.",
+  "comentarios": {
+   "A": "Correta. Monoartrite em AR controlada, sob anti-TNF, é séptica até prova em contrário: puncionar antes de tratar.",
+   "B": "Errada. Seria a conduta numa crise oligoarticular com infecção afastada pela punção; aqui pode semear uma artrite séptica.",
+   "C": "Errada. Seria opção numa reativação poliarticular; com uma só articulação e infecção não afastada, mascara a sepse.",
+   "D": "Errada. Troca de biológico é para falha poliarticular documentada, não para uma monoartrite aguda ainda sem diagnóstico."
+  },
+  "para_levar": "Monoartrite desproporcional em AR controlada, sobretudo sob biológico, é séptica até prova em contrário: artrocentese antes de corticoide.",
+  "referencias": "EULAR recommendations for the management of RA (2022); BSR/BOA guideline on management of the hot swollen joint in adults (2006, revisão 2023).",
+  "tags": [
+   "Artrite Séptica (CM)",
+   "Artrite Reumatóide (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Rótulo da doença de base contra o negativo que decide; ordem da conduta (exame antes da droga)."
+ }
+]

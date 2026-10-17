@@ -1,0 +1,205 @@
+[
+ {
+  "id": "S10-INF-01",
+  "simulado": 10,
+  "titulo": "Bacilos álcool-ácido resistentes em hemocultura com teste molecular para tuberculose negativo na aids avançada: complexo Mycobacterium avium",
+  "arma": "Rótulo verdadeiro",
+  "comando": "etiologia",
+  "nivel": "difícil",
+  "enunciado": "Homem de 45 anos, com aids sem tratamento (CD4 18 células/mm³), tem febre diária, sudorese noturna, diarreia e perda de 12 kg em 2 meses. Exame: emagrecido, linfonodos de 1 cm em cadeias cervicais, fígado a 3 cm e baço a 5 cm do rebordo costal. Hb 7,9 g/dL, fosfatase alcalina 620 U/L (referência até 120 U/L), ALT 54 U/L. Radiografia de tórax normal. Hemocultura em meio para micobactérias, positiva no 12º dia: bacilos álcool-ácido resistentes; teste molecular rápido para M. tuberculosis (Xpert MTB/RIF) na amostra: não detectado. Antígeno urinário de Histoplasma negativo. O agente mais provável é:",
+  "alternativas": {
+   "A": "Histoplasma capsulatum",
+   "B": "Mycobacterium tuberculosis",
+   "C": "Bartonella henselae",
+   "D": "Complexo Mycobacterium avium"
+  },
+  "gabarito": "D",
+  "armadilha": "B",
+  "dado_decisivo": "teste molecular rápido para M. tuberculosis (Xpert MTB/RIF) na amostra: não detectado",
+  "resolucao": "No Brasil, bacilo álcool-ácido resistente em pessoa com HIV significa tuberculose até prova em contrário, e esse é um rótulo verdadeiro na maioria dos casos. Aqui, porém, o teste molecular feito no próprio crescimento da hemocultura não detectou M. tuberculosis, o que numa cultura positiva tem alto valor preditivo negativo. O conjunto (CD4 abaixo de 50, febre e sudorese, diarreia, hepatoesplenomegalia, anemia acentuada, fosfatase alcalina muito alta e tórax normal) é o perfil da doença disseminada pelo complexo Mycobacterium avium. O tratamento é claritromicina (ou azitromicina) com etambutol, com ou sem rifabutina, e TARV iniciada em até 2 semanas. Histoplasma não é álcool-ácido resistente e o antígeno foi negativo; Bartonella não cresce como BAAR.",
+  "comentarios": {
+   "A": "Errada. Histoplasmose disseminada daria quadro semelhante, mas o fungo não é álcool-ácido resistente e o antígeno urinário foi negativo.",
+   "B": "Errada. É a armadilha: seria a resposta com teste molecular positivo; Xpert não detectado em cultura positiva praticamente exclui M. tuberculosis.",
+   "C": "Errada. Bartonella causa angiomatose bacilar e peliose hepática, mas não cresce como bacilo álcool-ácido resistente em meio para micobactérias.",
+   "D": "Correta. BAAR em hemocultura, Xpert negativo, CD4 abaixo de 50, hepatoesplenomegalia e fosfatase alcalina alta: MAC disseminado."
+  },
+  "para_levar": "BAAR em hemocultura de pessoa com HIV e CD4 abaixo de 50 com teste molecular para tuberculose negativo: complexo Mycobacterium avium (claritromicina e etambutol).",
+  "referencias": "NIH/CDC/IDSA Guidelines for Opportunistic Infections in Adults and Adolescents with HIV (Mycobacterium avium Complex Disease); PCDT para Manejo da Infecção pelo HIV em Adultos (MS).",
+  "tags": [
+   "Doenças Oportunistas no HIV (CM)",
+   "MNT e Diferenciais (CM)"
+  ],
+  "sourceQuestionId": "c2e275cc5dcb5ab",
+  "alvo": "HIV oportunista fora da TB: o rótulo BAAR = TB, quando o exame que decide está escrito.",
+  "area": "Infectologia"
+ },
+ {
+  "id": "S10-INF-02",
+  "simulado": 10,
+  "titulo": "Mordida de serpente sem fosseta loreal com edema e equimose e coagulação normal: sem soro",
+  "arma": "Omissão",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Homem de 28 anos, estudante de biologia, foi mordido na mão esquerda há 3 horas ao manusear uma serpente verde, de cerca de 1 metro, que capturou e trouxe ao PS; a mordida foi prolongada. O plantonista verifica que o animal não tem fosseta loreal, tem pupila redonda e cauda que afina gradualmente. Exame: edema doloroso no dorso da mão até o punho, equimose discreta local, sem bolhas, sem sangramento sistêmico, sem ptose. PA 124 x 78 mmHg, FC 88 bpm. Tempo de coagulação de 8 minutos (referência: até 10 minutos), repetido após 6 horas: 9 minutos. Plaquetas 230.000/mm³, CK 180 U/L. A conduta mais adequada é:",
+  "alternativas": {
+   "A": "Soro antibotrópico, 4 ampolas",
+   "B": "Analgesia, elevação e observação",
+   "C": "Soro antibotrópico-laquético",
+   "D": "Soro antibotrópico, 12 ampolas"
+  },
+  "gabarito": "B",
+  "armadilha": "A",
+  "dado_decisivo": "repetido após 6 horas: 9 minutos",
+  "resolucao": "Edema doloroso e equimose após mordida de serpente parecem o acidente botrópico leve, e a resposta automática é soro. Mas o animal foi trazido e não tem fosseta loreal, presente em todas as serpentes peçonhentas do Brasil, com exceção da coral; serpente verde, de pupila redonda e cauda que afina gradualmente, é a cobra-verde (Philodryas), opistóglifa, que, numa mordida prolongada, inocula secreção capaz de causar edema, dor e equimose locais, mas não coagulopatia. O tempo de coagulação normal na chegada e após 6 horas confirma a ausência de envenenamento botrópico. Não há soro específico, e o antibotrópico não está indicado: a conduta é analgesia, elevação do membro, limpeza local, profilaxia do tétano conforme a vacinação e observação.",
+  "comentarios": {
+   "A": "Errada. É a armadilha: seria o soro do botrópico leve; sem fosseta loreal e com coagulação normal repetida, não há envenenamento botrópico.",
+   "B": "Correta. Mordida de Philodryas: tratamento sintomático e observação, sem soro.",
+   "C": "Errada. O antibotrópico-laquético é para acidente laquético ou dúvida entre os dois, com síndrome vagal e coagulopatia, ausentes.",
+   "D": "Errada. Doze ampolas são do botrópico grave, com sangramento sistêmico, choque ou insuficiência renal."
+  },
+  "para_levar": "Edema e equimose após mordida não bastam para soro: sem fosseta loreal e com tempo de coagulação normal repetido, é serpente não peçonhenta (como Philodryas) e o tratamento é sintomático.",
+  "referencias": "Ministério da Saúde. Guia de Vigilância em Saúde, 6ª ed. (2023); Manual de Diagnóstico e Tratamento de Acidentes por Animais Peçonhentos (MS/Funasa, 2001).",
+  "tags": [
+   "Acidente Ofídico (CM)",
+   "Acidentes com animais não peçonhentos (CM)"
+  ],
+  "sourceQuestionId": "e7a29e92f748dc8",
+  "alvo": "Porte da conduta (tratar o que não precisa) em peçonhentos (1 de 4).",
+  "area": "Infectologia"
+ },
+ {
+  "id": "S10-INF-03",
+  "simulado": 10,
+  "titulo": "Mononucleose infecciosa: a indicação isolada de corticoide",
+  "arma": "Qualificador",
+  "comando": "fato solto",
+  "nivel": "média",
+  "enunciado": "Na mononucleose infecciosa pelo vírus Epstein-Barr em adulto jovem, o corticoide sistêmico está indicado, isoladamente, quando há:",
+  "alternativas": {
+   "A": "Obstrução iminente de vias aéreas",
+   "B": "Esplenomegalia acima de 4 cm",
+   "C": "Odinofagia com exsudato extenso",
+   "D": "Linfócitos atípicos acima de 20%"
+  },
+  "gabarito": "A",
+  "armadilha": "C",
+  "dado_decisivo": "isoladamente",
+  "resolucao": "Odinofagia intensa e amígdalas cobertas de exsudato fazem o corticoide parecer alívio razoável, e é a indicação que mais se vê na prática. Mas na mononucleose não complicada o corticoide não traz benefício consistente e pode prolongar a replicação viral; as indicações aceitas são complicações graves: obstrução iminente de vias aéreas pela hipertrofia linfoide (a mais clara, isoladamente suficiente), anemia hemolítica grave, trombocitopenia grave e, em discussão, complicações neurológicas e miocardite. Esplenomegalia muda a orientação de atividade física (evitar esporte de contato), não o tratamento, e a proporção de linfócitos atípicos não tem valor prognóstico para isso.",
+  "comentarios": {
+   "A": "Correta. Obstrução iminente de vias aéreas por hipertrofia tonsilar é a indicação mais clara de corticoide na mononucleose.",
+   "B": "Errada. Esplenomegalia indica evitar esportes de contato pelo risco de ruptura, não corticoide.",
+   "C": "Errada. É a armadilha: dor de garganta e exsudato, por mais intensos, não indicam corticoide na doença não complicada.",
+   "D": "Errada. A contagem de linfócitos atípicos é diagnóstica, sem papel na decisão terapêutica."
+  },
+  "para_levar": "Mononucleose: tratamento de suporte; corticoide só para obstrução de vias aéreas, hemólise ou trombocitopenia graves.",
+  "referencias": "Harrison's Principles of Internal Medicine, 21ª ed. (2022), Epstein-Barr Virus Infections; Mandell, Douglas and Bennett, 9ª ed. (2020).",
+  "tags": [
+   "Mononucleose Infecciosa (CM)"
+  ],
+  "sourceQuestionId": "e5b4e29f3a3131a",
+  "alvo": "Mononucleose (0 de 2) e porte da conduta: tratar o que não precisa.",
+  "area": "Infectologia"
+ },
+ {
+  "id": "S10-INF-04",
+  "simulado": 10,
+  "titulo": "Linezolida com escitalopram e tramadol: síndrome serotoninérgica confundida com síndrome neuroléptica maligna após haloperidol",
+  "arma": "Droga a deduzir",
+  "comando": "diagnóstico",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 66 anos, internado há 6 dias por pneumonia necrotizante por Staphylococcus aureus resistente à meticilina, recebe linezolida 600 mg de 12/12 horas desde o 3º dia, após lesão renal com vancomicina. Usa em casa escitalopram 20 mg/dia e tramadol para lombalgia, mantidos na internação. Ontem à noite ficou agitado e recebeu haloperidol 5 mg IV. Hoje está confuso, com T 39,2 °C, FC 124 bpm, PA 168 x 96 mmHg, sudorese profusa, midríase, diarreia, tremor, hiper-reflexia e clônus induzível nos membros inferiores, mais intensos que nos superiores. CK 620 U/L. Hemoculturas recentes negativas. O diagnóstico mais provável é:",
+  "alternativas": {
+   "A": "Sepse por nova infecção hospitalar",
+   "B": "Síndrome neuroléptica maligna",
+   "C": "Síndrome serotoninérgica",
+   "D": "Acidose láctica pela linezolida"
+  },
+  "gabarito": "C",
+  "armadilha": "B",
+  "dado_decisivo": "hiper-reflexia e clônus induzível nos membros inferiores",
+  "resolucao": "Febre, rigidez possível, disautonomia e CK alta logo após haloperidol levam à síndrome neuroléptica maligna. A droga que explica o quadro, porém, é outra: a linezolida é inibidor fraco e reversível da monoaminoxidase, e somada a escitalopram e tramadol (que também é serotoninérgico) desencadeia síndrome serotoninérgica. O que separa as duas está no exame neurológico e no tempo: a serotoninérgica começa em horas, com hiper-reflexia e clônus (predominando nos membros inferiores), midríase, diarreia e tremor; a neuroléptica maligna evolui em dias, com rigidez em cano de chumbo, bradirreflexia e CK muito mais alta. A conduta é suspender os serotoninérgicos (trocando a linezolida por outro agente ativo contra MRSA pulmonar), suporte, benzodiazepínico e, se necessário, ciproeptadina; o haloperidol deve ser evitado.",
+  "comentarios": {
+   "A": "Errada. Sepse explicaria febre e taquicardia, mas não clônus, midríase e hiper-reflexia, e as hemoculturas são negativas.",
+   "B": "Errada. É a armadilha: o haloperidol é real, mas a neuroléptica maligna dá rigidez e hiporreflexia, sem clônus, e evolui em dias.",
+   "C": "Correta. Linezolida (inibidor de MAO) com escitalopram e tramadol, e clônus com hiper-reflexia: síndrome serotoninérgica.",
+   "D": "Errada. Acidose láctica pela linezolida surge em uso prolongado e causa taquipneia e náuseas, não clônus e hipertermia."
+  },
+  "para_levar": "Linezolida é inibidor de MAO: com ISRS ou tramadol pode causar síndrome serotoninérgica, que se separa da neuroléptica maligna pelo clônus e hiper-reflexia.",
+  "referencias": "Boyer EW, Shannon M. The serotonin syndrome. N Engl J Med 2005; bula da linezolida (FDA, alerta de interação com serotoninérgicos, 2011); Hunter Serotonin Toxicity Criteria (Dunkley et al., 2003).",
+  "tags": [
+   "Síndrome Serotoninérgica (CM)",
+   "Antibióticos: Farmacologia e Microbiologia (CM)"
+  ],
+  "sourceQuestionId": "ef246a5657ae33f",
+  "alvo": "Droga a deduzir: ignora a droga em uso e se fixa na última administrada.",
+  "area": "Infectologia"
+ },
+ {
+  "id": "S10-INF-05",
+  "simulado": 10,
+  "titulo": "Herpes-zóster oftálmico com sinal de Hutchinson e olho calmo: biomicroscopia antes de qualquer outro exame",
+  "arma": "Negativo no meio",
+  "comando": "próximo exame",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 68 anos, hipertensa, tem há 2 dias dor em queimação e vesículas agrupadas sobre base eritematosa na fronte e no couro cabeludo à esquerda, sem cruzar a linha média, iniciadas após 3 dias de dor local. Há vesículas também na ponta e na asa do nariz à esquerda. Nega dor ocular, fotofobia ou baixa visual; o olho esquerdo não está hiperemiado à inspeção, e a acuidade visual é 20/25 em ambos. Sem déficit neurológico. Iniciou valaciclovir 1 g de 8/8 horas há 24 horas. O próximo exame mais adequado é:",
+  "alternativas": {
+   "A": "PCR de vesícula para VZV",
+   "B": "RM de crânio e órbitas",
+   "C": "Punção lombar",
+   "D": "Biomicroscopia com lâmpada de fenda"
+  },
+  "gabarito": "D",
+  "armadilha": "A",
+  "dado_decisivo": "Há vesículas também na ponta e na asa do nariz à esquerda.",
+  "resolucao": "O olho calmo, sem dor e com boa acuidade, é um negativo verdadeiro que faz parecer que o zóster ficou na pele, e a tentação é confirmar o vírus por PCR. O diagnóstico de zóster é clínico e já está tratado. O dado que decide é o sinal de Hutchinson: lesões na ponta e na asa do nariz indicam acometimento do ramo nasociliar, que também inerva o globo ocular, e preveem comprometimento ocular (ceratite, uveíte) que pode ser inicialmente oligossintomático. Por isso, a avaliação oftalmológica com biomicroscopia (lâmpada de fenda, com fluoresceína) é o próximo passo, independentemente dos sintomas. RM e punção lombar se reservam para sinais neurológicos (vasculopatia, meningoencefalite), ausentes aqui.",
+  "comentarios": {
+   "A": "Errada. É a armadilha: o diagnóstico de zóster é clínico; PCR seria para lesão atípica ou dúvida diagnóstica.",
+   "B": "Errada. RM de crânio e órbitas seria para déficit neurológico, oftalmoplegia ou suspeita de vasculopatia pelo VZV.",
+   "C": "Errada. Punção lombar seria para suspeita de meningoencefalite, com cefaleia intensa, alteração de consciência ou sinais meníngeos.",
+   "D": "Correta. Sinal de Hutchinson prevê acometimento ocular: biomicroscopia com lâmpada de fenda mesmo com olho calmo."
+  },
+  "para_levar": "Zóster oftálmico com vesícula na ponta do nariz (sinal de Hutchinson) exige avaliação oftalmológica com lâmpada de fenda, mesmo sem sintomas oculares.",
+  "referencias": "American Academy of Ophthalmology. Herpes Zoster Ophthalmicus (EyeWiki e BCSC External Disease and Cornea, 2023-2024); Cohen JI. Herpes Zoster. N Engl J Med 2013.",
+  "tags": [
+   "Varicela-Zoster (CM)",
+   "Oftalmo (CM)"
+  ],
+  "sourceQuestionId": "8b055eebbf78ccf",
+  "alvo": "Próximo exame: confirmar o que já é clínico, em vez do exame que busca a complicação prevista.",
+  "area": "Infectologia"
+ },
+ {
+  "id": "S10-INF-06",
+  "simulado": 10,
+  "titulo": "Cancroide com sorologias não reagentes: azitromicina em dose única e repetição de sífilis e HIV em 3 meses",
+  "arma": "Grade X / Y",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Homem de 26 anos tem há 8 dias três úlceras dolorosas no sulco balanoprepucial, de bordas irregulares e solapadas, fundo purulento e friável, base mole, que sangram ao toque. Há 3 dias surgiu linfonodo inguinal direito de 4 cm, doloroso, com flutuação central e pele eritematosa, sem fistulização. Teve relação sem preservativo com parceira casual há 2 semanas. VDRL e teste treponêmico rápido não reagentes; anti-HIV não reagente; PCR para herpes simples na úlcera negativo. O tratamento antimicrobiano e a conduta quanto às sorologias para sífilis e HIV são, respectivamente:",
+  "alternativas": {
+   "A": "Azitromicina 1 g dose única / não repetir",
+   "B": "Azitromicina 1 g dose única / repetir em 3 meses",
+   "C": "Doxiciclina por 21 dias / repetir em 3 meses",
+   "D": "Penicilina benzatina / não repetir"
+  },
+  "gabarito": "B",
+  "armadilha": "C",
+  "dado_decisivo": "Teve relação sem preservativo com parceira casual há 2 semanas",
+  "resolucao": "Úlceras múltiplas, dolorosas, de bordas solapadas e fundo purulento, com bubão inguinal unilateral flutuante, e herpes e sífilis afastados, são cancroide (Haemophilus ducreyi). O bubão volumoso atrai para o linfogranuloma venéreo, mas no linfogranuloma a lesão de entrada é pequena, indolor e fugaz, e o bubão drena por múltiplos orifícios. O tratamento do cancroide é azitromicina 1 g em dose única (ou ceftriaxona 250 mg IM), com aspiração por agulha do linfonodo flutuante quando tenso. A segunda decisão vem do tempo: a exposição foi há 2 semanas, dentro da janela da sífilis e do HIV, e úlcera genital aumenta a transmissão do HIV; a recomendação é repetir os testes de sífilis e HIV 3 meses depois quando inicialmente negativos, e tratar as parcerias dos últimos 10 dias.",
+  "comentarios": {
+   "A": "Errada. Acerta o antimicrobiano, mas sorologias negativas 2 semanas após a exposição podem estar na janela e devem ser repetidas.",
+   "B": "Correta. Cancroide: azitromicina 1 g dose única; repetir testes de sífilis e HIV em 3 meses.",
+   "C": "Errada. É a armadilha: doxiciclina por 21 dias trata linfogranuloma, cuja úlcera é indolor e fugaz e cujo bubão fistuliza por múltiplos orifícios.",
+   "D": "Errada. Penicilina benzatina trataria sífilis primária, de úlcera única, indolor e de base endurecida, com testes que já podem ser reagentes."
+  },
+  "para_levar": "Cancroide: azitromicina 1 g dose única (ou ceftriaxona IM); testes de sífilis e HIV negativos no diagnóstico de úlcera genital se repetem em 3 meses.",
+  "referencias": "CDC Sexually Transmitted Infections Treatment Guidelines (2021), Chancroid; PCDT para Atenção Integral às Pessoas com IST (MS, 2022).",
+  "tags": [
+   "Sífilis Primária e Úlceras Genitais (CM)",
+   "Sífilis, Uretrites Infecciosas e outras DSTs (CM)"
+  ],
+  "sourceQuestionId": "f9bd1e2d502ab1c",
+  "alvo": "Úlceras genitais, que ele já errou: tratamento e seguimento, além do diagnóstico.",
+  "area": "Infectologia"
+ }
+]

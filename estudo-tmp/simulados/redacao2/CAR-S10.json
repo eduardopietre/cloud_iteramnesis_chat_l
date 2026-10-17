@@ -1,0 +1,172 @@
+[
+ {
+  "id": "S10-CAR-01",
+  "simulado": 10,
+  "area": "Cardiologia",
+  "titulo": "Anomalia de Ebstein no adulto com pré-excitação e exposição intrauterina ao lítio: B1 amplamente desdobrada e insuficiência tricúspide",
+  "arma": "Rótulo verdadeiro",
+  "comando": "diagnóstico",
+  "nivel": "extremamente difícil",
+  "enunciado": "Mulher de 23 anos procura atendimento por crises de taquicardia regular, de início e fim súbitos, desde a adolescência, revertidas com manobra vagal, e cansaço aos esforços moderados. A mãe tem transtorno bipolar e usou o mesmo estabilizador de humor durante toda a gestação. Exame: discreta cianose labial, SpO2 de 92% em repouso, sem baqueteamento digital; PA 104x68 mmHg; pulso venoso jugular sem onda v proeminente; B1 amplamente desdobrada, com componente tardio intenso; B2 com componente pulmonar normal; sopro holossistólico suave na borda esternal esquerda baixa que aumenta na inspiração. ECG de repouso: ondas P altas e apiculadas em DII, PR de 100 ms e onda delta. Radiografia: área cardíaca aumentada à custa de átrio direito, com trama vascular pulmonar diminuída. A cardiopatia de base mais provável é:",
+  "alternativas": {
+   "A": "Anomalia de Ebstein com via acessória",
+   "B": "Comunicação interatrial com síndrome de Eisenmenger",
+   "C": "Estenose pulmonar valvar grave",
+   "D": "Síndrome de Wolff-Parkinson-White isolada"
+  },
+  "gabarito": "A",
+  "armadilha": "D",
+  "dado_decisivo": "B1 amplamente desdobrada, com componente tardio intenso",
+  "resolucao": "Taquicardia paroxística com PR curto e onda delta encaixa em Wolff-Parkinson-White, e quem para nesse rótulo verdadeiro trata a via e ignora o resto, que é a armadilha. Só que a via acessória não explica cianose, átrio direito gigante, trama pulmonar diminuída nem a ausculta. B1 amplamente desdobrada com componente tardio alto (o fechamento do grande folheto anterior da tricúspide, o 'som de vela'), sopro de insuficiência tricúspide que aumenta na inspiração e P alta em DII compõem a anomalia de Ebstein: deslocamento apical dos folhetos septal e posterior da tricúspide, atrialização do ventrículo direito, átrio direito enorme e complacente (por isso a onda v não aparece no pulso jugular) e shunt direita-esquerda pelo forame oval ou CIA, que dá a cianose. Vias acessórias, quase sempre direitas, ocorrem em 10 a 30% dos casos. A exposição intrauterina ao lítio é a associação que a prova cobra, embora o risco absoluto seja baixo.",
+  "comentarios": {
+   "A": "Correta. Ausculta de B1 desdobrada com componente tardio alto, insuficiência tricúspide, átrio direito gigante, cianose por shunt direita-esquerda e via acessória direita formam a anomalia de Ebstein.",
+   "B": "Errada. No Eisenmenger a P2 é hiperfonética e há sinais de hipertensão pulmonar; aqui a P2 é normal e a trama pulmonar está diminuída.",
+   "C": "Errada. A estenose pulmonar grave dá sopro ejetivo em foco pulmonar com P2 diminuída e hipertrofia de ventrículo direito, e não sopro regurgitante tricúspide com átrio direito gigante.",
+   "D": "Errada, e é a armadilha. A via acessória é real, mas isolada não explica cianose, cardiomegalia à custa de átrio direito, trama diminuída e ausculta tricúspide."
+  },
+  "para_levar": "Ebstein: B1 amplamente desdobrada (som de vela), insuficiência tricúspide, átrio direito gigante, cianose por shunt atrial e via acessória direita; associação com lítio intrauterino.",
+  "referencias": "ESC 2020 (adult congenital heart disease); ACC/AHA 2018 (adult congenital heart disease)",
+  "tags": [
+   "Cardiopatias congênitas (CM)",
+   "Fisiologia e Semiologia Cardíaca (CM)",
+   "Taquiarritmia supraventricular (TSV) (CM)"
+  ],
+  "sourceQuestionId": "65a78360bf2c38d",
+  "alvo": "Semiologia da síndrome à lesão (lacuna fixa): um achado verdadeiro (pré-excitação) apagando o quadro auscultatório."
+ },
+ {
+  "id": "S10-CAR-02",
+  "simulado": 10,
+  "area": "Cardiologia",
+  "titulo": "Estenose aórtica grave 'assintomática' com teste ergométrico positivo: intervenção, e troca cirúrgica abaixo de 65 anos",
+  "arma": "Grade X / Y",
+  "comando": "conduta",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 62 anos, engenheiro, é encaminhado por sopro encontrado em exame de rotina. Nega dispneia, angina ou síncope, mas conta que 'diminuiu o ritmo' das caminhadas no último ano, o que atribui à idade. Tem dislipidemia controlada e nenhuma outra comorbidade; risco cirúrgico STS de 1,2%. Exame: PA 132x80 mmHg, pulso carotídeo parvus et tardus, sopro sistólico ejetivo 4+/6+ em foco aórtico com frêmito, B2 única. Ecocardiograma: valva aórtica tricúspide calcificada, velocidade máxima de 4,4 m/s, gradiente médio de 48 mmHg, área valvar de 0,7 cm², fração de ejeção de 63%. Teste ergométrico: interrompido aos 4 minutos do protocolo de Bruce por dispneia desproporcional e tontura, com queda da PA sistólica de 150 para 128 mmHg. A conduta e a modalidade de tratamento são, respectivamente:",
+  "alternativas": {
+   "A": "Reavaliar em 6 meses / implante transcateter",
+   "B": "Intervenção agora / troca valvar cirúrgica",
+   "C": "Intervenção agora / implante transcateter",
+   "D": "Reavaliar em 6 meses / troca valvar cirúrgica"
+  },
+  "gabarito": "B",
+  "armadilha": "D",
+  "dado_decisivo": "interrompido aos 4 minutos do protocolo de Bruce por dispneia desproporcional e tontura, com queda da PA sistólica de 150 para 128 mmHg",
+  "resolucao": "O paciente se declara assintomático, e a estenose grave assintomática com fração de ejeção normal é, por tradição, seguida com eco seriado: esse é o rótulo que leva à armadilha. Mas ele reduziu a atividade sem perceber, que é o modo como o idoso esconde o sintoma, e o teste ergométrico desmascarou: dispneia e tontura em carga baixa e queda da PA sistólica no esforço. Sintoma no teste é indicação classe I de intervenção, e a queda de PA de mais de 20 mmHg também a sustenta; a estenose passa a ser tratada como sintomática. A segunda metade é a modalidade: com 62 anos, valva tricúspide e risco cirúrgico baixo, a troca valvar cirúrgica é preferida, porque a durabilidade da bioprótese transcateter em quem tem mais de 20 anos de expectativa de vida ainda não está estabelecida e a prótese mecânica é opção. O implante transcateter é preferido acima de 70 a 75 anos (conforme a diretriz) ou no risco cirúrgico alto.",
+  "comentarios": {
+   "A": "Errada. Erra as duas metades: há indicação de intervenção já, e aos 62 anos com risco baixo a modalidade é cirúrgica.",
+   "B": "Correta. Sintoma e queda da PA no teste ergométrico indicam intervenção, e aos 62 anos, com risco baixo, a troca cirúrgica é a modalidade preferida.",
+   "C": "Errada. Acerta a indicação, mas o implante transcateter é preferido em idosos (acima de 70 a 75 anos) ou de risco cirúrgico alto, e não aos 62 com STS de 1,2%.",
+   "D": "Errada, e é a armadilha. Reavaliar seria a conduta com teste ergométrico normal; aqui o teste mostrou sintoma e queda da PA, e a estenose deixa de ser assintomática."
+  },
+  "para_levar": "Estenose aórtica grave 'assintomática': fazer teste ergométrico; sintoma ou queda da PA no esforço indicam intervenção; abaixo de 65 a 70 anos e com risco baixo, troca cirúrgica.",
+  "referencias": "Atualização das Diretrizes Brasileiras de Valvopatias 2020 (SBC); ESC/EACTS 2025 (valvular heart disease); ACC/AHA 2020 (valvular heart disease)",
+  "tags": [
+   "Estenose Aórtica (CM)"
+  ],
+  "sourceQuestionId": "58a8c92ac758c10",
+  "alvo": "Estenose aórtica (0 de 2 no app): rótulo 'assintomático' contra o exame que decide, e grade conferida pela metade (modalidade)."
+ },
+ {
+  "id": "S10-CAR-03",
+  "simulado": 10,
+  "area": "Cardiologia",
+  "titulo": "Dissecção espontânea de coronária no puerpério com fluxo preservado: tratamento conservador, sem angioplastia",
+  "arma": "Omissão",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 38 anos, no 40º dia após parto normal, amamentando, sem fatores de risco cardiovascular, tem dor retroesternal intensa iniciada há 3 horas, após uma discussão familiar. ECG: infradesnivelamento de ST de V2 a V5, sem supradesnivelamento. Troponina elevada. Cateterismo realizado em 4 horas: artéria descendente anterior com estreitamento longo, liso e progressivo do terço médio ao distal, sem placas ateroscleróticas em outros segmentos, com fluxo TIMI 3; artérias coronárias de aspecto tortuoso. Na saída da sala, está sem dor, PA 118x70 mmHg, FC 76 bpm, sem arritmias, fração de ejeção de 55%. Além de betabloqueador, a conduta para a lesão coronariana é:",
+  "alternativas": {
+   "A": "Angioplastia com stent farmacológico",
+   "B": "Revascularização cirúrgica",
+   "C": "Tratamento conservador, sem angioplastia",
+   "D": "Heparina plena por 7 dias"
+  },
+  "gabarito": "C",
+  "armadilha": "A",
+  "dado_decisivo": "estreitamento longo, liso e progressivo do terço médio ao distal",
+  "resolucao": "Infarto sem supra com lesão na descendente anterior leva o apressado a tratar a lesão com stent, que é a armadilha. O aspecto angiográfico decide: estreitamento longo, liso e progressivo, sem placa em outros segmentos, numa puérpera sem fatores de risco, com tortuosidade coronária, é dissecção espontânea de coronária tipo 2 (hematoma intramural). Na dissecção, a angioplastia tem alta taxa de complicação (propagação do hematoma, dissecção iatrogênica, má aposição do stent quando o hematoma reabsorve), e a maioria das lesões cicatriza sozinha em semanas. Com paciente estável, sem dor, sem arritmia e com fluxo TIMI 3, a conduta é conservadora, com betabloqueador e monitorização prolongada; a revascularização fica para isquemia persistente, instabilidade ou acometimento do tronco. A heparina deve ser suspensa após o diagnóstico, pelo risco teórico de ampliar o hematoma. A displasia fibromuscular deve ser pesquisada depois.",
+  "comentarios": {
+   "A": "Errada, e é a armadilha. Seria a conduta na lesão aterosclerótica culpada; na dissecção espontânea com fluxo preservado e paciente estável, a angioplastia traz mais complicação que benefício.",
+   "B": "Errada. Cirurgia fica para dissecção de tronco ou falha da angioplastia em paciente instável, e os enxertos ocluem com a cicatrização da artéria nativa.",
+   "C": "Correta. Dissecção espontânea com fluxo TIMI 3 em paciente estável: tratamento conservador com betabloqueador, porque a lesão cicatriza sozinha.",
+   "D": "Errada. A anticoagulação plena deve ser suspensa após o diagnóstico, pelo risco de expandir o hematoma intramural."
+  },
+  "para_levar": "Dissecção espontânea de coronária (mulher jovem, periparto, estreitamento longo e liso): conservador se estável com fluxo preservado; angioplastia só com isquemia persistente ou instabilidade.",
+  "referencias": "ESC 2023 (acute coronary syndromes); AHA Scientific Statement 2018 e ESC ACCA position paper 2018 sobre dissecção espontânea de coronária",
+  "tags": [
+   "Outras oclusões coronarianas agudas (CM)",
+   "IAMSSST (CM)"
+  ],
+  "sourceQuestionId": "653fc24d349f929",
+  "alvo": "Porte da conduta: fazer mais (stent) quando a lesão pede não intervir."
+ },
+ {
+  "id": "S10-CAR-04",
+  "simulado": 10,
+  "area": "Cardiologia",
+  "titulo": "Constrição pericárdica pós-revascularização com túnel do carpo: o eco separa da amiloidose",
+  "arma": "Rótulo verdadeiro",
+  "comando": "diagnóstico",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 74 anos, operado de revascularização miocárdica há 5 anos e de túnel do carpo bilateral há 3 anos, tem edema de membros inferiores, aumento do volume abdominal e cansaço há 8 meses. Exame: PA 112x70 mmHg, FC 88 bpm, ritmo regular, turgência jugular que aumenta na inspiração, descenso y profundo, ruído protodiastólico curto e seco no ápice, ascite, sem sopros. ECG: ritmo sinusal, QRS de voltagem normal e alterações inespecíficas da onda T. Ecocardiograma: paredes de 10 mm, fração de ejeção de 58%, átrios moderadamente aumentados, movimento septal anômalo que se acentua na inspiração, variação respiratória do fluxo mitral de 32%, e' septal de 13 cm/s, maior que o e' lateral de 9 cm/s, e veias hepáticas com reversão diastólica na expiração. NT-proBNP de 260 pg/mL. O diagnóstico mais provável é:",
+  "alternativas": {
+   "A": "Amiloidose cardíaca por transtirretina",
+   "B": "Cardiomiopatia restritiva idiopática",
+   "C": "Cardiomiopatia isquêmica com disfunção diastólica",
+   "D": "Pericardite constritiva"
+  },
+  "gabarito": "D",
+  "armadilha": "A",
+  "dado_decisivo": "e' septal de 13 cm/s, maior que o e' lateral de 9 cm/s",
+  "resolucao": "Idoso com túnel do carpo bilateral, insuficiência cardíaca direita e fisiologia de enchimento restrito é o roteiro da amiloidose por transtirretina, e esse rótulo verdadeiro é a armadilha. Constrição e restrição têm a mesma clínica (Kussmaul, descenso y profundo, ascite, átrios grandes), e o que as separa está no ecocardiograma. Na restrição o miocárdio é doente: e' baixo (abaixo de cerca de 8 cm/s), paredes espessas na amiloidose, pouca variação respiratória e BNP muito alto. Na constrição o miocárdio é normal e a carapaça pericárdica é que limita: e' septal preservado ou aumentado e MAIOR que o lateral (o 'annulus reversus', porque a parede lateral é a presa ao pericárdio), salto septal que piora na inspiração, variação respiratória do fluxo mitral acima de 25%, reversão diastólica nas hepáticas na expiração e BNP relativamente baixo. O ruído protodiastólico seco é o knock pericárdico. A cirurgia cardíaca prévia é hoje uma das causas mais comuns de constrição.",
+  "comentarios": {
+   "A": "Errada, e é a armadilha. Seria a resposta com paredes espessas, e' baixo, pouca variação respiratória, QRS de baixa voltagem e BNP alto; aqui as paredes medem 10 mm, o e' septal é alto e o BNP é baixo.",
+   "B": "Errada. A restritiva também tem e' baixo e BNP alto, e não tem salto septal nem variação respiratória marcada.",
+   "C": "Errada. A fração de ejeção é normal, o e' é preservado, e a interdependência ventricular com a respiração não é da disfunção diastólica isquêmica.",
+   "D": "Correta. Annulus reversus (e' septal maior que o lateral), salto septal respiratório, variação mitral acima de 25%, knock e BNP baixo após cirurgia cardíaca são constrição."
+  },
+  "para_levar": "Constrição x restrição: constrição tem e' septal normal ou alto e maior que o lateral, salto septal respiratório, variação mitral acima de 25% e BNP baixo; restrição tem e' baixo e BNP alto.",
+  "referencias": "ESC 2025 (myocarditis and pericarditis); ASE/EACVI 2016 e Mayo Clinic Criteria (Welch TD et al., Circ Cardiovasc Imaging 2014)",
+  "tags": [
+   "Pericardites (CM)",
+   "Cardiomiopatias Restritivas (CM)"
+  ],
+  "sourceQuestionId": "ab2095024550478",
+  "alvo": "Restritiva (lacuna fixa da endomiocardiofibrose) e eco lido como enfeite diante de um rótulo forte (túnel do carpo)."
+ },
+ {
+  "id": "S10-CAR-05",
+  "simulado": 10,
+  "area": "Cardiologia",
+  "titulo": "Flutter atrial típico de duração incerta e recorrente: anticoagular antes da cardioversão e ablação do istmo cavotricuspídeo",
+  "arma": "Cronologia",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Homem de 68 anos, hipertenso e diabético, sem cardiopatia estrutural, tem palpitações e cansaço há cerca de 10 dias, sem saber precisar o início. Há 8 meses teve episódio igual, revertido com cardioversão elétrica. Exame: PA 136x84 mmHg, FC 150 bpm, regular, sem congestão. ECG: ondas F em dente de serra, negativas em DII, DIII e aVF e positivas em V1, com condução 2:1. Ecocardiograma transtorácico: fração de ejeção de 55% e átrio esquerdo de 42 mm. Creatinina de 1,0 mg/dL. Recusa ecocardiograma transesofágico. Controlada a frequência, a estratégia para restaurar o ritmo e o tratamento de longo prazo do ritmo são, respectivamente:",
+  "alternativas": {
+   "A": "Anticoagular 3 semanas antes / amiodarona contínua",
+   "B": "Cardioversão imediata / amiodarona contínua",
+   "C": "Cardioversão imediata / ablação do istmo cavotricuspídeo",
+   "D": "Anticoagular 3 semanas antes / ablação do istmo cavotricuspídeo"
+  },
+  "gabarito": "D",
+  "armadilha": "C",
+  "dado_decisivo": "há cerca de 10 dias, sem saber precisar o início",
+  "resolucao": "A ideia de que o flutter é 'menos emboligênico' que a fibrilação atrial e de que basta cardioverter leva à armadilha. O risco tromboembólico do flutter é semelhante ao da FA, e as regras são as mesmas: com duração acima de 48 horas ou desconhecida, a cardioversão eletiva exige 3 semanas de anticoagulação efetiva antes (ou ecocardiograma transesofágico sem trombo, que ele recusou) e 4 semanas depois; e a anticoagulação de longo prazo segue o escore de risco (aqui, hipertensão, diabetes e idade: indicada). A segunda metade: no flutter típico, dependente do istmo cavotricuspídeo (ondas F negativas na parede inferior e positivas em V1), recorrente e sintomático, a ablação do istmo é a primeira escolha para controle do ritmo, com sucesso acima de 90%, superior aos antiarrítmicos. A amiodarona contínua expõe a toxicidade de longo prazo sem a mesma eficácia. A ablação não suspende a anticoagulação por si: muitos desenvolvem FA depois.",
+  "comentarios": {
+   "A": "Errada. Acerta a cronologia da cardioversão, mas a amiodarona contínua é inferior à ablação no flutter típico recorrente e expõe a toxicidade de longo prazo.",
+   "B": "Errada. Erra as duas metades: duração incerta impede cardioversão sem anticoagulação prévia ou transesofágico, e a amiodarona não é a primeira escolha.",
+   "C": "Errada, e é a armadilha. Acerta a ablação, mas cardioverter flutter de duração incerta sem 3 semanas de anticoagulação ou transesofágico expõe a embolia, como na FA.",
+   "D": "Correta. Flutter de duração incerta pede 3 semanas de anticoagulação antes da cardioversão, e o flutter típico recorrente tem a ablação do istmo cavotricuspídeo como tratamento de escolha."
+  },
+  "para_levar": "Flutter atrial segue as regras de anticoagulação da FA (48 horas, 3 semanas antes e 4 depois, escore de risco); flutter típico recorrente: ablação do istmo cavotricuspídeo.",
+  "referencias": "ESC 2019 (supraventricular tachycardia); ESC 2024 (atrial fibrillation); Diretriz Brasileira de Fibrilação Atrial (SBC)",
+  "tags": [
+   "Outras Taquiarritmias Atriais (CM)",
+   "Anticoagulação em Cardiologia (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Cronologia (48 horas) aplicada só à FA e grade conferida pela metade."
+ }
+]

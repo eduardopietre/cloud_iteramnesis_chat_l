@@ -1,0 +1,206 @@
+[
+ {
+  "id": "S7-HEM-01",
+  "simulado": 7,
+  "area": "Hematologia",
+  "titulo": "Plaquetopenia grave 9 dias após transfusão em multípara sob enoxaparina: púrpura pós-transfusional, não trombocitopenia por heparina",
+  "arma": "Rótulo verdadeiro",
+  "comando": "diagnóstico",
+  "nivel": "extremamente difícil",
+  "enunciado": "Mulher de 63 anos, G4P4, está no 9º dia após artroplastia total do quadril direito. No pós-operatório imediato recebeu 2 concentrados de hemácias por sangramento do sítio cirúrgico, e usa enoxaparina 40 mg/dia desde o 1º dia, além de paracetamol. Hoje surgiram petéquias difusas, bolhas hemorrágicas na mucosa oral e epistaxe. Plaquetas: 245.000/mm³ no pré-operatório, 198.000/mm³ no 2º dia e 4.000/mm³ hoje, confirmadas em esfregaço sem agregados. Doppler venoso dos membros inferiores sem trombose. Hb 10,2 g/dL, estável; TP, TTPa e fibrinogênio normais; sem esquizócitos; LDH normal. Afebril, sem sinais de infecção. O diagnóstico mais provável é:",
+  "alternativas": {
+   "A": "Púrpura trombocitopênica trombótica",
+   "B": "Coagulação intravascular disseminada",
+   "C": "Trombocitopenia induzida por heparina",
+   "D": "Púrpura pós-transfusional"
+  },
+  "gabarito": "D",
+  "armadilha": "C",
+  "dado_decisivo": "4.000/mm³ hoje",
+  "resolucao": "Queda de plaquetas entre o 5º e o 10º dia de heparina é o rótulo verdadeiro que puxa para trombocitopenia induzida por heparina. Mas ela raramente leva a plaquetas abaixo de 20.000/mm³, e manifesta-se por trombose, não por sangramento mucoso; no escore 4T, nadir abaixo de 10.000 vale zero, e o total aqui é de baixa probabilidade. Plaquetopenia gravíssima com púrpura úmida cerca de 7 a 10 dias após transfusão, numa mulher com 4 gestações (sensibilizada a antígeno plaquetário, em geral HPA-1a), é púrpura pós-transfusional: o aloanticorpo reativado destrói também as plaquetas autólogas. O tratamento é imunoglobulina endovenosa em dose alta, e transfusões de plaquetas comuns são pouco eficazes. Sem esquizócitos e com LDH normal não há microangiopatia, e o coagulograma normal afasta CIVD.",
+  "comentarios": {
+   "A": "Errada. A PTT exigiria anemia hemolítica microangiopática, com esquizócitos e LDH elevada, ausentes aqui.",
+   "B": "Errada. CIVD consumiria fatores e fibrinogênio, alongando TP e TTPa, que estão normais.",
+   "C": "Errada, é a armadilha. O tempo de heparina combina, mas o nadir de 4.000/mm³ e o sangramento sem trombose não; seria a resposta com queda para 50.000 a 80.000 e trombose nova.",
+   "D": "Correta. Multípara, transfusão há 9 dias, plaquetopenia abaixo de 10.000 com sangramento: púrpura pós-transfusional, tratada com imunoglobulina endovenosa."
+  },
+  "para_levar": "Plaquetas abaixo de 10.000 com sangramento cerca de uma semana após transfusão, em mulher multípara, é púrpura pós-transfusional; a HIT raramente cai abaixo de 20.000 e trombosa em vez de sangrar.",
+  "referencias": "ASH 2018 Guidelines for heparin-induced thrombocytopenia (Cuker et al.); Ministério da Saúde, Guia para uso de hemocomponentes, 2ª edição (2015) e Marco Conceitual de Hemovigilância (2022).",
+  "tags": [
+   "Reações Transfusionais (CM)",
+   "Trombocitopenia Induzida por heparina (HIT) (CM)"
+  ],
+  "sourceQuestionId": "3f12a423b61d0db",
+  "alvo": "Hemoterapia (0 de 4 no app): reação tardia pouco lembrada, contra o rótulo verdadeiro da heparina."
+ },
+ {
+  "id": "S7-HEM-02",
+  "simulado": 7,
+  "area": "Hematologia",
+  "titulo": "Hemólise por primaquina com G6PD normal na crise: reticulocitose falseia a dosagem, repetir após 2 a 3 meses",
+  "arma": "Negativo no meio",
+  "comando": "próximo exame",
+  "nivel": "difícil",
+  "enunciado": "Homem de 23 anos, militar, voltou de missão na Amazônia e foi tratado de malária por Plasmodium vivax com cloroquina e primaquina. No 4º dia de primaquina, apresenta urina escura, icterícia e cansaço. Hb 8,1 g/dL (13,9 g/dL antes do tratamento), reticulócitos 9%, LDH 1.100 U/L, bilirrubina indireta 4,2 mg/dL, haptoglobina indetectável, Coombs direto negativo. Esfregaço com hemácias \"mordidas\" e corpúsculos de Heinz à coloração supravital. Gota espessa negativa. A primaquina foi suspensa. A dosagem quantitativa de G6PD, colhida hoje, foi de 9,8 U/g Hb (VR 7 a 20). Quanto à investigação, a conduta mais adequada é:",
+  "alternativas": {
+   "A": "Considerar G6PD normal e investigar HPN",
+   "B": "Eletroforese de hemoglobina",
+   "C": "Repetir a dosagem de G6PD após 2 a 3 meses",
+   "D": "Coombs direto com eluato e anti-C3d"
+  },
+  "gabarito": "C",
+  "armadilha": "A",
+  "dado_decisivo": "colhida hoje, foi de 9,8 U/g Hb (VR 7 a 20)",
+  "resolucao": "O exame negativo no meio do caso é a armadilha: G6PD normal parece afastar a deficiência. Mas a hemólise oxidativa destrói as hemácias velhas, que têm menos enzima, e a medula responde com reticulócitos (9%), que têm atividade alta de G6PD; a dosagem feita na crise sai falsamente normal, sobretudo em homens hemizigotos com variantes de expressão parcial, como a A-, frequente no Brasil. Hemólise intravascular após oxidante, com corpúsculos de Heinz e hemácias mordidas e Coombs negativo, é deficiência de G6PD até prova em contrário. A dosagem se repete 2 a 3 meses depois, quando a população de hemácias voltou a ter idade normal (ou se usa a razão com outra enzima de hemácias jovens, como a piruvatoquinase). HPN, hemoglobinopatia e hemólise imune não explicam o desencadeante nem os corpúsculos de Heinz.",
+  "comentarios": {
+   "A": "Errada, é a armadilha. Lê o resultado na crise como definitivo; a HPN seria pensada com hemólise crônica, trombose ou citopenias, sem oxidante desencadeante.",
+   "B": "Errada. A eletroforese investiga hemoglobinopatia; hemólise aguda e intravascular após primaquina, com corpúsculos de Heinz, aponta para a enzima.",
+   "C": "Correta. A reticulocitose eleva a G6PD média durante a crise; a dosagem fora da crise confirma a deficiência.",
+   "D": "Errada. O Coombs direto já foi negativo, e corpúsculos de Heinz não são achado de hemólise imune."
+  },
+  "para_levar": "G6PD dosada durante a hemólise pode vir normal por causa dos reticulócitos: repetir 2 a 3 meses depois antes de descartar a deficiência.",
+  "referencias": "Ministério da Saúde, Guia de tratamento da malária no Brasil, 2021 (e nota técnica de testagem de G6PD, 2023); WHO Guidelines for malaria 2024; Luzzatto et al., G6PD deficiency, Blood 2020.",
+  "tags": [
+   "Deficiência de G6PD (CM)",
+   "Anemias Hemolíticas Hereditárias (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Exame tranquilizador lido como definitivo (exame que decide lido como enfeite) e G6PD fora do LES."
+ },
+ {
+  "id": "S7-HEM-03",
+  "simulado": 7,
+  "area": "Hematologia",
+  "titulo": "Anemia aplástica grave aos 58 anos com irmão HLA-idêntico: imunossupressão com eltrombopague, transplante não é a primeira linha",
+  "arma": "Grade X / Y",
+  "comando": "diagnóstico",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 58 anos, hipertenso controlado, tem há 6 semanas fadiga, equimoses e gengivorragia. Sem esplenomegalia, linfonodomegalias ou hepatomegalia. Hb 7,2 g/dL, VCM 102 fL, reticulócitos 12.000/mm³, leucócitos 1.400/mm³ (neutrófilos 340/mm³), plaquetas 9.000/mm³. B12 e folato normais; anti-HIV, sorologias para hepatites e para parvovírus B19 negativas. Biópsia de medula: celularidade de 10%, sem fibrose, sem blastos, sem infiltração e sem displasia significativa; cariótipo normal. Citometria de fluxo com clone HPN de 2% nos granulócitos. Tem um irmão de 54 anos, saudável, HLA-idêntico. A classificação de gravidade e o tratamento de primeira linha são, respectivamente:",
+  "alternativas": {
+   "A": "Grave / ATG, ciclosporina e eltrombopague",
+   "B": "Grave / transplante alogênico aparentado",
+   "C": "Muito grave / transplante alogênico aparentado",
+   "D": "Muito grave / ATG, ciclosporina e eltrombopague"
+  },
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "Homem de 58 anos",
+  "resolucao": "O irmão HLA-idêntico é verdadeiro e puxa para o transplante, o único tratamento curativo. A gravidade se define pelos critérios de Camitta: medula com celularidade abaixo de 25% e duas de três citopenias (neutrófilos abaixo de 500, plaquetas abaixo de 20.000, reticulócitos abaixo de 60.000); é muito grave só com neutrófilos abaixo de 200. Com 340, é grave. A escolha do tratamento depende da idade: o transplante aparentado é a primeira linha abaixo de cerca de 40 anos (e se discute até 50 em quem está muito bem); acima disso, a mortalidade e a doença do enxerto contra o hospedeiro pesam mais, e a primeira linha é a imunossupressão com globulina antitimocitária equina, ciclosporina e eltrombopague, que dá resposta em cerca de 80% (estudo RACE). O transplante fica para a falha. O pequeno clone HPN e o cariótipo normal reforçam aplasia imune e não SMD hipocelular.",
+  "comentarios": {
+   "A": "Correta. Neutrófilos entre 200 e 500, plaquetas abaixo de 20.000 e celularidade de 10%: aplasia grave; aos 58 anos, imunossupressão tripla é a primeira linha.",
+   "B": "Errada, é a armadilha. Seria a escolha com a mesma doença e o mesmo doador num paciente abaixo de 40 anos.",
+   "C": "Errada nas duas metades. Muito grave exige neutrófilos abaixo de 200/mm³, e o transplante não é primeira linha nesta idade.",
+   "D": "Errada na primeira metade. O tratamento está certo, mas a classificação muito grave exige neutrófilos abaixo de 200/mm³."
+  },
+  "para_levar": "Anemia aplástica: muito grave com neutrófilos abaixo de 200; transplante aparentado na primeira linha só no jovem (até cerca de 40 anos), e acima disso ATG, ciclosporina e eltrombopague.",
+  "referencias": "BSH Guidelines for the diagnosis and management of adult aplastic anaemia, 2024 (Kulasekararaj et al.); Peffault de Latour et al., RACE, NEJM 2022; Townsley et al., NEJM 2017.",
+  "tags": [
+   "Anemia Aplástica (CM)",
+   "Pancitopenias (CM)"
+  ],
+  "sourceQuestionId": "73f7dcd274af5c4",
+  "alvo": "Rótulo verdadeiro (doador compatível) puxando a conduta de porte maior, e limiar de classificação não fixado."
+ },
+ {
+  "id": "S7-HEM-04",
+  "simulado": 7,
+  "area": "Hematologia",
+  "titulo": "Von Willebrand tipo 2B antes de exodontia: desmopressina piora a plaquetopenia, usar concentrado com fator de von Willebrand",
+  "arma": "Rótulo verdadeiro",
+  "comando": "conduta",
+  "nivel": "extremamente difícil",
+  "enunciado": "Mulher de 27 anos, com epistaxes recorrentes e menorragia desde a menarca e sangramento prolongado após extração dentária; a mãe tem a mesma história. Escore de sangramento da ISTH de 9. Plaquetas de 92.000/mm³, sempre entre 80.000 e 110.000/mm³ em exames anteriores, sem agregados em amostra com citrato. TP normal, TTPa levemente prolongado. Fator de von Willebrand antigênico 38%, atividade (ligação à GPIb) 14%, fator VIII 40%. Agregação plaquetária induzida por ristocetina aumentada em baixa concentração, e multímeros com perda dos de alto peso molecular. Está programada a extração dos quatro terceiros molares. Para a profilaxia hemostática do procedimento, a medida mais adequada é:",
+  "alternativas": {
+   "A": "Ácido tranexâmico isolado",
+   "B": "Concentrado de fator VIII com fator de von Willebrand",
+   "C": "Desmopressina subcutânea",
+   "D": "Transfusão de plaquetas pré-procedimento"
+  },
+  "gabarito": "B",
+  "armadilha": "C",
+  "dado_decisivo": "aumentada em baixa concentração",
+  "resolucao": "Doença de von Willebrand com procedimento puxa para a desmopressina, que libera o fator dos estoques endoteliais e funciona bem no tipo 1. Mas a relação atividade/antígeno de 0,37 (abaixo de 0,7) indica defeito qualitativo, e a agregação aumentada com ristocetina em baixa concentração, com perda de multímeros grandes e plaquetopenia leve crônica, define o tipo 2B: o fator mutante tem ganho de afinidade pela GPIb e se liga espontaneamente às plaquetas, que são retiradas da circulação. A desmopressina libera mais desse fator anormal e pode aprofundar a plaquetopenia, por isso é relativamente contraindicada no 2B. A profilaxia é com concentrado de fator VIII rico em fator de von Willebrand (ou fator de von Willebrand recombinante), associado ao antifibrinolítico. O ácido tranexâmico sozinho não basta para extração múltipla com atividade de 14%.",
+  "comentarios": {
+   "A": "Errada. É adjuvante útil em procedimento oral, mas isolado só serviria para sangramento mucoso leve ou doença leve; atividade de 14% exige reposição do fator.",
+   "B": "Correta. No tipo 2B, a reposição com concentrado contendo fator de von Willebrand é a profilaxia de escolha, associada ao antifibrinolítico.",
+   "C": "Errada, é a armadilha. Seria a escolha no tipo 1 com teste de resposta favorável; no 2B piora a plaquetopenia.",
+   "D": "Errada. A plaquetopenia é leve e secundária ao fator anormal; plaquetas transfundidas não corrigem o defeito."
+  },
+  "para_levar": "Von Willebrand com plaquetopenia leve e agregação aumentada com ristocetina em baixa dose é tipo 2B: desmopressina é contraindicada, e a profilaxia é concentrado com fator de von Willebrand.",
+  "referencias": "ASH ISTH NHF WFH 2021 Guidelines on the management of von Willebrand disease (Connell et al.); ASH ISTH NHF WFH 2021 Guidelines on the diagnosis of VWD (James et al.).",
+  "tags": [
+   "Doença de Von Willebrand (CM)",
+   "Distúrbios de Hemostasia (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Rótulo verdadeiro (von Willebrand leva à desmopressina) contra o subtipo que contraindica a conduta de manual."
+ },
+ {
+  "id": "S7-HEM-05",
+  "simulado": 7,
+  "area": "Hematologia",
+  "titulo": "Linfoma de Hodgkin com baço acometido e prurido: estádio III e prurido não é sintoma B",
+  "arma": "Limiar",
+  "comando": "diagnóstico",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 29 anos tem linfonodos cervicais e supraclaviculares esquerdos há 3 meses e prurido generalizado intenso, pior à noite. Perdeu 4 kg em 4 meses (peso habitual de 66 kg). Nega febre e sudorese noturna. A biópsia mostrou linfoma de Hodgkin clássico, subtipo esclerose nodular. PET-CT: linfonodos cervicais e supraclaviculares esquerdos, massa mediastinal anterior de 6 cm (menor que um terço do diâmetro torácico), linfonodos do hilo esplênico e múltiplos focos hipermetabólicos no baço; fígado, pulmões, ossos e medula óssea sem captação anormal. O estádio de Ann Arbor, com a modificação de Lugano, é:",
+  "alternativas": {
+   "A": "IIA",
+   "B": "IIIB",
+   "C": "IIIA",
+   "D": "IVA"
+  },
+  "gabarito": "C",
+  "armadilha": "B",
+  "dado_decisivo": "Perdeu 4 kg em 4 meses (peso habitual de 66 kg)",
+  "resolucao": "O prurido intenso impressiona e atrai o sintoma B, mas os sintomas B são só três: febre acima de 38 °C sem outra causa, sudorese noturna profusa e perda de mais de 10% do peso em 6 meses. Ela perdeu cerca de 6%, não tem febre nem sudorese; o prurido tem valor prognóstico, mas não muda a letra. Quanto à extensão, o baço é órgão linfoide no sistema de Ann Arbor: acometimento esplênico com linfonodos acima do diafragma é estádio III (o hilo esplênico está abaixo dele), e não IV, que exige doença extralinfática difusa como fígado, medula, osso ou pulmão. O estádio é IIIA. Isso define doença avançada e tratamento com quimioterapia de estádio avançado.",
+  "comentarios": {
+   "A": "Errada. Ignora o baço e os linfonodos do hilo esplênico, que estão abaixo do diafragma e levam ao estádio III.",
+   "B": "Errada, é a armadilha. A extensão está certa, mas prurido não é sintoma B e a perda de 6% não chega a 10%.",
+   "C": "Correta. Linfonodos dos dois lados do diafragma com baço acometido e sem sintomas B: IIIA.",
+   "D": "Errada. O baço conta como sítio linfoide; estádio IV exige órgão extralinfático difuso, ausente no PET-CT."
+  },
+  "para_levar": "Sintoma B é febre, sudorese noturna profusa ou perda acima de 10% do peso em 6 meses; prurido não conta. Baço é sítio linfoide: com doença acima do diafragma, é estádio III.",
+  "referencias": "Cheson et al., Lugano classification, J Clin Oncol 2014; NCCN Hodgkin Lymphoma 2025.",
+  "tags": [
+   "Linfomas (CM)",
+   "Diagnóstico das Neoplasias e Estadiamentos (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Linfoma (tema recorrente da UERJ) e limiar numérico não fixado (10% do peso)."
+ },
+ {
+  "id": "S7-HEM-06",
+  "simulado": 7,
+  "area": "Hematologia",
+  "titulo": "Sobrecarga de ferro transfusional na SMD com DRC e neutropenia: desferroxamina, porque o deferasirox e a deferiprona estão contraindicados",
+  "arma": "Limiar",
+  "comando": "conduta",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 72 anos, com síndrome mielodisplásica de baixo risco pelo IPSS-R, é dependente de transfusão há 2 anos e já recebeu cerca de 40 concentrados de hemácias, após falha da alfaepoetina. Está ativo, com ECOG 1. Ferritina 3.100 ng/mL, saturação de transferrina 88%, ressonância com T2* hepático indicando 9 mg de ferro por grama de fígado seco; T2* cardíaco normal. Tem doença renal crônica por nefroesclerose, com TFGe estável de 34 mL/min/1,73 m², e neutrófilos de 800/mm³ pela própria SMD. Plaquetas 96.000/mm³. A conduta mais adequada para a sobrecarga de ferro é:",
+  "alternativas": {
+   "A": "Deferasirox oral",
+   "B": "Deferiprona oral",
+   "C": "Flebotomias mensais",
+   "D": "Desferroxamina subcutânea"
+  },
+  "gabarito": "D",
+  "armadilha": "A",
+  "dado_decisivo": "TFGe estável de 34 mL/min/1,73 m²",
+  "resolucao": "A indicação de quelação está clara: SMD de baixo risco com expectativa de vida longa, mais de 20 unidades transfundidas e ferritina acima de 1.000 a 2.500. O quelante que se lembra primeiro é o deferasirox, oral e de dose única, e é ele a armadilha: está contraindicado com depuração de creatinina abaixo de 40 mL/min, por nefrotoxicidade. A deferiprona causa agranulocitose e não se usa com neutrófilos abaixo de 1.500/mm³, e ele tem 800. Flebotomia é impossível em quem depende de transfusão. Sobra a desferroxamina parenteral (subcutânea em infusão lenta), que pode ser usada com ajuste e monitorização na doença renal.",
+  "comentarios": {
+   "A": "Errada, é a armadilha. Seria a escolha com função renal preservada; com TFGe de 34 é contraindicado.",
+   "B": "Errada. A deferiprona causa agranulocitose; com neutrófilos de 800/mm³ está contraindicada.",
+   "C": "Errada. Flebotomia trata hemocromatose e sobrecarga em quem não tem anemia; aqui agravaria a dependência transfusional.",
+   "D": "Correta. Com o deferasirox barrado pela TFGe e a deferiprona pela neutropenia, a desferroxamina parenteral é o quelante possível."
+  },
+  "para_levar": "Na escolha do quelante, dois limiares decidem: deferasirox não se usa com depuração abaixo de 40 mL/min e deferiprona não se usa com neutropenia; desferroxamina é a alternativa.",
+  "referencias": "NCCN Myelodysplastic Syndromes 2025 (iron chelation); bula do deferasirox (Anvisa) e da deferiprona; ABHH, Consenso brasileiro de sobrecarga de ferro, 2018.",
+  "tags": [
+   "Síndrome Mielodisplásica (CM)",
+   "Hemoterapia (CM)"
+  ],
+  "sourceQuestionId": "2507d298bcc3c36",
+  "alvo": "Ignorar a comorbidade e o hemograma que contraindicam a droga de manual (padrão dominante), em hemoterapia."
+ }
+]

@@ -1,0 +1,206 @@
+[
+ {
+  "id": "S6-HEM-01",
+  "simulado": 6,
+  "area": "Hematologia",
+  "titulo": "Sangramento após alteplase no TEP de alto risco: fibrinogênio abaixo de 150 pede crioprecipitado, não plasma",
+  "arma": "Limiar",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 59 anos, com tromboembolismo pulmonar de alto risco (choque à admissão), recebeu alteplase 100 mg em 2 horas; a heparina não fracionada foi suspensa ao iniciar a infusão, há 3 horas. Cinquenta minutos após o término, surge sangramento ativo e volumoso no local da punção arterial femoral feita para gasometria, que não cede à compressão, e hematúria macroscópica. PA 104/66 mmHg, FC 108 bpm, SpO2 94% com cateter nasal. Exames: Hb 9,8 g/dL (12,1 g/dL à admissão), plaquetas 188.000/mm³, INR 1,4, TTPa relação 1,6, fibrinogênio 92 mg/dL (VR 200 a 400). A infusão já terminou e a compressão local continua. Além do antifibrinolítico, a medida hemostática mais adequada neste momento é:",
+  "alternativas": {
+   "A": "Plasma fresco congelado 15 mL/kg",
+   "B": "Sulfato de protamina endovenoso",
+   "C": "Crioprecipitado 10 unidades",
+   "D": "Concentrado de plaquetas por aférese"
+  },
+  "gabarito": "C",
+  "armadilha": "A",
+  "dado_decisivo": "fibrinogênio 92 mg/dL (VR 200 a 400)",
+  "resolucao": "O INR e o TTPa alterados puxam para o plasma, que repõe vários fatores ao mesmo tempo. Mas o que a alteplase faz é gerar plasmina, que consome o fibrinogênio, e o número que decide é ele: 92 mg/dL, muito abaixo do limiar de 150 mg/dL usado no sangramento após trombolítico. O crioprecipitado concentra fibrinogênio, fator VIII e fator XIII num volume pequeno, e é a reposição recomendada (cerca de 10 unidades, repetindo se o fibrinogênio seguir abaixo de 150), junto com ácido tranexâmico. Para elevar o fibrinogênio na mesma medida com plasma seriam necessários vários litros, o que agrava a sobrecarga numa paciente com o ventrículo direito em sofrimento. A protamina só ajudaria se houvesse heparina circulante, e a infusão foi suspensa há 3 horas; as plaquetas estão normais.",
+  "comentarios": {
+   "A": "Errada, é a armadilha. O plasma é a escolha na deficiência de múltiplos fatores, como na hepatopatia ou na reversão de varfarina sem complexo protrombínico; aqui a deficiência dominante é de fibrinogênio, que o plasma repõe pouco por volume.",
+   "B": "Errada. Seria útil se a heparina não fracionada estivesse em curso ou tivesse sido suspensa há menos de 2 horas; foi suspensa há 3 horas, e o TTPa alongado reflete a fibrinólise.",
+   "C": "Correta. Fibrinogênio de 92 mg/dL após trombolítico, com sangramento ativo: crioprecipitado, com nova dosagem e repetição se ficar abaixo de 150 mg/dL.",
+   "D": "Errada. Plaquetas de 188.000/mm³ não justificam transfusão; seria indicada se o paciente usasse antiagregante e tivesse sangramento intracraniano, ou com plaquetopenia."
+  },
+  "para_levar": "Sangramento após alteplase é, antes de tudo, hipofibrinogenemia: dosar o fibrinogênio e repor com crioprecipitado (limiar de 150 mg/dL), associado a antifibrinolítico.",
+  "referencias": "AHA/ASA Scientific Statement 2017 (Yaghi et al.): manejo do sangramento após alteplase; ESC 2019 Acute Pulmonary Embolism; BSH 2018 Guidelines on the use of fresh frozen plasma and cryoprecipitate (atualização 2023).",
+  "tags": [
+   "Hemoterapia (CM)",
+   "TEP (CM)"
+  ],
+  "sourceQuestionId": "4e1837dd13d3c9d",
+  "alvo": "Hemoterapia 0 de 4 no app: indicação de crioprecipitado contra plasma, com o número do fibrinogênio lido como enfeite."
+ },
+ {
+  "id": "S6-HEM-02",
+  "simulado": 6,
+  "area": "Hematologia",
+  "titulo": "Deficiência de B12 pela metformina com neuropatia rotulada de diabética: B12 parenteral e manter a metformina",
+  "arma": "Rótulo verdadeiro",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Homem de 67 anos, com diabetes tipo 2 há 14 anos, usa metformina 2 g/dia desde o diagnóstico e omeprazol 40 mg/dia há 6 anos por doença do refluxo. HbA1c 7,1%. Há 8 meses tem formigamento nos pés, que vem subindo, e há 2 meses perde o equilíbrio ao andar no escuro. Exame: hipopalestesia até os joelhos, Romberg positivo, reflexos aquileus abolidos e patelares vivos, força preservada. Hemograma: Hb 12,6 g/dL, VCM 99 fL, leucócitos e plaquetas normais. Vitamina B12 148 pg/mL (VR 200 a 900), folato e TSH normais, creatinina 1,0 mg/dL. O endocrinologista anotou \"neuropatia diabética\" no prontuário. A conduta mais adequada é:",
+  "alternativas": {
+   "A": "Cianocobalamina IM e manter metformina",
+   "B": "Suspender metformina e repor B12 oral",
+   "C": "Pregabalina e intensificar controle glicêmico",
+   "D": "Dosar antifator intrínseco antes de repor"
+  },
+  "gabarito": "A",
+  "armadilha": "C",
+  "dado_decisivo": "Romberg positivo, reflexos aquileus abolidos e patelares vivos",
+  "resolucao": "O diabetes de longa data é verdadeiro e a neuropatia diabética existe, por isso o rótulo atrai a pregabalina. Mas a neuropatia diabética não dá Romberg positivo com patelares vivos: aquileus abolidos com patelares exaltados combinam neuropatia periférica e lesão de cordão posterior e lateral, que é a degeneração combinada subaguda. A B12 de 148 pg/mL confirma a deficiência, e a causa está nas duas drogas: metformina por anos (reduz a absorção ileal dependente de cálcio) e IBP (reduz a liberação da B12 da proteína alimentar). Com déficit neurológico, a reposição começa por via parenteral, porque a resposta do sistema nervoso depende de corrigir rápido. A metformina não precisa ser suspensa: o benefício cardiovascular e metabólico se mantém, e a ADA recomenda dosar B12 periodicamente e repor. Pesquisar anemia perniciosa não muda o início da reposição.",
+  "comentarios": {
+   "A": "Correta. Deficiência de B12 com mielopatia em usuário crônico de metformina e IBP: cianocobalamina intramuscular, mantendo a metformina e revendo o IBP.",
+   "B": "Errada. A via oral em dose alta serve à deficiência sem déficit neurológico; e suspender a metformina tira um benefício sem necessidade, porque a reposição resolve.",
+   "C": "Errada, é a armadilha. Seria a conduta na neuropatia diabética dolorosa; Romberg positivo com patelares vivos e B12 de 148 apontam lesão medular pela carência.",
+   "D": "Errada. A sorologia pode ser pedida, mas não deve atrasar a reposição num paciente com mielopatia; e as drogas em uso já explicam a carência."
+  },
+  "para_levar": "No diabético em metformina, neuropatia com Romberg positivo e reflexos patelares vivos é B12 até prova em contrário; com déficit neurológico, B12 parenteral e a metformina continua.",
+  "referencias": "ADA Standards of Care in Diabetes 2026 (seção 9, monitorização de B12 com metformina); BSH 2014 Guidelines for cobalamin and folate disorders; Devalia et al.",
+  "tags": [
+   "Deficiência de B12 (CM)",
+   "Anemia Megalobástica (CM)"
+  ],
+  "sourceQuestionId": "671bf344d82b030",
+  "alvo": "Rótulo verdadeiro (neuropatia diabética) contra o exame neurológico que decide, e droga em uso como causa."
+ },
+ {
+  "id": "S6-HEM-03",
+  "simulado": 6,
+  "area": "Hematologia",
+  "titulo": "Plaquetopenia no termo sem hipertensão nem hemólise: trombocitopenia gestacional e analgesia neuraxial acima de 70.000",
+  "arma": "Grade X / Y",
+  "comando": "diagnóstico",
+  "nivel": "difícil",
+  "enunciado": "Gestante de 31 anos, G2P1, com 37 semanas, pré-natal sem intercorrências. Plaquetas: 228.000/mm³ no primeiro trimestre, 164.000/mm³ com 28 semanas e, hoje, 84.000/mm³, sem agregados no esfregaço. Na gestação anterior, as plaquetas estavam em 96.000/mm³ no parto e se normalizaram no puerpério. Nega sangramentos, sem petéquias ou equimoses. PA 116/72 mmHg, relação proteína/creatinina urinária 0,1, AST, ALT e LDH normais, bilirrubinas normais, sem esquizócitos. Está planejado parto vaginal com analgesia peridural. O diagnóstico mais provável e a conduta quanto à analgesia são, respectivamente:",
+  "alternativas": {
+   "A": "PTI / prednisona antes da peridural",
+   "B": "Trombocitopenia gestacional / peridural permitida",
+   "C": "Trombocitopenia gestacional / peridural contraindicada",
+   "D": "PTI / imunoglobulina antes da peridural"
+  },
+  "gabarito": "B",
+  "armadilha": "C",
+  "dado_decisivo": "hoje, 84.000/mm³",
+  "resolucao": "Plaquetas abaixo de 100.000 assustam e puxam para a contraindicação da peridural. O diagnóstico, porém, é de trombocitopenia gestacional: queda gradual no terceiro trimestre, contagem normal no início da gravidez, mesma evolução na gestação anterior com normalização no puerpério, nenhuma hipertensão, proteinúria, hemólise ou lesão hepática que sugira pré-eclâmpsia ou HELLP. A PTI tende a aparecer no primeiro trimestre ou já existir antes, com contagens mais baixas. Para a analgesia neuraxial, o consenso da Society for Obstetric Anesthesia and Perinatology (2021) considera o risco de hematoma espinhal muito baixo com plaquetas iguais ou acima de 70.000/mm³, desde que estáveis e sem outra coagulopatia. Com 84.000/mm³, a peridural está liberada sem tratamento prévio.",
+  "comentarios": {
+   "A": "Errada. Corticoide antes do parto é estratégia na PTI com plaquetas abaixo do limiar do procedimento; aqui o diagnóstico é outro e o limiar já foi alcançado.",
+   "B": "Correta. Queda gradual no terceiro trimestre, sem pré-eclâmpsia nem hemólise e com recorrência benigna: trombocitopenia gestacional, e 84.000/mm³ permite neuraxial.",
+   "C": "Errada, é a armadilha. O diagnóstico está certo, mas o limiar atual para neuraxial é de 70.000/mm³, e não 100.000/mm³.",
+   "D": "Errada. Imunoglobulina é usada na PTI com plaquetas muito baixas perto do parto; nada aqui sugere PTI."
+  },
+  "para_levar": "Trombocitopenia gestacional: terceiro trimestre, geralmente acima de 70.000, sem hipertensão nem hemólise, e normaliza no puerpério; peridural liberada com 70.000 ou mais.",
+  "referencias": "SOAP Interdisciplinary Consensus Statement 2021 (Bauer et al.) on neuraxial procedures in obstetric patients with thrombocytopenia; ACOG Practice Bulletin 207 (2019) Thrombocytopenia in Pregnancy.",
+  "tags": [
+   "Distúrbios de Hemostasia (CM)",
+   "Púrpura Trombocitopênica Imunológica (PTI) (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Plaquetopenia na gestação (tema novo) e limiar numérico não fixado; padrão de fazer mais (tratar ou contraindicar sem necessidade)."
+ },
+ {
+  "id": "S6-HEM-04",
+  "simulado": 6,
+  "area": "Hematologia",
+  "titulo": "Hemofilia A com inibidor em profilaxia com emicizumabe: sangramento agudo trata-se com fator VII ativado, não com complexo protrombínico ativado",
+  "arma": "Droga a deduzir",
+  "comando": "conduta",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 24 anos, com hemofilia A grave e inibidor de alto título (último título de 14 UB/mL), sem resposta à imunotolerância feita na infância. Há 1 ano está em profilaxia com injeção subcutânea semanal de um anticorpo monoclonal biespecífico, com queda importante dos sangramentos. Hoje, após cair de bicicleta, apresenta hemartrose do joelho direito, com dor intensa, joelho tenso e quente e flexão limitada. PA 128/76 mmHg, FC 96 bpm. Exames: Hb 13,4 g/dL, plaquetas 244.000/mm³, TTPa 29 segundos (VR 25 a 35). O agente hemostático mais adequado para este episódio é:",
+  "alternativas": {
+   "A": "Concentrado de fator VIII em dose alta",
+   "B": "Complexo protrombínico parcialmente ativado",
+   "C": "Plasma fresco congelado",
+   "D": "Fator VII ativado recombinante"
+  },
+  "gabarito": "D",
+  "armadilha": "B",
+  "dado_decisivo": "injeção subcutânea semanal de um anticorpo monoclonal biespecífico",
+  "resolucao": "Na hemofilia com inibidor de alto título, os agentes de bypass são o fator VII ativado recombinante e o complexo protrombínico parcialmente ativado, e o apressado escolhe o segundo por ser o que se lembra primeiro. A droga a deduzir muda tudo: anticorpo biespecífico subcutâneo semanal na hemofilia A é o emicizumabe, que liga fator IXa e fator X e imita o fator VIII. No estudo HAVEN 1, o complexo protrombínico ativado em dose acima de 100 U/kg/dia por mais de 24 horas, somado ao emicizumabe, causou microangiopatia trombótica e trombose; por isso o fator VII ativado recombinante é o agente de primeira escolha nos sangramentos de quem usa emicizumabe. O TTPa normal não indica hemostasia corrigida: o emicizumabe normaliza o TTPa artificialmente, e o exame não serve para monitorar. Fator VIII em dose alta é neutralizado por inibidor de 14 UB/mL.",
+  "comentarios": {
+   "A": "Errada. Fator VIII em dose alta só funciona com inibidor de baixo título (abaixo de 5 UB/mL); com 14 UB/mL é neutralizado.",
+   "B": "Errada, é a armadilha. Seria um agente de bypass válido sem emicizumabe; com ele, há risco de microangiopatia trombótica e trombose.",
+   "C": "Errada. O plasma não tem fator suficiente para vencer o inibidor e não é tratamento de hemofilia com concentrados disponíveis.",
+   "D": "Correta. Em usuário de emicizumabe com inibidor, o sangramento agudo se trata com fator VII ativado recombinante."
+  },
+  "para_levar": "Hemofilia com inibidor em emicizumabe: sangramento agudo com fator VII ativado recombinante; evitar complexo protrombínico ativado (microangiopatia trombótica), e o TTPa normal não tranquiliza.",
+  "referencias": "WFH Guidelines for the Management of Hemophilia, 3rd edition (2020); Oldenburg et al., HAVEN 1, NEJM 2017; MS Manual de Hemofilia 2015 e Nota Técnica do emicizumabe (2021).",
+  "tags": [
+   "Hemofilias (CM)",
+   "Distúrbios de Hemostasia (CM)"
+  ],
+  "sourceQuestionId": "53ad4e8c304d72b",
+  "alvo": "Droga em uso a deduzir que derruba a conduta de manual (ignorar a droga em uso, padrão dominante)."
+ },
+ {
+  "id": "S6-HEM-05",
+  "simulado": 6,
+  "area": "Hematologia",
+  "titulo": "Pancitopenia com esplenomegalia e punção seca: monocitopenia aponta leucemia de células pilosas, não mielofibrose",
+  "arma": "Dado omitido",
+  "comando": "diagnóstico",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 54 anos, com fadiga há 5 meses e duas pneumonias tratadas no período, refere peso no hipocôndrio esquerdo. Sem febre atual, sem sudorese noturna, sem linfonodomegalias palpáveis; baço a 12 cm do rebordo costal. Hemograma: Hb 9,4 g/dL, VCM 96 fL, leucócitos 1.900/mm³ (neutrófilos 600, linfócitos 1.300, monócitos 0/mm³), plaquetas 62.000/mm³. Esfregaço: raros linfócitos de tamanho médio com citoplasma amplo; sem dacriócitos, sem eritroblastos e sem precursores mieloides circulantes. LDH normal. A tentativa de aspirado de medula óssea resultou em punção seca. O diagnóstico mais provável é:",
+  "alternativas": {
+   "A": "Leucemia de células pilosas",
+   "B": "Linfoma esplênico da zona marginal",
+   "C": "Mielofibrose primária",
+   "D": "Leucemia linfocítica crônica"
+  },
+  "gabarito": "A",
+  "armadilha": "C",
+  "dado_decisivo": "monócitos 0/mm³",
+  "resolucao": "Punção seca com esplenomegalia volumosa evoca mielofibrose, e a banca omite de propósito a imunofenotipagem. Mas a mielofibrose primária produz leucoeritroblastose (eritroblastos e precursores mieloides no sangue) e dacriócitos, ausentes aqui. A pancitopenia com monocitopenia profunda num homem de meia-idade, com esplenomegalia, infecções e medula que não aspira (por fibrose de reticulina causada pelas células pilosas) é a leucemia de células pilosas. A confirmação vem da imunofenotipagem (CD11c, CD25, CD103 e CD123 positivos), da biópsia de medula e da mutação BRAF V600E, e o tratamento de primeira linha é a cladribina. O linfoma esplênico da zona marginal e a LLC cursam com linfocitose e monócitos preservados.",
+  "comentarios": {
+   "A": "Correta. Pancitopenia com monócitos ausentes, esplenomegalia e punção seca sem leucoeritroblastose: leucemia de células pilosas.",
+   "B": "Errada. Também tem baço grande e linfócitos com projeções, mas cursa com linfocitose e sem monocitopenia; a medula costuma ser aspirável.",
+   "C": "Errada, é a armadilha. Explicaria punção seca e baço, mas exigiria dacriócitos e leucoeritroblastose, que o esfregaço não mostra; não causa monocitopenia isolada.",
+   "D": "Errada. A LLC se define por linfocitose B monoclonal acima de 5.000/mm³; aqui os linfócitos são 1.300/mm³."
+  },
+  "para_levar": "Pancitopenia com monocitopenia, esplenomegalia e punção seca, sem dacriócitos nem leucoeritroblastose, é leucemia de células pilosas (CD103, CD25, CD11c, BRAF V600E).",
+  "referencias": "Grever et al., Consensus guidelines for hairy cell leukemia, Blood 2017; WHO Classification of Haematolymphoid Tumours, 5th edition (2022); NCCN Hairy Cell Leukemia 2025.",
+  "tags": [
+   "Leucemias (CM)",
+   "Pancitopenias (CM)"
+  ],
+  "sourceQuestionId": "44d262206172e18",
+  "alvo": "Linfoproliferativo por subtipo (zona marginal esplênica errada 2 vezes) e dado decisivo no hemograma lido como enfeite."
+ },
+ {
+  "id": "S6-HEM-06",
+  "simulado": 6,
+  "area": "Hematologia",
+  "titulo": "Neutropenia estável em mulher negra assintomática: neutropenia associada ao fenótipo Duffy nulo, sem investigação adicional",
+  "arma": "Omissão",
+  "comando": "próximo exame",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 34 anos, negra, faz exame admissional. Hemograma: leucócitos 2.900/mm³ (neutrófilos 1.050, linfócitos 1.500, monócitos 280/mm³), Hb 13,1 g/dL, VCM 88 fL, plaquetas 236.000/mm³, esfregaço sem alterações morfológicas. Assintomática, nega infecções de repetição, úlceras orais, artralgias, perda de peso e uso de medicamentos. Exame físico sem esplenomegalia ou linfonodomegalias. Trouxe hemogramas de 2019, 2022 e 2024, todos com neutrófilos entre 1.000 e 1.300/mm³. A irmã tem \"glóbulos brancos baixos\". Anti-HIV, HBsAg, anti-HCV, vitamina B12 e TSH normais. Quanto à investigação, o próximo passo mais adequado é:",
+  "alternativas": {
+   "A": "Mielograma com citogenética",
+   "B": "Nenhum exame, apenas hemograma periódico",
+   "C": "Pesquisa de anticorpo antineutrófilo",
+   "D": "Imunofenotipagem para grandes linfócitos granulares"
+  },
+  "gabarito": "B",
+  "armadilha": "A",
+  "dado_decisivo": "todos com neutrófilos entre 1.000 e 1.300/mm³",
+  "resolucao": "Neutropenia num adulto faz pensar em doença de medula, e o reflexo é o mielograma. Mas o quadro tem todos os elementos da neutropenia associada ao fenótipo Duffy nulo (antes chamada neutropenia étnica benigna): mulher negra, neutropenia leve (acima de 1.000/mm³) estável há anos, familiar com o mesmo achado, nenhuma infecção, outras séries e morfologia normais, sem baço e sem drogas. É uma variante da normalidade presente em grande parte das pessoas de ascendência africana, sem aumento de risco infeccioso. A conduta é não investigar mais e apenas acompanhar; a fenotipagem Duffy pode documentar o achado, mas não é obrigatória. Mielograma, anticorpo antineutrófilo e pesquisa de grandes linfócitos granulares ficam para neutropenia nova, progressiva, grave ou com infecções.",
+  "comentarios": {
+   "A": "Errada, é a armadilha. Seria o exame com citopenias em mais de uma série, morfologia displásica ou neutropenia progressiva; aqui a neutropenia é leve, isolada e estável há 5 anos.",
+   "B": "Correta. Neutropenia leve, estável e familiar em mulher negra assintomática: variante associada ao Duffy nulo, sem investigação adicional.",
+   "C": "Errada. A neutropenia autoimune entra com infecções, doença autoimune ou contagens oscilantes e mais baixas.",
+   "D": "Errada. A leucemia de grandes linfócitos granulares se pesquisa com neutropenia grave, artrite reumatoide ou esplenomegalia, nada disso presente."
+  },
+  "para_levar": "Neutropenia leve (acima de 1.000), isolada, estável e assintomática em pessoa de ascendência africana é variante Duffy nulo: não se investiga além do básico.",
+  "referencias": "Merz et al., ACKR1/Duffy-null associated neutrophil count, Am J Hematol 2023; Atallah-Yunes et al., Benign ethnic neutropenia, Blood Rev 2019.",
+  "tags": [
+   "Avaliação Global do Hemograma (CM)",
+   "Pancitopenias (CM)"
+  ],
+  "sourceQuestionId": "f0f24001acb9ee8",
+  "alvo": "Padrão dominante de sobreinvestigar: próximo exame quando a resposta é não pedir nada."
+ }
+]
