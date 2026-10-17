@@ -1,0 +1,173 @@
+[
+  {
+    "id": "S6-NEF-01",
+    "simulado": 6,
+    "area": "Nefrologia",
+    "titulo": "Hipernatremia crônica com choque hipovolêmico no idoso · cristaloide isotônico primeiro e teto de queda do sódio",
+    "arma": "Grade X / Y",
+    "comando": "conduta",
+    "nivel": "difícil",
+    "enunciado": "Mulher de 86 anos, com doença de Alzheimer avançada, acamada e institucionalizada, é trazida por sonolência progressiva há 3 dias. A cuidadora relata febre e recusa de líquidos há cerca de 5 dias. Usa donepezila e quetiapina. Exame: sonolenta, desperta ao chamado, sem déficit focal, mucosas muito secas, PA 82/50 mmHg, FC 118 bpm, tempo de enchimento capilar de 5 segundos, temperatura 37,9 °C. Exames: sódio 164 mEq/L, potássio 3,8 mEq/L, ureia 112 mg/dL, creatinina 1,7 mg/dL (basal 0,8 mg/dL), glicose 118 mg/dL; EAS com leucocitúria e nitrito positivo. Quanto ao fluido inicial e ao limite de queda do sódio sérico nas primeiras 24 horas, a conduta mais adequada é, respectivamente:",
+    "alternativas": {
+      "A": "SF 0,9% / até 10 mEq/L",
+      "B": "Soro glicosado a 5% / até 10 mEq/L",
+      "C": "SF 0,9% / até 20 mEq/L",
+      "D": "Soro glicosado a 5% / até 20 mEq/L"
+    },
+    "gabarito": "A",
+    "armadilha": "B",
+    "dado_decisivo": "PA 82/50 mmHg",
+    "resolucao": "A armadilha é tratar o número: sódio de 164 lembra déficit de água livre, e o reflexo é soro glicosado a 5%. Mas a paciente está em choque hipovolêmico (PA 82/50 mmHg, enchimento capilar de 5 segundos, ureia desproporcional), e a prioridade é restaurar a perfusão com cristaloide isotônico, que se distribui no extracelular; o glicosado vai em dois terços para dentro das células e não sustenta a pressão. O SF 0,9% (154 mEq/L) ainda é hipotônico em relação ao plasma dela, então já começa a baixar o sódio sem risco de queda brusca. Só depois de estabilizada a hemodinâmica se passa para fluido hipotônico, calculando o déficit de água. Como a hipernatremia se instalou ao longo de dias (crônica, mais de 48 horas), o cérebro já gerou osmólitos, e a queda não deve passar de cerca de 10 mEq/L em 24 horas para evitar edema cerebral. A segunda metade separa quem sabe que a correção rápida só é tolerada na hipernatremia aguda, de horas.",
+    "comentarios": {
+      "A": "Correta. Choque (PA 82/50 mmHg) pede cristaloide isotônico antes da água livre, e a evolução de dias define hipernatremia crônica, com teto de cerca de 10 mEq/L em 24 horas.",
+      "B": "Errada. O teto está certo, mas soro glicosado seria o fluido de escolha na paciente normotensa, para repor água livre; em choque ele não expande o intravascular.",
+      "C": "Errada. O fluido está certo, mas 20 mEq/L em 24 horas só se aceitaria na hipernatremia aguda, de poucas horas (por exemplo, sobrecarga de sal); aqui são dias de evolução.",
+      "D": "Errada. Erra as duas metades: água livre em choque e velocidade de correção de hipernatremia aguda numa crônica."
+    },
+    "para_levar": "Hipernatremia com instabilidade hemodinâmica: SF 0,9% primeiro, água livre depois. Se crônica (mais de 48 horas ou duração incerta), baixar no máximo cerca de 10 mEq/L em 24 horas.",
+    "referencias": "Adrogué HJ, Madias NE. Hypernatremia. N Engl J Med 2000 (revisado em diretrizes de manejo); European Clinical Practice Guideline on hyponatraemia and hypernatraemia management principles (ESE/ERA 2014, atualização 2024); UpToDate 2026.",
+    "tags": [
+      "Hipernatremia (CM)",
+      "Distúrbios do Sódio (CM)"
+    ],
+    "sourceQuestionId": "f9dc2c9b4a31de9",
+    "alvo": "Ordem da conduta e exame que decide lido como enfeite: a PA manda no fluido, o tempo manda na velocidade."
+  },
+  {
+    "id": "S6-NEF-02",
+    "simulado": 6,
+    "area": "Nefrologia",
+    "titulo": "Hipercalemia no tratamento da pneumocistose · trimetoprima em dose alta bloqueia o ENaC, e não insuficiência adrenal",
+    "arma": "Droga a deduzir",
+    "comando": "mecanismo",
+    "nivel": "extremamente difícil",
+    "enunciado": "Homem de 41 anos, com infecção pelo HIV diagnosticada há 10 dias (CD4 de 62 células/mm³), está internado há 6 dias por pneumonia intersticial bilateral com PaO2 de 64 mmHg em ar ambiente e LDH elevada, tratado com o esquema de primeira linha para o agente mais provável, em dose plena, associado a prednisona. Hoje refere fraqueza leve. PA 118/74 mmHg, FC 88 bpm, sem hiperpigmentação. Exames: potássio 6,3 mEq/L (4,1 mEq/L na admissão), sódio 134 mEq/L, cloro 108 mEq/L, bicarbonato 19 mEq/L, creatinina 1,3 mg/dL (1,0 mg/dL na admissão), glicose 132 mg/dL; cortisol sérico às 8 h, colhido na admissão, de 21 mcg/dL. ECG com ondas T apiculadas, sem alargamento do QRS. Não usa IECA, BRA, espironolactona nem heparina. O mecanismo principal da hipercalemia é:",
+    "alternativas": {
+      "A": "Insuficiência adrenal por citomegalovírus",
+      "B": "Bloqueio do canal epitelial de sódio",
+      "C": "Nefrite intersticial aguda por sulfonamida",
+      "D": "Redistribuição pela acidose metabólica"
+    },
+    "gabarito": "B",
+    "armadilha": "A",
+    "dado_decisivo": "esquema de primeira linha para o agente mais provável, em dose plena",
+    "resolucao": "O rótulo HIV com CD4 de 62 puxa para a adrenalite por citomegalovírus, mas o cortisol de 21 mcg/dL, a PA normal e a ausência de hiperpigmentação não sustentam insuficiência adrenal. O dado a deduzir é a droga: pneumonia intersticial com LDH alta e hipoxemia na aids é pneumocistose, e o esquema de primeira linha em dose plena é sulfametoxazol-trimetoprima (15 a 20 mg/kg/dia de trimetoprima). A trimetoprima tem estrutura parecida com a da amilorida e bloqueia o canal epitelial de sódio (ENaC) no ducto coletor, abolindo o gradiente elétrico que secreta potássio, o que produz hipercalemia com acidose hiperclorêmica leve em cerca de 5 a 7 dias. A pequena subida da creatinina também é esperada, porque a trimetoprima inibe a secreção tubular de creatinina sem queda real da filtração. A nefrite intersticial existiria com exantema, eosinofilia e piora franca da função, e a acidose discreta não explica um potássio de 6,3.",
+    "comentarios": {
+      "A": "Errada. Seria a resposta com hipotensão, hiponatremia acentuada e cortisol baixo; aqui o cortisol de 21 mcg/dL e a PA normal a afastam.",
+      "B": "Correta. A trimetoprima em dose alta, deduzida do tratamento da pneumocistose, age como a amilorida no ducto coletor.",
+      "C": "Errada. A sulfonamida causa nefrite intersticial, mas ela viria com exantema, eosinofilia e queda real da filtração, e não explica sozinha um potássio de 6,3 com creatinina quase estável.",
+      "D": "Errada. Bicarbonato de 19 mEq/L desloca pouco potássio, e acidose hiperclorêmica (mineral) leve não sustenta esse grau de hipercalemia; a acidose aqui é consequência do mesmo bloqueio tubular."
+    },
+    "para_levar": "Sulfametoxazol-trimetoprima em dose de pneumocistose causa hipercalemia por efeito amilorida (bloqueio do ENaC) e eleva a creatinina sem lesão renal real. Vigiar potássio a partir do 3º ao 5º dia.",
+    "referencias": "Diretriz brasileira de manejo da infecção pelo HIV em adultos (MS/PCDT 2024); Perazella MA. Trimethoprim-induced hyperkalaemia. Drug Saf 2000; UpToDate 2026.",
+    "tags": [
+      "Hiperpotassemia (CM)",
+      "Pneumocistose (CM)",
+      "Nefrotoxicidade por Drogas (CM)"
+    ],
+    "sourceQuestionId": null,
+    "alvo": "Droga a deduzir e rótulo verdadeiro (HIV puxando doença oportunista): o efeito da droga em uso explica o laboratório."
+  },
+  {
+    "id": "S6-NEF-03",
+    "simulado": 6,
+    "area": "Nefrologia",
+    "titulo": "Nefropatia por IgA com poucas crescentes e função estável · suporte otimizado antes de qualquer imunossupressor",
+    "arma": "Rótulo verdadeiro",
+    "comando": "conduta",
+    "nivel": "extremamente difícil",
+    "enunciado": "Homem de 29 anos tem hematúria microscópica e proteinúria descobertas em exame admissional. Sem edema, sem lesões cutâneas, sem artralgia ou dor abdominal. PA 138/88 mmHg. Creatinina de 1,1 mg/dL (TFGe de 88 mL/min/1,73 m²), estável em três dosagens nos últimos 4 meses; proteinúria de 1,3 g/24 h; C3 e C4 normais; FAN, ANCA e sorologias para hepatites B e C e HIV negativos. Não usa medicações. A biópsia renal mostra proliferação mesangial com depósitos dominantes de IgA na imunofluorescência, hipercelularidade endocapilar em alguns glomérulos e crescentes celulares em 2 de 24 glomérulos, com fibrose intersticial inferior a 10%. A conduta mais adequada neste momento é:",
+    "alternativas": {
+      "A": "Metilprednisolona e ciclofosfamida",
+      "B": "Prednisona oral em dose plena",
+      "C": "IECA em dose máxima e iSGLT2",
+      "D": "Micofenolato associado a prednisona"
+    },
+    "gabarito": "C",
+    "armadilha": "A",
+    "dado_decisivo": "estável em três dosagens nos últimos 4 meses",
+    "resolucao": "A palavra crescentes na biópsia é o rótulo verdadeiro que puxa para pulsoterapia e ciclofosfamida, a conduta da glomerulonefrite rapidamente progressiva. Mas crescentes em menos de um quarto dos glomérulos com creatinina estável em três dosagens não configuram forma rapidamente progressiva, e a KDIGO diz explicitamente que a presença de crescentes, sozinha, não indica imunossupressão. O primeiro passo na nefropatia por IgA é o suporte otimizado por cerca de 90 dias: IECA ou BRA na dose máxima tolerada, iSGLT2 e controle da PA. Só se a proteinúria persistir acima de 0,5 g/dia após esse período se discute corticoide em dose reduzida, budesonida de liberação entérica ou outras terapias dirigidas. O apressado que não marca a pulsoterapia ainda pode cair na prednisona em dose plena, que era a regra antiga para proteinúria acima de 1 g e hoje vem depois do suporte, com dose menor.",
+    "comentarios": {
+      "A": "Errada. Seria a conduta na nefropatia por IgA crescêntica com queda rápida da filtração (mais de 50% de crescentes ou creatinina dobrando em semanas); aqui a função está estável.",
+      "B": "Errada. Corticoide pode entrar se a proteinúria persistir acima de 0,5 g/dia após cerca de 90 dias de suporte máximo, e em dose reduzida; não é o primeiro passo.",
+      "C": "Correta. Função estável há 4 meses e proteinúria de 1,3 g: suporte otimizado com bloqueio do SRAA em dose máxima e iSGLT2 antes de pensar em imunossupressão.",
+      "D": "Errada. Micofenolato tem papel restrito (dados em populações asiáticas) e nunca antes do suporte otimizado."
+    },
+    "para_levar": "Na nefropatia por IgA, crescente isolada com função estável não é indicação de imunossupressão: primeiro 90 dias de IECA ou BRA em dose máxima e iSGLT2, com alvo de proteinúria abaixo de 0,5 g/dia.",
+    "referencias": "KDIGO 2025 Clinical Practice Guideline for the Management of IgA Nephropathy and IgA Vasculitis; KDIGO 2024 CKD Guideline; DAPA-CKD (2020).",
+    "tags": [
+      "Nefropatia por IgA (CM)",
+      "Glomerulopatias (CM)"
+    ],
+    "sourceQuestionId": "39c6967de5f008c",
+    "alvo": "Fazer mais do que o caso pede: o rótulo da biópsia puxando o tratamento do degrau acima."
+  },
+  {
+    "id": "S6-NEF-04",
+    "simulado": 6,
+    "area": "Nefrologia",
+    "titulo": "Cálculo radiotransparente de baixa densidade no diabético obeso · dissolução com citrato, e não alopurinol, quando a uricosúria é normal",
+    "arma": "Negativo no meio",
+    "comando": "conduta",
+    "nivel": "difícil",
+    "enunciado": "Homem de 57 anos, com obesidade (IMC 34 kg/m²), diabetes tipo 2 em uso de metformina e hipertensão, teve cólica renal à esquerda há 10 dias, resolvida com analgésico. A radiografia simples de abdome não mostrou imagem radiopaca. A TC sem contraste mostra cálculo de 11 mm na pelve renal esquerda, com densidade de 380 UH, sem hidronefrose. Hoje está assintomático e afebril. Exames: creatinina 1,0 mg/dL, ácido úrico sérico 6,2 mg/dL; urina de 24 horas com volume de 1,4 L e ácido úrico urinário de 610 mg (normal até 800 mg); pH urinário de 5,0 em três amostras; urocultura negativa. A conduta mais adequada para o cálculo é:",
+    "alternativas": {
+      "A": "Litotripsia extracorpórea",
+      "B": "Alopurinol 300 mg/dia",
+      "C": "Ureteroscopia flexível com laser",
+      "D": "Citrato de potássio oral"
+    },
+    "gabarito": "D",
+    "armadilha": "B",
+    "dado_decisivo": "ácido úrico urinário de 610 mg (normal até 800 mg)",
+    "resolucao": "Cálculo radiotransparente com densidade abaixo de 500 UH em diabético obeso com pH urinário persistentemente de 5,0 é cálculo de ácido úrico. O apressado associa ácido úrico a alopurinol, mas o dado no meio do caso é que a uricosúria é normal: o defeito não é excesso de ácido úrico, e sim urina ácida demais (resistência à insulina reduz a amoniogênese tubular), o que mantém o ácido úrico na forma não dissociada e insolúvel. O cálculo de ácido úrico é o único que se dissolve com tratamento clínico: alcalinizar a urina com citrato de potássio até pH de 6 a 6,5, associado a aumento da ingesta hídrica, dissolve cálculos mesmo de 1 cm sem obstrução ou infecção. Litotripsia e ureteroscopia ficam para falha da dissolução, obstrução ou infecção. Alopurinol só se acrescenta quando há hiperuricosúria ou recorrência apesar da alcalinização.",
+    "comentarios": {
+      "A": "Errada. Seria opção para cálculo radiopaco de pelve renal até 2 cm que não se dissolve; o de ácido úrico, radiotransparente, nem é bem localizado na fluoroscopia e se dissolve com citrato.",
+      "B": "Errada. Seria acrescentado com hiperuricosúria ou gota; aqui o ácido úrico urinário de 610 mg é normal e o problema é o pH de 5,0.",
+      "C": "Errada. Indicada se houvesse obstrução, infecção, dor refratária ou falha da dissolução; nada disso está presente.",
+      "D": "Correta. pH urinário de 5,0 com uricosúria normal: alcalinizar com citrato de potássio (alvo pH 6 a 6,5) dissolve o cálculo."
+    },
+    "para_levar": "Cálculo de ácido úrico (radiotransparente, menos de 500 UH, pH urinário baixo) é tratado com citrato de potássio e hidratação, que o dissolvem; alopurinol só se houver hiperuricosúria.",
+    "referencias": "AUA/Endourological Society Guideline on Medical Management of Kidney Stones (2019, reafirmada 2024); EAU Guidelines on Urolithiasis 2025.",
+    "tags": [
+      "Nefrolitíase (CM)"
+    ],
+    "sourceQuestionId": null,
+    "alvo": "Nefrolitíase (lacuna registrada) e o reflexo de tratar o rótulo (ácido úrico, então alopurinol) ignorando o exame que decide."
+  },
+  {
+    "id": "S6-NEF-05",
+    "simulado": 6,
+    "area": "Nefrologia",
+    "titulo": "Proteinúria com dor neuropática e hipoidrose no homem jovem rotulado de fibromialgia · atividade da alfa-galactosidase A antes da biópsia",
+    "arma": "Dado omitido",
+    "comando": "próximo exame",
+    "nivel": "extremamente difícil",
+    "enunciado": "Homem de 32 anos é encaminhado por proteinúria de 1,1 g/24 h e creatinina de 1,4 mg/dL. Desde a adolescência tem crises de dor em queimação nas mãos e nos pés, desencadeadas por febre e exercício, e quase não transpira; foi rotulado como fibromialgia aos 25 anos. Há 1 ano teve episódio de vertigem súbita, com RM mostrando lesões isquêmicas na substância branca e na circulação posterior. Ecocardiograma com hipertrofia concêntrica do ventrículo esquerdo; PA 124/78 mmHg, sem história de hipertensão. FAN 1:160 padrão pontilhado fino, C3 e C4 normais, EAS com proteinúria e sem hematúria. O oftalmologista descreve opacidades corneanas em redemoinho; ele não usa amiodarona nem cloroquina. O exame mais adequado neste momento é:",
+    "alternativas": {
+      "A": "Anti-DNA nativo e anti-Sm",
+      "B": "Atividade da alfa-galactosidase A",
+      "C": "Biópsia renal percutânea",
+      "D": "Eletroneuromiografia dos membros"
+    },
+    "gabarito": "B",
+    "armadilha": "C",
+    "dado_decisivo": "opacidades corneanas em redemoinho",
+    "resolucao": "Proteinúria com dor neuropática acral desde a adolescência, hipoidrose, AVC em jovem e hipertrofia ventricular sem hipertensão formam o quadro da doença de Fabry, e a córnea verticilada sem amiodarona ou cloroquina amarra o diagnóstico. A banca omite de propósito os angioqueratomas e a história familiar, e coloca dois distratores verdadeiros: o rótulo de fibromialgia e um FAN de 1:160, que leva o apressado à investigação de lúpus. O reflexo de quem tem proteinúria inexplicada é a biópsia renal, que mostraria inclusões lamelares nos podócitos, mas o diagnóstico no homem se faz de forma não invasiva e mais simples pela atividade da alfa-galactosidase A em leucócitos ou em gota de sangue seco, confirmada pelo gene GLA. Na mulher heterozigota a atividade pode ser normal e o teste genético é o primeiro. O diagnóstico importa porque há terapia de reposição enzimática ou chaperona, e a família deve ser rastreada.",
+    "comentarios": {
+      "A": "Errada. Seria o passo com FAN positivo e sinais de lúpus (hematúria dismórfica, complemento baixo, citopenias); aqui o FAN em título baixo é ruído e o complemento é normal.",
+      "B": "Correta. No homem com quadro sugestivo (córnea verticilada sem droga que a explique), a dosagem da enzima confirma o diagnóstico sem procedimento invasivo.",
+      "C": "Errada. É o passo seguinte de quem não reconhece a doença sistêmica; a biópsia mostraria corpos zebrados, mas é invasiva e desnecessária para o diagnóstico no homem.",
+      "D": "Errada. A neuropatia da Fabry é de fibras finas, e a eletroneuromiografia costuma ser normal; não define nada."
+    },
+    "para_levar": "Doença de Fabry no homem: dor acral em queimação, hipoidrose, proteinúria, HVE e AVC precoce; o diagnóstico é a atividade da alfa-galactosidase A (na mulher, o gene GLA).",
+    "referencias": "Ortiz A et al. Fabry disease revisited: management and treatment recommendations for adult patients. Mol Genet Metab 2018; KDIGO Controversies Conference on Fabry disease (2017); UpToDate 2026.",
+    "tags": [
+      "Doenças de Depósito (CM)",
+      "Doenças Raras (CM)",
+      "Doença Renal Crônica (CM)"
+    ],
+    "sourceQuestionId": null,
+    "alvo": "Próximo exame: o exótico invasivo (biópsia) antes do simples que confirma; e FAN como rótulo plantado."
+  }
+]

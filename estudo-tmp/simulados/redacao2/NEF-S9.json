@@ -1,0 +1,176 @@
+[
+  {
+    "id": "S9-NEF-01",
+    "simulado": 9,
+    "area": "Nefrologia",
+    "titulo": "Hipercalcemia com PTH suprimido, 25-OH-vitamina D normal e PTHrP negativo no litiásico · dosar a 1,25-di-hidroxivitamina D",
+    "arma": "Rótulo verdadeiro",
+    "comando": "próximo exame",
+    "nivel": "difícil",
+    "enunciado": "Homem de 46 anos, com dois episódios de cólica renal no último ano, é encaminhado por cálcio total de 11,9 mg/dL (VR 8,6 a 10,2 mg/dL) com albumina normal. Refere tosse seca há 6 meses e teve nódulos dolorosos e avermelhados nas pernas no início do ano, que regrediram sozinhos. Não usa suplementos, tiazídico ou lítio. Exames: PTH 7 pg/mL (VR 15 a 65 pg/mL), fósforo 4,3 mg/dL, creatinina 1,2 mg/dL, 25-hidroxivitamina D de 26 ng/mL, PTHrP indetectável, eletroforese de proteínas sem pico monoclonal, hemoglobina 14,1 g/dL, calciúria de 24 horas de 420 mg. Radiografia de tórax com alargamento hilar bilateral. O exame mais adequado a seguir, para definir o mecanismo da hipercalcemia, é:",
+    "alternativas": {
+      "A": "Cintilografia de paratireoides com sestamibi",
+      "B": "PTH repetido com cálcio iônico",
+      "C": "Mielograma com imunofenotipagem",
+      "D": "1,25-di-hidroxivitamina D sérica"
+    },
+    "gabarito": "D",
+    "armadilha": "A",
+    "dado_decisivo": "PTH 7 pg/mL (VR 15 a 65 pg/mL)",
+    "resolucao": "Hipercalcemia com nefrolitíase de repetição é o rótulo verdadeiro do hiperparatireoidismo primário, e o reflexo é localizar a paratireoide. O exame que decide já está no enunciado: PTH de 7 pg/mL, suprimido, define hipercalcemia independente de PTH, e nesse cenário a cintilografia não tem papel. Com PTHrP indetectável, eletroforese sem pico monoclonal e 25-hidroxivitamina D normal (o que afasta intoxicação exógena), sobra a produção extrarrenal e desregulada de calcitriol pelos macrófagos de granulomas, que se confirma com a 1,25-di-hidroxivitamina D elevada. Tosse, eritema nodoso prévio e adenopatia hilar bilateral apontam sarcoidose, mas linfomas e tuberculose fazem o mesmo mecanismo. Definir o mecanismo muda o tratamento: na hipercalcemia por calcitriol, o corticoide é a terapia de escolha, e a hipercalciúria explica os cálculos.",
+    "comentarios": {
+      "A": "Errada. Seria o passo pré-operatório no hiperparatireoidismo primário, com PTH alto ou inapropriadamente normal; com PTH de 7 pg/mL, a paratireoide não é a causa.",
+      "B": "Errada. Repetir PTH só se justificaria com valor limítrofe; 7 pg/mL com cálcio de 11,9 já é inequivocamente suprimido.",
+      "C": "Errada. Seria considerado se houvesse pico monoclonal, anemia ou lesões líticas sugerindo mieloma; a eletroforese é normal e a hemoglobina também.",
+      "D": "Correta. PTH suprimido, PTHrP negativo e 25-OH-D normal: falta confirmar o excesso de calcitriol, esperado nos granulomas (adenopatia hilar)."
+    },
+    "para_levar": "Hipercalcemia com PTH suprimido: dosar PTHrP, 25-OH-D e 1,25-(OH)2D. 25-OH-D alta é intoxicação exógena; 1,25 alta com 25-OH normal é granuloma ou linfoma, e responde a corticoide.",
+    "referencias": "Minisola S et al. The diagnosis and management of hypercalcaemia. BMJ 2015; Endocrine Society/Fifth International Workshop on Primary Hyperparathyroidism (2022); ATS 2020 Sarcoidosis Diagnosis Guideline.",
+    "tags": [
+      "Hipercalcemias (CM)",
+      "Distúrbios do Cálcio (CM)",
+      "Sarcoidose (CM)"
+    ],
+    "sourceQuestionId": "20289dcb5eea60b",
+    "alvo": "Distúrbios do cálcio (lacuna registrada): rótulo verdadeiro (litíase, então paratireoide) contra o PTH que decide; próximo exame no degrau certo."
+  },
+  {
+    "id": "S9-NEF-02",
+    "simulado": 9,
+    "area": "Nefrologia",
+    "titulo": "Primeira hemodiálise com ureia muito alta · sessão curta e fluxo de sangue baixo para prevenir o desequilíbrio dialítico",
+    "arma": "Grade X / Y",
+    "comando": "fato solto",
+    "nivel": "média",
+    "enunciado": "Na primeira sessão de hemodiálise de um paciente com doença renal crônica avançada, não dialítica até então, com ureia de 320 mg/dL, para prevenir a complicação neurológica mais temida desta sessão, ela deve ter, quanto à duração e ao fluxo de sangue, respectivamente:",
+    "alternativas": {
+      "A": "Curta, cerca de 2 horas / baixo",
+      "B": "Curta, cerca de 2 horas / alto",
+      "C": "Longa, cerca de 4 horas / baixo",
+      "D": "Longa, cerca de 4 horas / alto"
+    },
+    "gabarito": "A",
+    "armadilha": "D",
+    "dado_decisivo": "com ureia de 320 mg/dL",
+    "resolucao": "A tentação é retirar o máximo de ureia o quanto antes, com sessão longa e fluxo alto, que é a prescrição de manutenção. Na primeira sessão de um paciente com ureia muito elevada, a queda rápida da ureia plasmática cria um gradiente osmótico com o cérebro, onde a ureia sai mais devagar, e a água entra nos neurônios: é a síndrome do desequilíbrio dialítico, com cefaleia, náuseas, confusão, convulsão e, raramente, coma. A prevenção é limitar a redução da ureia na primeira sessão a cerca de 30 a 40%, com sessão curta (cerca de 2 horas), fluxo de sangue baixo (em torno de 200 mL/min) e dialisador de menor área, aumentando a dose nos dias seguintes. Sessão longa com fluxo baixo ainda permite remoção grande de ureia pelo tempo, e por isso também não é a escolha.",
+    "comentarios": {
+      "A": "Correta. Sessão curta e fluxo baixo limitam a queda da ureia a cerca de 30 a 40% e previnem o edema cerebral osmótico.",
+      "B": "Errada. Encurta o tempo, mas o fluxo alto ainda derruba a ureia rapidamente; metade da prevenção.",
+      "C": "Errada. Fluxo baixo, mas o tempo longo permite remoção total grande da ureia na primeira sessão.",
+      "D": "Errada. É a prescrição de manutenção de um paciente estável em programa; na primeira sessão com ureia de 320 mg/dL, é a que mais provoca o desequilíbrio."
+    },
+    "para_levar": "Primeira hemodiálise com ureia muito alta: sessão curta (cerca de 2 horas), fluxo de sangue baixo e meta de reduzir a ureia em só 30 a 40%, para evitar a síndrome do desequilíbrio dialítico.",
+    "referencias": "Daugirdas JT, Blake PG, Ing TS. Handbook of Dialysis, 6ª ed. (2023); KDOQI Clinical Practice Guideline for Hemodialysis Adequacy (2015); UpToDate 2026.",
+    "tags": [
+      "Diálise (Crônicos) (CM)",
+      "Doença Renal Crônica (CM)"
+    ],
+    "sourceQuestionId": "af427af7267d270",
+    "alvo": "Diálise (lacuna registrada) e o reflexo de fazer mais: dose plena onde a ordem pede menos."
+  },
+  {
+    "id": "S9-NEF-03",
+    "simulado": 9,
+    "area": "Nefrologia",
+    "titulo": "Estado hiperosmolar com sódio medido subindo após a expansão · sódio corrigido alto pede salina a 0,45%",
+    "arma": "Limiar",
+    "comando": "conduta",
+    "nivel": "difícil",
+    "enunciado": "Homem de 74 anos, com diabetes tipo 2, é admitido sonolento após 5 dias de poliúria. PA 88/54 mmHg, FC 120 bpm. Exames iniciais: glicose 1.050 mg/dL, sódio 136 mEq/L, potássio 4,8 mEq/L, bicarbonato 21 mEq/L, cetonemia negativa, ureia 120 mg/dL, creatinina 2,2 mg/dL. Recebeu 2 L de SF 0,9% na primeira hora e mais 1 L na segunda; agora PA 124/76 mmHg, FC 96 bpm, diurese de 100 mL/h, potássio 4,4 mEq/L, e a insulina contínua foi iniciada. Na quarta hora: glicose 620 mg/dL e sódio 146 mEq/L. O fluido mais adequado a seguir é:",
+    "alternativas": {
+      "A": "Manter SF 0,9% a 500 mL/h",
+      "B": "Trocar para salina a 0,45%",
+      "C": "Glicosado a 5% com salina a 0,45%",
+      "D": "Bicarbonato de sódio isotônico"
+    },
+    "gabarito": "B",
+    "armadilha": "A",
+    "dado_decisivo": "glicose 620 mg/dL e sódio 146 mEq/L",
+    "resolucao": "Quem segue a regra de que o estado hiperosmolar é volume e mais volume mantém o SF 0,9%, que foi a escolha certa enquanto havia choque. Depois da estabilização hemodinâmica, o fluido é escolhido pelo sódio corrigido, e não pelo medido: com glicose de 620, somam-se cerca de 1,6 a 2,4 mEq/L para cada 100 mg/dL acima de 100, o que leva o sódio de 146 a cerca de 154 a 158 mEq/L. Sódio corrigido normal ou alto indica salina a 0,45%, para repor água livre; o SF 0,9% agravaria a hipernatremia real, que é a regra no estado hiperosmolar porque a diurese osmótica perde mais água que sódio. O soro glicosado só entra quando a glicose cai a cerca de 300 mg/dL, e bicarbonato não tem papel sem acidose relevante. O sódio medido subindo enquanto a glicose cai é esperado: é a água voltando para o intracelular.",
+    "comentarios": {
+      "A": "Errada. Foi a conduta correta nas primeiras horas, com choque; com hemodinâmica estável e sódio corrigido de cerca de 155, mantém e agrava a hipernatremia.",
+      "B": "Correta. Hemodinâmica restaurada e sódio corrigido alto (cerca de 154 a 158 mEq/L): salina a 0,45%.",
+      "C": "Errada. O glicosado é acrescentado quando a glicose chega a cerca de 300 mg/dL no estado hiperosmolar; com 620, ainda é cedo.",
+      "D": "Errada. Bicarbonato de 21 mEq/L e cetonemia negativa: não há acidose que justifique."
+    },
+    "para_levar": "No estado hiperosmolar e na cetoacidose, depois do choque, o fluido é escolhido pelo sódio corrigido (cerca de +1,6 a 2,4 mEq/L por 100 mg/dL de glicose acima de 100): normal ou alto, salina a 0,45%; baixo, SF 0,9%.",
+    "referencias": "ADA Consensus Report: Hyperglycemic Crises in Adults With Diabetes (Umpierrez GE et al., Diabetes Care 2024); Diretriz da Sociedade Brasileira de Diabetes 2025.",
+    "tags": [
+      "Estado Hipersomolar Hiperglicêmico (CM)",
+      "Hipernatremia (CM)",
+      "Emergências Hiperglicêmicas (CM)"
+    ],
+    "sourceQuestionId": null,
+    "alvo": "Fluidos na crise hiperglicêmica (tema UERJ recorrente) e o número que decide: sódio medido lido sem a correção."
+  },
+  {
+    "id": "S9-NEF-04",
+    "simulado": 9,
+    "area": "Nefrologia",
+    "titulo": "Transplante renal na síndrome de Alport ligada ao X · doença anti-membrana basal glomerular no enxerto, e não recidiva",
+    "arma": "Qualificador",
+    "comando": "fato solto",
+    "nivel": "difícil",
+    "enunciado": "No receptor de transplante renal cuja doença de base é a síndrome de Alport ligada ao X, a complicação imunológica específica dessa doença de base, a ser vigiada no enxerto, é:",
+    "alternativas": {
+      "A": "Nefropatia pelo poliomavírus BK",
+      "B": "Recidiva da nefropatia hereditária",
+      "C": "Doença anti-membrana basal glomerular",
+      "D": "Glomeruloesclerose segmentar recorrente"
+    },
+    "gabarito": "C",
+    "armadilha": "B",
+    "dado_decisivo": "complicação imunológica específica dessa doença de base",
+    "resolucao": "O raciocínio de quem pensa em doença de base e enxerto é a recidiva, mas a síndrome de Alport é genética: o defeito está no colágeno tipo IV do próprio rim nativo (cadeia alfa-5, no ligado ao X), e o rim doado tem colágeno normal, então a doença não recidiva. O qualificador do comando (imunológica e específica) aponta o oposto: o receptor nunca expressou a cadeia alfa-5 normal, e o sistema imune pode reconhecê-la como antígeno estranho no enxerto, formando anticorpos contra a membrana basal glomerular. Isso acontece em cerca de 3 a 5% dos transplantados com Alport, em geral no primeiro ano, como glomerulonefrite crescêntica com depósito linear de IgG, e com frequência leva à perda do enxerto. O anticorpo pode ser negativo nos ensaios comerciais, que medem o alvo da cadeia alfa-3. BK e glomeruloesclerose recorrente são complicações de outros contextos.",
+    "comentarios": {
+      "A": "Errada. É complicação da imunossupressão em qualquer transplantado renal, não específica do Alport.",
+      "B": "Errada. Seria a resposta para doenças que recidivam no enxerto (GESF primária, nefropatia por IgA, glomerulopatia C3); o Alport é defeito genético do rim nativo e não recidiva.",
+      "C": "Correta. O receptor não tem a cadeia alfa-5 do colágeno IV e pode formar anticorpos contra a membrana basal normal do enxerto.",
+      "D": "Errada. A GESF primária recorre no enxerto, às vezes em horas ou dias; não é a complicação do Alport."
+    },
+    "para_levar": "Alport não recidiva no enxerto, mas cerca de 3 a 5% desenvolvem doença anti-membrana basal glomerular contra o colágeno IV normal do doador.",
+    "referencias": "KDIGO 2020 Clinical Practice Guideline on the Evaluation and Management of Candidates for Kidney Transplantation; Kashtan CE. Alport syndrome and kidney transplantation. Pediatr Nephrol 2006; UpToDate 2026.",
+    "tags": [
+      "Transplante Renal (CM)",
+      "Anti-membrana Basal Glomerular / anti-MBG / Goodpasture (CM)",
+      "Glomerulopatias (CM)"
+    ],
+    "sourceQuestionId": null,
+    "alvo": "Fato solto de mecanismo (o tipo que falha por evocação) com o qualificador que muda a resposta."
+  },
+  {
+    "id": "S9-NEF-05",
+    "simulado": 9,
+    "area": "Nefrologia",
+    "titulo": "Lesão renal não oligúrica com hipomagnesemia no oitavo dia de gentamicina, após TC com contraste · a creatinina já subia antes",
+    "arma": "Rótulo verdadeiro",
+    "comando": "etiologia",
+    "nivel": "difícil",
+    "enunciado": "Mulher de 69 anos, internada por endocardite de valva mitral nativa por Enterococcus faecalis, recebe ampicilina e gentamicina desde a admissão. Creatinina de 0,8 mg/dL na admissão, 0,9 mg/dL no 4º dia, 1,3 mg/dL no 6º dia e 2,2 mg/dL no 8º dia. No 7º dia fez angiotomografia de crânio com contraste por cefaleia, sem alterações. Diurese de 1.800 mL/24 h, PA 128/70 mmHg, afebril desde o 3º dia, sem exantema, sem eosinofilia. Potássio 3,2 mEq/L, magnésio 1,3 mg/dL; EAS com cilindros granulosos pigmentados, sem hematúria dismórfica; fração de excreção de sódio de 3%. Complemento normal. A causa mais provável da lesão renal é:",
+    "alternativas": {
+      "A": "Nefrite intersticial pela ampicilina",
+      "B": "Nefropatia pelo contraste iodado",
+      "C": "Necrose tubular pela gentamicina",
+      "D": "Glomerulonefrite da endocardite"
+    },
+    "gabarito": "C",
+    "armadilha": "B",
+    "dado_decisivo": "1,3 mg/dL no 6º dia",
+    "resolucao": "O contraste no 7º dia é o rótulo verdadeiro: a angiotomografia aconteceu e a creatinina subiu depois dela. Mas a série de creatininas mostra que a subida começou no 6º dia, antes do contraste, o que tira dele o papel de causa (no máximo, um agravante). A necrose tubular por aminoglicosídeo surge após 5 a 7 dias de uso, é não oligúrica, tem cilindros granulosos e fração de excreção de sódio alta, e lesa o túbulo proximal e a alça, com perda urinária de magnésio e potássio, que explica a hipomagnesemia e a hipocalemia. A nefrite intersticial pela ampicilina teria exantema, febre ou eosinofilia, e a glomerulonefrite da endocardite teria hematúria dismórfica e complemento baixo. Vale lembrar que na endocardite por E. faecalis a associação de ampicilina com ceftriaxona evita esse risco.",
+    "comentarios": {
+      "A": "Errada. Seria a causa com exantema, febre ou eosinofilia e leucocitúria após cerca de uma semana de betalactâmico; ela está afebril e sem eosinofilia.",
+      "B": "Errada. A lesão por contraste começa 24 a 72 horas após a exposição; aqui a creatinina já subia no 6º dia, antes da angiotomografia do 7º.",
+      "C": "Correta. Lesão não oligúrica após 5 a 7 dias de aminoglicosídeo, com cilindros granulosos e perda de magnésio e potássio.",
+      "D": "Errada. Teria hematúria dismórfica, proteinúria e complemento baixo; o complemento é normal e não há hematúria dismórfica."
+    },
+    "para_levar": "Aminoglicosídeo: necrose tubular não oligúrica após 5 a 7 dias, com hipomagnesemia e hipocalemia. Use a série de creatininas para datar a lesão antes de culpar o último exame contrastado.",
+    "referencias": "KDIGO 2012 AKI Guideline; ESC 2023 Guidelines for the management of endocarditis (ampicilina e ceftriaxona para E. faecalis); ACR-NKF 2020 Consensus on IV iodinated contrast in kidney disease.",
+    "tags": [
+      "Nefrotoxicidade por Drogas (CM)",
+      "NTA (CM)",
+      "Endocardite Bacteriana (CM)"
+    ],
+    "sourceQuestionId": "8a3fde99c725925",
+    "alvo": "Rótulo verdadeiro (contraste) contra a cronologia escrita na série de exames."
+  }
+]

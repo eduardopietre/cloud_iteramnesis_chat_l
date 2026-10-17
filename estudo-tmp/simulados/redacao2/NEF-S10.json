@@ -1,0 +1,174 @@
+[
+  {
+    "id": "S10-NEF-01",
+    "simulado": 10,
+    "area": "Nefrologia",
+    "titulo": "Hipocalcemia sintomática dias após antirreabsortivo subcutâneo semestral na DRC estágio 4 · denosumabe, e não só a vitamina D baixa",
+    "arma": "Droga a deduzir",
+    "comando": "etiologia",
+    "nivel": "extremamente difícil",
+    "enunciado": "Mulher de 79 anos, com doença renal crônica (TFGe de 21 mL/min/1,73 m²) e osteoporose com fratura vertebral, recebeu há 12 dias a primeira dose da medicação antirreabsortiva subcutânea de aplicação semestral, escolhida porque o bisfosfonato estava contraindicado pela função renal. Hoje refere parestesias periorais e cãibras. Sinal de Chvostek presente. Exames: cálcio total de 6,9 mg/dL com albumina de 3,9 g/dL, fósforo 4,1 mg/dL, magnésio 2,0 mg/dL, PTH 390 pg/mL, 25-hidroxivitamina D de 16 ng/mL; o cálcio era de 9,0 mg/dL há 1 mês, com os demais exames semelhantes. QTc de 500 ms. A causa principal da hipocalcemia é:",
+    "alternativas": {
+      "A": "Bloqueio da reabsorção óssea pelo denosumabe",
+      "B": "Deficiência de vitamina D",
+      "C": "Hipoparatireoidismo",
+      "D": "Hiperfosfatemia da doença renal crônica"
+    },
+    "gabarito": "A",
+    "armadilha": "B",
+    "dado_decisivo": "o cálcio era de 9,0 mg/dL há 1 mês, com os demais exames semelhantes",
+    "resolucao": "A 25-hidroxivitamina D de 16 ng/mL é o rótulo verdadeiro: ela está baixa e é causa conhecida de hipocalcemia. Mas a deficiência já existia há 1 mês com cálcio de 9,0, e o que mudou nesse intervalo foi a droga a deduzir: antirreabsortivo subcutâneo semestral é o denosumabe, escolhido justamente porque não depende de depuração renal. Ao bloquear o RANKL, ele interrompe a liberação de cálcio do osso, e na DRC avançada, em que o hiperparatireoidismo secundário mantém o cálcio à custa de alta remodelação óssea, a queda é abrupta, com nadir em 1 a 3 semanas e hipocalcemia grave em uma fração relevante desses pacientes. O PTH alto afasta hipoparatireoidismo, e o fósforo de 4,1 não explica a queda. A lição é corrigir a vitamina D e o cálcio antes da dose e dosar o cálcio na 1ª e 2ª semanas em quem tem TFG abaixo de 30.",
+    "comentarios": {
+      "A": "Correta. A queda do cálcio coincide com a primeira dose de denosumabe, cujo efeito é máximo na DRC avançada com alta remodelação.",
+      "B": "Errada. Contribui e devia ter sido corrigida antes da dose, mas já existia com cálcio de 9,0 há 1 mês; não explica a queda recente.",
+      "C": "Errada. O hipoparatireoidismo teria PTH baixo ou inapropriadamente normal; o PTH de 390 pg/mL é a resposta adequada à hipocalcemia.",
+      "D": "Errada. Seria considerada com fósforo muito alto (acima de 7 a 8 mg/dL); 4,1 mg/dL não explica a queda."
+    },
+    "para_levar": "Denosumabe na DRC avançada causa hipocalcemia grave em 1 a 3 semanas: corrigir vitamina D e cálcio antes da dose e dosar o cálcio nas primeiras semanas.",
+    "referencias": "FDA Boxed Warning: severe hypocalcemia with denosumab in advanced CKD (2024); KDIGO 2017 CKD-MBD Guideline Update; Manual Brasileiro de Osteoporose (SBR/ABRASSO 2021).",
+    "tags": [
+      "Hipocalcemias (CM)",
+      "Osteoporose (CM)",
+      "Doença Mineral Óssea no DRC (CM)"
+    ],
+    "sourceQuestionId": null,
+    "alvo": "Droga a deduzir e rótulo verdadeiro (vitamina D baixa); distúrbios do cálcio são lacuna registrada."
+  },
+  {
+    "id": "S10-NEF-02",
+    "simulado": 10,
+    "area": "Nefrologia",
+    "titulo": "Creatinina subindo no transplantado renal após macrolídeo, com história de doses esquecidas · nível de tacrolimo antes da biópsia",
+    "arma": "Rótulo verdadeiro",
+    "comando": "próximo exame",
+    "nivel": "difícil",
+    "enunciado": "Homem de 46 anos, transplantado renal há 9 meses, usa tacrolimo, micofenolato e prednisona 5 mg/dia, com creatinina basal de 1,2 mg/dL. Há 10 dias iniciou claritromicina para sinusite. Conta que esqueceu algumas doses do micofenolato no mês passado. Hoje: creatinina 1,9 mg/dL, potássio 5,7 mEq/L, magnésio 1,3 mg/dL, glicose 210 mg/dL; tremor fino de mãos, PA 158/94 mmHg, diurese preservada, enxerto indolor, afebril. EAS sem hematúria e sem proteinúria significativa; ultrassom com Doppler do enxerto sem hidronefrose e com fluxo normal. O exame mais adequado neste momento é:",
+    "alternativas": {
+      "A": "Biópsia do enxerto renal",
+      "B": "PCR para poliomavírus BK no plasma",
+      "C": "Nível sérico de vale do tacrolimo",
+      "D": "Anticorpos anti-HLA específicos do doador"
+    },
+    "gabarito": "C",
+    "armadilha": "A",
+    "dado_decisivo": "Há 10 dias iniciou claritromicina",
+    "resolucao": "Doses esquecidas do imunossupressor são o rótulo verdadeiro que puxa para rejeição e, com ela, para a biópsia do enxerto. Mas o caso está cheio de sinais de excesso, e não de falta, de inibidor de calcineurina: tremor, hipercalemia, hipomagnesemia, hiperglicemia e hipertensão, tudo começando depois da claritromicina, potente inibidora do CYP3A4, que eleva o nível do tacrolimo várias vezes. A nefrotoxicidade aguda do tacrolimo é hemodinâmica (vasoconstrição da arteríola aferente) e reversível ao ajustar a dose, e o exame simples que a confirma é o nível de vale. Se o nível estiver adequado e a creatinina não voltar, aí a biópsia (e a pesquisa de anticorpos doador-específicos) entram para investigar rejeição. Além disso, o esquecimento foi do micofenolato, que não altera o nível do tacrolimo.",
+    "comentarios": {
+      "A": "Errada. É o padrão-ouro para rejeição e o passo seguinte se o nível de tacrolimo estiver na faixa e a disfunção persistir; não é o primeiro com uma interação evidente.",
+      "B": "Errada. Seria pedido na disfunção insidiosa com imunossupressão intensa e sem causa clara, em geral no primeiro ano; aqui a interação explica o quadro.",
+      "C": "Correta. Claritromicina inibe o CYP3A4, e tremor, hipercalemia, hipomagnesemia e hiperglicemia sugerem tacrolimo em excesso.",
+      "D": "Errada. Faz parte da investigação de rejeição mediada por anticorpo, depois de afastar a causa farmacológica."
+    },
+    "para_levar": "Creatinina subindo no transplantado em uso de tacrolimo: antes da biópsia, nível de vale, sobretudo após droga que inibe o CYP3A4 (macrolídeo, azólico, diltiazem, verapamil).",
+    "referencias": "KDIGO Clinical Practice Guideline for the Care of Kidney Transplant Recipients (2009, atualização em andamento 2025); Diretrizes ABTO de imunossupressão em transplante renal.",
+    "tags": [
+      "Transplante Renal (CM)",
+      "Nefrotoxicidade por Drogas (CM)"
+    ],
+    "sourceQuestionId": "19ebdfdc81de2dc",
+    "alvo": "Próximo exame: o invasivo (biópsia) antes do simples; droga em uso ignorada por causa do rótulo."
+  },
+  {
+    "id": "S10-NEF-03",
+    "simulado": 10,
+    "area": "Nefrologia",
+    "titulo": "Hiperuricemia assintomática na DRC estágio 3a · não iniciar hipouricemiante para proteger o rim",
+    "arma": "Omissão",
+    "comando": "conduta",
+    "nivel": "difícil",
+    "enunciado": "Homem de 54 anos, com hipertensão e doença renal crônica (TFGe de 52 mL/min/1,73 m², albuminúria de 40 mg/g), em uso de losartana e anlodipino, traz ácido úrico de 9,8 mg/dL em duas dosagens. Nunca teve artrite, tofos ou cólica renal; ultrassom renal sem cálculos. Não usa diurético nem AAS. Bebe cerveja nos fins de semana e consome refrigerante adoçado diariamente. Pergunta se deve tratar o ácido úrico alto para proteger o rim. Além da orientação dietética, a conduta mais adequada quanto ao ácido úrico é:",
+    "alternativas": {
+      "A": "Alopurinol 100 mg/dia com titulação",
+      "B": "Febuxostate 40 mg/dia",
+      "C": "Alopurinol com colchicina profilática",
+      "D": "Não iniciar hipouricemiante"
+    },
+    "gabarito": "D",
+    "armadilha": "A",
+    "dado_decisivo": "Nunca teve artrite, tofos ou cólica renal",
+    "resolucao": "A pergunta do paciente e a DRC formam o rótulo que puxa ao tratamento: o ácido úrico se associa à progressão da doença renal em estudos observacionais, e o alopurinol em dose baixa com titulação parece prudente. Mas os ensaios randomizados (CKD-FIX e PERL) não mostraram que reduzir o ácido úrico com alopurinol retarde a perda de filtração, e a KDIGO 2024 sugere não usar hipouricemiante para esse fim na hiperuricemia assintomática. O ACR também recomenda não tratar quem nunca teve gota, tofos ou nefrolitíase. O que cabe é a mudança de estilo de vida (reduzir cerveja e frutose), e o losartana, que já está em uso, tem leve efeito uricosúrico. Tratar o número sem doença é fazer mais do que o caso pede.",
+    "comentarios": {
+      "A": "Errada. Seria a conduta ao iniciar hipouricemiante na gota com indicação (crises frequentes, tofos, dano radiográfico), com titulação pela DRC; sem gota, não há indicação.",
+      "B": "Errada. O febuxostate é alternativa ao alopurinol na gota; na hiperuricemia assintomática também não está indicado.",
+      "C": "Errada. A profilaxia com colchicina acompanha o início do hipouricemiante na gota, para evitar crise; sem gota, nem um nem outro.",
+      "D": "Correta. Sem artrite, tofos ou litíase, hiperuricemia assintomática não se trata com droga, mesmo na DRC."
+    },
+    "para_levar": "Hiperuricemia assintomática, mesmo com DRC, não se trata com hipouricemiante: os ensaios (CKD-FIX, PERL) não mostraram proteção renal. Tratar quem tem gota, tofo ou litíase.",
+    "referencias": "KDIGO 2024 Clinical Practice Guideline for the Evaluation and Management of CKD; FitzGerald JD et al. 2020 ACR Guideline for the Management of Gout; CKD-FIX (NEJM 2020) e PERL (NEJM 2020).",
+    "tags": [
+      "Gota (CM)",
+      "Doença Renal Crônica (CM)",
+      "Tratamento Doença Renal Crônica (CM)"
+    ],
+    "sourceQuestionId": null,
+    "alvo": "Omissão: tratar o que não precisa é o padrão dominante dele."
+  },
+  {
+    "id": "S10-NEF-04",
+    "simulado": 10,
+    "area": "Nefrologia",
+    "titulo": "Acidose com ânion gap alto após bebedeira e jejum, com cetonas em traço na fita · beta-hidroxibutirato revela cetoacidose alcoólica",
+    "arma": "Rótulo verdadeiro",
+    "comando": "diagnóstico",
+    "nivel": "extremamente difícil",
+    "enunciado": "Homem de 44 anos, etilista, interrompeu a bebida há 2 dias, depois de uma semana de consumo intenso, por vômitos repetidos e dor abdominal; não se alimenta desde então. Não tem diabetes e não usa medicações. Lúcido, sem queixa visual, PA 104/66 mmHg, FC 112 bpm, fundo de olho normal. Exames: glicose 92 mg/dL, sódio 136 mEq/L, cloro 100 mEq/L, bicarbonato 12 mEq/L, pH 7,27, pCO2 27 mmHg, lactato 2,4 mmol/L, creatinina 1,1 mg/dL, ureia 40 mg/dL, etanol sérico indetectável, osmolalidade medida de 290 mOsm/kg e calculada de 284 mOsm/kg, lipase normal. A fita urinária mostra cetonas apenas em traço; o beta-hidroxibutirato sérico é de 6,2 mmol/L. O diagnóstico mais provável é:",
+    "alternativas": {
+      "A": "Cetoacidose de jejum",
+      "B": "Cetoacidose alcoólica",
+      "C": "Acidose lática por deficiência de tiamina",
+      "D": "Intoxicação por metanol"
+    },
+    "gabarito": "B",
+    "armadilha": "D",
+    "dado_decisivo": "o beta-hidroxibutirato sérico é de 6,2 mmol/L",
+    "resolucao": "Etilista com acidose de ânion gap alto (24) e cetonas em traço na fita: o apressado descarta cetoacidose e corre para álcool tóxico. A fita urinária usa nitroprussiato, que detecta acetoacetato e não beta-hidroxibutirato; na cetoacidose alcoólica, o excesso de NADH do metabolismo do etanol desvia quase toda a cetona para beta-hidroxibutirato, e a fita subestima a cetose. O beta-hidroxibutirato de 6,2 mmol/L confirma a cetoacidose, e o contexto (bebedeira, parada abrupta, vômitos, jejum, glicose normal) define a alcoólica. O metanol fica afastado pelo gap osmolar de 6, pela visão e pelo fundo de olho normais, e o lactato de 2,4 não explica um ânion gap de 24. A cetoacidose de jejum isolada raramente baixa o bicarbonato abaixo de 18 mEq/L. O tratamento é tiamina, soro glicosado com salina e reposição de potássio, fósforo e magnésio, sem insulina.",
+    "comentarios": {
+      "A": "Errada. O jejum isolado gera cetose leve, com bicarbonato raramente abaixo de 18 mEq/L; bicarbonato de 12 e beta-hidroxibutirato de 6,2 pedem o contexto alcoólico.",
+      "B": "Correta. Bebedeira seguida de vômitos e jejum, glicose normal, beta-hidroxibutirato alto e fita falsamente tranquilizadora.",
+      "C": "Errada. Seria considerada com lactato muito elevado no etilista desnutrido; lactato de 2,4 mmol/L não explica um ânion gap de 24.",
+      "D": "Errada. Teria gap osmolar alto (acima de 10 a 15) no início, queixa visual e alteração no fundo de olho; o gap é 6 e a visão é normal."
+    },
+    "para_levar": "Na cetoacidose alcoólica a fita urinária (nitroprussiato) subestima a cetose porque predomina o beta-hidroxibutirato: dose-o no sangue. Glicose normal, tratamento com tiamina e glicose, sem insulina.",
+    "referencias": "Kraut JA, Madias NE. Metabolic acidosis: pathophysiology, diagnosis and management. Nat Rev Nephrol 2010; Long B et al. Alcoholic ketoacidosis: etiologies, evaluation, and management. J Emerg Med 2021.",
+    "tags": [
+      "Gasometria Arterial (CM)",
+      "Distúrbios Hidroeletrolíticos (CM)"
+    ],
+    "sourceQuestionId": null,
+    "alvo": "Rótulo verdadeiro em forma de exame tranquilizador (fita com cetona em traço) contra o exame que decide."
+  },
+  {
+    "id": "S10-NEF-05",
+    "simulado": 10,
+    "area": "Nefrologia",
+    "titulo": "Alcalemia no DPOC retentor ventilado com pCO2 normalizada · alcalose metabólica pós-hipercápnica e redução da ventilação-minuto",
+    "arma": "Grade X / Y",
+    "comando": "diagnóstico",
+    "nivel": "difícil",
+    "enunciado": "Homem de 72 anos, com DPOC grave e retenção crônica de CO2 (gasometria ambulatorial: pH 7,36, pCO2 62 mmHg, bicarbonato 34 mEq/L), foi intubado há 36 horas por exacerbação com pH 7,18 e pCO2 98 mmHg. Desde então está em volume controlado com frequência de 24 irpm. Não recebeu diurético, não tem sonda gástrica aberta e não vomitou. Hoje apresenta extrassístoles ventriculares frequentes; a gasometria mostra pH 7,59, pCO2 39 mmHg e bicarbonato 36 mEq/L; potássio 3,6 mEq/L, cloro 96 mEq/L. Quanto ao distúrbio e à conduta inicial, respectivamente:",
+    "alternativas": {
+      "A": "Alcalose metabólica pós-hipercápnica / reduzir a ventilação-minuto",
+      "B": "Alcalose respiratória aguda / reduzir a ventilação-minuto",
+      "C": "Alcalose metabólica pós-hipercápnica / acetazolamida",
+      "D": "Alcalose respiratória aguda / acetazolamida"
+    },
+    "gabarito": "A",
+    "armadilha": "C",
+    "dado_decisivo": "pCO2 39 mmHg e bicarbonato 36 mEq/L",
+    "resolucao": "Paciente no ventilador com alcalemia leva a pensar em alcalose respiratória, mas a pCO2 de 39 é normal: o distúrbio primário é o bicarbonato de 36, que o rim acumulou durante meses para compensar a hipercapnia crônica e que não cai em 36 horas quando a pCO2 é levada ao normal. É a alcalose metabólica pós-hipercápnica, e a ventilação que normaliza a pCO2 de um retentor crônico é a causa. A conduta inicial é corrigir a origem: reduzir a ventilação-minuto e aceitar a pCO2 próxima do basal dele (cerca de 55 a 60 mmHg), mirando o pH e não a pCO2. A acetazolamida, que aumenta a excreção de bicarbonato, é tentadora porque trata o número, mas é o degrau seguinte, se a alcalemia persistir após o ajuste ou se for preciso baixar o bicarbonato para o desmame, e também espolia potássio num paciente com extrassístoles e potássio de 3,6.",
+    "comentarios": {
+      "A": "Correta. pCO2 normal com bicarbonato alto num retentor ventilado: alcalose metabólica pós-hipercápnica, corrigida primeiro devolvendo a pCO2 ao basal.",
+      "B": "Errada. A conduta está certa, mas a alcalose respiratória exigiria pCO2 abaixo de 35 mmHg; com 39, o primário é metabólico.",
+      "C": "Errada. O diagnóstico está certo, mas a acetazolamida é adjuvante, depois de ajustar a ventilação; usá-la primeiro trata o número e espolia potássio.",
+      "D": "Errada. Erra as duas metades: a pCO2 é normal e a droga não é o primeiro passo."
+    },
+    "para_levar": "Retentor crônico de CO2 ventilado até pCO2 normal desenvolve alcalose metabólica pós-hipercápnica: reduzir a ventilação-minuto e mirar o pH com a pCO2 próxima do basal; acetazolamida é adjuvante.",
+    "referencias": "GOLD 2026 Report (ventilação na exacerbação); Galla JH. Metabolic alkalosis. JASN 2000; Diretrizes Brasileiras de Ventilação Mecânica (AMIB/SBPT 2013, atualização 2024).",
+    "tags": [
+      "Gasometria Arterial (CM)",
+      "DPOC - exacerbação (CM)"
+    ],
+    "sourceQuestionId": null,
+    "alvo": "Gasometria com contexto que puxa o distúrbio errado, e a conduta que trata o número antes da causa."
+  }
+]
