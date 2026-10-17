@@ -1,206 +1,206 @@
 [
- {
-  "id": "S14-INF-01",
-  "simulado": 14,
-  "titulo": "Infecção de prótese de quadril 5 semanas após a artroplastia, com 6 dias de sintomas e implante fixo: desbridamento com retenção",
-  "arma": "Limiar",
-  "comando": "conduta",
-  "nivel": "extremamente difícil",
-  "enunciado": "Mulher de 68 anos, diabética, fez artroplastia total do quadril direito há 5 semanas, com boa evolução inicial. Há 6 dias tem febre de 38,4 °C, dor progressiva no quadril e hiperemia com flutuação na cicatriz, sem fístula. PA 130 x 78 mmHg, FC 96 bpm. PCR 18 mg/dL. Radiografia: componentes bem posicionados, sem radiolucência ou sinais de soltura. Artrocentese: líquido turvo, 46.000 leucócitos/mm³ com 92% de polimorfonucleares; a cultura cresceu Staphylococcus aureus sensível à oxacilina e à rifampicina. Hemoculturas negativas. A conduta mais adequada é:",
-  "alternativas": {
-   "A": "Revisão em dois tempos com espaçador",
-   "B": "Antibiótico supressivo sem cirurgia",
-   "C": "Desbridamento com retenção do implante e rifampicina",
-   "D": "Revisão em um tempo com nova prótese"
+  {
+    "id": "S14-INF-01",
+    "simulado": 14,
+    "titulo": "Infecção de prótese de quadril 5 semanas após a artroplastia, com 6 dias de sintomas e implante fixo: desbridamento com retenção",
+    "arma": "Limiar",
+    "comando": "conduta",
+    "nivel": "extremamente difícil",
+    "enunciado": "Mulher de 68 anos, diabética, fez artroplastia total do quadril direito há 5 semanas, com boa evolução inicial. Há 6 dias tem febre de 38,4 °C, dor progressiva no quadril e hiperemia com flutuação na cicatriz, sem fístula. PA 130 x 78 mmHg, FC 96 bpm. PCR 18 mg/dL. Radiografia: componentes bem posicionados, sem radiolucência ou sinais de soltura. Artrocentese: líquido turvo, 46.000 leucócitos/mm³ com 92% de polimorfonucleares; a cultura cresceu Staphylococcus aureus sensível à oxacilina e à rifampicina. Hemoculturas negativas. A conduta mais adequada é:",
+    "alternativas": {
+      "A": "Revisão em dois tempos com espaçador",
+      "B": "Antibiótico supressivo sem cirurgia",
+      "C": "Desbridamento e retenção do implante",
+      "D": "Revisão em um tempo com nova prótese"
+    },
+    "gabarito": "C",
+    "armadilha": "A",
+    "dado_decisivo": "Há 6 dias tem febre",
+    "resolucao": "Infecção de prótese por S. aureus evoca a revisão em dois tempos, que é a cirurgia de maior taxa de cura na infecção crônica, e por isso atrai. A escolha, porém, depende do tempo: na infecção precoce pós-operatória (até cerca de 30 dias a 3 meses da cirurgia) ou na hematogênica aguda, com sintomas há menos de 3 semanas, implante fixo e sem fístula, o biofilme ainda é imaturo e o desbridamento com antibiótico e retenção do implante (DAIR) tem boa taxa de sucesso. Aqui são 6 dias de sintomas, componentes sem soltura e sem fístula, e o estafilococo é sensível à rifampicina, droga ativa contra biofilme, que entra em associação após o desbridamento (nunca isolada) por 3 meses no quadril. No DAIR, trocam-se os componentes móveis (cabeça e polietileno). Supressão sem cirurgia é para quem não pode ser operado.",
+    "comentarios": {
+      "A": "Errada. É a armadilha: é a cirurgia da infecção crônica, com sintomas há mais de 3 semanas, implante solto ou fístula, nada disso presente.",
+      "B": "Errada. Supressão crônica sem cirurgia é reservada a quem não tem condição cirúrgica, e falha sem desbridamento.",
+      "C": "Correta. Infecção precoce, menos de 3 semanas de sintomas, implante fixo, sem fístula e agente sensível à rifampicina: DAIR com rifampicina associada.",
+      "D": "Errada. A revisão em um tempo é opção na infecção crônica com agente conhecido e partes moles boas; não é o primeiro passo na infecção aguda com implante fixo."
+    },
+    "para_levar": "Na infecção de prótese articular, o tempo de sintomas decide: menos de 3 semanas, implante fixo e sem fístula, desbridamento com retenção e rifampicina se estafilococo; infecção crônica, revisão.",
+    "referencias": "IDSA Clinical Practice Guidelines for Prosthetic Joint Infection (2013); International Consensus Meeting on Musculoskeletal Infection (2018).",
+    "tags": [
+      "Infecções osteoarticulares (CM)",
+      "Artrite Séptica (CM)"
+    ],
+    "sourceQuestionId": null,
+    "alvo": "Limiar de tempo e padrão de escolher a conduta mais agressiva quando a simples basta.",
+    "area": "Infectologia"
   },
-  "gabarito": "C",
-  "armadilha": "A",
-  "dado_decisivo": "Há 6 dias tem febre",
-  "resolucao": "Infecção de prótese por S. aureus evoca a revisão em dois tempos, que é a cirurgia de maior taxa de cura na infecção crônica, e por isso atrai. A escolha, porém, depende do tempo: na infecção precoce pós-operatória (até cerca de 30 dias a 3 meses da cirurgia) ou na hematogênica aguda, com sintomas há menos de 3 semanas, implante fixo e sem fístula, o biofilme ainda é imaturo e o desbridamento com antibiótico e retenção do implante (DAIR) tem boa taxa de sucesso. Aqui são 6 dias de sintomas, componentes sem soltura e sem fístula, e o estafilococo é sensível à rifampicina, droga ativa contra biofilme, que entra em associação após o desbridamento (nunca isolada) por 3 meses no quadril. No DAIR, trocam-se os componentes móveis (cabeça e polietileno). Supressão sem cirurgia é para quem não pode ser operado.",
-  "comentarios": {
-   "A": "Errada. É a armadilha: é a cirurgia da infecção crônica, com sintomas há mais de 3 semanas, implante solto ou fístula, nada disso presente.",
-   "B": "Errada. Supressão crônica sem cirurgia é reservada a quem não tem condição cirúrgica, e falha sem desbridamento.",
-   "C": "Correta. Infecção precoce, menos de 3 semanas de sintomas, implante fixo, sem fístula e agente sensível à rifampicina: DAIR com rifampicina associada.",
-   "D": "Errada. A revisão em um tempo é opção na infecção crônica com agente conhecido e partes moles boas; não é o primeiro passo na infecção aguda com implante fixo."
+  {
+    "id": "S14-INF-02",
+    "simulado": 14,
+    "titulo": "Febre em portador de sonda vesical de longa permanência com urocultura polimicrobiana da bolsa: trocar a sonda e colher da nova",
+    "arma": "Dado omitido",
+    "comando": "próximo exame",
+    "nivel": "difícil",
+    "enunciado": "Homem de 78 anos, com hiperplasia prostática e retenção urinária, usa sonda vesical de demora há 4 semanas enquanto aguarda a cirurgia. Há 1 dia tem febre de 38,6 °C e calafrios, sem tosse, sem diarreia, sem flebite e sem lesões de pele; a próstata não está dolorosa ao toque. PA 124 x 72 mmHg, FC 100 bpm, lucidez preservada. A UPA enviou urina colhida da bolsa coletora: mais de 100.000 UFC/mL de Escherichia coli, Enterococcus faecalis e Proteus mirabilis. Hemoculturas foram colhidas há 30 minutos. A sonda ainda é necessária, e o antibiótico não foi iniciado. O próximo exame mais adequado, antes do antibiótico, é:",
+    "alternativas": {
+      "A": "Urocultura da nova sonda, após a troca",
+      "B": "Ultrassonografia de rins e vias urinárias",
+      "C": "Repetir a urocultura da bolsa coletora",
+      "D": "Urocultura por punção da sonda atual"
+    },
+    "gabarito": "A",
+    "armadilha": "D",
+    "dado_decisivo": "usa sonda vesical de demora há 4 semanas",
+    "resolucao": "A punção do dispositivo de coleta da própria sonda, com técnica asséptica, é a forma correta de colher urina de quem está sondado, e por isso atrai. Mas na sonda que está no lugar há mais de 2 semanas, o lúmen e a parede estão cobertos de biofilme polimicrobiano, e a urina que passa por ela reflete a colonização do cateter, e não necessariamente o que infecta a bexiga e o rim. A diretriz da IDSA recomenda, quando a sonda de longa permanência ainda é necessária, trocá-la antes do antibiótico e colher a urocultura da sonda nova, o que dá resultado mais fiel e ainda acelera a resolução da febre e reduz recidiva. A urina da bolsa coletora nunca serve para cultura. A ultrassonografia não é o exame que define o tratamento neste momento, num paciente sondado sem sinal de obstrução.",
+    "comentarios": {
+      "A": "Correta. Sonda há mais de 2 semanas e ainda necessária: trocar antes do antibiótico e colher a urocultura da sonda nova.",
+      "B": "Errada. Seria útil com suspeita de obstrução, abscesso ou falha de resposta; a sonda já drena a bexiga.",
+      "C": "Errada. Urina parada na bolsa coletora prolifera e se contamina, e não serve para cultura em nenhum cenário.",
+      "D": "Errada. É a armadilha: é a coleta certa na sonda de curta permanência, mas na sonda de 4 semanas o biofilme contamina a amostra."
+    },
+    "para_levar": "Na infecção urinária associada a sonda com mais de 2 semanas, trocar a sonda antes do antibiótico e colher a urocultura da nova; bolsa coletora nunca.",
+    "referencias": "IDSA Guidelines for Catheter-Associated Urinary Tract Infection in Adults (2009); ANVISA, Critérios Diagnósticos de Infecção Relacionada à Assistência à Saúde (2017).",
+    "tags": [
+      "Infecção urinária (ITU) (CM)",
+      "Infecções Nosocomiais (CM)"
+    ],
+    "sourceQuestionId": "9c602c047aadb4b",
+    "alvo": "Próximo exame: o detalhe de coleta que muda a validade do exame (dado omitido do tempo de sonda).",
+    "area": "Infectologia"
   },
-  "para_levar": "Na infecção de prótese articular, o tempo de sintomas decide: menos de 3 semanas, implante fixo e sem fístula, desbridamento com retenção e rifampicina se estafilococo; infecção crônica, revisão.",
-  "referencias": "IDSA Clinical Practice Guidelines for Prosthetic Joint Infection (2013); International Consensus Meeting on Musculoskeletal Infection (2018).",
-  "tags": [
-   "Infecções osteoarticulares (CM)",
-   "Artrite Séptica (CM)"
-  ],
-  "sourceQuestionId": null,
-  "alvo": "Limiar de tempo e padrão de escolher a conduta mais agressiva quando a simples basta.",
-  "area": "Infectologia"
- },
- {
-  "id": "S14-INF-02",
-  "simulado": 14,
-  "titulo": "Febre em portador de sonda vesical de longa permanência com urocultura polimicrobiana da bolsa: trocar a sonda e colher da nova",
-  "arma": "Dado omitido",
-  "comando": "próximo exame",
-  "nivel": "difícil",
-  "enunciado": "Homem de 78 anos, com hiperplasia prostática e retenção urinária, usa sonda vesical de demora há 4 semanas enquanto aguarda a cirurgia. Há 1 dia tem febre de 38,6 °C e calafrios, sem tosse, sem diarreia, sem flebite e sem lesões de pele; a próstata não está dolorosa ao toque. PA 124 x 72 mmHg, FC 100 bpm, lucidez preservada. A UPA enviou urina colhida da bolsa coletora: mais de 100.000 UFC/mL de Escherichia coli, Enterococcus faecalis e Proteus mirabilis. Hemoculturas foram colhidas há 30 minutos. A sonda ainda é necessária, e o antibiótico não foi iniciado. O próximo exame mais adequado, antes do antibiótico, é:",
-  "alternativas": {
-   "A": "Urocultura colhida da nova sonda, após a troca",
-   "B": "Ultrassonografia de rins e vias urinárias",
-   "C": "Repetir a urocultura da bolsa coletora",
-   "D": "Urocultura por punção da sonda atual"
+  {
+    "id": "S14-INF-03",
+    "simulado": 14,
+    "titulo": "Leptospirose na fase imune com meningite asséptica no 12º dia: sorologia, e não PCR ou cultura do sangue",
+    "arma": "Cronologia",
+    "comando": "próximo exame",
+    "nivel": "difícil",
+    "enunciado": "Homem de 25 anos, gari, desentupiu bueiros durante uma enchente há 3 semanas. Há 12 dias teve febre alta, cefaleia e mialgia intensa nas panturrilhas, com melhora espontânea no 7º dia. Há 2 dias voltou a ter febre, cefaleia intensa e fotofobia; está no 12º dia desde o início dos sintomas. Exame: T 38,2 °C, rigidez de nuca leve, sufusão conjuntival, sem icterícia, sem déficit focal. Líquor: 180 células/mm³ (85% linfócitos), proteína 72 mg/dL, glicose 60 mg/dL (glicemia 98 mg/dL), bacterioscopia negativa. Creatinina 1,1 mg/dL, plaquetas 160.000/mm³, CK 600 U/L. Para confirmar o diagnóstico etiológico, o exame mais adequado agora é:",
+    "alternativas": {
+      "A": "Sorologia (ELISA IgM) para leptospirose",
+      "B": "PCR para Leptospira no sangue",
+      "C": "Hemocultura em meio para Leptospira",
+      "D": "Microscopia de campo escuro no sangue"
+    },
+    "gabarito": "A",
+    "armadilha": "B",
+    "dado_decisivo": "está no 12º dia desde o início dos sintomas",
+    "resolucao": "PCR é o exame mais moderno e sensível, e por isso atrai. Mas a leptospirose é bifásica, e o exame certo depende da fase: na primeira semana (fase leptospirêmica), a bactéria está no sangue e no líquor, e PCR e cultura do sangue rendem; a partir do 7º dia (fase imune), a leptospira some do sangue e passa a ser eliminada na urina, enquanto surgem os anticorpos. Este paciente teve a melhora transitória e voltou com meningite asséptica, a manifestação da fase imune, no 12º dia; o exame indicado é a sorologia (ELISA IgM, com microaglutinação para confirmar e soroconversão em amostra pareada). A microscopia de campo escuro tem muitos falsos positivos e não é recomendada. O tratamento com doxiciclina ou penicilina não deve esperar o resultado.",
+    "comentarios": {
+      "A": "Correta. Na fase imune, a partir do 7º dia, a sorologia é o exame diagnóstico, com amostra pareada se a primeira vier negativa.",
+      "B": "Errada. É a armadilha: a PCR no sangue rende na primeira semana, quando há leptospiremia; no 12º dia, a bactéria já saiu do sangue.",
+      "C": "Errada. A hemocultura também só rende na fase leptospirêmica e demora semanas para crescer.",
+      "D": "Errada. A microscopia de campo escuro tem baixa especificidade, com artefatos confundidos com leptospiras, e não é recomendada."
+    },
+    "para_levar": "Na leptospirose, o exame segue a fase: PCR e cultura do sangue na primeira semana; sorologia (ELISA IgM) a partir do 7º dia.",
+    "referencias": "Ministério da Saúde, Leptospirose: diagnóstico e manejo clínico (2014) e Guia de Vigilância em Saúde, 6ª ed. (2023).",
+    "tags": [
+      "Leptospirose (CM)",
+      "Neuroinfecção (CM)"
+    ],
+    "sourceQuestionId": "96bd4a9947ca415",
+    "alvo": "Próximo exame e cronologia: o exame certo depende do dia da doença.",
+    "area": "Infectologia"
   },
-  "gabarito": "A",
-  "armadilha": "D",
-  "dado_decisivo": "usa sonda vesical de demora há 4 semanas",
-  "resolucao": "A punção do dispositivo de coleta da própria sonda, com técnica asséptica, é a forma correta de colher urina de quem está sondado, e por isso atrai. Mas na sonda que está no lugar há mais de 2 semanas, o lúmen e a parede estão cobertos de biofilme polimicrobiano, e a urina que passa por ela reflete a colonização do cateter, e não necessariamente o que infecta a bexiga e o rim. A diretriz da IDSA recomenda, quando a sonda de longa permanência ainda é necessária, trocá-la antes do antibiótico e colher a urocultura da sonda nova, o que dá resultado mais fiel e ainda acelera a resolução da febre e reduz recidiva. A urina da bolsa coletora nunca serve para cultura. A ultrassonografia não é o exame que define o tratamento neste momento, num paciente sondado sem sinal de obstrução.",
-  "comentarios": {
-   "A": "Correta. Sonda há mais de 2 semanas e ainda necessária: trocar antes do antibiótico e colher a urocultura da sonda nova.",
-   "B": "Errada. Seria útil com suspeita de obstrução, abscesso ou falha de resposta; a sonda já drena a bexiga.",
-   "C": "Errada. Urina parada na bolsa coletora prolifera e se contamina, e não serve para cultura em nenhum cenário.",
-   "D": "Errada. É a armadilha: é a coleta certa na sonda de curta permanência, mas na sonda de 4 semanas o biofilme contamina a amostra."
+  {
+    "id": "S14-INF-04",
+    "simulado": 14,
+    "titulo": "Meningite criptocócica no transplantado renal: anfotericina lipossomal com flucitosina e redução gradual da imunossupressão",
+    "arma": "Grade X / Y",
+    "comando": "conduta",
+    "nivel": "extremamente difícil",
+    "enunciado": "Homem de 54 anos, transplantado renal há 2 anos, usa tacrolimo, micofenolato e prednisona 5 mg/dia. Há 3 semanas tem cefaleia progressiva e, há 3 dias, lentificação e confusão leve. Exame: T 37,8 °C, Glasgow 14, sem déficit focal, sem rigidez de nuca. TC de crânio sem lesões. Líquor: pressão de abertura de 32 cmH2O, 40 células/mm³, glicose baixa, tinta da China positiva e antígeno criptocócico de 1:1.024. Creatinina de 1,9 mg/dL (basal 1,5 mg/dL), potássio 4,8 mEq/L. HIV não reagente. Quanto ao antifúngico de indução e ao manejo da imunossupressão, respectivamente:",
+    "alternativas": {
+      "A": "Anfotericina desoxicolato e flucitosina / suspensão total",
+      "B": "Fluconazol 1.200 mg/dia / sem alteração",
+      "C": "Anfotericina lipossomal e flucitosina / suspensão total",
+      "D": "Anfotericina lipossomal e flucitosina / redução gradual"
+    },
+    "gabarito": "D",
+    "armadilha": "C",
+    "dado_decisivo": "Creatinina de 1,9 mg/dL (basal 1,5 mg/dL)",
+    "resolucao": "Infecção grave em imunossuprimido puxa para suspender toda a imunossupressão de uma vez, e por isso a combinação com suspensão total atrai. No transplantado, a retirada abrupta tem dois riscos: rejeição do enxerto e síndrome inflamatória de reconstituição imune, que no SNC pode ser grave e é confundida com falha do tratamento. A diretriz recomenda redução gradual, começando pelo corticoide e pelo antimetabólito, e ajuste do inibidor de calcineurina. Na indução, a escolha é anfotericina B lipossomal (ou complexo lipídico) com flucitosina por pelo menos 2 semanas, preferida à desoxicolato no transplantado renal pela nefrotoxicidade, que importa ainda mais aqui, com creatinina já acima da basal e tacrolimo em uso. O fluconazol não é indução de meningite com alteração de consciência. A pressão de abertura de 32 cmH2O pede punções de alívio seriadas.",
+    "comentarios": {
+      "A": "Errada. A desoxicolato é nefrotóxica e evitada no transplantado renal, sobretudo com creatinina subindo, e a suspensão total arrisca rejeição e reconstituição imune.",
+      "B": "Errada. Fluconazol isolado é consolidação ou alternativa na doença leve e localizada, não indução de meningite com rebaixamento.",
+      "C": "Errada. É a armadilha: acerta a indução, mas a retirada abrupta da imunossupressão favorece rejeição e síndrome de reconstituição imune no SNC.",
+      "D": "Correta. Formulação lipídica com flucitosina protege o enxerto, e a redução gradual da imunossupressão equilibra infecção, rejeição e reconstituição imune."
+    },
+    "para_levar": "Na meningite criptocócica do transplantado, indução com anfotericina lipossomal e flucitosina e redução gradual da imunossupressão, nunca retirada abrupta.",
+    "referencias": "Perfect JR et al. IDSA Clinical Practice Guidelines for the Management of Cryptococcal Disease (2010); AST Infectious Diseases Community of Practice, Cryptococcosis in solid organ transplantation (2019).",
+    "tags": [
+      "Neurocriptococcose (CM)",
+      "Transplante Renal (CM)",
+      "Infecção em Imunossuprimido (CM)"
+    ],
+    "sourceQuestionId": null,
+    "alvo": "Criptococo fora do HIV e padrão de fazer mais (suspensão total) quando a medida gradual é a certa.",
+    "area": "Infectologia"
   },
-  "para_levar": "Na infecção urinária associada a sonda com mais de 2 semanas, trocar a sonda antes do antibiótico e colher a urocultura da nova; bolsa coletora nunca.",
-  "referencias": "IDSA Guidelines for Catheter-Associated Urinary Tract Infection in Adults (2009); ANVISA, Critérios Diagnósticos de Infecção Relacionada à Assistência à Saúde (2017).",
-  "tags": [
-   "Infecção urinária (ITU) (CM)",
-   "Infecções Nosocomiais (CM)"
-  ],
-  "sourceQuestionId": "9c602c047aadb4b",
-  "alvo": "Próximo exame: o detalhe de coleta que muda a validade do exame (dado omitido do tempo de sonda).",
-  "area": "Infectologia"
- },
- {
-  "id": "S14-INF-03",
-  "simulado": 14,
-  "titulo": "Leptospirose na fase imune com meningite asséptica no 12º dia: sorologia, e não PCR ou cultura do sangue",
-  "arma": "Cronologia",
-  "comando": "próximo exame",
-  "nivel": "difícil",
-  "enunciado": "Homem de 25 anos, gari, desentupiu bueiros durante uma enchente há 3 semanas. Há 12 dias teve febre alta, cefaleia e mialgia intensa nas panturrilhas, com melhora espontânea no 7º dia. Há 2 dias voltou a ter febre, cefaleia intensa e fotofobia; está no 12º dia desde o início dos sintomas. Exame: T 38,2 °C, rigidez de nuca leve, sufusão conjuntival, sem icterícia, sem déficit focal. Líquor: 180 células/mm³ (85% linfócitos), proteína 72 mg/dL, glicose 60 mg/dL (glicemia 98 mg/dL), bacterioscopia negativa. Creatinina 1,1 mg/dL, plaquetas 160.000/mm³, CK 600 U/L. Para confirmar o diagnóstico etiológico, o exame mais adequado agora é:",
-  "alternativas": {
-   "A": "Sorologia (ELISA IgM) para leptospirose",
-   "B": "PCR para Leptospira no sangue",
-   "C": "Hemocultura em meio para Leptospira",
-   "D": "Microscopia de campo escuro no sangue"
+  {
+    "id": "S14-INF-05",
+    "simulado": 14,
+    "titulo": "Febre, urticária e eosinofilia 5 semanas após banho de lagoa, com parasitológico de fezes negativo: esquistossomose aguda",
+    "arma": "Negativo no meio",
+    "comando": "diagnóstico",
+    "nivel": "difícil",
+    "enunciado": "Homem de 24 anos, estudante, do Rio de Janeiro, nadou numa lagoa do interior de Minas Gerais durante o Carnaval, há 5 semanas. Lembra de coceira nas pernas no dia seguinte. Há 2 semanas tem febre de 38,5 °C ao fim da tarde, tosse seca, urticária, dor abdominal difusa e diarreia sem sangue. Exame: T 38,3 °C, hepatomegalia dolorosa a 3 cm do rebordo, sem esplenomegalia, sem linfonodomegalia. Hemograma: leucócitos 14.200/mm³ com 34% de eosinófilos; radiografia de tórax com infiltrado micronodular discreto. Três amostras de parasitológico de fezes pelo método de Kato-Katz, colhidas nesta semana, foram negativas. Hemoculturas negativas. O diagnóstico mais provável é:",
+    "alternativas": {
+      "A": "Estrongiloidíase",
+      "B": "Síndrome de Löffler por Ascaris",
+      "C": "Esquistossomose aguda",
+      "D": "Toxocaríase visceral"
+    },
+    "gabarito": "C",
+    "armadilha": "A",
+    "dado_decisivo": "Três amostras de parasitológico de fezes pelo método de Kato-Katz, colhidas nesta semana, foram negativas",
+    "resolucao": "Três parasitológicos negativos parecem afastar a esquistossomose, e eosinofilia com tosse e diarreia leva à estrongiloidíase, que também passa despercebida nas fezes. O que decide é a cronologia: a fase aguda da esquistossomose (febre de Katayama) surge 2 a 8 semanas após o contato com água doce, quando os esquistossômulos migram e as fêmeas começam a postura, e os ovos só aparecem nas fezes depois de cerca de 6 a 8 semanas. Na 5ª semana, o Kato-Katz negativo é esperado e não exclui. Exposição em lagoa de área endêmica, dermatite cercariana no dia seguinte, febre, urticária, tosse, hepatomegalia dolorosa e eosinofilia intensa completam o quadro. A confirmação vem com sorologia ou parasitológico repetido após a 6ª semana, e o praziquantel deve ser dado ou repetido após esse período, porque não age nos esquistossômulos imaturos.",
+    "comentarios": {
+      "A": "Errada. É a armadilha: a estrongiloidíase dá eosinofilia e é subdiagnosticada nas fezes, mas não explica a coceira após o banho de lagoa, a febre de semanas e a hepatomegalia dolorosa.",
+      "B": "Errada. A síndrome de Löffler dá tosse e infiltrado transitório com eosinofilia, mas sem febre prolongada, urticária e hepatomegalia, e sem relação com água doce.",
+      "C": "Correta. Contato com água doce em área endêmica, dermatite cercariana, febre com urticária, hepatomegalia e eosinofilia na 5ª semana, antes da eliminação de ovos.",
+      "D": "Errada. A toxocaríase dá eosinofilia e hepatomegalia, mas se adquire por ingestão de ovos de solo contaminado por cães, sem relação com banho em lagoa."
+    },
+    "para_levar": "Na esquistossomose aguda, as fezes são negativas antes de 6 a 8 semanas da exposição: o diagnóstico é clínico-epidemiológico, com sorologia, e o praziquantel deve ser repetido após esse prazo.",
+    "referencias": "Ministério da Saúde, Vigilância da Esquistossomose mansoni: diretrizes técnicas, 4ª ed. (2014) e Guia de Vigilância em Saúde, 6ª ed. (2023).",
+    "tags": [
+      "Esquistossomose (CM)"
+    ],
+    "sourceQuestionId": null,
+    "alvo": "Negativo no meio: o exame negativo pelo tempo da doença, lido como exclusão.",
+    "area": "Infectologia"
   },
-  "gabarito": "A",
-  "armadilha": "B",
-  "dado_decisivo": "está no 12º dia desde o início dos sintomas",
-  "resolucao": "PCR é o exame mais moderno e sensível, e por isso atrai. Mas a leptospirose é bifásica, e o exame certo depende da fase: na primeira semana (fase leptospirêmica), a bactéria está no sangue e no líquor, e PCR e cultura do sangue rendem; a partir do 7º dia (fase imune), a leptospira some do sangue e passa a ser eliminada na urina, enquanto surgem os anticorpos. Este paciente teve a melhora transitória e voltou com meningite asséptica, a manifestação da fase imune, no 12º dia; o exame indicado é a sorologia (ELISA IgM, com microaglutinação para confirmar e soroconversão em amostra pareada). A microscopia de campo escuro tem muitos falsos positivos e não é recomendada. O tratamento com doxiciclina ou penicilina não deve esperar o resultado.",
-  "comentarios": {
-   "A": "Correta. Na fase imune, a partir do 7º dia, a sorologia é o exame diagnóstico, com amostra pareada se a primeira vier negativa.",
-   "B": "Errada. É a armadilha: a PCR no sangue rende na primeira semana, quando há leptospiremia; no 12º dia, a bactéria já saiu do sangue.",
-   "C": "Errada. A hemocultura também só rende na fase leptospirêmica e demora semanas para crescer.",
-   "D": "Errada. A microscopia de campo escuro tem baixa especificidade, com artefatos confundidos com leptospiras, e não é recomendada."
-  },
-  "para_levar": "Na leptospirose, o exame segue a fase: PCR e cultura do sangue na primeira semana; sorologia (ELISA IgM) a partir do 7º dia.",
-  "referencias": "Ministério da Saúde, Leptospirose: diagnóstico e manejo clínico (2014) e Guia de Vigilância em Saúde, 6ª ed. (2023).",
-  "tags": [
-   "Leptospirose (CM)",
-   "Neuroinfecção (CM)"
-  ],
-  "sourceQuestionId": "96bd4a9947ca415",
-  "alvo": "Próximo exame e cronologia: o exame certo depende do dia da doença.",
-  "area": "Infectologia"
- },
- {
-  "id": "S14-INF-04",
-  "simulado": 14,
-  "titulo": "Meningite criptocócica no transplantado renal: anfotericina lipossomal com flucitosina e redução gradual da imunossupressão",
-  "arma": "Grade X / Y",
-  "comando": "conduta",
-  "nivel": "extremamente difícil",
-  "enunciado": "Homem de 54 anos, transplantado renal há 2 anos, usa tacrolimo, micofenolato e prednisona 5 mg/dia. Há 3 semanas tem cefaleia progressiva e, há 3 dias, lentificação e confusão leve. Exame: T 37,8 °C, Glasgow 14, sem déficit focal, sem rigidez de nuca. TC de crânio sem lesões. Líquor: pressão de abertura de 32 cmH2O, 40 células/mm³, glicose baixa, tinta da China positiva e antígeno criptocócico de 1:1.024. Creatinina de 1,9 mg/dL (basal 1,5 mg/dL), potássio 4,8 mEq/L. HIV não reagente. Quanto ao antifúngico de indução e ao manejo da imunossupressão, respectivamente:",
-  "alternativas": {
-   "A": "Anfotericina desoxicolato e flucitosina / suspensão total",
-   "B": "Fluconazol 1.200 mg/dia / sem alteração",
-   "C": "Anfotericina lipossomal e flucitosina / suspensão total",
-   "D": "Anfotericina lipossomal e flucitosina / redução gradual"
-  },
-  "gabarito": "D",
-  "armadilha": "C",
-  "dado_decisivo": "Creatinina de 1,9 mg/dL (basal 1,5 mg/dL)",
-  "resolucao": "Infecção grave em imunossuprimido puxa para suspender toda a imunossupressão de uma vez, e por isso a combinação com suspensão total atrai. No transplantado, a retirada abrupta tem dois riscos: rejeição do enxerto e síndrome inflamatória de reconstituição imune, que no SNC pode ser grave e é confundida com falha do tratamento. A diretriz recomenda redução gradual, começando pelo corticoide e pelo antimetabólito, e ajuste do inibidor de calcineurina. Na indução, a escolha é anfotericina B lipossomal (ou complexo lipídico) com flucitosina por pelo menos 2 semanas, preferida à desoxicolato no transplantado renal pela nefrotoxicidade, que importa ainda mais aqui, com creatinina já acima da basal e tacrolimo em uso. O fluconazol não é indução de meningite com alteração de consciência. A pressão de abertura de 32 cmH2O pede punções de alívio seriadas.",
-  "comentarios": {
-   "A": "Errada. A desoxicolato é nefrotóxica e evitada no transplantado renal, sobretudo com creatinina subindo, e a suspensão total arrisca rejeição e reconstituição imune.",
-   "B": "Errada. Fluconazol isolado é consolidação ou alternativa na doença leve e localizada, não indução de meningite com rebaixamento.",
-   "C": "Errada. É a armadilha: acerta a indução, mas a retirada abrupta da imunossupressão favorece rejeição e síndrome de reconstituição imune no SNC.",
-   "D": "Correta. Formulação lipídica com flucitosina protege o enxerto, e a redução gradual da imunossupressão equilibra infecção, rejeição e reconstituição imune."
-  },
-  "para_levar": "Na meningite criptocócica do transplantado, indução com anfotericina lipossomal e flucitosina e redução gradual da imunossupressão, nunca retirada abrupta.",
-  "referencias": "Perfect JR et al. IDSA Clinical Practice Guidelines for the Management of Cryptococcal Disease (2010); AST Infectious Diseases Community of Practice, Cryptococcosis in solid organ transplantation (2019).",
-  "tags": [
-   "Neurocriptococcose (CM)",
-   "Transplante Renal (CM)",
-   "Infecção em Imunossuprimido (CM)"
-  ],
-  "sourceQuestionId": null,
-  "alvo": "Criptococo fora do HIV e padrão de fazer mais (suspensão total) quando a medida gradual é a certa.",
-  "area": "Infectologia"
- },
- {
-  "id": "S14-INF-05",
-  "simulado": 14,
-  "titulo": "Febre, urticária e eosinofilia 5 semanas após banho de lagoa, com parasitológico de fezes negativo: esquistossomose aguda",
-  "arma": "Negativo no meio",
-  "comando": "diagnóstico",
-  "nivel": "difícil",
-  "enunciado": "Homem de 24 anos, estudante, do Rio de Janeiro, nadou numa lagoa do interior de Minas Gerais durante o Carnaval, há 5 semanas. Lembra de coceira nas pernas no dia seguinte. Há 2 semanas tem febre de 38,5 °C ao fim da tarde, tosse seca, urticária, dor abdominal difusa e diarreia sem sangue. Exame: T 38,3 °C, hepatomegalia dolorosa a 3 cm do rebordo, sem esplenomegalia, sem linfonodomegalia. Hemograma: leucócitos 14.200/mm³ com 34% de eosinófilos; radiografia de tórax com infiltrado micronodular discreto. Três amostras de parasitológico de fezes pelo método de Kato-Katz, colhidas nesta semana, foram negativas. Hemoculturas negativas. O diagnóstico mais provável é:",
-  "alternativas": {
-   "A": "Estrongiloidíase",
-   "B": "Síndrome de Löffler por Ascaris",
-   "C": "Esquistossomose aguda",
-   "D": "Toxocaríase visceral"
-  },
-  "gabarito": "C",
-  "armadilha": "A",
-  "dado_decisivo": "Três amostras de parasitológico de fezes pelo método de Kato-Katz, colhidas nesta semana, foram negativas",
-  "resolucao": "Três parasitológicos negativos parecem afastar a esquistossomose, e eosinofilia com tosse e diarreia leva à estrongiloidíase, que também passa despercebida nas fezes. O que decide é a cronologia: a fase aguda da esquistossomose (febre de Katayama) surge 2 a 8 semanas após o contato com água doce, quando os esquistossômulos migram e as fêmeas começam a postura, e os ovos só aparecem nas fezes depois de cerca de 6 a 8 semanas. Na 5ª semana, o Kato-Katz negativo é esperado e não exclui. Exposição em lagoa de área endêmica, dermatite cercariana no dia seguinte, febre, urticária, tosse, hepatomegalia dolorosa e eosinofilia intensa completam o quadro. A confirmação vem com sorologia ou parasitológico repetido após a 6ª semana, e o praziquantel deve ser dado ou repetido após esse período, porque não age nos esquistossômulos imaturos.",
-  "comentarios": {
-   "A": "Errada. É a armadilha: a estrongiloidíase dá eosinofilia e é subdiagnosticada nas fezes, mas não explica a coceira após o banho de lagoa, a febre de semanas e a hepatomegalia dolorosa.",
-   "B": "Errada. A síndrome de Löffler dá tosse e infiltrado transitório com eosinofilia, mas sem febre prolongada, urticária e hepatomegalia, e sem relação com água doce.",
-   "C": "Correta. Contato com água doce em área endêmica, dermatite cercariana, febre com urticária, hepatomegalia e eosinofilia na 5ª semana, antes da eliminação de ovos.",
-   "D": "Errada. A toxocaríase dá eosinofilia e hepatomegalia, mas se adquire por ingestão de ovos de solo contaminado por cães, sem relação com banho em lagoa."
-  },
-  "para_levar": "Na esquistossomose aguda, as fezes são negativas antes de 6 a 8 semanas da exposição: o diagnóstico é clínico-epidemiológico, com sorologia, e o praziquantel deve ser repetido após esse prazo.",
-  "referencias": "Ministério da Saúde, Vigilância da Esquistossomose mansoni: diretrizes técnicas, 4ª ed. (2014) e Guia de Vigilância em Saúde, 6ª ed. (2023).",
-  "tags": [
-   "Esquistossomose (CM)"
-  ],
-  "sourceQuestionId": null,
-  "alvo": "Negativo no meio: o exame negativo pelo tempo da doença, lido como exclusão.",
-  "area": "Infectologia"
- },
- {
-  "id": "S14-INF-06",
-  "simulado": 14,
-  "titulo": "Alta após tétano acidental em quem nunca foi vacinado: a doença não confere imunidade, e o esquema de três doses é obrigatório",
-  "arma": "Rótulo verdadeiro",
-  "comando": "fato solto",
-  "nivel": "média",
-  "enunciado": "Homem de 45 anos, pedreiro, recebe alta após 3 semanas de UTI por tétano acidental generalizado, que se seguiu a um ferimento com prego no pé. Foi tratado com imunoglobulina humana antitetânica, metronidazol, desbridamento, benzodiazepínico e suporte ventilatório, com recuperação completa. Não tem registro de vacinação em nenhum momento da vida, e nenhuma vacina foi aplicada durante a internação. Quanto à vacinação antitetânica na alta, a conduta correta é:",
-  "alternativas": {
-   "A": "Nenhuma, pois a doença confere imunidade",
-   "B": "Esquema completo de três doses de dT",
-   "C": "Dose única de reforço de dT",
-   "D": "Dosar anticorpos antitetânicos antes de vacinar"
-  },
-  "gabarito": "B",
-  "armadilha": "A",
-  "dado_decisivo": "Não tem registro de vacinação em nenhum momento da vida",
-  "resolucao": "Ter tido a doença e ter recebido imunoglobulina faz parecer que ele está protegido, como ocorre em muitas infecções virais. No tétano não é assim: a quantidade de toxina que causa a doença é ínfima, insuficiente para induzir imunidade, e a imunoglobulina dá proteção passiva que dura poucas semanas. Por isso quem teve tétano deve ser vacinado como alguém nunca vacinado: esquema completo de três doses de dT (0, 60 e 120 dias, ou intervalo mínimo de 30 dias), com reforço a cada 10 anos. O ideal é iniciar a primeira dose já durante a internação, em local diferente da imunoglobulina. Uma dose de reforço só se aplica a quem tem esquema primário completo, e a dosagem de anticorpos não é necessária para decidir.",
-  "comentarios": {
-   "A": "Errada. É a armadilha: a toxina que causa o tétano não induz imunidade, e a imunoglobulina dá só proteção passiva transitória.",
-   "B": "Correta. Sem vacinação prévia, ele precisa do esquema primário completo de três doses de dT, como qualquer não vacinado.",
-   "C": "Errada. Reforço único é para quem já tem esquema primário completo; não é o caso de quem nunca foi vacinado.",
-   "D": "Errada. A sorologia não é usada para definir a vacinação antitetânica; a conduta segue o histórico vacinal."
-  },
-  "para_levar": "O tétano não confere imunidade: quem sobrevive à doença recebe o esquema vacinal completo, iniciado ainda na internação.",
-  "referencias": "Ministério da Saúde, Guia de Vigilância em Saúde, 6ª ed. (2023), tétano acidental; Manual dos Centros de Referência para Imunobiológicos Especiais (2023).",
-  "tags": [
-   "Acidentes com Animais, Raiva e Tétano (CM)",
-   "Profilaxia de Tétano (CM)"
-  ],
-  "sourceQuestionId": null,
-  "alvo": "Fato solto curto da UERJ e rótulo verdadeiro (ter tido a doença).",
-  "area": "Infectologia"
- }
+  {
+    "id": "S14-INF-06",
+    "simulado": 14,
+    "titulo": "Alta após tétano acidental em quem nunca foi vacinado: a doença não confere imunidade, e o esquema de três doses é obrigatório",
+    "arma": "Rótulo verdadeiro",
+    "comando": "fato solto",
+    "nivel": "média",
+    "enunciado": "Homem de 45 anos, pedreiro, recebe alta após 3 semanas de UTI por tétano acidental generalizado, que se seguiu a um ferimento com prego no pé. Foi tratado com imunoglobulina humana antitetânica, metronidazol, desbridamento, benzodiazepínico e suporte ventilatório, com recuperação completa. Não tem registro de vacinação em nenhum momento da vida, e nenhuma vacina foi aplicada durante a internação. Quanto à vacinação antitetânica na alta, a conduta correta é:",
+    "alternativas": {
+      "A": "Dose única de reforço de dT",
+      "B": "Esquema completo de três doses de dT",
+      "C": "Nenhuma, pois a doença confere imunidade",
+      "D": "Dosar anticorpos antitetânicos antes de vacinar"
+    },
+    "gabarito": "B",
+    "armadilha": "C",
+    "dado_decisivo": "Não tem registro de vacinação em nenhum momento da vida",
+    "resolucao": "Ter tido a doença e ter recebido imunoglobulina faz parecer que ele está protegido, como ocorre em muitas infecções virais. No tétano não é assim: a quantidade de toxina que causa a doença é ínfima, insuficiente para induzir imunidade, e a imunoglobulina dá proteção passiva que dura poucas semanas. Por isso quem teve tétano deve ser vacinado como alguém nunca vacinado: esquema completo de três doses de dT (0, 60 e 120 dias, ou intervalo mínimo de 30 dias), com reforço a cada 10 anos. O ideal é iniciar a primeira dose já durante a internação, em local diferente da imunoglobulina. Uma dose de reforço só se aplica a quem tem esquema primário completo, e a dosagem de anticorpos não é necessária para decidir.",
+    "comentarios": {
+      "A": "Errada. Reforço único é para quem já tem esquema primário completo; não é o caso de quem nunca foi vacinado.",
+      "B": "Correta. Sem vacinação prévia, ele precisa do esquema primário completo de três doses de dT, como qualquer não vacinado.",
+      "C": "Errada. É a armadilha: a toxina que causa o tétano não induz imunidade, e a imunoglobulina dá só proteção passiva transitória.",
+      "D": "Errada. A sorologia não é usada para definir a vacinação antitetânica; a conduta segue o histórico vacinal."
+    },
+    "para_levar": "O tétano não confere imunidade: quem sobrevive à doença recebe o esquema vacinal completo, iniciado ainda na internação.",
+    "referencias": "Ministério da Saúde, Guia de Vigilância em Saúde, 6ª ed. (2023), tétano acidental; Manual dos Centros de Referência para Imunobiológicos Especiais (2023).",
+    "tags": [
+      "Acidentes com Animais, Raiva e Tétano (CM)",
+      "Profilaxia de Tétano (CM)"
+    ],
+    "sourceQuestionId": null,
+    "alvo": "Fato solto curto da UERJ e rótulo verdadeiro (ter tido a doença).",
+    "area": "Infectologia"
+  }
 ]

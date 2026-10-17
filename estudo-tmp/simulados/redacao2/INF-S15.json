@@ -1,206 +1,207 @@
 [
- {
-  "id": "S15-INF-01",
-  "simulado": 15,
-  "titulo": "Infecção aguda pelo HIV com carga viral muito alta: TARV no mesmo dia, sem esperar a genotipagem",
-  "arma": "Cronologia",
-  "comando": "conduta",
-  "nivel": "difícil",
-  "enunciado": "Homem de 29 anos procura atendimento com febre, odinofagia, exantema maculopapular no tronco e linfonodomegalia cervical há 8 dias, 4 semanas após relação anal sem preservativo com parceiro de sorologia desconhecida. Imunoensaio de 4ª geração reagente, com carga viral de 2.300.000 cópias/mL e CD4 de 410 células/mm³. Sem gestação de parceria, sem doença renal, sem hepatite B (HBsAg não reagente). A genotipagem pré-tratamento foi colhida, com resultado previsto em 30 dias. Ele está motivado e quer começar o tratamento. A conduta mais adequada é:",
-  "alternativas": {
-   "A": "Iniciar hoje tenofovir, lamivudina e dolutegravir",
-   "B": "Aguardar o CD4 sair da fase aguda",
-   "C": "Aguardar o resultado da genotipagem",
-   "D": "Tratar só se o CD4 cair abaixo de 350"
+  {
+    "id": "S15-INF-01",
+    "simulado": 15,
+    "titulo": "Infecção aguda pelo HIV com carga viral muito alta: TARV no mesmo dia, sem esperar a genotipagem",
+    "arma": "Cronologia",
+    "comando": "conduta",
+    "nivel": "difícil",
+    "enunciado": "Homem de 29 anos procura atendimento com febre, odinofagia, exantema maculopapular no tronco e linfonodomegalia cervical há 8 dias, 4 semanas após relação anal sem preservativo com parceiro de sorologia desconhecida. Imunoensaio de 4ª geração reagente, com carga viral de 2.300.000 cópias/mL e CD4 de 410 células/mm³. Sem gestação de parceria, sem doença renal, sem hepatite B (HBsAg não reagente). A genotipagem pré-tratamento foi colhida, com resultado previsto em 30 dias. Ele está motivado e quer começar o tratamento. A conduta mais adequada é:",
+    "alternativas": {
+      "A": "Iniciar TARV hoje, com dolutegravir",
+      "B": "Aguardar o CD4 sair da fase aguda",
+      "C": "Aguardar o resultado da genotipagem",
+      "D": "Tratar só se o CD4 cair abaixo de 350"
+    },
+    "gabarito": "A",
+    "armadilha": "C",
+    "dado_decisivo": "com resultado previsto em 30 dias",
+    "resolucao": "A genotipagem colhida e a lembrança de que ela orienta a troca de esquema na falha fazem parecer prudente esperar o resultado. Na infecção aguda, isso é o erro de cronologia: o período de carga viral altíssima é o de maior transmissibilidade e de formação do reservatório, e a TARV precoce reduz transmissão, preserva a imunidade e encurta a síndrome aguda. O PCDT recomenda tratar toda pessoa com HIV independentemente do CD4 e, na infecção aguda, iniciar logo, com a genotipagem colhida antes mas sem aguardar o resultado. O dolutegravir tem barreira genética alta, e a resistência transmitida a ele é rara, enquanto a resistência transmitida aos inibidores de transcriptase não análogos (que motivava a espera) não afeta este esquema. Se a genotipagem mostrar alguma mutação relevante, o esquema é ajustado depois.",
+    "comentarios": {
+      "A": "Correta. Infecção aguda é indicação de TARV imediata, com dolutegravir, sem esperar a genotipagem colhida antes.",
+      "B": "Errada. O CD4 não condiciona o início da TARV; esperar a fase aguda passar mantém a fase de maior transmissão.",
+      "C": "Errada. É a armadilha: a genotipagem é colhida antes, mas não se espera o resultado, porque o dolutegravir raramente é afetado pela resistência transmitida.",
+      "D": "Errada. O critério de CD4 para iniciar TARV foi abandonado há anos; todos são tratados."
+    },
+    "para_levar": "Na infecção aguda pelo HIV, colher a genotipagem e iniciar tenofovir, lamivudina e dolutegravir no mesmo dia, sem esperar o resultado.",
+    "referencias": "Ministério da Saúde, PCDT para Manejo da Infecção pelo HIV em Adultos, módulo 1 (2024); DHHS Guidelines for the Use of Antiretroviral Agents in Adults (2024).",
+    "tags": [
+      "HIV : Diagnóstico, Seguimento e Antirretrovirais (CM)",
+      "HIV/AIDS (CM)"
+    ],
+    "sourceQuestionId": "1b85d4f0af4acb5",
+    "alvo": "Padrão de esperar exame que não muda a conduta de agora (genotipagem fora do contexto de falha).",
+    "area": "Infectologia"
   },
-  "gabarito": "A",
-  "armadilha": "C",
-  "dado_decisivo": "com resultado previsto em 30 dias",
-  "resolucao": "A genotipagem colhida e a lembrança de que ela orienta a troca de esquema na falha fazem parecer prudente esperar o resultado. Na infecção aguda, isso é o erro de cronologia: o período de carga viral altíssima é o de maior transmissibilidade e de formação do reservatório, e a TARV precoce reduz transmissão, preserva a imunidade e encurta a síndrome aguda. O PCDT recomenda tratar toda pessoa com HIV independentemente do CD4 e, na infecção aguda, iniciar logo, com a genotipagem colhida antes mas sem aguardar o resultado. O dolutegravir tem barreira genética alta, e a resistência transmitida a ele é rara, enquanto a resistência transmitida aos inibidores de transcriptase não análogos (que motivava a espera) não afeta este esquema. Se a genotipagem mostrar alguma mutação relevante, o esquema é ajustado depois.",
-  "comentarios": {
-   "A": "Correta. Infecção aguda é indicação de TARV imediata, com dolutegravir, sem esperar a genotipagem colhida antes.",
-   "B": "Errada. O CD4 não condiciona o início da TARV; esperar a fase aguda passar mantém a fase de maior transmissão.",
-   "C": "Errada. É a armadilha: a genotipagem é colhida antes, mas não se espera o resultado, porque o dolutegravir raramente é afetado pela resistência transmitida.",
-   "D": "Errada. O critério de CD4 para iniciar TARV foi abandonado há anos; todos são tratados."
+  {
+    "id": "S15-INF-02",
+    "simulado": 15,
+    "titulo": "Corynebacterium em um de dois pares de hemocultura, sem dispositivo e com febre já resolvida: contaminação, sem antibiótico",
+    "arma": "Omissão",
+    "comando": "conduta",
+    "nivel": "difícil",
+    "enunciado": "Mulher de 70 anos está internada há 4 dias por AVC isquêmico, com acesso venoso periférico trocado a cada 72 horas, sem cateter central, sem prótese valvar ou articular e sem marca-passo. No 3º dia teve um pico febril de 37,9 °C após broncoaspiração presenciada, e foram colhidos dois pares de hemocultura de punções diferentes. Hoje está afebril há 24 horas, PA 132 x 80 mmHg, FC 78 bpm, leucócitos 9.800/mm³, PCR em queda. O laboratório informa crescimento de Corynebacterium sp. em apenas 1 de 2 pares, com positividade após 52 horas; o outro par está negativo no 5º dia. O sopro cardíaco está ausente. A conduta mais adequada em relação a esse resultado é:",
+    "alternativas": {
+      "A": "Vancomicina por 14 dias",
+      "B": "Repetir hemoculturas e iniciar vancomicina",
+      "C": "Ecocardiograma transesofágico",
+      "D": "Considerar contaminação, sem antibiótico"
+    },
+    "gabarito": "D",
+    "armadilha": "B",
+    "dado_decisivo": "em apenas 1 de 2 pares",
+    "resolucao": "Qualquer hemocultura positiva gera o reflexo de tratar, e a opção de repetir culturas e cobrir com vancomicina parece um meio-termo prudente. Mas Corynebacterium (difteroide), Cutibacterium, Bacillus não anthracis, Micrococcus e estafilococo coagulase-negativo são contaminantes de pele frequentes, e o critério para considerá-los patógenos é o crescimento em dois ou mais pares de punções diferentes, ou em um par em paciente com dispositivo intravascular ou prótese e quadro compatível. Aqui o crescimento foi em apenas um de dois pares, tardio, numa paciente sem cateter central, sem prótese, sem sopro, com febre explicada por broncoaspiração e já resolvida. Tratar contaminante custa toxicidade, resistência e dias de internação. Ecocardiograma e nova série de culturas não se justificam sem bacteremia verdadeira.",
+    "comentarios": {
+      "A": "Errada. Seria o tratamento de bacteremia verdadeira por corinebactéria em portador de dispositivo, com crescimento em mais de um par.",
+      "B": "Errada. É a armadilha: soa prudente, mas trata contaminante e dispara investigação sem bacteremia verdadeira.",
+      "C": "Errada. Investiga endocardite, que não tem base com um único par positivo para comensal de pele, sem dispositivo e sem sopro.",
+      "D": "Correta. Comensal de pele em 1 de 2 pares, sem dispositivo, com febre explicada e resolvida, é contaminação."
+    },
+    "para_levar": "Comensal de pele (difteroide, Cutibacterium, coagulase-negativo) em um único par, sem dispositivo, é contaminação: não tratar.",
+    "referencias": "Doern GV et al. A comprehensive update on the problem of blood culture contamination. Clin Microbiol Rev 2019; CDC/NHSN, critérios de infecção primária de corrente sanguínea (2024); ANVISA, Critérios Diagnósticos de IRAS (2017).",
+    "tags": [
+      "Infecção de Corrente Sanguínea (CM)",
+      "Infecções Nosocomiais (CM)"
+    ],
+    "sourceQuestionId": null,
+    "alvo": "Omissão como resposta certa, contra o padrão de tratar o que não precisa.",
+    "area": "Infectologia"
   },
-  "para_levar": "Na infecção aguda pelo HIV, colher a genotipagem e iniciar tenofovir, lamivudina e dolutegravir no mesmo dia, sem esperar o resultado.",
-  "referencias": "Ministério da Saúde, PCDT para Manejo da Infecção pelo HIV em Adultos, módulo 1 (2024); DHHS Guidelines for the Use of Antiretroviral Agents in Adults (2024).",
-  "tags": [
-   "HIV : Diagnóstico, Seguimento e Antirretrovirais (CM)",
-   "HIV/AIDS (CM)"
-  ],
-  "sourceQuestionId": "1b85d4f0af4acb5",
-  "alvo": "Padrão de esperar exame que não muda a conduta de agora (genotipagem fora do contexto de falha).",
-  "area": "Infectologia"
- },
- {
-  "id": "S15-INF-02",
-  "simulado": 15,
-  "titulo": "Corynebacterium em um de dois pares de hemocultura, sem dispositivo e com febre já resolvida: contaminação, sem antibiótico",
-  "arma": "Omissão",
-  "comando": "conduta",
-  "nivel": "difícil",
-  "enunciado": "Mulher de 70 anos está internada há 4 dias por AVC isquêmico, com acesso venoso periférico trocado a cada 72 horas, sem cateter central, sem prótese valvar ou articular e sem marca-passo. No 3º dia teve um pico febril de 37,9 °C após broncoaspiração presenciada, e foram colhidos dois pares de hemocultura de punções diferentes. Hoje está afebril há 24 horas, PA 132 x 80 mmHg, FC 78 bpm, leucócitos 9.800/mm³, PCR em queda. O laboratório informa crescimento de Corynebacterium sp. em apenas 1 de 2 pares, com positividade após 52 horas; o outro par está negativo no 5º dia. O sopro cardíaco está ausente. A conduta mais adequada em relação a esse resultado é:",
-  "alternativas": {
-   "A": "Vancomicina por 14 dias",
-   "B": "Repetir hemoculturas e iniciar vancomicina",
-   "C": "Ecocardiograma transesofágico",
-   "D": "Considerar contaminação, sem antibiótico"
+  {
+    "id": "S15-INF-03",
+    "simulado": 15,
+    "titulo": "Eritema nodoso hansênico em mulher que planeja engravidar: prednisona, e não talidomida",
+    "arma": "Rótulo verdadeiro",
+    "comando": "conduta",
+    "nivel": "difícil",
+    "enunciado": "Mulher de 26 anos trata hanseníase virchowiana com poliquimioterapia multibacilar há 6 meses, com boa adesão. Há 5 dias surgiram nódulos eritematosos, quentes e dolorosos nos braços e coxas, febre de 38,5 °C, mal-estar, artralgia de joelhos e dor à palpação do nervo ulnar direito, sem perda de força. Não usa contraceptivo, porque ela e o marido planejam engravidar nos próximos meses, e recusa métodos contraceptivos. β-hCG negativo. Hemograma: leucocitose de 13.800/mm³ com neutrofilia; função renal e hepática normais. A conduta mais adequada para a reação, mantendo a poliquimioterapia, é:",
+    "alternativas": {
+      "A": "Talidomida 100 a 300 mg/dia",
+      "B": "Clofazimina em dose alta, isolada",
+      "C": "Prednisona 1 mg/kg/dia",
+      "D": "Pentoxifilina, isolada"
+    },
+    "gabarito": "C",
+    "armadilha": "A",
+    "dado_decisivo": "planejam engravidar nos próximos meses",
+    "resolucao": "Eritema nodoso hansênico (reação tipo 2) tem a talidomida como droga de escolha no PCDT, e esse é o rótulo verdadeiro que atrai. Mas a talidomida é teratogênica com uma única dose, e seu uso em mulher em idade fértil exige dois métodos contraceptivos e controle rigoroso, o que esta paciente recusa e contraria o plano de gestar. Nesse cenário, e também porque há neurite (dor no ulnar), a escolha é prednisona 1 mg/kg/dia, com desmame lento conforme a resposta. A clofazimina em dose alta e a pentoxifilina são alternativas ou poupadoras de corticoide em casos crônicos, e não tratam isoladamente um surto agudo com neurite. A poliquimioterapia é mantida: a reação não indica suspender o tratamento.",
+    "comentarios": {
+      "A": "Errada. É a armadilha: é a primeira escolha no eritema nodoso hansênico em homens e mulheres sem potencial de gestar, mas é teratogênica e contraindicada aqui.",
+      "B": "Errada. A clofazimina em dose alta é poupadora de corticoide na reação tipo 2 crônica ou recorrente, de início lento, e não basta isolada no surto com neurite.",
+      "C": "Correta. Na mulher que pode engravidar, e com neurite associada, a prednisona é o tratamento da reação tipo 2.",
+      "D": "Errada. A pentoxifilina é alternativa adjuvante em quadros leves, sem eficácia suficiente isolada na reação com neurite."
+    },
+    "para_levar": "Na reação tipo 2 da hanseníase, talidomida é a primeira escolha, exceto na mulher em idade fértil sem contracepção segura: aí, e sempre que há neurite, prednisona.",
+    "referencias": "Ministério da Saúde, PCDT Hanseníase (2022); Guia prático sobre a hanseníase (2017); Lei 10.651/2003 e RDC ANVISA 11/2011 (talidomida).",
+    "tags": [
+      "Hanseníase (CM)"
+    ],
+    "sourceQuestionId": null,
+    "alvo": "Rótulo verdadeiro (droga de escolha) contra o dado do paciente que a contraindica.",
+    "area": "Infectologia"
   },
-  "gabarito": "D",
-  "armadilha": "B",
-  "dado_decisivo": "em apenas 1 de 2 pares",
-  "resolucao": "Qualquer hemocultura positiva gera o reflexo de tratar, e a opção de repetir culturas e cobrir com vancomicina parece um meio-termo prudente. Mas Corynebacterium (difteroide), Cutibacterium, Bacillus não anthracis, Micrococcus e estafilococo coagulase-negativo são contaminantes de pele frequentes, e o critério para considerá-los patógenos é o crescimento em dois ou mais pares de punções diferentes, ou em um par em paciente com dispositivo intravascular ou prótese e quadro compatível. Aqui o crescimento foi em apenas um de dois pares, tardio, numa paciente sem cateter central, sem prótese, sem sopro, com febre explicada por broncoaspiração e já resolvida. Tratar contaminante custa toxicidade, resistência e dias de internação. Ecocardiograma e nova série de culturas não se justificam sem bacteremia verdadeira.",
-  "comentarios": {
-   "A": "Errada. Seria o tratamento de bacteremia verdadeira por corinebactéria em portador de dispositivo, com crescimento em mais de um par.",
-   "B": "Errada. É a armadilha: soa prudente, mas trata contaminante e dispara investigação sem bacteremia verdadeira.",
-   "C": "Errada. Investiga endocardite, que não tem base com um único par positivo para comensal de pele, sem dispositivo e sem sopro.",
-   "D": "Correta. Comensal de pele em 1 de 2 pares, sem dispositivo, com febre explicada e resolvida, é contaminação."
+  {
+    "id": "S15-INF-04",
+    "simulado": 15,
+    "titulo": "Lesão cerebral que não responde ao tratamento para toxoplasma na aids, em quem tem sorologia para Chagas reagente: reativação da doença de Chagas",
+    "arma": "Rótulo verdadeiro",
+    "comando": "diagnóstico",
+    "nivel": "extremamente difícil",
+    "enunciado": "Homem de 44 anos, nascido na zona rural do norte de Minas Gerais, tem aids e abandonou a TARV há 2 anos (CD4 atual de 22 células/mm³). Há 3 semanas tem cefaleia, febre e hemiparesia esquerda, com uma crise focal. RM: lesão única de 4 cm na substância branca frontoparietal direita, com realce heterogêneo, edema e efeito de massa, poupando os núcleos da base. IgG anti-Toxoplasma reagente; recebeu sulfadiazina, pirimetamina e ácido folínico por 12 dias, com piora clínica e aumento da lesão. Sorologia para Trypanosoma cruzi reagente por dois métodos. ECG: bloqueio de ramo direito com hemibloqueio anterior esquerdo. Líquor: 38 células/mm³, linfomonocitárias, proteína 96 mg/dL, glicose normal, criptococo negativo. O diagnóstico mais provável é:",
+    "alternativas": {
+      "A": "Neurotoxoplasmose refratária",
+      "B": "Reativação da doença de Chagas",
+      "C": "Criptococoma cerebral",
+      "D": "Linfoma primário do SNC"
+    },
+    "gabarito": "B",
+    "armadilha": "D",
+    "dado_decisivo": "Sorologia para Trypanosoma cruzi reagente por dois métodos",
+    "resolucao": "Lesão expansiva na aids que não responde ao tratamento empírico para toxoplasma leva ao linfoma primário do SNC e à biópsia, e esse é um raciocínio verdadeiro. Mas este paciente tem um antecedente que muda a lista: nasceu em área endêmica, tem sorologia para T. cruzi reagente e um ECG com bloqueio de ramo direito e hemibloqueio anterior esquerdo, a assinatura da cardiopatia chagásica. Com CD4 abaixo de 100, a doença de Chagas pode reativar como meningoencefalite com lesão expansiva (chagoma cerebral), que predomina na substância branca dos hemisférios, é frequentemente grande e única, e não responde a sulfadiazina e pirimetamina. O diagnóstico se confirma pela pesquisa de tripomastigotas no líquor ou no sangue, ou pela biópsia, e o tratamento é benznidazol com TARV. Criptococoma é raro e o antígeno foi negativo.",
+    "comentarios": {
+      "A": "Errada. Piora e aumento da lesão após 12 dias de esquema adequado, com lesão fora dos núcleos da base, afastam toxoplasmose responsiva.",
+      "B": "Correta. Sorologia para T. cruzi reagente, ECG de cardiopatia chagásica, CD4 de 22 e lesão de substância branca sem resposta ao tratamento para toxoplasma.",
+      "C": "Errada. O criptococoma é raro, e a pesquisa de criptococo no líquor foi negativa.",
+      "D": "Errada. É a armadilha: seria a hipótese sem antecedente epidemiológico, com lesão periventricular ou subependimária; aqui a sorologia e o ECG apontam Chagas."
+    },
+    "para_levar": "Na aids avançada com lesão cerebral que não responde ao tratamento para toxoplasma, em quem tem sorologia para Chagas reagente, pensar em reativação (chagoma cerebral) antes de concluir linfoma.",
+    "referencias": "Ministério da Saúde, PCDT HIV adultos, módulo 2 (2023); PCDT Doença de Chagas (MS/CONITEC, 2018); II Consenso Brasileiro em Doença de Chagas (2015).",
+    "tags": [
+      "Outras Doenças Tropicais (Chagas, elefantíse) (CM)",
+      "Doenças Oportunistas no HIV (CM)",
+      "NeuroAIDS (CM)"
+    ],
+    "sourceQuestionId": "cff4e52b8943f2d",
+    "alvo": "Doenças oportunistas no HIV fora da TB e o antecedente (sorologia, ECG) lido como enfeite.",
+    "area": "Infectologia"
   },
-  "para_levar": "Comensal de pele (difteroide, Cutibacterium, coagulase-negativo) em um único par, sem dispositivo, é contaminação: não tratar.",
-  "referencias": "Doern GV et al. A comprehensive update on the problem of blood culture contamination. Clin Microbiol Rev 2019; CDC/NHSN, critérios de infecção primária de corrente sanguínea (2024); ANVISA, Critérios Diagnósticos de IRAS (2017).",
-  "tags": [
-   "Infecção de Corrente Sanguínea (CM)",
-   "Infecções Nosocomiais (CM)"
-  ],
-  "sourceQuestionId": null,
-  "alvo": "Omissão como resposta certa, contra o padrão de tratar o que não precisa.",
-  "area": "Infectologia"
- },
- {
-  "id": "S15-INF-03",
-  "simulado": 15,
-  "titulo": "Eritema nodoso hansênico em mulher que planeja engravidar: prednisona, e não talidomida",
-  "arma": "Rótulo verdadeiro",
-  "comando": "conduta",
-  "nivel": "difícil",
-  "enunciado": "Mulher de 26 anos trata hanseníase virchowiana com poliquimioterapia multibacilar há 6 meses, com boa adesão. Há 5 dias surgiram nódulos eritematosos, quentes e dolorosos nos braços e coxas, febre de 38,5 °C, mal-estar, artralgia de joelhos e dor à palpação do nervo ulnar direito, sem perda de força. Não usa contraceptivo, porque ela e o marido planejam engravidar nos próximos meses, e recusa métodos contraceptivos. β-hCG negativo. Hemograma: leucocitose de 13.800/mm³ com neutrofilia; função renal e hepática normais. A conduta mais adequada para a reação, mantendo a poliquimioterapia, é:",
-  "alternativas": {
-   "A": "Talidomida 100 a 300 mg/dia",
-   "B": "Clofazimina em dose alta, isolada",
-   "C": "Prednisona 1 mg/kg/dia",
-   "D": "Pentoxifilina, isolada"
+  {
+    "id": "S15-INF-05",
+    "simulado": 15,
+    "titulo": "Nódulo pulmonar cavitado, lesão cerebral e abscesso subcutâneo no transplantado com bacilos ramificados fracamente álcool-ácido resistentes: Nocardia",
+    "arma": "Rótulo verdadeiro",
+    "comando": "etiologia",
+    "nivel": "difícil",
+    "enunciado": "Homem de 58 anos, transplantado renal há 1 ano, usa tacrolimo, micofenolato e prednisona 10 mg/dia; suspendeu a profilaxia com sulfametoxazol-trimetoprima no 6º mês. Há 4 semanas tem febre, tosse com escarro purulento e perda de peso. Há 1 semana surgiu um nódulo flutuante e indolor no antebraço e, há 2 dias, cefaleia e parestesia na mão esquerda. TC de tórax: nódulo cavitado de 3 cm no lobo superior direito. RM de crânio: lesão com realce anelar no lobo parietal direito. Escarro: bacilos gram-positivos ramificados e filamentosos, fracamente álcool-ácido resistentes pela coloração de Kinyoun modificada; teste rápido molecular para M. tuberculosis negativo. Galactomanana sérica negativa. O agente mais provável é:",
+    "alternativas": {
+      "A": "Nocardia spp.",
+      "B": "Actinomyces israelii",
+      "C": "Mycobacterium tuberculosis",
+      "D": "Aspergillus fumigatus"
+    },
+    "gabarito": "A",
+    "armadilha": "C",
+    "dado_decisivo": "fracamente álcool-ácido resistentes pela coloração de Kinyoun modificada",
+    "resolucao": "Bacilos álcool-ácido resistentes, nódulo cavitado no lobo superior e lesão cerebral num imunossuprimido levam direto à tuberculose, e a álcool-ácido resistência é um rótulo verdadeiro. O que separa é a morfologia e a intensidade: as micobactérias são bastonetes retos, fortemente álcool-ácido resistentes no Ziehl-Neelsen, enquanto Nocardia é um bacilo gram-positivo ramificado e filamentoso, fracamente álcool-ácido resistente, que aparece na coloração de Kinyoun modificada. A tríade pulmão, SNC e pele ou subcutâneo no transplantado que suspendeu o sulfametoxazol-trimetoprima é a apresentação da nocardiose disseminada, e o teste molecular negativo reforça. Actinomyces também é ramificado, mas não é álcool-ácido resistente e raramente dá doença disseminada no imunossuprimido. O tratamento é sulfametoxazol-trimetoprima em dose alta associado a imipenem (e amicacina ou ceftriaxona conforme o caso), por no mínimo 12 meses com acometimento do SNC.",
+    "comentarios": {
+      "A": "Correta. Bacilo gram-positivo ramificado e fracamente álcool-ácido resistente, com pulmão, cérebro e subcutâneo num transplantado sem profilaxia.",
+      "B": "Errada. Actinomyces é ramificado, mas não é álcool-ácido resistente e causa doença cervicofacial ou torácica por contiguidade, raramente disseminada.",
+      "C": "Errada. É a armadilha: micobactérias são bastonetes retos fortemente álcool-ácido resistentes, e o teste molecular foi negativo.",
+      "D": "Errada. Aspergillus forma hifas septadas, não bacilos, e a galactomanana foi negativa."
+    },
+    "para_levar": "Bacilo gram-positivo ramificado e fracamente álcool-ácido resistente, com pulmão, SNC e pele no imunossuprimido, é Nocardia: sulfametoxazol-trimetoprima em dose alta e investigação do SNC.",
+    "referencias": "Margalit I et al. How do I manage nocardiosis? Clin Microbiol Infect 2021; AST Infectious Diseases Community of Practice, Nocardia infections in solid organ transplantation (2019).",
+    "tags": [
+      "Infecção em Imunossuprimido (CM)",
+      "Transplante Renal (CM)",
+      "314 Nocardiosis"
+    ],
+    "sourceQuestionId": null,
+    "alvo": "Rótulo verdadeiro (BAAR) que puxa a doença de manual (tuberculose).",
+    "area": "Infectologia"
   },
-  "gabarito": "C",
-  "armadilha": "A",
-  "dado_decisivo": "planejam engravidar nos próximos meses",
-  "resolucao": "Eritema nodoso hansênico (reação tipo 2) tem a talidomida como droga de escolha no PCDT, e esse é o rótulo verdadeiro que atrai. Mas a talidomida é teratogênica com uma única dose, e seu uso em mulher em idade fértil exige dois métodos contraceptivos e controle rigoroso, o que esta paciente recusa e contraria o plano de gestar. Nesse cenário, e também porque há neurite (dor no ulnar), a escolha é prednisona 1 mg/kg/dia, com desmame lento conforme a resposta. A clofazimina em dose alta e a pentoxifilina são alternativas ou poupadoras de corticoide em casos crônicos, e não tratam isoladamente um surto agudo com neurite. A poliquimioterapia é mantida: a reação não indica suspender o tratamento.",
-  "comentarios": {
-   "A": "Errada. É a armadilha: é a primeira escolha no eritema nodoso hansênico em homens e mulheres sem potencial de gestar, mas é teratogênica e contraindicada aqui.",
-   "B": "Errada. A clofazimina em dose alta é poupadora de corticoide na reação tipo 2 crônica ou recorrente, de início lento, e não basta isolada no surto com neurite.",
-   "C": "Correta. Na mulher que pode engravidar, e com neurite associada, a prednisona é o tratamento da reação tipo 2.",
-   "D": "Errada. A pentoxifilina é alternativa adjuvante em quadros leves, sem eficácia suficiente isolada na reação com neurite."
-  },
-  "para_levar": "Na reação tipo 2 da hanseníase, talidomida é a primeira escolha, exceto na mulher em idade fértil sem contracepção segura: aí, e sempre que há neurite, prednisona.",
-  "referencias": "Ministério da Saúde, PCDT Hanseníase (2022); Guia prático sobre a hanseníase (2017); Lei 10.651/2003 e RDC ANVISA 11/2011 (talidomida).",
-  "tags": [
-   "Hanseníase (CM)"
-  ],
-  "sourceQuestionId": null,
-  "alvo": "Rótulo verdadeiro (droga de escolha) contra o dado do paciente que a contraindica.",
-  "area": "Infectologia"
- },
- {
-  "id": "S15-INF-04",
-  "simulado": 15,
-  "titulo": "Lesão cerebral que não responde ao tratamento para toxoplasma na aids, em quem tem sorologia para Chagas reagente: reativação da doença de Chagas",
-  "arma": "Rótulo verdadeiro",
-  "comando": "diagnóstico",
-  "nivel": "extremamente difícil",
-  "enunciado": "Homem de 44 anos, nascido na zona rural do norte de Minas Gerais, tem aids e abandonou a TARV há 2 anos (CD4 atual de 22 células/mm³). Há 3 semanas tem cefaleia, febre e hemiparesia esquerda, com uma crise focal. RM: lesão única de 4 cm na substância branca frontoparietal direita, com realce heterogêneo, edema e efeito de massa, poupando os núcleos da base. IgG anti-Toxoplasma reagente; recebeu sulfadiazina, pirimetamina e ácido folínico por 12 dias, com piora clínica e aumento da lesão. Sorologia para Trypanosoma cruzi reagente por dois métodos. ECG: bloqueio de ramo direito com hemibloqueio anterior esquerdo. Líquor: 38 células/mm³, linfomonocitárias, proteína 96 mg/dL, glicose normal, criptococo negativo. O diagnóstico mais provável é:",
-  "alternativas": {
-   "A": "Neurotoxoplasmose refratária",
-   "B": "Reativação da doença de Chagas",
-   "C": "Criptococoma cerebral",
-   "D": "Linfoma primário do SNC"
-  },
-  "gabarito": "B",
-  "armadilha": "D",
-  "dado_decisivo": "Sorologia para Trypanosoma cruzi reagente por dois métodos",
-  "resolucao": "Lesão expansiva na aids que não responde ao tratamento empírico para toxoplasma leva ao linfoma primário do SNC e à biópsia, e esse é um raciocínio verdadeiro. Mas este paciente tem um antecedente que muda a lista: nasceu em área endêmica, tem sorologia para T. cruzi reagente e um ECG com bloqueio de ramo direito e hemibloqueio anterior esquerdo, a assinatura da cardiopatia chagásica. Com CD4 abaixo de 100, a doença de Chagas pode reativar como meningoencefalite com lesão expansiva (chagoma cerebral), que predomina na substância branca dos hemisférios, é frequentemente grande e única, e não responde a sulfadiazina e pirimetamina. O diagnóstico se confirma pela pesquisa de tripomastigotas no líquor ou no sangue, ou pela biópsia, e o tratamento é benznidazol com TARV. Criptococoma é raro e o antígeno foi negativo.",
-  "comentarios": {
-   "A": "Errada. Piora e aumento da lesão após 12 dias de esquema adequado, com lesão fora dos núcleos da base, afastam toxoplasmose responsiva.",
-   "B": "Correta. Sorologia para T. cruzi reagente, ECG de cardiopatia chagásica, CD4 de 22 e lesão de substância branca sem resposta ao tratamento para toxoplasma.",
-   "C": "Errada. O criptococoma é raro, e a pesquisa de criptococo no líquor foi negativa.",
-   "D": "Errada. É a armadilha: seria a hipótese sem antecedente epidemiológico, com lesão periventricular ou subependimária; aqui a sorologia e o ECG apontam Chagas."
-  },
-  "para_levar": "Na aids avançada com lesão cerebral que não responde ao tratamento para toxoplasma, em quem tem sorologia para Chagas reagente, pensar em reativação (chagoma cerebral) antes de concluir linfoma.",
-  "referencias": "Ministério da Saúde, PCDT HIV adultos, módulo 2 (2023); II Consenso Brasileiro em Doença de Chagas (2015); Recomendações para diagnóstico e tratamento da coinfecção Trypanosoma cruzi e HIV (MS, 2023).",
-  "tags": [
-   "Outras Doenças Tropicais (Chagas, elefantíse) (CM)",
-   "Doenças Oportunistas no HIV (CM)",
-   "NeuroAIDS (CM)"
-  ],
-  "sourceQuestionId": "cff4e52b8943f2d",
-  "alvo": "Doenças oportunistas no HIV fora da TB e o antecedente (sorologia, ECG) lido como enfeite.",
-  "area": "Infectologia"
- },
- {
-  "id": "S15-INF-05",
-  "simulado": 15,
-  "titulo": "Nódulo pulmonar cavitado, lesão cerebral e abscesso subcutâneo no transplantado com bacilos ramificados fracamente álcool-ácido resistentes: Nocardia",
-  "arma": "Rótulo verdadeiro",
-  "comando": "etiologia",
-  "nivel": "difícil",
-  "enunciado": "Homem de 58 anos, transplantado renal há 1 ano, usa tacrolimo, micofenolato e prednisona 10 mg/dia; suspendeu a profilaxia com sulfametoxazol-trimetoprima no 6º mês. Há 4 semanas tem febre, tosse com escarro purulento e perda de peso. Há 1 semana surgiu um nódulo flutuante e indolor no antebraço e, há 2 dias, cefaleia e parestesia na mão esquerda. TC de tórax: nódulo cavitado de 3 cm no lobo superior direito. RM de crânio: lesão com realce anelar no lobo parietal direito. Escarro: bacilos gram-positivos ramificados e filamentosos, fracamente álcool-ácido resistentes pela coloração de Kinyoun modificada; teste rápido molecular para M. tuberculosis negativo. Galactomanana sérica negativa. O agente mais provável é:",
-  "alternativas": {
-   "A": "Nocardia spp.",
-   "B": "Actinomyces israelii",
-   "C": "Mycobacterium tuberculosis",
-   "D": "Aspergillus fumigatus"
-  },
-  "gabarito": "A",
-  "armadilha": "C",
-  "dado_decisivo": "fracamente álcool-ácido resistentes pela coloração de Kinyoun modificada",
-  "resolucao": "Bacilos álcool-ácido resistentes, nódulo cavitado no lobo superior e lesão cerebral num imunossuprimido levam direto à tuberculose, e a álcool-ácido resistência é um rótulo verdadeiro. O que separa é a morfologia e a intensidade: as micobactérias são bastonetes retos, fortemente álcool-ácido resistentes no Ziehl-Neelsen, enquanto Nocardia é um bacilo gram-positivo ramificado e filamentoso, fracamente álcool-ácido resistente, que aparece na coloração de Kinyoun modificada. A tríade pulmão, SNC e pele ou subcutâneo no transplantado que suspendeu o sulfametoxazol-trimetoprima é a apresentação da nocardiose disseminada, e o teste molecular negativo reforça. Actinomyces também é ramificado, mas não é álcool-ácido resistente e raramente dá doença disseminada no imunossuprimido. O tratamento é sulfametoxazol-trimetoprima em dose alta associado a imipenem (e amicacina ou ceftriaxona conforme o caso), por no mínimo 12 meses com acometimento do SNC.",
-  "comentarios": {
-   "A": "Correta. Bacilo gram-positivo ramificado e fracamente álcool-ácido resistente, com pulmão, cérebro e subcutâneo num transplantado sem profilaxia.",
-   "B": "Errada. Actinomyces é ramificado, mas não é álcool-ácido resistente e causa doença cervicofacial ou torácica por contiguidade, raramente disseminada.",
-   "C": "Errada. É a armadilha: micobactérias são bastonetes retos fortemente álcool-ácido resistentes, e o teste molecular foi negativo.",
-   "D": "Errada. Aspergillus forma hifas septadas, não bacilos, e a galactomanana foi negativa."
-  },
-  "para_levar": "Bacilo gram-positivo ramificado e fracamente álcool-ácido resistente, com pulmão, SNC e pele no imunossuprimido, é Nocardia: sulfametoxazol-trimetoprima em dose alta e investigação do SNC.",
-  "referencias": "Margalit I et al. How do I manage nocardiosis? Clin Microbiol Infect 2021; AST Infectious Diseases Community of Practice, Nocardia infections in solid organ transplantation (2019).",
-  "tags": [
-   "Infecção em Imunossuprimido (CM)",
-   "Transplante Renal (CM)"
-  ],
-  "sourceQuestionId": null,
-  "alvo": "Rótulo verdadeiro (BAAR) que puxa a doença de manual (tuberculose).",
-  "area": "Infectologia"
- },
- {
-  "id": "S15-INF-06",
-  "simulado": 15,
-  "titulo": "Tosse paroxística há 3 semanas com vômito pós-tosse e linfocitose, sem febre e com radiografia normal, no adulto vacinado na infância: coqueluche",
-  "arma": "Negativo no meio",
-  "comando": "etiologia",
-  "nivel": "difícil",
-  "enunciado": "Mulher de 34 anos, professora do ensino infantil, vacinada na infância e sem reforços desde então, tem tosse há 3 semanas. Começou com coriza e tosse leve; há 2 semanas, a tosse vem em acessos, pior à noite, terminando com guincho inspiratório e, às vezes, com vômito logo após os acessos, ficando bem entre eles. Nega febre. Exame: T 36,7 °C, SpO2 98%, ausculta pulmonar normal, hemorragia subconjuntival à direita. Radiografia de tórax normal. Hemograma: leucócitos 14.800/mm³ com 62% de linfócitos. A irmã, que mora com ela, tem um bebê de 6 semanas. O agente mais provável é:",
-  "alternativas": {
-   "A": "Rinovírus, com tosse pós-viral",
-   "B": "Mycoplasma pneumoniae",
-   "C": "Adenovírus",
-   "D": "Bordetella pertussis"
-  },
-  "gabarito": "D",
-  "armadilha": "A",
-  "dado_decisivo": "vômito logo após os acessos",
-  "resolucao": "Tosse que começou com coriza, sem febre, com ausculta e radiografia normais, num adulto que está bem entre os episódios, é o retrato da tosse pós-viral, e o diagnóstico de rinovírus atrai. Mas a vacina da infância não protege o adulto décadas depois, e os dados que separam são os do acesso: tosse paroxística com guincho, vômito logo após os acessos, hemorragia subconjuntival pelo esforço e paciente assintomático entre as crises, com linfocitose absoluta (efeito da toxina pertussis). A fase paroxística começa cerca de 1 a 2 semanas depois da fase catarral, como aqui. O diagnóstico importa pelo contato: lactente de 6 semanas, ainda não protegido, tem alto risco de coqueluche grave, e deve receber quimioprofilaxia com azitromicina, assim como a paciente deve ser tratada e afastada até 5 dias de antibiótico. O Mycoplasma dá febre baixa, cefaleia e infiltrado, e o adenovírus, febre e conjuntivite.",
-  "comentarios": {
-   "A": "Errada. É a armadilha: a tosse pós-viral não tem guincho, vômito pós-acesso nem linfocitose de 62%.",
-   "B": "Errada. O Mycoplasma causa febre, cefaleia, mal-estar e frequentemente infiltrado radiológico, e não acessos com guincho e linfocitose.",
-   "C": "Errada. O adenovírus cursa com febre, faringite e conjuntivite folicular, e não com fase paroxística de semanas.",
-   "D": "Correta. Acessos com guincho, vômito pós-tosse, hemorragia subconjuntival, bem entre as crises e linfocitose, após fase catarral, são coqueluche."
-  },
-  "para_levar": "Tosse em acessos com guincho, vômito pós-tosse e linfocitose, sem febre e com radiografia normal, é coqueluche mesmo no adulto vacinado na infância; tratar e fazer profilaxia nos contatos vulneráveis.",
-  "referencias": "Ministério da Saúde, Guia de Vigilância em Saúde, 6ª ed. (2023), coqueluche; CDC, Pertussis: clinical overview (2024).",
-  "tags": [
-   "297 Whooping Cough and Other Bordetella Infections",
-   "Infecções Bacterianas (CM)"
-  ],
-  "sourceQuestionId": null,
-  "alvo": "Negativo no meio (sem febre, radiografia normal) que leva ao diagnóstico benigno.",
-  "area": "Infectologia"
- }
+  {
+    "id": "S15-INF-06",
+    "simulado": 15,
+    "titulo": "Tosse paroxística há 3 semanas com vômito pós-tosse e linfocitose, sem febre e com radiografia normal, no adulto vacinado na infância: coqueluche",
+    "arma": "Negativo no meio",
+    "comando": "etiologia",
+    "nivel": "difícil",
+    "enunciado": "Mulher de 34 anos, professora do ensino infantil, vacinada na infância e sem reforços desde então, tem tosse há 3 semanas. Começou com coriza e tosse leve; há 2 semanas, a tosse vem em acessos, pior à noite, terminando com guincho inspiratório e, às vezes, com vômito logo após os acessos, ficando bem entre eles. Nega febre. Exame: T 36,7 °C, SpO2 98%, ausculta pulmonar normal, hemorragia subconjuntival à direita. Radiografia de tórax normal. Hemograma: leucócitos 14.800/mm³ com 62% de linfócitos. A irmã, que mora com ela, tem um bebê de 6 semanas. O agente mais provável é:",
+    "alternativas": {
+      "A": "Rinovírus, com tosse pós-viral",
+      "B": "Mycoplasma pneumoniae",
+      "C": "Adenovírus",
+      "D": "Bordetella pertussis"
+    },
+    "gabarito": "D",
+    "armadilha": "A",
+    "dado_decisivo": "vômito logo após os acessos",
+    "resolucao": "Tosse que começou com coriza, sem febre, com ausculta e radiografia normais, num adulto que está bem entre os episódios, é o retrato da tosse pós-viral, e o diagnóstico de rinovírus atrai. Mas a vacina da infância não protege o adulto décadas depois, e os dados que separam são os do acesso: tosse paroxística com guincho, vômito logo após os acessos, hemorragia subconjuntival pelo esforço e paciente assintomático entre as crises, com linfocitose absoluta (efeito da toxina pertussis). A fase paroxística começa cerca de 1 a 2 semanas depois da fase catarral, como aqui. O diagnóstico importa pelo contato: lactente de 6 semanas, ainda não protegido, tem alto risco de coqueluche grave, e deve receber quimioprofilaxia com azitromicina, assim como a paciente deve ser tratada e afastada até 5 dias de antibiótico. O Mycoplasma dá febre baixa, cefaleia e infiltrado, e o adenovírus, febre e conjuntivite.",
+    "comentarios": {
+      "A": "Errada. É a armadilha: a tosse pós-viral não tem guincho, vômito pós-acesso nem linfocitose de 62%.",
+      "B": "Errada. O Mycoplasma causa febre, cefaleia, mal-estar e frequentemente infiltrado radiológico, e não acessos com guincho e linfocitose.",
+      "C": "Errada. O adenovírus cursa com febre, faringite e conjuntivite folicular, e não com fase paroxística de semanas.",
+      "D": "Correta. Acessos com guincho, vômito pós-tosse, hemorragia subconjuntival, bem entre as crises e linfocitose, após fase catarral, são coqueluche."
+    },
+    "para_levar": "Tosse em acessos com guincho, vômito pós-tosse e linfocitose, sem febre e com radiografia normal, é coqueluche mesmo no adulto vacinado na infância; tratar e fazer profilaxia nos contatos vulneráveis.",
+    "referencias": "Ministério da Saúde, Guia de Vigilância em Saúde, 6ª ed. (2023), coqueluche; CDC, Pertussis: clinical overview (2024).",
+    "tags": [
+      "297 Whooping Cough and Other Bordetella Infections",
+      "Infecções Bacterianas (CM)"
+    ],
+    "sourceQuestionId": null,
+    "alvo": "Negativo no meio (sem febre, radiografia normal) que leva ao diagnóstico benigno.",
+    "area": "Infectologia"
+  }
 ]

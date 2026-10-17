@@ -8,7 +8,7 @@
   "nivel": "difícil",
   "enunciado": "Mulher de 46 anos, sem hipertensão, diabetes, tabagismo ou dislipidemia, teve afasia e hemiparesia direita súbitas há 3 semanas ao levantar peso na academia, com recuperação quase completa. RM: infarto cortical frontal esquerdo único. Angiotomografia de vasos cervicais e intracranianos sem dissecção, estenose ou placa. Ecocardiograma transesofágico: forame oval patente com passagem de mais de 30 microbolhas após manobra de Valsalva e aneurisma do septo interatrial, sem trombo ou vegetação. Holter de 30 dias sem fibrilação atrial; ultrassonografia venosa dos membros inferiores normal; anticardiolipina, anti-beta2-glicoproteína I e anticoagulante lúpico negativos. Para prevenção secundária, a conduta mais adequada é:",
   "alternativas": {
-   "A": "Fechamento percutâneo e antiagregação",
+   "A": "Fechamento percutâneo com AAS",
    "B": "AAS isolado, sem fechamento",
    "C": "Anticoagulação oral indefinida",
    "D": "Dupla antiagregação por 21 dias"
@@ -24,7 +24,7 @@
    "D": "Errada. Dupla antiagregação por 21 dias é para AVC menor ou AIT de alto risco não cardioembólico na fase aguda; não trata a causa e o evento foi há 3 semanas."
   },
   "para_levar": "AVC embólico sem outra causa, entre 18 e 60 anos, com forame oval de alto risco (shunt grande ou aneurisma de septo): fechamento percutâneo e antiagregação; anticoagular só se houver indicação própria.",
-  "referencias": "AHA/ASA 2021 Guideline for the Prevention of Stroke in Patients With Stroke and TIA; ESO Guideline on patent foramen ovale closure 2024 (Caso V et al.); Elgendy AY et al. PASCAL classification, JAMA Neurol 2020.",
+  "referencias": "AHA/ASA 2021 Guideline for the Prevention of Stroke in Patients With Stroke and TIA; Kavinsky CJ et al. SCAI Guidelines for the Management of Patent Foramen Ovale 2022; Kent DM et al. Heterogeneity of treatment effects of PFO closure (PASCAL), JAMA 2021.",
   "tags": [
    "AVC Isquêmico (CM)",
    "Cardiopatias congênitas (CM)"
@@ -58,7 +58,7 @@
    "D": "Errada. Corticoide oral tem efeito curto e não é conduta inicial, ainda mais na gestação."
   },
   "para_levar": "Túnel do carpo leve, sobretudo na gestação: órtese noturna primeiro; infiltração se falhar, cirurgia se houver déficit motor ou desnervação.",
-  "referencias": "AAOS Clinical Practice Guideline: Management of Carpal Tunnel Syndrome 2024; Padua L et al. Carpal tunnel syndrome: clinical features, diagnosis, and management. Lancet Neurol 2016.",
+  "referencias": "AAOS Clinical Practice Guideline: Management of Carpal Tunnel Syndrome 2016; Padua L et al. Carpal tunnel syndrome: clinical features, diagnosis, and management. Lancet Neurol 2016.",
   "tags": [
    "Síndrome do Túnel do Carpo (CM)"
   ],
@@ -104,35 +104,35 @@
  {
   "id": "S15-NEU-04",
   "simulado": 15,
-  "titulo": "Glicorraquia 'normal' no diabético que recebeu insulina antes da punção: sem glicemia simultânea não há razão, e a meningite crônica com VI nervo não é viral",
+  "titulo": "Síndrome das pernas inquietas com hemoglobina normal na mulher com menorragia prévia e IBP crônico: ferritina e saturação de transferrina antes de qualquer droga, sem polissonografia",
   "arma": "Dado omitido",
   "comando": "próximo exame",
   "nivel": "extremamente difícil",
-  "enunciado": "Homem de 58 anos, diabético tipo 2 em uso de insulina, é admitido com febre há 12 dias, cefaleia progressiva e, há 2 dias, diplopia. Glasgow 14, rigidez de nuca, paresia do VI nervo à esquerda. Na emergência, recebeu insulina regular IV porque a glicemia capilar marcava 'HI', e a punção lombar foi feita 3 horas depois, após TC de crânio sem lesão expansiva. Líquor: 210 células/mm³ (75% linfócitos), proteína 190 mg/dL, glicose 78 mg/dL, Gram e tinta da China negativos, ADA pendente. O laudo traz 'glicorraquia normal', e o plantonista sugere meningite viral. Antes de interpretar a glicorraquia, o exame indispensável é:",
+  "enunciado": "Mulher de 52 anos, com doença do refluxo em uso de omeprazol 40 mg/dia há 5 anos e menorragia até a menopausa, há 1 ano, queixa-se há 8 meses de necessidade incontrolável de mover as pernas ao deitar, com desconforto profundo nas panturrilhas que alivia enquanto caminha e piora no fim do dia; dorme mal, e o marido relata chutes durante a noite. Usa sertralina 50 mg/dia há 2 anos, por ansiedade, com bom controle. Exame neurológico normal, com sensibilidade vibratória e aquileus presentes; pulsos pediosos cheios, sem edema. Hb 12,4 g/dL, VCM 84 fL, creatinina 0,8 mg/dL, TSH e glicemia normais. A médica da unidade solicita polissonografia e cogita pramipexol. Antes de definir o tratamento, o exame mais adequado é:",
   "alternativas": {
-   "A": "Dosagem de lactato no líquor",
-   "B": "PCR para enterovírus no líquor",
-   "C": "Cultura para micobactérias no líquor",
-   "D": "Glicemia colhida no momento da punção"
+   "A": "Eletroneuromiografia dos membros inferiores",
+   "B": "Polissonografia com registro dos membros",
+   "C": "Dosagem sérica de vitamina B12",
+   "D": "Ferritina e saturação de transferrina"
   },
   "gabarito": "D",
   "armadilha": "B",
-  "dado_decisivo": "a punção lombar foi feita 3 horas depois",
-  "resolucao": "Glicose de 78 no líquor, num número absoluto, parece normal e libera a hipótese viral, e o PCR para enterovírus é a armadilha. Glicorraquia só se interpreta como razão com a glicemia do mesmo momento: o líquor reflete a glicemia das 2 a 4 horas anteriores, e este paciente estava com glicemia acima da leitura do glicosímetro antes da insulina. Com glicemia de, por exemplo, 300 mg/dL, 78 dá razão de 0,26, francamente baixa, compatível com meningite tuberculosa ou fúngica, e é isso que o resto do quadro sugere: 12 dias de febre, paralisia de nervo craniano, pleocitose linfocitária e proteína de 190. A glicemia sérica colhida na hora da punção (ou, na falta dela, uma estimativa com as glicemias seriadas do período) é o dado que falta. O lactato e a cultura ajudam, mas não substituem a razão, e o PCR para enterovírus responde a uma pergunta que o quadro não faz.",
+  "dado_decisivo": "omeprazol 40 mg/dia há 5 anos e menorragia até a menopausa",
+  "resolucao": "Os chutes noturnos e a insônia puxam para a polissonografia, e o pramipexol é a droga que ele lembra; é a armadilha de fazer o exame mais caro e pular o simples. A síndrome das pernas inquietas é diagnóstico clínico (urgência de mover as pernas, pior em repouso e à noite, aliviada pelo movimento), e a polissonografia não é necessária para confirmá-la. O que falta é o estoque de ferro, e a hemoglobina normal não o afasta: menorragia por anos e IBP crônico, que reduz a absorção de ferro, deixam ferritina baixa sem anemia. Com ferritina até 75 ng/mL ou saturação de transferrina abaixo de 20%, a diretriz recomenda repor ferro (de preferência venoso) antes ou junto de qualquer droga, e os agonistas dopaminérgicos deixaram de ser primeira escolha pelo risco de aumento (augmentation). A sertralina pode agravar os sintomas e merece revisão, mas não substitui a dosagem do ferro.",
   "comentarios": {
-   "A": "Errada. Lactato acima de 3,5 a 4 mmol/L ajuda a separar bacteriana de viral, mas não corrige a leitura da glicorraquia nem é decisivo na tuberculose.",
-   "B": "Errada, é a armadilha. Seria útil numa meningite linfocitária aguda de poucos dias, sem nervo craniano; aqui o curso subagudo e a proteína alta afastam o enterovírus.",
-   "C": "Errada. A cultura para micobactérias é necessária, mas leva semanas; não é o que permite interpretar a glicorraquia agora.",
-   "D": "Correta. Sem a glicemia simultânea não existe razão líquor/sangue, e com glicemia muito alta antes da insulina a glicose de 78 provavelmente é baixa."
+   "A": "Errada. ENMG seria o exame com queimação distal, hipoestesia ou reflexos abolidos sugerindo polineuropatia; o exame neurológico é normal.",
+   "B": "Errada, é a armadilha. Polissonografia caberia na dúvida com apneia do sono ou movimentos periódicos sem queixa sensitiva; aqui o diagnóstico é clínico e ela não muda a conduta.",
+   "C": "Errada. B12 seria pedida com macrocitose, parestesia ou sinais de cordão posterior; VCM e exame neurológico normais, e o IBP aqui pesa mais sobre o ferro.",
+   "D": "Correta. Ferritina e saturação de transferrina decidem a reposição de ferro, primeira medida quando a ferritina está até 75 ng/mL, mesmo com hemoglobina normal."
   },
-  "para_levar": "Glicorraquia é razão, nunca número isolado: sem glicemia colhida na hora da punção, 'normal' não quer dizer nada, sobretudo no diabético descompensado.",
-  "referencias": "Diretrizes do Ministério da Saúde: Manual de Recomendações para o Controle da Tuberculose no Brasil 2019 (atualização 2024); Thwaites GE et al. Tuberculous meningitis: more questions, still too few answers. Lancet Neurol 2013; IDSA 2017 Guidelines for Healthcare-Associated Ventriculitis and Meningitis (interpretação do líquor).",
+  "para_levar": "Pernas inquietas: diagnóstico clínico, sem polissonografia; dose ferritina e saturação de transferrina antes de qualquer droga e reponha ferro se ferritina até 75 ng/mL ou saturação abaixo de 20%, mesmo sem anemia.",
+  "referencias": "Winkelman JW et al. Treatment of restless legs syndrome and periodic limb movement disorder: an American Academy of Sleep Medicine clinical practice guideline. J Clin Sleep Med 2025; Allen RP et al. Restless legs syndrome/Willis-Ekbom disease diagnostic criteria (IRLSSG). Sleep Med 2014.",
   "tags": [
-   "Meningite Tuberculosa (CM)",
-   "Neuroinfecção (CM)"
+   "Distúrbios do Movimento (CM)",
+   "Anemia Ferropriva (CM)"
   ],
-  "sourceQuestionId": "60979354304f3ed",
-  "alvo": "Regra fixada da razão glicorraquia/glicemia com ângulo novo (dado omitido: a glicemia simultânea).",
+  "sourceQuestionId": null,
+  "alvo": "Dado omitido (ferro sem anemia) e exame a mais (polissonografia) no lugar do simples; próximo exame. Substitui a questão de glicorraquia, que repetia S3-NEU-05.",
   "area": "Neurologia"
  },
  {
@@ -144,10 +144,10 @@
   "nivel": "média",
   "enunciado": "Na síndrome amnéstica de Korsakoff que se segue à encefalopatia de Wernicke, a função de memória que se mantém relativamente preservada é:",
   "alternativas": {
-   "A": "Memória imediata, como a repetição de dígitos",
-   "B": "Aprendizado de informações novas",
-   "C": "Memória de fatos anteriores à doença",
-   "D": "Memória de fatos dos últimos dias"
+   "A": "Repetição imediata de dígitos",
+   "B": "Aprendizado de informação nova",
+   "C": "Memória de fatos antigos",
+   "D": "Memória dos últimos dias"
   },
   "gabarito": "A",
   "armadilha": "C",

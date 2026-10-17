@@ -1,204 +1,204 @@
 [
- {
-  "id": "S12-INF-01",
-  "simulado": 12,
-  "titulo": "Picada por aranha marrom grande ao calçar a bota, com dor imediata e duas marcas: Phoneutria, e não Loxosceles",
-  "arma": "Rótulo verdadeiro",
-  "comando": "etiologia",
-  "nivel": "difícil",
-  "enunciado": "Homem de 40 anos, trabalhador de bananal no Vale do Ribeira (SP), chega 40 minutos após ser picado no pé esquerdo ao calçar a bota, de madrugada. Diz que viu \"uma aranha marrom, grande e peluda\" fugir. Refere dor imediata e intensa, em queimação, que irradia para a perna. Exame: agitado, PA 154 x 92 mmHg, FC 112 bpm, FR 20 irpm, T 36,6 °C. No dorso do pé, duas marcas puntiformes próximas, com eritema discreto, edema leve e sudorese localizada; sem bolha, sem palidez ou placa marmórea, sem área de necrose. Não há ptose, rigidez abdominal, contraturas musculares ou priapismo. Urina de cor normal; hemograma e creatinina normais. O agente mais provável é:",
-  "alternativas": {
-   "A": "Phoneutria (armadeira)",
-   "B": "Tityus serrulatus (escorpião amarelo)",
-   "C": "Loxosceles (aranha-marrom)",
-   "D": "Latrodectus (viúva-negra)"
+  {
+    "id": "S12-INF-01",
+    "simulado": 12,
+    "titulo": "Picada por aranha marrom grande ao calçar a bota, com dor imediata e duas marcas: Phoneutria, e não Loxosceles",
+    "arma": "Rótulo verdadeiro",
+    "comando": "etiologia",
+    "nivel": "difícil",
+    "enunciado": "Homem de 40 anos, trabalhador de bananal no Vale do Ribeira (SP), chega 40 minutos após ser picado no pé esquerdo ao calçar a bota, de madrugada. Diz que viu \"uma aranha marrom, grande e peluda\" fugir. Refere dor imediata e intensa, em queimação, que irradia para a perna. Exame: agitado, PA 154 x 92 mmHg, FC 112 bpm, FR 20 irpm, T 36,6 °C. No dorso do pé, duas marcas puntiformes próximas, com eritema discreto, edema leve e sudorese localizada; sem bolha, sem palidez ou placa marmórea, sem área de necrose. Não há ptose, rigidez abdominal, contraturas musculares ou priapismo. Urina de cor normal; hemograma e creatinina normais. O agente mais provável é:",
+    "alternativas": {
+      "A": "Phoneutria (armadeira)",
+      "B": "Tityus serrulatus (escorpião amarelo)",
+      "C": "Loxosceles (aranha-marrom)",
+      "D": "Latrodectus (viúva-negra)"
+    },
+    "gabarito": "A",
+    "armadilha": "C",
+    "dado_decisivo": "Refere dor imediata e intensa",
+    "resolucao": "\"Aranha marrom\" é a descrição verdadeira do animal, e ela puxa para Loxosceles, a aranha-marrom do nome popular. Mas a armadeira (Phoneutria) também é marrom, grande e peluda, vive em bananais e se esconde em calçados, e o que separa as duas é o tempo da dor: a picada da Loxosceles é quase indolor, e a dor, a placa marmórea e a necrose surgem horas depois, enquanto a da Phoneutria provoca dor imediata e intensa, irradiada, com sudorese local e, por descarga adrenérgica, taquicardia, hipertensão e agitação. O escorpião dá quadro local e sistêmico parecido, mas deixa um ponto único de inoculação, e não as duas marcas das quelíceras. A viúva-negra causa dor local seguida de contraturas musculares, rigidez abdominal e fácies latrodectísmica, ausentes aqui. O tratamento da armadeira é sobretudo analgesia com bloqueio anestésico, com soro antiaracnídico reservado aos casos moderados e graves com manifestações sistêmicas (mais frequentes em crianças e idosos); aqui, os sinais adrenérgicos pedem observação e reavaliação depois da analgesia.",
+    "comentarios": {
+      "A": "Correta. Dor imediata, intensa e irradiada, sudorese local, duas marcas e sinais adrenérgicos, num bananal e dentro do calçado, são o acidente fonêutrico.",
+      "B": "Errada. Seria o agente se houvesse um único ponto de inoculação; o quadro local e adrenérgico é semelhante, mas as duas marcas indicam aranha.",
+      "C": "Errada. É a armadilha: a aranha-marrom dá picada pouco dolorosa, com placa marmórea e necrose em horas, e pode causar hemólise, nada disso presente.",
+      "D": "Errada. Seria o agente com contraturas, rigidez abdominal, tremores e fácies de dor, ausentes neste quadro."
+    },
+    "para_levar": "Nos acidentes por aranha, o tempo da dor separa os gêneros: dor imediata e intensa com sinais adrenérgicos é Phoneutria; picada indolor com lesão que piora em horas é Loxosceles.",
+    "referencias": "Ministério da Saúde, Guia de Vigilância em Saúde, 6ª ed. (2023), acidentes por animais peçonhentos; Manual de Diagnóstico e Tratamento de Acidentes por Animais Peçonhentos (MS/FUNASA).",
+    "tags": [
+      "Acidentes com Animais Peçonhentos (CM)",
+      "Demais acidentes (CM)"
+    ],
+    "sourceQuestionId": null,
+    "alvo": "Animais peçonhentos (1 de 4): o rótulo popular do animal contra o dado clínico que separa os gêneros.",
+    "area": "Infectologia"
   },
-  "gabarito": "A",
-  "armadilha": "C",
-  "dado_decisivo": "Refere dor imediata e intensa",
-  "resolucao": "\"Aranha marrom\" é a descrição verdadeira do animal, e ela puxa para Loxosceles, a aranha-marrom do nome popular. Mas a armadeira (Phoneutria) também é marrom, grande e peluda, vive em bananais e se esconde em calçados, e o que separa as duas é o tempo da dor: a picada da Loxosceles é quase indolor, e a dor, a placa marmórea e a necrose surgem horas depois, enquanto a da Phoneutria provoca dor imediata e intensa, irradiada, com sudorese local e, por descarga adrenérgica, taquicardia, hipertensão e agitação. O escorpião dá quadro local e sistêmico parecido, mas deixa um ponto único de inoculação, e não as duas marcas das quelíceras. A viúva-negra causa dor local seguida de contraturas musculares, rigidez abdominal e fácies latrodectísmica, ausentes aqui. O tratamento da armadeira é sobretudo analgesia com bloqueio anestésico, com soro antiaracnídico reservado aos casos com manifestações sistêmicas importantes.",
-  "comentarios": {
-   "A": "Correta. Dor imediata, intensa e irradiada, sudorese local, duas marcas e sinais adrenérgicos, num bananal e dentro do calçado, são o acidente fonêutrico.",
-   "B": "Errada. Seria o agente se houvesse um único ponto de inoculação; o quadro local e adrenérgico é semelhante, mas as duas marcas indicam aranha.",
-   "C": "Errada. É a armadilha: a aranha-marrom dá picada pouco dolorosa, com placa marmórea e necrose em horas, e pode causar hemólise, nada disso presente.",
-   "D": "Errada. Seria o agente com contraturas, rigidez abdominal, tremores e fácies de dor, ausentes neste quadro."
+  {
+    "id": "S12-INF-02",
+    "simulado": 12,
+    "titulo": "Endocardite com hemoculturas negativas por antibiótico iniciado antes da coleta, em paciente estável: suspender e repetir as culturas",
+    "arma": "Cronologia",
+    "comando": "próximo exame",
+    "nivel": "extremamente difícil",
+    "enunciado": "Mulher de 45 anos, com prolapso de valva mitral e insuficiência mitral moderada conhecidos, tem febre baixa, astenia e perda de 3 kg há 4 semanas. Há 9 dias, numa UPA, iniciou ceftriaxona por suspeita de infecção urinária, que a urocultura não confirmou; o antibiótico foi iniciado na UPA antes de qualquer hemocultura e é mantido até hoje. Melhorou parcialmente e foi encaminhada. Vive em área urbana, sem contato com gado, gatos ou leite não pasteurizado. Hoje: T 37,4 °C, PA 118 x 72 mmHg, FC 88 bpm, sopro sistólico mitral, sem dispneia, sem sinais de IC, sem déficit neurológico. Ecocardiograma transtorácico: vegetação de 6 mm em folheto posterior da mitral, sem abscesso ou perfuração. Três pares de hemoculturas colhidos na internação, há 5 dias, já em uso da ceftriaxona, estão negativos. Creatinina e urina normais. O próximo passo diagnóstico mais adequado é:",
+    "alternativas": {
+      "A": "Sorologias para Coxiella e Bartonella",
+      "B": "Suspender o antibiótico e repetir culturas",
+      "C": "PET-CT com FDG de corpo inteiro",
+      "D": "PCR de amplo espectro (16S) no sangue"
+    },
+    "gabarito": "B",
+    "armadilha": "A",
+    "dado_decisivo": "iniciado na UPA antes de qualquer hemocultura",
+    "resolucao": "Endocardite com hemoculturas negativas puxa para os agentes que não crescem em cultura (Coxiella, Bartonella, Tropheryma), e as sorologias são o reflexo de quem estudou o tema. Mas a causa mais frequente de hemocultura negativa na endocardite é o antibiótico dado antes da coleta, e é exatamente o que aconteceu aqui. Como a paciente está estável, sem insuficiência cardíaca, sem embolia e com vegetação pequena, a diretriz europeia aceita suspender o antibiótico e repetir os pares de hemocultura após alguns dias sem ele: identificar o agente define o esquema e a duração, que são diferentes para estreptococo, enterococo e estafilococo. Sorologias e PCR de amplo espectro entram se as novas culturas, colhidas sem antibiótico, também forem negativas, e a PCR rende sobretudo no tecido valvar. O PET-CT é útil na endocardite de prótese e não define o agente.",
+    "comentarios": {
+      "A": "Errada. É a armadilha: são o passo quando as hemoculturas colhidas sem antibiótico prévio são negativas; aqui há uma explicação mais simples.",
+      "B": "Correta. Paciente estável com culturas negativas por antibiótico prévio: suspender e repetir as hemoculturas permite identificar o agente e ajustar o esquema.",
+      "C": "Errada. Teria papel na suspeita de endocardite de prótese ou de dispositivo, e não identifica o micro-organismo numa valva nativa já com vegetação vista.",
+      "D": "Errada. A PCR de amplo espectro rende no tecido valvar operado; no sangue tem sensibilidade baixa e não é o passo inicial."
+    },
+    "para_levar": "Na endocardite com hemoculturas negativas, a primeira hipótese é o antibiótico prévio: no paciente estável, suspender e repetir as culturas antes de partir para sorologias de agentes exigentes.",
+    "referencias": "2023 ESC Guidelines for the management of endocarditis; AHA Scientific Statement on infective endocarditis in adults (2015).",
+    "tags": [
+      "Endocardite Bacteriana (CM)"
+    ],
+    "sourceQuestionId": "fe78e5e2317dd74",
+    "alvo": "Padrão de exame exótico antes do simples, em tema (endocardite) que ele erra com frequência.",
+    "area": "Infectologia"
   },
-  "para_levar": "Nos acidentes por aranha, o tempo da dor separa os gêneros: dor imediata e intensa com sinais adrenérgicos é Phoneutria; picada indolor com lesão que piora em horas é Loxosceles.",
-  "referencias": "Ministério da Saúde, Guia de Vigilância em Saúde, 6ª ed. (2023), acidentes por animais peçonhentos; Manual de Diagnóstico e Tratamento de Acidentes por Animais Peçonhentos (MS/FUNASA).",
-  "tags": [
-   "Acidentes com Animais Peçonhentos (CM)",
-   "Demais acidentes (CM)"
-  ],
-  "sourceQuestionId": null,
-  "alvo": "Animais peçonhentos (1 de 4): o rótulo popular do animal contra o dado clínico que separa os gêneros.",
-  "area": "Infectologia"
- },
- {
-  "id": "S12-INF-02",
-  "simulado": 12,
-  "titulo": "Endocardite com hemoculturas negativas por antibiótico iniciado antes da coleta, em paciente estável: suspender e repetir as culturas",
-  "arma": "Cronologia",
-  "comando": "próximo exame",
-  "nivel": "extremamente difícil",
-  "enunciado": "Mulher de 45 anos, com prolapso de valva mitral e insuficiência mitral moderada conhecidos, tem febre baixa, astenia e perda de 3 kg há 4 semanas. Há 5 dias, numa UPA, recebeu ceftriaxona, iniciada na UPA antes de qualquer hemocultura, por suspeita de infecção urinária, que a urocultura não confirmou. Melhorou parcialmente e foi encaminhada. Hoje: T 37,4 °C, PA 118 x 72 mmHg, FC 88 bpm, sopro sistólico mitral, sem dispneia, sem sinais de IC, sem déficit neurológico. Ecocardiograma transtorácico: vegetação de 6 mm em folheto posterior da mitral, sem abscesso ou perfuração. Três pares de hemoculturas colhidos na chegada estão negativos após 5 dias de incubação. Creatinina e urina normais. O próximo passo diagnóstico mais adequado é:",
-  "alternativas": {
-   "A": "Sorologias para Coxiella e Bartonella",
-   "B": "Suspender a ceftriaxona e repetir as hemoculturas",
-   "C": "PET-CT com FDG",
-   "D": "PCR de amplo espectro (16S) no sangue"
+  {
+    "id": "S12-INF-03",
+    "simulado": 12,
+    "titulo": "Aspergiloma simples, assintomático e estável em cavidade de tuberculose antiga: observação, sem antifúngico",
+    "arma": "Omissão",
+    "comando": "conduta",
+    "nivel": "difícil",
+    "enunciado": "Homem de 55 anos, ex-tabagista, tratou tuberculose pulmonar há 8 anos, com cura documentada. Está assintomático: nega tosse produtiva, hemoptise, febre e perda de peso. Uma TC de tórax feita para avaliar nódulo tireoidiano mostrou, no lobo superior direito, cavidade de paredes finas com massa arredondada de 2,5 cm em seu interior, que se desloca com a mudança de decúbito, deixando um crescente aéreo. A imagem está estável em relação à TC de 2 anos atrás, sem espessamento da parede nem novas cavidades. IgG anti-Aspergillus reagente; galactomanana sérica negativa; espirometria com VEF1 de 78% do previsto. A conduta mais adequada é:",
+    "alternativas": {
+      "A": "Embolização eletiva da artéria brônquica",
+      "B": "Ressecção cirúrgica do lobo superior",
+      "C": "Observação clínica com imagem periódica",
+      "D": "Voriconazol oral por 6 meses"
+    },
+    "gabarito": "C",
+    "armadilha": "D",
+    "dado_decisivo": "estável em relação à TC de 2 anos atrás",
+    "resolucao": "Aspergillus na imagem e sorologia reagente puxam para o antifúngico, e a fama de hemoptise maciça puxa para cirurgia ou embolização. Mas este é um aspergiloma simples: bola fúngica numa cavidade única, de parede fina, sem sintomas e estável há 2 anos, sem as cavidades novas e o espessamento progressivo que definem a aspergilose pulmonar crônica cavitária. O antifúngico oral não penetra a bola fúngica e não a elimina, e por isso não tem indicação no aspergiloma simples assintomático. A cirurgia é indicada quando há hemoptise ou sintomas, e a embolização é medida para hemoptise ativa ou grave, nunca profilática. A conduta é observar, com TC periódica (a cada 6 a 24 meses) e orientação para procurar atendimento se houver hemoptise.",
+    "comentarios": {
+      "A": "Errada. A embolização da artéria brônquica trata hemoptise importante ou recorrente; não se faz de forma eletiva em quem nunca sangrou.",
+      "B": "Errada. A ressecção é a conduta no aspergiloma simples sintomático, sobretudo com hemoptise, em paciente com reserva pulmonar.",
+      "C": "Correta. Aspergiloma simples, assintomático e estável é acompanhado sem tratamento, com imagem periódica.",
+      "D": "Errada. É a armadilha: o azólico é o tratamento da aspergilose crônica cavitária progressiva ou da forma invasiva, e não penetra a bola fúngica."
+    },
+    "para_levar": "Aspergiloma simples, assintomático e estável não se trata: observa-se. Cirurgia se houver hemoptise; azólico só na aspergilose crônica cavitária progressiva.",
+    "referencias": "Denning DW et al. ESCMID/ERS Guidelines for chronic pulmonary aspergillosis (2016); IDSA Practice Guidelines for Aspergillosis (2016).",
+    "tags": [
+      "Aspergilose (CM)"
+    ],
+    "sourceQuestionId": null,
+    "alvo": "Padrão dominante de tratar o que não precisa: a omissão como resposta certa.",
+    "area": "Infectologia"
   },
-  "gabarito": "B",
-  "armadilha": "A",
-  "dado_decisivo": "iniciada na UPA antes de qualquer hemocultura",
-  "resolucao": "Endocardite com hemoculturas negativas puxa para os agentes que não crescem em cultura (Coxiella, Bartonella, Tropheryma), e as sorologias são o reflexo de quem estudou o tema. Mas a causa mais frequente de hemocultura negativa na endocardite é o antibiótico dado antes da coleta, e é exatamente o que aconteceu aqui. Como a paciente está estável, sem insuficiência cardíaca, sem embolia e com vegetação pequena, a diretriz europeia aceita suspender o antibiótico e repetir os pares de hemocultura após alguns dias sem ele: identificar o agente define o esquema e a duração, que são diferentes para estreptococo, enterococo e estafilococo. Sorologias e PCR de amplo espectro entram se as novas culturas, colhidas sem antibiótico, também forem negativas, e a PCR rende sobretudo no tecido valvar. O PET-CT é útil na endocardite de prótese e não define o agente.",
-  "comentarios": {
-   "A": "Errada. É a armadilha: são o passo quando as hemoculturas colhidas sem antibiótico prévio são negativas; aqui há uma explicação mais simples.",
-   "B": "Correta. Paciente estável com culturas negativas por antibiótico prévio: suspender e repetir as hemoculturas permite identificar o agente e ajustar o esquema.",
-   "C": "Errada. Teria papel na suspeita de endocardite de prótese ou de dispositivo, e não identifica o micro-organismo numa valva nativa já com vegetação vista.",
-   "D": "Errada. A PCR de amplo espectro rende no tecido valvar operado; no sangue tem sensibilidade baixa e não é o passo inicial."
+  {
+    "id": "S12-INF-04",
+    "simulado": 12,
+    "titulo": "Pneumonia associada à ventilação por Pseudomonas com boa resposta: 7 dias e monoterapia guiada pelo antibiograma",
+    "arma": "Grade X / Y",
+    "comando": "conduta",
+    "nivel": "difícil",
+    "enunciado": "Homem de 60 anos está em ventilação mecânica há 8 dias após AVC hemorrágico. No 5º dia, teve febre, secreção traqueal purulenta, piora da oxigenação e infiltrado novo em base direita, e recebeu meropenem, amicacina e vancomicina após coleta de culturas. Precisou de noradrenalina por 24 horas, suspensa desde o 2º dia de tratamento. O aspirado traqueal quantitativo cresceu Pseudomonas aeruginosa (10^6 UFC/mL), sensível a cefepima, piperacilina-tazobactam, meropenem e amicacina; hemoculturas negativas; swab nasal sem MRSA. Hoje, no 3º dia de antibiótico, está afebril, com PaO2/FiO2 subindo de 180 para 290 e leucócitos em queda. Quanto à duração total e ao esquema a manter, respectivamente:",
+    "alternativas": {
+      "A": "14 dias / cefepima e amicacina",
+      "B": "7 dias / meropenem e amicacina",
+      "C": "14 dias / meropenem isolado",
+      "D": "7 dias / cefepima isolada"
+    },
+    "gabarito": "D",
+    "armadilha": "A",
+    "dado_decisivo": "suspensa desde o 2º dia de tratamento",
+    "resolucao": "Pseudomonas evoca duas regras antigas: tratar por 14 dias e manter terapia dupla, e é por isso que a combinação de 14 dias com dois antibióticos atrai. A diretriz da IDSA para pneumonia associada à ventilação recomenda 7 dias para todos os agentes, inclusive Pseudomonas e outros bacilos não fermentadores, quando a resposta clínica é boa, porque cursos longos não reduzem recidiva e aumentam resistência. A terapia dupla para Pseudomonas é empírica, para garantir que ao menos uma droga seja ativa enquanto o antibiograma não sai; com a sensibilidade conhecida e sem choque séptico persistente (a noradrenalina foi suspensa no 2º dia), recomenda-se monoterapia definitiva com a droga ativa de menor espectro. A vancomicina sai com o swab negativo para MRSA e a cultura sem Gram-positivo, e o meropenem é descalonado para cefepima, poupando carbapenêmico.",
+    "comentarios": {
+      "A": "Errada. É a armadilha: soma as duas regras antigas para Pseudomonas, curso longo e dupla cobertura, que a diretriz atual não sustenta com boa resposta e sem choque.",
+      "B": "Errada. Acerta a duração, mas mantém carbapenêmico e aminoglicosídeo sem necessidade, com mais nefrotoxicidade e pressão de resistência.",
+      "C": "Errada. Monoterapia está certa, mas a duração longa não traz benefício e o carbapenêmico deveria ser descalonado.",
+      "D": "Correta. Boa resposta e choque resolvido permitem 7 dias e monoterapia com a droga ativa de menor espectro, a cefepima."
+    },
+    "para_levar": "Na pneumonia associada à ventilação com boa resposta, 7 dias bastam mesmo para Pseudomonas, e a dupla cobertura é só empírica: com antibiograma e sem choque, descalonar para monoterapia.",
+    "referencias": "Kalil AC et al. IDSA/ATS Clinical Practice Guidelines for HAP and VAP (2016); ERS/ESICM/ESCMID/ALAT guidelines for HAP and VAP (2017).",
+    "tags": [
+      "Pneumonia Associada à Ventilação Mecânica (PAV)",
+      "Infecções Nosocomiais (CM)"
+    ],
+    "sourceQuestionId": null,
+    "alvo": "Padrão de fazer mais do que o caso pede (duração e espectro além do necessário).",
+    "area": "Infectologia"
   },
-  "para_levar": "Na endocardite com hemoculturas negativas, a primeira hipótese é o antibiótico prévio: no paciente estável, suspender e repetir as culturas antes de partir para sorologias de agentes exigentes.",
-  "referencias": "2023 ESC Guidelines for the management of endocarditis; AHA Scientific Statement on infective endocarditis in adults (2015).",
-  "tags": [
-   "Endocardite Bacteriana (CM)"
-  ],
-  "sourceQuestionId": "fe78e5e2317dd74",
-  "alvo": "Padrão de exame exótico antes do simples, em tema (endocardite) que ele erra com frequência.",
-  "area": "Infectologia"
- },
- {
-  "id": "S12-INF-03",
-  "simulado": 12,
-  "titulo": "Aspergiloma simples, assintomático e estável em cavidade de tuberculose antiga: observação, sem antifúngico",
-  "arma": "Omissão",
-  "comando": "conduta",
-  "nivel": "difícil",
-  "enunciado": "Homem de 55 anos, ex-tabagista, tratou tuberculose pulmonar há 8 anos, com cura documentada. Está assintomático: nega tosse produtiva, hemoptise, febre e perda de peso. Uma TC de tórax feita para avaliar nódulo tireoidiano mostrou, no lobo superior direito, cavidade de paredes finas com massa arredondada de 2,5 cm em seu interior, que se desloca com a mudança de decúbito, deixando um crescente aéreo. A imagem está estável em relação à TC de 2 anos atrás, sem espessamento da parede nem novas cavidades. IgG anti-Aspergillus reagente; galactomanana sérica negativa; espirometria com VEF1 de 78% do previsto. A conduta mais adequada é:",
-  "alternativas": {
-   "A": "Embolização eletiva da artéria brônquica",
-   "B": "Ressecção cirúrgica do lobo superior",
-   "C": "Observação clínica com imagem periódica",
-   "D": "Voriconazol oral por 6 meses"
+  {
+    "id": "S12-INF-05",
+    "simulado": 12,
+    "titulo": "Lesão renal aguda da leptospirose com diurese preservada: hipocalemia, e não hipercalemia",
+    "arma": "Qualificador",
+    "comando": "achado esperado",
+    "nivel": "difícil",
+    "enunciado": "Homem de 34 anos, catador de recicláveis, é internado no 6º dia de febre alta, cefaleia e mialgia intensa em panturrilhas, iniciados 10 dias após trabalhar com as pernas na água de uma enchente. Exame: icterícia de tonalidade alaranjada, sufusão conjuntival bilateral, PA 112 x 70 mmHg, sem edema. Exames: bilirrubina total 14 mg/dL (direta 11), AST 120 U/L, ALT 98 U/L, CK 2.100 U/L, plaquetas 62.000/mm³, ureia 142 mg/dL, creatinina 3,8 mg/dL. A diurese das últimas 24 horas, medida na enfermaria, foi de 1.900 mL, com diurese preservada desde a admissão. O distúrbio eletrolítico mais característico, esperado neste momento, é:",
+    "alternativas": {
+      "A": "Hipocalemia",
+      "B": "Hipercalemia",
+      "C": "Hipermagnesemia",
+      "D": "Hipercalcemia"
+    },
+    "gabarito": "A",
+    "armadilha": "B",
+    "dado_decisivo": "com diurese preservada desde a admissão",
+    "resolucao": "Creatinina de 3,8 mg/dL com ureia alta faz esperar o que se espera de qualquer lesão renal aguda grave, a hipercalemia, e por isso ela atrai. A lesão renal da leptospirose é diferente: a toxina da leptospira inibe o cotransportador Na-K-2Cl na alça e lesa o túbulo proximal, produzindo lesão renal aguda não oligúrica, com perda urinária de sódio e potássio. O resultado mais característico é hipocalemia, presente em boa parte dos pacientes na fase inicial, às vezes com hipomagnesemia. Isso tem consequência prática: a reposição de potássio pode ser necessária mesmo com creatinina alta, e a hipercalemia, quando aparece, marca evolução para oligúria e indica diálise precoce. O tratamento inclui penicilina cristalina ou ceftriaxona e diálise precoce se houver oligúria ou piora.",
+    "comentarios": {
+      "A": "Correta. A lesão renal da leptospirose é não oligúrica, com perda tubular de potássio, e a hipocalemia é o distúrbio característico.",
+      "B": "Errada. É a armadilha: é o esperado na necrose tubular aguda oligúrica comum ou na fase tardia da leptospirose que evoluiu para oligúria, não neste paciente com diurese preservada.",
+      "C": "Errada. A tubulopatia da leptospirose causa perda de magnésio, com hipomagnesemia, e não acúmulo.",
+      "D": "Errada. Hipercalcemia não faz parte da lesão renal da leptospirose; a rabdomiólise, quando grave, tende a baixar o cálcio na fase inicial."
+    },
+    "para_levar": "A lesão renal aguda da leptospirose é não oligúrica e hipocalêmica; hipercalemia indica oligúria e pede diálise precoce.",
+    "referencias": "Ministério da Saúde, Leptospirose: diagnóstico e manejo clínico (2014) e Guia de Vigilância em Saúde, 6ª ed. (2023).",
+    "tags": [
+      "Leptospirose (CM)",
+      "Icterícias Febris e FMB (CM)"
+    ],
+    "sourceQuestionId": "48e02c676c5784f",
+    "alvo": "Exame que decide lido como enfeite (a diurese preservada) diante do rótulo forte da creatinina alta.",
+    "area": "Infectologia"
   },
-  "gabarito": "C",
-  "armadilha": "D",
-  "dado_decisivo": "estável em relação à TC de 2 anos atrás",
-  "resolucao": "Aspergillus na imagem e sorologia reagente puxam para o antifúngico, e a fama de hemoptise maciça puxa para cirurgia ou embolização. Mas este é um aspergiloma simples: bola fúngica numa cavidade única, de parede fina, sem sintomas e estável há 2 anos, sem as cavidades novas e o espessamento progressivo que definem a aspergilose pulmonar crônica cavitária. O antifúngico oral não penetra a bola fúngica e não a elimina, e por isso não tem indicação no aspergiloma simples assintomático. A cirurgia é indicada quando há hemoptise ou sintomas, e a embolização é medida para hemoptise ativa ou grave, nunca profilática. A conduta é observar, com TC periódica (a cada 6 a 24 meses) e orientação para procurar atendimento se houver hemoptise.",
-  "comentarios": {
-   "A": "Errada. A embolização da artéria brônquica trata hemoptise importante ou recorrente; não se faz de forma eletiva em quem nunca sangrou.",
-   "B": "Errada. A ressecção é a conduta no aspergiloma simples sintomático, sobretudo com hemoptise, em paciente com reserva pulmonar.",
-   "C": "Correta. Aspergiloma simples, assintomático e estável é acompanhado sem tratamento, com imagem periódica.",
-   "D": "Errada. É a armadilha: o azólico é o tratamento da aspergilose crônica cavitária progressiva ou da forma invasiva, e não penetra a bola fúngica."
-  },
-  "para_levar": "Aspergiloma simples, assintomático e estável não se trata: observa-se. Cirurgia se houver hemoptise; azólico só na aspergilose crônica cavitária progressiva.",
-  "referencias": "Denning DW et al. ESCMID/ERS Guidelines for chronic pulmonary aspergillosis (2016); IDSA Practice Guidelines for Aspergillosis (2016).",
-  "tags": [
-   "Aspergilose (CM)"
-  ],
-  "sourceQuestionId": null,
-  "alvo": "Padrão dominante de tratar o que não precisa: a omissão como resposta certa.",
-  "area": "Infectologia"
- },
- {
-  "id": "S12-INF-04",
-  "simulado": 12,
-  "titulo": "Pneumonia associada à ventilação por Pseudomonas com boa resposta: 7 dias e monoterapia guiada pelo antibiograma",
-  "arma": "Grade X / Y",
-  "comando": "conduta",
-  "nivel": "difícil",
-  "enunciado": "Homem de 60 anos está em ventilação mecânica há 8 dias após AVC hemorrágico. No 5º dia, teve febre, secreção traqueal purulenta, piora da oxigenação e infiltrado novo em base direita, e recebeu meropenem, amicacina e vancomicina após coleta de culturas. Precisou de noradrenalina por 24 horas, suspensa desde o 2º dia de tratamento. O aspirado traqueal quantitativo cresceu Pseudomonas aeruginosa (10^6 UFC/mL), sensível a cefepima, piperacilina-tazobactam, meropenem e amicacina; hemoculturas negativas; swab nasal sem MRSA. Hoje, no 3º dia de antibiótico, está afebril, com PaO2/FiO2 subindo de 180 para 290 e leucócitos em queda. Quanto à duração total e ao esquema a manter, respectivamente:",
-  "alternativas": {
-   "A": "14 dias / cefepima e amicacina",
-   "B": "7 dias / meropenem e amicacina",
-   "C": "14 dias / meropenem isolado",
-   "D": "7 dias / cefepima isolada"
-  },
-  "gabarito": "D",
-  "armadilha": "A",
-  "dado_decisivo": "suspensa desde o 2º dia de tratamento",
-  "resolucao": "Pseudomonas evoca duas regras antigas: tratar por 14 dias e manter terapia dupla, e é por isso que a combinação de 14 dias com dois antibióticos atrai. A diretriz da IDSA para pneumonia associada à ventilação recomenda 7 dias para todos os agentes, inclusive Pseudomonas e outros bacilos não fermentadores, quando a resposta clínica é boa, porque cursos longos não reduzem recidiva e aumentam resistência. A terapia dupla para Pseudomonas é empírica, para garantir que ao menos uma droga seja ativa enquanto o antibiograma não sai; com a sensibilidade conhecida e sem choque séptico persistente (a noradrenalina foi suspensa no 2º dia), recomenda-se monoterapia definitiva com a droga ativa de menor espectro. A vancomicina sai com o swab negativo para MRSA e a cultura sem Gram-positivo, e o meropenem é descalonado para cefepima, poupando carbapenêmico.",
-  "comentarios": {
-   "A": "Errada. É a armadilha: soma as duas regras antigas para Pseudomonas, curso longo e dupla cobertura, que a diretriz atual não sustenta com boa resposta e sem choque.",
-   "B": "Errada. Acerta a duração, mas mantém carbapenêmico e aminoglicosídeo sem necessidade, com mais nefrotoxicidade e pressão de resistência.",
-   "C": "Errada. Monoterapia está certa, mas a duração longa não traz benefício e o carbapenêmico deveria ser descalonado.",
-   "D": "Correta. Boa resposta e choque resolvido permitem 7 dias e monoterapia com a droga ativa de menor espectro, a cefepima."
-  },
-  "para_levar": "Na pneumonia associada à ventilação com boa resposta, 7 dias bastam mesmo para Pseudomonas, e a dupla cobertura é só empírica: com antibiograma e sem choque, descalonar para monoterapia.",
-  "referencias": "Kalil AC et al. IDSA/ATS Clinical Practice Guidelines for HAP and VAP (2016); ERS/ESICM/ESCMID/ALAT guidelines for HAP and VAP (2017).",
-  "tags": [
-   "Pneumonia Associada à Ventilação Mecânica (PAV)",
-   "Infecções Nosocomiais (CM)"
-  ],
-  "sourceQuestionId": null,
-  "alvo": "Padrão de fazer mais do que o caso pede (duração e espectro além do necessário).",
-  "area": "Infectologia"
- },
- {
-  "id": "S12-INF-05",
-  "simulado": 12,
-  "titulo": "Lesão renal aguda da leptospirose com diurese preservada: hipocalemia, e não hipercalemia",
-  "arma": "Qualificador",
-  "comando": "achado esperado",
-  "nivel": "difícil",
-  "enunciado": "Homem de 34 anos, catador de recicláveis, é internado no 6º dia de febre alta, cefaleia e mialgia intensa em panturrilhas, iniciados 10 dias após trabalhar com as pernas na água de uma enchente. Exame: icterícia de tonalidade alaranjada, sufusão conjuntival bilateral, PA 112 x 70 mmHg, sem edema. Exames: bilirrubina total 14 mg/dL (direta 11), AST 120 U/L, ALT 98 U/L, CK 2.100 U/L, plaquetas 62.000/mm³, ureia 142 mg/dL, creatinina 3,8 mg/dL. A diurese das últimas 24 horas, medida na enfermaria, foi de 1.900 mL, com diurese preservada desde a admissão. O distúrbio eletrolítico mais característico, esperado neste momento, é:",
-  "alternativas": {
-   "A": "Hipocalemia",
-   "B": "Hipercalemia",
-   "C": "Hipermagnesemia",
-   "D": "Hipercalcemia"
-  },
-  "gabarito": "A",
-  "armadilha": "B",
-  "dado_decisivo": "com diurese preservada desde a admissão",
-  "resolucao": "Creatinina de 3,8 mg/dL com ureia alta faz esperar o que se espera de qualquer lesão renal aguda grave, a hipercalemia, e por isso ela atrai. A lesão renal da leptospirose é diferente: a toxina da leptospira inibe o cotransportador Na-K-2Cl na alça e lesa o túbulo proximal, produzindo lesão renal aguda não oligúrica, com perda urinária de sódio e potássio. O resultado mais característico é hipocalemia, presente em boa parte dos pacientes na fase inicial, às vezes com hipomagnesemia. Isso tem consequência prática: a reposição de potássio pode ser necessária mesmo com creatinina alta, e a hipercalemia, quando aparece, marca evolução para oligúria e indica diálise precoce. O tratamento inclui penicilina cristalina ou ceftriaxona e diálise precoce se houver oligúria ou piora.",
-  "comentarios": {
-   "A": "Correta. A lesão renal da leptospirose é não oligúrica, com perda tubular de potássio, e a hipocalemia é o distúrbio característico.",
-   "B": "Errada. É a armadilha: é o esperado na necrose tubular aguda oligúrica comum ou na fase tardia da leptospirose que evoluiu para oligúria, não neste paciente com diurese preservada.",
-   "C": "Errada. A tubulopatia da leptospirose causa perda de magnésio, com hipomagnesemia, e não acúmulo.",
-   "D": "Errada. Hipercalcemia não faz parte da lesão renal da leptospirose; a rabdomiólise, quando grave, tende a baixar o cálcio na fase inicial."
-  },
-  "para_levar": "A lesão renal aguda da leptospirose é não oligúrica e hipocalêmica; hipercalemia indica oligúria e pede diálise precoce.",
-  "referencias": "Ministério da Saúde, Leptospirose: diagnóstico e manejo clínico (2014) e Guia de Vigilância em Saúde, 6ª ed. (2023).",
-  "tags": [
-   "Leptospirose (CM)",
-   "Icterícias Febris e FMB (CM)"
-  ],
-  "sourceQuestionId": "48e02c676c5784f",
-  "alvo": "Exame que decide lido como enfeite (a diurese preservada) diante do rótulo forte da creatinina alta.",
-  "area": "Infectologia"
- },
- {
-  "id": "S12-INF-06",
-  "simulado": 12,
-  "titulo": "Exposição percutânea a fonte HBsAg reagente em profissional vacinada sem anti-HBs documentado: dosar anti-HBs antes de decidir",
-  "arma": "Dado omitido",
-  "comando": "próximo exame",
-  "nivel": "difícil",
-  "enunciado": "Técnica de enfermagem de 30 anos sofreu, há 1 hora, perfuração do dedo com agulha oca usada em punção venosa de um paciente sabidamente HBsAg reagente e HBeAg reagente. Lavou o local com água e sabão. Ela tomou as três doses da vacina contra hepatite B no curso técnico, há 8 anos, com cartão de vacina que comprova as datas, e nunca dosou o anti-HBs depois disso. Está saudável e não tem imunodeficiência. As sorologias do paciente-fonte para HIV e hepatite C, feitas hoje por teste rápido, são não reagentes. O próximo exame mais adequado para definir a profilaxia contra a hepatite B é:",
-  "alternativas": {
-   "A": "HBV-DNA quantitativo do paciente-fonte",
-   "B": "HBsAg e anti-HBc da profissional em 30 dias",
-   "C": "Anti-HBs da profissional, agora",
-   "D": "Nenhum, por ter esquema vacinal completo"
-  },
-  "gabarito": "C",
-  "armadilha": "D",
-  "dado_decisivo": "nunca dosou o anti-HBs depois disso",
-  "resolucao": "Esquema completo comprovado leva a concluir que ela está protegida, e a omissão de qualquer exame atrai. O dado que falta no prontuário é o que define a conduta: sem anti-HBs documentado após a vacinação, não se sabe se ela é respondedora, e cerca de 5 a 10% dos adultos vacinados não soroconvertem. Diante de fonte HBsAg reagente, a conduta é dosar o anti-HBs da exposta imediatamente: se for igual ou maior que 10 mUI/mL, nenhuma profilaxia; se for menor, ela recebe imunoglobulina humana anti-hepatite B (idealmente nas primeiras 48 horas, até 7 dias) e uma dose de reforço da vacina, completando nova série se necessário. O HBV-DNA da fonte não muda a profilaxia, porque a fonte já é sabidamente infectante, e as sorologias de seguimento da exposta não decidem a conduta de agora.",
-  "comentarios": {
-   "A": "Errada. A fonte já é HBsAg e HBeAg reagente, com risco de transmissão alto; a carga viral dela não altera a indicação da profilaxia.",
-   "B": "Errada. Serve ao seguimento sorológico após a exposição, mas não define o que fazer nas próximas horas.",
-   "C": "Correta. Vacinada com resposta desconhecida e fonte HBsAg reagente: o anti-HBs de agora separa quem não precisa de nada de quem precisa de imunoglobulina e reforço.",
-   "D": "Errada. É a armadilha: valeria para quem tem anti-HBs igual ou maior que 10 documentado após a vacina; sem esse dado, a resposta vacinal é desconhecida."
-  },
-  "para_levar": "Na exposição a fonte HBsAg reagente, vacinado sem anti-HBs documentado é vacinado de resposta desconhecida: dosar anti-HBs na hora e dar imunoglobulina e reforço se vier abaixo de 10.",
-  "referencias": "Ministério da Saúde, PCDT para Profilaxia Pós-Exposição (PEP) de Risco à Infecção pelo HIV, IST e Hepatites Virais (2021, atualização 2024).",
-  "tags": [
-   "Profilaxia da Hepatite B (CM)",
-   "Hepatite B (CM)"
-  ],
-  "sourceQuestionId": "40eddf59ce4b776",
-  "alvo": "Próximo exame e dado omitido: o antecedente da primeira linha que muda a profilaxia.",
-  "area": "Infectologia"
- }
+  {
+    "id": "S12-INF-06",
+    "simulado": 12,
+    "titulo": "Exposição percutânea a fonte HBsAg reagente em profissional vacinada sem anti-HBs documentado: dosar anti-HBs antes de decidir",
+    "arma": "Dado omitido",
+    "comando": "próximo exame",
+    "nivel": "difícil",
+    "enunciado": "Técnica de enfermagem de 30 anos sofreu, há 1 hora, perfuração do dedo com agulha oca usada em punção venosa de um paciente sabidamente HBsAg reagente e HBeAg reagente. Lavou o local com água e sabão. Ela tomou as três doses da vacina contra hepatite B no curso técnico, há 8 anos, com cartão de vacina que comprova as datas, e nunca dosou o anti-HBs depois disso. Está saudável e não tem imunodeficiência. As sorologias do paciente-fonte para HIV e hepatite C, feitas hoje por teste rápido, são não reagentes. O próximo exame mais adequado para definir a profilaxia contra a hepatite B é:",
+    "alternativas": {
+      "A": "HBV-DNA quantitativo do paciente-fonte",
+      "B": "HBsAg e anti-HBc da profissional em 30 dias",
+      "C": "Anti-HBs da profissional, agora",
+      "D": "Nenhum, por ter esquema vacinal completo"
+    },
+    "gabarito": "C",
+    "armadilha": "D",
+    "dado_decisivo": "nunca dosou o anti-HBs depois disso",
+    "resolucao": "Esquema completo comprovado leva a concluir que ela está protegida, e a omissão de qualquer exame atrai. O dado que falta no prontuário é o que define a conduta: sem anti-HBs documentado após a vacinação, não se sabe se ela é respondedora, e cerca de 5 a 10% dos adultos vacinados não soroconvertem. Diante de fonte HBsAg reagente, a conduta é dosar o anti-HBs da exposta imediatamente: se for igual ou maior que 10 mUI/mL, nenhuma profilaxia; se for menor, ela recebe imunoglobulina humana anti-hepatite B (idealmente nas primeiras 48 horas, até 7 dias) e uma dose de reforço da vacina, completando nova série se necessário. O HBV-DNA da fonte não muda a profilaxia, porque a fonte já é sabidamente infectante, e as sorologias de seguimento da exposta não decidem a conduta de agora.",
+    "comentarios": {
+      "A": "Errada. A fonte já é HBsAg e HBeAg reagente, com risco de transmissão alto; a carga viral dela não altera a indicação da profilaxia.",
+      "B": "Errada. Serve ao seguimento sorológico após a exposição, mas não define o que fazer nas próximas horas.",
+      "C": "Correta. Vacinada com resposta desconhecida e fonte HBsAg reagente: o anti-HBs de agora separa quem não precisa de nada de quem precisa de imunoglobulina e reforço.",
+      "D": "Errada. É a armadilha: valeria para quem tem anti-HBs igual ou maior que 10 documentado após a vacina; sem esse dado, a resposta vacinal é desconhecida."
+    },
+    "para_levar": "Na exposição a fonte HBsAg reagente, vacinado sem anti-HBs documentado é vacinado de resposta desconhecida: dosar anti-HBs na hora e dar imunoglobulina e reforço se vier abaixo de 10.",
+    "referencias": "Ministério da Saúde, PCDT para Profilaxia Pós-Exposição (PEP) de Risco à Infecção pelo HIV, IST e Hepatites Virais (2021).",
+    "tags": [
+      "Profilaxia da Hepatite B (CM)",
+      "Hepatite B (CM)"
+    ],
+    "sourceQuestionId": "40eddf59ce4b776",
+    "alvo": "Próximo exame e dado omitido: o antecedente da primeira linha que muda a profilaxia.",
+    "area": "Infectologia"
+  }
 ]

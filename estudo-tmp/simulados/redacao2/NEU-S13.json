@@ -24,7 +24,7 @@
    "D": "Errada. Radiografia dinâmica avalia instabilidade em espondilolistese, não mostra disco nem raízes."
   },
   "para_levar": "Lombociatalgia com retenção urinária, anestesia em sela ou tônus anal reduzido é síndrome da cauda equina até prova em contrário: RM de urgência, mesmo com força normal e com uma droga que explicaria a retenção.",
-  "referencias": "NICE guideline NG59 (Low back pain and sciatica), atualização 2020; Getting It Right First Time (GIRFT) National Suspected Cauda Equina Syndrome Pathway 2023; North American Spine Society guideline 2020.",
+  "referencias": "NICE guideline NG59 (Low back pain and sciatica), atualização 2020; Getting It Right First Time (GIRFT) National Suspected Cauda Equina Syndrome Pathway 2023.",
   "tags": [
    "Lombalgia (CM)",
    "Neuroanatomia (CM)"
@@ -79,7 +79,7 @@
    "A": "Ptose da pálpebra direita",
    "B": "Limitação da elevação do olho direito",
    "C": "Pupila direita fotorreagente",
-   "D": "Adução direita preservada na convergência"
+   "D": "Adução direita na convergência"
   },
   "gabarito": "D",
   "armadilha": "C",
@@ -138,34 +138,35 @@
  {
   "id": "S13-NEU-05",
   "simulado": 13,
-  "titulo": "Morte encefálica no adulto pela Resolução CFM 2.173/2017: intervalo mínimo de 1 hora entre os dois exames clínicos",
-  "arma": "Limiar",
+  "titulo": "Morte encefálica pela Resolução CFM 2.173/2017: a hora do óbito é a da conclusão do último procedimento, não a da assistolia",
+  "arma": "Cronologia",
   "comando": "fato solto",
   "nivel": "média",
-  "enunciado": "Pela Resolução CFM nº 2.173/2017, em paciente de 40 anos, com lesão encefálica estrutural conhecida e todos os pré-requisitos cumpridos, o intervalo mínimo entre o primeiro e o segundo exame clínico para a determinação de morte encefálica é de:",
+  "enunciado": "Homem de 58 anos, com hemorragia intraparenquimatosa hipertensiva e herniação, cumpre todos os pré-requisitos e é submetido ao protocolo de morte encefálica: primeiro exame clínico concluído às 8h; teste de apneia concluído às 8h40, com PaCO2 final de 68 mmHg e nenhum movimento respiratório; segundo exame clínico, por outro médico capacitado, concluído às 10h; Doppler transcraniano com padrão de parada circulatória encefálica concluído às 13h. A família, informada de cada etapa, recusa a doação; o suporte é retirado e a assistolia ocorre às 16h. Pela Resolução CFM nº 2.173/2017, a hora a ser registrada como a da morte na declaração de óbito é:",
   "alternativas": {
-   "A": "6 horas",
-   "B": "12 horas",
-   "C": "1 hora",
-   "D": "24 horas"
+   "A": "8h40",
+   "B": "10h",
+   "C": "13h",
+   "D": "16h"
   },
   "gabarito": "C",
-  "armadilha": "A",
-  "dado_decisivo": "paciente de 40 anos",
-  "resolucao": "Seis horas era o intervalo da resolução antiga (CFM 1.480/1997) para maiores de 2 anos, e por isso é a armadilha; a confusão aumenta porque 6 horas continua existindo, mas como tempo mínimo de observação e tratamento antes de abrir o protocolo. Na resolução vigente, os intervalos entre os dois exames clínicos dependem da idade: 24 horas de 7 dias a 2 meses incompletos, 12 horas de 2 a 24 meses incompletos, e 1 hora acima de 2 anos. Os 24 horas que ele já viu são outra regra: observação mínima antes do protocolo na encefalopatia hipóxico-isquêmica após PCR. Os dois exames são feitos por médicos diferentes, e o teste de apneia e um exame complementar completam o diagnóstico.",
+  "armadilha": "D",
+  "dado_decisivo": "Doppler transcraniano com padrão de parada circulatória encefálica concluído às 13h",
+  "resolucao": "A intuição leiga, e de muito médico, é que a morte acontece quando o coração para, e a assistolia das 16h é a armadilha. Pela resolução, a morte encefálica é a morte, e a declaração de óbito registra como data e hora aquelas da conclusão do último procedimento de determinação. Os procedimentos obrigatórios são três: dois exames clínicos por médicos diferentes, um teste de apneia e um exame complementar; aqui o último a terminar foi o Doppler transcraniano, às 13h. O teste de apneia positivo (PaCO2 acima de 55 mmHg sem incursões) e o segundo exame clínico não encerram o diagnóstico enquanto falta o exame complementar. A recusa da doação não muda a hora da morte: muda só o que se faz depois dela, e a retirada do suporte de um morto não é um novo óbito.",
   "comentarios": {
-   "A": "Errada, é a armadilha. Era o intervalo da resolução de 1997; hoje 6 horas é o tempo mínimo de observação antes de abrir o protocolo.",
-   "B": "Errada. Doze horas é o intervalo para crianças de 2 a 24 meses incompletos.",
-   "C": "Correta. Acima de 2 anos de idade, o intervalo mínimo entre os dois exames clínicos é de 1 hora.",
-   "D": "Errada. Vinte e quatro horas é o intervalo de 7 dias a 2 meses incompletos, e a observação mínima após encefalopatia hipóxico-isquêmica."
+   "A": "Errada. O teste de apneia é um dos procedimentos, mas não o último; seria a hora da morte só se tivesse sido o último a ser concluído.",
+   "B": "Errada. O segundo exame clínico fecha a parte clínica, mas o exame complementar ainda não tinha sido feito; seria a resposta se o Doppler tivesse sido feito antes dele.",
+   "C": "Correta. A hora da morte é a da conclusão do último procedimento de determinação, aqui o Doppler transcraniano.",
+   "D": "Errada, é a armadilha. A assistolia após a retirada do suporte seria a hora do óbito num paciente sem morte encefálica, em que a morte é determinada por critério cardiorrespiratório."
   },
-  "para_levar": "CFM 2.173/2017: observação mínima de 6 horas (24 horas após PCR) antes de abrir o protocolo; intervalo entre os exames clínicos de 1 hora acima de 2 anos.",
-  "referencias": "Resolução CFM nº 2.173/2017 e anexo (Manual de Determinação de Morte Encefálica).",
+  "para_levar": "Na morte encefálica, a hora do óbito é a da conclusão do último procedimento obrigatório (dois exames clínicos, apneia e exame complementar), independentemente da doação e da assistolia posterior.",
+  "referencias": "Resolução CFM nº 2.173/2017, art. 2º e art. 9º, e anexo I (Manual de Procedimentos para Determinação da Morte Encefálica).",
   "tags": [
-   "Morte Encefálica (CM)"
+   "Morte Encefálica (CM)",
+   "AVC Hemorrágico (CM)"
   ],
   "sourceQuestionId": "2304d324f91103e",
-  "alvo": "Limiares numéricos vizinhos confundidos (observação x intervalo; regra antiga x vigente).",
+  "alvo": "Cronologia de um rito normativo: qual procedimento encerra o diagnóstico, contra a intuição da assistolia; ângulo distinto de S2-NEU-07 e de S11-NEU-04.",
   "area": "Neurologia"
  }
 ]
