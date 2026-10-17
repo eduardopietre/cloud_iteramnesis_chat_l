@@ -1,0 +1,175 @@
+[
+ {
+  "id": "S13-NEF-01",
+  "simulado": 13,
+  "area": "Nefrologia",
+  "titulo": "Gestante com nefropatia por IgA, PA e proteinúria subindo no terceiro trimestre · relação sFlt-1/PlGF para separar pré-eclâmpsia sobreposta, e não biópsia",
+  "arma": "Rótulo verdadeiro",
+  "comando": "próximo exame",
+  "nivel": "extremamente difícil",
+  "enunciado": "Mulher de 32 anos, primigesta com 29 semanas, com nefropatia por IgA diagnosticada por biópsia há três anos, creatinina pré-gestacional de 1,1 mg/dL e proteinúria de 0,9 g/24 h; trocou a losartana por nifedipino antes de engravidar e usa AAS 150 mg/dia desde a 12ª semana. Na consulta de rotina: PA 146/94 mmHg (era 124/78 mmHg com 24 semanas), sem cefaleia, sem dor epigástrica, edema discreto. Exames: creatinina 1,2 mg/dL, relação proteína/creatinina urinária de 2,4 g/g (era 1,0 g/g no primeiro trimestre), sedimento com 8 hemácias por campo (semelhante aos anteriores), hemoglobina 11,2 g/dL, plaquetas 210.000/mm³, AST 22 U/L, LDH 190 U/L. Ultrassonografia obstétrica com crescimento fetal no percentil 40. Para separar pré-eclâmpsia sobreposta de atividade da doença renal, o exame mais útil neste momento é:",
+  "alternativas": {
+   "A": "Relação sFlt-1/PlGF sérica",
+   "B": "Biópsia renal percutânea",
+   "C": "Proteinúria de 24 horas",
+   "D": "Ácido úrico sérico"
+  },
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "PA 146/94 mmHg (era 124/78 mmHg com 24 semanas)",
+  "resolucao": "A nefropatia por IgA é real e a proteinúria subiu, o que puxa para atividade glomerular e para a biópsia. Mas, na gestante com doença renal crônica, proteinúria e creatinina já alteradas não servem para diagnosticar pré-eclâmpsia, e a elevação nova da PA depois da 20ª semana é exatamente o sinal que a pré-eclâmpsia sobreposta dá. O sedimento igual aos anteriores fala contra atividade nefrítica. A relação sFlt-1/PlGF (ou o PlGF isolado) reflete o desequilíbrio angiogênico placentário e não depende da doença renal: valor baixo praticamente exclui pré-eclâmpsia na semana seguinte, e valor alto a sustenta. A biópsia renal depois de 28 semanas tem risco maior de sangramento e raramente muda a conduta antes do parto.",
+  "comentarios": {
+   "A": "Correta. O marcador angiogênico separa pré-eclâmpsia sobreposta de piora da doença renal, porque não depende da proteinúria basal.",
+   "B": "Errada. Seria discutida antes de 28 semanas com sedimento nefrítico novo; com 29 semanas, sedimento estável e suspeita de pré-eclâmpsia, o risco não se justifica.",
+   "C": "Errada. Quantificar de novo a proteinúria não ajuda: ela já era alta antes da gestação e subiria nos dois diagnósticos.",
+   "D": "Errada. O ácido úrico sobe na pré-eclâmpsia, mas também na doença renal; tem baixo valor para separar as duas."
+  },
+  "para_levar": "Na gestante com doença renal crônica, proteinúria e creatinina não diagnosticam pré-eclâmpsia; a PA nova e os marcadores angiogênicos (sFlt-1/PlGF) é que separam.",
+  "referencias": "ISSHP 2021 classification, diagnosis and management of hypertensive disorders of pregnancy; NICE NG133 (atualização 2023, testes baseados em PlGF); FEBRASGO, Protocolo de pré-eclâmpsia 2023.",
+  "tags": [
+   "Nefropatia por IgA (CM)",
+   "Doença Renal Crônica (CM)",
+   "Hipertensão Arterial Sistêmica (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Próximo exame: o rótulo verdadeiro (glomerulopatia conhecida) leva ao exame invasivo do degrau errado."
+ },
+ {
+  "id": "S13-NEF-02",
+  "simulado": 13,
+  "area": "Nefrologia",
+  "titulo": "Vancomicina na bacteremia por MRSA · monitorar pela AUC de 24 horas de 400 a 600, e não pelo vale de 15 a 20",
+  "arma": "Grade X / Y",
+  "comando": "fato solto",
+  "nivel": "média",
+  "enunciado": "Na bacteremia por Staphylococcus aureus resistente à oxacilina, tratada com vancomicina em adulto com função renal estável, o parâmetro recomendado para monitorar a dose e o seu alvo, para reduzir a nefrotoxicidade sem perder eficácia, são, respectivamente:",
+  "alternativas": {
+   "A": "Nível de vale / 15 a 20 mg/L",
+   "B": "Nível de vale / 10 a 15 mg/L",
+   "C": "AUC de 24 horas / 400 a 600 mg·h/L",
+   "D": "AUC de 24 horas / 600 a 800 mg·h/L"
+  },
+  "gabarito": "C",
+  "armadilha": "A",
+  "dado_decisivo": "para reduzir a nefrotoxicidade sem perder eficácia",
+  "resolucao": "O vale de 15 a 20 mg/L foi a regra por mais de uma década e é o que fica na memória. A revisão de 2020 do consenso das sociedades americanas de farmácia e infectologia abandonou o vale como alvo nas infecções graves por MRSA: para chegar a 15 a 20, a exposição total costuma passar muito da necessária, e a nefrotoxicidade cresce com a AUC acima de 600 a 800 mg·h/L. O alvo passou a ser a AUC de 24 horas de 400 a 600 mg·h/L (assumindo CIM de 1), estimada de preferência por software bayesiano com uma ou duas dosagens. Vale baixo, entre 10 e 15, é o caminho da subdosagem, e AUC acima de 600 é o da lesão renal.",
+  "comentarios": {
+   "A": "Errada. Era a recomendação de 2009; persegui-lo aumenta a lesão renal sem ganho de eficácia, e o consenso de 2020 o abandonou.",
+   "B": "Errada. Nas duas metades: o vale não é mais o parâmetro, e esse valor isolado não garante a exposição eficaz.",
+   "C": "Correta. AUC de 24 horas entre 400 e 600 mg·h/L, de preferência por estimativa bayesiana.",
+   "D": "Errada. O parâmetro está certo, mas a faixa acima de 600 é justamente a associada à nefrotoxicidade."
+  },
+  "para_levar": "Vancomicina em infecção grave por MRSA: alvo de AUC de 24 horas entre 400 e 600 mg·h/L, e não vale de 15 a 20.",
+  "referencias": "Rybak MJ et al. ASHP/IDSA/PIDS/SIDP consensus on therapeutic monitoring of vancomycin for serious MRSA infections, 2020.",
+  "tags": [
+   "Nefrotoxicidade por Drogas (CM)",
+   "Antibióticos: Farmacologia e Microbiologia (CM)",
+   "Infecção de Corrente Sanguínea (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Regra antiga fixada; fato solto que precisa virar evocação."
+ },
+ {
+  "id": "S13-NEF-03",
+  "simulado": 13,
+  "area": "Nefrologia",
+  "titulo": "Contraste iodado intravenoso no paciente em hemodiálise anúrico · manter a sessão programada, sem diálise extra nem profilaxia",
+  "arma": "Omissão",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Homem de 66 anos, em hemodiálise há quatro anos por doença renal do diabetes, anúrico, com sessões às segundas, quartas e sextas-feiras por fístula arteriovenosa e ganho de peso interdialítico habitual de 1,5 kg. Na terça-feira pela manhã faz tomografia de abdome com 100 mL de contraste iodado de baixa osmolalidade, para investigar dor lombar. Depois do exame está assintomático: PA 138/82 mmHg, FC 78 bpm, sem dispneia, SpO2 de 97% em ar ambiente, sem estertores; potássio de 5,1 mEq/L na véspera. Em relação ao contraste, a conduta mais adequada é:",
+  "alternativas": {
+   "A": "Hidratação venosa com salina isotônica",
+   "B": "Manter a sessão de quarta, sem extras",
+   "C": "Hemodiálise adicional logo após o exame",
+   "D": "N-acetilcisteína oral por 48 horas"
+  },
+  "gabarito": "B",
+  "armadilha": "C",
+  "dado_decisivo": "anúrico",
+  "resolucao": "O contraste é dialisável, e por isso parece lógico removê-lo logo, para proteger o rim. Só que o paciente é anúrico: não há função renal residual a proteger, e diálise imediata não previne nada. O que poderia pedir sessão extra seria volume grande de contraste com congestão ou disfunção cardíaca grave, e ele está sem dispneia, sem estertores e com volume de 100 mL. Por isso o manual do ACR recomenda não antecipar nem acrescentar sessão, mantendo a escala habitual. Hidratar um anúrico só acrescenta volume que ele não elimina.",
+  "comentarios": {
+   "A": "Errada. A hidratação é profilaxia para quem tem TFG abaixo de 30 e não está em diálise; no anúrico só causa sobrecarga.",
+   "B": "Correta. Anúrico, sem congestão e com volume de contraste usual: manter a próxima sessão programada.",
+   "C": "Errada. É a isca de que dialisável deve ser dialisado; sem função residual e sem congestão, a sessão extra não tem benefício e tem os riscos do procedimento.",
+   "D": "Errada. N-acetilcisteína não tem benefício comprovado na lesão por contraste e não faz sentido sem função renal a proteger."
+  },
+  "para_levar": "Em hemodiálise e anúrico, o contraste iodado não pede sessão extra nem profilaxia; só congestão ou volume muito grande de contraste mudam isso.",
+  "referencias": "ACR Manual on Contrast Media 2024; ESUR Guidelines on Contrast Agents (2018).",
+  "tags": [
+   "IRA Contraste (CM)",
+   "Diálise (Crônicos) (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Fazer mais do que o caso pede (procedimento a mais); a omissão como resposta certa."
+ },
+ {
+  "id": "S13-NEF-04",
+  "simulado": 13,
+  "area": "Nefrologia",
+  "titulo": "Antibiótico intravenoso domiciliar em quem vai precisar de fístula · cateter tunelizado de pequeno calibre em jugular, e não PICC",
+  "arma": "Qualificador",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 58 anos, destra, com doença renal policística autossômica dominante, TFGe de 17 mL/min/1,73 m² com queda de 4 mL/min por ano, já orientada para hemodiálise e com avaliação para fístula arteriovenosa marcada para o próximo mês. Internada por osteomielite vertebral por Staphylococcus aureus sensível à oxacilina, terá seis semanas de cefazolina intravenosa três vezes ao dia, com alta prevista para terminar o tratamento em casa. As veias dos antebraços estão pérvias à ultrassonografia. Para o tratamento domiciliar, preservando o futuro acesso para diálise, o acesso venoso mais adequado é:",
+  "alternativas": {
+   "A": "Cateter não tunelizado em subclávia",
+   "B": "PICC no braço direito, dominante",
+   "C": "Acesso periférico trocado a cada 72 horas",
+   "D": "Cateter tunelizado de pequeno calibre em jugular"
+  },
+  "gabarito": "D",
+  "armadilha": "B",
+  "dado_decisivo": "TFGe de 17 mL/min/1,73 m²",
+  "resolucao": "O PICC é o acesso padrão para antibiótico domiciliar prolongado, e pôr no braço dominante parece poupar o braço da futura fístula. Mas em doença renal crônica de estágio 3b a 5 o PICC é desaconselhado em qualquer braço: ele lesa e trombosa as veias cefálica, basílica e subclávia, das quais dependem a fístula e o retorno venoso dela, e a fístula pode ser feita em qualquer dos braços se o não dominante não servir. A recomendação é cateter venoso central tunelizado de pequeno calibre na jugular interna. A subclávia é evitada porque a estenose dela inviabiliza fístula do mesmo lado, e acesso periférico trocado por seis semanas puncionaria repetidamente as veias que se quer preservar.",
+  "comentarios": {
+   "A": "Errada. Cateter não tunelizado não serve para seis semanas em casa, e a subclávia é o sítio com mais estenose venosa central, que inviabiliza fístula ipsilateral.",
+   "B": "Errada. É a isca de poupar só o braço não dominante; na DRC avançada o PICC é evitado em ambos os braços, porque as veias dos dois podem ser necessárias.",
+   "C": "Errada. Punções e flebites repetidas nos antebraços por seis semanas destroem as veias que se quer preservar.",
+   "D": "Correta. Cateter tunelizado de pequeno calibre na jugular interna preserva as veias dos membros superiores e a subclávia."
+  },
+  "para_levar": "Na DRC estágio 3b a 5, evite PICC e subclávia; se for preciso acesso central prolongado, prefira cateter tunelizado de pequeno calibre na jugular interna.",
+  "referencias": "KDOQI Clinical Practice Guideline for Vascular Access: 2019 Update; Michigan Appropriateness Guide for Intravenous Catheters (MAGIC), 2015.",
+  "tags": [
+   "Diálise (Crônicos) (CM)",
+   "Doença Renal Crônica (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Qualificador do comando (preservar o acesso) lido pela metade; escolha de manual que este paciente contraindica."
+ },
+ {
+  "id": "S13-NEF-05",
+  "simulado": 13,
+  "area": "Nefrologia",
+  "titulo": "Dor lombar com hematúria e LDH alta na nefropatia membranosa com albumina baixa · trombose da veia renal, e não infarto renal embólico",
+  "arma": "Rótulo verdadeiro",
+  "comando": "diagnóstico",
+  "nivel": "difícil",
+  "enunciado": "Homem de 44 anos, com nefropatia membranosa anti-PLA2R positiva diagnosticada há dois meses (proteinúria de 9 g/24 h, albumina 1,7 g/dL), em uso de losartana e furosemida, aguardando início de rituximabe. Há 12 horas com dor lombar esquerda contínua e urina avermelhada. Afebril, PA 136/84 mmHg, FC 88 bpm, ritmo regular, punho-percussão lombar dolorosa à esquerda; na bolsa escrotal, veias dilatadas e tortuosas à esquerda, que não existiam antes e não esvaziam com o decúbito. ECG em ritmo sinusal. Exames: creatinina 1,9 mg/dL (era 1,0 mg/dL), LDH 610 U/L (até 250), hematúria macroscópica, sem leucocitúria nem nitrito. Ultrassonografia sem hidronefrose e sem cálculos. O diagnóstico mais provável é:",
+  "alternativas": {
+   "A": "Cólica nefrética por cálculo ureteral",
+   "B": "Trombose da veia renal esquerda",
+   "C": "Infarto renal por embolia arterial",
+   "D": "Pielonefrite aguda"
+  },
+  "gabarito": "B",
+  "armadilha": "C",
+  "dado_decisivo": "veias dilatadas e tortuosas à esquerda, que não existiam antes e não esvaziam com o decúbito",
+  "resolucao": "Dor lombar aguda, hematúria, perda de função e LDH muito alta com urina sem infecção formam o quadro do infarto renal, e a LDH verdadeira puxa para ele. Mas infarto arterial pede fonte embólica, e o ECG está em ritmo sinusal. O dado que decide é a varicocele esquerda nova que não esvazia com o decúbito: a veia gonadal esquerda drena na veia renal esquerda, e a obstrução desta dilata o plexo pampiniforme. Na nefropatia membranosa, sobretudo com albumina abaixo de 2,0 a 2,5 g/dL, o risco de trombose venosa renal é o maior entre as glomerulopatias, pela perda urinária de antitrombina e pelo aumento de fatores pró-coagulantes. A confirmação é por angiotomografia com fase venosa ou Doppler, e o tratamento, anticoagulação plena.",
+  "comentarios": {
+   "A": "Errada. Cálculo daria dor em cólica e, em geral, hidronefrose ou cálculo visível; não explica a varicocele nova nem a LDH tão alta.",
+   "B": "Correta. Membranosa com albumina de 1,7 g/dL, dor lombar, hematúria, piora da creatinina e varicocele esquerda nova.",
+   "C": "Errada. É a isca da LDH; sem fonte embólica (ritmo sinusal) e com varicocele nova, o lado venoso explica melhor o quadro.",
+   "D": "Errada. Afebril, sem leucocitúria nem nitrito; pielonefrite não causa varicocele."
+  },
+  "para_levar": "Na nefropatia membranosa com albumina baixa, dor lombar com hematúria e varicocele esquerda nova é trombose da veia renal até prova em contrário.",
+  "referencias": "KDIGO 2021 Clinical Practice Guideline for the Management of Glomerular Diseases (anticoagulação na síndrome nefrótica).",
+  "tags": [
+   "Nefropatia membranosa (CM)",
+   "Síndrome Nefrótica (CM)",
+   "Trombose Venosa Profunda (CM)"
+  ],
+  "sourceQuestionId": "97e3826c807ef25",
+  "alvo": "Rótulo laboratorial verdadeiro (LDH) puxando o diagnóstico errado; achado de exame físico decisivo lido como enfeite."
+ }
+]

@@ -1,0 +1,171 @@
+[
+ {
+  "id": "S14-END-01",
+  "simulado": 14,
+  "area": "Endocrinologia",
+  "titulo": "Infertilidade anovulatória na síndrome dos ovários policísticos com resistência à insulina: letrozol, e não metformina, para ovular",
+  "arma": "Rótulo verdadeiro",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 29 anos tenta engravidar há 18 meses sem sucesso. Tem ciclos menstruais a cada 45 a 90 dias desde a menarca, acne e hirsutismo leve (escore de Ferriman de 10). IMC 31 kg/m², acantose nigricans cervical, PA 122 x 78 mmHg. Exames: TSH 1,9 mUI/L, prolactina 14 ng/mL, 17-OH-progesterona 82 ng/dL, testosterona total 68 ng/dL (referência até 60), glicemia de jejum 108 mg/dL, HbA1c 5,9%, HOMA-IR 4,8. Ultrassonografia com 24 folículos por ovário. Espermograma do marido normal e histerossalpingografia com trompas pérvias. Perdeu 4% do peso com dieta em 6 meses. Para o objetivo dela, a conduta farmacológica de primeira linha é:",
+  "alternativas": {
+   "A": "Metformina 1.500 mg/dia isolada",
+   "B": "Anticoncepcional oral combinado",
+   "C": "Clomifeno associado à metformina",
+   "D": "Letrozol do 3º ao 7º dia do ciclo"
+  },
+  "gabarito": "D",
+  "armadilha": "A",
+  "dado_decisivo": "Para o objetivo dela",
+  "resolucao": "Acantose, HOMA-IR alto, glicemia de jejum alterada e HbA1c de pré-diabetes formam um rótulo verdadeiro de resistência à insulina, e a metformina parece a resposta natural, que é a armadilha. O comando, porém, é o objetivo dela: engravidar. Na síndrome dos ovários policísticos com infertilidade anovulatória e sem outro fator (trompas pérvias, espermograma normal), a primeira linha farmacológica para induzir ovulação é o letrozol, que supera o clomifeno e a metformina em taxa de nascidos vivos. A metformina tem papel metabólico e pode ser associada, mas isolada é inferior para ovulação. O anticoncepcional combinado é a primeira linha para ciclos irregulares e hiperandrogenismo em quem não quer engravidar, o oposto do pedido.",
+  "comentarios": {
+   "A": "Errada. É a armadilha: a resistência à insulina é verdadeira, mas metformina isolada induz ovulação muito menos que o letrozol.",
+   "B": "Errada. Seria a primeira linha para regularizar ciclos e tratar hirsutismo em quem não deseja engravidar; impede a ovulação.",
+   "C": "Errada. Clomifeno com metformina é alternativa quando o letrozol não está disponível; tem menor taxa de nascidos vivos.",
+   "D": "Correta. Infertilidade anovulatória por SOP sem outros fatores: letrozol é a primeira linha para indução da ovulação."
+  },
+  "para_levar": "SOP: o tratamento segue o objetivo. Quer engravidar: letrozol. Não quer: anticoncepcional combinado. Metformina é coadjuvante metabólico, não indutor de primeira linha.",
+  "referencias": "International Evidence-based Guideline for the Assessment and Management of PCOS 2023; ASRM 2024.",
+  "tags": [
+   "Hipogonadismo Masculino e Feminino (CM)",
+   "Síndrome Metabólica (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Rótulo verdadeiro (resistência à insulina) contra o objetivo pedido no comando; indício de trocar a resposta pedida por afirmação verdadeira fora do comando."
+ },
+ {
+  "id": "S14-END-02",
+  "simulado": 14,
+  "area": "Endocrinologia",
+  "titulo": "Fratura vertebral por fragilidade em homem de 57 anos com investigação secundária quase completa: falta a testosterona",
+  "arma": "Dado omitido",
+  "comando": "próximo exame",
+  "nivel": "difícil",
+  "enunciado": "Homem de 57 anos, motorista, sofreu fratura vertebral de T12 ao levantar uma caixa de 10 kg. Não fuma, bebe socialmente e não usa corticoide, anticonvulsivante nem inibidor de bomba de prótons. Fora a dor lombar, nega queixas. IMC 26 kg/m². Densitometria: T-escore de -3,0 na coluna lombar e de -2,4 no colo femoral. Exames normais: hemograma, VHS, creatinina, cálcio, fósforo, fosfatase alcalina, PTH, 25-hidroxivitamina D (34 ng/mL), TSH, eletroforese de proteínas, cadeias leves livres séricas, antitransglutaminase IgA e calciúria de 24 horas. O ortopedista prescreveu alendronato. Antes de iniciar o tratamento, o exame que falta é:",
+  "alternativas": {
+   "A": "Testosterona total matinal",
+   "B": "Cortisol salivar ao final da noite",
+   "C": "Cintilografia óssea de corpo inteiro",
+   "D": "Biópsia óssea com tetraciclina"
+  },
+  "gabarito": "A",
+  "armadilha": "C",
+  "dado_decisivo": "Exames normais",
+  "resolucao": "A lista de exames é longa e parece completa, e o reflexo é procurar mais no osso, com cintilografia ou biópsia, que é a armadilha. Osteoporose no homem abaixo de 70 anos, sobretudo com fratura, é secundária em boa parte dos casos, e a causa mais frequente depois do álcool e do corticoide é o hipogonadismo, muitas vezes oligossintomático. A diretriz pede testosterona total matinal em todo homem investigado por osteoporose, e ela é o único exame básico ausente da lista. Se baixa, o hipogonadismo é tratado junto com o antirreabsortivo, e sua causa é investigada. Cortisol salivar entra quando há fenótipo de Cushing, que o caso não descreve; biópsia óssea fica para suspeita de osteomalácia ou doença rara depois de uma investigação básica completa.",
+  "comentarios": {
+   "A": "Correta. Testosterona total matinal é parte obrigatória da investigação da osteoporose masculina, e é o exame básico que falta.",
+   "B": "Errada. Rastrear Cushing faz sentido com fenótipo sugestivo ou fraturas múltiplas inexplicadas após a avaliação básica; não é o exame que falta primeiro.",
+   "C": "Errada. É a armadilha: cintilografia investiga metástase ou Paget, e a fosfatase alcalina, a eletroforese e as cadeias leves normais não sugerem doença infiltrativa.",
+   "D": "Errada. Biópsia com dupla marcação é reservada à suspeita de osteomalácia ou de doença óssea rara após investigação completa."
+  },
+  "para_levar": "Osteoporose no homem: dosar testosterona total matinal sempre, junto com cálcio, PTH, vitamina D, função renal, TSH e eletroforese, antes do antirreabsortivo.",
+  "referencias": "Endocrine Society 2012 (Osteoporosis in Men); Diretriz Brasileira de Osteoporose (ABRASSO/SBEM 2023).",
+  "tags": [
+   "Osteoporose (CM)",
+   "Hipogonadismo Masculino e Feminino (CM)"
+  ],
+  "sourceQuestionId": "34969364cf1e371",
+  "alvo": "Dado omitido; errou a osteoporose masculina no banco e tende a pedir o exame do degrau seguinte."
+ },
+ {
+  "id": "S14-END-03",
+  "simulado": 14,
+  "area": "Endocrinologia",
+  "titulo": "Hiperferritinemia com heterozigose composta C282Y/H63D e saturação de 31%: hiperferritinemia dismetabólica, e não hemocromatose",
+  "arma": "Rótulo verdadeiro",
+  "comando": "diagnóstico",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 50 anos é encaminhado com diagnóstico de hemocromatose genética para iniciar flebotomias. Tem obesidade (IMC 33 kg/m²), diabetes tipo 2, hipertensão e esteatose à ultrassonografia; não bebe álcool. Exames: ferritina 980 ng/mL, ferro sérico 92 µg/dL, saturação de transferrina 31%, hemoglobina 15,1 g/dL, ALT 58 U/L, PCR 4 mg/L, plaquetas 230.000/mm³. Pesquisa do HFE: heterozigose composta C282Y/H63D. O irmão de 47 anos, com o mesmo genótipo, tem ferritina normal. Sem hepatoesplenomegalia nem hiperpigmentação. O diagnóstico mais provável para a hiperferritinemia é:",
+  "alternativas": {
+   "A": "Hemocromatose HFE por heterozigose composta",
+   "B": "Hemocromatose por mutação na ferroportina",
+   "C": "Hiperferritinemia dismetabólica",
+   "D": "Doença hepática alcoólica oculta"
+  },
+  "gabarito": "C",
+  "armadilha": "A",
+  "dado_decisivo": "saturação de transferrina 31%",
+  "resolucao": "Ferritina perto de 1.000 e um genótipo HFE alterado formam um rótulo verdadeiro e forte, e o encaminhamento já chega com o nome da doença: é a armadilha. A heterozigose composta C282Y/H63D tem penetrância muito baixa e raramente causa sobrecarga; quando causa, a saturação de transferrina sobe acima de 45%. Aqui ela é de 31%, e o irmão com o mesmo genótipo tem ferritina normal. Com obesidade, diabetes, hipertensão, esteatose e ALT elevada, a ferritina alta é reagente de fase aguda e marcador de lesão hepática metabólica, com estoque de ferro normal ou pouco aumentado. A conduta é tratar o metabolismo (peso, glicemia, esteatose), e flebotomias seriam inúteis e anemizantes. A doença da ferroportina dá ferritina alta com saturação normal, mas é autossômica dominante, rara e sem contexto metabólico que a explique.",
+  "comentarios": {
+   "A": "Errada. É a armadilha: o genótipo é real, mas tem baixa penetrância, e sem saturação acima de 45% não há sobrecarga de ferro.",
+   "B": "Errada. A doença da ferroportina também cursa com saturação normal, mas é rara e familiar dominante; a síndrome metabólica explica o quadro sem ela.",
+   "C": "Correta. Ferritina alta com saturação abaixo de 45% em obeso diabético com esteatose: hiperferritinemia dismetabólica.",
+   "D": "Errada. Etanol eleva a ferritina, mas o paciente não bebe, e o padrão é explicado pelo metabolismo."
+  },
+  "para_levar": "Ferritina alta sem saturação de transferrina acima de 45% não é sobrecarga de ferro, mesmo com genótipo HFE alterado; heterozigose composta raramente adoece.",
+  "referencias": "EASL Clinical Practice Guidelines on Haemochromatosis (2022); AASLD 2011/ACG 2019 (Hereditary Hemochromatosis).",
+  "tags": [
+   "Hemocromatose (CM)",
+   "Síndrome Metabólica, Obesidade e DHGNA (CM)"
+  ],
+  "sourceQuestionId": "7cbcbdc82762746",
+  "alvo": "Regra fixada errada (hiperferritinemia metabólica), agora com o rótulo genético; ângulo novo."
+ },
+ {
+  "id": "S14-END-04",
+  "simulado": 14,
+  "area": "Endocrinologia",
+  "titulo": "TSH que sobe em tireoidectomizada estável após receber comprimido para anemia tomado junto com a levotiroxina: sulfato ferroso a deduzir",
+  "arma": "Droga a deduzir",
+  "comando": "etiologia",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 44 anos, tireoidectomizada há 6 anos por bócio multinodular, mantinha TSH entre 1,0 e 2,5 mUI/L com levotiroxina 125 µg em jejum, 40 minutos antes do café. Há 4 meses teve diagnóstico de anemia por menorragia (hemoglobina 9,6 g/dL, ferritina 6 ng/mL), e o ginecologista prescreveu um comprimido para o sangue, que ela toma junto com a levotiroxina para não esquecer. Hoje refere fadiga e intolerância ao frio: TSH 14,2 mUI/L, T4 livre 0,7 ng/dL; hemoglobina 11,8 g/dL, ferritina 28 ng/mL. Nega troca de marca do comprimido de levotiroxina, gestação, uso de inibidor de bomba de prótons e diarreia. Peso estável. A causa mais provável da elevação do TSH é:",
+  "alternativas": {
+   "A": "Perda de adesão ao tratamento",
+   "B": "Menor absorção da levotiroxina pelo ferro",
+   "C": "Doença celíaca com má absorção",
+   "D": "Aumento da TBG pelo estrogênio"
+  },
+  "gabarito": "B",
+  "armadilha": "C",
+  "dado_decisivo": "que ela toma junto com a levotiroxina para não esquecer",
+  "resolucao": "Anemia ferropriva com hipotireoidismo que piora sob a mesma dose evoca doença celíaca, que explicaria as duas coisas, e é a armadilha. Mas a anemia tem causa clara (menorragia), não há diarreia nem perda de peso, e o TSH ficou estável por 6 anos até 4 meses atrás. O que mudou foi o comprimido para o sangue, isto é, sulfato ferroso, tomado junto com a levotiroxina: o ferro forma complexos insolúveis com a tiroxina no intestino e reduz sua absorção, assim como cálcio, antiácidos, sequestradores de ácidos biliares e inibidores de bomba de prótons. A conduta é separar as tomadas em pelo menos 4 horas e repetir o TSH em 6 a 8 semanas, antes de aumentar a dose. A ferritina subindo de 6 para 28 mostra que ela toma o ferro com regularidade, e a adesão à levotiroxina não mudou.",
+  "comentarios": {
+   "A": "Errada. Sem tecido tireoidiano, má adesão eleva o TSH, mas ela mantém a rotina de jejum, e o horário só mudou ao acrescentar o ferro.",
+   "B": "Correta. Sulfato ferroso tomado com a levotiroxina reduz sua absorção; separar as tomadas em 4 horas costuma resolver.",
+   "C": "Errada. É a armadilha: celíaca explicaria ferropenia e má absorção, mas a anemia tem causa ginecológica e a piora coincide com o ferro.",
+   "D": "Errada. Estrogênio oral aumenta a TBG e a necessidade de levotiroxina, mas ela não iniciou estrogênio."
+  },
+  "para_levar": "TSH que sobe em paciente antes estável: procure a droga nova que se liga à levotiroxina no intestino (ferro, cálcio, antiácido, IBP) antes de aumentar a dose ou investigar má absorção.",
+  "referencias": "ATA 2014 (Guidelines for the Treatment of Hypothyroidism); Consenso Brasileiro de Hipotireoidismo (SBEM 2013).",
+  "tags": [
+   "Tratamento do Hipotireoidismo (CM)",
+   "Anemia Ferropriva (CM)"
+  ],
+  "sourceQuestionId": "745eb9bae1bf733",
+  "alvo": "Droga em uso que ele ignora; tratamento do hipotireoidismo, que errou no banco."
+ },
+ {
+  "id": "S14-END-05",
+  "simulado": 14,
+  "area": "Endocrinologia",
+  "titulo": "Hipotireoidismo subclínico com TSH abaixo de 10 em idosa acima de 80 anos e anti-TPO positivo: não tratar e repetir",
+  "arma": "Omissão",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 83 anos, independente, com hipertensão controlada e osteoartrite, refere cansaço e constipação há anos, sem piora recente. Não usa amiodarona, lítio nem suplementos com iodo. Exame: PA 134 x 76 mmHg, FC 68 bpm, tireoide não palpável, sem edema. Exames: TSH 8,6 mUI/L e, após 10 semanas, 9,1 mUI/L; T4 livre de 1,0 ng/dL (referência 0,9 a 1,8) nas duas dosagens; anti-TPO 140 UI/mL (referência até 35); LDL 128 mg/dL; hemoglobina 12,6 g/dL. Sem insuficiência cardíaca. A filha pede o hormônio porque a mãe está com a tireoide fraca. A conduta mais adequada é:",
+  "alternativas": {
+   "A": "Levotiroxina 1,6 µg/kg/dia",
+   "B": "Levotiroxina 25 µg/dia",
+   "C": "Levotiroxina se o LDL não cair com dieta",
+   "D": "Não tratar e repetir o TSH em 6 a 12 meses"
+  },
+  "gabarito": "D",
+  "armadilha": "B",
+  "dado_decisivo": "TSH 8,6 mUI/L e, após 10 semanas, 9,1 mUI/L",
+  "resolucao": "Anti-TPO positivo, sintomas vagos e pedido da família empurram para a dose baixa de levotiroxina, que parece prudente e é a armadilha. O TSH aumenta normalmente com a idade, e acima de 80 anos valores de até 7 a 10 mUI/L podem ser apenas o novo normal; no idoso, TSH abaixo de 10 com T4 livre normal não se trata. O estudo TRUST, com pacientes acima de 65 anos e TSH médio de 6,4, não mostrou benefício da levotiroxina sobre sintomas ou cansaço, e o excesso de tratamento traz fibrilação atrial e perda óssea. O anti-TPO aumenta o risco de progressão, o que justifica repetir o TSH a cada 6 a 12 meses, e não tratar agora. Tratar-se-ia com TSH de 10 ou mais, ou se surgisse hipotireoidismo franco.",
+  "comentarios": {
+   "A": "Errada. Dose plena é para hipotireoidismo franco em adulto jovem sem cardiopatia; aqui nem há indicação de tratar.",
+   "B": "Errada. É a armadilha: a dose baixa seria a forma certa de iniciar num idoso que precisasse de tratamento, mas TSH abaixo de 10 aos 83 anos não precisa.",
+   "C": "Errada. LDL discretamente alto não é critério para tratar hipotireoidismo subclínico nessa faixa de TSH.",
+   "D": "Correta. Idosa acima de 80 anos com TSH abaixo de 10 e T4 livre normal: observar e repetir, mais ainda com anti-TPO positivo."
+  },
+  "para_levar": "Hipotireoidismo subclínico no idoso: TSH abaixo de 10 não se trata (acima de 80 anos, o TSH normal sobe). Anti-TPO positivo pede seguimento, não levotiroxina.",
+  "referencias": "ETA 2013 (Management of Subclinical Hypothyroidism); BMJ Rapid Recommendation 2019; Stott e cols., TRUST (NEJM 2017); Consenso Brasileiro de Hipotireoidismo Subclínico (SBEM 2013).",
+  "tags": [
+   "Hipotireoidismo subclínico (CM)"
+  ],
+  "sourceQuestionId": "6d9ac917fb60201",
+  "alvo": "Omissão (tratar o que não precisa); limiar que muda com a idade."
+ }
+]

@@ -1,0 +1,172 @@
+[
+ {
+  "id": "S15-END-01",
+  "simulado": 15,
+  "area": "Endocrinologia",
+  "titulo": "Hipocalcemia com PTH alto e fósforo alto, baixa estatura e braquidactilia, rotulada como hipovitaminose D: pseudo-hipoparatireoidismo tipo 1A",
+  "arma": "Rótulo verdadeiro",
+  "comando": "diagnóstico",
+  "nivel": "extremamente difícil",
+  "enunciado": "Mulher de 22 anos é avaliada por parestesias periorais e cãibras desde a adolescência e por uma crise convulsiva há 1 ano, atribuída a epilepsia, para a qual usa carbamazepina. Nega cirurgia cervical. Exame: altura 1,49 m, face arredondada, IMC 30 kg/m², encurtamento do quarto e do quinto metacarpianos bilateralmente, sinal de Chvostek positivo. Exames: cálcio total 6,9 mg/dL (albumina 4,2 g/dL), fósforo 6,4 mg/dL, magnésio 2,0 mg/dL, creatinina 0,7 mg/dL, PTH 312 pg/mL (referência 15 a 65), 25-hidroxivitamina D 18 ng/mL, fosfatase alcalina normal, TSH 6,8 mUI/L. Tomografia de crânio com calcificações nos núcleos da base. A UBS registrou hiperparatireoidismo secundário à deficiência de vitamina D induzida pela carbamazepina. O diagnóstico mais provável é:",
+  "alternativas": {
+   "A": "Pseudo-hipoparatireoidismo tipo 1A",
+   "B": "Hiperparatireoidismo secundário à hipovitaminose D",
+   "C": "Hipoparatireoidismo autoimune",
+   "D": "Pseudopseudo-hipoparatireoidismo"
+  },
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "fósforo 6,4 mg/dL",
+  "resolucao": "Hipocalcemia com PTH alto, vitamina D de 18 ng/mL e carbamazepina (indutora que acelera o catabolismo da vitamina D) montam um rótulo verdadeiro de hiperparatireoidismo secundário, e é a armadilha. O dado que derruba está no fósforo: na deficiência de vitamina D, o PTH alto age no rim e o fósforo cai; aqui ele está alto, com função renal normal, o que significa que o rim não responde ao PTH, isto é, resistência ao PTH. Hipocalcemia, hiperfosfatemia e PTH alto com creatinina normal definem o pseudo-hipoparatireoidismo. A baixa estatura, a face arredondada, a obesidade e a braquidactilia do quarto e quinto metacarpianos são a osteodistrofia hereditária de Albright, e o TSH alto sugere resistência a outros hormônios ligados à proteína Gs, o que caracteriza o tipo 1A. A crise convulsiva e as calcificações dos núcleos da base são da hipocalcemia crônica, não de epilepsia primária.",
+  "comentarios": {
+   "A": "Correta. Hipocalcemia com fósforo alto e PTH alto, função renal normal, fenótipo de Albright e resistência ao TSH: tipo 1A.",
+   "B": "Errada. É a armadilha: no secundário à falta de vitamina D o fósforo fica baixo, e não alto, porque o rim responde ao PTH.",
+   "C": "Errada. No hipoparatireoidismo o fósforo também é alto, mas o PTH é baixo ou inapropriadamente normal, e não de 312.",
+   "D": "Errada. Tem o fenótipo de Albright, mas sem resistência hormonal: cálcio, fósforo e PTH são normais."
+  },
+  "para_levar": "Hipocalcemia: o PTH separa hipopara (baixo) de resistência ou causa secundária (alto), e o fósforo separa pseudo-hipopara (fósforo alto) da falta de vitamina D (fósforo baixo).",
+  "referencias": "Mantovani e cols., First international Consensus Statement on pseudohypoparathyroidism and related disorders (Nat Rev Endocrinol 2018).",
+  "tags": [
+   "Hipoparatireoidismo (CM)",
+   "Hipocalcemias (CM)"
+  ],
+  "sourceQuestionId": "bb791a64632d0e5",
+  "alvo": "Rótulo verdadeiro (hipovitaminose D por droga) contra o exame que decide; padrão excesso x deficiência e hipopara reincidente."
+ },
+ {
+  "id": "S15-END-02",
+  "simulado": 15,
+  "area": "Endocrinologia",
+  "titulo": "Contraindicação formal dos agonistas do receptor de GLP-1: neoplasia endócrina múltipla tipo 2, e não pancreatite prévia",
+  "arma": "Qualificador",
+  "comando": "fato solto",
+  "nivel": "difícil",
+  "enunciado": "Entre as condições abaixo, a que constitui contraindicação formal, prevista em bula, ao uso de agonistas do receptor de GLP-1, como a semaglutida e a liraglutida, é:",
+  "alternativas": {
+   "A": "Pancreatite aguda prévia",
+   "B": "Retinopatia diabética proliferativa",
+   "C": "Neoplasia endócrina múltipla tipo 2",
+   "D": "Doença renal crônica estágio 4"
+  },
+  "gabarito": "C",
+  "armadilha": "A",
+  "dado_decisivo": "contraindicação formal, prevista em bula",
+  "resolucao": "Pancreatite é o efeito adverso mais lembrado da classe, e por isso atrai; mas em bula ela aparece como precaução: a droga deve ser suspensa se houver pancreatite durante o uso, e a história prévia pede cautela, não proibição. A contraindicação formal é história pessoal ou familiar de carcinoma medular de tireoide e neoplasia endócrina múltipla tipo 2, porque os agonistas de GLP-1 causaram hiperplasia de células C e carcinoma medular em roedores. A retinopatia proliferativa pede vigilância com semaglutida, pela piora inicial descrita no SUSTAIN-6 quando a glicemia cai rápido, mas não impede o uso. Na DRC estágio 4, liraglutida, dulaglutida e semaglutida dispensam ajuste e reduzem desfechos renais no FLOW.",
+  "comentarios": {
+   "A": "Errada. É a armadilha: pancreatite é precaução (suspender se ocorrer), não contraindicação formal.",
+   "B": "Errada. Retinopatia proliferativa pede acompanhamento oftalmológico ao iniciar semaglutida, sem contraindicá-la.",
+   "C": "Correta. História pessoal ou familiar de carcinoma medular de tireoide ou NEM 2 é a contraindicação formal da classe.",
+   "D": "Errada. Na DRC avançada os agonistas de GLP-1 não exigem ajuste e têm benefício renal comprovado."
+  },
+  "para_levar": "Agonistas de GLP-1: contraindicação formal é carcinoma medular de tireoide ou NEM 2 (pessoal ou familiar). Pancreatite, retinopatia e gastroparesia são precauções.",
+  "referencias": "Bulas de semaglutida e liraglutida (ANVISA/FDA); ADA Standards of Care in Diabetes 2026, seção 9; Perkovic e cols., FLOW (NEJM 2024).",
+  "tags": [
+   "Análogos GLP1 (CM)",
+   "Nódulos Tireoideanos (CM)"
+  ],
+  "sourceQuestionId": "3b6bbc942444b77",
+  "alvo": "Fato solto qualificado (formal x precaução); errou agonista de GLP-1 no banco."
+ },
+ {
+  "id": "S15-END-03",
+  "simulado": 15,
+  "area": "Endocrinologia",
+  "titulo": "Cetoacidose resolvida em paciente que já se alimenta: glargina subcutânea agora, mantendo a insulina venosa por mais 2 horas",
+  "arma": "Cronologia",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Homem de 23 anos, com diabetes tipo 1 há 6 anos (glargina 22 U às 22 horas e lispro nas refeições), foi admitido com cetoacidose após 2 dias sem insulina por ter perdido a caneta. Recebeu hidratação, potássio e insulina regular venosa contínua. Após 14 horas: glicemia 186 mg/dL, pH 7,34, bicarbonato 19 mEq/L, cetonemia 0,4 mmol/L, potássio 4,2 mEq/L; está lúcido, sem náuseas, e aceitou o café da manhã às 8 horas. A infusão está em 3 U/h, e a enfermagem pergunta se pode desligar a bomba agora. A conduta mais adequada é:",
+  "alternativas": {
+   "A": "Desligar a bomba e fazer lispro no café",
+   "B": "Glargina agora e bomba por mais 2 horas",
+   "C": "Manter a bomba até a glargina das 22 horas",
+   "D": "Desligar a bomba e retomar a glargina às 22 horas"
+  },
+  "gabarito": "B",
+  "armadilha": "D",
+  "dado_decisivo": "glargina 22 U às 22 horas",
+  "resolucao": "A cetoacidose está resolvida (pH acima de 7,3, bicarbonato acima de 18, cetonemia abaixo de 0,6) e ele come: é hora de passar para insulina subcutânea, e o erro é de ordem. A insulina regular venosa tem meia-vida de minutos; se a bomba for desligada antes de haver insulina basal subcutânea agindo, em 1 a 2 horas falta insulina e a cetogênese recomeça, que é o rebote de cetoacidose. Por isso a basal subcutânea deve ser feita antes, com sobreposição de 2 a 4 horas com a infusão, e só então a bomba é desligada. Ele está sem glargina há mais de 2 dias; esperar o horário das 22 horas deixaria 14 horas sem basal subcutânea ou mais 14 horas de bomba com ele se alimentando. Fazer a glargina agora, com a dose habitual, e reajustar o horário nos dias seguintes resolve as duas coisas.",
+  "comentarios": {
+   "A": "Errada. Lispro cobre a refeição, mas sem basal subcutânea a cetogênese volta horas depois de desligar a infusão.",
+   "B": "Correta. Basal subcutânea primeiro e sobreposição de cerca de 2 horas com a infusão antes de desligá-la evitam o rebote.",
+   "C": "Errada. Não há rebote, mas prolonga sem necessidade a infusão venosa, com monitorização horária, num paciente que já come.",
+   "D": "Errada. É a armadilha: desligar a bomba sem basal agindo deixa 14 horas sem insulina de base e é a principal causa de recorrência da cetoacidose."
+  },
+  "para_levar": "Saída da cetoacidose: insulina basal subcutânea 2 a 4 horas antes de desligar a infusão venosa. Desligar primeiro é a causa mais comum de rebote.",
+  "referencias": "ADA/EASD/JBDS/AACE/DTS Consensus Report: Hyperglycemic Crises in Adults with Diabetes (Diabetes Care 2024); Diretriz SBD 2024.",
+  "tags": [
+   "Cetoacidose Diabética (CM)",
+   "Insulinoterapia (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Ordem da conduta (cronologia); CAD é tema UERJ recorrente."
+ },
+ {
+  "id": "S15-END-04",
+  "simulado": 15,
+  "area": "Endocrinologia",
+  "titulo": "Graves em metimazol 20 mg com TRAb alto e gestação de 5 semanas: trocar por propiltiouracil e manter o T4 livre no limite superior",
+  "arma": "Grade X / Y",
+  "comando": "conduta",
+  "nivel": "extremamente difícil",
+  "enunciado": "Mulher de 30 anos, com doença de Graves diagnosticada há 8 meses, em uso de metimazol 20 mg/dia (duas tentativas de reduzir para 10 mg levaram a recaída), descobre gestação de 5 semanas, não planejada. Bócio difuso, FC 88 bpm, sem orbitopatia ativa. Exames: T4 livre 1,7 ng/dL (referência 0,9 a 1,8), TSH 0,02 mUI/L, TRAb 14 UI/L (referência até 1,75), função hepática e hemograma normais. Quanto ao antitireoidiano agora e ao alvo laboratorial do tratamento, a conduta mais adequada é, respectivamente:",
+  "alternativas": {
+   "A": "Manter o metimazol / T4 livre no meio da referência",
+   "B": "Suspender o antitireoidiano / repetir em 2 semanas",
+   "C": "Trocar por propiltiouracil / TSH dentro da referência",
+   "D": "Trocar por propiltiouracil / T4 livre no limite superior"
+  },
+  "gabarito": "D",
+  "armadilha": "B",
+  "dado_decisivo": "duas tentativas de reduzir para 10 mg levaram a recaída",
+  "resolucao": "A diretriz permite considerar suspender o antitireoidiano ao descobrir a gestação, e isso atrai quem lembra da teratogenicidade, sendo a armadilha; mas a suspensão vale para quem está eutireoidiana com dose baixa (metimazol até 5 a 10 mg) e baixo risco de recaída. Aqui ela precisa de 20 mg, recaiu duas vezes ao reduzir e tem TRAb muito alto: suspender levaria a tireotoxicose no primeiro trimestre. O metimazol, entre 6 e 10 semanas, associa-se a embriopatia (aplasia cútis, atresia de cóanas e de esôfago), por isso troca-se pelo propiltiouracil no primeiro trimestre. O alvo é a menor dose que mantenha o T4 livre materno no limite superior da referência ou pouco acima, aceitando TSH suprimido; normalizar o TSH materno indica excesso de droga, que atravessa a placenta e causa hipotireoidismo e bócio fetal.",
+  "comentarios": {
+   "A": "Errada. Manter o metimazol no primeiro trimestre expõe à embriopatia, e o alvo no meio da referência é tratamento em excesso.",
+   "B": "Errada. É a armadilha: suspender é opção só com dose baixa e baixo risco de recaída; com 20 mg, recaídas e TRAb alto, ela ficaria tireotóxica.",
+   "C": "Errada. A droga está certa, mas buscar TSH normal significa dose excessiva e hipotireoidismo fetal.",
+   "D": "Correta. Propiltiouracil no primeiro trimestre, na menor dose que mantenha o T4 livre no limite superior da referência."
+  },
+  "para_levar": "Graves na gestação: propiltiouracil no primeiro trimestre (metimazol é teratogênico entre 6 e 10 semanas), e o alvo é T4 livre materno no limite superior, com TSH ainda suprimido.",
+  "referencias": "ATA 2017 (Guidelines for the Diagnosis and Management of Thyroid Disease During Pregnancy and the Postpartum); ETA 2018 (Graves' hyperthyroidism).",
+  "tags": [
+   "Doença de Graves (CM)",
+   "Hipertireoidismo e Tireotoxicose (CM)"
+  ],
+  "sourceQuestionId": "bb4f306168ce61d",
+  "alvo": "Grade com droga e alvo; população especial (gestante) e porte do tratamento (tratar demais o laboratório)."
+ },
+ {
+  "id": "S15-END-05",
+  "simulado": 15,
+  "area": "Endocrinologia",
+  "titulo": "Testosterona baixa colhida à tarde no homem obeso com diabetes: repetir em jejum pela manhã antes de qualquer imagem ou reposição",
+  "arma": "Negativo no meio",
+  "comando": "próximo exame",
+  "nivel": "difícil",
+  "enunciado": "Homem de 54 anos, com diabetes tipo 2, obesidade (IMC 37 kg/m²) e apneia obstrutiva do sono em uso de CPAP, queixa-se de disfunção erétil e cansaço. Leu sobre reposição hormonal e trouxe exame feito por conta própria: testosterona total de 228 ng/dL (referência 264 a 916), colhida às 17 horas, após o almoço. Exame: pelos corporais preservados, testículos de 18 mL bilateralmente, sem ginecomastia. HbA1c 7,8%, TSH normal, prolactina 11 ng/mL, hemoglobina 15,4 g/dL, PSA 0,9 ng/mL. O próximo passo mais adequado é:",
+  "alternativas": {
+   "A": "Repetir a testosterona total em jejum, pela manhã",
+   "B": "Iniciar testosterona em gel",
+   "C": "Ressonância magnética de sela turca",
+   "D": "Cariótipo e dosagem de FSH"
+  },
+  "gabarito": "A",
+  "armadilha": "C",
+  "dado_decisivo": "colhida às 17 horas, após o almoço",
+  "resolucao": "Sintomas compatíveis e testosterona abaixo da referência parecem fechar hipogonadismo, e o apressado ou repõe ou já procura a causa central com ressonância, que é a armadilha do exame a mais. O dado no meio do caso invalida o número: a testosterona tem ritmo circadiano e cai após refeições com glicose, e a dosagem válida é a total, em jejum, entre 7 e 10 horas, confirmada em pelo menos duas ocasiões. Só depois de confirmar valores baixos se dosam LH e FSH; na obesidade, a SHBG baixa reduz a testosterona total sem reduzir a livre, e a livre (calculada ou por diálise) ajuda nos valores limítrofes. Ressonância de sela fica para hipogonadismo hipogonadotrófico com testosterona muito baixa (abaixo de 150), outros eixos alterados ou sintomas de massa. Iniciar testosterona sem confirmação trata um número que pode ser normal.",
+  "comentarios": {
+   "A": "Correta. A testosterona colhida à tarde e após refeição não é válida: repetir total, em jejum, de manhã, em duas ocasiões.",
+   "B": "Errada. Reposição exige diagnóstico confirmado por duas dosagens matinais em jejum baixas e sintomas; aqui não foi confirmado.",
+   "C": "Errada. É a armadilha: ressonância é para hipogonadismo central confirmado com testosterona muito baixa ou outros eixos alterados.",
+   "D": "Errada. Cariótipo investiga Klinefelter, com testículos pequenos e FSH alto; ele tem testículos de 18 mL e nem o hipogonadismo está confirmado."
+  },
+  "para_levar": "Hipogonadismo masculino só se diagnostica com testosterona total em jejum, pela manhã, baixa em duas dosagens; colhida à tarde ou após refeição não vale.",
+  "referencias": "Endocrine Society 2018 (Testosterone Therapy in Men with Hypogonadism); Diretriz SBEM/SBU de hipogonadismo masculino (2021).",
+  "tags": [
+   "Hipogonadismo Masculino e Feminino (CM)",
+   "Obesidade (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Próximo exame (o pior comando dele) com dado no meio do caso que invalida o rótulo; fazer mais do que o caso pede."
+ }
+]

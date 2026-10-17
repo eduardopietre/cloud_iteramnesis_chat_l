@@ -1,0 +1,176 @@
+[
+ {
+  "id": "S14-NEF-01",
+  "simulado": 14,
+  "area": "Nefrologia",
+  "titulo": "Microangiopatia trombótica na hipertensão maligna com plaquetas acima de 80 mil e creatinina alta · controlar a PA, e não plasmaférese empírica",
+  "arma": "Rótulo verdadeiro",
+  "comando": "conduta",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 38 anos, sem acompanhamento médico, chega com cefaleia e borramento visual há uma semana. PA 236/138 mmHg nos dois braços, FC 92 bpm, sem déficit focal, sem dor torácica. Fundo de olho: hemorragias em chama de vela, exsudatos algodonosos e edema de papila bilateral. Exames: hemoglobina 10,1 g/dL, VCM 92 fL, plaquetas 82.000/mm³, esquizócitos 2% no esfregaço, LDH 780 U/L, haptoglobina indetectável, Coombs direto negativo, INR 1,1, creatinina 4,8 mg/dL (sem exames prévios), ureia 132 mg/dL, potássio 4,6 mEq/L, urina com proteinúria 2+ e 10 hemácias por campo. Foi colhida amostra para atividade de ADAMTS13, com resultado em cinco dias. A conduta inicial mais adequada é:",
+  "alternativas": {
+   "A": "Plasmaférese empírica imediata",
+   "B": "Eculizumabe empírico",
+   "C": "Anti-hipertensivo intravenoso, com redução gradual",
+   "D": "Hemodiálise de urgência"
+  },
+  "gabarito": "C",
+  "armadilha": "A",
+  "dado_decisivo": "plaquetas 82.000/mm³",
+  "resolucao": "Anemia hemolítica com esquizócitos, plaquetopenia e lesão renal é microangiopatia trombótica, e esse achado verdadeiro dispara o reflexo da plaquetopenia trombótica trombocitopênica e da plaquetaférese empírica. Mas a PTT por deficiência grave de ADAMTS13 cursa com plaquetas em geral abaixo de 30.000 e creatinina pouco alterada; aqui as plaquetas estão em 82.000 e a creatinina em 4,8, com VCM acima de 90, o que dá escore PLASMIC baixo. Com PA de 236/138 e retinopatia com papiledema, a causa mais provável é a própria emergência hipertensiva (hipertensão maligna), e a conduta é anti-hipertensivo intravenoso titulável, com redução da PA média de 20 a 25% nas primeiras horas. A melhora da hemólise e das plaquetas com o controle da PA confirma o diagnóstico; se não melhorarem, reavaliar microangiopatia mediada por complemento.",
+  "comentarios": {
+   "A": "Errada. Seria a conduta com plaquetas abaixo de 30.000, creatinina pouco elevada e escore PLASMIC alto; aqui o escore é baixo e a hipertensão explica o quadro.",
+   "B": "Errada. Eculizumabe fica para microangiopatia mediada por complemento que persiste depois do controle da PA; usar antes é pular etapa.",
+   "C": "Correta. Hipertensão maligna com microangiopatia: reduzir a PA de forma controlada com droga intravenosa titulável.",
+   "D": "Errada. Não há hipercalemia, acidose grave, congestão nem uremia sintomática que indiquem diálise de urgência."
+  },
+  "para_levar": "Microangiopatia trombótica com PA muito alta, plaquetas acima de 30.000 e creatinina alta é, primeiro, hipertensão maligna: controle a PA e reavalie a hemólise antes de plasmaférese.",
+  "referencias": "ESC 2024 Guidelines for the management of elevated blood pressure and hypertension; ISTH guidelines for TTP (2020); Diretrizes Brasileiras de Hipertensão Arterial 2020.",
+  "tags": [
+   "Emergência Hipertensiva (CM)",
+   "Microangiopatia Trombótica (MAT) (CM)",
+   "Púrpura Trombocitopênica Trombótica (PTT) (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Rótulo verdadeiro (esquizócitos) puxando a doença de manual e o tratamento a mais."
+ },
+ {
+  "id": "S14-NEF-02",
+  "simulado": 14,
+  "area": "Nefrologia",
+  "titulo": "Nefrocalcinose com cálculo de apatita, hipocitratúria e bicarbonato normal · acidose tubular distal incompleta, confirmada por teste de acidificação",
+  "arma": "Dado omitido",
+  "comando": "próximo exame",
+  "nivel": "extremamente difícil",
+  "enunciado": "Mulher de 36 anos, com três episódios de cólica nefrética em cinco anos; a tomografia mostra nefrocalcinose medular bilateral, e o último cálculo analisado era de fosfato de cálcio (apatita). Sem diarreia, sem uso de acetazolamida ou topiramato, sem boca ou olhos secos. Exames: sódio 140 mEq/L, potássio 3,9 mEq/L, cloro 106 mEq/L, bicarbonato 24 mEq/L, cálcio 9,4 mg/dL, PTH 41 pg/mL, 25-hidroxivitamina D 34 ng/mL. Urina de 24 horas: volume 2,1 L, cálcio 210 mg, citrato 110 mg (normal acima de 320 mg). pH urinário de 6,7 na primeira urina da manhã, em jejum, repetido em três dias. O exame mais adequado para definir a causa é:",
+  "alternativas": {
+   "A": "Teste de acidificação com furosemida e fludrocortisona",
+   "B": "Cintilografia de paratireoides com sestamibi",
+   "C": "Ânion gap urinário",
+   "D": "Oxalato urinário de 24 horas"
+  },
+  "gabarito": "A",
+  "armadilha": "C",
+  "dado_decisivo": "pH urinário de 6,7 na primeira urina da manhã, em jejum",
+  "resolucao": "Nefrocalcinose com cálculo de fosfato de cálcio e hipocitratúria intensa é o retrato da acidose tubular distal, mas o achado mais lembrado, a acidose hiperclorêmica, foi retirado: o bicarbonato é de 24. Essa é a forma incompleta, em que o rim mantém o bicarbonato sérico à custa de amônia, mas não acidifica a urina ao máximo; a pista é o pH urinário de 6,7 em jejum, quando deveria estar abaixo de 5,5. O ânion gap urinário só tem sentido na vigência de acidose metabólica, que não existe aqui. A confirmação é o teste de acidificação, hoje feito com furosemida e fludrocortisona (ou cloreto de amônio): incapacidade de baixar o pH abaixo de 5,3 define o defeito distal. PTH e cálcio normais tiram o hiperparatireoidismo, e cálculo de apatita não é de oxalato.",
+  "comentarios": {
+   "A": "Correta. Sem acidose espontânea, só a sobrecarga ácida revela a incapacidade de acidificar a urina da forma incompleta.",
+   "B": "Errada. Seria o exame de localização no hiperparatireoidismo primário já confirmado; aqui cálcio e PTH são normais.",
+   "C": "Errada. É a isca de quem associa acidose tubular a ânion gap urinário; sem acidose metabólica, o resultado não tem interpretação.",
+   "D": "Errada. Investigaria hiperoxalúria em cálculo de oxalato de cálcio; o cálculo é de apatita, e o perfil (pH alto, citrato baixo) aponta para defeito distal."
+  },
+  "para_levar": "Nefrocalcinose ou cálculo de fosfato de cálcio com hipocitratúria e pH urinário alto em jejum, mesmo com bicarbonato normal, sugere acidose tubular distal incompleta: confirme com teste de acidificação.",
+  "referencias": "EAU Guidelines on Urolithiasis 2024; Walsh SB et al., Kidney Int 2007 (teste com furosemida e fludrocortisona).",
+  "tags": [
+   "Tubulopatias (CM)",
+   "Nefrolitíase (CM)",
+   "Gasometria Arterial (CM)"
+  ],
+  "sourceQuestionId": "48bed9ae4914f18",
+  "alvo": "Achado mais famoso retirado (acidose); próximo exame escolhido por associação de palavra, e não pela condição que o habilita."
+ },
+ {
+  "id": "S14-NEF-03",
+  "simulado": 14,
+  "area": "Nefrologia",
+  "titulo": "Glomerulonefrite crioglobulinêmica pela hepatite C com função estável e proteinúria subnefrótica · antiviral de ação direta isolado, sem rituximabe",
+  "arma": "Omissão",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 56 anos, com hepatite C crônica genótipo 1 nunca tratada (HCV-RNA de 1,8 milhão de UI/mL, elastografia de 7,8 kPa), apresenta púrpura palpável intermitente nas pernas e artralgias. PA 142/88 mmHg. Exames: creatinina 1,1 mg/dL, estável em três dosagens nos últimos seis meses, proteinúria de 1,4 g/24 h, sedimento com 12 hemácias dismórficas por campo, albumina 3,7 g/dL, C4 muito baixo, C3 discretamente baixo, fator reumatoide positivo, crioglobulinas mistas tipo II positivas. Biópsia renal: glomerulonefrite membranoproliferativa com trombos intraluminais, sem crescentes. Sem neuropatia, sem úlceras cutâneas, sem dor abdominal. Além do IECA, a conduta inicial mais adequada é:",
+  "alternativas": {
+   "A": "Rituximabe associado ao antiviral",
+   "B": "Antiviral de ação direta, isoladamente",
+   "C": "Plasmaférese com pulsoterapia",
+   "D": "Ciclofosfamida com glicocorticoide"
+  },
+  "gabarito": "B",
+  "armadilha": "A",
+  "dado_decisivo": "proteinúria de 1,4 g/24 h",
+  "resolucao": "Crioglobulinemia com glomerulonefrite membranoproliferativa comprovada parece pedir imunossupressão, e o rituximabe associado ao antiviral é o esquema que se decora. Mas a KDIGO de hepatite C separa por gravidade: com função renal estável e proteinúria não nefrótica, o tratamento inicial é o antiviral de ação direta isolado, que elimina o estímulo antigênico e leva à remissão na maioria. Rituximabe (com ou sem plasmaférese e pulso de corticoide) fica para síndrome nefrótica, perda rápida de função, crescentes ou manifestações graves fora do rim (neuropatia, úlceras, isquemia intestinal), todas negadas no caso. Os sofosbuvir e demais antivirais atuais podem ser usados em qualquer TFG.",
+  "comentarios": {
+   "A": "Errada. Seria o esquema na doença grave (nefrótica, perda rápida de função, crescentes ou vasculite grave); aqui a função é estável e a proteinúria, de 1,4 g.",
+   "B": "Correta. Glomerulonefrite crioglobulinêmica leve a moderada com função estável: antiviral de ação direta sozinho como primeiro passo.",
+   "C": "Errada. Plasmaférese é para crioglobulinemia com risco de vida ou glomerulonefrite rapidamente progressiva, ausentes aqui.",
+   "D": "Errada. Ciclofosfamida foi substituída pelo rituximabe nas formas graves e, sem gravidade, imunossuprimir alimenta a replicação viral."
+  },
+  "para_levar": "Na glomerulonefrite crioglobulinêmica pelo HCV, a gravidade escolhe o degrau: função estável e proteinúria subnefrótica, antiviral isolado; nefrótica ou progressiva, antiviral com rituximabe.",
+  "referencias": "KDIGO 2022 Clinical Practice Guideline for the Prevention, Diagnosis, Evaluation, and Treatment of Hepatitis C in CKD; PCDT Hepatite C e Coinfecções, Ministério da Saúde 2019 (atualizações).",
+  "tags": [
+   "Hepatite C (CM)",
+   "Crioglobulinemia (CM)",
+   "Glomerulopatias (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Porte da conduta: tratar com o esquema da forma grave quando o caso pede o degrau simples."
+ },
+ {
+  "id": "S14-NEF-04",
+  "simulado": 14,
+  "area": "Nefrologia",
+  "titulo": "Hipercalemia, acidose hiperclorêmica e hipertensão no transplantado após diltiazem · tacrolimo alto ativa o cotransportador NaCl distal, e não a trimetoprima",
+  "arma": "Rótulo verdadeiro",
+  "comando": "mecanismo",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 46 anos, transplantado renal há cinco meses, em uso de tacrolimo, micofenolato, prednisona 5 mg/dia e sulfametoxazol-trimetoprima 400/80 mg/dia como profilaxia. Não é diabético. Há duas semanas outro serviço iniciou diltiazem por taquicardia sinusal. Agora: PA 158/96 mmHg (era 128/80 mmHg), sem edema, peso estável, tremor fino de mãos. Exames: potássio 6,1 mEq/L, cloro 112 mEq/L, bicarbonato 18 mEq/L, magnésio 1,2 mg/dL, creatinina 1,4 mg/dL (basal 1,3), glicemia 98 mg/dL, renina suprimida, aldosterona baixa, cortisol matinal normal, nível de vale do tacrolimo de 17 ng/mL (alvo de 6 a 9). O mecanismo que melhor explica a hipercalemia com hipertensão é:",
+  "alternativas": {
+   "A": "Rejeição aguda do enxerto",
+   "B": "Bloqueio do ENaC pela trimetoprima",
+   "C": "Insuficiência adrenal relativa",
+   "D": "Ativação do cotransportador NaCl distal"
+  },
+  "gabarito": "D",
+  "armadilha": "B",
+  "dado_decisivo": "nível de vale do tacrolimo de 17 ng/mL (alvo de 6 a 9)",
+  "resolucao": "A trimetoprima de fato bloqueia o ENaC e causa hipercalemia, e por isso é a primeira suspeita. Mas na dose profilática o efeito é pequeno, ela já era usada antes sem problema, e o bloqueio do ENaC causa perda de sódio, que baixaria a PA, e não hipertensão com renina suprimida. O diltiazem inibe o CYP3A4 e elevou o tacrolimo para 17 ng/mL; o inibidor de calcineurina ativa o cotransportador de NaCl do túbulo distal (via WNK e SPAK), reproduzindo a fisiologia do pseudo-hipoaldosteronismo tipo 2: retenção de sódio com hipertensão e renina suprimida, menor oferta distal de sódio, hipercalemia e acidose hiperclorêmica. O tremor e a hipomagnesemia (por perda renal de magnésio) são outros sinais do nível alto. A conduta é reduzir o tacrolimo e rever o diltiazem; o tiazídico corrige o quadro se ele persistir.",
+  "comentarios": {
+   "A": "Errada. Rejeição daria subida importante da creatinina; ela está praticamente no basal, e não explicaria a renina suprimida com hipertensão.",
+   "B": "Errada. É a isca; na dose profilática o efeito é pequeno, e o bloqueio do ENaC espolia sódio, o que não combina com hipertensão e renina suprimida.",
+   "C": "Errada. Cortisol matinal normal, uso de prednisona e hipertensão afastam insuficiência adrenal.",
+   "D": "Correta. Tacrolimo elevado pela interação com diltiazem ativa o NCC: hipertensão, hipercalemia e acidose hiperclorêmica com renina baixa."
+  },
+  "para_levar": "Hipercalemia com hipertensão e renina suprimida no usuário de inibidor de calcineurina é ativação do NCC (fenocópia do Gordon): dose o nível e procure a interação.",
+  "referencias": "Hoorn EJ et al., The calcineurin inhibitor tacrolimus activates the renal sodium chloride cotransporter to cause hypertension, Nat Med 2011; KDIGO Kidney Transplant Recipients guideline (2009).",
+  "tags": [
+   "Transplante Renal (CM)",
+   "Hiperpotassemia (CM)",
+   "Distúrbios de Fósforo e Magnésio (CM)"
+  ],
+  "sourceQuestionId": "19ebdfdc81de2dc",
+  "alvo": "Droga em uso e interação ignoradas; rótulo verdadeiro (trimetoprima) puxando o mecanismo de manual."
+ },
+ {
+  "id": "S14-NEF-05",
+  "simulado": 14,
+  "area": "Nefrologia",
+  "titulo": "Intoxicação por ácido acetilsalicílico com confusão mental e salicilemia abaixo de 90 · distúrbio misto e hemodiálise, e não só alcalinização",
+  "arma": "Grade X / Y",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 27 anos é trazida 10 horas depois de ingerir, intencionalmente, cerca de 60 comprimidos de 500 mg de ácido acetilsalicílico. Refere zumbido e vômitos; está agitada e desorientada no tempo. Peso 60 kg. FR 32 irpm, FC 118 bpm, PA 112/70 mmHg, SpO2 de 97% em ar ambiente, Tax 37,9 °C. Gasometria arterial: pH 7,47, pCO2 21 mmHg, bicarbonato 15 mEq/L. Sódio 141 mEq/L, cloro 102 mEq/L, potássio 3,4 mEq/L, glicemia 96 mg/dL, creatinina 0,8 mg/dL. Salicilemia de 78 mg/dL, repetida em 2 horas: 84 mg/dL. Radiografia de tórax normal. O distúrbio ácido-base e a conduta mais adequada são, respectivamente:",
+  "alternativas": {
+   "A": "Alcalose respiratória isolada / carvão ativado",
+   "B": "Alcalose respiratória e acidose metabólica / alcalinização isolada",
+   "C": "Alcalose respiratória e acidose metabólica / hemodiálise",
+   "D": "Acidose metabólica isolada / bicarbonato intravenoso"
+  },
+  "gabarito": "C",
+  "armadilha": "B",
+  "dado_decisivo": "está agitada e desorientada no tempo",
+  "resolucao": "O ânion gap é de 24 (141 menos 102 menos 15), o que mostra acidose metabólica; para bicarbonato de 15 a pCO2 esperada seria de cerca de 30, e ela está em 21, com pH alcalêmico, logo há alcalose respiratória primária associada, o distúrbio misto do salicilato. A salicilemia abaixo de 90 mg/dL, com função renal normal, faz pensar que basta alcalinizar a urina com bicarbonato e repor potássio. Mas o critério que mais pesa na indicação de hemodiálise é clínico: alteração do estado mental indica salicilato no sistema nervoso central e risco de morte, qualquer que seja o nível, e a salicilemia ainda está subindo. Por isso a conduta é hemodiálise, mantendo o bicarbonato até ela, e evitando intubação sempre que possível, porque perder a hiperventilação faz o pH cair e o salicilato entrar no cérebro.",
+  "comentarios": {
+   "A": "Errada. O bicarbonato de 15 com ânion gap de 24 não cabe em alcalose respiratória isolada, e carvão ativado não basta com neurotoxicidade.",
+   "B": "Errada. O distúrbio está certo, mas a alteração mental indica hemodiálise independentemente da salicilemia; alcalinizar sozinho é tratar menos que o caso pede.",
+   "C": "Correta. Distúrbio misto pelo salicilato, com alteração mental: hemodiálise, com bicarbonato e potássio até ela.",
+   "D": "Errada. A pCO2 de 21 está bem abaixo da esperada para a acidose, o que mostra alcalose respiratória associada, e o bicarbonato isolado não basta."
+  },
+  "para_levar": "No salicilato, alteração do estado mental indica hemodiálise qualquer que seja a salicilemia; o distúrbio esperado é alcalose respiratória com acidose metabólica de ânion gap alto.",
+  "referencias": "Juurlink DN et al. Extracorporeal treatment for salicylate poisoning: systematic review and recommendations from the EXTRIP workgroup, Ann Emerg Med 2015.",
+  "tags": [
+   "Intoxicações (CM)",
+   "Gasometria Arterial (CM)"
+  ],
+  "sourceQuestionId": "f00b13498eeffda",
+  "alvo": "Grade aceita pela metade; limiar numérico lido no lugar do critério clínico que decide."
+ }
+]

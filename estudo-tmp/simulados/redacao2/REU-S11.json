@@ -1,0 +1,203 @@
+[
+ {
+  "id": "S11-REU-01",
+  "simulado": 11,
+  "area": "Reumatologia",
+  "titulo": "Febre reumática no adulto jovem sem sopro: ecocardiograma com Doppler para cardite subclínica antes de fechar a profilaxia",
+  "arma": "Negativo no meio",
+  "comando": "próximo exame",
+  "nivel": "difícil",
+  "enunciado": "Homem de 24 anos, militar em alojamento coletivo, procura atendimento por dor e edema articulares há 9 dias. Três semanas antes teve faringite febril tratada apenas com sintomáticos. A dor começou no joelho direito, passou ao tornozelo esquerdo e depois ao punho direito, cada articulação melhorando em poucos dias, com alívio rápido após iniciar naproxeno. Nega uretrite, diarreia, lesões de pele e dor lombar. Exame físico: Tax 37,9 °C, FC 104 bpm, PA 122 x 70 mmHg; bulhas normofonéticas, sem sopros e sem atrito pericárdico; artrite do punho direito. Exames: VHS 84 mm/h, PCR 96 mg/L, antiestreptolisina O 820 UI/mL (VR até 200), ECG com ritmo sinusal e intervalo PR de 0,22 s. O exame mais importante para definir a conduta neste momento é:",
+  "alternativas": {
+   "A": "Nenhum exame adicional",
+   "B": "Cultura de orofaringe",
+   "C": "Ressonância magnética cardíaca",
+   "D": "Ecocardiograma transtorácico com Doppler"
+  },
+  "gabarito": "D",
+  "armadilha": "A",
+  "dado_decisivo": "sem sopros e sem atrito pericárdico",
+  "resolucao": "Poliartrite migratória após faringite, com febre, VHS e PCR altas e antiestreptolisina O elevada, já preenche os critérios de Jones revisados em 2015 (um critério maior e dois menores com evidência de estreptococo), e por isso o apressado acha que nada mais falta. Mas a ausculta sem sopro não afasta cardite: a revisão de 2015 incorporou a cardite subclínica, isto é, a regurgitação mitral ou aórtica patológica vista só ao Doppler, como critério maior. Todo caso suspeito ou confirmado de febre reumática deve fazer ecocardiograma com Doppler. Esse exame muda tudo o que vem depois: a presença de cardite define a duração da profilaxia secundária (sem cardite, 5 anos após o surto ou até os 21 anos; com cardite, prazos muito mais longos) e o seguimento cardiológico. O PR de 0,22 s é critério menor e não substitui a avaliação valvar.",
+  "comentarios": {
+   "A": "Errada. Seria verdadeira se o diagnóstico fosse o único objetivo; aqui a cardite subclínica, invisível à ausculta, muda a profilaxia e o seguimento.",
+   "B": "Errada. A antiestreptolisina O alta já documenta a infecção estreptocócica; a cultura de orofaringe, semanas depois, costuma ser negativa e não muda a conduta.",
+   "C": "Errada. Pode ajudar em miocardite de outras causas, mas não é o exame recomendado para cardite reumática, que é valvar e se define ao Doppler.",
+   "D": "Correta. A cardite subclínica (regurgitação patológica ao Doppler) é critério maior e define a duração da profilaxia secundária."
+  },
+  "para_levar": "Na febre reumática, sopro ausente não afasta cardite: todo caso faz ecocardiograma com Doppler, porque a cardite subclínica é critério maior e muda a duração da profilaxia.",
+  "referencias": "AHA Revision of the Jones Criteria (Circulation, 2015); Diretrizes Brasileiras para o Diagnóstico, Tratamento e Prevenção da Febre Reumática (SBC/SBP/SBR).",
+  "tags": [
+   "Febre reumática (CM)"
+  ],
+  "sourceQuestionId": "467a1eebc9b3325",
+  "alvo": "Exame que decide lido como dispensável quando o diagnóstico já parece fechado (ausculta normal como negativo enganoso)."
+ },
+ {
+  "id": "S11-REU-02",
+  "simulado": 11,
+  "area": "Reumatologia",
+  "titulo": "Artrite psoriásica com acometimento axial e psoríase extensa: anti-IL-17, e não o anti-IL-12/23 que trata a pele mas falha no esqueleto axial",
+  "arma": "Rótulo verdadeiro",
+  "comando": "conduta",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 41 anos tem psoríase em placas há 15 anos, com 18% da superfície corporal acometida, e artrite psoriásica há 3 anos. Usa metotrexato 20 mg/semana com ácido fólico há 7 meses, com melhora parcial da pele, mas persiste com artrite de duas interfalangeanas distais e dactilite do 3º pododáctilo esquerdo. Há 1 ano surgiu dor lombar e glútea alternante, que o acorda de madrugada e melhora com o movimento; a ressonância de sacroilíacas mostra edema ósseo subcondral bilateral. Sem doença inflamatória intestinal, uveíte, insuficiência cardíaca ou doença desmielinizante; IGRA, HBsAg e anti-HCV negativos. O dermatologista que o acompanha sugere ustequinumabe, com o qual teve ótimos resultados em pele. A escolha mais adequada para o próximo passo é:",
+  "alternativas": {
+   "A": "Apremilaste",
+   "B": "Ixequizumabe",
+   "C": "Leflunomida",
+   "D": "Ustequinumabe"
+  },
+  "gabarito": "B",
+  "armadilha": "D",
+  "dado_decisivo": "a ressonância de sacroilíacas mostra edema ósseo subcondral bilateral",
+  "resolucao": "A psoríase extensa e a sugestão do dermatologista puxam para o ustequinumabe, que de fato controla bem a pele, a artrite periférica e a dactilite. O dado que decide está no meio do caso: há doença axial ativa, com dor lombar inflamatória e sacroiliíte na ressonância. Os inibidores de IL-12/23 (ustequinumabe) e de IL-23 falharam nos ensaios de espondiloartrite axial e não são recomendados quando o esqueleto axial está acometido. Com falha do metotrexato, doença axial e psoríase extensa, os inibidores de IL-17 (ixequizumabe, secuquinumabe) ou um anti-TNF são as escolhas, e o anti-IL-17 tem a vantagem do efeito cutâneo mais intenso. Apremilaste e leflunomida não agem na doença axial.",
+  "comentarios": {
+   "A": "Errada. Opção oral para doença periférica e cutânea leve a moderada; sem eficácia axial e menos potente que biológico.",
+   "B": "Correta. Anti-IL-17 trata pele extensa, entesite, dactilite, artrite periférica e a doença axial.",
+   "C": "Errada. DMARD sintético para artrite periférica; não age na sacroiliíte nem na pele extensa.",
+   "D": "Errada. Seria excelente sem doença axial, sobretudo com pele extensa; os inibidores de IL-12/23 falham na espondiloartrite axial."
+  },
+  "para_levar": "Na artrite psoriásica, antes de escolher o biológico, pergunte pelo esqueleto axial: com sacroiliíte, anti-IL-17 ou anti-TNF; o anti-IL-12/23 e o anti-IL-23 ficam para doença periférica e cutânea.",
+  "referencias": "GRAPPA treatment recommendations for psoriatic arthritis (2021); EULAR recommendations for the management of psoriatic arthritis (2023 update).",
+  "tags": [
+   "Artrite Psoríasica (CM)",
+   "Espondiloartrites (CM)"
+  ],
+  "sourceQuestionId": "ae32ad85e42a666",
+  "alvo": "Rótulo verdadeiro (psoríase extensa e opinião do especialista) contra o dado do meio do caso que muda o biológico."
+ },
+ {
+  "id": "S11-REU-03",
+  "simulado": 11,
+  "area": "Reumatologia",
+  "titulo": "Poliangeíte microscópica escondida sob o rótulo de fibrose pulmonar idiopática: hematúria dismórfica pede ANCA antes de LBA ou biópsia pulmonar",
+  "arma": "Rótulo verdadeiro",
+  "comando": "próximo exame",
+  "nivel": "difícil",
+  "enunciado": "Homem de 69 anos, ex-tabagista, recebeu há 8 meses diagnóstico de fibrose pulmonar idiopática por tomografia com padrão de pneumonia intersticial usual, sem biópsia, e aguarda o início de antifibrótico. Nega exposição a aves, mofo, poeiras ocupacionais, amiodarona e nitrofurantoína; sem Raynaud, artrite, lesões de pele ou fraqueza. Há 2 meses tem astenia, perda de 5 kg e febre baixa vespertina. Exame físico: PA 152 x 90 mmHg, estertores em velcro em bases, sem baqueteamento digital. Exames: Hb 10,4 g/dL, creatinina 1,9 mg/dL (0,9 mg/dL há 8 meses), urina tipo 1 com 40 hemácias por campo, 70% dismórficas, e proteína 2+; PCR 64 mg/L; FAN e fator reumatoide não reagentes. O exame a solicitar agora é:",
+  "alternativas": {
+   "A": "Biópsia pulmonar cirúrgica",
+   "B": "Lavado broncoalveolar com celularidade",
+   "C": "ANCA com anti-MPO e anti-PR3",
+   "D": "Ultrassonografia renal com Doppler"
+  },
+  "gabarito": "C",
+  "armadilha": "B",
+  "dado_decisivo": "70% dismórficas",
+  "resolucao": "O rótulo de fibrose pulmonar idiopática é verdadeiro para a imagem (padrão de pneumonia intersticial usual), e por isso o raciocínio fica preso ao pulmão: lavado, biópsia, antifibrótico. Mas o caso trouxe sintomas constitucionais, anemia, perda de função renal e hematúria com hemácias dismórficas: há glomerulonefrite. Fibrose pulmonar com padrão de pneumonia intersticial usual pode ser a primeira manifestação da poliangeíte microscópica com anti-MPO, às vezes anos antes do rim, e o ANCA deve fazer parte da avaliação de toda doença intersticial. O ANCA por ELISA (anti-MPO e anti-PR3) é o próximo passo, rápido e não invasivo; positivo, segue a biópsia renal, que define atividade e prognóstico. Lavado e biópsia pulmonar não explicam o rim.",
+  "comentarios": {
+   "A": "Errada. Serviria a uma doença intersticial indefinida sem pista sistêmica; aqui é invasiva e não explica a glomerulonefrite.",
+   "B": "Errada. Útil para pneumonite de hipersensibilidade ou infecção; a exposição foi negada e o problema novo está no rim.",
+   "C": "Correta. Glomerulonefrite com pneumonia intersticial usual em idoso é poliangeíte microscópica até prova em contrário: anti-MPO.",
+   "D": "Errada. Seria o primeiro exame numa lesão renal sem sedimento ativo; hematúria dismórfica aponta lesão glomerular, não obstrutiva ou vascular."
+  },
+  "para_levar": "Doença intersticial com padrão de pneumonia intersticial usual e hematúria dismórfica é poliangeíte microscópica até prova em contrário: peça ANCA (anti-MPO) antes de qualquer procedimento pulmonar.",
+  "referencias": "ACR/EULAR classification criteria for microscopic polyangiitis (2022); ATS/ERS/JRS/ALAT IPF guideline (2022); KDIGO Glomerular Diseases (2024).",
+  "tags": [
+   "Poliarterite Microscópica (CM)",
+   "Vasculites ANCA-associadas (CM)"
+  ],
+  "sourceQuestionId": "aad22a346d86621",
+  "alvo": "Rótulo verdadeiro (FPI) sequestrando o raciocínio; próximo exame de menor porte que explica o caso inteiro."
+ },
+ {
+  "id": "S11-REU-04",
+  "simulado": 11,
+  "area": "Reumatologia",
+  "titulo": "Necrose digital com crioglobulinas em quem teve hepatite C curada: fator reumatoide negativo e C4 normal apontam crioglobulinemia tipo I",
+  "arma": "Rótulo verdadeiro",
+  "comando": "etiologia",
+  "nivel": "extremamente difícil",
+  "enunciado": "Mulher de 66 anos teve hepatite C tratada com sofosbuvir e velpatasvir há 3 anos, com RNA do HCV indetectável desde então. Há 6 semanas tem dor e cianose fria nas pontas dos dedos das mãos e dos pés após exposição ao ar-condicionado, que evoluiu com necrose seca da polpa do 4º dedo direito, além de livedo nas coxas, cefaleia e visão borrada. Nega Raynaud prévio, artralgia e púrpura palpável. Exame físico: PA 138 x 82 mmHg, pulsos periféricos amplos e simétricos, necrose digital, fundo de olho com veias tortuosas e hemorragias em chama de vela. Exames: Hb 11,0 g/dL, VHS 110 mm/h, creatinina 0,9 mg/dL, urina normal, fator reumatoide não reagente, C3 e C4 normais, crioglobulinas positivas com criócrito de 18%, RNA do HCV indetectável. A causa mais provável do quadro é:",
+  "alternativas": {
+   "A": "Síndrome antifosfolípide",
+   "B": "Embolia de colesterol",
+   "C": "Crioglobulinemia tipo I por gamopatia monoclonal",
+   "D": "Crioglobulinemia mista pelo vírus da hepatite C"
+  },
+  "gabarito": "C",
+  "armadilha": "D",
+  "dado_decisivo": "fator reumatoide não reagente, C3 e C4 normais",
+  "resolucao": "A hepatite C é a causa de mais de 80% das crioglobulinemias mistas, e o antecedente puxa para ela. Mas a mista (tipos II e III) é uma vasculite por imunocomplexos: púrpura palpável, artralgia, neuropatia, glomerulonefrite, com atividade de fator reumatoide e consumo de C4 quase universal. Aqui não há nada disso: há fenômenos oclusivos (necrose digital ao frio, livedo) e sinais de hiperviscosidade no fundo de olho, com fator reumatoide negativo, complemento normal e criócrito alto. Esse é o perfil da crioglobulinemia tipo I, imunoglobulina monoclonal isolada que precipita e obstrui, associada a gamopatia monoclonal, macroglobulinemia de Waldenström ou mieloma. O passo seguinte é eletroforese com imunofixação e avaliação hematológica.",
+  "comentarios": {
+   "A": "Errada. Dá trombose e livedo, mas não crioglobulinas com criócrito alto nem hiperviscosidade retiniana.",
+   "B": "Errada. Necrose digital com livedo em idoso, mas depois de cateterismo ou anticoagulação, com eosinofilia e lesão renal; pulsos e rim aqui são normais.",
+   "C": "Correta. Oclusão e hiperviscosidade sem atividade de fator reumatoide e sem consumo de complemento é tipo I, monoclonal.",
+   "D": "Errada. Seria a resposta com púrpura palpável, fator reumatoide positivo e C4 baixo; o vírus está curado e o perfil é outro."
+  },
+  "para_levar": "Crioglobulinemia mista é vasculite com fator reumatoide e C4 baixo; a tipo I é oclusão e hiperviscosidade com complemento normal e pede investigação de gamopatia monoclonal.",
+  "referencias": "Cacoub P, et al. Cryoglobulinemia vasculitis (Am J Med, 2015); Harel S, et al. Clinical features and prognosis of type I cryoglobulinemia (Br J Haematol, 2015).",
+  "tags": [
+   "Crioglobulinemia (CM)",
+   "Vasculites (CM)"
+  ],
+  "sourceQuestionId": "15cee73452ac96e",
+  "alvo": "Rótulo verdadeiro (HCV) contra o perfil laboratorial que discrimina (FR e complemento); tipos de crioglobulinemia, que ele errou."
+ },
+ {
+  "id": "S11-REU-05",
+  "simulado": 11,
+  "area": "Reumatologia",
+  "titulo": "Primeira recaída da polimialgia reumática na redução: voltar à última dose eficaz, e não reiniciar a dose de indução",
+  "arma": "Omissão",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 72 anos, previamente hígida, tem polimialgia reumática diagnosticada há 7 meses, iniciada com prednisona 15 mg/dia e reduzida gradualmente, com remissão completa. Há 10 dias, 2 semanas após passar de 7,5 mg para 5 mg/dia, voltou a ter dor e rigidez matinal de 1 hora em cinturas escapular e pélvica. Nega cefaleia, alteração visual, claudicação de mandíbula ou de membros, febre e perda de peso. Usa cálcio e vitamina D. Exame físico: dor à mobilização ativa dos ombros, artérias temporais pulsáteis e indolores, pulsos e pressão arterial simétricos nos membros superiores. VHS 44 mm/h (era 12 mm/h), PCR 18 mg/L. É a primeira recaída. A conduta inicial mais adequada é:",
+  "alternativas": {
+   "A": "Prednisona de volta a 15 mg/dia",
+   "B": "Prednisona de volta a 7,5 mg/dia",
+   "C": "Manter 5 mg e associar naproxeno",
+   "D": "Pulso de metilprednisolona"
+  },
+  "gabarito": "B",
+  "armadilha": "A",
+  "dado_decisivo": "2 semanas após passar de 7,5 mg para 5 mg/dia",
+  "resolucao": "Diante da recaída, o reflexo é recomeçar o tratamento do zero, voltando aos 15 mg da indução. As recomendações EULAR/ACR para polimialgia reumática pedem menos: aumentar o glicocorticoide para a dose em uso antes da recaída (aqui 7,5 mg/dia) e depois reduzir de novo, mais devagar, ao longo de 4 a 8 semanas até a dose em que a recaída ocorreu. A ausência de cefaleia, sintomas visuais, claudicação e assimetria de pulsos afasta arterite de células gigantes, que mudaria a dose. Anti-inflamatório não substitui o corticoide na polimialgia, e pulso não tem lugar. Metotrexato entra como poupador em quem recai repetidamente ou tem alto risco de efeito adverso.",
+  "comentarios": {
+   "A": "Errada. Seria a dose de início; na recaída basta voltar à última dose eficaz, o que poupa corticoide em idosa.",
+   "B": "Correta. Voltar à dose anterior à recaída e reduzir de novo mais lentamente é o que as recomendações pedem.",
+   "C": "Errada. AINE pode aliviar dor em casos selecionados, mas não controla a recaída da polimialgia.",
+   "D": "Errada. Pulso é para arterite de células gigantes com ameaça visual, ausente aqui."
+  },
+  "para_levar": "Recaída da polimialgia reumática: subir para a dose em uso antes da recaída e reduzir mais devagar; reiniciar a dose de indução é fazer mais do que o caso pede.",
+  "referencias": "2015 EULAR/ACR recommendations for the management of polymyalgia rheumatica.",
+  "tags": [
+   "Polimialgia Reumática"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Padrão dominante: porte da conduta (fazer mais do que o caso pede) num tema UERJ."
+ },
+ {
+  "id": "S11-REU-06",
+  "simulado": 11,
+  "area": "Reumatologia",
+  "titulo": "Doença de Paget: zoledronato em dose única e seguimento pela fosfatase alcalina total",
+  "arma": "Grade X / Y",
+  "comando": "fato solto",
+  "nivel": "média",
+  "enunciado": "Na doença de Paget óssea com indicação de tratamento, o fármaco de escolha e o exame usado para acompanhar a resposta são, respectivamente:",
+  "alternativas": {
+   "A": "Ácido zoledrônico em dose única / fosfatase alcalina total",
+   "B": "Alendronato semanal / cálcio sérico",
+   "C": "Ácido zoledrônico em dose única / cintilografia óssea anual",
+   "D": "Calcitonina nasal / fosfatase alcalina total"
+  },
+  "gabarito": "A",
+  "armadilha": "C",
+  "dado_decisivo": "o fármaco de escolha e o exame usado para acompanhar a resposta",
+  "resolucao": "A cintilografia é o exame que mapeia a extensão da doença no diagnóstico, por isso atrai como exame de seguimento. Mas a resposta ao tratamento se acompanha por marcador de remodelação: a fosfatase alcalina total (ou específica óssea, ou P1NP), dosada 3 a 6 meses após a infusão e depois periodicamente, e a recaída bioquímica orienta o retratamento. Entre os fármacos, o ácido zoledrônico 5 mg em infusão única é o de escolha, por induzir remissão bioquímica mais frequente e mais duradoura que os bisfosfonatos orais. Calcitonina foi abandonada por eficácia menor e risco de neoplasia com uso prolongado. O cálcio sérico não mede atividade da doença.",
+  "comentarios": {
+   "A": "Correta. Zoledronato 5 mg em dose única induz remissão duradoura, e a fosfatase alcalina acompanha a resposta.",
+   "B": "Errada. Bisfosfonato oral é alternativa menos eficaz, e o cálcio sérico não reflete a atividade do Paget.",
+   "C": "Errada. Acerta o fármaco, mas a cintilografia mapeia a extensão no diagnóstico; não é o exame de seguimento.",
+   "D": "Errada. Acerta o seguimento, mas a calcitonina é menos eficaz e caiu em desuso."
+  },
+  "para_levar": "Paget: zoledronato 5 mg em dose única e fosfatase alcalina para seguir a resposta; a cintilografia serve para mapear a extensão no diagnóstico.",
+  "referencias": "Endocrine Society Clinical Practice Guideline: Paget's disease of bone (2014); Ralston SH, et al. Diagnosis and management of Paget's disease of bone in adults (J Bone Miner Res, 2019).",
+  "tags": [
+   "Paget (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Fato solto curto (evocação que ele perde) sobre tema que a fase anterior abordou só pelo diagnóstico."
+ }
+]
