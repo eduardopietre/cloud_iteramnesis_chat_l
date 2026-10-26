@@ -1,0 +1,136 @@
+[
+ {
+  "id": "R04-GAS-01",
+  "simulado": "R04",
+  "area": "Gastroenterologia e hepatologia",
+  "titulo": "DHGNA aos 71 anos com FIB-4 de 1,9 e ALT elevada: baixo risco pelo ponto de corte de 2,0 acima dos 65 anos, sem elastografia",
+  "arma": "Limiar",
+  "comando": "conduta",
+  "nivel": "extremamente difícil",
+  "enunciado": "Mulher de 71 anos, com hipertensão arterial, dislipidemia e obesidade (IMC de 31 kg/m²), sem diabetes (glicemia de jejum 98 mg/dL, HbA1c 5,6%), é encaminhada ao ambulatório por esteatose hepática moderada descrita em ultrassonografia feita para investigar cálculos. Usa losartana e atorvastatina há 6 anos. Nega consumo de álcool. Assintomática; sem estigmas de hepatopatia, baço não palpável. Exames: ALT 58 U/L (referência até 33), AST 44 U/L (referência até 32), GGT 70 U/L, plaquetas 215.000/mm³, albumina 4,2 g/dL, bilirrubinas normais. HBsAg, anti-HCV e anti-HIV não reagentes; ferritina 210 ng/mL com saturação de transferrina de 28%; FAN não reagente. O FIB-4 calculado é de 1,9. Ela pergunta se a estatina lesou o fígado. A conduta mais adequada para a avaliação de fibrose é:",
+  "alternativas": {
+   "A": "Elastografia hepática transitória agora",
+   "B": "Biópsia hepática percutânea",
+   "C": "Repetir o FIB-4 em 2 a 3 anos",
+   "D": "Elastografia por ressonância magnética"
+  },
+  "gabarito": "C",
+  "armadilha": "A",
+  "dado_decisivo": "Mulher de 71 anos",
+  "resolucao": "Com o ponto de corte inferior habitual de 1,3, um FIB-4 de 1,9 cai na faixa intermediária e levaria à elastografia, e a ALT elevada reforça a impressão de doença ativa. Mas a idade entra no numerador do FIB-4 e infla o escore em idosos, gerando excesso de falsos positivos; por isso, acima dos 65 anos, o limiar inferior validado é 2,0. Abaixo dele, a probabilidade de fibrose avançada é baixa, e a conduta é controle metabólico e nova estratificação com FIB-4 em 2 a 3 anos. A ALT não estratifica fibrose, e a estatina é segura na doença hepática gordurosa e deve ser mantida. O limiar superior de 2,67 não muda com a idade, e apenas valores na nova faixa intermediária (2,0 a 2,67) pediriam elastografia.",
+  "comentarios": {
+   "A": "Errada. Seria o passo com FIB-4 de 1,9 em paciente abaixo de 65 anos; aos 71, o limiar inferior é 2,0 e o escore está abaixo dele.",
+   "B": "Errada. Biópsia fica para dúvida diagnóstica ou testes não invasivos discordantes, e não para baixo risco pelo FIB-4.",
+   "C": "Correta. Acima de 65 anos, FIB-4 abaixo de 2,0 indica baixo risco de fibrose avançada: reestratificar em 2 a 3 anos.",
+   "D": "Errada. A elastografia por ressonância é alternativa de segunda linha para casos de risco intermediário, que não é o desta paciente."
+  },
+  "para_levar": "O FIB-4 tem limiar inferior de 1,3 abaixo dos 65 anos e de 2,0 a partir dos 65; a ALT não muda a estratificação de fibrose, e a estatina se mantém.",
+  "referencias": "AASLD Practice Guidance on the clinical assessment and management of NAFLD, 2023; EASL-EASD-EASO Clinical Practice Guidelines on MASLD, 2024; McPherson S et al. Am J Gastroenterol 2017.",
+  "tags": [
+   "DHGNA (CM)",
+   "Síndrome Metabólica, Obesidade e DHGNA (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "UERJ recorrente: DHGNA e FIB-4 (1,3 e 2,67), aqui pelo ajuste do limiar à idade"
+ },
+ {
+  "id": "R04-GAS-02",
+  "simulado": "R04",
+  "area": "Gastroenterologia e hepatologia",
+  "titulo": "Hepatite autoimune com aminotransferases normais há 2 anos e IgG ainda alta: sem remissão bioquímica completa, manter a azatioprina",
+  "arma": "Omissão",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 42 anos, com hepatite autoimune tipo 1 diagnosticada há 3 anos (FAN 1:640, antimúsculo liso 1:160, IgG de 3.100 mg/dL e biópsia com hepatite de interface e infiltrado plasmocitário), sem cirrose na época (elastografia de 6,1 kPa). Está em uso de azatioprina 100 mg e prednisona 5 mg ao dia, com boa adesão. Assintomática, deseja engravidar no próximo ano e pede para suspender as medicações. Nos últimos 24 meses, ALT e AST estiveram normais em todas as dosagens trimestrais (última ALT de 28 U/L, referência até 33). Exames atuais: bilirrubinas normais, albumina 4,1 g/dL, INR 1,0, plaquetas 230.000/mm³, leucócitos 5.400/mm³, IgG de 1.980 mg/dL (referência de 700 a 1.600). Elastografia atual de 5,8 kPa. A conduta mais adequada é:",
+  "alternativas": {
+   "A": "Manter azatioprina e prednisona",
+   "B": "Retirar a azatioprina gradualmente",
+   "C": "Biópsia hepática antes da retirada",
+   "D": "Trocar azatioprina por micofenolato"
+  },
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "IgG de 1.980 mg/dL (referência de 700 a 1.600)",
+  "resolucao": "Dois anos de aminotransferases normais, fibrose mínima e o desejo de gestar parecem autorizar a retirada, e é isso que o apressado faz. Mas a remissão bioquímica completa na hepatite autoimune exige aminotransferases e IgG normais, e a IgG persistentemente alta indica atividade residual e alto risco de recaída após a suspensão. Só com remissão bioquímica completa sustentada por pelo menos 2 anos se discute a retirada, e a biópsia antes dela é opcional, sem papel quando a IgG já mostra que a remissão não foi atingida. A gestação não muda o raciocínio: a azatioprina é compatível com a gravidez, e a recaída da hepatite na gestação ou no puerpério é mais perigosa que a manutenção. O micofenolato é teratogênico e contraindicado em quem planeja engravidar.",
+  "comentarios": {
+   "A": "Correta. IgG acima do normal mostra que não há remissão bioquímica completa; mantém-se o esquema, que é seguro na gestação.",
+   "B": "Errada. Seria discutida com aminotransferases e IgG normais por pelo menos 2 anos; a IgG elevada prevê recaída.",
+   "C": "Errada. A biópsia pode ser considerada antes da retirada em quem está em remissão bioquímica completa, o que não é o caso.",
+   "D": "Errada. Micofenolato é a segunda linha na intolerância ou resposta inadequada à azatioprina e é teratogênico, impróprio para quem planeja gestar."
+  },
+  "para_levar": "Remissão bioquímica na hepatite autoimune é ALT e IgG normais; com IgG alta não se retira a imunossupressão, e a azatioprina se mantém na gestação.",
+  "referencias": "EASL Clinical Practice Guidelines on the management of autoimmune hepatitis, 2025; AASLD Practice Guidance on autoimmune hepatitis, 2025.",
+  "tags": [
+   "Hepatite Autoimune (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "UERJ recorrente: hepatite autoimune, aqui pelo critério de remissão que inclui a IgG"
+ },
+ {
+  "id": "R04-GAS-03",
+  "simulado": "R04",
+  "area": "Gastroenterologia e hepatologia",
+  "titulo": "Líquido ascítico de punção traumática com 311 polimorfonucleares e 48.000 hemácias: sem PBE após a correção, sem antibiótico",
+  "arma": "Grade X / Y",
+  "comando": "conduta",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 61 anos, com cirrose por hepatite C tratada com resposta virológica sustentada há 3 anos, Child-Pugh B8, é internado eletivamente para paracentese de alívio. Usa propranolol 40 mg e espironolactona 200 mg ao dia. Assintomático, sem dor abdominal, consciente e orientado, sem flapping; temperatura de 36,6 °C, PA 112/70 mmHg, FC 68 bpm. A punção diagnóstica foi difícil, exigiu três tentativas e o líquido saiu róseo e clareou no decorrer da drenagem. Líquido ascítico: leucócitos 820/mm³, 38% de polimorfonucleares (311/mm³), hemácias 48.000/mm³, proteína total 1,1 g/dL, albumina 0,6 g/dL, glicose 110 mg/dL, LDH 90 U/L; Gram sem bactérias, cultura semeada em frascos de hemocultura em andamento. Albumina sérica 2,9 g/dL, creatinina 1,0 mg/dL, bilirrubina total 2,1 mg/dL, sódio 136 mEq/L. A interpretação do líquido e a conduta mais adequada são, respectivamente:",
+  "alternativas": {
+   "A": "PBE / cefotaxima isolada",
+   "B": "PBE / cefotaxima e albumina",
+   "C": "Peritonite secundária / tomografia de abdome",
+   "D": "Sem PBE / aguardar a cultura"
+  },
+  "gabarito": "D",
+  "armadilha": "B",
+  "dado_decisivo": "hemácias 48.000/mm³",
+  "resolucao": "Polimorfonucleares de 311/mm³ estão acima de 250, limiar de peritonite bacteriana espontânea, e o reflexo é antibiótico com albumina. Mas a punção foi traumática, e o sangue que contamina o líquido traz neutrófilos junto: desconta-se 1 polimorfonuclear para cada 250 hemácias. Com 48.000 hemácias, subtraem-se 192, e o valor corrigido é de cerca de 119/mm³, abaixo do limiar. Sem febre, dor, encefalopatia ou piora renal, não há indicação de antibiótico agora; aguarda-se a cultura, e se ela crescer bactéria com polimorfonucleares abaixo de 250 (bacterascite) repete-se a paracentese antes de decidir. Os critérios de Runyon (glicose baixa, LDH alta, proteína alta) estão ausentes, o que afasta peritonite secundária.",
+  "comentarios": {
+   "A": "Errada. Seria o esquema para PBE sem creatinina acima de 1 mg/dL nem bilirrubina acima de 4 mg/dL, mas aqui não há PBE após corrigir pelas hemácias.",
+   "B": "Errada. É a armadilha: seria a conduta com polimorfonucleares acima de 250 sem contaminação sanguínea; corrigido pelas 48.000 hemácias, o valor cai para cerca de 119.",
+   "C": "Errada. Peritonite secundária se suspeita com dois critérios de Runyon (proteína acima de 1 g/dL, glicose abaixo de 50 mg/dL, LDH acima do limite sérico) ou germes múltiplos no Gram.",
+   "D": "Correta. Polimorfonucleares corrigidos de cerca de 119/mm³ em paciente assintomático: sem PBE, e a cultura define o passo seguinte."
+  },
+  "para_levar": "Em líquido ascítico hemorrágico, desconte 1 polimorfonuclear a cada 250 hemácias antes de aplicar o limiar de 250/mm³ para PBE.",
+  "referencias": "AASLD Practice Guidance: Diagnosis, Evaluation, and Management of Ascites, SBP and Hepatorenal Syndrome, 2021; EASL Clinical Practice Guidelines on decompensated cirrhosis, 2018.",
+  "tags": [
+   "Infecções em Líquido Ascítico : Neutrascite, PBE e PBS (CM)",
+   "Ascite, PBE e PBS (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "UERJ recorrente: PBE no cirrótico, aqui pelo limiar corrigido em punção traumática"
+ },
+ {
+  "id": "R04-GAS-04",
+  "simulado": "R04",
+  "area": "Gastroenterologia e hepatologia",
+  "titulo": "Barrett indefinido para displasia sobre esofagite erosiva, encaminhado para ablação: dobrar o IBP e nova endoscopia em 6 meses",
+  "arma": "Rótulo verdadeiro",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Homem de 58 anos, tabagista de 30 maços-ano, IMC de 30 kg/m², com pirose há 15 anos, usa omeprazol 20 mg apenas quando tem sintomas. Fez endoscopia por pirose diária nos últimos 2 meses: epitélio colunar de Prague C4M6 e esofagite erosiva Los Angeles C sobreposta, sem lesão visível à cromoscopia digital. As biópsias pelo protocolo de Seattle mostraram metaplasia intestinal com laudo indefinido para displasia, confirmado por um segundo patologista com experiência em trato gastrointestinal. Nega disfagia, perda de peso ou anemia; Hb 14,2 g/dL. Foi encaminhado ao serviço de endoscopia intervencionista com pedido de ablação por radiofrequência, porque o médico assistente considerou que \"indefinido equivale a displasia\". A conduta mais adequada neste momento é:",
+  "alternativas": {
+   "A": "Ablação por radiofrequência do segmento",
+   "B": "IBP duas vezes ao dia e endoscopia em 6 meses",
+   "C": "Ressecção endoscópica da mucosa",
+   "D": "Endoscopia de vigilância em 3 a 5 anos"
+  },
+  "gabarito": "B",
+  "armadilha": "A",
+  "dado_decisivo": "esofagite erosiva Los Angeles C sobreposta",
+  "resolucao": "O segmento longo, o tabagismo, a obesidade e o laudo duvidoso confirmado por dois patologistas fazem parecer que é hora de erradicar o epitélio. Mas o laudo indefinido para displasia surge sobretudo quando há inflamação ativa, e aqui há esofagite erosiva grau C sobre o Barrett, que produz atipia reativa difícil de distinguir de displasia. A conduta é otimizar a supressão ácida, com IBP em dose dobrada, e repetir a endoscopia com biópsias em cerca de 6 meses, já sem esofagite: só então se reclassifica o epitélio. Ablação se indica para displasia confirmada, e ressecção endoscópica para lesão visível, ausente aqui. Tratar como Barrett sem displasia e espaçar a vigilância ignora a dúvida que a inflamação criou.",
+  "comentarios": {
+   "A": "Errada. É a armadilha do rótulo: ablação se indica para displasia de baixo ou alto grau confirmada, e não para laudo indefinido sobre esofagite ativa.",
+   "B": "Correta. Com esofagite erosiva sobreposta, o laudo indefinido pede supressão ácida otimizada e nova endoscopia com biópsias em cerca de 6 meses.",
+   "C": "Errada. Ressecção endoscópica é para lesão visível ou nodular, que a cromoscopia não mostrou.",
+   "D": "Errada. Seria o intervalo de vigilância para Barrett sem displasia de segmento longo; o laudo indefinido não autoriza esse espaçamento."
+  },
+  "para_levar": "Barrett indefinido para displasia, sobretudo com esofagite ativa, pede IBP em dose otimizada e nova endoscopia com biópsias em cerca de 6 meses antes de qualquer terapia endoscópica.",
+  "referencias": "ACG Clinical Guideline: Diagnosis and Management of Barrett's Esophagus, 2022; ESGE Position Statement on Barrett's esophagus, 2023.",
+  "tags": [
+   "DRGE e Barret (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "UERJ recorrente: DRGE e Barrett, aqui pelo laudo indefinido para displasia sobre esofagite ativa"
+ }
+]

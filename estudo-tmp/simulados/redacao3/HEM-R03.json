@@ -1,0 +1,169 @@
+[
+ {
+  "id": "R03-HEM-01",
+  "simulado": "R03",
+  "area": "Hematologia",
+  "titulo": "Hematoma espontâneo no idoso com TTPa isolado longo que corrige na mistura imediata e volta a prolongar após incubação: hemofilia A adquirida e agente de bypass",
+  "arma": "Grade X / Y",
+  "comando": "conduta",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 74 anos, diabético e hipertenso, em uso de metformina, losartana e AAS 100 mg/dia, procura a emergência por aumento de volume doloroso na coxa direita há 4 dias, sem trauma, e equimoses extensas nos braços há 2 semanas. Nunca sangrou de forma anormal: fez herniorrafia aos 60 anos e três extrações dentárias sem intercorrência. Sem hepatopatia e sem história familiar de sangramento. Exame: FC 108 bpm, PA 112 x 70 mmHg, coxa direita tensa, com equimose que se estende ao joelho, pulsos distais presentes. Exames: Hb 7,6 g/dL (era 13,1 há 3 meses), plaquetas 236.000/mm³, TP com INR 1,0, fibrinogênio 390 mg/dL, TTPa 81 s (controle 30 s). No teste da mistura com plasma normal (1:1), o TTPa cai para 33 s na leitura imediata e, após incubação por 2 horas a 37 °C, sobe para 62 s. Fator VIII 2%, fator IX 96%, fator XI 88%. Quanto ao diagnóstico e ao tratamento hemostático, a conduta mais adequada é, respectivamente:",
+  "alternativas": {
+   "A": "Hemofilia A leve congênita / fator VII ativado recombinante",
+   "B": "Hemofilia A adquirida / fator VII ativado recombinante",
+   "C": "Hemofilia A leve congênita / concentrado de fator VIII",
+   "D": "Hemofilia A adquirida / concentrado de fator VIII"
+  },
+  "gabarito": "B",
+  "armadilha": "C",
+  "dado_decisivo": "após incubação por 2 horas a 37 °C, sobe para 62 s",
+  "resolucao": "O TTPa que corrige na leitura imediata da mistura é o achado tranquilizador que puxa para deficiência de fator, e um fator VIII de 2% parece fechar hemofilia A a ser reposta com fator VIII. Dois dados derrubam essa leitura. A história hemostática é limpa até os 74 anos, com cirurgia e extrações sem sangramento, o que não combina com fator VIII de 2% congênito. E a mistura que volta a prolongar depois de 2 horas a 37 °C indica inibidor tempo e temperatura dependente, comportamento dos autoanticorpos contra o fator VIII, que neutralizam o fator do plasma normal lentamente. Hemofilia A adquirida, no idoso, se apresenta com hematomas musculares e equimoses extensas, e sangra mais que a congênita. O concentrado de fator VIII é neutralizado pelo inibidor; o tratamento do sangramento é com agente de bypass (fator VII ativado recombinante ou complexo protrombínico ativado), ou fator VIII porcino recombinante, junto com imunossupressão (prednisona, com ou sem ciclofosfamida ou rituximabe) para erradicar o inibidor, dosado pelo método Bethesda. O AAS deve ser suspenso, e procedimentos invasivos evitados.",
+  "comentarios": {
+   "A": "Errada. O agente de bypass é o tratamento certo, mas o diagnóstico não: hemofilia congênita com 2% de fator VIII teria sangrado nas cirurgias anteriores, e a mistura não voltaria a prolongar.",
+   "B": "Correta. Fator VIII baixo, história hemostática prévia normal e mistura que prolonga após incubação definem o inibidor adquirido; o sangramento se trata contornando o fator VIII.",
+   "C": "Errada. É a armadilha da correção imediata: seria a conduta numa hemofilia congênita sem inibidor, mas aqui o anticorpo neutralizaria o concentrado de fator VIII infundido.",
+   "D": "Errada. O diagnóstico está certo, mas o fator VIII humano em dose padrão é inativado pelo autoanticorpo; só tem papel em altas doses com inibidor de título muito baixo, e não como primeira escolha no sangramento grave."
+  },
+  "para_levar": "TTPa isolado longo em idoso sem passado de sangramento, com mistura que corrige e depois prolonga após incubação, é hemofilia A adquirida: agente de bypass para sangrar menos e imunossupressão para tirar o inibidor.",
+  "referencias": "Tiede A et al. International recommendations on the diagnosis and treatment of acquired hemophilia A. Haematologica 2020; Manual de diagnóstico e tratamento de coagulopatias hereditárias e adquiridas, Ministério da Saúde.",
+  "tags": [
+   "Distúrbios de Hemostasia (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "UERJ recorrente: hemofilia A adquirida e o teste da mistura com incubação, separando do déficit congênito"
+ },
+ {
+  "id": "R03-HEM-02",
+  "simulado": "R03",
+  "area": "Hematologia",
+  "titulo": "Plasmocitoma vertebral com medula abaixo de 10% e inventário radiográfico normal: estadiar com PET-CT ou RM antes de chamar de solitário",
+  "arma": "Negativo no meio",
+  "comando": "próximo exame",
+  "nivel": "difícil",
+  "enunciado": "Homem de 59 anos, hipertenso em uso de anlodipino, refere lombalgia mecânica há 3 meses, sem perda de peso e sem déficit neurológico. A RM da coluna toracolombar mostra lesão lítica única no corpo vertebral de T11, com componente de partes moles e sem compressão do canal. A biópsia guiada por TC revela infiltrado de plasmócitos monotípicos kappa. Hb 13,6 g/dL, cálcio 9,3 mg/dL, creatinina 0,9 mg/dL. Eletroforese de proteínas com pico de 0,5 g/dL, imunofixação IgG kappa, relação kappa/lambda das cadeias livres de 2,8. O inventário radiográfico do esqueleto (crânio, ossos longos, bacia e coluna) não mostra outras lesões. Aspirado e biópsia de crista ilíaca: plasmócitos clonais em 5% por citometria de fluxo. O radioterapeuta já agendou o planejamento. O próximo passo mais adequado é:",
+  "alternativas": {
+   "A": "PET-CT com FDG de corpo inteiro",
+   "B": "Radioterapia local em dose curativa",
+   "C": "Indução com bortezomibe e transplante autólogo",
+   "D": "Cintilografia óssea com tecnécio"
+  },
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "O inventário radiográfico do esqueleto (crânio, ossos longos, bacia e coluna) não mostra outras lesões",
+  "resolucao": "Lesão única com plasmócitos clonais na biópsia e medula com menos de 10% de plasmócitos clonais, sem anemia, hipercalcemia ou lesão renal, é plasmocitoma solitário com envolvimento medular mínimo, e a radioterapia local é o tratamento. A armadilha está no momento: o inventário radiográfico só detecta lesão lítica quando boa parte do osso trabecular já se perdeu e não é mais aceito para estadiar plasmocitoma. Cerca de um terço dos plasmocitomas aparentemente solitários tem outras lesões quando estudados por PET-CT ou RM de corpo inteiro (ou de coluna e pelve), e duas ou mais lesões transformam o caso em mieloma, com tratamento sistêmico. Por isso o IMWG exige imagem sensível antes de rotular como solitário. A cintilografia óssea depende de atividade osteoblástica, que o mieloma suprime, e subestima as lesões. A indução de mieloma seria precipitada com medula de 5% e lesão única ainda não confirmada.",
+  "comentarios": {
+   "A": "Correta. Antes de chamar a lesão de solitária, o estadiamento exige imagem sensível (PET-CT ou RM), porque o inventário radiográfico perde lesões e um terço desses casos já é mieloma.",
+   "B": "Errada. É a armadilha: seria a conduta depois de a PET-CT ou a RM confirmarem lesão única; tratar só T11 com outra lesão oculta deixa um mieloma sem tratamento sistêmico.",
+   "C": "Errada. Seria a conduta no mieloma múltiplo (plasmócitos clonais de 10% ou mais com evento definidor, ou duas lesões focais na RM); aqui a medula tem 5% e só há uma lesão conhecida.",
+   "D": "Errada. A cintilografia detecta atividade osteoblástica, ausente nas lesões puramente líticas do mieloma, e por isso subestima a doença."
+  },
+  "para_levar": "Plasmocitoma solitário só se diagnostica depois de PET-CT ou RM sem outras lesões; o inventário radiográfico normal não basta, e medula abaixo de 10% não dispensa a imagem sensível.",
+  "referencias": "Caers J et al. Diagnosis, treatment, and response assessment in solitary plasmacytoma: updated recommendations from the IMWG. Lancet Oncol 2018; Rajkumar SV. Multiple myeloma: 2024 update. Am J Hematol.",
+  "tags": [
+   "Mieloma Múltiplo e Outras Discrasias Plasmocitárias (CM)",
+   "Mieloma Múltiplo (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "S3 q11 (plasmocitoma com plasmócitos medulares abaixo de 10%): outro ângulo, o estadiamento por imagem sensível que precede a radioterapia"
+ },
+ {
+  "id": "R03-HEM-03",
+  "simulado": "R03",
+  "area": "Hematologia",
+  "titulo": "Eritrocitose adquirida com eritropoetina alta, sem hipoxemia e anterior ao iSGLT2: procurar tumor secretor de EPO, e não o éxon 12 do JAK2",
+  "arma": "Rótulo verdadeiro",
+  "comando": "conduta",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 61 anos, diabético, ex-tabagista (parou há 8 anos), encaminhado por eritrocitose. Usa metformina e, há 4 meses, empagliflozina; não usa testosterona. Hemograma de 2 anos atrás: hematócrito de 43%. Assintomático, sem prurido aquagênico, sem eritromelalgia, sem roncos ou sonolência diurna. Exame: PA 138 x 84 mmHg, pletora facial discreta, baço e fígado não palpáveis, sem massas abdominais. Exames: Hb 19,1 g/dL, hematócrito 57%, leucócitos 7.200/mm³, plaquetas 248.000/mm³, eritropoetina sérica 54 mUI/mL (referência: 4 a 26), JAK2 V617F negativo, SpO2 96% em ar ambiente e carboxi-hemoglobina 1,1%. Ao revisar o prontuário, o residente encontra hematócrito de 52% num exame de rotina colhido um mês antes de iniciar a empagliflozina. Creatinina 0,9 mg/dL, urina tipo 1 sem hematúria. A conduta mais adequada agora é:",
+  "alternativas": {
+   "A": "Pesquisar mutação no éxon 12 do JAK2",
+   "B": "Suspender a empagliflozina e repetir em 3 meses",
+   "C": "Tomografia de abdome com contraste",
+   "D": "Medir a P50 da hemoglobina"
+  },
+  "gabarito": "C",
+  "armadilha": "B",
+  "dado_decisivo": "hematócrito de 52% num exame de rotina colhido um mês antes de iniciar a empagliflozina",
+  "resolucao": "Os inibidores de SGLT2 elevam de fato o hematócrito e a eritropoetina, e a droga recente é o rótulo verdadeiro que convida a suspender e esperar. Mas o efeito do iSGLT2 é de poucos pontos de hematócrito, e o exame anterior à droga já mostrava 52%, de modo que a eritrocitose começou antes dela. A eritropoetina alta separa os caminhos: na policitemia vera, inclusive na do éxon 12, a EPO está baixa ou suprimida, o que torna o éxon 12 inútil aqui. EPO alta exige procurar hipóxia (afastada: saturação normal, carboxi-hemoglobina normal, sem sintomas de apneia) ou produção inapropriada de EPO, e a de surgimento recente num homem de 61 anos aponta tumor: carcinoma de células renais, hepatocarcinoma, hemangioblastoma, leiomioma uterino ou feocromocitoma. A imagem abdominal com contraste é o passo. Hemoglobina de alta afinidade é congênita, com eritrocitose desde a juventude, e o hematócrito de 43% há 2 anos a afasta.",
+  "comentarios": {
+   "A": "Errada. O éxon 12 se pesquisa na suspeita de policitemia vera com V617F negativo, mas essa doença cursa com eritropoetina baixa, e aqui ela está alta.",
+   "B": "Errada. É a armadilha do rótulo verdadeiro: o iSGLT2 eleva pouco o hematócrito, e a eritrocitose já existia antes de ele ser iniciado.",
+   "C": "Correta. Eritrocitose adquirida com eritropoetina alta e sem hipóxia é produção inapropriada de EPO até prova em contrário, e rim e fígado são os sítios a estudar primeiro.",
+   "D": "Errada. A P50 baixa identifica hemoglobina de alta afinidade, causa congênita com eritrocitose desde cedo; o hematócrito normal há 2 anos a afasta."
+  },
+  "para_levar": "Eritrocitose com EPO alta e saturação normal, de surgimento recente, pede imagem abdominal atrás de tumor secretor de EPO; EPO alta afasta policitemia vera, inclusive a do éxon 12.",
+  "referencias": "McMullin MF et al. A guideline for the diagnosis and management of polycythaemia vera. A British Society for Haematology guideline. Br J Haematol 2019; Gangat N et al. Secondary polycythemia. Am J Hematol 2021.",
+  "tags": [
+   "Policitemia Vera (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "UERJ recorrente: policitemia vera x eritrocitose secundária pela eritropoetina, com o iSGLT2 como rótulo verdadeiro"
+ },
+ {
+  "id": "R03-HEM-04",
+  "simulado": "R03",
+  "area": "Hematologia",
+  "titulo": "Lesão cerebral periventricular homogênea em imunocompetente estável: biópsia estereotáxica antes de qualquer corticoide pela suspeita de linfoma primário do SNC",
+  "arma": "Rótulo verdadeiro",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 66 anos, hipertensa em uso de hidroclorotiazida, é trazida pela filha por 5 semanas de apatia, esquecimento progressivo e episódios de desorientação. Nega febre, perda de peso, cefaleia intensa e vômitos. Sorologia para HIV não reagente. Exame: Glasgow 15, sem papiledema, sem déficit motor, Mini-Mental 21. A RM de crânio mostra lesão única de 3,2 cm no esplênio do corpo caloso, em contato com o ventrículo, com realce homogêneo pelo gadolínio, restrição à difusão e edema perilesional moderado, com desvio da linha média de 2 mm. A avaliação oftalmológica com lâmpada de fenda é normal. TC de tórax, abdome e pelve sem alterações; LDH 240 U/L. O plantonista prescreveu dexametasona 4 mg de 6 em 6 horas por causa do edema, ainda não administrada. A conduta mais adequada é:",
+  "alternativas": {
+   "A": "Dexametasona e biópsia após reduzir o edema",
+   "B": "Ressecção cirúrgica ampla da lesão",
+   "C": "Radioterapia de crânio total empírica",
+   "D": "Biópsia estereotáxica sem corticoide prévio"
+  },
+  "gabarito": "D",
+  "armadilha": "A",
+  "dado_decisivo": "Glasgow 15, sem papiledema, sem déficit motor",
+  "resolucao": "O edema perilesional é verdadeiro e a dexametasona é o reflexo diante de qualquer lesão expansiva, o que torna atraente tratar o edema primeiro e biopsiar depois. Mas lesão periventricular, cruzando o corpo caloso, com realce homogêneo e restrição à difusão em imunocompetente é linfoma primário do SNC até prova em contrário, e o corticoide induz apoptose das células do linfoma: a lesão pode encolher ou sumir e a biópsia vir inconclusiva, atrasando o diagnóstico em semanas. A paciente está consciente, sem papiledema e com desvio mínimo da linha média, ou seja, sem hipertensão intracraniana que obrigue o corticoide agora. A conduta é biópsia estereotáxica sem corticoide e, confirmado o linfoma (quase sempre difuso de grandes células B), quimioterapia baseada em metotrexato em altas doses. A ressecção ampla não melhora a sobrevida nessa doença infiltrativa e multifocal, e a radioterapia de crânio total empírica, sem diagnóstico, causa neurotoxicidade e não é o tratamento inicial.",
+  "comentarios": {
+   "A": "Errada. É a armadilha do edema: o corticoide é necessário quando há herniação iminente, mas antes da biópsia pode desfazer o linfoma e tornar a histologia inconclusiva.",
+   "B": "Errada. Seria a abordagem de metástase única ou glioma ressecável; no linfoma primário do SNC a ressecção não muda a sobrevida e acrescenta déficit.",
+   "C": "Errada. Já foi o tratamento do linfoma primário do SNC e ainda é consolidação em casos selecionados, mas nunca sem diagnóstico histológico e com neurotoxicidade importante no idoso.",
+   "D": "Correta. Paciente sem hipertensão intracraniana grave (Glasgow 15, sem papiledema) deve ser biopsiado antes de qualquer corticoide quando a imagem sugere linfoma."
+  },
+  "para_levar": "Na suspeita de linfoma primário do SNC, o corticoide espera a biópsia sempre que o paciente estiver estável; o tratamento depois é metotrexato em altas doses, e não cirurgia.",
+  "referencias": "Hoang-Xuan K et al. EANO guidelines for primary CNS lymphoma. Lancet Oncol 2015 e atualização 2023; NCCN Guidelines Central Nervous System Cancers 2025.",
+  "tags": [
+   "Linfomas (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "UERJ recorrente: linfoma primário do SNC, agora no imunocompetente e no momento do corticoide"
+ },
+ {
+  "id": "R03-HEM-05",
+  "simulado": "R03",
+  "area": "Hematologia",
+  "titulo": "Anemia hemolítica autoimune quente com angina e prova cruzada incompatível com todas as unidades: transfundir, sem esperar unidade compatível",
+  "arma": "Negativo no meio",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 34 anos, sem comorbidades, nunca engravidou e nunca recebeu transfusão. Há 6 dias tem fadiga, icterícia e urina escura, e desde ontem dispneia e opressão torácica ao caminhar até o banheiro. Exame: FC 132 bpm, PA 102 x 60 mmHg, SpO2 95%, icterícia 2+/4, palidez acentuada, baço palpável a 2 cm do rebordo. ECG com taquicardia sinusal e infradesnível de ST de 1 mm em V4 a V6; troponina discretamente elevada. Exames: Hb 4,4 g/dL, reticulócitos 16%, LDH 1.150 U/L, bilirrubina indireta 4,9 mg/dL, haptoglobina indetectável, esferócitos no esfregaço, Coombs direto IgG 4+ e C3d negativo. Recebeu metilprednisolona há 10 horas. O banco de sangue informa autoanticorpo pan-reativo no soro e no eluato, com prova cruzada incompatível com todas as unidades testadas, e que a técnica de adsorção para excluir aloanticorpo levará cerca de 24 horas. A conduta mais adequada neste momento é:",
+  "alternativas": {
+   "A": "Transfundir hemácias ABO e RhD compatíveis, lentamente",
+   "B": "Manter o corticoide e aguardar a adsorção",
+   "C": "Plasmaférese de urgência antes de transfundir",
+   "D": "Imunoglobulina intravenosa sem transfusão"
+  },
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "nunca engravidou e nunca recebeu transfusão",
+  "resolucao": "A prova cruzada incompatível com todas as unidades assusta e faz parecer prudente esperar a adsorção ou o efeito do corticoide. Na anemia hemolítica autoimune quente, porém, a incompatibilidade é esperada: o autoanticorpo reage com quase todas as hemácias, inclusive as do doador, e a hemácia transfundida sobrevive tanto quanto a do próprio paciente. O risco real é um aloanticorpo escondido pelo autoanticorpo, e ele depende de aloimunização prévia por gestação ou transfusão, que esta paciente nunca teve. Com hemoglobina de 4,4 g/dL e isquemia miocárdica, o risco de não transfundir supera em muito o risco de reação: transfunde-se o volume mínimo para aliviar a isquemia, com hemácias ABO e RhD compatíveis (de preferência fenotipadas para Rh e Kell), infusão lenta e vigilância, enquanto o corticoide age. A plasmaférese tem pouco papel nos anticorpos IgG quentes, que se distribuem fora do plasma, e a imunoglobulina tem efeito modesto e lento nesse cenário.",
+  "comentarios": {
+   "A": "Correta. Com isquemia miocárdica e sem gestação ou transfusão prévia (baixo risco de aloanticorpo), a transfusão não se adia por causa da prova cruzada incompatível.",
+   "B": "Errada. É a armadilha: aguardar a adsorção seria razoável na paciente estável e politransfundida ou multípara, mas aqui a anemia já produz isquemia miocárdica.",
+   "C": "Errada. Seria uma opção de resgate na hemólise por crioaglutinina grave, em que o anticorpo IgM fica no plasma; no anticorpo quente IgG o efeito é pequeno e não substitui a transfusão.",
+   "D": "Errada. A imunoglobulina tem resposta inconstante e lenta na anemia hemolítica autoimune quente, e não corrige em horas uma anemia com isquemia."
+  },
+  "para_levar": "Na anemia hemolítica autoimune com anemia ameaçadora, prova cruzada incompatível não é motivo para negar transfusão: transfunde-se o mínimo necessário, devagar, e o risco de aloanticorpo depende de gestação ou transfusão prévia.",
+  "referencias": "Hill QA et al. The diagnosis and management of primary autoimmune haemolytic anaemia. British Society for Haematology guideline 2017; Jäger U et al. Diagnosis and treatment of autoimmune hemolytic anemia in adults: recommendations from the First International Consensus Meeting. Blood Rev 2020.",
+  "tags": [
+   "Anemia Hemolítica Autoimune (CM)",
+   "Reações Transfusionais (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "UERJ recorrente: anemia hemolítica autoimune e hemoterapia, a transfusão que não se adia pela prova cruzada"
+ }
+]

@@ -1,0 +1,138 @@
+[
+ {
+  "id": "R03-PNE-01",
+  "simulado": "R03",
+  "area": "Pneumologia",
+  "titulo": "DPOC recém-diagnosticada, pouco sintomática entre as crises, com duas exacerbações e eosinófilos de 340: terapia tripla inicial (GOLD)",
+  "arma": "Rótulo verdadeiro",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Homem de 67 anos, ex-tabagista (45 maços-ano, parou há 2 anos), procura o ambulatório para iniciar tratamento após espirometria solicitada pelo clínico. Nos últimos 12 meses foi duas vezes à UPA por piora da tosse e da dispneia com escarro purulento, tratado com prednisona oral e antibiótico, sem internação. Teve pneumonia tratada ambulatorialmente há 5 anos, sem novos episódios. Entre as crises diz que se sente bem: caminha 3 km por dia, mMRC 1 e CAT 9. Usa apenas anlodipino. Ao exame, FR 16 irpm, SpO2 95% em ar ambiente, murmúrio vesicular discretamente reduzido, sem sibilos. Espirometria pós-broncodilatador: VEF1/CVF 0,58 e VEF1 de 64% do previsto, sem resposta significativa ao broncodilatador. Hemograma colhido fora de exacerbação, sem corticoide há 4 meses: eosinófilos 340/mm³. Radiografia de tórax com hiperinsuflação, sem consolidação. O tratamento inalatório de manutenção mais adequado para iniciar é:",
+  "alternativas": {
+   "A": "LAMA isolado",
+   "B": "LABA associado a LAMA",
+   "C": "LABA, LAMA e corticoide inalatório",
+   "D": "LABA associado a corticoide inalatório"
+  },
+  "gabarito": "C",
+  "armadilha": "B",
+  "dado_decisivo": "eosinófilos 340/mm³",
+  "resolucao": "Os poucos sintomas entre as crises (mMRC 1, CAT 9) e a pneumonia antiga são verdadeiros e empurram para um broncodilatador isolado ou para a dupla broncodilatação, evitando corticoide. Mas o grupo do GOLD se decide pelas exacerbações antes dos sintomas: duas exacerbações moderadas no ano colocam o paciente no grupo E, qualquer que seja o CAT. No grupo E, o ponto de partida é LABA com LAMA, e a terapia tripla já é a escolha inicial quando os eosinófilos estão em 300/mm³ ou mais, como aqui, medidos fora de exacerbação e sem corticoide. Uma pneumonia isolada há 5 anos não é o antecedente de pneumonias repetidas que pesa contra o corticoide inalatório. LABA com corticoide sem LAMA não é mais recomendado na DPOC.",
+  "comentarios": {
+   "A": "Errada. Seria a opção do paciente sem exacerbações e com poucos sintomas (grupo A); duas exacerbações com corticoide oral no ano o põem no grupo E.",
+   "B": "Errada. É a armadilha: seria o início no grupo E com eosinófilos abaixo de 300/mm³; aqui a contagem de 340/mm³ indica a tripla, e a pneumonia única e antiga não a contraindica.",
+   "C": "Correta. Grupo E (duas exacerbações moderadas) com eosinófilos de 340/mm³: LABA, LAMA e corticoide inalatório desde o início.",
+   "D": "Errada. LABA com corticoide sem LAMA não é mais indicado na DPOC; quando há indicação de corticoide inalatório, a combinação preferida é a tripla."
+  },
+  "para_levar": "Na DPOC, as exacerbações definem o grupo E independentemente dos sintomas; no grupo E, eosinófilos de 300/mm³ ou mais indicam começar já com LABA, LAMA e corticoide inalatório.",
+  "referencias": "GOLD 2025/2026 Global Strategy for Prevention, Diagnosis and Management of COPD.",
+  "tags": [
+   "DPOC - ambulatorial (CM)",
+   "DPOC (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "UERJ recorrente: escolha do inalatório na DPOC pelos eosinófilos e pelas exacerbações (GOLD), cruzado com o padrão de rótulo verdadeiro"
+ },
+ {
+  "id": "R03-PNE-02",
+  "simulado": "R03",
+  "area": "Pneumologia",
+  "titulo": "Exacerbação de DPOC com hiperóxia e PaCO2 alta, mas pH compensado: titular o oxigênio para 88% a 92%, sem suspender e sem VNI imediata",
+  "arma": "Grade X / Y",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 71 anos, com DPOC grave (VEF1 de 32% do previsto) em oxigenoterapia domiciliar a 1 L/min, é trazida pelo SAMU por piora da dispneia e do escarro há 3 dias. Na ambulância recebeu máscara com reservatório a 15 L/min, mantida na chegada. Está alerta, orientada, conversando em frases completas, FR 24 irpm, FC 104 bpm, PA 138 x 82 mmHg, SpO2 99%, sem uso de musculatura acessória intenso e sem respiração paradoxal. Gasometria arterial com a máscara: pH 7,37, PaCO2 61 mmHg, PaO2 142 mmHg, bicarbonato 35 mEq/L. A gasometria de 2 meses atrás, em ar ambiente na consulta, mostrava PaCO2 de 54 mmHg e bicarbonato de 33 mEq/L. Radiografia de tórax sem consolidação nem pneumotórax. Já recebeu salbutamol e ipratrópio inalatórios e prednisona. Quanto ao oxigênio e à ventilação não invasiva, a conduta mais adequada neste momento é, respectivamente:",
+  "alternativas": {
+   "A": "Titular para SpO2 88% a 92% / sem VNI agora",
+   "B": "Suspender o oxigênio / sem VNI agora",
+   "C": "Titular para SpO2 88% a 92% / VNI imediata",
+   "D": "Manter a máscara com reservatório / VNI imediata"
+  },
+  "gabarito": "A",
+  "armadilha": "C",
+  "dado_decisivo": "pH 7,37",
+  "resolucao": "A PaCO2 de 61 mmHg e o oxigênio em alto fluxo levam a pensar em VNI, mas a indicação de ventilação não invasiva na exacerbação é a acidose respiratória (pH igual ou menor que 7,35 com PaCO2 acima de 45 mmHg), e o pH aqui é 7,37, com bicarbonato alto que mostra retenção crônica compensada, próxima do basal dela. O problema real é a hiperóxia: PaO2 de 142 mmHg num retentor crônico piora a relação ventilação-perfusão (perda da vasoconstrição hipóxica), desloca CO2 pelo efeito Haldane e pode levar à acidose. A conduta é reduzir a fração inspirada, de preferência com máscara de Venturi, mirando SpO2 de 88% a 92%, e repetir a gasometria em 30 a 60 minutos. Suspender o oxigênio de vez é perigoso: a PaO2 cai abaixo do basal antes de a PaCO2 baixar, com hipoxemia de rebote. Se a nova gasometria mostrar pH de 7,35 ou menos, aí a VNI entra.",
+  "comentarios": {
+   "A": "Correta. Hiperóxia num retentor crônico com pH ainda compensado (7,37): baixar a FiO2 para o alvo de 88% a 92% e regasometrar; ainda não há critério de VNI.",
+   "B": "Errada. Suspender o oxigênio na hipercapnia provoca hipoxemia de rebote, mais grave que a de partida; reduz-se a FiO2, não se retira.",
+   "C": "Errada. É a armadilha: a titulação está certa, mas a VNI seria indicada com pH igual ou menor que 7,35; a PaCO2 alta com bicarbonato de 35 mEq/L é retenção crônica compensada.",
+   "D": "Errada. Manter a máscara com reservatório perpetua a hiperóxia que ameaça elevar a PaCO2; VNI não corrige o excesso de oxigênio e não tem indicação com este pH."
+  },
+  "para_levar": "Na exacerbação da DPOC, o alvo de SpO2 é 88% a 92%: diante de hiperóxia, reduz-se a FiO2 sem suspender o oxigênio, e a VNI se indica pelo pH (igual ou menor que 7,35), não pelo valor isolado da PaCO2.",
+  "referencias": "GOLD 2025/2026; BTS Guideline for oxygen use in adults in healthcare and emergency settings (2017); ERS/ATS Guidelines for noninvasive ventilation in acute respiratory failure (2017).",
+  "tags": [
+   "DPOC - exacerbação (CM)",
+   "DPOC (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "UERJ recorrente: oxigenoterapia na DPOC hipercápnica, reduzir e não suspender, e o pH como critério de VNI"
+ },
+ {
+  "id": "R03-PNE-03",
+  "simulado": "R03",
+  "area": "Pneumologia",
+  "titulo": "Padrão de pneumonia intersticial usual sem exposição e com FAN 1:80 isolado: FPI diagnosticada sem biópsia e tratada com antifibrótico",
+  "arma": "Rótulo verdadeiro",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Homem de 69 anos, ex-tabagista (30 maços-ano), contador aposentado, refere dispneia progressiva e tosse seca há 18 meses. Usa losartana e atorvastatina; nunca usou amiodarona, nitrofurantoína ou metotrexato. Nega pássaros, mofo em casa, edredom ou travesseiro de penas, umidificador e trabalho com poeiras. Nega Raynaud, artrite, rigidez matinal, fraqueza muscular, fissuras nas mãos e disfagia. Ao exame, SpO2 93% em repouso, baqueteamento digital e estertores em velcro nas bases, sem lesões cutâneas. FAN 1:80, padrão nuclear pontilhado fino; fator reumatoide, anti-CCP, anti-Ro, anti-Scl-70 e painel de antissintetases negativos; CPK normal. TC de tórax de alta resolução: reticulação subpleural de predomínio basal com faveolamento subpleural basal com bronquiectasias de tração, sem vidro fosco extenso, sem micronódulos e sem atenuação em mosaico. CVF 68% e DLCO 49% do previsto. A discussão multidisciplinar não identificou causa secundária. A conduta mais adequada é:",
+  "alternativas": {
+   "A": "Biópsia pulmonar cirúrgica",
+   "B": "Micofenolato de mofetila",
+   "C": "Prednisona, azatioprina e N-acetilcisteína",
+   "D": "Nintedanibe ou pirfenidona"
+  },
+  "gabarito": "D",
+  "armadilha": "B",
+  "dado_decisivo": "faveolamento subpleural basal com bronquiectasias de tração",
+  "resolucao": "O FAN reagente é verdadeiro e puxa para doença intersticial associada a colagenose, tratada com imunossupressor. Mas FAN em título baixo (1:80) aparece em parte da população idosa e, sem autoanticorpo específico nem quadro clínico de doença autoimune, não define colagenose. Com as exposições e as drogas afastadas, a TC com padrão de pneumonia intersticial usual definida (faveolamento basal subpleural com bronquiectasias de tração, sem achados de outro padrão) basta para o diagnóstico de fibrose pulmonar idiopática na discussão multidisciplinar, sem biópsia. O tratamento é antifibrótico (nintedanibe ou pirfenidona), que reduz o declínio da CVF. Corticoide com azatioprina aumentou mortalidade e internação na FPI (estudo PANTHER) e não se usa.",
+  "comentarios": {
+   "A": "Errada. A biópsia cirúrgica ajuda quando a TC é indeterminada ou sugere outro diagnóstico; com padrão de pneumonia intersticial usual definida e sem causa secundária, o diagnóstico de FPI dispensa biópsia, que tem risco nesse paciente.",
+   "B": "Errada. É a armadilha do FAN: micofenolato seria a escolha na doença intersticial de esclerose sistêmica ou de outra colagenose definida; FAN 1:80 isolado, sem anticorpo específico nem clínica, não faz esse diagnóstico.",
+   "C": "Errada. Foi a terapia antiga da FPI, abandonada porque aumentou mortalidade e internações no estudo PANTHER.",
+   "D": "Correta. Padrão de pneumonia intersticial usual definida, sem exposição, droga ou colagenose: FPI, tratada com antifibrótico."
+  },
+  "para_levar": "TC com pneumonia intersticial usual definida, sem exposição, droga ou colagenose, fecha FPI sem biópsia; FAN em título baixo isolado não muda isso, e o tratamento é antifibrótico, nunca corticoide com azatioprina.",
+  "referencias": "ATS/ERS/JRS/ALAT Idiopathic Pulmonary Fibrosis (an update) and Progressive Pulmonary Fibrosis in Adults, 2022; Diretrizes SBPT para FPI (2020).",
+  "tags": [
+   "Fibrose Pulmonar Idiopática (FPI) (CM)",
+   "Doença Pulmonar Intersticial (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "UERJ recorrente: FPI e antifibrótico após perguntar exposição; cruza com S3 q74 (a anamnese de exposição decide antes do exame invasivo)"
+ },
+ {
+  "id": "R03-PNE-04",
+  "simulado": "R03",
+  "area": "Pneumologia",
+  "titulo": "Silicose com lesão nova captante no PET-CT e linfonodos mediastinais captantes: escarro para tuberculose antes de estadiar como câncer",
+  "arma": "Rótulo verdadeiro",
+  "comando": "próximo exame",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 52 anos, jateador de areia em estaleiro por 22 anos, com silicose diagnosticada há 6 anos (nódulos centrolobulares e conglomerados nos lobos superiores), tabagista de 30 maços-ano, procura atendimento por tosse produtiva há 2 meses, perda de 5 kg e febre baixa vespertina. Nega hemoptise. Ao exame, FR 20 irpm, SpO2 94% em ar ambiente, emagrecido, sem linfonodos periféricos palpáveis. A TC comparada com a de 1 ano atrás mostra aumento de um conglomerado no lobo superior direito, que agora tem área de escavação central. O médico que o acompanha solicitou PET-CT, cujo laudo descreve \"lesão hipermetabólica no lobo superior direito (SUVmax 9,4) e linfonodos mediastinais e hilares hipermetabólicos (SUVmax 6,1), achados suspeitos de neoplasia\". Escarra com facilidade pela manhã, mas nenhuma amostra de escarro foi colhida até agora. Hemograma com leucócitos de 9.800/mm³ e PCR de 46 mg/L. O próximo exame mais adequado é:",
+  "alternativas": {
+   "A": "Ecobroncoscopia com punção linfonodal",
+   "B": "Teste rápido molecular e cultura no escarro",
+   "C": "Biópsia transtorácica guiada por TC",
+   "D": "Lobectomia superior direita diagnóstica"
+  },
+  "gabarito": "B",
+  "armadilha": "A",
+  "dado_decisivo": "nenhuma amostra de escarro foi colhida até agora",
+  "resolucao": "O laudo do PET-CT e o tabagismo são verdadeiros e puxam para câncer de pulmão já com linfonodos mediastinais, o que levaria à ecobroncoscopia para estadiar. Mas a captação de FDG não distingue neoplasia de inflamação granulomatosa: tuberculose ativa capta intensamente, e os conglomerados e linfonodos silicóticos também captam. O silicótico tem risco muito aumentado de tuberculose, e escavação nova num conglomerado, com febre vespertina e emagrecimento, é tuberculose até prova em contrário. Como ele escarra, o passo seguinte é o mais barato e o que muda tudo: teste rápido molecular e cultura no escarro (com teste de sensibilidade). Só se a investigação para tuberculose for negativa é que se parte para a amostragem invasiva da lesão ou dos linfonodos.",
+  "comentarios": {
+   "A": "Errada. É a armadilha do PET: a ecobroncoscopia estadiaria o mediastino num câncer de pulmão provável; aqui os linfonodos captantes cabem na silicose e na tuberculose, e o escarro ainda não foi examinado.",
+   "B": "Correta. Silicose com escavação nova, febre e emagrecimento num paciente que escarra: teste rápido molecular e cultura antes de qualquer exame invasivo.",
+   "C": "Errada. Seria o caminho num nódulo suspeito periférico sem suspeita infecciosa; aqui expõe a punção a um conglomerado escavado antes de afastar tuberculose pelo escarro.",
+   "D": "Errada. A ressecção sem diagnóstico se reserva ao nódulo de alta probabilidade de câncer sem alternativa plausível; na silicose com cavidade nova, a tuberculose é a hipótese a afastar primeiro."
+  },
+  "para_levar": "No silicótico, lesão nova ou escavada é tuberculose até prova em contrário, mesmo com PET captante: teste rápido molecular e cultura no escarro antes de broncoscopia, biópsia ou estadiamento.",
+  "referencias": "Ministério da Saúde. Manual de Recomendações para o Controle da Tuberculose no Brasil, 2ª ed. atualizada (2019); Diretrizes SBPT para pneumoconioses; ACCP Lung Cancer Guidelines (2013).",
+  "tags": [
+   "Tuberculose Pulmonar : Clínica e Diagnóstico (CM)",
+   "Outros temas em Pneumologia (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "S4 q27: na silicose, tuberculose antes de câncer; o PET captante como novo rótulo verdadeiro que puxa para o estadiamento invasivo"
+ }
+]

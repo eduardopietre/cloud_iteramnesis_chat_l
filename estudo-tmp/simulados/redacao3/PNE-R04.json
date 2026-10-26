@@ -1,0 +1,135 @@
+[
+ {
+  "id": "R04-PNE-01",
+  "simulado": "R04",
+  "area": "Pneumologia",
+  "titulo": "Asma sem tratamento com sintomas diários, despertares semanais e VEF1 baixo: MART em dose média já no início (GINA)",
+  "arma": "Rótulo verdadeiro",
+  "comando": "conduta",
+  "nivel": "extremamente difícil",
+  "enunciado": "Mulher de 27 anos, com asma desde a infância e rinite alérgica, está sem tratamento de manutenção há 3 anos e usa salbutamol spray quase todos os dias. Refere sintomas diários e despertares noturnos por tosse e chiado 2 a 3 vezes por semana há 4 meses. Nunca foi internada, não procurou emergência no último ano e não usou corticoide oral. Prefere \"o mínimo de remédio possível\" e diz que se acostumou com o chiado. Não fuma, não usa betabloqueador nem anti-inflamatório. Hoje, em consulta ambulatorial agendada, está sem desconforto, FR 16 irpm, SpO2 97%, sibilos expiratórios esparsos. Espirometria: VEF1 de 58% do previsto, VEF1/CVF 0,62, com aumento de 420 mL (18%) após broncodilatador. Eosinófilos 410/mm³, IgE total 380 UI/mL. Técnica inalatória adequada, verificada na consulta. O tratamento inicial mais adequado é:",
+  "alternativas": {
+   "A": "Budesonida-formoterol apenas quando necessário",
+   "B": "Budesonida-formoterol dose baixa, manutenção e resgate",
+   "C": "Budesonida-formoterol dose média, manutenção e resgate",
+   "D": "Corticoide inalatório dose baixa e salbutamol no resgate"
+  },
+  "gabarito": "C",
+  "armadilha": "B",
+  "dado_decisivo": "VEF1 de 58% do previsto",
+  "resolucao": "A ausência de internação, de idas à emergência e de corticoide oral, e a preferência dela por pouco remédio, são verdadeiras e levam ao degrau 3 (dose baixa de budesonida-formoterol em manutenção e resgate), que é o início para quem tem sintomas na maioria dos dias ou desperta uma vez por semana ou mais. O que eleva o degrau é a soma, prevista na GINA, de sintomas diários, despertares semanais e função pulmonar baixa: VEF1 de 58% do previsto. Essa apresentação já começa no degrau 4, com budesonida-formoterol em dose média como manutenção e resgate (podendo associar um curso curto de corticoide oral se muito descontrolada). Eosinofilia e IgE alta não indicam biológico no início: biológico é para asma grave que persiste no degrau 5 com boa adesão e técnica. Corticoide inalatório com salbutamol de resgate é a via alternativa, menos protetora contra exacerbações que a terapia de manutenção e resgate com formoterol.",
+  "comentarios": {
+   "A": "Errada. Budesonida-formoterol só quando necessário é o início para sintomas menos de 4 a 5 dias por semana, sem despertares semanais e com função normal.",
+   "B": "Errada. É a armadilha: seria o início para sintomas na maioria dos dias ou despertar semanal; a função pulmonar baixa (VEF1 de 58%) somada aos sintomas diários leva ao degrau 4.",
+   "C": "Correta. Sintomas diários, despertares semanais e VEF1 de 58% do previsto: degrau 4 da GINA, dose média de budesonida-formoterol em manutenção e resgate.",
+   "D": "Errada. É o degrau 2 da via alternativa, insuficiente para esta gravidade e inferior à terapia de manutenção e resgate na prevenção de exacerbações."
+  },
+  "para_levar": "Pela GINA, a asma que se apresenta com sintomas diários, despertar noturno semanal e função pulmonar baixa começa no degrau 4 (dose média de budesonida-formoterol em manutenção e resgate), e não no degrau 3.",
+  "referencias": "Global Initiative for Asthma (GINA) 2024/2025, Box de tratamento inicial em adultos e adolescentes; Recomendações SBPT para o manejo da asma (2020).",
+  "tags": [
+   "Asma - ambulatorial (CM)",
+   "Asma (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "UERJ recorrente: degraus da GINA e MART; cruza com S2 q34 (asma: a gravidade é que decide, não o rótulo que o caso oferece)"
+ },
+ {
+  "id": "R04-PNE-02",
+  "simulado": "R04",
+  "area": "Pneumologia",
+  "titulo": "Derrame leitoso de longa data após tuberculose pleural, com triglicerídeos acima de 110: colesterol alto e cristais definem pseudoquilotórax",
+  "arma": "Limiar",
+  "comando": "diagnóstico",
+  "nivel": "difícil",
+  "enunciado": "Homem de 63 anos teve tuberculose pleural à direita há 14 anos, tratada por 6 meses com esquema completo e alta por cura. Há 1 ano nota dispneia aos médios esforços, sem febre, sem emagrecimento e sem sudorese noturna. Nunca fez cirurgia torácica, não teve trauma e não tem diagnóstico de linfoma. Ao exame, FR 18 irpm, SpO2 95%, macicez e murmúrio abolido no terço inferior direito. Radiografia e TC: derrame direito com espessamento pleural de 8 mm e calcificações, sem massas nem linfonodomegalias. Toracocentese: líquido de aspecto leitoso, que não clareia após centrifugação. Proteína 4,8 g/dL (sérica 7,0), LDH 380 U/L (sérica 210), glicose 82 mg/dL, pH 7,36, leucócitos 1.200/mm³ (linfócitos 70%), ADA 28 U/L, triglicerídeos 128 mg/dL, colesterol 340 mg/dL, presença de cristais de colesterol à microscopia. Gram, pesquisa de BAAR, teste rápido molecular e culturas negativos; citologia oncótica negativa. O diagnóstico mais provável é:",
+  "alternativas": {
+   "A": "Quilotórax",
+   "B": "Pseudoquilotórax",
+   "C": "Derrame pleural maligno",
+   "D": "Tuberculose pleural reativada"
+  },
+  "gabarito": "B",
+  "armadilha": "A",
+  "dado_decisivo": "presença de cristais de colesterol à microscopia",
+  "resolucao": "O líquido leitoso e os triglicerídeos de 128 mg/dL, acima do limiar de 110 mg/dL, levam direto a quilotórax. Mas o limiar de triglicerídeos não basta quando o derrame é antigo: no pseudoquilotórax os triglicerídeos podem subir, e o que define é o colesterol acima de 200 mg/dL, a razão colesterol/triglicerídeos maior que 1 e, sobretudo, os cristais de colesterol, que confirmam o diagnóstico. O contexto fecha: derrame de anos, pleura espessada e calcificada, após tuberculose pleural (ou artrite reumatoide), sem trauma, cirurgia ou linfoma que lesassem o ducto torácico. No quilotórax, o colesterol costuma ser baixo e há quilomícrons. ADA de 28 U/L, linfocitose moderada e culturas e teste molecular negativos não sustentam tuberculose ativa.",
+  "comentarios": {
+   "A": "Errada. É a armadilha do limiar: triglicerídeos acima de 110 mg/dL sugerem quilotórax, mas colesterol de 340 mg/dL e cristais de colesterol num derrame antigo de pleura espessada definem pseudoquilotórax; não houve lesão do ducto torácico.",
+   "B": "Correta. Derrame crônico após tuberculose pleural, pleura espessada, colesterol acima de 200 mg/dL com cristais de colesterol.",
+   "C": "Errada. Seria considerado com massas, espessamento nodular ou citologia positiva; a TC não mostra lesão e a citologia foi negativa.",
+   "D": "Errada. A reativação teria febre, emagrecimento e ADA alta; ADA de 28 U/L, teste molecular e culturas negativos falam contra."
+  },
+  "para_levar": "Derrame leitoso antigo, com pleura espessada após tuberculose ou artrite reumatoide, colesterol acima de 200 mg/dL e cristais de colesterol é pseudoquilotórax, mesmo que os triglicerídeos passem de 110 mg/dL.",
+  "referencias": "Light RW. Pleural Diseases, 6ª ed. (2013); BTS Guideline for pleural disease (2023); Diretrizes SBPT para doenças pleurais (2006).",
+  "tags": [
+   "Derrame Pleural (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "UERJ recorrente: derrame pleural (Light, quilotórax); cruza com S3 q57 e S4 q18 (o número que cruza o limiar não fecha o diagnóstico)"
+ },
+ {
+  "id": "R04-PNE-03",
+  "simulado": "R04",
+  "area": "Pneumologia",
+  "titulo": "TEP não provocado com investigação básica normal e história familiar de câncer: anticoagulação prolongada e sem rastreio extenso de neoplasia oculta",
+  "arma": "Grade X / Y",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Homem de 56 anos, ex-tabagista (20 maços-ano, parou há 10 anos), recebeu diagnóstico de TEP segmentar bilateral há 5 dias, com PA normal, ventrículo direito normal ao ecocardiograma e troponina normal; está em rivaroxabana e assintomático. Nos 3 meses anteriores não fez cirurgia, não foi internado, não ficou imobilizado, não teve trauma nem viagem longa e não usa testosterona. Peso estável, sem sangramentos, sem alteração do hábito intestinal. A mãe teve câncer de mama aos 72 anos e o irmão, câncer de pâncreas aos 68; ele pergunta se não deveria \"fazer uma tomografia do corpo todo\". Exame físico completo, hemograma, cálcio, enzimas hepáticas, creatinina, urina tipo 1 e radiografia de tórax normais; PSA 1,2 ng/mL; colonoscopia de 3 anos atrás normal. Não tem antecedente de sangramento e o clearance de creatinina é de 92 mL/min. A duração da anticoagulação e a investigação de câncer oculto mais adequadas são, respectivamente:",
+  "alternativas": {
+   "A": "Prolongada sem data / investigação básica já feita",
+   "B": "Três meses / investigação básica já feita",
+   "C": "Prolongada sem data / TC de abdome e pelve",
+   "D": "Três meses / PET-CT de corpo inteiro"
+  },
+  "gabarito": "A",
+  "armadilha": "C",
+  "dado_decisivo": "não fez cirurgia, não foi internado, não ficou imobilizado, não teve trauma nem viagem longa e não usa testosterona",
+  "resolucao": "A história familiar de câncer e o pedido do paciente são verdadeiros e puxam para o rastreio extenso, com TC de abdome e pelve ou PET-CT. Nos ensaios em TEV não provocado (como o SOME, com TC de abdome e pelve), acrescentar imagem ao rastreio básico não aumentou a detecção relevante de câncer nem reduziu mortalidade; por isso se faz anamnese, exame físico, exames básicos, radiografia de tórax e os rastreios apropriados à idade e ao sexo, todos já feitos e normais. A duração é decidida pelo fator de risco: sem cirurgia, internação, imobilização, trauma ou hormônio, o TEP é não provocado, e o risco de recorrência após suspender passa de 10% no primeiro ano. Com baixo risco de sangramento, a anticoagulação é prolongada sem data definida, reavaliada periodicamente, e não limitada a 3 meses. A história familiar de câncer não muda nenhuma das duas decisões.",
+  "comentarios": {
+   "A": "Correta. TEP sem fator provocador, risco de sangramento baixo: anticoagulação prolongada; investigação limitada, que já foi feita e é normal.",
+   "B": "Errada. Três meses servem ao TEP provocado por fator transitório maior (cirurgia, imobilização); aqui não houve nenhum, e o risco de recorrência é alto.",
+   "C": "Errada. É a armadilha da história familiar: a duração está certa, mas a TC de abdome e pelve no TEV não provocado não melhorou a detecção nem a sobrevida (estudo SOME).",
+   "D": "Errada. Erra as duas: três meses é pouco para TEP não provocado, e PET-CT de rotina não tem benefício demonstrado na busca de câncer oculto."
+  },
+  "para_levar": "TEP não provocado com baixo risco de sangramento: anticoagulação prolongada sem data; câncer oculto se procura com anamnese, exame, exames básicos e rastreio de idade e sexo, sem TC de abdome nem PET de rotina.",
+  "referencias": "ESC Guidelines on acute pulmonary embolism (2019); ASH Guidelines on treatment of VTE (2020); CHEST Guideline and Expert Panel Report on VTE (2021); Carrier M et al. SOME trial, N Engl J Med 2015.",
+  "tags": [
+   "TEP (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "UERJ recorrente: TEP, duração da anticoagulação e câncer oculto; cruza com S2 q52 (grade de TEP)"
+ },
+ {
+  "id": "R04-PNE-04",
+  "simulado": "R04",
+  "area": "Pneumologia",
+  "titulo": "Alta suspeita de apneia obstrutiva com poligrafia domiciliar normal mas registro curto: polissonografia completa em laboratório",
+  "arma": "Negativo no meio",
+  "comando": "próximo exame",
+  "nivel": "difícil",
+  "enunciado": "Homem de 49 anos, motorista de ônibus, procura atendimento por sonolência diurna há 1 ano, com dois cochilos ao volante no último mês. A esposa relata ronco alto e pausas respiratórias durante o sono. Tem hipertensão em uso de quatro anti-hipertensivos, incluindo espironolactona, com PA de 152 x 96 mmHg; não usa sedativos nem bebe álcool. IMC 36 kg/m², circunferência cervical de 45 cm, Mallampati IV. Escala de sonolência de Epworth: 15. TSH e hemograma normais. Fez poligrafia domiciliar (tipo 3, sem eletroencefalograma) que mostrou índice de apneia e hipopneia de 4 eventos/hora, com tempo de registro válido de 3 horas e 10 minutos; ele conta que naquela noite ficou acordado boa parte do tempo, incomodado com os sensores. O médico assistente considerou a apneia afastada e pensa em narcolepsia. O próximo exame mais adequado é:",
+  "alternativas": {
+   "A": "Teste de latências múltiplas do sono",
+   "B": "CPAP com titulação automática domiciliar",
+   "C": "Aparelho intraoral de avanço mandibular",
+   "D": "Polissonografia completa em laboratório"
+  },
+  "gabarito": "D",
+  "armadilha": "A",
+  "dado_decisivo": "tempo de registro válido de 3 horas e 10 minutos",
+  "resolucao": "A poligrafia domiciliar com índice de 4 eventos/hora é o exame tranquilizador plantado no meio do caso e leva a procurar outra causa de sonolência, como narcolepsia. Mas a poligrafia tipo 3 não registra o sono: divide os eventos pelo tempo de registro, e não pelo tempo dormido, e por isso subestima o índice, sobretudo quando o paciente fica acordado e o registro válido é curto, como aqui. Com probabilidade pré-teste alta (ronco, apneias presenciadas, obesidade, pescoço largo, hipertensão resistente, sonolência importante), um exame domiciliar negativo ou tecnicamente inadequado não exclui apneia obstrutiva, e a recomendação é a polissonografia completa em laboratório. O teste de latências múltiplas só se interpreta depois de afastada a apneia por uma polissonografia válida na noite anterior. Tratar sem diagnóstico, com CPAP ou aparelho intraoral, não se justifica.",
+  "comentarios": {
+   "A": "Errada. É a armadilha do exame tranquilizador: o teste de latências múltiplas investiga narcolepsia, mas exige polissonografia prévia que afaste apneia, e a poligrafia curta não fez isso.",
+   "B": "Errada. Seria o tratamento na apneia obstrutiva moderada a grave confirmada; ainda não há diagnóstico.",
+   "C": "Errada. É opção para apneia leve a moderada confirmada ou intolerância ao CPAP; não substitui o diagnóstico e seria pouco eficaz numa apneia provavelmente grave.",
+   "D": "Correta. Alta probabilidade pré-teste com poligrafia domiciliar negativa e registro curto: polissonografia completa em laboratório."
+  },
+  "para_levar": "Poligrafia domiciliar negativa ou tecnicamente inadequada não afasta apneia obstrutiva quando a suspeita é alta: o passo seguinte é a polissonografia completa em laboratório.",
+  "referencias": "AASM Clinical Practice Guideline for Diagnostic Testing for Adult Obstructive Sleep Apnea (2017); AASM Clinical Practice Guideline for Treatment of Central Disorders of Hypersomnolence (2021).",
+  "tags": [
+   "Outros temas em Pneumologia (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "UERJ recorrente: SAHOS e o diagnóstico polissonográfico, com o exame tranquilizador no meio do caso (padrão negativo no meio)"
+ }
+]
