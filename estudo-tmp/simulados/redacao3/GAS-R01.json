@@ -1,0 +1,126 @@
+[
+ {
+  "id": "R01-GAS-01",
+  "simulado": "R01",
+  "area": "Gastroenterologia e hepatologia",
+  "titulo": "DHGNA com enzimas normais e plaquetas no limite: FIB-4 acima de 2,67 calculado, e não descartado pelas transaminases",
+  "arma": "Grade X / Y",
+  "comando": "conduta",
+  "nivel": "extremamente difícil",
+  "enunciado": "Mulher de 63 anos, com diabetes tipo 2 há 12 anos em uso de metformina e empagliflozina, hipertensa, IMC de 33 kg/m², consome uma taça de vinho por semana. Ultrassonografia de rotina mostrou esteatose moderada, fígado de contornos regulares e baço de 11 cm. Sorologias para hepatites B e C negativas, ferritina 210 ng/mL. Exames: AST 36 U/L (até 40), ALT 24 U/L (até 41), GGT 58 U/L, albumina 4,1 g/dL, INR 1,0, plaquetas 128.000/mm³. Assintomática, sem estigmas de hepatopatia ao exame. A faixa de risco de fibrose avançada pelo FIB-4 e a conduta mais adequada são, respectivamente:",
+  "alternativas": {
+   "A": "Baixa / repetir o FIB-4 em 2 anos",
+   "B": "Intermediária / elastografia hepática",
+   "C": "Alta / elastografia e hepatologista",
+   "D": "Não aplicável / sem investigação adicional"
+  },
+  "gabarito": "C",
+  "armadilha": "D",
+  "dado_decisivo": "plaquetas 128.000/mm³",
+  "resolucao": "Transaminases dentro da referência e ALT menor que AST passam a impressão de esteatose simples sem necessidade de estratificar, mas enzimas normais não excluem fibrose avançada e o FIB-4 se calcula em todo diabético com esteatose. A fórmula é idade vezes AST dividida pelo produto das plaquetas (em milhares) pela raiz quadrada da ALT: 63 vezes 36 dá 2.268; 128 vezes a raiz de 24 (cerca de 4,9) dá cerca de 627; o resultado é perto de 3,6. Acima de 2,67 a probabilidade de fibrose avançada é alta, e a paciente deve fazer elastografia e ser encaminhada ao hepatologista para confirmar a doença hepática crônica avançada e iniciar vigilância de hipertensão portal e de carcinoma hepatocelular se confirmada. A plaqueta no limite inferior e a idade são o que empurram o escore, e não as transaminases.",
+  "comentarios": {
+   "A": "Errada. Seria a conduta com FIB-4 abaixo de 1,3 (ou abaixo de 2,0 depois dos 65 anos); aqui o cálculo dá perto de 3,6.",
+   "B": "Errada. Seria a resposta com FIB-4 entre 1,3 e 2,67; a conta com 128.000 plaquetas ultrapassa o ponto de corte superior.",
+   "C": "Correta. FIB-4 de cerca de 3,6 é de alto risco: elastografia para confirmar e seguimento com hepatologista.",
+   "D": "Errada. É a armadilha das transaminases normais: o escore foi desenhado justamente para quem tem enzimas normais e fatores de risco metabólicos."
+  },
+  "para_levar": "No diabético com esteatose, calcule o FIB-4 mesmo com enzimas normais: abaixo de 1,3 é baixo, entre 1,3 e 2,67 pede elastografia, acima de 2,67 pede elastografia e hepatologista.",
+  "referencias": "AASLD Practice Guidance on MASLD (2023); EASL-EASD-EASO Clinical Practice Guidelines on MASLD (2024); SBH, Consenso sobre DHGNA/MASLD (2023).",
+  "tags": ["DHGNA (CM)", "Síndrome Metabólica, Obesidade e DHGNA (CM)"],
+  "sourceQuestionId": null,
+  "alvo": "S4 q72: FIB-4 calculado pela conta, com enzimas normais, agora caindo acima de 2,67"
+ },
+ {
+  "id": "R01-GAS-02",
+  "simulado": "R01",
+  "area": "Gastroenterologia e hepatologia",
+  "titulo": "Doença hepática crônica avançada compensada abaixo do limiar de hipertensão portal clinicamente significativa: sem endoscopia e sem betabloqueador",
+  "arma": "Limiar",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Homem de 57 anos, com diabetes tipo 2 e obesidade, acompanha esteatose hepática metabólica. Nunca teve ascite, sangramento ou encefalopatia. Exame físico sem circulação colateral e sem esplenomegalia palpável; PA 132/80 mmHg, FC 74 bpm. Bilirrubina 0,9 mg/dL, albumina 4,2 g/dL, INR 1,1, plaquetas 168.000/mm³. Elastografia hepática transitória de 13,8 kPa, com exame confiável. O clínico que o encaminhou já pediu endoscopia digestiva alta para rastrear varizes e sugeriu iniciar propranolol. A conduta mais adequada para a hipertensão portal neste momento é:",
+  "alternativas": {
+   "A": "Elastografia e plaquetas anuais, sem endoscopia",
+   "B": "Endoscopia de rastreio e conduta pelo achado",
+   "C": "Carvedilol sem endoscopia de rastreio",
+   "D": "Propranolol e endoscopia em um ano"
+  },
+  "gabarito": "A",
+  "armadilha": "C",
+  "dado_decisivo": "Elastografia hepática transitória de 13,8 kPa",
+  "resolucao": "Elastografia acima de 10 kPa define doença hepática crônica avançada compensada, e quem aprendeu que o Baveno VII dispensa a endoscopia e indica carvedilol tende a aplicar a regra a qualquer valor. O carvedilol sem endoscopia vale quando há hipertensão portal clinicamente significativa pela elastografia, isto é, 25 kPa ou mais (ou valores intermediários com plaquetas baixas, conforme o modelo). Abaixo de 15 kPa com plaquetas acima de 150.000 a hipertensão portal clinicamente significativa está praticamente afastada, e a endoscopia de rastreio pode ser evitada. Sem hipertensão portal significativa, betabloqueador não tem benefício demonstrado. A conduta é repetir elastografia e plaquetas anualmente, tratando a causa metabólica.",
+  "comentarios": {
+   "A": "Correta. Elastografia abaixo de 15 kPa com plaquetas acima de 150.000 afasta hipertensão portal significativa: sem endoscopia e sem betabloqueador, reavaliação anual.",
+   "B": "Errada. A endoscopia seria indicada se o paciente não pudesse usar betabloqueador e tivesse elastografia de 20 kPa ou mais ou plaquetas de 150.000 ou menos.",
+   "C": "Errada. É a regra do Baveno VII aplicada fora do limiar: carvedilol sem endoscopia exige elastografia de 25 kPa ou mais.",
+   "D": "Errada. Betabloqueador sem hipertensão portal clinicamente significativa não previne descompensação e só traz efeito adverso."
+  },
+  "para_levar": "Regra dos cinco do Baveno VII: abaixo de 15 kPa com plaquetas acima de 150.000 não há hipertensão portal significativa (sem endoscopia, sem betabloqueador); 25 kPa ou mais confirma e indica carvedilol.",
+  "referencias": "de Franchis R et al. Baveno VII: Renewing consensus in portal hypertension. J Hepatol 2022.",
+  "tags": ["Hipertensão Portal (CM)", "DHGNA (CM)"],
+  "sourceQuestionId": null,
+  "alvo": "S2 q24: elastografia e plaquetas decidem endoscopia e carvedilol no Baveno VII, agora abaixo do limiar"
+ },
+ {
+  "id": "R01-GAS-03",
+  "simulado": "R01",
+  "area": "Gastroenterologia e hepatologia",
+  "titulo": "HDA varicosa em Child-Pugh B com sangramento ativo na endoscopia: TIPS preemptivo também fora do Child C",
+  "arma": "Negativo no meio",
+  "comando": "conduta",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 52 anos, com cirrose alcoólica e abstinente há 6 meses, é admitido com hematêmese volumosa. Recebeu terlipressina, ceftriaxona e transfusão restritiva; a endoscopia, feita em 6 horas, mostrou varizes esofágicas de grosso calibre, uma delas com sangramento ativo em jato no momento do exame, tratada com ligadura elástica com hemostasia. Child-Pugh de 8 pontos (bilirrubina 2,4 mg/dL, albumina 3,0 g/dL, ascite discreta), MELD 14. Sem encefalopatia, sem hepatocarcinoma, creatinina 1,0 mg/dL; ecocardiograma com função ventricular normal e pressão sistólica pulmonar estimada em 28 mmHg. Nas primeiras 24 horas permanece estável. A conduta mais adequada nas próximas 48 horas é:",
+  "alternativas": {
+   "A": "Carvedilol e nova ligadura em 2 semanas",
+   "B": "TIPS com prótese recoberta",
+   "C": "Terlipressina por 5 dias e alta",
+   "D": "Balão esofágico por 24 horas"
+  },
+  "gabarito": "B",
+  "armadilha": "A",
+  "dado_decisivo": "uma delas com sangramento ativo em jato no momento do exame",
+  "resolucao": "O paciente parece um Child B estável depois de uma ligadura bem-sucedida, e o raciocínio de manual é completar a terlipressina e seguir com betabloqueador e ligaduras seriadas. O Baveno VII, porém, define alto risco de falha e de morte não só no Child C de 10 a 13 pontos, mas também no Child B acima de 7 pontos com sangramento ativo na endoscopia inicial; nesses, o TIPS preemptivo com prótese recoberta nas primeiras 72 horas reduz ressangramento e mortalidade. Os negativos do caso (sem encefalopatia, função cardíaca e pressão pulmonar normais, sem hepatocarcinoma, creatinina normal) afastam as contraindicações e liberam o procedimento.",
+  "comentarios": {
+   "A": "Errada. Seria a profilaxia secundária no Child A ou no Child B sem sangramento ativo; o sangramento em jato no Child B de 8 pontos indica TIPS preemptivo.",
+   "B": "Correta. Child B acima de 7 pontos com sangramento ativo na endoscopia: TIPS recoberto em até 72 horas.",
+   "C": "Errada. A terlipressina mantida por 2 a 5 dias é parte do tratamento, mas não substitui o TIPS no paciente de alto risco.",
+   "D": "Errada. O balão é ponte para sangramento refratário à endoscopia; aqui houve hemostasia."
+  },
+  "para_levar": "TIPS preemptivo em até 72 horas: Child C de 10 a 13 pontos, ou Child B acima de 7 com sangramento ativo na endoscopia, desde que sem contraindicação.",
+  "referencias": "de Franchis R et al. Baveno VII (2022); AASLD Guidance on Risk Stratification and Management of Portal Hypertension and Varices in Cirrhosis (2024).",
+  "tags": ["HDA varicosa (CM)", "Hipertensão Portal (CM)"],
+  "sourceQuestionId": null,
+  "alvo": "S4 q33: indicação de TIPS preemptivo pelo critério de gravidade, agora o Child B com sangramento ativo"
+ },
+ {
+  "id": "R01-GAS-04",
+  "simulado": "R01",
+  "area": "Gastroenterologia e hepatologia",
+  "titulo": "Necrose pancreática encapsulada estéril e assintomática de 11 cm: o tamanho não indica drenagem",
+  "arma": "Rótulo verdadeiro",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 44 anos, 6 semanas após pancreatite aguda biliar necrosante, retorna ao ambulatório. Está em casa, alimenta-se por via oral sem náuseas nem saciedade precoce, está afebril há 4 semanas, usa apenas dipirona eventual e o peso está estável. Abdome com desconforto leve à palpação profunda do epigástrio, sem massa palpável; PA 118/74 mmHg, FC 76 bpm. Leucócitos 7.800/mm³, PCR 6 mg/L, bilirrubinas e enzimas canaliculares normais. TC: coleção de 11 cm na cauda do pâncreas, com parede bem definida e conteúdo heterogêneo com debris, sem gás, sem compressão gástrica, duodenal ou biliar. O cirurgião sugere drenagem pelo tamanho. A conduta mais adequada para a coleção é:",
+  "alternativas": {
+   "A": "Drenagem endoscópica com prótese metálica",
+   "B": "Necrosectomia cirúrgica videoassistida",
+   "C": "Drenagem percutânea guiada por TC",
+   "D": "Acompanhamento clínico sem drenagem"
+  },
+  "gabarito": "D",
+  "armadilha": "A",
+  "dado_decisivo": "sem gás, sem compressão gástrica, duodenal ou biliar",
+  "resolucao": "Uma coleção de 11 cm com parede formada depois de 4 semanas parece pedir drenagem, e a via endoscópica é a mais tentadora porque é a preferida quando a drenagem é indicada. A indicação, porém, não é o tamanho: é infecção suspeita ou confirmada, ou sintoma atribuível à coleção (obstrução gástrica, duodenal ou biliar, dor persistente, incapacidade de se alimentar, falha de progressão clínica). Esta paciente está afebril, come, tem PCR normal e a TC não mostra gás nem compressão. Necrose encapsulada estéril e assintomática é acompanhada clinicamente, porque muitas regridem e toda intervenção acrescenta risco de infecção e sangramento.",
+  "comentarios": {
+   "A": "Errada. Seria a via preferida se houvesse infecção ou sintoma obstrutivo; o tamanho isoladamente não indica drenagem.",
+   "B": "Errada. A necrosectomia é o último degrau do step-up, para necrose infectada que não melhora com drenagem.",
+   "C": "Errada. A drenagem percutânea entra na coleção infectada antes de 4 semanas ou inacessível à endoscopia; aqui não há indicação de drenar.",
+   "D": "Correta. Necrose encapsulada estéril e assintomática, sem gás e sem compressão: observação."
+  },
+  "para_levar": "Coleção necrótica estéril não se drena pelo tamanho: drena-se por infecção ou por sintoma (obstrução, dor persistente, falha clínica), e então preferindo a via endoscópica após 4 semanas.",
+  "referencias": "Baron TH et al. AGA Clinical Practice Update: Management of Pancreatic Necrosis (2020); Working Group IAP/APA Acute Pancreatitis Guidelines (2013).",
+  "tags": ["Pancreatite Aguda (CM)"],
+  "sourceQuestionId": null,
+  "alvo": "S2 q16: coleção necrótica estéril sem indicação de drenagem, agora encapsulada e grande"
+ }
+]

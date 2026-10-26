@@ -1,0 +1,204 @@
+[
+ {
+  "id": "R01-REU-01",
+  "simulado": "R01",
+  "area": "Reumatologia",
+  "titulo": "AVC isquêmico em lúpica com tripla positividade antifosfolípide e doença pouco ativa: varfarina, e não imunossupressão nem anticoagulante direto",
+  "arma": "Rótulo verdadeiro",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 31 anos, com lúpus eritematoso sistêmico há 4 anos (artrite, fotossensibilidade, FAN 1:640 homogêneo, anti-DNA nativo positivo), em uso de hidroxicloroquina, teve há 10 dias afasia de expressão súbita; a RM mostrou infarto em território da artéria cerebral média esquerda. Ecocardiograma transesofágico sem trombos e sem vegetações, Holter sem fibrilação atrial, Doppler de carótidas normal. Livedo racemosa em membros. Plaquetas 98.000/mm³, C3 e C4 normais, urina sem alterações, sem artrite ou lesões cutâneas ativas. Anticoagulante lúpico, anticardiolipina IgG em título alto e anti-beta2-glicoproteína I positivos, confirmados após 12 semanas. A conduta mais adequada para a prevenção secundária é:",
+  "alternativas": {
+   "A": "Varfarina com RNI-alvo de 2 a 3",
+   "B": "Rivaroxabana em dose plena",
+   "C": "Ácido acetilsalicílico isolado",
+   "D": "Pulsoterapia com ciclofosfamida"
+  },
+  "gabarito": "A",
+  "armadilha": "D",
+  "dado_decisivo": "Anticoagulante lúpico, anticardiolipina IgG em título alto e anti-beta2-glicoproteína I positivos",
+  "resolucao": "Lúpus com anti-DNA positivo e evento neurológico grave levam o apressado a tratar como lúpus neuropsiquiátrico com imunossupressão. O mecanismo do AVC, porém, é trombótico, e o lúpus está clinicamente quieto (complemento normal, sem atividade renal, cutânea ou articular). O que define a conduta é a síndrome antifosfolípide secundária com tripla positividade, persistente após 12 semanas, e evento arterial: o tratamento é anticoagulação por tempo indeterminado com antagonista da vitamina K. Os anticoagulantes orais diretos não devem ser usados na tripla positividade nem em evento arterial, porque os ensaios mostraram mais tromboses que com varfarina. A plaquetopenia moderada da síndrome não contraindica a anticoagulação. Ciclofosfamida não previne trombose.",
+  "comentarios": {
+   "A": "Correta. Síndrome antifosfolípide com evento arterial e tripla positividade: varfarina por tempo indeterminado.",
+   "B": "Errada. O anticoagulante direto pode ser discutido em trombose venosa com positividade simples; na tripla positividade e no evento arterial, aumenta o risco de nova trombose.",
+   "C": "Errada. Antiagregante isolado é para portador de anticorpos sem trombose; após AVC na síndrome, é insuficiente.",
+   "D": "Errada. É a armadilha do rótulo lúpico: a pulsoterapia trataria atividade inflamatória grave, ausente aqui; o evento é trombótico."
+  },
+  "para_levar": "AVC em lúpica com anticorpos antifosfolípides persistentes é síndrome antifosfolípide até prova em contrário: anticoagular com varfarina; anticoagulante direto é contraindicado na tripla positividade e no evento arterial.",
+  "referencias": "Tektonidou MG et al. EULAR recommendations for the management of antiphospholipid syndrome in adults (2019); Barbhaiya M et al. 2023 ACR/EULAR antiphospholipid syndrome classification criteria.",
+  "tags": [
+   "SAF (CM)",
+   "Lúpus (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "S1 q11: lúpus como cenário de outra doença (síndrome antifosfolípide), e o rótulo puxando para imunossupressão"
+ },
+ {
+  "id": "R01-REU-02",
+  "simulado": "R01",
+  "area": "Reumatologia",
+  "titulo": "Quadro de polimialgia com claudicação mandibular e artéria temporal pulsátil: arterite de células gigantes e prednisona de 40 a 60 mg",
+  "arma": "Grade X / Y",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 72 anos, há 5 semanas com dor e rigidez matinal de 2 horas nos ombros, no pescoço e na cintura pélvica, que a impedem de vestir-se sozinha. Nega alteração visual, febre ou perda de peso relevante. À anamnese dirigida, refere dor nos músculos da mandíbula ao mastigar carne, que a obriga a pausar a refeição, e cefaleia temporal discreta. Ao exame, dor à mobilização dos ombros, sem sinovite periférica; artérias temporais com pulso presente, sem espessamento ou dor à palpação. Fundo de olho normal. VHS 88 mm/h, PCR 54 mg/L, hemoglobina 10,9 g/dL. O diagnóstico e a dose inicial de prednisona mais adequados são, respectivamente:",
+  "alternativas": {
+   "A": "Polimialgia isolada / 12,5 a 25 mg",
+   "B": "Arterite de células gigantes / 40 a 60 mg",
+   "C": "Polimialgia isolada / 40 a 60 mg",
+   "D": "Arterite de células gigantes / pulso de 1 g"
+  },
+  "gabarito": "B",
+  "armadilha": "A",
+  "dado_decisivo": "dor nos músculos da mandíbula ao mastigar carne",
+  "resolucao": "O quadro de cinturas com rigidez matinal e provas inflamatórias altas é de polimialgia reumática, e a dose de 12,5 a 25 mg seria a resposta para a polimialgia isolada. O dado que muda a gravidade é a claudicação mandibular, sintoma de isquemia do território da carótida externa e o mais preditivo de arterite de células gigantes, associada à cefaleia temporal. A artéria temporal com pulso normal não afasta a doença, que acomete o vaso de forma segmentar. Com arterite sem perda visual, a dose é de 40 a 60 mg/dia de prednisona, iniciada antes da biópsia ou da ultrassonografia das temporais, que não deve atrasar o tratamento. A pulsoterapia com metilprednisolona fica para amaurose ou perda visual.",
+  "comentarios": {
+   "A": "Errada. É a armadilha: a dose seria adequada à polimialgia isolada, mas a claudicação mandibular indica arterite, que com essa dose arrisca cegueira.",
+   "B": "Correta. Claudicação mandibular com cefaleia temporal define arterite; sem alteração visual, 40 a 60 mg/dia.",
+   "C": "Errada. A dose é a da arterite, mas o diagnóstico de polimialgia isolada ignora o sintoma isquêmico.",
+   "D": "Errada. O pulso venoso é reservado à perda visual ou amaurose fugaz; o fundo de olho e a visão estão normais."
+  },
+  "para_levar": "Em toda polimialgia, pergunte por claudicação mandibular, cefaleia e sintomas visuais: se presentes, é arterite de células gigantes e a dose sobe para 40 a 60 mg; pulso de temporal normal não exclui.",
+  "referencias": "Hellmich B et al. 2018 Update of the EULAR recommendations for the management of large vessel vasculitis; Maz M et al. 2021 ACR/Vasculitis Foundation Guideline for the Management of Giant Cell Arteritis; Dejaco C et al. EULAR/ACR recommendations for polymyalgia rheumatica (2015).",
+  "tags": [
+   "Arterite de Células Gigantes (Arterite Temporal) (CM)",
+   "Polimialgia Reumática"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "S1 q86 e q91: grade com diagnóstico certo e conduta errada por não ler o dado de gravidade"
+ },
+ {
+  "id": "R01-REU-03",
+  "simulado": "R01",
+  "area": "Reumatologia",
+  "titulo": "Lúpus sorologicamente ativo e clinicamente quiescente: manter a hidroxicloroquina, sem escalar imunossupressão",
+  "arma": "Omissão",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 35 anos, com lúpus eritematoso sistêmico há 6 anos (artrite, fotossensibilidade e leucopenia ao diagnóstico), usa hidroxicloroquina 400 mg/dia e está assintomática há 2 anos, sem corticoide. Em consulta de rotina, o anti-DNA nativo subiu de 1:40 para 1:320, C3 68 mg/dL (90 a 180), C4 9 mg/dL (10 a 40). Exame físico normal, PA 118 x 72 mmHg, sem edema, sem lesões cutâneas, mucosas ou articulares. Hemograma normal, creatinina 0,7 mg/dL, urina tipo 1 sem hematúria, leucocitúria ou cilindros, relação proteína/creatinina urinária de 0,08. A conduta mais adequada é:",
+  "alternativas": {
+   "A": "Prednisona 0,5 mg/kg/dia",
+   "B": "Associar micofenolato de mofetila",
+   "C": "Manter a hidroxicloroquina e reavaliar",
+   "D": "Indicar biópsia renal"
+  },
+  "gabarito": "C",
+  "armadilha": "B",
+  "dado_decisivo": "urina tipo 1 sem hematúria, leucocitúria ou cilindros",
+  "resolucao": "Anti-DNA em ascensão com consumo de complemento é a sorologia que acompanha a nefrite, e o impulso é escalar a imunossupressão para preveni-la. Sem manifestação clínica, porém, o quadro é de lúpus sorologicamente ativo e clinicamente quiescente: não há benefício demonstrado em tratar números, e corticoide ou imunossupressor preventivos expõem a toxicidade sem ganho. A urina normal, sem proteinúria, afasta nefrite em curso e não justifica biópsia. A conduta é manter a hidroxicloroquina, que reduz surtos, e encurtar o intervalo de reavaliação clínica, de urina e de proteinúria, porque esse perfil tem risco maior de surto nos meses seguintes. Se surgir proteinúria ou sedimento ativo, investiga-se e trata-se.",
+  "comentarios": {
+   "A": "Errada. Corticoide trata atividade clínica; aqui não há órgão acometido, e a dose exporia a efeitos adversos sem benefício.",
+   "B": "Errada. É a armadilha: o micofenolato induz e mantém nefrite, que não existe com urina e proteinúria normais.",
+   "C": "Correta. Sorologia ativa sem doença clínica: manter o antimalárico e reavaliar em intervalo curto.",
+   "D": "Errada. A biópsia entra com proteinúria acima de 0,5 g/dia, sedimento ativo ou queda de função, ausentes aqui."
+  },
+  "para_levar": "Anti-DNA alto e complemento baixo sem manifestação clínica não se tratam: mantenha a hidroxicloroquina e vigie urina e proteinúria em intervalo curto.",
+  "referencias": "Fanouriakis A et al. EULAR recommendations for the management of systemic lupus erythematosus: 2023 update; KDIGO 2024 Clinical Practice Guideline for the Management of Lupus Nephritis.",
+  "tags": [
+   "Lúpus (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "S2 q75 e S1 q36: porte exagerado no estável; imunossupressão sem doença clínica que a justifique"
+ },
+ {
+  "id": "R01-REU-04",
+  "simulado": "R01",
+  "area": "Reumatologia",
+  "titulo": "FAN 1:640 com padrão nuclear pontilhado fino denso em mulher com dor difusa e exame normal: anti-DFS70, sem doença autoimune sistêmica",
+  "arma": "Rótulo verdadeiro",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 32 anos, com dor difusa, cansaço e sono não reparador há 1 ano, foi encaminhada ao reumatologista por FAN positivo. Nega fotossensibilidade, úlceras orais, Raynaud, artrite, olho seco, febre ou perda de peso. Mãe com lúpus. Exame físico com múltiplos pontos dolorosos à palpação, sem sinovite, sem lesões cutâneas e sem alterações à ausculta. FAN 1:640 com padrão nuclear pontilhado fino denso; anti-DFS70 positivo; anti-DNA nativo, anti-Sm, anti-Ro, anti-La e anti-RNP negativos; C3 e C4 normais. Hemograma, VHS, PCR, creatinina, CK, TSH e urina tipo 1 normais. A conduta mais adequada em relação ao FAN é:",
+  "alternativas": {
+   "A": "Hidroxicloroquina 400 mg/dia",
+   "B": "Prednisona 10 mg/dia",
+   "C": "Biópsia de glândula salivar menor",
+   "D": "Tranquilizar, sem imunossupressão"
+  },
+  "gabarito": "D",
+  "armadilha": "A",
+  "dado_decisivo": "padrão nuclear pontilhado fino denso",
+  "resolucao": "FAN em título alto, mãe lúpica e sintomas sistêmicos parecem lúpus incipiente, e a hidroxicloroquina seria a escolha de quem quer tratar cedo. O padrão de imunofluorescência muda a leitura: o nuclear pontilhado fino denso corresponde ao anticorpo anti-DFS70, encontrado em pessoas saudáveis e raro nas doenças autoimunes sistêmicas, sobretudo quando isolado, sem outros autoanticorpos específicos. Com exame normal, complemento normal, anticorpos específicos negativos e provas inflamatórias normais, não há doença autoimune sistêmica a tratar. O quadro de dor difusa com sono não reparador e pontos dolorosos é de fibromialgia, tratada com exercício, higiene do sono e medidas não farmacológicas. Antimalárico, corticoide ou biópsia seriam porte excessivo.",
+  "comentarios": {
+   "A": "Errada. É a armadilha do título alto e da mãe lúpica: o antimalárico trataria lúpus, sem critério algum aqui.",
+   "B": "Errada. Corticoide sem doença inflamatória causa dano sem benefício.",
+   "C": "Errada. A biópsia de glândula salivar investiga Sjögren com secura e anti-Ro, ausentes.",
+   "D": "Correta. Anti-DFS70 isolado com padrão pontilhado fino denso e exame normal afasta doença autoimune sistêmica."
+  },
+  "para_levar": "O padrão do FAN informa: nuclear pontilhado fino denso (anti-DFS70) isolado sugere ausência de doença autoimune sistêmica, mesmo em título alto.",
+  "referencias": "Consenso Brasileiro de Fator Antinuclear em Células HEp-2 (6º Consenso, 2022); Damoiseaux J et al. International consensus on ANA patterns (ICAP). Ann Rheum Dis 2019.",
+  "tags": [
+   "FAN e Autoanticorpos geral (CM)",
+   "Fibromialgia (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "S2 q4 e S3 q27: rótulo do autoanticorpo; o título alto e a mãe lúpica contra o padrão que discrimina"
+ },
+ {
+  "id": "R01-REU-05",
+  "simulado": "R01",
+  "area": "Reumatologia",
+  "titulo": "Febre e pancitopenia em lúpica com ferritina muito alta, fibrinogênio baixo e VHS que caiu: ativação macrofágica, e não atividade hematológica",
+  "arma": "Rótulo verdadeiro",
+  "comando": "diagnóstico",
+  "nivel": "extremamente difícil",
+  "enunciado": "Mulher de 24 anos teve lúpus diagnosticado há 2 meses por artrite, alopecia e leucopenia, e usa prednisona 20 mg/dia e hidroxicloroquina. Há 6 dias tem febre diária de 39,5 °C, mal-estar intenso e confusão leve. Ao exame, hepatoesplenomegalia e linfonodos cervicais pequenos. Hemoglobina 7,9 g/dL, leucócitos 1.900/mm³, plaquetas 54.000/mm³, sem esquizócitos no esfregaço. AST 210 U/L, ALT 160 U/L, LDH 1.400 U/L, ferritina 14.800 ng/mL, triglicerídeos 390 mg/dL, fibrinogênio 105 mg/dL (200 a 400), VHS 12 mm/h (era 70 mm/h há 1 mês). C3 e anti-DNA nativo estáveis em relação ao diagnóstico. Hemoculturas e urocultura negativas. O diagnóstico mais provável é:",
+  "alternativas": {
+   "A": "Síndrome de ativação macrofágica",
+   "B": "Atividade hematológica do lúpus",
+   "C": "Púrpura trombocitopênica trombótica",
+   "D": "Sepse com coagulação intravascular"
+  },
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "VHS 12 mm/h (era 70 mm/h há 1 mês)",
+  "resolucao": "Citopenias em lúpus recente são lidas como atividade hematológica, e a febre como surto. Três dados destoam: o complemento e o anti-DNA estáveis, que não sustentam surto, a ferritina acima de 10.000 com hipertrigliceridemia e, sobretudo, a queda da VHS com fibrinogênio baixo. Na ativação macrofágica, o consumo de fibrinogênio derruba a VHS, enquanto a febre e a inflamação sistêmica aumentam; essa dissociação é o sinal que mais a separa da atividade lúpica. A hepatoesplenomegalia, a transaminase e o LDH altos completam o quadro. A ausência de esquizócitos afasta microangiopatia trombótica, e as culturas negativas, sem choque, enfraquecem sepse. O reconhecimento muda a conduta: pulsoterapia com metilprednisolona, com ciclosporina, anakinra ou imunoglobulina conforme a gravidade, e pesquisa de gatilho infeccioso.",
+  "comentarios": {
+   "A": "Correta. Febre, citopenias, ferritina acima de 10.000, triglicerídeos altos, fibrinogênio baixo e VHS em queda definem ativação macrofágica.",
+   "B": "Errada. É a armadilha: a atividade lúpica cursaria com VHS alta, consumo de complemento e anti-DNA em ascensão.",
+   "C": "Errada. A microangiopatia teria esquizócitos no esfregaço, ausentes aqui.",
+   "D": "Errada. Culturas negativas e ausência de foco ou choque enfraquecem sepse; a ferritina tão alta aponta para ativação macrofágica."
+  },
+  "para_levar": "Em doença inflamatória com febre e citopenias, VHS que cai com fibrinogênio baixo e ferritina muito alta é ativação macrofágica, e não atividade da doença de base.",
+  "referencias": "Ravelli A et al. 2016 Classification Criteria for Macrophage Activation Syndrome (EULAR/ACR/PRINTO); Shakoory B et al. 2023 Diagnosis and management of MAS/HLH: EULAR/ACR points to consider. Ann Rheum Dis 2023.",
+  "tags": [
+   "Lúpus (CM)",
+   "Pancitopenias (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "S1 q16: ativação macrofágica contra o rótulo da doença de base; agora o lúpus em vez da artrite reumatoide e de Felty"
+ },
+ {
+  "id": "R01-REU-06",
+  "simulado": "R01",
+  "area": "Reumatologia",
+  "titulo": "Nefrite tubulointersticial com complemento baixo e FAN positivo em homem com submandibulares aumentadas: doença relacionada à IgG4, e não lúpus",
+  "arma": "Rótulo verdadeiro",
+  "comando": "diagnóstico",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 64 anos, com asma de início há 3 anos, notou aumento indolor e bilateral das glândulas submandibulares há 1 ano. Encaminhado por creatinina de 2,4 mg/dL (era 1,0 há 8 meses). Urina com sedimento pobre, sem hematúria dismórfica; proteinúria 0,6 g/24h. TC de abdome: múltiplas lesões corticais hipodensas, arredondadas, nos dois rins. C3 48 mg/dL (90 a 180), C4 5 mg/dL (10 a 40), FAN 1:160 nuclear homogêneo, anti-DNA nativo e ANCA negativos, eosinófilos 900/mm³, IgE total elevada. Biópsia renal: nefrite tubulointersticial rica em plasmócitos, com fibrose estoriforme, e glomérulos sem depósitos imunes à imunofluorescência. O diagnóstico mais provável é:",
+  "alternativas": {
+   "A": "Nefrite lúpica",
+   "B": "Sarcoidose renal",
+   "C": "Doença relacionada à IgG4",
+   "D": "Granulomatose eosinofílica com poliangeíte"
+  },
+  "gabarito": "C",
+  "armadilha": "A",
+  "dado_decisivo": "glomérulos sem depósitos imunes à imunofluorescência",
+  "resolucao": "Complemento baixo, FAN positivo e lesão renal formam o rótulo do lúpus. Mas o lúpus nefrítico é uma doença glomerular por imunocomplexos, com depósitos à imunofluorescência; aqui o glomérulo está limpo e a lesão é tubulointersticial, rica em plasmócitos e com fibrose estoriforme. Homem idoso com sialoadenite submandibular bilateral, lesões renais corticais hipodensas, eosinofilia, IgE alta e asma compõe a doença relacionada à IgG4, em que a nefrite tubulointersticial cursa com hipocomplementemia em mais da metade dos casos e o FAN em título baixo é comum. A confirmação vem da imuno-histoquímica (plasmócitos IgG4 positivos acima de 10 por campo de grande aumento e razão IgG4/IgG acima de 40%), e o tratamento é glicocorticoide, com rituximabe na recidiva.",
+  "comentarios": {
+   "A": "Errada. É a armadilha: o lúpus renal teria depósitos glomerulares de imunocomplexos e, em geral, anti-DNA positivo.",
+   "B": "Errada. A sarcoidose renal dá nefrite intersticial granulomatosa com hipercalcemia, e não fibrose estoriforme com complemento baixo.",
+   "C": "Correta. Sialoadenite submandibular, lesões renais hipodensas, complemento baixo e nefrite tubulointersticial com plasmócitos e fibrose estoriforme.",
+   "D": "Errada. Asma e eosinofilia atraem, mas a vasculite daria glomerulonefrite pauci-imune e neuropatia; não há vasculite na biópsia."
+  },
+  "para_levar": "Nefrite tubulointersticial com complemento baixo, lesões renais hipodensas e glândulas salivares aumentadas é doença relacionada à IgG4; complemento baixo não é exclusivo do lúpus.",
+  "referencias": "Wallace ZS et al. 2019 ACR/EULAR Classification Criteria for IgG4-Related Disease; Lanzillotta M, Mancuso G, Della-Torre E. Advances in the diagnosis and management of IgG4 related disease. BMJ 2020.",
+  "tags": [
+   "Doença por IgG4 (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "UERJ pouco explorado: doença relacionada à IgG4 renal, com o complemento baixo e o FAN como rótulo de lúpus"
+ }
+]

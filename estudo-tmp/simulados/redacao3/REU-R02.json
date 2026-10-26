@@ -1,0 +1,203 @@
+[
+ {
+  "id": "R02-REU-01",
+  "simulado": "R02",
+  "area": "Reumatologia",
+  "titulo": "Monoartrite com cristais de pirofosfato em idoso com flebite de cateter e 62.000 leucócitos no líquido: drenagem e antibiótico venoso",
+  "arma": "Limiar",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Homem de 79 anos, com condrocalcinose dos joelhos documentada há 5 anos e duas crises prévias de pseudogota, está internado há 9 dias por pneumonia, já em melhora. Há 4 dias surgiu flebite no local do cateter venoso periférico, retirado; hoje tem febre de 38,4 °C e joelho direito quente, edemaciado e doloroso, com derrame volumoso. Artrocentese: líquido turvo, 62.000 leucócitos/mm³ com 91% de neutrófilos, cristais romboides com birrefringência positiva fraca, bacterioscopia pelo Gram sem bactérias. Radiografia: condrocalcinose sem erosões. Hemoculturas colhidas, em processamento. A conduta mais adequada é:",
+  "alternativas": {
+   "A": "Colchicina oral em dose baixa",
+   "B": "Triancinolona intra-articular",
+   "C": "Prednisona oral 30 mg/dia",
+   "D": "Drenagem e antibiótico venoso"
+  },
+  "gabarito": "D",
+  "armadilha": "B",
+  "dado_decisivo": "62.000 leucócitos/mm³ com 91% de neutrófilos",
+  "resolucao": "Condrocalcinose conhecida, crises prévias e cristais de pirofosfato no líquido levam a tratar como nova crise de pseudogota, e a infiltração com corticoide parece a medida mais eficaz. Achar cristais não exclui infecção, que pode coexistir e até desencadear a crise. A celularidade acima de 50.000 leucócitos com predomínio neutrofílico acima de 90%, a febre e a porta de entrada recente (flebite de cateter, com risco de bacteremia por S. aureus) obrigam a tratar como artrite séptica até as culturas voltarem. O Gram negativo tem baixa sensibilidade e não afasta infecção. A conduta é drenagem articular (por punções repetidas ou artroscopia) e antibiótico venoso com cobertura para estafilococo, ajustado pela cultura. Corticoide intra-articular numa articulação possivelmente infectada é contraindicado.",
+  "comentarios": {
+   "A": "Errada. Colchicina trataria a pseudogota isolada; não cobre a infecção, que a celularidade e a porta de entrada tornam provável.",
+   "B": "Errada. É a armadilha dos cristais: a infiltração é o tratamento da crise de pseudogota sem infecção, e é contraindicada com suspeita de artrite séptica.",
+   "C": "Errada. Corticoide sistêmico serve à crise poliarticular sem infecção; aqui atrasaria o tratamento da artrite séptica.",
+   "D": "Correta. Mais de 50.000 leucócitos com neutrofilia acima de 90%, febre e bacteremia possível: tratar como séptica até prova em contrário."
+  },
+  "para_levar": "Cristais no líquido sinovial não afastam infecção: celularidade acima de 50.000 com neutrófilos acima de 90%, febre ou porta de entrada mandam drenar e iniciar antibiótico até a cultura.",
+  "referencias": "Ravindran V et al. BSR and BHPR guideline for the management of the hot swollen joint in adults (2017); Rosenthal AK, Ryan LM. Calcium Pyrophosphate Deposition Disease. N Engl J Med 2016.",
+  "tags": [
+   "Artrite Séptica (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "S2 q21: artrite séptica sobre artropatia por cristais; agora pirofosfato e bacteremia de cateter em vez de gota"
+ },
+ {
+  "id": "R02-REU-02",
+  "simulado": "R02",
+  "area": "Reumatologia",
+  "titulo": "Nefrite lúpica com proliferação endocapilar em 70% dos glomérulos e depósitos subendoteliais: classe IV e indução com micofenolato e glicocorticoide",
+  "arma": "Grade X / Y",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 26 anos, com lúpus há 3 anos, apresenta edema de membros inferiores há 1 mês. PA 150 x 94 mmHg. Creatinina subiu de 1,1 para 1,6 mg/dL em 6 semanas; proteinúria 3,2 g/24h; hematúria dismórfica com cilindros hemáticos. C3 e C4 baixos, anti-DNA nativo 1:640. Biópsia renal: proliferação endocapilar em 70% dos glomérulos, com depósitos subendoteliais à microscopia eletrônica, crescentes celulares em 10% e índice de cronicidade de 1 de 12. Sem gestação e sem infecção ativa. A classe histológica e a indução mais adequada são, respectivamente:",
+  "alternativas": {
+   "A": "Classe IV / micofenolato e glicocorticoide",
+   "B": "Classe V / tacrolimo isolado",
+   "C": "Classe III / glicocorticoide isolado",
+   "D": "Classe IV / bloqueio do SRAA isolado"
+  },
+  "gabarito": "A",
+  "armadilha": "C",
+  "dado_decisivo": "proliferação endocapilar em 70% dos glomérulos",
+  "resolucao": "A classe III e a classe IV têm o mesmo tipo de lesão (proliferação endocapilar com depósitos subendoteliais), e o que as separa é a extensão: menos de 50% dos glomérulos é classe III, 50% ou mais é classe IV. Com 70%, é classe IV, ativa, com crescentes e cronicidade baixa, portanto com muito a ganhar com tratamento. As duas classes proliferativas, porém, pedem a mesma indução: glicocorticoide associado a micofenolato ou a ciclofosfamida em dose baixa, com possibilidade de terceira droga (belimumabe ou inibidor de calcineurina), além de hidroxicloroquina e bloqueio do eixo renina-angiotensina. Glicocorticoide isolado tem mais recidiva e evolução para doença renal crônica, e o bloqueio do eixo sozinho serve às classes I e II com proteinúria.",
+  "comentarios": {
+   "A": "Correta. Lesão proliferativa em 50% ou mais dos glomérulos é classe IV, induzida com micofenolato e glicocorticoide.",
+   "B": "Errada. A classe V é membranosa, com depósitos subepiteliais e sem proliferação endocapilar; tacrolimo isolado não é indução de doença proliferativa.",
+   "C": "Errada. É a armadilha: classe III seria com menos de 50% dos glomérulos, e mesmo nela o glicocorticoide isolado é insuficiente.",
+   "D": "Errada. A classe está certa, mas bloqueio isolado do eixo é para nefrite não proliferativa; aqui subtrata uma doença grave."
+  },
+  "para_levar": "Nefrite lúpica proliferativa (classe III abaixo de 50% dos glomérulos, IV a partir de 50%) sempre se induz com glicocorticoide associado a micofenolato ou ciclofosfamida, nunca com corticoide isolado.",
+  "referencias": "KDIGO 2024 Clinical Practice Guideline for the Management of Lupus Nephritis; Fanouriakis A et al. EULAR recommendations for the management of SLE: 2023 update; Bajema IM et al. Revision of the ISN/RPS classification for lupus nephritis (2018).",
+  "tags": [
+   "Lúpus (CM)",
+   "Glomerulopatias (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "S2 q75 e S1 q91: porte decidido pela gravidade; agora a nefrite proliferativa que pede indução, o inverso da classe II"
+ },
+ {
+  "id": "R02-REU-03",
+  "simulado": "R02",
+  "area": "Reumatologia",
+  "titulo": "Sjögren primário com secura e fadiga, sem doença extraglandular: tratamento sintomático com agonista muscarínico, sem imunomodulador",
+  "arma": "Omissão",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 48 anos tem diagnóstico recente de síndrome de Sjögren primária: secura ocular e oral há 2 anos, teste de Schirmer de 3 mm em 5 minutos, anti-Ro positivo e biópsia de glândula salivar menor com escore de focos de 2. Queixa-se de boca seca que atrapalha a fala e de cansaço. Nega artralgia, artrite, púrpura, aumento de parótidas, adenomegalia, dispneia ou parestesias. Exame físico normal, exceto mucosa oral seca. Hemograma, VHS, creatinina, urina tipo 1, C3, C4 e eletroforese de proteínas normais; crioglobulinas negativas. Função pulmonar normal. A conduta mais adequada é:",
+  "alternativas": {
+   "A": "Hidroxicloroquina 400 mg/dia",
+   "B": "Rituximabe em duas doses",
+   "C": "Pilocarpina e lubrificantes",
+   "D": "Prednisona 20 mg/dia"
+  },
+  "gabarito": "C",
+  "armadilha": "A",
+  "dado_decisivo": "Nega artralgia, artrite, púrpura, aumento de parótidas, adenomegalia, dispneia ou parestesias",
+  "resolucao": "Doença autoimune confirmada por anticorpo e biópsia parece pedir um imunomodulador, e a hidroxicloroquina é a escolha intuitiva. No Sjögren, porém, os imunomoduladores não melhoram a secura nem a fadiga em ensaios controlados, e a decisão de tratar sistemicamente depende da atividade extraglandular. Esta paciente não tem artrite ou artralgia (onde a hidroxicloroquina tem papel), púrpura, envolvimento pulmonar, renal ou neurológico, e os marcadores de risco de linfoma (parótidas aumentadas, complemento baixo, crioglobulinas, gamopatia) estão ausentes. O tratamento é sintomático: lubrificantes oculares e substitutos de saliva, e, com função glandular residual e secura moderada a grave, agonista muscarínico como a pilocarpina.",
+  "comentarios": {
+   "A": "Errada. É a armadilha: a hidroxicloroquina se usa no Sjögren com artralgia ou artrite, ausentes aqui; não melhora secura nem fadiga.",
+   "B": "Errada. O rituximabe fica para doença extraglandular grave, como vasculite crioglobulinêmica ou neuropatia.",
+   "C": "Correta. Secura moderada a grave sem atividade sistêmica: lubrificantes e agonista muscarínico.",
+   "D": "Errada. Glicocorticoide sistêmico é para manifestação extraglandular ativa, e não para sintomas glandulares."
+  },
+  "para_levar": "No Sjögren, trate a secura com medidas locais e agonista muscarínico; imunomodulador só com doença extraglandular ativa (hidroxicloroquina para artralgia, imunossupressão para órgão acometido).",
+  "referencias": "Ramos-Casals M et al. EULAR recommendations for the management of Sjögren's syndrome with topical and systemic therapies. Ann Rheum Dis 2020; Valim V et al. Recomendações da SBR para o tratamento da síndrome de Sjögren (2015).",
+  "tags": [
+   "Sjogren (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "S1 q36 e S2 q15: porte exagerado no estável; imunomodulação sem doença sistêmica que a justifique"
+ },
+ {
+  "id": "R02-REU-04",
+  "simulado": "R02",
+  "area": "Reumatologia",
+  "titulo": "Artralgia de mãos com fator reumatoide muito alto, púrpura e C4 indetectável em ex-usuária de drogas injetáveis: vasculite crioglobulinêmica",
+  "arma": "Rótulo verdadeiro",
+  "comando": "diagnóstico",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 58 anos, ex-usuária de drogas injetáveis, tem há 8 meses dor nas pequenas articulações das mãos e nos joelhos, sem edema articular, além de manchas avermelhadas e elevadas nas pernas, que surgem em surtos e deixam pigmentação ocre, e formigamento nos pés. Ao exame, púrpura palpável nos membros inferiores, sem sinovite, hipoestesia em bota. Fator reumatoide 380 UI/mL, anti-CCP negativo, C3 92 mg/dL (90 a 180), C4 de 3 mg/dL (VR 10 a 40), ANCA negativo, ALT 1,5 vez o limite superior. Creatinina 1,3 mg/dL, hematúria dismórfica e proteinúria de 0,9 g/24h. Radiografia de mãos sem erosões. O diagnóstico mais provável é:",
+  "alternativas": {
+   "A": "Artrite reumatoide com vasculite",
+   "B": "Vasculite crioglobulinêmica",
+   "C": "Poliangeíte microscópica",
+   "D": "Vasculite por IgA"
+  },
+  "gabarito": "B",
+  "armadilha": "A",
+  "dado_decisivo": "C4 de 3 mg/dL (VR 10 a 40)",
+  "resolucao": "Dor em pequenas articulações das mãos com fator reumatoide muito alto parece artrite reumatoide, e púrpura com neuropatia seria a vasculite reumatoide. Mas não há sinovite nem erosões, o anti-CCP é negativo e a vasculite reumatoide aparece em doença erosiva de longa data, não antes da artrite. O fator reumatoide alto aqui é a atividade de IgM monoclonal ou policlonal da crioglobulina mista, e o consumo seletivo de C4 com C3 normal é o padrão dela. Púrpura palpável em surtos, artralgia, neuropatia sensitiva, glomerulonefrite e a exposição de risco para hepatite C, com transaminase alterada, compõem a vasculite crioglobulinêmica. O passo seguinte é pesquisar crioglobulinas e HCV RNA; o tratamento é antiviral de ação direta, com rituximabe se houver acometimento grave.",
+  "comentarios": {
+   "A": "Errada. É a armadilha do fator reumatoide: sem sinovite, erosões ou anti-CCP não há artrite reumatoide, e a vasculite reumatoide surge na doença antiga e erosiva.",
+   "B": "Correta. Púrpura, artralgia, neuropatia, glomerulonefrite, fator reumatoide alto e C4 muito baixo com C3 normal.",
+   "C": "Errada. A poliangeíte microscópica tem ANCA positivo na maioria e não consome complemento.",
+   "D": "Errada. A vasculite por IgA dá púrpura e nefrite, mas sem fator reumatoide alto nem consumo de C4."
+  },
+  "para_levar": "Fator reumatoide alto com C4 muito baixo, púrpura, neuropatia e glomerulonefrite é crioglobulinemia mista, em geral pelo HCV; o fator reumatoide é da crioglobulina, e não de artrite reumatoide.",
+  "referencias": "Cacoub P et al. Cryoglobulinemia vasculitis. Am J Med 2015; KDIGO 2022 Clinical Practice Guideline for Prevention, Diagnosis, Evaluation, and Treatment of Hepatitis C in CKD.",
+  "tags": [
+   "Crioglobulinemia (CM)",
+   "Vasculites (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "S2 q4 e S3 q27: rótulo do autoanticorpo; o fator reumatoide puxando para artrite reumatoide"
+ },
+ {
+  "id": "R02-REU-05",
+  "simulado": "R02",
+  "area": "Reumatologia",
+  "titulo": "Oligoartrite com uretrite recente, úlceras orais e genitais dolorosas e vasculite retiniana oclusiva: Behçet, e não artrite reativa",
+  "arma": "Rótulo verdadeiro",
+  "comando": "diagnóstico",
+  "nivel": "difícil",
+  "enunciado": "Homem de 27 anos teve uretrite tratada com ceftriaxona e azitromicina há 5 semanas. Há 2 semanas tem dor e edema no joelho esquerdo e, há 4 dias, baixa visual no olho direito. Refere aftas orais dolorosas que voltam várias vezes por ano há 2 anos e, há 3 meses, uma úlcera escrotal dolorosa que deixou cicatriz. Ao exame, lesões papulopustulosas estéreis no tronco, artrite do joelho esquerdo, sem entesite, sem dactilite, sem lesões palmoplantares. Oftalmologia: uveíte posterior com vasculite retiniana oclusiva, sem conjuntivite. HLA-B27 negativo. Líquido sinovial inflamatório, sem cristais, cultura negativa. O diagnóstico mais provável é:",
+  "alternativas": {
+   "A": "Artrite reativa",
+   "B": "Sarcoidose",
+   "C": "Espondiloartrite da doença intestinal",
+   "D": "Doença de Behçet"
+  },
+  "gabarito": "D",
+  "armadilha": "A",
+  "dado_decisivo": "uveíte posterior com vasculite retiniana oclusiva",
+  "resolucao": "Uretrite recente seguida de oligoartrite de joelho e acometimento ocular forma a tríade da artrite reativa, e a infecção é um antecedente verdadeiro. A artrite reativa, porém, dá conjuntivite ou uveíte anterior aguda, úlceras orais indolores e balanite circinada, e se associa ao HLA-B27. Aqui as aftas são dolorosas e recorrentes há anos, a úlcera escrotal é dolorosa e deixou cicatriz, há lesões papulopustulosas e, sobretudo, uveíte posterior com vasculite retiniana oclusiva, que é a lesão ocular da doença de Behçet e ameaça a visão. A artrite oligoarticular não erosiva de joelho também ocorre no Behçet. A uretrite foi coincidência ou gatilho de atividade. A uveíte posterior pede imunossupressão rápida (azatioprina ou anti-TNF, com glicocorticoide).",
+  "comentarios": {
+   "A": "Errada. É a armadilha da uretrite: a artrite reativa daria uveíte anterior ou conjuntivite e úlceras indolores, e não vasculite retiniana com úlcera genital cicatricial.",
+   "B": "Errada. A sarcoidose dá uveíte e artrite de tornozelos, mas não úlceras orais e genitais dolorosas recorrentes.",
+   "C": "Errada. A espondiloartrite da doença intestinal pede diarreia crônica e cursa com uveíte anterior; não há sintomas intestinais.",
+   "D": "Correta. Aftas orais recorrentes, úlcera genital cicatricial, lesões papulopustulosas e vasculite retiniana oclusiva."
+  },
+  "para_levar": "Uveíte anterior com úlceras indolores e HLA-B27 é espondiloartrite ou artrite reativa; uveíte posterior com vasculite retiniana e úlceras orais e genitais dolorosas é Behçet.",
+  "referencias": "Hatemi G et al. 2018 update of the EULAR recommendations for the management of Behçet's syndrome; International Criteria for Behçet's Disease (ICBD, 2014).",
+  "tags": [
+   "Behçet (CM)",
+   "Artrite Reativa (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "UERJ pouco explorado: Behçet contra artrite reativa, com a uretrite recente como rótulo verdadeiro"
+ },
+ {
+  "id": "R02-REU-06",
+  "simulado": "R02",
+  "area": "Reumatologia",
+  "titulo": "Doença de Still do adulto: a fração glicosilada da ferritina baixa é mais específica que a ferritina total",
+  "arma": "Qualificador",
+  "comando": "fato solto",
+  "nivel": "difícil",
+  "enunciado": "No adulto com febre diária acima de 39 °C, exantema evanescente cor de salmão que aparece com a febre, artralgias, odinofagia e ferritina de 9.800 ng/mL, sem infecção ou neoplasia identificadas, o achado laboratorial de maior especificidade para doença de Still do adulto é:",
+  "alternativas": {
+   "A": "Ferritina glicosilada abaixo de 20%",
+   "B": "Ferritina acima de cinco vezes o normal",
+   "C": "Leucocitose neutrofílica acima de 15.000",
+   "D": "Fator reumatoide e FAN negativos"
+  },
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "de maior especificidade",
+  "resolucao": "A ferritina muito alta é o exame mais lembrado na doença de Still e entra nos critérios de Fautrel, mas ela sobe também em infecções, linfomas, hepatopatias e ativação macrofágica, e por isso é sensível e pouco específica. A ferritina normalmente circula glicosilada em mais de 50%; na doença de Still, a saturação do mecanismo de glicosilação faz a fração glicosilada cair abaixo de 20%, e essa queda, associada à ferritina alta, é o achado mais específico. A leucocitose neutrofílica e a negatividade de fator reumatoide e FAN integram os critérios de Yamaguchi, mas ocorrem em muitas outras doenças febris. O comando pede especificidade, e não sensibilidade nem frequência.",
+  "comentarios": {
+   "A": "Correta. Fração glicosilada abaixo de 20% é o marcador laboratorial mais específico, sobretudo com ferritina alta.",
+   "B": "Errada. É a armadilha: a ferritina alta é sensível e frequente, mas aparece em infecção, linfoma e ativação macrofágica.",
+   "C": "Errada. Leucocitose neutrofílica é frequente e entra em Yamaguchi, mas é comum em infecções bacterianas.",
+   "D": "Errada. A negatividade é critério menor de Yamaguchi e não diferencia o Still de infecção ou linfoma."
+  },
+  "para_levar": "Doença de Still: ferritina alta é sensível; a fração glicosilada abaixo de 20% é o dado mais específico. O diagnóstico ainda exige excluir infecção, neoplasia e outras doenças sistêmicas.",
+  "referencias": "Fautrel B et al. Proposal for a new set of classification criteria for adult-onset Still disease. Medicine 2002; Fautrel B et al. EULAR/PReS recommendations for the diagnosis and management of Still's disease (2024).",
+  "tags": [
+   "Doença de Still do Adulto (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "UERJ pouco explorado: doença de Still, com o qualificador de especificidade"
+ }
+]

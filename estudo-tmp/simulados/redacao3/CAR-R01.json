@@ -26,7 +26,11 @@
   },
   "para_levar": "Miotonia, catarata precoce, calvície frontal e atrofia facial são distrofia miotônica tipo 1, cuja cardiopatia é de condução: ECG anual e investigação ativa de bloqueio, porque a morte súbita é a principal causa cardíaca de óbito.",
   "referencias": "2022 ESC Guidelines for the management of patients with ventricular arrhythmias and the prevention of sudden cardiac death; Feingold B et al. Management of cardiac involvement associated with neuromuscular diseases, AHA Scientific Statement, Circulation 2017.",
-  "tags": ["Fisiologia e Semiologia Cardíaca (CM)", "Bloqueios atrioventriculares (BAV) (CM)", "Neuromuscular (CM)"],
+  "tags": [
+   "Fisiologia e Semiologia Cardíaca (CM)",
+   "Bloqueios atrioventriculares (BAV) (CM)",
+   "Neuromuscular (CM)"
+  ],
   "sourceQuestionId": null,
   "alvo": "S2 q17 e S3 q5: da síndrome ao achado esperado (aqui, da doença neuromuscular ao ECG)"
  },
@@ -57,7 +61,11 @@
   },
   "para_levar": "Condrite auricular que poupa o lóbulo, nariz em sela e inflamação ocular são policondrite recidivante, e a lesão cardíaca esperada é a insuficiência aórtica por aortite e dilatação da raiz.",
   "referencias": "Kingdon J et al. Relapsing polychondritis: a clinical review for rheumatologists. Rheumatology 2018; Diretriz Brasileira de Valvopatias, SBC 2020.",
-  "tags": ["Fisiologia e Semiologia Cardíaca (CM)", "Insuficiência Aórtica (CM)", "Outras Vasculites (CM)"],
+  "tags": [
+   "Fisiologia e Semiologia Cardíaca (CM)",
+   "Insuficiência Aórtica (CM)",
+   "Outras Vasculites (CM)"
+  ],
   "sourceQuestionId": null,
   "alvo": "S4 q65: doença sistêmica que leva à insuficiência aórtica pela raiz (antes, aortite sifilítica)"
  },
@@ -88,7 +96,10 @@
   },
   "para_levar": "A ressincronização se indica pelo QRS e pela morfologia: bloqueio de ramo esquerdo largo é a indicação forte; bloqueio de ramo direito abaixo de 150 ms não a justifica, e o CDI segue a FE e a etiologia.",
   "referencias": "2021 ESC Guidelines for cardiac pacing and cardiac resynchronization therapy; 2022 AHA/ACC/HFSA Guideline for the Management of Heart Failure; Diretriz Brasileira de Insuficiência Cardíaca Crônica e Aguda, SBC 2018 e atualização 2021.",
-  "tags": ["Insuficiência Cardíaca (CM)", "Bloqueios de Ramo (CM)"],
+  "tags": [
+   "Insuficiência Cardíaca (CM)",
+   "Bloqueios de Ramo (CM)"
+  ],
   "sourceQuestionId": null,
   "alvo": "S2 q46: indicação de ressincronização pelo QRS e pela morfologia (agora no sentido inverso)"
  },
@@ -119,7 +130,10 @@
   },
   "para_levar": "Apixabana na fibrilação atrial: reduzir para 2,5 mg de 12/12 horas com dois de três critérios (80 anos ou mais, 60 kg ou menos, creatinina de 1,5 ou mais), sem olhar a depuração; com um só, dose plena.",
   "referencias": "2024 ESC Guidelines for the management of atrial fibrillation; 2023 ACC/AHA/ACCP/HRS Guideline for the Diagnosis and Management of Atrial Fibrillation; Diretrizes Brasileiras de Fibrilação Atrial, SBC 2016 (atualização 2023).",
-  "tags": ["Fibrilação Atrial (CM)", "Anticoagulação em Cardiologia (CM)"],
+  "tags": [
+   "Fibrilação Atrial (CM)",
+   "Anticoagulação em Cardiologia (CM)"
+  ],
   "sourceQuestionId": null,
   "alvo": "S4 q56: dose de apixabana pelos dois de três critérios (agora no sentido de reduzir com creatinina normal)"
  },
@@ -150,7 +164,10 @@
   },
   "para_levar": "Na AESP, leia o QRS: largo e lento lembra causa metabólica ou tóxica; estreito e rápido lembra causa mecânica (tamponamento, pneumotórax hipertensivo, TEP, hipovolemia), e o contexto escolhe entre elas.",
   "referencias": "2020 AHA Guidelines for CPR and ECC, com atualização focada 2023; Littmann L et al. A simplified and structured teaching tool for the evaluation and management of pulseless electrical activity. Med Princ Pract 2014.",
-  "tags": ["Parada Cardiorrespiratória (PCR) (CM)", "Pericardites (CM)"],
+  "tags": [
+   "Parada Cardiorrespiratória (PCR) (CM)",
+   "Pericardites (CM)"
+  ],
   "sourceQuestionId": null,
   "alvo": "S2 q57: AESP lida pelo QRS (agora estreito e rápido, causa mecânica, com o rótulo de hipercalemia)"
  },
@@ -176,12 +193,14 @@
   "comentarios": {
    "A": "Correta. Com probabilidade pré-teste muito baixa, a maioria dos testes positivos é falso-positiva.",
    "B": "Errada. Seria a conduta com critérios de alto risco (infra precoce, queda da pressão, baixa capacidade, arritmia ventricular), ausentes aqui.",
-   "C": "Errada. Confirmaria melhor em homem idoso com angina típica; aqui o critério eletrocardiográfico tem valor preditivo baixo.",
+   "C": "Errada. Confirmaria melhor em homem idoso com angina de esforço com os três critérios; aqui o critério eletrocardiográfico tem valor preditivo baixo.",
    "D": "Errada. É a armadilha de quem acha que todo teste positivo precisa ser complementado; na assintomática de risco muito baixo, isso só gera cascata de exames."
   },
   "para_levar": "O resultado de um teste se interpreta pela probabilidade pré-teste: em quem quase não tem doença, o positivo é quase sempre falso, assim como, em quem quase certamente tem, o negativo pouco tranquiliza.",
   "referencias": "Diretrizes da SBC sobre Teste Ergométrico, 2024; 2021 AHA/ACC Guideline for the Evaluation and Diagnosis of Chest Pain; 2024 ESC Guidelines for the management of chronic coronary syndromes.",
-  "tags": ["Coronariopatia Crônica (CM)"],
+  "tags": [
+   "Coronariopatia Crônica (CM)"
+  ],
   "sourceQuestionId": null,
   "alvo": "S1 q99: teste ergométrico em baixa probabilidade pré-teste (agora o positivo, pelo valor preditivo)"
  }

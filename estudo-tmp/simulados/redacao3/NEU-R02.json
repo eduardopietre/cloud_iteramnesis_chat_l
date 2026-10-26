@@ -1,0 +1,172 @@
+[
+ {
+  "id": "R02-NEU-01",
+  "simulado": "R02",
+  "area": "Neurologia",
+  "titulo": "Primeira crise tônico-clônica após privação de sono, com mioclonias matinais prévias e EEG alterado: é epilepsia e se trata",
+  "arma": "Grade X / Y",
+  "comando": "conduta",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 22 anos, estudante de Medicina, teve crise tônico-clônica generalizada às 7 horas da manhã, após um plantão de 30 horas sem dormir e duas latas de cerveja na noite anterior. Nunca teve crise desse tipo. Perguntado, conta que há cerca de 1 ano tem abalos bruscos nos braços pela manhã, que já o fizeram derrubar a xícara do café, sempre nos dias em que dorme pouco. Exame neurológico normal. Glicemia, sódio, cálcio e magnésio normais; toxicológico negativo. RM de crânio normal. EEG: complexos de poliespícula-onda generalizados a 4 a 6 Hz, aumentados pela fotoestimulação. A classificação do evento e a conduta quanto à droga anticrise são, respectivamente:",
+  "alternativas": {
+   "A": "Crise provocada / sem anticrise",
+   "B": "Epilepsia / iniciar anticrise",
+   "C": "Crise provocada / anticrise por 6 meses",
+   "D": "Epilepsia / repetir EEG antes de tratar"
+  },
+  "gabarito": "B",
+  "armadilha": "A",
+  "dado_decisivo": "abalos bruscos nos braços pela manhã",
+  "resolucao": "A privação de sono e a cerveja são verdadeiras e oferecem o rótulo de crise provocada, que não pediria anticrise. Mas crise sintomática aguda é a que ocorre em estreita relação com uma agressão aguda ao cérebro (distúrbio metabólico, toxina, abstinência, infecção, trauma, AVC): privação de sono e álcool em pequena quantidade são fatores desencadeantes em quem já tem limiar baixo, e não causas. A história revela mioclonias matinais há 1 ano, que são crises, e o EEG mostra poliespícula-onda generalizada com fotossensibilidade: é epilepsia mioclônica juvenil, com mais de uma crise e alto risco de recorrência. Pela definição da ILAE já é epilepsia, e o tratamento está indicado, junto com higiene do sono; a epilepsia mioclônica juvenil tende a exigir tratamento prolongado. Repetir o EEG não acrescenta nada a um exame já diagnóstico.",
+  "comentarios": {
+   "A": "Errada. Seria a conduta na crise sintomática aguda por causa metabólica ou tóxica; privação de sono é desencadeante, e as mioclonias prévias já são crises.",
+   "B": "Correta. Mioclonias prévias e EEG com poliespícula-onda generalizada definem epilepsia, que se trata.",
+   "C": "Errada. Combina dois erros: chama de provocada uma epilepsia e propõe prazo curto que não se aplica a nenhuma das duas situações.",
+   "D": "Errada. Repetir EEG seria útil se o primeiro fosse normal; este já é diagnóstico."
+  },
+  "para_levar": "Privação de sono e álcool em pouca quantidade desencadeiam crises em quem tem epilepsia, mas não fazem delas crises provocadas; pergunte sempre por mioclonias matinais e ausências antes de rotular a primeira crise.",
+  "referencias": "Fisher RS et al. ILAE official report: a practical clinical definition of epilepsy. Epilepsia 2014; Beghi E et al. Recommendation for a definition of acute symptomatic seizure. Epilepsia 2010; ILAE 2022 definitions of idiopathic generalized epilepsy syndromes.",
+  "tags": [
+   "Epilepsia (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "S4 q30 e S2 q7: crise provocada contra epilepsia, e quando a anticrise é indicada (agora no sentido de tratar)"
+ },
+ {
+  "id": "R02-NEU-02",
+  "simulado": "R02",
+  "area": "Neurologia",
+  "titulo": "Déficit focal no 7º dia de hemorragia subaracnóidea com sódio baixo: isquemia tardia por vasoespasmo, e não hiponatremia",
+  "arma": "Rótulo verdadeiro",
+  "comando": "diagnóstico",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 49 anos está no 7º dia de hemorragia subaracnóidea por aneurisma da artéria comunicante anterior, embolizado no 1º dia, com sangue espesso nas cisternas e nos ventrículos laterais à TC inicial. Usa nimodipina 60 mg de 4/4 horas e está euvolêmica. Hoje, às 10 horas, ficou sonolenta e passou a ter dificuldade para encontrar palavras e fraqueza no braço e na face à direita. Afebril, PA 138 x 82 mmHg. Sódio 129 mEq/L (132 mEq/L na véspera), glicemia 118 mg/dL. TC de crânio: sem novo sangramento, ventrículos com as mesmas dimensões da TC de 2 dias antes. Doppler transcraniano: velocidade média de 210 cm/s na artéria cerebral média esquerda, índice de Lindegaard de 5,8. O diagnóstico mais provável é:",
+  "alternativas": {
+   "A": "Hidrocefalia aguda",
+   "B": "Ressangramento do aneurisma",
+   "C": "Isquemia cerebral tardia por vasoespasmo",
+   "D": "Hiponatremia sintomática"
+  },
+  "gabarito": "C",
+  "armadilha": "D",
+  "dado_decisivo": "índice de Lindegaard de 5,8",
+  "resolucao": "O sódio de 129 é verdadeiro e frequente na hemorragia subaracnóidea, e quem procura causa metabólica para a sonolência marca hiponatremia. Mas sódio de 129, caindo pouco, não produz afasia e hemiparesia; déficit focal novo entre o 4º e o 14º dia, num paciente com muito sangue nas cisternas (Fisher modificado alto), é isquemia cerebral tardia por vasoespasmo até prova em contrário. O Doppler confirma: velocidade média acima de 200 cm/s na cerebral média é vasoespasmo grave, e o índice de Lindegaard acima de 3 (acima de 6 é grave) separa vasoespasmo de hiperfluxo. A TC sem sangue novo afasta ressangramento, raro após embolização, e ventrículos inalterados afastam hidrocefalia. A conduta é manter euvolemia, induzir hipertensão se não houver contraindicação e considerar angiografia com terapia endovascular; a hiponatremia deve ser corrigida, sem restringir água.",
+  "comentarios": {
+   "A": "Errada. Rebaixaria a consciência com ventrículos maiores; a TC mostra ventrículos inalterados e o déficit é focal.",
+   "B": "Errada. Daria piora súbita com sangue novo na TC; o aneurisma foi embolizado e a TC não mostra sangramento.",
+   "C": "Correta. Déficit focal no 7º dia, velocidade de 210 cm/s e Lindegaard de 5,8 definem vasoespasmo sintomático.",
+   "D": "Errada. Sódio de 129 pode dar sonolência, mas não afasia com hemiparesia; é achado associado, e não a causa do déficit focal."
+  },
+  "para_levar": "Déficit focal entre o 4º e o 14º dia de hemorragia subaracnóidea é vasoespasmo até prova em contrário; a hiponatremia acompanha, mas não explica afasia e hemiparesia, e não se trata com restrição hídrica.",
+  "referencias": "2023 AHA/ASA Guideline for the Management of Patients With Aneurysmal Subarachnoid Hemorrhage; Neurocritical Care Society guidelines for SAH, 2023.",
+  "tags": [
+   "HSA (CM)",
+   "AVC Hemorrágico (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "UERJ pouco explorado: HSA e vasoespasmo (com rótulo verdadeiro de hiponatremia)"
+ },
+ {
+  "id": "R02-NEU-03",
+  "simulado": "R02",
+  "area": "Neurologia",
+  "titulo": "Piora miastênica com queda da frequência cardíaca após colírio para glaucoma: betabloqueador tópico, e não crise colinérgica",
+  "arma": "Droga a deduzir",
+  "comando": "etiologia",
+  "nivel": "extremamente difícil",
+  "enunciado": "Mulher de 66 anos tem miastenia gravis generalizada com anticorpo antirreceptor de acetilcolina positivo, estável há 2 anos com piridostigmina 60 mg 4 vezes ao dia e prednisona 10 mg/dia, sem mudança de dose. Há 1 mês tratou cistite com nitrofurantoína, sem intercorrências. Há 10 dias o oftalmologista prescreveu um colírio para glaucoma de ângulo aberto, e desde então a frequência cardíaca, antes de 78 bpm, caiu para 54 bpm. Há 5 dias tem ptose bilateral, diplopia, voz anasalada e cansaço para mastigar. Pupilas de 4 mm, sem sialorreia, cólicas, diarreia ou fasciculações. CVF 2,1 L (2,4 L há 6 meses). TSH normal. TC de tórax de 1 ano atrás sem massa mediastinal. A causa mais provável da piora é:",
+  "alternativas": {
+   "A": "Crise colinérgica pela piridostigmina",
+   "B": "Progressão por timoma",
+   "C": "Miopatia pelo corticoide",
+   "D": "Bloqueio neuromuscular pelo betabloqueador tópico"
+  },
+  "gabarito": "D",
+  "armadilha": "A",
+  "dado_decisivo": "a frequência cardíaca, antes de 78 bpm, caiu para 54 bpm",
+  "resolucao": "A droga não está nomeada: o colírio para glaucoma que derruba a frequência cardíaca é um betabloqueador tópico (timolol), absorvido pela mucosa nasal sem passar pelo fígado e com efeito sistêmico. Os betabloqueadores reduzem a eficiência da transmissão neuromuscular e estão entre as drogas que descompensam a miastenia, junto com aminoglicosídeos, fluoroquinolonas, macrolídeos, magnésio e outras. A bradicardia atrai para crise colinérgica, mas a dose de piridostigmina não mudou, e faltam os sinais muscarínicos e nicotínicos do excesso (miose, sialorreia, cólicas, diarreia, fasciculações). Miopatia por corticoide é proximal, poupa a musculatura ocular e bulbar e não surge com dose estável de 10 mg. A conduta é trocar o colírio por análogo de prostaglandina e monitorar a CVF.",
+  "comentarios": {
+   "A": "Errada. Exigiria aumento da dose ou sinais colinérgicos (miose, sialorreia, cólicas, fasciculações), ausentes; a bradicardia aqui tem outra causa.",
+   "B": "Errada. Timoma pode piorar a doença, mas não explica a coincidência com o colírio nem a queda da frequência cardíaca.",
+   "C": "Errada. Seria fraqueza proximal sem ptose nem diplopia, em dose alta e prolongada; a dose é baixa e estável.",
+   "D": "Correta. O colírio que reduziu a frequência cardíaca é betabloqueador, droga que descompensa a miastenia."
+  },
+  "para_levar": "Na miastenia que piora sem mudança de dose, procure a droga nova, inclusive colírio: betabloqueador tópico tem efeito sistêmico, e a bradicardia que surge com ele é a pista.",
+  "referencias": "Narayanaswami P et al. International consensus guidance for management of myasthenia gravis: 2020 update. Neurology 2021; Sheikh S et al. Drugs that induce or cause deterioration of myasthenia gravis: an update. J Clin Med 2021.",
+  "tags": [
+   "Miastenia Gravis (CM)",
+   "Neuromuscular (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "S3 q10: droga a deduzir que descompensa a miastenia (antes o magnésio, agora o colírio betabloqueador)"
+ },
+ {
+  "id": "R02-NEU-04",
+  "simulado": "R02",
+  "area": "Neurologia",
+  "titulo": "Alucinações visuais e flutuação 9 anos depois do parkinsonismo: demência da doença de Parkinson, pela regra de 1 ano",
+  "arma": "Cronologia",
+  "comando": "diagnóstico",
+  "nivel": "difícil",
+  "enunciado": "Homem de 74 anos começou com tremor de repouso na mão esquerda há 9 anos, depois lentidão e rigidez à esquerda, com resposta excelente à levodopa, hoje 200 mg 4 vezes ao dia, sem mudança de dose há 2 anos. Há 1 ano a esposa nota esquecimentos, lentidão para planejar tarefas e períodos de confusão que alternam com dias de lucidez. Há 6 meses vê pessoas desconhecidas na sala, sem medo. Há anos se debate e grita durante o sono. MoCA 17. Sem febre, sem infecção identificada, sódio e glicemia normais. RM de crânio com atrofia leve difusa, sem dilatação ventricular desproporcional. O diagnóstico mais provável é:",
+  "alternativas": {
+   "A": "Demência da doença de Parkinson",
+   "B": "Demência com corpos de Lewy",
+   "C": "Doença de Alzheimer",
+   "D": "Hidrocefalia de pressão normal"
+  },
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "há 9 anos",
+  "resolucao": "Alucinações visuais bem formadas, flutuação da cognição e distúrbio comportamental do sono REM são os critérios centrais da demência com corpos de Lewy, e são verdadeiros aqui. Mas as duas doenças compartilham a patologia de alfa-sinucleína e quase todos os achados; o que as separa, por convenção, é a cronologia. Se a demência começa antes do parkinsonismo ou até 1 ano depois dele, é demência com corpos de Lewy; se surge num parkinsonismo estabelecido há mais de 1 ano, é demência da doença de Parkinson. Este paciente teve tremor assimétrico com ótima resposta à levodopa por 8 anos antes do declínio cognitivo. Alzheimer começaria pela memória episódica, sem alucinações precoces, e a RM afasta hidrocefalia.",
+  "comentarios": {
+   "A": "Correta. Demência que surge após mais de 1 ano de doença de Parkinson estabelecida é demência da doença de Parkinson.",
+   "B": "Errada. Exigiria demência antes do parkinsonismo ou no primeiro ano dele; aqui a demência veio 8 anos depois.",
+   "C": "Errada. Começaria pela memória episódica, sem alucinações e flutuação precoces, e não explicaria o parkinsonismo responsivo à levodopa.",
+   "D": "Errada. Daria marcha magnética e incontinência com ventrículos desproporcionais, que a RM afastou."
+  },
+  "para_levar": "Demência com corpos de Lewy e demência da doença de Parkinson se separam pelo relógio: demência antes ou até 1 ano após o parkinsonismo é Lewy; depois de 1 ano de Parkinson estabelecido, é demência da doença de Parkinson.",
+  "referencias": "McKeith IG et al. Diagnosis and management of dementia with Lewy bodies: fourth consensus report of the DLB Consortium. Neurology 2017; Emre M et al. Clinical diagnostic criteria for dementia associated with Parkinson's disease. Mov Disord 2007.",
+  "tags": [
+   "Demência por corpúsculos de Lewy (CM)",
+   "Doença de Parkinson (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "S4 q12: rótulo contra discriminante na demência com corpos de Lewy (agora a cronologia contra a demência da doença de Parkinson)"
+ },
+ {
+  "id": "R02-NEU-05",
+  "simulado": "R02",
+  "area": "Neurologia",
+  "titulo": "Vertigem, disfagia, rouquidão e Horner após manipulação cervical: síndrome bulbar lateral e a hipoalgesia alterna",
+  "arma": "Dado omitido",
+  "comando": "achado esperado",
+  "nivel": "difícil",
+  "enunciado": "Homem de 46 anos fez manipulação cervical com quiroprático há 2 dias e desde então tem dor na nuca à direita. Há 6 horas teve vertigem súbita, vômitos, rouquidão, dificuldade para engolir a própria saliva e soluços incessantes. Exame: alerta, PA 152 x 90 mmHg; ptose e miose à direita, nistagmo horizontal, palato que se eleva menos à direita com reflexo nauseoso diminuído desse lado, ataxia dos membros à direita, força preservada nos quatro membros, língua na linha média e reflexos simétricos, sem sinal de Babinski. Ainda não foi testada a sensibilidade. O achado sensitivo mais provável é:",
+  "alternativas": {
+   "A": "Hipoalgesia na hemiface e no hemicorpo direitos",
+   "B": "Hipoalgesia na hemiface esquerda e no hemicorpo direito",
+   "C": "Hipoalgesia na hemiface direita e no hemicorpo esquerdo",
+   "D": "Perda proprioceptiva no hemicorpo esquerdo"
+  },
+  "gabarito": "C",
+  "armadilha": "D",
+  "dado_decisivo": "ptose e miose à direita",
+  "resolucao": "Vertigem, disfagia, rouquidão e soluços com Horner, paresia do palato e ataxia de membros do mesmo lado, sem fraqueza, localizam o bulbo lateral direito (síndrome de Wallenberg), aqui por dissecção da artéria vertebral após manipulação cervical. No bulbo lateral passam, lado a lado, o trato e o núcleo espinhal do trigêmeo, que carregam dor e temperatura da face do mesmo lado (ainda não cruzadas), e o trato espinotalâmico, que carrega dor e temperatura do corpo do lado oposto (já cruzado na medula). Daí a hipoalgesia alterna: face direita e hemicorpo esquerdo. A perda proprioceptiva contralateral é do lemnisco medial, que está no bulbo medial, junto com o trato piramidal e o hipoglosso; força preservada, língua na linha média e ausência de Babinski afastam lesão medial.",
+  "comentarios": {
+   "A": "Errada. Hipoalgesia de face e corpo do mesmo lado sugere lesão acima do bulbo, no tálamo ou no córtex contralateral, sem Horner nem paresia do palato.",
+   "B": "Errada. Inverte os lados: o trato trigeminal espinhal leva a face do mesmo lado da lesão, e o espinotalâmico, o corpo do lado oposto.",
+   "C": "Correta. O bulbo lateral contém o trigêmeo espinhal (face ipsilateral) e o espinotalâmico (corpo contralateral).",
+   "D": "Errada. É achado do bulbo medial (lemnisco medial), que viria com hemiparesia e desvio da língua, ausentes aqui."
+  },
+  "para_levar": "Lesão bulbar lateral: Horner, paresia do palato, ataxia e hipoalgesia da face do mesmo lado, com hipoalgesia do corpo do lado oposto. Lesão bulbar medial: hemiparesia e perda proprioceptiva contralaterais, com a língua desviada para o lado da lesão.",
+  "referencias": "Kim JS. Pure lateral medullary infarction: clinical-radiological correlation of 130 acute, consecutive patients. Brain 2003; 2021 AHA/ASA Guideline for the Prevention of Stroke in Patients With Stroke and TIA (dissecção cervical).",
+  "tags": [
+   "Neuroanatomia (CM)",
+   "AVC Isquêmico (CM)",
+   "Neurovascular (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "Achado esperado em neurologia: da síndrome topográfica ao exame (UERJ cobra síndromes de tronco)"
+ }
+]

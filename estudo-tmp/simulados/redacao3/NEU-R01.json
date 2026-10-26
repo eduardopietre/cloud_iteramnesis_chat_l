@@ -1,0 +1,172 @@
+[
+ {
+  "id": "R01-NEU-01",
+  "simulado": "R01",
+  "area": "Neurologia",
+  "titulo": "Mielopatia cervical na RM com fasciculações no tronco: desnervação em segmentos que a compressão não alcança aponta ELA",
+  "arma": "Qualificador",
+  "comando": "achado esperado",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 63 anos tem, há 10 meses, fraqueza e atrofia progressivas nas mãos, cãibras frequentes e marcha rígida. RM de coluna cervical: estenose em C5-C6 com compressão medular e hipersinal intramedular em T2 nesse nível; a cirurgia descompressiva foi agendada. Exame: atrofia de interósseos e tenares bilateral, hiper-reflexia nos quatro membros com sinal de Babinski bilateral, fasciculações em ambos os peitorais e na parede abdominal, sensibilidade tátil, dolorosa e vibratória normal, sem nível sensitivo. Controle esfincteriano preservado. Fala e deglutição normais. Antes da cirurgia, foi pedida eletroneuromiografia. O achado que, isoladamente, mais indica que a compressão cervical não explica o quadro é:",
+  "alternativas": {
+   "A": "Desnervação restrita aos miótomos C5 e C6",
+   "B": "Redução da amplitude sensitiva do mediano",
+   "C": "Desnervação no genioglosso e no tronco",
+   "D": "Bloqueio de condução motora multifocal"
+  },
+  "gabarito": "C",
+  "armadilha": "A",
+  "dado_decisivo": "fasciculações em ambos os peitorais e na parede abdominal",
+  "resolucao": "A compressão medular em C5-C6 é real e explica parte do quadro: sinais de primeiro neurônio abaixo do nível e amiotrofia segmentar das raízes comprimidas. O que ela não explica é o neurônio motor inferior fora do território cervical: as fasciculações nos peitorais e no abdome já sugerem isso, e a eletroneuromiografia confirma quando mostra desnervação ativa em segmento que nenhuma lesão cervical alcança, como o bulbar (genioglosso) e o torácico (paravertebrais). Pelos critérios de Gold Coast, sinais de primeiro e segundo neurônio em mais de uma região, sem alteração sensitiva, fecham esclerose lateral amiotrófica, e a cirurgia não mudaria a evolução. Desnervação restrita a C5 e C6 seria a esperada na radiculopatia compressiva e falaria a favor da cirurgia.",
+  "comentarios": {
+   "A": "Errada. É o padrão esperado da radiculopatia pela estenose em C5-C6; confirma a compressão, e não a doença do neurônio motor.",
+   "B": "Errada. Indicaria neuropatia sensitiva ou túnel do carpo; na ELA a condução sensitiva é normal, como a sensibilidade deste paciente.",
+   "C": "Correta. Desnervação nos segmentos bulbar e torácico está fora do alcance de qualquer compressão cervical e indica doença difusa do neurônio motor.",
+   "D": "Errada. Seria a neuropatia motora multifocal, que é só de segundo neurônio e não explica hiper-reflexia nem Babinski."
+  },
+  "para_levar": "Mielopatia cervical não explica neurônio motor inferior acima ou abaixo do nível comprimido: desnervação bulbar ou torácica na eletroneuromiografia, fasciculações no tronco ou reflexo mandibular exaltado pedem pensar em ELA antes da cirurgia.",
+  "referencias": "Shefner JM et al. A proposal for new diagnostic criteria for ALS (Gold Coast criteria). Clin Neurophysiol 2020; EAN guideline on the management of amyotrophic lateral sclerosis, 2024.",
+  "tags": [
+   "Neuromuscular (CM)",
+   "Mielopatia (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "S4 q1: ELA x mielopatia cervical (o achado que a compressão cervical não explica, agora na eletroneuromiografia)"
+ },
+ {
+  "id": "R01-NEU-02",
+  "simulado": "R01",
+  "area": "Neurologia",
+  "titulo": "Crises refratárias a benzodiazepínico após ingestão de comprimidos da ILTB: piridoxina, e nenhuma anticrise de manutenção",
+  "arma": "Droga a deduzir",
+  "comando": "conduta",
+  "nivel": "extremamente difícil",
+  "enunciado": "Mulher de 24 anos é trazida 1 hora após ingerir, intencionalmente, todos os comprimidos que o irmão recebeu na unidade de saúde para tratar infecção latente pela tuberculose, cerca de 30 comprimidos de 300 mg. Na chegada tem crise tônico-clônica generalizada, que se repete após duas doses de diazepam 10 mg IV. Nunca teve crise antes; o pai tem epilepsia em uso de carbamazepina. PA 128 x 80 mmHg, FC 122 bpm, Tax 37,8 °C. Gasometria: pH 7,08, bicarbonato 8 mEq/L, lactato 11 mmol/L. Glicemia 140 mg/dL, sódio 139 mEq/L, cálcio e magnésio normais. A conduta imediata e a conduta após a alta, em relação à anticrise, são, respectivamente:",
+  "alternativas": {
+   "A": "Piridoxina IV / sem anticrise de manutenção",
+   "B": "Piridoxina IV / levetiracetam por 6 meses",
+   "C": "Fenitoína IV / fenitoína por 6 meses",
+   "D": "Fenobarbital IV / sem anticrise de manutenção"
+  },
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "Nunca teve crise antes",
+  "resolucao": "O esquema da infecção latente pela tuberculose distribuído pela rede usa isoniazida em comprimidos de 300 mg, e 9 g ingeridos causam a tríade de crises refratárias, acidose lática intensa e coma. A isoniazida depleta o piridoxal fosfato, cofator da síntese de GABA, e por isso o benzodiazepínico, que depende do GABA disponível, falha; a fenitoína não age nesse mecanismo. O antídoto é piridoxina IV, grama por grama de isoniazida ingerida (ou 5 g empíricos), mantendo o benzodiazepínico. A segunda decisão é a que oscila: é crise sintomática aguda, provocada por toxina, numa paciente sem crises prévias; o pai com epilepsia é verdadeiro, mas não transforma uma intoxicação em epilepsia. Resolvida a causa, não há indicação de anticrise de manutenção.",
+  "comentarios": {
+   "A": "Correta. Piridoxina corrige a falta de GABA da intoxicação por isoniazida, e a crise provocada não pede manutenção.",
+   "B": "Errada. Acerta o antídoto, mas manter anticrise após crise provocada por toxina, sem crises prévias, não reduz recorrência e só soma efeitos adversos.",
+   "C": "Errada. A fenitoína não age na depleção de GABA e é ineficaz nas crises tóxicas; a manutenção também não se indica.",
+   "D": "Errada. Barbitúrico pode ser associado em crise refratária, mas sem piridoxina as crises persistem; falta o antídoto."
+  },
+  "para_levar": "Crise que não cede com benzodiazepínico em quem ingeriu comprimidos da ILTB é isoniazida: piridoxina IV. Crise sintomática aguda, de causa tóxica ou metabólica, trata-se pela causa e não pede anticrise de manutenção.",
+  "referencias": "Beghi E et al. Recommendation for a definition of acute symptomatic seizure. Epilepsia 2010 (ILAE); Goldfrank's Toxicologic Emergencies, 11ª ed., cap. Isoniazid; Ministério da Saúde, Manual de Recomendações para o Controle da Tuberculose no Brasil, 2019.",
+  "tags": [
+   "Epilepsia (CM)",
+   "Neurointensivismo (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "S4 q30 e S2 q7: anticrise de manutenção na crise provocada (agora tóxica, com droga a deduzir)"
+ },
+ {
+  "id": "R01-NEU-03",
+  "simulado": "R01",
+  "area": "Neurologia",
+  "titulo": "Doença de Alzheimer moderada com bradicardia sinusal e síncope: memantina, porque a bradicardia contraindica os anticolinesterásicos",
+  "arma": "Negativo no meio",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 79 anos tem declínio progressivo de memória há 4 anos; hoje se perde no bairro, precisa de ajuda para administrar remédios e dinheiro, mas toma banho sozinha. MEEM 14 (escolaridade de 8 anos). RM de crânio com atrofia hipocampal bilateral, sem lesões vasculares relevantes. Teve dois episódios de síncope no último ano. Nega uso de betabloqueador, bloqueador de canal de cálcio, digital ou outra droga cronotrópica negativa. PA 136 x 80 mmHg, frequência cardíaca de 46 bpm. ECG: bradicardia sinusal, PR de 220 ms. Holter: pausas sinusais de até 2,8 s. TSH normal. A família pede tratamento para a demência. A droga mais adequada para iniciar é:",
+  "alternativas": {
+   "A": "Donepezila em dose baixa",
+   "B": "Rivastigmina transdérmica",
+   "C": "Galantamina de liberação prolongada",
+   "D": "Memantina"
+  },
+  "gabarito": "D",
+  "armadilha": "B",
+  "dado_decisivo": "frequência cardíaca de 46 bpm",
+  "resolucao": "Os anticolinesterásicos são a primeira linha na doença de Alzheimer leve e moderada, e a rivastigmina transdérmica atrai por ter menos efeitos digestivos. Mas todos aumentam o tônus vagal sobre o nó sinusal e o nó atrioventricular, independentemente da via, e causam bradicardia, bloqueio e síncope. Aqui a bradicardia de 46 bpm, as pausas sinusais e as síncopes, sem droga cronotrópica negativa que as explique (o negativo que importa), indicam doença do nó sinusal, e somar um anticolinesterásico pode precipitar pausa longa. A memantina, antagonista do receptor NMDA, não tem esse efeito e é aprovada para a fase moderada a grave, em que esta paciente está (MEEM 14, dependência para atividades instrumentais). A investigação cardiológica da disfunção sinusal com síncope segue em paralelo.",
+  "comentarios": {
+   "A": "Errada. Seria a primeira escolha sem contraindicação; dose baixa não elimina o efeito vagotônico.",
+   "B": "Errada. A via transdérmica reduz náusea e vômito, mas não o efeito colinérgico sobre o nó sinusal.",
+   "C": "Errada. Também é anticolinesterásico, com o mesmo risco de bradicardia e síncope.",
+   "D": "Correta. Não age no tônus vagal e está indicada na doença de Alzheimer moderada a grave."
+  },
+  "para_levar": "Antes de iniciar anticolinesterásico, olhe o ECG: bradicardia, bloqueio ou síncope inexplicada contraindicam a classe inteira, qualquer que seja a via; na fase moderada, a memantina é a alternativa.",
+  "referencias": "Recomendações do Departamento Científico de Neurologia Cognitiva e do Envelhecimento da ABN para o tratamento da doença de Alzheimer, Dement Neuropsychol 2022; NICE NG97 Dementia, 2018 (atualizado).",
+  "tags": [
+   "Demências (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "S1 q44: a comorbidade que contraindica a droga de primeira linha (agora a bradicardia contra o anticolinesterásico)"
+ },
+ {
+  "id": "R01-NEU-04",
+  "simulado": "R01",
+  "area": "Neurologia",
+  "titulo": "Etilista com vertigem e ataxia: impulso cefálico normal e desvio vertical apontam infarto cerebelar, e não Wernicke",
+  "arma": "Rótulo verdadeiro",
+  "comando": "diagnóstico",
+  "nivel": "difícil",
+  "enunciado": "Homem de 57 anos, etilista de cerca de 15 doses por dia, hipertenso e com fibrilação atrial sem anticoagulação, é trazido de um bar por vertigem rotatória súbita e contínua há 5 horas, vômitos e incapacidade de ficar de pé. Está alerta e orientado, responde com coerência. Alcoolemia 40 mg/dL, glicemia 104 mg/dL. Movimentos oculares sem limitação em nenhuma direção. Nistagmo horizontal que bate para a direita no olhar à direita e para a esquerda no olhar à esquerda; impulso cefálico sem sacada corretiva para ambos os lados; desvio vertical de um olho ao teste de cobertura alternada. Dismetria apendicular à direita. Força e sensibilidade normais. PA 178 x 100 mmHg. O diagnóstico mais provável é:",
+  "alternativas": {
+   "A": "Encefalopatia de Wernicke",
+   "B": "Infarto cerebelar",
+   "C": "Intoxicação alcoólica aguda",
+   "D": "Neurite vestibular"
+  },
+  "gabarito": "B",
+  "armadilha": "A",
+  "dado_decisivo": "impulso cefálico sem sacada corretiva para ambos os lados",
+  "resolucao": "Etilista pesado com ataxia e nistagmo leva direto a Wernicke, e o etilismo é verdadeiro: ele merece tiamina. Mas a encefalopatia de Wernicke se apresenta com confusão mental, oftalmoparesia (sobretudo do reto lateral) e ataxia de marcha, de instalação subaguda, e não com vertigem súbita e contínua num paciente alerta, sem limitação ocular e com dismetria de um lado só. A síndrome vestibular aguda se lê pelo HINTS: impulso cefálico normal, nistagmo que muda de direção com o olhar e desvio vertical (skew) são os três sinais centrais, e qualquer um basta. Com fibrilação atrial sem anticoagulação e dismetria à direita, é infarto cerebelar até prova em contrário, que pede RM com difusão e vigilância de edema e hidrocefalia. A alcoolemia de 40 mg/dL não explica nada.",
+  "comentarios": {
+   "A": "Errada. Daria confusão e oftalmoparesia, de instalação subaguda; aqui o paciente está alerta, com movimentos oculares completos e déficit unilateral.",
+   "B": "Correta. HINTS central (impulso normal, nistagmo que muda de direção, desvio vertical), dismetria unilateral e fibrilação atrial apontam infarto cerebelar.",
+   "C": "Errada. Alcoolemia de 40 mg/dL não causa ataxia grave nem desvio vertical, e a intoxicação não produz dismetria de um lado só.",
+   "D": "Errada. Teria impulso cefálico com sacada corretiva para o lado afetado e nistagmo unidirecional, sem skew nem dismetria."
+  },
+  "para_levar": "No etilista com vertigem e ataxia, o rótulo de Wernicke não dispensa o HINTS: impulso cefálico normal, nistagmo que muda de direção ou desvio vertical indicam lesão central, e a fibrilação atrial pede pensar em infarto cerebelar.",
+  "referencias": "Kattah JC et al. HINTS to diagnose stroke in the acute vestibular syndrome. Stroke 2009; Edlow JA et al. Guidelines for reasonable and appropriate care in the emergency department (GRACE-3): acute dizziness and vertigo, Acad Emerg Med 2023; Galvin R et al. EFNS guidelines for Wernicke encephalopathy, 2010.",
+  "tags": [
+   "AVC Isquêmico (CM)",
+   "Vertigem (CM)",
+   "Encefalopatia de Wernicke (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "UERJ pouco explorado: AVC cerebelar no etilista (e S2 q47: HINTS contra o rótulo)"
+ },
+ {
+  "id": "R01-NEU-05",
+  "simulado": "R01",
+  "area": "Neurologia",
+  "titulo": "Parkinsonismo axial sem resposta à levodopa com quedas para trás no primeiro ano: paralisia supranuclear progressiva e o olhar vertical",
+  "arma": "Rótulo verdadeiro",
+  "comando": "achado esperado",
+  "nivel": "difícil",
+  "enunciado": "Homem de 69 anos foi diagnosticado há 2 anos com 'doença de Parkinson' e usa levodopa/benserazida 250 mg 4 vezes ao dia, sem melhora perceptível. A esposa relata quedas para trás desde o primeiro ano dos sintomas, várias com fratura de punho, além de fala arrastada, engasgos com líquidos e lentidão para ler o jornal. Exame: rigidez de pescoço e tronco maior que nos membros, sem tremor de repouso, face com olhar fixo e testa franzida, piscamento raro. Ao se sentar, deixa-se cair na cadeira. PA 128 x 80 mmHg deitado e 124 x 78 mmHg em pé. Controle urinário normal. O achado ao exame mais provável neste paciente é:",
+  "alternativas": {
+   "A": "Paralisia do olhar vertical para baixo",
+   "B": "Tremor de repouso assimétrico que melhora com a levodopa",
+   "C": "Estridor noturno com hipotensão ortostática grave",
+   "D": "Apraxia e mioclonia restritas a um membro superior"
+  },
+  "gabarito": "A",
+  "armadilha": "C",
+  "dado_decisivo": "quedas para trás desde o primeiro ano dos sintomas",
+  "resolucao": "O rótulo de doença de Parkinson é verdadeiro no sentido de que há parkinsonismo, mas os sinais de alerta mudam o diagnóstico: quedas no primeiro ano, rigidez axial maior que a apendicular, ausência de tremor, falta de resposta a doses plenas de levodopa, disfagia e disartria precoces. A face de espanto com testa franzida, o piscamento raro, a dificuldade para ler e o sentar desabando completam paralisia supranuclear progressiva (síndrome de Richardson). O achado que a define é a paralisia supranuclear do olhar vertical, sobretudo para baixo, de origem supranuclear: os movimentos voluntários e as sacadas falham, mas o reflexo oculocefálico, que usa vias do tronco, move os olhos. A atrofia multissistêmica também tem quedas e má resposta à levodopa, mas com disautonomia importante, ausente aqui (sem queda postural e com controle urinário normal).",
+  "comentarios": {
+   "A": "Correta. A paralisia supranuclear do olhar vertical, vencida pelo oculocefálico, é o achado central da paralisia supranuclear progressiva.",
+   "B": "Errada. É o achado da doença de Parkinson verdadeira; aqui não há tremor nem resposta à levodopa.",
+   "C": "Errada. Estridor e disautonomia grave apontam atrofia multissistêmica; a pressão não cai em pé e a micção é normal.",
+   "D": "Errada. Apraxia e mioclonia unilaterais sugerem degeneração corticobasal, que é assimétrica; este quadro é axial e simétrico."
+  },
+  "para_levar": "Parkinsonismo com quedas no primeiro ano, rigidez axial e má resposta à levodopa: procure a paralisia do olhar vertical para baixo, vencida pelo oculocefálico, que define a paralisia supranuclear progressiva.",
+  "referencias": "Höglinger GU et al. Clinical diagnosis of progressive supranuclear palsy: the Movement Disorder Society criteria. Mov Disord 2017; Postuma RB et al. MDS clinical diagnostic criteria for Parkinson's disease, 2015.",
+  "tags": [
+   "Distúrbios do Movimento (CM)",
+   "Doença de Parkinson (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "UERJ pouco explorado: paralisia supranuclear progressiva, com achado esperado (rótulo de Parkinson)"
+ }
+]
