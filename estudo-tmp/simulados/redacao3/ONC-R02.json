@@ -1,0 +1,95 @@
+[
+ {
+  "id": "R02-ONC-01",
+  "simulado": "R02",
+  "area": "Emergência e UTI",
+  "titulo": "Asma grave intubada com acidose respiratória e auto-PEEP alta: reduzir a frequência e aceitar hipercapnia",
+  "arma": "Rótulo verdadeiro",
+  "comando": "conduta",
+  "nivel": "extremamente difícil",
+  "enunciado": "Mulher de 29 anos, com asma grave, foi intubada há 1 hora por exaustão. Recebe salbutamol, ipratrópio, metilprednisolona e sulfato de magnésio. Ventilação controlada a volume: volume corrente 450 mL (7 mL/kg de peso predito), frequência 26 irpm, fluxo inspiratório 60 L/min, PEEP 5 cmH2O, FiO2 0,4. Pressão de pico 52 cmH2O, pressão de platô 33 cmH2O; na pausa expiratória, PEEP total de 17 cmH2O. A curva de fluxo mostra que o fluxo expiratório não chega a zero antes do ciclo seguinte. PA 92 x 58 mmHg, FC 124 bpm, SpO2 95%. Gasometria: pH 7,16, PaCO2 78 mmHg, PaO2 96 mmHg, bicarbonato 27 mEq/L. Murmúrio diminuído e simétrico, traqueia centrada. O ajuste mais adequado do ventilador é:",
+  "alternativas": {
+   "A": "Reduzir a frequência respiratória",
+   "B": "Aumentar a frequência respiratória",
+   "C": "Aumentar o volume corrente",
+   "D": "Reduzir o fluxo inspiratório"
+  },
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "o fluxo expiratório não chega a zero antes do ciclo seguinte",
+  "resolucao": "A acidose respiratória com PaCO2 de 78 mmHg é verdadeira e faz parecer lógico aumentar a ventilação minuto com mais frequência. Mas o problema é que o ar não sai: o fluxo expiratório não zera, a PEEP total é 12 cmH2O acima da programada e o platô passa de 30 cmH2O, o que define hiperinsuflação dinâmica, já com repercussão na pressão arterial. Mais frequência encurta o tempo expiratório e agrava o aprisionamento, a hipotensão e o risco de barotrauma. A estratégia é prolongar a expiração, sobretudo reduzindo a frequência (o maior determinante do tempo expiratório), aceitando a hipercapnia enquanto o pH se mantiver acima de cerca de 7,15 a 7,20 e a oxigenação estiver adequada. Reduzir o fluxo inspiratório alonga a inspiração e encurta a expiração, o contrário do que se quer.",
+  "comentarios": {
+   "A": "Correta. Hiperinsuflação dinâmica com platô alto: menos frequência para alongar a expiração, com hipercapnia permissiva.",
+   "B": "Errada. É a armadilha da acidose: encurta a expiração, aumenta a auto-PEEP e pode precipitar colapso circulatório.",
+   "C": "Errada. Mais volume com platô de 33 cmH2O aumenta o aprisionamento e o risco de barotrauma.",
+   "D": "Errada. Fluxo menor prolonga a inspiração e encurta o tempo expiratório; o certo seria fluxo mais alto."
+  },
+  "para_levar": "Na via aérea obstruída intubada, a acidose respiratória não se corrige com mais frequência: reduzir frequência e volume, alongar a expiração e aceitar hipercapnia.",
+  "referencias": "GINA 2026; III Consenso Brasileiro de Ventilação Mecânica e Diretrizes Brasileiras de Ventilação Mecânica AMIB/SBPT (2013); Leatherman J. Mechanical ventilation for severe asthma. Chest 2015.",
+  "tags": ["Ventilação Mecânica (CM)", "Asma - exacerbação (CM)"],
+  "sourceQuestionId": null,
+  "alvo": "S4 q34: hiperinsuflação dinâmica após intubar a via aérea obstruída; agora pelo ajuste do ventilador na asma"
+ },
+ {
+  "id": "R02-ONC-02",
+  "simulado": "R02",
+  "area": "Oncologia e paliativos",
+  "titulo": "Ruído de secreção e edema nos últimos dias de vida sob hipodermóclise: suspender o soro e cuidar da boca",
+  "arma": "Omissão",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 81 anos, com câncer de pâncreas metastático, está em cuidados de fim de vida no domicílio, acamada, dormindo a maior parte do dia e sem ingerir líquidos há 3 dias. A pedido da filha, que teme que a mãe 'morra de sede', a equipe iniciou há 2 dias hipodermóclise com 1.000 mL/dia de soro fisiológico. Hoje a filha está angustiada com um ruído borbulhante na garganta da mãe a cada respiração. A paciente está sonolenta, sem desconforto respiratório aparente, FR 22 irpm, com mucosa oral seca e crostas nos lábios, edema de membros inferiores 2+ e de mãos, e o ruído some parcialmente ao lateralizá-la. Usa morfina subcutânea em infusão contínua, com dor controlada. A conduta mais adequada é:",
+  "alternativas": {
+   "A": "Aspiração da orofaringe de 2/2 horas",
+   "B": "Aumentar a hipodermóclise para 1.500 mL",
+   "C": "Furosemida e manter a hipodermóclise",
+   "D": "Suspender o soro e fazer cuidado oral"
+  },
+  "gabarito": "D",
+  "armadilha": "C",
+  "dado_decisivo": "edema de membros inferiores 2+ e de mãos",
+  "resolucao": "O ruído de secreções nos últimos dias de vida vem de secreções que a paciente não consegue deglutir, e a hidratação artificial aumenta seu volume, assim como o edema que já aparece em membros e mãos. A furosemida parece resolver a sobrecarga sem abrir mão do soro, mas mantém a causa e acrescenta diurese num paciente acamado. Nos últimos dias, a sede e a boca seca não melhoram com volume parenteral: melhoram com cuidado oral frequente (umedecer a mucosa, hidratar os lábios). A conduta é suspender a hipodermóclise, reposicionar em decúbito lateral, cuidar da boca, considerar antimuscarínico e explicar à filha que o ruído não indica sofrimento nem afogamento. Aspiração frequente é desconfortável e estimula mais secreção.",
+  "comentarios": {
+   "A": "Errada. Aspiração repetida é invasiva, desconfortável e pouco eficaz para secreções baixas; fica para secreção de orofaringe acessível.",
+   "B": "Errada. Mais volume piora o ruído de secreção e o edema, e não alivia a sede no fim de vida.",
+   "C": "Errada. É a armadilha: trata o edema mantendo a causa, a hidratação artificial que já não tem benefício.",
+   "D": "Correta. Sobrecarga com ruído de secreção nos últimos dias: retirar o soro e trocar por cuidado oral, com explicação à família."
+  },
+  "para_levar": "Nos últimos dias de vida, hidratação artificial não alivia a sede e aumenta secreção e edema: o cuidado oral substitui o soro.",
+  "referencias": "NICE Guideline NG31: Care of dying adults in the last days of life (2015, atualizada 2017); Manual de Cuidados Paliativos da ANCP, 3ª ed. (2022).",
+  "tags": ["Cuidados Paliativos - Oncologia (CM)", "Cuidados Paliativos - Clínica Médica (CM)"],
+  "sourceQuestionId": null,
+  "alvo": "S4 q19: hidratação artificial nos últimos dias de vida, agora com o ruído de secreção e a furosemida como saída falsa"
+ },
+ {
+  "id": "R02-ONC-03",
+  "simulado": "R02",
+  "area": "Oncologia",
+  "titulo": "Histerectomia por mioma em quem teve NIC 3 tratada: manter o rastreamento da cúpula vaginal",
+  "arma": "Rótulo verdadeiro",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 52 anos, assintomática, comparece à consulta de rotina. Fez histerectomia total abdominal há 2 anos por miomatose uterina com sangramento, e o histopatológico do útero mostrou leiomiomas, com colo uterino sem neoplasia intraepitelial. Há 9 anos foi submetida a conização por lesão intraepitelial escamosa de alto grau (NIC 3), com margens livres, e teve dois controles citológicos normais depois disso. Vida sexual ativa, parceiro fixo. Nunca fumou. Quanto ao rastreamento do câncer do colo do útero, a conduta mais adequada é:",
+  "alternativas": {
+   "A": "Encerrar o rastreamento",
+   "B": "Manter rastreamento da cúpula vaginal",
+   "C": "Colposcopia anual da cúpula",
+   "D": "Rastrear só se houver sangramento"
+  },
+  "gabarito": "B",
+  "armadilha": "A",
+  "dado_decisivo": "conização por lesão intraepitelial escamosa de alto grau (NIC 3)",
+  "resolucao": "A histerectomia total por doença benigna, com colo sem neoplasia no histopatológico, é verdadeira e é justamente o cenário em que o rastreamento se encerra, o que torna essa resposta atraente. A regra, porém, tem uma condição: vale para quem não tem antecedente de lesão de alto grau. Quem teve NIC 2 ou 3 tratada mantém risco aumentado de neoplasia do trato genital inferior, incluindo a vagina, por cerca de 20 anos após o tratamento, mesmo com histerectomia posterior. Por isso a recomendação é manter o rastreamento da cúpula vaginal, no intervalo e com o método do programa, e não interromper. Colposcopia anual é investigação de exame alterado, e não rastreamento.",
+  "comentarios": {
+   "A": "Errada. É a armadilha: encerrar vale para histerectomia por doença benigna sem antecedente de lesão de alto grau.",
+   "B": "Correta. Antecedente de NIC 3 tratada mantém o rastreamento na cúpula vaginal, mesmo após histerectomia por mioma.",
+   "C": "Errada. Colposcopia é exame de investigação de resultado alterado, e não método de rastreamento periódico.",
+   "D": "Errada. Rastreamento é feito na assintomática; esperar sangramento é diagnóstico tardio."
+  },
+  "para_levar": "Histerectomia total por doença benigna encerra o rastreamento do colo, exceto em quem teve lesão de alto grau: essa mantém o rastreamento da cúpula vaginal.",
+  "referencias": "INCA: Diretrizes Brasileiras para o Rastreamento do Câncer do Colo do Útero (2016) e Diretrizes de rastreamento com teste de DNA-HPV (2024); ACS Cervical Cancer Screening Guideline (2020).",
+  "tags": ["Rastreamentos em Clínica Médica (CM)"],
+  "sourceQuestionId": null,
+  "alvo": "S3 q34: rastreamento após histerectomia, agora pela exceção (NIC 3 prévia) à regra de encerrar"
+ }
+]

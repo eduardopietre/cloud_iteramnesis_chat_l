@@ -26,7 +26,9 @@
   },
   "para_levar": "Löfgren completo é diagnóstico clínico de sarcoidose: sem biópsia e sem corticoide; biopsiar só quando o quadro sair do roteiro.",
   "referencias": "ATS Clinical Practice Guideline: Diagnosis and Detection of Sarcoidosis (Crouser et al., 2020); ERS Clinical Practice Guidelines on Treatment of Sarcoidosis (2021).",
-  "tags": ["Sarcoidose (CM)"],
+  "tags": [
+   "Sarcoidose (CM)"
+  ],
   "sourceQuestionId": null,
   "alvo": "S2 q15: Löfgren dispensa biópsia e corticoide; aqui o rótulo é o linfoma na irmã"
  },
@@ -57,7 +59,10 @@
   },
   "para_levar": "No nódulo de alta probabilidade, só um diagnóstico benigno específico afasta câncer; biópsia inespecífica não muda a indicação de ressecção.",
   "referencias": "ACCP Evaluation of Individuals With Pulmonary Nodules (Gould et al., 2013); BTS Guidelines for the Investigation and Management of Pulmonary Nodules (2015); NCCN NSCLC 2026.",
-  "tags": ["Nódulo Pulmonar (CM)", "Câncer de pulmão"],
+  "tags": [
+   "Nódulo Pulmonar (CM)",
+   "Câncer de pulmão"
+  ],
   "sourceQuestionId": null,
   "alvo": "S2 q71: nódulo de alta probabilidade vai à ressecção; aqui a biópsia negativa plantada no meio puxa para observar"
  },
@@ -88,7 +93,10 @@
   },
   "para_levar": "Na via aérea central, a curva depende de a lesão ser fixa ou variável: fixa achata as duas alças, onde quer que esteja; variável achata a inspiratória se extratorácica e a expiratória se intratorácica.",
   "referencias": "ERS/ATS Technical Standard on Interpretive Strategies for Routine Lung Function Tests (Stanojevic et al., 2022); Diretrizes para Testes de Função Pulmonar da SBPT (2002).",
-  "tags": ["Espirometria (CM)", "Fisiologia e Semiologia pulmonar (CM)"],
+  "tags": [
+   "Espirometria (CM)",
+   "Fisiologia e Semiologia pulmonar (CM)"
+  ],
   "sourceQuestionId": null,
   "alvo": "S2 q78: forma da curva fluxo-volume na obstrução central (fixa x variável), com rótulo de asma"
  },
@@ -103,23 +111,26 @@
   "enunciado": "Mulher de 56 anos, não tabagista, com artrite reumatoide soropositiva há 12 anos, em uso de metotrexato 20 mg/semana há 8 anos, refere dispneia progressiva aos esforços há 1 ano, com tosse seca. Ausculta com raros grasnidos expiratórios, sem estertores em velcro. Espirometria: VEF1 48% do previsto, CVF 61%, VEF1/CVF 0,58, sem resposta ao broncodilatador. Pletismografia: CPT 104% do previsto, VR 192% do previsto, VR/CPT 0,62. DLCO 82% do previsto. TC de alta resolução: atenuação em mosaico, que se acentua na expiração, com espessamento de paredes brônquicas, sem reticulado, sem faveolamento e sem vidro fosco. O distúrbio funcional e a lesão mais provável são:",
   "alternativas": {
    "A": "Misto / pneumopatia intersticial e bronquiolite",
-   "B": "Restritivo / pneumonite por metotrexato",
-   "C": "Obstrutivo com aprisionamento / bronquiolite constritiva",
+   "B": "Obstrutivo com aprisionamento / bronquiolite constritiva",
+   "C": "Restritivo / pneumonite por metotrexato",
    "D": "Restritivo / pneumopatia intersticial da artrite"
   },
-  "gabarito": "C",
+  "gabarito": "B",
   "armadilha": "D",
   "dado_decisivo": "CPT 104% do previsto",
   "resolucao": "A artrite reumatoide e o metotrexato são verdadeiros e puxam para doença intersticial ou pneumonite por droga, e a CVF reduzida parece confirmar restrição. Mas CVF baixa só indica restrição se a capacidade pulmonar total estiver reduzida, e aqui ela é normal, enquanto o volume residual quase dobrou: a CVF caiu porque o ar ficou aprisionado, e não porque o pulmão encolheu. Com VEF1/CVF baixa, sem resposta ao broncodilatador, DLCO preservada e mosaico que se acentua na expiração sem reticulado, o quadro é obstrução de pequenas vias aéreas por bronquiolite constritiva, manifestação conhecida da artrite reumatoide. A pneumonite por metotrexato seria aguda ou subaguda, com vidro fosco, febre e DLCO baixa. Distúrbio misto exigiria CPT abaixo do limite inferior.",
   "comentarios": {
    "A": "Errada. Distúrbio misto exige obstrução com CPT reduzida; a CPT é normal e não há reticulado.",
-   "B": "Errada. Pneumonite por metotrexato é subaguda, com vidro fosco e DLCO baixa; a CPT normal afasta restrição.",
-   "C": "Correta. CPT normal com VR muito alto e mosaico expiratório: obstrução com aprisionamento por bronquiolite constritiva.",
+   "B": "Correta. CPT normal com VR muito alto e mosaico expiratório: obstrução com aprisionamento por bronquiolite constritiva.",
+   "C": "Errada. Pneumonite por metotrexato é subaguda, com vidro fosco e DLCO baixa; a CPT normal afasta restrição.",
    "D": "Errada. É a armadilha da artrite: a pneumopatia intersticial reduziria CPT e DLCO e mostraria reticulado."
   },
   "para_levar": "CVF baixa com VEF1/CVF baixa não é distúrbio misto até a pletismografia mostrar CPT reduzida; CPT normal com VR alto é aprisionamento aéreo.",
   "referencias": "ERS/ATS Technical Standard on Interpretive Strategies for Routine Lung Function Tests (Stanojevic et al., 2022); Diretrizes da SBPT para Testes de Função Pulmonar (2002).",
-  "tags": ["Espirometria (CM)", "Distúrbios Ventilatórios Obstrutivos (CM)"],
+  "tags": [
+   "Espirometria (CM)",
+   "Distúrbios Ventilatórios Obstrutivos (CM)"
+  ],
   "sourceQuestionId": null,
   "alvo": "S3 q22: CVF reduzida por aprisionamento aéreo (CPT normal, VR alto), e não restrição pela droga ou pela doença de base"
  }

@@ -10,23 +10,26 @@
   "enunciado": "Homem de 72 anos, com adenocarcinoma de próstata resistente à castração e metástases ósseas difusas, está internado em cuidados paliativos. Usa morfina oral de liberação imediata, 20 mg de 4/4 horas, com resgates, há 3 semanas. Nos últimos 4 dias, a dor ficou mais difusa e passou a doer ao simples toque do lençol; a família pediu aumento da dose, e o resgate foi usado 7 vezes ontem. Está sonolento, com abalos musculares rápidos e involuntários nos membros e alucinações visuais à noite. Pupilas mióticas, FR 14 irpm. Creatinina 3,6 mg/dL (era 1,4 há 1 mês), por obstrução ureteral bilateral pela doença. Cálcio corrigido 9,4 mg/dL, sódio 138 mEq/L, glicemia 104 mg/dL. Em relação à analgesia, a conduta mais adequada é:",
   "alternativas": {
    "A": "Aumentar a morfina em 50%",
-   "B": "Manter a morfina e associar haloperidol",
-   "C": "Trocar a morfina por fentanil",
+   "B": "Trocar a morfina por fentanil",
+   "C": "Manter a morfina e associar haloperidol",
    "D": "Trocar a morfina por codeína"
   },
-  "gabarito": "C",
+  "gabarito": "B",
   "armadilha": "A",
   "dado_decisivo": "Creatinina 3,6 mg/dL (era 1,4 há 1 mês)",
   "resolucao": "A progressão óssea é verdadeira e a dor aumentou, o que faz o aumento da dose parecer óbvio. Mas a dor nova é alodinia e hiperalgesia difusa, acompanhada de mioclonias, sonolência e alucinações, e surgiu junto com a queda abrupta da função renal. A morfina é metabolizada em morfina-3-glicuronídeo e morfina-6-glicuronídeo, eliminados pelo rim; acumulados, causam neurotoxicidade induzida por opioide, que inclui hiperalgesia, e aumentar a dose piora o quadro. A conduta é a rotação para um opioide sem metabólitos ativos de eliminação renal, como fentanil (ou metadona), com redução da dose equianalgésica, além de hidratação se compatível com os objetivos de cuidado. Cálcio e sódio normais afastam outras causas metabólicas do delirium.",
   "comentarios": {
    "A": "Errada. É a armadilha: a dor que piora é hiperalgesia pelo acúmulo de metabólitos, e mais morfina agrava a neurotoxicidade.",
-   "B": "Errada. O haloperidol trataria só as alucinações e manteria a causa, que é a morfina acumulada.",
-   "C": "Correta. Neurotoxicidade por opioide com insuficiência renal: rotação para opioide sem metabólitos renais ativos, como o fentanil.",
+   "B": "Correta. Neurotoxicidade por opioide com insuficiência renal: rotação para opioide sem metabólitos renais ativos, como o fentanil.",
+   "C": "Errada. O haloperidol trataria só as alucinações e manteria a causa, que é a morfina acumulada.",
    "D": "Errada. A codeína também gera metabólitos que se acumulam na doença renal e é opioide fraco; não serve nem para a dor nem para a função renal."
   },
   "para_levar": "Dor que piora com mioclonias, alodinia e sonolência após queda da função renal é neurotoxicidade por metabólitos da morfina: trocar para fentanil ou metadona, e não subir a dose.",
   "referencias": "ESMO Clinical Practice Guidelines: Management of Cancer Pain in Adult Patients (2018); Manual de Cuidados Paliativos da ANCP, 3ª ed. (2022).",
-  "tags": ["Paliativos Oncologia: Dor (CM)", "Cuidados Paliativos - Oncologia (CM)"],
+  "tags": [
+   "Paliativos Oncologia: Dor (CM)",
+   "Cuidados Paliativos - Oncologia (CM)"
+  ],
   "sourceQuestionId": null,
   "alvo": "S4 q24: morfina contraindicada na doença renal (metabólitos), com fentanil como alternativa; agora pela neurotoxicidade"
  },
@@ -43,7 +46,7 @@
    "A": "Radioterapia isolada em dose única",
    "B": "Hormonioterapia e reavaliação em 2 semanas",
    "C": "Radioterapia fracionada isolada",
-   "D": "Descompressão e estabilização, seguidas de radioterapia"
+   "D": "Estabilização cirúrgica e depois radioterapia"
   },
   "gabarito": "D",
   "armadilha": "C",
@@ -57,7 +60,10 @@
   },
   "para_levar": "Na compressão medular metastática, a instabilidade (SINS 13 ou mais) pede cirurgia antes da radioterapia, por mais radiossensível que seja o tumor.",
   "referencias": "NICE Guideline NG234: Spinal metastases and metastatic spinal cord compression (2023); Fisher CG et al. SINS (Spine 2010); Patchell RA et al. Lancet 2005.",
-  "tags": ["Compressão Medular Oncológica (CM)", "Emergências Oncológicas (CM)"],
+  "tags": [
+   "Compressão Medular Oncológica (CM)",
+   "Emergências Oncológicas (CM)"
+  ],
   "sourceQuestionId": null,
   "alvo": "S3 q42: instabilidade pelo SINS define cirurgia; aqui o tumor radiossensível puxa para radioterapia isolada"
  },
@@ -88,7 +94,9 @@
   },
   "para_levar": "Valor preditivo depende da prevalência: na alta prevalência, o teste negativo pouco sensível não exclui; a probabilidade após o negativo é falsos negativos sobre todos os negativos.",
   "referencias": "Fletcher RH, Fletcher SW, Fletcher GS. Epidemiologia Clínica: elementos essenciais, 6ª ed. (2021); IDSA Clinical Practice Guidelines on Seasonal Influenza (2018).",
-  "tags": ["Estudos Epidemiológicos"],
+  "tags": [
+   "Estudos Epidemiológicos"
+  ],
   "sourceQuestionId": null,
   "alvo": "Qualificador (padrão dele): valor preditivo x sensibilidade, agora pelo resultado negativo em alta prevalência"
  }

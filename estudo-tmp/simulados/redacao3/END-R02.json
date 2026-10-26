@@ -1,0 +1,205 @@
+[
+ {
+  "id": "R02-END-01",
+  "simulado": "R02",
+  "area": "Endocrinologia",
+  "titulo": "Cushing ACTH-dependente com adenoma de 12 mm na ressonância e testes dinâmicos concordantes: cirurgia sem cateterismo de seios petrosos",
+  "arma": "Limiar",
+  "comando": "conduta",
+  "nivel": "extremamente difícil",
+  "enunciado": "Mulher de 38 anos, com ganho de 14 kg em 18 meses, estrias violáceas largas no abdome, equimoses fáceis, fraqueza para subir escadas, hipertensão e diabetes recentes. Cortisol salivar ao final da noite elevado em duas amostras; cortisol livre urinário três vezes o limite superior; ACTH plasmático de 62 pg/mL (10 a 60) em duas dosagens. Potássio 3,9 mEq/L. Supressão com 8 mg de dexametasona: queda de 72% do cortisol; teste com desmopressina com elevação de 55% do ACTH. Ressonância de sela com gadolínio: lesão hipocaptante de 12 mm à direita, sem invasão do seio cavernoso. TC de tórax sem nódulos. O próximo passo mais adequado é:",
+  "alternativas": {
+   "A": "TC de tórax, abdome e pelve",
+   "B": "Cateterismo de seios petrosos inferiores",
+   "C": "Cirurgia transesfenoidal",
+   "D": "PET-CT com análogo de somatostatina"
+  },
+  "gabarito": "C",
+  "armadilha": "B",
+  "dado_decisivo": "lesão hipocaptante de 12 mm",
+  "resolucao": "Quem aprendeu que o hipercortisolismo ACTH-dependente pede cateterismo de seios petrosos tende a pedi-lo sempre. O cateterismo existe para separar a origem hipofisária da ectópica quando a imagem não é conclusiva: ressonância normal ou com lesão pequena (abaixo de 6 a 10 mm), que pode ser incidentaloma hipofisário, presente em até 10% da população. Aqui há adenoma de 12 mm, acima do limiar de 10 mm, em mulher jovem, com ACTH apenas discretamente elevado, potássio normal e testes dinâmicos concordantes com origem hipofisária (supressão com dose alta e resposta à desmopressina). Nessa combinação, a probabilidade de doença de Cushing é muito alta e o consenso recomenda ir direto à cirurgia transesfenoidal, sem procedimento invasivo adicional. Imagem para tumor ectópico seria o caminho com hipocalemia intensa, ACTH muito alto e testes discordantes.",
+  "comentarios": {
+   "A": "Errada. A busca de tumor ectópico entra com ACTH muito alto, hipocalemia e ausência de supressão; aqui tudo aponta para a hipófise.",
+   "B": "Errada. É a armadilha: o cateterismo é necessário quando a lesão é menor que 6 a 10 mm ou ausente, ou quando os testes discordam.",
+   "C": "Correta. Adenoma de 12 mm com testes dinâmicos concordantes dispensa o cateterismo e vai à cirurgia.",
+   "D": "Errada. A cintilografia com análogo de somatostatina procura tumor neuroendócrino ectópico, que não é a hipótese aqui."
+  },
+  "para_levar": "No Cushing ACTH-dependente, adenoma hipofisário de 10 mm ou mais com testes dinâmicos concordantes vai direto à cirurgia; o cateterismo de seios petrosos fica para lesão pequena, ausente ou testes discordantes.",
+  "referencias": "Fleseriu M et al. Consensus on diagnosis and management of Cushing's disease: a guideline update, Pituitary Society. Lancet Diabetes Endocrinol 2021.",
+  "tags": [
+   "Cushing (CM)",
+   "Hipófise (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "S1 q35: Cushing ACTH-dependente e o lugar do cateterismo de seios petrosos; agora o limiar de 10 mm o dispensa"
+ },
+ {
+  "id": "R02-END-02",
+  "simulado": "R02",
+  "area": "Endocrinologia",
+  "titulo": "Hipercalcemia com hipofosfatemia, hipercalciúria e PTH suprimido em usuária de biotina em dose alta: repetir o PTH sem o suplemento",
+  "arma": "Droga a deduzir",
+  "comando": "próximo exame",
+  "nivel": "extremamente difícil",
+  "enunciado": "Mulher de 57 anos com dois episódios de cólica renal por cálculo de oxalato de cálcio nos últimos 3 anos. Há 4 meses toma uma cápsula manipulada de 10 mg ao dia, prescrita pela dermatologista para unhas quebradiças e queda de cabelo. Assintomática no momento, sem emagrecimento, sem tosse, sem dor óssea. Cálcio total 11,3 mg/dL (8,5 a 10,2), albumina 4,1 g/dL, fósforo 2,2 mg/dL (2,5 a 4,5), PTH 9 pg/mL (15 a 65, imunoensaio quimioluminescente), 25-hidroxivitamina D 34 ng/mL, PTHrP indetectável, eletroforese de proteínas normal, creatinina 0,8 mg/dL, calciúria de 24 horas 340 mg. Radiografia de tórax normal. O próximo exame mais adequado é:",
+  "alternativas": {
+   "A": "1,25-di-hidroxivitamina D sérica",
+   "B": "Cintilografia óssea de corpo inteiro",
+   "C": "TC de tórax, abdome e pelve",
+   "D": "PTH após suspender o suplemento"
+  },
+  "gabarito": "D",
+  "armadilha": "A",
+  "dado_decisivo": "uma cápsula manipulada de 10 mg ao dia",
+  "resolucao": "Hipercalcemia com PTH abaixo do normal costuma ser lida como independente de PTH, e o passo seguinte seria procurar produção de calcitriol por granuloma ou linfoma. Mas o resto do quadro é de hiperparatireoidismo: litíase recorrente, fósforo baixo (o PTH reduz a reabsorção tubular de fosfato) e calciúria alta, sem neoplasia nem granulomatose aparentes. O suplemento de 10 mg ao dia para cabelo e unhas é biotina em dose cerca de 300 vezes a necessidade diária, e ela interfere nos imunoensaios baseados em estreptavidina e biotina: nos ensaios em sanduíche, como o do PTH e o do TSH, o resultado sai falsamente baixo. O exame que resolve é repetir o PTH depois de suspender a biotina por pelo menos 48 a 72 horas, ou por outro método; espera-se PTH elevado ou inapropriadamente normal.",
+  "comentarios": {
+   "A": "Errada. É a armadilha: o calcitriol seria o passo na hipercalcemia com PTH realmente suprimido, como em sarcoidose e linfoma, que costumam ter fósforo normal ou alto.",
+   "B": "Errada. Procuraria metástases ósseas, sem suporte clínico, com PTHrP indetectável e eletroforese normal.",
+   "C": "Errada. Rastreio de neoplasia oculta antes de afastar um artefato de laboratório é exagero de porte.",
+   "D": "Correta. Biotina em dose alta reduz falsamente o PTH no imunoensaio em sanduíche; suspender e repetir desfaz o artefato."
+  },
+  "para_levar": "Biotina em dose alta falseia imunoensaios: ensaios em sanduíche (PTH, TSH, troponina) saem falsamente baixos e os competitivos (T4 livre, T3) falsamente altos. Suspenda por 48 a 72 horas e repita.",
+  "referencias": "FDA Safety Communication: biotin interference with laboratory tests (2017, atualizada 2019); Bilezikian JP et al. Evaluation and Management of Primary Hyperparathyroidism: Fifth International Workshop. J Bone Miner Res 2022.",
+  "tags": [
+   "Hiperparatireoidismo Primário (Clínica Médica) (CM)",
+   "Hipercalcemias (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "S2 q12: biotina falseando imunoensaio; agora no PTH, que cai em vez de subir"
+ },
+ {
+  "id": "R02-END-03",
+  "simulado": "R02",
+  "area": "Endocrinologia",
+  "titulo": "Insuficiência adrenal primária com candidíase mucocutânea desde a infância e hipoparatireoidismo: síndrome poliglandular tipo 1 (gene AIRE)",
+  "arma": "Rótulo verdadeiro",
+  "comando": "etiologia",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 19 anos é internada por vômitos, hipotensão (PA 82 x 50 mmHg) e escurecimento da pele e das gengivas nos últimos meses. Sódio 126 mEq/L, potássio 6,1 mEq/L, glicemia 64 mg/dL, cortisol às 8 horas 1,9 µg/dL e ACTH 840 pg/mL. Anticorpo anti-21-hidroxilase positivo. Tem hipotireoidismo autoimune desde os 16 anos. Teve tetania aos 9 anos e usa calcitriol e carbonato de cálcio desde então. Refere candidíase oral e ungueal de repetição desde os 4 anos. Ao exame, hipoplasia do esmalte dentário e distrofia ungueal. A alteração de base mais provável é:",
+  "alternativas": {
+   "A": "Mutação no gene AIRE",
+   "B": "Haplótipo HLA-DR3 e DR4",
+   "C": "Mutação no gene FOXP3",
+   "D": "Mutação no gene MEN1"
+  },
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "candidíase oral e ungueal de repetição desde os 4 anos",
+  "resolucao": "Adrenalite autoimune com hipotireoidismo autoimune em mulher jovem é o perfil da síndrome poliglandular tipo 2, associada ao HLA-DR3 e DR4, e é o que se reconhece primeiro. O que muda o diagnóstico é a cronologia e os componentes: candidíase mucocutânea crônica desde os 4 anos, hipoparatireoidismo aos 9 anos e insuficiência adrenal na adolescência formam a tríade da síndrome poliglandular tipo 1 (APECED), com início na infância, herança autossômica recessiva e mutação no gene AIRE, que regula a tolerância central no timo. A displasia do esmalte e das unhas reforça. Na tipo 2 não há candidíase crônica nem hipoparatireoidismo, e o início costuma ser na vida adulta. A distinção importa para o rastreio dos irmãos e para vigiar hepatite autoimune, má absorção e falência ovariana.",
+  "comentarios": {
+   "A": "Correta. Candidíase mucocutânea na infância, hipoparatireoidismo e Addison definem a síndrome poliglandular tipo 1, por mutação no AIRE.",
+   "B": "Errada. É a armadilha: o HLA-DR3/DR4 é da síndrome tipo 2 (Addison com tireoidite ou diabetes tipo 1), sem candidíase crônica nem hipoparatireoidismo.",
+   "C": "Errada. A mutação no FOXP3 causa a síndrome IPEX, em meninos, com enteropatia grave e diabetes neonatal.",
+   "D": "Errada. A mutação no MEN1 causa hiperparatireoidismo, e não hipoparatireoidismo, com tumores hipofisários e pancreáticos."
+  },
+  "para_levar": "Candidíase mucocutânea crônica na infância, hipoparatireoidismo e Addison: síndrome poliglandular tipo 1, gene AIRE. Addison com tireoidite ou diabetes tipo 1 no adulto: tipo 2, HLA-DR3/DR4.",
+  "referencias": "Husebye ES, Anderson MS, Kämpe O. Autoimmune Polyendocrine Syndromes. N Engl J Med 2018; Williams Textbook of Endocrinology, 14ª ed. (2020).",
+  "tags": [
+   "Insuficiência Adrenal (CM)",
+   "Hipoparatireoidismo (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "S1 q25: síndrome poliglandular decidida pelo componente presente ou ausente; agora o que está presente leva ao tipo 1"
+ },
+ {
+  "id": "R02-END-04",
+  "simulado": "R02",
+  "area": "Endocrinologia",
+  "titulo": "Hiperparatireoidismo primário assintomático em homem de 46 anos sem outro critério: a idade abaixo de 50 indica a paratireoidectomia",
+  "arma": "Limiar",
+  "comando": "conduta",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 46 anos, assintomático, teve hipercalcemia detectada em exame de rotina. Cálcio total 10,9 mg/dL (8,5 a 10,2), albumina 4,3 g/dL, PTH 104 pg/mL (15 a 65), fósforo 2,6 mg/dL, 25-hidroxivitamina D 38 ng/mL, creatinina 0,9 mg/dL (TFG estimada 98 mL/min/1,73 m²), calciúria de 24 horas 210 mg. Ultrassonografia renal sem cálculos ou nefrocalcinose. Densitometria: T-escore de -1,9 na coluna lombar, -1,6 no colo do fêmur e -1,7 no terço distal do rádio; avaliação de fratura vertebral sem fraturas. Não usa lítio nem tiazídico. Deseja evitar cirurgia se possível. A conduta mais adequada é:",
+  "alternativas": {
+   "A": "Seguimento anual com cálcio e densitometria",
+   "B": "Paratireoidectomia",
+   "C": "Cinacalcete e seguimento",
+   "D": "Alendronato e seguimento"
+  },
+  "gabarito": "B",
+  "armadilha": "A",
+  "dado_decisivo": "Homem de 46 anos",
+  "resolucao": "O paciente não tem sintomas, o cálcio está menos de 1 mg/dL acima do limite, a densitometria não atinge osteoporose, a função renal é normal, a calciúria está abaixo de 250 mg em homem e não há cálculos. Quem confere só esses itens conclui pelo seguimento. Mas o critério de idade vale sozinho: abaixo de 50 anos o hiperparatireoidismo primário assintomático tem indicação cirúrgica, porque a chance de progressão ao longo de décadas é alta e a cirurgia é curativa. A paratireoidectomia, com localização pré-operatória, é a conduta. Cinacalcete reduz o cálcio sem melhorar a massa óssea, e o alendronato protege o osso sem tratar a doença; ambos ficam para quem não pode ou não aceita operar depois de esclarecido.",
+  "comentarios": {
+   "A": "Errada. É a armadilha: o seguimento serve ao assintomático sem nenhum critério, e idade abaixo de 50 anos é um critério.",
+   "B": "Correta. Idade abaixo de 50 anos indica cirurgia no hiperparatireoidismo primário, mesmo assintomático.",
+   "C": "Errada. Seria a opção para quem tem indicação mas não pode operar; não cura e não melhora a densidade óssea.",
+   "D": "Errada. O bisfosfonato entra na osteoporose de quem não opera; aqui a densitometria não é de osteoporose e a doença tem tratamento curativo."
+  },
+  "para_levar": "Hiperparatireoidismo primário assintomático vai à cirurgia com qualquer um: cálcio 1 mg/dL acima do limite, T-escore até -2,5 em qualquer sítio (inclusive rádio) ou fratura vertebral, TFG abaixo de 60, calciúria acima de 250 a 300 mg ou litíase, ou idade abaixo de 50 anos.",
+  "referencias": "Bilezikian JP et al. Evaluation and Management of Primary Hyperparathyroidism: Summary Statement and Guidelines from the Fifth International Workshop. J Bone Miner Res 2022.",
+  "tags": [
+   "Hiperparatireoidismo Primário (Clínica Médica) (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "S2 q33 e S1 q10: critério cirúrgico do hiperparatireoidismo; agora o critério que sobra é a idade"
+ },
+ {
+  "id": "R02-END-05",
+  "simulado": "R02",
+  "area": "Endocrinologia",
+  "titulo": "Hipocalcemia após paratireoidectomia por osteíte fibrosa com fósforo baixo e PTH normal: fome óssea, cálcio venoso e calcitriol",
+  "arma": "Grade X / Y",
+  "comando": "diagnóstico",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 54 anos, com hiperparatireoidismo primário grave (cálcio 12,8 mg/dL, PTH 1.480 pg/mL, fosfatase alcalina 1.120 U/L) e lesões líticas nos ossos longos compatíveis com tumores marrons, foi submetida à retirada de adenoma de paratireoide de 4 g, com as demais glândulas normais. No terceiro dia de pós-operatório, refere parestesias periorais e nas mãos, com sinal de Chvostek presente. Cálcio total 7,1 mg/dL (albumina 3,9 g/dL), fósforo 1,8 mg/dL (2,5 a 4,5), magnésio 1,5 mg/dL (1,7 a 2,4), PTH 58 pg/mL (15 a 65), creatinina 0,8 mg/dL. O diagnóstico e a conduta mais adequados são, respectivamente:",
+  "alternativas": {
+   "A": "Hipoparatireoidismo / calcitriol isolado",
+   "B": "Hipomagnesemia / sulfato de magnésio isolado",
+   "C": "Fome óssea / cálcio venoso e calcitriol",
+   "D": "Fome óssea / fosfato venoso e cálcio"
+  },
+  "gabarito": "C",
+  "armadilha": "B",
+  "dado_decisivo": "PTH 58 pg/mL",
+  "resolucao": "O magnésio baixo atrai como causa, mas 1,5 mg/dL não costuma bloquear a secreção de PTH, que só falha com magnésio bem mais baixo, e o PTH aqui é normal. O PTH presente afasta o hipoparatireoidismo pós-operatório. Hipocalcemia com fósforo também baixo após a retirada de um PTH muito elevado, em paciente com doença óssea grave e fosfatase alcalina alta, é a fome óssea: o osso desmineralizado capta avidamente cálcio, fósforo e magnésio quando o estímulo do PTH cessa. No hipoparatireoidismo, ao contrário, o fósforo sobe. O tratamento é cálcio venoso para a hipocalcemia sintomática, calcitriol para aumentar a absorção intestinal e reposição de magnésio associada; o fosfato venoso deve ser evitado, porque precipita com o cálcio e agrava a hipocalcemia.",
+  "comentarios": {
+   "A": "Errada. O hipoparatireoidismo teria PTH baixo ou indetectável e fósforo alto; aqui o PTH é 58 pg/mL e o fósforo é baixo.",
+   "B": "Errada. É a armadilha: a hipomagnesemia é leve, contribui e deve ser corrigida, mas não explica o quadro, e magnésio isolado não basta.",
+   "C": "Correta. Fome óssea (fósforo baixo e PTH presente após retirada de PTH muito alto) pede cálcio venoso e calcitriol, com magnésio associado.",
+   "D": "Errada. O diagnóstico está certo, mas fosfato venoso precipita com o cálcio e piora a hipocalcemia."
+  },
+  "para_levar": "Hipocalcemia pós-paratireoidectomia: fósforo baixo e PTH presente é fome óssea (cálcio venoso e calcitriol); fósforo alto e PTH baixo é hipoparatireoidismo.",
+  "referencias": "Witteveen JE et al. Hungry bone syndrome: still a challenge in the post-operative management of primary hyperparathyroidism. Eur J Endocrinol 2013; Bilezikian JP et al. Fifth International Workshop on Primary Hyperparathyroidism (2022).",
+  "tags": [
+   "Hipocalcemias (CM)",
+   "Hiperparatireoidismo Primário (Clínica Médica) (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "S2 q63: fome óssea contra hipomagnesemia e hipoparatireoidismo; agora após paratireoidectomia, com a conduta na grade"
+ },
+ {
+  "id": "R02-END-06",
+  "simulado": "R02",
+  "area": "Endocrinologia",
+  "titulo": "Estado hiperosmolar hiperglicêmico após a reposição inicial, com sódio corrigido acima de 160: solução salina a 0,45% e insulina contínua",
+  "arma": "Grade X / Y",
+  "comando": "conduta",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 74 anos, com diabetes tipo 2 e demência leve, chega com 5 dias de poliúria, sede e confusão progressiva. Na admissão, PA 88 x 50 mmHg e FC 122 bpm; recebeu 2.000 mL de solução salina a 0,9% em 2 horas. Agora, PA 126 x 74 mmHg, FC 96 bpm, diurese de 60 mL/h, sem sinais de congestão. Glicemia 880 mg/dL, sódio medido de 148 mEq/L, potássio 4,4 mEq/L, osmolalidade efetiva 345 mOsm/kg, pH 7,34, bicarbonato 21 mEq/L, cetonemia negativa, creatinina 2,0 mg/dL. A solução venosa e a insulina mais adequadas neste momento são, respectivamente:",
+  "alternativas": {
+   "A": "Salina a 0,9% / insulina contínua",
+   "B": "Salina a 0,9% / insulina só abaixo de 300",
+   "C": "Glicosado a 5% / insulina contínua",
+   "D": "Salina a 0,45% / insulina contínua"
+  },
+  "gabarito": "D",
+  "armadilha": "A",
+  "dado_decisivo": "sódio medido de 148 mEq/L",
+  "resolucao": "Quem fixou que no estado hiperosmolar o volume isotônico vem antes de tudo tende a manter a salina a 0,9%. Essa regra vale para a fase de choque, já resolvida: a pressão normalizou e a diurese voltou. Na fase seguinte, a escolha do fluido depende do sódio corrigido para a glicemia, que aqui é de cerca de 160 a 166 mEq/L (148 mais 1,6 a 2,4 para cada 100 mg/dL acima de 100), indicando grande déficit de água livre. Com o paciente estável e o sódio corrigido alto, troca-se para salina a 0,45%. O potássio de 4,4 mEq/L permite iniciar a insulina contínua em dose baixa, com reposição de potássio no soro; quando a glicemia chegar perto de 300 mg/dL, acrescenta-se glicose. A queda da osmolalidade deve ser gradual, para evitar edema cerebral.",
+  "comentarios": {
+   "A": "Errada. É a armadilha: a salina a 0,9% é o fluido da fase de hipotensão; estável e com sódio corrigido alto, ela mantém a hipernatremia.",
+   "B": "Errada. Repete o erro do fluido e ainda adia a insulina sem motivo, com potássio adequado.",
+   "C": "Errada. Glicose entra quando a glicemia se aproxima de 300 mg/dL, e não com 880 mg/dL.",
+   "D": "Correta. Estabilizado e com sódio corrigido acima de 160, salina a 0,45% com insulina contínua em dose baixa."
+  },
+  "para_levar": "Estado hiperosmolar: salina a 0,9% enquanto houver instabilidade; depois, sódio corrigido normal ou alto pede salina a 0,45%, e baixo mantém a 0,9%. Insulina com potássio acima de 3,3.",
+  "referencias": "Umpierrez GE et al. Hyperglycemic Crises in Adults With Diabetes: A Consensus Report. Diabetes Care 2024; Diretriz da Sociedade Brasileira de Diabetes (2024).",
+  "tags": [
+   "Estado Hipersomolar Hiperglicêmico (CM)",
+   "Emergências Hiperglicêmicas (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "S3 q68: fluido no estado hiperosmolar; agora a fase seguinte, em que o sódio corrigido troca a solução"
+ }
+]
