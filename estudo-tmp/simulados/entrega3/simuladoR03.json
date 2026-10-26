@@ -1,0 +1,1796 @@
+[
+ {
+  "id": "R03-HEM-02",
+  "simulado": "R03",
+  "area": "Hematologia",
+  "titulo": "Plasmocitoma vertebral com medula abaixo de 10% e inventário radiográfico normal: estadiar com PET-CT ou RM antes de chamar de solitário",
+  "arma": "Negativo no meio",
+  "comando": "próximo exame",
+  "nivel": "difícil",
+  "enunciado": "Homem de 59 anos, hipertenso em uso de anlodipino, refere lombalgia mecânica há 3 meses, sem perda de peso e sem déficit neurológico. A RM da coluna toracolombar mostra lesão lítica única no corpo vertebral de T11, com componente de partes moles e sem compressão do canal. A biópsia guiada por TC revela infiltrado de plasmócitos monotípicos kappa. Hb 13,6 g/dL, cálcio 9,3 mg/dL, creatinina 0,9 mg/dL. Eletroforese de proteínas com pico de 0,5 g/dL, imunofixação IgG kappa, relação kappa/lambda das cadeias livres de 2,8. O inventário radiográfico do esqueleto (crânio, ossos longos, bacia e coluna) não mostra outras lesões. Aspirado e biópsia de crista ilíaca: plasmócitos clonais em 5% por citometria de fluxo. O radioterapeuta já agendou o planejamento. O próximo passo mais adequado é:",
+  "alternativas": {
+   "A": "PET-CT com FDG de corpo inteiro",
+   "B": "Cintilografia óssea com tecnécio",
+   "C": "Indução com bortezomibe e transplante autólogo",
+   "D": "Radioterapia local em dose curativa"
+  },
+  "gabarito": "A",
+  "armadilha": "D",
+  "dado_decisivo": "O inventário radiográfico do esqueleto (crânio, ossos longos, bacia e coluna) não mostra outras lesões",
+  "resolucao": "Lesão única com plasmócitos clonais na biópsia e medula com menos de 10% de plasmócitos clonais, sem anemia, hipercalcemia ou lesão renal, é plasmocitoma solitário com envolvimento medular mínimo, e a radioterapia local é o tratamento. A armadilha está no momento: o inventário radiográfico só detecta lesão lítica quando boa parte do osso trabecular já se perdeu e não é mais aceito para estadiar plasmocitoma. Cerca de um terço dos plasmocitomas aparentemente solitários tem outras lesões quando estudados por PET-CT ou RM de corpo inteiro (ou de coluna e pelve), e duas ou mais lesões transformam o caso em mieloma, com tratamento sistêmico. Por isso o IMWG exige imagem sensível antes de rotular como solitário. A cintilografia óssea depende de atividade osteoblástica, que o mieloma suprime, e subestima as lesões. A indução de mieloma seria precipitada com medula de 5% e lesão única ainda não confirmada.",
+  "comentarios": {
+   "A": "Correta. Antes de chamar a lesão de solitária, o estadiamento exige imagem sensível (PET-CT ou RM), porque o inventário radiográfico perde lesões e um terço desses casos já é mieloma.",
+   "B": "Errada. A cintilografia detecta atividade osteoblástica, ausente nas lesões puramente líticas do mieloma, e por isso subestima a doença.",
+   "C": "Errada. Seria a conduta no mieloma múltiplo (plasmócitos clonais de 10% ou mais com evento definidor, ou duas lesões focais na RM); aqui a medula tem 5% e só há uma lesão conhecida.",
+   "D": "Errada. É a armadilha: seria a conduta depois de a PET-CT ou a RM confirmarem lesão única; tratar só T11 com outra lesão oculta deixa um mieloma sem tratamento sistêmico."
+  },
+  "para_levar": "Plasmocitoma solitário só se diagnostica depois de PET-CT ou RM sem outras lesões; o inventário radiográfico normal não basta, e medula abaixo de 10% não dispensa a imagem sensível.",
+  "referencias": "Caers J et al. Diagnosis, treatment, and response assessment in solitary plasmacytoma: updated recommendations from the IMWG. Lancet Oncol 2018; Rajkumar SV. Multiple myeloma: 2024 update. Am J Hematol.",
+  "tags": [
+   "Mieloma Múltiplo e Outras Discrasias Plasmocitárias (CM)",
+   "Mieloma Múltiplo (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "S3 q11 (plasmocitoma com plasmócitos medulares abaixo de 10%): outro ângulo, o estadiamento por imagem sensível que precede a radioterapia",
+  "_arquivo": "HEM-R03.json",
+  "numero": 1
+ },
+ {
+  "id": "R03-CAR-06",
+  "simulado": "R03",
+  "area": "Cardiologia",
+  "titulo": "Takotsubo com hipotensão por obstrução dinâmica da via de saída do VE: volume e betabloqueador, e não inotrópico",
+  "arma": "Rótulo verdadeiro",
+  "comando": "conduta",
+  "nivel": "extremamente difícil",
+  "enunciado": "Mulher de 71 anos, hipertensa em uso de hidroclorotiazida, chega à emergência com dor torácica opressiva iniciada 1 hora após receber a notícia da morte do neto. ECG: supradesnivelamento do segmento ST de V2 a V5. A coronariografia de emergência mostrou placas de 30% na descendente anterior, sem lesão obstrutiva nem trombo, e a ventriculografia, acinesia dos segmentos médios e apicais com hipercinesia basal. Duas horas depois, na unidade coronariana: PA 78 x 50 mmHg, FC 114 bpm, extremidades frias, sonolenta, pulmões limpos à ausculta, sopro sistólico 3+/6 novo na borda esternal esquerda. Lactato 3,6 mmol/L, troponina I 2,4 ng/mL. Ecocardiograma à beira do leito: FE de 35%, gradiente intraventricular de 80 mmHg com movimento sistólico anterior da mitral, insuficiência mitral moderada e veia cava inferior de 12 mm com colapso inspiratório. A conduta mais adequada neste momento é:",
+  "alternativas": {
+   "A": "Angioplastia da descendente anterior",
+   "B": "Expansão volêmica e betabloqueador de curta ação",
+   "C": "Nitroglicerina venosa e furosemida",
+   "D": "Dobutamina em infusão contínua"
+  },
+  "gabarito": "B",
+  "armadilha": "D",
+  "dado_decisivo": "gradiente intraventricular de 80 mmHg com movimento sistólico anterior da mitral",
+  "resolucao": "Hipotensão, extremidades frias, lactato alto e FE de 35% formam choque cardiogênico verdadeiro, e o reflexo é o inotrópico. Mas na síndrome de Takotsubo a base hipercinética pode criar obstrução dinâmica da via de saída do ventrículo esquerdo, com movimento sistólico anterior da mitral e insuficiência mitral, e esse é o mecanismo do choque desta paciente. Nesse caso a dobutamina aumenta a contratilidade basal e a frequência, agrava o gradiente e pode piorar o choque; nitratos e diuréticos reduzem a pré-carga e também pioram a obstrução. O tratamento é encher o ventrículo (volume, já que os pulmões estão limpos e a veia cava está colapsada) e reduzir a hipercinesia basal com betabloqueador de curta ação, como o esmolol, usando vasoconstritor puro (fenilefrina) se a pressão não responder, e suporte mecânico se refratário. O tiazídico em uso contribui para a hipovolemia relativa.",
+  "comentarios": {
+   "A": "Errada. Seria a conduta no infarto anterior com oclusão da descendente; a coronariografia não mostrou lesão obstrutiva.",
+   "B": "Correta. Volume e betabloqueador de curta ação reduzem a obstrução dinâmica da via de saída, que é a causa da hipotensão.",
+   "C": "Errada. Seria a conduta no Takotsubo com edema pulmonar e sem obstrução; aqui os pulmões estão limpos e a queda da pré-carga piora o gradiente.",
+   "D": "Errada. É a armadilha do choque cardiogênico; inotrópico aumenta a hipercinesia basal e o gradiente na obstrução dinâmica."
+  },
+  "para_levar": "No Takotsubo com hipotensão, procure obstrução dinâmica da via de saída no eco: se houver, evite inotrópico, nitrato e diurético, e use volume, betabloqueador de curta ação e, se preciso, fenilefrina.",
+  "referencias": "Ghadri JR et al. International Expert Consensus Document on Takotsubo Syndrome (Part II): Diagnostic Workup, Outcome, and Management. Eur Heart J 2018; Lyon AR et al. Current state of knowledge on Takotsubo syndrome: a Position Statement from the HFA/ESC. Eur J Heart Fail 2016; 2023 ESC Guidelines for the management of acute coronary syndromes.",
+  "tags": [
+   "Cardiomiopatias (CM)",
+   "Choque Cardiogênico (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "UERJ recorrente: Takotsubo (agora a complicação hemodinâmica que inverte a conduta do choque)",
+  "_arquivo": "CAR-R03.json",
+  "numero": 2
+ },
+ {
+  "id": "R03-ONC-01",
+  "simulado": "R03",
+  "area": "Oncologia",
+  "titulo": "Dispneia semanas após quimioterapia para tumor germinativo com corticoide antiemético e linfopenia: pneumonite por bleomicina pelo padrão subpleural basal, e não pneumocistose",
+  "arma": "Grade X / Y",
+  "comando": "diagnóstico",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 31 anos, tabagista de 10 maços-ano, foi submetido há 4 meses a orquiectomia por tumor de células germinativas não seminomatoso com metástases retroperitoneais e recebeu 3 ciclos de bleomicina, etoposídeo e cisplatina, o último há 6 semanas, com dexametasona como antiemético em todos os ciclos. Há 3 semanas tem tosse seca e dispneia progressiva, hoje aos pequenos esforços, sem febre. Exame: FR 24 irpm, FC 96 bpm, SatO2 93% em repouso e 85% ao caminhar, estertores finos em ambas as bases. Leucócitos 6.800/mm³ (linfócitos 1.100/mm³), DHL 410 U/L (referência até 250); alfafetoproteína e beta-hCG normalizados. DLCO de 41% do previsto (antes da quimioterapia: 88%). TC de tórax: reticulação e opacidades em vidro fosco subpleurais, predominando nas bases, com bandas parenquimatosas, sem nódulos, sem cistos e sem derrame. O diagnóstico e a conduta mais adequada são, respectivamente:",
+  "alternativas": {
+   "A": "Pneumocistose / sulfametoxazol-trimetoprima",
+   "B": "Pneumonite por bleomicina / prednisona",
+   "C": "Metástases pulmonares / quimioterapia de resgate",
+   "D": "Tromboembolismo pulmonar / anticoagulação"
+  },
+  "gabarito": "B",
+  "armadilha": "A",
+  "dado_decisivo": "subpleurais, predominando nas bases",
+  "resolucao": "Corticoide repetido nos ciclos, linfopenia, DHL alta, dispneia com dessaturação ao esforço e vidro fosco formam o retrato da pneumocistose, e é para lá que o apressado vai. A distribuição desmente: a pneumocistose dá vidro fosco difuso, central e peri-hilar, com frequência poupando a periferia, enquanto a toxicidade pulmonar da bleomicina dá reticulação e vidro fosco subpleurais, de predomínio basal, com bandas parenquimatosas, exatamente o descrito. A queda da DLCO de 88% para 41% é o marcador funcional mais sensível dessa toxicidade, e tabagismo e dose cumulativa aumentam o risco. Os marcadores normalizados e a ausência de nódulos afastam progressão tumoral. A conduta é não reexpor à bleomicina e iniciar prednisona em torno de 1 mg/kg com redução lenta, e esse paciente passa a ter restrição de oxigênio em fração alta e de volume em futuras anestesias, inclusive na linfadenectomia retroperitoneal.",
+  "comentarios": {
+   "A": "Errada. É a armadilha do corticoide e da DHL; seria o diagnóstico com vidro fosco difuso peri-hilar poupando a periferia, e não com reticulação subpleural basal e DLCO despencando depois da bleomicina.",
+   "B": "Correta. Reticulação e vidro fosco subpleurais basais, estertores em bases e DLCO em queda após bleomicina definem a pneumonite, tratada com corticoide e sem reexposição.",
+   "C": "Errada. Seria a resposta com nódulos pulmonares e marcadores em ascensão; aqui não há nódulos e alfafetoproteína e beta-hCG normalizaram.",
+   "D": "Errada. A cisplatina aumenta o risco de trombose, mas tromboembolismo não explica estertores, reticulação basal e queda progressiva da difusão."
+  },
+  "para_levar": "Dispneia com estertores em bases, reticulação subpleural basal e queda da DLCO após bleomicina é pneumonite pela droga: suspender para sempre, corticoide, e cuidado com oxigênio em fração alta em anestesias futuras.",
+  "referencias": "NCCN Testicular Cancer (2025); Harrison's Principles of Internal Medicine, 21ª ed. (2022), cap. Testicular Cancer e Pulmonary Toxicity of Chemotherapy; ATS/ERS, revisão de pneumopatia induzida por drogas (2022).",
+  "tags": [
+   "Neoplasias e Esquemas Quimioterápicos (CM)",
+   "Doença Pulmonar Intersticial (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "UERJ recorrente: toxicidade de quimioterápico a deduzir (bleomicina no tumor germinativo) + S4 q62 (toxicidade de terapia oncológica)",
+  "_arquivo": "ONC-R03.json",
+  "numero": 3
+ },
+ {
+  "id": "R03-NEU-03",
+  "simulado": "R03",
+  "area": "Neurologia",
+  "titulo": "Tabagista rotulado como miastenia soronegativa, com boca seca e reflexos que surgem após contração: Lambert-Eaton e o incremento na ENMG",
+  "arma": "Rótulo verdadeiro",
+  "comando": "achado esperado",
+  "nivel": "difícil",
+  "enunciado": "Homem de 63 anos, tabagista de 50 maços-ano, encaminhado com diagnóstico de 'miastenia gravis soronegativa' por dificuldade para subir escadas e levantar-se da cadeira há 4 meses, com piora discreta no fim do dia e ptose leve bilateral. Refere boca seca intensa, constipação e disfunção erétil surgidas no mesmo período. Iniciou piridostigmina há 3 semanas, com melhora mínima. Anticorpos antirreceptor de acetilcolina e anti-MuSK negativos; CPK 140 U/L (referência até 190); TSH normal. Exame: força grau 4 menos em cinturas pélvica e escapular, musculatura ocular extrínseca livre, reflexos patelares e aquileus abolidos que surgem após 10 segundos de contração voluntária máxima do quadríceps, sensibilidade preservada. Radiografia de tórax: alargamento hilar direito. Na eletroneuromiografia, o achado esperado é:",
+  "alternativas": {
+   "A": "CMAP basal baixo, com incremento após esforço",
+   "B": "CMAP basal normal, com decremento a 3 Hz",
+   "C": "Potenciais motores breves e polifásicos",
+   "D": "Condução lenta, com bloqueio de condução"
+  },
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "reflexos patelares e aquileus abolidos que surgem após 10 segundos de contração voluntária máxima do quadríceps",
+  "resolucao": "O rótulo de miastenia soronegativa, a ptose e a piora no fim do dia levam ao padrão eletrofisiológico da miastenia. Três dados não cabem nela: fraqueza proximal de cinturas com ocular quase livre, disfunção autonômica colinérgica (boca seca, constipação, disfunção erétil) e reflexos abolidos que reaparecem após contração sustentada. Esse é o fenômeno de facilitação da síndrome de Lambert-Eaton, em que anticorpos contra canais de cálcio pré-sinápticos reduzem a liberação de acetilcolina, e o esforço acumula cálcio no terminal. Na ENMG, o potencial de ação muscular composto já é baixo em repouso e aumenta mais de 100% após 10 segundos de esforço ou com estimulação de alta frequência. No tabagista com alargamento hilar, a causa a buscar é carcinoma de pequenas células.",
+  "comentarios": {
+   "A": "Correta. Defeito pré-sináptico: potencial basal baixo que aumenta mais de 100% após esforço, o mesmo fenômeno dos reflexos que reaparecem.",
+   "B": "Errada. É o padrão da miastenia gravis pós-sináptica, com potencial basal normal; aqui a facilitação dos reflexos e a disautonomia apontam Lambert-Eaton.",
+   "C": "Errada. Seria o achado de miopatia inflamatória, com CPK alta e reflexos preservados; a CPK é normal.",
+   "D": "Errada. Seria o padrão de polirradiculoneuropatia desmielinizante, com alteração sensitiva e sem facilitação após esforço."
+  },
+  "para_levar": "Fraqueza proximal com reflexos que reaparecem após contração e boca seca é Lambert-Eaton: potencial basal baixo com incremento após esforço, e busca de carcinoma de pequenas células.",
+  "referencias": "Titulaer MJ et al. Lancet Neurol 2011 (Lambert-Eaton myasthenic syndrome: from clinical characteristics to therapeutic strategies); Harrison's Principles of Internal Medicine, 21ª ed. (2022), cap. Myasthenia Gravis and Other Diseases of the Neuromuscular Junction.",
+  "tags": [
+   "Síndromes Paraneoplásicas (CM)",
+   "Neuromuscular (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "S1 q24 (Lambert-Eaton): agora o rótulo de miastenia soronegativa e o padrão eletrofisiológico que separa pré de pós-sináptico",
+  "_arquivo": "NEU-R03.json",
+  "numero": 4
+ },
+ {
+  "id": "R03-END-04",
+  "simulado": "R03",
+  "area": "Endocrinologia",
+  "titulo": "Cetoacidose tratada com 6 L de salina, cetonemia abaixo de 0,6 e ânion gap normal com bicarbonato baixo: acidose hiperclorêmica e transição para insulina subcutânea",
+  "arma": "Grade X / Y",
+  "comando": "diagnóstico",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 24 anos, com diabetes tipo 1, foi admitido em cetoacidose após 2 dias sem insulina: glicemia 486 mg/dL, pH 7,08, bicarbonato 7 mEq/L, sódio 132 mEq/L, cloreto 96 mEq/L, beta-hidroxibutirato 6,2 mmol/L. Recebeu 6 L de solução salina a 0,9% nas primeiras 10 horas, insulina regular em infusão contínua e cloreto de potássio. Agora está lúcido, aceita dieta e não vomita. PA 124 x 78 mmHg, FC 88 bpm. Exames atuais: glicemia 212 mg/dL, pH venoso 7,31, bicarbonato 16 mEq/L, sódio 140 mEq/L, cloreto 116 mEq/L, potássio 4,0 mEq/L, beta-hidroxibutirato 0,4 mmol/L, lactato 1,1 mmol/L, creatinina 0,9 mg/dL. O residente propõe manter a insulina venosa até o bicarbonato passar de 18 mEq/L. O distúrbio que explica o bicarbonato baixo e a conduta mais adequada são, respectivamente:",
+  "alternativas": {
+   "A": "Cetoacidose persistente / manter insulina venosa",
+   "B": "Hiperclorêmica / insulina subcutânea com sobreposição",
+   "C": "Acidose láctica / mais volume e antibiótico",
+   "D": "Hiperclorêmica / bicarbonato e insulina venosa"
+  },
+  "gabarito": "B",
+  "armadilha": "A",
+  "dado_decisivo": "beta-hidroxibutirato 0,4 mmol/L",
+  "resolucao": "O bicarbonato de 16 mEq/L parece dizer que a cetoacidose não acabou, e a proposta do residente é manter a infusão até ele normalizar. O ânion gap atual é de 8 (140 menos 116 menos 16), e a cetonemia caiu para 0,4 mmol/L: os cetoânions foram metabolizados, e o que restou é acidose de ânion gap normal pelo cloreto da salina (6 L de solução com 154 mEq/L de cloreto) e pela perda urinária de cetoânions que seriam convertidos em bicarbonato. O consenso de crises hiperglicêmicas de 2024 define resolução pela cetonemia abaixo de 0,6 mmol/L com pH venoso de pelo menos 7,3, justamente para não prolongar a insulina venosa por causa da hipercloremia. Com o paciente comendo, a conduta é insulina basal subcutânea e manter a venosa por 1 a 2 horas de sobreposição; a hipercloremia se corrige sozinha, e soluções balanceadas evitam agravá-la se ainda for preciso volume.",
+  "comentarios": {
+   "A": "Errada. É a armadilha do bicarbonato: seria a conduta com cetonemia ainda alta e ânion gap aberto, mas aqui a cetonemia é de 0,4 mmol/L e o ânion gap é 8.",
+   "B": "Correta. Cetonemia abaixo de 0,6 com pH de 7,31 define resolução; o bicarbonato baixo com ânion gap normal é hipercloremia, e o paciente que come passa para insulina subcutânea com sobreposição.",
+   "C": "Errada. Seria considerada com lactato alto e ânion gap aberto, como na sepse; o lactato de 1,1 mmol/L e o ânion gap de 8 a afastam.",
+   "D": "Errada. Bicarbonato venoso não tem indicação na acidose hiperclorêmica leve com pH de 7,31, que se resolve com a função renal preservada."
+  },
+  "para_levar": "Na cetoacidose em tratamento, quem define a resolução é a cetonemia (abaixo de 0,6 mmol/L) com pH de pelo menos 7,3, e não o bicarbonato: bicarbonato baixo com ânion gap fechado após muita salina é hipercloremia.",
+  "referencias": "Umpierrez GE et al. Hyperglycemic crises in adults with diabetes: a consensus report (ADA, EASD, JBDS, AACE, DTS). Diabetes Care 2024; ADA Standards of Care in Diabetes 2026, seção 16.",
+  "tags": [
+   "Cetoacidose Diabética (CM)",
+   "Emergências Hiperglicêmicas (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "UERJ recorrente: fluidos na cetoacidose e hipercloremia pela salina; ânion gap calculado no meio do caso",
+  "_arquivo": "END-R03.json",
+  "numero": 5
+ },
+ {
+  "id": "R03-REU-03",
+  "simulado": "R03",
+  "area": "Reumatologia",
+  "titulo": "Lúpica em indução com corticoide, de origem rural, com meningite e bacteremia por Gram-negativo e infiltrado pulmonar: hiperinfecção por Strongyloides, e não lúpus ativo",
+  "arma": "Negativo no meio",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 29 anos, com nefrite lúpica classe IV diagnosticada há 6 semanas, recebeu pulsoterapia com metilprednisolona e está em prednisona 60 mg/dia e micofenolato 2 g/dia. Natural da zona rural do Vale do Jequitinhonha (MG), trabalhou descalça na lavoura até os 18 anos. Há 5 dias tem dor abdominal difusa, vômitos e diarreia; há 2 dias, tosse com escarro hemoptoico e dispneia; hoje febre de 39,2 °C, cefaleia e rigidez de nuca. PA 96 x 58 mmHg, FC 122 bpm, SpO2 de 89%. Leucócitos 18.400/mm³ com 0% de eosinófilos, Hb 9,8 g/dL, plaquetas 210.000/mm³, creatinina 1,1 mg/dL (era 2,0 no diagnóstico), C3 e C4 normais e anti-DNA que caiu de 1:640 para 1:40. TC de tórax com infiltrado alveolar bilateral. Líquor: 1.200 células/mm³, 90% de neutrófilos, Gram com bacilos Gram-negativos; hemoculturas com Escherichia coli. Além da antibioticoterapia, a conduta mais adequada é:",
+  "alternativas": {
+   "A": "Pulsoterapia com metilprednisolona",
+   "B": "Ivermectina e redução do corticoide",
+   "C": "Albendazol e manutenção do corticoide",
+   "D": "Ciclofosfamida e plasmaférese"
+  },
+  "gabarito": "B",
+  "armadilha": "A",
+  "dado_decisivo": "C3 e C4 normais e anti-DNA que caiu de 1:640 para 1:40",
+  "resolucao": "Infiltrado alveolar bilateral com escarro hemoptoico em lúpica recém-induzida puxa para hemorragia alveolar e nova pulsoterapia. Mas o lúpus está em resposta: complemento normalizado, anti-DNA em queda e creatinina melhorando, o que tira a atividade lúpica do centro. A sequência sintomas gastrointestinais, infiltrado pulmonar com hemoptise, bacteremia e meningite por Gram-negativo entérico em quem recebe corticoide em dose alta e viveu descalça em área endêmica é a hiperinfecção por Strongyloides stercoralis: as larvas atravessam a parede intestinal levando bactérias da luz. A eosinopenia não afasta, porque o corticoide suprime os eosinófilos e a maioria das hiperinfecções cursa sem eosinofilia. O tratamento é ivermectina (diária, até a negativação das pesquisas) com redução da imunossupressão o quanto possível, além do antibiótico para o Gram-negativo.",
+  "comentarios": {
+   "A": "Errada. Seria a conduta na hemorragia alveolar lúpica, mas o complemento normal e o anti-DNA em queda mostram lúpus em resposta, e mais corticoide alimenta a hiperinfecção.",
+   "B": "Correta. Hiperinfecção por Strongyloides com bacteremia e meningite por Gram-negativo entérico se trata com ivermectina e redução da imunossupressão.",
+   "C": "Errada. O albendazol é inferior à ivermectina na estrongiloidíase, e manter corticoide em dose alta perpetua a autoinfecção.",
+   "D": "Errada. Seria indução de nefrite refratária ou de vasculite com hemorragia alveolar; aqui a nefrite melhora e o quadro é infeccioso."
+  },
+  "para_levar": "Lúpica em corticoide em dose alta com quadro gastrointestinal, pulmonar e bacteremia ou meningite por Gram-negativo entérico é hiperinfecção por Strongyloides até prova em contrário; eosinopenia não afasta, e o tratamento é ivermectina com redução da imunossupressão.",
+  "referencias": "Mejia R, Nutman TB. Screening, prevention, and treatment for hyperinfection syndrome and disseminated infections caused by Strongyloides stercoralis, Curr Opin Infect Dis 2012; Henriquez-Camacho C et al. Ivermectin versus albendazole or thiabendazole for Strongyloides stercoralis infection, Cochrane 2016; Fanouriakis A et al. EULAR recommendations for the management of SLE, 2023 update.",
+  "tags": [
+   "Lúpus (CM)",
+   "Estrongiloidiase (CM)",
+   "Infecção em Imunossuprimido (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "UERJ recorrente: LES como cenário de outra doença (estrongiloidíase no corticoide); padrão do aluno de atribuir tudo à atividade lúpica (S1 q11, S1 q61)",
+  "_arquivo": "REU-R03.json",
+  "numero": 6
+ },
+ {
+  "id": "R03-INF-04",
+  "simulado": "R03",
+  "area": "Infectologia",
+  "titulo": "Leucoencefalopatia multifocal progressiva confirmada na aids sem TARV: iniciar a TARV logo, sem antiviral específico",
+  "arma": "Grade X / Y",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Homem de 45 anos recebeu há 3 semanas o diagnóstico de HIV, com CD4 de 48 células/mm³ e carga viral de 380.000 cópias/mL, e ainda não iniciou TARV. Há 6 semanas evolui com perda de força progressiva no dimídio esquerdo, dificuldade para enxergar à esquerda e fala arrastada, sem febre, sem cefaleia e sem rebaixamento de consciência. Ao exame, hemiparesia esquerda grau 4, hemianopsia homônima esquerda e disartria, sem rigidez de nuca. A sorologia IgG para toxoplasmose é reagente; antígeno criptocócico sérico negativo; teste rápido molecular para tuberculose no escarro não detectado. RM de crânio: lesões hiperintensas em T2 e FLAIR na substância branca subcortical parieto-occipital direita, envolvendo as fibras em U, sem realce pelo gadolínio e sem efeito de massa. Líquor: 3 células/mm³, proteína 52 mg/dL, glicose normal, VDRL não reagente e PCR para vírus JC positiva. O residente lembra que, na meningite criptocócica, a TARV é adiada pelo risco de síndrome inflamatória de reconstituição imune. Quanto ao início da TARV e ao tratamento antiviral específico, respectivamente, a conduta mais adequada é:",
+  "alternativas": {
+   "A": "Adiar por 4 a 6 semanas / cidofovir",
+   "B": "Adiar por 4 a 6 semanas / nenhum",
+   "C": "Iniciar em até 2 semanas / cidofovir",
+   "D": "Iniciar em até 2 semanas / nenhum"
+  },
+  "gabarito": "D",
+  "armadilha": "B",
+  "dado_decisivo": "PCR para vírus JC positiva",
+  "resolucao": "A lembrança da meningite criptocócica é verdadeira e puxa para adiar a TARV, e a sorologia reagente para toxoplasma tenta abrir outro caminho. Mas a RM mostra lesões de substância branca subcortical com fibras em U, sem realce e sem efeito de massa, o oposto da neurotoxoplasmose, e a PCR para vírus JC no líquor confirma leucoencefalopatia multifocal progressiva. Não existe antiviral eficaz contra o JC: cidofovir, citarabina e mefloquina não mostraram benefício. O único tratamento que muda o prognóstico é recuperar a imunidade, e por isso a TARV deve começar o quanto antes, sem a espera usada na criptococose e na meningite tuberculosa. A síndrome inflamatória de reconstituição imune pode ocorrer, mas é tratada se aparecer (corticoide quando há edema e efeito de massa), e não justifica adiar.",
+  "comentarios": {
+   "A": "Errada. Junta dois erros: o adiamento que vale para criptococose e meningite tuberculosa, e um antiviral sem eficácia contra o vírus JC.",
+   "B": "Errada. É a armadilha da reconstituição imune: o adiamento serve às infecções meníngeas, em que a inflamação no espaço fechado mata; na LEMP, adiar deixa a doença avançar sem tratamento.",
+   "C": "Errada. O momento está certo, mas cidofovir não tem benefício na LEMP e acrescenta nefrotoxicidade.",
+   "D": "Correta. LEMP confirmada por PCR para JC: TARV precoce é o tratamento, e não há antiviral específico."
+  },
+  "para_levar": "Na LEMP não há antiviral: o tratamento é a TARV, iniciada sem demora. Adiar a TARV é exceção das infecções meníngeas (criptococo e tuberculose).",
+  "referencias": "Ministério da Saúde, PCDT para Manejo da Infecção pelo HIV em Adultos (2024); NIH/CDC/IDSA Guidelines for Prevention and Treatment of Opportunistic Infections in Adults with HIV, Progressive Multifocal Leukoencephalopathy (atualização 2024).",
+  "tags": [
+   "NeuroAIDS (CM)",
+   "Outros Acometimentos Neurológicos no HIV (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "S3 q71 e S1 q28: depois de confirmar LEMP, o momento da TARV é o inverso do da criptococose",
+  "_arquivo": "INF-R03.json",
+  "numero": 7
+ },
+ {
+  "id": "R03-NEF-03",
+  "simulado": "R03",
+  "area": "Nefrologia",
+  "titulo": "Hipomagnesemia em quem recebeu cisplatina e tem ileostomia de alto débito: fração de excreção de magnésio baixa aponta perda intestinal",
+  "arma": "Limiar",
+  "comando": "etiologia",
+  "nivel": "difícil",
+  "enunciado": "Homem de 52 anos, tratado de tumor de testículo com 4 ciclos de cisplatina há 3 anos e em remissão, foi submetido a colectomia total com ileostomia por retocolite ulcerativa há 8 meses. O débito da ileostomia está entre 1,8 e 2,2 litros por dia. Há 2 semanas tem câimbras e parestesias periorais. Usa mesalazina; nega diurético, inibidor de bomba de prótons e álcool. PA 112 x 70 mmHg, FC 96 bpm, sinal de Trousseau positivo. Exames: Na 136 mEq/L, K 3,1 mEq/L, cálcio total 7,6 mg/dL (albumina 4,0 g/dL), Mg 0,9 mg/dL (1,7 a 2,4), PTH 18 pg/mL (15 a 65), creatinina 1,0 mg/dL. Na urina de 24 horas, magnésio de 6 mg, com fração de excreção de magnésio calculada em 0,8%. A causa mais provável da hipomagnesemia é:",
+  "alternativas": {
+   "A": "Síndrome de Gitelman de expressão tardia",
+   "B": "Toxicidade tubular pela mesalazina",
+   "C": "Tubulopatia residual pela cisplatina",
+   "D": "Perda intestinal pela ileostomia de alto débito"
+  },
+  "gabarito": "D",
+  "armadilha": "C",
+  "dado_decisivo": "fração de excreção de magnésio calculada em 0,8%",
+  "resolucao": "A cisplatina causa perda tubular de magnésio que pode persistir por anos, e a exposição é verdadeira, o que puxa para a tubulopatia. O que separa perda renal de perda extrarrenal é a resposta do rim: diante de hipomagnesemia, a fração de excreção de magnésio acima de 2 a 4% (ou mais de 10 a 30 mg na urina de 24 horas) indica perda renal, e abaixo de 2% indica rim conservando adequadamente, com a perda fora dele. Aqui a fração é de 0,8% e o magnésio urinário de 24 horas é de 6 mg, ou seja, o túbulo está poupando magnésio ao máximo. A fonte é a ileostomia de alto débito, que perde magnésio e também potássio. O PTH inapropriadamente normal com hipocalcemia é consequência da hipomagnesemia grave, que inibe a secreção e a ação do PTH, e corrige com a reposição de magnésio.",
+  "comentarios": {
+   "A": "Errada. Gitelman cursa com alcalose, hipocalciúria e perda renal de magnésio; a fração de excreção baixa exclui perda tubular.",
+   "B": "Errada. A mesalazina causa nefrite intersticial com queda de função, e não perda isolada de magnésio; a creatinina é normal e o rim está conservando magnésio.",
+   "C": "Errada. É a armadilha da exposição: a tubulopatia pela cisplatina daria fração de excreção de magnésio alta, e não 0,8%.",
+   "D": "Correta. Fração de excreção de magnésio abaixo de 2% com débito de ileostomia de 2 litros por dia indica perda gastrointestinal."
+  },
+  "para_levar": "Na hipomagnesemia, meça o magnésio urinário: fração de excreção abaixo de 2% é perda extrarrenal (intestino), acima de 2 a 4% é perda renal (cisplatina, aminoglicosídeo, diurético, Gitelman).",
+  "referencias": "Agus ZS. Mechanisms and causes of hypomagnesemia. Curr Opin Nephrol Hypertens 2016; Brenner and Rector's The Kidney, 11ª ed. (2020), cap. Disorders of Magnesium Balance.",
+  "tags": [
+   "Distúrbios de Fósforo e Magnésio (CM)",
+   "Distúrbios Hidroeletrolíticos (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "UERJ recorrente: hipomagnesemia; usar a urina para localizar a perda, e não a exposição mais chamativa",
+  "_arquivo": "NEF-R03.json",
+  "numero": 8
+ },
+ {
+  "id": "R03-HEM-03",
+  "simulado": "R03",
+  "area": "Hematologia",
+  "titulo": "Eritrocitose adquirida com eritropoetina alta, sem hipoxemia e anterior ao iSGLT2: procurar tumor secretor de EPO, e não o éxon 12 do JAK2",
+  "arma": "Rótulo verdadeiro",
+  "comando": "conduta",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 61 anos, diabético, ex-tabagista (parou há 8 anos), encaminhado por eritrocitose. Usa metformina e, há 4 meses, empagliflozina; não usa testosterona. Hemograma de 2 anos atrás: hematócrito de 43%. Assintomático, sem prurido aquagênico, sem eritromelalgia, sem roncos ou sonolência diurna. Exame: PA 138 x 84 mmHg, pletora facial discreta, baço e fígado não palpáveis, sem massas abdominais. Exames: Hb 19,1 g/dL, hematócrito 57%, leucócitos 7.200/mm³, plaquetas 248.000/mm³, eritropoetina sérica 54 mUI/mL (referência: 4 a 26), JAK2 V617F negativo, SpO2 96% em ar ambiente e carboxi-hemoglobina 1,1%. Ao revisar o prontuário, o residente encontra hematócrito de 52% num exame de rotina colhido um mês antes de iniciar a empagliflozina. Creatinina 0,9 mg/dL, urina tipo 1 sem hematúria. A conduta mais adequada agora é:",
+  "alternativas": {
+   "A": "Pesquisar mutação no éxon 12 do JAK2",
+   "B": "Medir a P50 da hemoglobina",
+   "C": "Tomografia de abdome com contraste",
+   "D": "Suspender a empagliflozina e repetir em 3 meses"
+  },
+  "gabarito": "C",
+  "armadilha": "D",
+  "dado_decisivo": "hematócrito de 52% num exame de rotina colhido um mês antes de iniciar a empagliflozina",
+  "resolucao": "Os inibidores de SGLT2 elevam de fato o hematócrito e a eritropoetina, e a droga recente é o rótulo verdadeiro que convida a suspender e esperar. Mas o efeito do iSGLT2 é de poucos pontos de hematócrito, e o exame anterior à droga já mostrava 52%, de modo que a eritrocitose começou antes dela. A eritropoetina alta separa os caminhos: na policitemia vera, inclusive na do éxon 12, a EPO está baixa ou suprimida, o que torna o éxon 12 inútil aqui. EPO alta exige procurar hipóxia (afastada: saturação normal, carboxi-hemoglobina normal, sem sintomas de apneia) ou produção inapropriada de EPO, e a de surgimento recente num homem de 61 anos aponta tumor: carcinoma de células renais, hepatocarcinoma, hemangioblastoma, leiomioma uterino ou feocromocitoma. A imagem abdominal com contraste é o passo. Hemoglobina de alta afinidade é congênita, com eritrocitose desde a juventude, e o hematócrito de 43% há 2 anos a afasta.",
+  "comentarios": {
+   "A": "Errada. O éxon 12 se pesquisa na suspeita de policitemia vera com V617F negativo, mas essa doença cursa com eritropoetina baixa, e aqui ela está alta.",
+   "B": "Errada. A P50 baixa identifica hemoglobina de alta afinidade, causa congênita com eritrocitose desde cedo; o hematócrito normal há 2 anos a afasta.",
+   "C": "Correta. Eritrocitose adquirida com eritropoetina alta e sem hipóxia é produção inapropriada de EPO até prova em contrário, e rim e fígado são os sítios a estudar primeiro.",
+   "D": "Errada. É a armadilha do rótulo verdadeiro: o iSGLT2 eleva pouco o hematócrito, e a eritrocitose já existia antes de ele ser iniciado."
+  },
+  "para_levar": "Eritrocitose com EPO alta e saturação normal, de surgimento recente, pede imagem abdominal atrás de tumor secretor de EPO; EPO alta afasta policitemia vera, inclusive a do éxon 12.",
+  "referencias": "McMullin MF et al. A guideline for the diagnosis and management of polycythaemia vera. A British Society for Haematology guideline. Br J Haematol 2019; Gangat N et al. Secondary polycythemia. Am J Hematol 2021.",
+  "tags": [
+   "Policitemia Vera (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "UERJ recorrente: policitemia vera x eritrocitose secundária pela eritropoetina, com o iSGLT2 como rótulo verdadeiro",
+  "_arquivo": "HEM-R03.json",
+  "numero": 9
+ },
+ {
+  "id": "R03-GAS-01",
+  "simulado": "R03",
+  "area": "Gastroenterologia e hepatologia",
+  "titulo": "HBsAg reagente com HBV-DNA indetectável, ALT alta e hipertensão portal em paciente da Amazônia: supressão pelo vírus delta e anti-HDV",
+  "arma": "Grade X / Y",
+  "comando": "próximo exame",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 38 anos, natural de Lábrea (AM), mora no Rio de Janeiro há 2 anos e é encaminhado por plaquetopenia achada em exame admissional. Sabe ter HBsAg reagente há 10 anos e foi rotulado em outro serviço como portador inativo, sem tratamento. Bebe duas latas de cerveja por semana, nega drogas injetáveis e transfusões; IMC de 24 kg/m², sem diabetes. Ao exame, PA 118/74 mmHg, aranhas vasculares no tórax e baço palpável a 3 cm do rebordo costal, sem ascite. Exames: ALT 96 U/L e AST 88 U/L (referência até 41), plaquetas 98.000/mm³, albumina 3,6 g/dL, INR 1,2, bilirrubina total 1,1 mg/dL. HBeAg não reagente, anti-HBe reagente, HBV-DNA indetectável (limite de detecção de 10 UI/mL), anti-HCV e anti-HIV não reagentes, ferritina 240 ng/mL. Elastografia hepática transitória: 14,8 kPa. Ultrassonografia: fígado de contornos irregulares, sem nódulos, veia porta pérvia. A interpretação do HBV-DNA indetectável e o próximo exame mais adequado são, respectivamente:",
+  "alternativas": {
+   "A": "Infecção crônica inativa / HBV-DNA em 6 meses",
+   "B": "Supressão pelo vírus delta / anti-HDV total",
+   "C": "Mutante pré-core / sequenciamento do HBV",
+   "D": "Hepatopatia não viral / FAN e IgG séricos"
+  },
+  "gabarito": "B",
+  "armadilha": "A",
+  "dado_decisivo": "natural de Lábrea (AM)",
+  "resolucao": "HBeAg negativo, anti-HBe reagente e HBV-DNA indetectável são verdadeiros e montam o perfil do portador inativo, rótulo que o paciente já traz; a tentação é só repetir a carga viral. Mas portador inativo tem ALT normal e fígado sem doença, e aqui há ALT duas vezes o limite, plaquetopenia, esplenomegalia, aranhas vasculares e elastografia de 14,8 kPa, ou seja, doença hepática avançada em atividade sem replicação do HBV que a explique. Lábrea, no sul do Amazonas, é área hiperendêmica de hepatite delta, e o HDV, que depende do HBsAg, suprime a replicação do HBV enquanto produz a hepatite mais agressiva das hepatites virais. Por isso o HBV-DNA indetectável, longe de tranquilizar, reforça a suspeita, e o exame seguinte é o anti-HDV total, com HDV-RNA se reagente. O mutante pré-core cursa com carga viral detectável, muitas vezes alta, e não indetectável.",
+  "comentarios": {
+   "A": "Errada. Seria a leitura certa com ALT normal e fígado sem fibrose; ALT elevada, plaquetopenia e esplenomegalia afastam a fase inativa.",
+   "B": "Correta. Paciente de área hiperendêmica, com doença hepática ativa e avançada e HBV-DNA suprimido: pesquisar coinfecção pelo HDV com anti-HDV total.",
+   "C": "Errada. O mutante pré-core explica HBeAg negativo com hepatite ativa, mas sempre com HBV-DNA detectável, geralmente acima de 2.000 UI/mL.",
+   "D": "Errada. Hepatite autoimune ou outra causa entraria após afastar o delta; num portador de HBsAg da Amazônia, o HDV vem antes."
+  },
+  "para_levar": "HBsAg reagente com HBV-DNA baixo ou indetectável e doença hepática ativa ou avançada pede anti-HDV, sobretudo em quem veio da Amazônia Ocidental: o HDV suprime o HBV e acelera a cirrose.",
+  "referencias": "EASL Clinical Practice Guidelines on hepatitis delta virus, 2023; Ministério da Saúde, PCDT Hepatite B e Coinfecções, 2023.",
+  "tags": [
+   "Hepatite B : Contágio e Fases da Infecção (CM)",
+   "Hepatites Virais (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "UERJ recorrente: hepatite B com HBV-DNA indetectável usado como distrator da fase da infecção",
+  "_arquivo": "GAS-R03.json",
+  "numero": 10
+ },
+ {
+  "id": "R03-END-03",
+  "simulado": "R03",
+  "area": "Endocrinologia",
+  "titulo": "Hiponatremia no oitavo dia após cirurgia hipofisária em paciente que saiu de alta com desmopressina: segunda fase da resposta trifásica, suspender a droga e restringir água",
+  "arma": "Cronologia",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 44 anos foi submetida a ressecção transesfenoidal de macroadenoma não funcionante de 2,8 cm. Nas primeiras 48 horas, teve diurese de 5,5 L/dia, osmolalidade urinária de 110 mOsm/kg e sódio de 147 mEq/L, e passou a receber desmopressina 0,1 mg via oral de 12 em 12 horas, mantida na prescrição de alta no 4º dia, com sódio de 140 mEq/L. Cortisol sérico às 8 horas no 3º dia: 17 µg/dL, sem glicocorticoide desde a cirurgia. No 8º dia, comparece ao retorno ambulatorial assintomática; bebe cerca de 3 L de água por dia, por orientação de manter-se hidratada. PA 118 x 74 mmHg, sem edema ou sinais de desidratação. Sódio 126 mEq/L, potássio 4,1 mEq/L, osmolalidade plasmática 262 mOsm/kg, osmolalidade urinária 540 mOsm/kg, sódio urinário 68 mEq/L, glicemia e TSH normais. A conduta mais adequada neste momento é:",
+  "alternativas": {
+   "A": "Manter a desmopressina e associar tolvaptana",
+   "B": "Solução salina a 3% em bolus",
+   "C": "Hidrocortisona em dose de estresse",
+   "D": "Suspender a desmopressina e restringir água"
+  },
+  "gabarito": "D",
+  "armadilha": "C",
+  "dado_decisivo": "No 8º dia, comparece ao retorno ambulatorial assintomática",
+  "resolucao": "Hiponatremia após cirurgia hipofisária faz pensar logo em insuficiência adrenal secundária, mas o cortisol de 17 µg/dL sem glicocorticoide exógeno afasta essa hipótese, e o TSH normal afasta hipotireoidismo. A cronologia é a da resposta trifásica: diabetes insípido nos primeiros dias pela lesão da haste, seguido entre o 5º e o 10º dia pela liberação descontrolada do ADH armazenado nos terminais neuro-hipofisários degenerados, que produz um quadro de secreção inapropriada. Nessa fase, a desmopressina que tratava o diabetes insípido soma antidiurese à antidiurese, e os 3 L de água ofertados completam a hiponatremia. A paciente está assintomática, então não há indicação de salina hipertônica: suspende-se a desmopressina, restringe-se a água e o sódio é acompanhado de perto, porque a fase seguinte pode ser diabetes insípido permanente.",
+  "comentarios": {
+   "A": "Errada. Manter a desmopressina perpetua a antidiurese; tolvaptana ficaria para secreção inapropriada persistente que falha à restrição, nunca associada a um agonista do mesmo receptor.",
+   "B": "Errada. Seria a conduta na hiponatremia com sintomas graves ou moderadamente graves; esta paciente está assintomática.",
+   "C": "Errada. É a armadilha do pós-operatório hipofisário: seria a conduta na insuficiência adrenal secundária, mas o cortisol de 17 µg/dL sem glicocorticoide a afasta.",
+   "D": "Correta. No 8º dia, a fase de secreção inapropriada somada à desmopressina e à água explica o quadro, e retirar a droga com restrição hídrica resolve sem risco."
+  },
+  "para_levar": "Após cirurgia hipofisária, diabetes insípido nos primeiros dias pode virar secreção inapropriada entre o 5º e o 10º dia: desmopressina prescrita na alta precisa ser revista nesse intervalo, com sódio de controle.",
+  "referencias": "Spasovski G et al. Clinical practice guideline on diagnosis and treatment of hyponatraemia. Eur J Endocrinol 2014; Fleseriu M et al. Hormonal replacement in hypopituitarism in adults: Endocrine Society Clinical Practice Guideline. J Clin Endocrinol Metab 2016.",
+  "tags": [
+   "SIADH (CM)",
+   "Hipófise (CM)",
+   "Diabetes Insipidus (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "S4 q50 (marcou polidipsia primária na hiponatremia do 8º dia): agora com a desmopressina de alta como agravante e o cortisol normal no meio",
+  "_arquivo": "END-R03.json",
+  "numero": 11
+ },
+ {
+  "id": "R03-CAR-01",
+  "simulado": "R03",
+  "area": "Cardiologia",
+  "titulo": "Insuficiência mitral crônica grave por prolapso do folheto posterior: sopro irradiado para a base, B3 e desdobramento amplo de B2, e não a ausculta da estenose aórtica",
+  "arma": "Grade X / Y",
+  "comando": "achado esperado",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 61 anos, hipertenso controlado com losartana, sem antecedente de febre reumática, procura atendimento por dispneia aos esforços moderados que piorou nos últimos 8 meses. Ecocardiograma feito há 4 anos, em exame admissional, descreveu prolapso do folheto posterior da valva mitral com refluxo discreto; não voltou ao cardiologista. Nega angina e síncope. Ao exame: PA 134 x 78 mmHg, FC 76 bpm, rítmico; pulso carotídeo de ascensão rápida e amplitude normal; ictus no 6º espaço intercostal, na linha axilar anterior, propulsivo, com duas polpas digitais. Sopro sistólico 4+/6, que começa junto com a B1 e se mantém em platô até a B2, mais audível na borda esternal esquerda alta e no foco aórtico, com irradiação para as carótidas; B1 hipofonética. ECG: ritmo sinusal, sem sobrecarga ventricular esquerda com strain. Além do sopro descrito, espera-se encontrar na ausculta, quanto à bulha extra e ao comportamento da B2, respectivamente:",
+  "alternativas": {
+   "A": "Quarta bulha / B2 única",
+   "B": "Terceira bulha / desdobramento amplo de B2",
+   "C": "Quarta bulha / desdobramento paradoxal de B2",
+   "D": "Estalido de abertura / B1 hiperfonética"
+  },
+  "gabarito": "B",
+  "armadilha": "A",
+  "dado_decisivo": "pulso carotídeo de ascensão rápida e amplitude normal",
+  "resolucao": "O sopro sistólico intenso no foco aórtico irradiado para as carótidas, num homem de 61 anos hipertenso, puxa para estenose aórtica calcificada grave, cuja ausculta tem quarta bulha e B2 única pelo desaparecimento do componente aórtico. Mas a estenose aórtica grave daria pulso de ascensão lenta e amplitude reduzida, e aqui o pulso carotídeo sobe rápido; o sopro é holossistólico em platô, começa junto com a B1 e a B1 é hipofonética, o que aponta para regurgitação mitral. O ecocardiograma antigo dá a chave da irradiação: no prolapso ou ruptura de cordoalha do folheto posterior o jato é excêntrico e dirigido para a frente, contra o septo interatrial junto à raiz da aorta, e o sopro se propaga para a base e as carótidas, imitando estenose aórtica. Na insuficiência mitral crônica grave, o grande volume que volta do átrio esquerdo na diástole produz terceira bulha mesmo sem disfunção sistólica, e o esvaziamento precoce do ventrículo esquerdo antecipa o componente aórtico, alargando o desdobramento da B2. O ictus desviado e propulsivo confirma a sobrecarga de volume.",
+  "comentarios": {
+   "A": "Errada. É a ausculta da estenose aórtica calcificada grave, que a irradiação para as carótidas sugere; o pulso de ascensão rápida e a B1 hipofonética derrubam essa hipótese.",
+   "B": "Correta. Insuficiência mitral crônica grave tem B3 por hiperfluxo diastólico e desdobramento amplo de B2 pelo fechamento aórtico precoce.",
+   "C": "Errada. Desdobramento paradoxal aparece com bloqueio de ramo esquerdo ou estenose aórtica grave com ventrículo hipertrófico; o ECG não mostra bloqueio nem sobrecarga com strain.",
+   "D": "Errada. Estalido de abertura e B1 hiperfonética são da estenose mitral reumática; aqui a B1 é hipofonética e não há história reumática."
+  },
+  "para_levar": "Na insuficiência mitral por prolapso ou ruptura do folheto posterior, o jato vai para a frente e o sopro irradia para a base e as carótidas; pulso de ascensão rápida, B1 hipofonética, B3 e desdobramento amplo de B2 separam da estenose aórtica.",
+  "referencias": "2020 ACC/AHA Guideline for the Management of Patients With Valvular Heart Disease; 2025 ESC/EACTS Guidelines for the management of valvular heart disease; Braunwald's Heart Disease, 12ª ed. (2022), cap. Physical Examination of the Heart and Circulation.",
+  "tags": [
+   "Insuficiência Mitral (CM)",
+   "Fisiologia e Semiologia Cardíaca (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "UERJ recorrente: IM crônica grave e sua ausculta + S3 q5 e S4 q65 (achado esperado, 0 de 8)",
+  "_arquivo": "CAR-R03.json",
+  "numero": 12
+ },
+ {
+  "id": "R03-PNE-04",
+  "simulado": "R03",
+  "area": "Pneumologia",
+  "titulo": "Silicose com lesão nova captante no PET-CT e linfonodos mediastinais captantes: escarro para tuberculose antes de estadiar como câncer",
+  "arma": "Rótulo verdadeiro",
+  "comando": "próximo exame",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 52 anos, jateador de areia em estaleiro por 22 anos, com silicose diagnosticada há 6 anos (nódulos centrolobulares e conglomerados nos lobos superiores), tabagista de 30 maços-ano, procura atendimento por tosse produtiva há 2 meses, perda de 5 kg e febre baixa vespertina. Nega hemoptise. Ao exame, FR 20 irpm, SpO2 94% em ar ambiente, emagrecido, sem linfonodos periféricos palpáveis. A TC comparada com a de 1 ano atrás mostra aumento de um conglomerado no lobo superior direito, que agora tem área de escavação central. O médico que o acompanha solicitou PET-CT, cujo laudo descreve \"lesão hipermetabólica no lobo superior direito (SUVmax 9,4) e linfonodos mediastinais e hilares hipermetabólicos (SUVmax 6,1), achados suspeitos de neoplasia\". Escarra com facilidade pela manhã, mas nenhuma amostra de escarro foi colhida até agora. Hemograma com leucócitos de 9.800/mm³ e PCR de 46 mg/L. O próximo exame mais adequado é:",
+  "alternativas": {
+   "A": "Ecobroncoscopia com punção linfonodal",
+   "B": "Teste rápido molecular e cultura no escarro",
+   "C": "Biópsia transtorácica guiada por TC",
+   "D": "Lobectomia superior direita diagnóstica"
+  },
+  "gabarito": "B",
+  "armadilha": "A",
+  "dado_decisivo": "nenhuma amostra de escarro foi colhida até agora",
+  "resolucao": "O laudo do PET-CT e o tabagismo são verdadeiros e puxam para câncer de pulmão já com linfonodos mediastinais, o que levaria à ecobroncoscopia para estadiar. Mas a captação de FDG não distingue neoplasia de inflamação granulomatosa: tuberculose ativa capta intensamente, e os conglomerados e linfonodos silicóticos também captam. O silicótico tem risco muito aumentado de tuberculose, e escavação nova num conglomerado, com febre vespertina e emagrecimento, é tuberculose até prova em contrário. Como ele escarra, o passo seguinte é o mais barato e o que muda tudo: teste rápido molecular e cultura no escarro (com teste de sensibilidade). Só se a investigação para tuberculose for negativa é que se parte para a amostragem invasiva da lesão ou dos linfonodos.",
+  "comentarios": {
+   "A": "Errada. É a armadilha do PET: a ecobroncoscopia estadiaria o mediastino num câncer de pulmão provável; aqui os linfonodos captantes cabem na silicose e na tuberculose, e o escarro ainda não foi examinado.",
+   "B": "Correta. Silicose com escavação nova, febre e emagrecimento num paciente que escarra: teste rápido molecular e cultura antes de qualquer exame invasivo.",
+   "C": "Errada. Seria o caminho num nódulo suspeito periférico sem suspeita infecciosa; aqui expõe a punção a um conglomerado escavado antes de afastar tuberculose pelo escarro.",
+   "D": "Errada. A ressecção sem diagnóstico se reserva ao nódulo de alta probabilidade de câncer sem alternativa plausível; na silicose com cavidade nova, a tuberculose é a hipótese a afastar primeiro."
+  },
+  "para_levar": "No silicótico, lesão nova ou escavada é tuberculose até prova em contrário, mesmo com PET captante: teste rápido molecular e cultura no escarro antes de broncoscopia, biópsia ou estadiamento.",
+  "referencias": "Ministério da Saúde. Manual de Recomendações para o Controle da Tuberculose no Brasil, 2ª ed. atualizada (2019); Diretrizes SBPT para pneumoconioses; ACCP Lung Cancer Guidelines (2013).",
+  "tags": [
+   "Tuberculose Pulmonar : Clínica e Diagnóstico (CM)",
+   "Outros temas em Pneumologia (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "S4 q27: na silicose, tuberculose antes de câncer; o PET captante como novo rótulo verdadeiro que puxa para o estadiamento invasivo",
+  "_arquivo": "PNE-R03.json",
+  "numero": 13
+ },
+ {
+  "id": "R03-REU-05",
+  "simulado": "R03",
+  "area": "Reumatologia",
+  "titulo": "Microangiopatia trombótica na esclerose sistêmica difusa precoce após prednisona: crise renal com ADAMTS13 só discretamente baixa, captopril e não plasmaférese",
+  "arma": "Grade X / Y",
+  "comando": "diagnóstico",
+  "nivel": "extremamente difícil",
+  "enunciado": "Mulher de 41 anos, com esclerose sistêmica cutânea difusa diagnosticada há 8 meses, escore de Rodnan de 28 e anti-RNA polimerase III reagente, iniciou há 4 semanas prednisona 40 mg/dia por miosite sobreposta. Há 3 dias tem cefaleia e visão turva. PA 186 x 112 mmHg (habitual de 100 x 60), FC 96 bpm, sem febre, sem alteração do nível de consciência. Hb 8,1 g/dL, plaquetas 72.000/mm³, esquizócitos em 3% das hemácias, LDH 980 U/L, haptoglobina indetectável, Coombs direto negativo. Creatinina 2,4 mg/dL (0,7 há 1 mês), proteinúria 1+ e hematúria discreta. Atividade da ADAMTS13 de 48% (referência: 60 a 130%). Fundo de olho com hemorragias em chama de vela e exsudatos algodonosos. O diagnóstico e o tratamento mais adequados são, respectivamente:",
+  "alternativas": {
+   "A": "Crise renal esclerodérmica / captopril em doses crescentes",
+   "B": "Púrpura trombocitopênica trombótica / plasmaférese",
+   "C": "Crise renal esclerodérmica / plasmaférese",
+   "D": "Púrpura trombocitopênica trombótica / captopril em doses crescentes"
+  },
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "Atividade da ADAMTS13 de 48% (referência: 60 a 130%)",
+  "resolucao": "Esquizócitos, plaquetopenia, LDH alta e haptoglobina indetectável compõem uma microangiopatia trombótica, e a ADAMTS13 abaixo da referência parece confirmar púrpura trombocitopênica trombótica. Mas a PTT adquirida exige atividade grave, abaixo de 10%; valores de 40 a 60% aparecem em várias microangiopatias secundárias e não definem a doença. O cenário é de crise renal esclerodérmica: doença difusa precoce, anti-RNA polimerase III, corticoide acima de 15 mg/dia, hipertensão acelerada com retinopatia e creatinina que triplicou em um mês. O tratamento é inibidor da ECA de ação curta (captopril) em doses crescentes até controlar a pressão, mantido mesmo se a creatinina subir, com redução do corticoide ao menor possível. A plasmaférese não tem papel definido na crise renal e atrasa a medida que muda o prognóstico.",
+  "comentarios": {
+   "A": "Correta. Esclerose sistêmica difusa precoce, anti-RNA polimerase III, corticoide em dose moderada, hipertensão acelerada e microangiopatia com ADAMTS13 só discretamente baixa são crise renal, tratada com captopril escalonado.",
+   "B": "Errada. Seria a conduta na PTT adquirida, que exige ADAMTS13 abaixo de 10%; o valor de 48% não sustenta o diagnóstico.",
+   "C": "Errada. O diagnóstico está certo, mas a plasmaférese não é o tratamento da crise renal; o que muda o desfecho é o inibidor da ECA.",
+   "D": "Errada. Combina um diagnóstico sem respaldo laboratorial com um tratamento que não corrige a deficiência de ADAMTS13 se ela fosse grave."
+  },
+  "para_levar": "Microangiopatia trombótica com hipertensão acelerada na esclerose sistêmica difusa precoce, sobretudo com anti-RNA polimerase III e corticoide acima de 15 mg/dia, é crise renal: captopril escalonado. PTT exige ADAMTS13 abaixo de 10%.",
+  "referencias": "Kowal-Bielecka O et al. Update of EULAR recommendations for the treatment of systemic sclerosis, 2017; Zheng XL et al. ISTH guidelines for the diagnosis of thrombotic thrombocytopenic purpura, 2020; Bose N et al. Scleroderma renal crisis, Semin Arthritis Rheum 2015.",
+  "tags": [
+   "Esclerose Sistêmica (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "S1 q91 e S1 q51: crise renal esclerodérmica contra PTT, com o limiar da ADAMTS13 como rótulo verdadeiro",
+  "_arquivo": "REU-R03.json",
+  "numero": 14
+ },
+ {
+  "id": "R03-NEU-05",
+  "simulado": "R03",
+  "area": "Neurologia",
+  "titulo": "Encefalite temporal com PCR para herpes negativa no líquor das primeiras 24 horas: manter aciclovir e repetir a PCR",
+  "arma": "Cronologia",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 54 anos, previamente hígida, é trazida pelo marido com 3 dias de febre de 38,6 °C e cefaleia e, desde o dia anterior, comportamento estranho, queixa de 'cheiro de queimado' e uma crise focal com automatismos orais. Nega viagens, contato com animais e vacinação recente. Glasgow 14, desorientada, rigidez de nuca discreta, sem déficit motor. RM: hipersinal em FLAIR e restrição à difusão no lobo temporal medial e na ínsula à esquerda. Líquor, colhido nas primeiras 24 horas dos sintomas neurológicos: 18 células/mm³ (90% linfócitos), 6 hemácias/mm³, proteína 62 mg/dL, glicose 64 mg/dL (glicemia 110 mg/dL). Iniciou aciclovir IV na admissão. No segundo dia de internação, chega a PCR para herpes simples no líquor: negativa. EEG: descargas epileptiformes periódicas lateralizadas à esquerda. A conduta mais adequada é:",
+  "alternativas": {
+   "A": "Suspender o aciclovir e observar",
+   "B": "Manter o aciclovir e repetir a PCR",
+   "C": "Trocar o aciclovir por ganciclovir",
+   "D": "Pulsoterapia e painel de autoanticorpos"
+  },
+  "gabarito": "B",
+  "armadilha": "A",
+  "dado_decisivo": "colhido nas primeiras 24 horas dos sintomas neurológicos",
+  "resolucao": "A PCR negativa e a celularidade baixa parecem afastar a encefalite herpética e liberar a suspensão do aciclovir. A PCR, porém, pode ser falsamente negativa quando o líquor é colhido nos primeiros dias, sobretudo nas primeiras 24 a 72 horas, e a celularidade pode ser discreta no início. Febre, alteração de comportamento, aura olfatória, lesão temporal medial e insular com restrição à difusão, hemácias no líquor e descargas periódicas lateralizadas compõem alta probabilidade pré-teste. Nesse cenário, mantém-se o aciclovir e repete-se a PCR em 3 a 7 dias; só a segunda PCR negativa, com quadro que se afasta, permite suspender. A encefalite autoimune entra na investigação se a evolução não for compatível, mas não justifica parar o antiviral nem pulsar corticoide agora.",
+  "comentarios": {
+   "A": "Errada. É a armadilha do exame tranquilizador: PCR colhida cedo pode ser falso negativo, e a suspensão expõe a paciente à forma mais letal das encefalites virais.",
+   "B": "Correta. Alta probabilidade clínica e radiológica com PCR precoce negativa: manter o antiviral e repetir a PCR em 3 a 7 dias.",
+   "C": "Errada. Ganciclovir seria para encefalite por citomegalovírus no imunodeprimido; não há imunodepressão aqui.",
+   "D": "Errada. Seria a linha para encefalite autoimune, considerada se a evolução e a segunda PCR afastarem o herpes; febre e lesão temporal com sangue no líquor mantêm o herpes à frente."
+  },
+  "para_levar": "Encefalite temporal com PCR para herpes negativa em líquor precoce não autoriza suspender o aciclovir: repete-se a PCR em 3 a 7 dias.",
+  "referencias": "Tunkel AR et al. IDSA Guidelines: The Management of Encephalitis, Clin Infect Dis 2008; Solomon T et al. Management of suspected viral encephalitis in adults, ABN/BIA National Guidelines, J Infect 2012.",
+  "tags": [
+   "Meningoencefalite Herpética (CM)",
+   "Encefalites (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "UERJ recorrente: encefalite herpética; a PCR precoce negativa como exame tranquilizador",
+  "_arquivo": "NEU-R03.json",
+  "numero": 15
+ },
+ {
+  "id": "R03-INF-03",
+  "simulado": "R03",
+  "area": "Infectologia",
+  "titulo": "Febre maculosa com imunofluorescência não reagente no 6º dia: doxiciclina sem esperar a soroconversão",
+  "arma": "Cronologia",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 29 anos, bióloga, fez coleta de campo há 9 dias às margens de um rio em município do interior de São Paulo com grande população de capivaras; não lembra de picada. Há 6 dias tem febre de 39,5 °C, cefaleia intensa, mialgia difusa e náuseas. Na semana anterior à viagem limpou com o pai o porão da casa, que havia alagado, onde viu fezes de roedores. Ao exame, PA 100/60 mmHg, FC 112 bpm, sem sufusão conjuntival, panturrilhas indolores, exantema maculopapular que começou no 3º dia nos punhos e tornozelos e hoje atinge tronco, palmas e plantas, com petéquias nos membros inferiores. Plaquetas 78.000/mm³, sódio 129 mEq/L, AST 110 U/L, creatinina 1,3 mg/dL, CK 190 U/L (referência: até 170), bilirrubina total 0,9 mg/dL. A imunofluorescência indireta para Rickettsia rickettsii resultou IgG não reagente na amostra colhida hoje, no 6º dia de doença. A conduta mais adequada é:",
+  "alternativas": {
+   "A": "Ceftriaxona e sorologia para leptospirose",
+   "B": "Doxiciclina já e sorologia pareada em 14 dias",
+   "C": "Aguardar a segunda amostra sem antibiótico",
+   "D": "Teste NS1 e hidratação antes do antibiótico"
+  },
+  "gabarito": "B",
+  "armadilha": "C",
+  "dado_decisivo": "IgG não reagente na amostra colhida hoje, no 6º dia de doença",
+  "resolucao": "O exame sorológico negativo tranquiliza quem não lembra do tempo da resposta imune, e o porão alagado com roedores oferece uma saída para a leptospirose. Os anticorpos da febre maculosa costumam aparecer entre o 7º e o 10º dia, e o diagnóstico sorológico exige duas amostras com intervalo de 14 a 21 dias, mostrando soroconversão ou aumento de quatro vezes no título; uma primeira amostra negativa no 6º dia não exclui nada. O quadro clínico já basta: exposição em área de capivaras, febre alta com cefaleia, exantema que começa nas extremidades e se torna petequial com palmas e plantas, plaquetopenia e hiponatremia. A leptospirose fica menos provável pela ausência de sufusão conjuntival, de dor nas panturrilhas, de icterícia e de CK elevada. Na febre maculosa a letalidade sobe muito quando a doxiciclina começa depois do 5º dia, e o tratamento é iniciado na suspeita, com a segunda amostra colhida depois para confirmação.",
+  "comentarios": {
+   "A": "Errada. Seria a conduta na leptospirose (sufusão, mialgia de panturrilha, CK alta, icterícia); betalactâmico não cobre riquétsia, que é intracelular.",
+   "B": "Correta. Suspeita clínica de febre maculosa pede doxiciclina imediata; a sorologia pareada em 14 dias confirma depois.",
+   "C": "Errada. É a armadilha da sorologia negativa precoce: os anticorpos ainda não apareceram no 6º dia, e esperar aumenta a letalidade.",
+   "D": "Errada. Seria o caminho na dengue sem sinais de alarme, mas o exantema petequial palmoplantar com hiponatremia e a exposição a capivaras apontam riquétsia, e o NS1 perde sensibilidade após o 5º dia."
+  },
+  "para_levar": "Na febre maculosa, sorologia negativa na primeira semana não descarta: os anticorpos surgem por volta do 7º ao 10º dia. Doxiciclina na suspeita e sorologia pareada depois.",
+  "referencias": "Ministério da Saúde, Guia de Vigilância em Saúde, 6ª ed. (2024), capítulo Febre maculosa; CDC, Diagnosis and Management of Tickborne Rickettsial Diseases, MMWR (2016).",
+  "tags": [
+   "Icterícias Febris e FMB (CM)",
+   "Infecções Bacterianas (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "S1 q48: febre maculosa x leptospirose, agora o erro é confiar na sorologia precoce e adiar a doxiciclina",
+  "_arquivo": "INF-R03.json",
+  "numero": 16
+ },
+ {
+  "id": "R03-NEF-01",
+  "simulado": "R03",
+  "area": "Nefrologia",
+  "titulo": "Creatinina subindo em usuária de lítio há 22 anos, hipertensa: nefrite intersticial crônica com microcistos, e não nefroesclerose",
+  "arma": "Rótulo verdadeiro",
+  "comando": "achado esperado",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 58 anos, com transtorno bipolar em uso de carbonato de lítio há 22 anos, com litemias sempre entre 0,6 e 0,9 mEq/L e nenhum episódio de intoxicação, é encaminhada porque a creatinina subiu de 1,1 para 2,0 mg/dL em 6 anos. É hipertensa há 8 anos, em uso de anlodipino, com PA de 138 x 84 mmHg no consultório. Relata noctúria e sede, com ingestão de cerca de 4 litros de água por dia. Urina: densidade 1,004, sem hematúria, sem cilindros; proteinúria de 24 horas de 0,4 g. Fundoscopia com cruzamentos arteriovenosos patológicos e estreitamento arteriolar. Ultrassonografia: rins simétricos de 9,5 cm, com múltiplos microcistos corticais e medulares de 1 a 2 mm. A equipe solicita biópsia renal para embasar a discussão sobre a suspensão do lítio com o psiquiatra. O achado histológico mais provável é:",
+  "alternativas": {
+   "A": "Infiltrado intersticial agudo com eosinófilos",
+   "B": "Glomeruloesclerose segmentar e focal colapsante",
+   "C": "Fibrose intersticial com microcistos tubulares distais",
+   "D": "Nefroesclerose arteriolar hialina difusa"
+  },
+  "gabarito": "C",
+  "armadilha": "D",
+  "dado_decisivo": "múltiplos microcistos corticais e medulares de 1 a 2 mm",
+  "resolucao": "A hipertensão de 8 anos e a fundoscopia com cruzamentos patológicos são verdadeiras e convidam a atribuir a perda de função à nefroesclerose hipertensiva. Mas a PA está razoavelmente controlada, a hipertensão é bem mais recente que o lítio e o quadro é dominado por defeito de concentração (densidade 1,004, poliúria, polidipsia), que é o efeito renal mais frequente da droga. O dado que fecha é a imagem: microcistos corticais e medulares de 1 a 2 mm em rins de tamanho normal ou discretamente reduzido são a marca da nefropatia crônica do lítio. Na histologia, o correspondente é nefrite tubulointersticial crônica com fibrose intersticial, atrofia tubular e dilatações microcísticas dos túbulos distais e coletores, com pouca inflamação e glomérulos relativamente preservados. A proteinúria baixa, sem sedimento ativo, combina com doença tubulointersticial; a lesão glomerular pelo lítio existe, mas se apresenta com proteinúria nefrótica.",
+  "comentarios": {
+   "A": "Errada. Seria a nefrite intersticial aguda por droga nova, com piora em semanas e leucocitúria; aqui a queda é lenta, em anos, e o sedimento é inocente.",
+   "B": "Errada. A lesão glomerular associada ao lítio (lesão mínima ou GESF) se manifesta com síndrome nefrótica; aqui a proteinúria é de 0,4 g.",
+   "C": "Correta. Lítio por décadas, defeito de concentração, proteinúria baixa e microcistos corticomedulares correspondem a nefrite intersticial crônica com microcistos tubulares distais.",
+   "D": "Errada. É a armadilha da fundoscopia: seria o achado da nefroesclerose hipertensiva, mas a PA está controlada, o defeito de concentração domina e os microcistos apontam para o lítio."
+  },
+  "para_levar": "O efeito renal mais frequente do lítio é o defeito de concentração; o mais grave é a nefrite intersticial crônica, lenta, com proteinúria baixa e microcistos tubulares distais visíveis até na ultrassonografia.",
+  "referencias": "Davis J et al. Lithium and nephrotoxicity: a literature review of approaches to clinical management and risk stratification. BMC Nephrol 2018; KDIGO 2024 Clinical Practice Guideline for the Evaluation and Management of CKD.",
+  "tags": [
+   "Intoxicação por Lítio (CM)",
+   "Nefrotoxicidade por Drogas (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "UERJ recorrente: nefrotoxicidade crônica do lítio + S1 q5 (efeito renal do lítio confundido com ATR)",
+  "_arquivo": "NEF-R03.json",
+  "numero": 17
+ },
+ {
+  "id": "R03-ONC-03",
+  "simulado": "R03",
+  "area": "Oncologia",
+  "titulo": "Coronariopata com dor torácica e troponina alta semanas após nivolumabe com ipilimumabe, com ptose e CK alta: miocardite imunomediada, e não síndrome coronariana",
+  "arma": "Rótulo verdadeiro",
+  "comando": "conduta",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 69 anos, com melanoma metastático, recebeu a segunda dose de nivolumabe com ipilimumabe há 18 dias. Tem doença coronariana com stent na artéria descendente anterior há 3 anos, em uso de AAS, atorvastatina 40 mg e metoprolol; cintilografia de perfusão há 4 meses sem isquemia. Há 5 dias refere dor nas coxas, cansaço aos esforços leves e desconforto torácico em aperto, intermitente, e desde ontem visão dupla no fim do dia e pálpebras caídas. Exame: PA 112/70 mmHg, FC 58 bpm, SatO2 95%, ptose bilateral assimétrica, fraqueza proximal grau 4 nos quatro membros, pulmões limpos. ECG: bloqueio atrioventricular de primeiro grau e bloqueio de ramo direito, ambos novos, sem supradesnivelamento de ST. Troponina T ultrassensível 1.150 ng/L (referência até 14), CK 4.200 U/L, TSH normal. Ecocardiograma: fração de ejeção de 52%, sem alteração segmentar nova. A conduta mais adequada neste momento é:",
+  "alternativas": {
+   "A": "Suspender a imunoterapia e pulso de metilprednisolona",
+   "B": "Cateterismo e dupla antiagregação plaquetária",
+   "C": "Piridostigmina, mantendo a imunoterapia",
+   "D": "Suspender a atorvastatina e hidratação venosa"
+  },
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "CK 4.200 U/L",
+  "resolucao": "Coronariopata com stent, desconforto em aperto e troponina muito alta é o roteiro da síndrome coronariana, e o cateterismo parece inadiável. O resto do caso não cabe numa coronária: o início nas primeiras semanas após o bloqueio combinado de PD-1 e CTLA-4, o distúrbio de condução novo sem alteração segmentar no ecocardiograma e, sobretudo, a CK de 4.200 U/L com fraqueza proximal, ptose e diplopia flutuantes, que juntam miosite, quadro miastênico e miocardite. Essa sobreposição é o efeito adverso imunomediado mais letal dos inibidores de checkpoint. A conduta é suspender definitivamente a imunoterapia, iniciar pulso de metilprednisolona (500 a 1.000 mg/dia), monitorizar o ritmo pelo risco de bloqueio avançado e escalonar (abatacepte, micofenolato, imunoglobulina ou plasmaférese) se não houver resposta. A estatina e a miastenia isolada explicariam parte do quadro, mas nenhuma explica a miocardite.",
+  "comentarios": {
+   "A": "Correta. Miocardite com miosite e quadro miastênico após inibidor de checkpoint pede suspensão definitiva e pulso de corticoide, com monitorização do ritmo.",
+   "B": "Errada. É a armadilha da coronariopatia; seria a conduta no infarto sem supra de alto risco, mas não há alteração segmentar, e CK alta com ptose e bloqueios novos apontam miocardite imunomediada.",
+   "C": "Errada. Seria um passo sintomático na miastenia autoimune isolada; aqui há miocardite, e manter a imunoterapia é inaceitável.",
+   "D": "Errada. Seria a conduta na miopatia por estatina com rabdomiólise, que não causa ptose, diplopia nem distúrbio de condução."
+  },
+  "para_levar": "Troponina alta com CK alta, ptose ou diplopia e distúrbio de condução nas primeiras semanas de inibidor de checkpoint (sobretudo combinado) é a tríade miocardite, miosite e miastenia: suspender e pulso de metilprednisolona.",
+  "referencias": "ESC Guidelines on Cardio-oncology (2022); ASCO Guideline on Management of Immune-Related Adverse Events (2021).",
+  "tags": [
+   "Neoplasias e Esquemas Quimioterápicos (CM)",
+   "Complicações Clínico-Ambulatoriais das Neoplasias (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "S4 q62: toxicidade imunomediada por inibidor de checkpoint (antes a hepatite refratária, agora a miocardite rotulada como síndrome coronariana)",
+  "_arquivo": "ONC-R03.json",
+  "numero": 18
+ },
+ {
+  "id": "R03-END-05",
+  "simulado": "R03",
+  "area": "Endocrinologia",
+  "titulo": "Cetoacidose grave com pH abaixo de 7,0 e potássio de 3,1: repor potássio e adiar a insulina, antes de qualquer bicarbonato",
+  "arma": "Limiar",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 19 anos, com diabetes tipo 1 há 6 anos, chega com vômitos há 3 dias, dor abdominal difusa e respiração de Kussmaul; vinha aplicando insulina apenas à noite. PA 96 x 58 mmHg, FC 124 bpm, sonolenta, mas obedece a comandos. Glicemia 538 mg/dL, pH 6,96, bicarbonato 4 mEq/L, ânion gap 28, sódio 131 mEq/L, potássio 3,1 mEq/L, fósforo 1,2 mg/dL, creatinina 1,6 mg/dL, beta-hidroxibutirato 7,8 mmol/L. ECG com ondas U discretas, sem arritmia. Já recebeu 1 L de solução salina a 0,9% na primeira hora. A plantonista prepara insulina regular em bolus de 0,1 U/kg seguida de infusão contínua, e o residente sugere bicarbonato de sódio por causa do pH abaixo de 7,0. Além de manter a hidratação, a conduta mais adequada neste momento é:",
+  "alternativas": {
+   "A": "Bicarbonato e insulina em infusão contínua",
+   "B": "Insulina em bolus e potássio em seguida",
+   "C": "Insulina contínua junto com potássio venoso",
+   "D": "Potássio venoso, insulina só após 3,5 mEq/L"
+  },
+  "gabarito": "D",
+  "armadilha": "C",
+  "dado_decisivo": "potássio 3,1 mEq/L",
+  "resolucao": "Na cetoacidose, o potássio sérico costuma estar normal ou alto apesar de um déficit corporal grande, porque a acidose e a falta de insulina o mantêm fora das células. Quando ele já chega abaixo de 3,5 mEq/L, o déficit é enorme, e a insulina, ao empurrar potássio para dentro da célula, pode precipitar arritmia e parada respiratória por fraqueza muscular. Por isso a insulina é adiada e o potássio é reposto por via venosa, com monitorização, até passar de 3,5 mEq/L; só então começa a infusão. A tentação de iniciar tudo junto, como se faz com potássio entre 3,5 e 5,2, é a armadilha. O bicarbonato, que o consenso admite considerar com pH abaixo de 7,0, também desloca potássio para dentro da célula e não pode vir antes dessa correção; o fósforo baixo isolado não exige reposição.",
+  "comentarios": {
+   "A": "Errada. O bicarbonato com pH abaixo de 7,0 é uma possibilidade, mas agrava a hipocalemia e não antecede a correção do potássio; com potássio de 3,1, a insulina também espera.",
+   "B": "Errada. O bolus de insulina é opcional e seria aceitável com potássio acima de 3,5; aqui ele provoca queda brusca do potássio.",
+   "C": "Errada. É a armadilha: insulina e potássio juntos é a regra quando o potássio está entre 3,5 e 5,2 mEq/L, e não abaixo de 3,5.",
+   "D": "Correta. Com potássio de 3,1 mEq/L, repõe-se potássio por via venosa e a insulina só começa quando ele passar de 3,5."
+  },
+  "para_levar": "Na cetoacidose, potássio abaixo de 3,5 mEq/L na chegada adia a insulina: repõe-se o potássio primeiro, e o bicarbonato, quando considerado, também espera essa correção.",
+  "referencias": "Umpierrez GE et al. Hyperglycemic crises in adults with diabetes: a consensus report. Diabetes Care 2024; Diretriz da Sociedade Brasileira de Diabetes 2025, capítulo de cetoacidose diabética.",
+  "tags": [
+   "Cetoacidose Diabética (CM)",
+   "Hipopotassemia (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "UERJ recorrente: potássio antes da insulina na cetoacidose, com o pH abaixo de 7,0 como distrator",
+  "_arquivo": "END-R03.json",
+  "numero": 19
+ },
+ {
+  "id": "R03-CAR-03",
+  "simulado": "R03",
+  "area": "Cardiologia",
+  "titulo": "Suspeita de amiloidose cardíaca com proteinúria nefrótica e túnel do carpo: cadeias leves livres e imunofixação antes da cintilografia",
+  "arma": "Cronologia",
+  "comando": "próximo exame",
+  "nivel": "difícil",
+  "enunciado": "Homem de 63 anos, operado de síndrome do túnel do carpo bilateral há 1 ano, relata dispneia progressiva e edema de membros inferiores há 6 meses, tontura ao levantar e perda de 6 kg. Era hipertenso e suspendeu por conta própria a anlodipina porque a pressão 'caiu sozinha'. Ao exame: PA 98 x 64 mmHg deitado e 78 x 50 mmHg em pé, FC 92 bpm, turgência jugular, hepatomegalia dolorosa, edema 3+/4 até a raiz das coxas, língua de bordos endentados. ECG: baixa voltagem nas derivações periféricas e ondas Q de V1 a V3. Ecocardiograma: septo de 16 mm com aspecto granular, FE de 50% e strain longitudinal reduzido na base com ápice preservado. NT-proBNP 6.800 pg/mL, troponina T 0,08 ng/mL (referência: até 0,014); creatinina 1,4 mg/dL, albumina 2,6 g/dL, proteinúria de 4,2 g/24 h. O exame a ser solicitado em seguida, o mais adequado neste momento, é:",
+  "alternativas": {
+   "A": "Ressonância cardíaca com realce tardio",
+   "B": "Sequenciamento do gene da transtirretina",
+   "C": "Cadeias leves livres e imunofixação sérica e urinária",
+   "D": "Cintilografia óssea com pirofosfato de tecnécio"
+  },
+  "gabarito": "C",
+  "armadilha": "D",
+  "dado_decisivo": "proteinúria de 4,2 g/24 h",
+  "resolucao": "O túnel do carpo bilateral operado é verdadeiro e puxa para amiloidose por transtirretina, cujo diagnóstico não invasivo se faz com cintilografia com pirofosfato; esse é o reflexo do apressado. O padrão de strain com ápice preservado, a baixa voltagem com septo espesso e a hipotensão confirmam amiloidose cardíaca, mas não dizem o tipo, e o túnel do carpo também ocorre na amiloidose AL. A proteinúria nefrótica com hipoalbuminemia, a perda de peso, a macroglossia (língua endentada) e a disautonomia apontam para doença sistêmica por cadeias leves, que acomete rim e nervo autonômico, ao contrário da ATTR, que poupa o glomérulo. Por isso, diante de qualquer suspeita de amiloidose cardíaca, o primeiro passo é excluir a proteína monoclonal com cadeias leves livres no soro e imunofixação no soro e na urina: a cintilografia só define ATTR quando esse rastreio é negativo, pois a AL também pode captar o radiotraçador. Com o rastreio positivo, segue-se a biópsia (de gordura abdominal, renal ou endomiocárdica) com tipagem, e a AL é emergência hematológica.",
+  "comentarios": {
+   "A": "Errada. A ressonância reforça o diagnóstico de infiltração (realce subendocárdico difuso), mas não distingue AL de ATTR, e o diagnóstico de amiloidose já é muito provável.",
+   "B": "Errada. O sequenciamento vem depois de confirmada a ATTR, para separar a forma hereditária da selvagem.",
+   "C": "Correta. Proteinúria nefrótica, macroglossia e disautonomia sugerem AL; o rastreio de cadeias leves vem antes de qualquer outro passo.",
+   "D": "Errada. É a armadilha do túnel do carpo; a cintilografia só fecha ATTR sem biópsia se a pesquisa de proteína monoclonal for negativa, o que ainda não foi feito."
+  },
+  "para_levar": "Na suspeita de amiloidose cardíaca, primeiro cadeias leves livres e imunofixação sérica e urinária; só com esse rastreio negativo a cintilografia com pirofosfato diagnostica ATTR. Proteinúria nefrótica fala a favor de AL.",
+  "referencias": "Garcia-Pavia P et al. Diagnosis and treatment of cardiac amyloidosis: a position statement of the ESC Working Group on Myocardial and Pericardial Diseases. Eur Heart J 2021; 2023 ACC Expert Consensus Decision Pathway on Comprehensive Multidisciplinary Care for the Patient With Cardiac Amyloidosis; Diretriz sobre Diagnóstico e Tratamento da Amiloidose Cardíaca, SBC 2021.",
+  "tags": [
+   "Amiloidose cardíaca (CM)",
+   "Mieloma Múltiplo e Outras Discrasias Plasmocitárias (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "UERJ recorrente: amiloidose cardíaca (apical sparing, AL x ATTR), agora pela ordem dos exames",
+  "_arquivo": "CAR-R03.json",
+  "numero": 20
+ },
+ {
+  "id": "R03-REU-01",
+  "simulado": "R03",
+  "area": "Reumatologia",
+  "titulo": "Granulomatose eosinofílica com poliangeíte ANCA negativa com miocardite, rotulada como aspergilose broncopulmonar alérgica: ciclofosfamida na indução",
+  "arma": "Rótulo verdadeiro",
+  "comando": "conduta",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 44 anos, com asma de início aos 38 anos e polipose nasal operada duas vezes, em uso de budesonida-formoterol, apresenta há 2 meses tosse e infiltrados pulmonares que mudam de lugar entre radiografias, com eosinófilos de 4.800/mm³ (34%). A pneumologia levantou aspergilose broncopulmonar alérgica: IgE total de 1.900 UI/mL e IgE específica para Aspergillus fumigatus de 0,9 kUA/L (referência: abaixo de 0,35). ANCA por imunofluorescência, anti-MPO e anti-PR3 não reagentes. Há 10 dias, dispneia aos pequenos esforços e edema de membros inferiores. PA 118 x 76 mmHg, FC 104 bpm, sem déficit neurológico. Troponina I de 0,9 ng/mL (referência: abaixo de 0,04), creatinina 0,9 mg/dL, urina tipo 1 normal. Ecocardiograma com fração de ejeção de 35% e hipocinesia difusa; coronariografia sem lesões; RM cardíaca com realce tardio subendocárdico difuso, de distribuição não coronariana. Além do glicocorticoide em dose alta, a conduta de indução mais adequada é:",
+  "alternativas": {
+   "A": "Mepolizumabe 300 mg mensal",
+   "B": "Itraconazol oral por 16 semanas",
+   "C": "Ciclofosfamida intravenosa",
+   "D": "Omalizumabe subcutâneo"
+  },
+  "gabarito": "C",
+  "armadilha": "B",
+  "dado_decisivo": "RM cardíaca com realce tardio subendocárdico difuso, de distribuição não coronariana",
+  "resolucao": "A IgE total alta e a IgE específica para Aspergillus discretamente positiva são verdadeiras e puxam para aspergilose broncopulmonar alérgica, mas sensibilização a fungo é comum na asma eosinofílica e a aspergilose não causa miocardite. Asma de início tardio, polipose, eosinofilia acima de 10% e infiltrados migratórios fecham granulomatose eosinofílica com poliangeíte, e o ANCA negativo não afasta: cerca de 60% dos pacientes são ANCA negativos, justamente o fenótipo com mais acometimento cardíaco. Troponina alta, fração de ejeção de 35%, coronárias normais e realce tardio não coronariano indicam miocardite eosinofílica, que é doença grave com risco de morte (Five Factor Score positivo). Doença grave se induz com glicocorticoide em dose alta associado a ciclofosfamida (o rituximabe é a outra opção das diretrizes), e o acometimento cardíaco é o cenário em que a ciclofosfamida tem mais respaldo. Os biológicos anti-IL-5 e anti-IgE ficam para doença não grave, recidivante ou dependente de corticoide.",
+  "comentarios": {
+   "A": "Errada. O mepolizumabe é indicado na doença recidivante ou refratária sem acometimento grave de órgão; a miocardite com disfunção ventricular exige indução com citotóxico.",
+   "B": "Errada. Seria o tratamento da aspergilose broncopulmonar alérgica, sugerida pela IgE específica positiva; aspergilose não explica miocardite com realce não coronariano e eosinofilia de 34%.",
+   "C": "Correta. Miocardite com fração de ejeção de 35% é doença grave pelo Five Factor Score, e a indução é glicocorticoide com ciclofosfamida, independentemente do ANCA.",
+   "D": "Errada. O anti-IgE trata asma alérgica grave e tem uso esporádico em formas leves; não controla vasculite com risco de vida."
+  },
+  "para_levar": "Na granulomatose eosinofílica com poliangeíte, o ANCA negativo não afasta o diagnóstico e se associa a coração; miocardite é doença grave e pede glicocorticoide com ciclofosfamida (ou rituximabe), e não biológico anti-IL-5.",
+  "referencias": "Chung SA et al. 2021 ACR/Vasculitis Foundation Guideline for the Management of ANCA-Associated Vasculitis; Hellmich B et al. EULAR recommendations for the management of ANCA-associated vasculitis, 2022 update; Emmi G et al. EGPA consensus task force recommendations, Nat Rev Rheumatol 2023.",
+  "tags": [
+   "Vasculites ANCA-associadas (CM)",
+   "Vasculites (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "S4 q40: EGPA ANCA negativa sob rótulo de ABPA, agora no degrau seguinte (gravidade pelo coração define a indução)",
+  "_arquivo": "REU-R03.json",
+  "numero": 21
+ },
+ {
+  "id": "R03-HEM-05",
+  "simulado": "R03",
+  "area": "Hematologia",
+  "titulo": "Anemia hemolítica autoimune quente com angina e prova cruzada incompatível com todas as unidades: transfundir, sem esperar unidade compatível",
+  "arma": "Negativo no meio",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 34 anos, sem comorbidades, nunca engravidou e nunca recebeu transfusão. Há 6 dias tem fadiga, icterícia e urina escura, e desde ontem dispneia e opressão torácica ao caminhar até o banheiro. Exame: FC 132 bpm, PA 102 x 60 mmHg, SpO2 95%, icterícia 2+/4, palidez acentuada, baço palpável a 2 cm do rebordo. ECG com taquicardia sinusal e infradesnível de ST de 1 mm em V4 a V6; troponina discretamente elevada. Exames: Hb 4,4 g/dL, reticulócitos 16%, LDH 1.150 U/L, bilirrubina indireta 4,9 mg/dL, haptoglobina indetectável, esferócitos no esfregaço, Coombs direto IgG 4+ e C3d negativo. Recebeu metilprednisolona há 10 horas. O banco de sangue informa autoanticorpo pan-reativo no soro e no eluato, com prova cruzada incompatível com todas as unidades testadas, e que a técnica de adsorção para excluir aloanticorpo levará cerca de 24 horas. A conduta mais adequada neste momento é:",
+  "alternativas": {
+   "A": "Transfundir hemácias ABO e RhD compatíveis, lentamente",
+   "B": "Plasmaférese de urgência antes de transfundir",
+   "C": "Manter o corticoide e aguardar a adsorção",
+   "D": "Imunoglobulina intravenosa sem transfusão"
+  },
+  "gabarito": "A",
+  "armadilha": "C",
+  "dado_decisivo": "nunca engravidou e nunca recebeu transfusão",
+  "resolucao": "A prova cruzada incompatível com todas as unidades assusta e faz parecer prudente esperar a adsorção ou o efeito do corticoide. Na anemia hemolítica autoimune quente, porém, a incompatibilidade é esperada: o autoanticorpo reage com quase todas as hemácias, inclusive as do doador, e a hemácia transfundida sobrevive tanto quanto a do próprio paciente. O risco real é um aloanticorpo escondido pelo autoanticorpo, e ele depende de aloimunização prévia por gestação ou transfusão, que esta paciente nunca teve. Com hemoglobina de 4,4 g/dL e isquemia miocárdica, o risco de não transfundir supera em muito o risco de reação: transfunde-se o volume mínimo para aliviar a isquemia, com hemácias ABO e RhD compatíveis (de preferência fenotipadas para Rh e Kell), infusão lenta e vigilância, enquanto o corticoide age. A plasmaférese tem pouco papel nos anticorpos IgG quentes, que se distribuem fora do plasma, e a imunoglobulina tem efeito modesto e lento nesse cenário.",
+  "comentarios": {
+   "A": "Correta. Com isquemia miocárdica e sem gestação ou transfusão prévia (baixo risco de aloanticorpo), a transfusão não se adia por causa da prova cruzada incompatível.",
+   "B": "Errada. Seria uma opção de resgate na hemólise por crioaglutinina grave, em que o anticorpo IgM fica no plasma; no anticorpo quente IgG o efeito é pequeno e não substitui a transfusão.",
+   "C": "Errada. É a armadilha: aguardar a adsorção seria razoável na paciente estável e politransfundida ou multípara, mas aqui a anemia já produz isquemia miocárdica.",
+   "D": "Errada. A imunoglobulina tem resposta inconstante e lenta na anemia hemolítica autoimune quente, e não corrige em horas uma anemia com isquemia."
+  },
+  "para_levar": "Na anemia hemolítica autoimune com anemia ameaçadora, prova cruzada incompatível não é motivo para negar transfusão: transfunde-se o mínimo necessário, devagar, e o risco de aloanticorpo depende de gestação ou transfusão prévia.",
+  "referencias": "Hill QA et al. The diagnosis and management of primary autoimmune haemolytic anaemia. British Society for Haematology guideline 2017; Jäger U et al. Diagnosis and treatment of autoimmune hemolytic anemia in adults: recommendations from the First International Consensus Meeting. Blood Rev 2020.",
+  "tags": [
+   "Anemia Hemolítica Autoimune (CM)",
+   "Reações Transfusionais (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "UERJ recorrente: anemia hemolítica autoimune e hemoterapia, a transfusão que não se adia pela prova cruzada",
+  "_arquivo": "HEM-R03.json",
+  "numero": 22
+ },
+ {
+  "id": "R03-INF-06",
+  "simulado": "R03",
+  "area": "Infectologia",
+  "titulo": "Enterocolite neutropênica com apêndice normal e pesquisa de C. difficile pendente: cobertura anaeróbia e tratamento clínico",
+  "arma": "Rótulo verdadeiro",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Homem de 52 anos, com leucemia mieloide aguda, está no 12º dia após indução com citarabina e daunorrubicina. Há 2 dias tem febre e está em uso de cefepima; hoje surgiram dor intensa em fossa ilíaca direita, distensão abdominal e diarreia aquosa, 5 episódios. Temperatura 38,7 °C, PA 108/66 mmHg, FC 112 bpm; abdome distendido, doloroso à palpação profunda da fossa ilíaca direita, sem defesa difusa e com ruídos diminuídos. Neutrófilos 80/mm³, plaquetas 18.000/mm³, lactato 1,8 mmol/L. TC de abdome: espessamento parietal do ceco e do cólon ascendente de 14 mm, com densificação da gordura pericecal, sem pneumoperitônio e sem coleção; apêndice com 6 mm de diâmetro, sem apendicolito. Hemoculturas em andamento; pesquisa de toxina de Clostridioides difficile solicitada, ainda sem resultado. A conduta mais adequada neste momento é:",
+  "alternativas": {
+   "A": "Apendicectomia videolaparoscópica de urgência",
+   "B": "Manter cefepima e associar vancomicina oral",
+   "C": "Piperacilina-tazobactam, jejum e suporte clínico",
+   "D": "Colonoscopia com biópsia do ceco"
+  },
+  "gabarito": "C",
+  "armadilha": "B",
+  "dado_decisivo": "espessamento parietal do ceco e do cólon ascendente de 14 mm",
+  "resolucao": "A diarreia sob antibiótico, com a pesquisa de toxina pendente, faz pensar em Clostridioides difficile, e acrescentar vancomicina oral à cefepima parece cobrir tudo. Mas o paciente neutropênico profundo, com dor em fossa ilíaca direita e espessamento parietal do ceco acima de 10 mm na TC, tem enterocolite neutropênica (tiflite), infecção polimicrobiana da parede com anaeróbios, bacilos Gram-negativos e às vezes Clostridium septicum. A cefepima não cobre anaeróbios, e a vancomicina oral só age na luz contra C. difficile, sem tratar a infecção da parede. O tratamento é clínico: antimicrobiano com cobertura de Pseudomonas e anaeróbios (piperacilina-tazobactam ou carbapenêmico, ou cefepima com metronidazol), jejum, descompressão se necessário, correção de plaquetas e suporte. A cirurgia fica para perfuração, sangramento persistente ou deterioração apesar do tratamento, e a colonoscopia está contraindicada pelo risco de perfuração.",
+  "comentarios": {
+   "A": "Errada. Seria a conduta na apendicite, mas o apêndice tem 6 mm sem apendicolito, e operar o neutropênico sem perfuração aumenta a mortalidade.",
+   "B": "Errada. É a armadilha da diarreia sob antibiótico: trataria só a colite por C. difficile e deixa a infecção da parede cecal sem cobertura anaeróbia.",
+   "C": "Correta. Enterocolite neutropênica sem perfuração: betalactâmico antipseudomonas com ação anaeróbia, jejum e suporte.",
+   "D": "Errada. Seria útil para colite por citomegalovírus ou doença inflamatória, mas na parede cecal necrosada do neutropênico o risco de perfuração a contraindica."
+  },
+  "para_levar": "Neutropênico com dor em fossa ilíaca direita e ceco espessado acima de 10 mm tem tiflite: cobertura anaeróbia e antipseudomonas, tratamento clínico, cirurgia só para perfuração ou sangramento.",
+  "referencias": "IDSA Clinical Practice Guideline for the Use of Antimicrobial Agents in Neutropenic Patients with Cancer (2010, revisão 2023 em andamento); ECIL/ESMO Management of febrile neutropenia (2023); NCCN Prevention and Treatment of Cancer-Related Infections (2025).",
+  "tags": [
+   "Neutropenia Febril (CM)",
+   "Infecção em Imunossuprimido (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "UERJ recorrente: imunossuprimido muda o agente e a conduta (tiflite), com o rótulo de C. difficile e de apendicite",
+  "_arquivo": "INF-R03.json",
+  "numero": 23
+ },
+ {
+  "id": "R03-GAS-03",
+  "simulado": "R03",
+  "area": "Gastroenterologia e hepatologia",
+  "titulo": "Agudização de retocolite após antibiótico com toxina de C. difficile positiva e sem pseudomembranas: vancomicina oral antes de escalar imunossupressão",
+  "arma": "Negativo no meio",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 34 anos, com retocolite ulcerativa extensa diagnosticada há 6 anos, em remissão clínica e endoscópica há 2 anos com mesalazina 4 g/dia, procura atendimento por 8 evacuações diárias com sangue, urgência e cólicas há 9 dias. Concluiu há 12 dias amoxicilina-clavulanato por 7 dias para sinusite. Nega viagens e uso de anti-inflamatórios. Temperatura de 37,8 °C, FC 94 bpm, PA 118/72 mmHg, abdome doloroso em fossa ilíaca esquerda, sem distensão. Hb 11,8 g/dL, leucócitos 14.200/mm³, PCR 48 mg/L, albumina 3,6 g/dL, calprotectina fecal 1.450 µg/g. Coprocultura negativa; GDH e toxinas A/B de Clostridioides difficile positivas nas fezes. Retossigmoidoscopia flexível: eritema, friabilidade e ulcerações rasas contínuas desde o reto, sem pseudomembranas (Mayo endoscópico 2); biópsias sem inclusões virais. Radiografia de abdome sem dilatação colônica. Além de manter a mesalazina, a conduta inicial mais adequada é:",
+  "alternativas": {
+   "A": "Indução com infliximabe intravenoso",
+   "B": "Metronidazol oral por 10 dias",
+   "C": "Prednisona oral 40 mg ao dia",
+   "D": "Vancomicina oral por 10 dias"
+  },
+  "gabarito": "D",
+  "armadilha": "C",
+  "dado_decisivo": "GDH e toxinas A/B de Clostridioides difficile positivas nas fezes",
+  "resolucao": "Sangramento, urgência, calprotectina alta e mucosa com aspecto de retocolite ativa, sem pseudomembranas, empurram para agudização da doença e corticoide sistêmico. Mas a ausência de pseudomembranas é a regra, e não a exceção, na infecção por C. difficile em quem tem doença inflamatória intestinal, e o achado endoscópico não separa as duas. A crise veio logo após antibiótico, e o rastreio com GDH e toxinas positivas confirma infecção ativa, que nesta população piora o curso e aumenta o risco de colectomia. O tratamento é antimicrobiano dirigido, com vancomicina oral (ou fidaxomicina), mantendo a mesalazina, e reavaliação em 48 a 72 horas; o corticoide iniciado antes de tratar a infecção agrava a colite. A escalada da imunossupressão fica para quem não melhora com o tratamento da infecção.",
+  "comentarios": {
+   "A": "Errada. Seria o degrau para retocolite moderada a grave refratária ao corticoide; iniciar biológico com infecção ativa não tratada não se justifica.",
+   "B": "Errada. Metronidazol oral deixou de ser primeira linha pela menor eficácia; ficaria só sem acesso a vancomicina ou fidaxomicina.",
+   "C": "Errada. É a armadilha das mucosas sem pseudomembranas: seria a conduta para agudização moderada sem infecção, mas aqui a toxina é positiva.",
+   "D": "Correta. Infecção por C. difficile confirmada em paciente com retocolite se trata com vancomicina oral (ou fidaxomicina), sem escalar imunossupressão de início."
+  },
+  "para_levar": "Toda agudização de doença inflamatória intestinal pede pesquisa de C. difficile, e a falta de pseudomembranas não a afasta; com toxina positiva, trate a infecção antes de escalar a imunossupressão.",
+  "referencias": "ACG Clinical Guideline: Prevention, Diagnosis, and Treatment of Clostridioides difficile Infections, 2021; IDSA/SHEA Focused Update, 2021; ECCO Guidelines on Ulcerative Colitis, 2022.",
+  "tags": [
+   "Diarréias agudas e Clostridium (CM)",
+   "Retocolite Ulcerativa (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "UERJ recorrente: C. difficile após antibiótico, aqui mascarado por agudização de retocolite",
+  "_arquivo": "GAS-R03.json",
+  "numero": 24
+ },
+ {
+  "id": "R03-PNE-02",
+  "simulado": "R03",
+  "area": "Pneumologia",
+  "titulo": "Exacerbação de DPOC com hiperóxia e PaCO2 alta, mas pH compensado: titular o oxigênio para 88% a 92%, sem suspender e sem VNI imediata",
+  "arma": "Grade X / Y",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 71 anos, com DPOC grave (VEF1 de 32% do previsto) em oxigenoterapia domiciliar a 1 L/min, é trazida pelo SAMU por piora da dispneia e do escarro há 3 dias. Na ambulância recebeu máscara com reservatório a 15 L/min, mantida na chegada. Está alerta, orientada, conversando em frases completas, FR 24 irpm, FC 104 bpm, PA 138 x 82 mmHg, SpO2 99%, sem uso de musculatura acessória intenso e sem respiração paradoxal. Gasometria arterial com a máscara: pH 7,37, PaCO2 61 mmHg, PaO2 142 mmHg, bicarbonato 35 mEq/L. A gasometria de 2 meses atrás, em ar ambiente na consulta, mostrava PaCO2 de 54 mmHg e bicarbonato de 33 mEq/L. Radiografia de tórax sem consolidação nem pneumotórax. Já recebeu salbutamol e ipratrópio inalatórios e prednisona. Quanto ao oxigênio e à ventilação não invasiva, a conduta mais adequada neste momento é, respectivamente:",
+  "alternativas": {
+   "A": "Titular para SpO2 88% a 92% / sem VNI agora",
+   "B": "Suspender o oxigênio / sem VNI agora",
+   "C": "Titular para SpO2 88% a 92% / VNI imediata",
+   "D": "Manter a máscara com reservatório / VNI imediata"
+  },
+  "gabarito": "A",
+  "armadilha": "C",
+  "dado_decisivo": "pH 7,37",
+  "resolucao": "A PaCO2 de 61 mmHg e o oxigênio em alto fluxo levam a pensar em VNI, mas a indicação de ventilação não invasiva na exacerbação é a acidose respiratória (pH igual ou menor que 7,35 com PaCO2 acima de 45 mmHg), e o pH aqui é 7,37, com bicarbonato alto que mostra retenção crônica compensada, próxima do basal dela. O problema real é a hiperóxia: PaO2 de 142 mmHg num retentor crônico piora a relação ventilação-perfusão (perda da vasoconstrição hipóxica), desloca CO2 pelo efeito Haldane e pode levar à acidose. A conduta é reduzir a fração inspirada, de preferência com máscara de Venturi, mirando SpO2 de 88% a 92%, e repetir a gasometria em 30 a 60 minutos. Suspender o oxigênio de vez é perigoso: a PaO2 cai abaixo do basal antes de a PaCO2 baixar, com hipoxemia de rebote. Se a nova gasometria mostrar pH de 7,35 ou menos, aí a VNI entra.",
+  "comentarios": {
+   "A": "Correta. Hiperóxia num retentor crônico com pH ainda compensado (7,37): baixar a FiO2 para o alvo de 88% a 92% e regasometrar; ainda não há critério de VNI.",
+   "B": "Errada. Suspender o oxigênio na hipercapnia provoca hipoxemia de rebote, mais grave que a de partida; reduz-se a FiO2, não se retira.",
+   "C": "Errada. É a armadilha: a titulação está certa, mas a VNI seria indicada com pH igual ou menor que 7,35; a PaCO2 alta com bicarbonato de 35 mEq/L é retenção crônica compensada.",
+   "D": "Errada. Manter a máscara com reservatório perpetua a hiperóxia que ameaça elevar a PaCO2; VNI não corrige o excesso de oxigênio e não tem indicação com este pH."
+  },
+  "para_levar": "Na exacerbação da DPOC, o alvo de SpO2 é 88% a 92%: diante de hiperóxia, reduz-se a FiO2 sem suspender o oxigênio, e a VNI se indica pelo pH (igual ou menor que 7,35), não pelo valor isolado da PaCO2.",
+  "referencias": "GOLD 2025/2026; BTS Guideline for oxygen use in adults in healthcare and emergency settings (2017); ERS/ATS Guidelines for noninvasive ventilation in acute respiratory failure (2017).",
+  "tags": [
+   "DPOC - exacerbação (CM)",
+   "DPOC (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "UERJ recorrente: oxigenoterapia na DPOC hipercápnica, reduzir e não suspender, e o pH como critério de VNI",
+  "_arquivo": "PNE-R03.json",
+  "numero": 25
+ },
+ {
+  "id": "R03-NEU-01",
+  "simulado": "R03",
+  "area": "Neurologia",
+  "titulo": "Papiledema no homem obeso em uso de testosterona com hematócrito de 57%: venografia antes de aceitar o rótulo de hipertensão intracraniana idiopática",
+  "arma": "Rótulo verdadeiro",
+  "comando": "próximo exame",
+  "nivel": "difícil",
+  "enunciado": "Homem de 38 anos, fisiculturista, procura o ambulatório por cefaleia holocraniana há 5 semanas, pior ao deitar e ao tossir, com escurecimentos visuais de segundos ao se levantar e zumbido pulsátil à direita. Usa por conta própria cipionato de testosterona 250 mg por semana há 8 meses, associado a oxandrolona. A esposa relata roncos altos com pausas respiratórias. IMC 31 kg/m², PA 138/86 mmHg, FC 72 bpm. Papiledema bilateral grau III e paresia do VI nervo à esquerda, sem outros déficits. Hemograma: hemoglobina 18,9 g/dL, hematócrito 57%, plaquetas 260.000/mm³. TC de crânio sem contraste e RM de encéfalo sem contraste: parênquima normal, sela parcialmente vazia e achatamento posterior dos globos oculares. O neurologista assistente registra 'hipertensão intracraniana idiopática em paciente obeso' e prescreve acetazolamida após a punção lombar com manometria, já agendada. O próximo passo mais adequado é:",
+  "alternativas": {
+   "A": "Punção lombar com manometria",
+   "B": "Venografia por ressonância magnética",
+   "C": "Acetazolamida e perda de peso",
+   "D": "Polissonografia de noite inteira"
+  },
+  "gabarito": "B",
+  "armadilha": "A",
+  "dado_decisivo": "hematócrito 57%",
+  "resolucao": "Obesidade, papiledema, VI nervo e imagem com sela vazia e achatamento dos globos formam o quadro que o assistente rotulou, e a punção com manometria parece o passo seguinte natural. Esses sinais, porém, indicam pressão intracraniana alta de qualquer causa, e a RM sem fase venosa não exclui trombose dos seios durais. Neste homem há dois fatores trombóticos: o androgênio exógeno e a policitemia secundária a ele, com hematócrito de 57%, além do zumbido pulsátil. O sexo masculino é incomum na hipertensão intracraniana idiopática, o que reforça a busca de causa secundária. A punção mostraria pressão alta nas duas doenças e não as separa; a venografia por RM (ou angio-TC venosa) vem antes, porque a trombose muda a conduta para anticoagulação. A apneia do sono é causa de pressão intracraniana elevada a ser investigada depois, não o passo que exclui a doença grave.",
+  "comentarios": {
+   "A": "Errada. Confirma pressão de abertura alta, mas não distingue a forma idiopática da trombose venosa; só se faz depois da venografia normal.",
+   "B": "Correta. Androgênio exógeno e hematócrito de 57% tornam a trombose dos seios durais plausível, e a RM sem fase venosa não a exclui.",
+   "C": "Errada. Seria o tratamento da hipertensão intracraniana idiopática confirmada, depois de excluir causa secundária.",
+   "D": "Errada. A apneia do sono pode elevar a pressão intracraniana e merece estudo, mas não exclui a trombose venosa, que é a causa a afastar primeiro."
+  },
+  "para_levar": "Papiledema com TC e RM sem contraste normais não é hipertensão intracraniana idiopática até a venografia excluir trombose venosa cerebral, sobretudo no homem, com androgênio ou policitemia.",
+  "referencias": "Mollan SP et al. Idiopathic intracranial hypertension: consensus guidelines on management. J Neurol Neurosurg Psychiatry 2018; Saposnik G et al. AHA Scientific Statement on Cerebral Venous Thrombosis, Stroke 2024.",
+  "tags": [
+   "Abordagem Inicial das Cefaleias (CM)",
+   "Neurovascular (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "S1 q19: a venografia vem antes da punção; o cenário agora é o homem com androgênio e policitemia, sem anticoncepcional",
+  "_arquivo": "NEU-R03.json",
+  "numero": 26
+ },
+ {
+  "id": "R03-NEF-02",
+  "simulado": "R03",
+  "area": "Nefrologia",
+  "titulo": "Microangiopatia trombótica no puerpério sem resposta à plasmaférese, com ADAMTS13 de 64% e C3 baixo: SHU atípica e inibidor de C5",
+  "arma": "Grade X / Y",
+  "comando": "conduta",
+  "nivel": "extremamente difícil",
+  "enunciado": "Mulher de 27 anos, 5 semanas após parto vaginal sem intercorrências, com pré-natal normal e sem pré-eclâmpsia, procura a emergência por astenia, edema e redução da diurese há 4 dias. Teve dois episódios de fezes amolecidas, sem sangue, na semana anterior. PA 168 x 104 mmHg, afebril, sem alteração neurológica. Hemoglobina 7,1 g/dL com esquizócitos, plaquetas 62.000/mm³, LDH 1.840 U/L, haptoglobina indetectável, Coombs direto negativo, creatinina 4,6 mg/dL, C3 58 mg/dL (90 a 180), C4 normal. O plantão iniciou plasmaférese diária com a hipótese de púrpura trombocitopênica trombótica; após 5 sessões, plaquetas de 70.000/mm³ e creatinina de 4,9 mg/dL. Chega então o resultado da atividade de ADAMTS13 colhida antes da primeira sessão: 64%. Pesquisa de Shiga toxina nas fezes negativa. O diagnóstico e a conduta mais adequada neste momento são, respectivamente:",
+  "alternativas": {
+   "A": "SHU atípica / eculizumabe",
+   "B": "PTT adquirida / caplacizumabe",
+   "C": "SHU atípica / plasmaférese mantida",
+   "D": "SHU por Shiga toxina / suporte"
+  },
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "atividade de ADAMTS13 colhida antes da primeira sessão: 64%",
+  "resolucao": "A plasmaférese iniciada às cegas foi correta, porque a PTT mata em horas e não se espera o ADAMTS13; o erro é manter o rótulo depois do resultado. Atividade de ADAMTS13 colhida antes da plasmaférese acima de 10% (aqui 64%) exclui PTT, e com Shiga toxina negativa e diarreia discreta, sem sangue, a SHU por STEC também sai. Microangiopatia com lesão renal grave, hipertensão, C3 baixo e C4 normal no puerpério é SHU atípica mediada por complemento, com frequência desencadeada pela gestação. A falta de resposta renal à plasmaférese é esperada: o tratamento de escolha é o bloqueio do C5 com eculizumabe (ou ravulizumabe), iniciado o quanto antes para preservar o rim, com vacinação antimeningocócica e profilaxia antibiótica.",
+  "comentarios": {
+   "A": "Correta. ADAMTS13 acima de 10%, Shiga toxina negativa, lesão renal dominante e C3 baixo no puerpério definem SHU atípica, tratada com inibidor de C5.",
+   "B": "Errada. É a armadilha do rótulo do plantão: caplacizumabe com plasmaférese seria para PTT adquirida, que exige ADAMTS13 abaixo de 10%.",
+   "C": "Errada. O diagnóstico está certo, mas plasmaférese mantida só seria aceitável sem acesso ao inibidor de C5; ela não recupera a função renal na SHU atípica.",
+   "D": "Errada. Seria a conduta na SHU por STEC, com diarreia sanguinolenta e toxina presente; aqui a toxina é negativa e a diarreia foi mínima."
+  },
+  "para_levar": "Na microangiopatia trombótica, ADAMTS13 acima de 10% tira a PTT; sem Shiga toxina, com rim dominante e gatilho como o puerpério, é SHU atípica, e o tratamento é o inibidor de C5, e não plasmaférese indefinida.",
+  "referencias": "Goodship THJ et al. Atypical hemolytic uremic syndrome and C3 glomerulopathy: KDIGO Controversies Conference. Kidney Int 2017; KDIGO 2021 Clinical Practice Guideline for the Management of Glomerular Diseases.",
+  "tags": [
+   "Microangiopatia Trombótica (MAT) (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "UERJ recorrente: SHU atípica; padrão do aluno de manter o rótulo inicial (S1 q37, S3 q16)",
+  "_arquivo": "NEF-R03.json",
+  "numero": 27
+ },
+ {
+  "id": "R03-REU-06",
+  "simulado": "R03",
+  "area": "Reumatologia",
+  "titulo": "Doença por depósito de pirofosfato antes dos 55 anos com hipomagnesemia e hipocalciúria: síndrome de Gitelman, e não hemocromatose pela ferritina alta",
+  "arma": "Limiar",
+  "comando": "etiologia",
+  "nivel": "difícil",
+  "enunciado": "Homem de 38 anos tem o terceiro episódio, em 2 anos, de monoartrite aguda do joelho. A artrocentese mostra cristais romboides com birrefringência fracamente positiva, 18.000 leucócitos/mm³, Gram e cultura negativos. Radiografias: condrocalcinose meniscal bilateral e na fibrocartilagem triangular dos punhos. Relata cãibras frequentes e fadiga desde a adolescência; nega uso de diuréticos, laxativos ou álcool em excesso. PA 104 x 66 mmHg, sem hepatomegalia, pele sem hiperpigmentação. Sódio 138 mEq/L, potássio 2,9 mEq/L, bicarbonato 31 mEq/L, magnésio 1,1 mg/dL (referência: 1,7 a 2,4), cálcio 9,4 mg/dL, PTH 42 pg/mL, TSH normal. Ferritina 520 ng/mL (referência: 30 a 400) com saturação de transferrina de 29%, colhidas durante a crise. Cálcio urinário de 40 mg/24 h. A causa subjacente mais provável da doença por depósito de pirofosfato é:",
+  "alternativas": {
+   "A": "Hemocromatose hereditária",
+   "B": "Síndrome de Gitelman",
+   "C": "Hiperparatireoidismo primário",
+   "D": "Síndrome de Bartter"
+  },
+  "gabarito": "B",
+  "armadilha": "A",
+  "dado_decisivo": "saturação de transferrina de 29%",
+  "resolucao": "Doença por depósito de pirofosfato antes dos 55 anos obriga a procurar causa metabólica, e a ferritina acima da referência puxa para hemocromatose. Só que a ferritina é reagente de fase aguda e foi colhida na crise; o que define sobrecarga de ferro é a saturação de transferrina acima de 45%, e 29% está normal. O que sobra é hipomagnesemia: o magnésio é cofator das pirofosfatases, e sua falta acumula pirofosfato na cartilagem. Hipocalemia, alcalose metabólica, pressão baixa, hipomagnesemia e hipocalciúria, sem diurético, desde a adolescência, são a síndrome de Gitelman (defeito do cotransportador sódio-cloro do túbulo distal). A hipocalciúria a separa da síndrome de Bartter, que cursa com cálcio urinário normal ou alto, e o cálcio e o PTH normais afastam hiperparatireoidismo.",
+  "comentarios": {
+   "A": "Errada. Seria a causa se a saturação de transferrina passasse de 45%; a ferritina alta colhida na crise é reação de fase aguda.",
+   "B": "Correta. Hipomagnesemia com hipocalemia, alcalose e hipocalciúria sem diurético é Gitelman, e o magnésio baixo favorece o depósito de pirofosfato.",
+   "C": "Errada. É causa conhecida de condrocalcinose, mas pediria cálcio ou PTH elevados, normais aqui.",
+   "D": "Errada. Também cursa com hipocalemia e alcalose, mas com cálcio urinário normal ou alto e magnésio em geral normal; a hipocalciúria fala contra."
+  },
+  "para_levar": "Pirofosfato antes dos 55 anos: dosar magnésio, cálcio, PTH, fosfatase alcalina e saturação de transferrina. Hipomagnesemia com hipocalciúria e alcalose aponta Gitelman; ferritina alta isolada, colhida na crise, não é hemocromatose.",
+  "referencias": "Zhang W et al. EULAR recommendations for calcium pyrophosphate deposition, Ann Rheum Dis 2011; Tedeschi SK et al. 2023 ACR/EULAR classification criteria for CPPD disease; Blanchard A et al. Gitelman syndrome: consensus and guidance from KDIGO, Kidney Int 2017.",
+  "tags": [
+   "Tubulopatias (CM)",
+   "Distúrbios de Fósforo e Magnésio (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "UERJ recorrente: gota, pirofosfato e artrite séptica (causa secundária da doença por pirofosfato no jovem); padrão do aluno de aceitar o laboratório que imita outra doença",
+  "_arquivo": "REU-R03.json",
+  "numero": 28
+ },
+ {
+  "id": "R03-CAR-05",
+  "simulado": "R03",
+  "area": "Cardiologia",
+  "titulo": "Insuficiência cardíaca nova no diabético com edema atribuído ao anlodipino: suspender a pioglitazona",
+  "arma": "Droga a deduzir",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Homem de 66 anos, diabético há 12 anos, hipertenso e com angina estável controlada, usa metformina 850 mg de 12 em 12 horas, losartana 100 mg/dia, anlodipino 10 mg/dia, AAS 100 mg/dia, atorvastatina 40 mg/dia e pioglitazona 45 mg/dia, esta acrescentada há 4 meses por hemoglobina glicada de 8,4%. Nos últimos 3 meses ganhou 5 kg e notou edema de membros inferiores até os joelhos; a enfermeira da unidade atribuiu o edema ao anlodipino, que ele usa há 6 anos. Há 3 semanas tem dispneia aos esforços moderados e precisa de dois travesseiros para dormir. Ao exame: PA 138 x 84 mmHg, FC 88 bpm, SatO2 95%, turgência jugular a 45 graus, estertores crepitantes nas bases, terceira bulha e edema 2+/4 depressível. Creatinina 1,3 mg/dL (TFGe 58 mL/min/1,73 m²), potássio 4,6 mEq/L, NT-proBNP 2.100 pg/mL, hemoglobina glicada atual de 7,1%. Ecocardiograma: FE de 46%, sem valvopatia. Entre os medicamentos em uso, o que deve ser suspenso é:",
+  "alternativas": {
+   "A": "Metformina",
+   "B": "Losartana",
+   "C": "Pioglitazona",
+   "D": "Anlodipino"
+  },
+  "gabarito": "C",
+  "armadilha": "D",
+  "dado_decisivo": "esta acrescentada há 4 meses",
+  "resolucao": "O edema do anlodipino é real e frequente, e a enfermeira tem uma explicação pronta; mas edema por bloqueador de cálcio di-hidropiridínico é vasodilatação pré-capilar, sem congestão, e não explica turgência jugular, estertores, terceira bulha nem NT-proBNP elevado. O que mudou na cronologia foi a pioglitazona, iniciada 4 meses antes, junto com o ganho de peso e o edema: as glitazonas aumentam a reabsorção de sódio no túbulo coletor e expandem o volume, precipitando ou agravando insuficiência cardíaca. São contraindicadas na insuficiência cardíaca sintomática, e a diretriz recomenda não usá-las nesse paciente. O anlodipino é neutro em insuficiência cardíaca e pode ficar por causa da angina, ao contrário dos bloqueadores de cálcio não di-hidropiridínicos (verapamil, diltiazem), que pioram a disfunção sistólica. Para o controle glicêmico, a troca natural é por um inibidor de SGLT2, que trata ao mesmo tempo a insuficiência cardíaca.",
+  "comentarios": {
+   "A": "Errada. Seria suspensa com TFGe abaixo de 30 ou na insuficiência cardíaca descompensada com hipoperfusão e risco de acidose lática; não é o caso.",
+   "B": "Errada. Seria suspensa em hipercalemia grave ou injúria renal aguda; com potássio de 4,6 e TFGe estável, o bloqueio do SRAA deve ser mantido e otimizado.",
+   "C": "Correta. Glitazona causa retenção de sódio e insuficiência cardíaca, e o quadro começou depois de sua introdução.",
+   "D": "Errada. É a armadilha do rótulo da enfermeira; o anlodipino é usado há 6 anos, causa edema sem congestão e é neutro na insuficiência cardíaca."
+  },
+  "para_levar": "Insuficiência cardíaca que surge ou piora após pioglitazona: suspenda a glitazona e troque por iSGLT2. Anlodipino é neutro na IC; o bloqueador de cálcio a evitar é o não di-hidropiridínico.",
+  "referencias": "ADA Standards of Care in Diabetes 2026, seção Cardiovascular Disease and Risk Management; 2022 AHA/ACC/HFSA Guideline for the Management of Heart Failure; Diretriz da Sociedade Brasileira de Diabetes 2025.",
+  "tags": [
+   "Insuficiência Cardíaca (CM)",
+   "Antidiabéticos (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "UERJ recorrente: IC com droga que a comorbidade contraindica (pioglitazona x BCC)",
+  "_arquivo": "CAR-R03.json",
+  "numero": 29
+ },
+ {
+  "id": "R03-END-01",
+  "simulado": "R03",
+  "area": "Endocrinologia",
+  "titulo": "Hipoglicemia hiperinsulinêmica com peptídeo C alto em técnica de enfermagem cujo marido usa insulina: origem endógena e pesquisa de sulfonilureia antes de localizar insulinoma",
+  "arma": "Grade X / Y",
+  "comando": "próximo exame",
+  "nivel": "extremamente difícil",
+  "enunciado": "Mulher de 38 anos, técnica de enfermagem em hospital-dia de diabetes, é levada à emergência pela terceira vez em 2 meses com sudorese, confusão e glicemia capilar de 34 mg/dL, revertidas com glicose venosa. Não tem diabetes, nega etilismo, perda de peso ou cirurgia gástrica. O marido usa insulina glargina e metformina, e o pai, que mora com o casal, usa gliclazida. Na crise atual, antes da glicose: glicemia plasmática 38 mg/dL, insulina 42 µU/mL (esperado em hipoglicemia: abaixo de 3), peptídeo C 4,6 ng/mL (esperado: abaixo de 0,6), pró-insulina 12 pmol/L (esperado: abaixo de 5), beta-hidroxibutirato 0,1 mmol/L e elevação da glicemia de 38 mg/dL após 1 mg de glucagon. Anticorpos anti-insulina negativos. Tomografia de abdome com contraste, feita em outro serviço, sem lesão pancreática. A origem da insulina e o exame mais adequado a seguir são, respectivamente:",
+  "alternativas": {
+   "A": "Exógena / insulina dosada por outro ensaio",
+   "B": "Endógena / ecoendoscopia do pâncreas",
+   "C": "Endógena / pesquisa de sulfonilureias no plasma",
+   "D": "Exógena / observação sem acesso a insulina"
+  },
+  "gabarito": "C",
+  "armadilha": "B",
+  "dado_decisivo": "o pai, que mora com o casal, usa gliclazida",
+  "resolucao": "A profissão e o marido em uso de insulina puxam para hipoglicemia factícia por insulina, e a tomografia normal empurra o apressado para a ecoendoscopia atrás de um insulinoma pequeno. O perfil laboratorial, porém, é de hiperinsulinismo endógeno: peptídeo C e pró-insulina altos junto com a insulina, cetona suprimida e resposta ao glucagon. Insulina exógena suprimiria o peptídeo C, o que não ocorreu. Hiperinsulinismo endógeno tem três causas a separar: insulinoma, nesidioblastose e secretagogo de insulina, e o secretagogo produz exatamente o mesmo perfil bioquímico do insulinoma. Por isso a pesquisa de sulfonilureias e glinidas no plasma, colhido na hipoglicemia, precede qualquer exame de localização, sobretudo quando há gliclazida na casa. Os anticorpos anti-insulina negativos afastam a hipoglicemia autoimune.",
+  "comentarios": {
+   "A": "Errada. Seria o raciocínio para insulina exógena com peptídeo C suprimido, em que alguns análogos escapam do ensaio; aqui o peptídeo C alto prova secreção endógena.",
+   "B": "Errada. É a armadilha: a ecoendoscopia é o passo seguinte ao insulinoma bioquímico com tomografia negativa, mas só depois de afastado o secretagogo, que imita o insulinoma no laboratório.",
+   "C": "Correta. Peptídeo C e pró-insulina altos indicam secreção endógena, e com gliclazida acessível em casa a sulfonilureia no plasma tem de ser dosada antes de localizar tumor.",
+   "D": "Errada. Seria uma estratégia diante de insulina exógena com peptídeo C suprimido; aqui a insulina não veio de fora."
+  },
+  "para_levar": "Insulina, peptídeo C e pró-insulina altos na hipoglicemia significam secreção endógena, e o secretagogo produz o mesmo perfil do insulinoma: dose sulfonilureia no plasma antes de qualquer imagem.",
+  "referencias": "Cryer PE et al. Evaluation and management of adult hypoglycemic disorders: Endocrine Society Clinical Practice Guideline. J Clin Endocrinol Metab 2009; ADA Standards of Care in Diabetes 2026, seção 6.",
+  "tags": [
+   "Hipoglicemias (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "UERJ recorrente: hipoglicemia factícia + S2 q53 (foi para a imagem de pâncreas antes da dosagem de sulfonilureia)",
+  "_arquivo": "END-R03.json",
+  "numero": 30
+ },
+ {
+  "id": "R03-HEM-04",
+  "simulado": "R03",
+  "area": "Hematologia",
+  "titulo": "Lesão cerebral periventricular homogênea em imunocompetente estável: biópsia estereotáxica antes de qualquer corticoide pela suspeita de linfoma primário do SNC",
+  "arma": "Rótulo verdadeiro",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 66 anos, hipertensa em uso de hidroclorotiazida, é trazida pela filha por 5 semanas de apatia, esquecimento progressivo e episódios de desorientação. Nega febre, perda de peso, cefaleia intensa e vômitos. Sorologia para HIV não reagente. Exame: Glasgow 15, sem papiledema, sem déficit motor, Mini-Mental 21. A RM de crânio mostra lesão única de 3,2 cm no esplênio do corpo caloso, em contato com o ventrículo, com realce homogêneo pelo gadolínio, restrição à difusão e edema perilesional moderado, com desvio da linha média de 2 mm. A avaliação oftalmológica com lâmpada de fenda é normal. TC de tórax, abdome e pelve sem alterações; LDH 240 U/L. O plantonista prescreveu dexametasona 4 mg de 6 em 6 horas por causa do edema, ainda não administrada. A conduta mais adequada é:",
+  "alternativas": {
+   "A": "Dexametasona e biópsia após reduzir o edema",
+   "B": "Ressecção cirúrgica ampla da lesão",
+   "C": "Radioterapia de crânio total empírica",
+   "D": "Biópsia estereotáxica sem corticoide prévio"
+  },
+  "gabarito": "D",
+  "armadilha": "A",
+  "dado_decisivo": "Glasgow 15, sem papiledema, sem déficit motor",
+  "resolucao": "O edema perilesional é verdadeiro e a dexametasona é o reflexo diante de qualquer lesão expansiva, o que torna atraente tratar o edema primeiro e biopsiar depois. Mas lesão periventricular, cruzando o corpo caloso, com realce homogêneo e restrição à difusão em imunocompetente é linfoma primário do SNC até prova em contrário, e o corticoide induz apoptose das células do linfoma: a lesão pode encolher ou sumir e a biópsia vir inconclusiva, atrasando o diagnóstico em semanas. A paciente está consciente, sem papiledema e com desvio mínimo da linha média, ou seja, sem hipertensão intracraniana que obrigue o corticoide agora. A conduta é biópsia estereotáxica sem corticoide e, confirmado o linfoma (quase sempre difuso de grandes células B), quimioterapia baseada em metotrexato em altas doses. A ressecção ampla não melhora a sobrevida nessa doença infiltrativa e multifocal, e a radioterapia de crânio total empírica, sem diagnóstico, causa neurotoxicidade e não é o tratamento inicial.",
+  "comentarios": {
+   "A": "Errada. É a armadilha do edema: o corticoide é necessário quando há herniação iminente, mas antes da biópsia pode desfazer o linfoma e tornar a histologia inconclusiva.",
+   "B": "Errada. Seria a abordagem de metástase única ou glioma ressecável; no linfoma primário do SNC a ressecção não muda a sobrevida e acrescenta déficit.",
+   "C": "Errada. Já foi o tratamento do linfoma primário do SNC e ainda é consolidação em casos selecionados, mas nunca sem diagnóstico histológico e com neurotoxicidade importante no idoso.",
+   "D": "Correta. Paciente sem hipertensão intracraniana grave (Glasgow 15, sem papiledema) deve ser biopsiado antes de qualquer corticoide quando a imagem sugere linfoma."
+  },
+  "para_levar": "Na suspeita de linfoma primário do SNC, o corticoide espera a biópsia sempre que o paciente estiver estável; o tratamento depois é metotrexato em altas doses, e não cirurgia.",
+  "referencias": "Hoang-Xuan K et al. EANO guidelines for primary CNS lymphoma. Lancet Oncol 2015 e atualização 2023; NCCN Guidelines Central Nervous System Cancers 2025.",
+  "tags": [
+   "Linfomas (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "UERJ recorrente: linfoma primário do SNC, agora no imunocompetente e no momento do corticoide",
+  "_arquivo": "HEM-R03.json",
+  "numero": 31
+ },
+ {
+  "id": "R03-INF-01",
+  "simulado": "R03",
+  "area": "Infectologia",
+  "titulo": "Sífilis tratada na pessoa com HIV com VDRL baixo e estável há 2 anos: cicatriz sorológica, sem punção e sem retratamento",
+  "arma": "Omissão",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Homem de 41 anos vive com HIV há 8 anos, em uso regular de tenofovir, lamivudina e dolutegravir, com carga viral indetectável e CD4 de 290 células/mm³ no último controle. Há 3 anos teve sífilis secundária, com VDRL de 1:128, tratada com penicilina benzatina 2,4 milhões UI em dose única, com registro de aplicação. Controles do VDRL: aos 6 meses, 1:8; aos 12 meses, 1:4; depois, 1:2, 1:4, 1:2 e 1:2 nos últimos 24 meses. Mantém parceria única estável, cujo teste rápido treponêmico do último mês foi não reagente, e usa preservativo de forma irregular. Nega cefaleia, alteração visual, zumbido ou perda auditiva; exame neurológico e fundoscopia normais, sem lesões cutâneas ou mucosas. Foi encaminhado pela unidade básica porque o VDRL 'continua reagente' e o teste treponêmico permanece reagente. A conduta mais adequada neste momento é:",
+  "alternativas": {
+   "A": "Penicilina benzatina em três doses semanais",
+   "B": "Penicilina cristalina intravenosa por 14 dias",
+   "C": "Manter apenas o seguimento sorológico",
+   "D": "Punção lombar antes de decidir o retratamento"
+  },
+  "gabarito": "C",
+  "armadilha": "D",
+  "dado_decisivo": "aos 6 meses, 1:8",
+  "resolucao": "O HIV, o CD4 abaixo de 350 e o VDRL que nunca negativou empurram para investigar neurossífilis por punção lombar, e é aí que o apressado marca. Mas a resposta ao tratamento foi adequada e rápida: de 1:128 para 1:8 em 6 meses, quatro diluições, bem acima do critério de queda de duas diluições. Depois disso o título ficou estável em níveis baixos, e a oscilação entre 1:2 e 1:4 é de uma diluição só, dentro da variação do método, e não conta como elevação, que exige aumento de duas diluições. Sem sintoma neurológico, ocular ou auditivo, sem nova lesão e com parceria testada, o quadro é de cicatriz sorológica, que pode durar a vida toda e não indica retratamento nem punção. O teste treponêmico reagente não ajuda: ele fica positivo para sempre e não serve para seguimento. A conduta é manter o VDRL periódico, e só uma elevação de duas diluições ou sintomas mudam o plano.",
+  "comentarios": {
+   "A": "Errada. Seria o retratamento de uma sífilis latente tardia ou de uma falha sem acometimento neurológico; aqui houve queda de quatro diluições em 6 meses e não há falha.",
+   "B": "Errada. Seria o esquema da neurossífilis ou da sífilis ocular; não há sintoma nem líquor que a sustente.",
+   "C": "Correta. Queda adequada seguida de título baixo estável, com oscilação de uma diluição só, é cicatriz sorológica: seguimento, sem retratar.",
+   "D": "Errada. É a armadilha do HIV: a punção entra na falha sorológica, na elevação de duas diluições ou em sintoma neurológico, ocular ou auditivo, e nada disso existe neste caso."
+  },
+  "para_levar": "VDRL que caiu duas ou mais diluições e ficou estável em título baixo é cicatriz sorológica, mesmo na pessoa com HIV: oscilação de uma diluição não é falha e não pede punção nem retratamento.",
+  "referencias": "Ministério da Saúde, PCDT para Atenção Integral às Pessoas com IST (2022); CDC Sexually Transmitted Infections Treatment Guidelines (2021).",
+  "tags": [
+   "Sífilis Latente e Interpretação de VDRL (CM)",
+   "Sífilis, Uretrites Infecciosas e outras DSTs (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "S1 q13 pelo avesso: o critério de resposta sorológica agora separa cicatriz de falha, e a punção vira a armadilha",
+  "_arquivo": "INF-R03.json",
+  "numero": 32
+ },
+ {
+  "id": "R03-NEU-02",
+  "simulado": "R03",
+  "area": "Neurologia",
+  "titulo": "AVC ao despertar com oclusão de M1, FLAIR já positivo e mismatch de perfusão: sem trombólise, com trombectomia",
+  "arma": "Grade X / Y",
+  "comando": "conduta",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 67 anos, hipertenso e com fibrilação atrial em uso irregular de apixabana (última dose há 3 dias), foi visto bem pela esposa às 20h, quando foi deitar, e encontrado às 7h com afasia global e hemiplegia direita. Chega ao pronto-socorro às 8h: PA 176/98 mmHg, FC 96 bpm irregular, glicemia capilar 142 mg/dL, NIHSS 19. Creatinina 0,9 mg/dL, plaquetas 210.000/mm³, INR 1,1, TTPa normal. TC sem contraste: ASPECTS 8. Angiotomografia: oclusão do segmento M1 da artéria cerebral média esquerda. RM imediata: lesão em difusão de 18 mL na ínsula e nos núcleos da base, já com hipersinal nítido no FLAIR na mesma área; perfusão com volume hipoperfundido (Tmax acima de 6 s) de 120 mL. Trombólise intravenosa e trombectomia mecânica estão, respectivamente:",
+  "alternativas": {
+   "A": "Indicada / indicada",
+   "B": "Indicada / contraindicada",
+   "C": "Contraindicada / indicada",
+   "D": "Contraindicada / contraindicada"
+  },
+  "gabarito": "C",
+  "armadilha": "D",
+  "dado_decisivo": "já com hipersinal nítido no FLAIR na mesma área",
+  "resolucao": "Visto bem há 12 horas, o paciente parece fora de qualquer janela, e o apressado não oferece reperfusão. As duas decisões, porém, têm critérios diferentes. A trombectomia de 6 a 24 horas se decide pela imagem: oclusão de grande vaso proximal, NIHSS alto, núcleo pequeno (18 mL) e área hipoperfundida muito maior (relação de 6,7), dentro dos critérios dos estudos DAWN e DEFUSE 3; está indicada. A trombólise no AVC de início desconhecido só é possível quando a RM mostra lesão na difusão sem correspondente no FLAIR, sinal de que o infarto tem menos de 4,5 horas; aqui o FLAIR já está positivo, o que fecha a trombólise. A apixabana há 3 dias, com função renal normal, não seria impedimento, e a PA abaixo de 185/110 também não.",
+  "comentarios": {
+   "A": "Errada. Seria a resposta com difusão positiva e FLAIR ainda negativo (critério do estudo WAKE-UP); aqui o FLAIR já mostra a lesão.",
+   "B": "Errada. Inverte as decisões: a trombólise é que está fechada pelo FLAIR, e a trombectomia preenche os critérios de imagem da janela tardia.",
+   "C": "Correta. FLAIR positivo afasta a trombólise no início desconhecido; oclusão de M1 com núcleo de 18 mL e penumbra de 120 mL indica trombectomia até 24 horas.",
+   "D": "Errada. É a armadilha das 12 horas: a janela da trombectomia é definida pela imagem e vai até 24 horas."
+  },
+  "para_levar": "No AVC ao despertar, a trombólise depende do descompasso difusão positiva e FLAIR negativo; a trombectomia de 6 a 24 horas depende de oclusão proximal com núcleo pequeno e penumbra grande. São critérios independentes.",
+  "referencias": "Powers WJ et al. AHA/ASA Guidelines for the Early Management of Acute Ischemic Stroke, 2019 update; Thomalla G et al. WAKE-UP, NEJM 2018; Nogueira RG et al. DAWN, NEJM 2018; Albers GW et al. DEFUSE 3, NEJM 2018.",
+  "tags": [
+   "AVC Isquêmico (CM)",
+   "Neurovascular (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "UERJ recorrente: trombólise e trombectomia por mismatch, decididas separadamente no AVC de início desconhecido",
+  "_arquivo": "NEU-R03.json",
+  "numero": 33
+ },
+ {
+  "id": "R03-GAS-02",
+  "simulado": "R03",
+  "area": "Gastroenterologia e hepatologia",
+  "titulo": "Lesão renal no cirrótico sem resposta à albumina, já em terlipressina, com cilindros hemáticos: glomerulonefrite por IgA, e não síndrome hepatorrenal",
+  "arma": "Rótulo verdadeiro",
+  "comando": "etiologia",
+  "nivel": "difícil",
+  "enunciado": "Homem de 56 anos, com cirrose alcoólica Child-Pugh B, abstinente há 8 meses, em uso de espironolactona 100 mg, furosemida 40 mg e propranolol 40 mg ao dia, é internado por aumento do volume abdominal e edema de membros inferiores. Creatinina de 2,4 mg/dL (basal de 1,0 mg/dL há 3 meses), sem uso de anti-inflamatório ou contraste, sem diarreia nem sangramento. Afebril, PA 132/78 mmHg, FC 76 bpm. Paracentese diagnóstica com 60 polimorfonucleares/mm³. Os diuréticos foram suspensos e ele recebeu albumina 1 g/kg por 2 dias, sem queda da creatinina (2,5 mg/dL); a equipe registrou síndrome hepatorrenal e iniciou terlipressina. Sódio urinário de 8 mEq/L. Exame de urina: proteína 2+, 70 hemácias por campo, 80% dismórficas, com cilindros hemáticos; proteinúria de 1,8 g/24 h. C3 discretamente reduzido. Ultrassonografia: rins de 11 cm, sem hidronefrose. A causa mais provável da lesão renal é:",
+  "alternativas": {
+   "A": "Nefrite intersticial aguda por diurético",
+   "B": "Necrose tubular aguda isquêmica",
+   "C": "Síndrome hepatorrenal com lesão renal aguda",
+   "D": "Glomerulonefrite por IgA associada à cirrose"
+  },
+  "gabarito": "D",
+  "armadilha": "C",
+  "dado_decisivo": "70 hemácias por campo, 80% dismórficas, com cilindros hemáticos",
+  "resolucao": "A falta de resposta à expansão com albumina, a suspensão dos diuréticos e o sódio urinário baixo são verdadeiros e lembram síndrome hepatorrenal, rótulo que a equipe já escreveu. Mas o diagnóstico de síndrome hepatorrenal exige ausência de doença renal estrutural: proteinúria acima de 500 mg/dia, hematúria acima de 50 hemácias por campo ou ultrassonografia alterada a afastam. Aqui há proteinúria de 1,8 g/dia, hematúria dismórfica com cilindros hemáticos e C3 baixo, ou seja, glomerulonefrite. No cirrótico, sobretudo alcoólico, a depuração hepática deficiente de imunocomplexos de IgA leva à glomerulopatia por IgA secundária, a glomerulonefrite mais frequente nessa população. O sódio urinário baixo não separa as hipóteses, porque a retenção de sódio da cirrose persiste mesmo com lesão glomerular, e a terlipressina deve ser revista.",
+  "comentarios": {
+   "A": "Errada. Nefrite intersticial cursa com leucocitúria, cilindros leucocitários e proteinúria discreta, e não com hemácias dismórficas e cilindros hemáticos.",
+   "B": "Errada. Necrose tubular daria cilindros granulosos pigmentados e sódio urinário alto após choque ou nefrotóxico, ausentes aqui.",
+   "C": "Errada. Seria o diagnóstico com sedimento inocente e proteinúria abaixo de 500 mg/dia; hematúria dismórfica com cilindros hemáticos é critério de exclusão.",
+   "D": "Correta. Proteinúria de 1,8 g/dia, hematúria dismórfica, cilindros hemáticos e C3 baixo no cirrótico apontam glomerulonefrite por IgA secundária."
+  },
+  "para_levar": "Antes de chamar de síndrome hepatorrenal, olhe o sedimento: proteinúria acima de 500 mg/dia ou hematúria acima de 50 hemácias por campo indicam doença renal estrutural, e no cirrótico a glomerulonefrite por IgA é a principal.",
+  "referencias": "International Club of Ascites, critérios de HRS-AKI (Angeli et al., J Hepatol 2015, revisão 2024); EASL Clinical Practice Guidelines on decompensated cirrhosis, 2018; KDIGO Glomerular Diseases, 2021.",
+  "tags": [
+   "Cirrose e Complicações (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "UERJ recorrente: SHR x outra causa de lesão renal no cirrótico (nefropatia por IgA)",
+  "_arquivo": "GAS-R03.json",
+  "numero": 34
+ },
+ {
+  "id": "R03-END-02",
+  "simulado": "R03",
+  "area": "Endocrinologia",
+  "titulo": "Tireotoxicose por amiodarona sobre bócio multinodular com Doppler hipervascular e captação baixa: tipo 1, metimazol em dose alta",
+  "arma": "Rótulo verdadeiro",
+  "comando": "conduta",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 67 anos, com miocardiopatia isquêmica (fração de ejeção de 35%) e taquicardia ventricular recorrente, usa amiodarona 200 mg ao dia há 14 meses, além de carvedilol, sacubitril-valsartana e espironolactona. Há 4 anos, ainda sem amiodarona, uma ultrassonografia mostrara bócio multinodular, com punções benignas e TSH normal. Há 5 semanas, perdeu 4 kg, a dispneia piorou e o cardiodesfibrilador deu dois choques apropriados. FC 104 bpm, PA 112 x 70 mmHg. TSH abaixo de 0,01 mUI/L, T4 livre 3,9 ng/dL (0,9 a 1,8), T3 total 260 ng/dL (80 a 200), TRAb negativo. Ultrassonografia com Doppler: tireoide aumentada, multinodular, com vascularização aumentada nos nódulos e no parênquima. Captação de iodo radioativo em 24 horas de 9%. O cardiologista não considera seguro retirar a amiodarona. O tratamento inicial mais adequado da tireotoxicose é:",
+  "alternativas": {
+   "A": "Metimazol em dose alta",
+   "B": "Suspensão da amiodarona isolada",
+   "C": "Iodo radioativo em dose ablativa",
+   "D": "Prednisona em dose moderada"
+  },
+  "gabarito": "A",
+  "armadilha": "D",
+  "dado_decisivo": "com vascularização aumentada nos nódulos e no parênquima",
+  "resolucao": "A captação baixa e o TRAb negativo parecem indicar tireoidite destrutiva (tipo 2), cujo tratamento é a prednisona. Mas na tireotoxicose por amiodarona a captação é baixa nos dois tipos, porque a carga de iodo da droga dilui o radiotraçador, e por isso ela não separa os tipos. O que separa é a glândula de base e o Doppler: bócio multinodular prévio e vascularização aumentada indicam síntese excessiva de hormônio pelo excesso de iodo em tecido autônomo (tipo 1), enquanto o tipo 2 ocorre em glândula normal com fluxo ausente. O tipo 1 se trata com tionamida em dose alta, eventualmente com perclorato, e a tireoidectomia fica para refratariedade ou para controle rápido em cardiopata grave. A amiodarona pode ser mantida quando é essencial, como aqui.",
+  "comentarios": {
+   "A": "Correta. Bócio multinodular prévio e hipervascularização ao Doppler definem o tipo 1, de síntese aumentada, tratado com tionamida em dose alta.",
+   "B": "Errada. Seria aceitável num tipo 2 leve em paciente sem arritmia grave; aqui a droga é essencial e seu efeito persiste por meses após a retirada.",
+   "C": "Errada. Seria opção no bócio multinodular tóxico sem carga de iodo; com captação de 9% o iodo radioativo não se concentra na glândula.",
+   "D": "Errada. É a armadilha da captação baixa: prednisona é o tratamento do tipo 2, em glândula normal com fluxo ausente, e a captação é baixa nos dois tipos."
+  },
+  "para_levar": "Na tireotoxicose por amiodarona a captação é baixa nos dois tipos: quem separa é a glândula de base e o Doppler (fluxo aumentado em bócio nodular é tipo 1 e pede tionamida; fluxo ausente em glândula normal é tipo 2 e pede corticoide).",
+  "referencias": "Bartalena L et al. 2018 European Thyroid Association guidelines for the management of amiodarone-associated thyroid dysfunction. Eur Thyroid J 2018; Ross DS et al. 2016 ATA Guidelines for Hyperthyroidism and Other Causes of Thyrotoxicosis. Thyroid 2016.",
+  "tags": [
+   "Tireotoxicose (CM)",
+   "Hipertireoidismo e Tireotoxicose (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "UERJ recorrente: amiodarona e tireoide + S2 q22 (inverteu tipo 1 e tipo 2): agora o tipo 1 com captação baixa como distrator",
+  "_arquivo": "END-R03.json",
+  "numero": 35
+ },
+ {
+  "id": "R03-CAR-02",
+  "simulado": "R03",
+  "area": "Cardiologia",
+  "titulo": "Ruflar apical na insuficiência aórtica grave de valva bicúspide com história reumática: sopro de Austin Flint, que diminui com nitrito de amila",
+  "arma": "Rótulo verdadeiro",
+  "comando": "achado esperado",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 47 anos sabe ter valva aórtica bicúspide desde o serviço militar. A mãe conta que ele teve febre reumática aos 9 anos, com artrite migratória, e recebeu penicilina benzatina por alguns anos. Há 1 ano tem dispneia aos esforços moderados e palpitações ao deitar sobre o lado esquerdo. Ao exame: PA 158 x 46 mmHg, FC 74 bpm, pulsos amplos e de colapso rápido, oscilação da cabeça a cada batimento; ictus no 7º espaço intercostal, hiperdinâmico. Clique ejetivo, sopro diastólico aspirativo 3+/6 na borda esternal esquerda, com o paciente sentado e inclinado para a frente, e ruflar mesodiastólico 2+/6 no ápice, sem reforço pré-sistólico; B1 normofonética, sem estalido de abertura. Ecocardiograma: insuficiência aórtica grave por valva bicúspide, ventrículo esquerdo com diâmetro sistólico de 48 mm e FE de 56%, valva mitral de folhetos finos e sem fusão comissural. Durante a inalação de nitrito de amila, espera-se que o ruflar apical:",
+  "alternativas": {
+   "A": "Aumente na inspiração profunda",
+   "B": "Aumente na fase de esforço do Valsalva",
+   "C": "Diminua de intensidade",
+   "D": "Aumente de intensidade"
+  },
+  "gabarito": "C",
+  "armadilha": "D",
+  "dado_decisivo": "B1 normofonética, sem estalido de abertura",
+  "resolucao": "A febre reumática na infância é verdadeira e transforma o ruflar apical em estenose mitral reumática associada, cujo sopro aumenta com o nitrito de amila, porque a vasodilatação provoca taquicardia reflexa e mais fluxo pela valva estreita. Mas a estenose mitral teria B1 hiperfonética e estalido de abertura, e aqui a B1 é normal, não há estalido e o eco mostra folhetos finos sem fusão comissural. O ruflar é o sopro de Austin Flint: o jato regurgitante aórtico grave atinge o folheto anterior da mitral e limita sua abertura, criando uma estenose funcional. Como depende do volume regurgitante, o sopro diminui quando a pós-carga cai, o que o nitrito de amila faz, e aumenta com a preensão palmar sustentada, que eleva a pós-carga. A lesão aórtica é da valva bicúspide (o clique ejetivo a denuncia), e o diâmetro sistólico de 48 mm já se aproxima do limiar cirúrgico de 50 mm.",
+  "comentarios": {
+   "A": "Errada. Aumento na inspiração (Rivero-Carvallo) é dos sopros de câmaras direitas, como a estenose tricúspide; o ruflar aqui é de origem esquerda.",
+   "B": "Errada. Aumentar no esforço do Valsalva é comportamento da cardiomiopatia hipertrófica obstrutiva; quase todos os outros sopros diminuem na manobra.",
+   "C": "Correta. Austin Flint depende do volume regurgitante aórtico; queda da pós-carga com nitrito de amila reduz o refluxo e o ruflar.",
+   "D": "Errada. É a resposta da estenose mitral reumática, sugerida pela história de febre reumática; B1 normal, ausência de estalido e folhetos finos a afastam."
+  },
+  "para_levar": "Ruflar apical na insuficiência aórtica grave, com B1 normal e sem estalido, é Austin Flint: diminui com nitrito de amila e aumenta com preensão palmar, ao contrário da estenose mitral, que aumenta com o nitrito.",
+  "referencias": "2020 ACC/AHA Guideline for the Management of Patients With Valvular Heart Disease; Braunwald's Heart Disease, 12ª ed. (2022), cap. Aortic Regurgitation e Physical Examination of the Heart.",
+  "tags": [
+   "Insuficiência Aórtica (CM)",
+   "Fisiologia e Semiologia Cardíaca (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "UERJ recorrente: sopros e manobras, valva bicúspide e IA com sinais periféricos + S4 q65 (achado esperado)",
+  "_arquivo": "CAR-R03.json",
+  "numero": 36
+ },
+ {
+  "id": "R03-ONC-02",
+  "simulado": "R03",
+  "area": "Oncologia",
+  "titulo": "Rastreamento de câncer de pulmão no ex-tabagista pesado com DPOC e pai acometido: pela USPSTF, quem parou há mais de 15 anos não entra",
+  "arma": "Qualificador",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Homem de 64 anos procura a unidade de saúde pedindo um exame para câncer de pulmão, porque um amigo da mesma idade acabou de receber esse diagnóstico. Fumou 2 maços por dia dos 18 aos 47 anos (58 maços-ano) e parou há 17 anos, sem recaída. Tem DPOC GOLD 2 em uso de tiotrópio, sem exacerbações no último ano, e o pai morreu de câncer de pulmão aos 70 anos. Nega tosse nova, hemoptise, perda de peso ou dor torácica; a dispneia aos grandes esforços é a mesma de anos. Exame: IMC 27 kg/m², FR 16 irpm, SatO2 95% em ar ambiente, murmúrio vesicular difusamente diminuído, sem baqueteamento digital nem linfonodos palpáveis. Radiografia de tórax de 1 ano atrás com hiperinsuflação, sem nódulos. Segundo a recomendação da USPSTF (2021), a conduta mais adequada quanto ao rastreamento do câncer de pulmão é:",
+  "alternativas": {
+   "A": "TC de baixa dose anual",
+   "B": "TC de baixa dose por 3 anos",
+   "C": "Radiografia de tórax anual",
+   "D": "Não indicar o rastreamento"
+  },
+  "gabarito": "D",
+  "armadilha": "A",
+  "dado_decisivo": "parou há 17 anos",
+  "resolucao": "Carga tabágica enorme, DPOC, pai com câncer de pulmão e a idade dentro da faixa fazem a TC de baixa dose anual parecer óbvia. A USPSTF (2021) indica o rastreamento entre 50 e 80 anos para quem tem 20 maços-ano ou mais e fuma atualmente ou parou há no máximo 15 anos; ele parou há 17, e o rastreamento se encerra 15 anos após a cessação. DPOC e história familiar aumentam o risco, mas não são critérios de entrada nessa recomendação. O qualificador do comando é o que decide: a American Cancer Society (2023) retirou o critério de tempo desde a cessação e o incluiria, e no Brasil não há programa organizado do Ministério da Saúde para câncer de pulmão. Sem sintomas, a investigação não se justifica como diagnóstico, e a radiografia de tórax não reduz mortalidade como rastreamento.",
+  "comentarios": {
+   "A": "Errada. É a armadilha da carga tabágica; seria a conduta se ele tivesse parado há 15 anos ou menos, ou pela American Cancer Society (2023), que não usa o tempo desde a cessação.",
+   "B": "Errada. Três rodadas foi o desenho do NLST, não uma recomendação; quem é elegível faz TC anual enquanto permanecer elegível.",
+   "C": "Errada. A radiografia de tórax anual não reduziu mortalidade nos ensaios (PLCO) e não é método de rastreamento em nenhuma diretriz.",
+   "D": "Correta. Pela USPSTF, o rastreamento termina quando a cessação passa de 15 anos, independentemente de DPOC e história familiar."
+  },
+  "para_levar": "USPSTF 2021: TC de baixa dose anual de 50 a 80 anos, com 20 maços-ano ou mais, fumante atual ou que parou há até 15 anos; a ACS 2023 retirou o limite de tempo desde a cessação, por isso o qualificador do comando decide.",
+  "referencias": "USPSTF, Lung Cancer: Screening (2021); American Cancer Society Lung Cancer Screening Guideline (2023); INCA, Detecção precoce do câncer (2021).",
+  "tags": [
+   "Rastreamentos em Clínica Médica (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "S3 q34: quando não rastrear (antes encerrar após histerectomia, agora o critério de cessação do tabagismo)",
+  "_arquivo": "ONC-R03.json",
+  "numero": 37
+ },
+ {
+  "id": "R03-PNE-03",
+  "simulado": "R03",
+  "area": "Pneumologia",
+  "titulo": "Padrão de pneumonia intersticial usual sem exposição e com FAN 1:80 isolado: FPI diagnosticada sem biópsia e tratada com antifibrótico",
+  "arma": "Rótulo verdadeiro",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Homem de 69 anos, ex-tabagista (30 maços-ano), contador aposentado, refere dispneia progressiva e tosse seca há 18 meses. Usa losartana e atorvastatina; nunca usou amiodarona, nitrofurantoína ou metotrexato. Nega pássaros, mofo em casa, edredom ou travesseiro de penas, umidificador e trabalho com poeiras. Nega Raynaud, artrite, rigidez matinal, fraqueza muscular, fissuras nas mãos e disfagia. Ao exame, SpO2 93% em repouso, baqueteamento digital e estertores em velcro nas bases, sem lesões cutâneas. FAN 1:80, padrão nuclear pontilhado fino; fator reumatoide, anti-CCP, anti-Ro, anti-Scl-70 e painel de antissintetases negativos; CPK normal. TC de tórax de alta resolução: reticulação subpleural de predomínio basal com faveolamento subpleural basal com bronquiectasias de tração, sem vidro fosco extenso, sem micronódulos e sem atenuação em mosaico. CVF 68% e DLCO 49% do previsto. A discussão multidisciplinar não identificou causa secundária. A conduta mais adequada é:",
+  "alternativas": {
+   "A": "Biópsia pulmonar cirúrgica",
+   "B": "Micofenolato de mofetila",
+   "C": "Prednisona, azatioprina e N-acetilcisteína",
+   "D": "Nintedanibe ou pirfenidona"
+  },
+  "gabarito": "D",
+  "armadilha": "B",
+  "dado_decisivo": "faveolamento subpleural basal com bronquiectasias de tração",
+  "resolucao": "O FAN reagente é verdadeiro e puxa para doença intersticial associada a colagenose, tratada com imunossupressor. Mas FAN em título baixo (1:80) aparece em parte da população idosa e, sem autoanticorpo específico nem quadro clínico de doença autoimune, não define colagenose. Com as exposições e as drogas afastadas, a TC com padrão de pneumonia intersticial usual definida (faveolamento basal subpleural com bronquiectasias de tração, sem achados de outro padrão) basta para o diagnóstico de fibrose pulmonar idiopática na discussão multidisciplinar, sem biópsia. O tratamento é antifibrótico (nintedanibe ou pirfenidona), que reduz o declínio da CVF. Corticoide com azatioprina aumentou mortalidade e internação na FPI (estudo PANTHER) e não se usa.",
+  "comentarios": {
+   "A": "Errada. A biópsia cirúrgica ajuda quando a TC é indeterminada ou sugere outro diagnóstico; com padrão de pneumonia intersticial usual definida e sem causa secundária, o diagnóstico de FPI dispensa biópsia, que tem risco nesse paciente.",
+   "B": "Errada. É a armadilha do FAN: micofenolato seria a escolha na doença intersticial de esclerose sistêmica ou de outra colagenose definida; FAN 1:80 isolado, sem anticorpo específico nem clínica, não faz esse diagnóstico.",
+   "C": "Errada. Foi a terapia antiga da FPI, abandonada porque aumentou mortalidade e internações no estudo PANTHER.",
+   "D": "Correta. Padrão de pneumonia intersticial usual definida, sem exposição, droga ou colagenose: FPI, tratada com antifibrótico."
+  },
+  "para_levar": "TC com pneumonia intersticial usual definida, sem exposição, droga ou colagenose, fecha FPI sem biópsia; FAN em título baixo isolado não muda isso, e o tratamento é antifibrótico, nunca corticoide com azatioprina.",
+  "referencias": "ATS/ERS/JRS/ALAT Idiopathic Pulmonary Fibrosis (an update) and Progressive Pulmonary Fibrosis in Adults, 2022; Diretrizes SBPT para FPI (2020).",
+  "tags": [
+   "Fibrose Pulmonar Idiopática (FPI) (CM)",
+   "Doença Pulmonar Intersticial (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "UERJ recorrente: FPI e antifibrótico após perguntar exposição; cruza com S3 q74 (a anamnese de exposição decide antes do exame invasivo)",
+  "_arquivo": "PNE-R03.json",
+  "numero": 38
+ },
+ {
+  "id": "R03-REU-02",
+  "simulado": "R03",
+  "area": "Reumatologia",
+  "titulo": "Pneumopatia intersticial com fator reumatoide, Raynaud e anti-Jo-1 negativo com FAN citoplasmático: painel ampliado de antissintetase",
+  "arma": "Rótulo verdadeiro",
+  "comando": "próximo exame",
+  "nivel": "extremamente difícil",
+  "enunciado": "Mulher de 52 anos, não tabagista, apresenta há 5 meses dispneia progressiva, tosse seca e febre baixa intermitente, com artralgia simétrica de punhos e metacarpofalangeanas e fenômeno de Raynaud há 1 ano. Nega fraqueza, disfagia ou lesões em pálpebras. Exame: SpO2 de 91% em ar ambiente, estertores em velcro nas bases, força grau 5 nas cinturas, descamação fissurada nas bordas laterais dos dedos indicadores, sem espessamento cutâneo proximal e sem esclerodactilia. CK 160 U/L (referência: até 170), aldolase normal. Fator reumatoide 48 UI/mL (referência: até 14), anti-CCP não reagente, FAN 1:160 com padrão citoplasmático pontilhado fino denso, anti-Jo-1 não reagente, anti-Ro52 reagente, anti-Scl-70 não solicitado. TC de tórax: vidro fosco e reticulado basal com consolidações periféricas, poupando a região subpleural. O exame com maior rendimento para definir o diagnóstico é:",
+  "alternativas": {
+   "A": "Painel ampliado de anticorpos antissintetase",
+   "B": "Biópsia de quadríceps guiada por ressonância",
+   "C": "Anti-Scl-70 e anticentrômero",
+   "D": "Biópsia pulmonar cirúrgica"
+  },
+  "gabarito": "A",
+  "armadilha": "C",
+  "dado_decisivo": "FAN 1:160 com padrão citoplasmático pontilhado fino denso",
+  "resolucao": "Raynaud, pneumopatia e fator reumatoide levam o apressado à esclerose sistêmica ou à artrite reumatoide com pulmão, e o anti-Jo-1 negativo com CK normal parece afastar miosite. O conjunto de pneumopatia intersticial com padrão de pneumonia intersticial não específica e organização, artrite, Raynaud, febre e descamação fissurada nas bordas dos dedos (mãos de mecânico) é a síndrome antissintetase, que frequentemente cursa sem fraqueza e com CK normal, sobretudo com anti-PL-7 e anti-PL-12. O FAN de padrão citoplasmático pontilhado fino denso é o rastro dos anticorpos contra aminoacil-tRNA sintetases, e o anti-Ro52 acompanha esses anticorpos com frequência. O anti-Jo-1 é só um dos oito antissintetase; negativo, pede o painel ampliado (PL-7, PL-12, EJ, OJ), que define o diagnóstico sem procedimento invasivo. Sem esclerodactilia, sem espessamento proximal, o rastreio de esclerose sistêmica rende pouco.",
+  "comentarios": {
+   "A": "Correta. FAN citoplasmático, mãos de mecânico, artrite e pneumopatia com anti-Jo-1 negativo pedem anti-PL-7, anti-PL-12 e os demais antissintetase.",
+   "B": "Errada. Seria útil na miosite com fraqueza e CK alta; aqui a força é normal, a CK também, e o rendimento da biópsia muscular é baixo.",
+   "C": "Errada. É a armadilha do Raynaud com pneumopatia: seriam os anticorpos da esclerose sistêmica, que pediria esclerodactilia ou espessamento cutâneo, ausentes, e não explica o FAN citoplasmático.",
+   "D": "Errada. Seria considerada na pneumopatia intersticial sem pista sistêmica; aqui a sorologia dirigida define o diagnóstico sem cirurgia."
+  },
+  "para_levar": "Pneumopatia intersticial com mãos de mecânico, artrite e FAN citoplasmático é síndrome antissintetase mesmo com anti-Jo-1 negativo e CK normal: peça o painel ampliado (PL-7, PL-12).",
+  "referencias": "Connors GR et al. Interstitial lung disease associated with the idiopathic inflammatory myopathies, Chest 2010; Damoiseaux J et al. International Consensus on ANA Patterns (ICAP), AC-20, 2019; Lundberg IE et al. 2017 EULAR/ACR classification criteria for idiopathic inflammatory myopathies.",
+  "tags": [
+   "Miopatias Autoimunes Sistêmicas - Dermatomiosite, Polimiosite e Anti-sintetase (CM)",
+   "Doença Pulmonar Intersticial (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "S3 q27: antissintetase com FR e Raynaud lida como esclerose sistêmica; agora o rótulo é o anti-Jo-1 negativo e a CK normal",
+  "_arquivo": "REU-R03.json",
+  "numero": 39
+ },
+ {
+  "id": "R03-NEF-05",
+  "simulado": "R03",
+  "area": "Nefrologia",
+  "titulo": "Lesão renal assintomática no idoso em omeprazol há 10 semanas, sem febre, exantema nem eosinofilia: nefrite intersticial aguda",
+  "arma": "Negativo no meio",
+  "comando": "diagnóstico",
+  "nivel": "difícil",
+  "enunciado": "Homem de 71 anos, com creatinina de 1,0 mg/dL há 6 meses, faz uso de omeprazol 40 mg/dia, iniciado há 10 semanas por dispepsia, além de losartana e atorvastatina há anos. É encaminhado por creatinina de 3,4 mg/dL em exame de rotina; está assintomático. Nega febre, exantema, artralgia, contraste recente e anti-inflamatórios. PA 132 x 80 mmHg, sem edema, mucosas úmidas, sem hipotensão postural. Hemograma com 210 eosinófilos/mm³. Urina: densidade 1,010, proteína 1+, 25 leucócitos e 3 hemácias por campo, cilindros leucocitários; urocultura negativa. Proteinúria de 24 horas de 0,6 g, fração de excreção de sódio de 2,8%, complemento normal e ANCA negativo. Ultrassonografia com rins de 11 cm, sem hidronefrose. O diagnóstico mais provável é:",
+  "alternativas": {
+   "A": "Nefrite intersticial aguda",
+   "B": "Necrose tubular aguda isquêmica",
+   "C": "Pielonefrite aguda bilateral",
+   "D": "Lesão pré-renal pela losartana"
+  },
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "cilindros leucocitários; urocultura negativa",
+  "resolucao": "A ausência de febre, exantema e eosinofilia afasta, para muitos, a nefrite intersticial, e a fração de excreção de sódio acima de 2% leva para necrose tubular. Mas a tríade é exceção, sobretudo nas formas por inibidor de bomba de prótons, que são insidiosas, em idosos, e muitas vezes descobertas em exame de rotina semanas a meses após o início da droga. Não há evento isquêmico, hipotensão ou nefrotóxico para justificar necrose tubular, e a urina não mostra cilindros granulosos; mostra leucocitúria estéril com cilindros leucocitários, que localizam a inflamação no interstício. A fração de excreção de sódio alta é compatível com lesão tubulointersticial e só exclui a causa pré-renal. A conduta é suspender o omeprazol e considerar corticoide se não houver melhora em poucos dias, com biópsia quando houver dúvida.",
+  "comentarios": {
+   "A": "Correta. Lesão renal semanas após inibidor de bomba de prótons, com leucocitúria estéril, cilindros leucocitários e proteinúria baixa, é nefrite intersticial aguda mesmo sem a tríade.",
+   "B": "Errada. É a armadilha da fração de excreção de sódio: a necrose tubular exigiria insulto isquêmico ou tóxico e daria cilindros granulosos, e não leucocitários.",
+   "C": "Errada. Pielonefrite também dá cilindros leucocitários, mas com febre, dor lombar e urocultura positiva; aqui a urocultura é negativa e o paciente está afebril.",
+   "D": "Errada. A losartana é usada há anos, a volemia está normal e a fração de excreção de sódio de 2,8% exclui lesão pré-renal."
+  },
+  "para_levar": "Nefrite intersticial por inibidor de bomba de prótons costuma vir sem febre, exantema ou eosinofilia; leucocitúria estéril com cilindros leucocitários e droga nova bastam para a hipótese.",
+  "referencias": "KDIGO 2012 Clinical Practice Guideline for Acute Kidney Injury; Moledina DG, Perazella MA. Drug-induced acute interstitial nephritis. Clin J Am Soc Nephrol 2017.",
+  "tags": [
+   "Nefrotoxicidade por Drogas (CM)",
+   "Injúria Renal Aguda (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "UERJ recorrente: NIA por droga; padrão do aluno de descartar diagnóstico pela ausência de achado (S3 q66)",
+  "_arquivo": "NEF-R03.json",
+  "numero": 40
+ },
+ {
+  "id": "R03-INF-05",
+  "simulado": "R03",
+  "area": "Infectologia",
+  "titulo": "Pneumonia por Mycoplasma com crioaglutinina em usuária de metadona com QT longo: doxiciclina, e não macrolídeo",
+  "arma": "Droga a deduzir",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 24 anos, estudante, procura a emergência por tosse seca há 9 dias, cefaleia, dor de garganta, otalgia direita e febre baixa; o irmão, com quem divide o quarto, teve quadro semelhante há 3 semanas. Está em programa de substituição com metadona 110 mg/dia há 1 ano, sem uso de outras substâncias; não tem alergias. Ao exame, temperatura 37,8 °C, FR 20 irpm, SpO2 95% em ar ambiente, PA 118/72 mmHg, estertores finos nas bases e vesículas hemorrágicas na membrana timpânica direita. Radiografia: infiltrado reticular bilateral nas bases. Hemoglobina 10,1 g/dL, reticulócitos 6%, bilirrubina indireta 2,4 mg/dL, LDH 520 U/L; teste de antiglobulina direto positivo para C3d e negativo para IgG. Ureia e creatinina normais; beta-hCG negativo. Eletrocardiograma: ritmo sinusal, QTc de 512 ms. Será tratada em domicílio. O antimicrobiano isolado mais adequado é:",
+  "alternativas": {
+   "A": "Doxiciclina",
+   "B": "Azitromicina",
+   "C": "Levofloxacino",
+   "D": "Amoxicilina"
+  },
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "QTc de 512 ms",
+  "resolucao": "Tosse seca arrastada em adulto jovem, contato domiciliar com quadro igual, miringite bolhosa, infiltrado intersticial e anemia hemolítica por crioaglutinina (C3d positivo, IgG negativo) apontam Mycoplasma pneumoniae, e o macrolídeo é a escolha de rotina. O detalhe está na droga em uso: a metadona em dose alta prolonga o QT, e o eletrocardiograma já mostra QTc acima de 500 ms, faixa em que acrescentar outra droga que prolonga o QT aumenta o risco de torsades de pointes. Azitromicina e levofloxacino prolongam o QT e ficam contraindicados. A doxiciclina cobre Mycoplasma, não tem esse efeito e serve à paciente não gestante. Amoxicilina não age sobre um agente sem parede celular.",
+  "comentarios": {
+   "A": "Correta. Cobre Mycoplasma sem prolongar o QT, e a beta-hCG negativa libera seu uso.",
+   "B": "Errada. É a armadilha do agente: seria a escolha se o QTc fosse normal, mas prolonga o QT em quem já está acima de 500 ms com metadona.",
+   "C": "Errada. Cobre Mycoplasma e seria alternativa em quem não tolera macrolídeo e tetraciclina, mas também prolonga o QT.",
+   "D": "Errada. Seria a escolha na pneumonia pneumocócica de baixo risco; Mycoplasma não tem parede celular e não responde a betalactâmico."
+  },
+  "para_levar": "O agente escolhe a classe, e o paciente escolhe a droga: Mycoplasma com QTc acima de 500 ms (metadona, antiarrítmico, QT longo congênito) se trata com doxiciclina.",
+  "referencias": "Diretrizes Brasileiras para Pneumonia Adquirida na Comunidade em Adultos Imunocompetentes, SBPT (2018); ATS/IDSA Community-Acquired Pneumonia Guideline (2019); CredibleMeds QT drug lists (2025).",
+  "tags": [
+   "Pneumonia Adquirida na Comunidade PAC (CM)",
+   "Anemia Hemolítica Autoimune (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "S2 q51: Mycoplasma com crioaglutinina, agora a armadilha é o próprio macrolídeo correto contra o agente",
+  "_arquivo": "INF-R03.json",
+  "numero": 41
+ },
+ {
+  "id": "R03-HEM-01",
+  "simulado": "R03",
+  "area": "Hematologia",
+  "titulo": "Hematoma espontâneo no idoso com TTPa isolado longo que corrige na mistura imediata e volta a prolongar após incubação: hemofilia A adquirida e agente de bypass",
+  "arma": "Grade X / Y",
+  "comando": "conduta",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 74 anos, diabético e hipertenso, em uso de metformina, losartana e AAS 100 mg/dia, procura a emergência por aumento de volume doloroso na coxa direita há 4 dias, sem trauma, e equimoses extensas nos braços há 2 semanas. Nunca sangrou de forma anormal: fez herniorrafia aos 60 anos e três extrações dentárias sem intercorrência. Sem hepatopatia e sem história familiar de sangramento. Exame: FC 108 bpm, PA 112 x 70 mmHg, coxa direita tensa, com equimose que se estende ao joelho, pulsos distais presentes. Exames: Hb 7,6 g/dL (era 13,1 há 3 meses), plaquetas 236.000/mm³, TP com INR 1,0, fibrinogênio 390 mg/dL, TTPa 81 s (controle 30 s). No teste da mistura com plasma normal (1:1), o TTPa cai para 33 s na leitura imediata e, após incubação por 2 horas a 37 °C, sobe para 62 s. Fator VIII 2%, fator IX 96%, fator XI 88%. Quanto ao diagnóstico e ao tratamento hemostático, a conduta mais adequada é, respectivamente:",
+  "alternativas": {
+   "A": "Hemofilia A leve congênita / fator VII ativado recombinante",
+   "B": "Hemofilia A adquirida / fator VII ativado recombinante",
+   "C": "Hemofilia A leve congênita / concentrado de fator VIII",
+   "D": "Hemofilia A adquirida / concentrado de fator VIII"
+  },
+  "gabarito": "B",
+  "armadilha": "C",
+  "dado_decisivo": "após incubação por 2 horas a 37 °C, sobe para 62 s",
+  "resolucao": "O TTPa que corrige na leitura imediata da mistura é o achado tranquilizador que puxa para deficiência de fator, e um fator VIII de 2% parece fechar hemofilia A a ser reposta com fator VIII. Dois dados derrubam essa leitura. A história hemostática é limpa até os 74 anos, com cirurgia e extrações sem sangramento, o que não combina com fator VIII de 2% congênito. E a mistura que volta a prolongar depois de 2 horas a 37 °C indica inibidor tempo e temperatura dependente, comportamento dos autoanticorpos contra o fator VIII, que neutralizam o fator do plasma normal lentamente. Hemofilia A adquirida, no idoso, se apresenta com hematomas musculares e equimoses extensas, e sangra mais que a congênita. O concentrado de fator VIII é neutralizado pelo inibidor; o tratamento do sangramento é com agente de bypass (fator VII ativado recombinante ou complexo protrombínico ativado), ou fator VIII porcino recombinante, junto com imunossupressão (prednisona, com ou sem ciclofosfamida ou rituximabe) para erradicar o inibidor, dosado pelo método Bethesda. O AAS deve ser suspenso, e procedimentos invasivos evitados.",
+  "comentarios": {
+   "A": "Errada. O agente de bypass é o tratamento certo, mas o diagnóstico não: hemofilia congênita com 2% de fator VIII teria sangrado nas cirurgias anteriores, e a mistura não voltaria a prolongar.",
+   "B": "Correta. Fator VIII baixo, história hemostática prévia normal e mistura que prolonga após incubação definem o inibidor adquirido; o sangramento se trata contornando o fator VIII.",
+   "C": "Errada. É a armadilha da correção imediata: seria a conduta numa hemofilia congênita sem inibidor, mas aqui o anticorpo neutralizaria o concentrado de fator VIII infundido.",
+   "D": "Errada. O diagnóstico está certo, mas o fator VIII humano em dose padrão é inativado pelo autoanticorpo; só tem papel em altas doses com inibidor de título muito baixo, e não como primeira escolha no sangramento grave."
+  },
+  "para_levar": "TTPa isolado longo em idoso sem passado de sangramento, com mistura que corrige e depois prolonga após incubação, é hemofilia A adquirida: agente de bypass para sangrar menos e imunossupressão para tirar o inibidor.",
+  "referencias": "Tiede A et al. International recommendations on the diagnosis and treatment of acquired hemophilia A. Haematologica 2020; Manual de diagnóstico e tratamento de coagulopatias hereditárias e adquiridas, Ministério da Saúde.",
+  "tags": [
+   "Distúrbios de Hemostasia (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "UERJ recorrente: hemofilia A adquirida e o teste da mistura com incubação, separando do déficit congênito",
+  "_arquivo": "HEM-R03.json",
+  "numero": 42
+ },
+ {
+  "id": "R03-NEU-04",
+  "simulado": "R03",
+  "area": "Neurologia",
+  "titulo": "Encaminhado como ELA, com Lhermitte, urgência miccional e desnervação restrita a C5 a C7: mielopatia cervical que se opera",
+  "arma": "Rótulo verdadeiro",
+  "comando": "conduta",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 61 anos, pedreiro aposentado, diabético em uso de metformina, é encaminhado com hipótese de esclerose lateral amiotrófica por fraqueza e atrofia das mãos e dos braços há 10 meses, fasciculações em bíceps e deltoides e marcha 'dura', com duas quedas no último mês. Relata choque que desce pela coluna ao fletir o pescoço e urgência miccional recente. Exame: atrofia de interósseos e de bíceps bilateral, reflexos bicipitais abolidos e tricipitais vivos, sinal de Hoffmann bilateral, hiper-reflexia patelar e Babinski bilateral; vibração abolida nos tornozelos; língua sem atrofia nem fasciculações, fala e deglutição normais. B12 450 pg/mL, HbA1c 7,0%. RM cervical: estenose de C4 a C6 com hipersinal medular em T2 em C5. ENMG: desnervação ativa e crônica restrita aos miótomos de C5 a C7, com língua, paravertebrais torácicos e membros inferiores sem desnervação. A conduta mais adequada é:",
+  "alternativas": {
+   "A": "Riluzol e acompanhamento multiprofissional",
+   "B": "Colar cervical e fisioterapia por 3 meses",
+   "C": "Repetir a eletroneuromiografia em 6 meses",
+   "D": "Descompressão cirúrgica cervical"
+  },
+  "gabarito": "D",
+  "armadilha": "A",
+  "dado_decisivo": "restrita aos miótomos de C5 a C7",
+  "resolucao": "Fasciculações, atrofia e sinais piramidais juntos no encaminhamento levam à ELA e ao riluzol. Mas a combinação de neurônio motor inferior e superior também aparece na mielopatia cervical: a compressão das raízes e do corno anterior em C5 a C7 dá atrofia, fasciculação e arreflexia bicipital, e a compressão medular abaixo dá Hoffmann, hiper-reflexia e Babinski. O que decide é a distribuição: a desnervação está restrita aos segmentos comprimidos, e bulbo, região torácica e membros inferiores estão poupados, o que afasta a ELA, que exige achados em segmentos que a compressão não alcança. Além disso, há Lhermitte, urgência miccional e perda de vibração, que a ELA não produz (a neuropatia diabética pode explicar a vibração, mas não o resto). Mielopatia moderada a grave, progressiva e com quedas, tem indicação de descompressão.",
+  "comentarios": {
+   "A": "Errada. Seria a conduta na ELA, com desnervação em segmentos fora da compressão, como língua ou paravertebrais torácicos, aqui normais.",
+   "B": "Errada. Tratamento conservador cabe na mielopatia leve e estável; quedas, urgência miccional e piora em 10 meses indicam cirurgia.",
+   "C": "Errada. Seria razoável se o diagnóstico fosse duvidoso, mas sinais sensitivos e esfincterianos com desnervação restrita aos segmentos comprimidos já definem a mielopatia.",
+   "D": "Correta. Desnervação limitada aos miótomos comprimidos, Lhermitte e urgência miccional caracterizam mielopatia cervical moderada a grave e progressiva."
+  },
+  "para_levar": "Na dúvida entre ELA e mielopatia cervical, a pergunta é se há desnervação fora dos segmentos comprimidos (bulbo, tórax, pernas) e se há sinais sensitivos ou esfincterianos: desnervação restrita e sintomas sensitivos são mielopatia, que se opera quando progride.",
+  "referencias": "Fehlings MG et al. AO Spine/CSRS Clinical Practice Guideline for the Management of Degenerative Cervical Myelopathy, Global Spine J 2017; Shefner JM et al. Gold Coast criteria for ALS, Clin Neurophysiol 2020.",
+  "tags": [
+   "Mielopatia (CM)",
+   "Esclerose Lateral Amiotrófica (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "S1 q34 e S4 q1: a regra ELA x mielopatia aplicada no sentido inverso, quando a mielopatia é real e a ELA é o rótulo",
+  "_arquivo": "NEU-R03.json",
+  "numero": 43
+ },
+ {
+  "id": "R03-CAR-04",
+  "simulado": "R03",
+  "area": "Cardiologia",
+  "titulo": "Fibrilação atrial paroxística em coração estruturalmente normal na mulher sem outros fatores: propafenona e sem anticoagulação",
+  "arma": "Grade X / Y",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 52 anos tem fibrilação atrial paroxística diagnosticada há 8 meses, com três crises sintomáticas desde então, a última de 30 horas, revertida na emergência com medicação venosa. Usa metoprolol 50 mg de 12 em 12 horas, sem efeitos adversos, e continua com palpitações que a afastaram do trabalho. Não tem hipertensão, diabetes, doença vascular ou insuficiência cardíaca; a mãe teve AVC aos 81 anos. Bebe uma taça de vinho nos fins de semana. Ao exame: PA 122 x 76 mmHg, FC 64 bpm, ritmo regular, sem sopros. TSH 1,8 mUI/L, função renal e hepática normais. Ecocardiograma: FE de 64%, septo e parede posterior de 9 mm, átrio esquerdo de 37 mm, valvas normais. Teste ergométrico máximo sem isquemia. Ela prefere tratamento medicamentoso a ablação neste momento. Para prevenir novas crises e quanto à anticoagulação, a conduta mais adequada é, respectivamente:",
+  "alternativas": {
+   "A": "Amiodarona / apixabana",
+   "B": "Amiodarona / sem anticoagulação",
+   "C": "Propafenona / apixabana",
+   "D": "Propafenona / sem anticoagulação"
+  },
+  "gabarito": "D",
+  "armadilha": "C",
+  "dado_decisivo": "FE de 64%, septo e parede posterior de 9 mm",
+  "resolucao": "O sexo feminino somava um ponto no antigo CHA2DS2-VASc, e a crise longa de 30 horas e o AVC da mãe parecem reforçar a necessidade de anticoagular; essa é a isca. Mas o sexo isolado nunca indicou anticoagulação (era modificador de risco, não fator), e a diretriz europeia de 2024 o retirou do escore (CHA2DS2-VA): esta paciente tem zero, a duração da crise não entra no cálculo e a história familiar também não. Para o controle do ritmo, o dado que decide é o coração estruturalmente normal: FE preservada, sem hipertrofia significativa e sem isquemia ao teste máximo. Nesse cenário, os antiarrítmicos da classe IC (propafenona, flecainida) são de primeira linha, eficazes e sem a toxicidade de órgão da amiodarona, que fica para cardiopatia estrutural ou insuficiência cardíaca. O betabloqueador que ela já usa deve ser mantido, porque bloqueia o nó atrioventricular e evita o flutter com condução 1:1 que a classe IC pode provocar. A ablação por cateter continua sendo opção de primeira linha se ela mudar de ideia.",
+  "comentarios": {
+   "A": "Errada. Seria a combinação de um paciente com cardiopatia estrutural e escore de pelo menos 2; ela não tem nenhum dos dois.",
+   "B": "Errada. A ausência de anticoagulação está certa, mas amiodarona não é a primeira escolha em coração normal, pela toxicidade tireoidiana, pulmonar e hepática a longo prazo.",
+   "C": "Errada. É a armadilha do sexo feminino; mulher sem outro fator tem CHA2DS2-VA zero e não se beneficia de anticoagular.",
+   "D": "Correta. Coração estruturalmente normal permite classe IC, mantida com o betabloqueador, e o escore zero dispensa anticoagulação."
+  },
+  "para_levar": "Fibrilação atrial em coração estruturalmente normal (sem cardiopatia isquêmica, sem disfunção e sem hipertrofia importante): propafenona ou flecainida associada a bloqueador nodal. Sexo feminino sozinho não indica anticoagulação, e a duração da crise não entra no escore.",
+  "referencias": "2024 ESC Guidelines for the management of atrial fibrillation; 2023 ACC/AHA/ACCP/HRS Guideline for the Diagnosis and Management of Atrial Fibrillation; Diretriz Brasileira de Fibrilação Atrial, SBC.",
+  "tags": [
+   "Fibrilação Atrial (CM)",
+   "Anticoagulação em Cardiologia (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "UERJ recorrente: antiarrítmico em coração normal e anticoagulação na FA + S4 q56 (decisão de anticoagulante por critério)",
+  "_arquivo": "CAR-R03.json",
+  "numero": 44
+ },
+ {
+  "id": "R03-REU-04",
+  "simulado": "R03",
+  "area": "Reumatologia",
+  "titulo": "Síndrome nefrótica em artrite reumatoide antiga e mal controlada, em uso de naproxeno: amiloidose AA, e não lesão mínima por anti-inflamatório",
+  "arma": "Rótulo verdadeiro",
+  "comando": "achado esperado",
+  "nivel": "difícil",
+  "enunciado": "Homem de 61 anos, com artrite reumatoide soropositiva e erosiva há 19 anos, tratada de forma irregular, usa naproxeno 500 mg duas vezes ao dia há anos e prednisona 7,5 mg/dia. A PCR se manteve entre 40 e 80 mg/L em todas as dosagens dos últimos 5 anos. Há 3 meses, edema progressivo de membros inferiores e diarreia crônica sem sangue. PA 112 x 70 mmHg, edema até a raiz das coxas, fígado palpável a 3 cm do rebordo costal. Albumina 2,1 g/dL, proteinúria de 9,6 g/24 h, sedimento urinário sem hematúria e sem leucocitúria, creatinina 1,6 mg/dL, C3 e C4 normais, FAN não reagente. Eletroforese de proteínas sem pico monoclonal, imunofixação negativa e relação kappa/lambda de cadeias leves livres normal. Ultrassonografia: rins de 12,8 e 13,1 cm, com ecogenicidade aumentada. Na biópsia renal, o achado esperado é:",
+  "alternativas": {
+   "A": "Fusão difusa de podócitos sem depósitos",
+   "B": "Depósitos subepiteliais com espículas na prata",
+   "C": "Depósitos mesangiais dominantes de IgA",
+   "D": "Depósitos amorfos com birrefringência verde-maçã"
+  },
+  "gabarito": "D",
+  "armadilha": "A",
+  "dado_decisivo": "A PCR se manteve entre 40 e 80 mg/L em todas as dosagens dos últimos 5 anos",
+  "resolucao": "O uso crônico de naproxeno é verdadeiro e puxa para doença de lesões mínimas por anti-inflamatório, que é causa conhecida de síndrome nefrótica. O dado que decide é a inflamação crônica não controlada: PCR persistentemente alta por anos em artrite reumatoide antiga mantém a produção hepática de proteína amiloide A sérica, cujo fragmento se deposita como amiloide AA. O quadro acompanha: proteinúria nefrótica com sedimento inerte, rins de tamanho normal a aumentado apesar da creatinina alta, hepatomegalia e diarreia por acometimento intestinal. A lesão mínima por anti-inflamatório costuma vir com nefrite intersticial (leucocitúria) e não explica fígado nem intestino. A imunofixação e a relação de cadeias leves normais afastam a amiloidose AL. A biópsia mostra material amorfo com birrefringência verde-maçã ao vermelho Congo sob luz polarizada, com imuno-histoquímica positiva para proteína AA; o tratamento é controlar a inflamação de base.",
+  "comentarios": {
+   "A": "Errada. Seria o achado da lesão mínima induzida por anti-inflamatório, sugerida pelo naproxeno; não explica hepatomegalia, diarreia e rins aumentados com inflamação crônica de anos.",
+   "B": "Errada. Seria a nefropatia membranosa, ligada no passado a sais de ouro e penicilamina, ausentes, e que não cursa com hepatomegalia nem diarreia.",
+   "C": "Errada. A nefropatia por IgA pode acompanhar doenças inflamatórias, mas cursaria com hematúria, e o sedimento aqui é inerte.",
+   "D": "Correta. Inflamação crônica não controlada por anos, nefrótica com sedimento inerte, rins aumentados, fígado e intestino acometidos e sem clone de plasmócitos indicam amiloidose AA."
+  },
+  "para_levar": "Síndrome nefrótica com sedimento inerte e rins grandes em doença inflamatória crônica mal controlada é amiloidose AA até prova em contrário; o anti-inflamatório em uso não muda isso, e o tratamento é controlar a inflamação.",
+  "referencias": "Papa R, Lachmann HJ. Secondary, AA, amyloidosis, Rheum Dis Clin North Am 2018; KDIGO 2021 Clinical Practice Guideline for the Management of Glomerular Diseases.",
+  "tags": [
+   "Amiloidose (CM)",
+   "Artrite Reumatóide (CM)",
+   "Síndrome Nefrótica (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "UERJ recorrente: amiloidose AA na doença inflamatória crônica; padrão do aluno de aceitar a droga em uso como causa (rótulo verdadeiro)",
+  "_arquivo": "REU-R03.json",
+  "numero": 45
+ },
+ {
+  "id": "R03-END-06",
+  "simulado": "R03",
+  "area": "Endocrinologia",
+  "titulo": "Hipotireoidismo franco em bipolar estável com lítio após falha de outros estabilizadores, com sintomas depressivos atribuídos à droga: levotiroxina mantendo o lítio",
+  "arma": "Rótulo verdadeiro",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 46 anos, com transtorno bipolar tipo I, está estável há 5 anos com carbonato de lítio 900 mg ao dia (litemia 0,8 mEq/L), introduzido após falha prévia com valproato e com lamotrigina. Há 4 meses refere cansaço, ganho de 5 kg, constipação, pele seca e desânimo, e a família teme uma nova fase depressiva. Nega mudança de dose, diuréticos ou anti-inflamatórios. PA 128 x 84 mmHg, FC 58 bpm, tireoide discretamente aumentada, difusa, indolor, reflexos com relaxamento lentificado. TSH 11,8 mUI/L (0,4 a 4,5), T4 livre 0,7 ng/dL (0,9 a 1,8), anti-TPO positivo, cálcio 9,6 mg/dL, sódio 139 mEq/L, creatinina 0,9 mg/dL. O residente de psiquiatria, lembrando que o lítio é bociogênico, propõe trocá-lo. A conduta mais adequada é:",
+  "alternativas": {
+   "A": "Levotiroxina, mantendo o lítio",
+   "B": "Repetir TSH e T4 livre em 8 semanas",
+   "C": "Reduzir o lítio e repetir o TSH",
+   "D": "Trocar o lítio por valproato"
+  },
+  "gabarito": "A",
+  "armadilha": "D",
+  "dado_decisivo": "introduzido após falha prévia com valproato e com lamotrigina",
+  "resolucao": "O lítio é concentrado pela tireoide e inibe a liberação de T4 e T3, e o hipotireoidismo é seu efeito endócrino mais frequente, sobretudo em mulheres com anti-TPO positivo. A atribuição à droga é verdadeira e leva à ideia de trocá-la, mas o hipotireoidismo pelo lítio não é indicação de suspendê-lo: trata-se com levotiroxina e o lítio continua, ainda mais numa paciente estável há 5 anos que já falhou com os estabilizadores alternativos. Aqui o hipotireoidismo é franco (TSH alto com T4 livre baixo, bradicardia e reflexos lentos), então não cabe apenas repetir os exames, e reduzir a dose do lítio arrisca recaída sem corrigir a tireoide. O desânimo e o cansaço podem ser do próprio hipotireoidismo, que também favorece depressão e ciclagem rápida no transtorno bipolar, e melhoram com a reposição.",
+  "comentarios": {
+   "A": "Correta. Hipotireoidismo franco pelo lítio se trata com levotiroxina, e o lítio eficaz é mantido, sobretudo após falha de outros estabilizadores.",
+   "B": "Errada. Repetir antes de tratar seria adequado no hipotireoidismo subclínico com TSH abaixo de 10; aqui o T4 livre já é baixo e há sinais clínicos.",
+   "C": "Errada. Seria uma tentativa diante de toxicidade dose-dependente, como tremor com litemia alta; a litemia é terapêutica e reduzir a dose arrisca recaída sem tratar a tireoide.",
+   "D": "Errada. É a armadilha do rótulo verdadeiro: a causa é o lítio, mas isso não obriga a trocá-lo, e a paciente já falhou com valproato."
+  },
+  "para_levar": "Hipotireoidismo pelo lítio se trata com levotiroxina e não obriga a suspender o lítio; o mesmo vale para o hiperparatireoidismo e o diabetes insípido nefrogênico, que têm conduta própria com a droga mantida quando ela é necessária.",
+  "referencias": "Jonklaas J et al. Guidelines for the treatment of hypothyroidism: American Thyroid Association. Thyroid 2014; Lazarus JH. Lithium and thyroid. Best Pract Res Clin Endocrinol Metab 2009; CANMAT/ISBD Guidelines for the management of patients with bipolar disorder, 2018.",
+  "tags": [
+   "Hipotireoidismo (CM)",
+   "Tratamento do Hipotireoidismo (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "UERJ recorrente: lítio e seus distúrbios hormonais + S1 q10; o hipotireoidismo pelo lítio que não obriga a trocar a droga",
+  "_arquivo": "END-R03.json",
+  "numero": 46
+ },
+ {
+  "id": "R03-NEF-04",
+  "simulado": "R03",
+  "area": "Nefrologia",
+  "titulo": "Alcalose hipocalêmica com sódio urinário alto e cloro urinário baixo: vômitos autoinduzidos, e não diurético oculto",
+  "arma": "Rótulo verdadeiro",
+  "comando": "etiologia",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 23 anos, estudante de nutrição, é levada pela mãe por fraqueza e palpitações há 1 semana. Diz que segue dieta restritiva por conta própria e nega vômitos, laxantes e diuréticos. IMC 18,9 kg/m², PA 100 x 62 mmHg, FC 104 bpm. Hipertrofia bilateral de parótidas e erosão do esmalte nas faces palatinas dos incisivos; sem lesões no dorso das mãos. Exames: Na 137 mEq/L, K 2,6 mEq/L, Cl 88 mEq/L, HCO3 34 mEq/L, pH 7,51, Mg 2,0 mg/dL, creatinina 0,8 mg/dL. Urina isolada: Na 72 mEq/L, K 38 mEq/L, Cl 7 mEq/L, pH 7,8. A pesquisa de diuréticos na urina foi solicitada e está pendente. A causa mais provável da hipocalemia é:",
+  "alternativas": {
+   "A": "Abuso de laxativos estimulantes",
+   "B": "Vômitos autoinduzidos",
+   "C": "Uso oculto de diurético tiazídico",
+   "D": "Síndrome de Bartter"
+  },
+  "gabarito": "B",
+  "armadilha": "C",
+  "dado_decisivo": "Cl 7 mEq/L, pH 7,8",
+  "resolucao": "O sódio urinário de 72 mEq/L com potássio urinário alto parece perda renal de sal, e a negativa de vômitos com a pesquisa de diurético pendente empurra para diurético oculto. Na alcalose metabólica, porém, o marcador de volume é o cloro urinário, e não o sódio: nos vômitos recentes, o bicarbonato filtrado em excesso arrasta sódio e potássio para a urina, que fica alcalina (pH 7,8), enquanto o cloro fica muito baixo pela contração de volume. Diurético em uso e Bartter dão cloro urinário alto, junto com o sódio. A hipertrofia de parótidas e a erosão palatina do esmalte confirmam a origem gástrica; a ausência do sinal de Russell não exclui, porque muitas pacientes induzem o vômito sem os dedos. O laxativo daria sódio e cloro urinários baixos e tende a acidose, não a urina alcalina com bicarbonatúria.",
+  "comentarios": {
+   "A": "Errada. O abuso de laxativo conserva sódio e cloro na urina, que não fica alcalina, e com frequência cursa com acidose.",
+   "B": "Correta. Alcalose com cloro urinário baixo e urina alcalina com sódio alto (bicarbonatúria), parótidas aumentadas e erosão palatina indicam vômitos.",
+   "C": "Errada. É a armadilha do sódio urinário alto: o diurético em uso elevaria também o cloro urinário, que aqui é de 7 mEq/L.",
+   "D": "Errada. Bartter cursa com cloro urinário persistentemente alto e perda de sal desde a infância; aqui o cloro urinário é mínimo."
+  },
+  "para_levar": "Na alcalose metabólica hipocalêmica, leia o cloro urinário, e não o sódio: cloro baixo com sódio alto e urina alcalina é vômito recente; cloro alto é diurético em uso, Bartter ou Gitelman.",
+  "referencias": "Luke RG, Galla JH. It is chloride depletion alkalosis, not contraction alkalosis. J Am Soc Nephrol 2012; Brenner and Rector's The Kidney, 11ª ed. (2020), cap. Metabolic Alkalosis.",
+  "tags": [
+   "Distúrbio do Potássio (CM)",
+   "Distúrbios Hidroeletrolíticos (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "UERJ recorrente: bulimia x diurético pela urina + S1 q45 (alcalose hipocalêmica decidida por um exame)",
+  "_arquivo": "NEF-R03.json",
+  "numero": 47
+ },
+ {
+  "id": "R03-INF-02",
+  "simulado": "R03",
+  "area": "Infectologia",
+  "titulo": "Derrame pleural com ADA alto na aids com Kaposi e contato de tuberculose: linfoma primário de efusão pelo imunofenótipo",
+  "arma": "Rótulo verdadeiro",
+  "comando": "diagnóstico",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 38 anos, com diagnóstico de HIV há 2 meses (CD4 de 45 células/mm³), em uso de TARV há 5 semanas, tem placas violáceas nos membros inferiores, cuja biópsia mostrou sarcoma de Kaposi. Há 3 semanas apresenta dispneia progressiva, febre baixa noturna e perda de 4 kg. O irmão, com quem mora, terminou há 4 meses o tratamento de tuberculose pulmonar. Temperatura 37,9 °C, FR 26 irpm, SpO2 91% em ar ambiente, abolição do murmúrio no terço inferior do hemitórax direito. TC de tórax: derrame pleural direito volumoso, sem espessamento pleural nodular, sem massa mediastinal, sem linfonodomegalias e sem lesões parenquimatosas. Toracocentese: exsudato serossanguinolento, LDH 1.450 U/L, proteína 4,8 g/dL, ADA 58 U/L (referência: até 40), teste rápido molecular para tuberculose não detectado. Citologia: grandes células atípicas de aspecto plasmablástico; imunofenotipagem com CD45 e CD138 positivos, CD20 e CD79a negativos, e marcação nuclear para LANA-1 (HHV-8). O diagnóstico mais provável é:",
+  "alternativas": {
+   "A": "Linfoma primário de efusão",
+   "B": "Tuberculose pleural",
+   "C": "Sarcoma de Kaposi pleural",
+   "D": "Linfoma de Burkitt"
+  },
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "CD45 e CD138 positivos, CD20 e CD79a negativos",
+  "resolucao": "O contato domiciliar de tuberculose, a febre noturna, o exsudato e o ADA acima de 40 são verdadeiros e montam a tuberculose pleural, ainda mais com o teste molecular de baixa sensibilidade no líquido pleural. Mas o ADA sobe também em linfomas e empiemas, e a citologia mostrou o que a tuberculose não produz: células neoplásicas grandes, plasmablásticas, em suspensão no líquido, sem massa sólida. O imunofenótipo decide: marcador leucocitário (CD45) e plasmocitário (CD138) positivos, com os marcadores de linhagem B (CD20 e CD79a) negativos, e infecção pelo HHV-8 demonstrada por LANA-1 nas células. Isso é linfoma primário de efusão, que surge na aids avançada, frequentemente ao lado do Kaposi, porque compartilha o mesmo vírus. O Kaposi pleural dá derrame serossanguinolento, mas não células linfoides atípicas flutuantes; o Burkitt expressa CD20 e forma massas, em geral com CD4 mais preservado.",
+  "comentarios": {
+   "A": "Correta. Células plasmablásticas em cavidade serosa, sem massa, CD45 e CD138 positivos, CD20 negativo e HHV-8 positivo definem o linfoma primário de efusão.",
+   "B": "Errada. É a armadilha do contato e do ADA alto; seria a certa com exsudato linfocítico de células pequenas, sem células atípicas, mas o ADA também sobe em linfoma.",
+   "C": "Errada. Também é HHV-8 e cursa com derrame serossanguinolento, mas a lesão é vascular (células fusiformes) e não lança células linfoides atípicas no líquido.",
+   "D": "Errada. Seria a certa com massa abdominal, lise tumoral e células B CD20 positivas com MYC rearranjado, e não com fenótipo plasmablástico sem marcadores B."
+  },
+  "para_levar": "Na aids avançada, derrame cavitário sem massa com células grandes CD20 negativas, CD138 positivas e HHV-8 positivas é linfoma primário de efusão; ADA alto não fecha tuberculose quando a citologia mostra células atípicas.",
+  "referencias": "WHO Classification of Haematolymphoid Tumours, 5ª ed. (2022); NCCN Guidelines: B-Cell Lymphomas, HIV-related lymphomas (2025); Ministério da Saúde, PCDT para Manejo da Infecção pelo HIV em Adultos (2024).",
+  "tags": [
+   "Linfomas (CM)",
+   "Doenças Oportunistas no HIV (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "S4 q36 e S1 q37: o linfoma da aids, agora quando a resposta certa é o linfoma de efusão e o rótulo verdadeiro é a tuberculose",
+  "_arquivo": "INF-R03.json",
+  "numero": 48
+ },
+ {
+  "id": "R03-GAS-04",
+  "simulado": "R03",
+  "area": "Gastroenterologia e hepatologia",
+  "titulo": "Vesículas pruriginosas em superfícies extensoras com antitransglutaminase alta: imunofluorescência direta da pele perilesional, e não da lesão",
+  "arma": "Qualificador",
+  "comando": "próximo exame",
+  "nivel": "difícil",
+  "enunciado": "Homem de 27 anos, há 5 meses com pápulas e vesículas agrupadas, intensamente pruriginosas, simétricas em cotovelos, joelhos, região sacral e couro cabeludo, a maioria escoriada. Usou corticoide tópico de alta potência sem melhora. Nega diarreia, dor abdominal ou perda de peso, e não usa medicações. Tem tireoidite de Hashimoto em levotiroxina. Ao exame, bom estado geral, sem lesões em mucosas, sinal de Nikolsky negativo. Hb 12,1 g/dL, VCM 76 fL, ferritina 9 ng/mL; IgA sérica total normal; antitransglutaminase IgA de 86 U/mL (referência abaixo de 10). Uma biópsia de vesícula íntegra mostrou clivagem subepidérmica com microabscessos de neutrófilos nas papilas dérmicas, laudada como dermatose bolhosa subepidérmica a esclarecer. Para confirmar a natureza da lesão cutânea, o exame mais adequado é:",
+  "alternativas": {
+   "A": "Biópsia duodenal com quatro fragmentos",
+   "B": "Anticorpos séricos anti-BP180 e anti-BP230",
+   "C": "Imunofluorescência direta da pele perilesional",
+   "D": "Imunofluorescência direta da vesícula"
+  },
+  "gabarito": "C",
+  "armadilha": "D",
+  "dado_decisivo": "Para confirmar a natureza da lesão cutânea",
+  "resolucao": "A distribuição simétrica em superfícies extensoras, sacro e couro cabeludo, o prurido intenso, a anemia ferropriva e a antitransglutaminase alta compõem dermatite herpetiforme, a manifestação cutânea da doença celíaca. A histologia com microabscessos papilares é compatível, mas não específica, e o que confirma é a imunofluorescência direta mostrando depósitos granulares de IgA nas papilas dérmicas. O detalhe que a banca cobra é o local: a biópsia para imunofluorescência deve ser da pele normal adjacente à lesão, porque na vesícula a inflamação degrada os depósitos e gera falso negativo. Confirmada a dermatite herpetiforme com sorologia positiva, a biópsia duodenal não é necessária para o diagnóstico de doença celíaca, e o tratamento é dieta sem glúten, com dapsona para o controle inicial das lesões.",
+  "comentarios": {
+   "A": "Errada. Confirmaria enteropatia no celíaco sem lesão cutânea; aqui a pergunta é a lesão de pele, e a imunofluorescência positiva dispensa a biópsia duodenal.",
+   "B": "Errada. Serviria para penfigoide bolhoso, que acomete idosos, com bolhas tensas e sem relação com antitransglutaminase.",
+   "C": "Correta. A pele perilesional mostra IgA granular nas papilas dérmicas e confirma dermatite herpetiforme.",
+   "D": "Errada. É a armadilha: a imunofluorescência é o exame certo, mas na vesícula a inflamação destrói os depósitos de IgA e dá falso negativo."
+  },
+  "para_levar": "Na dermatite herpetiforme, a imunofluorescência direta se faz na pele normal ao lado da lesão; com ela positiva e sorologia celíaca alta, não é preciso biópsia duodenal.",
+  "referencias": "British Society of Gastroenterology guidelines on the diagnosis and management of coeliac disease, 2014; Reunala T et al. Dermatitis herpetiformis: an update on diagnosis and management. Am J Clin Dermatol 2021; ACG Clinical Guideline: Celiac Disease, 2023.",
+  "tags": [
+   "Doença Celíaca (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "UERJ recorrente: doença celíaca, aqui pela manifestação cutânea e pelo local da biópsia",
+  "_arquivo": "GAS-R03.json",
+  "numero": 49
+ },
+ {
+  "id": "R03-PNE-01",
+  "simulado": "R03",
+  "area": "Pneumologia",
+  "titulo": "DPOC recém-diagnosticada, pouco sintomática entre as crises, com duas exacerbações e eosinófilos de 340: terapia tripla inicial (GOLD)",
+  "arma": "Rótulo verdadeiro",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Homem de 67 anos, ex-tabagista (45 maços-ano, parou há 2 anos), procura o ambulatório para iniciar tratamento após espirometria solicitada pelo clínico. Nos últimos 12 meses foi duas vezes à UPA por piora da tosse e da dispneia com escarro purulento, tratado com prednisona oral e antibiótico, sem internação. Teve pneumonia tratada ambulatorialmente há 5 anos, sem novos episódios. Entre as crises diz que se sente bem: caminha 3 km por dia, mMRC 1 e CAT 9. Usa apenas anlodipino. Ao exame, FR 16 irpm, SpO2 95% em ar ambiente, murmúrio vesicular discretamente reduzido, sem sibilos. Espirometria pós-broncodilatador: VEF1/CVF 0,58 e VEF1 de 64% do previsto, sem resposta significativa ao broncodilatador. Hemograma colhido fora de exacerbação, sem corticoide há 4 meses: eosinófilos 340/mm³. Radiografia de tórax com hiperinsuflação, sem consolidação. O tratamento inalatório de manutenção mais adequado para iniciar é:",
+  "alternativas": {
+   "A": "LAMA isolado",
+   "B": "LABA associado a LAMA",
+   "C": "LABA, LAMA e corticoide inalatório",
+   "D": "LABA associado a corticoide inalatório"
+  },
+  "gabarito": "C",
+  "armadilha": "B",
+  "dado_decisivo": "eosinófilos 340/mm³",
+  "resolucao": "Os poucos sintomas entre as crises (mMRC 1, CAT 9) e a pneumonia antiga são verdadeiros e empurram para um broncodilatador isolado ou para a dupla broncodilatação, evitando corticoide. Mas o grupo do GOLD se decide pelas exacerbações antes dos sintomas: duas exacerbações moderadas no ano colocam o paciente no grupo E, qualquer que seja o CAT. No grupo E, o ponto de partida é LABA com LAMA, e a terapia tripla já é a escolha inicial quando os eosinófilos estão em 300/mm³ ou mais, como aqui, medidos fora de exacerbação e sem corticoide. Uma pneumonia isolada há 5 anos não é o antecedente de pneumonias repetidas que pesa contra o corticoide inalatório. LABA com corticoide sem LAMA não é mais recomendado na DPOC.",
+  "comentarios": {
+   "A": "Errada. Seria a opção do paciente sem exacerbações e com poucos sintomas (grupo A); duas exacerbações com corticoide oral no ano o põem no grupo E.",
+   "B": "Errada. É a armadilha: seria o início no grupo E com eosinófilos abaixo de 300/mm³; aqui a contagem de 340/mm³ indica a tripla, e a pneumonia única e antiga não a contraindica.",
+   "C": "Correta. Grupo E (duas exacerbações moderadas) com eosinófilos de 340/mm³: LABA, LAMA e corticoide inalatório desde o início.",
+   "D": "Errada. LABA com corticoide sem LAMA não é mais indicado na DPOC; quando há indicação de corticoide inalatório, a combinação preferida é a tripla."
+  },
+  "para_levar": "Na DPOC, as exacerbações definem o grupo E independentemente dos sintomas; no grupo E, eosinófilos de 300/mm³ ou mais indicam começar já com LABA, LAMA e corticoide inalatório.",
+  "referencias": "GOLD 2025/2026 Global Strategy for Prevention, Diagnosis and Management of COPD.",
+  "tags": [
+   "DPOC - ambulatorial (CM)",
+   "DPOC (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "UERJ recorrente: escolha do inalatório na DPOC pelos eosinófilos e pelas exacerbações (GOLD), cruzado com o padrão de rótulo verdadeiro",
+  "_arquivo": "PNE-R03.json",
+  "numero": 50
+ }
+]

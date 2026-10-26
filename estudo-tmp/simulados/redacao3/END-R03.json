@@ -43,19 +43,19 @@
   "enunciado": "Homem de 67 anos, com miocardiopatia isquêmica (fração de ejeção de 35%) e taquicardia ventricular recorrente, usa amiodarona 200 mg ao dia há 14 meses, além de carvedilol, sacubitril-valsartana e espironolactona. Há 4 anos, ainda sem amiodarona, uma ultrassonografia mostrara bócio multinodular, com punções benignas e TSH normal. Há 5 semanas, perdeu 4 kg, a dispneia piorou e o cardiodesfibrilador deu dois choques apropriados. FC 104 bpm, PA 112 x 70 mmHg. TSH abaixo de 0,01 mUI/L, T4 livre 3,9 ng/dL (0,9 a 1,8), T3 total 260 ng/dL (80 a 200), TRAb negativo. Ultrassonografia com Doppler: tireoide aumentada, multinodular, com vascularização aumentada nos nódulos e no parênquima. Captação de iodo radioativo em 24 horas de 9%. O cardiologista não considera seguro retirar a amiodarona. O tratamento inicial mais adequado da tireotoxicose é:",
   "alternativas": {
    "A": "Metimazol em dose alta",
-   "B": "Prednisona em dose moderada",
+   "B": "Suspensão da amiodarona isolada",
    "C": "Iodo radioativo em dose ablativa",
-   "D": "Suspensão da amiodarona isolada"
+   "D": "Prednisona em dose moderada"
   },
   "gabarito": "A",
-  "armadilha": "B",
+  "armadilha": "D",
   "dado_decisivo": "com vascularização aumentada nos nódulos e no parênquima",
   "resolucao": "A captação baixa e o TRAb negativo parecem indicar tireoidite destrutiva (tipo 2), cujo tratamento é a prednisona. Mas na tireotoxicose por amiodarona a captação é baixa nos dois tipos, porque a carga de iodo da droga dilui o radiotraçador, e por isso ela não separa os tipos. O que separa é a glândula de base e o Doppler: bócio multinodular prévio e vascularização aumentada indicam síntese excessiva de hormônio pelo excesso de iodo em tecido autônomo (tipo 1), enquanto o tipo 2 ocorre em glândula normal com fluxo ausente. O tipo 1 se trata com tionamida em dose alta, eventualmente com perclorato, e a tireoidectomia fica para refratariedade ou para controle rápido em cardiopata grave. A amiodarona pode ser mantida quando é essencial, como aqui.",
   "comentarios": {
    "A": "Correta. Bócio multinodular prévio e hipervascularização ao Doppler definem o tipo 1, de síntese aumentada, tratado com tionamida em dose alta.",
-   "B": "Errada. É a armadilha da captação baixa: prednisona é o tratamento do tipo 2, em glândula normal com fluxo ausente, e a captação é baixa nos dois tipos.",
+   "B": "Errada. Seria aceitável num tipo 2 leve em paciente sem arritmia grave; aqui a droga é essencial e seu efeito persiste por meses após a retirada.",
    "C": "Errada. Seria opção no bócio multinodular tóxico sem carga de iodo; com captação de 9% o iodo radioativo não se concentra na glândula.",
-   "D": "Errada. Seria aceitável num tipo 2 leve em paciente sem arritmia grave; aqui a droga é essencial e seu efeito persiste por meses após a retirada."
+   "D": "Errada. É a armadilha da captação baixa: prednisona é o tratamento do tipo 2, em glândula normal com fluxo ausente, e a captação é baixa nos dois tipos."
   },
   "para_levar": "Na tireotoxicose por amiodarona a captação é baixa nos dois tipos: quem separa é a glândula de base e o Doppler (fluxo aumentado em bócio nodular é tipo 1 e pede tionamida; fluxo ausente em glândula normal é tipo 2 e pede corticoide).",
   "referencias": "Bartalena L et al. 2018 European Thyroid Association guidelines for the management of amiodarone-associated thyroid dysfunction. Eur Thyroid J 2018; Ross DS et al. 2016 ATA Guidelines for Hyperthyroidism and Other Causes of Thyrotoxicosis. Thyroid 2016.",
@@ -76,19 +76,19 @@
   "nivel": "difícil",
   "enunciado": "Mulher de 44 anos foi submetida a ressecção transesfenoidal de macroadenoma não funcionante de 2,8 cm. Nas primeiras 48 horas, teve diurese de 5,5 L/dia, osmolalidade urinária de 110 mOsm/kg e sódio de 147 mEq/L, e passou a receber desmopressina 0,1 mg via oral de 12 em 12 horas, mantida na prescrição de alta no 4º dia, com sódio de 140 mEq/L. Cortisol sérico às 8 horas no 3º dia: 17 µg/dL, sem glicocorticoide desde a cirurgia. No 8º dia, comparece ao retorno ambulatorial assintomática; bebe cerca de 3 L de água por dia, por orientação de manter-se hidratada. PA 118 x 74 mmHg, sem edema ou sinais de desidratação. Sódio 126 mEq/L, potássio 4,1 mEq/L, osmolalidade plasmática 262 mOsm/kg, osmolalidade urinária 540 mOsm/kg, sódio urinário 68 mEq/L, glicemia e TSH normais. A conduta mais adequada neste momento é:",
   "alternativas": {
-   "A": "Hidrocortisona em dose de estresse",
+   "A": "Manter a desmopressina e associar tolvaptana",
    "B": "Solução salina a 3% em bolus",
-   "C": "Manter a desmopressina e associar tolvaptana",
+   "C": "Hidrocortisona em dose de estresse",
    "D": "Suspender a desmopressina e restringir água"
   },
   "gabarito": "D",
-  "armadilha": "A",
+  "armadilha": "C",
   "dado_decisivo": "No 8º dia, comparece ao retorno ambulatorial assintomática",
   "resolucao": "Hiponatremia após cirurgia hipofisária faz pensar logo em insuficiência adrenal secundária, mas o cortisol de 17 µg/dL sem glicocorticoide exógeno afasta essa hipótese, e o TSH normal afasta hipotireoidismo. A cronologia é a da resposta trifásica: diabetes insípido nos primeiros dias pela lesão da haste, seguido entre o 5º e o 10º dia pela liberação descontrolada do ADH armazenado nos terminais neuro-hipofisários degenerados, que produz um quadro de secreção inapropriada. Nessa fase, a desmopressina que tratava o diabetes insípido soma antidiurese à antidiurese, e os 3 L de água ofertados completam a hiponatremia. A paciente está assintomática, então não há indicação de salina hipertônica: suspende-se a desmopressina, restringe-se a água e o sódio é acompanhado de perto, porque a fase seguinte pode ser diabetes insípido permanente.",
   "comentarios": {
-   "A": "Errada. É a armadilha do pós-operatório hipofisário: seria a conduta na insuficiência adrenal secundária, mas o cortisol de 17 µg/dL sem glicocorticoide a afasta.",
+   "A": "Errada. Manter a desmopressina perpetua a antidiurese; tolvaptana ficaria para secreção inapropriada persistente que falha à restrição, nunca associada a um agonista do mesmo receptor.",
    "B": "Errada. Seria a conduta na hiponatremia com sintomas graves ou moderadamente graves; esta paciente está assintomática.",
-   "C": "Errada. Manter a desmopressina perpetua a antidiurese; tolvaptana ficaria para secreção inapropriada persistente que falha à restrição, nunca associada a um agonista do mesmo receptor.",
+   "C": "Errada. É a armadilha do pós-operatório hipofisário: seria a conduta na insuficiência adrenal secundária, mas o cortisol de 17 µg/dL sem glicocorticoide a afasta.",
    "D": "Correta. No 8º dia, a fase de secreção inapropriada somada à desmopressina e à água explica o quadro, e retirar a droga com restrição hídrica resolve sem risco."
   },
   "para_levar": "Após cirurgia hipofisária, diabetes insípido nos primeiros dias pode virar secreção inapropriada entre o 5º e o 10º dia: desmopressina prescrita na alta precisa ser revista nesse intervalo, com sódio de controle.",
@@ -180,19 +180,19 @@
   "enunciado": "Mulher de 46 anos, com transtorno bipolar tipo I, está estável há 5 anos com carbonato de lítio 900 mg ao dia (litemia 0,8 mEq/L), introduzido após falha prévia com valproato e com lamotrigina. Há 4 meses refere cansaço, ganho de 5 kg, constipação, pele seca e desânimo, e a família teme uma nova fase depressiva. Nega mudança de dose, diuréticos ou anti-inflamatórios. PA 128 x 84 mmHg, FC 58 bpm, tireoide discretamente aumentada, difusa, indolor, reflexos com relaxamento lentificado. TSH 11,8 mUI/L (0,4 a 4,5), T4 livre 0,7 ng/dL (0,9 a 1,8), anti-TPO positivo, cálcio 9,6 mg/dL, sódio 139 mEq/L, creatinina 0,9 mg/dL. O residente de psiquiatria, lembrando que o lítio é bociogênico, propõe trocá-lo. A conduta mais adequada é:",
   "alternativas": {
    "A": "Levotiroxina, mantendo o lítio",
-   "B": "Trocar o lítio por valproato",
+   "B": "Repetir TSH e T4 livre em 8 semanas",
    "C": "Reduzir o lítio e repetir o TSH",
-   "D": "Repetir TSH e T4 livre em 8 semanas"
+   "D": "Trocar o lítio por valproato"
   },
   "gabarito": "A",
-  "armadilha": "B",
+  "armadilha": "D",
   "dado_decisivo": "introduzido após falha prévia com valproato e com lamotrigina",
   "resolucao": "O lítio é concentrado pela tireoide e inibe a liberação de T4 e T3, e o hipotireoidismo é seu efeito endócrino mais frequente, sobretudo em mulheres com anti-TPO positivo. A atribuição à droga é verdadeira e leva à ideia de trocá-la, mas o hipotireoidismo pelo lítio não é indicação de suspendê-lo: trata-se com levotiroxina e o lítio continua, ainda mais numa paciente estável há 5 anos que já falhou com os estabilizadores alternativos. Aqui o hipotireoidismo é franco (TSH alto com T4 livre baixo, bradicardia e reflexos lentos), então não cabe apenas repetir os exames, e reduzir a dose do lítio arrisca recaída sem corrigir a tireoide. O desânimo e o cansaço podem ser do próprio hipotireoidismo, que também favorece depressão e ciclagem rápida no transtorno bipolar, e melhoram com a reposição.",
   "comentarios": {
    "A": "Correta. Hipotireoidismo franco pelo lítio se trata com levotiroxina, e o lítio eficaz é mantido, sobretudo após falha de outros estabilizadores.",
-   "B": "Errada. É a armadilha do rótulo verdadeiro: a causa é o lítio, mas isso não obriga a trocá-lo, e a paciente já falhou com valproato.",
+   "B": "Errada. Repetir antes de tratar seria adequado no hipotireoidismo subclínico com TSH abaixo de 10; aqui o T4 livre já é baixo e há sinais clínicos.",
    "C": "Errada. Seria uma tentativa diante de toxicidade dose-dependente, como tremor com litemia alta; a litemia é terapêutica e reduzir a dose arrisca recaída sem tratar a tireoide.",
-   "D": "Errada. Repetir antes de tratar seria adequado no hipotireoidismo subclínico com TSH abaixo de 10; aqui o T4 livre já é baixo e há sinais clínicos."
+   "D": "Errada. É a armadilha do rótulo verdadeiro: a causa é o lítio, mas isso não obriga a trocá-lo, e a paciente já falhou com valproato."
   },
   "para_levar": "Hipotireoidismo pelo lítio se trata com levotiroxina e não obriga a suspender o lítio; o mesmo vale para o hiperparatireoidismo e o diabetes insípido nefrogênico, que têm conduta própria com a droga mantida quando ela é necessária.",
   "referencias": "Jonklaas J et al. Guidelines for the treatment of hypothyroidism: American Thyroid Association. Thyroid 2014; Lazarus JH. Lithium and thyroid. Best Pract Res Clin Endocrinol Metab 2009; CANMAT/ISBD Guidelines for the management of patients with bipolar disorder, 2018.",

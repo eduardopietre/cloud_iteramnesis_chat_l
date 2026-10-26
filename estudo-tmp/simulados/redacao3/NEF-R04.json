@@ -9,20 +9,20 @@
   "nivel": "extremamente difícil",
   "enunciado": "Homem de 66 anos, tabagista de 50 maços-ano, apresenta edema de membros inferiores há 2 meses. É hipertenso controlado com hidroclorotiazida e perdeu 4 kg no período, que atribui à dieta. PA 134 x 82 mmHg, edema 3+/4+ até a raiz das coxas. Albumina 2,1 g/dL, colesterol total 340 mg/dL, proteinúria de 24 horas de 7,8 g, creatinina 1,1 mg/dL, sedimento sem hematúria dismórfica. FAN, anti-HCV, HBsAg e VDRL negativos; C3 e C4 normais; eletroforese e imunofixação de proteínas sem componente monoclonal. Anti-PLA2R sérico negativo. Biópsia renal: espessamento difuso da membrana basal com espículas e depósitos subepiteliais granulares de IgG, com predomínio de IgG1 e IgG2, IgG4 fraca, PLA2R negativo no tecido e mais de 8 células inflamatórias por glomérulo. O laudo conclui por nefropatia membranosa. O próximo passo mais adequado é:",
   "alternativas": {
-   "A": "Rituximabe com bloqueio do SRAA",
+   "A": "Novo anti-PLA2R sérico em 6 meses",
    "B": "Rastreio de neoplasia com TC de tórax",
    "C": "Ciclosporina com corticoide em dose baixa",
-   "D": "Novo anti-PLA2R sérico em 6 meses"
+   "D": "Rituximabe com bloqueio do SRAA"
   },
   "gabarito": "B",
-  "armadilha": "A",
+  "armadilha": "D",
   "dado_decisivo": "predomínio de IgG1 e IgG2, IgG4 fraca, PLA2R negativo no tecido",
   "resolucao": "O laudo de nefropatia membranosa com proteinúria de 7,8 g e albumina de 2,1 g/dL leva direto ao tratamento da forma primária, e o rituximabe é a primeira escolha atual nela. Mas a primária é uma doença por autoanticorpo IgG4, em geral contra PLA2R; aqui o anticorpo é negativo no soro e no tecido, a subclasse dominante é IgG1 e IgG2 e há infiltrado inflamatório glomerular, todos marcadores de membranosa secundária. Num homem de 66 anos, tabagista pesado e com perda de peso, a causa a buscar é neoplasia sólida (pulmão, cólon, próstata, estômago), e as causas infecciosas, lúpicas e monoclonais já foram afastadas. Imunossuprimir antes disso trata o epifenômeno e atrasa o diagnóstico de um câncer cuja ressecção pode remitir a proteinúria. Bloqueio do SRAA e anticoagulação conforme a albumina seguem indicados enquanto se investiga.",
   "comentarios": {
-   "A": "Errada. É a armadilha do laudo: rituximabe é o tratamento da membranosa primária anti-PLA2R positiva, mas aqui as subclasses IgG1 e IgG2 e o PLA2R negativo apontam forma secundária.",
+   "A": "Errada. Repetir o anti-PLA2R serve para monitorar a forma primária positiva; aqui o tecido já é negativo, e esperar 6 meses atrasa o diagnóstico.",
    "B": "Correta. Membranosa PLA2R negativa no tecido, com IgG1 e IgG2 e inflamação glomerular, em tabagista idoso que emagreceu, pede rastreio de neoplasia sólida antes de imunossuprimir.",
    "C": "Errada. Inibidor de calcineurina é alternativa na membranosa primária; não se aplica antes de excluir a causa secundária sugerida pela biópsia.",
-   "D": "Errada. Repetir o anti-PLA2R serve para monitorar a forma primária positiva; aqui o tecido já é negativo, e esperar 6 meses atrasa o diagnóstico."
+   "D": "Errada. É a armadilha do laudo: rituximabe é o tratamento da membranosa primária anti-PLA2R positiva, mas aqui as subclasses IgG1 e IgG2 e o PLA2R negativo apontam forma secundária."
   },
   "para_levar": "Membranosa primária é IgG4 e PLA2R positiva; PLA2R negativa no tecido, IgG1 e IgG2 dominantes e células inflamatórias no glomérulo apontam causa secundária, e no idoso tabagista a primeira busca é neoplasia.",
   "referencias": "KDIGO 2021 Clinical Practice Guideline for the Management of Glomerular Diseases; Leeaphorn N et al. Prevalence of cancer in membranous nephropathy: a systematic review and meta-analysis. Am J Nephrol 2014.",
@@ -145,20 +145,20 @@
   "nivel": "difícil",
   "enunciado": "Homem de 70 anos, hipertenso, diabético e tabagista, com creatinina basal de 1,3 mg/dL, foi submetido a cateterismo cardíaco por via femoral com angioplastia da artéria descendente anterior, recebendo 180 mL de contraste iodado, com hidratação venosa antes e depois. No segundo dia a creatinina era de 1,4 mg/dL e recebeu alta com AAS, clopidogrel e atorvastatina. Retorna no 21º dia com creatinina de 3,8 mg/dL, em ascensão progressiva desde a segunda semana segundo exames do posto, PA de 178 x 100 mmHg (antes controlada) e dor no hálux esquerdo. Ao exame, livedo reticular em coxas e pododáctilos arroxeados, com pulsos pediosos palpáveis. Eosinófilos 980/mm³, C3 72 mg/dL (90 a 180). Urina com proteína em traços, sem hemácias e sem leucocitúria. O diagnóstico mais provável é:",
   "alternativas": {
-   "A": "Lesão renal induzida por contraste",
+   "A": "Trombose aguda da artéria renal",
    "B": "Doença renal ateroembólica",
    "C": "Nefrite intersticial aguda pelo clopidogrel",
-   "D": "Trombose aguda da artéria renal"
+   "D": "Lesão renal induzida por contraste"
   },
   "gabarito": "B",
-  "armadilha": "A",
+  "armadilha": "D",
   "dado_decisivo": "em ascensão progressiva desde a segunda semana",
   "resolucao": "O volume de contraste alto e o paciente diabético com doença renal leve tornam a lesão por contraste a explicação mais lembrada. Mas ela segue uma cronologia própria: a creatinina sobe em 24 a 72 horas, faz pico em 3 a 5 dias e volta ao basal em 1 a 2 semanas; aqui a creatinina estava estável no segundo dia e começou a subir na segunda semana, de forma progressiva. Lesão subaguda após manipulação da aorta, com livedo reticular, dedos arroxeados com pulsos palpáveis, hipertensão nova, eosinofilia e consumo de complemento é doença ateroembólica por cristais de colesterol. A eosinofilia e o complemento baixo poderiam sugerir nefrite intersticial, mas o sedimento sem leucocitúria e as lesões cutâneas isquêmicas distais apontam embolia. O tratamento é de suporte, com estatina, controle pressórico e evitar novas manipulações vasculares.",
   "comentarios": {
-   "A": "Errada. É a armadilha do contraste: a lesão por contraste surge em 24 a 72 horas e melhora em até 2 semanas; aqui a creatinina era estável no segundo dia e subiu depois.",
+   "A": "Errada. A trombose arterial renal causa perda abrupta de função com dor lombar e LDH alta, e não ascensão gradual com lesões cutâneas distais.",
    "B": "Correta. Lesão renal que progride a partir da segunda semana após cateterismo, com livedo, dedos arroxeados com pulsos presentes, eosinofilia e C3 baixo, é ateroembolia.",
    "C": "Errada. Nefrite intersticial explicaria a eosinofilia, mas daria leucocitúria e não causaria livedo nem isquemia digital com pulsos palpáveis.",
-   "D": "Errada. A trombose arterial renal causa perda abrupta de função com dor lombar e LDH alta, e não ascensão gradual com lesões cutâneas distais."
+   "D": "Errada. É a armadilha do contraste: a lesão por contraste surge em 24 a 72 horas e melhora em até 2 semanas; aqui a creatinina era estável no segundo dia e subiu depois."
   },
   "para_levar": "Após cateterismo, creatinina que sobe em dias e volta é contraste; que sobe a partir da segunda semana, com livedo, eosinofilia e complemento baixo, é ateroembolia.",
   "referencias": "KDIGO 2012 Clinical Practice Guideline for Acute Kidney Injury; Scolari F, Ravani P. Atheroembolic renal disease. Lancet 2010.",

@@ -43,19 +43,19 @@
   "enunciado": "Homem de 59 anos, hipertenso em uso de anlodipino, refere lombalgia mecânica há 3 meses, sem perda de peso e sem déficit neurológico. A RM da coluna toracolombar mostra lesão lítica única no corpo vertebral de T11, com componente de partes moles e sem compressão do canal. A biópsia guiada por TC revela infiltrado de plasmócitos monotípicos kappa. Hb 13,6 g/dL, cálcio 9,3 mg/dL, creatinina 0,9 mg/dL. Eletroforese de proteínas com pico de 0,5 g/dL, imunofixação IgG kappa, relação kappa/lambda das cadeias livres de 2,8. O inventário radiográfico do esqueleto (crânio, ossos longos, bacia e coluna) não mostra outras lesões. Aspirado e biópsia de crista ilíaca: plasmócitos clonais em 5% por citometria de fluxo. O radioterapeuta já agendou o planejamento. O próximo passo mais adequado é:",
   "alternativas": {
    "A": "PET-CT com FDG de corpo inteiro",
-   "B": "Radioterapia local em dose curativa",
+   "B": "Cintilografia óssea com tecnécio",
    "C": "Indução com bortezomibe e transplante autólogo",
-   "D": "Cintilografia óssea com tecnécio"
+   "D": "Radioterapia local em dose curativa"
   },
   "gabarito": "A",
-  "armadilha": "B",
+  "armadilha": "D",
   "dado_decisivo": "O inventário radiográfico do esqueleto (crânio, ossos longos, bacia e coluna) não mostra outras lesões",
   "resolucao": "Lesão única com plasmócitos clonais na biópsia e medula com menos de 10% de plasmócitos clonais, sem anemia, hipercalcemia ou lesão renal, é plasmocitoma solitário com envolvimento medular mínimo, e a radioterapia local é o tratamento. A armadilha está no momento: o inventário radiográfico só detecta lesão lítica quando boa parte do osso trabecular já se perdeu e não é mais aceito para estadiar plasmocitoma. Cerca de um terço dos plasmocitomas aparentemente solitários tem outras lesões quando estudados por PET-CT ou RM de corpo inteiro (ou de coluna e pelve), e duas ou mais lesões transformam o caso em mieloma, com tratamento sistêmico. Por isso o IMWG exige imagem sensível antes de rotular como solitário. A cintilografia óssea depende de atividade osteoblástica, que o mieloma suprime, e subestima as lesões. A indução de mieloma seria precipitada com medula de 5% e lesão única ainda não confirmada.",
   "comentarios": {
    "A": "Correta. Antes de chamar a lesão de solitária, o estadiamento exige imagem sensível (PET-CT ou RM), porque o inventário radiográfico perde lesões e um terço desses casos já é mieloma.",
-   "B": "Errada. É a armadilha: seria a conduta depois de a PET-CT ou a RM confirmarem lesão única; tratar só T11 com outra lesão oculta deixa um mieloma sem tratamento sistêmico.",
+   "B": "Errada. A cintilografia detecta atividade osteoblástica, ausente nas lesões puramente líticas do mieloma, e por isso subestima a doença.",
    "C": "Errada. Seria a conduta no mieloma múltiplo (plasmócitos clonais de 10% ou mais com evento definidor, ou duas lesões focais na RM); aqui a medula tem 5% e só há uma lesão conhecida.",
-   "D": "Errada. A cintilografia detecta atividade osteoblástica, ausente nas lesões puramente líticas do mieloma, e por isso subestima a doença."
+   "D": "Errada. É a armadilha: seria a conduta depois de a PET-CT ou a RM confirmarem lesão única; tratar só T11 com outra lesão oculta deixa um mieloma sem tratamento sistêmico."
   },
   "para_levar": "Plasmocitoma solitário só se diagnostica depois de PET-CT ou RM sem outras lesões; o inventário radiográfico normal não basta, e medula abaixo de 10% não dispensa a imagem sensível.",
   "referencias": "Caers J et al. Diagnosis, treatment, and response assessment in solitary plasmacytoma: updated recommendations from the IMWG. Lancet Oncol 2018; Rajkumar SV. Multiple myeloma: 2024 update. Am J Hematol.",
@@ -77,19 +77,19 @@
   "enunciado": "Homem de 61 anos, diabético, ex-tabagista (parou há 8 anos), encaminhado por eritrocitose. Usa metformina e, há 4 meses, empagliflozina; não usa testosterona. Hemograma de 2 anos atrás: hematócrito de 43%. Assintomático, sem prurido aquagênico, sem eritromelalgia, sem roncos ou sonolência diurna. Exame: PA 138 x 84 mmHg, pletora facial discreta, baço e fígado não palpáveis, sem massas abdominais. Exames: Hb 19,1 g/dL, hematócrito 57%, leucócitos 7.200/mm³, plaquetas 248.000/mm³, eritropoetina sérica 54 mUI/mL (referência: 4 a 26), JAK2 V617F negativo, SpO2 96% em ar ambiente e carboxi-hemoglobina 1,1%. Ao revisar o prontuário, o residente encontra hematócrito de 52% num exame de rotina colhido um mês antes de iniciar a empagliflozina. Creatinina 0,9 mg/dL, urina tipo 1 sem hematúria. A conduta mais adequada agora é:",
   "alternativas": {
    "A": "Pesquisar mutação no éxon 12 do JAK2",
-   "B": "Suspender a empagliflozina e repetir em 3 meses",
+   "B": "Medir a P50 da hemoglobina",
    "C": "Tomografia de abdome com contraste",
-   "D": "Medir a P50 da hemoglobina"
+   "D": "Suspender a empagliflozina e repetir em 3 meses"
   },
   "gabarito": "C",
-  "armadilha": "B",
+  "armadilha": "D",
   "dado_decisivo": "hematócrito de 52% num exame de rotina colhido um mês antes de iniciar a empagliflozina",
   "resolucao": "Os inibidores de SGLT2 elevam de fato o hematócrito e a eritropoetina, e a droga recente é o rótulo verdadeiro que convida a suspender e esperar. Mas o efeito do iSGLT2 é de poucos pontos de hematócrito, e o exame anterior à droga já mostrava 52%, de modo que a eritrocitose começou antes dela. A eritropoetina alta separa os caminhos: na policitemia vera, inclusive na do éxon 12, a EPO está baixa ou suprimida, o que torna o éxon 12 inútil aqui. EPO alta exige procurar hipóxia (afastada: saturação normal, carboxi-hemoglobina normal, sem sintomas de apneia) ou produção inapropriada de EPO, e a de surgimento recente num homem de 61 anos aponta tumor: carcinoma de células renais, hepatocarcinoma, hemangioblastoma, leiomioma uterino ou feocromocitoma. A imagem abdominal com contraste é o passo. Hemoglobina de alta afinidade é congênita, com eritrocitose desde a juventude, e o hematócrito de 43% há 2 anos a afasta.",
   "comentarios": {
    "A": "Errada. O éxon 12 se pesquisa na suspeita de policitemia vera com V617F negativo, mas essa doença cursa com eritropoetina baixa, e aqui ela está alta.",
-   "B": "Errada. É a armadilha do rótulo verdadeiro: o iSGLT2 eleva pouco o hematócrito, e a eritrocitose já existia antes de ele ser iniciado.",
+   "B": "Errada. A P50 baixa identifica hemoglobina de alta afinidade, causa congênita com eritrocitose desde cedo; o hematócrito normal há 2 anos a afasta.",
    "C": "Correta. Eritrocitose adquirida com eritropoetina alta e sem hipóxia é produção inapropriada de EPO até prova em contrário, e rim e fígado são os sítios a estudar primeiro.",
-   "D": "Errada. A P50 baixa identifica hemoglobina de alta afinidade, causa congênita com eritrocitose desde cedo; o hematócrito normal há 2 anos a afasta."
+   "D": "Errada. É a armadilha do rótulo verdadeiro: o iSGLT2 eleva pouco o hematócrito, e a eritrocitose já existia antes de ele ser iniciado."
   },
   "para_levar": "Eritrocitose com EPO alta e saturação normal, de surgimento recente, pede imagem abdominal atrás de tumor secretor de EPO; EPO alta afasta policitemia vera, inclusive a do éxon 12.",
   "referencias": "McMullin MF et al. A guideline for the diagnosis and management of polycythaemia vera. A British Society for Haematology guideline. Br J Haematol 2019; Gangat N et al. Secondary polycythemia. Am J Hematol 2021.",
@@ -143,18 +143,18 @@
   "enunciado": "Mulher de 34 anos, sem comorbidades, nunca engravidou e nunca recebeu transfusão. Há 6 dias tem fadiga, icterícia e urina escura, e desde ontem dispneia e opressão torácica ao caminhar até o banheiro. Exame: FC 132 bpm, PA 102 x 60 mmHg, SpO2 95%, icterícia 2+/4, palidez acentuada, baço palpável a 2 cm do rebordo. ECG com taquicardia sinusal e infradesnível de ST de 1 mm em V4 a V6; troponina discretamente elevada. Exames: Hb 4,4 g/dL, reticulócitos 16%, LDH 1.150 U/L, bilirrubina indireta 4,9 mg/dL, haptoglobina indetectável, esferócitos no esfregaço, Coombs direto IgG 4+ e C3d negativo. Recebeu metilprednisolona há 10 horas. O banco de sangue informa autoanticorpo pan-reativo no soro e no eluato, com prova cruzada incompatível com todas as unidades testadas, e que a técnica de adsorção para excluir aloanticorpo levará cerca de 24 horas. A conduta mais adequada neste momento é:",
   "alternativas": {
    "A": "Transfundir hemácias ABO e RhD compatíveis, lentamente",
-   "B": "Manter o corticoide e aguardar a adsorção",
-   "C": "Plasmaférese de urgência antes de transfundir",
+   "B": "Plasmaférese de urgência antes de transfundir",
+   "C": "Manter o corticoide e aguardar a adsorção",
    "D": "Imunoglobulina intravenosa sem transfusão"
   },
   "gabarito": "A",
-  "armadilha": "B",
+  "armadilha": "C",
   "dado_decisivo": "nunca engravidou e nunca recebeu transfusão",
   "resolucao": "A prova cruzada incompatível com todas as unidades assusta e faz parecer prudente esperar a adsorção ou o efeito do corticoide. Na anemia hemolítica autoimune quente, porém, a incompatibilidade é esperada: o autoanticorpo reage com quase todas as hemácias, inclusive as do doador, e a hemácia transfundida sobrevive tanto quanto a do próprio paciente. O risco real é um aloanticorpo escondido pelo autoanticorpo, e ele depende de aloimunização prévia por gestação ou transfusão, que esta paciente nunca teve. Com hemoglobina de 4,4 g/dL e isquemia miocárdica, o risco de não transfundir supera em muito o risco de reação: transfunde-se o volume mínimo para aliviar a isquemia, com hemácias ABO e RhD compatíveis (de preferência fenotipadas para Rh e Kell), infusão lenta e vigilância, enquanto o corticoide age. A plasmaférese tem pouco papel nos anticorpos IgG quentes, que se distribuem fora do plasma, e a imunoglobulina tem efeito modesto e lento nesse cenário.",
   "comentarios": {
    "A": "Correta. Com isquemia miocárdica e sem gestação ou transfusão prévia (baixo risco de aloanticorpo), a transfusão não se adia por causa da prova cruzada incompatível.",
-   "B": "Errada. É a armadilha: aguardar a adsorção seria razoável na paciente estável e politransfundida ou multípara, mas aqui a anemia já produz isquemia miocárdica.",
-   "C": "Errada. Seria uma opção de resgate na hemólise por crioaglutinina grave, em que o anticorpo IgM fica no plasma; no anticorpo quente IgG o efeito é pequeno e não substitui a transfusão.",
+   "B": "Errada. Seria uma opção de resgate na hemólise por crioaglutinina grave, em que o anticorpo IgM fica no plasma; no anticorpo quente IgG o efeito é pequeno e não substitui a transfusão.",
+   "C": "Errada. É a armadilha: aguardar a adsorção seria razoável na paciente estável e politransfundida ou multípara, mas aqui a anemia já produz isquemia miocárdica.",
    "D": "Errada. A imunoglobulina tem resposta inconstante e lenta na anemia hemolítica autoimune quente, e não corrige em horas uma anemia com isquemia."
   },
   "para_levar": "Na anemia hemolítica autoimune com anemia ameaçadora, prova cruzada incompatível não é motivo para negar transfusão: transfunde-se o mínimo necessário, devagar, e o risco de aloanticorpo depende de gestação ou transfusão prévia.",

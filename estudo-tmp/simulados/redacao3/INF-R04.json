@@ -9,20 +9,20 @@
   "nivel": "difícil",
   "enunciado": "Homem de 36 anos vive com HIV e abandonou a TARV há 2 anos; o último CD4, de 1 ano atrás, era 60 células/mm³. Há 3 semanas tem cefaleia progressiva, febre vespertina e vômitos, e há 2 dias está sonolento. Temperatura 38,2 °C, PA 128/80 mmHg, FC 96 bpm, Glasgow 14 (confuso), rigidez de nuca discreta, pupilas isocóricas e fundoscopia prejudicada por pouca colaboração. No exame motor, força preservada nos quatro membros, com desvio pronador discreto do membro superior direito e reflexos simétricos. O teste rápido de antígeno criptocócico (fluxo lateral) no soro é reagente, e a sorologia IgG para toxoplasmose também é reagente. O plantonista quer puncionar logo para medir a pressão de abertura. O próximo passo mais adequado é:",
   "alternativas": {
-   "A": "Punção lombar imediata com manometria",
+   "A": "Anfotericina empírica sem punção lombar",
    "B": "TC de crânio antes da punção lombar",
    "C": "Tratamento empírico para toxoplasmose",
-   "D": "Anfotericina empírica sem punção lombar"
+   "D": "Punção lombar imediata com manometria"
   },
   "gabarito": "B",
-  "armadilha": "A",
+  "armadilha": "D",
   "dado_decisivo": "desvio pronador discreto do membro superior direito",
   "resolucao": "O antígeno criptocócico sérico reagente, com cefaleia subaguda e febre, é verdadeiro e quase fecha neurocriptococose, e a punção com manometria é de fato indispensável para diagnóstico e para tratar a hipertensão intracraniana. O que muda a ordem é o exame neurológico: o desvio pronador é um sinal motor focal, e na aids avançada ele levanta lesão expansiva (neurotoxoplasmose, linfoma, criptococoma) que pode coexistir com a meningite. Imunossupressão grave, rebaixamento de consciência e qualquer déficit focal são indicações de imagem antes da punção, para não precipitar herniação. A TC é rápida e não atrasa o tratamento, e, sem lesão com efeito de massa, a punção vem logo em seguida. A sorologia para toxoplasma reagente só indica infecção latente e não autoriza tratar no escuro, e a anfotericina sem líquor perde o diagnóstico e o controle da pressão.",
   "comentarios": {
-   "A": "Errada. É a armadilha do antígeno reagente: seria a certa sem déficit focal e com consciência preservada, mas aqui há sinal motor e imunossupressão grave.",
+   "A": "Errada. A anfotericina pode até começar enquanto se aguarda, mas dispensar a punção deixa sem diagnóstico e sem controle da pressão intracraniana.",
    "B": "Correta. Aids avançada, rebaixamento e desvio pronador pedem TC antes da punção; sem efeito de massa, a punção com manometria segue de imediato.",
    "C": "Errada. Seria a conduta com lesões com realce anelar na imagem e sorologia reagente; sem imagem, não há lesão a tratar.",
-   "D": "Errada. A anfotericina pode até começar enquanto se aguarda, mas dispensar a punção deixa sem diagnóstico e sem controle da pressão intracraniana."
+   "D": "Errada. É a armadilha do antígeno reagente: seria a certa sem déficit focal e com consciência preservada, mas aqui há sinal motor e imunossupressão grave."
   },
   "para_levar": "Na aids, antígeno criptocócico reagente não pula a imagem: déficit focal, rebaixamento ou imunossupressão grave pedem TC antes da punção, e a manometria vem logo depois.",
   "referencias": "IDSA Practice Guidelines for the Management of Bacterial Meningitis (2004) e Cryptococcal Disease (2010); Ministério da Saúde, PCDT para Manejo da Infecção pelo HIV em Adultos (2024); WHO Guidelines for Cryptococcal Disease in HIV (2022).",
@@ -44,20 +44,20 @@
   "nivel": "extremamente difícil",
   "enunciado": "Homem de 34 anos, agricultor no interior de Minas Gerais, há 2 semanas esvaziou um paiol de milho com muitos roedores. Há 4 dias tem febre, mialgia intensa, cefaleia e dor abdominal; há 12 horas surgiram tosse seca e dispneia progressiva. Temperatura 38,6 °C, PA 86/54 mmHg, FC 124 bpm, FR 34 irpm, SpO2 84% em ar ambiente, estertores crepitantes bilaterais, sem sufusão conjuntival e sem icterícia. Hemoglobina 18,2 g/dL, hematócrito 54% (referência: 40 a 50), leucócitos 18.000/mm³ com desvio e linfócitos atípicos, plaquetas 42.000/mm³, creatinina 1,4 mg/dL, bilirrubina total 0,8 mg/dL, CK 160 U/L, lactato 3,2 mmol/L. Radiografia: infiltrado intersticial bilateral e pequeno derrame pleural bilateral. A equipe abriu o protocolo de sepse, colheu hemoculturas e iniciou ceftriaxona; é intubado. Além do suporte ventilatório, a conduta hemodinâmica mais adequada é:",
   "alternativas": {
-   "A": "Cristaloide 30 mL/kg nas primeiras 3 horas",
+   "A": "Volume cauteloso e noradrenalina precoce",
    "B": "Ribavirina intravenosa iniciada precocemente",
    "C": "Pulso de metilprednisolona por 3 dias",
-   "D": "Volume cauteloso e noradrenalina precoce"
+   "D": "Cristaloide 30 mL/kg nas primeiras 3 horas"
   },
-  "gabarito": "D",
-  "armadilha": "A",
+  "gabarito": "A",
+  "armadilha": "D",
   "dado_decisivo": "hematócrito 54% (referência: 40 a 50)",
   "resolucao": "Hipotensão, lactato alto, leucocitose com desvio e infiltrado bilateral cumprem o protocolo de sepse, que manda 30 mL/kg de cristaloide. Mas a exposição a roedores em paiol, a hemoconcentração com plaquetopenia e linfócitos atípicos, o edema pulmonar bilateral com derrame e a ausência de icterícia, de sufusão e de CK alta compõem a síndrome cardiopulmonar por hantavírus, e não leptospirose nem pneumonia bacteriana. Nela o choque é de extravasamento capilar pulmonar com depressão miocárdica, e a hemoconcentração reflete plasma fugindo para o pulmão: volume liberal piora o edema e a hipoxemia rapidamente. O manejo é reposição volêmica cautelosa, vasopressor e inotrópico precoces, ventilação protetora e, nos refratários, oxigenação extracorpórea. A ribavirina não tem benefício na forma cardiopulmonar, e corticoide não tem papel estabelecido. Manter o antibiótico até sair a investigação é aceitável, mas não muda a hemodinâmica.",
   "comentarios": {
-   "A": "Errada. É a armadilha do protocolo de sepse: seria a certa no choque séptico bacteriano, mas no hantavírus o volume liberal agrava o edema pulmonar por extravasamento capilar.",
+   "A": "Correta. Hemoconcentração com edema pulmonar após exposição a roedores pede volume cauteloso, noradrenalina e inotrópico precoces.",
    "B": "Errada. Tem algum papel na febre hemorrágica com síndrome renal das hantaviroses do Velho Mundo, mas não mostrou benefício na forma cardiopulmonar das Américas.",
    "C": "Errada. Seria discutido na pneumonia grave com resposta inflamatória exuberante, mas não reduziu mortalidade no hantavírus e não corrige o choque.",
-   "D": "Correta. Hemoconcentração com edema pulmonar após exposição a roedores pede volume cauteloso, noradrenalina e inotrópico precoces."
+   "D": "Errada. É a armadilha do protocolo de sepse: seria a certa no choque séptico bacteriano, mas no hantavírus o volume liberal agrava o edema pulmonar por extravasamento capilar."
   },
   "para_levar": "Choque com hemoconcentração, plaquetopenia e edema pulmonar após exposição a roedores silvestres é hantavírus: a ordem é volume cauteloso e vasopressor precoce, e não o bolus de sepse.",
   "referencias": "Ministério da Saúde, Guia de Vigilância em Saúde, 6ª ed. (2024), capítulo Hantavirose; Manual de Vigilância, Prevenção e Controle das Hantaviroses (MS, 2014); Surviving Sepsis Campaign (2021).",

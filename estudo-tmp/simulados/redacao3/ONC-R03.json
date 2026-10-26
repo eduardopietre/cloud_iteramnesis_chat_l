@@ -1,0 +1,103 @@
+[
+ {
+  "id": "R03-ONC-01",
+  "simulado": "R03",
+  "area": "Oncologia",
+  "titulo": "Dispneia semanas após quimioterapia para tumor germinativo com corticoide antiemético e linfopenia: pneumonite por bleomicina pelo padrão subpleural basal, e não pneumocistose",
+  "arma": "Grade X / Y",
+  "comando": "diagnóstico",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 31 anos, tabagista de 10 maços-ano, foi submetido há 4 meses a orquiectomia por tumor de células germinativas não seminomatoso com metástases retroperitoneais e recebeu 3 ciclos de bleomicina, etoposídeo e cisplatina, o último há 6 semanas, com dexametasona como antiemético em todos os ciclos. Há 3 semanas tem tosse seca e dispneia progressiva, hoje aos pequenos esforços, sem febre. Exame: FR 24 irpm, FC 96 bpm, SatO2 93% em repouso e 85% ao caminhar, estertores finos em ambas as bases. Leucócitos 6.800/mm³ (linfócitos 1.100/mm³), DHL 410 U/L (referência até 250); alfafetoproteína e beta-hCG normalizados. DLCO de 41% do previsto (antes da quimioterapia: 88%). TC de tórax: reticulação e opacidades em vidro fosco subpleurais, predominando nas bases, com bandas parenquimatosas, sem nódulos, sem cistos e sem derrame. O diagnóstico e a conduta mais adequada são, respectivamente:",
+  "alternativas": {
+   "A": "Pneumocistose / sulfametoxazol-trimetoprima",
+   "B": "Pneumonite por bleomicina / prednisona",
+   "C": "Metástases pulmonares / quimioterapia de resgate",
+   "D": "Tromboembolismo pulmonar / anticoagulação"
+  },
+  "gabarito": "B",
+  "armadilha": "A",
+  "dado_decisivo": "subpleurais, predominando nas bases",
+  "resolucao": "Corticoide repetido nos ciclos, linfopenia, DHL alta, dispneia com dessaturação ao esforço e vidro fosco formam o retrato da pneumocistose, e é para lá que o apressado vai. A distribuição desmente: a pneumocistose dá vidro fosco difuso, central e peri-hilar, com frequência poupando a periferia, enquanto a toxicidade pulmonar da bleomicina dá reticulação e vidro fosco subpleurais, de predomínio basal, com bandas parenquimatosas, exatamente o descrito. A queda da DLCO de 88% para 41% é o marcador funcional mais sensível dessa toxicidade, e tabagismo e dose cumulativa aumentam o risco. Os marcadores normalizados e a ausência de nódulos afastam progressão tumoral. A conduta é não reexpor à bleomicina e iniciar prednisona em torno de 1 mg/kg com redução lenta, e esse paciente passa a ter restrição de oxigênio em fração alta e de volume em futuras anestesias, inclusive na linfadenectomia retroperitoneal.",
+  "comentarios": {
+   "A": "Errada. É a armadilha do corticoide e da DHL; seria o diagnóstico com vidro fosco difuso peri-hilar poupando a periferia, e não com reticulação subpleural basal e DLCO despencando depois da bleomicina.",
+   "B": "Correta. Reticulação e vidro fosco subpleurais basais, estertores em bases e DLCO em queda após bleomicina definem a pneumonite, tratada com corticoide e sem reexposição.",
+   "C": "Errada. Seria a resposta com nódulos pulmonares e marcadores em ascensão; aqui não há nódulos e alfafetoproteína e beta-hCG normalizaram.",
+   "D": "Errada. A cisplatina aumenta o risco de trombose, mas tromboembolismo não explica estertores, reticulação basal e queda progressiva da difusão."
+  },
+  "para_levar": "Dispneia com estertores em bases, reticulação subpleural basal e queda da DLCO após bleomicina é pneumonite pela droga: suspender para sempre, corticoide, e cuidado com oxigênio em fração alta em anestesias futuras.",
+  "referencias": "NCCN Testicular Cancer (2025); Harrison's Principles of Internal Medicine, 21ª ed. (2022), cap. Testicular Cancer e Pulmonary Toxicity of Chemotherapy; ATS/ERS, revisão de pneumopatia induzida por drogas (2022).",
+  "tags": [
+   "Neoplasias e Esquemas Quimioterápicos (CM)",
+   "Doença Pulmonar Intersticial (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "UERJ recorrente: toxicidade de quimioterápico a deduzir (bleomicina no tumor germinativo) + S4 q62 (toxicidade de terapia oncológica)"
+ },
+ {
+  "id": "R03-ONC-02",
+  "simulado": "R03",
+  "area": "Oncologia",
+  "titulo": "Rastreamento de câncer de pulmão no ex-tabagista pesado com DPOC e pai acometido: pela USPSTF, quem parou há mais de 15 anos não entra",
+  "arma": "Qualificador",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Homem de 64 anos procura a unidade de saúde pedindo um exame para câncer de pulmão, porque um amigo da mesma idade acabou de receber esse diagnóstico. Fumou 2 maços por dia dos 18 aos 47 anos (58 maços-ano) e parou há 17 anos, sem recaída. Tem DPOC GOLD 2 em uso de tiotrópio, sem exacerbações no último ano, e o pai morreu de câncer de pulmão aos 70 anos. Nega tosse nova, hemoptise, perda de peso ou dor torácica; a dispneia aos grandes esforços é a mesma de anos. Exame: IMC 27 kg/m², FR 16 irpm, SatO2 95% em ar ambiente, murmúrio vesicular difusamente diminuído, sem baqueteamento digital nem linfonodos palpáveis. Radiografia de tórax de 1 ano atrás com hiperinsuflação, sem nódulos. Segundo a recomendação da USPSTF (2021), a conduta mais adequada quanto ao rastreamento do câncer de pulmão é:",
+  "alternativas": {
+   "A": "TC de baixa dose anual",
+   "B": "TC de baixa dose por 3 anos",
+   "C": "Radiografia de tórax anual",
+   "D": "Não indicar o rastreamento"
+  },
+  "gabarito": "D",
+  "armadilha": "A",
+  "dado_decisivo": "parou há 17 anos",
+  "resolucao": "Carga tabágica enorme, DPOC, pai com câncer de pulmão e a idade dentro da faixa fazem a TC de baixa dose anual parecer óbvia. A USPSTF (2021) indica o rastreamento entre 50 e 80 anos para quem tem 20 maços-ano ou mais e fuma atualmente ou parou há no máximo 15 anos; ele parou há 17, e o rastreamento se encerra 15 anos após a cessação. DPOC e história familiar aumentam o risco, mas não são critérios de entrada nessa recomendação. O qualificador do comando é o que decide: a American Cancer Society (2023) retirou o critério de tempo desde a cessação e o incluiria, e no Brasil não há programa organizado do Ministério da Saúde para câncer de pulmão. Sem sintomas, a investigação não se justifica como diagnóstico, e a radiografia de tórax não reduz mortalidade como rastreamento.",
+  "comentarios": {
+   "A": "Errada. É a armadilha da carga tabágica; seria a conduta se ele tivesse parado há 15 anos ou menos, ou pela American Cancer Society (2023), que não usa o tempo desde a cessação.",
+   "B": "Errada. Três rodadas foi o desenho do NLST, não uma recomendação; quem é elegível faz TC anual enquanto permanecer elegível.",
+   "C": "Errada. A radiografia de tórax anual não reduziu mortalidade nos ensaios (PLCO) e não é método de rastreamento em nenhuma diretriz.",
+   "D": "Correta. Pela USPSTF, o rastreamento termina quando a cessação passa de 15 anos, independentemente de DPOC e história familiar."
+  },
+  "para_levar": "USPSTF 2021: TC de baixa dose anual de 50 a 80 anos, com 20 maços-ano ou mais, fumante atual ou que parou há até 15 anos; a ACS 2023 retirou o limite de tempo desde a cessação, por isso o qualificador do comando decide.",
+  "referencias": "USPSTF, Lung Cancer: Screening (2021); American Cancer Society Lung Cancer Screening Guideline (2023); INCA, Detecção precoce do câncer (2021).",
+  "tags": [
+   "Rastreamentos em Clínica Médica (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "S3 q34: quando não rastrear (antes encerrar após histerectomia, agora o critério de cessação do tabagismo)"
+ },
+ {
+  "id": "R03-ONC-03",
+  "simulado": "R03",
+  "area": "Oncologia",
+  "titulo": "Coronariopata com dor torácica e troponina alta semanas após nivolumabe com ipilimumabe, com ptose e CK alta: miocardite imunomediada, e não síndrome coronariana",
+  "arma": "Rótulo verdadeiro",
+  "comando": "conduta",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 69 anos, com melanoma metastático, recebeu a segunda dose de nivolumabe com ipilimumabe há 18 dias. Tem doença coronariana com stent na artéria descendente anterior há 3 anos, em uso de AAS, atorvastatina 40 mg e metoprolol; cintilografia de perfusão há 4 meses sem isquemia. Há 5 dias refere dor nas coxas, cansaço aos esforços leves e desconforto torácico em aperto, intermitente, e desde ontem visão dupla no fim do dia e pálpebras caídas. Exame: PA 112/70 mmHg, FC 58 bpm, SatO2 95%, ptose bilateral assimétrica, fraqueza proximal grau 4 nos quatro membros, pulmões limpos. ECG: bloqueio atrioventricular de primeiro grau e bloqueio de ramo direito, ambos novos, sem supradesnivelamento de ST. Troponina T ultrassensível 1.150 ng/L (referência até 14), CK 4.200 U/L, TSH normal. Ecocardiograma: fração de ejeção de 52%, sem alteração segmentar nova. A conduta mais adequada neste momento é:",
+  "alternativas": {
+   "A": "Suspender a imunoterapia e pulso de metilprednisolona",
+   "B": "Cateterismo e dupla antiagregação plaquetária",
+   "C": "Piridostigmina, mantendo a imunoterapia",
+   "D": "Suspender a atorvastatina e hidratação venosa"
+  },
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "CK 4.200 U/L",
+  "resolucao": "Coronariopata com stent, desconforto em aperto e troponina muito alta é o roteiro da síndrome coronariana, e o cateterismo parece inadiável. O resto do caso não cabe numa coronária: o início nas primeiras semanas após o bloqueio combinado de PD-1 e CTLA-4, o distúrbio de condução novo sem alteração segmentar no ecocardiograma e, sobretudo, a CK de 4.200 U/L com fraqueza proximal, ptose e diplopia flutuantes, que juntam miosite, quadro miastênico e miocardite. Essa sobreposição é o efeito adverso imunomediado mais letal dos inibidores de checkpoint. A conduta é suspender definitivamente a imunoterapia, iniciar pulso de metilprednisolona (500 a 1.000 mg/dia), monitorizar o ritmo pelo risco de bloqueio avançado e escalonar (abatacepte, micofenolato, imunoglobulina ou plasmaférese) se não houver resposta. A estatina e a miastenia isolada explicariam parte do quadro, mas nenhuma explica a miocardite.",
+  "comentarios": {
+   "A": "Correta. Miocardite com miosite e quadro miastênico após inibidor de checkpoint pede suspensão definitiva e pulso de corticoide, com monitorização do ritmo.",
+   "B": "Errada. É a armadilha da coronariopatia; seria a conduta no infarto sem supra de alto risco, mas não há alteração segmentar, e CK alta com ptose e bloqueios novos apontam miocardite imunomediada.",
+   "C": "Errada. Seria um passo sintomático na miastenia autoimune isolada; aqui há miocardite, e manter a imunoterapia é inaceitável.",
+   "D": "Errada. Seria a conduta na miopatia por estatina com rabdomiólise, que não causa ptose, diplopia nem distúrbio de condução."
+  },
+  "para_levar": "Troponina alta com CK alta, ptose ou diplopia e distúrbio de condução nas primeiras semanas de inibidor de checkpoint (sobretudo combinado) é a tríade miocardite, miosite e miastenia: suspender e pulso de metilprednisolona.",
+  "referencias": "ESC Guidelines on Cardio-oncology (2022); ASCO Guideline on Management of Immune-Related Adverse Events (2021).",
+  "tags": [
+   "Neoplasias e Esquemas Quimioterápicos (CM)",
+   "Complicações Clínico-Ambulatoriais das Neoplasias (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "S4 q62: toxicidade imunomediada por inibidor de checkpoint (antes a hepatite refratária, agora a miocardite rotulada como síndrome coronariana)"
+ }
+]

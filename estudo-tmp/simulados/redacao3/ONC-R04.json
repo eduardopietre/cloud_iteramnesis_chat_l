@@ -1,0 +1,103 @@
+[
+ {
+  "id": "R04-ONC-01",
+  "simulado": "R04",
+  "area": "Emergência e UTI",
+  "titulo": "Lactato subindo no choque séptico já reperfundido da asmática em nebulização contínua de salbutamol: hiperlactatemia adrenérgica, e não nova expansão",
+  "arma": "Droga a deduzir",
+  "comando": "conduta",
+  "nivel": "extremamente difícil",
+  "enunciado": "Mulher de 41 anos, com asma grave, é internada na UTI com pneumonia pneumocócica e choque séptico. Recebeu 30 mL/kg de Ringer lactato nas primeiras 3 horas, ceftriaxona com azitromicina, metilprednisolona 40 mg de 6 em 6 horas e salbutamol por nebulização contínua (10 mg/hora) desde a admissão, além de noradrenalina, hoje em 0,06 mcg/kg/min e em redução. Na 6ª hora: PA 118/70 mmHg (PAM 86 mmHg), FC 128 bpm, extremidades quentes, tempo de enchimento capilar de 2 segundos, diurese de 1,2 mL/kg/h, SvcO2 76%; sibilos esparsos, sem uso de musculatura acessória. Ultrassonografia: linhas B bilaterais que não existiam na admissão. Glicemia 248 mg/dL, potássio 3,1 mEq/L. Lactato arterial de 3,8 mmol/L na admissão e de 5,9 mmol/L agora; pH 7,31, bicarbonato 17 mEq/L. A conduta mais adequada neste momento é:",
+  "alternativas": {
+   "A": "Nova expansão com 30 mL/kg de cristaloide",
+   "B": "Associar dobutamina para elevar a oferta de oxigênio",
+   "C": "Reduzir o salbutamol e manter a reanimação atual",
+   "D": "Ampliar o antibiótico para meropeném e vancomicina"
+  },
+  "gabarito": "C",
+  "armadilha": "A",
+  "dado_decisivo": "salbutamol por nebulização contínua (10 mg/hora)",
+  "resolucao": "Lactato que sobe na 6ª hora de choque séptico costuma ser lido como hipoperfusão persistente, e o reflexo é mais volume. Todos os marcadores de perfusão, porém, melhoraram: PAM de 86 com noradrenalina em queda, enchimento capilar de 2 segundos, extremidades quentes, diurese boa e SvcO2 de 76%. O que explica a dissociação é a droga: o agonista beta-2 em dose alta estimula a glicólise aeróbia e gera hiperlactatemia do tipo B, e a hiperglicemia, a hipocalemia e a taquicardia completam a assinatura adrenérgica. Com o broncoespasmo controlado, reduz-se o salbutamol e mantém-se a reanimação, acompanhando o lactato e o enchimento capilar, que a SSC 2021 sugere usar junto com o lactato. Mais volume agora, com linhas B novas, só traria congestão, e não há sinal de falha antimicrobiana nem de baixo débito.",
+  "comentarios": {
+   "A": "Errada. É a armadilha do lactato; seria a conduta com hipoperfusão clínica e responsividade a volume, mas a perfusão periférica normalizou e há linhas B novas.",
+   "B": "Errada. Seria pensada com disfunção miocárdica e SvcO2 baixa apesar de pressão adequada; aqui a SvcO2 é de 76% e as extremidades estão quentes.",
+   "C": "Correta. A hiperlactatemia acompanha hiperglicemia, hipocalemia e taquicardia sob salbutamol em dose alta, com perfusão normalizada: efeito adrenérgico, e não hipoperfusão.",
+   "D": "Errada. Ampliar o espectro seria razoável com piora clínica ou germe resistente; a paciente melhora em todos os parâmetros de perfusão, e o pneumococo é coberto."
+  },
+  "para_levar": "Lactato que sobe com perfusão periférica normalizada pede procurar causa do tipo B (agonista beta-2, adrenalina, metformina, linezolida) antes de mais volume; a SSC 2021 sugere guiar a reanimação também pelo enchimento capilar.",
+  "referencias": "Surviving Sepsis Campaign: International Guidelines for Management of Sepsis and Septic Shock (2021); ANDROMEDA-SHOCK (JAMA, 2019); GINA (2026).",
+  "tags": [
+   "Sepse - Abordagem Inicial e Choque Séptico (CM)",
+   "UTI - Terapia Intensiva (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "UERJ recorrente: sepse e lactato + S4 q73 (a droga em uso explica o achado que parece gravidade)"
+ },
+ {
+  "id": "R04-ONC-02",
+  "simulado": "R04",
+  "area": "MBE",
+  "titulo": "Aplicar ao paciente de baixo risco o resultado de um ensaio em alto risco: o efeito relativo se mantém, a redução absoluta e o NNT mudam",
+  "arma": "Grade X / Y",
+  "comando": "fato solto",
+  "nivel": "difícil",
+  "enunciado": "Um ensaio clínico randomizado em pacientes de alto risco cardiovascular mostrou que um novo hipolipemiante reduziu a incidência de infarto em 5 anos de 20% no grupo placebo para 15% no grupo tratado, e o efeito relativo foi o mesmo em todos os subgrupos de risco. Um clínico quer aplicar o resultado a um paciente de 52 anos cujo risco de infarto em 5 anos, estimado por escore validado, é de 4%. Para esse paciente, a redução absoluta do risco e o número necessário para tratar em 5 anos são, respectivamente:",
+  "alternativas": {
+   "A": "1% / 100",
+   "B": "5% / 20",
+   "C": "25% / 4",
+   "D": "4% / 25"
+  },
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "risco de infarto em 5 anos, estimado por escore validado, é de 4%",
+  "resolucao": "Os números do ensaio (redução absoluta de 5 pontos e NNT de 20) são verdadeiros, mas valem para quem tem risco basal de 20%. O que se transporta de uma população para outra é o efeito relativo: a redução relativa do risco é (20 menos 15) dividido por 20, ou 25%, e o enunciado garante que ela foi constante entre os subgrupos. Aplicada ao risco basal de 4% do paciente, a redução absoluta é 25% de 4%, ou 1 ponto percentual, e o NNT é o inverso, 100 pacientes tratados por 5 anos para evitar um infarto. Confundir a redução relativa com a absoluta, ou o risco basal com a redução, gera as outras combinações. É por isso que o mesmo remédio vale muito mais para quem tem risco alto.",
+  "comentarios": {
+   "A": "Correta. Redução relativa de 25% sobre risco basal de 4% dá redução absoluta de 1 ponto e NNT de 100 em 5 anos.",
+   "B": "Errada. É a armadilha: seriam a redução absoluta e o NNT de um paciente com o risco basal do ensaio (20%), e não deste.",
+   "C": "Errada. Usa a redução relativa (25%) como se fosse absoluta; o inverso de 25% só seria o NNT se o efeito absoluto fosse esse.",
+   "D": "Errada. Toma o risco basal do paciente (4%) como redução absoluta; seria o resultado se o remédio eliminasse todos os infartos."
+  },
+  "para_levar": "Transporte o efeito relativo, não o absoluto: redução absoluta igual a risco basal do paciente vezes redução relativa, e NNT igual ao inverso da redução absoluta, no horizonte de tempo do estudo.",
+  "referencias": "Guyatt G et al. Users' Guides to the Medical Literature, 3ª ed. (JAMA, 2015), cap. Applying results to individual patients; Fletcher RH, Fletcher SW, Fletcher GS. Epidemiologia Clínica: elementos essenciais, 6ª ed. (2021).",
+  "tags": [
+   "Estudos Epidemiológicos"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "S2 q6: cálculo de NNT (antes a conversão por pacientes-ano, agora o risco basal do paciente diferente do ensaio)"
+ },
+ {
+  "id": "R04-ONC-03",
+  "simulado": "R04",
+  "area": "Oncologia",
+  "titulo": "Dor descontrolada por doses perdidas no paciente que deixou de engolir: morfina subcutânea na metade da dose oral, e não iniciar fentanil transdérmico agora",
+  "arma": "Qualificador",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Homem de 59 anos, com carcinoma epidermoide de orofaringe recidivado e metástases ósseas, em cuidados paliativos domiciliares, vinha usando morfina de liberação imediata 20 mg por via oral de 4 em 4 horas, com dor controlada (2 em 10) e no máximo um resgate por dia nas últimas 2 semanas. Desde ontem, com piora da mucosite e da massa cervical, não consegue engolir nem líquidos e perdeu as três últimas doses. Chega à emergência com dor 8 em 10, inquieto, lúcido. PA 150/90 mmHg, FC 108 bpm, FR 20 irpm, SatO2 96%, mucosas pouco secas. Creatinina 0,8 mg/dL, sódio 141 mEq/L. A família traz um adesivo de fentanil 50 mcg/h prescrito por outro serviço, ainda não usado, e há acesso subcutâneo disponível. A conduta analgésica de manutenção mais adequada neste momento é:",
+  "alternativas": {
+   "A": "Fentanil transdérmico 50 mcg/h isoladamente",
+   "B": "Morfina 20 mg subcutânea de 4 em 4 horas",
+   "C": "Tramadol 100 mg intravenoso de 6 em 6 horas",
+   "D": "Morfina 10 mg subcutânea de 4 em 4 horas"
+  },
+  "gabarito": "D",
+  "armadilha": "A",
+  "dado_decisivo": "perdeu as três últimas doses",
+  "resolucao": "O adesivo de fentanil já prescrito é praticamente equianalgésico aos 120 mg diários de morfina oral e resolve a falta da via oral, por isso atrai. Mas a dor não está estável: ele perdeu as três últimas doses e está com dor 8 em 10, e o fentanil transdérmico leva de 12 a 24 horas para atingir nível sérico, não se titula com rapidez e não é para dor descontrolada. A via certa agora é a subcutânea, que exige conversão: a morfina parenteral tem cerca do dobro da potência da oral, e os 120 mg orais por dia viram 60 mg subcutâneos, ou 10 mg de 4 em 4 horas, com resgate de 5 a 10 mg (10% a 15% da dose diária) e um resgate já na chegada. Repetir os 20 mg por via subcutânea dobraria a dose efetiva, e o tramadol tem teto e é mais fraco que o opioide que ele já usava. O adesivo pode entrar depois, com a dor controlada e estável.",
+  "comentarios": {
+   "A": "Errada. É a armadilha do adesivo pronto; seria uma troca razoável com dor estável, mas a latência de 12 a 24 horas deixa descoberta a dor descontrolada de agora.",
+   "B": "Errada. Repete a dose oral pela via subcutânea sem conversão, e a morfina parenteral tem cerca do dobro da potência: risco de sedação e depressão respiratória.",
+   "C": "Errada. Seria opção para dor moderada em quem não usa opioide forte; aqui é um retrocesso na escada, com efeito teto.",
+   "D": "Correta. Metade da dose oral diária por via subcutânea (60 mg/dia, 10 mg de 4 em 4 horas), com resgates, controla a dor e permite titular."
+  },
+  "para_levar": "Perdeu a via oral com dor descontrolada: morfina subcutânea na metade da dose oral diária, em horário fixo e com resgate de 10% a 15%; o fentanil transdérmico é para dor já estável, pela latência de 12 a 24 horas.",
+  "referencias": "Academia Nacional de Cuidados Paliativos, Manual de Cuidados Paliativos, 3ª ed. (2021); ESMO Clinical Practice Guidelines, Management of cancer pain in adult patients (2018); NCCN Adult Cancer Pain (2025).",
+  "tags": [
+   "Paliativos Oncologia: Dor (CM)",
+   "Cuidados Paliativos - Oncologia (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "S4 q24: escolha e via do opioide no paciente paliativo (antes o fentanil na DRC, agora o fentanil transdérmico que não serve para dor descontrolada)"
+ }
+]
