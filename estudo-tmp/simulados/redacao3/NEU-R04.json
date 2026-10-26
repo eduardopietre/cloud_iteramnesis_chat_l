@@ -1,0 +1,171 @@
+[
+ {
+  "id": "R04-NEU-01",
+  "simulado": "R04",
+  "area": "Neurologia",
+  "titulo": "Hemorragia subaracnóidea aneurismática nas primeiras horas, aneurisma ainda não tratado: nimodipina oral e PA sistólica abaixo de 160, e não hipertensão induzida",
+  "arma": "Grade X / Y",
+  "comando": "conduta",
+  "nivel": "extremamente difícil",
+  "enunciado": "Mulher de 52 anos, hipertensa em uso irregular de losartana e tabagista, é trazida ao pronto-socorro 3 horas após cefaleia súbita e intensa durante esforço evacuatório, seguida de vômitos e rigidez de nuca. Está sonolenta, mas desperta ao chamado e obedece a comandos (Glasgow 14), sem déficit motor. PA 186 x 104 mmHg, FC 96 bpm. A TC de crânio mostra hemorragia subaracnóidea difusa nas cisternas da base, sem hidrocefalia, e a angiotomografia revela aneurisma sacular de 7 mm na artéria comunicante anterior. A equipe de neurocirurgia programa a embolização para a manhã seguinte, cerca de 18 horas depois. O residente lembra que, em outra paciente, internada na mesma semana no 6º dia de hemorragia subaracnóidea com afasia nova, a equipe elevou a pressão arterial com noradrenalina. Sódio 139 mEq/L, creatinina 0,8 mg/dL. Quanto ao bloqueador de canal de cálcio e ao alvo de pressão arterial até a oclusão do aneurisma, a conduta mais adequada é, respectivamente:",
+  "alternativas": {
+   "A": "Nimodipina venosa em bolus / PA sistólica acima de 180",
+   "B": "Nimodipina oral / PA sistólica acima de 180",
+   "C": "Nimodipina venosa em bolus / PA sistólica abaixo de 160",
+   "D": "Nimodipina oral / PA sistólica abaixo de 160"
+  },
+  "gabarito": "D",
+  "armadilha": "B",
+  "dado_decisivo": "programa a embolização para a manhã seguinte, cerca de 18 horas depois",
+  "resolucao": "A outra paciente da enfermaria é um distrator verdadeiro: elevar a pressão é medida da isquemia cerebral tardia por vasoespasmo, que surge entre o 4º e o 14º dia e já com o aneurisma tratado. Aqui o aneurisma está aberto e o risco das primeiras horas é o ressangramento, que cresce com a pressão alta; por isso, até a oclusão, mantém-se a PA sistólica abaixo de 160 mmHg com droga titulável, evitando hipotensão. A nimodipina começa já no primeiro dia, por via oral (60 mg a cada 4 horas por 21 dias), porque melhora o desfecho neurológico; a forma venosa em bolus causa hipotensão e não tem o mesmo respaldo. As duas metades se decidem por dados diferentes: a via da nimodipina pela evidência, o alvo de pressão pelo aneurisma ainda não tratado.",
+  "comentarios": {
+   "A": "Errada nas duas metades. Bolus venoso de nimodipina provoca hipotensão, e pressão alta com aneurisma não tratado aumenta o ressangramento.",
+   "B": "Errada na segunda metade, e é a armadilha. A nimodipina oral está certa, mas pressão induzida alta é tratamento do vasoespasmo com aneurisma já ocluído, e não das primeiras horas.",
+   "C": "Errada na primeira metade. O alvo de pressão está certo, mas a nimodipina recomendada é oral; o bolus venoso derruba a pressão e compromete a perfusão.",
+   "D": "Correta. Nimodipina oral desde o primeiro dia e PA sistólica abaixo de 160 mmHg até a oclusão do aneurisma, para reduzir o ressangramento."
+  },
+  "para_levar": "Na hemorragia subaracnóidea, a pressão tem duas fases: antes de tratar o aneurisma, PA sistólica abaixo de 160 mmHg contra o ressangramento; depois, no vasoespasmo sintomático, pode-se elevar a pressão. A nimodipina oral começa no primeiro dia e vai até o 21º.",
+  "referencias": "AHA/ASA Guideline for the Management of Patients With Aneurysmal Subarachnoid Hemorrhage (2023).",
+  "tags": [
+   "HSA (CM)",
+   "AVC Hemorrágico (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "UERJ recorrente: hemorragia subaracnóidea (vasoespasmo e nimodipina, UERJ 2025) + S1 q50 (HSA lida pela fase errada)"
+ },
+ {
+  "id": "R04-NEU-02",
+  "simulado": "R04",
+  "area": "Neurologia",
+  "titulo": "AIT de alto risco com estenose carotídea sintomática de 75%: endarterectomia em até 2 semanas, e não dupla antiagregação isolada",
+  "arma": "Limiar",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Homem de 69 anos, hipertenso, dislipidêmico e ex-tabagista, procura o pronto-socorro 18 horas após dois episódios no mesmo dia: perda visual monocular esquerda 'como uma cortina' por 5 minutos e, horas depois, fraqueza e dormência da mão direita com dificuldade para achar palavras por 40 minutos, ambos com recuperação completa. Usa losartana e sinvastatina 20 mg. PA 158/92 mmHg, FC 78 bpm regular, exame neurológico normal. ECG em ritmo sinusal; Holter de 24 horas com extrassístoles atriais frequentes, sem fibrilação atrial. RM de encéfalo sem lesão na difusão. Doppler e angiotomografia cervical: estenose de 75% na carótida interna esquerda e de 60% na direita. Ecocardiograma transtorácico normal. Além de AAS e estatina de alta potência, a conduta mais adequada é:",
+  "alternativas": {
+   "A": "Endarterectomia esquerda nas próximas 2 semanas",
+   "B": "Dupla antiagregação por 21 dias, sem cirurgia",
+   "C": "Anticoagulação oral com apixabana",
+   "D": "Endarterectomia bilateral após 3 meses"
+  },
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "estenose de 75% na carótida interna esquerda",
+  "resolucao": "AIT de alto risco, sem lesão na RM e sem fibrilação atrial, leva à dupla antiagregação por 21 dias dos estudos CHANCE e POINT. Esses estudos, porém, excluíram quem tinha indicação de revascularização carotídea. Os dois episódios (amaurose fugaz à esquerda e déficit motor e de linguagem à direita) são do território da carótida esquerda, que tem estenose de 75%: estenose sintomática acima de 70% tem indicação de endarterectomia, e o benefício é maior quanto mais cedo, idealmente nas primeiras 2 semanas. A carótida direita, com 60% e sem sintomas, não é a que causou o evento e não entra agora. As extrassístoles atriais não são fibrilação atrial e não indicam anticoagulação.",
+  "comentarios": {
+   "A": "Correta. Estenose de 75% na carótida que explica os dois eventos: endarterectomia precoce, nas primeiras 2 semanas, com AAS e estatina.",
+   "B": "Errada. Seria a conduta no AIT de alto risco sem estenose carotídea cirúrgica nem fonte cardioembólica; aqui a estenose sintomática acima de 70% indica cirurgia.",
+   "C": "Errada. Seria a prevenção na fibrilação atrial; o Holter mostrou apenas extrassístoles atriais.",
+   "D": "Errada. Adiar perde o benefício, que se concentra nas primeiras semanas, e a carótida direita assintomática não é a lesão responsável."
+  },
+  "para_levar": "No AIT, a primeira pergunta é a carótida: estenose sintomática de 70 a 99% vai para endarterectomia nas primeiras 2 semanas; a dupla antiagregação por 21 dias é para quem não tem essa indicação.",
+  "referencias": "Kleindorfer DO et al. AHA/ASA Guideline for the Prevention of Stroke in Patients With Stroke and Transient Ischemic Attack, Stroke 2021; Naylor R et al. ESVS 2023 Clinical Practice Guidelines on the Management of Atherosclerotic Carotid and Vertebral Artery Disease.",
+  "tags": [
+   "AIT (CM)",
+   "Neurovascular (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "UERJ recorrente: AIT e prevenção secundária, com a dupla antiagregação (já cobrada no AVC menor) como armadilha diante da estenose cirúrgica"
+ },
+ {
+  "id": "R04-NEU-03",
+  "simulado": "R04",
+  "area": "Neurologia",
+  "titulo": "Guillain-Barré no 4º dia com líquor sem dissociação e condução ainda normal: imunoglobulina já, sem esperar os exames positivarem",
+  "arma": "Cronologia",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Homem de 34 anos procura o pronto-socorro com 4 dias de parestesias nos pés e nas mãos e fraqueza ascendente; hoje precisa de apoio para andar 5 metros. Teve diarreia há 2 semanas, resolvida sem tratamento. Sem febre, sem alteração esfincteriana, sem nível sensitivo. FC 112 bpm, PA oscilando entre 168/98 e 104/60 mmHg, FR 18 irpm, SpO2 97% em ar ambiente. Força grau 3 em membros inferiores e grau 4 em superiores, proximal e distal, arreflexia global, vibração reduzida nos pés. Capacidade vital forçada de 32 mL/kg. Líquor no 4º dia: 3 células/mm³, proteína 41 mg/dL (referência até 45), glicose normal. Eletroneuromiografia: ondas F com latência prolongada, velocidades de condução motora ainda normais. A conduta mais adequada é:",
+  "alternativas": {
+   "A": "Repetir líquor e ENMG em 7 dias",
+   "B": "Metilprednisolona IV em pulso",
+   "C": "Imunoglobulina IV, 2 g/kg em 5 dias",
+   "D": "Intubação orotraqueal eletiva agora"
+  },
+  "gabarito": "C",
+  "armadilha": "A",
+  "dado_decisivo": "Líquor no 4º dia",
+  "resolucao": "Líquor sem dissociação proteinocitológica e condução motora normal parecem não confirmar Guillain-Barré, e esperar uma semana para repetir os exames soa prudente. Mas a proteína do líquor só sobe a partir do fim da primeira semana, e na primeira semana até metade dos pacientes tem proteína normal; a ENMG precoce também pode mostrar apenas ondas F alteradas. O diagnóstico é clínico: fraqueza ascendente simétrica, arreflexia, diarreia prévia e disautonomia. O paciente já não anda sem apoio, o que indica tratamento imediato com imunoglobulina ou plasmaférese, que funcionam nas primeiras 2 semanas. A capacidade vital de 32 mL/kg não indica intubação agora, mas a disautonomia e a progressão pedem monitorização em terapia intensiva.",
+  "comentarios": {
+   "A": "Errada. É a armadilha do exame precoce: líquor e ENMG normais na primeira semana não afastam a doença, e esperar perde a janela do tratamento.",
+   "B": "Errada. Corticoide não melhora o desfecho na síndrome de Guillain-Barré; seria uma conduta para polirradiculoneuropatia crônica.",
+   "C": "Correta. Quadro clínico compatível, incapacidade de andar sem apoio e menos de 2 semanas de evolução indicam imunoglobulina já.",
+   "D": "Errada. Intubação eletiva se indica com capacidade vital abaixo de 20 mL/kg ou sinais de falência; aqui está em 32 mL/kg, e o que cabe é vigilância seriada."
+  },
+  "para_levar": "Na primeira semana do Guillain-Barré, líquor e ENMG podem ser normais; quem não anda sem apoio recebe imunoglobulina ou plasmaférese sem esperar os exames.",
+  "referencias": "van Doorn PA et al. EAN/PNS Guideline on diagnosis and treatment of Guillain-Barré syndrome, Eur J Neurol 2023; Leonhard SE et al. Diagnosis and management of Guillain-Barré syndrome in ten steps, Nat Rev Neurol 2019.",
+  "tags": [
+   "Guillain-Barré (CM)",
+   "Neuromuscular (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "UERJ recorrente: Guillain-Barré; o líquor normal precoce como exame tranquilizador que atrasa o tratamento"
+ },
+ {
+  "id": "R04-NEU-04",
+  "simulado": "R04",
+  "area": "Neurologia",
+  "titulo": "Parkinson sem resposta à levodopa com hipotensão ortostática sem taquicardia atribuída à tansulosina: atrofia de múltiplos sistemas e o sinal da cruz na ponte",
+  "arma": "Rótulo verdadeiro",
+  "comando": "achado esperado",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 62 anos, com diagnóstico de doença de Parkinson há 3 anos, retorna por piora. O quadro começou com lentidão e rigidez bilaterais e simétricas, sem tremor de repouso; usa levodopa/benserazida com 1.000 mg/dia de levodopa há 1 ano, sem melhora perceptível. Há 4 anos tem disfunção erétil e, há 2, urgência e incontinência urinária, atribuídas à hiperplasia prostática e tratadas com tansulosina. Refere tontura ao se levantar e duas quedas: PA 132/80 mmHg deitado e 92/60 mmHg após 3 minutos em pé, sem aumento da FC (68 para 70 bpm). A esposa relata que ele se debate durante os sonhos e tem um ruído agudo inspiratório durante a noite. Exame: bradicinesia e rigidez simétricas, voz trêmula e aguda, dismetria leve à prova índex-nariz, movimentos oculares verticais preservados, cognição normal. Na RM de encéfalo, o achado esperado é:",
+  "alternativas": {
+   "A": "Atrofia mesencefálica com ponte preservada",
+   "B": "Hiperintensidade cruciforme na ponte em T2",
+   "C": "Ausência de alterações estruturais",
+   "D": "Ventrículos dilatados com sulcos altos apertados"
+  },
+  "gabarito": "B",
+  "armadilha": "C",
+  "dado_decisivo": "sem aumento da FC (68 para 70 bpm)",
+  "resolucao": "O rótulo de doença de Parkinson e a tansulosina oferecem explicação para tudo: a urgência seria da próstata e a hipotensão, do alfabloqueador, e a RM seria normal. Mas a hipotensão por droga vem com taquicardia reflexa, e aqui a FC não se mexe ao levantar: é hipotensão ortostática neurogênica, falência autonômica. Somada a parkinsonismo simétrico sem resposta a 1.000 mg/dia de levodopa, disfunção erétil e urinária precedendo o quadro motor, estridor noturno, distúrbio comportamental do sono REM e sinais cerebelares, configura atrofia de múltiplos sistemas. Na RM, a degeneração das fibras pontocerebelares transversas com rafe mediana produz a hiperintensidade cruciforme na ponte em T2, com atrofia de ponte e pedúnculos cerebelares médios. Olhar vertical preservado e cognição normal afastam a paralisia supranuclear progressiva e a hidrocefalia de pressão normal.",
+  "comentarios": {
+   "A": "Errada. Seria o achado da paralisia supranuclear progressiva, que tem quedas e pouca resposta à levodopa, mas com paralisia do olhar vertical, aqui preservado, e sem falência autonômica precoce.",
+   "B": "Correta. Falência autonômica com hipotensão ortostática sem taquicardia, estridor e sinais cerebelares em parkinsonismo refratário à levodopa é atrofia de múltiplos sistemas.",
+   "C": "Errada. É a armadilha do rótulo: na doença de Parkinson a RM é normal, mas a ausência de resposta à levodopa e a hipotensão sem taquicardia não cabem nela nem na tansulosina.",
+   "D": "Errada. Seria a hidrocefalia de pressão normal, com marcha magnética, incontinência e declínio cognitivo, sem disautonomia cardiovascular nem estridor."
+  },
+  "para_levar": "Hipotensão ortostática sem aumento da FC é neurogênica, não de droga; com parkinsonismo que não responde à levodopa e estridor, é atrofia de múltiplos sistemas, e a RM mostra o sinal da cruz na ponte.",
+  "referencias": "Wenning GK et al. Movement Disorder Society Criteria for the Diagnosis of Multiple System Atrophy, Mov Disord 2022; Freeman R et al. Consensus statement on the definition of orthostatic hypotension, Clin Auton Res 2011.",
+  "tags": [
+   "Distúrbios do Movimento (CM)",
+   "Doença de Parkinson (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "S1 q39 e UERJ recorrente: parkinsonismo que não é doença de Parkinson; agora a atrofia de múltiplos sistemas escondida atrás da tansulosina"
+ },
+ {
+  "id": "R04-NEU-05",
+  "simulado": "R04",
+  "area": "Neurologia",
+  "titulo": "Piora de déficits antigos da esclerose múltipla com febre e infecção urinária: pseudossurto, trata-se a infecção sem pulsoterapia",
+  "arma": "Omissão",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 33 anos, com esclerose múltipla remitente-recorrente há 6 anos, em uso de natalizumabe com índice anti-JC negativo, procura o pronto-socorro por piora da fraqueza da perna esquerda e da visão do olho direito há 24 horas, déficits que tinham sobrado de surtos em 2021 e 2023. Refere ardor miccional e polaciúria há 3 dias e calafrios. Temperatura 38,7 °C, PA 112/70 mmHg, FC 104 bpm. Exame: força grau 3 na perna esquerda (era 4 no último retorno), acuidade visual de 20/100 à direita (era 20/40), com defeito pupilar aferente relativo já conhecido, sem déficit em território novo. Urina: piócitos incontáveis e nitrito positivo. Glicemia e eletrólitos normais. RM de crânio de 2 meses atrás sem lesões novas. A conduta mais adequada é:",
+  "alternativas": {
+   "A": "Tratar a infecção urinária e a febre",
+   "B": "Metilprednisolona 1 g/dia por 3 a 5 dias",
+   "C": "Plasmaférese em 5 sessões",
+   "D": "Suspender natalizumabe e investigar LEMP"
+  },
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "déficits que tinham sobrado de surtos em 2021 e 2023",
+  "resolucao": "Piora neurológica há 24 horas numa paciente com esclerose múltipla parece surto e leva à pulsoterapia. Mas surto exige sintoma novo ou piora com mais de 24 horas na ausência de febre ou infecção. Aqui a piora é dos mesmos déficits residuais de surtos antigos, sem território novo, e acompanha febre por infecção urinária: é pseudossurto, em que a temperatura alta bloqueia a condução em axônios já desmielinizados (fenômeno de Uhthoff). Trata-se a infecção e a febre, e o déficit volta ao basal em horas a dias; o corticoide em pulso, além de inútil, piora o controle da infecção. Se o déficit persistir após resolver a infecção, aí se reavalia surto com RM.",
+  "comentarios": {
+   "A": "Correta. Piora dos déficits residuais com febre e infecção é pseudossurto: tratar a infecção e baixar a temperatura.",
+   "B": "Errada. É a armadilha: pulsoterapia trata surto, que exige ausência de febre e infecção; aqui piora a infecção sem benefício neurológico.",
+   "C": "Errada. Plasmaférese é resgate de surto grave refratário ao corticoide, situação que não existe aqui.",
+   "D": "Errada. LEMP seria suspeita com déficit novo e progressivo em anti-JC positivo; o índice é negativo e os déficits são antigos."
+  },
+  "para_levar": "Piora de déficits antigos da esclerose múltipla junto com febre ou infecção é pseudossurto: trata-se a causa, sem pulsoterapia.",
+  "referencias": "Thompson AJ et al. Diagnosis of multiple sclerosis: 2017 revisions of the McDonald criteria, Lancet Neurol 2018; Comitê Brasileiro de Tratamento e Pesquisa em Esclerose Múltipla (BCTRIMS), consenso de tratamento 2022.",
+  "tags": [
+   "Esclerose Múltipla (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "UERJ recorrente: esclerose múltipla; a resposta é o degrau mais simples quando a piora vem com febre"
+ }
+]

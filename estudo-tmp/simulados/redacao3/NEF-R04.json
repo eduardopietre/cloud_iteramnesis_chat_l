@@ -1,0 +1,172 @@
+[
+ {
+  "id": "R04-NEF-01",
+  "simulado": "R04",
+  "area": "Nefrologia",
+  "titulo": "Nefropatia membranosa anti-PLA2R negativa com IgG1 e IgG2 no tabagista que perdeu peso: rastrear neoplasia antes de imunossuprimir",
+  "arma": "Rótulo verdadeiro",
+  "comando": "próximo exame",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 66 anos, tabagista de 50 maços-ano, apresenta edema de membros inferiores há 2 meses. É hipertenso controlado com hidroclorotiazida e perdeu 4 kg no período, que atribui à dieta. PA 134 x 82 mmHg, edema 3+/4+ até a raiz das coxas. Albumina 2,1 g/dL, colesterol total 340 mg/dL, proteinúria de 24 horas de 7,8 g, creatinina 1,1 mg/dL, sedimento sem hematúria dismórfica. FAN, anti-HCV, HBsAg e VDRL negativos; C3 e C4 normais; eletroforese e imunofixação de proteínas sem componente monoclonal. Anti-PLA2R sérico negativo. Biópsia renal: espessamento difuso da membrana basal com espículas e depósitos subepiteliais granulares de IgG, com predomínio de IgG1 e IgG2, IgG4 fraca, PLA2R negativo no tecido e mais de 8 células inflamatórias por glomérulo. O laudo conclui por nefropatia membranosa. O próximo passo mais adequado é:",
+  "alternativas": {
+   "A": "Rituximabe com bloqueio do SRAA",
+   "B": "Rastreio de neoplasia com TC de tórax",
+   "C": "Ciclosporina com corticoide em dose baixa",
+   "D": "Novo anti-PLA2R sérico em 6 meses"
+  },
+  "gabarito": "B",
+  "armadilha": "A",
+  "dado_decisivo": "predomínio de IgG1 e IgG2, IgG4 fraca, PLA2R negativo no tecido",
+  "resolucao": "O laudo de nefropatia membranosa com proteinúria de 7,8 g e albumina de 2,1 g/dL leva direto ao tratamento da forma primária, e o rituximabe é a primeira escolha atual nela. Mas a primária é uma doença por autoanticorpo IgG4, em geral contra PLA2R; aqui o anticorpo é negativo no soro e no tecido, a subclasse dominante é IgG1 e IgG2 e há infiltrado inflamatório glomerular, todos marcadores de membranosa secundária. Num homem de 66 anos, tabagista pesado e com perda de peso, a causa a buscar é neoplasia sólida (pulmão, cólon, próstata, estômago), e as causas infecciosas, lúpicas e monoclonais já foram afastadas. Imunossuprimir antes disso trata o epifenômeno e atrasa o diagnóstico de um câncer cuja ressecção pode remitir a proteinúria. Bloqueio do SRAA e anticoagulação conforme a albumina seguem indicados enquanto se investiga.",
+  "comentarios": {
+   "A": "Errada. É a armadilha do laudo: rituximabe é o tratamento da membranosa primária anti-PLA2R positiva, mas aqui as subclasses IgG1 e IgG2 e o PLA2R negativo apontam forma secundária.",
+   "B": "Correta. Membranosa PLA2R negativa no tecido, com IgG1 e IgG2 e inflamação glomerular, em tabagista idoso que emagreceu, pede rastreio de neoplasia sólida antes de imunossuprimir.",
+   "C": "Errada. Inibidor de calcineurina é alternativa na membranosa primária; não se aplica antes de excluir a causa secundária sugerida pela biópsia.",
+   "D": "Errada. Repetir o anti-PLA2R serve para monitorar a forma primária positiva; aqui o tecido já é negativo, e esperar 6 meses atrasa o diagnóstico."
+  },
+  "para_levar": "Membranosa primária é IgG4 e PLA2R positiva; PLA2R negativa no tecido, IgG1 e IgG2 dominantes e células inflamatórias no glomérulo apontam causa secundária, e no idoso tabagista a primeira busca é neoplasia.",
+  "referencias": "KDIGO 2021 Clinical Practice Guideline for the Management of Glomerular Diseases; Leeaphorn N et al. Prevalence of cancer in membranous nephropathy: a systematic review and meta-analysis. Am J Nephrol 2014.",
+  "tags": [
+   "Nefropatia membranosa (CM)",
+   "Síndrome Nefrótica (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "UERJ recorrente: membranosa e anti-PLA2R, agora pelo outro lado (a negativa que muda a conduta) + S4 q66 (rótulo da biópsia)"
+ },
+ {
+  "id": "R04-NEF-02",
+  "simulado": "R04",
+  "area": "Nefrologia",
+  "titulo": "Rabdomiólise no idoso que caiu, com mialgia desde antes da queda: interação de sinvastatina com claritromicina",
+  "arma": "Grade X / Y",
+  "comando": "etiologia",
+  "nivel": "difícil",
+  "enunciado": "Homem de 74 anos, com dislipidemia e doença arterial coronariana, usa sinvastatina 40 mg/dia há anos, AAS e losartana. Há 6 dias recebeu claritromicina na UPA por pneumonia comunitária, com melhora da febre. Desde o quarto dia de antibiótico refere dor difusa e fraqueza nas coxas, e há 2 dias nota urina escura. Hoje escorregou no banheiro e permaneceu 40 minutos no chão até ser socorrido. PA 128 x 76 mmHg, FC 88 bpm, afebril, dor à palpação das coxas, sem déficit neurológico focal nem sinais de síndrome compartimental. Exames: CK 46.000 U/L, creatinina 2,9 mg/dL (basal 1,0), K 5,4 mEq/L, cálcio 7,9 mg/dL, fósforo 6,1 mg/dL, hemoglobina 13,8 g/dL, LDH 980 U/L, haptoglobina normal. Fita urinária com sangue 3+; sedimento com 1 a 2 hemácias por campo e cilindros granulosos pigmentados. A causa da lesão renal e o fator desencadeante mais provável são, respectivamente:",
+  "alternativas": {
+   "A": "Mioglobinúria / imobilização após a queda",
+   "B": "Hemoglobinúria / hemólise pela claritromicina",
+   "C": "Mioglobinúria / sinvastatina com claritromicina",
+   "D": "Glomerulonefrite / pneumonia em atividade"
+  },
+  "gabarito": "C",
+  "armadilha": "A",
+  "dado_decisivo": "Desde o quarto dia de antibiótico refere dor difusa e fraqueza nas coxas",
+  "resolucao": "A queda com permanência no chão é verdadeira e é o desencadeante que se costuma lembrar na rabdomiólise do idoso. Mas 40 minutos de imobilização não explicam CK de 46.000 U/L, e a cronologia derruba essa causa: a mialgia começou no quarto dia de claritromicina e a urina escureceu 2 dias antes da queda, que foi consequência da fraqueza, e não causa. A claritromicina inibe fortemente o CYP3A4 e eleva muito o nível da sinvastatina, que é metabolizada por essa via; a combinação é contraindicada. A fita positiva para sangue com quase nenhuma hemácia no sedimento indica pigmento heme, e a haptoglobina e a hemoglobina normais afastam hemólise, deixando a mioglobina. A conduta inclui suspender ambas as drogas, hidratação vigorosa e controle do potássio.",
+  "comentarios": {
+   "A": "Errada. É a armadilha da queda: a imobilização curta seria o gatilho de quem é achado no chão após horas, mas a mialgia e a urina escura precederam a queda.",
+   "B": "Errada. Hemoglobinúria daria haptoglobina consumida e queda da hemoglobina; aqui ambas estão normais.",
+   "C": "Correta. Mialgia iniciada no quarto dia de claritromicina em usuário de sinvastatina, CK de 46.000 e fita com heme sem hemácias indicam rabdomiólise pela interação no CYP3A4.",
+   "D": "Errada. Glomerulonefrite pós-infecciosa daria hematúria dismórfica abundante e CK normal; aqui o sedimento quase não tem hemácias."
+  },
+  "para_levar": "Fita com sangue positiva e sedimento sem hemácias é pigmento; na rabdomiólise do idoso, procure a interação de estatina com inibidor do CYP3A4 (claritromicina, azólicos, diltiazem) antes de culpar a queda.",
+  "referencias": "Bosch X, Poch E, Grau JM. Rhabdomyolysis and acute kidney injury. N Engl J Med 2009; 2018 AHA/ACC Guideline on the Management of Blood Cholesterol (seção de interações das estatinas).",
+  "tags": [
+   "Rabdomiólise (CM)",
+   "Nefrotoxicidade por Drogas (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "UERJ recorrente: rabdomiólise na IRA + S3 q28 (droga a deduzir por interação)"
+ },
+ {
+  "id": "R04-NEF-03",
+  "simulado": "R04",
+  "area": "Nefrologia",
+  "titulo": "Hipercalcemia e hiperfosfatemia na hemodiálise com PTH abaixo de duas vezes o limite: sevelâmer e suspender o calcitriol",
+  "arma": "Grade X / Y",
+  "comando": "conduta",
+  "nivel": "extremamente difícil",
+  "enunciado": "Mulher de 61 anos, diabética, em hemodiálise há 4 anos, usa carbonato de cálcio 1 g em cada refeição e calcitriol 0,5 mcg/dia, este iniciado há 18 meses, quando o PTH estava em 780 pg/mL. Queixa-se de prurido; a adesão à dieta é regular e as sessões são cumpridas. Exames atuais: cálcio 10,7 mg/dL (8,5 a 10,2), fósforo 6,8 mg/dL, fosfatase alcalina 70 U/L (normal), 25-hidroxivitamina D 34 ng/mL, PTH 110 pg/mL (referência do método 15 a 65). Kt/V de 1,4. Radiografia das mãos com calcificação das artérias digitais. A conduta mais adequada em relação ao quelante de fósforo e ao calcitriol é, respectivamente:",
+  "alternativas": {
+   "A": "Aumentar o carbonato de cálcio / manter o calcitriol",
+   "B": "Trocar por sevelâmer / associar cinacalcete",
+   "C": "Manter o carbonato de cálcio / suspender o calcitriol",
+   "D": "Trocar por sevelâmer / suspender o calcitriol"
+  },
+  "gabarito": "D",
+  "armadilha": "B",
+  "dado_decisivo": "PTH 110 pg/mL (referência do método 15 a 65)",
+  "resolucao": "Prurido, fósforo alto e um PTH acima do valor de referência sugerem hiperparatireoidismo ainda ativo, e o cinacalcete parece natural porque reduz PTH sem subir o cálcio. Mas no paciente em diálise a meta do KDIGO é PTH entre 2 e 9 vezes o limite superior do método, aqui entre 130 e 585 pg/mL; 110 pg/mL está abaixo da faixa, com fosfatase alcalina normal, o que sugere supressão excessiva e risco de doença óssea adinâmica. Reduzir mais o PTH com cinacalcete agravaria isso. A hipercalcemia e a calcificação vascular vêm da carga de cálcio do quelante e do calcitriol: o quelante deve ser trocado por um sem cálcio, como o sevelâmer, e o calcitriol suspenso, o que também ajuda a reduzir o fósforo, cuja absorção intestinal ele aumenta.",
+  "comentarios": {
+   "A": "Errada. Aumentar o cálcio do quelante pioraria a hipercalcemia e a calcificação vascular; o KDIGO recomenda restringir quelantes à base de cálcio.",
+   "B": "Errada. É a armadilha do PTH acima da referência do método: o cinacalcete serviria para PTH acima de 9 vezes o limite, mas aqui o PTH está abaixo da meta.",
+   "C": "Errada. Suspender o calcitriol está certo, mas manter o carbonato de cálcio mantém a carga de cálcio em quem já tem hipercalcemia e artérias calcificadas.",
+   "D": "Correta. Hipercalcemia com calcificação vascular e PTH abaixo de 2 vezes o limite pedem quelante sem cálcio e suspensão do calcitriol."
+  },
+  "para_levar": "Na diálise, a meta de PTH é de 2 a 9 vezes o limite superior do método; abaixo disso com hipercalcemia, retire calcitriol e quelante com cálcio, e não acrescente cinacalcete.",
+  "referencias": "KDIGO 2017 Clinical Practice Guideline Update for the Diagnosis, Evaluation, Prevention, and Treatment of CKD-MBD; Diretrizes da SBN para o Distúrbio Mineral e Ósseo na DRC (2021).",
+  "tags": [
+   "Doença Mineral Óssea no DRC (CM)",
+   "Diálise (Crônicos) (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "UERJ recorrente: DRC e doença mineral óssea + S4 q7 (PTH lido sem a meta da DRC)"
+ },
+ {
+  "id": "R04-NEF-04",
+  "simulado": "R04",
+  "area": "Nefrologia",
+  "titulo": "Pericardite com derrame após quadro gripal na DRC estágio 5 com fístula imatura: pericardite urêmica, indicação de diálise por cateter",
+  "arma": "Rótulo verdadeiro",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Homem de 49 anos, com doença renal crônica por nefropatia hipertensiva, TFGe de 9 mL/min/1,73 m², está em preparo para diálise, com fístula arteriovenosa confeccionada há 5 semanas, ainda não maturada. Há 4 dias tem dor torácica que piora ao deitar e melhora ao sentar; na semana anterior teve coriza, odinofagia e febre por 3 dias. PA 150 x 90 mmHg, FC 92 bpm, sem pulso paradoxal, sem turgência jugular, atrito pericárdico audível. K 5,3 mEq/L, HCO3 18 mEq/L, ureia 210 mg/dL, hemoglobina 9,8 g/dL, troponina normal. ECG com complexos de baixa amplitude, sem supradesnivelamento de ST. Ecocardiograma: derrame pericárdico moderado, sem colapso de câmaras direitas. A conduta mais adequada é:",
+  "alternativas": {
+   "A": "Hemodiálise por cateter, com heparina mínima",
+   "B": "Colchicina e ibuprofeno por duas semanas",
+   "C": "Pericardiocentese guiada por ecocardiograma",
+   "D": "Aguardar a maturação da fístula"
+  },
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "TFGe de 9 mL/min/1,73 m²",
+  "resolucao": "O quadro gripal na semana anterior é verdadeiro e faz pensar em pericardite viral, tratada com colchicina e anti-inflamatório. No paciente com TFGe de 9 e ureia de 210, porém, a pericardite é urêmica até prova em contrário, e o ECG sem supradesnivelamento de ST reforça isso, porque a inflamação urêmica poupa o epicárdio. Pericardite urêmica é indicação absoluta de iniciar diálise, mesmo com potássio e bicarbonato toleráveis, e a fístula imatura não justifica espera: usa-se cateter, com heparina mínima ou nenhuma pelo risco de hemopericárdio. Anti-inflamatório não esteroide piora a função renal residual e não trata a causa. Sem tamponamento, a pericardiocentese não está indicada; ela fica para colapso de câmaras ou falha da diálise.",
+  "comentarios": {
+   "A": "Correta. Pericardite em DRC estágio 5 não dialítica é urêmica e indica diálise imediata, por cateter, com pouca ou nenhuma heparina.",
+   "B": "Errada. É a armadilha do quadro gripal: seria o tratamento da pericardite viral com função renal preservada, mas aqui a uremia é a causa e o anti-inflamatório lesa o rim residual.",
+   "C": "Errada. A pericardiocentese seria a conduta no tamponamento; o ecocardiograma não mostra colapso de câmaras nem há pulso paradoxal.",
+   "D": "Errada. A fístula imatura não adia indicação absoluta de diálise; aguardar expõe a tamponamento e hemopericárdio."
+  },
+  "para_levar": "Pericardite na DRC avançada sem diálise é urêmica e indica diálise imediata, por cateter se a fístula não está pronta, com heparina mínima; anti-inflamatório não é o tratamento.",
+  "referencias": "KDIGO 2024 Clinical Practice Guideline for the Evaluation and Management of CKD; 2025 ESC Guidelines for the Management of Myocarditis and Pericarditis.",
+  "tags": [
+   "Diálise (Crônicos) (CM)",
+   "Doença Renal Crônica (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "UERJ recorrente: indicações de diálise; padrão do aluno de seguir o rótulo verdadeiro (S1 q37, S4 q66)"
+ },
+ {
+  "id": "R04-NEF-05",
+  "simulado": "R04",
+  "area": "Nefrologia",
+  "titulo": "Creatinina subindo a partir da segunda semana após cateterismo, com livedo e eosinofilia: doença ateroembólica, e não lesão por contraste",
+  "arma": "Cronologia",
+  "comando": "diagnóstico",
+  "nivel": "difícil",
+  "enunciado": "Homem de 70 anos, hipertenso, diabético e tabagista, com creatinina basal de 1,3 mg/dL, foi submetido a cateterismo cardíaco por via femoral com angioplastia da artéria descendente anterior, recebendo 180 mL de contraste iodado, com hidratação venosa antes e depois. No segundo dia a creatinina era de 1,4 mg/dL e recebeu alta com AAS, clopidogrel e atorvastatina. Retorna no 21º dia com creatinina de 3,8 mg/dL, em ascensão progressiva desde a segunda semana segundo exames do posto, PA de 178 x 100 mmHg (antes controlada) e dor no hálux esquerdo. Ao exame, livedo reticular em coxas e pododáctilos arroxeados, com pulsos pediosos palpáveis. Eosinófilos 980/mm³, C3 72 mg/dL (90 a 180). Urina com proteína em traços, sem hemácias e sem leucocitúria. O diagnóstico mais provável é:",
+  "alternativas": {
+   "A": "Lesão renal induzida por contraste",
+   "B": "Doença renal ateroembólica",
+   "C": "Nefrite intersticial aguda pelo clopidogrel",
+   "D": "Trombose aguda da artéria renal"
+  },
+  "gabarito": "B",
+  "armadilha": "A",
+  "dado_decisivo": "em ascensão progressiva desde a segunda semana",
+  "resolucao": "O volume de contraste alto e o paciente diabético com doença renal leve tornam a lesão por contraste a explicação mais lembrada. Mas ela segue uma cronologia própria: a creatinina sobe em 24 a 72 horas, faz pico em 3 a 5 dias e volta ao basal em 1 a 2 semanas; aqui a creatinina estava estável no segundo dia e começou a subir na segunda semana, de forma progressiva. Lesão subaguda após manipulação da aorta, com livedo reticular, dedos arroxeados com pulsos palpáveis, hipertensão nova, eosinofilia e consumo de complemento é doença ateroembólica por cristais de colesterol. A eosinofilia e o complemento baixo poderiam sugerir nefrite intersticial, mas o sedimento sem leucocitúria e as lesões cutâneas isquêmicas distais apontam embolia. O tratamento é de suporte, com estatina, controle pressórico e evitar novas manipulações vasculares.",
+  "comentarios": {
+   "A": "Errada. É a armadilha do contraste: a lesão por contraste surge em 24 a 72 horas e melhora em até 2 semanas; aqui a creatinina era estável no segundo dia e subiu depois.",
+   "B": "Correta. Lesão renal que progride a partir da segunda semana após cateterismo, com livedo, dedos arroxeados com pulsos presentes, eosinofilia e C3 baixo, é ateroembolia.",
+   "C": "Errada. Nefrite intersticial explicaria a eosinofilia, mas daria leucocitúria e não causaria livedo nem isquemia digital com pulsos palpáveis.",
+   "D": "Errada. A trombose arterial renal causa perda abrupta de função com dor lombar e LDH alta, e não ascensão gradual com lesões cutâneas distais."
+  },
+  "para_levar": "Após cateterismo, creatinina que sobe em dias e volta é contraste; que sobe a partir da segunda semana, com livedo, eosinofilia e complemento baixo, é ateroembolia.",
+  "referencias": "KDIGO 2012 Clinical Practice Guideline for Acute Kidney Injury; Scolari F, Ravani P. Atheroembolic renal disease. Lancet 2010.",
+  "tags": [
+   "IRA Contraste (CM)",
+   "Injúria Renal Aguda (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "UERJ recorrente: IRA após contraste pela cronologia + S2 q80 (contraste)"
+ }
+]

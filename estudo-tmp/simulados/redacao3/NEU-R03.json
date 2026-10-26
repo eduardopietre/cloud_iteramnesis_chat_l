@@ -1,0 +1,172 @@
+[
+ {
+  "id": "R03-NEU-01",
+  "simulado": "R03",
+  "area": "Neurologia",
+  "titulo": "Papiledema no homem obeso em uso de testosterona com hematócrito de 57%: venografia antes de aceitar o rótulo de hipertensão intracraniana idiopática",
+  "arma": "Rótulo verdadeiro",
+  "comando": "próximo exame",
+  "nivel": "difícil",
+  "enunciado": "Homem de 38 anos, fisiculturista, procura o ambulatório por cefaleia holocraniana há 5 semanas, pior ao deitar e ao tossir, com escurecimentos visuais de segundos ao se levantar e zumbido pulsátil à direita. Usa por conta própria cipionato de testosterona 250 mg por semana há 8 meses, associado a oxandrolona. A esposa relata roncos altos com pausas respiratórias. IMC 31 kg/m², PA 138/86 mmHg, FC 72 bpm. Papiledema bilateral grau III e paresia do VI nervo à esquerda, sem outros déficits. Hemograma: hemoglobina 18,9 g/dL, hematócrito 57%, plaquetas 260.000/mm³. TC de crânio sem contraste e RM de encéfalo sem contraste: parênquima normal, sela parcialmente vazia e achatamento posterior dos globos oculares. O neurologista assistente registra 'hipertensão intracraniana idiopática em paciente obeso' e prescreve acetazolamida após a punção lombar com manometria, já agendada. O próximo passo mais adequado é:",
+  "alternativas": {
+   "A": "Punção lombar com manometria",
+   "B": "Venografia por ressonância magnética",
+   "C": "Acetazolamida e perda de peso",
+   "D": "Polissonografia de noite inteira"
+  },
+  "gabarito": "B",
+  "armadilha": "A",
+  "dado_decisivo": "hematócrito 57%",
+  "resolucao": "Obesidade, papiledema, VI nervo e imagem com sela vazia e achatamento dos globos formam o quadro que o assistente rotulou, e a punção com manometria parece o passo seguinte natural. Esses sinais, porém, indicam pressão intracraniana alta de qualquer causa, e a RM sem fase venosa não exclui trombose dos seios durais. Neste homem há dois fatores trombóticos: o androgênio exógeno e a policitemia secundária a ele, com hematócrito de 57%, além do zumbido pulsátil. O sexo masculino é incomum na hipertensão intracraniana idiopática, o que reforça a busca de causa secundária. A punção mostraria pressão alta nas duas doenças e não as separa; a venografia por RM (ou angio-TC venosa) vem antes, porque a trombose muda a conduta para anticoagulação. A apneia do sono é causa de pressão intracraniana elevada a ser investigada depois, não o passo que exclui a doença grave.",
+  "comentarios": {
+   "A": "Errada. Confirma pressão de abertura alta, mas não distingue a forma idiopática da trombose venosa; só se faz depois da venografia normal.",
+   "B": "Correta. Androgênio exógeno e hematócrito de 57% tornam a trombose dos seios durais plausível, e a RM sem fase venosa não a exclui.",
+   "C": "Errada. Seria o tratamento da hipertensão intracraniana idiopática confirmada, depois de excluir causa secundária.",
+   "D": "Errada. A apneia do sono pode elevar a pressão intracraniana e merece estudo, mas não exclui a trombose venosa, que é a causa a afastar primeiro."
+  },
+  "para_levar": "Papiledema com TC e RM sem contraste normais não é hipertensão intracraniana idiopática até a venografia excluir trombose venosa cerebral, sobretudo no homem, com androgênio ou policitemia.",
+  "referencias": "Mollan SP et al. Idiopathic intracranial hypertension: consensus guidelines on management. J Neurol Neurosurg Psychiatry 2018; Saposnik G et al. AHA Scientific Statement on Cerebral Venous Thrombosis, Stroke 2024.",
+  "tags": [
+   "Abordagem Inicial das Cefaleias (CM)",
+   "Neurovascular (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "S1 q19: a venografia vem antes da punção; o cenário agora é o homem com androgênio e policitemia, sem anticoncepcional"
+ },
+ {
+  "id": "R03-NEU-02",
+  "simulado": "R03",
+  "area": "Neurologia",
+  "titulo": "AVC ao despertar com oclusão de M1, FLAIR já positivo e mismatch de perfusão: sem trombólise, com trombectomia",
+  "arma": "Grade X / Y",
+  "comando": "conduta",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 67 anos, hipertenso e com fibrilação atrial em uso irregular de apixabana (última dose há 3 dias), foi visto bem pela esposa às 20h, quando foi deitar, e encontrado às 7h com afasia global e hemiplegia direita. Chega ao pronto-socorro às 8h: PA 176/98 mmHg, FC 96 bpm irregular, glicemia capilar 142 mg/dL, NIHSS 19. Creatinina 0,9 mg/dL, plaquetas 210.000/mm³, INR 1,1, TTPa normal. TC sem contraste: ASPECTS 8. Angiotomografia: oclusão do segmento M1 da artéria cerebral média esquerda. RM imediata: lesão em difusão de 18 mL na ínsula e nos núcleos da base, já com hipersinal nítido no FLAIR na mesma área; perfusão com volume hipoperfundido (Tmax acima de 6 s) de 120 mL. Trombólise intravenosa e trombectomia mecânica estão, respectivamente:",
+  "alternativas": {
+   "A": "Indicada / indicada",
+   "B": "Indicada / contraindicada",
+   "C": "Contraindicada / indicada",
+   "D": "Contraindicada / contraindicada"
+  },
+  "gabarito": "C",
+  "armadilha": "D",
+  "dado_decisivo": "já com hipersinal nítido no FLAIR na mesma área",
+  "resolucao": "Visto bem há 12 horas, o paciente parece fora de qualquer janela, e o apressado não oferece reperfusão. As duas decisões, porém, têm critérios diferentes. A trombectomia de 6 a 24 horas se decide pela imagem: oclusão de grande vaso proximal, NIHSS alto, núcleo pequeno (18 mL) e área hipoperfundida muito maior (relação de 6,7), dentro dos critérios dos estudos DAWN e DEFUSE 3; está indicada. A trombólise no AVC de início desconhecido só é possível quando a RM mostra lesão na difusão sem correspondente no FLAIR, sinal de que o infarto tem menos de 4,5 horas; aqui o FLAIR já está positivo, o que fecha a trombólise. A apixabana há 3 dias, com função renal normal, não seria impedimento, e a PA abaixo de 185/110 também não.",
+  "comentarios": {
+   "A": "Errada. Seria a resposta com difusão positiva e FLAIR ainda negativo (critério do estudo WAKE-UP); aqui o FLAIR já mostra a lesão.",
+   "B": "Errada. Inverte as decisões: a trombólise é que está fechada pelo FLAIR, e a trombectomia preenche os critérios de imagem da janela tardia.",
+   "C": "Correta. FLAIR positivo afasta a trombólise no início desconhecido; oclusão de M1 com núcleo de 18 mL e penumbra de 120 mL indica trombectomia até 24 horas.",
+   "D": "Errada. É a armadilha das 12 horas: a janela da trombectomia é definida pela imagem e vai até 24 horas."
+  },
+  "para_levar": "No AVC ao despertar, a trombólise depende do descompasso difusão positiva e FLAIR negativo; a trombectomia de 6 a 24 horas depende de oclusão proximal com núcleo pequeno e penumbra grande. São critérios independentes.",
+  "referencias": "Powers WJ et al. AHA/ASA Guidelines for the Early Management of Acute Ischemic Stroke, 2019 update; Thomalla G et al. WAKE-UP, NEJM 2018; Nogueira RG et al. DAWN, NEJM 2018; Albers GW et al. DEFUSE 3, NEJM 2018.",
+  "tags": [
+   "AVC Isquêmico (CM)",
+   "Neurovascular (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "UERJ recorrente: trombólise e trombectomia por mismatch, decididas separadamente no AVC de início desconhecido"
+ },
+ {
+  "id": "R03-NEU-03",
+  "simulado": "R03",
+  "area": "Neurologia",
+  "titulo": "Tabagista rotulado como miastenia soronegativa, com boca seca e reflexos que surgem após contração: Lambert-Eaton e o incremento na ENMG",
+  "arma": "Rótulo verdadeiro",
+  "comando": "achado esperado",
+  "nivel": "difícil",
+  "enunciado": "Homem de 63 anos, tabagista de 50 maços-ano, encaminhado com diagnóstico de 'miastenia gravis soronegativa' por dificuldade para subir escadas e levantar-se da cadeira há 4 meses, com piora discreta no fim do dia e ptose leve bilateral. Refere boca seca intensa, constipação e disfunção erétil surgidas no mesmo período. Iniciou piridostigmina há 3 semanas, com melhora mínima. Anticorpos antirreceptor de acetilcolina e anti-MuSK negativos; CPK 140 U/L (referência até 190); TSH normal. Exame: força grau 4 menos em cinturas pélvica e escapular, musculatura ocular extrínseca livre, reflexos patelares e aquileus abolidos que surgem após 10 segundos de contração voluntária máxima do quadríceps, sensibilidade preservada. Radiografia de tórax: alargamento hilar direito. Na eletroneuromiografia, o achado esperado é:",
+  "alternativas": {
+   "A": "CMAP basal baixo, com incremento após esforço",
+   "B": "CMAP basal normal, com decremento a 3 Hz",
+   "C": "Potenciais motores breves e polifásicos",
+   "D": "Condução lenta, com bloqueio de condução"
+  },
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "reflexos patelares e aquileus abolidos que surgem após 10 segundos de contração voluntária máxima do quadríceps",
+  "resolucao": "O rótulo de miastenia soronegativa, a ptose e a piora no fim do dia levam ao padrão eletrofisiológico da miastenia. Três dados não cabem nela: fraqueza proximal de cinturas com ocular quase livre, disfunção autonômica colinérgica (boca seca, constipação, disfunção erétil) e reflexos abolidos que reaparecem após contração sustentada. Esse é o fenômeno de facilitação da síndrome de Lambert-Eaton, em que anticorpos contra canais de cálcio pré-sinápticos reduzem a liberação de acetilcolina, e o esforço acumula cálcio no terminal. Na ENMG, o potencial de ação muscular composto já é baixo em repouso e aumenta mais de 100% após 10 segundos de esforço ou com estimulação de alta frequência. No tabagista com alargamento hilar, a causa a buscar é carcinoma de pequenas células.",
+  "comentarios": {
+   "A": "Correta. Defeito pré-sináptico: potencial basal baixo que aumenta mais de 100% após esforço, o mesmo fenômeno dos reflexos que reaparecem.",
+   "B": "Errada. É o padrão da miastenia gravis pós-sináptica, com potencial basal normal; aqui a facilitação dos reflexos e a disautonomia apontam Lambert-Eaton.",
+   "C": "Errada. Seria o achado de miopatia inflamatória, com CPK alta e reflexos preservados; a CPK é normal.",
+   "D": "Errada. Seria o padrão de polirradiculoneuropatia desmielinizante, com alteração sensitiva e sem facilitação após esforço."
+  },
+  "para_levar": "Fraqueza proximal com reflexos que reaparecem após contração e boca seca é Lambert-Eaton: potencial basal baixo com incremento após esforço, e busca de carcinoma de pequenas células.",
+  "referencias": "Titulaer MJ et al. Lancet Neurol 2011 (Lambert-Eaton myasthenic syndrome: from clinical characteristics to therapeutic strategies); Harrison's Principles of Internal Medicine, 21ª ed. (2022), cap. Myasthenia Gravis and Other Diseases of the Neuromuscular Junction.",
+  "tags": [
+   "Síndromes Paraneoplásicas (CM)",
+   "Neuromuscular (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "S1 q24 (Lambert-Eaton): agora o rótulo de miastenia soronegativa e o padrão eletrofisiológico que separa pré de pós-sináptico"
+ },
+ {
+  "id": "R03-NEU-04",
+  "simulado": "R03",
+  "area": "Neurologia",
+  "titulo": "Encaminhado como ELA, com Lhermitte, urgência miccional e desnervação restrita a C5 a C7: mielopatia cervical que se opera",
+  "arma": "Rótulo verdadeiro",
+  "comando": "conduta",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 61 anos, pedreiro aposentado, diabético em uso de metformina, é encaminhado com hipótese de esclerose lateral amiotrófica por fraqueza e atrofia das mãos e dos braços há 10 meses, fasciculações em bíceps e deltoides e marcha 'dura', com duas quedas no último mês. Relata choque que desce pela coluna ao fletir o pescoço e urgência miccional recente. Exame: atrofia de interósseos e de bíceps bilateral, reflexos bicipitais abolidos e tricipitais vivos, sinal de Hoffmann bilateral, hiper-reflexia patelar e Babinski bilateral; vibração abolida nos tornozelos; língua sem atrofia nem fasciculações, fala e deglutição normais. B12 450 pg/mL, HbA1c 7,0%. RM cervical: estenose de C4 a C6 com hipersinal medular em T2 em C5. ENMG: desnervação ativa e crônica restrita aos miótomos de C5 a C7, com língua, paravertebrais torácicos e membros inferiores sem desnervação. A conduta mais adequada é:",
+  "alternativas": {
+   "A": "Riluzol e acompanhamento multiprofissional",
+   "B": "Colar cervical e fisioterapia por 3 meses",
+   "C": "Repetir a eletroneuromiografia em 6 meses",
+   "D": "Descompressão cirúrgica cervical"
+  },
+  "gabarito": "D",
+  "armadilha": "A",
+  "dado_decisivo": "restrita aos miótomos de C5 a C7",
+  "resolucao": "Fasciculações, atrofia e sinais piramidais juntos no encaminhamento levam à ELA e ao riluzol. Mas a combinação de neurônio motor inferior e superior também aparece na mielopatia cervical: a compressão das raízes e do corno anterior em C5 a C7 dá atrofia, fasciculação e arreflexia bicipital, e a compressão medular abaixo dá Hoffmann, hiper-reflexia e Babinski. O que decide é a distribuição: a desnervação está restrita aos segmentos comprimidos, e bulbo, região torácica e membros inferiores estão poupados, o que afasta a ELA, que exige achados em segmentos que a compressão não alcança. Além disso, há Lhermitte, urgência miccional e perda de vibração, que a ELA não produz (a neuropatia diabética pode explicar a vibração, mas não o resto). Mielopatia moderada a grave, progressiva e com quedas, tem indicação de descompressão.",
+  "comentarios": {
+   "A": "Errada. Seria a conduta na ELA, com desnervação em segmentos fora da compressão, como língua ou paravertebrais torácicos, aqui normais.",
+   "B": "Errada. Tratamento conservador cabe na mielopatia leve e estável; quedas, urgência miccional e piora em 10 meses indicam cirurgia.",
+   "C": "Errada. Seria razoável se o diagnóstico fosse duvidoso, mas sinais sensitivos e esfincterianos com desnervação restrita aos segmentos comprimidos já definem a mielopatia.",
+   "D": "Correta. Desnervação limitada aos miótomos comprimidos, Lhermitte e urgência miccional caracterizam mielopatia cervical moderada a grave e progressiva."
+  },
+  "para_levar": "Na dúvida entre ELA e mielopatia cervical, a pergunta é se há desnervação fora dos segmentos comprimidos (bulbo, tórax, pernas) e se há sinais sensitivos ou esfincterianos: desnervação restrita e sintomas sensitivos são mielopatia, que se opera quando progride.",
+  "referencias": "Fehlings MG et al. AO Spine/CSRS Clinical Practice Guideline for the Management of Degenerative Cervical Myelopathy, Global Spine J 2017; Shefner JM et al. Gold Coast criteria for ALS, Clin Neurophysiol 2020.",
+  "tags": [
+   "Mielopatia (CM)",
+   "Esclerose Lateral Amiotrófica (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "S1 q34 e S4 q1: a regra ELA x mielopatia aplicada no sentido inverso, quando a mielopatia é real e a ELA é o rótulo"
+ },
+ {
+  "id": "R03-NEU-05",
+  "simulado": "R03",
+  "area": "Neurologia",
+  "titulo": "Encefalite temporal com PCR para herpes negativa no líquor das primeiras 24 horas: manter aciclovir e repetir a PCR",
+  "arma": "Cronologia",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 54 anos, previamente hígida, é trazida pelo marido com 3 dias de febre de 38,6 °C e cefaleia e, desde o dia anterior, comportamento estranho, queixa de 'cheiro de queimado' e uma crise focal com automatismos orais. Nega viagens, contato com animais e vacinação recente. Glasgow 14, desorientada, rigidez de nuca discreta, sem déficit motor. RM: hipersinal em FLAIR e restrição à difusão no lobo temporal medial e na ínsula à esquerda. Líquor, colhido nas primeiras 24 horas dos sintomas neurológicos: 18 células/mm³ (90% linfócitos), 6 hemácias/mm³, proteína 62 mg/dL, glicose 64 mg/dL (glicemia 110 mg/dL). Iniciou aciclovir IV na admissão. No segundo dia de internação, chega a PCR para herpes simples no líquor: negativa. EEG: descargas epileptiformes periódicas lateralizadas à esquerda. A conduta mais adequada é:",
+  "alternativas": {
+   "A": "Suspender o aciclovir e observar",
+   "B": "Manter o aciclovir e repetir a PCR",
+   "C": "Trocar o aciclovir por ganciclovir",
+   "D": "Pulsoterapia e painel de autoanticorpos"
+  },
+  "gabarito": "B",
+  "armadilha": "A",
+  "dado_decisivo": "colhido nas primeiras 24 horas dos sintomas neurológicos",
+  "resolucao": "A PCR negativa e a celularidade baixa parecem afastar a encefalite herpética e liberar a suspensão do aciclovir. A PCR, porém, pode ser falsamente negativa quando o líquor é colhido nos primeiros dias, sobretudo nas primeiras 24 a 72 horas, e a celularidade pode ser discreta no início. Febre, alteração de comportamento, aura olfatória, lesão temporal medial e insular com restrição à difusão, hemácias no líquor e descargas periódicas lateralizadas compõem alta probabilidade pré-teste. Nesse cenário, mantém-se o aciclovir e repete-se a PCR em 3 a 7 dias; só a segunda PCR negativa, com quadro que se afasta, permite suspender. A encefalite autoimune entra na investigação se a evolução não for compatível, mas não justifica parar o antiviral nem pulsar corticoide agora.",
+  "comentarios": {
+   "A": "Errada. É a armadilha do exame tranquilizador: PCR colhida cedo pode ser falso negativo, e a suspensão expõe a paciente à forma mais letal das encefalites virais.",
+   "B": "Correta. Alta probabilidade clínica e radiológica com PCR precoce negativa: manter o antiviral e repetir a PCR em 3 a 7 dias.",
+   "C": "Errada. Ganciclovir seria para encefalite por citomegalovírus no imunodeprimido; não há imunodepressão aqui.",
+   "D": "Errada. Seria a linha para encefalite autoimune, considerada se a evolução e a segunda PCR afastarem o herpes; febre e lesão temporal com sangue no líquor mantêm o herpes à frente."
+  },
+  "para_levar": "Encefalite temporal com PCR para herpes negativa em líquor precoce não autoriza suspender o aciclovir: repete-se a PCR em 3 a 7 dias.",
+  "referencias": "Tunkel AR et al. IDSA Guidelines: The Management of Encephalitis, Clin Infect Dis 2008; Solomon T et al. Management of suspected viral encephalitis in adults, ABN/BIA National Guidelines, J Infect 2012.",
+  "tags": [
+   "Meningoencefalite Herpética (CM)",
+   "Encefalites (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "UERJ recorrente: encefalite herpética; a PCR precoce negativa como exame tranquilizador"
+ }
+]

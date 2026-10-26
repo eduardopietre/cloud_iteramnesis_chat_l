@@ -1,0 +1,208 @@
+[
+ {
+  "id": "R04-CAR-01",
+  "simulado": "R04",
+  "area": "Cardiologia",
+  "titulo": "Supradesnivelamento de ST inferior com assimetria de pressão entre os braços: dissecção de aorta tipo A, angiotomografia antes de qualquer reperfusão",
+  "arma": "Rótulo verdadeiro",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Homem de 58 anos, hipertenso com má adesão ao tratamento e tabagista, chega à emergência 1 hora e 40 minutos após dor torácica anterior de início súbito, já máxima desde o primeiro instante, que depois passou para a região interescapular. Está sudoreico e ansioso. Recebeu AAS 300 mg na triagem. Ao exame: PA de 172 x 96 mmHg no braço direito e de 118 x 74 mmHg no esquerdo, FC 98 bpm, SatO2 96%; pulso radial esquerdo mais fraco que o direito; sopro diastólico 2+/6 na borda esternal direita; sem déficit neurológico. ECG: supradesnivelamento do segmento ST de 2 mm em DII, DIII e aVF, com infradesnivelamento em DI e aVL. Troponina I 0,9 ng/mL (referência: até 0,04). Radiografia de tórax no leito: mediastino superior de 9 cm. O serviço de hemodinâmica está disponível e pode receber o paciente em 30 minutos. A conduta mais adequada neste momento é:",
+  "alternativas": {
+   "A": "Angioplastia primária da coronária direita",
+   "B": "Fibrinólise com tenecteplase",
+   "C": "Angiotomografia de aorta",
+   "D": "Heparina não fracionada em dose plena"
+  },
+  "gabarito": "C",
+  "armadilha": "A",
+  "dado_decisivo": "PA de 172 x 96 mmHg no braço direito e de 118 x 74 mmHg no esquerdo",
+  "resolucao": "O supradesnivelamento inferior com imagem em espelho e troponina alta é um infarto verdadeiro, e a hemodinâmica disponível em 30 minutos convida à angioplastia primária. Mas a dor súbita, máxima no início e migratória para o dorso, a diferença de mais de 20 mmHg na pressão sistólica entre os braços, o déficit de pulso, o sopro diastólico novo de insuficiência aórtica e o mediastino alargado tornam a dissecção de aorta tipo A muito provável (escore ADD-RS alto). O infarto inferior é a complicação: o flap da dissecção oclui o óstio da coronária direita, que é a mais acometida. Fibrinólise, heparina plena e a manipulação coronariana podem ser fatais nesse cenário. O passo é confirmar com angiotomografia de aorta (ou ecocardiograma transesofágico se instável), controlar dor, frequência e pressão com betabloqueador venoso e opioide, e encaminhar à cirurgia de emergência.",
+  "comentarios": {
+   "A": "Errada. Seria a conduta no infarto inferior isolado; aqui a assimetria de pressão, o déficit de pulso e o sopro diastólico indicam dissecção com oclusão do óstio coronariano.",
+   "B": "Errada. Seria a reperfusão do infarto com supra sem hemodinâmica em tempo hábil; na dissecção, a fibrinólise pode causar sangramento e tamponamento fatais.",
+   "C": "Correta. A diferença de pressão entre os braços com dor migratória e sopro diastólico exige confirmar a dissecção antes de qualquer antitrombótico.",
+   "D": "Errada. Seria parte do tratamento da síndrome coronariana aguda ou do TEP; na dissecção, a anticoagulação plena é contraindicada."
+  },
+  "para_levar": "Supra de ST inferior com dor súbita migratória, assimetria de pressão ou de pulso e sopro diastólico novo é dissecção tipo A até prova em contrário: imagem da aorta antes de fibrinólise, heparina ou cateterismo.",
+  "referencias": "2024 ESC Guidelines for the management of peripheral arterial and aortic diseases; 2022 ACC/AHA Guideline for the Diagnosis and Management of Aortic Disease; 2023 ESC Guidelines for the management of acute coronary syndromes.",
+  "tags": [
+   "Outras Patologias da Aorta (CM)",
+   "IAMCSST (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "UERJ recorrente: dissecção de aorta e anisosfigmia + S1 q84 (diagnóstico vizinho que mata se tratado como o óbvio)"
+ },
+ {
+  "id": "R04-CAR-02",
+  "simulado": "R04",
+  "area": "Cardiologia",
+  "titulo": "Dupla lesão aórtica reumática com regurgitação predominante: pulso bisferiens, e não parvus et tardus",
+  "arma": "Rótulo verdadeiro",
+  "comando": "achado esperado",
+  "nivel": "difícil",
+  "enunciado": "Homem de 39 anos, natural do interior do Maranhão, teve febre reumática aos 12 anos e abandonou a penicilina benzatina aos 15. Há 1 ano tem dispneia aos esforços moderados e, há 2 meses, dor precordial em aperto ao subir ladeiras. Nega síncope. Ao exame: PA de 162 x 48 mmHg, FC 72 bpm, rítmico; ictus no 6º espaço intercostal, na linha axilar anterior, amplo e hiperdinâmico. Na ausculta, sopro sistólico ejetivo rude 3+/6 no foco aórtico, com frêmito, irradiado para as carótidas, e sopro diastólico aspirativo 3+/6 na borda esternal esquerda, mais audível com o paciente inclinado para a frente; B1 normal e sem estalido de abertura. ECG: sobrecarga ventricular esquerda. Radiografia: aumento da área cardíaca à custa do ventrículo esquerdo. O ecocardiograma está marcado para a semana seguinte. À palpação do pulso carotídeo, espera-se encontrar:",
+  "alternativas": {
+   "A": "Pulso bisferiens",
+   "B": "Pulso parvus et tardus",
+   "C": "Pulso alternante",
+   "D": "Pulso paradoxal"
+  },
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "PA de 162 x 48 mmHg",
+  "resolucao": "O sopro sistólico ejetivo rude com frêmito irradiado para as carótidas e a angina são reais e puxam para estenose aórtica grave, cujo pulso é de amplitude pequena e ascensão lenta (parvus et tardus). Mas a pressão diferencial de 114 mmHg, com diastólica de 48 mmHg, e o ictus amplo, hiperdinâmico e desviado para baixo e para fora mostram sobrecarga de volume por insuficiência aórtica importante. Na febre reumática, a lesão aórtica costuma ser dupla, e o grande volume ejetado pela valva também gera sopro sistólico intenso e frêmito sem estenose grave. Quando a regurgitação predomina, ou quando há dupla lesão com estenose apenas moderada, o pulso carotídeo é bisferiens: dois picos sistólicos, sentidos na palpação. Estenose grave com pulso parvus et tardus seria incompatível com essa pressão diferencial.",
+  "comentarios": {
+   "A": "Correta. Dupla lesão aórtica com regurgitação predominante, denunciada pela pressão diferencial ampla, dá pulso com dois picos sistólicos.",
+   "B": "Errada. É o pulso da estenose aórtica grave, que o sopro rude com frêmito sugere; a pressão diferencial de 114 mmHg o torna impossível.",
+   "C": "Errada. Seria esperado na disfunção sistólica grave do ventrículo esquerdo, com terceira bulha e baixo débito; o ventrículo aqui é hiperdinâmico.",
+   "D": "Errada. Seria o achado do tamponamento cardíaco ou da asma grave; nada no caso sugere restrição ao enchimento."
+  },
+  "para_levar": "Sopro sistólico rude no foco aórtico não basta para estenose grave: com pressão diferencial ampla e ictus hiperdinâmico, a lesão predominante é a regurgitação, e o pulso é bisferiens.",
+  "referencias": "2020 ACC/AHA Guideline for the Management of Patients With Valvular Heart Disease; Diretriz Brasileira de Valvopatias, SBC 2020; Braunwald's Heart Disease, 12ª ed. (2022), cap. Physical Examination of the Heart and Circulation.",
+  "tags": [
+   "Insuficiência Aórtica (CM)",
+   "Estenose Aórtica (CM)",
+   "Fisiologia e Semiologia Cardíaca (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "UERJ recorrente: semiologia valvar e IA com sinais periféricos + S3 dupla lesão e S4 q65 (achado esperado, 0 de 8)"
+ },
+ {
+  "id": "R04-CAR-03",
+  "simulado": "R04",
+  "area": "Cardiologia",
+  "titulo": "Hipertensão arterial pulmonar na esclerose sistêmica limitada: P2 hiperfonética e sopro de insuficiência tricúspide, e não a ausculta da CIA",
+  "arma": "Grade X / Y",
+  "comando": "achado esperado",
+  "nivel": "extremamente difícil",
+  "enunciado": "Mulher de 54 anos tem esclerose sistêmica cutânea limitada há 14 anos, com fenômeno de Raynaud, esclerodactilia, telangiectasias faciais e anticorpo anticentrômero positivo. Há 1 ano apresenta dispneia progressiva, hoje aos pequenos esforços, e teve um episódio de síncope ao subir escadas. Ao exame: PA 112 x 72 mmHg, FC 96 bpm, SatO2 93% em repouso, turgência jugular com onda v proeminente, impulsão paraesternal esquerda sustentada e edema de membros inferiores. Espirometria: CVF de 88% do previsto, com DLCO de 36%. TC de tórax de alta resolução sem doença intersticial. ECG: desvio do eixo para a direita e padrão rSR' em V1. Ecocardiograma: dilatação de átrio e ventrículo direitos, PSAP estimada em 72 mmHg, septo interatrial íntegro ao estudo com microbolhas e valvas esquerdas normais. Na ausculta, espera-se encontrar, quanto à segunda bulha e ao sopro, respectivamente:",
+  "alternativas": {
+   "A": "Desdobramento fixo de B2 / sopro ejetivo pulmonar",
+   "B": "B2 única / sopro ejetivo que diminui na inspiração",
+   "C": "P2 hiperfonética / ruflar diastólico apical",
+   "D": "P2 hiperfonética / sopro sistólico que aumenta na inspiração"
+  },
+  "gabarito": "D",
+  "armadilha": "A",
+  "dado_decisivo": "septo interatrial íntegro ao estudo com microbolhas",
+  "resolucao": "Câmaras direitas dilatadas, eixo para a direita e rSR' em V1 formam o quadro eletrocardiográfico e ecocardiográfico da comunicação interatrial ostium secundum, cuja ausculta é desdobramento fixo de B2 com sopro ejetivo pulmonar por hiperfluxo. Mas o septo interatrial está íntegro ao estudo com microbolhas, e a sobrecarga direita tem outra causa: hipertensão arterial pulmonar da esclerose sistêmica limitada, sugerida pela DLCO muito reduzida com CVF preservada e pulmão sem intersticiopatia. A síncope ao esforço indica doença avançada. Na hipertensão pulmonar, o componente pulmonar da B2 fica hiperfonético (às vezes palpável), e a dilatação do ventrículo direito causa insuficiência tricúspide, com sopro holossistólico na borda esternal esquerda baixa que aumenta na inspiração (sinal de Rivero-Carvallo) e onda v proeminente no pulso venoso. Pode haver ainda sopro diastólico de Graham Steell.",
+  "comentarios": {
+   "A": "Errada. É a ausculta da comunicação interatrial, que o ECG e a dilatação direita sugerem; o estudo com microbolhas excluiu o shunt.",
+   "B": "Errada. B2 única com sopro ejetivo é achado da estenose aórtica grave, de câmaras esquerdas; as valvas esquerdas são normais.",
+   "C": "Errada. Ruflar apical com P2 hiperfonética é da estenose mitral com hipertensão pulmonar pós-capilar; a mitral é normal ao eco.",
+   "D": "Correta. Hipertensão pulmonar com ventrículo direito dilatado dá P2 hiperfonética e insuficiência tricúspide com Rivero-Carvallo."
+  },
+  "para_levar": "Esclerose sistêmica limitada com DLCO desproporcionalmente baixa e pulmão sem fibrose é hipertensão arterial pulmonar: P2 hiperfonética, sopro de insuficiência tricúspide que aumenta na inspiração e onda v no pulso jugular.",
+  "referencias": "2022 ESC/ERS Guidelines for the diagnosis and treatment of pulmonary hypertension; 7th World Symposium on Pulmonary Hypertension (2024); Recomendações da SBR para o tratamento da esclerose sistêmica, 2024.",
+  "tags": [
+   "Hipertensão Pulmonar (CM)",
+   "Esclerose Sistêmica (CM)",
+   "Fisiologia e Semiologia Cardíaca (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "S4 q38 (CIA pelo ECG) e achado esperado 0 de 8: a sobrecarga direita que imita CIA, lida pela ausculta"
+ },
+ {
+  "id": "R04-CAR-04",
+  "simulado": "R04",
+  "area": "Cardiologia",
+  "titulo": "TEP bilateral de baixo risco (sPESI zero, VD normal, troponina normal): alta precoce com anticoagulante oral direto",
+  "arma": "Omissão",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 36 anos, em uso de anticoncepcional oral combinado, fez artroscopia de joelho direito há 3 semanas. Há 2 dias tem dor pleurítica à direita e dispneia leve. Sem câncer, sem doença cardíaca ou pulmonar crônica, sem sangramento prévio. Ao exame: PA 124 x 78 mmHg, FC 92 bpm, FR 18 irpm, SatO2 96% em ar ambiente, temperatura 36,8 °C; panturrilha direita discretamente empastada. D-dímero de 3.200 ng/mL. Angiotomografia: falhas de enchimento em artérias lobares inferiores e em ramos segmentares dos dois pulmões, com relação VD/VE de 0,8 e sem refluxo de contraste para a veia cava inferior. Troponina I e BNP normais. Creatinina 0,7 mg/dL, plaquetas 248.000/mm³. Mora com o marido a 15 minutos do hospital e tem acesso garantido ao retorno. A dor cede com dipirona. A conduta mais adequada é:",
+  "alternativas": {
+   "A": "Internação com enoxaparina e ecocardiograma",
+   "B": "Alta precoce com rivaroxabana",
+   "C": "Internação com heparina não fracionada",
+   "D": "Trombólise sistêmica com alteplase"
+  },
+  "gabarito": "B",
+  "armadilha": "A",
+  "dado_decisivo": "relação VD/VE de 0,8",
+  "resolucao": "Trombos bilaterais em artérias lobares e um D-dímero muito alto impressionam e levam a internar e pedir eco, mas a extensão do trombo na tomografia não define o risco do TEP. O risco se mede pela repercussão no ventrículo direito e pela gravidade clínica: ela tem sPESI zero (idade abaixo de 80 anos, sem câncer, sem doença cardiopulmonar crônica, FC abaixo de 110, PAS acima de 100 e saturação acima de 90%), relação VD/VE abaixo de 1 na própria angiotomografia e troponina e BNP normais. É TEP de baixo risco, e os critérios de Hestia são negativos: sem instabilidade, sem necessidade de oxigênio, sem risco hemorrágico, com dor controlada e suporte social. Nessa situação, a alta precoce com anticoagulante oral direto é segura e recomendada. O anticoncepcional com estrogênio deve ser suspenso e trocado por método não estrogênico, e a anticoagulação dura pelo menos 3 meses, pois o fator de risco é transitório.",
+  "comentarios": {
+   "A": "Errada. É a armadilha da carga trombótica bilateral; o ecocardiograma não acrescenta quando a tomografia já mostra VD normal e os biomarcadores são normais.",
+   "B": "Correta. sPESI zero, VD/VE abaixo de 1 e biomarcadores normais definem baixo risco, com alta precoce e anticoagulante oral direto.",
+   "C": "Errada. Heparina não fracionada seria preferida se houvesse possibilidade de reperfusão iminente ou clearance de creatinina abaixo de 30 mL/min.",
+   "D": "Errada. Trombólise sistêmica é para TEP de alto risco, com hipotensão ou choque, ou deterioração do risco intermediário-alto."
+  },
+  "para_levar": "O risco do TEP é da clínica e do VD, não da extensão do trombo: sPESI zero com VD normal e biomarcadores normais permite alta precoce com anticoagulante oral direto.",
+  "referencias": "2019 ESC Guidelines for the diagnosis and management of acute pulmonary embolism; ASH 2020 guidelines for management of venous thromboembolism: treatment; CHEST Guideline and Expert Panel Report on Antithrombotic Therapy for VTE Disease, 2021.",
+  "tags": [
+   "TEP (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "UERJ recorrente: TEP de baixo risco + S1 q84 (TEP x tamponamento, agora o risco do TEP verdadeiro)"
+ },
+ {
+  "id": "R04-CAR-05",
+  "simulado": "R04",
+  "area": "Cardiologia",
+  "titulo": "Síncope sem pródromo com bloqueio bifascicular e BAV de 1º grau, Holter e eco normais: estudo eletrofisiológico, e não teste de inclinação",
+  "arma": "Negativo no meio",
+  "comando": "próximo exame",
+  "nivel": "difícil",
+  "enunciado": "Homem de 72 anos teve síncope há 5 dias enquanto estava em pé numa fila de banco, em dia quente, após 40 minutos de espera. Não houve pródromos: a esposa conta que ele caiu de repente, sem palidez prévia, e acordou em menos de 1 minuto, orientado, com corte no supercílio. Hipertenso, usa losartana e anlodipino; nega uso de outras drogas. Ao exame: PA 136 x 82 mmHg deitado e 130 x 80 mmHg após 3 minutos em pé, FC 68 bpm, sem sopros, sem déficit neurológico. ECG: ritmo sinusal, PR de 220 ms, bloqueio de ramo direito e bloqueio divisional anterossuperior, QRS de 138 ms. Holter de 24 horas sem pausas, sem bloqueio atrioventricular de segundo grau e sem arritmias ventriculares. Ecocardiograma: FE de 60%, sem valvopatia. Glicemia, eletrólitos e hemograma normais. O exame a ser feito em seguida, o mais adequado, é:",
+  "alternativas": {
+   "A": "Estudo eletrofisiológico",
+   "B": "Teste de inclinação ortostática",
+   "C": "Ressonância cardíaca com realce tardio",
+   "D": "Teste ergométrico"
+  },
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "Não houve pródromos",
+  "resolucao": "Ficar em pé muito tempo num dia quente é gatilho de síncope reflexa, e o teste de inclinação parece o exame natural; o Holter e o eco normais ainda tranquilizam. Mas a síncope sem pródromos, com queda abrupta e trauma, num idoso com bloqueio de ramo direito, bloqueio divisional anterossuperior e PR prolongado, sugere bloqueio atrioventricular paroxístico, e um Holter de 24 horas normal não exclui um evento intermitente. Nas diretrizes, síncope inexplicada com bloqueio bifascicular, após avaliação não invasiva inconclusiva, deve seguir para estudo eletrofisiológico: intervalo HV de 70 ms ou mais, ou bloqueio infra-hissiano induzido, indica marca-passo definitivo. Se o estudo for negativo, o monitor de eventos implantável é o passo seguinte. A FE preservada afasta indicação primária de cardiodesfibrilador.",
+  "comentarios": {
+   "A": "Correta. Síncope inexplicada com bloqueio bifascicular e eco e Holter normais tem indicação de estudo eletrofisiológico para medir o intervalo HV.",
+   "B": "Errada. É a armadilha do gatilho ortostático; seria útil na síncope com pródromo autonômico e ECG normal, não na síncope abrupta com doença de condução.",
+   "C": "Errada. Seria indicada para buscar sarcoidose ou miocardite em jovem com bloqueio de condução ou FE reduzida; não é o passo seguinte aqui.",
+   "D": "Errada. Seria o exame para síncope durante o esforço; o episódio ocorreu em repouso, em pé."
+  },
+  "para_levar": "Síncope sem pródromo com bloqueio bifascicular e avaliação não invasiva negativa: estudo eletrofisiológico, e marca-passo se HV de 70 ms ou mais. Holter de 24 horas normal não exclui bloqueio paroxístico.",
+  "referencias": "2018 ESC Guidelines for the diagnosis and management of syncope; 2021 ESC Guidelines on cardiac pacing and cardiac resynchronization therapy; 2017 ACC/AHA/HRS Guideline for the Evaluation and Management of Patients With Syncope.",
+  "tags": [
+   "Síncope (CM)",
+   "Bloqueios de Ramo (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "UERJ recorrente: síncope e bloqueios + S2 q28 (síncope rotulada como benigna em doente de condução)"
+ },
+ {
+  "id": "R04-CAR-06",
+  "simulado": "R04",
+  "area": "Cardiologia",
+  "titulo": "Fibrilação atrial com estenose mitral reumática moderada a grave e escore zero: varfarina, e não DOAC nem ausência de anticoagulação",
+  "arma": "Limiar",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 34 anos, natural de Pernambuco, procura atendimento por palpitações e cansaço aos esforços há 3 semanas. Teve febre reumática aos 10 anos e usa penicilina benzatina irregularmente. Não tem hipertensão, diabetes, doença vascular ou insuficiência cardíaca diagnosticada; não fuma e usa DIU de cobre. Ao exame: PA 116 x 72 mmHg, FC 104 bpm, ritmo irregular, B1 hiperfonética, estalido de abertura e ruflar diastólico apical. ECG: fibrilação atrial com resposta ventricular de 108 bpm. O escore CHA2DS2-VA calculado na triagem é zero. Ecocardiograma: área valvar mitral de 1,3 cm² pela planimetria, gradiente médio de 9 mmHg, átrio esquerdo de 52 mm, sem trombo visível, PSAP de 44 mmHg, FE de 62%. Creatinina 0,6 mg/dL, hemograma normal. Foi iniciado metoprolol para controle da frequência. Quanto à prevenção de tromboembolismo, a conduta mais adequada é:",
+  "alternativas": {
+   "A": "Apixabana 5 mg de 12 em 12 horas",
+   "B": "Varfarina com RNI alvo entre 2 e 3",
+   "C": "Nenhuma anticoagulação, pelo escore zero",
+   "D": "Dabigatrana 150 mg de 12 em 12 horas"
+  },
+  "gabarito": "B",
+  "armadilha": "C",
+  "dado_decisivo": "área valvar mitral de 1,3 cm² pela planimetria",
+  "resolucao": "O escore CHA2DS2-VA zero, numa mulher jovem sem comorbidades, é verdadeiro e levaria a não anticoagular numa fibrilação atrial não valvar. Mas os escores não se aplicam à fibrilação atrial com estenose mitral moderada a grave, que já é de altíssimo risco embólico pelo átrio esquerdo grande e estase: a anticoagulação está indicada independentemente do escore. O limiar que define a categoria é a área valvar abaixo de 1,5 cm², e aqui ela é de 1,3 cm², de origem reumática. Nesses pacientes, os anticoagulantes orais diretos foram excluídos dos grandes ensaios e, no INVICTUS, a rivaroxabana foi inferior à varfarina em eventos e mortalidade; o anticoagulante é a varfarina com RNI entre 2 e 3. Com área valvar nessa faixa e sintomas, ela deve ser avaliada também para valvoplastia mitral por balão.",
+  "comentarios": {
+   "A": "Errada. Apixabana seria adequada na fibrilação atrial não valvar com escore de pelo menos 2, ou com estenose mitral leve; não com área de 1,3 cm².",
+   "B": "Correta. Fibrilação atrial com estenose mitral reumática moderada a grave exige varfarina, qualquer que seja o escore.",
+   "C": "Errada. É a armadilha do escore da triagem; o CHA2DS2-VA não vale para estenose mitral moderada a grave.",
+   "D": "Errada. Dabigatrana é contraindicada na estenose mitral moderada a grave, e também em prótese mecânica; serviria na fibrilação atrial não valvar."
+  },
+  "para_levar": "Fibrilação atrial com estenose mitral reumática de área abaixo de 1,5 cm² ou prótese mecânica: varfarina com RNI 2 a 3, sem calcular escore e sem anticoagulante oral direto.",
+  "referencias": "2024 ESC Guidelines for the management of atrial fibrillation; Connolly SJ et al. Rivaroxaban in Rheumatic Heart Disease-Associated Atrial Fibrillation (INVICTUS). N Engl J Med 2022; 2020 ACC/AHA Guideline for the Management of Patients With Valvular Heart Disease; Diretriz Brasileira de Valvopatias, SBC 2020.",
+  "tags": [
+   "Fibrilação Atrial (CM)",
+   "Estenose Mitral (CM)",
+   "Anticoagulação em Cardiologia (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "UERJ recorrente: anticoagulação na FA + S4 q56 (o critério que define o anticoagulante)"
+ }
+]

@@ -1,0 +1,171 @@
+[
+ {
+  "id": "R03-NEF-01",
+  "simulado": "R03",
+  "area": "Nefrologia",
+  "titulo": "Creatinina subindo em usuária de lítio há 22 anos, hipertensa: nefrite intersticial crônica com microcistos, e não nefroesclerose",
+  "arma": "Rótulo verdadeiro",
+  "comando": "achado esperado",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 58 anos, com transtorno bipolar em uso de carbonato de lítio há 22 anos, com litemias sempre entre 0,6 e 0,9 mEq/L e nenhum episódio de intoxicação, é encaminhada porque a creatinina subiu de 1,1 para 2,0 mg/dL em 6 anos. É hipertensa há 8 anos, em uso de anlodipino, com PA de 138 x 84 mmHg no consultório. Relata noctúria e sede, com ingestão de cerca de 4 litros de água por dia. Urina: densidade 1,004, sem hematúria, sem cilindros; proteinúria de 24 horas de 0,4 g. Fundoscopia com cruzamentos arteriovenosos patológicos e estreitamento arteriolar. Ultrassonografia: rins simétricos de 9,5 cm, com múltiplos microcistos corticais e medulares de 1 a 2 mm. A equipe solicita biópsia renal para embasar a discussão sobre a suspensão do lítio com o psiquiatra. O achado histológico mais provável é:",
+  "alternativas": {
+   "A": "Nefroesclerose arteriolar hialina difusa",
+   "B": "Glomeruloesclerose segmentar e focal colapsante",
+   "C": "Fibrose intersticial com microcistos tubulares distais",
+   "D": "Infiltrado intersticial agudo com eosinófilos"
+  },
+  "gabarito": "C",
+  "armadilha": "A",
+  "dado_decisivo": "múltiplos microcistos corticais e medulares de 1 a 2 mm",
+  "resolucao": "A hipertensão de 8 anos e a fundoscopia com cruzamentos patológicos são verdadeiras e convidam a atribuir a perda de função à nefroesclerose hipertensiva. Mas a PA está razoavelmente controlada, a hipertensão é bem mais recente que o lítio e o quadro é dominado por defeito de concentração (densidade 1,004, poliúria, polidipsia), que é o efeito renal mais frequente da droga. O dado que fecha é a imagem: microcistos corticais e medulares de 1 a 2 mm em rins de tamanho normal ou discretamente reduzido são a marca da nefropatia crônica do lítio. Na histologia, o correspondente é nefrite tubulointersticial crônica com fibrose intersticial, atrofia tubular e dilatações microcísticas dos túbulos distais e coletores, com pouca inflamação e glomérulos relativamente preservados. A proteinúria baixa, sem sedimento ativo, combina com doença tubulointersticial; a lesão glomerular pelo lítio existe, mas se apresenta com proteinúria nefrótica.",
+  "comentarios": {
+   "A": "Errada. É a armadilha da fundoscopia: seria o achado da nefroesclerose hipertensiva, mas a PA está controlada, o defeito de concentração domina e os microcistos apontam para o lítio.",
+   "B": "Errada. A lesão glomerular associada ao lítio (lesão mínima ou GESF) se manifesta com síndrome nefrótica; aqui a proteinúria é de 0,4 g.",
+   "C": "Correta. Lítio por décadas, defeito de concentração, proteinúria baixa e microcistos corticomedulares correspondem a nefrite intersticial crônica com microcistos tubulares distais.",
+   "D": "Errada. Seria a nefrite intersticial aguda por droga nova, com piora em semanas e leucocitúria; aqui a queda é lenta, em anos, e o sedimento é inocente."
+  },
+  "para_levar": "O efeito renal mais frequente do lítio é o defeito de concentração; o mais grave é a nefrite intersticial crônica, lenta, com proteinúria baixa e microcistos tubulares distais visíveis até na ultrassonografia.",
+  "referencias": "Davis J et al. Lithium and nephrotoxicity: a literature review of approaches to clinical management and risk stratification. BMC Nephrol 2018; KDIGO 2024 Clinical Practice Guideline for the Evaluation and Management of CKD.",
+  "tags": [
+   "Intoxicação por Lítio (CM)",
+   "Nefrotoxicidade por Drogas (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "UERJ recorrente: nefrotoxicidade crônica do lítio + S1 q5 (efeito renal do lítio confundido com ATR)"
+ },
+ {
+  "id": "R03-NEF-02",
+  "simulado": "R03",
+  "area": "Nefrologia",
+  "titulo": "Microangiopatia trombótica no puerpério sem resposta à plasmaférese, com ADAMTS13 de 64% e C3 baixo: SHU atípica e inibidor de C5",
+  "arma": "Grade X / Y",
+  "comando": "conduta",
+  "nivel": "extremamente difícil",
+  "enunciado": "Mulher de 27 anos, 5 semanas após parto vaginal sem intercorrências, com pré-natal normal e sem pré-eclâmpsia, procura a emergência por astenia, edema e redução da diurese há 4 dias. Teve dois episódios de fezes amolecidas, sem sangue, na semana anterior. PA 168 x 104 mmHg, afebril, sem alteração neurológica. Hemoglobina 7,1 g/dL com esquizócitos, plaquetas 62.000/mm³, LDH 1.840 U/L, haptoglobina indetectável, Coombs direto negativo, creatinina 4,6 mg/dL, C3 58 mg/dL (90 a 180), C4 normal. O plantão iniciou plasmaférese diária com a hipótese de púrpura trombocitopênica trombótica; após 5 sessões, plaquetas de 70.000/mm³ e creatinina de 4,9 mg/dL. Chega então o resultado da atividade de ADAMTS13 colhida antes da primeira sessão: 64%. Pesquisa de Shiga toxina nas fezes negativa. O diagnóstico e a conduta mais adequada neste momento são, respectivamente:",
+  "alternativas": {
+   "A": "SHU atípica / eculizumabe",
+   "B": "PTT adquirida / caplacizumabe",
+   "C": "SHU atípica / plasmaférese mantida",
+   "D": "SHU por Shiga toxina / suporte"
+  },
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "atividade de ADAMTS13 colhida antes da primeira sessão: 64%",
+  "resolucao": "A plasmaférese iniciada às cegas foi correta, porque a PTT mata em horas e não se espera o ADAMTS13; o erro é manter o rótulo depois do resultado. Atividade de ADAMTS13 colhida antes da plasmaférese acima de 10% (aqui 64%) exclui PTT, e com Shiga toxina negativa e diarreia discreta, sem sangue, a SHU por STEC também sai. Microangiopatia com lesão renal grave, hipertensão, C3 baixo e C4 normal no puerpério é SHU atípica mediada por complemento, com frequência desencadeada pela gestação. A falta de resposta renal à plasmaférese é esperada: o tratamento de escolha é o bloqueio do C5 com eculizumabe (ou ravulizumabe), iniciado o quanto antes para preservar o rim, com vacinação antimeningocócica e profilaxia antibiótica.",
+  "comentarios": {
+   "A": "Correta. ADAMTS13 acima de 10%, Shiga toxina negativa, lesão renal dominante e C3 baixo no puerpério definem SHU atípica, tratada com inibidor de C5.",
+   "B": "Errada. É a armadilha do rótulo do plantão: caplacizumabe com plasmaférese seria para PTT adquirida, que exige ADAMTS13 abaixo de 10%.",
+   "C": "Errada. O diagnóstico está certo, mas plasmaférese mantida só seria aceitável sem acesso ao inibidor de C5; ela não recupera a função renal na SHU atípica.",
+   "D": "Errada. Seria a conduta na SHU por STEC, com diarreia sanguinolenta e toxina presente; aqui a toxina é negativa e a diarreia foi mínima."
+  },
+  "para_levar": "Na microangiopatia trombótica, ADAMTS13 acima de 10% tira a PTT; sem Shiga toxina, com rim dominante e gatilho como o puerpério, é SHU atípica, e o tratamento é o inibidor de C5, e não plasmaférese indefinida.",
+  "referencias": "Goodship THJ et al. Atypical hemolytic uremic syndrome and C3 glomerulopathy: KDIGO Controversies Conference. Kidney Int 2017; KDIGO 2021 Clinical Practice Guideline for the Management of Glomerular Diseases.",
+  "tags": [
+   "Microangiopatia Trombótica (MAT) (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "UERJ recorrente: SHU atípica; padrão do aluno de manter o rótulo inicial (S1 q37, S3 q16)"
+ },
+ {
+  "id": "R03-NEF-03",
+  "simulado": "R03",
+  "area": "Nefrologia",
+  "titulo": "Hipomagnesemia em quem recebeu cisplatina e tem ileostomia de alto débito: fração de excreção de magnésio baixa aponta perda intestinal",
+  "arma": "Limiar",
+  "comando": "etiologia",
+  "nivel": "difícil",
+  "enunciado": "Homem de 52 anos, tratado de tumor de testículo com 4 ciclos de cisplatina há 3 anos e em remissão, foi submetido a colectomia total com ileostomia por retocolite ulcerativa há 8 meses. O débito da ileostomia está entre 1,8 e 2,2 litros por dia. Há 2 semanas tem câimbras e parestesias periorais. Usa mesalazina; nega diurético, inibidor de bomba de prótons e álcool. PA 112 x 70 mmHg, FC 96 bpm, sinal de Trousseau positivo. Exames: Na 136 mEq/L, K 3,1 mEq/L, cálcio total 7,6 mg/dL (albumina 4,0 g/dL), Mg 0,9 mg/dL (1,7 a 2,4), PTH 18 pg/mL (15 a 65), creatinina 1,0 mg/dL. Na urina de 24 horas, magnésio de 6 mg, com fração de excreção de magnésio calculada em 0,8%. A causa mais provável da hipomagnesemia é:",
+  "alternativas": {
+   "A": "Tubulopatia residual pela cisplatina",
+   "B": "Toxicidade tubular pela mesalazina",
+   "C": "Síndrome de Gitelman de expressão tardia",
+   "D": "Perda intestinal pela ileostomia de alto débito"
+  },
+  "gabarito": "D",
+  "armadilha": "A",
+  "dado_decisivo": "fração de excreção de magnésio calculada em 0,8%",
+  "resolucao": "A cisplatina causa perda tubular de magnésio que pode persistir por anos, e a exposição é verdadeira, o que puxa para a tubulopatia. O que separa perda renal de perda extrarrenal é a resposta do rim: diante de hipomagnesemia, a fração de excreção de magnésio acima de 2 a 4% (ou mais de 10 a 30 mg na urina de 24 horas) indica perda renal, e abaixo de 2% indica rim conservando adequadamente, com a perda fora dele. Aqui a fração é de 0,8% e o magnésio urinário de 24 horas é de 6 mg, ou seja, o túbulo está poupando magnésio ao máximo. A fonte é a ileostomia de alto débito, que perde magnésio e também potássio. O PTH inapropriadamente normal com hipocalcemia é consequência da hipomagnesemia grave, que inibe a secreção e a ação do PTH, e corrige com a reposição de magnésio.",
+  "comentarios": {
+   "A": "Errada. É a armadilha da exposição: a tubulopatia pela cisplatina daria fração de excreção de magnésio alta, e não 0,8%.",
+   "B": "Errada. A mesalazina causa nefrite intersticial com queda de função, e não perda isolada de magnésio; a creatinina é normal e o rim está conservando magnésio.",
+   "C": "Errada. Gitelman cursa com alcalose, hipocalciúria e perda renal de magnésio; a fração de excreção baixa exclui perda tubular.",
+   "D": "Correta. Fração de excreção de magnésio abaixo de 2% com débito de ileostomia de 2 litros por dia indica perda gastrointestinal."
+  },
+  "para_levar": "Na hipomagnesemia, meça o magnésio urinário: fração de excreção abaixo de 2% é perda extrarrenal (intestino), acima de 2 a 4% é perda renal (cisplatina, aminoglicosídeo, diurético, Gitelman).",
+  "referencias": "Agus ZS. Mechanisms and causes of hypomagnesemia. Curr Opin Nephrol Hypertens 2016; Brenner and Rector's The Kidney, 11ª ed. (2020), cap. Disorders of Magnesium Balance.",
+  "tags": [
+   "Distúrbios de Fósforo e Magnésio (CM)",
+   "Distúrbios Hidroeletrolíticos (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "UERJ recorrente: hipomagnesemia; usar a urina para localizar a perda, e não a exposição mais chamativa"
+ },
+ {
+  "id": "R03-NEF-04",
+  "simulado": "R03",
+  "area": "Nefrologia",
+  "titulo": "Alcalose hipocalêmica com sódio urinário alto e cloro urinário baixo: vômitos autoinduzidos, e não diurético oculto",
+  "arma": "Rótulo verdadeiro",
+  "comando": "etiologia",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 23 anos, estudante de nutrição, é levada pela mãe por fraqueza e palpitações há 1 semana. Diz que segue dieta restritiva por conta própria e nega vômitos, laxantes e diuréticos. IMC 18,9 kg/m², PA 100 x 62 mmHg, FC 104 bpm. Hipertrofia bilateral de parótidas e erosão do esmalte nas faces palatinas dos incisivos; sem lesões no dorso das mãos. Exames: Na 137 mEq/L, K 2,6 mEq/L, Cl 88 mEq/L, HCO3 34 mEq/L, pH 7,51, Mg 2,0 mg/dL, creatinina 0,8 mg/dL. Urina isolada: Na 72 mEq/L, K 38 mEq/L, Cl 7 mEq/L, pH 7,8. A pesquisa de diuréticos na urina foi solicitada e está pendente. A causa mais provável da hipocalemia é:",
+  "alternativas": {
+   "A": "Uso oculto de diurético tiazídico",
+   "B": "Vômitos autoinduzidos",
+   "C": "Abuso de laxativos estimulantes",
+   "D": "Síndrome de Bartter"
+  },
+  "gabarito": "B",
+  "armadilha": "A",
+  "dado_decisivo": "Cl 7 mEq/L, pH 7,8",
+  "resolucao": "O sódio urinário de 72 mEq/L com potássio urinário alto parece perda renal de sal, e a negativa de vômitos com a pesquisa de diurético pendente empurra para diurético oculto. Na alcalose metabólica, porém, o marcador de volume é o cloro urinário, e não o sódio: nos vômitos recentes, o bicarbonato filtrado em excesso arrasta sódio e potássio para a urina, que fica alcalina (pH 7,8), enquanto o cloro fica muito baixo pela contração de volume. Diurético em uso e Bartter dão cloro urinário alto, junto com o sódio. A hipertrofia de parótidas e a erosão palatina do esmalte confirmam a origem gástrica; a ausência do sinal de Russell não exclui, porque muitas pacientes induzem o vômito sem os dedos. O laxativo daria sódio e cloro urinários baixos e tende a acidose, não a urina alcalina com bicarbonatúria.",
+  "comentarios": {
+   "A": "Errada. É a armadilha do sódio urinário alto: o diurético em uso elevaria também o cloro urinário, que aqui é de 7 mEq/L.",
+   "B": "Correta. Alcalose com cloro urinário baixo e urina alcalina com sódio alto (bicarbonatúria), parótidas aumentadas e erosão palatina indicam vômitos.",
+   "C": "Errada. O abuso de laxativo conserva sódio e cloro na urina, que não fica alcalina, e com frequência cursa com acidose.",
+   "D": "Errada. Bartter cursa com cloro urinário persistentemente alto e perda de sal desde a infância; aqui o cloro urinário é mínimo."
+  },
+  "para_levar": "Na alcalose metabólica hipocalêmica, leia o cloro urinário, e não o sódio: cloro baixo com sódio alto e urina alcalina é vômito recente; cloro alto é diurético em uso, Bartter ou Gitelman.",
+  "referencias": "Luke RG, Galla JH. It is chloride depletion alkalosis, not contraction alkalosis. J Am Soc Nephrol 2012; Brenner and Rector's The Kidney, 11ª ed. (2020), cap. Metabolic Alkalosis.",
+  "tags": [
+   "Distúrbio do Potássio (CM)",
+   "Distúrbios Hidroeletrolíticos (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "UERJ recorrente: bulimia x diurético pela urina + S1 q45 (alcalose hipocalêmica decidida por um exame)"
+ },
+ {
+  "id": "R03-NEF-05",
+  "simulado": "R03",
+  "area": "Nefrologia",
+  "titulo": "Lesão renal assintomática no idoso em omeprazol há 10 semanas, sem febre, exantema nem eosinofilia: nefrite intersticial aguda",
+  "arma": "Negativo no meio",
+  "comando": "diagnóstico",
+  "nivel": "difícil",
+  "enunciado": "Homem de 71 anos, com creatinina de 1,0 mg/dL há 6 meses, faz uso de omeprazol 40 mg/dia, iniciado há 10 semanas por dispepsia, além de losartana e atorvastatina há anos. É encaminhado por creatinina de 3,4 mg/dL em exame de rotina; está assintomático. Nega febre, exantema, artralgia, contraste recente e anti-inflamatórios. PA 132 x 80 mmHg, sem edema, mucosas úmidas, sem hipotensão postural. Hemograma com 210 eosinófilos/mm³. Urina: densidade 1,010, proteína 1+, 25 leucócitos e 3 hemácias por campo, cilindros leucocitários; urocultura negativa. Proteinúria de 24 horas de 0,6 g, fração de excreção de sódio de 2,8%, complemento normal e ANCA negativo. Ultrassonografia com rins de 11 cm, sem hidronefrose. O diagnóstico mais provável é:",
+  "alternativas": {
+   "A": "Nefrite intersticial aguda",
+   "B": "Necrose tubular aguda isquêmica",
+   "C": "Pielonefrite aguda bilateral",
+   "D": "Lesão pré-renal pela losartana"
+  },
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "cilindros leucocitários; urocultura negativa",
+  "resolucao": "A ausência de febre, exantema e eosinofilia afasta, para muitos, a nefrite intersticial, e a fração de excreção de sódio acima de 2% leva para necrose tubular. Mas a tríade é exceção, sobretudo nas formas por inibidor de bomba de prótons, que são insidiosas, em idosos, e muitas vezes descobertas em exame de rotina semanas a meses após o início da droga. Não há evento isquêmico, hipotensão ou nefrotóxico para justificar necrose tubular, e a urina não mostra cilindros granulosos; mostra leucocitúria estéril com cilindros leucocitários, que localizam a inflamação no interstício. A fração de excreção de sódio alta é compatível com lesão tubulointersticial e só exclui a causa pré-renal. A conduta é suspender o omeprazol e considerar corticoide se não houver melhora em poucos dias, com biópsia quando houver dúvida.",
+  "comentarios": {
+   "A": "Correta. Lesão renal semanas após inibidor de bomba de prótons, com leucocitúria estéril, cilindros leucocitários e proteinúria baixa, é nefrite intersticial aguda mesmo sem a tríade.",
+   "B": "Errada. É a armadilha da fração de excreção de sódio: a necrose tubular exigiria insulto isquêmico ou tóxico e daria cilindros granulosos, e não leucocitários.",
+   "C": "Errada. Pielonefrite também dá cilindros leucocitários, mas com febre, dor lombar e urocultura positiva; aqui a urocultura é negativa e o paciente está afebril.",
+   "D": "Errada. A losartana é usada há anos, a volemia está normal e a fração de excreção de sódio de 2,8% exclui lesão pré-renal."
+  },
+  "para_levar": "Nefrite intersticial por inibidor de bomba de prótons costuma vir sem febre, exantema ou eosinofilia; leucocitúria estéril com cilindros leucocitários e droga nova bastam para a hipótese.",
+  "referencias": "KDIGO 2012 Clinical Practice Guideline for Acute Kidney Injury; Moledina DG, Perazella MA. Drug-induced acute interstitial nephritis. Clin J Am Soc Nephrol 2017.",
+  "tags": [
+   "Nefrotoxicidade por Drogas (CM)",
+   "Injúria Renal Aguda (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "UERJ recorrente: NIA por droga; padrão do aluno de descartar diagnóstico pela ausência de achado (S3 q66)"
+ }
+]
