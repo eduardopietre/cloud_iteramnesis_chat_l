@@ -1,0 +1,168 @@
+[
+ {
+  "id": "R02-NEF-01",
+  "simulado": "R02",
+  "area": "Nefrologia",
+  "titulo": "Ataxia, tremor grosseiro e confusão na idosa em lítio estável semanas após anti-hipertensivo novo: litemia antes da imagem",
+  "arma": "Dado omitido",
+  "comando": "próximo exame",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 68 anos, com transtorno bipolar estável há 10 anos em uso de carbonato de lítio 900 mg/dia (última litemia de 0,8 mEq/L há 6 meses), é trazida pela filha por tremor grosseiro das mãos, marcha atáxica, fala arrastada e confusão progressivos há 5 dias. Há 3 semanas a clínica trocou a anlodipina por losartana e hidroclorotiazida 25 mg iniciada há 3 semanas no mesmo comprimido. PA 134/80 mmHg, FC 62 bpm, afebril, sem rigidez de nuca, sem déficit motor focal; mioclonias multifocais. Sódio 134 mEq/L, creatinina 1,3 mg/dL (basal 1,0), glicemia 110 mg/dL, cálcio 9,8 mg/dL. O exame mais adequado neste momento é:",
+  "alternativas": {
+   "A": "Ressonância magnética de crânio",
+   "B": "Eletroencefalograma",
+   "C": "Litemia sérica",
+   "D": "Punção lombar"
+  },
+  "gabarito": "C",
+  "armadilha": "A",
+  "dado_decisivo": "losartana e hidroclorotiazida 25 mg iniciada há 3 semanas",
+  "resolucao": "Ataxia, disartria e confusão numa idosa hipertensa fazem pensar em AVC de fossa posterior, e a ressonância parece o próximo passo. A ausência de déficit focal, o tremor grosseiro, as mioclonias e a instalação em dias, porém, compõem neurotoxicidade por lítio, e o caso esconde a causa na troca de anti-hipertensivo: o tiazídico aumenta a reabsorção proximal de sódio e de lítio, e o bloqueador do receptor de angiotensina reduz a filtração, juntos elevando a litemia em semanas. A creatinina subindo reforça. A litemia sérica é o exame que define gravidade e conduta (suspensão, hidratação e, conforme critérios, diálise); intoxicação crônica pode ter sintomas importantes com níveis apenas moderadamente altos.",
+  "comentarios": {
+   "A": "Errada. É a armadilha: a ressonância entraria com déficit focal ou instalação súbita; aqui o quadro é difuso e há droga que eleva o lítio.",
+   "B": "Errada. O eletroencefalograma mostra lentificação inespecífica e não define a causa nem a conduta.",
+   "C": "Correta. Neurotoxicidade após tiazídico e bloqueador de angiotensina: a litemia confirma a intoxicação crônica e guia o tratamento.",
+   "D": "Errada. Sem febre e sem rigidez de nuca não há suspeita de meningoencefalite que justifique punção primeiro."
+  },
+  "para_levar": "Tiazídico, IECA ou bloqueador de angiotensina e anti-inflamatório elevam a litemia em semanas: alteração neurológica difusa em usuário de lítio após droga nova pede litemia primeiro.",
+  "referencias": "Gitlin M. Lithium side effects and toxicity. Int J Bipolar Disord 2016; EXTRIP workgroup recommendations for lithium poisoning (Decker BS et al., 2015).",
+  "tags": [
+   "Intoxicação por Lítio (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "S1 q10 e S3 q16: droga em uso cruzada com o lítio, agora a interação com anti-hipertensivo escondida na troca de receita"
+ },
+ {
+  "id": "R02-NEF-02",
+  "simulado": "R02",
+  "area": "Nefrologia",
+  "titulo": "Hiponatremia na meningite tuberculosa com hematócrito e ureia subindo e balanço negativo: perda cerebral de sal, salina e fludrocortisona",
+  "arma": "Cronologia",
+  "comando": "conduta",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 34 anos está internado há 10 dias por meningite tuberculosa em tratamento com esquema básico e dexametasona. O sódio caiu de 138 para 124 mEq/L em 4 dias, com diurese de 4,2 litros por dia e balanço hídrico negativo. PA 112/70 mmHg deitado e 92/58 mmHg sentado, FC 112 bpm, mucosas secas. No mesmo período, o hematócrito subiu de 38% para 44% e a ureia de 30 para 52 mg/dL. Sódio urinário 168 mEq/L, osmolalidade urinária 520 mOsm/kg, ácido úrico sérico 2,1 mg/dL, TSH e cortisol normais. A conduta mais adequada para o sódio é:",
+  "alternativas": {
+   "A": "Salina e fludrocortisona",
+   "B": "Restrição hídrica a 800 mL/dia",
+   "C": "Tolvaptana oral",
+   "D": "Ureia oral"
+  },
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "o hematócrito subiu de 38% para 44% e a ureia de 30 para 52 mg/dL",
+  "resolucao": "Meningite tuberculosa é causa frequente de SIADH, e sódio urinário alto com urina concentrada e ácido úrico baixo são comuns às duas síndromes, o que puxa para restrição hídrica. O que separa é o volume extracelular ao longo dos dias: na SIADH o paciente está euvolêmico ou levemente expandido, e o hematócrito e a ureia tendem a cair; aqui, com poliúria e balanço negativo, o hematócrito e a ureia sobem, há hipotensão postural e taquicardia. Isso é perda cerebral de sal, e restringir água nessa situação agrava a hipovolemia e, em doença do sistema nervoso central, o risco de isquemia. Repõe-se o volume e o sódio com salina (isotônica ou hipertônica conforme a gravidade), e a fludrocortisona reduz a natriurese quando a perda é persistente.",
+  "comentarios": {
+   "A": "Correta. Hipovolemia documentada (hematócrito e ureia subindo, hipotensão postural) com natriurese: perda cerebral de sal, salina e fludrocortisona.",
+   "B": "Errada. É a armadilha: seria a conduta da SIADH euvolêmica; na perda de sal piora a hipovolemia e a perfusão cerebral.",
+   "C": "Errada. Vaptanos aumentam a perda de água livre e agravam a contração de volume; não se usam na hipovolemia.",
+   "D": "Errada. A ureia oral é alternativa na SIADH crônica, não na perda de sal com hipovolemia."
+  },
+  "para_levar": "Na hiponatremia com natriurese em doença do sistema nervoso central, quem decide é o volume: hematócrito e ureia subindo com hipotensão postural é perda cerebral de sal e pede salina, nunca restrição.",
+  "referencias": "Spasovski G et al. Clinical practice guideline on diagnosis and treatment of hyponatraemia. Eur J Endocrinol 2014; Cerdà-Esteve M et al. Cerebral salt wasting syndrome: review. Eur J Intern Med 2008.",
+  "tags": [
+   "Distúrbios do Sódio (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "S1 q50: perda cerebral de sal tratada com salina, agora na meningite tuberculosa e pela cronologia do hematócrito"
+ },
+ {
+  "id": "R02-NEF-03",
+  "simulado": "R02",
+  "area": "Nefrologia",
+  "titulo": "PTH subindo na DRC estágio 4 com 25-hidroxivitamina D baixa: colecalciferol, e não calcitriol",
+  "arma": "Rótulo verdadeiro",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 66 anos, com doença renal crônica estágio 4 por nefropatia diabética (TFGe de 22 mL/min/1,73 m²), sem diálise, comparece à consulta trimestral. Sai pouco de casa e usa roupas que cobrem quase todo o corpo. PTH de 190 pg/mL há 6 meses e de 260 pg/mL agora (referência 15 a 65), cálcio 9,0 mg/dL, fósforo 4,6 mg/dL, fosfatase alcalina 140 U/L (até 120), 25-hidroxivitamina D de 13 ng/mL, bicarbonato 23 mEq/L. Já segue orientação de dieta com restrição de fósforo. O residente sugere iniciar a forma ativa da vitamina D, porque o rim doente não faz a hidroxilação. A conduta mais adequada para o hiperparatireoidismo neste momento é:",
+  "alternativas": {
+   "A": "Paricalcitol oral",
+   "B": "Calcitriol oral",
+   "C": "Cinacalcete oral",
+   "D": "Colecalciferol oral"
+  },
+  "gabarito": "D",
+  "armadilha": "B",
+  "dado_decisivo": "25-hidroxivitamina D de 13 ng/mL",
+  "resolucao": "O argumento do residente é verdadeiro (a 1-alfa-hidroxilação renal cai na DRC) e leva ao calcitriol. A diretriz, porém, manda tratar primeiro os fatores modificáveis do PTH em elevação na DRC não dialítica: fósforo alto, cálcio baixo, ingestão de fósforo e deficiência de 25-hidroxivitamina D. Com 25-hidroxivitamina D de 13 ng/mL, a reposição com colecalciferol fornece substrato e corrige parte do hiperparatireoidismo secundário. Calcitriol e análogos não são recomendados de rotina na DRC 3a a 5 sem diálise, porque aumentam hipercalcemia e hiperfosfatemia sem benefício clínico; ficam para hiperparatireoidismo grave e progressivo após corrigir os fatores modificáveis. Cinacalcete não tem indicação fora da diálise.",
+  "comentarios": {
+   "A": "Errada. Paricalcitol, como o calcitriol, fica reservado ao hiperparatireoidismo grave e progressivo, com risco de hipercalcemia.",
+   "B": "Errada. É a armadilha do raciocínio fisiológico: a KDIGO não recomenda calcitriol de rotina na DRC não dialítica.",
+   "C": "Errada. O cinacalcete é aprovado no hiperparatireoidismo secundário em diálise, não na DRC estágio 4.",
+   "D": "Correta. PTH em elevação com 25-hidroxivitamina D baixa: repor vitamina D nativa antes de qualquer forma ativa."
+  },
+  "para_levar": "PTH subindo na DRC sem diálise: corrigir fósforo, cálcio e deficiência de 25-hidroxivitamina D com colecalciferol; calcitriol só para hiperparatireoidismo grave e progressivo.",
+  "referencias": "KDIGO 2017 Clinical Practice Guideline Update for CKD-MBD; SBN, Diretrizes de DMO-DRC (2021).",
+  "tags": [
+   "Doença Mineral Óssea no DRC (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "S4 q7: a 25-hidroxivitamina D vem antes da vitamina D ativa na DRC 4, agora pela conduta"
+ },
+ {
+  "id": "R02-NEF-04",
+  "simulado": "R02",
+  "area": "Nefrologia",
+  "titulo": "TC com contraste intravenoso ambulatorial com TFGe estável de 26: abaixo de 30, salina isotônica profilática",
+  "arma": "Limiar",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Homem de 72 anos, com diabetes tipo 2 em uso de insulina (não usa metformina) e doença renal crônica, tem TFGe estável de 26 mL/min/1,73 m² nos últimos 12 meses. Vai fazer TC de abdome com contraste iodado intravenoso de baixa osmolalidade para estadiar uma massa renal sólida de 4 cm. Não tem insuficiência cardíaca (fração de ejeção de 58%), está euvolêmico, PA 136/78 mmHg, sem anti-inflamatórios. Não há alternativa diagnóstica sem contraste com a mesma acurácia. Quanto à prevenção de lesão renal associada ao contraste, a conduta mais adequada é:",
+  "alternativas": {
+   "A": "Nenhuma profilaxia específica",
+   "B": "Salina isotônica antes e depois",
+   "C": "N-acetilcisteína oral",
+   "D": "Hemodiálise após o exame"
+  },
+  "gabarito": "B",
+  "armadilha": "A",
+  "dado_decisivo": "TFGe estável de 26 mL/min/1,73 m²",
+  "resolucao": "Quem fixou que contraste intravenoso não pede profilaxia com TFGe em torno de 45 tende a estender a regra a todos. O consenso do ACR com a National Kidney Foundation estabelece o limiar: com TFGe de 45 ou mais não há risco relevante; entre 30 e 44 a profilaxia é individualizada; abaixo de 30 sem diálise, ou com lesão renal aguda, a hidratação com salina isotônica intravenosa antes e depois do exame é indicada, desde que não haja contraindicação por sobrecarga de volume. Este paciente está abaixo de 30, euvolêmico e sem insuficiência cardíaca. N-acetilcisteína e bicarbonato não mostraram benefício, e hemodiálise após o exame não protege o rim.",
+  "comentarios": {
+   "A": "Errada. É a armadilha do limiar: nenhuma profilaxia vale para TFGe de 45 ou mais; abaixo de 30 a hidratação é indicada.",
+   "B": "Correta. TFGe abaixo de 30 sem diálise, sem contraindicação de volume: salina isotônica intravenosa antes e depois.",
+   "C": "Errada. A N-acetilcisteína não reduziu lesão renal nem diálise no ensaio PRESERVE.",
+   "D": "Errada. A hemodiálise profilática não previne lesão renal e expõe a riscos de acesso."
+  },
+  "para_levar": "Contraste iodado intravenoso: TFGe de 45 ou mais, nada; 30 a 44, individualizar; abaixo de 30 ou lesão renal aguda, salina isotônica se não houver sobrecarga.",
+  "referencias": "ACR-NKF Consensus Statement on Use of Intravenous Iodinated Contrast Media in Patients With Kidney Disease (Davenport MS et al., Radiology 2020); ACR Manual on Contrast Media (2024); Weisbord SD et al. PRESERVE, NEJM 2018.",
+  "tags": [
+   "IRA Contraste (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "S2 q80: limiar de TFGe para profilaxia do contraste, agora abaixo de 30, onde a resposta se inverte"
+ },
+ {
+  "id": "R02-NEF-05",
+  "simulado": "R02",
+  "area": "Nefrologia",
+  "titulo": "Hipocalemia com alcalose e hipomagnesemia em jovem com suspeita de transtorno alimentar: cloro urinário alto e hipocalciúria, síndrome de Gitelman",
+  "arma": "Rótulo verdadeiro",
+  "comando": "diagnóstico",
+  "nivel": "extremamente difícil",
+  "enunciado": "Mulher de 24 anos, estudante de nutrição, IMC de 19 kg/m², é encaminhada pela psiquiatra com suspeita de bulimia por cãibras, fadiga e episódios de parestesias em mãos; a dentista notou desgaste do esmalte. Ela nega vômitos, laxantes e diuréticos. PA 104/66 mmHg, sem edema. Potássio 2,8 mEq/L, bicarbonato 32 mEq/L, magnésio 1,2 mg/dL (1,7 a 2,4), cálcio 9,8 mg/dL, creatinina 0,7 mg/dL. Urina: cloro 92 mEq/L, potássio 64 mEq/L, relação cálcio/creatinina de 0,03 mg/mg; pesquisa urinária de diuréticos negativa em duas amostras colhidas sem aviso. O diagnóstico mais provável é:",
+  "alternativas": {
+   "A": "Síndrome de Bartter",
+   "B": "Uso oculto de diurético de alça",
+   "C": "Síndrome de Gitelman",
+   "D": "Vômitos autoinduzidos"
+  },
+  "gabarito": "C",
+  "armadilha": "D",
+  "dado_decisivo": "cloro 92 mEq/L",
+  "resolucao": "A suspeita de bulimia, o desgaste dentário e a profissão são verdadeiros e puxam para vômitos autoinduzidos, a causa mais comum de hipocalemia com alcalose em mulher jovem. O cloro urinário separa: nos vômitos o rim retém cloro (abaixo de 20 a 25 mEq/L), e aqui ele está alto, indicando perda renal de sal. Entre as causas renais, a pesquisa de diuréticos negativa repetida afasta o uso oculto, e a hipocalciúria com hipomagnesemia aponta defeito no cotransportador sódio-cloro do túbulo distal, que imita o tiazídico. Bartter e o diurético de alça produzem hipercalciúria. O diagnóstico é síndrome de Gitelman.",
+  "comentarios": {
+   "A": "Errada. Bartter afeta a alça de Henle, como a furosemida, e cursa com cálcio urinário normal ou alto.",
+   "B": "Errada. A alça também daria hipercalciúria, e a pesquisa de diuréticos foi negativa duas vezes.",
+   "C": "Correta. Alcalose hipocalêmica com cloro urinário alto, hipocalciúria e hipomagnesemia, sem diurético: Gitelman.",
+   "D": "Errada. É a armadilha do rótulo: nos vômitos o cloro urinário é baixo, e aqui é 92 mEq/L."
+  },
+  "para_levar": "Alcalose hipocalêmica normotensa: cloro urinário baixo é vômito; cloro alto com cálcio urinário baixo e magnésio baixo é Gitelman (ou tiazídico); com cálcio urinário alto, Bartter ou alça.",
+  "referencias": "Blanchard A et al. Gitelman syndrome: consensus and guidance from a KDIGO Controversies Conference. Kidney Int 2017.",
+  "tags": [
+   "Tubulopatias (CM)",
+   "Distúrbios Hidroeletrolíticos (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "UERJ pouco explorado: tubulopatias, Gitelman contra o rótulo de transtorno alimentar pelo cloro e cálcio urinários"
+ }
+]

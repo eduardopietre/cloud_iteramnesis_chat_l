@@ -26,7 +26,10 @@
   },
   "para_levar": "No diabético com esteatose, calcule o FIB-4 mesmo com enzimas normais: abaixo de 1,3 é baixo, entre 1,3 e 2,67 pede elastografia, acima de 2,67 pede elastografia e hepatologista.",
   "referencias": "AASLD Practice Guidance on MASLD (2023); EASL-EASD-EASO Clinical Practice Guidelines on MASLD (2024); SBH, Consenso sobre DHGNA/MASLD (2023).",
-  "tags": ["DHGNA (CM)", "Síndrome Metabólica, Obesidade e DHGNA (CM)"],
+  "tags": [
+   "DHGNA (CM)",
+   "Síndrome Metabólica, Obesidade e DHGNA (CM)"
+  ],
   "sourceQuestionId": null,
   "alvo": "S4 q72: FIB-4 calculado pela conta, com enzimas normais, agora caindo acima de 2,67"
  },
@@ -57,7 +60,10 @@
   },
   "para_levar": "Regra dos cinco do Baveno VII: abaixo de 15 kPa com plaquetas acima de 150.000 não há hipertensão portal significativa (sem endoscopia, sem betabloqueador); 25 kPa ou mais confirma e indica carvedilol.",
   "referencias": "de Franchis R et al. Baveno VII: Renewing consensus in portal hypertension. J Hepatol 2022.",
-  "tags": ["Hipertensão Portal (CM)", "DHGNA (CM)"],
+  "tags": [
+   "Hipertensão Portal (CM)",
+   "DHGNA (CM)"
+  ],
   "sourceQuestionId": null,
   "alvo": "S2 q24: elastografia e plaquetas decidem endoscopia e carvedilol no Baveno VII, agora abaixo do limiar"
  },
@@ -71,24 +77,27 @@
   "nivel": "extremamente difícil",
   "enunciado": "Homem de 52 anos, com cirrose alcoólica e abstinente há 6 meses, é admitido com hematêmese volumosa. Recebeu terlipressina, ceftriaxona e transfusão restritiva; a endoscopia, feita em 6 horas, mostrou varizes esofágicas de grosso calibre, uma delas com sangramento ativo em jato no momento do exame, tratada com ligadura elástica com hemostasia. Child-Pugh de 8 pontos (bilirrubina 2,4 mg/dL, albumina 3,0 g/dL, ascite discreta), MELD 14. Sem encefalopatia, sem hepatocarcinoma, creatinina 1,0 mg/dL; ecocardiograma com função ventricular normal e pressão sistólica pulmonar estimada em 28 mmHg. Nas primeiras 24 horas permanece estável. A conduta mais adequada nas próximas 48 horas é:",
   "alternativas": {
-   "A": "Carvedilol e nova ligadura em 2 semanas",
+   "A": "Terlipressina por 5 dias e alta",
    "B": "TIPS com prótese recoberta",
-   "C": "Terlipressina por 5 dias e alta",
+   "C": "Carvedilol e nova ligadura em 2 semanas",
    "D": "Balão esofágico por 24 horas"
   },
   "gabarito": "B",
-  "armadilha": "A",
+  "armadilha": "C",
   "dado_decisivo": "uma delas com sangramento ativo em jato no momento do exame",
   "resolucao": "O paciente parece um Child B estável depois de uma ligadura bem-sucedida, e o raciocínio de manual é completar a terlipressina e seguir com betabloqueador e ligaduras seriadas. O Baveno VII, porém, define alto risco de falha e de morte não só no Child C de 10 a 13 pontos, mas também no Child B acima de 7 pontos com sangramento ativo na endoscopia inicial; nesses, o TIPS preemptivo com prótese recoberta nas primeiras 72 horas reduz ressangramento e mortalidade. Os negativos do caso (sem encefalopatia, função cardíaca e pressão pulmonar normais, sem hepatocarcinoma, creatinina normal) afastam as contraindicações e liberam o procedimento.",
   "comentarios": {
-   "A": "Errada. Seria a profilaxia secundária no Child A ou no Child B sem sangramento ativo; o sangramento em jato no Child B de 8 pontos indica TIPS preemptivo.",
+   "A": "Errada. A terlipressina mantida por 2 a 5 dias é parte do tratamento, mas não substitui o TIPS no paciente de alto risco.",
    "B": "Correta. Child B acima de 7 pontos com sangramento ativo na endoscopia: TIPS recoberto em até 72 horas.",
-   "C": "Errada. A terlipressina mantida por 2 a 5 dias é parte do tratamento, mas não substitui o TIPS no paciente de alto risco.",
+   "C": "Errada. Seria a profilaxia secundária no Child A ou no Child B sem sangramento ativo; o sangramento em jato no Child B de 8 pontos indica TIPS preemptivo.",
    "D": "Errada. O balão é ponte para sangramento refratário à endoscopia; aqui houve hemostasia."
   },
   "para_levar": "TIPS preemptivo em até 72 horas: Child C de 10 a 13 pontos, ou Child B acima de 7 com sangramento ativo na endoscopia, desde que sem contraindicação.",
   "referencias": "de Franchis R et al. Baveno VII (2022); AASLD Guidance on Risk Stratification and Management of Portal Hypertension and Varices in Cirrhosis (2024).",
-  "tags": ["HDA varicosa (CM)", "Hipertensão Portal (CM)"],
+  "tags": [
+   "HDA varicosa (CM)",
+   "Hipertensão Portal (CM)"
+  ],
   "sourceQuestionId": null,
   "alvo": "S4 q33: indicação de TIPS preemptivo pelo critério de gravidade, agora o Child B com sangramento ativo"
  },
@@ -119,7 +128,9 @@
   },
   "para_levar": "Coleção necrótica estéril não se drena pelo tamanho: drena-se por infecção ou por sintoma (obstrução, dor persistente, falha clínica), e então preferindo a via endoscópica após 4 semanas.",
   "referencias": "Baron TH et al. AGA Clinical Practice Update: Management of Pancreatic Necrosis (2020); Working Group IAP/APA Acute Pancreatitis Guidelines (2013).",
-  "tags": ["Pancreatite Aguda (CM)"],
+  "tags": [
+   "Pancreatite Aguda (CM)"
+  ],
   "sourceQuestionId": null,
   "alvo": "S2 q16: coleção necrótica estéril sem indicação de drenagem, agora encapsulada e grande"
  }

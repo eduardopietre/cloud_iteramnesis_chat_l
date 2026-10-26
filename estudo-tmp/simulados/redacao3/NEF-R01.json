@@ -1,0 +1,172 @@
+[
+ {
+  "id": "R01-NEF-01",
+  "simulado": "R01",
+  "area": "Nefrologia",
+  "titulo": "Diabetes insípido nefrogênico pelo lítio que precisa ser mantido: amilorida, e não tiazídico",
+  "arma": "Omissão",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 52 anos, com transtorno bipolar estável há 14 anos em uso de carbonato de lítio (litemia de 0,7 mEq/L), queixa-se de poliúria de cerca de 5 litros por dia e noctúria há 2 anos. Duas tentativas de troca do estabilizador terminaram em internação por mania, e a psiquiatra pede para manter o lítio. PA 124/78 mmHg, sem edema. Sódio 145 mEq/L, potássio 4,1 mEq/L, cálcio 9,6 mg/dL, glicemia 92 mg/dL, creatinina 1,0 mg/dL. Osmolalidade urinária de 120 mOsm/kg, que chega a 180 após restrição hídrica e a 195 após desmopressina. A medida mais adequada para reduzir a poliúria é:",
+  "alternativas": {
+   "A": "Associar amilorida",
+   "B": "Associar hidroclorotiazida",
+   "C": "Desmopressina intranasal",
+   "D": "Restrição hídrica orientada"
+  },
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "a 195 após desmopressina",
+  "resolucao": "A resposta mínima à desmopressina (aumento abaixo de 10%) confirma diabetes insípido nefrogênico, o efeito renal mais frequente do lítio. Tiazídico reduz a poliúria do diabetes insípido nefrogênico em geral, e por isso atrai, mas aumenta a reabsorção proximal de lítio e eleva a litemia em cerca de 25 a 40%, com risco de intoxicação. O lítio entra na célula do ducto coletor pelo canal epitelial de sódio (ENaC); a amilorida bloqueia esse canal, reduz a entrada do lítio e melhora a resposta à vasopressina sem elevar a litemia. É a medida de escolha quando o lítio precisa ser mantido.",
+  "comentarios": {
+   "A": "Correta. A amilorida bloqueia a entrada do lítio pelo ENaC no ducto coletor e reduz a poliúria sem aumentar a litemia.",
+   "B": "Errada. É a armadilha: o tiazídico funciona no diabetes insípido nefrogênico de outras causas, mas eleva a litemia e precipita intoxicação.",
+   "C": "Errada. Seria o tratamento do diabetes insípido central; aqui a urina quase não concentrou com desmopressina.",
+   "D": "Errada. Restringir água num paciente que não concentra a urina leva a hipernatremia e desidratação, que ainda elevam a litemia."
+  },
+  "para_levar": "Diabetes insípido nefrogênico pelo lítio que precisa ser mantido: amilorida. Tiazídico e anti-inflamatório reduzem a poliúria, mas sobem a litemia.",
+  "referencias": "Gitlin M. Lithium side effects and toxicity. Int J Bipolar Disord 2016; KDIGO Controversies Conference on lithium and the kidney (resumo, 2023).",
+  "tags": [
+   "Intoxicação por Lítio (CM)",
+   "Distúrbios do Sódio (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "S1 q5 e S3 q16: efeito renal mais frequente do lítio (perda de concentração), agora pela conduta que não cruza a interação com tiazídico"
+ },
+ {
+  "id": "R01-NEF-02",
+  "simulado": "R01",
+  "area": "Nefrologia",
+  "titulo": "Hipertensão supina com hipocalemia no parkinsoniano tratado de hipotensão ortostática: aldosterona baixa com relação alta, mineralocorticoide exógeno",
+  "arma": "Droga a deduzir",
+  "comando": "etiologia",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 71 anos, com doença de Parkinson há 9 anos, teve quedas repetidas por tontura ao levantar. Há 3 meses o neurologista acrescentou um comprimido matinal para a pressão baixa, além de meias elásticas. Agora tem cefaleia matinal e edema maleolar; PA deitado de 178/96 mmHg e em pé de 138/82 mmHg. Potássio 2,9 mEq/L, bicarbonato 31 mEq/L, sódio 145 mEq/L, creatinina 1,0 mg/dL. Aldosterona plasmática 3 ng/dL (referência 4 a 31) e atividade de renina 0,1 ng/mL/h, com relação aldosterona/renina de 30. Cortisol matinal 14 µg/dL. A causa mais provável do quadro é:",
+  "alternativas": {
+   "A": "Hiperaldosteronismo primário",
+   "B": "Mineralocorticoide exógeno",
+   "C": "Síndrome de Liddle",
+   "D": "Hipertensão renovascular"
+  },
+  "gabarito": "B",
+  "armadilha": "A",
+  "dado_decisivo": "Aldosterona plasmática 3 ng/dL (referência 4 a 31)",
+  "resolucao": "Hipertensão, hipocalemia, alcalose e relação aldosterona/renina de 30 levam ao rastreio positivo de hiperaldosteronismo primário. Mas a relação só é interpretável com aldosterona elevada ou ao menos não suprimida (em geral acima de 10 a 15 ng/dL); com renina muito baixa, qualquer aldosterona produz uma relação alta. Aldosterona suprimida com renina suprimida significa que outro agente está ativando o receptor mineralocorticoide. O comprimido para hipotensão ortostática é a fludrocortisona, que nesta situação provoca hipertensão supina, edema e hipocalemia. Liddle é doença de jovem com história familiar, e não surge aos 71 anos depois de um remédio novo.",
+  "comentarios": {
+   "A": "Errada. É a armadilha da relação: no hiperaldosteronismo primário a aldosterona está alta; aqui está abaixo da referência.",
+   "B": "Correta. Aldosterona e renina suprimidas após remédio para hipotensão ortostática: fludrocortisona.",
+   "C": "Errada. Liddle produz o mesmo perfil hormonal, mas é hereditária e se manifesta cedo; o quadro começou após a droga nova.",
+   "D": "Errada. Renovascular cursa com renina e aldosterona altas (hiperaldosteronismo secundário)."
+  },
+  "para_levar": "Relação aldosterona/renina alta com aldosterona baixa não é hiperaldosteronismo primário: pense em mineralocorticoide não aldosterona (fludrocortisona, alcaçuz, Liddle, excesso de cortisol).",
+  "referencias": "Endocrine Society Clinical Practice Guideline for Primary Aldosteronism (2025); Funder JW et al. (2016).",
+  "tags": [
+   "Hiperaldosteronismo Primário (CM)",
+   "Distúrbios Hidroeletrolíticos (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "S1 q45: aldosterona baixa com relação alta, agora por droga a deduzir em vez de tubulopatia hereditária"
+ },
+ {
+  "id": "R01-NEF-03",
+  "simulado": "R01",
+  "area": "Nefrologia",
+  "titulo": "Bradicardia juncional e choque no cardiopata com betabloqueador, IECA e espironolactona que desidratou: hipercalemia com ECG alterado, cálcio primeiro",
+  "arma": "Qualificador",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Homem de 76 anos, com insuficiência cardíaca de fração de ejeção reduzida e doença renal crônica estágio 3b, usa carvedilol 25 mg duas vezes ao dia, enalapril e espironolactona. Há 3 dias tem diarreia e come pouco. Chega tonto e sonolento; PA 78/44 mmHg, FC 34 bpm, extremidades frias. ECG: ritmo juncional, sem ondas P visíveis, QRS de 136 ms e ondas T apiculadas. Potássio 6,7 mEq/L, creatinina 3,1 mg/dL (basal 1,8), glicemia 104 mg/dL, bicarbonato 18 mEq/L. A residente já separou atropina e prepara as pás do marcapasso transcutâneo. A primeira medida a ser tomada é:",
+  "alternativas": {
+   "A": "Atropina 1 mg intravenosa",
+   "B": "Marcapasso transcutâneo",
+   "C": "Gluconato de cálcio intravenoso",
+   "D": "Hemodiálise de urgência"
+  },
+  "gabarito": "C",
+  "armadilha": "D",
+  "dado_decisivo": "QRS de 136 ms e ondas T apiculadas",
+  "resolucao": "Bradicardia grave com hipotensão num paciente em betabloqueador puxa para o algoritmo de bradicardia (atropina, marcapasso) ou para a diálise pela hipercalemia com lesão renal. A combinação de bradicardia, insuficiência renal, bloqueio nodal, choque e hipercalemia forma um ciclo: a hipovolemia piora a função renal, o potássio sobe, potencializa o betabloqueador e a bradicardia reduz a perfusão renal. O ECG com QRS largo e T apiculada mostra que a hipercalemia está atuando no miocárdio, e a primeira medida é estabilizar a membrana com gluconato de cálcio intravenoso, que costuma melhorar a frequência em minutos. Em seguida vêm insulina com glicose, volume e, se não houver resposta, vasopressor e diálise. Atropina costuma falhar nesse contexto e o marcapasso pode não capturar com potássio alto.",
+  "comentarios": {
+   "A": "Errada. A atropina é o primeiro passo na bradicardia sintomática comum, mas falha quando a causa é hipercalemia com betabloqueio.",
+   "B": "Errada. O marcapasso transcutâneo entra se não houver resposta; com potássio alto o limiar de captura sobe.",
+   "C": "Correta. Hipercalemia com QRS largo e bradicardia: cálcio intravenoso imediato, antes de qualquer outra medida.",
+   "D": "Errada. É a armadilha do porte: a diálise retira potássio, mas leva horas para ser montada; o cálcio protege o miocárdio já."
+  },
+  "para_levar": "Bradicardia com choque em usuário de betabloqueador e bloqueador do sistema renina-angiotensina com potássio alto: gluconato de cálcio primeiro, depois insulina e volume.",
+  "referencias": "Farkas JD et al. BRASH Syndrome. J Emerg Med 2020; KDIGO Controversies Conference on potassium (2020); AHA Guidelines for CPR and ECC (2025).",
+  "tags": [
+   "Hiperpotassemia (CM)",
+   "Distúrbios Hidroeletrolíticos (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "S2 q20: hipercalemia com ECG alterado pede cálcio antes da diálise, agora com bradicardia e betabloqueador como rótulo"
+ },
+ {
+  "id": "R01-NEF-04",
+  "simulado": "R01",
+  "area": "Nefrologia",
+  "titulo": "Piora renal no hipertenso antigo com proteinúria de 24 horas alta e albuminúria baixa: proteinúria de cadeias leves",
+  "arma": "Rótulo verdadeiro",
+  "comando": "próximo exame",
+  "nivel": "difícil",
+  "enunciado": "Homem de 67 anos, hipertenso há 20 anos, com creatinina de 1,2 mg/dL há 1 ano, é encaminhado com creatinina de 3,4 mg/dL e diagnóstico de nefroesclerose hipertensiva. Refere cansaço e lombalgia mecânica há 3 meses, sem anti-inflamatórios. PA 138/84 mmHg, sem edema. Hemoglobina 9,6 g/dL, cálcio 10,4 mg/dL, albumina 3,8 g/dL. Fita urinária com proteína em traço, sedimento sem hematúria. Proteinúria de 24 horas de 3,6 g, com relação albumina/creatinina urinária de 52 mg/g. Ultrassonografia com rins de 11 cm, sem hidronefrose. O próximo exame mais adequado é:",
+  "alternativas": {
+   "A": "Doppler das artérias renais",
+   "B": "Relação proteína/creatinina repetida",
+   "C": "Biópsia renal percutânea",
+   "D": "Cadeias leves livres e imunofixação"
+  },
+  "gabarito": "D",
+  "armadilha": "C",
+  "dado_decisivo": "relação albumina/creatinina urinária de 52 mg/g",
+  "resolucao": "A hipertensão antiga é verdadeira e serve de rótulo para a perda de função, e a proteinúria de 3,6 g parece pedir biópsia para esclarecer uma glomerulopatia. O descompasso é o dado: a fita, que detecta albumina, mostra traço e a albuminúria é baixa, mas a proteinúria total é alta. Proteína na urina que não é albumina, em idoso com anemia, cálcio no limite superior, lombalgia e queda rápida da função com rins de tamanho normal, é cadeia leve monoclonal. O próximo exame é cadeias leves livres séricas com relação kappa/lambda, eletroforese e imunofixação de soro e urina; com relação muito alterada e quadro compatível, nefropatia por cilindros pode ser assumida sem biópsia.",
+  "comentarios": {
+   "A": "Errada. Estenose de artéria renal piora a função com bloqueio do sistema renina-angiotensina e cursa com rins assimétricos, não com proteinúria não albumínica.",
+   "B": "Errada. Repetir a proteinúria confirma o que já se sabe; o dado útil é a discrepância com a albuminúria.",
+   "C": "Errada. É a armadilha: a biópsia pode ser dispensada quando as cadeias leves são muito altas, e não é o primeiro passo.",
+   "D": "Correta. Proteinúria total alta com albuminúria baixa aponta cadeias leves: dosagem sérica e imunofixação primeiro."
+  },
+  "para_levar": "Proteinúria de 24 horas alta com fita negativa ou albuminúria baixa é proteína não albumina: pesquise cadeias leves antes de atribuir à hipertensão ou ao diabetes.",
+  "referencias": "IMWG criteria for multiple myeloma (Rajkumar SV et al., 2014, atualizado 2024); KDIGO 2024 Clinical Practice Guideline for CKD.",
+  "tags": [
+   "Mieloma Múltiplo (CM)",
+   "Mieloma Múltiplo e Outras Discrasias Plasmocitárias (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "S4 q66: rim do mieloma contra o rótulo da doença de base, agora hipertensão em vez de diabetes e pelo próximo exame"
+ },
+ {
+  "id": "R01-NEF-05",
+  "simulado": "R01",
+  "area": "Nefrologia",
+  "titulo": "Paralisia hipocalêmica com acidose hiperclorêmica e nefrocalcinose na síndrome sicca: acidose tubular renal distal",
+  "arma": "Negativo no meio",
+  "comando": "diagnóstico",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 38 anos, com boca e olhos secos há 3 anos, acorda com fraqueza flácida dos quatro membros, sem alteração sensitiva. Nega vômitos, diarreia, diuréticos ou laxantes. PA 112/70 mmHg. Exames: potássio 2,3 mEq/L, sódio 139 mEq/L, cloro 116 mEq/L, bicarbonato 13 mEq/L, glicemia 88 mg/dL, fosfato sérico 3,4 mg/dL, ácido úrico 4,8 mg/dL. Urina sem glicosúria e sem aminoacidúria, pH urinário de 6,8 em jejum, ânion gap urinário de +28. Ultrassonografia com nefrocalcinose medular bilateral. O diagnóstico mais provável é:",
+  "alternativas": {
+   "A": "Acidose tubular renal proximal",
+   "B": "Acidose tubular renal distal",
+   "C": "Acidose tubular renal tipo 4",
+   "D": "Síndrome de Gitelman"
+  },
+  "gabarito": "B",
+  "armadilha": "A",
+  "dado_decisivo": "pH urinário de 6,8 em jejum",
+  "resolucao": "Hipocalemia com acidose metabólica hiperclorêmica é comum às acidoses tubulares proximal e distal, e a proximal atrai por ser a das drogas e das doenças sistêmicas. O que separa é a capacidade de acidificar: na proximal, quando o bicarbonato sérico cai abaixo do limiar de reabsorção reduzido, o néfron distal intacto acidifica a urina para pH abaixo de 5,5; na distal, a urina não acidifica mesmo com bicarbonato de 13. O ânion gap urinário positivo mostra pouca excreção de amônio. Os negativos no meio (sem glicosúria, sem aminoacidúria, fosfato e ácido úrico normais) afastam a síndrome de Fanconi, e a nefrocalcinose é própria da forma distal, por hipercalciúria e hipocitratúria. No contexto sicca, a causa é síndrome de Sjögren.",
+  "comentarios": {
+   "A": "Errada. É a armadilha: a proximal acidifica a urina quando o bicarbonato está baixo e costuma vir com sinais de Fanconi, ausentes aqui.",
+   "B": "Correta. pH urinário acima de 5,5 com bicarbonato de 13, ânion gap urinário positivo e nefrocalcinose: acidose tubular distal, no Sjögren.",
+   "C": "Errada. A tipo 4 cursa com hipercalemia, e não com hipocalemia grave.",
+   "D": "Errada. Gitelman produz hipocalemia com alcalose metabólica, e não acidose."
+  },
+  "para_levar": "Acidose hiperclorêmica com hipocalemia: urina que não acidifica (pH acima de 5,5) e nefrocalcinose é tubular distal; no adulto jovem com síndrome sicca, Sjögren.",
+  "referencias": "Rodríguez Soriano J. Renal tubular acidosis: the clinical entity. J Am Soc Nephrol 2002; Brenner and Rector's The Kidney, 11ª ed. (2020).",
+  "tags": [
+   "Tubulopatias (CM)",
+   "Distúrbios Hidroeletrolíticos (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "UERJ pouco explorado: tubulopatias, acidose tubular distal no Sjögren pela acidificação urinária"
+ }
+]

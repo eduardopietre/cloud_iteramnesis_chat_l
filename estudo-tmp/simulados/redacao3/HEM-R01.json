@@ -1,0 +1,171 @@
+[
+ {
+  "id": "R01-HEM-01",
+  "simulado": "R01",
+  "area": "Hematologia",
+  "titulo": "LLC estável há 6 anos com linfonodo que cresce rápido, sintomas B e LDH alta: transformação de Richter pede biópsia guiada por PET-CT",
+  "arma": "Rótulo verdadeiro",
+  "comando": "próximo exame",
+  "nivel": "difícil",
+  "enunciado": "Homem de 66 anos, com leucemia linfocítica crônica estádio A de Binet diagnosticada há 6 anos e nunca tratada, refere há 6 semanas febre vespertina, sudorese noturna e perda de 7 kg. Notou um linfonodo cervical esquerdo que passou de 2 para 6 cm nesse período, endurecido e indolor; os demais linfonodos estão estáveis, em torno de 1,5 cm. Temperatura 38,1 °C, baço a 3 cm do rebordo. Hemograma: hemoglobina 12,4 g/dL, leucócitos 24.000/mm³ com 78% de linfócitos pequenos (estáveis em relação ao último ano), plaquetas 160.000/mm³. LDH 1.120 U/L (até 250), cálcio 10,9 mg/dL. Hemoculturas negativas e radiografia de tórax normal. O próximo exame mais adequado é:",
+  "alternativas": {
+   "A": "Biópsia excisional guiada por PET-CT",
+   "B": "Nova imunofenotipagem do sangue periférico",
+   "C": "Pesquisa de del(17p) e mutação de TP53",
+   "D": "Biópsia de medula óssea com mielograma"
+  },
+  "gabarito": "A",
+  "armadilha": "C",
+  "dado_decisivo": "passou de 2 para 6 cm nesse período",
+  "resolucao": "O diagnóstico de LLC é verdadeiro e puxa para a ideia de progressão da doença conhecida, com estudo de del(17p) e TP53 para escolher o tratamento. Mas a linfocitose está estável; o que mudou foi um único linfonodo crescendo de forma desproporcional, com sintomas B, LDH muito alta e hipercalcemia. Esse descompasso sugere transformação de Richter, em geral para linfoma difuso de grandes células B, que muda prognóstico e tratamento. O diagnóstico é histológico: a PET-CT aponta o sítio de maior captação (SUV alto) e a biópsia excisional desse linfonodo confirma a transformação. Citometria do sangue ou da medula só repete a LLC.",
+  "comentarios": {
+   "A": "Correta. Crescimento nodal assimétrico, sintomas B e LDH alta na LLC: biópsia do linfonodo de maior captação na PET-CT para confirmar Richter.",
+   "B": "Errada. A imunofenotipagem do sangue confirma a LLC, que já é conhecida e está estável; a transformação está no linfonodo.",
+   "C": "Errada. Del(17p) e TP53 orientam a escolha de terapia na LLC que vai ser tratada, mas não diagnosticam a transformação.",
+   "D": "Errada. A medula mostraria infiltração pela LLC e poderia não conter o componente transformado."
+  },
+  "para_levar": "Na LLC, um linfonodo que cresce fora de proporção com sintomas B e LDH alta é Richter até prova em contrário: PET-CT para escolher o alvo e biópsia excisional.",
+  "referencias": "iwCLL Guidelines (Hallek M et al., Blood 2018); ESMO Clinical Practice Guidelines for CLL (2024).",
+  "tags": [
+   "Leucemias (CM)",
+   "Linfomas (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "S4 q17 e S1 q42: linfoma por subtipo, agora a transformação para grandes células numa doença indolente conhecida"
+ },
+ {
+  "id": "R01-HEM-02",
+  "simulado": "R01",
+  "area": "Hematologia",
+  "titulo": "Hemólise intravascular durante pneumonia com dosagem de G6PD normal colhida na reticulocitose: deficiência de G6PD mesmo assim",
+  "arma": "Negativo no meio",
+  "comando": "diagnóstico",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 34 anos, pardo, internado por pneumonia comunitária, recebe ceftriaxona e azitromicina. No terceiro dia apresenta urina cor de coca-cola, icterícia e queda da hemoglobina de 14,2 para 8,1 g/dL. Sem uso de outras medicações, sem transfusões prévias, sem trombose. Esfregaço: hemácias com áreas de palidez excêntrica, algumas com a hemoglobina retraída para um lado, sem esferócitos em quantidade relevante. Coombs direto negativo, LDH 1.460 U/L, haptoglobina indetectável. Atividade de G6PD normal, colhida no quinto dia, com reticulócitos de 14%. Plaquetas e leucócitos normais. O diagnóstico mais provável é:",
+  "alternativas": {
+   "A": "Esferocitose hereditária",
+   "B": "Deficiência de G6PD",
+   "C": "Anemia hemolítica autoimune a quente",
+   "D": "Hemoglobinúria paroxística noturna"
+  },
+  "gabarito": "B",
+  "armadilha": "D",
+  "dado_decisivo": "Atividade de G6PD normal, colhida no quinto dia, com reticulócitos de 14%",
+  "resolucao": "Hemólise intravascular com Coombs negativo e uma dosagem de G6PD normal leva o raciocínio para hemoglobinúria paroxística noturna. Mas a dosagem foi colhida no pico da reticulocitose, e reticulócitos e hemácias jovens têm atividade de G6PD muito maior; as hemácias velhas, deficientes, já foram destruídas. Nas variantes africanas a atividade pode parecer normal nessa fase. O esfregaço com hemácias mordidas e com hemoglobina retraída para um polo (hemácias em bolha) é a marca do dano oxidativo, e a infecção é desencadeante frequente. A conduta é suspender oxidantes, tratar a infecção e repetir a dosagem cerca de 3 meses depois.",
+  "comentarios": {
+   "A": "Errada. Esferocitose dá hemólise extravascular crônica com esferócitos numerosos e CHCM alta, não hemoglobinúria aguda.",
+   "B": "Correta. Crise oxidativa com hemácias mordidas e em bolha; a dosagem normal na reticulocitose não exclui e deve ser repetida em 3 meses.",
+   "C": "Errada. Seria provável com Coombs direto positivo e esferócitos; aqui o Coombs é negativo.",
+   "D": "Errada. É a armadilha do negativo falso: HPN cursa com hemólise crônica, trombose e citopenias, e não com hemácias mordidas em crise oxidativa desencadeada por infecção."
+  },
+  "para_levar": "Dosagem de G6PD durante a hemólise aguda pode vir normal pela reticulocitose: com esfregaço oxidativo, mantenha o diagnóstico e repita após cerca de 3 meses.",
+  "referencias": "Luzzatto L, Ally M, Notaro R. Glucose-6-phosphate dehydrogenase deficiency. Blood 2020; BSH Guideline for G6PD testing (2023).",
+  "tags": [
+   "Deficiência de G6PD (CM)",
+   "Anemias Hemolíticas Hereditárias (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "S1 q61: G6PD contra HPN, agora com a dosagem falsamente normal no meio do caso e a infecção como gatilho"
+ },
+ {
+  "id": "R01-HEM-03",
+  "simulado": "R01",
+  "area": "Hematologia",
+  "titulo": "Leucemia mieloide aguda com hiperleucocitose e leucostase com hemoglobina de 6,8: adiar hemácias e citorreduzir",
+  "arma": "Grade X / Y",
+  "comando": "conduta",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 47 anos chega com dispneia progressiva há 3 dias, cefaleia e confusão mental. PA 128/76 mmHg, FC 112 bpm, FR 28 irpm, SpO2 89% em ar ambiente, temperatura 37,8 °C. Fundoscopia com hemorragias retinianas e veias tortuosas. Radiografia de tórax com infiltrado intersticial bilateral discreto. Hemograma: leucócitos 186.000/mm³ com 82% de blastos mieloides, hemoglobina 6,8 g/dL, plaquetas 18.000/mm³. Creatinina 1,6 mg/dL, potássio 4,9 mEq/L, ácido úrico 9,8 mg/dL, fibrinogênio 290 mg/dL. Sem sangramento ativo. Quanto às hemácias e à redução da carga leucêmica, a conduta mais adequada é, respectivamente:",
+  "alternativas": {
+   "A": "Transfundir 2 unidades / aguardar o mielograma",
+   "B": "Transfundir 2 unidades / leucaférese isolada",
+   "C": "Adiar hemácias / hidroxiureia e indução",
+   "D": "Transfundir 2 unidades / hidroxiureia e indução"
+  },
+  "gabarito": "C",
+  "armadilha": "D",
+  "dado_decisivo": "leucócitos 186.000/mm³ com 82% de blastos mieloides",
+  "resolucao": "Hemoglobina de 6,8 em paciente dispneico e hipoxêmico parece pedir transfusão imediata, e citorreduzir com hidroxiureia e iniciar a indução é correto. O problema é a ordem: na hiperleucocitose com leucostase (dispneia, hipoxemia, confusão, retinopatia), a viscosidade sanguínea depende do volume de blastos somado ao de hemácias. A anemia está protegendo contra a hiperviscosidade, e transfundir hemácias antes de reduzir a contagem aumenta a viscosidade e piora a leucostase. Na ausência de instabilidade hemodinâmica, adiam-se as hemácias, transfundem-se plaquetas se necessário (elas pouco alteram a viscosidade), inicia-se hidroxiureia com hidratação e profilaxia de lise, e a indução começa o quanto antes. A leucaférese, quando usada, é ponte e não substitui a citorredução química.",
+  "comentarios": {
+   "A": "Errada. Esperar o mielograma para citorreduzir na leucostase atrasa a medida que salva; a imunofenotipagem do sangue já orienta.",
+   "B": "Errada. A leucaférese tem benefício incerto e nunca é isolada; transfundir antes da citorredução piora a viscosidade.",
+   "C": "Correta. Na leucostase sem instabilidade, adiar hemácias até reduzir os blastos, com hidroxiureia e indução precoce.",
+   "D": "Errada. É a armadilha: a citorredução está certa, mas as hemácias transfundidas antes dela aumentam a viscosidade."
+  },
+  "para_levar": "Na leucostase, a anemia protege: adie concentrado de hemácias até baixar a contagem com hidroxiureia e indução, salvo instabilidade hemodinâmica.",
+  "referencias": "Röllig C, Ehninger G. How I treat hyperleukocytosis in acute myeloid leukemia. Blood 2015; ELN recommendations for AML (2022).",
+  "tags": [
+   "Leucemias (CM)",
+   "Reações Transfusionais (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "S1 q52 e S2 q32: ordem e porte da conduta na urgência hematológica, agora a transfusão que piora a viscosidade"
+ },
+ {
+  "id": "R01-HEM-04",
+  "simulado": "R01",
+  "area": "Hematologia",
+  "titulo": "Pancitopenia macrocítica com esquizócitos e LDH muito alta em usuária de metformina e omeprazol: pseudomicroangiopatia da deficiência de B12",
+  "arma": "Rótulo verdadeiro",
+  "comando": "próximo exame",
+  "nivel": "extremamente difícil",
+  "enunciado": "Mulher de 64 anos, com diabetes tipo 2 há 11 anos em uso de metformina 2 g/dia e omeprazol há 8 anos, relata cansaço há 4 meses e parestesias nos pés atribuídas à neuropatia diabética. Afebril, PA 122/70 mmHg, mucosas descoradas e subictéricas, sem déficit focal. Hemoglobina 6,9 g/dL, VCM 116 fL, leucócitos 3.100/mm³, plaquetas 62.000/mm³, esquizócitos 3%, reticulócitos 0,8%. LDH 3.400 U/L, bilirrubina indireta 2,6 mg/dL, haptoglobina indetectável, Coombs direto negativo. Creatinina 0,9 mg/dL, coagulograma normal. A residente sugere iniciar plasmaférese pela microangiopatia. O próximo exame mais adequado é:",
+  "alternativas": {
+   "A": "Cariótipo da medula óssea",
+   "B": "Atividade de ADAMTS13",
+   "C": "Pesquisa de clone HPN",
+   "D": "Cobalamina e ácido metilmalônico"
+  },
+  "gabarito": "D",
+  "armadilha": "B",
+  "dado_decisivo": "reticulócitos 0,8%",
+  "resolucao": "Esquizócitos, plaquetopenia, LDH alta e haptoglobina indetectável são verdadeiros e montam a figura de púrpura trombocitopênica trombótica, com plaquetas e ADAMTS13 como passo seguinte. Mas na PTT a medula responde à hemólise com reticulocitose, e aqui os reticulócitos estão baixos: a destruição é intramedular, por eritropoese ineficaz. Macrocitose acentuada, pancitopenia, LDH desproporcionalmente alta e parestesias apontam para deficiência de cobalamina, e a paciente usa as duas drogas que a causam por anos (metformina e inibidor de bomba). O exame que resolve é cobalamina sérica com ácido metilmalônico (e homocisteína), que confirmam a deficiência mesmo com B12 limítrofe. É a causa secundária a excluir antes de qualquer rótulo de microangiopatia ou de mielodisplasia.",
+  "comentarios": {
+   "A": "Errada. Cariótipo entraria na suspeita de mielodisplasia depois de excluir causas carenciais e drogas; a deficiência de B12 também produz displasia.",
+   "B": "Errada. É a armadilha: PTT tem reticulocitose, e aqui a reticulocitopenia aponta eritropoese ineficaz, não destruição periférica.",
+   "C": "Errada. HPN cursa com hemólise e reticulocitose, sem macrocitose acentuada nem parestesias.",
+   "D": "Correta. Macrocitose, pancitopenia, LDH muito alta com reticulócitos baixos e duas drogas que reduzem a absorção de B12."
+  },
+  "para_levar": "Esquizócitos com LDH altíssima e reticulócitos baixos sugerem pseudomicroangiopatia por deficiência de B12: dose cobalamina e ácido metilmalônico antes de plasmaférese ou de rotular mielodisplasia.",
+  "referencias": "Noël N et al. Pseudo-thrombotic microangiopathy in vitamin B12 deficiency (2004); ADA Standards of Care in Diabetes (2026), seção 9 (B12 em uso de metformina).",
+  "tags": [
+   "Anemia Megalobástica (CM)",
+   "Púrpura Trombocitopênica Trombótica (PTT) (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "S2 q61: causa secundária (carência induzida por droga) antes do rótulo, agora PTT em vez de SMD"
+ },
+ {
+  "id": "R01-HEM-05",
+  "simulado": "R01",
+  "area": "Hematologia",
+  "titulo": "Febre alta com calafrios e hipotensão durante transfusão de plaquetas em quem já teve reação febril: contaminação bacteriana da bolsa",
+  "arma": "Limiar",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 52 anos, em indução de leucemia mieloide aguda, tem duas reações febris não hemolíticas registradas em transfusões anteriores de plaquetas. Hoje, após pré-medicação com paracetamol, recebe uma unidade de plaquetas por aférese armazenada há 5 dias. Aos 20 minutos de infusão, apresenta calafrios intensos e a temperatura sobe de 37,0 para 39,6 °C; PA 82/44 mmHg, FC 128 bpm, SpO2 95% em ar ambiente, sem urticária, sem sibilos, sem dor lombar. A infusão foi interrompida e a identificação da bolsa confere. Além da expansão volêmica, a conduta mais adequada é:",
+  "alternativas": {
+   "A": "Hemoculturas da paciente e da bolsa e antibiótico amplo",
+   "B": "Antitérmico e reiniciar a infusão mais lenta",
+   "C": "Coombs direto e diurese forçada com salina",
+   "D": "Adrenalina intramuscular e anti-histamínico"
+  },
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "a temperatura sobe de 37,0 para 39,6 °C; PA 82/44 mmHg",
+  "resolucao": "Duas reações febris não hemolíticas anteriores são verdadeiras e convidam a repetir o rótulo e reiniciar a transfusão com antitérmico. O que muda tudo é a intensidade: elevação de 2 °C ou mais, calafrios intensos e hipotensão logo no início da infusão. Plaquetas são armazenadas à temperatura ambiente e são o hemocomponente com maior risco de contaminação bacteriana, que cresce com o tempo de armazenamento. A conduta é não reinfundir, colher hemoculturas da paciente e cultura e Gram da bolsa (que vai ao banco de sangue), iniciar antibiótico de amplo espectro e notificar, para recolher outros componentes do mesmo doador. Sem identificação errada, sem dor lombar e com hemólise ainda não demonstrada, a hemolítica aguda é menos provável, mas o rastreio laboratorial é feito em paralelo.",
+  "comentarios": {
+   "A": "Correta. Febre de 2 °C ou mais com calafrios e hipotensão durante transfusão de plaquetas: contaminação bacteriana, com culturas da paciente e da bolsa e antibiótico.",
+   "B": "Errada. É a armadilha da reação febril prévia: com hipotensão e febre de 2,6 °C, reiniciar é transfundir bactéria.",
+   "C": "Errada. Seria a abordagem da hemolítica aguda por incompatibilidade ABO, mais comum com hemácias e erro de identificação, que foi conferida.",
+   "D": "Errada. A anafilaxia cursa com urticária, broncoespasmo ou angioedema, e não com febre alta e calafrios."
+  },
+  "para_levar": "Febre com elevação de 2 °C ou mais, calafrios e hipotensão durante transfusão, sobretudo de plaquetas, é sepse transfusional até prova em contrário: parar, cultivar paciente e bolsa e tratar.",
+  "referencias": "Ministério da Saúde, Guia para Uso de Hemocomponentes (2015) e Marco Conceitual de Hemovigilância (2022); AABB Technical Manual, 21ª ed. (2023).",
+  "tags": [
+   "Reações Transfusionais (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "S3 q70: reação transfusional diagnosticada pelo dado que separa os tipos, agora contaminação bacteriana contra o rótulo de reação febril"
+ }
+]

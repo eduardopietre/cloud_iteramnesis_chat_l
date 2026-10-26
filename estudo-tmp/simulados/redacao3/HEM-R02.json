@@ -1,0 +1,170 @@
+[
+ {
+  "id": "R02-HEM-01",
+  "simulado": "R02",
+  "area": "Hematologia",
+  "titulo": "Linfoma folicular com linfonodos pequenos e derrame pleural: alta carga tumoral pelo GELF, imunoquimioterapia",
+  "arma": "Grade X / Y",
+  "comando": "conduta",
+  "nivel": "extremamente difícil",
+  "enunciado": "Mulher de 58 anos, assintomática, sem febre, sudorese ou perda de peso, notou linfonodos cervicais e axilares há 8 meses. TC: linfonodomegalias cervicais, axilares, mediastinais e retroperitoneais, todas abaixo de 3 cm (a maior com 2,9 cm), baço de 12 cm e derrame pleural direito moderado, cuja citologia mostra linfócitos B pequenos clonais. Hemoglobina 12,8 g/dL, leucócitos 6.900/mm³, plaquetas 188.000/mm³, LDH 210 U/L (até 250). Biópsia excisional axilar: padrão nodular, CD20+, CD10+, BCL2+, BCL6+, CD5 negativo, ciclina D1 negativa, grau 1 a 2. O diagnóstico e a conduta mais adequados são, respectivamente:",
+  "alternativas": {
+   "A": "Linfoma do manto / ibrutinibe",
+   "B": "Linfoma folicular / observação vigilante",
+   "C": "Linfoma de zona marginal / rituximabe isolado",
+   "D": "Linfoma folicular / imunoquimioterapia com anti-CD20"
+  },
+  "gabarito": "D",
+  "armadilha": "B",
+  "dado_decisivo": "derrame pleural direito moderado",
+  "resolucao": "O imunofenótipo (CD10+, BCL2+, BCL6+, CD5 e ciclina D1 negativos) e o padrão nodular definem linfoma folicular, e paciente assintomática com linfonodos todos abaixo de 3 cm e LDH normal parece candidata à observação vigilante. Os critérios do GELF, porém, não se limitam ao tamanho dos linfonodos: qualquer um deles (três ou mais sítios acima de 3 cm, massa acima de 7 cm, sintomas B, esplenomegalia sintomática, compressão de órgão, derrame seroso, citopenias, leucemização ou LDH alta) indica alta carga tumoral. O derrame pleural com células clonais basta. Com alta carga, a indicação é tratar com anti-CD20 associado a quimioterapia (bendamustina ou CHOP), seguido de manutenção conforme a resposta.",
+  "comentarios": {
+   "A": "Errada. O manto é CD5+ e ciclina D1+; aqui ambos são negativos.",
+   "B": "Errada. É a armadilha do tamanho: os linfonodos são pequenos, mas derrame pleural é critério GELF de alta carga.",
+   "C": "Errada. A zona marginal é CD10 negativo; o CD10 e o BCL6 positivos apontam para o centro germinativo.",
+   "D": "Correta. Folicular pelo imunofenótipo, com alta carga pelo derrame seroso: imunoquimioterapia com anti-CD20."
+  },
+  "para_levar": "No linfoma folicular, um único critério GELF (inclusive derrame seroso ou citopenia) tira o paciente da observação vigilante, mesmo com linfonodos pequenos.",
+  "referencias": "ESMO Clinical Practice Guidelines for newly diagnosed and relapsed follicular lymphoma (2021); NCCN B-Cell Lymphomas (2026).",
+  "tags": [
+   "Linfomas (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "S2 q5: carga tumoral do folicular, agora o critério GELF fora do tamanho dos linfonodos invertendo a conduta"
+ },
+ {
+  "id": "R02-HEM-02",
+  "simulado": "R02",
+  "area": "Hematologia",
+  "titulo": "Pneumocistose grave com alergia grave à sulfa e deficiência de G6PD: pentamidina intravenosa",
+  "arma": "Negativo no meio",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Homem de 39 anos, vivendo com HIV, sem tratamento antirretroviral, CD4 de 42 células/mm³, chega com tosse seca e dispneia progressiva há 3 semanas. Teve síndrome de Stevens-Johnson por sulfametoxazol-trimetoprima há 2 anos. FR 30 irpm, SpO2 86% em ar ambiente, PaO2 de 56 mmHg. TC com vidro fosco difuso bilateral; PCR para Pneumocystis jirovecii positiva no escarro induzido. Em internação anterior, atividade de G6PD de 8% do normal, dosada fora de crise hemolítica. Creatinina 0,9 mg/dL, glicemia 98 mg/dL, ECG com QTc de 430 ms. Prednisona já foi iniciada. O tratamento antimicrobiano mais adequado é:",
+  "alternativas": {
+   "A": "Atovaquona oral",
+   "B": "Dapsona com trimetoprima",
+   "C": "Pentamidina intravenosa",
+   "D": "Primaquina com clindamicina"
+  },
+  "gabarito": "C",
+  "armadilha": "D",
+  "dado_decisivo": "atividade de G6PD de 8% do normal",
+  "resolucao": "Com a sulfa proibida pela síndrome de Stevens-Johnson, a alternativa de manual para pneumocistose moderada a grave é primaquina com clindamicina. A primaquina, porém, é oxidante e provoca hemólise grave na deficiência de G6PD, documentada aqui fora de crise; a dapsona tem o mesmo problema e ainda reação cruzada com sulfa. A atovaquona tem absorção irregular e só é opção na forma leve a moderada, e a PaO2 de 56 mmHg define doença grave. Resta a pentamidina intravenosa, com monitorização de glicemia, função renal, pâncreas e QT, que estão normais no início.",
+  "comentarios": {
+   "A": "Errada. A atovaquona é reservada à forma leve a moderada; PaO2 abaixo de 70 mmHg é grave.",
+   "B": "Errada. Dapsona é oxidante e tem reação cruzada com sulfa; contraindicada pelos dois dados.",
+   "C": "Correta. Forma grave, sulfa e oxidantes proibidos: pentamidina intravenosa, vigiando glicemia, creatinina e QT.",
+   "D": "Errada. É a armadilha: seria a alternativa na forma grave sem deficiência de G6PD, mas a primaquina causa hemólise oxidativa."
+  },
+  "para_levar": "Antes de primaquina ou dapsona, cheque a G6PD; na pneumocistose grave com sulfa e oxidantes proibidos, a opção é pentamidina intravenosa.",
+  "referencias": "NIH/CDC/IDSA Guidelines for the Prevention and Treatment of Opportunistic Infections in Adults with HIV, Pneumocystis (atualização 2024); Ministério da Saúde, PCDT HIV em adultos (2024).",
+  "tags": [
+   "Deficiência de G6PD (CM)",
+   "Pneumocistose (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "S1 q87 e S1 q61: G6PD como droga em uso a cruzar, agora escolhendo o antimicrobiano"
+ },
+ {
+  "id": "R02-HEM-03",
+  "simulado": "R02",
+  "area": "Hematologia",
+  "titulo": "Queda bifásica de plaquetas após revascularização com circulação extracorpórea: HIT pelo segundo vale, anticoagulante não heparínico sem esperar o anti-PF4",
+  "arma": "Cronologia",
+  "comando": "conduta",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 68 anos foi submetido a revascularização miocárdica com circulação extracorpórea e recebe enoxaparina profilática desde o primeiro dia pós-operatório. Plaquetas: 210.000/mm³ antes da cirurgia, 95.000/mm³ no segundo dia, 180.000/mm³ no quarto dia e 62.000/mm³ no sétimo dia. Sem sangramento, sem sinais de trombose ao exame e sem infecção identificada; não recebeu outros fármacos novos. Clearance de creatinina de 78 mL/min, função hepática normal. O ensaio anti-PF4 foi colhido e o resultado sai em 48 horas. A conduta mais adequada agora é:",
+  "alternativas": {
+   "A": "Manter a enoxaparina e aguardar o anti-PF4",
+   "B": "Fondaparinux em dose terapêutica",
+   "C": "Varfarina com transfusão de plaquetas",
+   "D": "Suspender a heparina sem anticoagular"
+  },
+  "gabarito": "B",
+  "armadilha": "D",
+  "dado_decisivo": "62.000/mm³ no sétimo dia",
+  "resolucao": "A queda de plaquetas logo após circulação extracorpórea é esperada (hemodiluição e consumo no circuito) e se recupera em 3 a 4 dias; ela não pontua para HIT. O que importa é o segundo vale: plaquetas que voltaram ao normal e caem de novo mais de 50% entre o quinto e o décimo dia sob heparina, sem outra causa, dão escore 4T alto (6 pontos). Com probabilidade pré-teste alta não se espera o resultado: suspende-se toda heparina e inicia-se anticoagulante não heparínico em dose terapêutica, porque o risco de trombose na HIT isolada é de até 50%. Com função renal preservada, fondaparinux é opção adequada. Apenas suspender sem anticoagular deixa o paciente exposto à trombose, e varfarina na fase aguda provoca necrose e gangrena venosa.",
+  "comentarios": {
+   "A": "Errada. Manter heparina com escore 4T alto enquanto espera o teste expõe o paciente à trombose.",
+   "B": "Correta. Segundo vale de plaquetas entre o quinto e o décimo dia: 4T alto, suspender heparina e anticoagular com fondaparinux, com clearance preservado.",
+   "C": "Errada. Varfarina é contraindicada na fase aguda e plaquetas só se transfundem com sangramento ou procedimento de alto risco.",
+   "D": "Errada. É a armadilha do porte: HIT sem trombose aparente ainda exige anticoagulação terapêutica não heparínica."
+  },
+  "para_levar": "Após circulação extracorpórea, o primeiro vale de plaquetas é esperado; a queda de novo entre o quinto e o décimo dia é HIT, e com 4T alto anticoagula-se sem heparina antes do resultado.",
+  "referencias": "ASH Guidelines for management of venous thromboembolism: heparin-induced thrombocytopenia (Cuker A et al., Blood Adv 2018); Warkentin TE. Biphasic platelet count profile after cardiac surgery.",
+  "tags": [
+   "Trombocitopenia Induzida por heparina (HIT) (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "S1 q97: HIT com escolha e porte do anticoagulante, agora pela cronologia bifásica da cirurgia cardíaca"
+ },
+ {
+  "id": "R02-HEM-04",
+  "simulado": "R02",
+  "area": "Hematologia",
+  "titulo": "Cateter venoso central guiado por ultrassom com 24.000 plaquetas na quimioterapia: sem transfusão profilática",
+  "arma": "Limiar",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 41 anos, no décimo dia de indução para leucemia mieloide aguda, precisa de um cateter venoso central não tunelizado em veia jugular interna para nutrição e antibióticos, porque o cateter anterior foi retirado por trombose. Sem sangramento cutâneo ou mucoso, afebril, PA 118/72 mmHg. Plaquetas 24.000/mm³, hemoglobina 8,4 g/dL, INR 1,2, TTPa normal, fibrinogênio 340 mg/dL. Um intensivista experiente fará a punção guiada por ultrassom. O residente propõe transfundir plaquetas até 50.000/mm³ antes do procedimento. A conduta mais adequada é:",
+  "alternativas": {
+   "A": "Inserir guiado por ultrassom sem transfundir",
+   "B": "Transfundir uma dose de plaquetas antes",
+   "C": "Transfundir até plaquetas acima de 50.000",
+   "D": "Adiar até recuperação espontânea das plaquetas"
+  },
+  "gabarito": "A",
+  "armadilha": "C",
+  "dado_decisivo": "Plaquetas 24.000/mm³",
+  "resolucao": "A plaquetopenia da quimioterapia assusta, e 50.000 é um limiar que o aluno conhece para procedimentos. Mas os limiares variam com o porte e o sítio: 100.000 para neurocirurgia, cerca de 50.000 para punção lombar e cirurgia de maior porte, e 20.000 para cateter venoso central não tunelizado em sítio compressível, com punção guiada por ultrassom. Ensaios recentes mostraram que, mesmo entre 10.000 e 50.000, a transfusão profilática reduz pouco o sangramento e expõe a reações; a recomendação é transfundir abaixo de 10.000 a 20.000 conforme a diretriz. Com 24.000, coagulograma normal e ultrassom, o cateter é inserido sem transfusão.",
+  "comentarios": {
+   "A": "Correta. Acima de 20.000, com coagulograma normal e punção guiada por ultrassom em sítio compressível, não há indicação de transfusão profilática.",
+   "B": "Errada. Seria indicada abaixo de 10.000 a 20.000 plaquetas; com 24.000 só aumenta exposição e consumo de hemocomponente.",
+   "C": "Errada. É a armadilha do limiar: 50.000 é para procedimento de maior porte ou punção lombar, não para cateter guiado em jugular.",
+   "D": "Errada. Adiar priva a paciente de acesso necessário; a recuperação medular leva semanas."
+  },
+  "para_levar": "Limiares de plaquetas por procedimento: cateter central guiado por ultrassom, 20.000; punção lombar, 40.000 a 50.000; cirurgia maior, 50.000; neurocirurgia, 100.000.",
+  "referencias": "AABB International Guidelines for Platelet Transfusion (Metcalf RA et al., 2025); BSH Guidelines for the use of platelet transfusions (2017); van Baarle FLF et al. PACER trial, NEJM 2023.",
+  "tags": [
+   "Leucemias (CM)",
+   "Reações Transfusionais (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "S2 q32: limiar de plaquetas pelo porte do procedimento, agora no sentido oposto (exagero no estável)"
+ },
+ {
+  "id": "R02-HEM-05",
+  "simulado": "R02",
+  "area": "Hematologia",
+  "titulo": "Recorrência de trombose sob rivaroxabana após remédio para dor facial em choques: indução pela carbamazepina, trocar para varfarina",
+  "arma": "Droga a deduzir",
+  "comando": "conduta",
+  "nivel": "extremamente difícil",
+  "enunciado": "Mulher de 48 anos teve tromboembolismo pulmonar não provocado há 4 meses e usa rivaroxabana 20 mg uma vez ao dia, sempre no jantar, com adesão confirmada pela contagem de comprimidos. Há 6 semanas, o neurologista iniciou um medicamento para crises de dor em choque na hemiface direita desencadeadas ao escovar os dentes, com boa resposta; a dose foi aumentada há 2 semanas. Agora apresenta edema doloroso da perna esquerda, e o duplex mostra trombose femoral nova. Peso 68 kg, clearance de creatinina 92 mL/min, plaquetas 210.000/mm³, sem câncer na investigação. A conduta mais adequada para a anticoagulação é:",
+  "alternativas": {
+   "A": "Aumentar a rivaroxabana para 30 mg/dia",
+   "B": "Trocar para apixabana em dose plena",
+   "C": "Implantar filtro de veia cava inferior",
+   "D": "Trocar para varfarina com ponte de heparina"
+  },
+  "gabarito": "D",
+  "armadilha": "B",
+  "dado_decisivo": "crises de dor em choque na hemiface direita desencadeadas ao escovar os dentes",
+  "resolucao": "Recorrência com adesão confirmada sugere falha do anticoagulante, e trocar por outro anticoagulante oral direto parece a saída lógica. A pista está no medicamento para neuralgia do trigêmeo: a carbamazepina, primeira escolha, é indutora potente do CYP3A4 e da glicoproteína P, e reduz os níveis de rivaroxabana, apixabana, edoxabana e dabigatrana a ponto de perder eficácia; trocar de um direto por outro não resolve. A cronologia (trombose semanas após iniciar e aumentar a dose) fecha a interação. Se a carbamazepina for mantida, o anticoagulante deve ser um cujo efeito se mede e se ajusta: heparina de baixo peso como ponte e varfarina guiada pelo INR, que também sofre indução mas é titulável. Aumentar a dose do direto não tem respaldo e o filtro só entra com contraindicação à anticoagulação.",
+  "comentarios": {
+   "A": "Errada. Dobrar a dose do anticoagulante direto não compensa a indução de forma previsível e não tem respaldo em diretriz.",
+   "B": "Errada. É a armadilha: a apixabana sofre a mesma indução de CYP3A4 e glicoproteína P pela carbamazepina.",
+   "C": "Errada. Filtro de cava é para quem não pode anticoagular; aqui o problema é farmacocinético e tem solução.",
+   "D": "Correta. Com indutor potente mantido, varfarina ajustada pelo INR com ponte de heparina garante anticoagulação mensurável."
+  },
+  "para_levar": "Carbamazepina, fenitoína, fenobarbital e rifampicina tornam os anticoagulantes orais diretos ineficazes: com o indutor mantido, use varfarina guiada pelo INR ou heparina de baixo peso.",
+  "referencias": "EHRA Practical Guide on the use of NOACs in AF (2021); ISTH SSC Guidance on DOAC drug interactions (2024); bulas de rivaroxabana e apixabana.",
+  "tags": [
+   "Anticoagulação (CM)",
+   "Trombose Venosa Profunda (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "S3 q28: interação de drogas com a droga a deduzir pelo quadro, agora indutor enzimático contra anticoagulante direto"
+ }
+]

@@ -1,0 +1,136 @@
+[
+ {
+  "id": "R02-GAS-01",
+  "simulado": "R02",
+  "area": "Gastroenterologia e hepatologia",
+  "titulo": "HDA varicosa com Child-Pugh de 14 pontos: TIPS preemptivo fútil, terapia padrão",
+  "arma": "Limiar",
+  "comando": "conduta",
+  "nivel": "extremamente difícil",
+  "enunciado": "Mulher de 58 anos, com cirrose alcoólica e etilismo mantido até a internação, chega com hematêmese e melena. Recebeu terlipressina, ceftriaxona e, em 8 horas, ligadura elástica de varizes esofágicas com hemostasia. Está sonolenta, desorientada no tempo e com flapping (encefalopatia grau 2), com ascite volumosa e tensa. PA 104/62 mmHg, FC 98 bpm. Exames: bilirrubina 6,2 mg/dL, albumina 2,4 g/dL, INR 2,6, creatinina 1,3 mg/dL, sódio 129 mEq/L. Ecocardiograma com função ventricular normal e pressão sistólica pulmonar estimada em 30 mmHg. O plantonista lembra que o TIPS preemptivo reduz mortalidade no Child C. A conduta mais adequada para a hipertensão portal neste momento é:",
+  "alternativas": {
+   "A": "Derivação portossistêmica cirúrgica",
+   "B": "Terlipressina por 5 dias e ligaduras seriadas",
+   "C": "TIPS preemptivo com prótese recoberta",
+   "D": "Obliteração retrógrada transvenosa por balão"
+  },
+  "gabarito": "B",
+  "armadilha": "C",
+  "dado_decisivo": "bilirrubina 6,2 mg/dL, albumina 2,4 g/dL, INR 2,6",
+  "resolucao": "Child C com hemorragia varicosa é a situação em que o aluno aprendeu a indicar TIPS preemptivo, e o plantonista reforça essa ideia. A conta, porém, precisa ser feita: bilirrubina acima de 3 (3 pontos), albumina abaixo de 2,8 (3), INR acima de 2,3 (3), ascite volumosa (3) e encefalopatia grau 2 (2) somam 14 pontos. Os estudos que sustentam o TIPS preemptivo incluíram Child C de 10 a 13 pontos; com 14 ou 15 pontos a mortalidade continua proibitiva com ou sem TIPS, e a derivação ainda agrava a encefalopatia e pode precipitar insuficiência hepática. O Baveno VII restringe a indicação ao Child C abaixo de 14 pontos. Fica a terapia padrão: terlipressina por 2 a 5 dias, antibiótico e ligaduras seriadas, com discussão de prognóstico e de transplante.",
+  "comentarios": {
+   "A": "Errada. Derivação cirúrgica tem mortalidade proibitiva no Child C e foi abandonada no sangramento agudo.",
+   "B": "Correta. Com 14 pontos o TIPS preemptivo não é indicado: vasoconstritor, antibiótico e ligaduras seriadas.",
+   "C": "Errada. É a armadilha do Child C: o benefício foi demonstrado entre 10 e 13 pontos, e esta paciente soma 14.",
+   "D": "Errada. A obliteração retrógrada se usa em varizes gástricas com shunt gastrorrenal, não em varizes esofágicas já ligadas."
+  },
+  "para_levar": "TIPS preemptivo tem faixa: Child C de 10 a 13 pontos (ou B acima de 7 com sangramento ativo). Com 14 ou 15 pontos ele é fútil e piora a encefalopatia.",
+  "referencias": "de Franchis R et al. Baveno VII: Renewing consensus in portal hypertension. J Hepatol 2022.",
+  "tags": [
+   "HDA varicosa (CM)",
+   "Hipertensão Portal (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "S4 q33 e S3 q79: limites do TIPS, agora a faixa superior do Child-Pugh em que o preemptivo deixa de valer"
+ },
+ {
+  "id": "R02-GAS-02",
+  "simulado": "R02",
+  "area": "Gastroenterologia e hepatologia",
+  "titulo": "Encefalopatia hepática recorrente com função hepática preservada apesar de lactulose e rifaximina: procurar shunt portossistêmico espontâneo",
+  "arma": "Omissão",
+  "comando": "próximo exame",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 61 anos, com cirrose por hepatite C tratada com resposta virológica sustentada há 3 anos, é internado pelo terceiro episódio de encefalopatia hepática grau 2 em 8 meses. Usa lactulose com 2 a 3 evacuações pastosas ao dia, confirmadas pela esposa, e rifaximina há 5 meses. Em todas as internações não se achou infecção, sangramento, distúrbio eletrolítico, uso de sedativo, constipação ou hipoglicemia. Child-Pugh A6, MELD 9, sem ascite. Ultrassonografia com Doppler: fígado de contornos irregulares, baço de 15 cm, veia porta pérvia de calibre reduzido. TSH e B12 normais. O próximo exame mais adequado é:",
+  "alternativas": {
+   "A": "Ressonância de crânio com espectroscopia",
+   "B": "Eletroencefalograma",
+   "C": "Angiotomografia do abdome",
+   "D": "Amônia sérica arterial"
+  },
+  "gabarito": "C",
+  "armadilha": "D",
+  "dado_decisivo": "Child-Pugh A6, MELD 9, sem ascite",
+  "resolucao": "Encefalopatia que volta apesar de lactulose bem tomada e rifaximina costuma levar a dosar amônia ou a procurar outra causa no sistema nervoso central. O dado que destoa é a função hepática quase normal: encefalopatia recorrente sem fator precipitante num Child A com MELD 9 sugere que o sangue portal chega à circulação sistêmica por um desvio, e não por falência hepatocelular. A veia porta de calibre reduzido com baço grande reforça a hipótese de shunt portossistêmico espontâneo calibroso (esplenorrenal, gastrorrenal, umbilical). A angiotomografia do abdome identifica o shunt, e a embolização dele em paciente com função hepática preservada reduz as recorrências.",
+  "comentarios": {
+   "A": "Errada. Ressonância de crânio entra quando o quadro neurológico não é compatível com encefalopatia hepática; aqui os episódios responderam ao tratamento.",
+   "B": "Errada. O eletroencefalograma ajuda a graduar ou excluir estado de mal não convulsivo, mas não explica a recorrência.",
+   "C": "Correta. Recorrência sem precipitante com Child A e MELD baixo: pesquisar shunt portossistêmico espontâneo para embolização.",
+   "D": "Errada. A amônia não muda a conduta numa encefalopatia já caracterizada e não aponta a causa da recorrência."
+  },
+  "para_levar": "Encefalopatia hepática recorrente apesar de lactulose e rifaximina, com função hepática preservada, é shunt portossistêmico espontâneo até prova em contrário: angiotomografia e embolização.",
+  "referencias": "EASL Clinical Practice Guidelines on the management of hepatic encephalopathy (2022); AASLD/EASL Practice Guideline Hepatic Encephalopathy (2014).",
+  "tags": [
+   "Encefalopatia Hepática (CM)",
+   "Hipertensão Portal (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "S4 q69: escalonamento na encefalopatia recorrente, agora o passo depois da rifaximina"
+ },
+ {
+  "id": "R02-GAS-03",
+  "simulado": "R02",
+  "area": "Gastroenterologia e hepatologia",
+  "titulo": "Insuficiência hepática aguda com hemólise após antibiótico e ceruloplasmina normal: doença de Wilson pela fosfatase alcalina baixa",
+  "arma": "Rótulo verdadeiro",
+  "comando": "diagnóstico",
+  "nivel": "extremamente difícil",
+  "enunciado": "Mulher de 19 anos, previamente hígida, apresenta icterícia progressiva há 10 dias; 2 semanas antes usou amoxicilina com clavulanato por 7 dias para sinusite. Está sonolenta, com flapping, afebril, PA 108/66 mmHg. Exames: hemoglobina 8,1 g/dL, reticulócitos 9%, Coombs direto negativo, LDH 980 U/L, AST 410 U/L, ALT 160 U/L, bilirrubina total 28 mg/dL (indireta 9), fosfatase alcalina 18 U/L (40 a 130), INR 3,4, creatinina 1,9 mg/dL. Ceruloplasmina 24 mg/dL (20 a 60), FAN 1:80 padrão pontilhado fino, IgG 1.500 mg/dL, sorologias para hepatites A, B, C e E negativas. O plantonista não viu anéis corneanos à lanterna. O diagnóstico mais provável é:",
+  "alternativas": {
+   "A": "Hepatite herpética disseminada",
+   "B": "Hepatite autoimune fulminante",
+   "C": "Hepatite por amoxicilina-clavulanato",
+   "D": "Doença de Wilson"
+  },
+  "gabarito": "D",
+  "armadilha": "C",
+  "dado_decisivo": "fosfatase alcalina 18 U/L (40 a 130)",
+  "resolucao": "A exposição recente a amoxicilina-clavulanato é verdadeira e é a causa medicamentosa mais comum de lesão hepática, mas ela provoca padrão colestático ou misto, com fosfatase alcalina alta. Aqui a fosfatase está abaixo da referência, a relação fosfatase/bilirrubina é menor que 4 e a relação AST/ALT é maior que 2,2: combinação que identifica a forma fulminante da doença de Wilson com alta acurácia, junto com a hemólise Coombs negativo causada pela liberação de cobre. A ceruloplasmina normal não afasta, porque é reagente de fase aguda e cai na insuficiência hepática de qualquer causa, perdendo valor nos dois sentidos; anéis de Kayser-Fleischer exigem lâmpada de fenda e podem faltar. A forma fulminante tem indicação de transplante de urgência.",
+  "comentarios": {
+   "A": "Errada. Herpes disseminado dá transaminases muito altas, febre e pouca icterícia, sem fosfatase baixa.",
+   "B": "Errada. FAN em título baixo é inespecífico, a IgG é normal e a hepatite autoimune não explica fosfatase baixa e hemólise.",
+   "C": "Errada. É o rótulo verdadeiro: a lesão por amoxicilina-clavulanato é colestática ou mista, com fosfatase alta, e não cursa com hemólise.",
+   "D": "Correta. Fosfatase alcalina baixa, relação fosfatase/bilirrubina menor que 4, AST/ALT maior que 2,2 e hemólise Coombs negativo."
+  },
+  "para_levar": "Insuficiência hepática aguda em jovem com hemólise Coombs negativo e fosfatase alcalina baixa é doença de Wilson; ceruloplasmina normal não exclui.",
+  "referencias": "AASLD Practice Guidance on Wilson disease (2022); EASL-ERN Clinical Practice Guidelines on Wilson's disease (2025).",
+  "tags": [
+   "Wilson (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "S3 q29: Wilson reconhecido pela fosfatase alcalina baixa, agora contra o rótulo de hepatite medicamentosa e com ceruloplasmina normal"
+ },
+ {
+  "id": "R02-GAS-04",
+  "simulado": "R02",
+  "area": "Gastroenterologia e hepatologia",
+  "titulo": "Acalasia tipo I na manometria em tabagista idoso com disfagia curta e cárdia resistente: pseudoacalasia antes de qualquer miotomia",
+  "arma": "Grade X / Y",
+  "comando": "próximo exame",
+  "nivel": "difícil",
+  "enunciado": "Homem de 69 anos, tabagista de 50 maços-ano, procura atendimento por disfagia para sólidos e líquidos com regurgitação noturna e perda de 10 kg em 4 meses. Nega pirose prévia. Ao exame, emagrecido, sem linfonodomegalias palpáveis, abdome sem massas. Esofagografia: esôfago dilatado com afilamento distal em bico de pássaro. Manometria de alta resolução: relaxamento incompleto da junção esofagogástrica com aperistalse sem pressurização, padrão de acalasia tipo I. Endoscopia: mucosa sem lesões, com resistência firme à passagem do aparelho pela cárdia, que só cede com pressão. A hipótese principal e o próximo passo são, respectivamente:",
+  "alternativas": {
+   "A": "Pseudoacalasia / ecoendoscopia e TC",
+   "B": "Acalasia idiopática / miotomia endoscópica",
+   "C": "Acalasia idiopática / dilatação pneumática",
+   "D": "Esofagite eosinofílica / biópsias seriadas"
+  },
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "perda de 10 kg em 4 meses",
+  "resolucao": "A manometria preenche critério de acalasia, e o tratamento moderno (miotomia endoscópica) parece o passo natural. A manometria, porém, não distingue acalasia idiopática de pseudoacalasia, em que um tumor da cárdia ou infiltração extrínseca produz o mesmo padrão. Os sinais de alarme são idade acima de 60 anos, história curta (menos de 1 ano), perda de peso importante e resistência à passagem do endoscópio pela cárdia; aqui estão todos, num tabagista. Antes de dilatar ou cortar, a ecoendoscopia da cárdia e a TC de tórax e abdome buscam o tumor que a mucosa normal não mostra.",
+  "comentarios": {
+   "A": "Correta. Idoso, disfagia de 4 meses, emagrecimento e cárdia resistente: pseudoacalasia até prova em contrário, com ecoendoscopia e TC.",
+   "B": "Errada. Seria a escolha na acalasia idiopática confirmada, sobretudo tipo III; aqui operar sem excluir tumor atrasa o diagnóstico de câncer.",
+   "C": "Errada. A dilatação na pseudoacalasia não trata a causa e pode perfurar uma cárdia infiltrada.",
+   "D": "Errada. Esofagite eosinofílica dá impactação alimentar em jovem atópico, sem padrão manométrico de acalasia."
+  },
+  "para_levar": "Acalasia na manometria com idade acima de 60, disfagia de menos de 1 ano, emagrecimento e cárdia que resiste ao aparelho pede ecoendoscopia e TC antes do tratamento.",
+  "referencias": "ACG Clinical Guidelines: Diagnosis and Management of Achalasia (2020); Chicago Classification v4.0 (2021).",
+  "tags": [
+   "Disfagias, Esofagite Eosinofílica e Acalasias (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "S3 q6: pseudoacalasia pelos sinais de alarme, agora em acalasia tipo I e com grade hipótese / próximo passo"
+ }
+]
