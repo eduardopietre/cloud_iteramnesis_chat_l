@@ -1,0 +1,206 @@
+[
+ {
+  "id": "R04-REU-01",
+  "simulado": "R04",
+  "area": "Reumatologia",
+  "titulo": "Dacrioadenite bilateral com plasmócitos IgG4 positivos e IgG4 sérica alta, mas com necrose geográfica e microabscessos: granulomatose com poliangeíte",
+  "arma": "Rótulo verdadeiro",
+  "comando": "diagnóstico",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 49 anos apresenta há 6 meses aumento indolor e bilateral das glândulas lacrimais, com proptose leve à esquerda. Tem rinossinusite crônica com crostas e epistaxe ocasional, tratada com três cursos de antibiótico sem melhora. Nega asma, perda de peso ou xerostomia. PA 124 x 80 mmHg, sem linfonodomegalia, sem aumento de submandibulares ou parótidas. VHS 62 mm/h, PCR 38 mg/L, eosinófilos 600/mm³, creatinina 0,9 mg/dL, urina tipo 1 normal. IgG4 sérica de 168 mg/dL (referência: até 135). ANCA por imunofluorescência não reagente. Biópsia da glândula lacrimal: infiltrado linfoplasmocitário denso com 45 plasmócitos IgG4 positivos por campo de grande aumento e razão IgG4/IgG de 30%, com áreas de necrose geográfica, microabscessos neutrofílicos e células gigantes multinucleadas dispersas, sem flebite obliterante. O diagnóstico mais provável é:",
+  "alternativas": {
+   "A": "Doença relacionada à IgG4",
+   "B": "Granulomatose com poliangeíte",
+   "C": "Sarcoidose com acometimento orbitário",
+   "D": "Linfoma MALT de anexos oculares"
+  },
+  "gabarito": "B",
+  "armadilha": "A",
+  "dado_decisivo": "áreas de necrose geográfica, microabscessos neutrofílicos e células gigantes multinucleadas dispersas",
+  "resolucao": "Dacrioadenite bilateral, IgG4 sérica alta e muitos plasmócitos IgG4 positivos parecem fechar doença relacionada à IgG4. Mas plasmócitos IgG4 positivos aparecem em vários infiltrados inflamatórios crônicos, e a IgG4 sérica discretamente alta é inespecífica. A histologia da doença por IgG4 é fibrose estoriforme e flebite obliterante, sem necrose; necrose geográfica, microabscessos neutrofílicos e granulomas são critério de exclusão no sistema ACR/EULAR de 2019 e apontam granulomatose com poliangeíte. A rinossinusite crostosa com epistaxe completa o quadro, e o ANCA negativo não afasta: a forma localizada de cabeça e pescoço é ANCA negativa em boa parte dos casos. A razão IgG4/IgG de 30% também fica abaixo dos 40% esperados na doença por IgG4.",
+  "comentarios": {
+   "A": "Errada. É a armadilha da contagem de plasmócitos IgG4 positivos; necrose, microabscessos e granulomas excluem a doença por IgG4, e falta a fibrose estoriforme com flebite obliterante.",
+   "B": "Correta. Necrose geográfica com microabscessos neutrofílicos e células gigantes, com rinossinusite crostosa, é granulomatose com poliangeíte, e a forma localizada é com frequência ANCA negativa.",
+   "C": "Errada. Seria considerada com granulomas não necrosantes bem formados; necrose geográfica e microabscessos falam contra.",
+   "D": "Errada. Seria a hipótese com infiltrado linfoide monomórfico e clonalidade B; o infiltrado aqui é misto, com necrose e neutrófilos."
+  },
+  "para_levar": "Plasmócitos IgG4 positivos não bastam: a doença por IgG4 se confirma pela fibrose estoriforme e flebite obliterante, e necrose, microabscessos ou granulomas a excluem e apontam granulomatose com poliangeíte, mesmo com ANCA negativo.",
+  "referencias": "Wallace ZS et al. 2019 ACR/EULAR classification criteria for IgG4-related disease; Deshpande V et al. Consensus statement on the pathology of IgG4-related disease, Mod Pathol 2012; Robson JC et al. 2022 ACR/EULAR classification criteria for granulomatosis with polyangiitis.",
+  "tags": [
+   "Doença por IgG4 (CM)",
+   "Vasculites ANCA-associadas (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "S2 q31: a histologia da doença por IgG4, agora pelo lado dos critérios de exclusão; o rótulo do anticorpo (IgG4 positivo) é a arma"
+ },
+ {
+  "id": "R04-REU-02",
+  "simulado": "R04",
+  "area": "Reumatologia",
+  "titulo": "Idoso com sinovite de mãos e edema depressível em luva de boxe, mas anti-CCP muito alto e erosão: artrite reumatoide de início tardio, e não RS3PE",
+  "arma": "Grade X / Y",
+  "comando": "diagnóstico",
+  "nivel": "difícil",
+  "enunciado": "Homem de 74 anos refere há 5 semanas início abrupto de dor e rigidez matinal de 2 horas em punhos e metacarpofalangeanas, com inchaço no dorso das duas mãos. Nega dor em cinturas escapular e pélvica, febre ou perda de peso. Colonoscopia de 1 ano atrás normal, PSA de 1,2 ng/mL e TC de tórax e abdome de 2 meses atrás, feita para seguimento de nódulo pulmonar, sem lesões novas. Exame: sinovite de punhos e de segunda e terceira metacarpofalangeanas bilaterais, edema depressível no dorso das mãos com aspecto de luva de boxe, tenossinovite dos flexores. VHS 64 mm/h, PCR 52 mg/L, hemograma normal. Fator reumatoide 22 UI/mL (referência: até 14) e anti-CCP de 236 U/mL (referência: até 20). Radiografia de mãos com erosão marginal na cabeça do segundo metacarpo direito. O diagnóstico e o tratamento mais adequados são, respectivamente:",
+  "alternativas": {
+   "A": "RS3PE / prednisona isolada em dose baixa",
+   "B": "RS3PE / metotrexato e corticoide ponte",
+   "C": "Artrite reumatoide de início tardio / prednisona isolada em dose baixa",
+   "D": "Artrite reumatoide de início tardio / metotrexato e corticoide ponte"
+  },
+  "gabarito": "D",
+  "armadilha": "A",
+  "dado_decisivo": "anti-CCP de 236 U/mL (referência: até 20)",
+  "resolucao": "Idoso, início abrupto e edema depressível em luva de boxe levam direto à sinovite remitente simétrica soronegativa com edema (RS3PE), tratada com prednisona em dose baixa. Mas a definição de RS3PE exige soronegatividade, e o anti-CCP mais de dez vezes acima do limite com erosão marginal já na apresentação definem artrite reumatoide de início tardio, que pode começar abruptamente e com edema distal. O fator reumatoide discretamente positivo pesa pouco no idoso; é o anti-CCP alto que muda o rótulo. Artrite reumatoide com marcador de mau prognóstico (anti-CCP alto, erosão precoce) se trata com metotrexato desde o diagnóstico, com corticoide em dose baixa só como ponte. O rastreio de neoplasia, que importaria na RS3PE com resposta ruim ao corticoide, está em dia e não muda a decisão.",
+  "comentarios": {
+   "A": "Errada. Seria o tratamento da RS3PE, que exige soronegatividade; anti-CCP de 236 U/mL com erosão define artrite reumatoide.",
+   "B": "Errada. O diagnóstico de RS3PE cai pela sorologia, e a RS3PE responde a corticoide isolado, sem necessidade de metotrexato.",
+   "C": "Errada. O diagnóstico está certo, mas corticoide isolado deixa progredir uma artrite reumatoide erosiva e de mau prognóstico.",
+   "D": "Correta. Anti-CCP alto e erosão marginal definem artrite reumatoide de início tardio, que pede metotrexato com corticoide ponte."
+  },
+  "para_levar": "Edema depressível de mãos no idoso não é sinônimo de RS3PE: a RS3PE é soronegativa por definição. Anti-CCP alto ou erosão definem artrite reumatoide de início tardio, que se trata com metotrexato.",
+  "referencias": "Smolen JS et al. EULAR recommendations for the management of rheumatoid arthritis, 2022 update; Fraenkel L et al. 2021 ACR Guideline for the Treatment of Rheumatoid Arthritis; Karmacharya P et al. RS3PE revisited: a systematic review, J Rheumatol 2016.",
+  "tags": [
+   "Artrite Reumatóide (CM)",
+   "Polimialgia Reumática"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "S1 q71: RS3PE, agora pelo critério de definição (soronegatividade) contra artrite reumatoide de início tardio"
+ },
+ {
+  "id": "R04-REU-03",
+  "simulado": "R04",
+  "area": "Reumatologia",
+  "titulo": "Pancitopenia com mucosite em idosa com metotrexato, doença renal e sulfametoxazol-trimetoprima recente: ácido folínico, e não ácido fólico",
+  "arma": "Qualificador",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 72 anos, com artrite reumatoide em uso de metotrexato 20 mg/semana há 3 anos e ácido fólico 5 mg/semana, tem doença renal crônica com creatinina de 1,9 mg/dL (TFGe de 26 mL/min/1,73 m²), sem ajuste recente da dose. Há 10 dias foi tratada para cistite com sulfametoxazol-trimetoprima por 7 dias, prescrito no pronto-atendimento. Há 4 dias surgiram úlceras orais dolorosas e, hoje, febre de 38,4 °C. PA 108 x 64 mmHg, FC 104 bpm, mucosite extensa, sem foco infeccioso evidente. Hb 8,9 g/dL, VCM 104 fL, leucócitos 1.100/mm³ com 300 neutrófilos, plaquetas 31.000/mm³, ALT 88 U/L. Já se suspendeu o metotrexato, colheram-se culturas e iniciou-se cefepime. A medida específica mais importante neste momento é:",
+  "alternativas": {
+   "A": "Ácido fólico 5 mg ao dia",
+   "B": "Filgrastim subcutâneo diário",
+   "C": "Ácido folínico em dose alta",
+   "D": "Hemodiálise convencional"
+  },
+  "gabarito": "C",
+  "armadilha": "A",
+  "dado_decisivo": "Há 10 dias foi tratada para cistite com sulfametoxazol-trimetoprima por 7 dias",
+  "resolucao": "Quem já usa ácido fólico com metotrexato tende a só aumentar a dose do mesmo ácido fólico. A toxicidade aqui é grave: pancitopenia com neutropenia febril e mucosite, precipitada pela soma de função renal reduzida (o metotrexato é eliminado pelo rim) com a trimetoprima, que também inibe a di-hidrofolato redutase e reduz a secreção tubular do metotrexato. O ácido fólico precisa da di-hidrofolato redutase para virar folato ativo, e essa enzima está bloqueada; o ácido folínico (leucovorina) já é folato reduzido e contorna o bloqueio, e por isso é o antídoto. O filgrastim pode ser associado na neutropenia grave, mas não é a medida específica. A hemodiálise convencional remove pouco metotrexato; a glucarpidase fica para níveis altos após dose oncológica.",
+  "comentarios": {
+   "A": "Errada. O ácido fólico depende da di-hidrofolato redutase, bloqueada pelo metotrexato e pela trimetoprima; serve para prevenir efeitos leves, não para resgatar toxicidade grave.",
+   "B": "Errada. Pode ser associado na neutropenia febril grave, mas é suporte e não reverte o bloqueio do folato.",
+   "C": "Correta. A leucovorina é folato reduzido que contorna a enzima bloqueada e é o antídoto da toxicidade do metotrexato.",
+   "D": "Errada. A hemodiálise convencional remove pouco metotrexato; o recurso extracorpóreo fica para níveis muito altos após dose oncológica, com glucarpidase como alternativa."
+  },
+  "para_levar": "Toxicidade grave do metotrexato (pancitopenia, mucosite), sobretudo com doença renal e trimetoprima, se resgata com ácido folínico; o ácido fólico não funciona com a di-hidrofolato redutase bloqueada.",
+  "referencias": "Fraenkel L et al. 2021 ACR Guideline for the Treatment of Rheumatoid Arthritis; Howard SC et al. Preventing and managing toxicities of high-dose methotrexate, Oncologist 2016; Mota LMH et al. Recomendações da SBR para o tratamento da artrite reumatoide, 2017.",
+  "tags": [
+   "Drogas antirreumáticas (CM)",
+   "Artrite Reumatóide (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "UERJ recorrente: drogas antirreumáticas e seus efeitos (interação do metotrexato com trimetoprima e o antídoto certo)"
+ },
+ {
+  "id": "R04-REU-04",
+  "simulado": "R04",
+  "area": "Reumatologia",
+  "titulo": "Plaquetopenia grave com sangramento em lúpica febril, sem esquizócitos e com LDH normal: PTI secundária, corticoide com imunoglobulina e não plasmaférese",
+  "arma": "Negativo no meio",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 26 anos, com lúpus há 2 anos (artrite, fotossensibilidade, FAN e anti-DNA reagentes), em uso de hidroxicloroquina, teve quadro gripal há 1 semana. Há 5 dias surgiram petéquias em membros inferiores, gengivorragia e epistaxe; há 2 dias, cefaleia leve e temperatura de 37,8 °C. Consciente, orientada, sem déficit focal, PA 118 x 72 mmHg, FC 92 bpm, sem esplenomegalia. Hb 12,1 g/dL, reticulócitos 1,2%, leucócitos 4.200/mm³, plaquetas 6.000/mm³. LDH 230 U/L (referência: até 250), bilirrubina indireta 0,5 mg/dL, haptoglobina normal, Coombs direto negativo. Esfregaço revisto pelo hematologista: macroplaquetas, sem esquizócitos. Creatinina 0,8 mg/dL, urina sem hematúria ou proteinúria, C3 discretamente baixo. TC de crânio sem sangramento. A conduta inicial mais adequada é:",
+  "alternativas": {
+   "A": "Corticoide e imunoglobulina venosa",
+   "B": "Plasmaférese e corticoide em dose alta",
+   "C": "Transfusão de plaquetas isolada",
+   "D": "Rituximabe e eltrombopague"
+  },
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "Esfregaço revisto pelo hematologista: macroplaquetas, sem esquizócitos",
+  "resolucao": "Lúpus, febre, cefaleia e plaquetas de 6.000 lembram a pêntade da púrpura trombocitopênica trombótica e puxam para a plasmaférese. O que decide são os negativos: sem esquizócitos, LDH, bilirrubina indireta e haptoglobina normais e Hb preservada, não há hemólise microangiopática, e sem ela não há PTT. Plaquetopenia isolada com macroplaquetas é destruição periférica imune: púrpura trombocitopênica imunológica secundária ao lúpus, que pode ser desencadeada por infecção viral. Com plaquetas abaixo de 10.000 e sangramento de mucosa, o tratamento inicial é corticoide em dose alta (pulso de metilprednisolona ou dexametasona) associado a imunoglobulina venosa, que eleva as plaquetas em poucos dias. Rituximabe e agonista do receptor de trombopoetina ficam para a falha da primeira linha.",
+  "comentarios": {
+   "A": "Correta. Plaquetopenia isolada com macroplaquetas, sem hemólise, com sangramento mucoso e plaquetas abaixo de 10.000 pede corticoide em dose alta com imunoglobulina venosa.",
+   "B": "Errada. Seria a conduta na PTT, que exige anemia hemolítica microangiopática com esquizócitos; aqui a Hb, a LDH e o esfregaço estão normais.",
+   "C": "Errada. A transfusão isolada é consumida rapidamente na destruição imune; fica para sangramento grave, junto com o tratamento específico.",
+   "D": "Errada. São opções de segunda linha para PTI refratária ou dependente de corticoide, não o primeiro passo."
+  },
+  "para_levar": "Plaquetopenia grave no lúpus sem esquizócitos e sem hemólise é PTI secundária: corticoide em dose alta com imunoglobulina venosa quando há sangramento. Plasmaférese só com microangiopatia comprovada.",
+  "referencias": "Fanouriakis A et al. EULAR recommendations for the management of SLE, 2023 update; Neunert C et al. American Society of Hematology 2019 guidelines for immune thrombocytopenia; Provan D et al. Updated international consensus report on ITP, Blood Adv 2019.",
+  "tags": [
+   "Lúpus (CM)",
+   "Púrpura Trombocitopênica Imunológica (PTI) (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "S1 q51 pelo lado oposto: PTI secundária no LES, em que a ausência de esquizócitos tira a plasmaférese"
+ },
+ {
+  "id": "R04-REU-05",
+  "simulado": "R04",
+  "area": "Reumatologia",
+  "titulo": "Anafilaxia a vespa só com hipotensão e triptase basal elevada: imunoterapia com veneno e pesquisa de mastocitose clonal",
+  "arma": "Grade X / Y",
+  "comando": "conduta",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 47 anos, sem doenças conhecidas e sem medicações, foi picado por uma vespa no jardim há 3 semanas. Em 10 minutos teve tontura e síncope, com PA de 64 x 30 mmHg na chegada do resgate, sem urticária, angioedema, sibilância ou sintomas gastrointestinais; recebeu adrenalina intramuscular e se recuperou em 1 hora. Antes, só havia tido reações locais a picadas. A triptase colhida 1 hora após o evento foi de 48 ng/mL; a triptase basal hoje é de 26 ng/mL (referência: até 11,4). IgE específica para veneno de Vespula de 2,1 kUA/L. Exame físico normal, sem lesões cutâneas pigmentadas e sem hepatoesplenomegalia; hemograma e função hepática normais. Já recebeu prescrição de adrenalina autoinjetável. Em relação à imunoterapia com veneno e à investigação adicional, a conduta mais adequada é, respectivamente:",
+  "alternativas": {
+   "A": "Não indicada / pesquisa de mastocitose clonal",
+   "B": "Indicada / sem investigação adicional",
+   "C": "Não indicada / sem investigação adicional",
+   "D": "Indicada / pesquisa de mastocitose clonal"
+  },
+  "gabarito": "D",
+  "armadilha": "B",
+  "dado_decisivo": "a triptase basal hoje é de 26 ng/mL (referência: até 11,4)",
+  "resolucao": "A falta de urticária leva alguns a duvidar de anafilaxia, mas hipotensão súbita minutos após exposição a alérgeno conhecido já define o quadro, e a reação sistêmica grave a himenóptero com IgE específica positiva indica imunoterapia com veneno, que reduz muito o risco de nova reação. A armadilha é parar aí. Anafilaxia a himenóptero com colapso cardiovascular sem sintomas cutâneos, somada à triptase basal acima de 20 ng/mL, é o perfil de doença clonal de mastócitos, mesmo sem lesões de pele. A investigação inclui a pesquisa da mutação KIT D816V em sangue periférico e, conforme o resultado, biópsia de medula. A presença de mastocitose muda a imunoterapia: ela deve ser mantida por tempo indefinido, e não de 3 a 5 anos.",
+  "comentarios": {
+   "A": "Errada. A investigação está certa, mas a reação sistêmica com hipotensão e IgE positiva indica imunoterapia, que é ainda mais importante na mastocitose.",
+   "B": "Errada. A imunoterapia está indicada, mas a triptase basal de 26 ng/mL com colapso sem pele pede investigar mastocitose clonal, que muda a duração do tratamento.",
+   "C": "Errada. Deixaria um paciente com reação grave e provável doença clonal só com a adrenalina autoinjetável.",
+   "D": "Correta. Reação sistêmica grave com IgE positiva indica imunoterapia com veneno, e a triptase basal acima de 20 ng/mL com hipotensão isolada pede pesquisa de mastocitose."
+  },
+  "para_levar": "Anafilaxia a himenóptero com hipotensão sem urticária e triptase basal acima de 20 ng/mL: imunoterapia com veneno e pesquisa de mastocitose clonal (KIT D816V), e na mastocitose a imunoterapia é por tempo indefinido.",
+  "referencias": "Sturm GJ et al. EAACI guidelines on allergen immunotherapy: Hymenoptera venom allergy, Allergy 2018; Golden DBK et al. Stinging insect hypersensitivity: a practice parameter update 2016; Valent P et al. Updated diagnostic criteria and classification of mast cell disorders, 2021.",
+  "tags": [
+   "Mastocitose sistêmica (CM)",
+   "Anafilaxia (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "UERJ recorrente: imunologia e alergia (anafilaxia); padrão do aluno de parar no diagnóstico óbvio sem dar o passo seguinte"
+ },
+ {
+  "id": "R04-REU-06",
+  "simulado": "R04",
+  "area": "Reumatologia",
+  "titulo": "Anti-HBc reagente com anti-HBs protetor antes do rituximabe: profilaxia antiviral com entecavir, e não monitoramento",
+  "arma": "Rótulo verdadeiro",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 58 anos, com artrite reumatoide soropositiva há 12 anos, teve falha a metotrexato em dose plena e a dois inibidores de TNF, e a equipe optou por iniciar rituximabe. Na triagem pré-tratamento: HBsAg não reagente, anti-HBc total reagente, anti-HBs de 46 mUI/mL, HBV-DNA indetectável, ALT 22 U/L. Anti-HCV e anti-HIV não reagentes, IGRA negativo e radiografia de tórax normal. Relata ter recebido transfusão em cirurgia aos 20 anos e nega vacinação contra hepatite B. Ultrassonografia abdominal sem sinais de hepatopatia crônica. Creatinina 0,8 mg/dL. Em relação à hepatite B, a conduta mais adequada ao iniciar o rituximabe é:",
+  "alternativas": {
+   "A": "Vacinação contra hepatite B antes da infusão",
+   "B": "Nenhuma, pelo anti-HBs protetor",
+   "C": "Entecavir profilático, mantido após o término",
+   "D": "HBV-DNA seriado, antiviral se positivar"
+  },
+  "gabarito": "C",
+  "armadilha": "D",
+  "dado_decisivo": "anti-HBc total reagente",
+  "resolucao": "O anti-HBs acima de 10 mUI/mL parece garantir imunidade, e o monitoramento seriado do HBV-DNA é a conduta aceita para quem tem hepatite B resolvida e vai usar inibidor de TNF ou outros imunossupressores de risco moderado. O que muda o risco é a droga: o anti-CD20 destrói linfócitos B e é a classe de maior risco de reativação na infecção resolvida (HBsAg negativo, anti-HBc positivo), com risco acima de 10%, mesmo com anti-HBs positivo. Nesse cenário as diretrizes indicam profilaxia com antiviral de alta barreira (entecavir ou tenofovir), iniciada antes ou junto com a primeira infusão e mantida por pelo menos 12 a 18 meses após a última dose. Vacinar não faz sentido em quem já teve contato com o vírus, e o anti-HBs não protege da reativação do DNA viral persistente no hepatócito.",
+  "comentarios": {
+   "A": "Errada. Seria a conduta para quem é suscetível (todos os marcadores negativos); a paciente já teve infecção, e a vacina não previne reativação.",
+   "B": "Errada. O anti-HBs protetor reduz, mas não elimina, o risco de reativação, que com anti-CD20 continua alto.",
+   "C": "Correta. Anti-HBc reagente com HBsAg negativo e anti-CD20 é risco alto de reativação e pede entecavir profilático, mantido por meses após a última dose.",
+   "D": "Errada. É a conduta aceita para hepatite B resolvida com imunossupressor de risco moderado, como inibidor de TNF; com rituximabe, o risco pede profilaxia."
+  },
+  "para_levar": "HBsAg negativo com anti-HBc positivo: com rituximabe (anti-CD20), profilaxia com entecavir ou tenofovir mantida por 12 a 18 meses após o término, independentemente do anti-HBs; com inibidor de TNF, monitorar pode bastar.",
+  "referencias": "Terrault NA et al. AASLD 2018 Hepatitis B Guidance; EASL 2017 Clinical Practice Guidelines on the management of hepatitis B virus infection; Brasil, Ministério da Saúde. PCDT de Hepatite B e Coinfecções, 2023.",
+  "tags": [
+   "Drogas antirreumáticas (CM)",
+   "Profilaxia da Hepatite B (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "UERJ recorrente: drogas antirreumáticas e seus efeitos (risco de reativação do HBV pela classe do imunossupressor)"
+ }
+]

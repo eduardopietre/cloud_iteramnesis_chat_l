@@ -1,0 +1,206 @@
+[
+ {
+  "id": "R03-INF-01",
+  "simulado": "R03",
+  "area": "Infectologia",
+  "titulo": "Sífilis tratada na pessoa com HIV com VDRL baixo e estável há 2 anos: cicatriz sorológica, sem punção e sem retratamento",
+  "arma": "Omissão",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Homem de 41 anos vive com HIV há 8 anos, em uso regular de tenofovir, lamivudina e dolutegravir, com carga viral indetectável e CD4 de 290 células/mm³ no último controle. Há 3 anos teve sífilis secundária, com VDRL de 1:128, tratada com penicilina benzatina 2,4 milhões UI em dose única, com registro de aplicação. Controles do VDRL: aos 6 meses, 1:8; aos 12 meses, 1:4; depois, 1:2, 1:4, 1:2 e 1:2 nos últimos 24 meses. Mantém parceria única estável, cujo teste rápido treponêmico do último mês foi não reagente, e usa preservativo de forma irregular. Nega cefaleia, alteração visual, zumbido ou perda auditiva; exame neurológico e fundoscopia normais, sem lesões cutâneas ou mucosas. Foi encaminhado pela unidade básica porque o VDRL 'continua reagente' e o teste treponêmico permanece reagente. A conduta mais adequada neste momento é:",
+  "alternativas": {
+   "A": "Penicilina benzatina em três doses semanais",
+   "B": "Punção lombar antes de decidir o retratamento",
+   "C": "Manter apenas o seguimento sorológico",
+   "D": "Penicilina cristalina intravenosa por 14 dias"
+  },
+  "gabarito": "C",
+  "armadilha": "B",
+  "dado_decisivo": "aos 6 meses, 1:8",
+  "resolucao": "O HIV, o CD4 abaixo de 350 e o VDRL que nunca negativou empurram para investigar neurossífilis por punção lombar, e é aí que o apressado marca. Mas a resposta ao tratamento foi adequada e rápida: de 1:128 para 1:8 em 6 meses, quatro diluições, bem acima do critério de queda de duas diluições. Depois disso o título ficou estável em níveis baixos, e a oscilação entre 1:2 e 1:4 é de uma diluição só, dentro da variação do método, e não conta como elevação, que exige aumento de duas diluições. Sem sintoma neurológico, ocular ou auditivo, sem nova lesão e com parceria testada, o quadro é de cicatriz sorológica, que pode durar a vida toda e não indica retratamento nem punção. O teste treponêmico reagente não ajuda: ele fica positivo para sempre e não serve para seguimento. A conduta é manter o VDRL periódico, e só uma elevação de duas diluições ou sintomas mudam o plano.",
+  "comentarios": {
+   "A": "Errada. Seria o retratamento de uma sífilis latente tardia ou de uma falha sem acometimento neurológico; aqui houve queda de quatro diluições em 6 meses e não há falha.",
+   "B": "Errada. É a armadilha do HIV: a punção entra na falha sorológica, na elevação de duas diluições ou em sintoma neurológico, ocular ou auditivo, e nada disso existe neste caso.",
+   "C": "Correta. Queda adequada seguida de título baixo estável, com oscilação de uma diluição só, é cicatriz sorológica: seguimento, sem retratar.",
+   "D": "Errada. Seria o esquema da neurossífilis ou da sífilis ocular; não há sintoma nem líquor que a sustente."
+  },
+  "para_levar": "VDRL que caiu duas ou mais diluições e ficou estável em título baixo é cicatriz sorológica, mesmo na pessoa com HIV: oscilação de uma diluição não é falha e não pede punção nem retratamento.",
+  "referencias": "Ministério da Saúde, PCDT para Atenção Integral às Pessoas com IST (2022); CDC Sexually Transmitted Infections Treatment Guidelines (2021).",
+  "tags": [
+   "Sífilis Latente e Interpretação de VDRL (CM)",
+   "Sífilis, Uretrites Infecciosas e outras DSTs (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "S1 q13 pelo avesso: o critério de resposta sorológica agora separa cicatriz de falha, e a punção vira a armadilha"
+ },
+ {
+  "id": "R03-INF-02",
+  "simulado": "R03",
+  "area": "Infectologia",
+  "titulo": "Derrame pleural com ADA alto na aids com Kaposi e contato de tuberculose: linfoma primário de efusão pelo imunofenótipo",
+  "arma": "Rótulo verdadeiro",
+  "comando": "diagnóstico",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 38 anos, com diagnóstico de HIV há 2 meses (CD4 de 45 células/mm³), em uso de TARV há 5 semanas, tem placas violáceas nos membros inferiores, cuja biópsia mostrou sarcoma de Kaposi. Há 3 semanas apresenta dispneia progressiva, febre baixa noturna e perda de 4 kg. O irmão, com quem mora, terminou há 4 meses o tratamento de tuberculose pulmonar. Temperatura 37,9 °C, FR 26 irpm, SpO2 91% em ar ambiente, abolição do murmúrio no terço inferior do hemitórax direito. TC de tórax: derrame pleural direito volumoso, sem espessamento pleural nodular, sem massa mediastinal, sem linfonodomegalias e sem lesões parenquimatosas. Toracocentese: exsudato serossanguinolento, LDH 1.450 U/L, proteína 4,8 g/dL, ADA 58 U/L (referência: até 40), teste rápido molecular para tuberculose não detectado. Citologia: grandes células atípicas de aspecto plasmablástico; imunofenotipagem com CD45 e CD138 positivos, CD20 e CD79a negativos, e marcação nuclear para LANA-1 (HHV-8). O diagnóstico mais provável é:",
+  "alternativas": {
+   "A": "Linfoma primário de efusão",
+   "B": "Tuberculose pleural",
+   "C": "Sarcoma de Kaposi pleural",
+   "D": "Linfoma de Burkitt"
+  },
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "CD45 e CD138 positivos, CD20 e CD79a negativos",
+  "resolucao": "O contato domiciliar de tuberculose, a febre noturna, o exsudato e o ADA acima de 40 são verdadeiros e montam a tuberculose pleural, ainda mais com o teste molecular de baixa sensibilidade no líquido pleural. Mas o ADA sobe também em linfomas e empiemas, e a citologia mostrou o que a tuberculose não produz: células neoplásicas grandes, plasmablásticas, em suspensão no líquido, sem massa sólida. O imunofenótipo decide: marcador leucocitário (CD45) e plasmocitário (CD138) positivos, com os marcadores de linhagem B (CD20 e CD79a) negativos, e infecção pelo HHV-8 demonstrada por LANA-1 nas células. Isso é linfoma primário de efusão, que surge na aids avançada, frequentemente ao lado do Kaposi, porque compartilha o mesmo vírus. O Kaposi pleural dá derrame serossanguinolento, mas não células linfoides atípicas flutuantes; o Burkitt expressa CD20 e forma massas, em geral com CD4 mais preservado.",
+  "comentarios": {
+   "A": "Correta. Células plasmablásticas em cavidade serosa, sem massa, CD45 e CD138 positivos, CD20 negativo e HHV-8 positivo definem o linfoma primário de efusão.",
+   "B": "Errada. É a armadilha do contato e do ADA alto; seria a certa com exsudato linfocítico de células pequenas, sem células atípicas, mas o ADA também sobe em linfoma.",
+   "C": "Errada. Também é HHV-8 e cursa com derrame serossanguinolento, mas a lesão é vascular (células fusiformes) e não lança células linfoides atípicas no líquido.",
+   "D": "Errada. Seria a certa com massa abdominal, lise tumoral e células B CD20 positivas com MYC rearranjado, e não com fenótipo plasmablástico sem marcadores B."
+  },
+  "para_levar": "Na aids avançada, derrame cavitário sem massa com células grandes CD20 negativas, CD138 positivas e HHV-8 positivas é linfoma primário de efusão; ADA alto não fecha tuberculose quando a citologia mostra células atípicas.",
+  "referencias": "WHO Classification of Haematolymphoid Tumours, 5ª ed. (2022); NCCN Guidelines: B-Cell Lymphomas, HIV-related lymphomas (2025); Ministério da Saúde, PCDT para Manejo da Infecção pelo HIV em Adultos (2024).",
+  "tags": [
+   "Linfomas (CM)",
+   "Doenças Oportunistas no HIV (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "S4 q36 e S1 q37: o linfoma da aids, agora quando a resposta certa é o linfoma de efusão e o rótulo verdadeiro é a tuberculose"
+ },
+ {
+  "id": "R03-INF-03",
+  "simulado": "R03",
+  "area": "Infectologia",
+  "titulo": "Febre maculosa com imunofluorescência não reagente no 6º dia: doxiciclina sem esperar a soroconversão",
+  "arma": "Cronologia",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 29 anos, bióloga, fez coleta de campo há 9 dias às margens de um rio em município do interior de São Paulo com grande população de capivaras; não lembra de picada. Há 6 dias tem febre de 39,5 °C, cefaleia intensa, mialgia difusa e náuseas. Na semana anterior à viagem limpou com o pai o porão da casa, que havia alagado, onde viu fezes de roedores. Ao exame, PA 100/60 mmHg, FC 112 bpm, sem sufusão conjuntival, panturrilhas indolores, exantema maculopapular que começou no 3º dia nos punhos e tornozelos e hoje atinge tronco, palmas e plantas, com petéquias nos membros inferiores. Plaquetas 78.000/mm³, sódio 129 mEq/L, AST 110 U/L, creatinina 1,3 mg/dL, CK 190 U/L (referência: até 170), bilirrubina total 0,9 mg/dL. A imunofluorescência indireta para Rickettsia rickettsii resultou IgG não reagente na amostra colhida hoje, no 6º dia de doença. A conduta mais adequada é:",
+  "alternativas": {
+   "A": "Ceftriaxona e sorologia para leptospirose",
+   "B": "Doxiciclina já e sorologia pareada em 14 dias",
+   "C": "Aguardar a segunda amostra sem antibiótico",
+   "D": "Teste NS1 e hidratação antes do antibiótico"
+  },
+  "gabarito": "B",
+  "armadilha": "C",
+  "dado_decisivo": "IgG não reagente na amostra colhida hoje, no 6º dia de doença",
+  "resolucao": "O exame sorológico negativo tranquiliza quem não lembra do tempo da resposta imune, e o porão alagado com roedores oferece uma saída para a leptospirose. Os anticorpos da febre maculosa costumam aparecer entre o 7º e o 10º dia, e o diagnóstico sorológico exige duas amostras com intervalo de 14 a 21 dias, mostrando soroconversão ou aumento de quatro vezes no título; uma primeira amostra negativa no 6º dia não exclui nada. O quadro clínico já basta: exposição em área de capivaras, febre alta com cefaleia, exantema que começa nas extremidades e se torna petequial com palmas e plantas, plaquetopenia e hiponatremia. A leptospirose fica menos provável pela ausência de sufusão conjuntival, de dor nas panturrilhas, de icterícia e de CK elevada. Na febre maculosa a letalidade sobe muito quando a doxiciclina começa depois do 5º dia, e o tratamento é iniciado na suspeita, com a segunda amostra colhida depois para confirmação.",
+  "comentarios": {
+   "A": "Errada. Seria a conduta na leptospirose (sufusão, mialgia de panturrilha, CK alta, icterícia); betalactâmico não cobre riquétsia, que é intracelular.",
+   "B": "Correta. Suspeita clínica de febre maculosa pede doxiciclina imediata; a sorologia pareada em 14 dias confirma depois.",
+   "C": "Errada. É a armadilha da sorologia negativa precoce: os anticorpos ainda não apareceram no 6º dia, e esperar aumenta a letalidade.",
+   "D": "Errada. Seria o caminho na dengue sem sinais de alarme, mas o exantema petequial palmoplantar com hiponatremia e a exposição a capivaras apontam riquétsia, e o NS1 perde sensibilidade após o 5º dia."
+  },
+  "para_levar": "Na febre maculosa, sorologia negativa na primeira semana não descarta: os anticorpos surgem por volta do 7º ao 10º dia. Doxiciclina na suspeita e sorologia pareada depois.",
+  "referencias": "Ministério da Saúde, Guia de Vigilância em Saúde, 6ª ed. (2024), capítulo Febre maculosa; CDC, Diagnosis and Management of Tickborne Rickettsial Diseases, MMWR (2016).",
+  "tags": [
+   "Icterícias Febris e FMB (CM)",
+   "Infecções Bacterianas (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "S1 q48: febre maculosa x leptospirose, agora o erro é confiar na sorologia precoce e adiar a doxiciclina"
+ },
+ {
+  "id": "R03-INF-04",
+  "simulado": "R03",
+  "area": "Infectologia",
+  "titulo": "Leucoencefalopatia multifocal progressiva confirmada na aids sem TARV: iniciar a TARV logo, sem antiviral específico",
+  "arma": "Grade X / Y",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Homem de 45 anos recebeu há 3 semanas o diagnóstico de HIV, com CD4 de 48 células/mm³ e carga viral de 380.000 cópias/mL, e ainda não iniciou TARV. Há 6 semanas evolui com perda de força progressiva no dimídio esquerdo, dificuldade para enxergar à esquerda e fala arrastada, sem febre, sem cefaleia e sem rebaixamento de consciência. Ao exame, hemiparesia esquerda grau 4, hemianopsia homônima esquerda e disartria, sem rigidez de nuca. A sorologia IgG para toxoplasmose é reagente; antígeno criptocócico sérico negativo; teste rápido molecular para tuberculose no escarro não detectado. RM de crânio: lesões hiperintensas em T2 e FLAIR na substância branca subcortical parieto-occipital direita, envolvendo as fibras em U, sem realce pelo gadolínio e sem efeito de massa. Líquor: 3 células/mm³, proteína 52 mg/dL, glicose normal, VDRL não reagente e PCR para vírus JC positiva. O residente lembra que, na meningite criptocócica, a TARV é adiada pelo risco de síndrome inflamatória de reconstituição imune. Quanto ao início da TARV e ao tratamento antiviral específico, respectivamente, a conduta mais adequada é:",
+  "alternativas": {
+   "A": "Adiar por 4 a 6 semanas / cidofovir",
+   "B": "Adiar por 4 a 6 semanas / nenhum",
+   "C": "Iniciar em até 2 semanas / cidofovir",
+   "D": "Iniciar em até 2 semanas / nenhum"
+  },
+  "gabarito": "D",
+  "armadilha": "B",
+  "dado_decisivo": "PCR para vírus JC positiva",
+  "resolucao": "A lembrança da meningite criptocócica é verdadeira e puxa para adiar a TARV, e a sorologia reagente para toxoplasma tenta abrir outro caminho. Mas a RM mostra lesões de substância branca subcortical com fibras em U, sem realce e sem efeito de massa, o oposto da neurotoxoplasmose, e a PCR para vírus JC no líquor confirma leucoencefalopatia multifocal progressiva. Não existe antiviral eficaz contra o JC: cidofovir, citarabina e mefloquina não mostraram benefício. O único tratamento que muda o prognóstico é recuperar a imunidade, e por isso a TARV deve começar o quanto antes, sem a espera usada na criptococose e na meningite tuberculosa. A síndrome inflamatória de reconstituição imune pode ocorrer, mas é tratada se aparecer (corticoide quando há edema e efeito de massa), e não justifica adiar.",
+  "comentarios": {
+   "A": "Errada. Junta dois erros: o adiamento que vale para criptococose e meningite tuberculosa, e um antiviral sem eficácia contra o vírus JC.",
+   "B": "Errada. É a armadilha da reconstituição imune: o adiamento serve às infecções meníngeas, em que a inflamação no espaço fechado mata; na LEMP, adiar deixa a doença avançar sem tratamento.",
+   "C": "Errada. O momento está certo, mas cidofovir não tem benefício na LEMP e acrescenta nefrotoxicidade.",
+   "D": "Correta. LEMP confirmada por PCR para JC: TARV precoce é o tratamento, e não há antiviral específico."
+  },
+  "para_levar": "Na LEMP não há antiviral: o tratamento é a TARV, iniciada sem demora. Adiar a TARV é exceção das infecções meníngeas (criptococo e tuberculose).",
+  "referencias": "Ministério da Saúde, PCDT para Manejo da Infecção pelo HIV em Adultos (2024); NIH/CDC/IDSA Guidelines for Prevention and Treatment of Opportunistic Infections in Adults with HIV, Progressive Multifocal Leukoencephalopathy (atualização 2024).",
+  "tags": [
+   "NeuroAIDS (CM)",
+   "Outros Acometimentos Neurológicos no HIV (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "S3 q71 e S1 q28: depois de confirmar LEMP, o momento da TARV é o inverso do da criptococose"
+ },
+ {
+  "id": "R03-INF-05",
+  "simulado": "R03",
+  "area": "Infectologia",
+  "titulo": "Pneumonia por Mycoplasma com crioaglutinina em usuária de metadona com QT longo: doxiciclina, e não macrolídeo",
+  "arma": "Droga a deduzir",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 24 anos, estudante, procura a emergência por tosse seca há 9 dias, cefaleia, dor de garganta, otalgia direita e febre baixa; o irmão, com quem divide o quarto, teve quadro semelhante há 3 semanas. Está em programa de substituição com metadona 110 mg/dia há 1 ano, sem uso de outras substâncias; não tem alergias. Ao exame, temperatura 37,8 °C, FR 20 irpm, SpO2 95% em ar ambiente, PA 118/72 mmHg, estertores finos nas bases e vesículas hemorrágicas na membrana timpânica direita. Radiografia: infiltrado reticular bilateral nas bases. Hemoglobina 10,1 g/dL, reticulócitos 6%, bilirrubina indireta 2,4 mg/dL, LDH 520 U/L; teste de antiglobulina direto positivo para C3d e negativo para IgG. Ureia e creatinina normais; beta-hCG negativo. Eletrocardiograma: ritmo sinusal, QTc de 512 ms. Será tratada em domicílio. O antimicrobiano isolado mais adequado é:",
+  "alternativas": {
+   "A": "Doxiciclina",
+   "B": "Azitromicina",
+   "C": "Levofloxacino",
+   "D": "Amoxicilina"
+  },
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "QTc de 512 ms",
+  "resolucao": "Tosse seca arrastada em adulto jovem, contato domiciliar com quadro igual, miringite bolhosa, infiltrado intersticial e anemia hemolítica por crioaglutinina (C3d positivo, IgG negativo) apontam Mycoplasma pneumoniae, e o macrolídeo é a escolha de rotina. O detalhe está na droga em uso: a metadona em dose alta prolonga o QT, e o eletrocardiograma já mostra QTc acima de 500 ms, faixa em que acrescentar outra droga que prolonga o QT aumenta o risco de torsades de pointes. Azitromicina e levofloxacino prolongam o QT e ficam contraindicados. A doxiciclina cobre Mycoplasma, não tem esse efeito e serve à paciente não gestante. Amoxicilina não age sobre um agente sem parede celular.",
+  "comentarios": {
+   "A": "Correta. Cobre Mycoplasma sem prolongar o QT, e a beta-hCG negativa libera seu uso.",
+   "B": "Errada. É a armadilha do agente: seria a escolha se o QTc fosse normal, mas prolonga o QT em quem já está acima de 500 ms com metadona.",
+   "C": "Errada. Cobre Mycoplasma e seria alternativa em quem não tolera macrolídeo e tetraciclina, mas também prolonga o QT.",
+   "D": "Errada. Seria a escolha na pneumonia pneumocócica de baixo risco; Mycoplasma não tem parede celular e não responde a betalactâmico."
+  },
+  "para_levar": "O agente escolhe a classe, e o paciente escolhe a droga: Mycoplasma com QTc acima de 500 ms (metadona, antiarrítmico, QT longo congênito) se trata com doxiciclina.",
+  "referencias": "Diretrizes Brasileiras para Pneumonia Adquirida na Comunidade em Adultos Imunocompetentes, SBPT (2018); ATS/IDSA Community-Acquired Pneumonia Guideline (2019); CredibleMeds QT drug lists (2025).",
+  "tags": [
+   "Pneumonia Adquirida na Comunidade PAC (CM)",
+   "Anemia Hemolítica Autoimune (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "S2 q51: Mycoplasma com crioaglutinina, agora a armadilha é o próprio macrolídeo correto contra o agente"
+ },
+ {
+  "id": "R03-INF-06",
+  "simulado": "R03",
+  "area": "Infectologia",
+  "titulo": "Enterocolite neutropênica com apêndice normal e pesquisa de C. difficile pendente: cobertura anaeróbia e tratamento clínico",
+  "arma": "Rótulo verdadeiro",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Homem de 52 anos, com leucemia mieloide aguda, está no 12º dia após indução com citarabina e daunorrubicina. Há 2 dias tem febre e está em uso de cefepima; hoje surgiram dor intensa em fossa ilíaca direita, distensão abdominal e diarreia aquosa, 5 episódios. Temperatura 38,7 °C, PA 108/66 mmHg, FC 112 bpm; abdome distendido, doloroso à palpação profunda da fossa ilíaca direita, sem defesa difusa e com ruídos diminuídos. Neutrófilos 80/mm³, plaquetas 18.000/mm³, lactato 1,8 mmol/L. TC de abdome: espessamento parietal do ceco e do cólon ascendente de 14 mm, com densificação da gordura pericecal, sem pneumoperitônio e sem coleção; apêndice com 6 mm de diâmetro, sem apendicolito. Hemoculturas em andamento; pesquisa de toxina de Clostridioides difficile solicitada, ainda sem resultado. A conduta mais adequada neste momento é:",
+  "alternativas": {
+   "A": "Apendicectomia videolaparoscópica de urgência",
+   "B": "Manter cefepima e associar vancomicina oral",
+   "C": "Piperacilina-tazobactam, jejum e suporte clínico",
+   "D": "Colonoscopia com biópsia do ceco"
+  },
+  "gabarito": "C",
+  "armadilha": "B",
+  "dado_decisivo": "espessamento parietal do ceco e do cólon ascendente de 14 mm",
+  "resolucao": "A diarreia sob antibiótico, com a pesquisa de toxina pendente, faz pensar em Clostridioides difficile, e acrescentar vancomicina oral à cefepima parece cobrir tudo. Mas o paciente neutropênico profundo, com dor em fossa ilíaca direita e espessamento parietal do ceco acima de 10 mm na TC, tem enterocolite neutropênica (tiflite), infecção polimicrobiana da parede com anaeróbios, bacilos Gram-negativos e às vezes Clostridium septicum. A cefepima não cobre anaeróbios, e a vancomicina oral só age na luz contra C. difficile, sem tratar a infecção da parede. O tratamento é clínico: antimicrobiano com cobertura de Pseudomonas e anaeróbios (piperacilina-tazobactam ou carbapenêmico, ou cefepima com metronidazol), jejum, descompressão se necessário, correção de plaquetas e suporte. A cirurgia fica para perfuração, sangramento persistente ou deterioração apesar do tratamento, e a colonoscopia está contraindicada pelo risco de perfuração.",
+  "comentarios": {
+   "A": "Errada. Seria a conduta na apendicite, mas o apêndice tem 6 mm sem apendicolito, e operar o neutropênico sem perfuração aumenta a mortalidade.",
+   "B": "Errada. É a armadilha da diarreia sob antibiótico: trataria só a colite por C. difficile e deixa a infecção da parede cecal sem cobertura anaeróbia.",
+   "C": "Correta. Enterocolite neutropênica sem perfuração: betalactâmico antipseudomonas com ação anaeróbia, jejum e suporte.",
+   "D": "Errada. Seria útil para colite por citomegalovírus ou doença inflamatória, mas na parede cecal necrosada do neutropênico o risco de perfuração a contraindica."
+  },
+  "para_levar": "Neutropênico com dor em fossa ilíaca direita e ceco espessado acima de 10 mm tem tiflite: cobertura anaeróbia e antipseudomonas, tratamento clínico, cirurgia só para perfuração ou sangramento.",
+  "referencias": "IDSA Clinical Practice Guideline for the Use of Antimicrobial Agents in Neutropenic Patients with Cancer (2010, revisão 2023 em andamento); ECIL/ESMO Management of febrile neutropenia (2023); NCCN Prevention and Treatment of Cancer-Related Infections (2025).",
+  "tags": [
+   "Neutropenia Febril (CM)",
+   "Infecção em Imunossuprimido (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "UERJ recorrente: imunossuprimido muda o agente e a conduta (tiflite), com o rótulo de C. difficile e de apendicite"
+ }
+]

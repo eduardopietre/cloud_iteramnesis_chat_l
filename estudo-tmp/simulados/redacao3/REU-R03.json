@@ -1,0 +1,207 @@
+[
+ {
+  "id": "R03-REU-01",
+  "simulado": "R03",
+  "area": "Reumatologia",
+  "titulo": "Granulomatose eosinofílica com poliangeíte ANCA negativa com miocardite, rotulada como aspergilose broncopulmonar alérgica: ciclofosfamida na indução",
+  "arma": "Rótulo verdadeiro",
+  "comando": "conduta",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 44 anos, com asma de início aos 38 anos e polipose nasal operada duas vezes, em uso de budesonida-formoterol, apresenta há 2 meses tosse e infiltrados pulmonares que mudam de lugar entre radiografias, com eosinófilos de 4.800/mm³ (34%). A pneumologia levantou aspergilose broncopulmonar alérgica: IgE total de 1.900 UI/mL e IgE específica para Aspergillus fumigatus de 0,9 kUA/L (referência: abaixo de 0,35). ANCA por imunofluorescência, anti-MPO e anti-PR3 não reagentes. Há 10 dias, dispneia aos pequenos esforços e edema de membros inferiores. PA 118 x 76 mmHg, FC 104 bpm, sem déficit neurológico. Troponina I de 0,9 ng/mL (referência: abaixo de 0,04), creatinina 0,9 mg/dL, urina tipo 1 normal. Ecocardiograma com fração de ejeção de 35% e hipocinesia difusa; coronariografia sem lesões; RM cardíaca com realce tardio subendocárdico difuso, de distribuição não coronariana. Além do glicocorticoide em dose alta, a conduta de indução mais adequada é:",
+  "alternativas": {
+   "A": "Mepolizumabe 300 mg mensal",
+   "B": "Itraconazol oral por 16 semanas",
+   "C": "Ciclofosfamida intravenosa",
+   "D": "Omalizumabe subcutâneo"
+  },
+  "gabarito": "C",
+  "armadilha": "B",
+  "dado_decisivo": "RM cardíaca com realce tardio subendocárdico difuso, de distribuição não coronariana",
+  "resolucao": "A IgE total alta e a IgE específica para Aspergillus discretamente positiva são verdadeiras e puxam para aspergilose broncopulmonar alérgica, mas sensibilização a fungo é comum na asma eosinofílica e a aspergilose não causa miocardite. Asma de início tardio, polipose, eosinofilia acima de 10% e infiltrados migratórios fecham granulomatose eosinofílica com poliangeíte, e o ANCA negativo não afasta: cerca de 60% dos pacientes são ANCA negativos, justamente o fenótipo com mais acometimento cardíaco. Troponina alta, fração de ejeção de 35%, coronárias normais e realce tardio não coronariano indicam miocardite eosinofílica, que é doença grave com risco de morte (Five Factor Score positivo). Doença grave se induz com glicocorticoide em dose alta associado a ciclofosfamida (o rituximabe é a outra opção das diretrizes), e o acometimento cardíaco é o cenário em que a ciclofosfamida tem mais respaldo. Os biológicos anti-IL-5 e anti-IgE ficam para doença não grave, recidivante ou dependente de corticoide.",
+  "comentarios": {
+   "A": "Errada. O mepolizumabe é indicado na doença recidivante ou refratária sem acometimento grave de órgão; a miocardite com disfunção ventricular exige indução com citotóxico.",
+   "B": "Errada. Seria o tratamento da aspergilose broncopulmonar alérgica, sugerida pela IgE específica positiva; aspergilose não explica miocardite com realce não coronariano e eosinofilia de 34%.",
+   "C": "Correta. Miocardite com fração de ejeção de 35% é doença grave pelo Five Factor Score, e a indução é glicocorticoide com ciclofosfamida, independentemente do ANCA.",
+   "D": "Errada. O anti-IgE trata asma alérgica grave e tem uso esporádico em formas leves; não controla vasculite com risco de vida."
+  },
+  "para_levar": "Na granulomatose eosinofílica com poliangeíte, o ANCA negativo não afasta o diagnóstico e se associa a coração; miocardite é doença grave e pede glicocorticoide com ciclofosfamida (ou rituximabe), e não biológico anti-IL-5.",
+  "referencias": "Chung SA et al. 2021 ACR/Vasculitis Foundation Guideline for the Management of ANCA-Associated Vasculitis; Hellmich B et al. EULAR recommendations for the management of ANCA-associated vasculitis, 2022 update; Emmi G et al. EGPA consensus task force recommendations, Nat Rev Rheumatol 2023.",
+  "tags": [
+   "Vasculites ANCA-associadas (CM)",
+   "Vasculites (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "S4 q40: EGPA ANCA negativa sob rótulo de ABPA, agora no degrau seguinte (gravidade pelo coração define a indução)"
+ },
+ {
+  "id": "R03-REU-02",
+  "simulado": "R03",
+  "area": "Reumatologia",
+  "titulo": "Pneumopatia intersticial com fator reumatoide, Raynaud e anti-Jo-1 negativo com FAN citoplasmático: painel ampliado de antissintetase",
+  "arma": "Rótulo verdadeiro",
+  "comando": "próximo exame",
+  "nivel": "extremamente difícil",
+  "enunciado": "Mulher de 52 anos, não tabagista, apresenta há 5 meses dispneia progressiva, tosse seca e febre baixa intermitente, com artralgia simétrica de punhos e metacarpofalangeanas e fenômeno de Raynaud há 1 ano. Nega fraqueza, disfagia ou lesões em pálpebras. Exame: SpO2 de 91% em ar ambiente, estertores em velcro nas bases, força grau 5 nas cinturas, descamação fissurada nas bordas laterais dos dedos indicadores, sem espessamento cutâneo proximal e sem esclerodactilia. CK 160 U/L (referência: até 170), aldolase normal. Fator reumatoide 48 UI/mL (referência: até 14), anti-CCP não reagente, FAN 1:160 com padrão citoplasmático pontilhado fino denso, anti-Jo-1 não reagente, anti-Ro52 reagente, anti-Scl-70 não solicitado. TC de tórax: vidro fosco e reticulado basal com consolidações periféricas, poupando a região subpleural. O exame com maior rendimento para definir o diagnóstico é:",
+  "alternativas": {
+   "A": "Painel ampliado de anticorpos antissintetase",
+   "B": "Biópsia de quadríceps guiada por ressonância",
+   "C": "Anti-Scl-70 e anticentrômero",
+   "D": "Biópsia pulmonar cirúrgica"
+  },
+  "gabarito": "A",
+  "armadilha": "C",
+  "dado_decisivo": "FAN 1:160 com padrão citoplasmático pontilhado fino denso",
+  "resolucao": "Raynaud, pneumopatia e fator reumatoide levam o apressado à esclerose sistêmica ou à artrite reumatoide com pulmão, e o anti-Jo-1 negativo com CK normal parece afastar miosite. O conjunto de pneumopatia intersticial com padrão de pneumonia intersticial não específica e organização, artrite, Raynaud, febre e descamação fissurada nas bordas dos dedos (mãos de mecânico) é a síndrome antissintetase, que frequentemente cursa sem fraqueza e com CK normal, sobretudo com anti-PL-7 e anti-PL-12. O FAN de padrão citoplasmático pontilhado fino denso é o rastro dos anticorpos contra aminoacil-tRNA sintetases, e o anti-Ro52 acompanha esses anticorpos com frequência. O anti-Jo-1 é só um dos oito antissintetase; negativo, pede o painel ampliado (PL-7, PL-12, EJ, OJ), que define o diagnóstico sem procedimento invasivo. Sem esclerodactilia, sem espessamento proximal, o rastreio de esclerose sistêmica rende pouco.",
+  "comentarios": {
+   "A": "Correta. FAN citoplasmático, mãos de mecânico, artrite e pneumopatia com anti-Jo-1 negativo pedem anti-PL-7, anti-PL-12 e os demais antissintetase.",
+   "B": "Errada. Seria útil na miosite com fraqueza e CK alta; aqui a força é normal, a CK também, e o rendimento da biópsia muscular é baixo.",
+   "C": "Errada. É a armadilha do Raynaud com pneumopatia: seriam os anticorpos da esclerose sistêmica, que pediria esclerodactilia ou espessamento cutâneo, ausentes, e não explica o FAN citoplasmático.",
+   "D": "Errada. Seria considerada na pneumopatia intersticial sem pista sistêmica; aqui a sorologia dirigida define o diagnóstico sem cirurgia."
+  },
+  "para_levar": "Pneumopatia intersticial com mãos de mecânico, artrite e FAN citoplasmático é síndrome antissintetase mesmo com anti-Jo-1 negativo e CK normal: peça o painel ampliado (PL-7, PL-12).",
+  "referencias": "Connors GR et al. Interstitial lung disease associated with the idiopathic inflammatory myopathies, Chest 2010; Damoiseaux J et al. International Consensus on ANA Patterns (ICAP), AC-20, 2019; Lundberg IE et al. 2017 EULAR/ACR classification criteria for idiopathic inflammatory myopathies.",
+  "tags": [
+   "Miopatias Autoimunes Sistêmicas - Dermatomiosite, Polimiosite e Anti-sintetase (CM)",
+   "Doença Pulmonar Intersticial (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "S3 q27: antissintetase com FR e Raynaud lida como esclerose sistêmica; agora o rótulo é o anti-Jo-1 negativo e a CK normal"
+ },
+ {
+  "id": "R03-REU-03",
+  "simulado": "R03",
+  "area": "Reumatologia",
+  "titulo": "Lúpica em indução com corticoide, de origem rural, com meningite e bacteremia por Gram-negativo e infiltrado pulmonar: hiperinfecção por Strongyloides, e não lúpus ativo",
+  "arma": "Negativo no meio",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 29 anos, com nefrite lúpica classe IV diagnosticada há 6 semanas, recebeu pulsoterapia com metilprednisolona e está em prednisona 60 mg/dia e micofenolato 2 g/dia. Natural da zona rural do Vale do Jequitinhonha (MG), trabalhou descalça na lavoura até os 18 anos. Há 5 dias tem dor abdominal difusa, vômitos e diarreia; há 2 dias, tosse com escarro hemoptoico e dispneia; hoje febre de 39,2 °C, cefaleia e rigidez de nuca. PA 96 x 58 mmHg, FC 122 bpm, SpO2 de 89%. Leucócitos 18.400/mm³ com 0% de eosinófilos, Hb 9,8 g/dL, plaquetas 210.000/mm³, creatinina 1,1 mg/dL (era 2,0 no diagnóstico), C3 e C4 normais e anti-DNA que caiu de 1:640 para 1:40. TC de tórax com infiltrado alveolar bilateral. Líquor: 1.200 células/mm³, 90% de neutrófilos, Gram com bacilos Gram-negativos; hemoculturas com Escherichia coli. Além da antibioticoterapia, a conduta mais adequada é:",
+  "alternativas": {
+   "A": "Pulsoterapia com metilprednisolona",
+   "B": "Ivermectina e redução do corticoide",
+   "C": "Albendazol e manutenção do corticoide",
+   "D": "Ciclofosfamida e plasmaférese"
+  },
+  "gabarito": "B",
+  "armadilha": "A",
+  "dado_decisivo": "C3 e C4 normais e anti-DNA que caiu de 1:640 para 1:40",
+  "resolucao": "Infiltrado alveolar bilateral com escarro hemoptoico em lúpica recém-induzida puxa para hemorragia alveolar e nova pulsoterapia. Mas o lúpus está em resposta: complemento normalizado, anti-DNA em queda e creatinina melhorando, o que tira a atividade lúpica do centro. A sequência sintomas gastrointestinais, infiltrado pulmonar com hemoptise, bacteremia e meningite por Gram-negativo entérico em quem recebe corticoide em dose alta e viveu descalça em área endêmica é a hiperinfecção por Strongyloides stercoralis: as larvas atravessam a parede intestinal levando bactérias da luz. A eosinopenia não afasta, porque o corticoide suprime os eosinófilos e a maioria das hiperinfecções cursa sem eosinofilia. O tratamento é ivermectina (diária, até a negativação das pesquisas) com redução da imunossupressão o quanto possível, além do antibiótico para o Gram-negativo.",
+  "comentarios": {
+   "A": "Errada. Seria a conduta na hemorragia alveolar lúpica, mas o complemento normal e o anti-DNA em queda mostram lúpus em resposta, e mais corticoide alimenta a hiperinfecção.",
+   "B": "Correta. Hiperinfecção por Strongyloides com bacteremia e meningite por Gram-negativo entérico se trata com ivermectina e redução da imunossupressão.",
+   "C": "Errada. O albendazol é inferior à ivermectina na estrongiloidíase, e manter corticoide em dose alta perpetua a autoinfecção.",
+   "D": "Errada. Seria indução de nefrite refratária ou de vasculite com hemorragia alveolar; aqui a nefrite melhora e o quadro é infeccioso."
+  },
+  "para_levar": "Lúpica em corticoide em dose alta com quadro gastrointestinal, pulmonar e bacteremia ou meningite por Gram-negativo entérico é hiperinfecção por Strongyloides até prova em contrário; eosinopenia não afasta, e o tratamento é ivermectina com redução da imunossupressão.",
+  "referencias": "Mejia R, Nutman TB. Screening, prevention, and treatment for hyperinfection syndrome and disseminated infections caused by Strongyloides stercoralis, Curr Opin Infect Dis 2012; Henriquez-Camacho C et al. Ivermectin versus albendazole or thiabendazole for Strongyloides stercoralis infection, Cochrane 2016; Fanouriakis A et al. EULAR recommendations for the management of SLE, 2023 update.",
+  "tags": [
+   "Lúpus (CM)",
+   "Estrongiloidiase (CM)",
+   "Infecção em Imunossuprimido (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "UERJ recorrente: LES como cenário de outra doença (estrongiloidíase no corticoide); padrão do aluno de atribuir tudo à atividade lúpica (S1 q11, S1 q61)"
+ },
+ {
+  "id": "R03-REU-04",
+  "simulado": "R03",
+  "area": "Reumatologia",
+  "titulo": "Síndrome nefrótica em artrite reumatoide antiga e mal controlada, em uso de naproxeno: amiloidose AA, e não lesão mínima por anti-inflamatório",
+  "arma": "Rótulo verdadeiro",
+  "comando": "achado esperado",
+  "nivel": "difícil",
+  "enunciado": "Homem de 61 anos, com artrite reumatoide soropositiva e erosiva há 19 anos, tratada de forma irregular, usa naproxeno 500 mg duas vezes ao dia há anos e prednisona 7,5 mg/dia. A PCR se manteve entre 40 e 80 mg/L em todas as dosagens dos últimos 5 anos. Há 3 meses, edema progressivo de membros inferiores e diarreia crônica sem sangue. PA 112 x 70 mmHg, edema até a raiz das coxas, fígado palpável a 3 cm do rebordo costal. Albumina 2,1 g/dL, proteinúria de 9,6 g/24 h, sedimento urinário sem hematúria e sem leucocitúria, creatinina 1,6 mg/dL, C3 e C4 normais, FAN não reagente. Eletroforese de proteínas sem pico monoclonal, imunofixação negativa e relação kappa/lambda de cadeias leves livres normal. Ultrassonografia: rins de 12,8 e 13,1 cm, com ecogenicidade aumentada. Na biópsia renal, o achado esperado é:",
+  "alternativas": {
+   "A": "Fusão difusa de podócitos sem depósitos",
+   "B": "Depósitos subepiteliais com espículas na prata",
+   "C": "Depósitos mesangiais dominantes de IgA",
+   "D": "Depósitos amorfos com birrefringência verde-maçã"
+  },
+  "gabarito": "D",
+  "armadilha": "A",
+  "dado_decisivo": "A PCR se manteve entre 40 e 80 mg/L em todas as dosagens dos últimos 5 anos",
+  "resolucao": "O uso crônico de naproxeno é verdadeiro e puxa para doença de lesões mínimas por anti-inflamatório, que é causa conhecida de síndrome nefrótica. O dado que decide é a inflamação crônica não controlada: PCR persistentemente alta por anos em artrite reumatoide antiga mantém a produção hepática de proteína amiloide A sérica, cujo fragmento se deposita como amiloide AA. O quadro acompanha: proteinúria nefrótica com sedimento inerte, rins de tamanho normal a aumentado apesar da creatinina alta, hepatomegalia e diarreia por acometimento intestinal. A lesão mínima por anti-inflamatório costuma vir com nefrite intersticial (leucocitúria) e não explica fígado nem intestino. A imunofixação e a relação de cadeias leves normais afastam a amiloidose AL. A biópsia mostra material amorfo com birrefringência verde-maçã ao vermelho Congo sob luz polarizada, com imuno-histoquímica positiva para proteína AA; o tratamento é controlar a inflamação de base.",
+  "comentarios": {
+   "A": "Errada. Seria o achado da lesão mínima induzida por anti-inflamatório, sugerida pelo naproxeno; não explica hepatomegalia, diarreia e rins aumentados com inflamação crônica de anos.",
+   "B": "Errada. Seria a nefropatia membranosa, ligada no passado a sais de ouro e penicilamina, ausentes, e que não cursa com hepatomegalia nem diarreia.",
+   "C": "Errada. A nefropatia por IgA pode acompanhar doenças inflamatórias, mas cursaria com hematúria, e o sedimento aqui é inerte.",
+   "D": "Correta. Inflamação crônica não controlada por anos, nefrótica com sedimento inerte, rins aumentados, fígado e intestino acometidos e sem clone de plasmócitos indicam amiloidose AA."
+  },
+  "para_levar": "Síndrome nefrótica com sedimento inerte e rins grandes em doença inflamatória crônica mal controlada é amiloidose AA até prova em contrário; o anti-inflamatório em uso não muda isso, e o tratamento é controlar a inflamação.",
+  "referencias": "Papa R, Lachmann HJ. Secondary, AA, amyloidosis, Rheum Dis Clin North Am 2018; KDIGO 2021 Clinical Practice Guideline for the Management of Glomerular Diseases.",
+  "tags": [
+   "Amiloidose (CM)",
+   "Artrite Reumatóide (CM)",
+   "Síndrome Nefrótica (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "UERJ recorrente: amiloidose AA na doença inflamatória crônica; padrão do aluno de aceitar a droga em uso como causa (rótulo verdadeiro)"
+ },
+ {
+  "id": "R03-REU-05",
+  "simulado": "R03",
+  "area": "Reumatologia",
+  "titulo": "Microangiopatia trombótica na esclerose sistêmica difusa precoce após prednisona: crise renal com ADAMTS13 só discretamente baixa, captopril e não plasmaférese",
+  "arma": "Grade X / Y",
+  "comando": "diagnóstico",
+  "nivel": "extremamente difícil",
+  "enunciado": "Mulher de 41 anos, com esclerose sistêmica cutânea difusa diagnosticada há 8 meses, escore de Rodnan de 28 e anti-RNA polimerase III reagente, iniciou há 4 semanas prednisona 40 mg/dia por miosite sobreposta. Há 3 dias tem cefaleia e visão turva. PA 186 x 112 mmHg (habitual de 100 x 60), FC 96 bpm, sem febre, sem alteração do nível de consciência. Hb 8,1 g/dL, plaquetas 72.000/mm³, esquizócitos em 3% das hemácias, LDH 980 U/L, haptoglobina indetectável, Coombs direto negativo. Creatinina 2,4 mg/dL (0,7 há 1 mês), proteinúria 1+ e hematúria discreta. Atividade da ADAMTS13 de 48% (referência: 60 a 130%). Fundo de olho com hemorragias em chama de vela e exsudatos algodonosos. O diagnóstico e o tratamento mais adequados são, respectivamente:",
+  "alternativas": {
+   "A": "Crise renal esclerodérmica / captopril em doses crescentes",
+   "B": "Púrpura trombocitopênica trombótica / plasmaférese",
+   "C": "Crise renal esclerodérmica / plasmaférese",
+   "D": "Púrpura trombocitopênica trombótica / captopril em doses crescentes"
+  },
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "Atividade da ADAMTS13 de 48% (referência: 60 a 130%)",
+  "resolucao": "Esquizócitos, plaquetopenia, LDH alta e haptoglobina indetectável compõem uma microangiopatia trombótica, e a ADAMTS13 abaixo da referência parece confirmar púrpura trombocitopênica trombótica. Mas a PTT adquirida exige atividade grave, abaixo de 10%; valores de 40 a 60% aparecem em várias microangiopatias secundárias e não definem a doença. O cenário é de crise renal esclerodérmica: doença difusa precoce, anti-RNA polimerase III, corticoide acima de 15 mg/dia, hipertensão acelerada com retinopatia e creatinina que triplicou em um mês. O tratamento é inibidor da ECA de ação curta (captopril) em doses crescentes até controlar a pressão, mantido mesmo se a creatinina subir, com redução do corticoide ao menor possível. A plasmaférese não tem papel definido na crise renal e atrasa a medida que muda o prognóstico.",
+  "comentarios": {
+   "A": "Correta. Esclerose sistêmica difusa precoce, anti-RNA polimerase III, corticoide em dose moderada, hipertensão acelerada e microangiopatia com ADAMTS13 só discretamente baixa são crise renal, tratada com captopril escalonado.",
+   "B": "Errada. Seria a conduta na PTT adquirida, que exige ADAMTS13 abaixo de 10%; o valor de 48% não sustenta o diagnóstico.",
+   "C": "Errada. O diagnóstico está certo, mas a plasmaférese não é o tratamento da crise renal; o que muda o desfecho é o inibidor da ECA.",
+   "D": "Errada. Combina um diagnóstico sem respaldo laboratorial com um tratamento que não corrige a deficiência de ADAMTS13 se ela fosse grave."
+  },
+  "para_levar": "Microangiopatia trombótica com hipertensão acelerada na esclerose sistêmica difusa precoce, sobretudo com anti-RNA polimerase III e corticoide acima de 15 mg/dia, é crise renal: captopril escalonado. PTT exige ADAMTS13 abaixo de 10%.",
+  "referencias": "Kowal-Bielecka O et al. Update of EULAR recommendations for the treatment of systemic sclerosis, 2017; Zheng XL et al. ISTH guidelines for the diagnosis of thrombotic thrombocytopenic purpura, 2020; Bose N et al. Scleroderma renal crisis, Semin Arthritis Rheum 2015.",
+  "tags": [
+   "Esclerose Sistêmica (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "S1 q91 e S1 q51: crise renal esclerodérmica contra PTT, com o limiar da ADAMTS13 como rótulo verdadeiro"
+ },
+ {
+  "id": "R03-REU-06",
+  "simulado": "R03",
+  "area": "Reumatologia",
+  "titulo": "Doença por depósito de pirofosfato antes dos 55 anos com hipomagnesemia e hipocalciúria: síndrome de Gitelman, e não hemocromatose pela ferritina alta",
+  "arma": "Limiar",
+  "comando": "etiologia",
+  "nivel": "difícil",
+  "enunciado": "Homem de 38 anos tem o terceiro episódio, em 2 anos, de monoartrite aguda do joelho. A artrocentese mostra cristais romboides com birrefringência fracamente positiva, 18.000 leucócitos/mm³, Gram e cultura negativos. Radiografias: condrocalcinose meniscal bilateral e na fibrocartilagem triangular dos punhos. Relata cãibras frequentes e fadiga desde a adolescência; nega uso de diuréticos, laxativos ou álcool em excesso. PA 104 x 66 mmHg, sem hepatomegalia, pele sem hiperpigmentação. Sódio 138 mEq/L, potássio 2,9 mEq/L, bicarbonato 31 mEq/L, magnésio 1,1 mg/dL (referência: 1,7 a 2,4), cálcio 9,4 mg/dL, PTH 42 pg/mL, TSH normal. Ferritina 520 ng/mL (referência: 30 a 400) com saturação de transferrina de 29%, colhidas durante a crise. Cálcio urinário de 40 mg/24 h. A causa subjacente mais provável da doença por depósito de pirofosfato é:",
+  "alternativas": {
+   "A": "Hemocromatose hereditária",
+   "B": "Síndrome de Gitelman",
+   "C": "Hiperparatireoidismo primário",
+   "D": "Síndrome de Bartter"
+  },
+  "gabarito": "B",
+  "armadilha": "A",
+  "dado_decisivo": "saturação de transferrina de 29%",
+  "resolucao": "Doença por depósito de pirofosfato antes dos 55 anos obriga a procurar causa metabólica, e a ferritina acima da referência puxa para hemocromatose. Só que a ferritina é reagente de fase aguda e foi colhida na crise; o que define sobrecarga de ferro é a saturação de transferrina acima de 45%, e 29% está normal. O que sobra é hipomagnesemia: o magnésio é cofator das pirofosfatases, e sua falta acumula pirofosfato na cartilagem. Hipocalemia, alcalose metabólica, pressão baixa, hipomagnesemia e hipocalciúria, sem diurético, desde a adolescência, são a síndrome de Gitelman (defeito do cotransportador sódio-cloro do túbulo distal). A hipocalciúria a separa da síndrome de Bartter, que cursa com cálcio urinário normal ou alto, e o cálcio e o PTH normais afastam hiperparatireoidismo.",
+  "comentarios": {
+   "A": "Errada. Seria a causa se a saturação de transferrina passasse de 45%; a ferritina alta colhida na crise é reação de fase aguda.",
+   "B": "Correta. Hipomagnesemia com hipocalemia, alcalose e hipocalciúria sem diurético é Gitelman, e o magnésio baixo favorece o depósito de pirofosfato.",
+   "C": "Errada. É causa conhecida de condrocalcinose, mas pediria cálcio ou PTH elevados, normais aqui.",
+   "D": "Errada. Também cursa com hipocalemia e alcalose, mas com cálcio urinário normal ou alto e magnésio em geral normal; a hipocalciúria fala contra."
+  },
+  "para_levar": "Pirofosfato antes dos 55 anos: dosar magnésio, cálcio, PTH, fosfatase alcalina e saturação de transferrina. Hipomagnesemia com hipocalciúria e alcalose aponta Gitelman; ferritina alta isolada, colhida na crise, não é hemocromatose.",
+  "referencias": "Zhang W et al. EULAR recommendations for calcium pyrophosphate deposition, Ann Rheum Dis 2011; Tedeschi SK et al. 2023 ACR/EULAR classification criteria for CPPD disease; Blanchard A et al. Gitelman syndrome: consensus and guidance from KDIGO, Kidney Int 2017.",
+  "tags": [
+   "Tubulopatias (CM)",
+   "Distúrbios de Fósforo e Magnésio (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "UERJ recorrente: gota, pirofosfato e artrite séptica (causa secundária da doença por pirofosfato no jovem); padrão do aluno de aceitar o laboratório que imita outra doença"
+ }
+]

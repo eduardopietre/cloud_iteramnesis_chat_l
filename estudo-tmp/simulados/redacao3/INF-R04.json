@@ -1,0 +1,207 @@
+[
+ {
+  "id": "R04-INF-01",
+  "simulado": "R04",
+  "area": "Infectologia",
+  "titulo": "Antígeno criptocócico reagente na aids com déficit focal discreto: TC de crânio antes da punção lombar",
+  "arma": "Rótulo verdadeiro",
+  "comando": "próximo exame",
+  "nivel": "difícil",
+  "enunciado": "Homem de 36 anos vive com HIV e abandonou a TARV há 2 anos; o último CD4, de 1 ano atrás, era 60 células/mm³. Há 3 semanas tem cefaleia progressiva, febre vespertina e vômitos, e há 2 dias está sonolento. Temperatura 38,2 °C, PA 128/80 mmHg, FC 96 bpm, Glasgow 14 (confuso), rigidez de nuca discreta, pupilas isocóricas e fundoscopia prejudicada por pouca colaboração. No exame motor, força preservada nos quatro membros, com desvio pronador discreto do membro superior direito e reflexos simétricos. O teste rápido de antígeno criptocócico (fluxo lateral) no soro é reagente, e a sorologia IgG para toxoplasmose também é reagente. O plantonista quer puncionar logo para medir a pressão de abertura. O próximo passo mais adequado é:",
+  "alternativas": {
+   "A": "Punção lombar imediata com manometria",
+   "B": "TC de crânio antes da punção lombar",
+   "C": "Tratamento empírico para toxoplasmose",
+   "D": "Anfotericina empírica sem punção lombar"
+  },
+  "gabarito": "B",
+  "armadilha": "A",
+  "dado_decisivo": "desvio pronador discreto do membro superior direito",
+  "resolucao": "O antígeno criptocócico sérico reagente, com cefaleia subaguda e febre, é verdadeiro e quase fecha neurocriptococose, e a punção com manometria é de fato indispensável para diagnóstico e para tratar a hipertensão intracraniana. O que muda a ordem é o exame neurológico: o desvio pronador é um sinal motor focal, e na aids avançada ele levanta lesão expansiva (neurotoxoplasmose, linfoma, criptococoma) que pode coexistir com a meningite. Imunossupressão grave, rebaixamento de consciência e qualquer déficit focal são indicações de imagem antes da punção, para não precipitar herniação. A TC é rápida e não atrasa o tratamento, e, sem lesão com efeito de massa, a punção vem logo em seguida. A sorologia para toxoplasma reagente só indica infecção latente e não autoriza tratar no escuro, e a anfotericina sem líquor perde o diagnóstico e o controle da pressão.",
+  "comentarios": {
+   "A": "Errada. É a armadilha do antígeno reagente: seria a certa sem déficit focal e com consciência preservada, mas aqui há sinal motor e imunossupressão grave.",
+   "B": "Correta. Aids avançada, rebaixamento e desvio pronador pedem TC antes da punção; sem efeito de massa, a punção com manometria segue de imediato.",
+   "C": "Errada. Seria a conduta com lesões com realce anelar na imagem e sorologia reagente; sem imagem, não há lesão a tratar.",
+   "D": "Errada. A anfotericina pode até começar enquanto se aguarda, mas dispensar a punção deixa sem diagnóstico e sem controle da pressão intracraniana."
+  },
+  "para_levar": "Na aids, antígeno criptocócico reagente não pula a imagem: déficit focal, rebaixamento ou imunossupressão grave pedem TC antes da punção, e a manometria vem logo depois.",
+  "referencias": "IDSA Practice Guidelines for the Management of Bacterial Meningitis (2004) e Cryptococcal Disease (2010); Ministério da Saúde, PCDT para Manejo da Infecção pelo HIV em Adultos (2024); WHO Guidelines for Cryptococcal Disease in HIV (2022).",
+  "tags": [
+   "Neurocriptococcose (CM)",
+   "NeuroAIDS (CM)",
+   "Neurotoxoplasmose (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "UERJ recorrente: TC antes da punção na aids, com o antígeno criptocócico como rótulo que puxa para puncionar já"
+ },
+ {
+  "id": "R04-INF-02",
+  "simulado": "R04",
+  "area": "Infectologia",
+  "titulo": "Síndrome cardiopulmonar por hantavírus aberta como protocolo de sepse: volume cauteloso e vasopressor precoce",
+  "arma": "Rótulo verdadeiro",
+  "comando": "conduta",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 34 anos, agricultor no interior de Minas Gerais, há 2 semanas esvaziou um paiol de milho com muitos roedores. Há 4 dias tem febre, mialgia intensa, cefaleia e dor abdominal; há 12 horas surgiram tosse seca e dispneia progressiva. Temperatura 38,6 °C, PA 86/54 mmHg, FC 124 bpm, FR 34 irpm, SpO2 84% em ar ambiente, estertores crepitantes bilaterais, sem sufusão conjuntival e sem icterícia. Hemoglobina 18,2 g/dL, hematócrito 54% (referência: 40 a 50), leucócitos 18.000/mm³ com desvio e linfócitos atípicos, plaquetas 42.000/mm³, creatinina 1,4 mg/dL, bilirrubina total 0,8 mg/dL, CK 160 U/L, lactato 3,2 mmol/L. Radiografia: infiltrado intersticial bilateral e pequeno derrame pleural bilateral. A equipe abriu o protocolo de sepse, colheu hemoculturas e iniciou ceftriaxona; é intubado. Além do suporte ventilatório, a conduta hemodinâmica mais adequada é:",
+  "alternativas": {
+   "A": "Cristaloide 30 mL/kg nas primeiras 3 horas",
+   "B": "Ribavirina intravenosa iniciada precocemente",
+   "C": "Pulso de metilprednisolona por 3 dias",
+   "D": "Volume cauteloso e noradrenalina precoce"
+  },
+  "gabarito": "D",
+  "armadilha": "A",
+  "dado_decisivo": "hematócrito 54% (referência: 40 a 50)",
+  "resolucao": "Hipotensão, lactato alto, leucocitose com desvio e infiltrado bilateral cumprem o protocolo de sepse, que manda 30 mL/kg de cristaloide. Mas a exposição a roedores em paiol, a hemoconcentração com plaquetopenia e linfócitos atípicos, o edema pulmonar bilateral com derrame e a ausência de icterícia, de sufusão e de CK alta compõem a síndrome cardiopulmonar por hantavírus, e não leptospirose nem pneumonia bacteriana. Nela o choque é de extravasamento capilar pulmonar com depressão miocárdica, e a hemoconcentração reflete plasma fugindo para o pulmão: volume liberal piora o edema e a hipoxemia rapidamente. O manejo é reposição volêmica cautelosa, vasopressor e inotrópico precoces, ventilação protetora e, nos refratários, oxigenação extracorpórea. A ribavirina não tem benefício na forma cardiopulmonar, e corticoide não tem papel estabelecido. Manter o antibiótico até sair a investigação é aceitável, mas não muda a hemodinâmica.",
+  "comentarios": {
+   "A": "Errada. É a armadilha do protocolo de sepse: seria a certa no choque séptico bacteriano, mas no hantavírus o volume liberal agrava o edema pulmonar por extravasamento capilar.",
+   "B": "Errada. Tem algum papel na febre hemorrágica com síndrome renal das hantaviroses do Velho Mundo, mas não mostrou benefício na forma cardiopulmonar das Américas.",
+   "C": "Errada. Seria discutido na pneumonia grave com resposta inflamatória exuberante, mas não reduziu mortalidade no hantavírus e não corrige o choque.",
+   "D": "Correta. Hemoconcentração com edema pulmonar após exposição a roedores pede volume cauteloso, noradrenalina e inotrópico precoces."
+  },
+  "para_levar": "Choque com hemoconcentração, plaquetopenia e edema pulmonar após exposição a roedores silvestres é hantavírus: a ordem é volume cauteloso e vasopressor precoce, e não o bolus de sepse.",
+  "referencias": "Ministério da Saúde, Guia de Vigilância em Saúde, 6ª ed. (2024), capítulo Hantavirose; Manual de Vigilância, Prevenção e Controle das Hantaviroses (MS, 2014); Surviving Sepsis Campaign (2021).",
+  "tags": [
+   "Doenças Virais e Pândemicas (CM)",
+   "Sepse - Abordagem Inicial e Choque Séptico (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "S4 q29: hantavírus x pneumonia com sepse, agora o rótulo de sepse leva ao erro de conduta"
+ },
+ {
+  "id": "R04-INF-03",
+  "simulado": "R04",
+  "area": "Infectologia",
+  "titulo": "Paraparesia por HTLV-1 antes do pulso de corticoide com parasitológico negativo pelo método errado: ivermectina empírica",
+  "arma": "Negativo no meio",
+  "comando": "conduta",
+  "nivel": "extremamente difícil",
+  "enunciado": "Mulher de 49 anos, natural de Salvador, com paraparesia espástica progressiva há 3 anos, urgência miccional e lombalgia, teve diagnóstico de mielopatia associada ao HTLV-1, com Western blot reagente no soro e anticorpos no líquor. Nos últimos 4 meses a marcha piorou rapidamente, e o neurologista indicou pulso de metilprednisolona 1 g/dia por 3 dias seguido de prednisona oral. Nega diarreia, dor abdominal, prurido ou lesões de pele. Hemoglobina 12,8 g/dL, leucócitos 6.900/mm³ com eosinófilos 380/mm³, função renal e hepática normais. Três exames parasitológicos de fezes, pelo método de sedimentação espontânea (Hoffman), negativos. Sorologia para Strongyloides não disponível no serviço. Antes de iniciar o corticoide, a conduta mais adequada é:",
+  "alternativas": {
+   "A": "Ivermectina empírica antes do corticoide",
+   "B": "Pulso sem antiparasitário, com parasitológico de controle",
+   "C": "Albendazol por 3 dias antes do corticoide",
+   "D": "Contraindicar o corticoide pelo HTLV-1"
+  },
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "pelo método de sedimentação espontânea (Hoffman), negativos",
+  "resolucao": "Três parasitológicos negativos, sem sintomas digestivos e sem eosinofilia franca, parecem liberar o pulso. Mas o método de Hoffman detecta ovos e não é adequado para larvas de Strongyloides stercoralis, que exigem métodos de migração larval (Baermann-Moraes, Rugai) ou cultura em placa de ágar, e mesmo esses têm sensibilidade baixa com poucas amostras. Além disso, a coinfecção pelo HTLV-1 é o principal fator de risco para hiperinfecção, porque desvia a resposta para o perfil Th1 e reduz a eosinofilia e a IgE que controlariam o parasita; eosinófilos normais não tranquilizam. Corticoide em dose alta nessa paciente, de área endêmica, pode desencadear hiperinfecção com bacteremia por Gram-negativos e mortalidade alta. Sem sorologia disponível, a conduta é ivermectina empírica antes do pulso, e o corticoide segue indicado para a mielopatia em progressão.",
+  "comentarios": {
+   "A": "Correta. Área endêmica, HTLV-1 e corticoide em dose alta com triagem inadequada pedem ivermectina empírica antes do pulso.",
+   "B": "Errada. É a armadilha do parasitológico negativo: o método usado não detecta larvas, e a hiperinfecção pode começar dias após o pulso.",
+   "C": "Errada. Seria opção para ascaridíase e ancilostomíase; na estrongiloidíase é inferior à ivermectina e não é recomendado para prevenir hiperinfecção.",
+   "D": "Errada. O HTLV-1 não contraindica corticoide, que é o tratamento da mielopatia em fase de progressão rápida; basta tratar o Strongyloides antes."
+  },
+  "para_levar": "Antes de corticoide em dose alta em quem vem de área endêmica, especialmente com HTLV-1, trate Strongyloides empiricamente com ivermectina: parasitológico comum negativo não exclui.",
+  "referencias": "Ministério da Saúde, Guia de Manejo Clínico da Infecção pelo HTLV (2022); Requena-Méndez A et al., Strongyloidiasis screening before immunosuppression, Clin Infect Dis (2017); CDC Strongyloidiasis Resources for Health Professionals (2024).",
+  "tags": [
+   "Estrongiloidiase (CM)",
+   "Infecção em Imunossuprimido (CM)",
+   "Mielopatia (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "S3 q1 (HTLV-1) cruzado com UERJ recorrente: corticoide muda o agente, estrongiloidíase com triagem negativa enganosa"
+ },
+ {
+  "id": "R04-INF-04",
+  "simulado": "R04",
+  "area": "Infectologia",
+  "titulo": "Meningite tuberculosa no diabético descompensado sem HIV: corticoide mesmo assim e tratamento por 12 meses",
+  "arma": "Grade X / Y",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Homem de 56 anos, com diabetes tipo 2 em uso de insulina (HbA1c de 9,8%), sorologia para HIV não reagente, tem cefaleia e febre baixa há 3 semanas; há 4 dias surgiram diplopia e sonolência. Temperatura 37,9 °C, Glasgow 13, rigidez de nuca, paralisia do VI nervo à direita, sem outros déficits. Glicemia capilar de 260 mg/dL. TC de crânio: realce leptomeníngeo nas cisternas da base e dilatação ventricular leve, sem lesões com efeito de massa. Líquor: 280 células/mm³ com 70% de linfócitos, proteína 240 mg/dL, glicose 32 mg/dL com glicemia simultânea de 210 mg/dL, ADA 14 U/L, teste rápido molecular com Mycobacterium tuberculosis detectado, sem resistência à rifampicina. O endocrinologista pede que se evite corticoide pelo controle glicêmico difícil. Quanto ao uso de corticoide sistêmico e à duração total do tratamento antituberculose, respectivamente, a conduta mais adequada é:",
+  "alternativas": {
+   "A": "Sem corticoide / 6 meses",
+   "B": "Com corticoide / 6 meses",
+   "C": "Com corticoide / 12 meses",
+   "D": "Sem corticoide / 12 meses"
+  },
+  "gabarito": "C",
+  "armadilha": "D",
+  "dado_decisivo": "Mycobacterium tuberculosis detectado, sem resistência à rifampicina",
+  "resolucao": "O pedido do endocrinologista é razoável à primeira vista, e quem lembra que a meningite muda a duração mas esquece o corticoide marca 12 meses sem ele. A meningite tuberculosa confirmada pelo teste molecular, na pessoa sem HIV, tem indicação de corticoide em todos os graus de gravidade, porque reduz a mortalidade; aqui ainda há rebaixamento, nervo craniano acometido e hidrocefalia, sinais de doença avançada. O diabetes descompensado não é contraindicação: exige insulina ajustada e monitorização, e não suspender o que reduz morte. O esquema brasileiro para meningoencefalite tuberculosa é 2 meses de RHZE seguidos de 10 meses de RH, 12 meses no total, com prednisona ou dexametasona por 4 a 8 semanas com retirada gradual. A razão glicorraquia/glicemia de 0,15 confirma o consumo de glicose, mesmo com a glicose liquórica falsamente tranquilizadora pela hiperglicemia.",
+  "comentarios": {
+   "A": "Errada. Seria o esquema da tuberculose pulmonar sem complicação; a meningite exige 12 meses e corticoide.",
+   "B": "Errada. Acerta o corticoide, mas 6 meses é o tempo da forma pulmonar; a meningoencefalite pede 2RHZE seguido de 10RH.",
+   "C": "Correta. Meningite tuberculosa: corticoide adjuvante, mesmo com diabetes, e 12 meses de tratamento.",
+   "D": "Errada. É a armadilha do diabetes: acerta a duração, mas abrir mão do corticoide aumenta a mortalidade, e a glicemia se controla com insulina."
+  },
+  "para_levar": "Meningite tuberculosa: corticoide adjuvante para todos os graus na pessoa sem HIV, e 12 meses de tratamento (2RHZE seguido de 10RH); diabetes pede ajuste de insulina, e não retirar o corticoide.",
+  "referencias": "Ministério da Saúde, Manual de Recomendações para o Controle da Tuberculose no Brasil, 2ª ed. (2019, atualizado 2022); WHO Consolidated Guidelines on Tuberculosis, Module 4: Treatment (2022); ATS/CDC/ERS/IDSA Treatment of Drug-Susceptible Tuberculosis (2016).",
+  "tags": [
+   "Meningite Tuberculosa (CM)",
+   "Tuberculose : Tratamento Medicamentoso e Efeitos Colaterais (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "UERJ recorrente: meningite tuberculosa (corticoide e duração), com a comorbidade que parece contraindicar o padrão"
+ },
+ {
+  "id": "R04-INF-05",
+  "simulado": "R04",
+  "area": "Infectologia",
+  "titulo": "Reação hansênica tipo 1 com neurite durante a PQT no multibacilar: manter a PQT e prednisona, e não talidomida",
+  "arma": "Grade X / Y",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Homem de 44 anos, com hanseníase dimorfa multibacilar (14 lesões, índice baciloscópico de 3,5 no diagnóstico), está no 4º mês de PQT-U com rifampicina, clofazimina e dapsona, com boa adesão. Há 10 dias, as lesões antigas tornaram-se eritematosas, edemaciadas e infiltradas, algumas com descamação, e surgiram dor no cotovelo direito e formigamento no 4º e 5º dedos da mão direita. Nega febre, artralgia, dor ocular e lesões novas; está preocupado que a doença esteja piorando apesar dos remédios. Temperatura 36,8 °C, PA 124/78 mmHg; nervo ulnar direito espessado e doloroso à palpação, com redução da força de abdução do 5º dedo em relação à avaliação inicial e perda de sensibilidade ao monofilamento de 2 g. Sem nódulos subcutâneos dolorosos. Hemograma e função hepática normais. Quanto à PQT e ao tratamento do quadro atual, respectivamente, a conduta mais adequada é:",
+  "alternativas": {
+   "A": "Suspender a PQT / prednisona 1 mg/kg/dia",
+   "B": "Manter a PQT / prednisona 1 mg/kg/dia",
+   "C": "Manter a PQT / talidomida 100 a 400 mg/dia",
+   "D": "Suspender a PQT / talidomida 100 a 400 mg/dia"
+  },
+  "gabarito": "B",
+  "armadilha": "C",
+  "dado_decisivo": "as lesões antigas tornaram-se eritematosas, edemaciadas e infiltradas",
+  "resolucao": "O paciente multibacilar com índice baciloscópico alto é o candidato habitual ao eritema nodoso hansênico, tratado com talidomida, e a preocupação dele puxa para a ideia de falha e suspensão da PQT. Mas o quadro é de reação tipo 1 (reversa): reagudização das lesões antigas, que ficam eritematosas, edemaciadas e infiltradas, com neurite, sem febre, sem nódulos dolorosos e sem acometimento sistêmico. A reação reversa é imunidade celular contra antígenos do bacilo, comum nas formas dimorfas e nos primeiros meses de tratamento, e não indica resistência nem falha. A PQT deve ser mantida, e a neurite com perda de força e sensibilidade pede prednisona 1 mg/kg/dia com redução lenta guiada pela avaliação neurológica, além de imobilização e acompanhamento da função. A talidomida não age na reação tipo 1.",
+  "comentarios": {
+   "A": "Errada. O corticoide está certo, mas a reação não é falha; interromper a PQT deixa a doença sem tratamento e não ajuda a reação.",
+   "B": "Correta. Reação tipo 1 com neurite: manter a PQT e iniciar prednisona 1 mg/kg/dia.",
+   "C": "Errada. É a armadilha do multibacilar: seria a certa no eritema nodoso hansênico (nódulos dolorosos, febre, artralgia), mas não age na reação reversa.",
+   "D": "Errada. Junta os dois erros: a reação não é motivo para suspender a PQT, e a talidomida é droga da reação tipo 2."
+  },
+  "para_levar": "Reação tipo 1 é reagudização das lesões antigas com neurite: prednisona 1 mg/kg/dia e PQT mantida. Talidomida é só para o eritema nodoso (tipo 2).",
+  "referencias": "Ministério da Saúde, PCDT Hanseníase (2022); Guia Prático sobre a Hanseníase (MS, 2017); WHO Guidelines for the Diagnosis, Treatment and Prevention of Leprosy (2018).",
+  "tags": [
+   "Hanseníase (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "UERJ recorrente: hanseníase e reações, com o rótulo multibacilar que puxa para a talidomida"
+ },
+ {
+  "id": "R04-INF-06",
+  "simulado": "R04",
+  "area": "Infectologia",
+  "titulo": "Dengue na defervescência com plaquetas abaixo de 20 mil e sem sangramento mucoso: hidratação oral, sem transfundir",
+  "arma": "Limiar",
+  "comando": "conduta",
+  "nivel": "média",
+  "enunciado": "Mulher de 33 anos, professora, previamente hígida, está no 5º dia de dengue confirmada por NS1 reagente no 2º dia; a febre cedeu ontem. Relata cansaço e inapetência, mas aceita bem líquidos; nega dor abdominal, vômitos, tontura ao levantar e redução da diurese. Notou pontos vermelhos nas pernas, sem sangramento de mucosas, sem melena e sem fluxo menstrual aumentado. Ao exame, PA 112/72 mmHg deitada e 110/70 mmHg em pé, FC 84 bpm, enchimento capilar de 2 segundos, petéquias nos membros inferiores, prova do laço positiva, sem hepatomegalia e sem derrames. Hematócrito 41% (basal de 39% no 2º dia), plaquetas 14.000/mm³, albumina 3,8 g/dL. A família pede que se faça transfusão de plaquetas 'antes que sangre'. A conduta mais adequada é:",
+  "alternativas": {
+   "A": "Transfusão profilática de plaquetas",
+   "B": "Internação com hidratação venosa",
+   "C": "Prednisona para a plaquetopenia",
+   "D": "Hidratação oral e reavaliação diária"
+  },
+  "gabarito": "D",
+  "armadilha": "A",
+  "dado_decisivo": "sem sangramento de mucosas",
+  "resolucao": "Plaquetas abaixo de 20.000/mm³ lembram o limiar de transfusão profilática da plaquetopenia por falência medular, e a pressão da família reforça. Na dengue esse limiar não vale: a plaquetopenia é periférica, por consumo e destruição imune, se recupera em poucos dias, e a transfusão profilática não reduz sangramento grave nem mortalidade, além de expor a riscos e sobrecarga. A paciente tem petéquias e prova do laço positiva, sem sinais de alarme (sem dor abdominal, vômitos, hipotensão postural, sangramento mucoso ou aumento relevante do hematócrito), e por isso é grupo B: hidratação oral vigorosa, hemograma e reavaliação clínica diária até 48 horas após a defervescência, que é a fase crítica. Plaquetas só se transfundem com sangramento ativo relevante que persiste após corrigir volume e coagulação.",
+  "comentarios": {
+   "A": "Errada. É a armadilha do número: o limiar de 20.000 vale para aplasia e quimioterapia, e não para a plaquetopenia periférica e transitória da dengue sem sangramento.",
+   "B": "Errada. Seria a certa no grupo C, com sinal de alarme como dor abdominal, vômitos persistentes, hipotensão postural ou hematócrito subindo; nenhum está presente.",
+   "C": "Errada. Seria tratamento da trombocitopenia imune primária com sangramento; na dengue o corticoide não acelera a recuperação das plaquetas.",
+   "D": "Correta. Grupo B na fase crítica: hidratação oral, hemograma e reavaliação diária, sem transfusão."
+  },
+  "para_levar": "Na dengue, plaquetas baixas sem sangramento ativo não se transfundem, qualquer que seja o número: o que define a conduta são os sinais de alarme e o hematócrito.",
+  "referencias": "Ministério da Saúde, Dengue: Diagnóstico e Manejo Clínico, Adulto e Criança, 6ª ed. (2024); OPAS, Diretrizes para o Diagnóstico Clínico e Tratamento de Dengue, Chikungunya e Zika (2022).",
+  "tags": [
+   "Dengue (CM)",
+   "Arboviroses (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "UERJ recorrente: arboviroses, com o limiar de transfusão da falência medular aplicado no lugar errado"
+ }
+]
