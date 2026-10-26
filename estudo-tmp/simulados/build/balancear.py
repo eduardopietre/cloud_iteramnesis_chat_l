@@ -38,7 +38,7 @@ def trocar(q, a, b):
 
 
 for n in sys.argv[2:]:
-    arqs = sorted(glob.glob(os.path.join(d, f'*-S{n}.json')))
+    arqs = sorted(glob.glob(os.path.join(d, f'*-{n}.json' if n.startswith('R') else f'*-S{n}.json')))
     dados = {f: json.load(open(f)) for f in arqs}
     qs = [q for f in arqs for q in dados[f]]
     movs = [q for q in qs if movivel(q)]

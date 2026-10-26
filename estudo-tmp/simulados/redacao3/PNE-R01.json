@@ -1,0 +1,126 @@
+[
+ {
+  "id": "R01-PNE-01",
+  "simulado": "R01",
+  "area": "Pneumologia",
+  "titulo": "Síndrome de Löfgren em quem tem irmã com linfoma: diagnóstico clínico, sem biópsia de linfonodo",
+  "arma": "Rótulo verdadeiro",
+  "comando": "próximo exame",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 31 anos, não tabagista, procura atendimento por dor e edema nos dois tornozelos há 3 semanas, com febre baixa e nódulos dolorosos, vermelho-violáceos, nas faces anteriores das pernas. Está preocupada porque a irmã teve linfoma de Hodgkin aos 28 anos. Nega sudorese noturna, prurido e perda de peso; nega tosse e dispneia. Ao exame, periartrite bilateral dos tornozelos, sem linfonodos periféricos palpáveis, sem hepatoesplenomegalia, ausculta pulmonar normal. Hemograma normal, VHS 58 mm/h, cálcio 9,8 mg/dL. Radiografia de tórax: alargamento hilar bilateral e simétrico, com linfonodomegalia paratraqueal direita, parênquima normal. Prova tuberculínica 0 mm. O próximo passo mais adequado é:",
+  "alternativas": {
+   "A": "Biópsia de um nódulo cutâneo",
+   "B": "Ultrassonografia endobrônquica com punção",
+   "C": "Seguimento clínico, sem biópsia",
+   "D": "PET-CT com FDG"
+  },
+  "gabarito": "C",
+  "armadilha": "B",
+  "dado_decisivo": "alargamento hilar bilateral e simétrico",
+  "resolucao": "O linfoma na irmã é verdadeiro e faz a adenopatia mediastinal parecer pedir histologia, por isso a punção por ultrassonografia endobrônquica atrai. Mas eritema nodoso, periartrite de tornozelos, febre e adenopatia hilar bilateral simétrica compõem a síndrome de Löfgren, cuja especificidade para sarcoidose é tão alta que a diretriz dispensa biópsia. A ausência de sintomas B, de linfonodos periféricos e de visceromegalia enfraquece linfoma, e a adenopatia assimétrica ou isolada é que levantaria essa hipótese. A doença tem remissão espontânea na maioria em até 2 anos: o tratamento é anti-inflamatório para as artralgias, com seguimento clínico e radiológico, e a biópsia passa a ser indicada se o quadro fugir do esperado (persistência além de alguns meses, sintomas B, adenopatia que cresce). A biópsia do nódulo cutâneo mostra paniculite septal, sem granuloma, e não confirma nada.",
+  "comentarios": {
+   "A": "Errada. O eritema nodoso é paniculite septal inespecífica; sua biópsia não mostra granuloma e não ajuda no diagnóstico de sarcoidose.",
+   "B": "Errada. É a armadilha do antecedente familiar: seria o exame para adenopatia assimétrica, com sintomas B ou sem o quadro de Löfgren completo.",
+   "C": "Correta. Löfgren completo (eritema nodoso, periartrite e adenopatia hilar bilateral simétrica) dispensa biópsia; seguimento clínico.",
+   "D": "Errada. O PET capta em sarcoidose e em linfoma igualmente e não distingue as duas; não muda a conduta aqui."
+  },
+  "para_levar": "Löfgren completo é diagnóstico clínico de sarcoidose: sem biópsia e sem corticoide; biopsiar só quando o quadro sair do roteiro.",
+  "referencias": "ATS Clinical Practice Guideline: Diagnosis and Detection of Sarcoidosis (Crouser et al., 2020); ERS Clinical Practice Guidelines on Treatment of Sarcoidosis (2021).",
+  "tags": ["Sarcoidose (CM)"],
+  "sourceQuestionId": null,
+  "alvo": "S2 q15: Löfgren dispensa biópsia e corticoide; aqui o rótulo é o linfoma na irmã"
+ },
+ {
+  "id": "R01-PNE-02",
+  "simulado": "R01",
+  "area": "Pneumologia",
+  "titulo": "Nódulo pulmonar de alta probabilidade com biópsia transtorácica inespecífica: a biópsia negativa não muda a ressecção",
+  "arma": "Negativo no meio",
+  "comando": "conduta",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 67 anos, tabagista de 50 maços-ano, com DPOC leve (VEF1 72% do previsto, DLCO 70%), teve achado de nódulo sólido de 2,2 cm no lobo superior direito, de contornos espiculados, que não existia em TC de 18 meses antes. PET-CT: captação com SUV máximo de 7,8 no nódulo, sem captação mediastinal ou à distância; RM de crânio normal. Foi feita biópsia transtorácica guiada por TC, com dois fragmentos que mostram parênquima com fibrose e infiltrado inflamatório crônico inespecífico, sem células neoplásicas e sem granulomas; culturas negativas. Está assintomático, sem febre, ECOG 0, e a avaliação cardiológica liberou cirurgia. A conduta mais adequada é:",
+  "alternativas": {
+   "A": "Ressecção cirúrgica anatômica",
+   "B": "TC de tórax em 3 meses",
+   "C": "Repetir a biópsia transtorácica",
+   "D": "Radioterapia estereotáxica"
+  },
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "que não existia em TC de 18 meses antes",
+  "resolucao": "A biópsia sem neoplasia parece tranquilizadora e faz o controle tomográfico atraente. Mas a probabilidade pré-teste deste nódulo é muito alta: tabagismo pesado, idade, lobo superior, espículas, 2,2 cm, crescimento documentado (ausente 18 meses antes) e captação intensa no PET. Nesse cenário, uma biópsia não diagnóstica (inflamação inespecífica, sem um diagnóstico benigno específico como granuloma ou hamartoma) tem valor preditivo negativo baixo e não reduz a probabilidade o bastante. Com estadiamento negativo e paciente operável, a ressecção anatômica com linfadenectomia é ao mesmo tempo diagnóstica e terapêutica. Repetir a biópsia só atrasa, e a radioterapia estereotáxica fica para quem não tem condição cirúrgica.",
+  "comentarios": {
+   "A": "Correta. Nódulo de alta probabilidade, que cresceu e capta, em paciente operável: a biópsia inespecífica não muda a indicação de ressecção.",
+   "B": "Errada. É a armadilha: o controle seria para nódulo de probabilidade baixa ou com diagnóstico benigno específico, e aqui há crescimento documentado.",
+   "C": "Errada. Uma segunda biópsia negativa também não excluiria câncer e atrasaria o tratamento de um tumor potencialmente curável.",
+   "D": "Errada. Seria a opção para quem não tem condição cirúrgica; este paciente tem função pulmonar e risco cardíaco que permitem ressecção."
+  },
+  "para_levar": "No nódulo de alta probabilidade, só um diagnóstico benigno específico afasta câncer; biópsia inespecífica não muda a indicação de ressecção.",
+  "referencias": "ACCP Evaluation of Individuals With Pulmonary Nodules (Gould et al., 2013); BTS Guidelines for the Investigation and Management of Pulmonary Nodules (2015); NCCN NSCLC 2026.",
+  "tags": ["Nódulo Pulmonar (CM)", "Câncer de pulmão"],
+  "sourceQuestionId": null,
+  "alvo": "S2 q71: nódulo de alta probabilidade vai à ressecção; aqui a biópsia negativa plantada no meio puxa para observar"
+ },
+ {
+  "id": "R01-PNE-03",
+  "simulado": "R01",
+  "area": "Pneumologia",
+  "titulo": "Curva fluxo-volume na estenose traqueal rígida pós-intubação rotulada como asma: platô nas duas alças",
+  "arma": "Rótulo verdadeiro",
+  "comando": "achado esperado",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 42 anos, com asma leve na infância, ficou 16 dias intubada por pneumonia grave há 5 meses. Há 2 meses tem dispneia progressiva aos esforços e ruído respiratório audível tanto na inspiração quanto na expiração, sem melhora com formoterol-budesonida prescritos como asma. Nega rouquidão e disfagia. Ao exame, estridor bifásico em repouso que se acentua com a hiperventilação, sibilância difusa ausente à ausculta dos campos pulmonares, SpO2 97%. A TC do pescoço e do tórax mostra estenose concêntrica, rígida, de 1,5 cm de extensão, na traqueia cervical logo abaixo da cricoide, com luz residual de 6 mm, sem colapso dinâmico nas fases do ciclo respiratório. Na curva fluxo-volume, o achado esperado é:",
+  "alternativas": {
+   "A": "Achatamento isolado da alça inspiratória",
+   "B": "Achatamento isolado da alça expiratória",
+   "C": "Concavidade expiratória com volumes altos",
+   "D": "Achatamento das alças inspiratória e expiratória"
+  },
+  "gabarito": "D",
+  "armadilha": "C",
+  "dado_decisivo": "sem colapso dinâmico nas fases do ciclo respiratório",
+  "resolucao": "A asma prévia é verdadeira e puxa para obstrução das pequenas vias aéreas, com concavidade da alça expiratória. Mas a intubação prolongada, o estridor bifásico e a ausência de resposta ao broncodilatador apontam lesão de via aérea central. A forma da curva depende de a lesão variar ou não de calibre com a pressão: estenose rígida, concêntrica, que não muda de diâmetro ao longo do ciclo, é obstrução fixa e limita o fluxo igualmente na inspiração e na expiração, achatando as duas alças. O achatamento isolado da inspiratória seria da obstrução variável extratorácica (paralisia de pregas vocais, traqueomalácia cervical), e o da expiratória, da variável intratorácica. A localização cervical, portanto, só define a alça quando a lesão é variável.",
+  "comentarios": {
+   "A": "Errada. Seria o achado da obstrução variável extratorácica, como a paralisia de pregas vocais; aqui a lesão é rígida.",
+   "B": "Errada. Seria o achado da obstrução variável intratorácica, como tumor da traqueia distal ou traqueomalácia torácica.",
+   "C": "Errada. É a armadilha da asma: concavidade expiratória é obstrução de pequenas vias aéreas, que não explica o estridor bifásico.",
+   "D": "Correta. Estenose rígida sem variação de calibre é obstrução fixa: platô inspiratório e expiratório."
+  },
+  "para_levar": "Na via aérea central, a curva depende de a lesão ser fixa ou variável: fixa achata as duas alças, onde quer que esteja; variável achata a inspiratória se extratorácica e a expiratória se intratorácica.",
+  "referencias": "ERS/ATS Technical Standard on Interpretive Strategies for Routine Lung Function Tests (Stanojevic et al., 2022); Diretrizes para Testes de Função Pulmonar da SBPT (2002).",
+  "tags": ["Espirometria (CM)", "Fisiologia e Semiologia pulmonar (CM)"],
+  "sourceQuestionId": null,
+  "alvo": "S2 q78: forma da curva fluxo-volume na obstrução central (fixa x variável), com rótulo de asma"
+ },
+ {
+  "id": "R01-PNE-04",
+  "simulado": "R01",
+  "area": "Pneumologia",
+  "titulo": "CVF reduzida na artrite reumatoide em uso de metotrexato: pletismografia mostra aprisionamento, e não restrição",
+  "arma": "Rótulo verdadeiro",
+  "comando": "diagnóstico",
+  "nivel": "extremamente difícil",
+  "enunciado": "Mulher de 56 anos, não tabagista, com artrite reumatoide soropositiva há 12 anos, em uso de metotrexato 20 mg/semana há 8 anos, refere dispneia progressiva aos esforços há 1 ano, com tosse seca. Ausculta com raros grasnidos expiratórios, sem estertores em velcro. Espirometria: VEF1 48% do previsto, CVF 61%, VEF1/CVF 0,58, sem resposta ao broncodilatador. Pletismografia: CPT 104% do previsto, VR 192% do previsto, VR/CPT 0,62. DLCO 82% do previsto. TC de alta resolução: atenuação em mosaico, que se acentua na expiração, com espessamento de paredes brônquicas, sem reticulado, sem faveolamento e sem vidro fosco. O distúrbio funcional e a lesão mais provável são:",
+  "alternativas": {
+   "A": "Misto / pneumopatia intersticial e bronquiolite",
+   "B": "Restritivo / pneumonite por metotrexato",
+   "C": "Obstrutivo com aprisionamento / bronquiolite constritiva",
+   "D": "Restritivo / pneumopatia intersticial da artrite"
+  },
+  "gabarito": "C",
+  "armadilha": "D",
+  "dado_decisivo": "CPT 104% do previsto",
+  "resolucao": "A artrite reumatoide e o metotrexato são verdadeiros e puxam para doença intersticial ou pneumonite por droga, e a CVF reduzida parece confirmar restrição. Mas CVF baixa só indica restrição se a capacidade pulmonar total estiver reduzida, e aqui ela é normal, enquanto o volume residual quase dobrou: a CVF caiu porque o ar ficou aprisionado, e não porque o pulmão encolheu. Com VEF1/CVF baixa, sem resposta ao broncodilatador, DLCO preservada e mosaico que se acentua na expiração sem reticulado, o quadro é obstrução de pequenas vias aéreas por bronquiolite constritiva, manifestação conhecida da artrite reumatoide. A pneumonite por metotrexato seria aguda ou subaguda, com vidro fosco, febre e DLCO baixa. Distúrbio misto exigiria CPT abaixo do limite inferior.",
+  "comentarios": {
+   "A": "Errada. Distúrbio misto exige obstrução com CPT reduzida; a CPT é normal e não há reticulado.",
+   "B": "Errada. Pneumonite por metotrexato é subaguda, com vidro fosco e DLCO baixa; a CPT normal afasta restrição.",
+   "C": "Correta. CPT normal com VR muito alto e mosaico expiratório: obstrução com aprisionamento por bronquiolite constritiva.",
+   "D": "Errada. É a armadilha da artrite: a pneumopatia intersticial reduziria CPT e DLCO e mostraria reticulado."
+  },
+  "para_levar": "CVF baixa com VEF1/CVF baixa não é distúrbio misto até a pletismografia mostrar CPT reduzida; CPT normal com VR alto é aprisionamento aéreo.",
+  "referencias": "ERS/ATS Technical Standard on Interpretive Strategies for Routine Lung Function Tests (Stanojevic et al., 2022); Diretrizes da SBPT para Testes de Função Pulmonar (2002).",
+  "tags": ["Espirometria (CM)", "Distúrbios Ventilatórios Obstrutivos (CM)"],
+  "sourceQuestionId": null,
+  "alvo": "S3 q22: CVF reduzida por aprisionamento aéreo (CPT normal, VR alto), e não restrição pela droga ou pela doença de base"
+ }
+]

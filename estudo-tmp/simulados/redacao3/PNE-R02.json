@@ -1,0 +1,126 @@
+[
+ {
+  "id": "R02-PNE-01",
+  "simulado": "R02",
+  "area": "Pneumologia",
+  "titulo": "Derrame com ADA alto em contato de tuberculose: glicose muito baixa e predomínio neutrofílico apontam derrame parapneumônico complicado",
+  "arma": "Rótulo verdadeiro",
+  "comando": "diagnóstico",
+  "nivel": "difícil",
+  "enunciado": "Homem de 49 anos, etilista, cujo irmão, com quem mora, termina tratamento para tuberculose pulmonar, procura atendimento por febre de 38,7 °C, tosse com expectoração amarelada e dor pleurítica à direita há 9 dias. Fez amoxicilina por 5 dias, sem melhora. Ao exame, FR 24 irpm, SpO2 93%, macicez e murmúrio abolido no terço inferior do hemitórax direito. Leucócitos 19.400/mm³. Radiografia: consolidação em base direita com derrame moderado. Toracocentese: líquido turvo, não purulento, pH 6,95, glicose 14 mg/dL (glicemia 112 mg/dL), LDH 2.900 U/L, proteína 4,6 g/dL, 12.800 células/mm³ com neutrófilos 88%, ADA 92 U/L; Gram sem bactérias. O diagnóstico mais provável é:",
+  "alternativas": {
+   "A": "Tuberculose pleural",
+   "B": "Derrame parapneumônico complicado",
+   "C": "Derrame pleural reumatoide",
+   "D": "Derrame parapneumônico não complicado"
+  },
+  "gabarito": "B",
+  "armadilha": "A",
+  "dado_decisivo": "neutrófilos 88%",
+  "resolucao": "O irmão com tuberculose e o ADA de 92 U/L são verdadeiros e empurram para tuberculose pleural. Mas o ADA sobe também no empiema e no derrame parapneumônico complicado, porque os neutrófilos ativados liberam a enzima, e ele só sustenta tuberculose num exsudato linfocítico. Aqui o líquido tem 88% de neutrófilos, pH abaixo de 7,20, glicose abaixo de 60 mg/dL e LDH muito alta, todos critérios de derrame parapneumônico complicado, num quadro de pneumonia que não respondeu ao antibiótico oral. Glicose tão baixa é rara na tuberculose pleural e aparece no empiema e no derrame reumatoide, mas este último seria crônico, sem pneumonia e em quem tem artrite. A conduta é drenagem torácica e antibiótico com cobertura de anaeróbios.",
+  "comentarios": {
+   "A": "Errada. É a armadilha do contato e do ADA: a tuberculose pleural dá exsudato linfocítico, e não neutrofílico com pH e glicose tão baixos.",
+   "B": "Correta. Pneumonia com líquido neutrofílico, pH abaixo de 7,20 e glicose abaixo de 60 mg/dL: derrame complicado, e o ADA alto vem dos neutrófilos.",
+   "C": "Errada. Também tem glicose muito baixa, mas é crônico, ocorre em quem já tem artrite reumatoide e não acompanha pneumonia aguda.",
+   "D": "Errada. O não complicado tem pH acima de 7,20 e glicose acima de 60 mg/dL; os dois critérios estão violados."
+  },
+  "para_levar": "ADA alto só sugere tuberculose em exsudato linfocítico; com neutrófilos, pH abaixo de 7,20 e glicose abaixo de 60 mg/dL, o diagnóstico é derrame parapneumônico complicado.",
+  "referencias": "BTS Guideline for Pleural Disease (2023); Diretrizes Brasileiras para Tuberculose da SBPT (2009) e Manual de Recomendações para o Controle da Tuberculose no Brasil (MS, 2019).",
+  "tags": ["Derrame Pleural (CM)"],
+  "sourceQuestionId": null,
+  "alvo": "S3 q57: glicose pleural e celularidade contra o ADA alto com contato de tuberculose"
+ },
+ {
+  "id": "R02-PNE-02",
+  "simulado": "R02",
+  "area": "Pneumologia",
+  "titulo": "Hemorragia alveolar sem hemoptise na nefrite lúpica: DLCO que sobe e queda de hemoglobina contra pneumonite e infecção",
+  "arma": "Dado omitido",
+  "comando": "diagnóstico",
+  "nivel": "extremamente difícil",
+  "enunciado": "Mulher de 26 anos, com lúpus eritematoso sistêmico e nefrite classe IV em indução com micofenolato e prednisona 40 mg/dia há 5 semanas, procura o pronto-socorro por dispneia progressiva há 2 dias e tosse seca. Nega hemoptise. Temperatura 37,6 °C, FR 28 irpm, SpO2 89% em ar ambiente, PA 132 x 84 mmHg, sem edema e sem turgência jugular. Hemoglobina 7,4 g/dL (era 10,1 g/dL há 4 dias), sem sinais de hemólise, sem sangramento digestivo; plaquetas 168.000/mm³, coagulograma normal. TC de tórax: vidro fosco difuso bilateral, poupando a periferia, sem derrame. DLCO de 128% do previsto (há 2 meses, 74%). Beta-D-glucana negativa. O diagnóstico mais provável é:",
+  "alternativas": {
+   "A": "Pneumonite lúpica aguda",
+   "B": "Pneumonia por Pneumocystis",
+   "C": "Hemorragia alveolar difusa",
+   "D": "Edema pulmonar por sobrecarga"
+  },
+  "gabarito": "C",
+  "armadilha": "B",
+  "dado_decisivo": "DLCO de 128% do previsto",
+  "resolucao": "A imunossupressão intensa e o vidro fosco difuso puxam para pneumocistose, e o lúpus ativo puxa para pneumonite lúpica. Nenhuma das duas explica a queda de quase 3 g/dL de hemoglobina em 4 dias sem hemólise e sem sangramento visível, e ambas reduziriam a DLCO. A hemoglobina extravasada nos alvéolos capta monóxido de carbono e faz a DLCO subir, de modo que uma DLCO acima do previsto, ainda mais subindo em relação à anterior, é o marcador funcional de sangue alveolar recente. A ausência de hemoptise não afasta: um terço dos casos não a tem. A confirmação vem do lavado broncoalveolar com alíquotas progressivamente mais hemorrágicas, e o tratamento é pulsoterapia, com plasmaférese discutida conforme a gravidade.",
+  "comentarios": {
+   "A": "Errada. Também dá vidro fosco no lúpus ativo, mas reduz a DLCO e não explica a queda de hemoglobina.",
+   "B": "Errada. É a armadilha da imunossupressão: reduz a DLCO, não derruba a hemoglobina e a beta-D-glucana negativa a torna improvável.",
+   "C": "Correta. Queda de hemoglobina inexplicada, vidro fosco e DLCO acima do previsto: sangue alveolar captando monóxido de carbono.",
+   "D": "Errada. Sem edema, sem turgência e sem derrame; e a sobrecarga não explica a anemia aguda nem a DLCO alta."
+  },
+  "para_levar": "Vidro fosco difuso com hemoglobina caindo e DLCO alta é hemorragia alveolar até prova em contrário, com ou sem hemoptise.",
+  "referencias": "Lara AR, Schwarz MI. Diffuse Alveolar Hemorrhage. Chest 2010; EULAR recommendations for the management of SLE (2023).",
+  "tags": ["Doença Pulmonar Intersticial (CM)", "Fisiologia e Semiologia pulmonar (CM)"],
+  "sourceQuestionId": null,
+  "alvo": "S4 q43: DLCO que sobe identifica hemorragia alveolar sem hemoptise; agora no lúpus imunossuprimido"
+ },
+ {
+  "id": "R02-PNE-03",
+  "simulado": "R02",
+  "area": "Pneumologia",
+  "titulo": "Pneumonite de hipersensibilidade não fibrótica por umidificador doméstico: afastar o antígeno e reavaliar antes de corticoide ou biópsia",
+  "arma": "Cronologia",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 44 anos, professora, não tabagista, sem animais em casa, refere há 7 meses tosse seca, dispneia aos esforços moderados, febre baixa e mal-estar que aparecem à noite e pela manhã. Comprou um umidificador ultrassônico para o quarto há 8 meses, que limpa a cada 15 dias. Os sintomas melhoraram durante 10 dias de viagem ao litoral e pioraram dois dias após voltar. Ausculta com estertores finos esparsos e grasnidos. SpO2 94% em repouso, 91% ao caminhar. Espirometria: CVF 76% do previsto, VEF1/CVF 0,84; DLCO 66%. TC de alta resolução: nódulos centrolobulares em vidro fosco difusos e mosaico com aprisionamento expiratório, sem reticulado, sem bronquiectasias de tração e sem faveolamento. A conduta inicial mais adequada é:",
+  "alternativas": {
+   "A": "Prednisona 0,5 mg/kg por 3 meses",
+   "B": "Criobiópsia transbrônquica",
+   "C": "Micofenolato associado a prednisona",
+   "D": "Retirar o umidificador e reavaliar"
+  },
+  "gabarito": "D",
+  "armadilha": "A",
+  "dado_decisivo": "melhoraram durante 10 dias de viagem ao litoral e pioraram dois dias após voltar",
+  "resolucao": "A dispneia com dessaturação ao esforço e a DLCO reduzida parecem pedir corticoide já. Mas a cronologia entrega o mecanismo: os sintomas começaram após a compra do umidificador, melhoraram longe de casa e voltaram dois dias depois do retorno, num padrão tomográfico de nódulos centrolobulares e mosaico com aprisionamento, sem fibrose. Essa é a pneumonite de hipersensibilidade não fibrótica, e a medida que mais altera o prognóstico é afastar o antígeno, que costuma bastar para a melhora. O corticoide fica para doença grave ou que não melhora após a remoção da exposição, e a biópsia só se justifica quando a TC e a exposição não fecham o diagnóstico. Imunossupressor poupador de corticoide pertence à forma fibrótica ou refratária.",
+  "comentarios": {
+   "A": "Errada. É a armadilha: corticoide é reservado à forma grave ou que não melhora após o afastamento do antígeno.",
+   "B": "Errada. Seria o passo quando TC e exposição são discordantes; aqui o padrão e a cronologia fecham o diagnóstico.",
+   "C": "Errada. Poupador de corticoide usado na forma fibrótica progressiva ou refratária, nada disso presente.",
+   "D": "Correta. Exposição identificada com melhora ao se afastar dela e TC sem fibrose: remover o antígeno e reavaliar."
+  },
+  "para_levar": "Na pneumonite de hipersensibilidade não fibrótica com antígeno identificado, o primeiro tratamento é afastar a exposição e reavaliar; corticoide e biópsia vêm depois, se preciso.",
+  "referencias": "ATS/JRS/ALAT Clinical Practice Guideline: Diagnosis of Hypersensitivity Pneumonitis (Raghu et al., 2020); Diretrizes de Doenças Pulmonares Intersticiais da SBPT (2012).",
+  "tags": ["Pneumonite de hipersensibilidade (PH) (CM)", "Doença Pulmonar Intersticial (CM)"],
+  "sourceQuestionId": null,
+  "alvo": "S3 q74: pneumonite de hipersensibilidade não fibrótica se trata afastando o antígeno, antes de corticoide ou biópsia"
+ },
+ {
+  "id": "R02-PNE-04",
+  "simulado": "R02",
+  "area": "Pneumologia",
+  "titulo": "TEP de risco intermediário-alto que descompensa sob heparina: reclassificar como alto risco e trombolisar",
+  "arma": "Grade X / Y",
+  "comando": "conduta",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 63 anos, no 4º dia de pós-operatório de artroplastia de quadril, teve TEP confirmado por angiotomografia há 10 horas, com trombos nas duas artérias pulmonares principais. Na admissão estava com PA 118 x 74 mmHg, FC 112 bpm, VD/VE de 1,3 ao ecocardiograma e troponina elevada, e iniciou heparina não fracionada em infusão, com TTPa no alvo. Agora está sudoreico, confuso, com PA sistólica de 82 mmHg por 20 minutos apesar de 500 mL de cristaloide, FC 128 bpm, lactato 4,6 mmol/L, SpO2 88% com cateter de oxigênio. Não teve sangramento da ferida, hemoglobina estável, plaquetas 210.000/mm³, sem AVC prévio. Classificação de risco atual e conduta, respectivamente:",
+  "alternativas": {
+   "A": "Intermediário-alto / manter heparina e vigiar",
+   "B": "Alto / trombólise sistêmica",
+   "C": "Alto / filtro de veia cava inferior",
+   "D": "Intermediário-alto / trombólise em meia dose"
+  },
+  "gabarito": "B",
+  "armadilha": "A",
+  "dado_decisivo": "PA sistólica de 82 mmHg por 20 minutos",
+  "resolucao": "Na admissão, disfunção de ventrículo direito com troponina alta e pressão normal classificava o TEP como intermediário-alto, e a conduta certa era anticoagular e vigiar, o que faz manter a heparina parecer coerente agora. A classificação, porém, é dinâmica: pressão sistólica abaixo de 90 mmHg por mais de 15 minutos com hipoperfusão (confusão, lactato alto) é instabilidade hemodinâmica, e o TEP passa a ser de alto risco. A descompensação sob anticoagulação é exatamente a indicação de trombólise de resgate. A cirurgia de 4 dias é contraindicação relativa, e não absoluta, e o risco de morrer de choque obstrutivo supera o de sangrar; se houver contraindicação absoluta ou falha, a alternativa é embolectomia cirúrgica ou terapia por cateter. Filtro de veia cava não trata o trombo que já está no pulmão.",
+  "comentarios": {
+   "A": "Errada. É a armadilha: era a conduta na admissão, mas a hipotensão sustentada com hipoperfusão reclassifica o caso como alto risco.",
+   "B": "Correta. Hipotensão sustentada com hipoperfusão sob heparina: alto risco e trombólise sistêmica de resgate.",
+   "C": "Errada. O filtro é para quem não pode ser anticoagulado; não alivia a obstrução que está causando o choque.",
+   "D": "Errada. Mantém a classificação antiga, e a meia dose não é o padrão do TEP com choque."
+  },
+  "para_levar": "O risco do TEP é reavaliado a cada momento: o intermediário-alto que fica hipotenso sob anticoagulação vira alto risco e recebe trombólise de resgate.",
+  "referencias": "2019 ESC Guidelines for the diagnosis and management of acute pulmonary embolism; Recomendações da SBPT para TEP (2010).",
+  "tags": ["TEP (CM)", "Choque Obstrutivo (CM)"],
+  "sourceQuestionId": null,
+  "alvo": "S2 q52: grade de risco do TEP (intermediário-alto x alto) define trombólise; aqui vista pela reclassificação"
+ }
+]

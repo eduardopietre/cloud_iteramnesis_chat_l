@@ -1,0 +1,188 @@
+[
+ {
+  "id": "R02-INF-01",
+  "simulado": "R02",
+  "area": "Infectologia",
+  "titulo": "Celulite não purulenta com sinais sistêmicos no diabético: betalactâmico antiestreptocócico intravenoso, e não cobertura de pé diabético",
+  "arma": "Rótulo verdadeiro",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Homem de 61 anos, diabético tipo 2 há 15 anos (HbA1c 8,1%), em uso de metformina e gliclazida, procura o pronto-socorro por febre de 38,6 °C, calafrios e vermelhidão na perna esquerda há 2 dias, que começou na face anterior da tíbia e se estende até a metade da coxa. Tem maceração e fissuras entre o quarto e o quinto dedos do mesmo pé. Ao exame, FC 104 bpm, PA 128 x 76 mmHg, placa eritematosa quente e dolorosa de bordas mal definidas, sem bolhas, sem necrose, sem flutuação, sem secreção purulenta e sem crepitação; dor proporcional ao achado. Pulsos pediosos palpáveis, monofilamento sensível, sem úlcera nos pés. Leucócitos 15.800/mm³, creatinina 1,0 mg/dL. Ultrassonografia de partes moles: edema subcutâneo difuso, sem coleção. Nunca foi internado e não usou antibiótico no último ano. A conduta antimicrobiana mais adequada é:",
+  "alternativas": {
+   "A": "Cefazolina intravenosa",
+   "B": "Sulfametoxazol-trimetoprima oral",
+   "C": "Vancomicina com piperacilina-tazobactam",
+   "D": "Ciprofloxacino com clindamicina"
+  },
+  "gabarito": "A",
+  "armadilha": "C",
+  "dado_decisivo": "sem flutuação, sem secreção purulenta e sem crepitação",
+  "resolucao": "O diabetes de longa data é verdadeiro e puxa para a lógica do pé diabético infectado, com cobertura ampla de Gram-negativos, anaeróbios e estafilococo resistente. Mas não há úlcera, a neuropatia e a isquemia foram afastadas e a porta de entrada é intertrigo interdigital, o que coloca o quadro na categoria de celulite não purulenta. Sem pus, sem abscesso e sem coleção no ultrassom, o agente é o estreptococo beta-hemolítico, e o antimicrobiano é um betalactâmico com boa ação antiestreptocócica. A febre, a taquicardia e a leucocitose definem infecção moderada, que pede via intravenosa, e não esquema de amplo espectro: este fica para sinais de fasciite (dor desproporcional, bolhas, necrose, crepitação, instabilidade) ou para o paciente imunodeprimido grave. O intertrigo deve ser tratado junto para reduzir recidiva.",
+  "comentarios": {
+   "A": "Correta. Celulite não purulenta com sinais sistêmicos sem critérios de gravidade: betalactâmico antiestreptocócico intravenoso.",
+   "B": "Errada. Seria opção oral para celulite purulenta ou abscesso drenado com suspeita de estafilococo resistente; tem cobertura antiestreptocócica pouco confiável e a via oral não serve com sinais sistêmicos.",
+   "C": "Errada. É a armadilha do diabetes: esquema para infecção necrosante, choque ou pé diabético grave, nada disso presente neste caso.",
+   "D": "Errada. Associação usada no pé diabético com úlcera infectada polimicrobiana; aqui não há úlcera e a quinolona não é droga antiestreptocócica de escolha."
+  },
+  "para_levar": "Na celulite, o que define o agente é ter ou não pus: sem pus, é estreptococo e betalactâmico; os sinais sistêmicos mudam a via, e não o espectro.",
+  "referencias": "IDSA Practice Guidelines for Skin and Soft Tissue Infections (Stevens et al., 2014, mantidas em vigor); IWGDF/IDSA Guidelines on Diabetes-related Foot Infections 2023.",
+  "tags": ["Infecções Bacterianas (CM)"],
+  "sourceQuestionId": null,
+  "alvo": "S1 q68: sem pus e sem coleção o agente é estreptococo, e o rótulo (aqui o diabetes) não justifica cobertura ampla"
+ },
+ {
+  "id": "R02-INF-02",
+  "simulado": "R02",
+  "area": "Infectologia",
+  "titulo": "Choque tóxico estafilocócico após tamponamento nasal com hemocultura negativa: oxacilina com clindamicina antitoxina",
+  "arma": "Omissão",
+  "comando": "conduta",
+  "nivel": "extremamente difícil",
+  "enunciado": "Mulher de 38 anos, previamente hígida, recebeu tamponamento nasal anterior com gaze há 4 dias por epistaxe, com orientação de retirada em 48 horas, que não ocorreu. Há 1 dia tem febre de 39,8 °C, vômitos, diarreia aquosa e mialgia intensa. Ao exame, PA 78 x 40 mmHg após 2 litros de cristaloide, FC 128 bpm, eritema difuso tipo queimadura solar em tronco e membros, hiperemia conjuntival e da mucosa oral. Creatinina 2,6 mg/dL, CK 4.200 U/L, plaquetas 82.000/mm³, bilirrubina total 2,4 mg/dL. Duas hemoculturas sem crescimento em 48 horas. O tampão foi retirado e o Gram da secreção mostra cocos Gram-positivos em cachos; a cultura identifica Staphylococcus aureus sensível à oxacilina e à clindamicina, com teste D negativo. Já está em noradrenalina. Além do suporte, o esquema antimicrobiano mais adequado é:",
+  "alternativas": {
+   "A": "Oxacilina isolada",
+   "B": "Oxacilina com clindamicina",
+   "C": "Vancomicina com meropenem",
+   "D": "Penicilina cristalina com clindamicina"
+  },
+  "gabarito": "B",
+  "armadilha": "A",
+  "dado_decisivo": "cocos Gram-positivos em cachos",
+  "resolucao": "Febre alta, eritrodermia, hipotensão refratária e disfunção de três ou mais órgãos com corpo estranho colonizado definem síndrome do choque tóxico; as hemoculturas negativas são esperadas na forma estafilocócica, em que a doença é mediada pela toxina e não pela bacteremia. Como o agente é Staphylococcus aureus sensível à oxacilina, a oxacilina basta para matar a bactéria, e é por isso que o esquema isolado atrai. O que falta nele é a inibição da síntese proteica, que reduz a produção da toxina (TSST-1) independentemente da fase de crescimento: a clindamicina (ou a linezolida) deve ser associada. A retirada do foco já foi feita, e a imunoglobulina intravenosa fica como adjuvante discutível nos casos refratários. Os cachos e a sensibilidade definida dispensam cobertura de amplo espectro e afastam o estreptococo, para o qual a penicilina seria o betalactâmico.",
+  "comentarios": {
+   "A": "Errada. É a armadilha: trata o estafilococo sensível, mas omite a droga antitoxina que muda o desfecho do choque tóxico.",
+   "B": "Correta. Estafilococo sensível à oxacilina (cocos em cachos) com choque tóxico: betalactâmico antiestafilocócico mais clindamicina.",
+   "C": "Errada. Seria empírico razoável antes da identificação, em choque sem foco definido; com sensibilidade conhecida, perde a ação antitoxina e amplia sem necessidade.",
+   "D": "Errada. Seria o esquema do choque tóxico estreptocócico (cocos em cadeia); o Staphylococcus aureus produz penicilinase e não é coberto pela penicilina."
+  },
+  "para_levar": "No choque tóxico, estafilocócico ou estreptocócico, o betalactâmico certo para o agente vem sempre acompanhado de clindamicina para frear a toxina, e a hemocultura negativa não afasta a forma estafilocócica.",
+  "referencias": "IDSA Practice Guidelines for Skin and Soft Tissue Infections (2014); CDC Toxic Shock Syndrome (Other Than Streptococcal) Case Definition 2011; Harrison's Principles of Internal Medicine, 21ª ed. (2022).",
+  "tags": ["Infecções Bacterianas (CM)", "Sepse - Abordagem Inicial e Choque Séptico (CM)"],
+  "sourceQuestionId": null,
+  "alvo": "S1 q88: no choque tóxico o betalactâmico isolado é insuficiente, falta a clindamicina antitoxina"
+ },
+ {
+  "id": "R02-INF-03",
+  "simulado": "R02",
+  "area": "Infectologia",
+  "titulo": "Carbapenemase de classe A (KPC) em paciente vindo de hospital com surto de NDM: ceftazidima-avibactam isolada",
+  "arma": "Rótulo verdadeiro",
+  "comando": "conduta",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 66 anos, transferido há 10 dias de um hospital que comunicou surto de Klebsiella pneumoniae produtora de NDM no mesmo setor em que ele esteve internado, apresenta febre e hipotensão no 3º dia de cateter venoso central. Duas hemoculturas crescem Klebsiella pneumoniae resistente a meropenem, cefepima e piperacilina-tazobactam. No laboratório, o teste fenotípico mostra inibição pelo ácido fenilborônico presente e sinergia com EDTA ausente; o teste imunocromatográfico é reagente para KPC e não reagente para NDM, OXA-48, VIM e IMP. Sensível à ceftazidima-avibactam e ao meropenem-vaborbactam; resistente ao aztreonam. Creatinina 1,1 mg/dL. O cateter já foi retirado. A terapia mais adequada é:",
+  "alternativas": {
+   "A": "Aztreonam com ceftazidima-avibactam",
+   "B": "Polimixina B com meropenem",
+   "C": "Ceftazidima-avibactam isolada",
+   "D": "Polimixina B com amicacina"
+  },
+  "gabarito": "C",
+  "armadilha": "A",
+  "dado_decisivo": "inibição pelo ácido fenilborônico presente e sinergia com EDTA ausente",
+  "resolucao": "A internação num setor com surto de NDM é verdadeira e puxa para metalobetalactamase, cujo tratamento é a associação de aztreonam com ceftazidima-avibactam. Mas o isolado deste paciente conta outra história: inibição pelo ácido fenilborônico indica serinocarbapenemase de classe A, a ausência de sinergia com EDTA afasta metaloenzima, e o teste imunocromatográfico confirma KPC sem NDM. O avibactam inibe KPC, de modo que a ceftazidima-avibactam isolada é ativa e é primeira linha, ao lado de meropenem-vaborbactam. O aztreonam só é acrescentado porque as metaloenzimas o poupam e o avibactam protege contra as outras betalactamases; com KPC e resistência ao aztreonam, a associação não traz ganho. Polimixinas ficam como alternativa de toxicidade alta e eficácia inferior.",
+  "comentarios": {
+   "A": "Errada. É a armadilha do surto: seria a escolha para NDM ou outra metalobetalactamase, afastada pela ausência de sinergia com EDTA e pelo teste negativo.",
+   "B": "Errada. Associação usada antes dos novos inibidores, com mais nefrotoxicidade e mortalidade; não é mais primeira linha quando há sensibilidade aos novos betalactâmicos.",
+   "C": "Correta. KPC (classe A, inibida pelo ácido fenilborônico) é inibida pelo avibactam; o novo betalactâmico isolado é a escolha.",
+   "D": "Errada. Esquema de resgate para isolado resistente a todos os novos betalactâmicos, o que não é o caso."
+  },
+  "para_levar": "Ácido fenilborônico positivo é classe A (KPC): ceftazidima-avibactam ou meropenem-vaborbactam isolados. EDTA positivo é metaloenzima (NDM): aztreonam associado à ceftazidima-avibactam. Quem decide é o isolado, e não o surto.",
+  "referencias": "IDSA Guidance on the Treatment of Antimicrobial-Resistant Gram-Negative Infections, 2024; Nota Técnica ANVISA GVIMS/GGTES sobre detecção de carbapenemases (2021).",
+  "tags": ["Antibióticos: Antibiogramas e Resistência Bacteriana (CM)", "Infecção de Corrente Sanguínea (CM)"],
+  "sourceQuestionId": null,
+  "alvo": "S1 q73: classe da carbapenemase pelo teste fenotípico define o esquema; aqui o rótulo do surto puxa para NDM"
+ },
+ {
+  "id": "R02-INF-04",
+  "simulado": "R02",
+  "area": "Infectologia",
+  "titulo": "Endocardite de prótese mecânica nos primeiros meses após colonoscopia: empírico antiestafilocócico de prótese, e não o do enterococo",
+  "arma": "Rótulo verdadeiro",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 58 anos, com prótese mecânica mitral implantada há 5 meses, em uso de varfarina, fez colonoscopia com polipectomia há 3 semanas e há 10 dias tem febre de 38,4 °C diária, sudorese noturna e astenia. Ao exame, PA 118 x 70 mmHg, FC 98 bpm, clique metálico nítido, sopro sistólico novo em foco mitral grau 2+/6+, sem sinais de insuficiência cardíaca. Ferida operatória cicatrizada. Ecocardiograma transesofágico: vegetação de 8 mm no anel protético com pequeno leak paravalvar, sem abscesso. Três pares de hemoculturas foram colhidos há 1 hora, ainda sem resultado. INR 2,8, creatinina 0,9 mg/dL. Enquanto aguarda as culturas, o esquema empírico mais adequado é:",
+  "alternativas": {
+   "A": "Ampicilina com ceftriaxona",
+   "B": "Penicilina cristalina com gentamicina",
+   "C": "Oxacilina com gentamicina",
+   "D": "Vancomicina, gentamicina e rifampicina"
+  },
+  "gabarito": "D",
+  "armadilha": "A",
+  "dado_decisivo": "prótese mecânica mitral implantada há 5 meses",
+  "resolucao": "A polipectomia recente é verdadeira e puxa para enterococo, cujo esquema seria ampicilina com ceftriaxona. Mas a endocardite em prótese implantada há menos de 12 meses é tratada como infecção relacionada ao procedimento cardíaco, e o agente que domina essa janela é o estafilococo (coagulase-negativo, frequentemente resistente à oxacilina, e Staphylococcus aureus). Por isso o empírico de prótese precoce cobre estafilococo resistente com vancomicina, acrescenta gentamicina e inclui rifampicina pela ação sobre o biofilme do material protético, que deve entrar alguns dias depois das outras drogas. Quando as culturas voltarem, o esquema é ajustado ao agente, e se for enterococo a troca é imediata. Oxacilina não cobre o coagulase-negativo resistente, que é o mais comum nessa fase.",
+  "comentarios": {
+   "A": "Errada. É a armadilha da colonoscopia: seria o esquema dirigido para Enterococcus faecalis, depois de identificado, e não o empírico de prótese recente.",
+   "B": "Errada. Esquema dirigido para estreptococo sensível em valva nativa; não cobre estafilococo, que domina o primeiro ano após a cirurgia.",
+   "C": "Errada. Cobre apenas estafilococo sensível à oxacilina e deixa sem cobertura o coagulase-negativo resistente, o mais frequente na prótese precoce.",
+   "D": "Correta. Prótese com menos de 12 meses: cobertura de estafilococo resistente e biofilme, com vancomicina, gentamicina e rifampicina."
+  },
+  "para_levar": "Na endocardite de prótese, o tempo desde a cirurgia vale mais que o procedimento recente: com menos de 12 meses, o empírico é vancomicina, gentamicina e rifampicina.",
+  "referencias": "2023 ESC Guidelines for the management of endocarditis; AHA Scientific Statement on Infective Endocarditis in Adults (Baddour et al., 2015).",
+  "tags": ["Endocardite Bacteriana (CM)"],
+  "sourceQuestionId": null,
+  "alvo": "S2 q1: o tempo desde o implante da prótese define o agente e o empírico, e não o procedimento invasivo recente"
+ },
+ {
+  "id": "R02-INF-05",
+  "simulado": "R02",
+  "area": "Infectologia",
+  "titulo": "Endocardite enterocócica mitral com AVC isquêmico sem sangramento no 4º dia de antibiótico: cirurgia sem adiar",
+  "arma": "Grade X / Y",
+  "comando": "conduta",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 71 anos está internado com endocardite de valva mitral nativa. As hemoculturas cresceram Enterococcus faecalis sensível à ampicilina, com resistência de alto nível à gentamicina. O ecocardiograma transesofágico mostra vegetação móvel de 14 mm no folheto anterior, insuficiência mitral moderada, sem abscesso. No 4º dia de antibiótico, ainda febril, apresenta afasia de expressão e paresia discreta da mão direita, com NIHSS 3, plenamente consciente. TC de crânio: hipodensidade cortical frontal esquerda pequena, sem transformação hemorrágica; angiotomografia sem aneurisma micótico. Função renal normal, sem insuficiência cardíaca. A equipe cirúrgica considera o risco operatório aceitável. Esquema antimicrobiano e momento da cirurgia valvar, respectivamente:",
+  "alternativas": {
+   "A": "Ampicilina e ceftriaxona / após 4 semanas",
+   "B": "Vancomicina e gentamicina / sem adiar",
+   "C": "Vancomicina e gentamicina / após 4 semanas",
+   "D": "Ampicilina e ceftriaxona / sem adiar"
+  },
+  "gabarito": "D",
+  "armadilha": "A",
+  "dado_decisivo": "sem transformação hemorrágica",
+  "resolucao": "O AVC é verdadeiro e puxa para adiar a cirurgia por medo de converter o infarto em hemorragia durante a circulação extracorpórea, como se faz no AVC hemorrágico. Mas um evento embólico em vigência de antibiótico com vegetação acima de 10 mm é indicação de cirurgia precoce para evitar novas embolias, e o AVC isquêmico pequeno, sem sangramento, sem aneurisma micótico e sem coma não deve atrasá-la. Quanto ao antimicrobiano, Enterococcus faecalis sensível à ampicilina com resistência de alto nível à gentamicina não se beneficia do aminoglicosídeo, e a dupla de betalactâmicos, que satura proteínas ligadoras de penicilina diferentes, é a escolha. A vancomicina fica para o enterococo resistente à ampicilina ou para alergia grave à penicilina.",
+  "comentarios": {
+   "A": "Errada. Acerta o antimicrobiano, mas adia a cirurgia: a espera de 4 semanas vale para AVC hemorrágico ou grande, e não para o pequeno isquêmico sem sangramento.",
+   "B": "Errada. Acerta o momento, mas a gentamicina é inútil com resistência de alto nível e a vancomicina não é necessária com sensibilidade à ampicilina.",
+   "C": "Errada. Erra as duas decisões: aminoglicosídeo sem sinergia e adiamento sem indicação.",
+   "D": "Correta. Dupla de betalactâmicos para Enterococcus faecalis sensível à ampicilina e cirurgia sem adiar após embolia sob antibiótico com AVC isquêmico sem sangramento."
+  },
+  "para_levar": "Embolia em vigência de antibiótico com vegetação acima de 10 mm pede cirurgia precoce; AVC isquêmico sem hemorragia e sem coma não adia a operação.",
+  "referencias": "2023 ESC Guidelines for the management of endocarditis; AATS Expert Consensus Guidelines on Surgical Treatment of Infective Endocarditis (2017).",
+  "tags": ["Endocardite Bacteriana (CM)"],
+  "sourceQuestionId": null,
+  "alvo": "S3 q47: embolia durante o tratamento com vegetação grande indica cirurgia precoce, e o AVC isquêmico não a adia"
+ },
+ {
+  "id": "R02-INF-06",
+  "simulado": "R02",
+  "area": "Infectologia",
+  "titulo": "Neutropenia febril persistente sob profilaxia com posaconazol: galactomanana negativa não dispensa a TC de tórax",
+  "arma": "Negativo no meio",
+  "comando": "próximo exame",
+  "nivel": "difícil",
+  "enunciado": "Homem de 44 anos, em indução para leucemia mieloide aguda, está internado com neutrófilos de 60/mm³ há 12 dias, em profilaxia com posaconazol. Iniciou febre há 5 dias e recebe cefepima desde então; a febre persiste, com picos de 38,9 °C, sem hipotensão. Há 1 dia tem tosse seca discreta, sem dispneia; SpO2 96% em ar ambiente, ausculta pulmonar sem alterações. Mucosite oral leve, cateter sem sinais flogísticos, abdome indolor. Hemoculturas seriadas negativas, urocultura negativa. Radiografia de tórax sem alterações. Galactomanana sérica de ontem: índice 0,2 (negativa). Creatinina 0,8 mg/dL. O próximo exame mais adequado é:",
+  "alternativas": {
+   "A": "Repetir a galactomanana sérica",
+   "B": "TC de tórax",
+   "C": "Ecocardiograma transesofágico",
+   "D": "Ultrassonografia de abdome"
+  },
+  "gabarito": "B",
+  "armadilha": "A",
+  "dado_decisivo": "em profilaxia com posaconazol",
+  "resolucao": "Febre que persiste além de 4 a 7 dias de antibiótico de amplo espectro num neutropênico de alto risco obriga a procurar infecção fúngica invasiva, e o pulmão é o primeiro lugar. A galactomanana negativa parece tranquilizar, e repeti-la soa prudente, mas a profilaxia com antifúngico ativo contra fungos filamentosos reduz muito a sensibilidade do teste, que não serve para excluir aspergilose nesse contexto. A radiografia normal também não exclui: a TC de tórax mostra nódulos, sinal do halo e consolidações que a radiografia não vê, e é o exame que orienta broncoscopia e troca de antifúngico. Sem dor abdominal, sem alteração hepática e com hemoculturas negativas, ultrassonografia e ecocardiograma não são a prioridade.",
+  "comentarios": {
+   "A": "Errada. É a armadilha: sob posaconazol a galactomanana perde sensibilidade, e repeti-la atrasa o diagnóstico.",
+   "B": "Correta. Febre persistente no 5º dia de antibiótico em neutropênico de alto risco: TC de tórax mesmo com radiografia normal.",
+   "C": "Errada. Seria o exame para bacteremia persistente por Staphylococcus aureus ou Candida; as hemoculturas são negativas.",
+   "D": "Errada. Útil na suspeita de candidíase hepatoesplênica, que aparece na recuperação dos neutrófilos e com fosfatase alcalina elevada, nada disso presente."
+  },
+  "para_levar": "No neutropênico de alto risco com febre persistente, a TC de tórax vem antes de tudo; galactomanana negativa sob profilaxia antifúngica ativa contra fungos filamentosos não exclui aspergilose.",
+  "referencias": "IDSA Clinical Practice Guideline for Antimicrobial Use in Neutropenic Patients with Cancer (Freifeld et al., 2011); IDSA Aspergillosis Guideline 2016; ECIL-8 (2022).",
+  "tags": ["Neutropenia Febril (CM)", "Infecção em Imunossuprimido (CM)"],
+  "sourceQuestionId": null,
+  "alvo": "S4 q13: febre persistente na neutropenia de alto risco pede TC de tórax, e o exame negativo plantado não a dispensa"
+ }
+]

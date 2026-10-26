@@ -1,0 +1,188 @@
+[
+ {
+  "id": "R01-CAR-01",
+  "simulado": "R01",
+  "area": "Cardiologia",
+  "titulo": "Distrofia miotônica tipo 1: o ECG esperado é de doença do sistema de condução, e não o das distrofinopatias",
+  "arma": "Dado omitido",
+  "comando": "achado esperado",
+  "nivel": "difícil",
+  "enunciado": "Homem de 34 anos procura atendimento por palpitações e um episódio de pré-síncope há 2 semanas. Conta que há anos tem dificuldade para soltar a maçaneta da porta depois de segurá-la com força, e que fez cirurgia de catarata bilateral aos 31 anos. O pai morreu subitamente aos 49 anos; um primo foi rotulado como portador de 'distrofia muscular' na infância. Ao exame: calvície frontal, ptose bilateral discreta, atrofia dos músculos temporais e dos esternocleidomastóideos, fraqueza distal nas mãos e nos pés, panturrilhas de volume normal. Ao percutir a eminência tenar, o polegar fica aduzido por alguns segundos. PA 118 x 74 mmHg, FC 58 bpm, ausculta cardíaca sem sopros. CK 290 U/L (referência até 190). O achado eletrocardiográfico mais provável neste paciente é:",
+  "alternativas": {
+   "A": "Intervalo PR curto com onda delta",
+   "B": "Intervalo PR longo com QRS alargado",
+   "C": "Onda R ampla em V1 com Q lateral profunda",
+   "D": "Intervalo QT longo com onda U proeminente"
+  },
+  "gabarito": "B",
+  "armadilha": "C",
+  "dado_decisivo": "dificuldade para soltar a maçaneta da porta depois de segurá-la com força",
+  "resolucao": "O rótulo 'distrofia muscular' no primo puxa para as distrofinopatias (Duchenne e Becker), cujo ECG mostra R ampla em V1 e Q profunda nas derivações laterais pela fibrose posterobasal. Mas aqui há miotonia de preensão e de percussão, catarata precoce, calvície frontal, ptose e atrofia de temporais e esternocleidomastóideos, com fraqueza distal e panturrilhas normais: é distrofia miotônica tipo 1 (doença de Steinert). O coração dessa doença é sobretudo elétrico: degeneração fibrogordurosa do sistema His-Purkinje, com PR longo e QRS alargado, progressão para bloqueio atrioventricular avançado e taquiarritmias ventriculares, o que explica a morte súbita do pai. Por isso o ECG anual é obrigatório e PR acima de 240 ms ou QRS acima de 120 ms pede estudo eletrofisiológico e, muitas vezes, marca-passo ou CDI. A pré-síncope com FC de 58 bpm, neste contexto, é bloqueio até prova em contrário.",
+  "comentarios": {
+   "A": "Errada. Pré-excitação daria palpitações e pré-síncope em qualquer pessoa, mas não se associa a miotonia, catarata e atrofia facial.",
+   "B": "Correta. A distrofia miotônica tipo 1 acomete o sistema de condução: PR longo e QRS largo anunciam bloqueio avançado e morte súbita.",
+   "C": "Errada. É o ECG das distrofinopatias (Duchenne e Becker), com hipertrofia de panturrilhas e sem miotonia; o rótulo do primo é a isca.",
+   "D": "Errada. Seria o achado da hipocalemia ou de droga que prolonga o QT; nada no caso sugere distúrbio eletrolítico."
+  },
+  "para_levar": "Miotonia, catarata precoce, calvície frontal e atrofia facial são distrofia miotônica tipo 1, cuja cardiopatia é de condução: ECG anual e investigação ativa de bloqueio, porque a morte súbita é a principal causa cardíaca de óbito.",
+  "referencias": "2022 ESC Guidelines for the management of patients with ventricular arrhythmias and the prevention of sudden cardiac death; Feingold B et al. Management of cardiac involvement associated with neuromuscular diseases, AHA Scientific Statement, Circulation 2017.",
+  "tags": ["Fisiologia e Semiologia Cardíaca (CM)", "Bloqueios atrioventriculares (BAV) (CM)", "Neuromuscular (CM)"],
+  "sourceQuestionId": null,
+  "alvo": "S2 q17 e S3 q5: da síndrome ao achado esperado (aqui, da doença neuromuscular ao ECG)"
+ },
+ {
+  "id": "R01-CAR-02",
+  "simulado": "R01",
+  "area": "Cardiologia",
+  "titulo": "Policondrite recidivante com antecedente de febre reumática: a lesão nova é insuficiência aórtica pela raiz, e não estenose mitral",
+  "arma": "Cronologia",
+  "comando": "achado esperado",
+  "nivel": "extremamente difícil",
+  "enunciado": "Mulher de 47 anos refere dispneia aos médios esforços há 5 meses. Teve febre reumática aos 10 anos, com artrite e sem sequela, e fez profilaxia com penicilina benzatina até os 21 anos; um ecocardiograma feito há 7 anos, para cirurgia de varizes, foi normal. Há 3 anos tem crises de orelhas vermelhas, dolorosas e inchadas, que poupam os lóbulos, e há 1 ano notou afundamento do dorso do nariz. Teve dois episódios de olho vermelho doloroso tratados com colírio de corticoide. PA 134 x 62 mmHg, FC 84 bpm, ritmo regular, pulmões limpos. Pavilhões auriculares espessados e amolecidos; nariz em sela. VHS 58 mm/h, FAN e ANCA negativos. A ausculta cardíaca mais provável nesta paciente é:",
+  "alternativas": {
+   "A": "Ruflar diastólico apical com estalido de abertura",
+   "B": "Sopro holossistólico apical irradiado para a axila",
+   "C": "Sopro diastólico aspirativo em borda esternal esquerda",
+   "D": "Sopro mesossistólico ejetivo com B2 hipofonética"
+  },
+  "gabarito": "C",
+  "armadilha": "A",
+  "dado_decisivo": "um ecocardiograma feito há 7 anos, para cirurgia de varizes, foi normal",
+  "resolucao": "A febre reumática na infância é verdadeira e puxa para a valvopatia reumática, cuja lesão crônica mais frequente na mulher é a estenose mitral. Mas o ecocardiograma de 7 anos atrás era normal, décadas depois do surto e já sem profilaxia: a cardiopatia reumática crônica não surge do nada sem novo surto. O que é novo é a condrite auricular que poupa o lóbulo (que não tem cartilagem), o nariz em sela e a esclerite, que fecham policondrite recidivante. A manifestação cardiovascular mais frequente dela é a insuficiência aórtica por dilatação da raiz e aortite, com sopro diastólico aspirativo em borda esternal esquerda e pressão diastólica baixa, como os 62 mmHg do caso. A insuficiência mitral também ocorre, mas é bem menos comum.",
+  "comentarios": {
+   "A": "Errada. Seria a ausculta da estenose mitral reumática, mas o eco normal de 7 anos atrás, sem novo surto, afasta sequela reumática.",
+   "B": "Errada. Insuficiência mitral pode ocorrer na policondrite, mas é menos frequente que a aórtica e não explica a pressão diastólica de 62 mmHg.",
+   "C": "Correta. A policondrite acomete a raiz da aorta e produz insuficiência aórtica, a lesão valvar mais comum da doença.",
+   "D": "Errada. Seria a estenose aórtica calcífica do idoso ou da valva bicúspide, sem relação com condrite."
+  },
+  "para_levar": "Condrite auricular que poupa o lóbulo, nariz em sela e inflamação ocular são policondrite recidivante, e a lesão cardíaca esperada é a insuficiência aórtica por aortite e dilatação da raiz.",
+  "referencias": "Kingdon J et al. Relapsing polychondritis: a clinical review for rheumatologists. Rheumatology 2018; Diretriz Brasileira de Valvopatias, SBC 2020.",
+  "tags": ["Fisiologia e Semiologia Cardíaca (CM)", "Insuficiência Aórtica (CM)", "Outras Vasculites (CM)"],
+  "sourceQuestionId": null,
+  "alvo": "S4 q65: doença sistêmica que leva à insuficiência aórtica pela raiz (antes, aortite sifilítica)"
+ },
+ {
+  "id": "R01-CAR-03",
+  "simulado": "R01",
+  "area": "Cardiologia",
+  "titulo": "ICFEr isquêmica com bloqueio de ramo direito de 142 ms em classe II: CDI isolado, sem ressincronização",
+  "arma": "Rótulo verdadeiro",
+  "comando": "conduta",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 66 anos teve infarto anterior extenso há 3 anos, tratado com angioplastia da descendente anterior. Desde então tem insuficiência cardíaca e, há 5 meses, usa sacubitril-valsartana 97/103 mg de 12/12 horas, bisoprolol 10 mg/dia, espironolactona 25 mg/dia e dapagliflozina 10 mg/dia, todos nas doses máximas toleradas. Refere dispneia apenas aos grandes esforços, como subir dois lances de escada, sem internações no último ano. PA 108 x 68 mmHg, FC 62 bpm, sem congestão. Ecocardiograma de controle: FE de 30%, igual à do ano anterior. Cintilografia sem isquemia residual. ECG: ritmo sinusal com bloqueio de ramo direito, QRS de 142 ms. Potássio 4,6 mEq/L, creatinina 1,2 mg/dL. A conduta mais adequada para este paciente é:",
+  "alternativas": {
+   "A": "Cardiodesfibrilador implantável isolado",
+   "B": "Ressincronizador com desfibrilador",
+   "C": "Ressincronizador sem desfibrilador",
+   "D": "Manter apenas o tratamento clínico"
+  },
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "bloqueio de ramo direito, QRS de 142 ms",
+  "resolucao": "QRS largo em quem tem FE de 30% puxa para a ressincronização com desfibrilador, e o rótulo é verdadeiro: o QRS é de fato largo. Mas o benefício da ressincronização depende da morfologia e da duração: ele é robusto no bloqueio de ramo esquerdo com QRS de 150 ms ou mais, e pequeno ou nulo fora dele. Com bloqueio de ramo direito e QRS entre 130 e 149 ms a ressincronização não é recomendada pela ESC, e a AHA só a admite, de forma fraca, em classe III ou IV ambulatorial; este paciente está em classe II. A indicação que permanece é o CDI em prevenção primária: cardiopatia isquêmica, mais de 40 dias após o infarto, FE de 35% ou menos em classe II após mais de 3 meses de tratamento otimizado e expectativa de vida acima de 1 ano. Manter só o tratamento clínico deixaria sem proteção um paciente de alto risco de morte súbita.",
+  "comentarios": {
+   "A": "Correta. Cardiopatia isquêmica com FE de 30% em classe II, apesar de tratamento otimizado, indica CDI; o bloqueio de ramo direito de 142 ms não indica ressincronização.",
+   "B": "Errada. Seria a escolha com bloqueio de ramo esquerdo e QRS de 150 ms ou mais; com ramo direito de 142 ms em classe II, a ressincronização não traz benefício.",
+   "C": "Errada. Além de a ressincronização não estar indicada, retirar o desfibrilador deixaria sem proteção quem tem indicação clara de CDI.",
+   "D": "Errada. Seria adequado se a FE tivesse subido acima de 35% com o tratamento; aqui ela persiste em 30%."
+  },
+  "para_levar": "A ressincronização se indica pelo QRS e pela morfologia: bloqueio de ramo esquerdo largo é a indicação forte; bloqueio de ramo direito abaixo de 150 ms não a justifica, e o CDI segue a FE e a etiologia.",
+  "referencias": "2021 ESC Guidelines for cardiac pacing and cardiac resynchronization therapy; 2022 AHA/ACC/HFSA Guideline for the Management of Heart Failure; Diretriz Brasileira de Insuficiência Cardíaca Crônica e Aguda, SBC 2018 e atualização 2021.",
+  "tags": ["Insuficiência Cardíaca (CM)", "Bloqueios de Ramo (CM)"],
+  "sourceQuestionId": null,
+  "alvo": "S2 q46: indicação de ressincronização pelo QRS e pela morfologia (agora no sentido inverso)"
+ },
+ {
+  "id": "R01-CAR-04",
+  "simulado": "R01",
+  "area": "Cardiologia",
+  "titulo": "Apixabana na idosa magra com creatinina normal: dois critérios (idade e peso) bastam para reduzir a dose",
+  "arma": "Limiar",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Uma mulher de 81 anos, que pesa 58 kg, tem fibrilação atrial permanente, hipertensão e diabetes tipo 2. Usa losartana, anlodipino e metformina. Nega sangramentos prévios, quedas, uso de anti-inflamatórios ou de antiagregantes. PA 132 x 78 mmHg, FC 76 bpm. Hemoglobina 12,8 g/dL, plaquetas 210.000/mm³, TGO e TGP normais. Creatinina 1,1 mg/dL, depuração estimada pela fórmula de Cockcroft-Gault de 37 mL/min. O médico assistente opta por apixabana. A dose mais adequada é:",
+  "alternativas": {
+   "A": "5 mg de 12 em 12 horas",
+   "B": "5 mg uma vez ao dia",
+   "C": "2,5 mg uma vez ao dia",
+   "D": "2,5 mg de 12 em 12 horas"
+  },
+  "gabarito": "D",
+  "armadilha": "A",
+  "dado_decisivo": "mulher de 81 anos, que pesa 58 kg",
+  "resolucao": "A creatinina normal é verdadeira e faz pensar em dose plena, porque muitos lembram da apixabana como a droga que se ajusta pelo rim. Mas a redução para 2,5 mg de 12/12 horas exige dois de três critérios: idade de 80 anos ou mais, peso de 60 kg ou menos e creatinina de 1,5 mg/dL ou mais. Esta paciente tem dois (81 anos e 58 kg), e a creatinina de 1,1 não é necessária. A depuração de 37 mL/min, que importaria para dabigatrana, rivaroxabana ou edoxabana, não é o critério da apixabana em fibrilação atrial. A posologia continua de 12/12 horas: a apixabana não se dá uma vez ao dia nesta indicação.",
+  "comentarios": {
+   "A": "Errada. Seria a dose com no máximo um critério, como na idosa de 81 anos com 64 kg e creatinina normal; aqui há dois.",
+   "B": "Errada. A apixabana tem meia-vida curta e se usa de 12/12 horas na fibrilação atrial; dose única diária não existe nesta indicação.",
+   "C": "Errada. Subdosaria a paciente; a redução é para 2,5 mg de 12/12 horas, mantendo duas tomadas.",
+   "D": "Correta. Idade de 80 anos ou mais e peso de 60 kg ou menos são dois critérios, e isso basta para reduzir."
+  },
+  "para_levar": "Apixabana na fibrilação atrial: reduzir para 2,5 mg de 12/12 horas com dois de três critérios (80 anos ou mais, 60 kg ou menos, creatinina de 1,5 ou mais), sem olhar a depuração; com um só, dose plena.",
+  "referencias": "2024 ESC Guidelines for the management of atrial fibrillation; 2023 ACC/AHA/ACCP/HRS Guideline for the Diagnosis and Management of Atrial Fibrillation; Diretrizes Brasileiras de Fibrilação Atrial, SBC 2016 (atualização 2023).",
+  "tags": ["Fibrilação Atrial (CM)", "Anticoagulação em Cardiologia (CM)"],
+  "sourceQuestionId": null,
+  "alvo": "S4 q56: dose de apixabana pelos dois de três critérios (agora no sentido de reduzir com creatinina normal)"
+ },
+ {
+  "id": "R01-CAR-05",
+  "simulado": "R01",
+  "area": "Cardiologia",
+  "titulo": "AESP com QRS estreito e rápido no dialítico que faltou à diálise: causa mecânica (tamponamento urêmico), e não hipercalemia",
+  "arma": "Rótulo verdadeiro",
+  "comando": "etiologia",
+  "nivel": "difícil",
+  "enunciado": "Homem de 58 anos, em hemodiálise há 6 anos, faltou às duas últimas sessões. Há 5 dias foi ao pronto-socorro por dor torácica que piorava ao deitar e melhorava ao sentar inclinado para a frente; foi auscultado atrito pericárdico e recebeu alta com orientação de diálise. Hoje chega dispneico, com PA 76 x 50 mmHg, FC 126 bpm e jugulares distendidas, e perde a consciência na triagem. Não há pulso central. O monitor mostra ritmo regular com QRS estreito a 128 bpm. A gasometria colhida durante as compressões mostra potássio de 6,1 mEq/L. Murmúrio vesicular presente e simétrico. A causa mais provável da parada é:",
+  "alternativas": {
+   "A": "Hipercalemia",
+   "B": "Tamponamento cardíaco",
+   "C": "Hipovolemia",
+   "D": "Tromboembolismo pulmonar"
+  },
+  "gabarito": "B",
+  "armadilha": "A",
+  "dado_decisivo": "ritmo regular com QRS estreito a 128 bpm",
+  "resolucao": "O paciente faltou à diálise e o potássio está alto, o que puxa para hipercalemia, e o rótulo é verdadeiro: o potássio deve ser tratado. Mas a morfologia do ritmo na atividade elétrica sem pulso separa os grupos de causas: QRS largo e lento sugere causa metabólica ou tóxica (hipercalemia grave, acidose, bloqueador de sódio), enquanto QRS estreito e rápido sugere causa mecânica, com o coração elétrico preservado e o enchimento ou a ejeção impedidos. Um potássio de 6,1 raramente para o coração, e quando o faz alarga muito o QRS. Entre as causas mecânicas, a pericardite urêmica de 5 dias antes, com atrito, as jugulares distendidas e a hipotensão progressiva apontam tamponamento; murmúrio simétrico afasta pneumotórax, e jugulares cheias afastam hipovolemia. O ultrassom à beira do leito, sem interromper as compressões, confirma e guia a pericardiocentese.",
+  "comentarios": {
+   "A": "Errada. Hipercalemia que causa parada dá QRS muito largo e lento; 6,1 mEq/L com QRS estreito não explica o quadro.",
+   "B": "Correta. QRS estreito e rápido indica causa mecânica, e a pericardite urêmica recente com jugulares distendidas aponta tamponamento.",
+   "C": "Errada. Também daria QRS estreito e rápido, mas com jugulares colabadas e história de perda de volume, e não com jugulares distendidas.",
+   "D": "Errada. Também é mecânica e distende jugulares, mas aqui a pericardite com atrito 5 dias antes torna o tamponamento muito mais provável."
+  },
+  "para_levar": "Na AESP, leia o QRS: largo e lento lembra causa metabólica ou tóxica; estreito e rápido lembra causa mecânica (tamponamento, pneumotórax hipertensivo, TEP, hipovolemia), e o contexto escolhe entre elas.",
+  "referencias": "2020 AHA Guidelines for CPR and ECC, com atualização focada 2023; Littmann L et al. A simplified and structured teaching tool for the evaluation and management of pulseless electrical activity. Med Princ Pract 2014.",
+  "tags": ["Parada Cardiorrespiratória (PCR) (CM)", "Pericardites (CM)"],
+  "sourceQuestionId": null,
+  "alvo": "S2 q57: AESP lida pelo QRS (agora estreito e rápido, causa mecânica, com o rótulo de hipercalemia)"
+ },
+ {
+  "id": "R01-CAR-06",
+  "simulado": "R01",
+  "area": "Cardiologia",
+  "titulo": "Teste ergométrico positivo em mulher jovem assintomática: baixo valor preditivo positivo pela probabilidade pré-teste",
+  "arma": "Qualificador",
+  "comando": "fato solto",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 36 anos, assintomática, não tabagista, sem hipertensão, diabetes ou dislipidemia, sem história familiar de doença coronariana precoce, fez teste ergométrico exigido por uma academia. Atingiu 11 METs e 96% da frequência cardíaca máxima prevista, sem dor torácica, sem queda da pressão e sem arritmias. No pico do esforço houve infradesnivelamento horizontal do segmento ST de 1,5 mm em V5 e V6, que se normalizou no primeiro minuto da recuperação. ECG de repouso normal. Sobre esse resultado, isoladamente, é correto afirmar que ele:",
+  "alternativas": {
+   "A": "Tem baixo valor preditivo positivo",
+   "B": "Indica cineangiocoronariografia",
+   "C": "Confirma isquemia miocárdica",
+   "D": "Exige angiotomografia coronariana"
+  },
+  "gabarito": "A",
+  "armadilha": "D",
+  "dado_decisivo": "assintomática, não tabagista, sem hipertensão, diabetes ou dislipidemia",
+  "resolucao": "O infradesnivelamento horizontal de 1,5 mm cumpre o critério eletrocardiográfico de teste positivo, e isso é verdadeiro. Mas o valor preditivo de um teste depende da probabilidade pré-teste: numa mulher de 36 anos, assintomática e sem fatores de risco, a prevalência de doença coronariana obstrutiva é muito baixa, e a maioria dos testes positivos é falso-positiva (o teste ergométrico tem especificidade menor em mulheres). Além disso, a alta capacidade funcional, a ausência de sintomas, de arritmias e de queda da pressão e a normalização rápida no início da recuperação são marcadores de bom prognóstico. Por isso o resultado, isoladamente, pouco eleva a probabilidade de doença: não confirma isquemia, não indica cateterismo e não obriga a exame anatômico. O erro de origem é ter pedido o teste como rastreio em quem não tem indicação.",
+  "comentarios": {
+   "A": "Correta. Com probabilidade pré-teste muito baixa, a maioria dos testes positivos é falso-positiva.",
+   "B": "Errada. Seria a conduta com critérios de alto risco (infra precoce, queda da pressão, baixa capacidade, arritmia ventricular), ausentes aqui.",
+   "C": "Errada. Confirmaria melhor em homem idoso com angina típica; aqui o critério eletrocardiográfico tem valor preditivo baixo.",
+   "D": "Errada. É a armadilha de quem acha que todo teste positivo precisa ser complementado; na assintomática de risco muito baixo, isso só gera cascata de exames."
+  },
+  "para_levar": "O resultado de um teste se interpreta pela probabilidade pré-teste: em quem quase não tem doença, o positivo é quase sempre falso, assim como, em quem quase certamente tem, o negativo pouco tranquiliza.",
+  "referencias": "Diretrizes da SBC sobre Teste Ergométrico, 2024; 2021 AHA/ACC Guideline for the Evaluation and Diagnosis of Chest Pain; 2024 ESC Guidelines for the management of chronic coronary syndromes.",
+  "tags": ["Coronariopatia Crônica (CM)"],
+  "sourceQuestionId": null,
+  "alvo": "S1 q99: teste ergométrico em baixa probabilidade pré-teste (agora o positivo, pelo valor preditivo)"
+ }
+]

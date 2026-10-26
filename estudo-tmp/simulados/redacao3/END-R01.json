@@ -1,0 +1,203 @@
+[
+ {
+  "id": "R01-END-01",
+  "simulado": "R01",
+  "area": "Endocrinologia",
+  "titulo": "Supressão com 1 mg de dexametasona falsamente anormal na epiléptica em uso de carbamazepina: cortisol salivar ao final da noite",
+  "arma": "Droga a deduzir",
+  "comando": "próximo exame",
+  "nivel": "extremamente difícil",
+  "enunciado": "Mulher de 34 anos, com epilepsia focal desde a adolescência, controlada há 6 anos com o mesmo comprimido de 400 mg duas vezes ao dia, que também lhe causou hiponatremia leve no início do uso. Não usa anticoncepcional (laqueadura há 3 anos). Procura avaliação por ganho de 9 kg em 2 anos, hipertensão recente e acne. Ao exame, IMC 33 kg/m², obesidade de predomínio abdominal, estrias brancas e finas no abdome, PA 146 x 92 mmHg, sem fraqueza proximal, sem equimoses espontâneas e sem pletora facial. Glicemia de jejum 108 mg/dL, potássio 4,2 mEq/L. Cortisol sérico às 8 horas após 1 mg de dexametasona às 23 horas da véspera: 6,8 µg/dL (normal: até 1,8). O próximo exame mais adequado é:",
+  "alternativas": {
+   "A": "Cortisol salivar ao final da noite",
+   "B": "Supressão com 8 mg de dexametasona",
+   "C": "ACTH plasmático e ressonância de sela",
+   "D": "Repetir a supressão com 1 mg"
+  },
+  "gabarito": "A",
+  "armadilha": "C",
+  "dado_decisivo": "que também lhe causou hiponatremia leve no início do uso",
+  "resolucao": "O teste de supressão alterado, a hipertensão e a obesidade levam o apressado a dar o hipercortisolismo como confirmado e a seguir para a localização com ACTH e imagem. O fenótipo é pobre em sinais discriminativos (estrias finas e brancas, sem miopatia, sem equimoses), e o teste anormal precisa ser lido à luz da droga em uso. O anticrise de 400 mg duas vezes ao dia que causou hiponatremia é a carbamazepina, indutora potente do CYP3A4: ela acelera a depuração da dexametasona, que não atinge nível suficiente para suprimir o eixo, e o cortisol da manhã fica falsamente alto. O passo seguinte é um teste de rastreio que não dependa da dexametasona, e o cortisol salivar ao final da noite (repetido em duas noites) cumpre isso; o cortisol livre urinário é alternativa, com a ressalva de interferência da carbamazepina em alguns métodos cromatográficos. Localizar antes de confirmar o hipercortisolismo é inverter a ordem da investigação.",
+  "comentarios": {
+   "A": "Correta. O cortisol salivar noturno não depende do metabolismo da dexametasona, que a carbamazepina acelera.",
+   "B": "Errada. A supressão com dose alta serve para separar a origem hipofisária da ectópica, depois de confirmado o hipercortisolismo ACTH-dependente; o indutor enzimático também a falseia.",
+   "C": "Errada. É a armadilha: ACTH e imagem localizam um hipercortisolismo já confirmado, e aqui a única prova anormal está contaminada pela droga.",
+   "D": "Errada. Repetir o mesmo teste reproduz o mesmo artefato enquanto a carbamazepina estiver em uso."
+  },
+  "para_levar": "Indutor do CYP3A4 (carbamazepina, fenitoína, fenobarbital, rifampicina) acelera a dexametasona e produz falsa ausência de supressão: rastreie Cushing pelo cortisol salivar noturno.",
+  "referencias": "Nieman LK et al. The Diagnosis of Cushing's Syndrome: Endocrine Society Clinical Practice Guideline (2008); Fleseriu M et al. Consensus on diagnosis and management of Cushing's disease, Pituitary Society. Lancet Diabetes Endocrinol 2021.",
+  "tags": [
+   "Cushing (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "S4 q31: droga em uso que falseia a supressão com dexametasona; agora o indutor enzimático em vez do estrogênio"
+ },
+ {
+  "id": "R01-END-02",
+  "simulado": "R01",
+  "area": "Endocrinologia",
+  "titulo": "Tireotoxicose com mãe e irmã com Graves, TRAb negativo e captação concentrada num nódulo: adenoma tóxico",
+  "arma": "Rótulo verdadeiro",
+  "comando": "diagnóstico",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 41 anos procura atendimento por palpitações, insônia e perda de 4 kg em 3 meses. A mãe e a irmã mais nova têm doença de Graves, e a irmã fez descompressão orbitária no ano passado. Ao exame, FC 108 bpm, tremor fino de extremidades, pele quente e úmida, sem proptose, sem retração palpebral e sem lesões pré-tibiais; nódulo endurecido de cerca de 3 cm no lobo direito, sem sopro tireoidiano. TSH abaixo de 0,01 mUI/L, T4 livre 2,6 ng/dL (0,9 a 1,7), T3 total 260 ng/dL (80 a 180). TRAb de terceira geração negativo. Cintilografia com iodo-123: captação de 24 horas de 36%, concentrada em área única correspondente ao nódulo, com o restante do parênquima pouco visualizado. O diagnóstico mais provável é:",
+  "alternativas": {
+   "A": "Doença de Graves",
+   "B": "Adenoma tóxico",
+   "C": "Bócio multinodular tóxico",
+   "D": "Tireoidite indolor"
+  },
+  "gabarito": "B",
+  "armadilha": "A",
+  "dado_decisivo": "TRAb de terceira geração negativo",
+  "resolucao": "Duas parentes de primeiro grau com Graves, uma delas com orbitopatia grave, são um antecedente verdadeiro e puxam para a mesma doença. O que discrimina é o anticorpo e a imagem funcional: o TRAb de terceira geração tem sensibilidade acima de 95% para Graves, e negativo em tireotoxicose franca torna a doença improvável. A cintilografia mostra captação elevada, portanto há síntese aumentada (o que afasta tireoidite), mas concentrada num único foco que coincide com o nódulo palpável, com supressão do restante da glândula pelo TSH baixo. Isso define um nódulo autônomo hiperfuncionante. Não há outros nódulos nem captação heterogênea em múltiplos focos, o que afasta o bócio multinodular tóxico. O antecedente familiar não muda o mecanismo da tireotoxicose desta paciente.",
+  "comentarios": {
+   "A": "Errada. É a armadilha do antecedente familiar; Graves teria TRAb positivo e captação difusa e homogênea, com o parênquima todo visível.",
+   "B": "Correta. TRAb negativo e captação concentrada num nódulo único, com o resto da glândula suprimido.",
+   "C": "Errada. Seria o diagnóstico com vários focos hipercaptantes e áreas frias, geralmente em idosa com bócio de longa data; aqui há um foco só.",
+   "D": "Errada. A tireoidite destrutiva tem captação baixa, perto de zero; aqui a captação de 24 horas é de 36%."
+  },
+  "para_levar": "Tireotoxicose com TRAb negativo pede cintilografia: captação baixa é destruição, captação difusa é Graves, captação num foco único é adenoma tóxico, seja qual for a história familiar.",
+  "referencias": "Ross DS et al. 2016 American Thyroid Association Guidelines for Diagnosis and Management of Hyperthyroidism and Other Causes of Thyrotoxicosis; Consenso Brasileiro de Hipertireoidismo, SBEM (2013).",
+  "tags": [
+   "Hipertireoidismo e Tireotoxicose (CM)",
+   "Nódulos Tireoideanos (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "S4 q2: rótulo familiar de Graves contra o anticorpo negativo; agora com síntese aumentada focal em vez de tireoidite"
+ },
+ {
+  "id": "R01-END-03",
+  "simulado": "R01",
+  "area": "Endocrinologia",
+  "titulo": "Neoplasia endócrina múltipla 2A com carcinoma medular, hiperparatireoidismo e metanefrinas altas: adrenalectomia primeiro",
+  "arma": "Cronologia",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Homem de 36 anos, cujo irmão foi operado aos 40 anos de câncer de tireoide, tem nódulo tireoidiano de 2,1 cm à direita. A punção aspirativa mostrou células fusiformes com estroma amiloide e imunocitoquímica positiva para calcitonina. Calcitonina sérica 860 pg/mL, CEA 42 ng/mL. Pesquisa do proto-oncogene RET: mutação no códon 634. Refere episódios de cefaleia com sudorese e palpitações, 2 vezes por mês. PA 154 x 96 mmHg, FC 92 bpm. Cálcio 11,0 mg/dL (8,5 a 10,2), PTH 98 pg/mL (15 a 65). Metanefrinas livres plasmáticas cinco vezes acima do limite superior. TC de abdome: massa adrenal esquerda de 3,4 cm, com 38 UH na fase sem contraste. A primeira cirurgia a ser realizada é:",
+  "alternativas": {
+   "A": "Tireoidectomia total com esvaziamento central",
+   "B": "Paratireoidectomia com exploração bilateral",
+   "C": "Adrenalectomia após alfabloqueio",
+   "D": "Tireoidectomia e adrenalectomia simultâneas"
+  },
+  "gabarito": "C",
+  "armadilha": "A",
+  "dado_decisivo": "Metanefrinas livres plasmáticas cinco vezes acima do limite superior",
+  "resolucao": "O carcinoma medular confirmado, com calcitonina alta e CEA elevado, parece a doença mais grave e leva o apressado direto à tireoidectomia. Na mutação do códon 634 coexistem carcinoma medular, feocromocitoma e hiperparatireoidismo, e a ordem cirúrgica é fixa: o feocromocitoma é operado primeiro, porque anestesia e manipulação cervical com um feocromocitoma não bloqueado podem precipitar crise adrenérgica, arritmia e morte. A dosagem de metanefrinas cinco vezes acima do limite e a massa adrenal com densidade alta confirmam o tumor. O preparo é com alfabloqueador por 10 a 14 dias, com betabloqueador apenas depois e se houver taquicardia, seguido da adrenalectomia. A tireoidectomia total com esvaziamento central vem num segundo tempo, e as paratireoides aumentadas são abordadas no mesmo ato cervical.",
+  "comentarios": {
+   "A": "Errada. É a armadilha: seria a primeira cirurgia se as metanefrinas fossem normais; com feocromocitoma não tratado, a cirurgia cervical expõe a crise adrenérgica.",
+   "B": "Errada. O hiperparatireoidismo da síndrome é leve e é tratado no mesmo tempo cervical da tireoidectomia, depois da adrenal.",
+   "C": "Correta. Metanefrinas muito elevadas e massa adrenal mandam operar o feocromocitoma primeiro, após alfabloqueio.",
+   "D": "Errada. Cirurgia combinada sem bloqueio prévio e com dois sítios aumenta o risco; a regra é adrenal primeiro, em tempos separados."
+  },
+  "para_levar": "Em toda neoplasia endócrina múltipla tipo 2, dose metanefrinas antes de qualquer cirurgia; se o feocromocitoma estiver presente, ele é operado primeiro, após alfabloqueio.",
+  "referencias": "Wells SA Jr et al. Revised American Thyroid Association Guidelines for the Management of Medullary Thyroid Carcinoma (2015); Lenders JWM et al. Pheochromocytoma and Paraganglioma: Endocrine Society Guideline (2014).",
+  "tags": [
+   "Feocromocitoma (CM)",
+   "Nódulos Tireoideanos (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "S3 q38: feocromocitoma antes da tireoidectomia no medular com RET; agora o exame já veio e a pergunta é a ordem"
+ },
+ {
+  "id": "R01-END-04",
+  "simulado": "R01",
+  "area": "Endocrinologia",
+  "titulo": "Prolactinoma na gestação com defeito de campo visual no segundo trimestre: reintroduzir o agonista dopaminérgico",
+  "arma": "Qualificador",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 29 anos, com macroprolactinoma de 14 mm tratado com cabergolina por 2 anos, engravidou quando a lesão media 9 mm, sem contato com o quiasma. Conforme orientação, suspendeu a cabergolina na quinta semana. Com 26 semanas, refere cefaleia frontal progressiva há 10 dias e esbarra em objetos à sua lateral. Campimetria computadorizada: hemianopsia temporal bilateral. Ressonância de sela sem gadolínio: lesão de 16 mm, com extensão suprasselar e contato com o quiasma óptico, sem sinais de hemorragia. Prolactina de 310 ng/mL. Gestação sem intercorrências, ultrassonografia obstétrica normal. A conduta inicial mais adequada é:",
+  "alternativas": {
+   "A": "Cirurgia transesfenoidal na mesma semana",
+   "B": "Antecipar o parto por cesariana",
+   "C": "Seguir com campimetria mensal",
+   "D": "Reintroduzir o agonista dopaminérgico"
+  },
+  "gabarito": "D",
+  "armadilha": "C",
+  "dado_decisivo": "hemianopsia temporal bilateral",
+  "resolucao": "Quem aprendeu que o prolactinoma na gestação se trata suspendendo a cabergolina e observando, sem dosar prolactina, tende a manter a observação. Essa regra vale para a gestante assintomática; o que muda a conduta é o crescimento sintomático, aqui documentado por cefaleia, defeito de campo visual e lesão que agora toca o quiasma. O valor da prolactina não ajuda, porque ela sobe fisiologicamente na gestação. Diante de crescimento sintomático, a primeira medida é reintroduzir o agonista dopaminérgico (bromocriptina tem mais dados, cabergolina é aceitável), que costuma reduzir a lesão e recuperar o campo em dias. A cirurgia transesfenoidal fica para a falha do tratamento clínico, de preferência no segundo trimestre, e antecipar o parto só se considera quando a gestação já está próxima do termo.",
+  "comentarios": {
+   "A": "Errada. Seria a conduta se não houvesse resposta visual ao agonista dopaminérgico; não é a primeira medida.",
+   "B": "Errada. Com 26 semanas, a prematuridade pesa contra; antecipar o parto entra perto do termo e com falha do tratamento clínico.",
+   "C": "Errada. É a armadilha: observar é correto na gestante assintomática; com defeito de campo, esperar arrisca perda visual.",
+   "D": "Correta. Crescimento sintomático do prolactinoma na gestação se trata primeiro com agonista dopaminérgico."
+  },
+  "para_levar": "Prolactinoma na gestação: suspender o agonista e acompanhar pela clínica e pelo campo visual; se houver cefaleia ou defeito de campo, reintroduzir o agonista, e a cirurgia fica para a falha.",
+  "referencias": "Melmed S et al. Diagnosis and Treatment of Hyperprolactinemia: Endocrine Society Clinical Practice Guideline (2011); Petersenn S et al. Diagnosis and management of prolactin-secreting pituitary adenomas: a Pituitary Society international Consensus Statement. Nat Rev Endocrinol 2023.",
+  "tags": [
+   "Prolactinoma (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "S4 q61: prolactinoma na gestação; a regra de suspender e observar e a exceção do crescimento sintomático"
+ },
+ {
+  "id": "R01-END-05",
+  "simulado": "R01",
+  "area": "Endocrinologia",
+  "titulo": "Cetoacidose com glicemia abaixo de 250 em diabético com insuficiência cardíaca após gastroenterite: inibidor de SGLT2 a deduzir",
+  "arma": "Droga a deduzir",
+  "comando": "conduta",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 61 anos, com diabetes tipo 2 e insuficiência cardíaca de fração de ejeção reduzida, usa metformina 2 g/dia e, há 3 meses, um comprimido acrescentado pelo cardiologista que melhorou a falta de ar e baixou a glicemia; desde então teve dois episódios de balanopostite por cândida. Há 4 dias tem vômitos e diarreia, come pouco e manteve todos os remédios. Está taquipneico, com respiração profunda, PA 104 x 68 mmHg, FC 112 bpm, mucosas secas. Glicemia 196 mg/dL; pH 7,11; bicarbonato 8 mEq/L; pCO2 22 mmHg; sódio 136 mEq/L; cloro 100 mEq/L; potássio 4,6 mEq/L; lactato 1,6 mmol/L; beta-hidroxibutirato 5,8 mmol/L; creatinina 1,4 mg/dL. Além de suspender os orais e hidratar com solução salina, a conduta mais adequada é:",
+  "alternativas": {
+   "A": "Insulina venosa contínua com soro glicosado",
+   "B": "Hidratação isolada até a glicemia subir",
+   "C": "Bicarbonato venoso e hemodiálise",
+   "D": "Insulina subcutânea conforme glicemia capilar"
+  },
+  "gabarito": "A",
+  "armadilha": "C",
+  "dado_decisivo": "beta-hidroxibutirato 5,8 mmol/L",
+  "resolucao": "Acidose grave com ânion gap de 28 num paciente em metformina, com creatinina um pouco elevada, faz pensar em acidose lática e em diálise, e a glicemia abaixo de 250 afasta, para o desatento, a cetoacidose. O lactato é normal e a cetonemia está muito alta: é cetoacidose com glicemia pouco elevada. O comprimido que melhorou a insuficiência cardíaca, baixou a glicemia e trouxe candidíase genital é um inibidor de SGLT2, que causa glicosúria e mantém a glicemia baixa enquanto a cetogênese avança, sobretudo com jejum, vômitos e desidratação. O tratamento é o da cetoacidose: volume, insulina venosa contínua e, como a glicemia já é baixa, soro glicosado desde o início para permitir a insulina necessária para suprimir a cetose, com reposição de potássio conforme os níveis. Bicarbonato não está indicado com pH acima de 6,9.",
+  "comentarios": {
+   "A": "Correta. Cetoacidose euglicêmica: a insulina é obrigatória para frear a cetogênese, e a glicose acompanha para evitar hipoglicemia.",
+   "B": "Errada. Esperar a glicemia subir mantém a cetose; o que manda iniciar insulina é a cetonemia, e não o valor da glicose.",
+   "C": "Errada. É a armadilha da metformina: hemodiálise seria para acidose lática grave, mas o lactato é 1,6 mmol/L; bicarbonato não entra com pH acima de 6,9.",
+   "D": "Errada. Insulina subcutânea por escala é inadequada em cetoacidose grave com instabilidade e acidose profunda."
+  },
+  "para_levar": "Acidose com ânion gap alto, cetonemia alta e glicemia abaixo de 250 em usuário de inibidor de SGLT2 é cetoacidose euglicêmica: insulina contínua com soro glicosado desde o início.",
+  "referencias": "Umpierrez GE et al. Hyperglycemic Crises in Adults With Diabetes: A Consensus Report (ADA, EASD, JBDS, AACE, DTS). Diabetes Care 2024; Diretriz da Sociedade Brasileira de Diabetes (2024).",
+  "tags": [
+   "Cetoacidose Diabética (CM)",
+   "iSGLT2 (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "UERJ pouco explorado: cetoacidose euglicêmica com inibidor de SGLT2 a deduzir, com a metformina como rótulo verdadeiro"
+ },
+ {
+  "id": "R01-END-06",
+  "simulado": "R01",
+  "area": "Endocrinologia",
+  "titulo": "Incidentaloma adrenal de 2,6 cm com 16 UH e washout absoluto de 68%, hormonalmente inativo: nenhuma nova imagem",
+  "arma": "Limiar",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 52 anos fez TC de abdome por cólica renal, que mostrou cálculo ureteral já eliminado e nódulo adrenal esquerdo de 2,6 cm, homogêneo, de contornos regulares, com densidade de 16 UH na fase sem contraste. Na fase tardia, o washout absoluto foi de 68%. Não tem história de neoplasia. É normotensa, sem fraqueza ou hipocalemia. Cortisol após 1 mg de dexametasona: 1,2 µg/dL; metanefrinas livres plasmáticas normais; potássio 4,3 mEq/L. A conduta mais adequada é:",
+  "alternativas": {
+   "A": "Adrenalectomia laparoscópica",
+   "B": "Nenhum novo exame de imagem",
+   "C": "Biópsia percutânea guiada por TC",
+   "D": "PET-CT com FDG"
+  },
+  "gabarito": "B",
+  "armadilha": "D",
+  "dado_decisivo": "o washout absoluto foi de 68%",
+  "resolucao": "A densidade de 16 UH na fase sem contraste está acima do limiar de 10 UH que, sozinho, define adenoma rico em lípides, e isso leva o apressado a classificar a lesão como indeterminada e a pedir PET-CT. Lesões entre 11 e 20 UH, menores que 4 cm e homogêneas, são adenomas pobres em lípides na grande maioria, e o washout absoluto igual ou acima de 60% confirma o padrão de adenoma. Com o rastreio hormonal negativo (cortisol suprimido, metanefrinas normais e paciente normotensa sem hipocalemia, sem indicação de pesquisa de aldosteronismo), não há indicação de cirurgia nem de nova imagem. Biópsia adrenal não se faz para diferenciar adenoma de carcinoma, e só entra na suspeita de metástase em paciente com neoplasia conhecida, depois de excluir feocromocitoma.",
+  "comentarios": {
+   "A": "Errada. Seria indicada para lesão funcionante, maior que 4 cm ou com imagem suspeita; nada disso está presente.",
+   "B": "Correta. Lesão menor que 4 cm, homogênea, com washout absoluto acima de 60% e hormonalmente inativa é adenoma e não precisa de nova imagem.",
+   "C": "Errada. A biópsia não diferencia adenoma de carcinoma e só se considera para metástase em paciente com câncer conhecido.",
+   "D": "Errada. É a armadilha dos 16 UH: o PET-CT seria uma opção para lesão indeterminada, mas o washout já resolveu a indeterminação."
+  },
+  "para_levar": "Incidentaloma adrenal: até 10 UH sem contraste encerra a imagem; entre 11 e 20 UH, lesão pequena e homogênea com washout absoluto de 60% ou mais também é adenoma. O rastreio hormonal vale para todas.",
+  "referencias": "Fassnacht M et al. European Society of Endocrinology clinical practice guidelines on the management of adrenal incidentalomas (2023).",
+  "tags": [
+   "Adrenal (CM)"
+  ],
+  "sourceQuestionId": null,
+  "alvo": "S1 q30: incidentaloma decidido pelo limiar de imagem; agora o limiar manda não investigar mais em vez de operar"
+ }
+]
