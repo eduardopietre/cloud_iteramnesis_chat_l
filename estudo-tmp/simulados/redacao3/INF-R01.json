@@ -1,0 +1,188 @@
+[
+ {
+  "id": "R01-INF-01",
+  "simulado": "R01",
+  "area": "Infectologia",
+  "titulo": "Actinomicose pélvica em usuária de DIU com CA-125 alto: penicilina prolongada, e não cirurgia oncológica",
+  "arma": "Rótulo verdadeiro",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 46 anos, usuária de DIU de cobre há 11 anos sem troca, procura atendimento por dor em baixo ventre há 4 meses, perda de 7 kg e febre baixa vespertina. Ao exame, massa endurecida, de consistência lenhosa, em fossa ilíaca direita, aderida à parede abdominal, com um orifício fistuloso cutâneo que drena secreção com pequenos grânulos amarelados. TC: massa anexial direita de 7 cm que infiltra a parede abdominal e o ceco, atravessando planos, sem linfonodomegalia retroperitoneal. CA-125 de 88 U/mL (referência: até 35). A biópsia percutânea mostra microabscessos com filamentos Gram-positivos ramificados, não álcool-ácido resistentes à coloração de Ziehl-Neelsen modificada, sem células neoplásicas. Além da retirada do DIU, a conduta mais adequada é:",
+  "alternativas": {
+   "A": "Penicilina em dose alta por 6 a 12 meses",
+   "B": "Ceftriaxona e metronidazol por 14 dias",
+   "C": "Sulfametoxazol-trimetoprima por 6 meses",
+   "D": "Histerectomia com anexectomia e omentectomia"
+  },
+  "gabarito": "A",
+  "armadilha": "D",
+  "dado_decisivo": "não álcool-ácido resistentes à coloração de Ziehl-Neelsen modificada",
+  "resolucao": "A massa anexial que invade a parede, a perda de peso e o CA-125 elevado são verdadeiros e puxam para câncer de ovário com cirurgia citorredutora. O CA-125 sobe em qualquer processo inflamatório peritoneal e não define neoplasia; a biópsia sem células malignas, com microabscessos e filamentos Gram-positivos ramificados, aponta actinomicetos. O que separa Actinomyces de Nocardia é a coloração álcool-ácido modificada: Nocardia é fracamente álcool-ácido resistente e Actinomyces não, como neste caso. A história completa a pista: DIU de longa permanência, consistência lenhosa, lesão que atravessa planos anatômicos e fístula com grânulos amarelados (grânulos de enxofre). O tratamento é penicilina em dose alta, intravenosa nas primeiras semanas e depois oral, por 6 a 12 meses, com retirada do DIU; a cirurgia fica para abscesso que não drena ou falha clínica, e não para ressecção oncológica.",
+  "comentarios": {
+   "A": "Correta. Actinomicose (filamentos Gram-positivos ramificados, não álcool-ácido resistentes, grânulos amarelados) se trata com penicilina em dose alta por meses.",
+   "B": "Errada. Seria um esquema razoável para abscesso tubo-ovariano polimicrobiano; duas semanas não erradicam actinomicose, que recidiva com curso curto.",
+   "C": "Errada. Seria a escolha para nocardiose, cujo agente é fracamente álcool-ácido resistente; aqui a coloração modificada foi negativa.",
+   "D": "Errada. É a armadilha do CA-125: a cirurgia oncológica seria para carcinoma de ovário, mas a biópsia não mostrou neoplasia e o marcador sobe em inflamação peritoneal."
+  },
+  "para_levar": "Massa lenhosa que atravessa planos, com fístula e grânulos amarelados, em usuária de DIU antigo é actinomicose até prova em contrário: penicilina por 6 a 12 meses, e o CA-125 alto não muda isso.",
+  "referencias": "Valour F et al. Actinomycosis: etiology, clinical features, diagnosis, treatment, and management. Infect Drug Resist 2014; Harrison's Principles of Internal Medicine, 21ª ed. (2022), cap. Actinomycosis.",
+  "tags": ["313 Actinomycosis", "Infecções Bacterianas (CM)"],
+  "sourceQuestionId": null,
+  "alvo": "S1 q63: o agente (Actinomyces) define o antimicrobiano prolongado, e não a aparência de neoplasia nem o antibiótico de curso curto"
+ },
+ {
+  "id": "R01-INF-02",
+  "simulado": "R01",
+  "area": "Infectologia",
+  "titulo": "Sífilis secundária com hepatite na pessoa com HIV, rotulada como farmacodermia: VDRL diluído pelo efeito prozona",
+  "arma": "Rótulo verdadeiro",
+  "comando": "próximo exame",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 33 anos, vivendo com HIV, reiniciou há 3 semanas tenofovir, lamivudina e dolutegravir após 1 ano de abandono (CD4 de 170 células/mm³), junto com sulfametoxazol-trimetoprima profilático. Há 10 dias surgiram placas eritematoacastanhadas descamativas no tronco, nas palmas e nas plantas, placas esbranquiçadas na mucosa oral e queda de cabelo em clareiras. Afebril, com linfonodos epitrocleares palpáveis. ALT 118 U/L, fosfatase alcalina 690 U/L (referência até 120), bilirrubinas normais; eosinófilos 180/mm³. Teste rápido treponêmico reagente; VDRL não reagente, processado apenas na amostra pura. O próximo exame mais adequado é:",
+  "alternativas": {
+   "A": "Biópsia cutânea com histopatologia",
+   "B": "VDRL com diluições seriadas do soro",
+   "C": "VDRL no líquor por punção lombar",
+   "D": "Biópsia hepática percutânea"
+  },
+  "gabarito": "B",
+  "armadilha": "A",
+  "dado_decisivo": "VDRL não reagente, processado apenas na amostra pura",
+  "resolucao": "Duas drogas iniciadas há 3 semanas, exantema e enzimas hepáticas alteradas fazem pensar em farmacodermia por sulfa e hepatotoxicidade, e a biópsia de pele parece o passo natural. Mas a erupção palmoplantar descamativa, as placas mucosas, a alopecia em clareiras, a adenopatia epitroclear e a colestase desproporcional (fosfatase alcalina muito mais alta que a ALT) compõem sífilis secundária com hepatite sifilítica, e a eosinofilia normal enfraquece a reação a droga. O teste treponêmico reagente com VDRL não reagente nessa fase não descarta a doença: com títulos muito altos, frequentes na pessoa com HIV, o excesso de anticorpos impede a floculação na amostra pura (efeito prozona). O exame que resolve é repetir o VDRL com o soro diluído em série, que mostrará título alto e servirá de base para o seguimento.",
+  "comentarios": {
+   "A": "Errada. É a armadilha da farmacodermia; a biópsia seria útil se o quadro cutâneo fosse inespecífico, mas o diagnóstico de sífilis secundária se firma no soro diluído, de forma rápida e sem procedimento.",
+   "B": "Correta. VDRL não reagente na amostra pura com treponêmico reagente e sífilis secundária exuberante é efeito prozona até prova em contrário; a diluição revela o título.",
+   "C": "Errada. A punção lombar entraria por sintoma neurológico, ocular ou auditivo, ausentes aqui; ela não confirma a sífilis secundária.",
+   "D": "Errada. A hepatite sifilítica não exige biópsia; o padrão colestático melhora com a penicilina, e o diagnóstico é sorológico."
+  },
+  "para_levar": "Sífilis secundária exuberante com treponêmico reagente e VDRL não reagente na amostra pura pede VDRL com diluições: o efeito prozona é mais comum com títulos altos, como na pessoa com HIV.",
+  "referencias": "Ministério da Saúde, PCDT para Atenção Integral às Pessoas com IST (2022); CDC Sexually Transmitted Infections Treatment Guidelines (2021).",
+  "tags": ["Sífilis, Uretrites Infecciosas e outras DSTs (CM)", "Lesões Cutâneas na AIDS (CM)"],
+  "sourceQuestionId": null,
+  "alvo": "S1 q8: HIV como cenário da sífilis secundária com VDRL feito só na amostra pura (prozona); o rótulo agora é a farmacodermia"
+ },
+ {
+  "id": "R01-INF-03",
+  "simulado": "R01",
+  "area": "Infectologia",
+  "titulo": "Viremia em quem usava dolutegravir há anos: quelação pelo cálcio e pelo ferro tomados juntos em jejum",
+  "arma": "Droga a deduzir",
+  "comando": "etiologia",
+  "nivel": "difícil",
+  "enunciado": "Homem de 58 anos vive com HIV há 9 anos, com carga viral indetectável nos últimos 4 anos em uso de tenofovir, lamivudina e dolutegravir, que toma em jejum, ao acordar. Há 4 meses, após densitometria com osteoporose e anemia ferropriva por hemorroidas, passou a tomar carbonato de cálcio 1.250 mg, colecalciferol e sulfato ferroso, todos no mesmo horário, também em jejum. Nega falhas de dose, e a farmácia confirma a retirada mensal regular. Carga viral agora: 3.900 cópias/mL, confirmada em nova amostra; CD4 estável em 610 células/mm³. A causa mais provável da viremia é:",
+  "alternativas": {
+   "A": "Falta de adesão não admitida",
+   "B": "Resistência adquirida à integrase",
+   "C": "Quelação do dolutegravir pelos cátions",
+   "D": "Indução enzimática pelo colecalciferol"
+  },
+  "gabarito": "C",
+  "armadilha": "A",
+  "dado_decisivo": "todos no mesmo horário, também em jejum",
+  "resolucao": "Viremia depois de anos de supressão costuma ser atribuída à adesão, e é nisso que o apressado aposta, mesmo com a retirada regular documentada. A pista está no que mudou há 4 meses: cálcio e ferro, cátions polivalentes que quelam os inibidores de integrase no intestino e derrubam a absorção do dolutegravir quando tomados juntos em jejum. A interação é evitável: tomar o dolutegravir 2 horas antes ou 6 horas depois do suplemento, ou junto com ele numa refeição. Resistência à integrase sob dolutegravir é rara e não é a primeira hipótese numa viremia baixa com causa farmacológica evidente; corrige-se a interação e repete-se a carga viral, com genotipagem se a viremia persistir. Colecalciferol não induz o metabolismo do dolutegravir.",
+  "comentarios": {
+   "A": "Errada. Seria a primeira hipótese sem outra explicação, mas a retirada regular está documentada e a mudança dos suplementos explica a queda de exposição à droga.",
+   "B": "Errada. A resistência ao dolutegravir em quem estava suprimido é rara; ela seria pensada se a viremia persistisse após corrigir a interação, com genotipagem.",
+   "C": "Correta. Cálcio e ferro tomados junto com o dolutegravir em jejum quelam a droga e reduzem a absorção; separar os horários ou tomar com refeição resolve.",
+   "D": "Errada. O colecalciferol não é indutor enzimático; o indutor que obriga dobrar o dolutegravir é a rifampicina."
+  },
+  "para_levar": "Dolutegravir e cátions polivalentes (cálcio, ferro, magnésio, alumínio, zinco): em jejum, tomar a TARV 2 horas antes ou 6 horas depois do suplemento; com refeição, podem ir juntos.",
+  "referencias": "Ministério da Saúde, PCDT para Manejo da Infecção pelo HIV em Adultos (2024); DHHS Guidelines for the Use of Antiretroviral Agents in Adults (2024), tabela de interações dos inibidores de integrase.",
+  "tags": ["HIV : Diagnóstico, Seguimento e Antirretrovirais (CM)", "HIV/AIDS (CM)"],
+  "sourceQuestionId": null,
+  "alvo": "S2 q58: droga em uso não cruzada com o dolutegravir (antes rifampicina, agora cátions)"
+ },
+ {
+  "id": "R01-INF-04",
+  "simulado": "R01",
+  "area": "Infectologia",
+  "titulo": "Malária vivax lúcido e tolerando via oral com hemoglobina abaixo de 7: grave, artesunato intravenoso",
+  "arma": "Grade X / Y",
+  "comando": "diagnóstico",
+  "nivel": "extremamente difícil",
+  "enunciado": "Homem de 34 anos, garimpeiro em Roraima, chega ao Rio de Janeiro com febre em picos a cada 48 horas há 9 dias. Está lúcido, aceita a dieta e não vomita. PA 108/66 mmHg, FC 104 bpm, FR 18 irpm, SatO2 96% em ar ambiente. Gota espessa: trofozoítos ameboides e esquizontes com 16 merozoítos, em hemácias aumentadas com granulações de Schüffner; parasitemia de 8.000/mm³. Hemoglobina 6,1 g/dL, plaquetas 42.000/mm³, creatinina 1,1 mg/dL, bilirrubina total 2,0 mg/dL, glicemia 98 mg/dL, lactato 1,4 mmol/L. A espécie e o tratamento antimalárico inicial são, respectivamente:",
+  "alternativas": {
+   "A": "P. falciparum / artesunato intravenoso",
+   "B": "P. vivax / cloroquina e primaquina",
+   "C": "P. falciparum / artemeter-lumefantrina oral",
+   "D": "P. vivax / artesunato intravenoso"
+  },
+  "gabarito": "D",
+  "armadilha": "B",
+  "dado_decisivo": "Hemoglobina 6,1 g/dL",
+  "resolucao": "A espécie está escrita na lâmina: hemácias aumentadas com granulações de Schüffner, trofozoítos ameboides e esquizontes com muitos merozoítos são P. vivax, e a febre terçã combina. Decidida a espécie, sobram duas opções, e o paciente lúcido, tolerando via oral e com parasitemia baixa puxa para o esquema oral de cloroquina com primaquina. Mas malária grave não é exclusividade do falciparum: o vivax com qualquer critério de gravidade é tratado como grave, e no adulto a hemoglobina abaixo de 7 g/dL é um desses critérios, independentemente da parasitemia. O tratamento é artesunato intravenoso, com transfusão se necessário, e depois completa-se o esquema oral com primaquina para os hipnozoítos, após checar a G6PD. A plaquetopenia isolada, comum no vivax, não é critério de gravidade.",
+  "comentarios": {
+   "A": "Errada. O tratamento seria o certo para falciparum grave, mas a morfologia (hemácias aumentadas, granulações de Schüffner, esquizontes no sangue periférico) é de vivax.",
+   "B": "Errada. É a armadilha: seria o esquema do vivax não complicado, mas a hemoglobina abaixo de 7 g/dL no adulto classifica como grave.",
+   "C": "Errada. Esquema oral do falciparum não complicado; erra a espécie e a gravidade.",
+   "D": "Correta. Vivax com anemia grave (hemoglobina 6,1 g/dL) é malária grave e recebe artesunato intravenoso, seguido de primaquina."
+  },
+  "para_levar": "Malária vivax pode ser grave: qualquer critério (hemoglobina abaixo de 7 g/dL no adulto, creatinina acima de 3, icterícia, edema pulmonar, choque) indica artesunato intravenoso, mesmo com o paciente lúcido.",
+  "referencias": "Ministério da Saúde, Guia de Tratamento da Malária no Brasil (2021); WHO Guidelines for Malaria (2024).",
+  "tags": ["Malária (CM)"],
+  "sourceQuestionId": null,
+  "alvo": "S3 q78: o critério de gravidade na grade (aqui a anemia grave do vivax) muda o tratamento mesmo com o paciente lúcido e tolerando via oral"
+ },
+ {
+  "id": "R01-INF-05",
+  "simulado": "R01",
+  "area": "Infectologia",
+  "titulo": "Pessoa com HIV e CD4 alto com cicatriz radiológica de tuberculose nunca tratada: tratar a infecção latente apesar da prova tuberculínica negativa",
+  "arma": "Limiar",
+  "comando": "conduta",
+  "nivel": "difícil",
+  "enunciado": "Mulher de 44 anos vive com HIV desde 2019, em TARV com carga viral indetectável e CD4 de 620 células/mm³. Na consulta anual, conta que teve tosse prolongada com perda de peso aos 20 anos, quando morava com um tio que tratava tuberculose; ela nunca foi investigada nem tratada. Hoje está assintomática: sem tosse, febre, sudorese ou perda de peso. Prova tuberculínica: 2 mm. Radiografia de tórax: estrias fibróticas e nódulos calcificados no ápice direito, sem cavidade e sem infiltrado novo. Baciloscopia e teste rápido molecular de escarro induzido negativos. A conduta mais adequada é:",
+  "alternativas": {
+   "A": "Tratar a infecção latente agora",
+   "B": "Repetir a prova tuberculínica em 1 ano",
+   "C": "Solicitar IGRA antes de decidir",
+   "D": "Iniciar esquema RHZE por 6 meses"
+  },
+  "gabarito": "A",
+  "armadilha": "B",
+  "dado_decisivo": "estrias fibróticas e nódulos calcificados no ápice direito",
+  "resolucao": "Com CD4 acima de 350, a pessoa com HIV entra no tratamento da infecção latente pela prova tuberculínica de 5 mm ou mais ou pelo IGRA positivo, e a PT de 2 mm, abaixo do limiar, leva a repetir o teste anualmente. Só que o limiar não é a única porta: o Ministério da Saúde indica tratar a infecção latente na pessoa com HIV que tem cicatriz radiológica de tuberculose sem tratamento prévio, qualquer que seja a PT ou o CD4. A PT falsamente negativa é comum no HIV e não tira o risco de reativação de uma lesão antiga nunca tratada. Afastada a doença ativa (assintomática, sem lesão nova, escarro negativo), trata-se a infecção latente agora, com isoniazida ou rifapentina com isoniazida, verificando interações com a TARV. O esquema de quatro drogas seria para doença ativa, que foi excluída.",
+  "comentarios": {
+   "A": "Correta. Cicatriz radiológica de tuberculose nunca tratada indica tratamento da infecção latente na pessoa com HIV, independentemente da PT.",
+   "B": "Errada. É a armadilha do limiar: repetir a PT anualmente vale para quem não tem outra indicação, mas a cicatriz radiológica sem tratamento já é indicação.",
+   "C": "Errada. O IGRA não muda a decisão quando já existe indicação por imagem; ele seria útil se a dúvida fosse a infecção em si.",
+   "D": "Errada. RHZE é para tuberculose ativa, afastada por clínica, imagem estável e escarro negativo."
+  },
+  "para_levar": "Na pessoa com HIV, tratar a infecção latente se CD4 até 350, se PT de 5 mm ou mais ou IGRA positivo, se contato de bacilífero, ou se houver cicatriz radiológica de tuberculose nunca tratada, sempre depois de afastar doença ativa.",
+  "referencias": "Ministério da Saúde, Manual de Recomendações para o Controle da Tuberculose no Brasil, 2ª ed. atualizada (2019) e Protocolo de vigilância da infecção latente pelo M. tuberculosis (2022).",
+  "tags": ["ILTB (CM)", "Coinfecção HIV/Tuberculose (CM)"],
+  "sourceQuestionId": null,
+  "alvo": "S1 q83: ILTB na pessoa com HIV tratada sem esperar a PT positiva (antes o contato, agora a cicatriz radiológica não tratada)"
+ },
+ {
+  "id": "R01-INF-06",
+  "simulado": "R01",
+  "area": "Infectologia",
+  "titulo": "Leishmaniose visceral no adulto com pancitopenia: teste rápido rK39 confirma antes do aspirado de medula",
+  "arma": "Qualificador",
+  "comando": "próximo exame",
+  "nivel": "difícil",
+  "enunciado": "Homem de 27 anos, natural de Montes Claros (MG), mora em área periurbana onde vários cães da vizinhança foram sacrificados no último ano. Há 10 semanas tem febre diária, emagrecimento de 9 kg e aumento do volume abdominal. Exame: emagrecido e pálido, baço palpável a 12 cm do rebordo costal e fígado a 4 cm. Hemoglobina 7,8 g/dL, leucócitos 1.900/mm³ (neutrófilos 800/mm³), plaquetas 71.000/mm³, sem blastos no sangue periférico; albumina 2,6 g/dL e globulinas 5,4 g/dL. Anti-HIV não reagente. Para confirmar o diagnóstico e iniciar o tratamento, o exame inicial mais adequado é:",
+  "alternativas": {
+   "A": "Aspirado de medula óssea",
+   "B": "Teste imunocromatográfico rK39",
+   "C": "Punção aspirativa esplênica",
+   "D": "Biópsia hepática percutânea"
+  },
+  "gabarito": "B",
+  "armadilha": "A",
+  "dado_decisivo": "globulinas 5,4 g/dL",
+  "resolucao": "Pancitopenia com esplenomegalia volumosa faz o raciocínio ir para doença hematológica, e o mielograma parece o exame que resolve tudo. O quadro, porém, é de leishmaniose visceral: área endêmica com cães sacrificados, febre prolongada, emagrecimento, esplenomegalia de grande monta, hipoalbuminemia e inversão albumina/globulina por hipergamaglobulinemia policlonal, sem blastos. O comando pede o exame inicial que confirma: no imunocompetente com quadro compatível, o teste imunocromatográfico rK39 reagente confirma o diagnóstico e autoriza o tratamento, sem procedimento invasivo. O aspirado de medula fica para o rK39 não reagente com suspeita mantida, para a coinfecção com HIV (em que a sorologia perde sensibilidade) ou quando há dúvida hematológica real. A punção esplênica tem a maior sensibilidade, mas o risco de sangramento com plaquetopenia a reserva para serviços experientes.",
+  "comentarios": {
+   "A": "Errada. É a armadilha da pancitopenia; o mielograma confirma pela visualização de amastigotas, mas é invasivo e fica para rK39 não reagente, coinfecção com HIV ou dúvida hematológica.",
+   "B": "Correta. Com quadro compatível em área endêmica e HIV negativo, o rK39 reagente confirma a leishmaniose visceral e permite tratar.",
+   "C": "Errada. A punção esplênica é o exame parasitológico mais sensível, mas o risco de hemorragia com plaquetopenia a torna exceção, não exame inicial.",
+   "D": "Errada. A biópsia hepática mostraria amastigotas, mas é invasiva e desnecessária para o diagnóstico."
+  },
+  "para_levar": "Leishmaniose visceral no imunocompetente: febre prolongada, esplenomegalia volumosa, pancitopenia e hipergamaglobulinemia; o rK39 reagente confirma, e o aspirado de medula entra quando a sorologia falha ou há HIV.",
+  "referencias": "Ministério da Saúde, Manual de Vigilância e Controle da Leishmaniose Visceral (2014) e Guia de Vigilância em Saúde, 6ª ed. (2023).",
+  "tags": ["Leishmaniose (CM)"],
+  "sourceQuestionId": null,
+  "alvo": "S3 q15: o exame menos invasivo que confirma (rK39) em vez do invasivo; também UERJ pouco explorado (leishmaniose visceral)"
+ }
+]
