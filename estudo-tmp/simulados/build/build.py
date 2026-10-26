@@ -29,7 +29,8 @@ PROIBIDO = re.compile(r'[—–]|(?<!Hodgkin )\bcl[aá]ssic[oa]s?\b|\bt[ií]pic[
 
 def carregar(n):
     qs = []
-    for f in sorted(glob.glob(os.path.join(RED, f'*-S{n}.json'))):
+    padrao = f'*-{n}.json' if str(n).startswith('R') else f'*-S{n}.json'
+    for f in sorted(glob.glob(os.path.join(RED, padrao))):
         for q in json.load(open(f)):
             q['_arquivo'] = os.path.basename(f)
             qs.append(q)
@@ -68,7 +69,7 @@ def validar(qs):
 
 
 def ordenar(qs, n):
-    rnd = random.Random(1000 + n)
+    rnd = random.Random(1000 + int(re.sub(r'\D', '', str(n)) or 0) + (500 if str(n).startswith('R') else 0))
     por_bloco = collections.defaultdict(list)
     for q in qs:
         por_bloco[q['id'].split('-')[1]].append(q)
@@ -149,7 +150,7 @@ def resolucao_html(n, qs, data):
 <div class="caixa"><h3>O que cada arma treina em você</h3><ul>
 <li><b>Rótulo verdadeiro, negativo no meio, dado omitido:</b> a leitura em modo confirmação, a sua maior causa de erro de identificação.</li>
 <li><b>Grade X / Y e qualificador:</b> a alternativa aceita pela metade e o comando lido pela metade.</li>
-<li><b>Limiar, cronologia e omissão:</b> a regra aplicada sem checar a condição que a habilita, e o exame ou tratamento a mais, o seu padrão dominante em 15/10/2026.</li>
+<li><b>Limiar, cronologia e omissão:</b> a regra aplicada sem checar a condição que a habilita, e o exame ou tratamento a mais, o seu padrão dominante nos Simulados 1 a 4.</li>
 <li><b>Droga a deduzir:</b> a droga em uso que decide e não vem nomeada.</li></ul></div>
 <p class="nota">Todas as questões têm uma única alternativa defensável pela diretriz citada. Se discordar de alguma, anote: discutir o gabarito é o melhor treino.</p></section>'''
     cel = ''.join(f'<div class="g"><span class="gn">{q["numero"]}</span><span class="gl">{q["gabarito"]}</span><span class="dot {ARMAS[q["arma"]][0]}"></span></div>' for q in qs)
@@ -169,10 +170,16 @@ def resolucao_html(n, qs, data):
 <div class="decide"><div class="dk">O DADO QUE DECIDE</div><i>{e(q["dado_decisivo"])}</i></div>
 <p class="res"><b>Resolução.</b> {e(q["resolucao"])}</p>
 {alts}
-<div class="levar"><b>Para levar.</b> {e(q["para_levar"])}<div class="ref">{e(q["referencias"])}</div></div>
+<div class="levar"><b>Para levar.</b> {e(q["para_levar"])}<div class="ref">{e(q["referencias"])}</div>{revisa(n, q)}</div>
 </article>'''
     corpo += '</section>'
     return pagina(f'Simulado UERJ {n} · Resolução', corpo)
+
+
+def revisa(n, q):
+    if not str(n).startswith('R') or not q.get('alvo'):
+        return ''
+    return f'<div class="ref"><b>Revisa:</b> {e(q["alvo"])}</div>'
 
 
 def tempo(k):
@@ -183,7 +190,7 @@ def tempo(k):
 
 def caderno_html(n, qs, data):
     corpo = capa(n, 'Caderno de questões',
-                 'Prova inédita no formato da UERJ: quatro alternativas, casos longos e a armadilha da banca em cada questão.',
+                 ('Simulado de revisão no formato da UERJ, montado a partir dos seus erros nos Simulados 1 a 4: quatro alternativas e a armadilha da banca em cada questão.' if str(n).startswith('R') else 'Prova inédita no formato da UERJ: quatro alternativas, casos longos e a armadilha da banca em cada questão.'),
                  len(qs), data)
     corpo += f'''<section class="pg"><div class="kicker azul">ANTES DE COMEÇAR</div><h2>Instruções</h2>
 <ul class="instr">
@@ -205,7 +212,7 @@ def caderno_html(n, qs, data):
 def main():
     data = os.environ.get('DATA', '15 de outubro de 2026')
     todos_ok = True
-    for n in (int(x) for x in (sys.argv[1:] or ['2', '3', '4', '5'])):
+    for n in ((x if x.startswith('R') else int(x)) for x in (sys.argv[1:] or ['2', '3', '4', '5'])):
         qs = carregar(n)
         erros = validar(qs)
         armas = collections.Counter(q.get('arma') for q in qs)
