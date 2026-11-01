@@ -1,0 +1,1872 @@
+[
+ {
+  "erro": 7,
+  "statement": "Mulher de 50 anos, com carcinoma ductal invasivo de mama, receptor de estrogênio positivo, operada há dois anos, em uso de tamoxifeno 20 mg/dia, procura atendimento por ondas de calor há oito meses, cerca de doze por dia, com despertares noturnos e queda do rendimento no trabalho. Amenorreia desde o início da quimioterapia. Nega depressão. Usa losartana para HAS bem controlada. Exame: PA 128 x 80 mmHg, IMC 26 kg/m². TGO, TGP e bilirrubinas normais. O oncologista contraindica terapia hormonal. A opção não hormonal mais adequada para os fogachos é:",
+  "alternatives": [
+   {
+    "text": "venlafaxina 75 mg/dia",
+    "feedback": "Correta. Venlafaxina reduz fogachos e inibe pouco o CYP2D6, por isso é a escolha entre os antidepressivos em quem usa tamoxifeno; controlar a PA."
+   },
+   {
+    "text": "paroxetina 7,5 mg/dia, à noite",
+    "feedback": "Errada. É aprovada para fogachos, mas inibe fortemente o CYP2D6 e reduz a conversão do tamoxifeno em endoxifeno; seria opção sem tamoxifeno."
+   },
+   {
+    "text": "fluoxetina 20 mg/dia, pela manhã",
+    "feedback": "Errada. Também é inibidor potente do CYP2D6 e compromete a ativação do tamoxifeno, além de ser menos eficaz nos fogachos."
+   },
+   {
+    "text": "bupropiona 150 mg/dia, pela manhã",
+    "feedback": "Errada. Não tem eficácia demonstrada nos sintomas vasomotores e é inibidor forte do CYP2D6, interagindo com o tamoxifeno."
+   }
+  ],
+  "correct": "A",
+  "tags": [
+   "227 Menopause",
+   "Câncer de mama invasivo"
+  ],
+  "level": "difícil",
+  "decider": "em uso de tamoxifeno 20 mg/dia",
+  "trap": "B",
+  "_n": 1
+ },
+ {
+  "erro": 7,
+  "statement": "Mulher de 56 anos, pós-menopausa há quatro anos, com câncer de mama receptor hormonal positivo tratado há três anos, hoje em uso de anastrozol, refere fogachos intensos, cerca de oito por dia, com sudorese noturna e irritabilidade. Tem hepatite C tratada com resposta virológica sustentada, mas com fibrose avançada e TGP persistente de 2,5 vezes o limite superior. Não usa outros medicamentos. Nega sintomas vaginais. Exame: PA 122 x 78 mmHg, sem estigmas de hepatopatia descompensada. A conduta mais adequada para os fogachos é:",
+  "alternatives": [
+   {
+    "text": "tibolona 2,5 mg/dia",
+    "feedback": "Errada. Tem ação estrogênica e aumentou recidiva de câncer de mama no estudo LIBERATE; é contraindicada em sobrevivente de câncer de mama."
+   },
+   {
+    "text": "paroxetina 7,5 mg/dia",
+    "feedback": "Correta. Com inibidor de aromatase não há interação pelo CYP2D6, e a paroxetina em baixa dose é aprovada para fogachos; a transaminase alta impede o fezolinetanto."
+   },
+   {
+    "text": "fezolinetanto 45 mg/dia",
+    "feedback": "Errada. Seria a escolha com fígado normal, mas não se inicia com transaminases a 2 vezes o limite ou mais nem em hepatopatia crônica avançada, pelo risco de lesão hepática."
+   },
+   {
+    "text": "estriol creme vaginal",
+    "feedback": "Errada. Estrogênio local trata a síndrome geniturinária, não os fogachos, e ela não tem sintoma vaginal."
+   }
+  ],
+  "correct": "B",
+  "tags": [
+   "227 Menopause",
+   "Câncer de mama invasivo"
+  ],
+  "level": "difícil",
+  "decider": "TGP persistente de 2,5 vezes o limite superior",
+  "trap": "C",
+  "_n": 2
+ },
+ {
+  "erro": 7,
+  "statement": "Mulher de 53 anos, sobrevivente de câncer de mama receptor positivo, em uso de tamoxifeno, apresenta fogachos predominantemente noturnos, seis a oito por noite, com insônia de manutenção. Tem HAS de difícil controle em uso de anlodipino, losartana e clortalidona, e queixa de dor em queimação nos pés por neuropatia diabética leve. Exame: PA 162 x 98 mmHg em duas medidas, FC 76 bpm. Creatinina 0,9 mg/dL e enzimas hepáticas normais. Ela prefere um único medicamento que ajude também no sono. A melhor opção é:",
+  "alternatives": [
+   {
+    "text": "paroxetina 7,5 mg/dia",
+    "feedback": "Errada. Inibe fortemente o CYP2D6 e reduz a ativação do tamoxifeno; caberia com inibidor de aromatase."
+   },
+   {
+    "text": "estradiol transdérmico em baixa dose",
+    "feedback": "Errada. A via transdérmica reduz risco trombótico, mas não remove a contraindicação oncológica do câncer de mama receptor positivo."
+   },
+   {
+    "text": "gabapentina à noite, titulada",
+    "feedback": "Correta. Reduz fogachos, melhora o sono e a dor neuropática, não interage com o tamoxifeno e não eleva a PA; a dose noturna aproveita a sonolência."
+   },
+   {
+    "text": "venlafaxina 75 mg/dia",
+    "feedback": "Errada. Seria a escolha com tamoxifeno e PA controlada, mas eleva a pressão de forma dose dependente, e esta paciente está com HAS descontrolada."
+   }
+  ],
+  "correct": "C",
+  "tags": [
+   "227 Menopause",
+   "Câncer de mama invasivo"
+  ],
+  "level": "extremamente difícil",
+  "decider": "PA 162 x 98 mmHg em duas medidas",
+  "trap": "D",
+  "_n": 3
+ },
+ {
+  "erro": 7,
+  "statement": "Mulher de 58 anos, com câncer de mama receptor hormonal positivo tratado há dois anos, em uso de letrozol, refere secura vaginal, ardência e dispareunia que impedem a atividade sexual. Não tem fogachos. Nega disúria. Exame ginecológico: mucosa vaginal pálida, fina, com perda das pregas e pH vaginal de 6,5. Exame de urina normal. Não tentou nenhum tratamento até o momento. A conduta inicial mais adequada é:",
+  "alternatives": [
+   {
+    "text": "estradiol vaginal em baixa dose",
+    "feedback": "Errada. É a primeira linha na mulher sem câncer de mama, mas com inibidor de aromatase a absorção mínima pode anular o efeito da droga; fica para falha do não hormonal."
+   },
+   {
+    "text": "fezolinetanto 45 mg/dia",
+    "feedback": "Errada. Trata sintomas vasomotores pelo hipotálamo e não tem efeito sobre a atrofia vaginal; ela não tem fogachos."
+   },
+   {
+    "text": "ospemifeno 60 mg/dia",
+    "feedback": "Errada. É modulador seletivo do receptor de estrogênio para dispareunia, mas não deve ser usado em quem tem ou teve câncer de mama."
+   },
+   {
+    "text": "hidratante e lubrificante vaginais",
+    "feedback": "Correta. Em sobrevivente de câncer de mama com inibidor de aromatase, a primeira linha da síndrome geniturinária é não hormonal; estrogênio local só se refratário e com o oncologista."
+   }
+  ],
+  "correct": "D",
+  "tags": [
+   "227 Menopause",
+   "Câncer de mama invasivo"
+  ],
+  "level": "média",
+  "decider": "Não tentou nenhum tratamento até o momento",
+  "trap": "A",
+  "_n": 4
+ },
+ {
+  "erro": 7,
+  "statement": "Mulher de 55 anos, pós-menopausa há dois anos, com fogachos moderados a graves, dez por dia, e contraindicação a terapia hormonal por câncer de mama tratado há seis anos, sem terapia endócrina atual. Usa fluvoxamina 200 mg/dia há anos para transtorno obsessivo-compulsivo bem controlado, e o psiquiatra não recomenda trocar. Exame: PA 124 x 76 mmHg. TGO 22 U/L, TGP 25 U/L, bilirrubina total 0,6 mg/dL. Ela pede fezolinetanto, que uma amiga usa. Sobre essa droga, nesta paciente:",
+  "alternatives": [
+   {
+    "text": "é contraindicada pelo uso de inibidor do CYP1A2",
+    "feedback": "Correta. A fluvoxamina inibe fortemente o CYP1A2, que metaboliza o fezolinetanto, e a bula contraindica a associação com inibidores dessa enzima."
+   },
+   {
+    "text": "é contraindicada pelo câncer de mama prévio",
+    "feedback": "Errada. Os estudos de registro excluíram câncer de mama e os dados são limitados, mas isso pede decisão compartilhada com o oncologista, não é contraindicação formal."
+   },
+   {
+    "text": "pode ser iniciada com transaminases a cada seis meses",
+    "feedback": "Errada. Mesmo quando indicada, a bula pede transaminases basais, mensais nos três primeiros meses e depois aos seis e nove meses."
+   },
+   {
+    "text": "pode ser iniciada se a dose for reduzida pela metade",
+    "feedback": "Errada. Não existe ajuste de dose previsto para a interação com inibidores do CYP1A2; a associação é contraindicada."
+   }
+  ],
+  "correct": "A",
+  "tags": [
+   "227 Menopause",
+   "Câncer de mama invasivo"
+  ],
+  "level": "difícil",
+  "decider": "Usa fluvoxamina 200 mg/dia há anos",
+  "trap": "C",
+  "_n": 5
+ },
+ {
+  "erro": 12,
+  "statement": "Homem de 61 anos, com pneumonia pneumocócica, foi intubado há 10 horas por insuficiência respiratória. Radiografia com opacidades bilaterais e ecocardiograma com função ventricular normal. Ventilação: volume corrente 6 mL/kg de peso predito, PEEP 14 cmH₂O, FiO₂ 0,8, pressão de platô 27 cmH₂O, driving pressure 13 cmH₂O. Gasometria: pH 7,31, PaCO₂ 50 mmHg, PaO₂ 72 mmHg, relação PaO₂/FiO₂ 90. Está sedado, sem assincronia. PA média 74 mmHg sem vasopressor. A próxima medida com benefício em mortalidade é:",
+  "alternatives": [
+   {
+    "text": "óxido nítrico inalatório contínuo",
+    "feedback": "Errada. Melhora a oxigenação transitoriamente sem reduzir mortalidade; é medida de ponte, não o próximo passo padrão."
+   },
+   {
+    "text": "posição prona por pelo menos 16 horas ao dia",
+    "feedback": "Correta. Com PaO₂/FiO₂ abaixo de 150 após otimização ventilatória, a prona prolongada reduziu mortalidade (PROSEVA) e é o próximo degrau."
+   },
+   {
+    "text": "ventilação oscilatória de alta frequência",
+    "feedback": "Errada. Aumentou mortalidade no OSCILLATE e não é recomendada na SDRA do adulto."
+   },
+   {
+    "text": "ECMO venovenosa imediata",
+    "feedback": "Errada. É resgate quando a hipoxemia persiste após prona e otimização, segundo os critérios do EOLIA; ainda não se usou a prona."
+   }
+  ],
+  "correct": "B",
+  "tags": [
+   "SARA / SDRA (CM)",
+   "Ventilação Mecânica (CM)",
+   "UTI - Terapia Intensiva (CM)"
+  ],
+  "level": "média",
+  "decider": "relação PaO₂/FiO₂ 90",
+  "trap": "D",
+  "_n": 6
+ },
+ {
+  "erro": 12,
+  "statement": "Mulher de 32 anos, com influenza A confirmada, evolui em 48 horas com dispneia, opacidades bilaterais e choque. Intubada, com PEEP 14 cmH₂O, FiO₂ 1,0 e PaO₂/FiO₂ 60. Ecocardiograma: fração de ejeção de 15%, ventrículo esquerdo hipocinético difuso e não dilatado. Em uso de noradrenalina 0,6 mcg/kg/min e dobutamina 10 mcg/kg/min. Lactato 8,5 mmol/L, diurese de 10 mL/h, extremidades frias. Troponina muito elevada, cineangiocoronariografia sem lesões. A modalidade de suporte extracorpóreo indicada é:",
+  "alternatives": [
+   {
+    "text": "ECMO venovenosa femoral-jugular",
+    "feedback": "Errada. Seria a certa se o coração estivesse preservado; aqui só oxigenaria o sangue que um ventrículo de 15% não consegue ejetar."
+   },
+   {
+    "text": "balão intra-aórtico isolado",
+    "feedback": "Errada. O suporte que oferece é pequeno para choque com lactato de 8,5 e não resolve a hipoxemia grave."
+   },
+   {
+    "text": "ECMO venoarterial periférica femoral",
+    "feedback": "Correta. Há falência pulmonar e cardíaca (miocardite com choque cardiogênico refratário): a venoarterial substitui os dois, e a canulação femoral é a mais rápida no adulto."
+   },
+   {
+    "text": "remoção extracorpórea de CO₂ de baixo fluxo",
+    "feedback": "Errada. Serve para hipercapnia com oxigenação aceitável; não oxigena nem dá suporte circulatório."
+   }
+  ],
+  "correct": "C",
+  "tags": [
+   "SARA / SDRA (CM)",
+   "Ventilação Mecânica (CM)",
+   "UTI - Terapia Intensiva (CM)"
+  ],
+  "level": "difícil",
+  "decider": "fração de ejeção de 15%",
+  "trap": "A",
+  "_n": 7
+ },
+ {
+  "erro": 12,
+  "statement": "Homem de 45 anos, em ECMO venoarterial periférica femoral (drenagem pela veia femoral, retorno pela artéria femoral) há cinco dias por miocardite fulminante. A função ventricular esquerda recuperou parcialmente, com abertura da valva aórtica a cada batimento, mas a SDRA associada persiste, com radiografia de opacidades difusas. Sangue na linha de retorno com PaO₂ de 380 mmHg. A equipe nota cianose da face e das mãos com membros inferiores rosados. Para avaliar a oxigenação que chega às coronárias e ao cérebro, a gasometria deve ser colhida em:",
+  "alternatives": [
+   {
+    "text": "artéria radial esquerda",
+    "feedback": "Errada. A subclávia esquerda pode receber mistura do fluxo retrógrado da ECMO e subestimar a hipoxemia de coronárias e cérebro."
+   },
+   {
+    "text": "artéria femoral contralateral à cânula",
+    "feedback": "Errada. Recebe sobretudo o sangue oxigenado da ECMO e mostra valores falsamente tranquilizadores, como os membros rosados."
+   },
+   {
+    "text": "linha de retorno após a membrana",
+    "feedback": "Errada. Avalia o funcionamento do oxigenador, não o sangue que o ventrículo ejeta para a aorta proximal."
+   },
+   {
+    "text": "artéria radial direita",
+    "feedback": "Correta. O tronco braquiocefálico recebe primeiro o sangue ejetado pelo coração, pouco oxigenado pelo pulmão doente; a radial direita mostra a hipoxemia diferencial."
+   }
+  ],
+  "correct": "D",
+  "tags": [
+   "SARA / SDRA (CM)",
+   "Ventilação Mecânica (CM)",
+   "UTI - Terapia Intensiva (CM)"
+  ],
+  "level": "extremamente difícil",
+  "decider": "cianose da face e das mãos com membros inferiores rosados",
+  "trap": "B",
+  "_n": 8
+ },
+ {
+  "erro": 12,
+  "statement": "Na UTI há quatro pacientes com SDRA grave, todos com menos de 7 dias de ventilação mecânica, sem contraindicação a anticoagulação, ventilados com volume corrente de 6 mL/kg, frequência respiratória de até 35 irpm e pressão de platô até 32 cmH₂O, e já submetidos a prona e bloqueio neuromuscular. Os dados das últimas horas são: paciente 1, PaO₂/FiO₂ 70 sustentada por 7 horas; paciente 2, PaO₂/FiO₂ 120 por 24 horas; paciente 3, pH 7,30 com PaCO₂ 58 mmHg por 8 horas; paciente 4, PaO₂/FiO₂ 55 por 1 hora, logo após aspiração traqueal. Pelos critérios do estudo EOLIA, tem indicação de ECMO venovenosa:",
+  "alternatives": [
+   {
+    "text": "o paciente 1",
+    "feedback": "Correta. O EOLIA indicou ECMO com PaO₂/FiO₂ abaixo de 50 por mais de 3 horas, abaixo de 80 por mais de 6 horas, ou pH abaixo de 7,25 com PaCO₂ de 60 ou mais por mais de 6 horas."
+   },
+   {
+    "text": "o paciente 2",
+    "feedback": "Errada. PaO₂/FiO₂ de 120 é SDRA moderada a grave, que se maneja com prona e ventilação protetora, sem critério de ECMO."
+   },
+   {
+    "text": "o paciente 3",
+    "feedback": "Errada. Hipercapnia com pH de 7,30 é tolerada (hipercapnia permissiva); o critério exige pH abaixo de 7,25 e PaCO₂ de 60 mmHg ou mais."
+   },
+   {
+    "text": "o paciente 4",
+    "feedback": "Errada. Abaixo de 50 conta só se persistir por mais de 3 horas; queda de 1 hora após aspiração é evento transitório, que se corrige com recrutamento."
+   }
+  ],
+  "correct": "A",
+  "tags": [
+   "SARA / SDRA (CM)",
+   "Ventilação Mecânica (CM)",
+   "UTI - Terapia Intensiva (CM)"
+  ],
+  "level": "extremamente difícil",
+  "decider": "PaO₂/FiO₂ 70 sustentada por 7 horas",
+  "trap": "D",
+  "_n": 9
+ },
+ {
+  "erro": 12,
+  "statement": "Mulher de 39 anos, com SDRA grave por pneumonia viral, entrou em ECMO venovenosa femoral-jugular há 2 horas, com fluxo de 4,5 L/min, FiO₂ da membrana 1,0 e fluxo de gás de 5 L/min. Gasometria arterial: pH 7,38, PaCO₂ 42 mmHg, PaO₂ 78 mmHg. O ventilador ainda está com volume corrente de 6 mL/kg, PEEP 16 cmH₂O, frequência 32 irpm e pressão de platô 31 cmH₂O, driving pressure 15 cmH₂O. Hemodinâmica estável sem vasopressor. A conduta ventilatória adequada agora é:",
+  "alternatives": [
+   {
+    "text": "manter os parâmetros atuais, com platô abaixo de 32",
+    "feedback": "Errada. Esse limite vale sem ECMO; aqui a lesão induzida pelo ventilador continua e o suporte extracorpóreo existe justamente para reduzi-la."
+   },
+   {
+    "text": "ventilação ultraprotetora, com platô até 24 cmH₂O",
+    "feedback": "Correta. Com a troca gasosa feita pela membrana, o ventilador passa a proteger o pulmão: platô de até 24 cmH₂O, PEEP de 10 ou mais e frequência de cerca de 10 irpm."
+   },
+   {
+    "text": "retirar a PEEP para reduzir a pressão alveolar",
+    "feedback": "Errada. PEEP zero leva a colapso alveolar e atelectrauma; mantém-se PEEP de pelo menos 10 cmH₂O."
+   },
+   {
+    "text": "extubar e manter a paciente acordada",
+    "feedback": "Errada. A ECMO acordada é estratégia de exceção em centros selecionados, não a conduta padrão logo após a canulação na SDRA grave."
+   }
+  ],
+  "correct": "B",
+  "tags": [
+   "SARA / SDRA (CM)",
+   "Ventilação Mecânica (CM)",
+   "UTI - Terapia Intensiva (CM)"
+  ],
+  "level": "difícil",
+  "decider": "pressão de platô 31 cmH₂O",
+  "trap": "A",
+  "_n": 10
+ },
+ {
+  "erro": 20,
+  "statement": "Homem de 70 anos, com prótese mecânica aórtica implantada há três anos, apresenta febre baixa há quatro semanas e emagrecimento. Três pares de hemoculturas positivas para Staphylococcus epidermidis, com mesmo perfil de sensibilidade. Ecocardiograma transesofágico com sombra acústica da prótese, sem vegetação visível e com gradiente estável; repetido após cinco dias, mantém o mesmo aspecto. Exame neurológico normal. PCR 86 mg/L. A suspeita de endocardite permanece alta. O exame de imagem com maior utilidade agora é:",
+  "alternatives": [
+   {
+    "text": "ressonância de crânio isolada",
+    "feedback": "Errada. Ajuda a procurar êmbolos silenciosos, mas não avalia a prótese, que é a dúvida central."
+   },
+   {
+    "text": "novo ecocardiograma transtorácico",
+    "feedback": "Errada. Tem sensibilidade ainda menor que o transesofágico para prótese, que já foi limitado pela sombra acústica."
+   },
+   {
+    "text": "PET-TC com 18F-FDG",
+    "feedback": "Correta. Em prótese implantada há mais de três meses, a captação perivalvar tem boa sensibilidade e é critério maior; aqui ela resolve o eco limitado pela sombra acústica."
+   },
+   {
+    "text": "cintilografia óssea com tecnécio",
+    "feedback": "Errada. Avalia osteomielite, não infecção perivalvar; o exame nuclear para prótese é a PET-TC ou o SPECT com leucócitos marcados."
+   }
+  ],
+  "correct": "C",
+  "tags": [
+   "Endocardite Bacteriana (CM)"
+  ],
+  "level": "difícil",
+  "decider": "prótese mecânica aórtica implantada há três anos",
+  "trap": "B",
+  "_n": 11
+ },
+ {
+  "erro": 20,
+  "statement": "Mulher de 38 anos, com prolapso de valva mitral e insuficiência mitral moderada, apresenta febre há três semanas após tratamento dentário. Quatro hemoculturas positivas para Streptococcus mitis. Exame: TAx 38,2 °C, sopro sistólico apical já conhecido, sem lesões cutâneas. Ecocardiograma transesofágico no dia da internação mostra espessamento do folheto posterior, sem vegetação ou abscesso. Não há sinal de embolização. PCR 64 mg/L e fator reumatoide negativo. Iniciada antibioticoterapia. A conduta diagnóstica adequada é:",
+  "alternatives": [
+   {
+    "text": "afastar endocardite pelo transesofágico negativo",
+    "feedback": "Errada. Um transesofágico negativo não exclui endocardite quando a suspeita é alta; o valor preditivo negativo aumenta com a repetição."
+   },
+   {
+    "text": "indicar cirurgia valvar diagnóstica",
+    "feedback": "Errada. Não há indicação cirúrgica sem disfunção grave, abscesso, embolia ou infecção não controlada."
+   },
+   {
+    "text": "solicitar PET-TC com 18F-FDG da valva mitral",
+    "feedback": "Errada. Em valva nativa a sensibilidade é limitada e um resultado negativo não afasta o diagnóstico; seria útil em prótese."
+   },
+   {
+    "text": "repetir o transesofágico em 5 a 7 dias",
+    "feedback": "Correta. Em valva nativa com suspeita alta e primeiro transesofágico negativo, a repetição em 5 a 7 dias é o passo indicado, porque a vegetação pode estar pequena demais no início."
+   }
+  ],
+  "correct": "D",
+  "tags": [
+   "Endocardite Bacteriana (CM)"
+  ],
+  "level": "média",
+  "decider": "no dia da internação mostra espessamento do folheto posterior",
+  "trap": "C",
+  "_n": 12
+ },
+ {
+  "erro": 20,
+  "statement": "Homem de 29 anos, usuário de drogas injetáveis, apresenta febre de 38,6 °C há cinco dias. Duas hemoculturas, colhidas em punções separadas, positivas para Staphylococcus aureus sensível à oxacilina. Exame: sem sopro, sem lesões cutâneas além de marcas de punção, fundo de olho normal. Ecocardiograma transesofágico sem vegetação, abscesso ou regurgitação nova. Tomografia de tórax sem nódulos sépticos, fator reumatoide negativo e exame de urina normal. Pelos critérios de Duke-ISCVID de 2023, o diagnóstico de endocardite é:",
+  "alternatives": [
+   {
+    "text": "possível, com um critério maior e dois menores",
+    "feedback": "Correta. S. aureus em duas hemoculturas é critério maior; febre e uso de droga injetável são dois menores; sem imagem, um maior e dois menores dá endocardite possível."
+   },
+   {
+    "text": "definitiva, com dois critérios maiores",
+    "feedback": "Errada. Seria definitiva se a imagem mostrasse vegetação ou abscesso, o que daria o segundo critério maior; o transesofágico foi negativo."
+   },
+   {
+    "text": "rejeitada, pelo transesofágico negativo",
+    "feedback": "Errada. Imagem negativa não rejeita o diagnóstico; rejeita-se com diagnóstico alternativo firme, resolução com até 4 dias de antibiótico ou critérios insuficientes para possível."
+   },
+   {
+    "text": "definitiva, com um critério maior e três menores",
+    "feedback": "Errada. Contaria só se houvesse um terceiro critério menor, como fenômeno vascular ou imunológico, ausentes neste caso."
+   }
+  ],
+  "correct": "A",
+  "tags": [
+   "Endocardite Bacteriana (CM)"
+  ],
+  "level": "extremamente difícil",
+  "decider": "Ecocardiograma transesofágico sem vegetação, abscesso ou regurgitação nova",
+  "trap": "B",
+  "_n": 13
+ },
+ {
+  "erro": 20,
+  "statement": "Mulher de 64 anos, com valva aórtica bicúspide, está no décimo dia de tratamento de endocardite por Staphylococcus aureus sensível à oxacilina, com oxacilina venosa. Persiste febril, e as hemoculturas de controle do quinto dia ainda são positivas. ECG novo mostra intervalo PR de 280 ms, antes de 160 ms. Ecocardiograma transesofágico: vegetação de 8 mm na valva aórtica e cavidade perivalvar na raiz da aorta, com insuficiência aórtica moderada. PA 118 x 64 mmHg, sem sinais de insuficiência cardíaca. A conduta é:",
+  "alternatives": [
+   {
+    "text": "implantar marcapasso definitivo e manter a oxacilina",
+    "feedback": "Errada. O bloqueio é marcador de abscesso que avança para o sistema de condução; tratar só o ritmo deixa a infecção sem controle."
+   },
+   {
+    "text": "cirurgia valvar precoce, nesta internação",
+    "feedback": "Correta. Abscesso perivalvar (sugerido pelo novo bloqueio atrioventricular) e bacteremia persistente são infecção não controlada, indicação de cirurgia urgente."
+   },
+   {
+    "text": "prolongar a oxacilina para oito semanas",
+    "feedback": "Errada. Prolongar antibiótico seria o caminho com infecção controlada e sem complicação; abscesso perivalvar raramente se resolve só com antibiótico."
+   },
+   {
+    "text": "solicitar PET-TC antes de decidir a conduta",
+    "feedback": "Errada. O transesofágico já mostrou a complicação; PET-TC não muda a indicação e só atrasa a cirurgia."
+   }
+  ],
+  "correct": "B",
+  "tags": [
+   "Endocardite Bacteriana (CM)"
+  ],
+  "level": "difícil",
+  "decider": "intervalo PR de 280 ms, antes de 160 ms",
+  "trap": "C",
+  "_n": 14
+ },
+ {
+  "erro": 20,
+  "statement": "Homem de 67 anos foi submetido a troca da valva aórtica por bioprótese há seis semanas. Apresenta febre de 38,4 °C há dez dias. Três hemoculturas positivas para Enterococcus faecalis. Ecocardiograma transesofágico inconclusivo, com espessamento perivalvar discreto sem vegetação. PET-TC com 18F-FDG mostra captação perivalvar moderada e homogênea ao redor da bioprótese, sem captação extracardíaca. Ferida operatória sem sinais de infecção. Sobre o achado da PET-TC neste momento:",
+  "alternatives": [
+   {
+    "text": "indica deiscência e troca imediata da prótese",
+    "feedback": "Errada. PET-TC não diagnostica deiscência; isso é avaliado pelo eco ou pela angio-TC cardíaca."
+   },
+   {
+    "text": "exclui endocardite por ser homogênea",
+    "feedback": "Errada. O padrão homogêneo sugere inflamação estéril, mas não exclui infecção num paciente com enterococo em três hemoculturas."
+   },
+   {
+    "text": "não vale como critério maior antes de três meses",
+    "feedback": "Correta. Nos primeiros três meses após a cirurgia a inflamação pós-operatória causa captação perivalvar, e o achado não conta como critério maior de imagem."
+   },
+   {
+    "text": "é critério maior e confirma endocardite de prótese",
+    "feedback": "Errada. Seria assim em prótese implantada há mais de três meses; com seis semanas a captação pode ser só pós-operatória."
+   }
+  ],
+  "correct": "C",
+  "tags": [
+   "Endocardite Bacteriana (CM)"
+  ],
+  "level": "extremamente difícil",
+  "decider": "bioprótese há seis semanas",
+  "trap": "D",
+  "_n": 15
+ },
+ {
+  "erro": 33,
+  "statement": "Mulher de 74 anos, com HAS e fibrilação atrial permanente sem anticoagulação, apresenta disartria e paresia leve da mão direita há 5 horas. NIHSS 3. TC de crânio na admissão sem hemorragia; RM no dia seguinte mostra infarto cortical frontal esquerdo de 1,2 cm. Creatinina 1,0 mg/dL, peso 68 kg. PA 146 x 88 mmHg. Não recebeu trombólise por estar fora da janela e com déficit leve. O momento mais adequado para iniciar o anticoagulante oral direto é:",
+  "alternatives": [
+   {
+    "text": "após 12 a 14 dias",
+    "feedback": "Errada. Esse prazo seria considerado no infarto extenso, com maior risco de transformação hemorrágica; não se aplica a infarto de 1,2 cm."
+   },
+   {
+    "text": "imediatamente, com heparina plena venosa",
+    "feedback": "Errada. Heparina plena na fase aguda aumenta sangramento sem reduzir recorrência, e não é ponte para o anticoagulante direto."
+   },
+   {
+    "text": "após 3 meses de AAS isolado",
+    "feedback": "Errada. AAS não protege contra embolia da fibrilação atrial; deixar 3 meses expõe a paciente a recorrência."
+   },
+   {
+    "text": "dentro das primeiras 48 horas",
+    "feedback": "Correta. Em AVC menor com infarto pequeno, o início precoce do anticoagulante direto foi seguro no ELAN e reduz recorrência precoce."
+   }
+  ],
+  "correct": "D",
+  "tags": [
+   "AVC Isquêmico (CM)",
+   "Fibrilação Atrial (CM)",
+   "Anticoagulação em Cardiologia (CM)"
+  ],
+  "level": "média",
+  "decider": "infarto cortical frontal esquerdo de 1,2 cm",
+  "trap": "A",
+  "_n": 16
+ },
+ {
+  "erro": 33,
+  "statement": "Homem de 69 anos, com fibrilação atrial persistente, recebeu stent farmacológico em descendente anterior há 3 semanas por infarto sem supradesnivelamento de ST, e saiu em uso de AAS, clopidogrel e apixabana. Evolui agora com AVC isquêmico pequeno de território cardioembólico, NIHSS 2, sem hemorragia à TC. Revela que suspendeu a apixabana há 10 dias por conta própria. Creatinina 1,1 mg/dL, hemoglobina 13,8 g/dL, sem sangramento prévio. Após reiniciar a anticoagulação, o esquema antitrombótico mais adequado para os próximos meses é:",
+  "alternatives": [
+   {
+    "text": "apixabana com clopidogrel",
+    "feedback": "Correta. Com stent recente e fibrilação atrial, após a fase de terapia tripla curta mantém-se anticoagulante direto com clopidogrel até 12 meses, sem AAS."
+   },
+   {
+    "text": "apixabana isolada",
+    "feedback": "Errada. Seria a escolha sem doença coronariana recente, como no AVC por fibrilação atrial isolado; com stent há 3 semanas falta o antiplaquetário."
+   },
+   {
+    "text": "apixabana com AAS e clopidogrel por 12 meses",
+    "feedback": "Errada. A terapia tripla se limita aos primeiros dias a uma semana; prolongá-la aumenta muito o sangramento sem reduzir eventos."
+   },
+   {
+    "text": "AAS com clopidogrel, sem anticoagulante",
+    "feedback": "Errada. Dupla antiagregação não previne embolia da fibrilação atrial, e o AVC agora ocorreu justamente sem o anticoagulante."
+   }
+  ],
+  "correct": "A",
+  "tags": [
+   "AVC Isquêmico (CM)",
+   "Fibrilação Atrial (CM)",
+   "Anticoagulação em Cardiologia (CM)"
+  ],
+  "level": "extremamente difícil",
+  "decider": "stent farmacológico em descendente anterior há 3 semanas",
+  "trap": "C",
+  "_n": 17
+ },
+ {
+  "erro": 33,
+  "statement": "Mulher de 52 anos, natural do interior da Bahia, com febre reumática na infância, apresenta AVC isquêmico de território da artéria cerebral média esquerda, NIHSS 6, sem transformação hemorrágica na TC de controle. ECG com fibrilação atrial. Ecocardiograma: estenose mitral com área valvar de 1,1 cm², gradiente médio de 11 mmHg, átrio esquerdo de 55 mm, sem prótese. Creatinina 0,8 mg/dL. Sem história de sangramento. Para a prevenção secundária, a escolha é:",
+  "alternatives": [
+   {
+    "text": "dabigatrana 150 mg duas vezes ao dia",
+    "feedback": "Errada. É contraindicada em prótese mecânica e não tem respaldo na estenose mitral reumática significativa."
+   },
+   {
+    "text": "varfarina com RNI entre 2 e 3",
+    "feedback": "Correta. Fibrilação atrial com estenose mitral reumática moderada a grave é a fibrilação valvar; o INVICTUS mostrou a varfarina superior à rivaroxabana nesse grupo."
+   },
+   {
+    "text": "AAS com clopidogrel",
+    "feedback": "Errada. Antiagregação é inferior à anticoagulação na prevenção de embolia da fibrilação atrial, ainda mais com estenose mitral."
+   },
+   {
+    "text": "apixabana 5 mg duas vezes ao dia",
+    "feedback": "Errada. Seria a escolha na fibrilação atrial não valvar, mas os anticoagulantes diretos não foram validados na estenose mitral reumática moderada a grave."
+   }
+  ],
+  "correct": "B",
+  "tags": [
+   "AVC Isquêmico (CM)",
+   "Fibrilação Atrial (CM)",
+   "Anticoagulação em Cardiologia (CM)"
+  ],
+  "level": "difícil",
+  "decider": "estenose mitral com área valvar de 1,1 cm²",
+  "trap": "D",
+  "_n": 18
+ },
+ {
+  "erro": 33,
+  "statement": "Homem de 77 anos, com fibrilação atrial permanente, teve AVC isquêmico cardioembólico há dois meses, com sequela leve. Estava em uso de apixabana e teve três internações no último ano por sangramento digestivo com necessidade de transfusão, por angiodisplasias difusas de intestino delgado já tratadas por enteroscopia sem sucesso duradouro. Hemoglobina atual 8,9 g/dL. CHA₂DS₂-VASc 6 e HAS-BLED 4. Creatinina 1,2 mg/dL. A gastroenterologia contraindica anticoagulação a longo prazo. A melhor estratégia de prevenção de novo AVC é:",
+  "alternatives": [
+   {
+    "text": "AAS com clopidogrel indefinidamente",
+    "feedback": "Errada. Parece mais seguro, mas sangra quase como anticoagulante e protege muito menos contra embolia da fibrilação atrial."
+   },
+   {
+    "text": "apixabana em dose reduzida de 2,5 mg",
+    "feedback": "Errada. A dose reduzida exige dois de idade de 80 anos ou mais, peso até 60 kg e creatinina de 1,5 ou mais, e não resolve o sangramento recorrente."
+   },
+   {
+    "text": "oclusão percutânea do apêndice atrial esquerdo",
+    "feedback": "Correta. Com contraindicação à anticoagulação prolongada e risco embólico alto, a oclusão do apêndice atrial esquerdo dispensa anticoagulação a longo prazo."
+   },
+   {
+    "text": "varfarina com alvo de RNI entre 1,5 e 2",
+    "feedback": "Errada. O alvo baixo perde eficácia sem eliminar o sangramento, e a varfarina sangra mais que a apixabana."
+   }
+  ],
+  "correct": "C",
+  "tags": [
+   "AVC Isquêmico (CM)",
+   "Fibrilação Atrial (CM)",
+   "Anticoagulação em Cardiologia (CM)"
+  ],
+  "level": "difícil",
+  "decider": "três internações no último ano por sangramento digestivo",
+  "trap": "A",
+  "_n": 19
+ },
+ {
+  "erro": 33,
+  "statement": "Mulher de 71 anos, com fibrilação atrial em uso regular de apixabana 5 mg duas vezes ao dia, última dose há 12 horas, é trazida 90 minutos após início súbito de afasia e hemiplegia direita. NIHSS 19. Glicemia 118 mg/dL, PA 168 x 92 mmHg, plaquetas 210.000/mm³, creatinina 0,9 mg/dL. TC sem hemorragia e ASPECTS 9. Angiotomografia com oclusão do segmento M1 da artéria cerebral média esquerda. Serviço com hemodinâmica disponível. A conduta é:",
+  "alternatives": [
+   {
+    "text": "idarucizumabe seguido de alteplase venosa",
+    "feedback": "Errada. O idarucizumabe reverte só a dabigatrana; não tem efeito sobre a apixabana."
+   },
+   {
+    "text": "alteplase venosa seguida de trombectomia",
+    "feedback": "Errada. Seria o padrão sem anticoagulante; com apixabana há 12 horas o risco de hemorragia contraindica a trombólise."
+   },
+   {
+    "text": "andexanete alfa seguido de alteplase venosa",
+    "feedback": "Errada. O andexanete é para sangramento grave com inibidor do fator Xa; não é usado para permitir trombólise."
+   },
+   {
+    "text": "trombectomia mecânica sem trombólise venosa",
+    "feedback": "Correta. Com anticoagulante direto tomado há menos de 48 horas não se faz trombólise, mas a trombectomia continua indicada na oclusão de grande vaso."
+   }
+  ],
+  "correct": "D",
+  "tags": [
+   "AVC Isquêmico (CM)",
+   "Fibrilação Atrial (CM)",
+   "Anticoagulação em Cardiologia (CM)"
+  ],
+  "level": "extremamente difícil",
+  "decider": "última dose há 12 horas",
+  "trap": "B",
+  "_n": 20
+ },
+ {
+  "erro": 36,
+  "statement": "Mulher de 27 anos, com lúpus eritematoso sistêmico há dois anos, em uso de hidroxicloroquina 400 mg/dia e prednisona 5 mg/dia, procura atendimento por edema de membros inferiores e urina espumosa há três semanas. Nega febre, artralgia ou lesões cutâneas novas. PA 150x95 mmHg, FC 84 bpm, edema 2+/4+ até joelhos. Exames: hemoglobina 11,8 g/dL, leucócitos 4.200/mm³, plaquetas 160.000/mm³, creatinina 1,4 mg/dL (era 0,8 mg/dL há seis meses), EAS com hematúria dismórfica e cilindros hemáticos, relação proteína/creatinina urinária 2,8 g/g, anti-dsDNA em altos títulos, C3 e C4 baixos. A biópsia renal mostra nefrite lúpica classe IV, com atividade e sem cronicidade relevante. Além de manter a hidroxicloroquina e iniciar bloqueio do sistema renina-angiotensina, a indução mais adequada é:",
+  "alternatives": [
+   {
+    "text": "belimumabe mantendo prednisona 5 mg/dia",
+    "feedback": "Errada. Belimumabe isolado é o passo do LES ativo não renal refratário ao tratamento de base; na nefrite proliferativa ele entra como terceiro agente, junto de micofenolato e corticoide, e nunca no lugar deles."
+   },
+   {
+    "text": "pulso de metilprednisolona e micofenolato",
+    "feedback": "Correta. Nefrite classe IV com creatinina em ascensão é lesão orgânica grave: corticoide em dose alta (pulso e depois redução) mais micofenolato, ou ciclofosfamida em dose baixa, é a indução; belimumabe ou inibidor de calcineurina podem ser somados como terapia tripla."
+   },
+   {
+    "text": "azatioprina no lugar da prednisona",
+    "feedback": "Errada. Azatioprina é droga de manutenção ou de doença não renal moderada, e é a troca na gestação; não induz remissão de nefrite proliferativa."
+   },
+   {
+    "text": "hidroxicloroquina aumentada para 600 mg/dia",
+    "feedback": "Errada. O antimalárico é base para todos, mas não trata nefrite, e a dose acima de 5 mg/kg de peso real eleva o risco de retinopatia."
+   }
+  ],
+  "correct": "B",
+  "tags": [
+   "Lúpus (CM)",
+   "Glomerulopatias (CM)"
+  ],
+  "level": "difícil",
+  "decider": "nefrite lúpica classe IV",
+  "trap": "A",
+  "_n": 21
+ },
+ {
+  "erro": 36,
+  "statement": "Mulher de 36 anos, com lúpus eritematoso sistêmico em uso de hidroxicloroquina 400 mg/dia, sem corticoide há um ano, chega com cansaço progressivo há dez dias, dispneia aos pequenos esforços e urina escurecida. Nega sangramentos, febre ou artralgia. Está descorada 3+/4+ e ictérica 1+/4+, FC 112 bpm, PA 118x72 mmHg, sem lesões cutâneas ou sinovite. Exames: hemoglobina 6,4 g/dL, VCM 104 fL, reticulócitos 12%, LDH 980 U/L, bilirrubina indireta 3,1 mg/dL, haptoglobina indetectável, teste de Coombs direto positivo (IgG), leucócitos 5.100/mm³, plaquetas 190.000/mm³, creatinina 0,7 mg/dL e EAS normal. Anti-dsDNA positivo e C3 baixo. A conduta inicial mais adequada é:",
+  "alternatives": [
+   {
+    "text": "iniciar rituximabe",
+    "feedback": "Errada. Rituximabe é a segunda linha da anemia hemolítica autoimune que não responde ao corticoide, não a primeira."
+   },
+   {
+    "text": "acrescentar belimumabe",
+    "feedback": "Errada. É o passo para doença cutânea e articular ativa refratária ao tratamento de base; não tem ação rápida o bastante para hemólise com hemoglobina de 6,4 g/dL."
+   },
+   {
+    "text": "prednisona 1 mg/kg/dia",
+    "feedback": "Correta. Anemia hemolítica autoimune com Coombs direto positivo e hemoglobina de 6,4 g/dL é manifestação hematológica grave: aqui a dose alta de corticoide é a primeira linha, porque a intensidade acompanha a gravidade do órgão."
+   },
+   {
+    "text": "aumentar a hidroxicloroquina",
+    "feedback": "Errada. O antimalárico previne surtos e se mantém, mas não controla hemólise ativa, e acima de 5 mg/kg/dia só acrescenta toxicidade retiniana."
+   }
+  ],
+  "correct": "C",
+  "tags": [
+   "Lúpus (CM)",
+   "Anemia Hemolítica Autoimune (CM)"
+  ],
+  "level": "difícil",
+  "decider": "teste de Coombs direto positivo (IgG)",
+  "trap": "B",
+  "_n": 22
+ },
+ {
+  "erro": 36,
+  "statement": "Mulher de 29 anos, com lúpus eritematoso sistêmico há um ano, em uso de hidroxicloroquina e prednisona 5 mg/dia, é internada por fraqueza nas pernas iniciada há 48 horas, que progrediu para incapacidade de deambular e retenção urinária. Nega trauma, febre ou cefaleia. PA 124x80 mmHg, FC 88 bpm, temperatura 36,8 °C. Há paraparesia grau 2, hiperreflexia em membros inferiores e nível sensitivo em T8. A ressonância de medula mostra lesão longitudinalmente extensa de T4 a T10, com realce; a de crânio é normal. Líquor com 18 células/mm³, proteína 70 mg/dL e cultura negativa. Anti-dsDNA positivo, C3 baixo, plaquetas 210.000/mm³ e creatinina 0,8 mg/dL. Anticoagulante lúpico, anticardiolipina e anti-beta-2-glicoproteína I negativos. Além de pesquisar anti-aquaporina 4, a conduta mais adequada é:",
+  "alternatives": [
+   {
+    "text": "metilprednisolona e ciclofosfamida",
+    "feedback": "Correta. Mielite transversa no LES, com anticorpos antifosfolípides negativos, é manifestação neuropsiquiátrica grave de mecanismo inflamatório: pulso de corticoide com ciclofosfamida, iniciados sem esperar a sorologia, e plasmaférese se não houver resposta."
+   },
+   {
+    "text": "acrescentar belimumabe",
+    "feedback": "Errada. Biológico de doença não renal leve a moderada refratária; não tem estudo nem velocidade para déficit medular que progride em 48 horas."
+   },
+   {
+    "text": "anticoagulação plena com varfarina",
+    "feedback": "Errada. Seria o eixo do tratamento se a lesão medular fosse trombótica por síndrome antifosfolípide; os três anticorpos negativos e a lesão inflamatória extensa apontam outro mecanismo."
+   },
+   {
+    "text": "prednisona 0,5 mg/kg e metotrexato",
+    "feedback": "Errada. Metotrexato serve à artrite e à pele, e a dose oral moderada de corticoide é insuficiente para mielite com paraparesia."
+   }
+  ],
+  "correct": "A",
+  "tags": [
+   "Lúpus (CM)"
+  ],
+  "level": "extremamente difícil",
+  "decider": "Anticoagulante lúpico, anticardiolipina e anti-beta-2-glicoproteína I negativos",
+  "trap": "C",
+  "_n": 23
+ },
+ {
+  "erro": 36,
+  "statement": "Mulher de 34 anos, com lúpus eritematoso sistêmico controlado com hidroxicloroquina 400 mg/dia, sem atividade clínica nos últimos 12 meses, apresenta trombose venosa profunda femoral esquerda confirmada por Doppler, sem fator desencadeante. Não usa anticoncepcional, não tem neoplasia conhecida e não está gestante. PA 116x74 mmHg, FC 80 bpm, sem rash, sinovite ou edema fora do membro acometido. Exames: hemoglobina 12,9 g/dL, plaquetas 168.000/mm³, creatinina 0,7 mg/dL, EAS normal, C3 e C4 normais. Anticoagulante lúpico positivo, anticardiolipina IgG e anti-beta-2-glicoproteína I IgG em títulos altos, confirmados após 12 semanas. Depois da heparina inicial, a conduta de longo prazo mais adequada é:",
+  "alternatives": [
+   {
+    "text": "acrescentar belimumabe",
+    "feedback": "Errada. A doença está inativa, com complemento normal e sem rash ou sinovite; trombose mediada por anticorpo antifosfolípide se trata com anticoagulação, não com imunossupressão."
+   },
+   {
+    "text": "ácido acetilsalicílico 100 mg/dia",
+    "feedback": "Errada. AAS isolado é a profilaxia primária do portador de perfil de alto risco que nunca trombosou; depois do evento venoso não basta."
+   },
+   {
+    "text": "rivaroxabana por tempo indeterminado",
+    "feedback": "Errada. Anticoagulante oral direto é opção na trombose venosa sem trombofilia de alto risco; na síndrome antifosfolípide triplo positiva teve mais eventos que a varfarina e não deve ser usado."
+   },
+   {
+    "text": "varfarina com INR alvo de 2 a 3",
+    "feedback": "Correta. Síndrome antifosfolípide triplo positiva com trombose venosa: varfarina por tempo indeterminado, INR 2 a 3, mantendo a hidroxicloroquina. A trombose aqui é do anticorpo, não da atividade lúpica."
+   }
+  ],
+  "correct": "D",
+  "tags": [
+   "Lúpus (CM)"
+  ],
+  "level": "difícil",
+  "decider": "Anticoagulante lúpico positivo, anticardiolipina IgG e anti-beta-2-glicoproteína I IgG em títulos altos",
+  "trap": "C",
+  "_n": 24
+ },
+ {
+  "erro": 36,
+  "statement": "Mulher de 30 anos, com nefrite lúpica classe III tratada há dois anos e em remissão completa há 14 meses, usa micofenolato de mofetila 2 g/dia, hidroxicloroquina 400 mg/dia (peso de 70 kg) e prednisona 5 mg/dia. Deseja engravidar nos próximos meses e pede orientação. Está assintomática, PA 112x70 mmHg, sem edema. Exames: creatinina 0,8 mg/dL, relação proteína/creatinina urinária 0,15 g/g, EAS sem hematúria, anti-dsDNA negativo, C3 e C4 normais, anticorpos antifosfolípides negativos e anti-Ro positivo. A orientação mais adequada é:",
+  "alternatives": [
+   {
+    "text": "suspender hidroxicloroquina e manter micofenolato",
+    "feedback": "Errada. Inverte o risco: a hidroxicloroquina é segura e protege mãe e feto; o micofenolato é a droga que precisa sair."
+   },
+   {
+    "text": "manter o esquema atual e liberar a gravidez",
+    "feedback": "Errada. Remissão acima de seis meses autoriza planejar a gravidez, mas não em uso de micofenolato, que causa malformação e aborto."
+   },
+   {
+    "text": "azatioprina no lugar do micofenolato",
+    "feedback": "Correta. Micofenolato é teratogênico e sai ao menos seis semanas antes da concepção, trocado por azatioprina, compatível com a gestação; a hidroxicloroquina fica, porque reduz surtos e o bloqueio cardíaco congênito no anti-Ro positivo, e o AAS em dose baixa entra até a 16ª semana."
+   },
+   {
+    "text": "trocar micofenolato por metotrexato e tirar prednisona",
+    "feedback": "Errada. Metotrexato também é teratogênico e exige suspensão antes da concepção; não é troca segura."
+   }
+  ],
+  "correct": "C",
+  "tags": [
+   "Lúpus (CM)"
+  ],
+  "level": "média",
+  "decider": "usa micofenolato de mofetila 2 g/dia",
+  "trap": "B",
+  "_n": 25
+ },
+ {
+  "erro": 40,
+  "statement": "Homem de 52 anos, em indução de quimioterapia para leucemia mieloide aguda, está internado com neutrófilos abaixo de 100/mm³ há 14 dias e recebe fluconazol profilático desde o início da indução. Iniciou febre há seis dias, tratada com cefepime e depois meropenem com vancomicina, sem melhora. Há dois dias surgiram tosse seca, dor pleurítica à direita e um episódio de hemoptise discreta. Temperatura 38,7 °C, FC 108 bpm, PA 112x68 mmHg, SpO2 93% em ar ambiente. Pele e seios da face sem lesões. Hemoculturas negativas. Tomografia de tórax mostra nódulo de 2,5 cm em lobo superior direito, com halo em vidro fosco ao redor. Galactomanana sérica com índice de 1,8. O antifúngico de escolha é:",
+  "alternatives": [
+   {
+    "text": "voriconazol",
+    "feedback": "Correta. Nódulo com halo e galactomanana positiva em neutropênico grave definem aspergilose pulmonar invasiva provável; voriconazol (ou isavuconazol) é a primeira linha, com sobrevida melhor que a anfotericina deoxicolato."
+   },
+   {
+    "text": "caspofungina",
+    "feedback": "Errada. Equinocandina é o empírico de rotina na febre persistente sem foco e o tratamento da candidemia; contra Aspergillus é só resgate, e não cobre Fusarium nem mucorales."
+   },
+   {
+    "text": "fluconazol em dose dobrada",
+    "feedback": "Errada. Fluconazol não tem atividade contra fungo filamentoso em nenhuma dose; ele estava ali como profilaxia de leveduras."
+   },
+   {
+    "text": "anfotericina B deoxicolato",
+    "feedback": "Errada. Cobre o fungo, mas é inferior ao voriconazol na aspergilose e mais nefrotóxica; a formulação lipossomal seria a escolha se houvesse suspeita de mucormicose."
+   }
+  ],
+  "correct": "A",
+  "tags": [
+   "Neutropenia Febril (CM)",
+   "Micoses sistêmicas (CM)",
+   "Aspergilose (CM)"
+  ],
+  "level": "média",
+  "decider": "Galactomanana sérica com índice de 1,8",
+  "trap": "B",
+  "_n": 26
+ },
+ {
+  "erro": 40,
+  "statement": "Mulher de 44 anos, em consolidação para leucemia linfoblástica aguda, com cateter venoso central de longa permanência, recebe fluconazol profilático há três semanas. Há quatro dias, com neutrófilos de 300/mm³, iniciou febre e foi tratada com cefepime. Hoje teve calafrios durante a infusão pelo cateter; PA 88x54 mmHg após 2 L de cristaloide, FC 124 bpm, temperatura 39,1 °C. A pele está íntegra, sem nódulos ou lesões necróticas; tomografias de tórax e de seios da face sem alterações; galactomanana sérica negativa. As duas hemoculturas, periférica e do cateter, crescem leveduras em 18 horas, com espécie ainda não identificada. Além da retirada do cateter e da fundoscopia, o antifúngico de escolha é:",
+  "alternatives": [
+   {
+    "text": "fluconazol com dose de ataque",
+    "feedback": "Errada. Seria opção na candidemia de paciente estável e sem azol prévio; após três semanas de fluconazol, a levedura que cresceu pode ser resistente, como C. glabrata ou C. krusei."
+   },
+   {
+    "text": "voriconazol venoso",
+    "feedback": "Errada. Faz sentido quando se quer cobrir fungo filamentoso, do qual não há sinal aqui, e sofre resistência cruzada com o fluconazol em parte das Candida."
+   },
+   {
+    "text": "manter apenas o cefepime",
+    "feedback": "Errada. Levedura em hemocultura nunca é contaminante, e no neutropênico em choque adiar o antifúngico aumenta a mortalidade."
+   },
+   {
+    "text": "equinocandina",
+    "feedback": "Correta. Candidemia em neutropênico grave, em choque e com exposição prévia a azol: equinocandina (ou anfotericina lipossomal) é a primeira linha. É o cenário em que ela é a certa, ao contrário da lesão cutânea necrótica por fungo filamentoso."
+   }
+  ],
+  "correct": "D",
+  "tags": [
+   "Neutropenia Febril (CM)",
+   "Micoses sistêmicas (CM)",
+   "Infecção de Corrente Sanguínea (CM)"
+  ],
+  "level": "difícil",
+  "decider": "recebe fluconazol profilático há três semanas",
+  "trap": "A",
+  "_n": 27
+ },
+ {
+  "erro": 40,
+  "statement": "Homem de 58 anos, após transplante alogênico de células-tronco hematopoéticas, com doença do enxerto contra o hospedeiro em uso de prednisona 1 mg/kg, recebe voriconazol há cinco semanas por aspergilose pulmonar já em resolução. As glicemias estão entre 250 e 320 mg/dL. Há três dias tem cefaleia, dor em hemiface esquerda e edema periorbitário. Temperatura 38,5 °C, FC 102 bpm, PA 128x80 mmHg. Há área escurecida e necrótica no palato duro à esquerda e crosta enegrecida em corneto nasal. A tomografia mostra velamento do seio maxilar esquerdo com erosão óssea; a de tórax não tem lesões novas. Galactomanana sérica negativa. Além do controle glicêmico, a conduta mais adequada é:",
+  "alternatives": [
+   {
+    "text": "caspofungina associada ao voriconazol",
+    "feedback": "Errada. Combinação estudada como resgate na aspergilose; nenhuma das duas drogas cobre mucorales."
+   },
+   {
+    "text": "anfotericina B lipossomal e desbridamento",
+    "feedback": "Correta. Necrose de palato e corneto com erosão óssea, galactomanana negativa e infecção que surge em vigência de voriconazol apontam mucormicose rinocerebral: anfotericina lipossomal em dose alta e desbridamento cirúrgico precoce."
+   },
+   {
+    "text": "fluconazol venoso e biópsia nasal",
+    "feedback": "Errada. Biopsiar é necessário, mas fluconazol não cobre fungo filamentoso algum."
+   },
+   {
+    "text": "aumentar a dose de voriconazol",
+    "feedback": "Errada. Seria a resposta para aspergilose com nível sérico baixo; voriconazol não tem atividade contra mucorales, e a infecção que surge em uso dele é justamente a que ele seleciona."
+   }
+  ],
+  "correct": "B",
+  "tags": [
+   "Micoses sistêmicas (CM)",
+   "Infecção em Imunossuprimido (CM)"
+  ],
+  "level": "extremamente difícil",
+  "decider": "recebe voriconazol há cinco semanas",
+  "trap": "D",
+  "_n": 28
+ },
+ {
+  "erro": 40,
+  "statement": "Mulher de 26 anos, com leucemia mieloide aguda, ficou 24 dias neutropênica após a indução, com febre tratada com antibióticos de amplo espectro e sem profilaxia antifúngica. Os neutrófilos se recuperaram há cinco dias (hoje 2.400/mm³), mas a febre persiste, agora com dor em hipocôndrio direito. Temperatura 38,4 °C, FC 98 bpm, PA 118x76 mmHg; fígado palpável a 3 cm do rebordo costal e doloroso; pele e fundoscopia sem lesões. Exames: fosfatase alcalina 520 U/L, GGT 380 U/L, transaminases e bilirrubinas discretamente elevadas; hemoculturas repetidas negativas; galactomanana negativa. A tomografia mostra múltiplas lesões hipoatenuantes de 5 a 15 mm em fígado e baço, algumas em alvo, que não apareciam na tomografia feita durante a neutropenia. O agente mais provável é:",
+  "alternatives": [
+   {
+    "text": "Fusarium solani",
+    "feedback": "Errada. Fusarium dá lesões cutâneas necróticas e hemocultura positiva durante a neutropenia, e não lesões hepatoesplênicas após ela."
+   },
+   {
+    "text": "Candida albicans",
+    "feedback": "Correta. Candidíase hepatoesplênica: as lesões só aparecem quando os neutrófilos voltam e montam a inflamação, as hemoculturas costumam ser negativas e a fosfatase alcalina sobe; trata-se com fluconazol por meses (após equinocandina ou anfotericina se instável), sem adiar a quimioterapia."
+   },
+   {
+    "text": "Aspergillus fumigatus",
+    "feedback": "Errada. Na neutropenia ele faz doença pulmonar e sinusal, com galactomanana positiva, e não microabscessos em alvo no fígado e no baço que surgem com a recuperação medular."
+   },
+   {
+    "text": "Rhizopus oryzae",
+    "feedback": "Errada. Mucorales invadem seios da face e pulmão com necrose tecidual; não formam microabscessos hepatoesplênicos."
+   }
+  ],
+  "correct": "B",
+  "tags": [
+   "Neutropenia Febril (CM)",
+   "Micoses sistêmicas (CM)"
+  ],
+  "level": "difícil",
+  "decider": "que não apareciam na tomografia feita durante a neutropenia",
+  "trap": "C",
+  "_n": 29
+ },
+ {
+  "erro": 40,
+  "statement": "Homem de 40 anos, com leucemia mieloide aguda em recaída, neutropênico há 30 dias e em profilaxia com micafungina, mantém febre apesar de meropenem e vancomicina. Há quatro dias surgiram mialgia intensa e dezenas de pápulas eritematosas dolorosas em tronco e membros, várias com centro necrótico, além de paroníquia com celulite em hálux esquerdo. Temperatura 39 °C, FC 116 bpm, PA 104x62 mmHg, SpO2 95%. Tomografia de tórax com dois pequenos nódulos inespecíficos; galactomanana sérica com índice de 0,6. Duas hemoculturas crescem fungo filamentoso com hifas hialinas septadas, e a biópsia de uma pápula mostra hifas septadas angioinvasivas. O agente mais provável é:",
+  "alternatives": [
+   {
+    "text": "Aspergillus fumigatus",
+    "feedback": "Errada. Tem hifa hialina septada angioinvasiva e pode reagir na galactomanana, mas quase nunca cresce em hemocultura nem dissemina dezenas de lesões cutâneas."
+   },
+   {
+    "text": "Rhizopus spp.",
+    "feedback": "Errada. Mucorales têm hifas largas, pouco ou nada septadas, e não crescem em hemocultura."
+   },
+   {
+    "text": "Fusarium spp.",
+    "feedback": "Correta. Fungo filamentoso que cresce em hemocultura (em até metade dos casos), com dezenas de lesões cutâneas necróticas e porta na unha, em neutropênico sob equinocandina: Fusarium. Trata-se com voriconazol ou anfotericina lipossomal."
+   },
+   {
+    "text": "Candida tropicalis",
+    "feedback": "Errada. Dá hemocultura positiva, pápulas cutâneas e mialgia no neutropênico, mas é levedura, e a micafungina profilática a cobriria."
+   }
+  ],
+  "correct": "C",
+  "tags": [
+   "Neutropenia Febril (CM)",
+   "Micoses sistêmicas (CM)"
+  ],
+  "level": "extremamente difícil",
+  "decider": "Duas hemoculturas crescem fungo filamentoso com hifas hialinas septadas",
+  "trap": "D",
+  "_n": 30
+ },
+ {
+  "erro": 42,
+  "statement": "Homem de 31 anos, encaminhado por anemia ferropriva que não respondeu a três meses de sulfato ferroso oral em dose plena, com boa adesão. Nega sangramento visível, diarreia ou uso de anti-inflamatórios; tem distensão abdominal ocasional. IMC 21, mucosas hipocoradas 1+/4+, PA 118x76 mmHg, FC 82 bpm, abdome sem alterações. Exames: hemoglobina 10,6 g/dL, VCM 74 fL, ferritina 6 ng/mL, ALT 62 U/L, anti-transglutaminase IgA quatro vezes acima do limite superior e IgA total normal. Ele leu sobre a doença e quer começar a dieta sem glúten amanhã. A conduta mais adequada é:",
+  "alternatives": [
+   {
+    "text": "dieta sem glúten e nova sorologia",
+    "feedback": "Errada. É o caminho depois da confirmação; começar a dieta antes da biópsia normaliza mucosa e sorologia e deixa o diagnóstico em dúvida para sempre."
+   },
+   {
+    "text": "pesquisa de anti-endomísio IgG",
+    "feedback": "Errada. Testes IgG são para a deficiência de IgA; com IgA total normal e anti-transglutaminase IgA alta, o anticorpo IgA basta."
+   },
+   {
+    "text": "cápsula endoscópica do delgado",
+    "feedback": "Errada. Fica para quem não tolera endoscopia ou para a doença refratária com suspeita de complicação; não substitui a histologia."
+   },
+   {
+    "text": "endoscopia com biópsias duodenais",
+    "feedback": "Correta. No adulto, sorologia positiva se confirma com biópsia duodenal (ao menos quatro fragmentos da segunda porção e um ou dois do bulbo), feita ainda em dieta com glúten. A biópsia vem depois da sorologia, e no duodeno."
+   }
+  ],
+  "correct": "D",
+  "tags": [
+   "Doença Celíaca (CM)",
+   "Anemia Ferropriva (CM)"
+  ],
+  "level": "média",
+  "decider": "quer começar a dieta sem glúten amanhã",
+  "trap": "A",
+  "_n": 31
+ },
+ {
+  "erro": 42,
+  "statement": "Mulher de 61 anos, com doença celíaca confirmada por biópsia duodenal há oito anos, segue dieta sem glúten rigorosa, revista por nutricionista, e a anti-transglutaminase IgA está negativa há seis anos. Há três meses voltou a ter diarreia, perda de 8 kg, dor periumbilical e febre vespertina. Nega anti-inflamatórios, olmesartana ou antibióticos recentes. Temperatura 37,9 °C, FC 96 bpm, PA 108x70 mmHg, IMC 17, abdome doloroso em mesogástrio sem massa palpável. Exames: hemoglobina 10,1 g/dL, albumina 2,6 g/dL, LDH 610 U/L, proteína C reativa 48 mg/L. Endoscopia recente com biópsias duodenais mostra atrofia vilositária grave, e a tomografia, espessamento de alças jejunais e linfonodos mesentéricos aumentados. A conduta mais adequada é:",
+  "alternatives": [
+   {
+    "text": "enteroscopia com biópsias do jejuno",
+    "feedback": "Correta. Atrofia que persiste com dieta rigorosa e sorologia negativa é doença celíaca refratária; febre, LDH alta, espessamento jejunal e linfonodos sugerem jejunite ulcerativa ou linfoma T associado a enteropatia, e é o jejuno que precisa ser biopsiado."
+   },
+   {
+    "text": "reforçar a dieta e repetir a sorologia",
+    "feedback": "Errada. Seria a resposta para a causa mais comum de sintoma persistente, a transgressão; sorologia negativa há seis anos, dieta revista e sinais de alarme a derrubam."
+   },
+   {
+    "text": "budesonida empírica por oito semanas",
+    "feedback": "Errada. Corticoide trata a doença refratária tipo I depois de excluído o linfoma; dado às cegas, mascara o linfoma."
+   },
+   {
+    "text": "tipagem de HLA-DQ2 e DQ8",
+    "feedback": "Errada. Serve para excluir celíaca quando o diagnóstico é duvidoso; aqui ele está confirmado por biópsia, e o HLA nada diz sobre complicação."
+   }
+  ],
+  "correct": "A",
+  "tags": [
+   "Doença Celíaca (CM)",
+   "Diarréias crônicas (CM)"
+  ],
+  "level": "difícil",
+  "decider": "espessamento de alças jejunais e linfonodos mesentéricos aumentados",
+  "trap": "B",
+  "_n": 32
+ },
+ {
+  "erro": 42,
+  "statement": "Mulher de 58 anos, na pós-menopausa, tem fratura de rádio distal após queda da própria altura. Nega diarreia, perda de peso, uso de diuréticos, lítio ou suplementos. Teve um episódio de cólica renal há dois anos. IMC 26, PA 128x82 mmHg, FC 76 bpm, exame físico sem alterações. Exames: cálcio total 11,1 mg/dL (albumina 4,2 g/dL), fósforo 2,4 mg/dL, PTH 148 pg/mL, 25-hidroxivitamina D 16 ng/mL, creatinina 0,8 mg/dL, fosfatase alcalina discretamente elevada e calciúria de 24 horas de 310 mg. Anti-transglutaminase IgA negativa com IgA total normal. O diagnóstico mais provável é:",
+  "alternatives": [
+   {
+    "text": "hiperparatireoidismo secundário à hipovitaminose D",
+    "feedback": "Errada. Seria o diagnóstico com cálcio normal ou baixo, como na má absorção; no secundário o PTH sobe para defender o cálcio e não o empurra acima do normal."
+   },
+   {
+    "text": "hipercalcemia hipocalciúrica familiar",
+    "feedback": "Errada. Também tem cálcio alto com PTH normal ou alto, mas a calciúria é baixa, com relação de depuração cálcio/creatinina abaixo de 0,01; aqui ela passa de 300 mg."
+   },
+   {
+    "text": "hiperparatireoidismo primário e hipovitaminose D",
+    "feedback": "Correta. PTH alto com cálcio alto é primário, por mais baixa que esteja a vitamina D: a deficiência coexiste com frequência, pode até atenuar a hipercalcemia, e se repõe com cautela antes da avaliação cirúrgica."
+   },
+   {
+    "text": "hiperparatireoidismo terciário",
+    "feedback": "Errada. Exige estímulo prolongado, quase sempre doença renal crônica avançada ou pós-transplante renal; com creatinina de 0,8 mg/dL não há substrato."
+   }
+  ],
+  "correct": "C",
+  "tags": [
+   "Hiperparatireoidismo Primário (Clínica Médica) (CM)",
+   "Hiperparatireoidismo Secundário (Clínica Médica) (CM)",
+   "Osteoporose (CM)"
+  ],
+  "level": "difícil",
+  "decider": "cálcio total 11,1 mg/dL (albumina 4,2 g/dL)",
+  "trap": "A",
+  "_n": 33
+ },
+ {
+  "erro": 42,
+  "statement": "Homem de 45 anos tem dor óssea difusa e fraqueza proximal progressivas há dois anos, e duas fraturas de costela sem trauma. Nega diarreia, perda de peso, uso de antiácido com alumínio, tenofovir ou ferro venoso, e não há casos semelhantes na família. IMC 24, PA 122x78 mmHg, FC 74 bpm; dor à palpação de costelas e marcha anserina. Exames: cálcio 9,2 mg/dL, fósforo 1,4 mg/dL, fosfatase alcalina três vezes o limite superior, PTH 58 pg/mL, 25-hidroxivitamina D 34 ng/mL, 1,25-di-hidroxivitamina D baixa, creatinina 0,9 mg/dL, reabsorção tubular de fosfato reduzida, glicemia 88 mg/dL sem glicosúria, bicarbonato sérico 25 mEq/L e ácido úrico normal. O diagnóstico mais provável é:",
+  "alternatives": [
+   {
+    "text": "osteomalácia por má absorção de vitamina D",
+    "feedback": "Errada. Seria a causa na celíaca ou após cirurgia bariátrica, com 25-OH D baixa e PTH alto; aqui as duas estão normais."
+   },
+   {
+    "text": "osteomalácia por excesso de FGF23 tumoral",
+    "feedback": "Correta. Perda renal de fosfato com 1,25-di-hidroxivitamina D inapropriadamente baixa, 25-OH D e PTH normais, sem droga nem história familiar: excesso de FGF23 por tumor mesenquimal, que se dosa e se localiza por PET de receptor de somatostatina; a ressecção cura."
+   },
+   {
+    "text": "hiperparatireoidismo primário normocalcêmico",
+    "feedback": "Errada. Exige PTH elevado, e o PTH está normal; também não explicaria fósforo tão baixo com 1,25-di-hidroxivitamina D baixa."
+   },
+   {
+    "text": "síndrome de Fanconi adquirida",
+    "feedback": "Errada. Também perde fosfato no rim, mas traz glicosúria com glicemia normal, aminoacidúria, hipouricemia e acidose tubular, e o tenofovir é causa importante; nada disso aparece aqui."
+   }
+  ],
+  "correct": "B",
+  "tags": [
+   "Osteomalácia e outros distúrbios (CM)"
+  ],
+  "level": "extremamente difícil",
+  "decider": "glicemia 88 mg/dL sem glicosúria, bicarbonato sérico 25 mEq/L",
+  "trap": "D",
+  "_n": 34
+ },
+ {
+  "erro": 42,
+  "statement": "Mulher de 22 anos tem diarreia crônica há oito meses, perda de 5 kg, sinusites de repetição e duas giardíases tratadas no último ano. Come pão e massas diariamente. IMC 18,5, PA 104x66 mmHg, FC 84 bpm, mucosas hipocoradas 1+/4+, abdome distendido e indolor. Exames: hemoglobina 10,9 g/dL, ferritina 9 ng/mL, folato baixo, albumina 3,4 g/dL, anti-transglutaminase IgA negativa, IgA total abaixo de 5 mg/dL, IgG e IgM normais. Parasitológico de fezes atual negativo. O passo seguinte mais adequado é:",
+  "alternatives": [
+   {
+    "text": "anti-transglutaminase IgG ou anti-DGP IgG",
+    "feedback": "Correta. IgA total abaixo de 7 mg/dL é deficiência de IgA, cerca de dez vezes mais comum no celíaco, e invalida qualquer teste IgA: a sorologia passa a ser anti-transglutaminase IgG ou antipeptídeo deaminado de gliadina IgG, com biópsia duodenal para confirmar."
+   },
+   {
+    "text": "repetir a anti-transglutaminase IgA",
+    "feedback": "Errada. Teste IgA negativo em quem não tem IgA não informa nada, e repeti-lo dá o mesmo resultado."
+   },
+   {
+    "text": "dieta sem glúten como prova terapêutica",
+    "feedback": "Errada. Sem diagnóstico, a dieta compromete biópsia e sorologia futuras, e a resposta clínica não confirma nem exclui a doença."
+   },
+   {
+    "text": "anti-endomísio da classe IgA",
+    "feedback": "Errada. Também é anticorpo IgA e falha pelo mesmo motivo em quem não produz IgA."
+   }
+  ],
+  "correct": "A",
+  "tags": [
+   "Doença Celíaca (CM)",
+   "Imunodeficiências (CM)"
+  ],
+  "level": "média",
+  "decider": "IgA total abaixo de 5 mg/dL",
+  "trap": "D",
+  "_n": 35
+ },
+ {
+  "erro": 43,
+  "statement": "Mulher de 67 anos, internada há 12 dias por pneumonia tratada com ceftriaxona e depois cefepime, tem há 36 horas cinco evacuações líquidas por dia, cólica abdominal e febre de 38,2 °C. Não recebeu laxativo, contraste ou dieta enteral nas últimas 48 horas. PA 124x78 mmHg, FC 96 bpm, abdome difusamente doloroso, sem distensão ou sinais de peritonite. Exames: leucócitos 13.200/mm³, creatinina 1,0 mg/dL (basal 0,9), lactato normal. Na amostra de fezes líquidas, o antígeno glutamato desidrogenase (GDH) é positivo e o imunoensaio para toxinas A e B é negativo. A conduta mais adequada é:",
+  "alternatives": [
+   {
+    "text": "repetir o imunoensaio de toxinas em sete dias",
+    "feedback": "Errada. Repetir o teste no mesmo episódio quase não aumenta o rendimento e não é recomendado."
+   },
+   {
+    "text": "colonoscopia para buscar pseudomembranas",
+    "feedback": "Errada. Pseudomembranas faltam em boa parte dos casos e a colonoscopia não é exame diagnóstico de rotina."
+   },
+   {
+    "text": "afastar a infecção e buscar outra causa",
+    "feedback": "Errada. Seria a leitura se o GDH fosse negativo; o imunoensaio de toxina tem sensibilidade de 60 a 80% e, negativo, não exclui."
+   },
+   {
+    "text": "PCR do gene da toxina nas mesmas fezes",
+    "feedback": "Correta. GDH positivo com toxina negativa é discordância: o algoritmo em etapas pede teste de ácido nucleico do gene da toxina para arbitrar, e PCR positivo com quadro compatível se trata."
+   }
+  ],
+  "correct": "D",
+  "tags": [
+   "Diarréias agudas e Clostridium (CM)",
+   "Infecções Nosocomiais (CM)"
+  ],
+  "level": "difícil",
+  "decider": "o antígeno glutamato desidrogenase (GDH) é positivo e o imunoensaio para toxinas A e B é negativo",
+  "trap": "C",
+  "_n": 36
+ },
+ {
+  "erro": 43,
+  "statement": "Homem de 72 anos, internado há dez dias por pielonefrite tratada com piperacilina-tazobactam, tem há dois dias quatro evacuações pastosas por dia, iniciadas logo após começar lactulose 20 mL de 8/8 horas por constipação. Não tem febre nem dor abdominal. A equipe iniciou vancomicina oral empírica e colheu fezes. PA 132x80 mmHg, FC 78 bpm, temperatura 36,6 °C, abdome flácido e indolor. Exames: leucócitos 8.900/mm³, creatinina 1,1 mg/dL (basal 1,0). O PCR para o gene da toxina de Clostridioides difficile nas fezes é negativo. A conduta mais adequada é:",
+  "alternatives": [
+   {
+    "text": "manter a vancomicina oral por dez dias",
+    "feedback": "Errada. É o curso da infecção confirmada; aqui o teste mais sensível veio negativo e não há quadro compatível."
+   },
+   {
+    "text": "suspender vancomicina e rever lactulose",
+    "feedback": "Correta. O PCR nas fezes tem valor preditivo negativo próximo de 100%: negativo, afasta a infecção, ao contrário do imunoensaio de toxina isolado. E a diarreia começou com laxativo, situação em que nem se deveria testar."
+   },
+   {
+    "text": "repetir o PCR em 48 horas",
+    "feedback": "Errada. Repetir no mesmo episódio não acrescenta e aumenta o falso positivo por colonização."
+   },
+   {
+    "text": "trocar a vancomicina por fidaxomicina",
+    "feedback": "Errada. Fidaxomicina é escolha de tratamento da infecção confirmada, sobretudo para reduzir recorrência; não há infecção a tratar."
+   }
+  ],
+  "correct": "B",
+  "tags": [
+   "Diarréias agudas e Clostridium (CM)",
+   "Infecções Nosocomiais (CM)"
+  ],
+  "level": "difícil",
+  "decider": "O PCR para o gene da toxina de Clostridioides difficile nas fezes é negativo",
+  "trap": "A",
+  "_n": 37
+ },
+ {
+  "erro": 43,
+  "statement": "Homem de 64 anos, no décimo dia de internação por colangite tratada com ampicilina-sulbactam, tem diarreia aquosa há quatro dias, com PCR para toxina de Clostridioides difficile positivo há 48 horas, e usa vancomicina oral 125 mg de 6/6 horas. Hoje as evacuações cessaram, mas o abdome está distendido, doloroso e com ruídos hidroaéreos ausentes. PA 82x50 mmHg após 3 L de cristaloide, em noradrenalina, FC 128 bpm, temperatura 38,9 °C. Exames: leucócitos 34.000/mm³, creatinina 2,3 mg/dL (basal 0,9), lactato 4,1 mmol/L. A radiografia mostra cólon transverso com 8 cm de diâmetro, sem pneumoperitônio. Além de avaliação cirúrgica imediata, o esquema antimicrobiano mais adequado é:",
+  "alternatives": [
+   {
+    "text": "fidaxomicina 200 mg de 12/12 horas",
+    "feedback": "Errada. Preferida no episódio inicial não fulminante e nas recorrências; não tem dados na forma fulminante com íleo."
+   },
+   {
+    "text": "manter vancomicina oral 125 mg de 6/6 horas",
+    "feedback": "Errada. É a dose do episódio não fulminante, grave ou não; com choque e íleo, a droga oral não chega ao cólon e a dose é insuficiente."
+   },
+   {
+    "text": "vancomicina oral e retal com metronidazol IV",
+    "feedback": "Correta. Choque, íleo e megacólon definem colite fulminante: vancomicina 500 mg de 6/6 horas por via oral ou sonda e por via retal, pelo íleo, mais metronidazol venoso, que chega ao cólon pela circulação; colectomia se não houver resposta."
+   },
+   {
+    "text": "metronidazol oral 500 mg de 8/8 horas",
+    "feedback": "Errada. Metronidazol oral isolado só cabe no episódio não grave quando faltam vancomicina e fidaxomicina."
+   }
+  ],
+  "correct": "C",
+  "tags": [
+   "Diarréias agudas e Clostridium (CM)",
+   "Infecções Nosocomiais (CM)"
+  ],
+  "level": "difícil",
+  "decider": "ruídos hidroaéreos ausentes",
+  "trap": "B",
+  "_n": 38
+ },
+ {
+  "erro": 43,
+  "statement": "Mulher de 70 anos, em casa, tem o quarto episódio de diarreia por Clostridioides difficile em cinco meses: o primeiro foi tratado com vancomicina oral por dez dias, a primeira recorrência com fidaxomicina e a segunda, há seis semanas, com vancomicina em esquema de redução gradual e pulsado. Há três dias voltou a ter seis evacuações líquidas por dia, com PCR e toxina positivos nas fezes. Não usou antibiótico depois do episódio inicial; usa omeprazol 20 mg/dia sem indicação clara. PA 120x76 mmHg, FC 88 bpm, temperatura 37,4 °C, abdome indolor. Leucócitos 11.000/mm³, creatinina 0,9 mg/dL. Além de tratar este episódio com vancomicina oral e rever o omeprazol, a medida que mais reduz nova recorrência é:",
+  "alternatives": [
+   {
+    "text": "metronidazol oral prolongado",
+    "feedback": "Errada. Não tem papel nas recorrências: é menos eficaz e neurotóxico em uso longo."
+   },
+   {
+    "text": "Saccharomyces boulardii isolado",
+    "feedback": "Errada. Probiótico não tem evidência suficiente para prevenir recorrência e há relato de fungemia em pacientes graves."
+   },
+   {
+    "text": "novo curso de fidaxomicina",
+    "feedback": "Errada. Fidaxomicina é a opção da primeira recorrência, e já foi usada; outro curso de antibiótico não reconstitui a microbiota que permite a recidiva."
+   },
+   {
+    "text": "transplante de microbiota fecal",
+    "feedback": "Correta. Depois de duas ou mais recorrências tratadas de forma adequada, o transplante de microbiota fecal (por colonoscopia, cápsula ou produto padronizado) é o que mais previne a próxima, com sucesso perto de 90%."
+   }
+  ],
+  "correct": "D",
+  "tags": [
+   "Diarréias agudas e Clostridium (CM)"
+  ],
+  "level": "difícil",
+  "decider": "a segunda, há seis semanas, com vancomicina em esquema de redução gradual e pulsado",
+  "trap": "C",
+  "_n": 39
+ },
+ {
+  "erro": 43,
+  "statement": "Homem de 58 anos, internado há oito dias por erisipela tratada com cefazolina e depois clindamicina, tem há dois dias oito evacuações líquidas por dia e cólica. Não usou laxativos. PA 118x74 mmHg, FC 98 bpm, temperatura 38 °C, abdome doloroso, sem distensão e com ruídos presentes. Exames: leucócitos 18.400/mm³, creatinina 1,2 mg/dL (basal 1,0), lactato 1,6 mmol/L, albumina 3,1 g/dL. PCR do gene da toxina e imunoensaio de toxina positivos nas fezes. Sobre o caso, é correto afirmar que:",
+  "alternatives": [
+   {
+    "text": "é grave, e trata-se com vancomicina oral ou fidaxomicina",
+    "feedback": "Correta. Leucócitos acima de 15.000/mm³ (ou creatinina acima de 1,5 mg/dL) classificam como grave; sem hipotensão, íleo ou megacólon não é fulminante, e se trata com vancomicina 125 mg de 6/6 horas ou fidaxomicina 200 mg de 12/12 horas por dez dias."
+   },
+   {
+    "text": "álcool gel nas mãos basta para impedir a transmissão",
+    "feedback": "Errada. Os esporos resistem ao álcool: é preciso lavar as mãos com água e sabão, usar luvas e avental e limpar o ambiente com hipoclorito."
+   },
+   {
+    "text": "toxina negativa ao fim do tratamento documenta a cura",
+    "feedback": "Errada. Toxina e PCR podem seguir positivos por semanas após a cura; a cura é clínica, e não se faz teste de controle."
+   },
+   {
+    "text": "metronidazol oral é o tratamento de primeira escolha",
+    "feedback": "Errada. O metronidazol oral saiu da primeira linha: fica para o episódio não grave quando faltam as outras drogas, e este episódio é grave."
+   }
+  ],
+  "correct": "A",
+  "tags": [
+   "Diarréias agudas e Clostridium (CM)",
+   "Infecções Nosocomiais (CM)"
+  ],
+  "level": "extremamente difícil",
+  "decider": "leucócitos 18.400/mm³",
+  "trap": "D",
+  "_n": 40
+ },
+ {
+  "erro": 44,
+  "statement": "Homem de 64 anos, tabagista, procura atendimento por epigastralgia, saciedade precoce e perda de 12 kg em quatro meses. Endoscopia digestiva alta mostrou lesão ulcerada infiltrativa em pequena curvatura, com biópsia de adenocarcinoma. A tomografia de tórax e abdome, feita em outro serviço, foi laudada sem metástases à distância. No exame físico de hoje: PA 118 x 72 mmHg, FC 88 bpm, descorado 2+/4+, placas hiperpigmentadas e aveludadas recentes em axilas e nuca, múltiplas lesões verrucosas seborreicas que surgiram nos últimos dois meses no tronco, cordão venoso doloroso em antebraço direito e um linfonodo de 2 cm, endurecido e indolor, na fossa supraclavicular esquerda. O achado que, se confirmado, muda o estadiamento para doença metastática é:",
+  "alternatives": [
+   {
+    "text": "o linfonodo supraclavicular esquerdo",
+    "feedback": "Correta. Linfonodo de Virchow é metástase linfática à distância (via ducto torácico) e classifica a doença como M1; é o achado a biopsiar."
+   },
+   {
+    "text": "as placas aveludadas em axilas e nuca",
+    "feedback": "Errada. Acantose nigricans maligna é síndrome paraneoplásica do adenocarcinoma gástrico; indica o tumor, mas não é metástase e não muda o M."
+   },
+   {
+    "text": "as lesões seborreicas de surgimento rápido",
+    "feedback": "Errada. Sinal de Leser-Trélat é paraneoplásico; aparece em tumores gástricos sem implicar disseminação."
+   },
+   {
+    "text": "o cordão venoso doloroso no antebraço",
+    "feedback": "Errada. Tromboflebite migratória (Trousseau) é estado de hipercoagulabilidade paraneoplásico, e não implante tumoral."
+   }
+  ],
+  "correct": "A",
+  "tags": [
+   "Diagnóstico das Neoplasias e Estadiamentos (CM)",
+   "Estômago (CM)"
+  ],
+  "level": "média",
+  "decider": "um linfonodo de 2 cm, endurecido e indolor, na fossa supraclavicular esquerda",
+  "trap": "B",
+  "_n": 41
+ },
+ {
+  "erro": 44,
+  "statement": "Homem de 58 anos, com diagnóstico recente de adenocarcinoma gástrico pouco diferenciado com células em anel de sinete, faz avaliação para planejamento terapêutico. Refere distensão abdominal leve e constipação há três semanas, sem sangue nas fezes. Colonoscopia de dois anos atrás foi normal. Exame: PA 122 x 78 mmHg, FC 84 bpm, IMC 19 kg/m2, abdome levemente distendido, macicez móvel discreta, sem linfonodos palpáveis em cadeias cervicais e supraclaviculares, cicatriz umbilical sem nódulos. Ao toque retal, palpa-se massa endurecida e extrínseca na parede anterior do reto, a cerca de 7 cm da borda anal, com a mucosa retal lisa e móvel sobre ela; próstata de tamanho normal, sem nódulos, bem delimitada acima da massa. A interpretação mais provável desse achado é:",
+  "alternatives": [
+   {
+    "text": "nódulo prostático de origem neoplásica",
+    "feedback": "Errada. A próstata está normal e separada da massa; nódulo prostático seria palpado na própria glândula."
+   },
+   {
+    "text": "linfonodo mesorretal acometido",
+    "feedback": "Errada. Linfonodo mesorretal é posterior e lateral ao reto, e não forma placa anterior no fundo de saco."
+   },
+   {
+    "text": "implante peritoneal em fundo de saco",
+    "feedback": "Correta. Prateleira de Blumer: implante por gravidade no fundo de saco, extrínseco ao reto, que indica carcinomatose peritoneal (doença M1)."
+   },
+   {
+    "text": "tumor primário sincrônico de reto",
+    "feedback": "Errada. Seria a resposta se a mucosa estivesse ulcerada ou fixa; a mucosa lisa e móvel indica lesão extrínseca à parede."
+   }
+  ],
+  "correct": "C",
+  "tags": [
+   "Diagnóstico das Neoplasias e Estadiamentos (CM)",
+   "Estômago (CM)"
+  ],
+  "level": "difícil",
+  "decider": "com a mucosa retal lisa e móvel sobre ela",
+  "trap": "D",
+  "_n": 42
+ },
+ {
+  "erro": 44,
+  "statement": "Mulher de 44 anos é encaminhada à ginecologia por dor pélvica e aumento do volume abdominal há dois meses, com perda de 7 kg. Refere também epigastralgia pós-prandial e náuseas há seis meses, tratadas com omeprazol, sem endoscopia. Sem sangramento vaginal. Exame: PA 110 x 70 mmHg, FC 92 bpm, descorada 1+/4+, massas anexiais bilaterais endurecidas e móveis. Ultrassonografia: massas ovarianas sólidas bilaterais de 8 e 9 cm, ascite pequena. CA-125 de 88 U/mL e CEA de 21 ng/mL. A biópsia guiada de um dos ovários mostra infiltração por células em anel de sinete, mucinosas, em estroma ovariano reativo. O próximo passo é:",
+  "alternatives": [
+   {
+    "text": "citorredução cirúrgica primária pela via ginecológica",
+    "feedback": "Errada. Seria a conduta do carcinoma epitelial primário de ovário; as células em anel de sinete bilaterais indicam metástase (Krukenberg), e operar sem achar o primário não trata a doença."
+   },
+   {
+    "text": "endoscopia digestiva alta com biópsias",
+    "feedback": "Correta. Tumor de Krukenberg é metástase ovariana, quase sempre de adenocarcinoma gástrico em anel de sinete; a epigastralgia de seis meses aponta o primário."
+   },
+   {
+    "text": "quimioterapia com carboplatina e paclitaxel",
+    "feedback": "Errada. É o esquema do câncer epitelial de ovário; aqui o tratamento sistêmico segue o sítio primário, ainda não confirmado."
+   },
+   {
+    "text": "dosagem de alfafetoproteína e beta-hCG",
+    "feedback": "Errada. Seriam os marcadores de tumor germinativo em mulher jovem; a histologia já mostra adenocarcinoma metastático."
+   }
+  ],
+  "correct": "B",
+  "tags": [
+   "Diagnóstico das Neoplasias e Estadiamentos (CM)",
+   "Estômago (CM)"
+  ],
+  "level": "difícil",
+  "decider": "infiltração por células em anel de sinete, mucinosas, em estroma ovariano reativo",
+  "trap": "A",
+  "_n": 43
+ },
+ {
+  "erro": 44,
+  "statement": "Mulher de 36 anos, nuligesta, refere nódulo na cicatriz umbilical há oito meses. Conta que o nódulo aumenta de volume, fica doloroso e às vezes sangra durante a menstruação, regredindo depois. Tem dismenorreia progressiva há anos e dispareunia de profundidade, sem cirurgia abdominal prévia. Peso estável, sem alteração do hábito intestinal, sem sangramento digestivo. Exame: PA 116 x 74 mmHg, nódulo umbilical de 1,5 cm, firme, azulado, não redutível, sem impulso à tosse; abdome sem massas, sem ascite; linfonodos periféricos não palpáveis. Hemoglobina de 12,8 g/dL. O diagnóstico mais provável do nódulo é:",
+  "alternatives": [
+   {
+    "text": "hérnia umbilical encarcerada",
+    "feedback": "Errada. Hérnia teria impulso à tosse ou seria redutível; encarcerada daria dor contínua, e não cíclica."
+   },
+   {
+    "text": "granuloma piogênico umbilical",
+    "feedback": "Errada. É lesão vascular friável de crescimento rápido, sem relação com o ciclo menstrual."
+   },
+   {
+    "text": "metástase umbilical de neoplasia abdominal",
+    "feedback": "Errada. O nódulo da Irmã Maria José é endurecido e progressivo, em geral com emagrecimento e outros sinais de doença; não varia com a menstruação."
+   },
+   {
+    "text": "endometriose umbilical primária",
+    "feedback": "Correta. Nódulo umbilical azulado que aumenta e sangra na menstruação, com dismenorreia e dispareunia, é endometriose umbilical (nódulo de Villar), o diferencial benigno do nódulo da Irmã Maria José."
+   }
+  ],
+  "correct": "D",
+  "tags": [
+   "Diagnóstico das Neoplasias e Estadiamentos (CM)"
+  ],
+  "level": "difícil",
+  "decider": "o nódulo aumenta de volume, fica doloroso e às vezes sangra durante a menstruação",
+  "trap": "C",
+  "_n": 44
+ },
+ {
+  "erro": 44,
+  "statement": "Homem de 67 anos, tabagista de 50 maços-ano, com disfagia progressiva para sólidos há três meses e perda de 9 kg. Nega epigastralgia, alteração do hábito intestinal ou sangramento. Exame: PA 132 x 80 mmHg, FC 90 bpm, SpO2 94% em ar ambiente, emagrecido, linfonodo de 2,5 cm, endurecido e fixo, na fossa supraclavicular direita; fossa supraclavicular esquerda livre; abdome sem massas ou ascite; toque retal normal. Radiografia de tórax com alargamento mediastinal discreto. A origem mais provável desse linfonodo é:",
+  "alternatives": [
+   {
+    "text": "neoplasia gástrica com disseminação pelo ducto torácico",
+    "feedback": "Errada. A drenagem do ducto torácico vai à fossa supraclavicular esquerda (Virchow); o linfonodo aqui é direito."
+   },
+   {
+    "text": "neoplasia intratorácica, de esôfago ou pulmão",
+    "feedback": "Correta. A fossa supraclavicular direita drena mediastino, pulmão e esôfago; com disfagia e tabagismo, o primário é torácico."
+   },
+   {
+    "text": "neoplasia de cólon com implante peritoneal",
+    "feedback": "Errada. Câncer colorretal metastatiza para fígado e peritônio; linfonodo supraclavicular, quando ocorre, é esquerdo."
+   },
+   {
+    "text": "linfoma de Hodgkin com acometimento cervical",
+    "feedback": "Errada. Seria considerado em jovem com linfonodo elástico e sintomas B; aqui o linfonodo é pétreo e fixo num tabagista com disfagia."
+   }
+  ],
+  "correct": "B",
+  "tags": [
+   "Diagnóstico das Neoplasias e Estadiamentos (CM)"
+  ],
+  "level": "extremamente difícil",
+  "decider": "na fossa supraclavicular direita; fossa supraclavicular esquerda livre",
+  "trap": "A",
+  "_n": 45
+ },
+ {
+  "erro": 45,
+  "statement": "Homem de 41 anos, com HIV há oito anos e abandono da terapia antirretroviral há dois anos, refere febre vespertina, sudorese e perda de 8 kg em dois meses. Há cinco semanas surgiram pápulas e nódulos vermelho-vinhosos na face e no tronco, que crescem rápido e sangram ao mínimo trauma. Mora com dois gatos. Exame: T 38,2 C, FC 104 bpm, PA 112 x 70 mmHg, 14 lesões de 0,5 a 2 cm, friáveis, sem lesões orais; hepatomegalia dolorosa. CD4 de 38 células/mm3. Tomografia: fígado com múltiplas lesões císticas preenchidas por sangue. Biópsia de pele: proliferação lobular de capilares com células endoteliais epitelioides, neutrófilos e agregados bacilares à coloração de Warthin-Starry; imuno-histoquímica para HHV-8 negativa. Além da terapia antirretroviral, a conduta é:",
+  "alternatives": [
+   {
+    "text": "doxorrubicina lipossomal endovenosa",
+    "feedback": "Errada. É tratamento do sarcoma de Kaposi disseminado; o HHV-8 negativo e os bacilos à Warthin-Starry afastam Kaposi."
+   },
+   {
+    "text": "anfotericina B lipossomal",
+    "feedback": "Errada. Seria para histoplasmose ou criptococose disseminada com lesões cutâneas; a biópsia mostra bacilos, e não leveduras."
+   },
+   {
+    "text": "doxiciclina por pelo menos três meses",
+    "feedback": "Correta. Angiomatose bacilar com peliose hepática (Bartonella): doxiciclina ou macrolídeo por no mínimo três meses, pelo risco de recidiva com cursos curtos."
+   },
+   {
+    "text": "sulfametoxazol-trimetoprima em dose plena",
+    "feedback": "Errada. Trata pneumocistose e toxoplasmose; não é o tratamento de escolha da Bartonella."
+   }
+  ],
+  "correct": "C",
+  "tags": [
+   "Doenças Oportunistas no HIV (CM)",
+   "HIV/AIDS (CM)",
+   "Dermatologia (CM)"
+  ],
+  "level": "difícil",
+  "decider": "agregados bacilares à coloração de Warthin-Starry; imuno-histoquímica para HHV-8 negativa",
+  "trap": "A",
+  "_n": 46
+ },
+ {
+  "erro": 45,
+  "statement": "Homem de 47 anos, com HIV sem tratamento e CD4 de 60 células/mm3, vive em situação de rua no centro do Rio de Janeiro há três anos. Não tem contato com gatos ou cães. Há seis semanas tem febre, nódulos subcutâneos violáceos e friáveis em pernas e dor na tíbia direita. Exame: T 38 C, FC 98 bpm, escoriações lineares no tronco e lêndeas nas costuras das roupas, nódulos de 1 a 3 cm em ambas as pernas, dor à palpação da tíbia. Radiografia: lesão lítica em diáfise tibial. Biópsia do nódulo: proliferação vascular com bacilos à Warthin-Starry; HHV-8 negativo. O agente e a via de transmissão mais prováveis são:",
+  "alternatives": [
+   {
+    "text": "Bartonella quintana, pelo piolho do corpo",
+    "feedback": "Correta. Pediculose do corpo em pessoa em situação de rua aponta B. quintana, que causa mais lesões subcutâneas e ósseas; B. henselae se associa a gatos e à peliose hepática."
+   },
+   {
+    "text": "herpesvírus humano 8, por via sexual",
+    "feedback": "Errada. Causa o sarcoma de Kaposi, afastado pelo HHV-8 negativo e pelos bacilos na biópsia."
+   },
+   {
+    "text": "Sporothrix brasiliensis, pela arranhadura do gato",
+    "feedback": "Errada. Esporotricose é endêmica no Rio e transmitida por gatos, mas a biópsia mostraria leveduras, e não bacilos com proliferação vascular."
+   },
+   {
+    "text": "Bartonella henselae, pela pulga do gato",
+    "feedback": "Errada. Seria a resposta com contato com gatos; aqui não há gato e há piolho do corpo."
+   }
+  ],
+  "correct": "A",
+  "tags": [
+   "Doenças Oportunistas no HIV (CM)",
+   "HIV/AIDS (CM)"
+  ],
+  "level": "média",
+  "decider": "escoriações lineares no tronco e lêndeas nas costuras das roupas",
+  "trap": "D",
+  "_n": 47
+ },
+ {
+  "erro": 45,
+  "statement": "Homem de 32 anos, HSH, com diagnóstico de HIV há um mês, ainda sem terapia antirretroviral. Há três meses notou manchas e placas violáceas indolores em membros inferiores, que não sangram, e uma placa arroxeada no palato duro. Nega febre, perda de peso, dispneia, hemoptise ou sangramento digestivo. Tem um gato em casa. Exame: PA 124 x 80 mmHg, FC 76 bpm, oito placas de 1 a 3 cm em pernas, sem edema, placa palatina de 1 cm; ausculta pulmonar normal. CD4 de 320 células/mm3, carga viral de 85.000 cópias/mL. Radiografia de tórax e pesquisa de sangue oculto normais. Biópsia de pele: proliferação de células fusiformes com fendas vasculares e hemácias extravasadas, LANA-1 positivo. A conduta é:",
+  "alternatives": [
+   {
+    "text": "doxiciclina por três meses",
+    "feedback": "Errada. Trataria angiomatose bacilar; o gato atrai, mas a histologia com células fusiformes e LANA-1 positivo é de Kaposi."
+   },
+   {
+    "text": "doxorrubicina lipossomal antes da TARV",
+    "feedback": "Errada. Quimioterapia sistêmica se reserva a doença extensa, visceral, com edema importante ou progressão apesar da TARV."
+   },
+   {
+    "text": "excisão cirúrgica de todas as lesões",
+    "feedback": "Errada. Não controla a doença multifocal; terapia local é só para lesão isolada sintomática ou estética."
+   },
+   {
+    "text": "iniciar terapia antirretroviral isolada",
+    "feedback": "Correta. Sarcoma de Kaposi cutâneo e oral limitado, sem edema nem doença visceral e com CD4 preservado: a TARV isolada é o tratamento inicial."
+   }
+  ],
+  "correct": "D",
+  "tags": [
+   "Doenças Oportunistas no HIV (CM)",
+   "HIV/AIDS (CM)",
+   "Dermatologia (CM)"
+  ],
+  "level": "difícil",
+  "decider": "proliferação de células fusiformes com fendas vasculares e hemácias extravasadas, LANA-1 positivo",
+  "trap": "A",
+  "_n": 48
+ },
+ {
+  "erro": 45,
+  "statement": "Mulher de 29 anos, com HIV e abandono da terapia antirretroviral há um ano, procura atendimento por pápulas na face há três semanas. Há duas semanas tem febre e cefaleia holocraniana progressiva, sem vômitos. Exame: T 38,4 C, FC 100 bpm, PA 108 x 70 mmHg, Glasgow 15, sem rigidez de nuca, sem déficit focal; múltiplas pápulas cor da pele de 3 a 6 mm na face e no couro cabeludo, várias com umbilicação central, sem friabilidade nem sangramento. CD4 de 24 células/mm3. Tomografia de crânio sem lesões. O próximo passo é:",
+  "alternatives": [
+   {
+    "text": "doxiciclina empírica por três meses",
+    "feedback": "Errada. Angiomatose bacilar dá lesões vasculares, vermelhas e friáveis, e não pápulas umbilicadas cor da pele."
+   },
+   {
+    "text": "antígeno criptocócico e punção lombar",
+    "feedback": "Correta. Pápulas umbilicadas com febre e cefaleia em CD4 abaixo de 100 sugerem criptococose disseminada; o CrAg e a punção lombar com pressão de abertura definem meningite."
+   },
+   {
+    "text": "curetagem das lesões e observação",
+    "feedback": "Errada. Seria a conduta do molusco contagioso, que também é umbilicado no HIV, mas não explica febre e cefaleia."
+   },
+   {
+    "text": "biópsia de pele com pesquisa de HHV-8",
+    "feedback": "Errada. Kaposi forma máculas e placas violáceas, e não pápulas umbilicadas com quadro sistêmico."
+   }
+  ],
+  "correct": "B",
+  "tags": [
+   "Doenças Oportunistas no HIV (CM)",
+   "HIV/AIDS (CM)",
+   "Dermatologia (CM)"
+  ],
+  "level": "extremamente difícil",
+  "decider": "Há duas semanas tem febre e cefaleia holocraniana progressiva",
+  "trap": "C",
+  "_n": 49
+ },
+ {
+  "erro": 45,
+  "statement": "Homem de 38 anos, com HIV e CD4 de 70 células/mm3, teve diagnóstico por biópsia de angiomatose bacilar cutânea há dois meses e recebeu doxiciclina por 14 dias, com desaparecimento das lesões. Iniciou terapia antirretroviral na mesma época, com boa adesão. Há dez dias, as pápulas vinhosas e friáveis voltaram nos mesmos locais e em novos pontos do tronco, com febre baixa. Sem uso de outras medicações, sem alergias, função renal e hepática normais. Exame: T 37,9 C, 9 lesões de 0,5 a 1,5 cm, friáveis, sem visceromegalias. Carga viral caiu de 120.000 para 900 cópias/mL. A conduta é:",
+  "alternatives": [
+   {
+    "text": "trocar para vancomicina endovenosa",
+    "feedback": "Errada. Vancomicina não tem papel no tratamento da Bartonella, que é intracelular."
+   },
+   {
+    "text": "suspender a terapia antirretroviral",
+    "feedback": "Errada. Mesmo que houvesse síndrome inflamatória de reconstituição, a TARV se mantém; aqui o curso antibiótico curto explica a volta."
+   },
+   {
+    "text": "doxiciclina por no mínimo três meses",
+    "feedback": "Correta. Recidiva após curso curto é a regra na angiomatose bacilar; o tratamento é de pelo menos três meses, mantendo a TARV."
+   },
+   {
+    "text": "repetir azitromicina por 14 dias",
+    "feedback": "Errada. Macrolídeo é alternativa válida, mas por 14 dias repete o erro da duração que causou a recidiva."
+   }
+  ],
+  "correct": "C",
+  "tags": [
+   "Doenças Oportunistas no HIV (CM)",
+   "HIV/AIDS (CM)"
+  ],
+  "level": "extremamente difícil",
+  "decider": "recebeu doxiciclina por 14 dias, com desaparecimento das lesões",
+  "trap": "B",
+  "_n": 50
+ },
+ {
+  "erro": 46,
+  "statement": "Homem de 46 anos, natural de Angra dos Reis, sem etilismo, refere aumento do volume abdominal, febre vespertina, sudorese noturna e perda de 6 kg em dois meses. O irmão com quem divide o quarto tratou tuberculose pulmonar há seis meses. HIV negativo. Exame: T 37,9 C, FC 96 bpm, PA 118 x 74 mmHg, sem estigmas de hepatopatia, ascite moderada, abdome levemente doloroso e de consistência pastosa. Albumina sérica 3,2 g/dL. Líquido ascítico: aspecto citrino, albumina 2,6 g/dL, proteína total 4,4 g/dL, 1.400 células/mm3 com 88% de linfócitos, glicose 58 mg/dL, ADA 64 U/L, citologia oncológica negativa, Gram e baciloscopia negativos. Ultrassonografia com fígado e baço normais. A conduta é:",
+  "alternatives": [
+   {
+    "text": "laparotomia para citorredução",
+    "feedback": "Errada. Seria para carcinomatose de primário ovariano; a citologia é negativa e o quadro infeccioso, linfocítico e com ADA alto aponta outra causa."
+   },
+   {
+    "text": "espironolactona e furosemida",
+    "feedback": "Errada. Diurético é tratamento da ascite por hipertensão portal; aqui o GASA é 0,6, e a doença é peritoneal."
+   },
+   {
+    "text": "ceftriaxona e albumina",
+    "feedback": "Errada. Seria o tratamento da peritonite bacteriana espontânea, que tem predomínio de polimorfonucleares e ocorre em ascite de baixa proteína."
+   },
+   {
+    "text": "esquema RIPE",
+    "feedback": "Correta. GASA de 0,6, proteína alta, linfocitose e ADA acima de 39 U/L com contato domiciliar sustentam tuberculose peritoneal; baciloscopia do líquido é quase sempre negativa e não afasta."
+   }
+  ],
+  "correct": "D",
+  "tags": [
+   "Ascite, PBE e PBS (CM)",
+   "Tuberculose Extrapulmonar (CM)"
+  ],
+  "level": "difícil",
+  "decider": "ADA 64 U/L",
+  "trap": "C",
+  "_n": 51
+ },
+ {
+  "erro": 46,
+  "statement": "Homem de 59 anos, etilista de 120 g/dia há 30 anos, refere aumento do volume abdominal há dois meses. Nega febre, dor, emagrecimento e dispneia. Exame: PA 104 x 62 mmHg, FC 84 bpm, sem estase jugular, ascite volumosa, circulação colateral em flancos, baço palpável a 3 cm do rebordo. Albumina sérica 2,6 g/dL, plaquetas 82.000/mm3, INR 1,6. Paracentese diagnóstica: líquido citrino, albumina 0,9 g/dL, proteína total no líquido de 1,0 g/dL, 140 células/mm3 com 20% de polimorfonucleares, citologia negativa. Um achado adicional ao exame que corrobora a principal hipótese é:",
+  "alternatives": [
+   {
+    "text": "pulso paradoxal e sinal de Kussmaul",
+    "feedback": "Errada. Indicariam ascite cardíaca por pericardite constritiva, que também dá GASA alto, mas com proteína no líquido de 2,5 g/dL ou mais."
+   },
+   {
+    "text": "aranhas vasculares e eritema palmar",
+    "feedback": "Correta. GASA de 1,7 com proteína de 1,0 g/dL é hipertensão portal sinusoidal; estigmas de hepatopatia crônica corroboram cirrose."
+   },
+   {
+    "text": "nódulo umbilical endurecido",
+    "feedback": "Errada. O nódulo da Irmã Maria José sugere carcinomatose peritoneal, que cursa com GASA abaixo de 1,1."
+   },
+   {
+    "text": "edema periorbitário com urina espumosa",
+    "feedback": "Errada. Sugere síndrome nefrótica, que dá GASA baixo por hipoalbuminemia intensa."
+   }
+  ],
+  "correct": "B",
+  "tags": [
+   "Ascite, PBE e PBS (CM)",
+   "Cirrose e Complicações (CM)"
+  ],
+  "level": "difícil",
+  "decider": "proteína total no líquido de 1,0 g/dL",
+  "trap": "A",
+  "_n": 52
+ },
+ {
+  "erro": 46,
+  "statement": "Homem de 48 anos, etilista pesado, com três internações por pancreatite aguda nos últimos dois anos, refere aumento progressivo do volume abdominal há cinco semanas, com dor epigástrica leve e perda de 5 kg. Sem febre. Exame: PA 116 x 72 mmHg, FC 88 bpm, sem icterícia, sem telangiectasias, sem esplenomegalia, ascite volumosa. Albumina sérica 3,0 g/dL, plaquetas 240.000/mm3, INR 1,0. Tomografia: calcificações pancreáticas e pseudocisto de 4 cm em corpo. Líquido ascítico: aspecto turvo amarelado, albumina 2,1 g/dL, proteína total 3,9 g/dL, 600 células/mm3 com 60% de linfócitos, amilase no líquido de 2.800 U/L, citologia negativa. Além do suporte nutricional e de octreotida, a conduta é:",
+  "alternatives": [
+   {
+    "text": "pancreatografia para localizar a fístula",
+    "feedback": "Correta. Amilase muito alta no líquido com GASA de 0,9 é ascite pancreática por fístula ou ruptura do ducto; a CPRM ou CPRE localiza a lesão e permite prótese transpapilar."
+   },
+   {
+    "text": "derivação portossistêmica intra-hepática",
+    "feedback": "Errada. TIPS trata ascite refratária de hipertensão portal, com GASA de 1,1 ou mais; aqui o gradiente é baixo."
+   },
+   {
+    "text": "restrição de sódio e diurético",
+    "feedback": "Errada. Funciona na ascite por hipertensão portal; não fecha uma fístula pancreática."
+   },
+   {
+    "text": "biópsia peritoneal por laparoscopia",
+    "feedback": "Errada. Seria para suspeita de tuberculose ou carcinomatose sem diagnóstico; a amilase do líquido já define a causa."
+   }
+  ],
+  "correct": "A",
+  "tags": [
+   "Ascite, PBE e PBS (CM)",
+   "Pancreatite Crônica (CM)"
+  ],
+  "level": "média",
+  "decider": "amilase no líquido de 2.800 U/L",
+  "trap": "B",
+  "_n": 53
+ },
+ {
+  "erro": 46,
+  "statement": "Mulher de 42 anos, sem etilismo, refere edema progressivo de membros inferiores, face e abdome há dois meses, com urina espumosa. Nega febre, perda de peso ou sangramentos. Usa apenas losartana há 20 dias. Exame: PA 128 x 82 mmHg, FC 80 bpm, edema periorbitário, anasarca, ascite moderada, sem estigmas de hepatopatia, sem linfonodomegalias. Albumina sérica 1,5 g/dL, colesterol total 380 mg/dL, creatinina 0,9 mg/dL, proteinúria de 24 horas de 9,2 g. Anti-PLA2R positivo. Líquido ascítico: aspecto citrino, albumina 0,6 g/dL, proteína total 0,9 g/dL, 90 células/mm3, citologia negativa. A ascite é mais bem explicada por:",
+  "alternatives": [
+   {
+    "text": "hipertensão portal de origem sinusoidal",
+    "feedback": "Errada. Daria GASA de 1,1 ou mais; aqui o gradiente é 0,9 e não há estigma de hepatopatia."
+   },
+   {
+    "text": "carcinomatose peritoneal disseminada",
+    "feedback": "Errada. Também tem GASA baixo, mas com proteína do líquido alta e citologia positiva na maioria; aqui a proteína é 0,9 g/dL."
+   },
+   {
+    "text": "hipoalbuminemia da síndrome nefrótica",
+    "feedback": "Correta. GASA baixo com proteína do líquido baixa e proteinúria nefrótica: transudato por pressão oncótica reduzida, sem doença peritoneal."
+   },
+   {
+    "text": "tuberculose peritoneal paucibacilar",
+    "feedback": "Errada. Seria exsudato linfocítico com proteína alta e ADA elevado; o líquido aqui é pobre em células e em proteína."
+   }
+  ],
+  "correct": "C",
+  "tags": [
+   "Ascite, PBE e PBS (CM)",
+   "Síndrome Nefrótica (CM)"
+  ],
+  "level": "difícil",
+  "decider": "proteinúria de 24 horas de 9,2 g",
+  "trap": "B",
+  "_n": 54
+ },
+ {
+  "erro": 46,
+  "statement": "Homem de 63 anos, com cirrose por vírus C e ascite controlada com diurético, chega com dor abdominal difusa intensa há 24 horas e febre. Nega procedimentos recentes. Exame: T 38,6 C, FC 118 bpm, PA 98 x 60 mmHg, ascite moderada, abdome tenso e doloroso difusamente, com descompressão dolorosa. Creatinina 1,4 mg/dL. Líquido ascítico: turvo, 6.200 células/mm3 com 92% de polimorfonucleares, proteína total 2,8 g/dL, glicose 22 mg/dL, DHL de 640 U/L (DHL sérico de 220 U/L), Gram com bacilos gram-negativos, cocos gram-positivos e bacilos gram-positivos. A conduta é:",
+  "alternatives": [
+   {
+    "text": "esquema RIPE após biópsia peritoneal",
+    "feedback": "Errada. Tuberculose peritoneal dá predomínio linfocítico, e não 92% de polimorfonucleares com Gram polimicrobiano."
+   },
+   {
+    "text": "ceftriaxona e albumina, e nova paracentese em 48 horas",
+    "feedback": "Errada. Seria o tratamento da peritonite espontânea; proteína acima de 1 g/dL, glicose abaixo de 50 mg/dL, DHL acima do sérico e Gram polimicrobiano indicam perfuração."
+   },
+   {
+    "text": "albumina e terlipressina, sem antibiótico",
+    "feedback": "Errada. Trataria síndrome hepatorrenal, que só se considera depois de excluir infecção e com líquido sem infecção."
+   },
+   {
+    "text": "tomografia urgente e cobertura de anaeróbios",
+    "feedback": "Correta. Preenche critérios de Runyon para peritonite bacteriana secundária: cobertura ampliada com anaeróbios e imagem para achar a perfuração e indicar cirurgia."
+   }
+  ],
+  "correct": "D",
+  "tags": [
+   "Ascite, PBE e PBS (CM)",
+   "Infecções em Líquido Ascítico : Neutrascite, PBE e PBS (CM)"
+  ],
+  "level": "extremamente difícil",
+  "decider": "glicose 22 mg/dL, DHL de 640 U/L (DHL sérico de 220 U/L), Gram com bacilos gram-negativos, cocos gram-positivos e bacilos gram-positivos",
+  "trap": "B",
+  "_n": 55
+ },
+ {
+  "erro": 48,
+  "statement": "Homem de 71 anos, internado na UTI há nove dias após AVC hemorrágico, em ventilação mecânica desde a admissão. Há 40 dias recebeu cefepime por sete dias em outra internação. Hoje: febre de 38,7 C, secreção traqueal purulenta, novo infiltrado em lobo inferior direito, FiO2 subindo de 30% para 60%, PA 82 x 48 mmHg mesmo após 30 mL/kg de cristaloide, em início de noradrenalina, lactato de 4,2 mmol/L. A unidade não tem dados recentes de prevalência de MRSA nem perfil de sensibilidade de gram-negativos. Coletados aspirado traqueal e hemoculturas. O esquema empírico é:",
+  "alternatives": [
+   {
+    "text": "vancomicina, piperacilina-tazobactam e amicacina",
+    "feedback": "Correta. Pneumonia associada à ventilação com choque séptico e antibiótico IV nos últimos 90 dias: cobertura de MRSA e dois antipseudomonas de classes diferentes, descalonando com as culturas."
+   },
+   {
+    "text": "meropenem e polimixina B, poupando vancomicina",
+    "feedback": "Errada. Cobre gram-negativo multirresistente, mas deixa MRSA descoberto num paciente em choque com antibiótico IV prévio."
+   },
+   {
+    "text": "ceftriaxona e azitromicina",
+    "feedback": "Errada. É esquema de pneumonia comunitária grave; não cobre Pseudomonas nem MRSA."
+   },
+   {
+    "text": "piperacilina-tazobactam em monoterapia",
+    "feedback": "Errada. Seria adequada sem fatores de risco nem choque; aqui há choque, antibiótico IV recente e epidemiologia desconhecida."
+   }
+  ],
+  "correct": "A",
+  "tags": [
+   "Pneumonia (CM)",
+   "Infecções Nosocomiais (CM)",
+   "Pneumonia Associada à Ventilação Mecânica (PAV)"
+  ],
+  "level": "difícil",
+  "decider": "Há 40 dias recebeu cefepime por sete dias em outra internação",
+  "trap": "D",
+  "_n": 56
+ },
+ {
+  "erro": 48,
+  "statement": "Mulher de 66 anos, hipertensa, sem internações ou uso de antibiótico no último ano, foi admitida na UTI há 18 horas vinda de casa, onde tinha tosse produtiva, febre e dispneia há três dias. Na chegada: FR 32 irpm, PA 86 x 50 mmHg, confusão mental, ureia 58 mg/dL, consolidação em lobo inferior esquerdo, necessitando de noradrenalina. Hoje, ainda sem antibiótico por falha de prescrição, segue febril e em máscara com reservatório, sem intubação. Sem dispositivos além de acesso venoso central inserido na admissão. A unidade tem baixa prevalência de MRSA e de gram-negativos resistentes. O esquema empírico é:",
+  "alternatives": [
+   {
+    "text": "piperacilina-tazobactam e vancomicina",
+    "feedback": "Errada. Seria opção para pneumonia hospitalar com fator de risco para MRSA; esta pneumonia começou antes da internação."
+   },
+   {
+    "text": "meropenem isolado",
+    "feedback": "Errada. Carbapenêmico reservado a risco de gram-negativo produtor de ESBL; sem antibiótico ou internação prévia, não há indicação."
+   },
+   {
+    "text": "piperacilina-tazobactam isolada",
+    "feedback": "Errada. É a monoterapia da pneumonia hospitalar sem fatores de risco; deixa sem cobertura os atípicos de uma pneumonia comunitária grave."
+   },
+   {
+    "text": "ceftriaxona e azitromicina",
+    "feedback": "Correta. Os sintomas começaram em casa três dias antes, logo é pneumonia comunitária grave, e o macrolídeo associado ao betalactâmico cobre atípicos e reduz mortalidade."
+   }
+  ],
+  "correct": "D",
+  "tags": [
+   "Pneumonia (CM)",
+   "Infecções Nosocomiais (CM)",
+   "Pneumonia Adquirida na Comunidade PAC (CM)"
+  ],
+  "level": "difícil",
+  "decider": "vinda de casa, onde tinha tosse produtiva, febre e dispneia há três dias",
+  "trap": "C",
+  "_n": 57
+ },
+ {
+  "erro": 48,
+  "statement": "Homem de 58 anos, internado há seis dias em enfermaria para tratamento de celulite de membro inferior com cefazolina, em melhora, sem uso de antibiótico antes desta internação. Hoje apresenta febre de 38,5 C, tosse com expectoração purulenta e infiltrado novo em lobo superior direito. FR 22 irpm, SpO2 93% em ar ambiente, PA 128 x 76 mmHg, sem choque nem necessidade de ventilação. Swab nasal de vigilância coletado na admissão positivo para MRSA. Na enfermaria, 35% dos Staphylococcus aureus isolados são resistentes à oxacilina, e menos de 10% dos gram-negativos são resistentes a piperacilina-tazobactam. O esquema empírico é:",
+  "alternatives": [
+   {
+    "text": "piperacilina-tazobactam isolada",
+    "feedback": "Errada. Bastaria sem fator de risco para MRSA, como no hospital de baixa prevalência; aqui há colonização e prevalência local acima de 20%."
+   },
+   {
+    "text": "meropenem e polimixina B",
+    "feedback": "Errada. Seria para gram-negativo resistente a carbapenêmico; a resistência local de gram-negativos é baixa e MRSA ficaria descoberto."
+   },
+   {
+    "text": "piperacilina-tazobactam e vancomicina",
+    "feedback": "Correta. Pneumonia hospitalar sem choque, com prevalência local de MRSA acima de 20% e swab positivo: cobre MRSA e usa um único antipseudomonas."
+   },
+   {
+    "text": "vancomicina, piperacilina-tazobactam e amicacina",
+    "feedback": "Errada. Dois antipseudomonas só com alto risco de mortalidade ou antibiótico IV prévio, e cefazolina na própria internação não muda o risco de Pseudomonas resistente."
+   }
+  ],
+  "correct": "C",
+  "tags": [
+   "Pneumonia (CM)",
+   "Infecções Nosocomiais (CM)",
+   "Antibióticos: Antibiogramas e Resistência Bacteriana (CM)"
+  ],
+  "level": "extremamente difícil",
+  "decider": "35% dos Staphylococcus aureus isolados são resistentes à oxacilina",
+  "trap": "D",
+  "_n": 58
+ },
+ {
+  "erro": 48,
+  "statement": "Mulher de 52 anos, na UTI há 14 dias após cirurgia de cólon, em ventilação mecânica, recebeu meropenem por oito dias para infecção intra-abdominal, encerrado há cinco dias. Hoje tem febre de 38,9 C, secreção traqueal purulenta, novo infiltrado bilateral e PA 88 x 52 mmHg com noradrenalina. Swab retal de vigilância da semana passada positivo para Klebsiella pneumoniae produtora de KPC; swab nasal negativo para MRSA, e a prevalência de MRSA na UTI é inferior a 10%. Gram do aspirado traqueal: apenas bacilos gram-negativos. A unidade tem surto de KPC, sem casos de metalobetalactamase. Função renal normal. O esquema empírico é:",
+  "alternatives": [
+   {
+    "text": "ceftazidima-avibactam",
+    "feedback": "Correta. Colonização por KPC, carbapenêmico recente e surto local: ceftazidima-avibactam cobre KPC; se fosse metalobetalactamase, precisaria de aztreonam associado."
+   },
+   {
+    "text": "ertapenem e amicacina",
+    "feedback": "Errada. Ertapenem não cobre Pseudomonas nem KPC; aminoglicosídeo isolado tem baixa penetração pulmonar."
+   },
+   {
+    "text": "piperacilina-tazobactam e vancomicina",
+    "feedback": "Errada. Não cobre KPC, e a vancomicina não se justifica com swab negativo, Gram só de gram-negativos e MRSA abaixo de 10%."
+   },
+   {
+    "text": "meropenem em infusão estendida",
+    "feedback": "Errada. Seria opção para ESBL; a KPC hidrolisa carbapenêmicos e a falha é provável."
+   }
+  ],
+  "correct": "A",
+  "tags": [
+   "Pneumonia (CM)",
+   "Infecções Nosocomiais (CM)",
+   "Pneumonia Associada à Ventilação Mecânica (PAV)",
+   "Antibióticos: Antibiogramas e Resistência Bacteriana (CM)"
+  ],
+  "level": "extremamente difícil",
+  "decider": "Swab retal de vigilância da semana passada positivo para Klebsiella pneumoniae produtora de KPC",
+  "trap": "D",
+  "_n": 59
+ },
+ {
+  "erro": 48,
+  "statement": "Homem de 64 anos, em ventilação mecânica por pneumonia associada à ventilação diagnosticada há cinco dias, com aspirado traqueal quantitativo positivo para Pseudomonas aeruginosa sensível a cefepime, em uso de cefepime desde o primeiro dia após descalonamento. No quinto dia está afebril há 72 horas, com secreção reduzida, FiO2 de 30%, PEEP 5 cmH2O, sem vasopressor, leucócitos de 9.800/mm3 e procalcitonina caindo de 4,1 para 0,6 ng/mL. Radiografia ainda mostra o infiltrado, sem derrame ou cavitação. Sem imunossupressão. A duração total do antibiótico deve ser de:",
+  "alternatives": [
+   {
+    "text": "21 dias, por se tratar de germe não fermentador",
+    "feedback": "Errada. Durações longas não trouxeram benefício; ficam para abscesso, empiema ou complicação."
+   },
+   {
+    "text": "7 dias",
+    "feedback": "Correta. Pela diretriz IDSA/ATS, pneumonia hospitalar e associada à ventilação com boa resposta se tratam por 7 dias, inclusive por Pseudomonas."
+   },
+   {
+    "text": "14 dias, por se tratar de germe não fermentador",
+    "feedback": "Errada. A antiga recomendação de estender para não fermentadores foi abandonada; prolongar só aumenta resistência sem reduzir mortalidade."
+   },
+   {
+    "text": "até a resolução do infiltrado na radiografia",
+    "feedback": "Errada. A imagem demora semanas a normalizar e não guia a duração; o critério é clínico."
+   }
+  ],
+  "correct": "B",
+  "tags": [
+   "Pneumonia (CM)",
+   "Infecções Nosocomiais (CM)",
+   "Pneumonia Associada à Ventilação Mecânica (PAV)"
+  ],
+  "level": "média",
+  "decider": "Pseudomonas aeruginosa sensível a cefepime",
+  "trap": "C",
+  "_n": 60
+ }
+]
